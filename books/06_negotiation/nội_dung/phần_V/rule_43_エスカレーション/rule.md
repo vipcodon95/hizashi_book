@@ -20,7 +20,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 | Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby> down ません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 <br/>*Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
+| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby>が<ruby>下<rt>お</rt></ruby>りません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 <br/>*Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
 | **ズン** | 「えっと…<ruby>無制限<rt>むせいげん</rt></ruby>ですか…<ruby>承知<rt>しょうち</rt></ruby>いたしました、それで<ruby>進<rt>すす</rt></ruby>めます…」 <br/>*Ờ thì... unlimited ạ... em rõ rồi ạ, em đi tiếp như vậy ạ...* |
 | (1 <ruby>時間後<rt>じかんご</rt></ruby> Slack <ruby>報告<rt>ほうこく</rt></ruby>) **ズン** | 「Hà CTO、Phase 4 indemnity <ruby>無制限<rt>むせいげん</rt></ruby>で<ruby>合意<rt>ごうい</rt></ruby>しました。」 <br/>*Anh Hà CTO, Phase 4 em đã thống nhất indemnity unlimited rồi ạ.* |
 | **ハー CTO** | 「**<ruby>何故<rt>なぜ</rt></ruby> escalate しなかった？<ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える。<ruby>今<rt>いま</rt></ruby>すぐ<ruby>撤回<rt>てっかい</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>**。<ruby>社長<rt>しゃちょう</rt></ruby> escalate も<ruby>必要<rt>ひつよう</rt></ruby>。」 <br/>*Sao em không escalate? Vượt quy định cap HĐQT. Bây giờ phải renegotiate rút lại ngay. Có khi phải escalate cả Tổng Giám đốc.* |
@@ -35,7 +35,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 | Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby> down ません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 <br/>*Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
+| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby>が<ruby>下<rt>お</rt></ruby>りません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 <br/>*Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
 | **ズン** | 「ご<ruby>要望<rt>ようぼう</rt></ruby><ruby>承知<rt>しょうち</rt></ruby>しました。」 <br/>*Em ghi nhận yêu cầu của anh ạ.* |
 | **ズン** | 「**indemnity <ruby>無制限<rt>むせいげん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わるため、<ruby>私<rt>わたし</rt></ruby>の<ruby>権限<rt>けんげん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えます**【1】。**5 <ruby>分<rt>ふん</rt></ruby>ほどお<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>し、Hà CTO に<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせてください**【2】。」 <br/>*Quyết định về indemnity unlimited liên quan đến quy định cap HĐQT bên em, vượt thẩm quyền của em ạ. Phiền anh cho em 5 phút để liên lạc anh Hà CTO ạ.* |
 | **中村CFO** | 「<ruby>分<rt>わ</rt></ruby>かりました。5 <ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ちます。」 <br/>*Hiểu rồi. Anh đợi 5 phút.* |

@@ -43,7 +43,7 @@
 > 2. コネクションプール70%<ruby>閾値<rt>しきいち</rt></ruby>でのアラート<ruby>設定<rt>せってい</rt></ruby>。
 > 3. セキュリティ・パフォーマンス<ruby>月次<rt>げつじ</rt></ruby>レポートの<ruby>送付<rt>そうふ</rt></ruby>。
 >
-> <ruby>本件<rt>ほんけん</rt></ruby>の<ruby>責任<rt>せきにん</rt></ruby>は全て<ruby>当方<rt>とうほう</rt></ruby>にございます。<ruby>直接<rt>ちょくせつ</rt></ruby>ご<ruby>説明<rt>せつめい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>でしたら、<ruby>貴社<rt>きしゃ</rt></ruby>に<ruby>お伺<rt>おうかが</rt></ruby>いいたします。
+> <ruby>本件<rt>ほんけん</rt></ruby>の<ruby>責任<rt>せきにん</rt></ruby>は全て<ruby>当方<rt>とうほう</rt></ruby>にございます。<ruby>直接<rt>ちょくせつ</rt></ruby>ご<ruby>説明<rt>せつめい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>でしたら、<ruby>貴社<rt>きしゃ</rt></ruby>に<ruby>伺<rt>うかが</rt></ruby>います。
 >
 > <ruby>重<rt>かさ</rt></ruby>ねて、<ruby>深<rt>ふか</rt></ruby>く<ruby>お詫<rt>おわ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
 > ズン」

@@ -44,7 +44,8 @@ Ngày 3 công tác Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tu
 | **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby>はご<ruby>馳走<rt>ちそう</rt></ruby>になりました。<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」【4】 <br/>*Hôm nay em đã được tiếp đãi, em xin chân thành cảm ơn ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**Đảo ngược "mình tự rót cho mình" kiểu VN**. Kiểu Nhật = chăm sóc lẫn nhau: rót cho đối phương → đối phương rót lại cho mình. Đó là nhịp相互ケア.
+- 【1】**Đảo ngược "mình tự rót cho mình"**. Nhịp ở bàn tiệc Nhật là chăm sóc lẫn nhau: rót cho đối phương → đối phương rót lại cho mình (相互ケア).
+  ⚠️ **Nhịp này không buộc bạn phải uống.** Nếu không uống được, vẫn giữ đúng nhịp bằng cách **rót cho đối phương** rồi để ly mình là ノンアル: 「お注ぎします。私はソフトドリンクで失礼します」. Cơ địa không dung nạp cồn thì nói thẳng 「お酒は飲めない体質でして」 — người Nhật hiểu ngay (≈40% dân số thiếu men ALDH2) và sẽ không mời nữa. Ép bản thân uống để giữ nhịp là アルハラ ngược, không phải lễ phép.
 - 【2】**Giữ thể diện người mời** — kìm "để em trả" kiểu VN, để người mời trả theo kiểu Nhật. Thay vào đó **đề xuất lần sau mình mời lại** = đôi bên cùng vui.
 - 【3】**Đáp lễ ngay = tín hiệu "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = đáp lễ tự nhiên không tạo gánh nặng tâm lý.
 - 【4】**「ご馳走になりました」** — câu cố định lúc tạm biệt người mời. Sáng hôm sau gửi mail cảm ơn lần nữa = hoàn hảo.

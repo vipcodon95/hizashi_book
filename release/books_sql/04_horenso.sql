@@ -7,7 +7,7 @@
 BEGIN;
 
 -- 1) Curricula
-INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000005, NULL, 'markdown_book', 'BJT', 'Báo · Liên · Tham vấn', 'Bộ sách Hizashi — Báo · Liên · Tham vấn', 'Hizashi シリーズ — 報・連・相', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET type = EXCLUDED.type, title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, category = EXCLUDED.category, tenant_id = EXCLUDED.tenant_id, is_system = EXCLUDED.is_system, is_public = EXCLUDED.is_public, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, free_preview_count = EXCLUDED.free_preview_count, status = EXCLUDED.status, updated_at = NOW();
+INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000005, NULL, 'markdown_book', 'BJT', 'Báo · Liên · Tham vấn', 'Bộ sách Hizashi — Báo · Liên · Tham vấn', 'Hizashi シリーズ — 報・連・相', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, updated_at = NOW();
 
 -- 2) Curriculum nodes
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000001, 800000005, NULL, 'markdown_book', 'Rule 01 — 3 nguyên tắc báo cáo / 報告の3原則', '# Rule 01 — 3 nguyên tắc báo cáo / 報告の3原則
@@ -48,7 +48,7 @@ Chiều thứ Hai. Em Dũng vừa demo Phase 2 với khách Matsumoto xong, cầ
 | **ズン** | 「**<ruby>対応<rt>たいおう</rt></ruby>としては**、<ruby>明日<rt>あした</rt></ruby>トゥアンと<ruby>原因<rt>げんいん</rt></ruby><ruby>切<rt>き</rt></ruby>り<ruby>分<rt>わ</rt></ruby>けを<ruby>行<rt>おこな</rt></ruby>い、<ruby>対応<rt>たいおう</rt></ruby><ruby>方針<rt>ほうしん</rt></ruby>を<ruby>水曜<rt>すいよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にご<ruby>報告<rt>ほうこく</rt></ruby>いたします【3】。」 <br/>*Về cách xử lý, ngày mai em với anh Tuấn sẽ phân tách nguyên nhân, và em sẽ báo cáo phương án trong thứ Tư ạ.* |
 | **フオン** | 「分かりやすい<ruby>報告<rt>ほうこく</rt></ruby>ね。<ruby>水曜<rt>すいよう</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちます。」 <br/>*Báo cáo rõ ràng đấy. Chị đợi báo cáo thứ Tư nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「結論：〇〇」** — câu mở phải có 結論. Sếp nghe 1 câu là biết tình hình → tự quyết có nghe tiếp hay không.
 - 【2】**「事実として〜」「私見では〜」** — đánh dấu rõ thông tin sự thật (松本 nhận xét) và ý kiến cá nhân (Dũng giả thuyết). Doanh nghiệp Nhật **rất kỵ** nhập nhằng hai cái.
 - 【3】**「対応としては〜」** — đóng bằng bước tiếp theo + hạn chót + người phụ trách. Không bao giờ kết thúc báo cáo bằng "だけです" (chỉ vậy).
@@ -80,7 +80,7 @@ Chiều thứ Hai. Em Dũng vừa demo Phase 2 với khách Matsumoto xong, cầ
 | 経過 | けいか | KINH QUÁ | Quá trình / diễn biến |
 | タイムリー | タイムリー | — | Kịp thời |
 | 切り分け | きりわけ | THIẾT PHÂN | Phân tách (vấn đề) |
-| 対応方針 | たいおうほうしん | ĐỐI ỨNG PHƯƠNG CHÂM | Phương án xử lý |', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 対応方針 | たいおうほうしん | ĐỐI ỨNG PHƯƠNG CHÂM | Phương án xử lý |', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000002, 800000005, NULL, 'markdown_book', 'Rule 02 — Khuôn báo cáo tiến độ hằng ngày/hằng tuần / 進捗報告のフォーマット', '# Rule 02 — Khuôn báo cáo tiến độ hằng ngày/hằng tuần / 進捗報告のフォーマット
 > **Luận điểm.** Báo cáo tiến độ phải có khuôn cố định để sếp/khách lướt mắt là nắm: **Done / Doing / Blocked / Next**. Daily ngắn gọn 4-5 dòng, hằng tuần có thêm số liệu và risk. Không khuôn = mỗi ngày sếp phải hỏi lại "hôm qua làm gì, hôm nay làm gì".
 >
@@ -120,7 +120,7 @@ Sáng thứ Hai 9h. Em Dũng cần báo cáo tiến độ Phase 2 của tuần t
 | **ズン** | 「画面遷移スピードと、エラーメッセージの<ruby>日本語<rt>にほんご</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>の2件です。<ruby>両方<rt>りょうほう</rt></ruby>とも<ruby>今日中<rt>きょうじゅう</rt></ruby>に対応<ruby>見込<rt>みこ</rt></ruby>みです【3】。」 <br/>*Là tốc độ luồng chuyển màn và cách diễn đạt tiếng Nhật của thông báo lỗi ạ. Cả hai dự kiến xử trong hôm nay ạ.* |
 | **フオン** | 「OK、<ruby>進<rt>すす</rt></ruby>めてください。」 <br/>*OK, em làm tiếp đi.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「3/5 対応」** — định lượng tiến độ. Không viết "ほぼ完了" mơ hồ.
 - 【2】**「Next (今日)」** — daily thì Next chỉ trong ngày; weekly thì Next sẽ là tuần sau. Phải rõ phạm vi thời gian.
 - 【3】**「対応見込みです」** — nói hạn chót ước tính. Có hạn chót mới gọi là Next thực sự.
@@ -157,7 +157,7 @@ Xem phần Mẫu câu: **Họp đứng hằng ngày (Slack)** + **Báo cáo hằ
 | 見込み | みこみ | KIẾN | Dự kiến / triển vọng |
 | 指摘 | してき | CHỈ TRÍCH | Nhận xét / chỉ ra điểm cần sửa |
 | 同期 | どうき | ĐỒNG KỲ | Đồng bộ |
-| ブロック | ブロック | — | Vật cản tiến độ |', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| ブロック | ブロック | — | Vật cản tiến độ |', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000003, 800000005, NULL, 'markdown_book', 'Rule 03 — Cấu trúc báo cáo kết quả / 結果報告の組み立て (Goal→Result→Cause→Action)', '# Rule 03 — Cấu trúc báo cáo kết quả / 結果報告の組み立て (Goal→Result→Cause→Action)
 > **Luận điểm.** Báo cáo kết quả (sau khi xong việc / sự kiện) phải đi theo mạch **Goal → Result → Cause → Action**: nhắc mục tiêu, nói kết quả thực, phân tích nguyên nhân, đề xuất hành động tiếp. Thiếu Goal = không có thước đo. Thiếu Cause = không học được. Thiếu Action = báo cáo "vô nghĩa".
 >
@@ -194,7 +194,7 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 | **ズン** | 「**<ruby>今後<rt>こんご</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>**：3<ruby>件<rt>けん</rt></ruby>の<ruby>指摘<rt>してき</rt></ruby>は<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>に<ruby>修正<rt>しゅうせい</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>にPhase 3キックオフを<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>へ<ruby>提案<rt>ていあん</rt></ruby>いたします【4】。」 <br/>*Hành động tiếp theo: sửa 3 comment trong tuần này, thứ hai tuần sau em sẽ đề xuất kick-off Phase 3 với anh Matsumoto ạ.* |
 | **フオン** | 「Goalが<ruby>明確<rt>めいかく</rt></ruby>で<ruby>原因分析<rt>げんいんぶんせき</rt></ruby>も<ruby>筋<rt>すじ</rt></ruby>が<ruby>通<rt>とお</rt></ruby>ってる。Phase 3<ruby>提案<rt>ていあん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>もレビューしたいから、<ruby>金曜<rt>きんよう</rt></ruby>までに<ruby>案<rt>あん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてください。」 <br/>*Goal rõ và phân tích nguyên nhân cũng có lý. Đề xuất Phase 3 chị muốn xem lại nữa, em đưa bản nháp trước thứ Sáu nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「目標は〇〇でした」** — luôn nhắc lại Goal trước khi báo Result. Người nghe có thước đo để đánh giá.
 - 【2】**「致命的なものはございません」** — phân loại mức độ nghiêm trọng. Không phải comment nào cũng nặng như nhau.
 - 【3】**「事前に〜いただいた」** — Cause cụ thể, có thể lặp lại được. "たぶん準備が良かった" thì không phải Cause.
@@ -227,7 +227,7 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 | 仮承認 | かりしょうにん | GIẢ THỪA NHẬN | Phê duyệt sơ bộ |
 | 論点 | ろんてん | LUẬN ĐIỂM | Điểm tranh luận |
 | 細部 | さいぶ | TẾ BỘ | Chi tiết nhỏ |
-| キックオフ | キックオフ | — | Khởi động (dự án) |', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| キックオフ | キックオフ | — | Khởi động (dự án) |', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000004, 800000005, NULL, 'markdown_book', 'Rule 04 — Báo cáo trung gian / 中間報告 (mốc 25/50/75%)', '# Rule 04 — Báo cáo trung gian / 中間報告 (mốc 25/50/75%)
 > **Luận điểm.** Việc dài 1+ tuần phải có **báo cáo trung gian** ở mốc 25/50/75%. Đợi xong mới báo = "ngâm tin". Sếp không biết tiến độ thực = không can thiệp được khi sai hướng.
 >
@@ -268,7 +268,7 @@ Em Dũng được giao soạn 提案書 (đề xuất) Phase 3 cho khách. Hạn
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。**<ruby>次回<rt>じかい</rt></ruby><ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>（50%<ruby>地点<rt>ちてん</rt></ruby>）**に<ruby>予定<rt>よてい</rt></ruby>いたします【3】。」 <br/>*Em hiểu ạ. Báo cáo trung gian lần sau em đặt vào thứ Hai tuần sau (mốc 50%) ạ.* |
 | **トゥアン** | 「うん、これで<ruby>安心<rt>あんしん</rt></ruby>して<ruby>任<rt>まか</rt></ruby>せられる。」 <br/>*Ừ, thế này anh yên tâm giao việc.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「中間報告です」** — đặt nhãn rõ ràng. Sếp biết đây không phải báo cáo cuối.
 - 【2】**「確認いただきたい点」「15分ほど」** — nói rõ điều cần kiểm tra + thời gian sếp dành. Không "ぼんやりレビュー" (xem qua loa).
 - 【3】**「次回中間報告は〇〇」** — đặt lịch trước cho mốc tiếp theo. Sếp ghi vào lịch.
@@ -300,7 +300,7 @@ Em Dũng được giao soạn 提案書 (đề xuất) Phase 3 cho khách. Hạn
 | 軌道修正 | きどうしゅうせい | QUỸ ĐẠO TU CHÍNH | Điều chỉnh hướng đi |
 | 締め切り | しめきり | ĐẾ THIẾT | Hạn chót |
 | 提案書 | ていあんしょ | ĐỀ ÁN THƯ | Văn bản đề xuất |
-| 任せる | まかせる | NHẬM | Tin tưởng giao việc |', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 任せる | まかせる | NHẬM | Tin tưởng giao việc |', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000005, 800000005, NULL, 'markdown_book', 'Rule 05 — Báo cáo hoàn thành / 完了報告 (Output→Acceptance→Lessons)', '# Rule 05 — Báo cáo hoàn thành / 完了報告 (Output→Acceptance→Lessons)
 > **Luận điểm.** Báo cáo hoàn thành chuẩn Nhật phải có 3 phần: **Output** (đầu ra cụ thể), **Acceptance** (xác nhận khách/sếp đồng ý nghiệm thu), **Lessons** (bài học, để áp dụng lần sau). Bỏ Acceptance = "tự nhận xong nhưng khách chưa duyệt". Bỏ Lessons = lặp lại sai lầm.
 >
@@ -337,7 +337,7 @@ Phase 2 vừa kết thúc — em Dũng cần báo cáo hoàn thành cho chị H�
 | **フオン** | 「Acceptance まで取れて初めて完了。Lessons も<ruby>具体的<rt>ぐたいてき</rt></ruby>で良いね。Phase 3 の仕様確認手順は手順書に落として共有して。」 <br/>*Có Acceptance mới gọi là hoàn thành. Lessons cũng cụ thể, tốt. Quy trình xác nhận spec Phase 3 em đưa vào tài liệu hướng dẫn rồi share nhé.* |
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>に手順書を<ruby>作成<rt>さくせい</rt></ruby>し共有いたします。」 <br/>*Em hiểu ạ. Em sẽ làm tài liệu trong tuần này và chia sẻ ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「Output：〇〇」** — liệt kê deliverable cụ thể, đếm được. Không "色々作りました".
 - 【2】**「書面検収」「検収書のコピー」** — 検収 = nghiệm thu bằng văn bản. Phải có bằng chứng, không "口頭で OK もらった".
 - 【3】**「反省点として、〇〇」「Phase 3 では〇〇します」** — Lessons phải gồm bài học **+** hành động áp dụng lần sau. Chỉ liệt kê điểm nhìn lại mà không có hành động = báo cáo "rỗng".
@@ -375,7 +375,7 @@ Xem phần Mẫu câu: **完了報告書** với các mục Output / Acceptance 
 | 振り返り | ふりかえり | CHẤN PHẢN | Nhìn lại / tổng kết rút kinh nghiệm |
 | 工数 | こうすう | CÔNG SỐ | Khối lượng công (man-day) |
 | 手順書 | てじゅんしょ | THỦ THUẬN THƯ | Tài liệu hướng dẫn |
-| 着手前 | ちゃくしゅまえ | TRƯỚC THỦ TIỀN | Trước khi bắt đầu |', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 着手前 | ちゃくしゅまえ | TRƯỚC THỦ TIỀN | Trước khi bắt đầu |', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000006, 800000005, NULL, 'markdown_book', 'Rule 06 — Báo cáo có số liệu / 数字を使った報告', '# Rule 06 — Báo cáo có số liệu / 数字を使った報告
 > **Luận điểm.** Báo cáo Nhật công việc cực kỵ định tính mơ hồ. **Mọi báo cáo phải có ít nhất 1 con số**: KPI, % thay đổi, trước/sau, tốc độ, lỗi, v.v. "Tăng nhiều" → "tăng 23% so với tuần trước". Không có số = không thể quyết.
 >
@@ -411,7 +411,7 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 | **ズン** | 「**<ruby>回答者<rt>かいとうしゃ</rt></ruby>は12<ruby>名<rt>めい</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>10名**（<ruby>回答率<rt>かいとうりつ</rt></ruby>83%）です【3】。サンプル<ruby>数<rt>すう</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さい<ruby>点<rt>てん</rt></ruby>、<ruby>私見<rt>しけん</rt></ruby>では<ruby>今後<rt>こんご</rt></ruby>3ヶ<ruby>月<rt>げつ</rt></ruby>で30名<ruby>以上<rt>いじょう</rt></ruby>に<ruby>拡大<rt>かくだい</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。」 <br/>*Có 10/12 người trả lời (tỉ lệ 83%) ạ. Cỡ mẫu còn nhỏ, theo ý em, 3 tháng tới sẽ mở rộng lên trên 30 người ạ.* |
 | **ハーCTO** | 「数字の<ruby>根拠<rt>こんきょ</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>で良い。Phase 3 予算、<ruby>承認<rt>しょうにん</rt></ruby>します。」 <br/>*Cơ sở số liệu rõ ràng, tốt. Anh duyệt ngân sách Phase 3 nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「1.2秒 → 0.4秒（-67%）」** — before/after kèm % thay đổi. CTO lướt 1 giây hiểu tác động.
 - 【2】**「+12 から +38 へ」** — số tuyệt đối + mức chênh. Không "改善した" mơ hồ.
 - 【3】**「12名中10名（回答率83%）」** — nói rõ cỡ mẫu (số người tham gia). Số đẹp mà cỡ mẫu n=3 thì... vô nghĩa.
@@ -443,7 +443,7 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 | 改善 | かいぜん | CẢI THIỆN | Cải thiện |
 | 大幅 | おおはば | ĐẠI PHÚC | Đáng kể (mơ hồ — tránh) |
 | ダッシュボード | ダッシュボード | — | Bảng tổng hợp số liệu |
-| 根拠 | こんきょ | CĂN CỨ | Cơ sở / căn cứ |', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 根拠 | こんきょ | CĂN CỨ | Cơ sở / căn cứ |', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000007, 800000005, NULL, 'markdown_book', 'Rule 07 — Báo cáo tin xấu / 悪い知らせの報告 (Predict→Fact→Impact→Plan→Ask)', '# Rule 07 — Báo cáo tin xấu / 悪い知らせの報告 (Predict→Fact→Impact→Plan→Ask)
 > **Luận điểm.** Tin xấu là phép thử khắc nghiệt nhất của Hou-Ren-Sou. Báo trễ = mất tin cậy vĩnh viễn. Báo gấp + sai cấu trúc = sếp hoảng loạn. Cấu trúc chuẩn: **Predict → Fact → Impact → Plan → Ask**. Predict trước Fact để sếp định kỳ vọng. Plan trước Ask để chứng minh đã suy nghĩ.
 >
@@ -483,7 +483,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **トゥアン** | 「**Ask（<ruby>依頼<rt>いらい</rt></ruby>）**：<ruby>松本様<rt>まつもとさま</rt></ruby>への<ruby>第一報<rt>だいいっぽう</rt></ruby>を 23<ruby>時<rt>じ</rt></ruby>までに<ruby>私<rt>わたし</rt></ruby>から<ruby>入<rt>い</rt></ruby>れてもよろしいでしょうか。あるいはハーさんから<ruby>入<rt>い</rt></ruby>れる<ruby>選択肢<rt>せんたくし</rt></ruby>もあります【4】。」 <br/>*Ask (Em xin ý anh): em báo cáo đầu cho anh Matsumoto trước 23h được không ạ? Hoặc lựa chọn anh Hà báo cho anh ấy ạ.* |
 | **ハーCTO** | 「Predict から Plan まで30<ruby>秒<rt>びょう</rt></ruby>で<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>入<rt>はい</rt></ruby>った。<ruby>良<rt>よ</rt></ruby>い<ruby>報告<rt>ほうこく</rt></ruby>。<ruby>第一報<rt>だいいっぽう</rt></ruby>はあなたから<ruby>入<rt>い</rt></ruby>れてください。<ruby>私<rt>わたし</rt></ruby>は2<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>します。」 <br/>*Predict đến Plan đủ trong 30 giây. Báo cáo tốt. Báo đầu em làm đi. Anh sẽ phản hồi trong 2 giờ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「先にお伝えしますが、〇〇が発生しております」** — Predict mở đầu = sếp định khung tâm lý "đây là tin xấu". Tránh gây sốc.
 - 【2】**「Fact〜Impact」** — chia rõ 2 phần. Fact = chuyện gì xảy ra. Impact = ảnh hưởng cụ thể (số lượng / khách / tiền). Sếp cần Impact để quyết có báo lên cấp trên hay không.
 - 【3】**「Plan：(1)〜(2)〜(3)」** — 3 dòng việc cần làm kèm người phụ trách. Cho thấy đã suy nghĩ chứ không chỉ đùn.
@@ -522,7 +522,7 @@ Xem phần Mẫu câu: **悪い知らせ報告書** (báo cáo sự cố).
 | トランザクション | トランザクション | — | Giao dịch (CSDL) |
 | データ消失 | データしょうしつ | TIÊU THẤT | Mất dữ liệu |
 | 復旧 | ふっきゅう | PHỤC CỰU | Khôi phục |
-| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại / phản hồi lại |', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại / phản hồi lại |', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000008, 800000005, NULL, 'markdown_book', 'Rule 08 — Cách viết 報告書 / 報告書の書き方 (văn bản báo cáo công việc trang trọng)', '# Rule 08 — Cách viết 報告書 / 報告書の書き方 (văn bản báo cáo công việc trang trọng)
 > **Luận điểm.** 報告書 (báo cáo văn bản trang trọng) có cấu trúc cố định 7 phần: **件名 / 宛先 / 作成日 / 概要 / 詳細 / 結論 / 添付**. Đây là khuôn Nhật công việc 50 năm không thay đổi. Sai 1 phần = "không phải báo cáo", phải làm lại.
 >
@@ -564,7 +564,7 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 | **ズン** | 「ありがとうございます。Phase 3 でも<ruby>同<rt>おな</rt></ruby>じ<ruby>テンプレート<rt>てんぷれーと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。」 <br/>*Em cảm ơn anh. Phase 3 em sẽ dùng cùng mẫu ạ.* |
 | **トゥアン** | 「うん、<ruby>社内<rt>しゃない</rt></ruby><ruby>標準<rt>ひょうじゅん</rt></ruby>にしよう。リンに<ruby>共有<rt>きょうゆう</rt></ruby>して。」 <br/>*Ừ, mình lấy cái này làm chuẩn nội bộ. Em chia sẻ cho Linh nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「〇〇 完了報告書（〇月〇日〜〇月〇日）」** — 件名 phải có loại văn bản + phạm vi thời gian. Không 「〇〇について」.
 - 【2】**概要 (tóm tắt cho lãnh đạo)** = 3-5 dòng. Cấp quản lý lướt qua là nắm. 詳細 dành cho người trực tiếp triển khai.
 - 【3】**添付一覧** = liệt kê tên + version + ngày của từng file đính kèm. Tránh lẫn version về sau.
@@ -594,14 +594,14 @@ Xem phần Mẫu câu: **完了報告書 (trang trọng)**.
 |------|------|-------|-------|
 | 報告書 | ほうこくしょ | BÁO CÁO THƯ | Báo cáo văn bản |
 | 件名 | けんめい | KIỆN DANH | Tiêu đề |
-| 宛先 | あてさき | OẠN TIÊN | Người nhận |
+| 宛先 | あてさき | UYỂN TIÊN | Người nhận |
 | 作成日 | さくせいび | TÁC THÀNH NHẬT | Ngày lập |
 | 概要 | がいよう | KHÁI YẾU | Tổng quan / tóm tắt cho lãnh đạo |
 | 詳細 | しょうさい | TƯỜNG TẾ | Chi tiết |
 | 添付 | てんぷ | THIÊM PHÚ | Đính kèm |
 | 提言 | ていげん | ĐỀ NGÔN | Kiến nghị |
 | ドラフト | ドラフト | — | Bản nháp |
-| 社内標準 | しゃないひょうじゅん | XÃ NỘI TIÊU CHUẨN | Chuẩn nội bộ công ty |', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 社内標準 | しゃないひょうじゅん | XÃ NỘI TIÊU CHUẨN | Chuẩn nội bộ công ty |', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000009, 800000005, NULL, 'markdown_book', 'Rule 09 — Báo cáo miệng vs văn bản / 口頭報告 vs 書面報告', '# Rule 09 — Báo cáo miệng vs văn bản / 口頭報告 vs 書面報告
 > **Luận điểm.** Cùng 1 thông tin nhưng kênh sai = báo cáo sai. **Ma trận quyết định**: ngắn + khẩn → 口頭 (miệng/điện thoại). Dài + cần lưu vết → 書面 (mail/báo cáo). Quan trọng + nhạy cảm → **口頭 trước, 書面 sau** (kết hợp cả hai).
 >
@@ -641,7 +641,7 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 | **ズン** | (1 chủ đề duy nhất, có tiêu đề rõ) |
 | **フオン** | 「3つの<ruby>用件<rt>ようけん</rt></ruby>、3つの channel で分けてくれて<ruby>整理<rt>せいり</rt></ruby>しやすかった。<ruby>週次<rt>しゅうじ</rt></ruby>は OK、リスケも<ruby>承認<rt>しょうにん</rt></ruby>します。」 <br/>*3 việc, em chia 3 kênh nên chị dễ tổng hợp. Tiến độ tuần OK, dời lịch chị duyệt nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Gọi điện trước cho việc khẩn** — bug critical không gửi mail rồi đợi. Gọi điện → mail tiếp nối.
 - Một mail = một chủ đề. Tiêu đề rõ ràng, không "いろいろ".
 - Bug critical sau khi 口頭 phải có 書面 tiếp nối (tạo lưu vết kiểm toán).
@@ -684,7 +684,7 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 | センシティブ | センシティブ | — | Nhạy cảm |
 | フォローアップ | フォローアップ | — | Tiếp nối sau đó |
 | 第一報 | だいいっぽう | ĐỆ NHẤT BÁO | Báo cáo đầu tiên |
-| 監査証跡 | かんさしょうせき | GIÁM TRA CHỨNG TÍCH | Lưu vết kiểm toán |', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 監査証跡 | かんさしょうせき | GIÁM TRA CHỨNG TÍCH | Lưu vết kiểm toán |', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000010, 800000005, NULL, 'markdown_book', 'Rule 10 — Báo cáo trong 朝礼 / 朝礼での報告', '# Rule 10 — Báo cáo trong 朝礼 / 朝礼での報告
 > **Luận điểm.** 朝礼 (họp đầu giờ) Nhật business: mỗi người 30-60 giây. Vượt thời gian = làm chậm cả team. Cấu trúc tối giản: **「昨日 / 今日 / 困りごと」** — 3 dòng. Không kể chi tiết, chi tiết để 1-on-1 sau.
 >
@@ -706,7 +706,7 @@ Sáng thứ Hai 8:55 — 朝礼 nhóm Phase 2. Em Dũng đến lượt báo. L�
 | Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「次、ズン。」 <br/>*Tiếp theo, Dũng.* |
-| **ズン** | 「<ruby>昨日<rt>きのう</rt></ruby>は API の<ruby>リファクタ<rt>refactor</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めて、<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>単純<rt>たんじゅん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>ったんですが、〇〇のところで…ええと、それで<ruby>松本<rt>まつもと</rt></ruby>様からのコメントもあって…<ruby>今日<rt>きょう</rt></ruby>は…うーん、<ruby>続<rt>つづ</rt></ruby>きを…」 <br/>*Hôm qua em bắt đầu refactor API, đầu tiên em tưởng đơn giản nhưng đến chỗ 〇〇 thì... ờ rồi anh Matsumoto cũng có comment... hôm nay thì... ừm, em làm tiếp...* |
+| **ズン** | 「<ruby>昨日<rt>きのう</rt></ruby>は API のリファクタを<ruby>始<rt>はじ</rt></ruby>めて、<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>単純<rt>たんじゅん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>ったんですが、〇〇のところで…ええと、それで<ruby>松本<rt>まつもと</rt></ruby>様からのコメントもあって…<ruby>今日<rt>きょう</rt></ruby>は…うーん、<ruby>続<rt>つづ</rt></ruby>きを…」 <br/>*Hôm qua em bắt đầu refactor API, đầu tiên em tưởng đơn giản nhưng đến chỗ 〇〇 thì... ờ rồi anh Matsumoto cũng có comment... hôm nay thì... ừm, em làm tiếp...* |
 | **トゥアン** | 「ズン、<ruby>朝礼<rt>ちょうれい</rt></ruby>は **30秒**。<ruby>詳細<rt>しょうさい</rt></ruby>は10時に1-on-1 で<ruby>聞<rt>き</rt></ruby>く。今は3行で。」 <br/>*Dũng, chōrei là 30 giây. Chi tiết để 1-on-1 lúc 10h. Bây giờ 3 dòng thôi.* |
 | **ズン** | 「すみません…」 <br/>*Em xin lỗi ạ...* |
 
@@ -724,7 +724,7 @@ Sáng thứ Hai 8:55 — 朝礼 nhóm Phase 2. Em Dũng đến lượt báo. L�
 | **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、10時 5分 OK。次、リン。」 <br/>*OK, 10h 5 phút. Tiếp theo, Linh.* |
 | **リン** | 「**昨日**：マーケ<ruby>資料<rt>しりょう</rt></ruby> v3 <ruby>完成<rt>かんせい</rt></ruby>。**今日**：v3 をハイ<ruby>先輩<rt>せんぱい</rt></ruby>にレビュー<ruby>依頼<rt>いらい</rt></ruby>。**困りごと**：なし。」 <br/>*Hôm qua: tài liệu marketing v3 xong. Hôm nay: nhờ anh Hải xem lại v3. Việc khó: không có ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「困りごと」** = blocker hoặc tham vấn ngắn. Không kể tự nhiên — phải có. "なし" cũng OK, miễn có nói.
 - 30 giây = 80-100 chữ tiếng Nhật. Tính toán trước.
 - Ai cần thảo luận sâu → hẹn 1-on-1 sau 朝礼, không kéo cả team.
@@ -756,7 +756,7 @@ Sáng thứ Hai 8:55 — 朝礼 nhóm Phase 2. Em Dũng đến lượt báo. L�
 | リファクタ | リファクタ | — | Tái cấu trúc mã nguồn |
 | 解釈 | かいしゃく | GIẢI THÍCH | Cách hiểu / diễn giải |
 | 1-on-1 | わんおんわん | — | Họp riêng 1-đối-1 |
-| 流れ | ながれ | LƯU | Dòng chảy / nhịp |', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 流れ | ながれ | LƯU | Dòng chảy / nhịp |', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000011, 800000005, NULL, 'markdown_book', 'Rule 11 — Báo cáo cho khách hàng quan trọng / 重要顧客への報告', '# Rule 11 — Báo cáo cho khách hàng quan trọng / 重要顧客への報告
 > **Luận điểm.** Báo cáo cho khách Nhật quan trọng (PM, Giám đốc) phải có **3 lớp khác báo cáo nội bộ**: (1) giọng điệu trang trọng cao hơn 1 bậc, (2) **không dùng thuật ngữ kỹ thuật chưa giải thích**, (3) **bỏ chức danh đồng nghiệp Việt** (ウチ・ソト) — gọi "弊社のトゥアン" chứ không "トゥアンリーダー".
 >
@@ -791,20 +791,20 @@ Em Dũng báo cáo tình hình Phase 2 cho anh Matsumoto qua điện thoại (đ
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、お<ruby>時間頂戴<rt>じかんちょうだい</rt></ruby>し<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。Phase 2 <ruby>進捗<rt>しんちょく</rt></ruby>の **ご<ruby>報告<rt>ほうこく</rt></ruby>**でございます【1】。」 <br/>*Anh Matsumoto, em xin lỗi anh dành thời gian. Em xin báo cáo tiến độ Phase 2 ạ.* |
+| **ズン** | 「松本様、お<ruby>時間頂戴<rt>じかんちょうだい</rt></ruby>し<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。Phase 2 <ruby>進捗<rt>しんちょく</rt></ruby>の **ご<ruby>報告<rt>ほうこく</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます**【1】。」 <br/>*Anh Matsumoto, em xin lỗi anh dành thời gian. Em xin báo cáo tiến độ Phase 2 ạ.* |
 | **ズン** | 「**<ruby>結論<rt>けつろん</rt></ruby>**：<ruby>予定通<rt>よていどお</rt></ruby>り進捗、<ruby>画面<rt>がめん</rt></ruby>ロードは1.2秒から0.4秒まで<ruby>改善<rt>かいぜん</rt></ruby>。**<ruby>弊社<rt>へいしゃ</rt></ruby>のトゥアン**【2】が<ruby>技術検証<rt>ぎじゅつけんしょう</rt></ruby>を<ruby>完了<rt>かんりょう</rt></ruby>し、<ruby>自動<rt>じどう</rt></ruby>テストの<ruby>仕組<rt>しく</rt></ruby>み(CI/CD)も<ruby>整<rt>ととの</rt></ruby>いました【3】。」 <br/>*Kết luận: tiến độ đúng kế hoạch, load màn hình cải thiện từ 1.2s xuống 0.4s. Anh Tuấn bên em đã hoàn thành kiểm chứng kỹ thuật, cơ chế tự động test (CI/CD) cũng đã sẵn sàng ạ.* |
 | **ズン** | 「**ご<ruby>相談<rt>そうだん</rt></ruby>**：Phase 3 のキックオフを5月7日に<ruby>予定<rt>よてい</rt></ruby>しております。アジェンダ<ruby>案<rt>あん</rt></ruby>を<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にメールでお<ruby>送<rt>おく</rt></ruby>りしてよろしいでしょうか。」 <br/>*Em xin tham vấn: kick-off Phase 3 dự kiến ngày 7/5 ạ. Em gửi anh bản nháp chương trình qua mail trong hôm nay được không ạ?* |
 | **松本PM** | 「分かりやすい報告ありがとうございます。アジェンダ、お<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*Cảm ơn báo cáo dễ hiểu nhé. Tôi sẽ đợi chương trình họp.* |
 
- **Ghi chú:**
-- 【1】**「ご報告でございます」** — cao hơn 「共有します」 1 bậc. Khách Nhật quan trọng dùng mức này.
+📝 **Ghi chú:**
+- 【1】**「ご報告申し上げます」** — cao hơn 「共有します」 1 bậc. Khách Nhật quan trọng dùng mức này.
 - 【2】**「弊社のトゥアン」** — bỏ chức danh nội bộ (リーダー). Đồng nghiệp Việt khi nói với khách = ウチ → không kèm chức danh.
 - 【3】**「自動テストの仕組み(CI/CD)」** — giải thích tiếng Nhật trước, thuật ngữ kỹ thuật để trong ngoặc. Khách bận, không phải dân kỹ thuật.
 
 ---
 
 ## Cụm từ mẫu
-> **「ご報告でございます。弊社の〇〇 が〜。〇〇の仕組み(thuật ngữ)を導入。」**
+> **「ご報告申し上げます。弊社の〇〇 が〜。〇〇の仕組み(thuật ngữ)を導入。」**
 >
 > *Mức trang trọng + ウチ・ソト + thuật ngữ kỹ thuật có giải thích = chuẩn báo khách.*
 
@@ -828,7 +828,7 @@ Em Dũng báo cáo tình hình Phase 2 cho anh Matsumoto qua điện thoại (đ
 | 仕組み | しくみ | TỔ | Cơ chế / hệ thống |
 | 技術検証 | ぎじゅつけんしょう | KỸ THUẬT KIỂM CHỨNG | Kiểm chứng kỹ thuật |
 | ジャーゴン | ジャーゴン | — | Thuật ngữ chuyên ngành |
-| 進捗 | しんちょく | TIẾN TIỆP | Tiến độ |', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 進捗 | しんちょく | TIẾN TIỆP | Tiến độ |', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000012, 800000005, NULL, 'markdown_book', 'Rule 12 — Danh sách kiểm tra phòng ngừa thiếu báo cáo / 報告漏れ防止', '# Rule 12 — Danh sách kiểm tra phòng ngừa thiếu báo cáo / 報告漏れ防止
 > **Luận điểm.** Báo cáo thiếu (報告漏れ) là vấn đề kinh điển của đội offshore VN-JP. Cách chữa: **danh sách kiểm tra 10 mục** chạy mỗi cuối ngày + cuối tuần. Không dựa vào trí nhớ — dựa vào danh sách kiểm tra.
 >
@@ -866,7 +866,7 @@ Em Dũng bị chị Hương phản hồi: "tuần này anh Matsumoto hỏi 3 l�
 | **ズン** | 「**約束した<ruby>期日<rt>きじつ</rt></ruby>**：5件すべて期日内完了。**<ruby>口頭<rt>こうとう</rt></ruby>でOKもらった<ruby>事項<rt>じこう</rt></ruby>**：3件、すべて<ruby>書面化済<rt>しょめんかず</rt></ruby>【3】。」 <br/>*Hạn đã hứa: 5 cái xong đúng hạn. Việc được OK bằng miệng: 3 cái, đã chuyển thành văn bản hết ạ.* |
 | **フオン** | 「<ruby>素晴<rt>すば</rt></ruby>らしい。1件未返信を<ruby>可視化<rt>かしか</rt></ruby>できる時点で<ruby>報告漏<rt>ほうこくも</rt></ruby>れ<ruby>予防<rt>よぼう</rt></ruby>になってる。<ruby>来週<rt>らいしゅう</rt></ruby>もこの形で。」 <br/>*Tuyệt. Trực quan hóa được 1 cái chưa reply nghĩa là đã ngăn được báo cáo sót rồi. Tuần sau cứ theo mẫu này.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「報告漏れチェック完了」** — gọi tên nó là 1 task. Không "ngầm hiểu".
 - 【2】**「未返信1件」** — quan trọng là show con số xấu. 0 件 đáng nghi (chắc chắn sót đâu đó).
 - 【3】**「口頭でOK→書面化」** — cam kết bằng miệng phải chuyển sang văn bản, nếu không sẽ bay theo trí nhớ.
@@ -901,7 +901,7 @@ Xem phần Mẫu câu: **報告漏れ防止 — Danh sách kiểm tra 10 mục**
 | 可視化 | かしか | KHẢ THỊ HOÁ | Trực quan hóa |
 | セルフチェック | セルフチェック | — | Tự kiểm |
 | 書面化 | しょめんか | THƯ DIỆN HOÁ | Đưa thành văn bản |
-| 約束 | やくそく | ƯỚC THÚC | Lời hứa / cam kết |', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 約束 | やくそく | ƯỚC THÚC | Lời hứa / cam kết |', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000013, 800000005, NULL, 'markdown_book', 'Rule 13 — Nguyên tắc liên lạc tức thì / 連絡の即時性原則', '# Rule 13 — Nguyên tắc liên lạc tức thì / 連絡の即時性原則
 > **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Thông tin trễ bằng thông tin sai"**. Trong Hou-Ren-Sou, 連絡 (chia sẻ thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → chia sẻ trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
 >
@@ -940,7 +940,7 @@ Anh Matsumoto báo Dũng (qua điện thoại) thay đổi yêu cầu Phase 3 �
 | **ズン** | 「**詳細<ruby>議事録<rt>ぎじろく</rt></ruby>は 10:45 までに共有**します【3】。」 <br/>*Biên bản chi tiết em chia sẻ trước 10:45 ạ.* |
 | **トゥアン** | 「OK、<ruby>待<rt>ま</rt></ruby>ちます。」 <br/>*OK, anh đợi.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「緊急共有」** — gắn nhãn. Đồng nghiệp biết mức ưu tiên cao, ngừng việc đang làm.
 - 【2】**「保留してください」** — không chỉ chia sẻ mà nói rõ **hành động cần làm ngay**. "保留 (tạm dừng)" tránh làm việc lãng phí.
 - 【3】**「10:45 までに共有」** — nêu rõ bước tiếp theo + hạn chót. Tránh đồng nghiệp hỏi "詳細は?".
@@ -983,9 +983,9 @@ Bạn nhận thông tin có ảnh hưởng team/khách:
 | 保留 | ほりゅう | BẢO LƯU | Tạm dừng |
 | 寝かせる | ねかせる | TẨM | Ngâm tin (tiêu cực) |
 | 価値 | かち | GIÁ TRỊ | Giá trị |
-| 続行 | ぞっこう | TỤC HÀNH | Tiếp tục (việc) |', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 続行 | ぞっこう | TỤC HÀNH | Tiếp tục (việc) |', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000014, 800000005, NULL, 'markdown_book', 'Rule 14 — Cấu trúc liên lạc toàn nhóm / 全員に届く連絡', '# Rule 14 — Cấu trúc liên lạc toàn nhóm / 全員に届く連絡
-> **Luận điểm.** Khi gửi thông tin cho cả team (thông báo đại trà), người Việt thường mặc định "ai cũng đọc hết". Sai. Thực tế: 30% chỉ lướt tiêu đề, 50% đọc 3 dòng đầu, 20% đọc kỹ. Cấu trúc: **Tóm tắt ngắn (1-2 dòng) → Chi tiết → Việc cần làm rõ ràng cho từng vai trò**.
+> **Luận điểm.** Khi gửi thông tin cho cả team (thông báo đại trà), người gửi hay mặc định "ai cũng đọc hết". Sai. Thực tế: 30% chỉ lướt tiêu đề, 50% đọc 3 dòng đầu, 20% đọc kỹ. Cấu trúc: **Tóm tắt ngắn (1-2 dòng) → Chi tiết → Việc cần làm rõ ràng cho từng vai trò**.
 >
 > 全員向けの連絡は **概要 → Chi tiết → Việc cần làm theo người phụ trách** で構成。subject line だけ読む人、最初3行だけ読む人を想定する。
 >
@@ -1022,7 +1022,7 @@ Sau họp với khách, em Dũng cần thông báo 5 quyết định quan trọn
 | **トゥアン** | 「私の担当3件、<ruby>了解<rt>りょうかい</rt></ruby>。<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>は (1)→(3) で<ruby>進<rt>すす</rt></ruby>めます。」 <br/>*3 việc của anh OK. Anh làm theo thứ tự (1) → (3).* |
 | **ズン** | 「了解。**4/24 <ruby>朝礼<rt>ちょうれい</rt></ruby>で<ruby>進捗確認<rt>しんちょくかくにん</rt></ruby>**します。」 <br/>*OK ạ. Em sẽ xác nhận tiến độ trong buổi họp sáng (朝礼) 24/4 ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - Dòng tiêu đề đã có 「決定事項5件」 — người chưa mở mail cũng nắm được mức ưu tiên.
 - Tóm tắt ngắn (3 dòng đầu): tóm 5 quyết định.
 - Việc cần làm chia theo **người phụ trách** với hạn chót rõ — không chia theo chủ đề.
@@ -1081,7 +1081,7 @@ Tiêu đề: 【〇〇〇】〇〇 - 〇〇 (nhãn rõ ràng)
 | 優先順位 | ゆうせんじゅんい | ƯU TIÊN THUẬN VỊ | Thứ tự ưu tiên |
 | 進捗確認 | しんちょくかくにん | TIẾN TIỆP XÁC NHẬN | Xác nhận tiến độ |
 | 抜き出す | ぬきだす | BẠT | Trích ra |
-| 構造 | こうぞう | CẤU TẠO | Cấu trúc |', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 構造 | こうぞう | CẤU TẠO | Cấu trúc |', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000015, 800000005, NULL, 'markdown_book', 'Rule 15 — Chọn kênh: chat / mail / phone / チャネル選択', '# Rule 15 — Chọn kênh: chat / mail / phone / チャネル選択
 > **Luận điểm.** Cùng 1 nội dung, kênh sai = liên lạc thất bại. **Ma trận quyết định 2 chiều: mức khẩn × số người nhận**. Khẩn + 1 người → phone. Khẩn + cả team → Slack @here. Chi tiết + 1 người → mail. Tài liệu tra cứu dài hạn → Notion/Confluence.
 >
@@ -1111,13 +1111,13 @@ Em Linh (nhân viên mới, vừa vào nhóm) lần đầu cần chọn kênh li
 ## Hội thoại TỐT — ma trận quyết định
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「リンちゃん、**<ruby>マトリクス<rt>matorikusu</rt></ruby>** を覚えて【1】。」 <br/>*Linh, học bảng ma trận nhé.* |
+| **ズン** | 「リンちゃん、**マトリクス** を覚えて【1】。」 <br/>*Linh, học bảng ma trận nhé.* |
 | **ズン** | 「**緊急 × 1人** → 電話。**緊急 × チーム** → Slack @here または @channel。**<ruby>通常<rt>つうじょう</rt></ruby> × 1人** → メールまたは Slack DM。**通常 × チーム** → Slack #channel または<ruby>定例<rt>ていれい</rt></ruby>。**<ruby>長期参照<rt>ちょうきさんしょう</rt></ruby> × <ruby>全員<rt>ぜんいん</rt></ruby>** → Notion/Confluence【2】。」 <br/>*Khẩn x 1 người → điện thoại. Khẩn x team → Slack @here hoặc @channel. Thường x 1 người → mail hoặc Slack DM. Thường x team → Slack #channel hoặc họp định kỳ. Tham khảo dài hạn x cả nhà → Notion/Confluence.* |
 | **リン** | 「なるほど。バグは緊急 × チームだから @channel ですね。」 <br/>*À hiểu rồi. Bug là khẩn x team nên @channel ạ.* |
 | **ズン** | 「<ruby>正解<rt>せいかい</rt></ruby>。**ただし critical bug は電話で<ruby>第一報<rt>だいいっぽう</rt></ruby>、Slack でフォロー** — <ruby>二重<rt>にじゅう</rt></ruby>に【3】。」 <br/>*Đúng rồi. Nhưng critical bug thì điện thoại báo đầu, Slack follow — 2 lớp.* |
 | **リン** | 「2<ruby>層<rt>そう</rt></ruby>に。覚えました。」 <br/>*2 lớp. Em ghi nhớ ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Ma trận có 5 ô** — Linh học 1 lần, dùng cả đời.
 - 【2】**「長期参照」** — thông tin cần tra cứu lâu dài → wiki, không Slack (thông tin trên Slack trôi nhanh).
 - 【3】**「critical bug は二重」** — ngoại lệ: critical mà chỉ Slack có thể bị trôi → gọi điện trước, Slack follow.
@@ -1158,7 +1158,7 @@ Em Linh (nhân viên mới, vừa vào nhóm) lần đầu cần chọn kênh li
 | 長期参照 | ちょうきさんしょう | TRƯỜNG KỲ THAM CHIẾU | Tra cứu dài hạn |
 | 二重 | にじゅう | NHỊ TRÙNG | Hai lớp |
 | マトリクス | マトリクス | — | Ma trận |
-| 流れる | ながれる | LƯU | Trôi đi (mất tin) |', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 流れる | ながれる | LƯU | Trôi đi (mất tin) |', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000016, 800000005, NULL, 'markdown_book', 'Rule 16 — Phép lịch sự trên Slack / Slack マナー', '# Rule 16 — Phép lịch sự trên Slack / Slack マナー
 > **Luận điểm.** Slack với khách Nhật có phép tắc riêng. **@here / @channel / luồng / DM** mỗi cái có ngữ cảnh khác nhau. Lạm dụng @channel = mất thiện cảm. Không dùng luồng = kênh ngập nhiễu. DM thay vì #kênh = cả nhóm không biết.
 >
@@ -1198,7 +1198,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 | **ズン** | 「@トゥアン お<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*@Tuấn em đợi anh ạ.* |
 | **田中PMO** | 「v3 <ruby>確認完了<rt>かくにんかんりょう</rt></ruby>。<ruby>承認<rt>しょうにん</rt></ruby>します。」 <br/>*Tôi xem xong v3. Tôi duyệt nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「@here」** — chỉ gọi người đang trực tuyến. Không phá DnD/giờ riêng.
 - 【2】Tất cả tin hồi đáp trong luồng → kênh chính sạch.
 - Luồng giữ ngữ cảnh — sau này tìm "thảo luận đặc tả v3" 1 chỗ.
@@ -1241,7 +1241,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 | スレッド | スレッド | — | Chuỗi hội thoại |
 | 関連投稿 | かんれんとうこう | QUAN LIÊN ĐẦU CẢO | Bài đăng liên quan |
 | 拝見 | はいけん | BÁI KIẾN | Xem (khiêm) |
-| 承認 | しょうにん | THỪA NHẬN | Phê duyệt |', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 承認 | しょうにん | THỪA NHẬN | Phê duyệt |', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000017, 800000005, NULL, 'markdown_book', 'Rule 17 — Liên lạc khẩn cấp + thứ tự ưu tiên / 緊急連絡の優先順位', '# Rule 17 — Liên lạc khẩn cấp + thứ tự ưu tiên / 緊急連絡の優先順位
 > **Luận điểm.** Khi sự cố khẩn cấp, **thứ tự gọi** quan trọng không kém nội dung. Sai thứ tự = sếp/khách bực + thông tin chạy vòng. Quy tắc: **(1) báo cấp trên trực tiếp trước**, **(2) báo cáo leo cấp theo tuyến phân cấp**, **(3) khách hàng được thông báo SAU khi đã có phương án**.
 >
@@ -1281,7 +1281,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **松本PM** | 「Plan まで<ruby>持<rt>も</rt></ruby>って<ruby>報告<rt>ほうこく</rt></ruby>してくれて<ruby>助<rt>たす</rt></ruby>かります。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>共有<rt>きょうゆう</rt></ruby>します。」 <br/>*Cảm ơn anh báo cáo có cả Plan luôn. Tôi chia sẻ nội bộ bên này.* |
 | **トゥアン** | 「@here <ruby>第一報<rt>だいいっぽう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby> (Slack thread にて<ruby>状況<rt>じょうきょう</rt></ruby><ruby>更新中<rt>こうしんちゅう</rt></ruby>)。」 <br/>*@here em chia sẻ báo đầu (đang cập nhật tình trạng trong luồng Slack).* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Thứ tự: 直属 → 上司 → 顧客** — đảo thứ tự = hỗn loạn.
 - 【2】**「対応中の事象と Plan を併せて」** — báo khách = báo Fact + Impact + Plan + ETA. Không phải "問題が発生しました、どうしましょう".
 
@@ -1321,7 +1321,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 対応案 | たいおうあん | ĐỐI ỨNG ÁN | Phương án xử lý |
 | 騒ぐ | さわぐ | TẢO | Làm ầm |
 | 詰める | つめる | CẬT | Truy hỏi |
-| 収拾不能 | しゅうしゅうふのう | THU THẬP BẤT NĂNG | Không thể kiểm soát được |', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 収拾不能 | しゅうしゅうふのう | THU THẬP BẤT NĂNG | Không thể kiểm soát được |', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000018, 800000005, NULL, 'markdown_book', 'Rule 18 — Báo dời lịch / スケジュール変更連絡', '# Rule 18 — Báo dời lịch / スケジュール変更連絡
 > **Luận điểm.** Dời lịch là việc thường xuyên nhưng làm sai dễ mất thiện cảm. Cấu trúc: **Xin lỗi → Lý do (ngắn) → Phương án mới (2-3) → Nói rõ ai cập nhật lịch**. Báo trễ + chỉ 1 phương án + không cập nhật lịch dùm = sếp/khách bực.
 >
@@ -1357,12 +1357,12 @@ Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùn
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>リスケ依頼<rt>りすけいらい</rt></ruby>】4/23(火)14時 <ruby>定例会議<rt>ていれいかいぎ</rt></ruby>」(body — xem template) <br/>*Tiêu đề: ''[Xin dời lịch] Họp định kỳ 14h thứ Ba 23/4'' (phần nội dung — xem template).* |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>リスケ依頼<rt>りすけいらい</rt></ruby>】4/23(木)14時 <ruby>定例会議<rt>ていれいかいぎ</rt></ruby>」(body — xem template) <br/>*Tiêu đề: ''[Xin dời lịch] Họp định kỳ 14h thứ Ba 23/4'' (phần nội dung — xem template).* |
 | **松本PM** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。**候補②(4/24 木 10時)** で<ruby>確定<rt>かくてい</rt></ruby>しましょう。」 <br/>*Cảm ơn em đã chu đáo. Chốt phương án ② (10h thứ Năm 24/4) nhé.* |
 | **ズン** | 「ありがとうございます。**こちらで<ruby>カレンダー更新<rt>カレンダーこうしん</rt></ruby> + <ruby>新規招待<rt>しんきしょうたい</rt></ruby>をお送りします** 【1】。会議室・Zoom リンクも<ruby>変更不要<rt>へんこうふよう</rt></ruby>です。」 <br/>*Em cảm ơn anh ạ. Em sẽ cập nhật lịch và gửi lời mời mới ạ 【1】. Phòng họp và đường dẫn Zoom cũng không cần đổi ạ.* |
 | **松本PM** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>新<rt>あたら</rt></ruby>しい招待をお<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*Tôi hiểu rồi. Tôi đợi lời mời mới của em nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「こちらでカレンダー更新」** — bên gây ra việc dời lịch chịu trách nhiệm cập nhật lịch. Không bắt khách tự cập nhật.
 - Tiêu đề 「【リスケ依頼】+ 日時 nguyên gốc」 — khách nhìn tiêu đề là biết.
 - Phần body có đủ: lý do ngắn (1 dòng) + 3 phương án mới + hành động cụ thể.
@@ -1426,7 +1426,7 @@ Xem phần Mẫu câu: **email dời lịch — định dạng chuẩn**.
 | 直前 | ちょくぜん | TRỰC TIỀN | Sát giờ |
 | 当方 | とうほう | ĐƯƠNG PHƯƠNG | Chúng tôi (trang trọng) |
 | 出張中 | しゅっちょうちゅう | XUẤT TRƯƠNG TRUNG | Đang đi công tác |
-| お手数 | おてすう | THỦ SỐ | Làm phiền |', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| お手数 | おてすう | THỦ SỐ | Làm phiền |', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000019, 800000005, NULL, 'markdown_book', 'Rule 19 — Báo vắng / 不在連絡 (休暇 / 病欠)', '# Rule 19 — Báo vắng / 不在連絡 (休暇 / 病欠)
 > **Luận điểm.** Báo vắng (nghỉ phép, ốm) phải có 4 yếu tố: **(1) Thông báo trước 24h** (trừ ốm đột xuất), **(2) Ngày trở lại cụ thể**, **(3) Người thay** (ai làm thay), **(4) Tin nhắn báo vắng** (tự động trả lời email/Slack).
 >
@@ -1460,12 +1460,12 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>休暇申請<rt>きゅうかしんせい</rt></ruby>】4/26(金) <ruby>終日不在<rt>しゅうじつふざい</rt></ruby>のご<ruby>連絡<rt>れんらく</rt></ruby>」(body — theo mẫu template) <br/>*Tiêu đề: ''[Đơn nghỉ phép] 26/4 (T6) báo vắng cả ngày'' (nội dung mail theo mẫu).* |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>休暇申請<rt>きゅうかしんせい</rt></ruby>】4/24(金) <ruby>終日不在<rt>しゅうじつふざい</rt></ruby>のご<ruby>連絡<rt>れんらく</rt></ruby>」(body — theo mẫu template) <br/>*Tiêu đề: ''[Đơn nghỉ phép] 24/4 (T6) báo vắng cả ngày'' (nội dung mail theo mẫu).* |
 | **フオン** | 「OK、休暇<ruby>承認<rt>しょうにん</rt></ruby>します。」 <br/>*OK, chị duyệt nghỉ phép.* |
-| **ズン** | 「@here <ruby>念<rt>ねん</rt></ruby>のため<ruby>再連絡<rt>さいれんらく</rt></ruby>。**明日4/26(金)1日不在**。代行：松本様会議はトゥアン、Slack/メール<ruby>対応<rt>たいおう</rt></ruby>はハイ。**復帰：4/29(月)<ruby>朝礼<rt>ちょうれい</rt></ruby>から**【1】。自動返信も<ruby>設定済<rt>せっていず</rt></ruby>みです。」 <br/>*@here em nhắc lại cho chắc. Mai 26/4 thứ Sáu em nghỉ cả ngày. Người thay: họp anh Matsumoto là anh Tuấn, Slack/mail là anh Hải. Trở lại: từ buổi họp sáng (朝礼) thứ Hai 29/4. Tự động trả lời em cũng đã cài rồi ạ.* |
+| **ズン** | 「@here <ruby>念<rt>ねん</rt></ruby>のため<ruby>再連絡<rt>さいれんらく</rt></ruby>。**明日4/24(金)1日不在**。代行：松本様会議はトゥアン、Slack/メール<ruby>対応<rt>たいおう</rt></ruby>はハイ。**復帰：4/27(月)<ruby>朝礼<rt>ちょうれい</rt></ruby>から**【1】。自動返信も<ruby>設定済<rt>せっていず</rt></ruby>みです。」 <br/>*@here em nhắc lại cho chắc. Mai 24/4 thứ Sáu em nghỉ cả ngày. Người thay: họp anh Matsumoto là anh Tuấn, Slack/mail là anh Hải. Trở lại: từ buổi họp sáng (朝礼) thứ Hai 27/4. Tự động trả lời em cũng đã cài rồi ạ.* |
 | **トゥアン** | 「松本様会議の<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎ<ruby>資料<rt>しりょう</rt></ruby>、確認しました。任せて。」 <br/>*Tài liệu bàn giao cho họp anh Matsumoto anh đã xem rồi. Cứ giao anh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「念のため再連絡」 + 4 yếu tố** — báo lần 1 (1 tuần trước, mail trang trọng) + lần 2 (1 ngày trước, nhắc lại trên Slack).
 - Mail tự động trả lời khi vắng mặt: 「〇月〇日まで休暇のため不在です。緊急の場合は〇〇まで」.
 
@@ -1518,7 +1518,7 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 | 代行者 | だいこうしゃ | ĐẠI HÀNH GIẢ | Người thay thế |
 | 引き継ぎ | ひきつぎ | DẪN KẾ | Bàn giao |
 | 自動返信 | じどうへんしん | TỰ ĐỘNG PHẢN TÍN | Tự động trả lời |
-| 終日 | しゅうじつ | CHUNG NHẬT | Cả ngày |', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 終日 | しゅうじつ | CHUNG NHẬT | Cả ngày |', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000020, 800000005, NULL, 'markdown_book', 'Rule 20 — Báo công tác / 出張連絡', '# Rule 20 — Báo công tác / 出張連絡
 > **Luận điểm.** Báo công tác phải báo trước **1 tuần** với 4 yếu tố: **(1) Lịch trình + nội dung làm việc (kế hoạch theo ngày)**, **(2) Kết quả mong đợi (sản phẩm đầu ra)**, **(3) Khung giờ liên lạc được** — khi nào trực tuyến/ngoại tuyến, **(4) Người phụ trách việc thường ngày**. Khác báo nghỉ — đi công tác vẫn phải duy trì liên lạc.
 >
@@ -1557,7 +1557,7 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 | **ハーCTO** | 「ズン、CFO <ruby>中村<rt>なかむら</rt></ruby>様へは **<ruby>数値<rt>すうち</rt></ruby>ベース** で<ruby>報告<rt>ほうこく</rt></ruby>するように。Phase 2 の<ruby>数字資料<rt>すうじしりょう</rt></ruby>は私もレビューする。」 <br/>*Dũng, báo cáo cho anh Nakamura CFO bằng số liệu nhé. Tài liệu số Phase 2 anh cũng xem lại.* |
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。**毎晩21時(JST)** に Slack で<ruby>進捗報告<rt>しんちょくほうこく</rt></ruby>いたします【1】。」 <br/>*Em hiểu ạ. Em sẽ báo cáo tiến độ qua Slack mỗi tối 21h (JST) ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「毎晩21時に進捗報告」** — báo cáo tiến độ hằng ngày từ Tokyo. Khác với nghỉ phép, công tác vẫn báo cáo mỗi ngày.
 
 ---
@@ -1618,9 +1618,9 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 | 移動時間帯 | いどうじかんたい | DI ĐỘNG THỜI GIAN ĐỚI | Khung giờ di chuyển |
 | 終日 | しゅうじつ | CHUNG NHẬT | Cả ngày |
 | デモ | デモ | — | Trình bày / thử nghiệm thực tế |
-| 数値ベース | すうちベース | SỐ TRỊ | Dựa trên số liệu |', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 数値ベース | すうちベース | SỐ TRỊ | Dựa trên số liệu |', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000021, 800000005, NULL, 'markdown_book', 'Rule 21 — Liên lạc lệch múi giờ (VN-JP) / 海外チームへの時差連絡', '# Rule 21 — Liên lạc lệch múi giờ (VN-JP) / 海外チームへの時差連絡
-> **Luận điểm.** VN-JP cách 2 giờ (mùa hè), 4 giờ (Hokkaido). Khi chia sẻ thông tin với nhóm Nhật, không nói "明日10時" mà nói "**10:00 JST (08:00 ICT)**". Quy tắc: **Luôn ghi giờ UTC/JST kèm, ưu tiên nhắn không đồng thời, bàn giao cuối ngày**.
+> **Luận điểm.** VN-JP lệch **đúng 2 giờ quanh năm** (JST = ICT + 2h). Nhật **không có giờ mùa hè** (bỏ từ 1952) và **toàn quốc dùng một múi giờ JST**, kể cả Hokkaido và Okinawa. Khi chia sẻ thông tin với nhóm Nhật, không nói "明日10時" mà nói "**10:00 JST (08:00 ICT)**". Quy tắc: **Luôn ghi giờ UTC/JST kèm, ưu tiên nhắn không đồng thời, bàn giao cuối ngày**.
 >
 > 海外チームへの時差連絡3原則：①時刻は必ず UTC または『JST (ICT)』併記、②nhắn không đồng thời が前提（即返信を期待しない）、③ hằng ngày tin bàn giao cuối ngày（VN PM 18時 → JP AM 9時の引き継ぎ）。
 >
@@ -1651,8 +1651,8 @@ Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "
 | Vai | Câu |
 |---------|-----|
 | **L1** | **ズン** *(VN 16h thứ Hai, Slack)* | 「田中さん、お疲れ様です。<ruby>下記<rt>かき</rt></ruby>の<ruby>時間帯<rt>じかんたい</rt></ruby>で会議はいかがでしょうか？
-  - **2026/4/22 (火) 10:00-11:00 JST (= 08:00-09:00 ICT)**【1】
-  - **2026/4/22 (火) 14:00-15:00 JST (= 12:00-13:00 ICT)**
+  - **2026/4/22 (水) 10:00-11:00 JST (= 08:00-09:00 ICT)**【1】
+  - **2026/4/22 (水) 14:00-15:00 JST (= 12:00-13:00 ICT)**
   ご<ruby>都合<rt>つごう</rt></ruby>が合う方を、明日の朝 (JST) までにお<ruby>返事<rt>へんじ</rt></ruby>いただければ<ruby>幸<rt>さいわ</rt></ruby>いです【2】。」 |
 |  |  | *Anh Tanaka, em chào anh ạ. Khung giờ dưới đây họp được không ạ? 22/4/2026 (T3) 10:00-11:00 JST (= 08:00-09:00 ICT), hoặc 22/4/2026 (T3) 14:00-15:00 JST (= 12:00-13:00 ICT). Phiền anh chọn giúp em và phản hồi trước sáng mai (JST) ạ.* |
 | **L2** | **田中PMO** *(JP 翌朝 9:30)* | 「おはようございます。10:00 JST で<ruby>確定<rt>かくてい</rt></ruby>でお願いします。」 |
@@ -1666,7 +1666,7 @@ Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "
 | **L4** | **田中PMO** *(JP 9:00 翌朝)* | 「Tin bàn giao <ruby>受領<rt>じゅりょう</rt></ruby>。① と ② を朝のうちに review します。」 |
 |  |  | *Tôi đã nhận tin bàn giao. ① và ② tôi xem lại trong sáng nay.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「JST (= 〇 ICT)」** — luôn ghi cả 2 múi giờ. Tránh "明日" / "明後日" mơ hồ.
 - 【2】**「明日の朝 (JST) までに」** — kỳ vọng kiểu nhắn không đồng thời: "trước khi nào" chứ không phải "ngay lập tức".
 - 【3】**Tin bàn giao cuối ngày** — VN cuối ngày (18h ICT = 20h JST) là đầu ngày JP hôm sau (9h JST). Gửi 1 tin bàn giao — nhóm JP sáng đọc là biết tình hình.
@@ -1675,7 +1675,7 @@ Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "
 
 ## Khuôn giờ chuẩn khi lệch múi giờ
  **Đúng:**
-- 「2026/4/22 (火) 10:00 JST (= 08:00 ICT)」
+- 「2026/4/22 (水) 10:00 JST (= 08:00 ICT)」
 - 「明日朝 9:00 JST」
 - 「来週月曜午後 (JST 14時)」
 
@@ -1722,7 +1722,7 @@ VN 09:00 ICT (= JP 11:00 JST) — Nhóm VN đọc
 | 終業時 | しゅうぎょうじ | CHUNG NGHIỆP THỜI | Cuối giờ làm |
 | 始業時 | しぎょうじ | THỦY NGHIỆP THỜI | Đầu giờ làm |
 | 同期的 | どうきてき | ĐỒNG KỲ ĐÍCH | Đồng thời |
-| 非同期 | ひどうき | PHI ĐỒNG KỲ | Không đồng thời |', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 非同期 | ひどうき | PHI ĐỒNG KỲ | Không đồng thời |', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000022, 800000005, NULL, 'markdown_book', 'Rule 22 — Khi nào cần tham vấn vs tự quyết / 相談 vs 自己決定', '# Rule 22 — Khi nào cần tham vấn vs tự quyết / 相談 vs 自己決定
 > **Luận điểm.** Không phải việc gì cũng phải tham vấn (相談), cũng không phải việc gì cũng tự quyết. Quyết theo **cây quyết định 2 trục**: **(1) Mức ảnh hưởng** (ảnh hưởng tới ai? sai thì hệ quả gì?) × **(2) Tính rollback được** (có khôi phục lại được không?). Quy tắc: **Ảnh hưởng lớn × Khó rollback → BẮT BUỘC tham vấn**. Ảnh hưởng nhỏ × Rollback dễ → tự quyết, báo cáo sau.
 >
@@ -1762,7 +1762,7 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp câ
 | **ズン** | 「**ご相談:** DB の `user_id` カラムを `member_id` にリネームする<ruby>提案<rt>ていあん</rt></ruby>がチームから出ております。<ruby>本番<rt>ほんばん</rt></ruby>5万レコード + 7サービスが<ruby>参照<rt>さんしょう</rt></ruby>しており、影響大 + <ruby>不可逆性<rt>ふかぎゃくせい</rt></ruby>高いため、<ruby>独断<rt>どくだん</rt></ruby>は避けたく<ruby>存<rt>ぞん</rt></ruby>じます【3】。」 <br/>*[Tham vấn] Team đang đề xuất đổi cột `user_id` thành `member_id` trên DB. Production có 50k record + 7 service tham chiếu, ảnh hưởng lớn + khó rollback nên em không dám tự quyết ạ.* |
 | **フオン** | 「正しい<ruby>切<rt>き</rt></ruby>り分けね。1件目は OK、2件目はハーCTOも含めた相談<ruby>会議<rt>かいぎ</rt></ruby>をセットして。<ruby>木曜<rt>もくよう</rt></ruby>午後に。」 <br/>*Phân loại đúng rồi. Cái 1 OK, cái 2 thì set 1 buổi tham vấn có cả anh Hà CTO. Chiều thứ Năm nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「判断軸に従って整理しました」** — cho thấy Dũng đã tự phân loại trước. Sếp tin tưởng.
 - 【2】**「影響範囲ローカル + 未マージで可逆性も高い」** — nêu rõ 2 trục để lý giải việc tự quyết.
 - 【3】**「影響大 + 不可逆性高い」** — đối ngược: lý do tham vấn cũng theo 2 trục.
@@ -1772,7 +1772,7 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp câ
 ## Cây quyết định
 | Ảnh hưởng \ Rollback | Rollback CAO (dễ) | Rollback THẤP (khó) |
 |----------------------|-------------------|---------------------|
-| **NHỎ** | Tự quyết + 事後報告 | Tự quyết + 連絡 ngay |
+| **NHỎ** | Tự quyết + 事後報告 | Xác nhận nhanh 1 câu **trước khi làm** + 連絡 ngay |
 | **LỚN** | Tham vấn nhanh (Slack thread) |  BẮT BUỘC 相談 + 稟議 |
 
 ---
@@ -1800,7 +1800,7 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp câ
 | 可逆性 | かぎゃくせい | KHẢ NGHỊCH TÍNH | Tính rollback được |
 | 不可逆 | ふかぎゃく | BẤT KHẢ NGHỊCH | Không rollback được |
 | 事後報告 | じごほうこく | SỰ HẬU BÁO CÁO | Báo cáo sau khi đã làm |
-| 稟議 | りんぎ | BẨM NGHỊ | Quy trình duyệt nội bộ |', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 稟議 | りんぎ | BẨM NGHỊ | Quy trình duyệt nội bộ |', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000023, 800000005, NULL, 'markdown_book', 'Rule 23 — Chuẩn bị trước khi tham vấn / 相談前の準備', '# Rule 23 — Chuẩn bị trước khi tham vấn / 相談前の準備
 > **Luận điểm.** Tham vấn không phải "đi hỏi cho biết" mà là **xin sếp giúp ra quyết định**. Trước khi gõ cửa, nhân viên trẻ phải có sẵn **3 bộ vật liệu**: (1) **5W1H tình huống** (What/When/Where/Who/Why/How), (2) **3 trường hợp tham chiếu** (mình đã làm gì? team từng gặp chưa? Google/tài liệu có gì?), (3) **仮説 (giả thuyết)** — phán đoán của bản thân + lý do. Thiếu cả 3 = sếp phải hỏi ngược → tham vấn thành buổi tra hỏi.
 >
@@ -1837,7 +1837,7 @@ Em Linh (thực tập sinh Marketing) gặp vấn đề: nhà cung cấp in broc
 | **リン** | 「**③仮説:** C社で<ruby>代替<rt>だいたい</rt></ruby>するのが<ruby>最適<rt>さいてき</rt></ruby>と考えております。理由は<ruby>納品<rt>のうひん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れが1日のみ + コスト<ruby>同等<rt>どうとう</rt></ruby>のためです。ただし<ruby>契約<rt>けいやく</rt></ruby>変更の<ruby>権限<rt>けんげん</rt></ruby>が私にないため、ご<ruby>判断<rt>はんだん</rt></ruby>をお願いいたします【4】。」 <br/>*[Giả thuyết] Em nghĩ chuyển sang nhà C là tốt nhất. Lý do: chỉ trễ 1 ngày + cost tương đương. Nhưng em không có quyền đổi hợp đồng, nhờ anh quyết ạ.* |
 | **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>な<ruby>相談<rt>そうだん</rt></ruby>だね。<ruby>仮説<rt>かせつ</rt></ruby>に<ruby>賛成<rt>さんせい</rt></ruby>、C社で進めて。<ruby>契約<rt>けいやく</rt></ruby>変更はチームメールで僕も入れて。」 <br/>*Tham vấn hoàn hảo. Anh đồng ý giả thuyết của em, chốt nhà C. Mail thay đổi hợp đồng nhớ CC anh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「事前に状況・参考事例・仮説をまとめてあります」** — 1 câu mở đã show 3 bộ vật liệu. Sếp biết ngay là tham vấn nghiêm túc.
 - 【2】**①5W1H** — Linh đã có sẵn date/time/quantity/reason. Sếp không phải hỏi lại.
 - 【3】**②3 trường hợp** — tiền lệ nội bộ + các phương án thay thế đã gọi điện. Đây là phần khó nhất nhưng then chốt: cho thấy đã tự tìm hiểu.
@@ -1890,7 +1890,7 @@ Em Linh (thực tập sinh Marketing) gặp vấn đề: nhà cung cấp in broc
 | 代替案 | だいたいあん | ĐẠI THẾ ÁN | Phương án thay thế |
 | 権限 | けんげん | QUYỀN HẠN | Quyền (quyết) |
 | 切り分け | きりわけ | — | Phân tách (vấn đề) |
-| 状況整理 | じょうきょうせいり | TRẠNG HUỐNG CHỈNH LÝ | Tổ chức tình huống |', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 状況整理 | じょうきょうせいり | TRẠNG HUỐNG CHỈNH LÝ | Tổ chức tình huống |', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000024, 800000005, NULL, 'markdown_book', 'Rule 24 — Cách mở lời tham vấn cấp trên / 上司への切り出し', '# Rule 24 — Cách mở lời tham vấn cấp trên / 上司への切り出し
 > **Luận điểm.** Câu mở lời quyết định 70% chất lượng buổi tham vấn. Mở lời sai → sếp ngắt giữa chừng hoặc dời lịch. Công thức 4 thành phần: **(1) Chức danh sếp + (2) Báo có việc tham vấn + (3) Hỏi xin thời gian (1-2 từ về khoảng) + (4) Lý do khẩn cấp hoặc chủ đề ngắn**. Mẫu chuẩn: 「**ご相談したいことがあるのですが、今お時間〇分ほどよろしいでしょうか?**」
 >
@@ -1928,7 +1928,7 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 | **ハーCTO** | 「16時から15分なら取れます。会議室Bで。」 <br/>*16h anh có 15 phút. Phòng họp B nhé.* |
 | **ズン** | 「ハーCTO、お忙しい中ありがとうございます。それでは、AWSリージョン選定の件、ご相談させていただきます【4】。」 <br/>*Anh Hà CTO, cảm ơn anh đã dành thời gian dù bận ạ. Vậy em xin phép tham vấn về chọn AWS region ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ご相談したいことがあるのですが、〇分ほどお時間…」** — công thức chuẩn. 「〇分ほど」 cho sếp ước lượng được — không 「ちょっと」 mơ hồ.
 - 【2】**Chủ đề + 判断材料** — 1 dòng cho sếp biết tham vấn về cái gì, đã có dữ kiện gì. Sếp tự ước lượng được mức độ phức tạp.
 - 【3】**緊急度 (trung/thấp/cao)** — sếp ưu tiên đúng. Không nói = sếp tự coi là mức thấp.
@@ -1969,7 +1969,7 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 | 緊急度 | きんきゅうど | KHẨN CẤP ĐỘ | Mức độ khẩn cấp |
 | 判断材料 | はんだんざいりょう | PHÁN ĐOÁN TÀI LIỆU | Dữ kiện ra quyết định |
 | 見積 | みつもり | KIẾN TÍCH | Báo giá |
-| 相談させていただきます | そうだんさせていただきます | — | Em xin phép tham vấn (trang trọng) |', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 相談させていただきます | そうだんさせていただきます | — | Em xin phép tham vấn (trang trọng) |', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000025, 800000005, NULL, 'markdown_book', 'Rule 25 — Hỏi dữ kiện ra quyết định thay vì hỏi đáp án / 答えではなく判断材料を求める', '# Rule 25 — Hỏi dữ kiện ra quyết định thay vì hỏi đáp án / 答えではなく判断材料を求める
 > **Luận điểm.** Nhân viên trẻ thường hỏi 「どうしたらいいですか?」 → mong sếp ra **đáp án**. Công thức này biến tham vấn thành "đẩy quyết định". Công thức đúng: hỏi **判断材料** (dữ kiện ra quyết định) — "em đang nghĩ A và B, anh thấy thế nào?" / "có yếu tố nào em chưa tính tới không?" / "anh từng gặp tình huống tương tự thì xử lý ra sao?". Sếp giúp **bồi thêm dữ kiện**, nhân viên trẻ **vẫn là người ra quyết định**.
 >
@@ -2006,7 +2006,7 @@ Em Dũng tham vấn chị Hương về việc deploy vào cuối tuần (rủi r
 | **フオン** | 「その<ruby>観点<rt>かんてん</rt></ruby>正しい。<ruby>追加<rt>ついか</rt></ruby>で、<ruby>松本様<rt>まつもとさま</rt></ruby>サイドが<ruby>月曜午前<rt>げつようごぜん</rt></ruby>に<ruby>毎週定例会<rt>まいしゅうていれいかい</rt></ruby>あるから、リリース<ruby>直後<rt>ちょくご</rt></ruby>に何かあると<ruby>会議中<rt>かいぎちゅう</rt></ruby>に<ruby>騒<rt>さわ</rt></ruby>ぎになる。それを考えると<ruby>土曜深夜<rt>どようしんや</rt></ruby>+<ruby>待機体制<rt>たいきたいせい</rt></ruby>が<ruby>現実的<rt>げんじつてき</rt></ruby>。私は<ruby>土曜推<rt>どようお</rt></ruby>し。<ruby>最終判断<rt>さいしゅうはんだん</rt></ruby>は ズン。」 <br/>*Axis đó đúng. Bổ sung: phía anh Matsumoto sáng thứ Hai có định kỳ tuần, nên release xong mà có sự cố thì họp đang ồn lên. Tính cả cái đó thì đêm thứ Bảy + trực là thực tế. Chị nghiêng đêm thứ Bảy. Quyết cuối là Dũng.* |
 | **ズン** | 「ありがとうございます。<ruby>土曜深夜<rt>どようしんや</rt></ruby> + トゥアン<ruby>待機体制<rt>たいきたいせい</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めます【4】。」 <br/>*Em cảm ơn chị. Em sẽ đi với đêm thứ Bảy + chế độ trực của anh Tuấn ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「判断材料を補強していただきたく存じます」** — câu vàng. Cho thấy Dũng tự ra quyết định, sếp chỉ giúp **bồi thêm dữ liệu**.
 - 【2】**A so với B kèm lợi/hại** — giả thuyết sẵn sàng. Sếp không phải tự nghĩ.
 - 【3】**「観点として〇〇」** — Dũng tự nêu góc nhìn cần xét. Mở đường cho sếp bồi góc nhìn mới.
@@ -2053,7 +2053,7 @@ Pattern 4: 重み付け系
 | 補強 | ほきょう | BỔ CƯỜNG | Bồi đắp / củng cố |
 | 重み付け | おもみづけ | — | Đánh trọng số |
 | デプロイ | でぷろい | — | Deploy |
-| 待機体制 | たいきたいせい | ĐÃI CƠ THỂ CHẾ | Cơ chế trực |', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 待機体制 | たいきたいせい | ĐÃI CƠ THỂ CHẾ | Cơ chế trực |', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000026, 800000005, NULL, 'markdown_book', 'Rule 26 — Mang sẵn nhiều phương án / 複数案を持参', '# Rule 26 — Mang sẵn nhiều phương án / 複数案を持参
 > **Luận điểm.** Tham vấn 1 phương án = "duyệt giùm em" (đẩy quyết định). Tham vấn 2-3 phương án + lợi/hại = "em đã suy nghĩ, sếp giúp chọn trục quan trọng nhất". Quy tắc: **tối thiểu 2, lý tưởng 3 phương án. Mỗi phương án có ① chi phí ② thời gian ③ rủi ro được lượng hóa**. Trong 3 phương án nên có 1 "**phương án đề xuất**" — phương án người tham vấn khuyên dùng + lý do.
 >
@@ -2089,7 +2089,7 @@ Em Hải tham vấn anh Tuấn về việc khắc phục bug performance API. L�
 | **ハイ** | 「**<ruby>推奨<rt>すいしょう</rt></ruby>は<ruby>案<rt>あん</rt></ruby>B (インデックス<ruby>追加<rt>ついか</rt></ruby>)** です。<ruby>理由<rt>りゆう</rt></ruby>は<ruby>半日<rt>はんにち</rt></ruby>で<ruby>実装<rt>じっそう</rt></ruby><ruby>可能<rt>かのう</rt></ruby> + <ruby>既<rt>すで</rt></ruby>に index <ruby>候補<rt>こうほ</rt></ruby>が `EXPLAIN` で<ruby>特定済<rt>とくていず</rt></ruby>み + コスト<ruby>増<rt>ぞう</rt></ruby>なしのためです。リスク<ruby>中<rt>ちゅう</rt></ruby>はメンテナンスウィンドウで<ruby>吸収<rt>きゅうしゅう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>と<ruby>考<rt>かんが</rt></ruby>えております【3】。」 <br/>*Em recommend B (thêm index). Lý do: nửa ngày là xong + đã EXPLAIN ra ứng viên index + không tăng cost. Risk trung thì hấp thụ bằng maintenance window được ạ.* |
 | **トゥアン** | 「<ruby>分析<rt>ぶんせき</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。Bで<ruby>進<rt>すす</rt></ruby>めて。ただ、メンテナンスウィンドウは<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>許可<rt>きょか</rt></ruby>が<ruby>要<rt>い</rt></ruby>るから、ズンに<ruby>依頼<rt>いらい</rt></ruby>してね。」 <br/>*Phân tích đúng. Đi với B đi. Nhưng maintenance window phải xin phép anh Matsumoto, em nhờ Dũng nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「3つ準備、コスト・時間・リスクで比較」** — câu mở cho thấy ngay cấu trúc trình bày. Anh Tuấn biết Hải chuẩn bị nghiêm túc.
 - 【2】**Bảng so sánh 3×3** — 3 phương án × 3 trục (chi phí / thời gian / rủi ro). Định lượng: ¥0, 2 ngày, thấp. Không 「ほぼ」「だいたい」.
 - 【3】**「推奨は案B」 + lý do** — Hải đã có ý kiến rõ. Sếp chỉ xác nhận hoặc phản biện, không phải nghĩ thay.
@@ -2128,7 +2128,7 @@ Em Hải tham vấn anh Tuấn về việc khắc phục bug performance API. L�
 | 定量化 | ていりょうか | ĐỊNH LƯỢNG HÓA | Định lượng |
 | 運用工数 | うんようこうすう | VẬN DỤNG CÔNG SỐ | Chi phí vận hành (giờ) |
 | メンテナンスウィンドウ | めんてなんすうぃんどう | — | Cửa sổ bảo trì |
-| 不整合 | ふせいごう | BẤT CHỈNH HỢP | Không nhất quán |', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 不整合 | ふせいごう | BẤT CHỈNH HỢP | Không nhất quán |', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000027, 800000005, NULL, 'markdown_book', 'Rule 27 — Lưu nhật ký tham vấn / 相談ログ', '# Rule 27 — Lưu nhật ký tham vấn / 相談ログ
 > **Luận điểm.** Tham vấn miệng → quyết định → 1 tháng sau ai cũng quên. Khi vấn đề tương tự xảy ra, team lại tham vấn lần nữa = lãng phí. Phải có **Sổ ghi quyết định** (相談ログ): mỗi tham vấn có quyết định ghi vào 1 dòng — **ngày / chủ đề / phương án đã xét / phương án chọn / lý do / người duyệt**. Sau 6 tháng → kho tri thức của team. Cũng là 防衛 (phòng vệ): khi sếp hoặc khách hỏi "tại sao quyết thế?" → mở sổ ra, không phải dò trí nhớ.
 >
@@ -2167,7 +2167,7 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 | **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これがあれば 30 秒で<ruby>議論<rt>ぎろん</rt></ruby>できる。Phase 3 でも<ruby>継続<rt>けいぞく</rt></ruby>して。」 <br/>*Hoàn hảo. Có cái này thì tranh luận 30 giây xong. Phase 3 cũng duy trì nhé.* |
 | **ズン** | 「はい。**今週分も明日 EOD までに3件<ruby>追加<rt>ついか</rt></ruby>します**: AWS リージョン、デプロイ<ruby>時間帯<rt>じかんたい</rt></ruby>、<ruby>印刷会社変更<rt>いんさつがいしゃへんこう</rt></ruby>です【3】。」 <br/>*Vâng. Tuần này em sẽ thêm 3 dòng trước cuối ngày mai: AWS region, thời điểm deploy, đổi nhà in ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「DR-2026-0118 の1行」** — Sổ ghi quyết định có mã ID. Sếp có thể tra cứu ngay.
 - 【2】**6 trường tối thiểu** — ngày / chủ đề / phương án / chọn / lý do / người duyệt + (tùy chọn) rủi ro. Đầy đủ cho kiểm toán.
 - 【3】**Cập nhật chủ động** — không đợi sếp hỏi, hàng tuần có thói quen cập nhật.
@@ -2196,7 +2196,7 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 | 検討案 | けんとうあん | KIỂM THẢO ÁN | Phương án được xem xét |
 | 承認者 | しょうにんしゃ | THỪA NHẬN GIẢ | Người duyệt |
 | 論点 | ろんてん | LUẬN ĐIỂM | Luận điểm / chủ đề |
-| 整備する | せいびする | CHỈNH BỊ | Sắp xếp / build hệ thống |', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 整備する | せいびする | CHỈNH BỊ | Sắp xếp / build hệ thống |', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000028, 800000005, NULL, 'markdown_book', 'Rule 28 — Khi mình là người được tham vấn / 相談を受ける側', '# Rule 28 — Khi mình là người được tham vấn / 相談を受ける側
 > **Luận điểm.** Khi junior tham vấn, **đừng đáp án ngay**. Công thức huấn luyện đúng: **(1) Lặp lại tóm tắt vấn đề (lắng nghe chủ động), (2) Hỏi 仮説 (giả thuyết) của junior trước, (3) Bồi góc nhìn junior chưa nghĩ tới, (4) Để junior tự kết luận, (5) Xác nhận quyết định + ghi DR**. Trả lời thẳng = junior không học, lần sau lại tham vấn cùng vấn đề.
 >
@@ -2237,7 +2237,7 @@ Em Linh tham vấn anh Dũng về việc chọn mẫu email cho khách Nhật. L
 | **ズン** | 「**④<ruby>良<rt>よ</rt></ruby>い<ruby>結論<rt>けつろん</rt></ruby>。それで<ruby>進<rt>すす</rt></ruby>めて**【3】。**⑤Decision Register に1<ruby>行<rt>ぎょう</rt></ruby><ruby>残<rt>のこ</rt></ruby>しておいて**: <ruby>論点<rt>ろんてん</rt></ruby>・<ruby>検討案<rt>けんとうあん</rt></ruby>・<ruby>採用<rt>さいよう</rt></ruby>・<ruby>理由<rt>りゆう</rt></ruby>・<ruby>観点<rt>かんてん</rt></ruby>【4】。<ruby>来週<rt>らいしゅう</rt></ruby>レビューするね。」 <br/>*[Kết luận tốt] Em đi theo đó. [Ghi sổ] Lưu 1 dòng vào Sổ ghi quyết định: luận điểm / phương án / chọn / lý do / góc nhìn. Tuần sau anh xem lại nhé.* |
 | **リン** | 「ありがとうございます!<ruby>次回<rt>じかい</rt></ruby>からこの観点で<ruby>自分<rt>じぶん</rt></ruby>で<ruby>判断<rt>はんだん</rt></ruby>できそうです!」 <br/>*Em cảm ơn anh! Lần sau với góc nhìn này em tự quyết được rồi ạ!* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「①要約復唱」** — active listening. Cho thấy "anh đang lắng nghe" + bắt buộc Linh xác nhận lại.
 - 【2】**「Aをベースに最後だけB」** — Linh tự nghĩ ra giải pháp. Đây mới là điểm giúp em trưởng thành.
 - 【3】**「それで進めて」** — Dũng duyệt nhưng không "thay quyết". Quyết định để Linh tự đưa ra.
@@ -2279,13 +2279,13 @@ Em Linh tham vấn anh Dũng về việc chọn mẫu email cho khách Nhật. L
 | 観点 | かんてん | QUAN ĐIỂM | Góc nhìn / tiêu chí |
 | 即答 | そくとう | TỨC ĐÁP | Trả lời ngay |
 | コーチング | こーちんぐ | — | Huấn luyện |
-| キックオフ | きっくおふ | — | Khởi động |', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| キックオフ | きっくおふ | — | Khởi động |', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000029, 800000005, NULL, 'markdown_book', 'Rule 29 — Tham vấn với khách / 客先への相談', '# Rule 29 — Tham vấn với khách / 客先への相談
 > **Luận điểm.** Tham vấn nội bộ và tham vấn với khách **khác hoàn toàn về sắc thái lời nói**. Với khách Nhật, không bao giờ dùng 「相談したいことがあるんですが」 (suồng sã, chỉ hợp với cấp trên nội bộ). Mẫu đúng: 「**ご相談させていただけますでしょうか**」 / 「**ご教示いただきたく存じます**」 — sắc thái trang trọng cao, khiêm nhường (謙譲語) tối đa. Cấu trúc: **(1) Lý do tham vấn** (vì khách rành hơn / vì cần ý kiến để tiến tiếp) **+ (2) Phạm vi tham vấn cụ thể** (không hỏi rộng) **+ (3) Khung thời gian khách thuận tiện**.
 >
 > 客先相談の3要素：①相談理由（顧客の知見が必要）②相談範囲（焦点を絞る）③希望時間枠（顧客都合優先）。形式は最高敬語＋謙譲語。
 >
-> **Liên quan:** rule 22-26 (相談一般), rule 30 (持ち帰り), Sách 03 rule 29 (顧客交渉).
+> **Liên quan:** rule 22-26 (相談一般), rule 30 (持ち帰り), Sách 03 rule 29 (行き詰まり).
 
 ---
 
@@ -2309,20 +2309,20 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 ---
 
 ## Hội thoại TỐT — sắc thái trang trọng với khách
-| Vai | Câu |
-|---------|-----|
-| **L1** | **ズン** *(メール)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、お世話になっております。ティエンファットのズンでございます。
+| # | Vai | Câu |
+|---|---------|-----|
+| **L1** | **ズン** *(メール)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、お世話になっております。ティエンファットのズンでございます。 |
   **件名:【ご<ruby>相談<rt>そうだん</rt></ruby>】Phase 2 UAT 進め方について**
   Phase 2 の UAT を進めるにあたり、**<ruby>線形<rt>せんけい</rt></ruby>(<ruby>全機能<rt>ぜんきのう</rt></ruby><ruby>一括<rt>いっかつ</rt></ruby>)** か **<ruby>段階的<rt>だんかいてき</rt></ruby>(<ruby>機能毎<rt>きのうごと</rt></ruby>リリース)** かで<ruby>方針<rt>ほうしん</rt></ruby>を絞りきれず、**ご<ruby>相談<rt>そうだん</rt></ruby>させていただけますでしょうか**【1】。
   特にお<ruby>伺<rt>うかが</rt></ruby>いしたいのは、**<ruby>御社<rt>おんしゃ</rt></ruby><ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>検証<rt>けんしょう</rt></ruby>リソース<ruby>確保<rt>かくほ</rt></ruby>のしやすさ**でございます【2】。
   ご<ruby>都合<rt>つごう</rt></ruby>よろしい時に **15分ほどお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>できますと<ruby>幸甚<rt>こうじん</rt></ruby>**です。今週<ruby>後半<rt>こうはん</rt></ruby> (4/24木 PM ~ 4/26土) のうち、ご都合の良い<ruby>候補<rt>こうほ</rt></ruby>を3つお知らせいただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【3】。」 |
 |  |  | *Anh Matsumoto, em xin chào. Em Dũng bên Thiên Phát đây ạ. [Tiêu đề] [Tham vấn] Về cách triển khai UAT Phase 2. Khi triển khai UAT Phase 2, em đang phân vân giữa linear (toàn bộ chức năng 1 lần) và incremental (release theo chức năng), em xin được tham vấn anh ạ. Đặc biệt em muốn hỏi về độ thuận tiện trong việc bố trí resource kiểm thử của team vận hành bên anh ạ. Anh dành cho em 15 phút khi nào tiện ạ. Trong nửa cuối tuần này (24/4 thứ Năm chiều - 26/4 thứ Bảy), phiền anh báo giúp em 3 lựa chọn thuận tiện ạ.* |
-| **L2** | **松本PM** *(返信)* | 「ご丁寧にありがとうございます。4/24 (木) 15:00 JST で30分いかがでしょうか。<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>実情<rt>じつじょう</rt></ruby>をお話しします。」 |
-|  |  | *Cảm ơn em đã chu đáo. 24/4 thứ Năm 15:00 JST trong 30 phút có ổn không? Bên tôi cũng sẽ chia sẻ thực tế team vận hành.* |
+| **L2** | **松本PM** *(返信)* | 「ご丁寧にありがとうございます。4/24 (金) 15:00 JST で30分いかがでしょうか。<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>実情<rt>じつじょう</rt></ruby>をお話しします。」 |
+|  |  | *Cảm ơn em đã chu đáo. 24/4 thứ Sáu 15:00 JST trong 30 phút có ổn không? Bên tôi cũng sẽ chia sẻ thực tế team vận hành.* |
 | **L3** | **ズン** *(会議で)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、本日はお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>し<ruby>誠<rt>まこと</rt></ruby>にありがとうございます。それでは、UAT 進め方についてご<ruby>相談<rt>そうだん</rt></ruby>させていただきます【4】。」 |
 |  |  | *Anh Matsumoto, em cảm ơn anh đã dành thời gian hôm nay ạ. Vậy em xin phép tham vấn về cách triển khai UAT ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ご相談させていただけますでしょうか」** — câu vàng khi tham vấn với khách. Khiêm nhường tối đa. Không "相談したい".
 - 【2】**Phạm vi cụ thể** — không hỏi rộng "anh nghĩ sao về UAT" mà tập trung vào 1 điểm (運用リソース). Khách dễ trả lời + chuẩn bị trước.
 - 【3】**Khung thời gian + 候補3つお知らせいただける** — không ép giờ, hỏi 3 lựa chọn của KHÁCH (không phải gửi 3 lựa chọn của mình như khi dời lịch). Trang trọng cao.
@@ -2364,13 +2364,13 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 | 線形 | せんけい | TUYẾN HÌNH | Tuyến tính |
 | 段階的 | だんかいてき | ĐOẠN GIAI ĐÍCH | Theo giai đoạn |
 | 検証リソース | けんしょうりそーす | KIỂM CHỨNG | Nguồn lực kiểm thử |
-| 焦点 | しょうてん | TIÊU ĐIỂM | Tiêu điểm |', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 焦点 | しょうてん | TIÊU ĐIỂM | Tiêu điểm |', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000030, 800000005, NULL, 'markdown_book', 'Rule 30 — Mang về tham vấn (持ち帰り) / 持ち帰り相談', '# Rule 30 — Mang về tham vấn (持ち帰り) / 持ち帰り相談
 > **Luận điểm.** Sách 03 đã dạy 「持ち帰り検討」 với khách (rule 25/32). Sách 04 mở rộng: **sau khi mang về**, làm sao **vận hành** trong nội bộ? Công thức đúng: **(1) Chuyển lời khách thành 1 entry trong CSDL nội bộ** (Notion / Confluence / kênh Slack chuyên cho 持ち帰り), **(2) Giao người phụ trách + hạn chót sớm hơn hạn chót đã hứa khách** (đệm 1 ngày), **(3) Tổ chức 相談会議 nội bộ nếu cần**, **(4) Trước hạn 1 ngày, người phụ trách báo Dũng**, **(5) Dũng phản hồi khách đúng hạn đã hứa**. Quy tắc: **持ち帰り = 1 ticket nội bộ, không phải 1 lời hứa miệng**.
 >
 > 持ち帰り運用5ステップ：①社内DB化 ②owner+期限(顧客約束より1日前)③社内会議 ④期限前日報告 ⑤客への回答。約束した『来週水曜』なら社内では『火曜EOD』。
 >
-> **Liên quan:** Sách 03 rule 25 (持ち帰り検討), rule 32 (持ち帰り bàn nội bộ). Rule 27 (DR), rule 39 (チーム文化).
+> **Liên quan:** Sách 03 rule 25 (持ち帰り検討), rule 32 (結論先送り). Rule 27 (DR), rule 39 (チーム文化).
 
 ---
 
@@ -2397,18 +2397,18 @@ Cuộc họp với khách xong, Dũng đã hứa anh Matsumoto: "**Phase 2 chố
 | Vai / Tình huống | Câu |
 |---------|-----|
 | **ズン** *(Thứ Hai 19h, sau họp Matsumoto)* | *(Notion #持ち帰りボード に<ruby>新規<rt>しんき</rt></ruby>チケット)*
-  「**TICKET-MOCH-2026-0421**: Phase 2 lock cost <ruby>回答<rt>かいとう</rt></ruby> / **<ruby>顧客約束<rt>こきゃくやくそく</rt></ruby>**: 4/24 (水) EOD / **<ruby>社内期限<rt>しゃないきげん</rt></ruby>**: 4/23 (火) EOD【1】 / **owner**: ズン / **<ruby>必要参加者<rt>ひつようさんかしゃ</rt></ruby>**: ハーCTO + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + トゥアン / **<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>**: 3社<ruby>見積<rt>みつもり</rt></ruby> + <ruby>過去<rt>かこ</rt></ruby>Phase1<ruby>実績<rt>じっせき</rt></ruby> / **ステータス**: open」 |
+  「**TICKET-MOCH-2026-0421**: Phase 2 lock cost <ruby>回答<rt>かいとう</rt></ruby> / **<ruby>顧客約束<rt>こきゃくやくそく</rt></ruby>**: 4/24 (金) EOD / **<ruby>社内期限<rt>しゃないきげん</rt></ruby>**: 4/23 (木) EOD【1】 / **owner**: ズン / **<ruby>必要参加者<rt>ひつようさんかしゃ</rt></ruby>**: ハーCTO + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + トゥアン / **<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>**: 3社<ruby>見積<rt>みつもり</rt></ruby> + <ruby>過去<rt>かこ</rt></ruby>Phase1<ruby>実績<rt>じっせき</rt></ruby> / **ステータス**: open」 |
 |  | *(Thứ Hai 19h, mở ticket Notion) TICKET-MOCH-2026-0421: Phản hồi chốt báo giá Phase 2 / Hứa khách: cuối ngày thứ Tư 24/4 / Hạn chót nội bộ: cuối ngày thứ Ba 23/4 / Người phụ trách: Dũng / Người cần dự: Hà CTO + chị Hương + anh Tuấn / Dữ kiện: 3 báo giá + thực tích Phase 1 / Trạng thái: đang mở.* |
 | **ズン** *(Slack #内部相談)* | 「@ハーCTO @フオン @トゥアン <ruby>火曜<rt>かよう</rt></ruby> (4/23) 11:00-11:30 で<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>相談<rt>そうだん</rt></ruby>セットしました。アジェンダと<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>は TICKET-MOCH-2026-0421 をご<ruby>確認<rt>かくにん</rt></ruby>ください【2】。」 |
 |  | *(Slack #naibu-soudan) @anh Hà CTO @chị Hương @anh Tuấn em đã lên lịch buổi tham vấn lúc 11:00-11:30 thứ Ba (23/4). Nội dung họp và dữ kiện em đã ghi trong TICKET-MOCH-2026-0421 ạ.* |
 | **ズン** *(火曜 11:30, 会議後)* | 「<ruby>決定<rt>けってい</rt></ruby>: <ruby>案<rt>あん</rt></ruby>B (¥18M)。Decision Register DR-2026-0423 <ruby>起票<rt>きひょう</rt></ruby>。**<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>り、<ruby>明日<rt>あした</rt></ruby> EOD までに<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>へ<ruby>回答<rt>かいとう</rt></ruby>メール<ruby>送付<rt>そうふ</rt></ruby>します**【3】。」 |
 |  | *(Thứ Ba 11:30, sau họp) Quyết: phương án B (¥18M). Mở DR-2026-0423 trong Sổ ghi quyết định. Đúng lịch thứ Hai, em sẽ gửi mail phản hồi anh Matsumoto trước cuối ngày mai ạ.* |
-| **ズン** *(水曜 16:00, メール松本様)* | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>先日<rt>せんじつ</rt></ruby>お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りした Phase 2 lock cost の<ruby>件<rt>けん</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>、**¥18M でご<ruby>提案<rt>ていあん</rt></ruby>させていただけますでしょうか**。<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>添付<rt>てんぷ</rt></ruby>ファイルをご<ruby>確認<rt>かくにん</rt></ruby>くださいませ。Phase 2 <ruby>内<rt>ない</rt></ruby> cost lock いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【4】。」 |
+| **ズン** *(水曜 16:00, メール松本様)* | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>先日<rt>せんじつ</rt></ruby>お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りした Phase 2 lock cost の<ruby>件<rt>けん</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>、**¥18M でご<ruby>提案<rt>ていあん</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます**。<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>添付<rt>てんぷ</rt></ruby>ファイルをご<ruby>確認<rt>かくにん</rt></ruby>くださいませ。Phase 2 <ruby>内<rt>ない</rt></ruby> cost lock いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【4】。」 |
 |  | *(Thứ Tư 16h, mail) Anh Matsumoto, lúc nào cũng cảm ơn anh. Việc chốt báo giá Phase 2 hôm trước em đã mang về, sau khi tham vấn nội bộ, em xin đề xuất ¥18M ạ. Chi tiết em đính kèm file. Mong anh chốt báo giá cho Phase 2 ạ.* |
 | **松本PM** *(水曜 17:00)* | 「ご<ruby>回答<rt>かいとう</rt></ruby>ありがとうございます。<ruby>約束<rt>やくそく</rt></ruby><ruby>通<rt>どお</rt></ruby>りの<ruby>期日<rt>きじつ</rt></ruby>でしたね。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>検収<rt>けんしゅう</rt></ruby>しまして<ruby>金曜<rt>きんよう</rt></ruby>までにお<ruby>返事<rt>へんじ</rt></ruby>します。」 |
 |  | *Cảm ơn em đã phản hồi. Đúng ngày hứa nhỉ. Tôi sẽ kiểm tra nội bộ và phản hồi trước thứ Sáu.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**社内期限 = 顧客期限 - 1日** — khoảng đệm chuẩn. Tránh trường hợp L4 trên (quên).
 - 【2】**TICKET ID + link nội dung họp** — không làm loạn Slack bằng chi tiết. 1 mục là nguồn tham chiếu duy nhất.
 - 【3】**「月曜の予定通り」** — đảm bảo tiến độ so với lời hứa với khách. Báo cáo nội bộ rõ.
@@ -2454,8 +2454,8 @@ Cuộc họp với khách xong, Dũng đã hứa anh Matsumoto: "**Phase 2 chố
 | チケット | ちけっと | — | Ticket |
 | 起票 | きひょう | KHỞI PHIẾU | Mở entry / log |
 | ボード | ぼーど | — | Board (kanban) |
-| ステータス | すてーたす | — | Trạng thái (của ticket) |', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000031, 800000005, NULL, 'markdown_book', 'Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時', '# Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時
+| ステータス | すてーたす | — | Trạng thái (của ticket) |', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000031, 800000005, NULL, 'markdown_book', 'Rule 31 — Phát hiện bug — quy trình Hou-Ren-Sou / バグ発見時', '# Rule 31 — Phát hiện bug — quy trình Hou-Ren-Sou / バグ発見時
 > **Luận điểm.** Bug nghiêm trọng (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **quy trình leo thang xử lý định trước**: **(1) Phát hiện → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận mức độ nghiêm trọng → báo lên Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng soạn thông báo + báo lên Matsumoto** trong **30 phút**, **(5) Điều tra + ETA** trong **60 phút**, **(6) Khắc phục + phân tích sau sự cố** trong **24h**. Mốc thời gian mỗi bước = SLA của team. Bỏ qua bước = "đi tắt" → bê trễ chuỗi.
 >
 > インシデント発見時の時間SLA：①検知0分→②Slack #incident + Tech lead 5分→③CTO 15分→④客通知 30分→⑤ETA 60分→⑥解決+post-mortem 24h。各ステップを飛ばすと連鎖遅延。
@@ -2465,7 +2465,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ---
 
 ## Bối cảnh / 場面
-Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 error rate ~30% (khoảng 200 user bị affect). Critical incident. So sánh 2 flow.
+Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện API môi trường thật trả lỗi 500 với tỷ lệ ~30% (khoảng 200 người dùng bị ảnh hưởng). Sự cố nghiêm trọng. So sánh 2 quy trình.
 
 ---
 
@@ -2496,7 +2496,7 @@ Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 err
 | **ハイ** | 「原因: 14:00 デプロイの DB index に conflict。rollback <ruby>手順<rt>てじゅん</rt></ruby>準備<ruby>完了<rt>かんりょう</rt></ruby>、15:30 <ruby>実施<rt>じっし</rt></ruby>で<ruby>復旧<rt>ふっきゅう</rt></ruby><ruby>見込<rt>みこ</rt></ruby>み。」 <br/>*Nguyên nhân: index DB của đợt triển khai 14:00 có xung đột. Đã chuẩn bị xong quy trình khôi phục, thực thi 15:30 dự kiến phục hồi.* |
 | **ズン** | 「松本様、**ETA ご報告**: 15:30〜15:45 で rollback 実施、15:45 復旧見込み。原因:本日デプロイの index <ruby>変更<rt>へんこう</rt></ruby>が<ruby>想定外<rt>そうていがい</rt></ruby>の lock を発生。<ruby>詳細<rt>しょうさい</rt></ruby>は復旧後 24時間<ruby>以内<rt>いない</rt></ruby>に Post-mortem レポートをお<ruby>送<rt>おく</rt></ruby>りいたします【6】。」 <br/>*Anh Matsumoto, [Báo thời gian dự kiến] 15:30-15:45 thực thi khôi phục, 15:45 dự kiến ổn định. Nguyên nhân: thay đổi index của đợt triển khai hôm nay gây lock ngoài dự tính. Chi tiết em sẽ gửi báo cáo phân tích sau sự cố trong vòng 24h sau khi khôi phục ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**SLA 5 phút: Slack #incident + tag Tech lead** — không làm 1 mình. Có dấu thời gian + ước tính mức độ nghiêm trọng ban đầu.
 - 【2】**SLA 15 phút: Tech lead → CTO** — anh Tuấn không chần chừ, báo lên CTO ngay.
 - 【3】**SLA 30 phút: CTO phân vai liên lạc với khách** — Hà CTO không tự đi báo khách, để Dũng (chủ trì BD) xử lý theo định hướng.
@@ -2543,7 +2543,7 @@ T+24h       Post-mortem report                    (Tuấn + Hà CTO)
 | 第一報 | だいいっぽう | ĐỆ NHẤT BÁO | Báo cáo đầu tiên |
 | ETA | ETA | — | Estimated time of arrival |
 | ポストモーテム | ぽすともーてむ | — | Post-mortem |
-| Sev1 | Sev1 | — | Critical severity |', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| Sev1 | Sev1 | — | Mức sự cố nghiêm trọng nhất (dịch vụ ngừng / hỏng dữ liệu / lộ bảo mật) |', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000032, 800000005, NULL, 'markdown_book', 'Rule 32 — Khi khách phàn nàn — leo thang / クレームのエスカレーション', '# Rule 32 — Khi khách phàn nàn — leo thang / クレームのエスカレーション
 > **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với giọng trang trọng là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Phản bác ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa xác minh). Công thức đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi trước khi xác minh ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Cấp trên xác minh + lên phương án**, **(4) Trả lời chính thức trong 24h với phương án**.
 >
@@ -2567,7 +2567,7 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 | **ズン** | 「えっと、そんなはずないんですが…<ruby>経理<rt>けいり</rt></ruby>に確認しないと分からないですけど…でもたぶん大丈夫だと思います。今日中に<ruby>直<rt>なお</rt></ruby>して送り直します!」 <br/>*Ờ, em không nghĩ vậy được đâu... em phải hỏi kế toán mới biết... nhưng chắc là không sao đâu ạ. Em sẽ sửa và gửi lại trong hôm nay ạ!* |
 | **大垣** | 「『そんなはずない』とは?『たぶん大丈夫』とは?<ruby>事実<rt>じじつ</rt></ruby>確認していない<ruby>時点<rt>じてん</rt></ruby>で約束されても困りますね。」 <br/>*「Không nghĩ vậy được」 nghĩa là sao? 「Chắc là không sao」 nghĩa là sao? Chưa xác minh mà đã hứa thì tôi cũng phiền.* |
 | **ズン** | 「すみません…」 <br/>*Em xin lỗi ạ...* |
-| **大垣** | 「ズンさん、クレーム対応は: <ruby>傾聴<rt>けいちょう</rt></ruby> → <ruby>仮謝罪<rt>かりしゃざい</rt></ruby> → <ruby>検証<rt>けんしょう</rt></ruby> → 正式回答。今は逆に動いている。」 <br/>*Dũng, ứng xử khiếu nại là: lắng nghe → xin lỗi tạm → xác minh → reply chính thức. Hiện tại em đang làm ngược.* |
+| **大垣** | 「ズンさん、クレーム対応は: <ruby>傾聴<rt>けいちょう</rt></ruby> → <ruby>部分謝罪<rt>ぶぶんしゃざい</rt></ruby> → <ruby>検証<rt>けんしょう</rt></ruby> → 正式回答。今は逆に動いている。」 <br/>*Dũng, ứng xử khiếu nại là: lắng nghe → xin lỗi tạm → xác minh → reply chính thức. Hiện tại em đang làm ngược.* |
 
 **Vì sao xấu:** L2 ba lỗi cùng lúc — phản bác 「そんなはずない」 + suy đoán 「たぶん」 + hứa thời gian khi chưa xác minh 「今日中に直す」. L5 chỉ ra: 4 bước, hiện tại sai cả 4.
 
@@ -2579,7 +2579,7 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 | Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズンさん、4月の<ruby>請求書<rt>せいきゅうしょ</rt></ruby>、金額が違います。当社の客が2回<ruby>問<rt>と</rt></ruby>い合わせしてきており、<ruby>困<rt>こま</rt></ruby>っております。」 <br/>*Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.* |
-| **ズン** | 「**①4月の請求書の金額に<ruby>誤<rt>あやま</rt></ruby>りがあり、御社のお客様から2回お問い合わせいただいているとのこと、ご<ruby>認識<rt>にんしき</rt></ruby>合っておりますでしょうか**【1】。」 <br/>*[1] Invoice tháng 4 có sai số tiền, khách bên anh đã hỏi 2 lần — em hiểu đúng vậy ạ?* |
+| **ズン** | 「**①4月の請求書の金額に<ruby>誤<rt>あやま</rt></ruby>りがあり、御社のお客様から2回お問い合わせいただいているとのこと、ご<ruby>認識<rt>にんしき</rt></ruby>でお<ruby>間違<rt>まちが</rt></ruby>いないでしょうか**【1】。」 <br/>*[1] Invoice tháng 4 có sai số tiền, khách bên anh đã hỏi 2 lần — em hiểu đúng vậy ạ?* |
 | **大垣** | 「その通りです。」 <br/>*Đúng vậy.* |
 | **ズン** | 「**②ご<ruby>不便<rt>ふべん</rt></ruby>をおかけし<ruby>誠<rt>まこと</rt></ruby>に申し訳ございません**。**③具体的な金額の<ruby>差異<rt>さい</rt></ruby>を確認の上、本日18時までに<ruby>第一報<rt>だいいっぽう</rt></ruby>、明日12時までに正式な対応案をご回答**いたします。**詳細**: 請求書番号と差異金額をご<ruby>共有<rt>きょうゆう</rt></ruby>いただけますでしょうか【2】。」 <br/>*[2] Em thực sự xin lỗi vì sự bất tiện ạ. [3] Sau khi xác minh chênh lệch cụ thể, em sẽ báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ. Chi tiết: anh chia sẻ giúp em số invoice và số tiền chênh ạ?* |
 | **大垣** | 「請求書番号 INV-2026-04-031、<ruby>当方<rt>とうほう</rt></ruby>計算では¥850,000、<ruby>貴社<rt>きしゃ</rt></ruby>請求は ¥920,000。」 <br/>*Invoice số INV-2026-04-031, bên tôi tính ¥850,000, bên em ghi ¥920,000.* |
@@ -2587,8 +2587,8 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 | **フオン** | 「ロアンさん、経理ログ確認お願いします。ズン、私とロアンで11:30から確認会議。第一報ドラフトはズンが作成。」 <br/>*Chị Loan, em check log kế toán giúp. Dũng, chị và chị Loan họp xác minh từ 11:30. Draft báo cáo đầu Dũng viết.* |
 | **ズン** | 「大垣様、第一報のご報告です。経理にて確認の結果、**INV-2026-04-031 で ¥70,000 の<ruby>超過<rt>ちょうか</rt></ruby><ruby>記載<rt>きさい</rt></ruby>**が<ruby>判明<rt>はんめい</rt></ruby>いたしました。原因はシステム<ruby>集計<rt>しゅうけい</rt></ruby>時の<ruby>重複計上<rt>ちょうふくけいじょう</rt></ruby>です【4】。**<ruby>訂正<rt>ていせい</rt></ruby>請求書を明日 12時までにお送り**するとともに、<ruby>再発防止策<rt>さいはつぼうしさく</rt></ruby>については Post-mortem レポートにて 48時間以内にご報告申し上げます。先ほどはお電話にて失礼いたしました。ご不便をおかけし誠に申し訳ございません。<ruby>重<rt>かさ</rt></ruby>ねてお<ruby>詫<rt>わ</rt></ruby>び申し上げます【5】。」 <br/>*(17:30, mail) Anh Ōgaki, em xin báo cáo đầu ạ. Sau khi kế toán xác minh, INV-2026-04-031 ghi thừa ¥70,000 ạ. Nguyên nhân: tính trùng khi hệ thống tổng hợp. Em sẽ gửi hóa đơn đính chính trước 12h ngày mai, cùng với báo cáo phân tích sau sự cố về biện pháp ngăn tái phát trong 48 giờ ạ. Vừa rồi em đã thất lễ qua điện thoại. Em thực sự xin lỗi vì sự bất tiện ạ. Em xin lỗi anh thêm lần nữa ạ.* |
 
- **Ghi chú:**
-- 【1】**「①ご認識合っておりますでしょうか」** — lặp lại để xác nhận hiểu đúng. Xác lập nền thông tin, không lao vào biện hộ.
+📝 **Ghi chú:**
+- 【1】**「①ご認識でお間違いないでしょうか」** — lặp lại để xác nhận hiểu đúng. Xác lập nền thông tin, không lao vào biện hộ.
 - 【2】**「②③ご不便… + 第一報時刻 + 正式回答時刻」** — không nhận lỗi cụ thể khi chưa xác minh, nhưng xin lỗi cho 「ご不便」(sự bất tiện). Hứa 2 mốc thời gian.
 - 【3】**Báo lên Hương + Loan** ngay sau cuộc gọi — không 1 mình, không qua đêm.
 - 【4】**Thông tin đã xác minh** — sau khi kiểm tra log mới khẳng định "¥70,000 の超過記載" + nguyên nhân.
@@ -2599,7 +2599,7 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 ## Công thức 4 bước
 ```
 ① 傾聴 + 復唱       「〇〇とのご認識でお間違いないでしょうか」
-② 仮謝罪           「ご不便をおかけし申し訳ございません」 (lỗi chưa cụ thể)
+② 部分謝罪           「ご不便をおかけし申し訳ございません」 (lỗi chưa cụ thể)
 ③ 検証 + 期限       「〇時までに第一報、〇時までに正式回答」
 ④ 正式回答         事実 + 原因 + 訂正案 + 再発防止 (Post-mortem)
 ```
@@ -2607,7 +2607,7 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 ---
 
 ## Cụm từ mẫu
-> **「クレーム対応 = <ruby>傾聴<rt>けいちょう</rt></ruby><ruby>復唱<rt>ふくしょう</rt></ruby> → <ruby>仮謝罪<rt>かりしゃざい</rt></ruby> → <ruby>期限<rt>きげん</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>検証<rt>けんしょう</rt></ruby>約束 → 正式回答 + Post-mortem。<ruby>否定<rt>ひてい</rt></ruby>・<ruby>推測<rt>すいそく</rt></ruby>・即約束はNG。」**
+> **「クレーム対応 = <ruby>傾聴<rt>けいちょう</rt></ruby><ruby>復唱<rt>ふくしょう</rt></ruby> → <ruby>部分謝罪<rt>ぶぶんしゃざい</rt></ruby> → <ruby>期限<rt>きげん</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>検証<rt>けんしょう</rt></ruby>約束 → 正式回答 + Post-mortem。<ruby>否定<rt>ひてい</rt></ruby>・<ruby>推測<rt>すいそく</rt></ruby>・即約束はNG。」**
 
 ---
 
@@ -2625,12 +2625,12 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 | クレーム | くれーむ | — | Khiếu nại / phàn nàn |
 | 傾聴 | けいちょう | KHUYNH THÍNH | Lắng nghe (chủ động) |
 | 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại để xác nhận |
-| 仮謝罪 | かりしゃざい | GIẢ TẠ TỘI | Xin lỗi tạm (chưa nhận lỗi cụ thể) |
+| 部分謝罪 | かりしゃざい | GIẢ TẠ TỘI | Xin lỗi tạm (chưa nhận lỗi cụ thể) |
 | 検証 | けんしょう | KIỂM CHỨNG | Verify / xác minh |
 | 訂正 | ていせい | ĐÍNH CHÍNH | Đính chính / sửa |
 | 再発防止 | さいはつぼうし | TÁI PHÁT PHÒNG CHỈ | Ngăn tái phát |
 | 重複計上 | ちょうふくけいじょう | TRÙNG PHỨC KẾ THƯỢNG | Tính trùng |
-| ご不便 | ごふべん | — | Sự bất tiện (kính ngữ) |', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| ご不便 | ごふべん | — | Sự bất tiện (kính ngữ) |', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000033, 800000005, NULL, 'markdown_book', 'Rule 33 — Báo nghỉ việc / nghỉ dài hạn / 退職・休暇のホウレンソウ', '# Rule 33 — Báo nghỉ việc / nghỉ dài hạn / 退職・休暇のホウレンソウ
 > **Luận điểm.** Nghỉ việc / nghỉ dài (>2 tuần: thai sản, sabbatical, phẫu thuật) **không phải tin cá nhân, mà là sự kiện hệ thống**. Nhân sự mới thường sai: báo sát giờ + không có kế hoạch bàn giao. Nguyên tắc: **(1) Thời điểm báo chuẩn — nghỉ việc ≥ 30 ngày, nghỉ dài ≥ 14 ngày, (2) Báo CHO SẾP trước 1-1, KHÔNG thông báo Slack rộng rãi ngay, (3) Kế hoạch bàn giao chi tiết: công việc / đầu mối liên hệ / tài liệu / người kế nhiệm, (4) Thông báo tới khách có sếp ký tên, (5) 引き継ぎ期間 (kỳ bàn giao) phải có overlap thực với người nhận**.
 >
@@ -2664,15 +2664,15 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 
 | Vai | Câu |
 |---------|-----|
-| **ハイ** | 「トゥアンさん、ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、明日朝 30分お時間いただけますでしょうか?トピック: 個人キャリア計画と<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎについて。<ruby>緊急度<rt>きんきゅうど</rt></ruby>低、今後3ヶ月の<ruby>準備<rt>じゅんび</rt></ruby><ruby>期間<rt>きかん</rt></ruby>がございます【1】。」 <br/>*(Slack DM anh Tuấn) Anh Tuấn, em có việc muốn tham vấn, sáng mai anh dành 30 phút được không ạ? Chủ đề: kế hoạch cá nhân + bàn giao. Mức khẩn cấp thấp, em còn 3 tháng chuẩn bị ạ.* |
-| **ハイ** | 「ご<ruby>相談<rt>そうだん</rt></ruby>です。**7/1 から12/31 まで、6ヶ月間ドイツの<ruby>大学院<rt>だいがくいん</rt></ruby>でサバティカル**を<ruby>取得<rt>しゅとく</rt></ruby>したく、**3ヶ月前の本日4/22にご<ruby>報告<rt>ほうこく</rt></ruby>**いたします【2】。事前にハンドオーバー計画ドラフトを<ruby>作成<rt>さくせい</rt></ruby>しました【3】。」 <br/>*(Sáng hôm sau, 1-on-1) Em xin tham vấn. Em muốn đi sabbatical 6 tháng tại đại học bên Đức từ 1/7-31/12, hôm nay 22/4 em báo trước 3 tháng ạ. Em đã chuẩn bị bản nháp kế hoạch bàn giao ạ.* |
+| **ハイ** | 「トゥアンさん、ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、明日朝 30分お時間いただけますでしょうか?トピック: 個人キャリア計画と<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎについて。<ruby>緊急度<rt>きんきゅうど</rt></ruby>低、今後2ヶ月半の<ruby>準備<rt>じゅんび</rt></ruby><ruby>期間<rt>きかん</rt></ruby>がございます【1】。」 <br/>*(Slack DM anh Tuấn) Anh Tuấn, em có việc muốn tham vấn, sáng mai anh dành 30 phút được không ạ? Chủ đề: kế hoạch cá nhân + bàn giao. Mức khẩn cấp thấp, em còn 2 tháng rưỡi chuẩn bị ạ.* |
+| **ハイ** | 「ご<ruby>相談<rt>そうだん</rt></ruby>です。**7/1 から12/31 まで、6ヶ月間ドイツの<ruby>大学院<rt>だいがくいん</rt></ruby>でサバティカル**を<ruby>取得<rt>しゅとく</rt></ruby>したく、**約2ヶ月半前の本日4/22にご<ruby>報告<rt>ほうこく</rt></ruby>**いたします【2】。事前にハンドオーバー計画ドラフトを<ruby>作成<rt>さくせい</rt></ruby>しました【3】。」 <br/>*(Sáng hôm sau, 1-on-1) Em xin tham vấn. Em muốn đi sabbatical 6 tháng tại đại học bên Đức từ 1/7-31/12, hôm nay 22/4 em báo trước khoảng 2 tháng rưỡi ạ. Em đã chuẩn bị bản nháp kế hoạch bàn giao ạ.* |
 | **ハイ** | 「**Handover Plan**: ① DevOps タスク 12<ruby>項目<rt>こうもく</rt></ruby> (うち5項目を Linh と<ruby>共同化<rt>きょうどうか</rt></ruby>、7項目をズンへ<ruby>移管<rt>いかん</rt></ruby>) / ② AWS <ruby>認証<rt>にんしょう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>・パスワード<ruby>管理<rt>かんり</rt></ruby> (1Passwordで Hà CTO へ owner 移管) / ③ ドキュメント<ruby>整備<rt>せいび</rt></ruby> (運用Runbook v2 を5月末までに<ruby>完成<rt>かんせい</rt></ruby>) / ④ <ruby>候補者<rt>こうほしゃ</rt></ruby>: <ruby>社内<rt>しゃない</rt></ruby>ローテーションでフロントエンドからの DevOps <ruby>兼任<rt>けんにん</rt></ruby>、または<ruby>採用<rt>さいよう</rt></ruby> / ⑤ Overlap <ruby>期間<rt>きかん</rt></ruby>: 6/1〜6/30 の1ヶ月を<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎ<ruby>専用<rt>せんよう</rt></ruby>に<ruby>充当<rt>じゅうとう</rt></ruby>。」 <br/>*[Kế hoạch bàn giao] ① 12 đầu việc vận hành hệ thống (5 cái chia chung với Linh, 7 cái chuyển Dũng) / ② Thông tin xác thực AWS + mật khẩu (chuyển người phụ trách sang anh Hà CTO qua 1Password) / ③ Tài liệu (Runbook v2 hoàn thành cuối tháng 5) / ④ Người kế nhiệm: luân phiên nội bộ FE kiêm vận hành hệ thống, hoặc tuyển / ⑤ Giai đoạn song song: 1 tháng 1/6-30/6 dành riêng cho bàn giao.* |
 | **トゥアン** | 「<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>完璧<rt>かんぺき</rt></ruby>。Hà CTO に1-on-1 を私からセットして。<ruby>決裁<rt>けっさい</rt></ruby>後、客向けの<ruby>正式<rt>せいしき</rt></ruby><ruby>案内<rt>あんない</rt></ruby>は **Hà CTO <ruby>名義<rt>めいぎ</rt></ruby>で6月初** に。Slack <ruby>全社<rt>ぜんしゃ</rt></ruby><ruby>通知<rt>つうち</rt></ruby>は **客向け案内の<ruby>翌日<rt>よくじつ</rt></ruby>**。Hai 個人 broadcast は最後で OK。」 <br/>*Chuẩn bị hoàn hảo. Anh sẽ set 1-on-1 với Hà CTO. Sau khi duyệt, thông báo chính thức cho khách thì Hà CTO ký tên đầu tháng 6. Slack toàn công ty hôm sau. Thông báo cá nhân của Hải để cuối cùng OK.* |
 | **ハイ** | 「ありがとうございます。私からチーム<ruby>個別<rt>こべつ</rt></ruby>1-on-1 (リン・ズン) も Hà CTO <ruby>通知<rt>つうち</rt></ruby>後に<ruby>実施<rt>じっし</rt></ruby>します【4】。」 <br/>*Em cảm ơn anh. 1-on-1 từng người (Linh, Dũng) em cũng làm sau khi anh Hà CTO thông báo ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Slack DM 切り出し** — không gặp đột ngột. Đặt nội dung trước.
-- 【2】**3ヶ月前報告** — sabbatical 6 tháng → 3 tháng notice (nghỉ việc cần ≥ 30 ngày, nghỉ dài ≥ 14 ngày, sabbatical càng lâu càng dài).
+- 【2】**Báo trước ~2 tháng rưỡi** — sabbatical 6 tháng → càng sớm càng tốt, tối thiểu 2 tháng (nghỉ việc cần ≥ 30 ngày, nghỉ dài ≥ 14 ngày, sabbatical càng lâu càng dài).
 - 【3】**Kế hoạch bàn giao có sẵn** — không "sẽ làm sau", phải có ngay buổi 1-on-1.
 - 【4】**Thứ tự: 1-on-1 sếp → CTO → 客先 (sếp ký) → 全社通知 → 個別 1-on-1** — trật tự quan trọng để khách Nhật cảm thấy được tôn trọng.
 
@@ -2683,7 +2683,7 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 |-----------|-----------|----------|--------------|
 | 退職 (nghỉ việc) | 30 ngày | 60 ngày | Sếp trực tiếp 1-on-1 |
 | 長期休暇 / sabbatical | 14 ngày | 30 ngày + | Sếp trực tiếp 1-on-1 |
-| 出産・育休 | 60 ngày (luật) | sớm hơn | Sếp + HR |
+| 出産・育休 | **1 tháng** (育児・介護休業法) | sớm hơn càng tốt | Sếp + HR |
 | 手術休暇 | ASAP sau khi biết | 1 tuần+ | Sếp + cover plan |
 | 病欠 1-3 ngày | sáng cùng ngày | 1 ngày trước | Cả team |
 
@@ -2724,7 +2724,7 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 | 候補者 | こうほしゃ | HẬU BỔ GIẢ | Người kế nhiệm tiềm năng |
 | ランブック | らんぶっく | — | Runbook |
 | Overlap期間 | おーばーらっぷきかん | — | Khoảng thời gian song song |
-| 名義 | めいぎ | DANH NGHĨA | Đứng tên |', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 名義 | めいぎ | DANH NGHĨA | Đứng tên |', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000034, 800000005, NULL, 'markdown_book', 'Rule 34 — Kèm cặp Hou-Ren-Sou cho nhân sự mới / 新人指導', '# Rule 34 — Kèm cặp Hou-Ren-Sou cho nhân sự mới / 新人指導
 > **Luận điểm.** Nhân sự mới (thực tập, mới vào 1-3 tháng) có 2 vấn đề kinh điển: **(1) Quá rụt rè** → không dám 報告 / 連絡 vì sợ làm phiền sếp, **(2) Quá thoáng** → 質問 mỗi 5 phút trong DM. Người kèm phải dựng **2 cấu trúc cố định**: **(a) Weekly 1-on-1** (30 phút Thứ Sáu, nội dung có cấu trúc), **(b) Slack giờ mở cửa hỏi** (1 khung giờ cố định/ngày, vd 14:00-15:00 người kèm sẵn sàng). Cộng với **(c) Kỳ vọng** rõ ràng từ tuần 1: "Có gì hỏi là tốt, đừng ngại / nhưng sự cố nghiêm trọng thì @ tôi ngay không cần đợi giờ mở cửa".
 >
@@ -2766,7 +2766,7 @@ Em Linh (thực tập sinh Marketing) đã nhận việc làm quen được 2 tu
 | **リン** | 「<ruby>分<rt>わ</rt></ruby>かりやすいです!Office Hour <ruby>外<rt>そと</rt></ruby>で<ruby>蓄積<rt>ちくせき</rt></ruby>する thread のテンプレもありますか?」 <br/>*Em hiểu rõ rồi ạ! Mẫu tích lũy câu hỏi ngoài giờ mở cửa có không ạ?* |
 | **ズン** | 「あるよ、Notion 『リン<ruby>質問<rt>しつもん</rt></ruby>ボード』を<ruby>共有<rt>きょうゆう</rt></ruby>する。**<ruby>質問<rt>しつもん</rt></ruby>・<ruby>自分<rt>じぶん</rt></ruby>の<ruby>仮説<rt>かせつ</rt></ruby>・<ruby>優先度<rt>ゆうせんど</rt></ruby>** 3<ruby>列<rt>れつ</rt></ruby>で。」 <br/>*Có chứ, anh share Notion 「Bảng câu hỏi của Linh」 nhé. 3 cột: câu hỏi / giả thuyết của em / mức ưu tiên.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「3つ説明します」** — đưa cấu trúc ra trước. Linh nắm ngay được mình sẽ không phải bối rối.
 - 【2】**1-on-1 hàng tuần giờ cố định + mẫu nội dung** — không "khi nào tiện" mà là khung giờ cố định. Linh có chỗ dựa ổn định.
 - 【3】**Giờ mở cửa mỗi ngày** — 1 giờ/ngày Dũng cam kết thời gian phản hồi. Ngoài giờ Linh tự gom câu hỏi vào bảng Notion.
@@ -2815,7 +2815,7 @@ Em Linh (thực tập sinh Marketing) đã nhận việc làm quen được 2 tu
 | 1-on-1 | わんおんわん | — | 1 kèm 1 |
 | 蓄積 | ちくせき | TÚC TÍCH | Tích lũy |
 | 質問ボード | しつもんぼーど | CHẤT VẤN | Bảng câu hỏi |
-| 集中環境 | しゅうちゅうかんきょう | TẬP TRUNG HOÀN CẢNH | Môi trường tập trung |', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 集中環境 | しゅうちゅうかんきょう | TẬP TRUNG HOÀN CẢNH | Môi trường tập trung |', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000035, 800000005, NULL, 'markdown_book', 'Rule 35 — Hou-Ren-Sou khi làm từ xa / リモートワーク時', '# Rule 35 — Hou-Ren-Sou khi làm từ xa / リモートワーク時
 > **Luận điểm.** Làm từ xa khiến trạng thái của mỗi thành viên trở nên "vô hình" — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 thói quen tạo hiện diện**: **(1) Họp đứng hàng ngày không đồng bộ** (Slack 9:30, 1 tin nhắn theo định dạng DDBN), **(2) Biểu tượng trạng thái Slack** (working / away / focus / meeting), **(3) Nhật ký cuối ngày** (1 dòng tổng kết cuối ngày trên Slack #nhật-ký-hằng-ngày). Thêm: **bật camera trong họp** (mặc định, không "今日はちょっと…"), **thời gian phản hồi cam kết** trong giờ làm việc dưới 1 giờ.
 >
@@ -2857,7 +2857,7 @@ Em Linh làm từ xa thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "
 | **リン** | 「**③EOD ログ** 【EOD 4/22】Done: ブロシュア<ruby>校正版<rt>こうせいばん</rt></ruby><ruby>送付済<rt>そうふずみ</rt></ruby>(田中PMO <ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認済<rt>かくにんずみ</rt></ruby>) / <ruby>持<rt>も</rt></ruby>ち<ruby>越<rt>こ</rt></ruby>し: なし / 明日 Top 3: ① Phase3 marketing plan ② <ruby>印刷会社<rt>いんさつがいしゃ</rt></ruby><ruby>発注<rt>はっちゅう</rt></ruby> ③ ハイ留学 announcement draft【3】。**ステータス<ruby>更新<rt>こうしん</rt></ruby>:  →  EOD**。」 <br/>*[3 Nhật ký cuối ngày] [Cuối ngày 22/4] Done: đã gửi bản hiệu đính brochure (anh Tanaka đã xác nhận) / Chuyển sang mai: không / Top 3 ngày mai: [1] Kế hoạch Marketing Phase 3 [2] Đặt nhà in [3] Bản thảo thông báo Hải đi du học. Trạng thái:  →  Hết giờ.* |
 | **ズン** | 「visibility 完璧。<ruby>客先<rt>きゃくさき</rt></ruby>からも『分かりやすい』とのこと。<ruby>継続<rt>けいぞく</rt></ruby>して。」 <br/>*Hiện diện hoàn hảo. Khách cũng nói ''rõ ràng''. Em duy trì nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**朝会 9:30 WFH icon ** — báo ngay từ đầu ngày là làm từ xa. Đồng thời đã theo định dạng DDBN.
 - 【2】**「working until 18:00 ICT」** — ghi rõ múi giờ ICT (rule 21). Anh Tanaka biết khung giờ Linh trực tuyến.
 - 【3】**EOD ログ** — chốt cuối ngày, có "Top 3 ngày mai". Sếp/khách đọc 1 tin nhắn là biết hôm sau làm gì.
@@ -2867,12 +2867,12 @@ Em Linh làm từ xa thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "
 ## Quy ước biểu tượng trạng thái Slack
 | Icon | Trạng thái | Khi nào |
 |------|-------------|---------|
-|  working | Đang trực tuyến + sẵn sàng phản hồi | Giờ làm việc mặc định |
-|  away | Tạm rời máy | Ăn trưa / nghỉ giải lao (kèm thời gian) |
-|  focus | Tập trung sâu, phản hồi trong 1h | Coding / soạn thảo |
-|  meeting | Đang họp | Họp với khách / họp nội bộ |
-|  EOD | Hết giờ | Sau khi đăng EOD log |
-|  WFH | Làm việc tại nhà | Cả ngày (kết hợp với ) |
+| 🟢 | `working` — Đang trực tuyến + sẵn sàng phản hồi | Giờ làm việc mặc định |
+| 🟡 | `away` — Tạm rời máy | Ăn trưa / nghỉ giải lao (kèm thời gian) |
+| 🔴 | `focus` — Tập trung sâu, phản hồi trong 1h | Coding / soạn thảo |
+| 📅 | `meeting` — Đang họp | Họp với khách / họp nội bộ |
+| 🌙 | `EOD` — Hết giờ | Sau khi đăng EOD log |
+| 🏠 | `WFH` — Làm việc tại nhà | Cả ngày (kết hợp với các trạng thái trên) |
 
 ---
 
@@ -2891,7 +2891,7 @@ Em Linh làm từ xa thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "
 ## Tránh
 - Làm từ xa mà không khai báo họp đứng buổi sáng → sếp/khách phải hỏi quanh.
 - Trạng thái Slack không cập nhật khi đi ăn / đi họp → thời gian phản hồi bị đánh giá thấp.
-- Tắt camera "không có lý do" → người Nhật coi là không nghiêm túc.
+- Tắt camera "không có lý do" → dễ bị hiểu là không nghiêm túc. Nếu cần tắt (mạng yếu, đang di chuyển) thì nói trước một câu.
 - Bỏ nhật ký cuối ngày nhiều ngày → mất vòng phản hồi.
 
 ---
@@ -2907,7 +2907,7 @@ Em Linh làm từ xa thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "
 | 校正版 | こうせいばん | HIỆU CHÍNH BẢN | Bản đã hiệu đính |
 | 集中モード | しゅうちゅうもーど | TẬP TRUNG | Chế độ tập trung |
 | 可視化 | かしか | KHẢ THỊ HÓA | Hữu hình hóa |
-| カメラON | かめらおん | — | Bật camera |', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| カメラON | かめらおん | — | Bật camera |', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000036, 800000005, NULL, 'markdown_book', 'Rule 36 — Thu hẹp khoảng cách VN-JP về HouRenSou / VN-JP オフショア・ギャップ', '# Rule 36 — Thu hẹp khoảng cách VN-JP về HouRenSou / VN-JP オフショア・ギャップ
 > **Luận điểm.** VN văn hóa giao tiếp **"ít báo = tốt hơn"**: không có tin = mọi thứ ổn, báo nhiều = phiền sếp. Nhật ngược lại — **"im lặng = có vấn đề"**: không có 報告 (báo cáo) = sếp lo "team đang giấu". Đây là nguyên nhân số 1 của xích mích offshore. Thích nghi: **team VN phải vượt mức tần suất 報告 theo chuẩn Nhật**: họp đứng hàng ngày không bỏ + cập nhật trạng thái mỗi 4 giờ trong sự cố + báo cáo 3 lần (đầu / giữa / cuối) cho đầu việc hơn 1 ngày. Cụ thể quy tắc: **"mức thường của Nhật" = "VN +30% báo cáo"**. Và **chủ động báo "không có tin mới"** — 「現在進行中で、ブロッカーなしです」.
 >
@@ -2949,7 +2949,7 @@ Em Dũng đang làm 1 đầu việc 3 ngày: soạn bản đề xuất báo giá
 | **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、Phase 3 ご<ruby>提案書<rt>ていあんしょ</rt></ruby>をお<ruby>送<rt>おく</rt></ruby>りいたします。**<ruby>月曜<rt>げつよう</rt></ruby>お<ruby>約束通<rt>やくそくどお</rt></ruby>り**、<ruby>火曜<rt>かよう</rt></ruby>・<ruby>水曜<rt>すいよう</rt></ruby>に<ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て<ruby>本日<rt>ほんじつ</rt></ruby><ruby>完成<rt>かんせい</rt></ruby>いたしました。ご<ruby>確認<rt>かくにん</rt></ruby>のほどよろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます【3】。」 <br/>*Anh Matsumoto, em xin gửi bản đề xuất Phase 3 ạ. Đúng như hứa thứ Hai, qua 2 báo cáo trung gian thứ Ba và thứ Tư, hôm nay em đã hoàn thành ạ. Phiền anh xác nhận ạ.* |
 | **松本PM** | 「<ruby>進捗<rt>しんちょく</rt></ruby>の<ruby>見<rt>み</rt></ruby>える<ruby>化<rt>か</rt></ruby>、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>分<rt>わ</rt></ruby>かりやすくなりました。ベトナムチームのホウレンソウが<ruby>大変<rt>たいへん</rt></ruby><ruby>分<rt>わ</rt></ruby>かりやすくなり、<ruby>感謝<rt>かんしゃ</rt></ruby>しております。」 <br/>*Việc hữu hình hóa tiến độ rõ hơn rất nhiều. Hou-Ren-Sou của team Việt Nam dễ hiểu hơn nhiều, tôi rất cảm kích.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**月曜時点で「進捗共有の予定」を約束** — cam kết trước nhịp báo cáo ngay từ đầu. Khách Nhật biết khi nào sẽ nghe lại.
 - 【2】**「ブロッカーなし、予定通り進行中」** — đây là **「báo cáo khi không có tin mới」**. Không có gì mới = vẫn báo 1 dòng.
 - 【3】**「月曜お約束通り、火曜・水曜に中間報告を経て」** — khép vòng báo cáo. Chứng minh mỗi lời hứa đều được giữ.
@@ -2991,7 +2991,7 @@ Em Dũng đang làm 1 đầu việc 3 ngày: soạn bản đề xuất báo giá
 | ギャップ | ぎゃっぷ | — | Khoảng cách |
 | 文化的差異 | ぶんかてきさい | VĂN HÓA ĐÍCH SAI DỊ | Khác biệt văn hóa |
 | 予定通り | よていどおり | DỰ ĐỊNH | Đúng kế hoạch |
-| 適応 | てきおう | THÍCH ỨNG | Thích nghi |', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 適応 | てきおう | THÍCH ỨNG | Thích nghi |', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000037, 800000005, NULL, 'markdown_book', 'Rule 37 — Slack / Notion / Email — chọn đúng / ツール選択', '# Rule 37 — Slack / Notion / Email — chọn đúng / ツール選択
 > **Luận điểm.** 3 kênh chính có **mục đích khác nhau**, không thay thế cho nhau. Cài đúng công cụ theo trục **độ khẩn (Urgency) × quy mô người nhận (Audience) × mức lưu trữ (Persistence — cần lưu lâu không?)**. Gửi sai kênh = thông tin bay mất (chỉ Slack thì 1 tuần tìm không ra) hoặc gây phiền (gửi mail cho 1 câu hỏi 30 giây). Bảng quyết định sau dành cho người Việt làm việc với khách Nhật.
 >
@@ -3032,7 +3032,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 | **ズン** | 「**③Notion** <ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>改定案<rt>かいていあん</rt></ruby> v3 を Notion で<ruby>共有<rt>きょうゆう</rt></ruby>しました: 〈URL〉 <ruby>編集権<rt>へんしゅうけん</rt></ruby>あり、コメント<ruby>歓迎<rt>かんげい</rt></ruby>です。」 <br/>*[3 Notion] Em đã share bản sửa hợp đồng v3 qua Notion: 〈URL〉. Có quyền edit, hoan nghênh anh comment ạ.* |
 | **ズン** | 「**④Invite** Phase 3 <ruby>進捗<rt>しんちょく</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby> 4/29(<ruby>水<rt>すい</rt></ruby>) 14:00-15:00 JST」 <br/>*[4 Invite] Họp tiến độ Phase 3 thứ Tư 29/4 14:00-15:00 JST* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「4点それぞれ最適な手段で」** — tuyên bố trước khi hành động. Anh Tanaka biết Dũng đã phân loại.
 - 【2】**Slack giữ ② ETA** — đúng tình huống nên dùng: khẩn + nhỏ + ngắn hạn.
 - 【3】**Notion cho ③ 契約書 (hợp đồng)** — cộng tác chỉnh sửa + lịch sử phiên bản. Mail thì hỏng vì có 5 vòng cập nhật.
@@ -3043,7 +3043,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 ## Bảng quyết định
 | Công cụ | Độ khẩn | Người nhận | Mức lưu trữ | Đúng cho |
 |------|---------|----------|-------------|---------|
-| **Slack** | Cao | Nhỏ (1-10) | Thấp (~30 ngày là tìm không ra) | ETA, vướng mắc, họp đứng đầu ngày, 雑談 |
+| **Slack** | Cao | Nhỏ (1-10) | Thấp — trôi nhanh trong luồng chat, khó tra lại | ETA, vướng mắc, họp đứng đầu ngày, 雑談 |
 | **Notion / Confluence** | Thấp | Vừa-Lớn | Cao (lưu mãi) | Spec, contract draft, runbook, DR, OKR |
 | **Email** | Thấp-Vừa | Bên ngoài (khách) | Cao (bằng chứng pháp lý) | 公式提案、契約、リスケ依頼、悪い知らせ |
 | **Outlook / GCal invite** | — | Người dự họp | (theo sự kiện) | 会議招待 + ICS 付き |
@@ -3070,8 +3070,8 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 ---
 
 ## Tránh
-- 20MB PDF lên Slack → 1 tuần là tìm không ra.
-- 公式 proposal qua Slack — khách Nhật coi là không nghiêm túc.
+- File nặng ném lên Slack rồi để trôi trong luồng chat → vài ngày sau không ai tìm lại được. Tài liệu chính thức phải để trên Drive kèm link.
+- 公式 proposal qua Slack — sai kênh: đề xuất chính thức đi bằng mail hoặc văn bản, Slack chỉ để báo "đã gửi".
 - 契約書 nhồi Notion comments với mail reply-all chéo nhau → loạn phiên bản.
 - Sự kiện lịch qua Slack thuần — không theo dõi chấp nhận/từ chối được.
 
@@ -3088,7 +3088,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 | 招待 | しょうたい | CHIÊU ĐÃI | Mời (calendar invite) |
 | 編集権 | へんしゅうけん | BIÊN TẬP QUYỀN | Quyền chỉnh sửa |
 | 検索 | けんさく | KIỂM SÁCH | Tìm kiếm |
-| 改定案 | かいていあん | CẢI ĐỊNH ÁN | Bản sửa đổi |', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 改定案 | かいていあん | CẢI ĐỊNH ÁN | Bản sửa đổi |', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000038, 800000005, NULL, 'markdown_book', 'Rule 38 — Tự chẩn đoán Hou-Ren-Sou / 自己診断', '# Rule 38 — Tự chẩn đoán Hou-Ren-Sou / 自己診断
 > **Luận điểm.** Hou-Ren-Sou là **kỹ năng**, không phải nhân cách — phải **đo định kỳ** mới biết tiến hay lùi. Danh sách kiểm tra tự chẩn đoán 15 mục, chia 3 nhóm × 5 mục: **(1) 報告 5 mục** (kết luận trước, fact/opinion, kịp thời, hạn chót, cấu trúc), **(2) 連絡 5 mục** (即時, chọn đúng kênh, đúng đối tượng, gửi chung vs DM, ghi nhận cuối ngày), **(3) 相談 5 mục** (準備, 仮説, 複数案, 客先 tone, DR化). Chấm tự A/B/C/D mỗi cuối tháng. C-D dưới 3 = OK; ≥ 3 = kích hoạt buổi gặp riêng với người hướng dẫn + kế hoạch cải thiện.
 >
@@ -3109,7 +3109,7 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、4月の<ruby>自己診断<rt>じこしんだん</rt></ruby>やりました。15<ruby>項目<rt>こうもく</rt></ruby>中、A<ruby>評価<rt>ひょうか</rt></ruby>12個、B評価3個、C-D ゼロです。」 <br/>*Chị Hương, em đã tự chấm tháng 4. 15 mục: A 12, B 3, C-D 0 ạ.* |
-| **フオン** | 「うん、見せて。」 *(đọc lướt)* 「ズン、③タイムリー報告 A?今月 Phase 2 <ruby>障害<rt>しょうがい</rt></ruby>で<ruby>第一報<rt>だいいっぽう</rt></ruby>を1時間遅らせたよね。⑦客先 tone は B?<ruby>大垣<rt>おおがき</rt></ruby>様クレームで『そんなはずない』と言ったの忘れた?C-Dゼロは self-bias ね。」 <br/>*Ừ, đưa chị xem. Dũng, [3] Báo cáo kịp thời mà A? Phase 2 sự cố tháng này em chậm báo cáo đầu 1 giờ đó. [7] Giọng với khách B? Lúc anh Ōgaki phàn nàn em nói 「そんなはずない」 (không thể nào) quên rồi à? C-D zero là thiên vị bản thân rồi.* |
+| **フオン** | 「うん、見せて。」 *(đọc lướt)* 「ズン、③タイムリー報告 A?<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>、<ruby>期限<rt>きげん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎてから<ruby>出<rt>だ</rt></ruby>したよね。⑦客先 tone は B?<ruby>大垣<rt>おおがき</rt></ruby>様クレームで『そんなはずない』と言ったの忘れた?C-Dゼロは self-bias ね。」 <br/>*Ừ, đưa chị xem. Dũng, [3] Báo cáo kịp thời mà A? Báo cáo tiến độ tuần trước em chậm báo cáo đầu 1 giờ đó. [7] Giọng với khách B? Lúc anh Ōgaki phàn nàn em nói 「そんなはずない」 (không thể nào) quên rồi à? C-D zero là thiên vị bản thân rồi.* |
 | **ズン** | 「あ…」 <br/>*À...* |
 | **フオン** | 「**自己診断は厳しめが正解**。A 多すぎる時は recalibration が必要。1ヶ月の Slack <ruby>履歴<rt>りれき</rt></ruby>と<ruby>照合<rt>しょうごう</rt></ruby>してやり直し。」 <br/>*Tự chấm phải khắt khe mới đúng. A nhiều quá là phải hiệu chỉnh lại. Em đối chiếu lịch sử Slack 1 tháng rồi làm lại.* |
 
@@ -3123,12 +3123,12 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、<ruby>再診断<rt>さいしんだん</rt></ruby>しました。Slack 履歴と DR を照合した<ruby>結果<rt>けっか</rt></ruby>: **A 7個、B 5個、C 3個、D ゼロ**【1】です。」 <br/>*Chị Hương, em đã chấm lại. Đối chiếu lịch sử Slack + Sổ ghi quyết định: A 7, B 5, C 3, D 0 ạ.* |
-| **ズン** | 「**C評価 3 件**: ③ タイムリー報告 (Phase 2 障害で第一報1時間<ruby>遅延<rt>ちえん</rt></ruby>)、⑦ 客先 tone (大垣様クレーム時の defensive)、⑪ <ruby>複数案<rt>ふくすうあん</rt></ruby><ruby>持参<rt>じさん</rt></ruby> (Redis 追加で1案<ruby>提案<rt>ていあん</rt></ruby>で<ruby>叱<rt>しか</rt></ruby>られた件)。【2】」 <br/>*C 3 cái: [3] Báo cáo kịp thời (Phase 2 sự cố em chậm 1 giờ) / [7] Giọng với khách (phòng thủ lúc anh Ōgaki phàn nàn) / [11] Mang nhiều phương án (vụ Redis em đề xuất 1 phương án bị anh Tuấn nhắc).* |
+| **ズン** | 「**C評価 3 件**: ③ タイムリー報告 (<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>が<ruby>期限<rt>きげん</rt></ruby><ruby>後<rt>ご</rt></ruby>)、⑦ 客先 tone (大垣様クレーム時の defensive)、⑪ <ruby>複数案<rt>ふくすうあん</rt></ruby><ruby>持参<rt>じさん</rt></ruby> (<ruby>先月<rt>せんげつ</rt></ruby>の<ruby>相談<rt>そうだん</rt></ruby>で<ruby>案<rt>あん</rt></ruby>を1つしか<ruby>用意<rt>ようい</rt></ruby>しなかった<ruby>件<rt>けん</rt></ruby>)。【2】」 <br/>*C 3 cái: [3] Báo cáo kịp thời (báo cáo tiến độ tuần trước nộp quá hạn) / [7] Giọng với khách (phòng thủ lúc anh Ōgaki phàn nàn) / [11] Mang nhiều phương án (tháng trước em tham vấn mà chỉ chuẩn bị 1 phương án).* |
 | **フオン** | 「正直な評価ね。Action plan は?」 <br/>*Đánh giá thật rồi. Kế hoạch cải thiện thế nào?* |
 | **ズン** | 「**Action plan**: **③ → rule 31 SLA を Slack pinned で<ruby>常時可視<rt>じょうじかし</rt></ruby>**, **⑦ → rule 32 4ステップを<ruby>暗記<rt>あんき</rt></ruby>、<ruby>機械的<rt>きかいてき</rt></ruby>に運用**, **⑪ → 相談前に最低3案 + matrix を<ruby>必須化<rt>ひっすか</rt></ruby>**。5月末に再診断、C 1 件以下を<ruby>目標<rt>もくひょう</rt></ruby>とします【3】。」 <br/>*Kế hoạch cải thiện: [3] → ghim SLA rule 31 lên Slack để luôn nhìn thấy / [7] → thuộc 4 bước rule 32, áp dụng cơ học / [11] → bắt buộc 3 phương án + ma trận trước khi tham vấn. Cuối tháng 5 chấm lại, mục tiêu C ≤1 ạ.* |
 | **フオン** | 「素晴らしい。再診断は5月最終金曜、Decision Register に登録しておいて。」 <br/>*Tuyệt. Chẩn đoán lại thứ Sáu cuối tháng 5, em ghi vào Sổ ghi quyết định nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「Slack 履歴と DR を照合した結果」** — chấm dựa trên bằng chứng thực tế, không cảm giác.
 - 【2】**C 評価 3 件 nêu cụ thể từng trường hợp** — không chung chung. Có thể hành động.
 - 【3】**Kế hoạch cải thiện với chỉ tiêu số (C ≤1) + hạn chót (cuối tháng 5)** — đo lường được.
@@ -3159,7 +3159,7 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 | 照合 | しょうごう | CHIẾU HỢP | Đối chiếu |
 | 改善計画 | かいぜんけいかく | CẢI THIỆN KẾ HOẠCH | Kế hoạch cải thiện |
 | 目標 | もくひょう | MỤC TIÊU | Mục tiêu |
-| 推移 | すいい | SUY DI | Diễn biến / xu hướng |', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 推移 | すいい | SUY DI | Diễn biến / xu hướng |', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000039, 800000005, NULL, 'markdown_book', 'Rule 39 — Xây dựng văn hóa Hou-Ren-Sou cấp team / チーム文化作り', '# Rule 39 — Xây dựng văn hóa Hou-Ren-Sou cấp team / チーム文化作り
 > **Luận điểm.** Hou-Ren-Sou cá nhân ≠ Hou-Ren-Sou team. Mỗi cá nhân tốt nhưng team không có **cẩm nang vận hành chung** thì khách Nhật vẫn cảm nhận "không nhất quán". Cấp độ team cần **5 thành phần cẩm nang**: **(1) Nghi thức cố định** (họp đứng hàng ngày 9:30, họp hồi cố hàng tuần thứ Sáu, họp toàn công ty hàng tháng), **(2) Đường dẫn bảng chỉ số** (nguồn tra cứu duy nhất cho trạng thái — link Notion / Confluence), **(3) OKR / KPI Hou-Ren-Sou** (vd: thời gian phản hồi SLA 95%, không bỏ sót leo thang Sev1, phủ sóng Sổ ghi quyết định 100%), **(4) Ma trận leo thang** (ai báo lên ai, khi nào), **(5) Hướng dẫn nhập việc** (rule 34 nhân lên cấp team). Trưởng nhóm (Hà CTO + Hương) là **người bảo trợ văn hóa**.
 >
@@ -3198,7 +3198,7 @@ Cuộc họp lãnh đạo ティエンファット tháng 4. Anh Hà CTO + chị
 | **フオン** | 「culture sponsor として: <ruby>月次<rt>げつじ</rt></ruby> all-hands で『<ruby>今月<rt>こんげつ</rt></ruby>の Good ホウレンソウ』『<ruby>今月<rt>こんげつ</rt></ruby>の Lesson』を Slack <ruby>投票<rt>とうひょう</rt></ruby>で<ruby>選<rt>えら</rt></ruby>び、HR の<ruby>評価<rt>ひょうか</rt></ruby>にも<ruby>反映<rt>はんえい</rt></ruby>させましょう【4】。」 <br/>*Với vai người bảo trợ văn hóa: trong họp toàn công ty tháng, tổ chức bình chọn Slack 「Hou-Ren-Sou tốt tháng này」 và 「Bài học tháng này」, kết nối vào đánh giá nhân sự luôn.* |
 | **トゥアン** | 「Tech ritual owner として: <ruby>朝会<rt>あさかい</rt></ruby>と Sev1 escalation drill を<ruby>四半期<rt>しはんき</rt></ruby>ごとに simulation。<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>運用開始<rt>うんようかいし</rt></ruby>。」 <br/>*Với vai chủ trì nghi thức kỹ thuật: họp đứng và diễn tập leo thang Sev1 mỗi quý. Tuần sau bắt đầu vận hành.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「5要素構成」** — cẩm nang vận hành không phải tài liệu dài 50 trang. 5 thành phần dạng mô-đun.
 - 【2】**Đường dẫn bảng chỉ số** — nguồn tra cứu duy nhất. Tránh "tôi nghĩ" / "tôi nhớ".
 - 【3】**OKR đo lường được** — không "cải thiện giao tiếp" mơ hồ mà "95% trong 1h".
@@ -3207,7 +3207,7 @@ Cuộc họp lãnh đạo ティエンファット tháng 4. Anh Hà CTO + chị
 ---
 
 ## Cụm từ mẫu
-> **「Hou-Ren-Sou is a team sport. Playbook <ruby>5要素<rt>ごようそ</rt></ruby> (Rituals + Dashboard + OKR + Escalation + Onboarding) を<ruby>持<rt>も</rt></ruby>って<ruby>初<rt>はじ</rt></ruby>めて、quality が<ruby>個人差<rt>こじんさ</rt></ruby>に<ruby>左右<rt>さゆう</rt></ruby>されない。Leader が culture sponsor。」**
+> **「<ruby>報連相<rt>ほうれんそう</rt></ruby>はチーム<ruby>競技<rt>きょうぎ</rt></ruby>です。 Playbook <ruby>5要素<rt>ごようそ</rt></ruby> (Rituals + Dashboard + OKR + Escalation + Onboarding) を<ruby>持<rt>も</rt></ruby>って<ruby>初<rt>はじ</rt></ruby>めて、quality が<ruby>個人差<rt>こじんさ</rt></ruby>に<ruby>左右<rt>さゆう</rt></ruby>されない。Leader が culture sponsor。」**
 
 ---
 
@@ -3230,7 +3230,7 @@ Cuộc họp lãnh đạo ティエンファット tháng 4. Anh Hà CTO + chị
 | エスカレーション | えすかれーしょん | — | Leo thang / báo cấp trên |
 | カバレッジ | かばれっじ | — | Tỉ lệ phủ |
 | 文化醸成 | ぶんかじょうせい | VĂN HÓA NHƯƠNG THÀNH | Nuôi dưỡng văn hóa |
-| 1人立ち | ひとりだち | — | Tự đứng (hoạt động độc lập) |', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 1人立ち | ひとりだち | — | Tự đứng (hoạt động độc lập) |', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (850000040, 800000005, NULL, 'markdown_book', 'Rule 40 — Hồi cố + cải tiến / 振り返りと改善', '# Rule 40 — Hồi cố + cải tiến / 振り返りと改善
 > **Luận điểm.** Rule 38 là tự chẩn đoán cá nhân, rule 40 là họp hồi cố cấp team. Cuối tuần (16:00 thứ Sáu, 30 phút) team chạy **khuôn KPT**: **Keep** (giữ tiếp những gì tốt), **Problem** (vấn đề tuần này), **Try** (thử mới tuần sau). Đầu ra là **các đầu việc hành động** với **người phụ trách + hạn chót + ngày kiểm tra**. Không có đầu việc hành động = không phải họp hồi cố. Quy tắc: **mỗi Problem phải có ít nhất 1 Try, mỗi Try phải có 1 người phụ trách + 1 ngày kiểm tra**. Khung mẫu đính kèm bên dưới.
 >
@@ -3270,7 +3270,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 | **フオン** | 「いいね、Action items まとめ【2】: ① post-mortem テンプレ<ruby>作成<rt>さくせい</rt></ruby> (owner: ハイ、<ruby>期限<rt>きげん</rt></ruby>: 4/30、check: 5/2 retro) / ② <ruby>仮説先出<rt>かせつさきだ</rt></ruby>し pattern (owner: リン、<ruby>期限<rt>きげん</rt></ruby>: 5/2 retro までに3<ruby>回<rt>かい</rt></ruby><ruby>試行<rt>しこう</rt></ruby>) / ③ <ruby>客先<rt>きゃくさき</rt></ruby> DM routine (owner: ズン、<ruby>期限<rt>きげん</rt></ruby>: 5/9 retro までに4<ruby>週<rt>しゅう</rt></ruby><ruby>運用<rt>うんよう</rt></ruby>) / ④ Decision Register に<ruby>今週分<rt>こんしゅうぶん</rt></ruby>3<ruby>件<rt>けん</rt></ruby><ruby>追加<rt>ついか</rt></ruby> (owner: ズン+リン、<ruby>期限<rt>きげん</rt></ruby>: <ruby>来週月曜<rt>らいしゅうげつよう</rt></ruby>)【3】。」 <br/>*Tốt, tổng hợp đầu việc hành động: [1] Tạo khung mẫu phân tích sau sự cố (Hải phụ trách, hạn: 30/4, kiểm tra: họp hồi cố 2/5) / [2] Quy trình "giả thuyết trước" (Linh phụ trách, hạn: thử 3 lần trước họp hồi cố 2/5) / [3] Lịch nhắn DM khách đều đặn (Dũng phụ trách, hạn: chạy 4 tuần trước họp hồi cố 9/5) / [4] Thêm 3 mục tuần này vào Sổ ghi quyết định (Dũng + Linh phụ trách, hạn: thứ Hai tuần sau).* |
 | **フオン** | 「<ruby>次週<rt>じしゅう</rt></ruby> retro は5/2、<ruby>各<rt>かく</rt></ruby> Action item の<ruby>進捗<rt>しんちょく</rt></ruby> review が<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>議題<rt>ぎだい</rt></ruby>。お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。」 <br/>*Họp hồi cố tuần sau là 2/5, kiểm điểm tiến độ từng đầu việc hành động là nghị trình đầu. Mọi người vất vả.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「事前記入できた人から」** — KPT phải điền trước, không suy nghĩ tại chỗ. Tiết kiệm: 30 phút không thành 60 phút.
 - 【2】**Mỗi Try có đầu việc hành động với người phụ trách + hạn chót + ngày kiểm tra** — không "皆で頑張る" mơ hồ.
 - 【3】**「次週 retro は…review が最初の議題」** — đóng vòng lặp. Đầu việc hành động không bị bỏ qua.
@@ -3322,6 +3322,6 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 | 課題 | かだい | KHÓA ĐỀ | Vấn đề / challenge |
 | 進捗確認 | しんちょくかくにん | TIẾN TIỆP XÁC NHẬN | Kiểm điểm tiến độ |
 | ファシリテーター | ふぁしりてーたー | — | Người dẫn dắt / điều phối cuộc họp |
-| 事前記入 | じぜんきにゅう | SỰ TIỀN KÝ NHẬP | Điền trước |', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 事前記入 | じぜんきにゅう | SỰ TIỀN KÝ NHẬP | Điền trước |', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 
 COMMIT;

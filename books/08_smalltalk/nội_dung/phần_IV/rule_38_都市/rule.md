@@ -61,8 +61,8 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 |  | *Sáng Bánh Mì Huỳnh Hoa (xếp hàng), trưa Cơm Tấm Ba Ghiền (Michelin), tối Quán Bụi Garden (món local kiểu modern).* |
 | **山本** | 「ミシュランあるんや!」 |
 |  | *Có Michelin luôn á!* |
-| **ズン** | 「**ホーチミンはミシュランガイド出てます**(2023〜)。**3区の<ruby>路地裏<rt>ろじうら</rt></ruby>Phở Le**、**1区のフォークインギン**、**Banh Xeo 46A**もミシュラン入りです。」 |
-|  | *HCM có Michelin Guide từ 2023. Phở Lệ trong hẻm Q3, Phở Quỳnh Q1, Bánh Xèo 46A đều vào sao.* |
+| **ズン** | 「**ホーチミンはミシュランガイド出てます**(2023〜)。**3区の<ruby>路地裏<rt>ろじうら</rt></ruby>Phở Le**や**Banh Xeo 46A**が**ビブグルマン**(<ruby>星<rt>ほし</rt></ruby>ではなく「コスパの<ruby>良<rt>よ</rt></ruby>い<ruby>店<rt>みせ</rt></ruby>」<ruby>部門<rt>ぶもん</rt></ruby>)に<ruby>入<rt>はい</rt></ruby>っています。」 |
+|  | *HCM có Michelin Guide từ 2023. Phở Lệ trong hẻm Q3 và Bánh Xèo 46A đều vào **Bib Gourmand** — hạng "ngon, giá hợp lý", khác với hạng sao ạ.* |
 | **山本** | 「それ全部回る!カフェは?」 |
 |  | *Đi hết! Cafe?* |
 | **ズン** | 「**The Workshop**(specialty coffee<ruby>聖地<rt>せいち</rt></ruby>)、**Cafe Apartment(Block 42 Nguyen Hue)**(1棟全部カフェ・古いアパート)、**Vietcetera Café**(<ruby>若手<rt>わかて</rt></ruby>アーティスト集まる)。あと**Saigon Saigon Bar**でルーフトップ、<ruby>教会<rt>きょうかい</rt></ruby>と<ruby>市役所<rt>しやくしょ</rt></ruby>が<ruby>見渡せ<rt>みわたせ</rt></ruby>ます。」 |
@@ -130,7 +130,7 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 
 ■ HCM (1-line):
 「ホーチミンは"路上が食堂、夜は屋上が酒場"の街です。」
-「Banh Mi Huynh Hoa、Com Tam Ba Ghien、Pho Leがミシュラン入り。」
+「Banh Mi Huynh Hoa、Com Tam Ba Ghien、Pho Le がミシュラン・ビブグルマン入り。」
 「Cafe Apartment(Nguyen Hue)、The Workshop、Saigon Saigon Bar。」
 
 ■ DA NANG / HA:

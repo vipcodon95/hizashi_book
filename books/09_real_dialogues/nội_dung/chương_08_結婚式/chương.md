@@ -31,7 +31,7 @@
 | **フオン副部長** | 「(ベトナム語)Quy định trang phục: dark suit (đen hoặc dark navy), white shirt, cravat MÀU trắng-bạc hoặc xám nhạt. KHÔNG cravat đen — đó là tang lễ. KHÔNG suit toàn đen — cũng tang lễ. Em có suit chưa?」<br/>*Quy định trang phục: dark suit (đen hoặc dark navy), white shirt, cravat MÀU trắng-bạc hoặc xám nhạt. KHÔNG cravat đen — đó là tang lễ. KHÔNG suit toàn đen — cũng tang lễ. Em có suit chưa?* |
 | **ズン** | 「(ベトナム語)Suit dark navy có rồi, em mua hồi onsite. Cravat...em chỉ có đen với đỏ.」<br/>*Suit dark navy có rồi, em mua hồi đợt làm việc tại chỗ. Cravat… em chỉ có đen với đỏ.* |
 | **フオン副部長** | 「(ベトナム語)OK em mua thêm 1 cravat trắng-bạc Aoki / Konaka khi qua Tokyo. ¥3,000-5,000.」<br/>*OK em mua thêm 1 cravat trắng-bạc Aoki / Konaka khi qua Tokyo. ¥3,000-5,000.* |
-| **フオン副部長** | 「(ベトナム語)RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '<ruby>欠席<rt>けっせき</rt></ruby>' (vắng), khoanh '<ruby>出席<rt>しゅっせき</rt></ruby>' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành.」<br/>*RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '欠席' (vắng), khoanh '出席' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành.* |
+| **フオン副部長** | 「(ベトナム語)RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '<ruby>欠席<rt>けっせき</rt></ruby>' (vắng), khoanh '<ruby>出席<rt>しゅっせき</rt></ruby>' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành.」<br/>*RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. 4 bước: (1) gạch '欠席', khoanh '出席'; (2) **gạch bỏ hết chữ '御'/'ご' in sẵn** — để nguyên là tự dùng kính ngữ cho chính mình; (3) mặt ghi địa chỉ người nhận, **gạch chữ '行' rồi viết '様'**; (4) viết câu chúc mừng ngắn 1-2 câu chân thành.* |
 | **フオン副部長** | 「(ベトナム語)Quà thêm: hoa cho cô dâu hoặc quà nhỏ cho cặp đôi tùy ý. Gửi đến nhà 1 tuần trước đám cưới. Nhưng nếu không tiện, goshugi là đủ.」<br/>*Quà thêm: hoa cho cô dâu hoặc quà nhỏ cho cặp đôi tùy ý. Gửi đến nhà 1 tuần trước đám cưới. Nhưng nếu không tiện, goshugi đủ.* |
 | **ズン** | 「(ベトナム語)Ghi hết rồi. Em sẽ mua goshugi + cravat ở Tokyo thứ Sáu tới, đám cưới thứ Bảy.」<br/>*Ghi hết rồi. Em sẽ mua goshugi + cravat ở Tokyo thứ Sáu tới, đám cưới thứ Bảy.* |
 | **フオン副部長** | 「(ベトナム語)Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em là người nhà đó. Cứ tận hưởng nha.」<br/>*Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em như người nhà rồi. Cứ tận hưởng nha.* |
@@ -43,7 +43,7 @@ Người lần đầu dự kekkonshiki Nhật cần đàn anh/chị hướng d�
 1. **Goshugi**: đồng nghiệp = 30,000円, sếp gần = 50,000円, gia đình = 100,000円+. Tiền mới tinh + shugi-bukuro chuyên dụng (không dùng phong bì thường).
 2. **Quy định trang phục**: dark suit + white shirt + cravat trắng-bạc/xám. Cấm tuyệt đối: cravat đen, suit toàn đen.
 3. **Ngày/địa điểm**: xác nhận Google Maps trước 1 ngày.
-4. **RSVP** trong 1 tuần, reply card có định dạng đặc biệt (gạch 欠席, khoanh 出席, viết câu chúc).
+4. **RSVP** trong 1 tuần, reply card có định dạng đặc biệt: gạch 欠席 + khoanh 出席, **gạch mọi chữ 御/ご in sẵn**, **gạch 行 đổi thành 様**, rồi viết câu chúc (không dùng dấu chấm phẩy — xem mục 忌み言葉).
 5. **Quà tùy ý** nhưng goshugi là đủ.
 
 Quan trọng: được mời kekkonshiki = tín hiệu 'trong gia đình', không phải bình thường.
@@ -66,20 +66,20 @@ Quan trọng: được mời kekkonshiki = tín hiệu 'trong gia đình', khôn
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「(shugi-bukuro <ruby>出<rt>だ</rt></ruby>す)<ruby>御祝儀<rt>おしゅうぎ</rt></ruby>です、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*(rút shugi-bukuro) Goshugi đây ạ, nhờ chị.* |
-| **結婚式スタッフ** | 「(<ruby>両手<rt>りょうて</rt></ruby>で<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>る)ありがとうございます…(<ruby>中身<rt>なかみ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>)…あ、お<ruby>客様<rt>きゃくさま</rt></ruby>、<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありません、お<ruby>札<rt>さつ</rt></ruby>の<ruby>向<rt>む</rt></ruby>き、こちらでは<ruby>表側<rt>おもてがわ</rt></ruby>を<ruby>上<rt>うえ</rt></ruby>にする<ruby>習慣<rt>しゅうかん</rt></ruby>で…」<br/>*(2 tay nhận)… (kiểm tra bên trong)… ơ, thưa quý khách, em xin lỗi, hướng tiền, tập tục bên này thì để mặt ngoài lên trên ạ…* |
+| **フオン副部長** | 「(<ruby>小声<rt>こごえ</rt></ruby>で<ruby>ズン<rt></rt></ruby>を<ruby>止<rt>と</rt></ruby>める)ズンさん、<ruby>渡<rt>わた</rt></ruby>す<ruby>前<rt>まえ</rt></ruby>にちょっと。お<ruby>札<rt>さつ</rt></ruby>の<ruby>向<rt>む</rt></ruby>き、<ruby>確認<rt>かくにん</rt></ruby>した?<ruby>肖像画<rt>しょうぞうが</rt></ruby>が<ruby>先<rt>さき</rt></ruby>に<ruby>見<rt>み</rt></ruby>える<ruby>向<rt>む</rt></ruby>きよ。」<br/>*(ghé nhỏ, giữ Dũng lại) Dũng à, khoan đưa đã. Em kiểm chiều tờ tiền chưa? Phải để mở phong bì ra là thấy chân dung trước.* |
 
-*[Dũng cứng người. Quên mất quy tắc này — gấp tiền đúng nhưng quên chiều. Mặt nóng.]*
-
-| Vai | Câu |
-|---------|-----|
-| **ズン** | 「あ、すみません、<ruby>知<rt>し</rt></ruby>らなくて…<ruby>直<rt>なお</rt></ruby>してもいいですか?」<br/>*À, em xin lỗi, em không biết… em sửa được không ạ?* |
-| **結婚式スタッフ** | 「(微笑む)もちろんです、こちらの台で。お時間あります。」<br/>*(cười) Dĩ nhiên ạ, sửa ở bàn đây. Có thời gian.* |
-
-*[Dũng quay sang bàn nhỏ, mở phong bì mừng cưới (shugi-bukuro), lấy 3 tờ 10,000 ra. Xếp lại — mặt có Fukuzawa Yukichi (mặt 'omote') hướng lên + đầu hướng vào trong shugi-bukuro. 30 giây xong. Trả lại staff.]*
+*[Dũng cứng người. Quên mất quy tắc này — tiền mới đúng, số tờ đúng, nhưng quên chiều. May là chị Hương giữ lại kịp trước khi đưa.]*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「(<ruby>深<rt>ふか</rt></ruby>くお<ruby>辞儀<rt>じぎ</rt></ruby>)<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありません。これでお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*(cúi đầu sâu) Em xin lỗi. Cái này nhờ chị.* |
+| **ズン** | 「あ、<ruby>忘<rt>わす</rt></ruby>れてました…<ruby>今<rt>いま</rt></ruby><ruby>直<rt>なお</rt></ruby>します。」<br/>*À, em quên mất… em sửa ngay ạ.* |
+| **フオン副部長** | 「あちらの<ruby>台<rt>だい</rt></ruby>で。<ruby>時間<rt>じかん</rt></ruby>あるから<ruby>慌<rt>あわ</rt></ruby>てないで。」<br/>*Sửa ở bàn đằng kia. Còn thời gian, đừng cuống.* |
+
+*[Dũng quay sang bàn nhỏ, mở phong bì mừng cưới (shugi-bukuro), lấy 3 tờ 10,000 ra. Xếp lại — mặt có chân dung Shibusawa Eiichi (mặt 'omote') hướng lên, đặt sao cho mở phong bì ra là thấy chân dung trước. 30 giây xong. Quay lại quầy tiếp tân.]*
+
+| Vai | Câu |
+|---------|-----|
+| **ズン** | 「(お<ruby>辞儀<rt>じぎ</rt></ruby>)<ruby>御祝儀<rt>ごしゅうぎ</rt></ruby>です、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*(cúi chào) Goshugi đây ạ, nhờ chị.* |
 | **結婚式スタッフ** | 「(<ruby>微笑<rt>ほほえ</rt></ruby>む)はい、ありがとうございます。チャペル<ruby>入口<rt>いりぐち</rt></ruby>は2<ruby>階<rt>かい</rt></ruby>、エレベーターでどうぞ。<ruby>式<rt>しき</rt></ruby>は12<ruby>時<rt>じ</rt></ruby><ruby>開始<rt>かいし</rt></ruby>です。」<br/>*(cười) Vâng, cảm ơn ạ. Cửa nhà nguyện tầng 2, mời quý khách dùng thang máy. Lễ bắt đầu 12 giờ.* |
 
 
@@ -87,12 +87,15 @@ Quan trọng: được mời kekkonshiki = tín hiệu 'trong gia đình', khôn
 
 Chi tiết quy tắc goshugi:
 - **Tiền MỚI tinh** từ ngân hàng (新札). Tiền cũ = thiếu chuẩn bị / thất lễ. Đổi ở ATM Mizuho / SMBC hoặc quầy giao dịch trước 1 ngày.
-- **Chiều tiền**: mặt 'omote' (mặt có Fukuzawa Yukichi cho ¥10,000) hướng LÊN, đầu hướng VÀO TRONG shugi-bukuro. Tất cả tờ cùng chiều.
+- **Chiều tiền**: mặt 'omote' (mặt có chân dung — tờ ¥10,000 từ 7/2024 là **Shibusawa Eiichi**) hướng LÊN, và **đặt sao cho mở phong bì ra là thấy chân dung trước tiên** — tức đầu có chân dung hướng lên phía miệng phong bì. Tất cả tờ cùng chiều.
 - **Số tờ LẺ** (1, 3, 5) — không 2, 4 (số lẻ tốt, số chẵn có nghĩa 'chia rẽ'). 30,000 = 3 tờ 10K, không 2 tờ 10K + 1 tờ 5K + 5 tờ 1K. Đơn giản là tốt nhất.
 - **Tránh** số 4 (死) và 9 (苦) — 40K, 90K cấm.
 - **Shugi-bukuro chuyên dụng** (nơ trắng-bạc 結びきり) — Don Quijote / cửa hàng tiện lợi đều bán.
 - **Viết tên đầy đủ** mặt ngoài + bên trong số tiền chữ Hán: '金参萬円' (¥30,000).
 - Lỗi của Dũng = nhân viên sửa giúp nhẹ nhàng, không phải chuyện lớn. Nhưng lần sau thuộc lòng.
+- **袱紗 (fukusa) — mảnh vải bọc phong bì, chi tiết dễ bỏ sót nhất.** Không ai nhắc bạn, và không phải khách nào cũng để ý — nhưng ở tiệc cưới trang trọng thì rút phong bì trần từ trong túi ra bị xem là thiếu chuẩn bị. Cách làm: bọc shugi-bukuro trong fukusa, đến quầy tiếp tân mới mở ra, đặt phong bì lên fukusa đã gấp làm đế rồi **xoay mặt chữ về phía người nhận** và đưa hai tay.
+  ⚠️ **Màu fukusa phân biệt hỉ - tang:** mừng cưới dùng **màu ấm** (đỏ, hồng, cam, tím); **màu lạnh** (xanh lam, xám, xanh lá) là dành cho đám tang — dùng nhầm là điềm rất xấu. **Màu tím (紫)** dùng được cho cả hai, nên nếu chỉ mua một cái thì mua tím. Giá khoảng ¥1.000-2.000 ở Don Quijote hay hiệu sách lớn.
+  Nếu thật sự không có fukusa: dùng khăn tay vuông sạch màu ấm cũng chấp nhận được — vẫn hơn là rút phong bì trần.
 
 
 ---
@@ -215,13 +218,13 @@ Chi tiết quy tắc goshugi:
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「<ruby>初<rt>はじ</rt></ruby>めまして、ベトナム HCMC から<ruby>来<rt>き</rt></ruby>ました、Tien Phat 社の Tran Van Dung、ズンと<ruby>申<rt>もう</rt></ruby>します。<ruby>田中<rt>たなか</rt></ruby>さんとは<ruby>仕事<rt>しごと</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>って、<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>招<rt>まね</rt></ruby>きいただいて<ruby>感激<rt>かんげき</rt></ruby>しています。」<br/>*Rất hân hạnh, em từ HCMC Việt Nam, là Trần Văn Dũng của Tien Phat, anh chị gọi em là Dũng. Em quen anh Tanaka qua công việc, hôm nay được mời em rất xúc động.* |
-| **同席ゲストB** | 「(架空、<ruby>驚<rt>おどろ</rt></ruby>き)ベトナムから?Tanaka が<ruby>外国<rt>がいこく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>の<ruby>珍<rt>めずら</rt></ruby>しい!2<ruby>人<rt>にん</rt></ruby>どうやって<ruby>出会<rt>であ</rt></ruby>ったの?」<br/>*(khách bàn 2, ngạc nhiên) Từ Việt Nam? Tanaka mời người nước ngoài hiếm lắm! 2 người gặp thế nào?* |
+| **同席ゲストB** | 「(架空、<ruby>驚<rt>おどろ</rt></ruby>き)ベトナムから?Tanaka が<ruby>外国<rt>がいこく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ぶなんて<ruby>珍<rt>めずら</rt></ruby>しい!2<ruby>人<rt>にん</rt></ruby>どうやって<ruby>出会<rt>であ</rt></ruby>ったの?」<br/>*(khách bàn 2, ngạc nhiên) Từ Việt Nam? Tanaka mời người nước ngoài hiếm lắm! 2 người gặp thế nào?* |
 | **ズン** | 「2<ruby>年前<rt>ねんまえ</rt></ruby>、<ruby>白鷗<rt>はくおう</rt></ruby>とティエンファットの Phase 4 プロジェクトで<ruby>田中<rt>たなか</rt></ruby>さんが PMO <ruby>担当<rt>たんとう</rt></ruby>でした。<ruby>最初<rt>さいしょ</rt></ruby>は Slack の<ruby>文字<rt>もじ</rt></ruby>だけの<ruby>関係<rt>かんけい</rt></ruby>でしたが、IT Week <ruby>東京<rt>とうきょう</rt></ruby>、HCMC visit、<ruby>出張<rt>しゅっちょう</rt></ruby>、<ruby>温泉<rt>おんせん</rt></ruby>、<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>深<rt>ふか</rt></ruby>まって。」<br/>*2 năm trước, dự án Phase 4 giữa Hakuō và Tien Phat, anh Tanaka là PMO. Đầu chỉ qua Slack, sau IT Week Tokyo, HCMC visit, công tác, onsen, dần dần sâu.* |
 | **同席ゲストA** | 「Tanaka、<ruby>本当<rt>ほんとう</rt></ruby>に lucky だね、こんなに<ruby>深<rt>ふか</rt></ruby>い business friendship つくれて。」<br/>*Tanaka thật may mắn nhỉ, xây dựng được tình bạn công việc sâu vầy.* |
 | **同席ゲストC** | 「(架空)ズンさん、ベトナムの<ruby>結婚式<rt>けっこんしき</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>、どう<ruby>違<rt>ちが</rt></ruby>う?」<br/>*(khách bàn 3) Dũng à, đám cưới Việt Nam khác đám cưới Nhật chỗ nào?* |
-| **ズン** | 「(<ruby>笑<rt>わら</rt></ruby>って)ベトナムの<ruby>結婚式<rt>けっこんしき</rt></ruby>は、<ruby>招待客<rt>しょうたいきゃく</rt></ruby>が300-500<ruby>人<rt>にん</rt></ruby>、<ruby>最大<rt>さいだい</rt></ruby>1000<ruby>人<rt>にん</rt></ruby>とか<ruby>普通<rt>ふつう</rt></ruby>です。<ruby>料金<rt>りょうきん</rt></ruby>は<ruby>新郎新婦<rt>しんろうしんぷ</rt></ruby>が<ruby>負担<rt>ふたん</rt></ruby>。<ruby>皆<rt>みな</rt></ruby>さん<ruby>来<rt>き</rt></ruby>てくれた<ruby>人<rt>ひと</rt></ruby>に goshugi <ruby>概念<rt>がいねん</rt></ruby>ない、<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>料理<rt>りょうり</rt></ruby>を<ruby>奢<rt>おご</rt></ruby>る。」<br/>*(cười) Đám cưới Việt Nam khách 300-500 người, max 1000 thường. Tiền chú rể cô dâu chịu. Khách không có concept goshugi, ngược lại đãi đồ ăn.* |
-| **同席ゲストB** | 「1000人?!すごい!」<br/>*1000 người?! Wow!* |
-| **ズン** | 「<ruby>代<rt>か</rt></ruby>わりに<ruby>儀式<rt>ぎしき</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>い、30<ruby>分<rt>ぷん</rt></ruby>。<ruby>日本<rt>にほん</rt></ruby>のように bouquet toss とか cake cutting とか<ruby>細<rt>こま</rt></ruby>かい<ruby>儀式<rt>ぎしき</rt></ruby>はない。」<br/>*Đổi lại lễ ngắn, 30 phút. Không có nghi thức chi tiết như tung hoa hoặc cắt bánh kiểu Nhật.* |
+| **ズン** | 「(<ruby>笑<rt>わら</rt></ruby>って)ベトナムだと<ruby>招待客<rt>しょうたいきゃく</rt></ruby>が300<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>式<rt>しき</rt></ruby>も<ruby>珍<rt>めずら</rt></ruby>しくないです。<ruby>田舎<rt>いなか</rt></ruby>だと<ruby>村中<rt>むらじゅう</rt></ruby><ruby>呼<rt>よ</rt></ruby>ぶこともあって、<ruby>都市部<rt>としぶ</rt></ruby>の<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さくやる<ruby>傾向<rt>けいこう</rt></ruby>もあります。<ruby>料金<rt>りょうきん</rt></ruby>は<ruby>新郎新婦<rt>しんろうしんぷ</rt></ruby>が<ruby>負担<rt>ふたん</rt></ruby>。ご<ruby>祝儀<rt>しゅうぎ</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>もあります。<ruby>私<rt>わたし</rt></ruby>の<ruby>地元<rt>じもと</rt></ruby>では<ruby>赤<rt>あか</rt></ruby>い<ruby>封筒<rt>ふうとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて<ruby>受付<rt>うけつけ</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>しますが、<ruby>地域<rt>ちいき</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>によってやり<ruby>方<rt>かた</rt></ruby>はけっこう<ruby>違<rt>ちが</rt></ruby>います。ただ<ruby>金額<rt>きんがく</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>よりずっと<ruby>控<rt>ひか</rt></ruby>えめで、<ruby>新札<rt>しんさつ</rt></ruby>や<ruby>枚数<rt>まいすう</rt></ruby>の<ruby>決<rt>き</rt></ruby>まりもゆるいです。」<br/>*(cười) Bên em đám cưới 300 khách trở lên không hiếm. Ở quê có khi mời cả làng, còn người trẻ ở thành phố giờ lại có xu hướng làm nhỏ gọn. Chi phí do nhà trai nhà gái lo. Mừng phong bì thì cũng có. Quê em thì bỏ bao lì xì đỏ đưa ở bàn tiếp tân, nhưng mỗi vùng mỗi nhà một kiểu khác nhau. Mức tiền nói chung nhẹ hơn bên Nhật, và cũng không ngặt chuyện tiền mới hay số tờ.* |
+| **同席ゲストB** | 「<ruby>村中<rt>むらじゅう</rt></ruby>?!すごい!」<br/>*Cả làng?! Wow!* |
+| **ズン** | 「<ruby>代<rt>か</rt></ruby>わりに<ruby>儀式<rt>ぎしき</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>い、30<ruby>分<rt>ぷん</rt></ruby>。ケーキ<ruby>入刀<rt>にゅうとう</rt></ruby>やシャンパンタワーは<ruby>私<rt>わたし</rt></ruby>が<ruby>出<rt>で</rt></ruby>た<ruby>式<rt>しき</rt></ruby>にもありました。ただ<ruby>日本<rt>にほん</rt></ruby>ほど<ruby>進行<rt>しんこう</rt></ruby>が<ruby>細<rt>こま</rt></ruby>かく<ruby>決<rt>き</rt></ruby>まっていない<ruby>印象<rt>いんしょう</rt></ruby>です。」<br/>*Đổi lại lễ ngắn, 30 phút. Cắt bánh với rót tháp ly thì đám em từng dự cũng có. Chỉ là chương trình không chia nhỏ từng bước như bên Nhật, cảm giác ồn ào náo nhiệt hơn.* |
 | **同席ゲストC** | 「<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>文化差<rt>ぶんかさ</rt></ruby>!ベトナム<ruby>行<rt>い</rt></ruby>ってみたいな。」<br/>*Khác biệt văn hóa thú vị! Muốn qua Việt Nam.* |
 | **ズン** | 「ぜひ<ruby>来<rt>き</rt></ruby>てください、Tanaka さんとも<ruby>一緒<rt>いっしょ</rt></ruby>に。」<br/>*Mời các anh chị qua, cùng với anh Tanaka.* |
 
@@ -249,7 +252,7 @@ Bàn tròn đám cưới = 8 người không quen. Cách tiếp cận của ngư
 
 *[Bánh cưới nhiều tầng trắng-hồng. Tanaka + Yumi cùng cầm dao, cắt miếng đầu tiên. Tiếng vỗ tay + đèn flash khắp nơi.]*
 
-*[Dũng giơ iPhone, quay 30 giây. Tanaka đút Yumi 1 miếng bánh — Yumi đút lại Tanaka miếng to (truyền thống — 'to' = ngầm hiểu 'tao sẽ nuôi mày no cả đời'). Tanaka cười rộng.]*
+*[Dũng giơ iPhone, quay 30 giây. Tanaka đút Yumi **miếng to** (ngầm hiểu 'anh sẽ nuôi em no đủ cả đời') — rồi Yumi đút lại Tanaka một miếng vừa ('em sẽ nấu cho anh ăn suốt đời'). Cả phòng cười ồ.]*
 
 *[Sau phần đút bánh, MC mời từng bàn lên chụp ảnh với cô dâu chú rể.]*
 
@@ -517,17 +520,17 @@ Việc cần làm:
 - [ ] Hỏi Hùng (Thanh Hà) về cách đón tiếp khách Nhật gặp bố mẹ
 - [ ] Mua 2 cravat trắng-bạc Aoki khi qua Tokyo lần tới
 - [ ] Cập nhật lịch sprint Phase 5 cho phù hợp với 6 tháng làm việc tại Tokyo
-  từ Q1 2027 — đã thống nhất với Matsumoto chương 7
+  từ Q1 2028 — đã thống nhất với Matsumoto chương 7
 - [ ] Đăng LinkedIn ngắn về 'khách dự đám cưới Nhật — góc nhìn văn hóa'
   (không tag Tanaka trực tiếp — tôn trọng sự riêng tư của Tanaka)
 
 Nhìn lại:
 - Sách 09 chương 8 — đây là chương cuối hành trình Dũng từ nhân viên BD
-  mới vào nghề đến hôm nay. Khoảng 3 năm câu chuyện trong sách.
+  mới vào nghề đến hôm nay. Sách kể 12 tháng (5/2026 → 5/2027), trên nền quan hệ Thiên Phát × Hakuō đã sang năm thứ hai.
 - Đám cưới Tanaka = cột mốc đóng lại quan hệ với Hakuō. Bắt đầu chương 1
   IT Week với Tanaka 'PMO mặt nghiêm', kết chương 8 với Tanaka 'mời
   gặp bố mẹ em'. Khoảng cách đi được vô hình nhưng lớn lắm.
-- 6 tháng làm việc tại Tokyo bắt đầu Q1 2027 — chương cuối hành trình 'người VN học JP',
+- 6 tháng làm việc tại Tokyo bắt đầu Q1 2028 — chương cuối hành trình 'người VN học JP',
   mở ra hành trình mới 'người VN đại diện ở Tokyo'.
 - Cơ thể mệt 10 phần, đầu nhẹ + lòng đầy 10 phần. Cảm ơn Tanaka,
   cảm ơn đội Hakuō, cảm ơn chị Hương + anh Tuấn + Linh + Hải.

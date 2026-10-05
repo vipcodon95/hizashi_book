@@ -7,7 +7,7 @@
 BEGIN;
 
 -- 1) Curricula
-INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000007, NULL, 'markdown_book', 'BJT', 'Đàm phán · Đề xuất', 'Bộ sách Hizashi — Đàm phán · Đề xuất', 'Hizashi シリーズ — 商談・交渉', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET type = EXCLUDED.type, title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, category = EXCLUDED.category, tenant_id = EXCLUDED.tenant_id, is_system = EXCLUDED.is_system, is_public = EXCLUDED.is_public, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, free_preview_count = EXCLUDED.free_preview_count, status = EXCLUDED.status, updated_at = NOW();
+INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000007, NULL, 'markdown_book', 'BJT', 'Đàm phán · Đề xuất', 'Bộ sách Hizashi — Đàm phán · Đề xuất', 'Hizashi シリーズ — 商談・交渉', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, updated_at = NOW();
 
 -- 2) Curriculum nodes
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000001, 800000007, NULL, 'markdown_book', 'Rule 01 — BATNA: Phương án thay thế tốt nhất / BATNA — 交渉決裂時の代替案', '# Rule 01 — BATNA: Phương án thay thế tốt nhất / BATNA — 交渉決裂時の代替案
@@ -45,11 +45,11 @@ Tháng 5/2026, Phase 3 với 白鷗 vào vòng đàm phán giá lần 1. Anh Hà
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 3 <ruby>価格交渉<rt>かかくこうしょう</rt></ruby>の **BATNA 3 シナリオ**を<ruby>作成<rt>さくせい</rt></ruby>しました【1】。レビューいただけますでしょうか？」 <br/>*Chị Hương, em đã tạo BATNA 3 kịch bản cho đàm phán giá Phase 3 ạ. Phiền chị xem lại giúp em được không ạ?* |
-| **フオン** | 「シナリオA(<ruby>成立<rt>せいりつ</rt></ruby>): ¥18M、target、shake hand。シナリオB(<ruby>再交渉<rt>さいこうしょう</rt></ruby>): ¥16.5M + scope -10%、ハー CTO <ruby>承認済<rt>しょうにんずみ</rt></ruby>。シナリオC(walk-away): ¥15M <ruby>以下<rt>いか</rt></ruby>なら<ruby>撤退<rt>てったい</rt></ruby>、<ruby>別案件<rt>べつあんけん</rt></ruby> X 社の話進める。これは<ruby>具体的<rt>ぐたいてき</rt></ruby>でいいね。」 <br/>*Kịch bản A (chốt thương vụ): ¥18M, mục tiêu, bắt tay. Kịch bản B (đàm phán lại): ¥16.5M + phạm vi -10%, anh Hà CTO đã duyệt. Kịch bản C (rút lui): dưới ¥15M thì rút, chuyển sang X社. Cụ thể, OK.* |
+| **フオン** | 「シナリオA(<ruby>成立<rt>せいりつ</rt></ruby>): ¥18M、target、shake hand。シナリオB(<ruby>再交渉<rt>さいこうしょう</rt></ruby>): ¥16.5M + scope -10%、ハー CTO <ruby>承認済<rt>しょうにんずみ</rt></ruby>。シナリオC(walk-away): ¥15M <ruby>未満<rt>みまん</rt></ruby>なら<ruby>撤退<rt>てったい</rt></ruby>、<ruby>別案件<rt>べつあんけん</rt></ruby> X 社の話進める。これは<ruby>具体的<rt>ぐたいてき</rt></ruby>でいいね。」 <br/>*Kịch bản A (chốt thương vụ): ¥18M, mục tiêu, bắt tay. Kịch bản B (đàm phán lại): ¥16.5M + phạm vi -10%, anh Hà CTO đã duyệt. Kịch bản C (rút lui): dưới ¥15M thì rút, chuyển sang X社. Cụ thể, OK.* |
 | **ズン** | 「シナリオB の<ruby>根拠<rt>こんきょ</rt></ruby>は、**Phase 2 <ruby>同等<rt>どうとう</rt></ruby>スコープなら ¥16.5M で<ruby>利益率<rt>りえきりつ</rt></ruby> 22% <ruby>維持可能<rt>いじかのう</rt></ruby>**【2】、ハー CTO に<ruby>確認済<rt>かくにんず</rt></ruby>みです。シナリオC は **3月にX社から ¥17M の MoU <ruby>受領<rt>じゅりょう</rt></ruby>** が走っているので、こちらに切り替え可能です【3】。」 <br/>*Cơ sở kịch bản B: phạm vi tương đương Phase 2 thì ¥16.5M giữ tỷ suất lợi nhuận 22%, anh Hà CTO đã xác nhận ạ. Kịch bản C: tháng 3 đã có MoU ¥17M từ X社 đang chạy, em có thể chuyển sang ạ.* |
-| **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。明日<ruby>大垣<rt>おおがき</rt></ruby>さんが ¥15M 以下を出してきたら、シナリオ C を<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>提示<rt>ていじ</rt></ruby>。『<ruby>弊社<rt>へいしゃ</rt></ruby>にも他のオプションがある』ことを声に出さなくても tone で伝わる。それが BATNA の力。」 <br/>*Tuyệt. Mai anh Ōgaki đẩy xuống dưới ¥15M thì em đưa kịch bản C ra một cách thẳng thắn. ''Bên em cũng có lựa chọn khác'' không cần nói thành lời, giọng điệu cũng truyền tải. Đó là sức mạnh BATNA.* |
+| **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。明日<ruby>大垣<rt>おおがき</rt></ruby>さんが ¥15M 未満を出してきたら、シナリオ C を<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>提示<rt>ていじ</rt></ruby>。『<ruby>弊社<rt>へいしゃ</rt></ruby>にも他のオプションがある』ことを声に出さなくても tone で伝わる。それが BATNA の力。」 <br/>*Tuyệt. Mai anh Ōgaki đẩy xuống dưới ¥15M thì em đưa kịch bản C ra một cách thẳng thắn. ''Bên em cũng có lựa chọn khác'' không cần nói thành lời, giọng điệu cũng truyền tải. Đó là sức mạnh BATNA.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「BATNA 3 シナリオ」** — A (chốt nguyên), B (đã chuẩn bị trả giá ngược), C (rút lui). Mỗi kịch bản phải có **con số + điều kiện + người đã duyệt**.
 - 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Giữ biên lợi nhuận ≥ 20% là ngưỡng nội bộ.
 - 【3】**Kịch bản C (rút lui) cần lựa chọn thay thế thật** — không phải đòn dọa suông. X 社 MoU thật → Dũng vào phòng với sự tự tin.
@@ -80,7 +80,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào vòng đàm phán giá lần 1. Anh Hà
 | 利益率 | りえきりつ | LỢI ÍCH SUẤT | Tỷ suất lợi nhuận |
 | 内部承認 | ないぶしょうにん | NỘI BỘ THỪA NHẬN | Duyệt nội bộ |
 | シナリオ | シナリオ | — | Kịch bản |
-| MoU | MoU | — | Biên bản ghi nhớ |', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| MoU | MoU | — | Biên bản ghi nhớ |', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000002, 800000007, NULL, 'markdown_book', 'Rule 02 — ZOPA: Vùng có thể thỏa thuận / ZOPA — 合意可能領域', '# Rule 02 — ZOPA: Vùng có thể thỏa thuận / ZOPA — 合意可能領域
 > **Luận điểm.** **ZOPA** (Zone Of Possible Agreement) là khoảng giao giữa giá giới hạn của bên mình và giá giới hạn của khách. Nếu hai khoảng KHÔNG giao nhau → không có thương vụ. Trước đàm phán phải ước lượng cả 4 con số: *mục tiêu* + *giới hạn rút lui* của mình, *trần ngân sách* + *sàn ngân sách* (mức tối thiểu) của khách.
 >
@@ -115,7 +115,7 @@ Sau khi xem xét BATNA xong (rule 01), Hương yêu cầu Dũng thêm **bản đ
 | **ズン** | 「Phase 2 が ¥14.5M でクローズ、白鷗 IT 部の<ruby>年度予算<rt>ねんどよさん</rt></ruby>は<ruby>前年比<rt>ぜんねんひ</rt></ruby> +15% と<ruby>田中<rt>たなか</rt></ruby>さんが Slack で<ruby>漏<rt>も</rt></ruby>らしていました【2】。14.5 × 1.15 ≒ ¥16.7M、<ruby>切<rt>き</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げて ¥17M です。」 <br/>*Phase 2 chốt ¥14.5M, ngân sách năm phòng IT Hakuō tăng 15% — anh Tanaka có lộ trên Slack ạ. 14.5 × 1.15 ≒ ¥16.7M, làm tròn thành ¥17M ạ.* |
 | **フオン** | 「ZOPA は ¥15M〜¥17M の<ruby>幅<rt>はば</rt></ruby> 2M ある。target ¥18M は ZOPA 上限を超えてるけど、anchor として出すには<ruby>適切<rt>てきせつ</rt></ruby>。**<ruby>着地点<rt>ちゃくちてん</rt></ruby>は ¥16.5M <ruby>前後<rt>ぜんご</rt></ruby>と<ruby>想定<rt>そうてい</rt></ruby>して、<ruby>譲歩計画<rt>じょうほけいかく</rt></ruby>(rule 09)に<ruby>反映<rt>はんえい</rt></ruby>**して。」 <br/>*ZOPA rộng ¥15M〜¥17M, biên độ 2M. Mục tiêu ¥18M vượt trần chút nhưng làm giá neo thì OK. Điểm chốt dự ¥16.5M, phản ánh vào kế hoạch nhượng bộ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**ZOPA マッピング = 4 con số:** mình *mục tiêu* + *giới hạn rút lui*, khách *trần ngân sách* + *sàn ngân sách*. Vẽ trên 1 trục, kiểm tra có giao nhau không.
 - 【2】**Thông tin nội bộ về khách phải có nguồn cụ thể** — ai nói, ở đâu (Slack/họp/website), khi nào. Tránh "tôi đoán" thuần.
 - Giá neo có thể **vượt trần ZOPA một chút** (mục tiêu ¥18M > ¥17M) — đây là chủ ý để có dư địa nhượng bộ. Nhưng nếu vượt quá xa → khách cảm thấy bị xúc phạm, rút lui.
@@ -146,7 +146,7 @@ Sau khi xem xét BATNA xong (rule 01), Hương yêu cầu Dũng thêm **bản đ
 | 撤退価格 | てったいかかく | TRIỆT THOÁI GIÁ CÁCH | Giá giới hạn rút lui |
 | 予算上限 | よさんじょうげん | DỰ TOÁN THƯỢNG HẠN | Trần ngân sách |
 | 着地点 | ちゃくちてん | TRƯỚC ĐỊA ĐIỂM | Điểm chốt |
-| アンカー | アンカー | — | Giá neo (giá mở) |', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| アンカー | アンカー | — | Giá neo (giá mở) |', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000003, 800000007, NULL, 'markdown_book', 'Rule 03 — Hiểu phong cách quyết định ringi (稟議) / 稟議の理解', '# Rule 03 — Hiểu phong cách quyết định ringi (稟議) / 稟議の理解
 > **Luận điểm.** Khách Nhật KHÔNG quyết định trong 1 cuộc họp. Quy trình là: **nemawashi (根回し — đi gặp riêng từng người chủ chốt trước)** → **ringi (稟議書 — văn bản chuyền tay)** → **決裁 (kessai — sếp đóng dấu cuối)**. Ép khách "chốt ngay hôm nay" với khách Nhật = tự phá hỏng thương vụ của mình.
 >
@@ -185,7 +185,7 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。明日松本さんに『稟議のご<ruby>検討<rt>けんとう</rt></ruby>にあたり、何か追加情報<ruby>必要<rt>ひつよう</rt></ruby>でしたらお<ruby>声<rt>こえ</rt></ruby>がけください』とメールします。**催促ではなく support 姿勢**で。」 <br/>*Em rõ ạ. Mai em mail anh Matsumoto ''xin liên hệ nếu cần bổ sung thông tin cho việc thảo luận ringi''. Tư thế support, không hối thúc ạ.* |
 | **フオン** | 「正解。決めるのは大垣さんでも松本さんでもなく、**社内<ruby>合意<rt>ごうい</rt></ruby>の<ruby>総和<rt>そうわ</rt></ruby>**。<ruby>我々<rt>われわれ</rt></ruby>はそれを<ruby>助<rt>たす</rt></ruby>ける。」 <br/>*Chuẩn. Người quyết không phải anh Ōgaki hay anh Matsumoto, mà là tổng đồng thuận nội bộ. Mình hỗ trợ chuyện đó.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Chu kỳ ringi 2-3 tuần là bình thường** — hợp đồng càng lớn càng lâu (¥18M thì 3-4 tuần). Nếu trả lời trong 1 tuần thì ngược lại là dấu hiệu "không xét nghiêm túc".
 - 【2】**根回し (nemawashi)** = đi gặp riêng từng người chủ chốt trước khi văn bản chính thức (ringi-sho) chuyền tay. Đây là không chính thức nhưng quyết định chính.
 - 【3】**Hỗ trợ nemawashi** = đưa cho người liên hệ (Matsumoto) tài liệu/luận điểm để họ nói với các nhân vật then chốt khác. KHÔNG phải gọi điện hối thúc.
@@ -216,7 +216,7 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 | 決裁 | けっさい | QUYẾT TÀI | Sếp ký duyệt cuối |
 | 即決 | そっけつ | TỨC QUYẾT | Quyết định ngay |
 | 催促 | さいそく | THÔI XÚC | Hối thúc, đòi |
-| 進捗 | しんちょく | TIẾN TIỆP | Tiến độ |', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 進捗 | しんちょく | TIẾN TIỆP | Tiến độ |', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000004, 800000007, NULL, 'markdown_book', 'Rule 04 — Thu thập thông tin khách / 顧客リサーチ', '# Rule 04 — Thu thập thông tin khách / 顧客リサーチ
 > **Luận điểm.** Trước đàm phán phải biết: **(1) Người quyết định** (決裁ライン), **(2) Chu kỳ ngân sách** (年度予算 4-3月), **(3) Đối thủ** (đối thủ nào cũng đang chào hàng), **(4) Tin tức kinh doanh gần đây** (IR, M&A, sa thải). Thiếu 1 trong 4 = bước vào phòng mù 25%.
 >
@@ -251,7 +251,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** | 「(1) <ruby>決裁<rt>けっさい</rt></ruby>ライン: ¥10M <ruby>超<rt>ちょう</rt></ruby>は中村 CFO 決裁、それ以下は<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby><ruby>権限<rt>けんげん</rt></ruby>【2】。今回 ¥18M なので CFO 通る。(2) <ruby>予算<rt>よさん</rt></ruby>サイクル: 白鷗は 4月-3月、<ruby>現在<rt>げんざい</rt></ruby> 4 月<ruby>初旬<rt>しょじゅん</rt></ruby>で **<ruby>新年度<rt>しんねんど</rt></ruby> IT 予算は通ったばかり**【3】、<ruby>追加<rt>ついか</rt></ruby><ruby>要求<rt>ようきゅう</rt></ruby>しやすい<ruby>時期<rt>じき</rt></ruby>。(3) <ruby>競合<rt>きょうごう</rt></ruby>: <ruby>大手<rt>おおて</rt></ruby> SIer Y 社がパラレルに pitch 中、<ruby>見積<rt>みつもり</rt></ruby> ¥22M との<ruby>噂<rt>うわさ</rt></ruby>【4】。(4) <ruby>直近業績<rt>ちょっきんぎょうせき</rt></ruby>: 先月 IR で営業利益 -12%、コスト圧縮トーンが強いです。」 <br/>*(1) Người quyết định: trên ¥10M là CFO Nakamura duyệt, dưới là quyền GĐKD Ōgaki. Lần này ¥18M nên qua CFO. (2) Chu kỳ ngân sách: Hakuō 4-3, hiện đầu tháng 4 — ngân sách IT năm mới vừa thông, dễ đề xuất. (3) Đối thủ: Y社 SIer lớn đang chào hàng song song, có tin đồn báo giá ¥22M. (4) Kết quả gần: IR tháng trước lợi nhuận hoạt động -12%, xu hướng nén chi phí mạnh ạ.* |
 | **フオン** | 「いいね。これで<ruby>戦略<rt>せんりゃく</rt></ruby>決まる。**Y 社 ¥22M との<ruby>対比<rt>たいひ</rt></ruby>で『品質<ruby>同等<rt>どうとう</rt></ruby>で安い』を<ruby>強調<rt>きょうちょう</rt></ruby>**、CFO に<ruby>響<rt>ひび</rt></ruby>く ROI <ruby>数値<rt>すうち</rt></ruby>を<ruby>全面<rt>ぜんめん</rt></ruby>に。利益 -12% への<ruby>配慮<rt>はいりょ</rt></ruby>として『<ruby>段階導入<rt>だんかいどうにゅう</rt></ruby>で<ruby>初期投資<rt>しょきとうし</rt></ruby><ruby>抑制<rt>よくせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>』も<ruby>用意<rt>ようい</rt></ruby>して。」 <br/>*Tốt. Vậy là chiến lược chốt. Đối chiếu Y社 ¥22M để nhấn ''chất lượng ngang, rẻ hơn'', số liệu ROI nhắm trúng CFO lên đầu. Cân nhắc lợi nhuận -12%, chuẩn bị thêm ''triển khai theo giai đoạn để giảm vốn đầu tư ban đầu''.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**4 軸インテルシート** = (1) 決裁ライン、(2) 予算サイクル、(3) 競合、(4) 直近業績。各軸ソース付きで管理.
 - 【2】**決裁権限の閾値** — biết được giúp đoán kịch bản phê duyệt. ¥10M là ngưỡng thường gặp ở doanh nghiệp tầm trung JP.
 - 【3】**Chu kỳ ngân sách JP**: thường 4月-3月. Q1 (4-6月) = ngân sách mới, dễ đề xuất; Q4 (1-3月) = chốt sổ cuối năm, hạn chế.
@@ -283,7 +283,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 営業利益 | えいぎょうりえき | DOANH NGHIỆP LỢI ÍCH | Lợi nhuận hoạt động |
 | コスト圧縮 | コストあっしゅく | — ÁP SÚC | Cắt giảm chi phí |
 | 段階導入 | だんかいどうにゅう | ĐOẠN GIAI ĐẠO NHẬP | Triển khai theo giai đoạn |
-| インテルシート | インテルシート | — | Phiếu thông tin tình báo thương mại |', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| インテルシート | インテルシート | — | Phiếu thông tin tình báo thương mại |', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000005, 800000007, NULL, 'markdown_book', 'Rule 05 — Chiến lược định giá / 価格戦略', '# Rule 05 — Chiến lược định giá / 価格戦略
 > **Luận điểm.** Có 3 cách đặt giá: **(1) Cộng chi phí** (原価+利益率) — an toàn nhưng tự định giá thấp, **(2) Theo giá trị** (giá trị khách nhận về) — cao nhất nhưng cần chứng minh ROI, **(3) Neo giá** (đặt cao trước, để khách kéo xuống). Chọn sai mô hình → hoặc bỏ tiền trên bàn, hoặc bị khách rút lui.
 >
@@ -319,7 +319,7 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 | **ズン** | 「はい。AI レコメンド<ruby>導入<rt>どうにゅう</rt></ruby>で transaction <ruby>単価<rt>たんか</rt></ruby> +12%、white paper でモデルケース 3 <ruby>社<rt>しゃ</rt></ruby>あります。CFO <ruby>中村<rt>なかむら</rt></ruby>さんへの ROI シート【3】も<ruby>作成済<rt>さくせいず</rt></ruby>みです。」 <br/>*Vâng ạ. Triển khai AI recommend giúp transaction unit price +12%, có 3 model case trong white paper. ROI sheet cho CFO Nakamura em cũng đã làm xong ạ.* |
 | **フオン** | 「いいね。¥19M を<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>出<rt>だ</rt></ruby>して、value で<ruby>押<rt>お</rt></ruby>す。¥18M に<ruby>着地<rt>ちゃくち</rt></ruby>しても<ruby>粗利率<rt>あらりりつ</rt></ruby> 26%、<ruby>許容範囲<rt>きょようはんい</rt></ruby>。」 <br/>*Tốt. Em ra ¥19M một cách thẳng thắn, đẩy bằng giá trị. Có chốt ¥18M thì lợi nhuận gộp 26%, vẫn nằm trong khoảng chấp nhận.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**3 mô hình so sánh**: bắt buộc đối chiếu cả 3, không nhảy thẳng vào 1 cái.
 - 【2】**Giá neo > Mục tiêu > Giới hạn rút lui** = 3 con số riêng biệt. Giá neo = số mở miệng (cao), Mục tiêu = số mong đạt, Giới hạn rút lui = mức thấp nhất chấp nhận.
 - 【3】**ROI シート** cho CFO = công cụ then chốt để chốt khi dùng định giá theo giá trị. Không có ROI → định giá theo giá trị về bản chất là "anh tin tôi đi" → khó được duyệt.
@@ -351,7 +351,7 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 | 戦略案件 | せんりゃくあんけん | CHIẾN LƯỢC ÁN KIỆN | Thương vụ chiến lược |
 | 商品案件 | しょうひんあんけん | THƯƠNG PHẨM ÁN KIỆN | Thương vụ hàng hóa phổ thông |
 | アンカー | アンカー | — | Giá neo (giá mở) |
-| インパクト | インパクト | — | Tác động |', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| インパクト | インパクト | — | Tác động |', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000006, 800000007, NULL, 'markdown_book', 'Rule 06 — Đề xuất 3 bậc: Good / Better / Best / 3段階提案', '# Rule 06 — Đề xuất 3 bậc: Good / Better / Best / 3段階提案
 > **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt có/không. Đưa **3 bậc (Cơ bản / Tiêu chuẩn / Cao cấp)** = khách so sánh nội bộ → kiến trúc lựa chọn nghiêng về bậc giữa (hiệu ứng mồi nhử). 95% khách Nhật sẽ chọn bậc giữa nếu cấu trúc đúng.
 >
@@ -388,7 +388,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn bản đề xu�
 | **ズン** | 「Best は<ruby>専任<rt>せんにん</rt></ruby> SRE 1 名<ruby>常駐<rt>じょうちゅう</rt></ruby>、SLA 99.99%、24/7 サポート、<ruby>優先機能開発<rt>ゆうせんきのうかいはつ</rt></ruby>【3】。CFO <ruby>中村<rt>なかむら</rt></ruby>さんの『コスト<ruby>圧縮<rt>あっしゅく</rt></ruby>』トーンに照らすと『出しすぎ』感を出す設計です。」 <br/>*Bậc cao cấp có 1 SRE chuyên trách túc trực, SLA 99.99%, hỗ trợ 24/7, ưu tiên phát triển tính năng. Đối chiếu xu hướng ''nén chi phí'' của CFO Nakamura, thiết kế để tạo cảm giác ''chi quá tay'' ạ.* |
 | **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。**Better が『<ruby>現実解<rt>げんじつかい</rt></ruby>』に見える<ruby>構造<rt>こうぞう</rt></ruby>**。明日のキックオフで使おう。」 <br/>*Hoàn hảo. Cấu trúc khiến bậc tiêu chuẩn hiện ra như ''phương án thực tế''. Mai mở đàm phán dùng cái này.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Nhãn "Khuyến nghị"** — chữ "おすすめ"/"推奨" trên ô bậc tiêu chuẩn, nghiên cứu trải nghiệm người dùng cho thấy tỷ lệ chốt tăng +35%.
 - 【2】**Bậc cơ bản cố ý làm yếu** — KHÔNG phải "rẻ và ổn", phải là "rẻ nhưng thiếu cái khách cần" → khách tự loại.
 - 【3】**Bậc cao cấp cố ý làm dư** — vượt mức cần thiết để bậc tiêu chuẩn thành "vừa phải". Bậc cao cấp vẫn phải là thương vụ thật nếu khách chọn (không phải lựa chọn giả / phương án bẫy).
@@ -424,7 +424,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn bản đề xu�
 | 専任 | せんにん | CHUYÊN NHẬM | Chuyên trách |
 | 常駐 | じょうちゅう | THƯỜNG TRÚ | Túc trực |
 | 機能削減 | きのうさくげん | CƠ NĂNG TƯỚC GIẢM | Cắt giảm chức năng |
-| 比較表 | ひかくひょう | TỈ GIẢO BIỂU | Bảng so sánh |', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 比較表 | ひかくひょう | TỈ GIẢO BIỂU | Bảng so sánh |', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000007, 800000007, NULL, 'markdown_book', 'Rule 07 — Thống nhất nội bộ trước đàm phán / 事前社内すり合わせ', '# Rule 07 — Thống nhất nội bộ trước đàm phán / 事前社内すり合わせ
 > **Luận điểm.** Trước khi đối diện khách, **đội nội bộ phải thống nhất 100%**: ai nói gì, ai im khi nào, điểm rút lui được duyệt, chuỗi bậc nhượng bộ thống nhất. Khách Nhật phát hiện mâu thuẫn nội bộ trong 5 phút → lợi thế để chia rẽ.
 >
@@ -464,9 +464,9 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 |  | *Đàm phán 14:00, thống nhất cuối. Vai trò: Dũng dẫn + phụ trách phát ngôn về giá, anh Tuấn chỉ trả lời phần kỹ thuật, anh Hà CTO chỉ phát biểu khi cần báo cấp trên.* |
 | **ハー CTO** | 「<ruby>価格発言<rt>かかくはつげん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>がしてもいけない。ズン<ruby>以外<rt>いがい</rt></ruby>は『<ruby>社内確認<rt>しゃないかくにん</rt></ruby>させてください』で<ruby>受<rt>う</rt></ruby>ける。」 |
 |  | *Trừ Dũng, không ai được phát ngôn về giá. Mọi người khác chỉ nói ''cho phép em xác nhận nội bộ''.* |
-| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。**<ruby>譲歩順序<rt>じょうほじゅんじょ</rt></ruby>**【2】も<ruby>再確認<rt>さいかくにん</rt></ruby>:【ステップ1】¥19M anchor → <ruby>反応見<rt>はんのうみ</rt></ruby>る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M <ruby>以下<rt>いか</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り、その<ruby>場<rt>ば</rt></ruby>で yes <ruby>言<rt>い</rt></ruby>わない**。」 |
+| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。**<ruby>譲歩順序<rt>じょうほじゅんじょ</rt></ruby>**【2】も<ruby>再確認<rt>さいかくにん</rt></ruby>:【ステップ1】¥19M anchor → <ruby>反応見<rt>はんのうみ</rt></ruby>る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M <ruby>未満<rt>みまん</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り、その<ruby>場<rt>ば</rt></ruby>で yes <ruby>言<rt>い</rt></ruby>わない**。」 |
 |  | *Em rõ. Em xác nhận lại thứ tự nhượng bộ: Bước 1 neo giá ¥19M, Bước 2 mục tiêu ¥18M, Bước 3 ¥17M kèm phạm vi -10%, Bước 4 ¥16M kèm phạm vi -20% + trao đổi thêm, dưới ¥15M là mang về xem xét, không nói có tại chỗ.* |
-| **フオン** | 「¥15M <ruby>以下出<rt>いかで</rt></ruby>てきたら、ハー CTO に<ruby>振<rt>ふ</rt></ruby>る。『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>時間取<rt>じかんと</rt></ruby>る【3】。」 |
+| **フオン** | 「¥15M <ruby>未満出<rt>みまんで</rt></ruby>てきたら、ハー CTO に<ruby>振<rt>ふ</rt></ruby>る。『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>時間取<rt>じかんと</rt></ruby>る【3】。」 |
 |  | *Nếu khách đẩy dưới ¥15M, đẩy sang anh Hà CTO. Dùng câu ''cho phép em xác nhận với CTO bên em'' để mua thời gian.* |
 | **トゥアン** | 「<ruby>私<rt>わたし</rt></ruby>は<ruby>技術以外<rt>ぎじゅついがい</rt></ruby>、<ruby>絶対黙<rt>ぜったいだま</rt></ruby>ります。」 |
 |  | *Ngoài phần kỹ thuật, em im hoàn toàn.* |
@@ -475,7 +475,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 | **全員** | 「OK。」 |
 |  | *OK.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**役割確認** = ai nói gì + ai im khi nào. Tránh kiểu "ai cũng được nói" — đó là thảm họa.
 - 【2】**譲歩順序** = chuỗi bậc cụ thể, mỗi nấc có điều kiện + trao đổi. KHÔNG phải "giảm dần".
 - 【3】**Câu leo thang** "弊社 CTO に確認させてください" — câu đệm dùng để mua thời gian, đã thống nhất trước.
@@ -507,7 +507,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 | 撤退ライン | てったいライン | TRIỆT THOÁI — | Mức rút lui |
 | エスカレーション | エスカレーション | — | Trình lên cấp trên |
 | 沈黙の合図 | ちんもくのあいず | TRẦM MẶC HỢP ĐỒ | Tín hiệu im lặng |
-| 一致させる | いっちさせる | NHẤT TRÍ — | Làm cho đồng nhất |', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 一致させる | いっちさせる | NHẤT TRÍ — | Làm cho đồng nhất |', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000008, 800000007, NULL, 'markdown_book', 'Rule 08 — Điểm rút lui / 撤退ライン', '# Rule 08 — Điểm rút lui / 撤退ライン
 > **Luận điểm.** **Điểm rút lui** = danh sách cứng các điều kiện "nếu vi phạm, bỏ thương vụ". Khác BATNA (phương án thay thế): điểm rút lui là **lằn ranh đỏ tuyệt đối** (giá / phạm vi / sở hữu trí tuệ / SLA / điều kiện thanh toán). Phải được CTO + Hương ký xác nhận trước khi đàm phán.
 >
@@ -526,7 +526,7 @@ Sáng đàm phán Phase 3, sau buổi họp thống nhất nội bộ. Hà CTO y
 | Vai | Câu |
 |---------|-----|
 | **ハー CTO** | 「ズン、<ruby>撤退<rt>てったい</rt></ruby>ライン<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>読<rt>よ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げて。」 <br/>*Dũng, đọc hết danh sách điều kiện rút lui ra.* |
-| **ズン** | 「¥15M <ruby>以下<rt>いか</rt></ruby>です。」 <br/>*Dưới ¥15M ạ.* |
+| **ズン** | 「¥15M <ruby>未満<rt>みまん</rt></ruby>です。」 <br/>*Dưới ¥15M ạ.* |
 | **ハー CTO** | 「それだけ？IP は？SLA は？<ruby>支払<rt>しはらい</rt></ruby> net 30 か net 60 か？<ruby>大垣<rt>おおがき</rt></ruby>さんが『<ruby>価格<rt>かかく</rt></ruby> ¥18M でも、IP は<ruby>白鷗<rt>はくおう</rt></ruby><ruby>側<rt>がわ</rt></ruby> 100%』と<ruby>言<rt>い</rt></ruby>い<ruby>出<rt>だ</rt></ruby>したらどうする？」 <br/>*Chỉ vậy thôi? IP? SLA? Điều kiện thanh toán net 30 hay net 60? Anh Ōgaki bảo ''giá ¥18M cũng được, nhưng IP 100% về Hakuō'' thì em làm sao?* |
 | **ズン** | 「えっ、それは…<ruby>考<rt>かんが</rt></ruby>えてなかったです。」 <br/>*Ơ, cái đó... em chưa nghĩ tới ạ.* |
 | **ハー CTO** | 「**<ruby>価格<rt>かかく</rt></ruby>は<ruby>撤退<rt>てったい</rt></ruby>ラインの 1 <ruby>軸<rt>じく</rt></ruby>でしかない**。<ruby>今<rt>いま</rt></ruby>すぐ 5 軸<ruby>書<rt>か</rt></ruby>き<ruby>出<rt>だ</rt></ruby>せ。<ruby>書<rt>か</rt></ruby>けないなら<ruby>今日<rt>きょう</rt></ruby>は<ruby>出<rt>で</rt></ruby>ない。」 <br/>*Giá chỉ là 1 trong các trục điều kiện rút lui. Viết ngay 5 trục. Không viết được thì hôm nay không đi.* |
@@ -544,7 +544,7 @@ Sáng đàm phán Phase 3, sau buổi họp thống nhất nội bộ. Hà CTO y
 | **ズン** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>向<rt>む</rt></ruby>けカスタマイズ<ruby>部分<rt>ぶぶん</rt></ruby>は white-label OK。AI レコメンドエンジン<ruby>本体<rt>ほんたい</rt></ruby>・モデルパラメータは core IP として<ruby>留保<rt>りゅうほ</rt></ruby>【3】。これフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + ハー CTO <ruby>両者<rt>りょうしゃ</rt></ruby><ruby>承認<rt>しょうにん</rt></ruby><ruby>済<rt>ず</rt></ruby>みです (Slack <ruby>昨日<rt>きのう</rt></ruby>)。」 <br/>*Phần customize cho Hakuō white-label OK. Bản thể AI recommend engine + model parameter giữ lại làm core IP. Cả chị Hương + anh Hà CTO đã duyệt trên Slack hôm qua ạ.* |
 | **ハー CTO** | 「OK、5 軸どれか<ruby>破<rt>やぶ</rt></ruby>られたら『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り。その<ruby>場<rt>ば</rt></ruby>で yes は<ruby>絶対<rt>ぜったい</rt></ruby><ruby>言<rt>い</rt></ruby>わない。」 <br/>*OK, vi phạm 1 trong 5 trục là dùng câu ''cho phép em xác nhận với CTO bên em'' để mang về. Tuyệt đối không nói yes tại chỗ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**5 trục điều kiện rút lui** — 価格 / IP / SLA / 支払 / 責任上限. Một số vụ thêm: 競業避止、再委託禁止 etc.
 - 【2】**責任上限 (giới hạn trách nhiệm)** — thường = 契約金額の 100%. Khách JP đôi khi đòi vô hạn → rút lui ngay.
 - 【3】**Tài sản trí tuệ cốt lõi vs nhãn trắng** — định nghĩa rõ ranh giới. Bản thể AI engine vs lớp tùy chỉnh.
@@ -576,7 +576,7 @@ Sáng đàm phán Phase 3, sau buổi họp thống nhất nội bộ. Hà CTO y
 | 罰則賠償 | ばっそくばいしょう | PHẠT TẮC BỒI THƯỜNG | Phạt hợp đồng / bồi thường |
 | 支払条件 | しはらいじょうけん | CHI PHẤT ĐIỀU KIỆN | Điều kiện thanh toán |
 | 責任上限 | せきにんじょうげん | TRÁCH NHẬM THƯỢNG HẠN | Giới hạn trách nhiệm |
-| 競業避止 | きょうぎょうひし | CẠNH NGHIỆP TỴ CHỈ | Điều khoản không cạnh tranh |', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 競業避止 | きょうぎょうひし | CẠNH NGHIỆP TỴ CHỈ | Điều khoản không cạnh tranh |', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000009, 800000007, NULL, 'markdown_book', 'Rule 09 — Kế hoạch nhượng bộ / 譲歩計画', '# Rule 09 — Kế hoạch nhượng bộ / 譲歩計画
 > **Luận điểm.** Kế hoạch nhượng bộ = **trước khi vào phòng**, viết ra: nhượng cái gì, theo thứ tự nào, đổi lấy cái gì. Mỗi nhượng bộ phải kèm **điều kiện đổi ngược** (rule 24). Nếu không có kế hoạch, sẽ nhượng theo cảm xúc → rò giá trị khoảng 15-25%.
 >
@@ -607,12 +607,12 @@ Tối hôm trước đàm phán, Hương xem lại kế hoạch nhượng bộ c
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「<ruby>譲歩計画<rt>じょうほけいかく</rt></ruby> v2 です。**5 ladder、<ruby>各段<rt>かくだん</rt></ruby>に trade**【1】。」 <br/>*Kế hoạch nhượng bộ v2 ạ. 5 bậc, mỗi nấc có điều kiện đổi.* |
-| **ズン** | 「Step 0: ¥19M anchor (no concession)。Step 1: ¥18M target、trade なし (target <ruby>着地<rt>ちゃくち</rt></ruby>は<ruby>譲歩<rt>じょうほ</rt></ruby>ゼロ<ruby>扱<rt>あつか</rt></ruby>い)。Step 2: ¥17.5M ⇄ **<ruby>契約期間<rt>けいやくきかん</rt></ruby> 2 <ruby>年化<rt>ねんか</rt></ruby>** (LTV +35%)【2】。Step 3: ¥17M ⇄ scope -10% (AI dashboard 2nd phase <ruby>後出<rt>あとだ</rt></ruby>し)。Step 4: ¥16M ⇄ scope -20% + payment net 30 <ruby>化<rt>か</rt></ruby> + <ruby>事例公開許可<rt>じれいこうかいきょか</rt></ruby>。Step 5: ¥15M ⇄ scope -30% + <ruby>上記<rt>じょうき</rt></ruby>すべて + <ruby>早期支払割<rt>そうきしはらいわり</rt></ruby> (これ<ruby>最終<rt>さいしゅう</rt></ruby>)。**¥15M <ruby>以下<rt>いか</rt></ruby> = <ruby>撤退<rt>てったい</rt></ruby>**。」 <br/>*Bước 0: ¥19M neo giá (chưa nhượng). Bước 1: ¥18M mục tiêu, không đổi (chốt ở mục tiêu = không tính nhượng). Bước 2: ¥17.5M ⇄ kéo hợp đồng 2 năm (LTV +35%). Bước 3: ¥17M ⇄ phạm vi -10% (bảng điều khiển AI đẩy sang Phase 2 sau). Bước 4: ¥16M ⇄ phạm vi -20% + thanh toán net 30 + cho phép công bố tình huống thực tế. Bước 5: ¥15M ⇄ phạm vi -30% + tất cả trên + chiết khấu thanh toán sớm (đây là cuối). Dưới ¥15M = rút lui ạ.* |
+| **ズン** | 「Step 0: ¥19M anchor (no concession)。Step 1: ¥18M target、trade なし (target <ruby>着地<rt>ちゃくち</rt></ruby>は<ruby>譲歩<rt>じょうほ</rt></ruby>ゼロ<ruby>扱<rt>あつか</rt></ruby>い)。Step 2: ¥17.5M ⇄ **<ruby>契約期間<rt>けいやくきかん</rt></ruby> 2 <ruby>年化<rt>ねんか</rt></ruby>** (LTV +35%)【2】。Step 3: ¥17M ⇄ scope -10% (AI dashboard 2nd phase <ruby>後出<rt>あとだ</rt></ruby>し)。Step 4: ¥16M ⇄ scope -20% + payment net 30 <ruby>化<rt>か</rt></ruby> + <ruby>事例公開許可<rt>じれいこうかいきょか</rt></ruby>。Step 5: ¥15M ⇄ scope -30% + <ruby>上記<rt>じょうき</rt></ruby>すべて + <ruby>早期支払割<rt>そうきしはらいわり</rt></ruby> (これ<ruby>最終<rt>さいしゅう</rt></ruby>)。**¥15M <ruby>未満<rt>みまん</rt></ruby> = <ruby>撤退<rt>てったい</rt></ruby>**。」 <br/>*Bước 0: ¥19M neo giá (chưa nhượng). Bước 1: ¥18M mục tiêu, không đổi (chốt ở mục tiêu = không tính nhượng). Bước 2: ¥17.5M ⇄ kéo hợp đồng 2 năm (LTV +35%). Bước 3: ¥17M ⇄ phạm vi -10% (bảng điều khiển AI đẩy sang Phase 2 sau). Bước 4: ¥16M ⇄ phạm vi -20% + thanh toán net 30 + cho phép công bố tình huống thực tế. Bước 5: ¥15M ⇄ phạm vi -30% + tất cả trên + chiết khấu thanh toán sớm (đây là cuối). Dưới ¥15M = rút lui ạ.* |
 | **フオン** | 「Step 2 の 2 <ruby>年化<rt>ねんか</rt></ruby>、<ruby>白鷗<rt>はくおう</rt></ruby>が<ruby>断<rt>ことわ</rt></ruby>ったら？」 <br/>*Bước 2 kéo 2 năm, Hakuō từ chối thì sao?* |
 | **ズン** | 「<ruby>断<rt>ことわ</rt></ruby>られたら ¥17.5M も<ruby>引<rt>ひ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>めて Step 1 に<ruby>戻<rt>もど</rt></ruby>ります【3】。**<ruby>譲歩<rt>じょうほ</rt></ruby>は trade とセット、trade <ruby>拒否<rt>きょひ</rt></ruby>は<ruby>譲歩取<rt>じょうほと</rt></ruby>り<ruby>下<rt>さ</rt></ruby>げ**。」 <br/>*Bị từ chối thì em rút ¥17.5M, quay về Bước 1 ạ. Nhượng bộ luôn đi cùng điều kiện đổi — điều kiện bị từ chối thì rút nhượng bộ.* |
 | **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これ trade-back <ruby>原則<rt>げんそく</rt></ruby>。<ruby>事例公開許可<rt>じれいこうかいきょか</rt></ruby>は marketing <ruby>側<rt>がわ</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>あるから<ruby>入<rt>い</rt></ruby>れていい。」 <br/>*Hoàn hảo. Đó là nguyên tắc rút điều kiện ngược. Quyền công bố tình huống thực tế có giá trị truyền thông nên đưa vào được.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**5 bậc + điều kiện đổi mỗi nấc** — 譲歩の各段に必ず引き換え条件を1つ以上.
 - 【2】**Các loại điều kiện đổi**: kéo dài thời hạn hợp đồng, giảm phạm vi, điều kiện thanh toán (net 60→net 30), công bố tình huống thực tế, điều khoản loại trừ đối thủ, thời gian độc quyền, phí giới thiệu, đẩy chức năng bổ sung sang giai đoạn sau.
 - 【3】**Nguyên tắc rút điều kiện ngược**: điều kiện đổi bị từ chối thì rút cả nhượng bộ. Không có nguyên tắc này → nhượng bộ một chiều.
@@ -644,7 +644,7 @@ Tối hôm trước đàm phán, Hương xem lại kế hoạch nhượng bộ c
 | LTV | エルティーブイ | — | Giá trị trọn đời khách hàng |
 | 事例公開 | じれいこうかい | SỰ LỆ CÔNG KHAI | Công bố tình huống thực tế |
 | 値引き | ねびき | TRỊ DẪN | Giảm giá |
-| 取り下げ | とりさげ | THỦ HẠ | Rút lại |', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 取り下げ | とりさげ | THỦ HẠ | Rút lại |', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000010, 800000007, NULL, 'markdown_book', 'Rule 10 — Câu mở chào lịch sự / 商談冒頭', '# Rule 10 — Câu mở chào lịch sự / 商談冒頭
 > **Luận điểm.** 30 giây đầu của đàm phán = neo định sắc thái cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có nhiều người**, **(3) Ghi nhận tình hình khách**, **(4) Nói rõ mục tiêu hôm nay ngắn gọn**. Đi thẳng vào mặc cả giá = mất giọng điệu trang trọng.
 >
@@ -680,7 +680,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** | 「**本日は Phase 3 のご<ruby>提案<rt>ていあん</rt></ruby>として、3 <ruby>段階<rt>だんかい</rt></ruby>の<ruby>選択肢<rt>せんたくし</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちしました**【4】。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>要望<rt>ようぼう</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>うか、ぜひ<ruby>忌憚<rt>きたん</rt></ruby>ないご<ruby>意見<rt>いけん</rt></ruby>をいただければと<ruby>存<rt>ぞん</rt></ruby>じます。」 <br/>*Hôm nay em mang theo 3 phương án đề xuất Phase 3 ạ. Liệu có đáp ứng được nhu cầu quý cty hay không, mong quý anh cho ý kiến thẳng thắn giúp ạ.* |
 | **大垣** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。では<ruby>拝見<rt>はいけん</rt></ruby>しましょう。」 <br/>*Cảm ơn em đã chu đáo. Vậy chúng tôi xin xem nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**お礼が最初** — 「お忙しい中」必ず付ける。CFO クラスにはこの一言で「あなたの時間を尊重」を伝える.
 - 【2】**再自己紹介 + チームメンバー紹介** — 名刺交換しているが、口頭でも明示. 特に CFO 同席時.
 - 【3】**相手状況への言及 (IR / 業績 / 季節)** — 顧客リサーチ (rule 04) の成果をここで使う. "anh/chị nhớ đến tình hình bên em" — sắc thái này rất quan trọng trong văn hóa Nhật.
@@ -713,7 +713,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 忌憚ない | きたんない | KỴ ĐẢN — | Thẳng thắn / không kiêng |
 | 意見 | いけん | Ý KIẾN | Ý kiến |
 | DX 推進 | DXすいしん | — SUY TIẾN | Đẩy mạnh DX |
-| 立場 | たちば | LẬP TRƯỜNG | Vị thế / lập trường |', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 立場 | たちば | LẬP TRƯỜNG | Vị thế / lập trường |', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000011, 800000007, NULL, 'markdown_book', 'Rule 11 — Thiết lập bối cảnh + chương trình / コンテキスト設定', '# Rule 11 — Thiết lập bối cảnh + chương trình / コンテキスト設定
 > **Luận điểm.** Sau câu mở chào (rule 10), thiết lập **bối cảnh chung** trong 60-90s: (1) điểm lại 2-3 ý then chốt từ buổi họp trước, (2) xác nhận phía khách có gì thay đổi hay không, (3) đề xuất chương trình hôm nay. Bỏ qua → khách CFO cấp cao bị lạc mạch, bầu không khí đi xuống.
 >
@@ -750,7 +750,7 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — thiết lập bối cản
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。それを<ruby>念頭<rt>ねんとう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めます。**<ruby>本日<rt>ほんじつ</rt></ruby>のagenda、<ruby>案<rt>あん</rt></ruby>として: (1) Phase 3 <ruby>提案<rt>ていあん</rt></ruby>の<ruby>概要<rt>がいよう</rt></ruby> 10 <ruby>分<rt>ふん</rt></ruby>、(2) <ruby>御社<rt>おんしゃ</rt></ruby><ruby>側<rt>がわ</rt></ruby>のご<ruby>質問<rt>しつもん</rt></ruby>・ディスカッション 30 <ruby>分<rt>ぷん</rt></ruby>、(3) <ruby>価格<rt>かかく</rt></ruby>と<ruby>次<rt>つぎ</rt></ruby>ステップの<ruby>確認<rt>かくにん</rt></ruby> 20 <ruby>分<rt>ぷん</rt></ruby>**【4】、<ruby>合計<rt>ごうけい</rt></ruby> 60 <ruby>分<rt>ぷん</rt></ruby>。よろしいでしょうか？」 <br/>*Em rõ ạ. Em sẽ lưu ý điều đó. Chương trình đề xuất hôm nay: (1) Tổng quan đề xuất Phase 3 — 10 phút, (2) Câu hỏi & thảo luận từ phía quý cty — 30 phút, (3) Xác nhận giá và bước tiếp — 20 phút, tổng 60 phút. Anh thấy ổn không ạ?* |
 | **大垣** | 「<ruby>結構<rt>けっこう</rt></ruby>です。」 <br/>*Được ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**振り返り (điểm lại)** — chỉ cần 30-45s, nhấn 2-3 số liệu then chốt của Phase trước. KHÔNG kể lể dài.
 - 【2】**Số liệu cụ thể** (+18%, -22%) tốt hơn "成功" mơ hồ. Tạo niềm tin ngay.
 - 【3】**「直近で変更ございますか」** — câu mở để khách chủ động chia sẻ ràng buộc mới (ai mới tham gia, cắt ngân sách, v.v.).
@@ -782,7 +782,7 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — thiết lập bối cản
 | アジェンダ | アジェンダ | — | Chương trình nghị sự |
 | ディスカッション | ディスカッション | — | Thảo luận |
 | 念頭に置く | ねんとうにおく | NIỆM ĐẦU — | Lưu ý / để trong đầu |
-| 共通認識 | きょうつうにんしき | CỘNG THÔNG NHẬN THỨC | Nhận thức chung |', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 共通認識 | きょうつうにんしき | CỘNG THÔNG NHẬN THỨC | Nhận thức chung |', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000012, 800000007, NULL, 'markdown_book', 'Rule 12 — Câu hỏi tìm hiểu nhu cầu: 5 nhóm / ディスカバリー質問', '# Rule 12 — Câu hỏi tìm hiểu nhu cầu: 5 nhóm / ディスカバリー質問
 > **Luận điểm.** Trước khi đề xuất giá, hỏi 5 nhóm: **(1) Vấn đề** (điểm đau thực sự), **(2) Mục tiêu** (đích đến), **(3) Ngân sách** (mức có thể chi), **(4) Thời hạn** (mốc cần xong), **(5) Người quyết định** (ai duyệt, quy trình). Bỏ qua 1 nhóm = đoán mò → khả năng cao báo giá sai. Tỉ lệ thương vụ chốt được tăng 2-3x khi khai thác thông tin đầy đủ.
 >
@@ -813,7 +813,7 @@ Sau khi thiết lập bối cảnh (rule 11), Dũng vào phần khai thác thôn
 ## Hội thoại TỐT — bao quát đủ 5 nhóm trong 30 phút
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**5 <ruby>観点<rt>かんてん</rt></ruby>でお<ruby>伺<rt>うかが</rt></ruby>いさせていただきます**【1】。まず Pain — <ruby>現状<rt>げんじょう</rt></ruby>の<ruby>運用<rt>うんよう</rt></ruby>で最も時間を取られている部分はどちらでしょうか？」 <br/>*Em xin phép hỏi theo 5 trục ạ. Đầu tiên là Vấn đề — trong vận hành hiện tại, mục nào đang ngốn thời gian nhất ạ?* |
+| **ズン** | 「**5 <ruby>観点<rt>かんてん</rt></ruby>で<ruby>伺<rt>うかが</rt></ruby>います**【1】。まず Pain — <ruby>現状<rt>げんじょう</rt></ruby>の<ruby>運用<rt>うんよう</rt></ruby>で最も時間を取られている部分はどちらでしょうか？」 <br/>*Em xin phép hỏi theo 5 trục ạ. Đầu tiên là Vấn đề — trong vận hành hiện tại, mục nào đang ngốn thời gian nhất ạ?* |
 | **大垣** | 「<ruby>在庫予測<rt>ざいこよそく</rt></ruby>の<ruby>精度<rt>せいど</rt></ruby>。<ruby>営業部<rt>えいぎょうぶ</rt></ruby>が<ruby>手動<rt>しゅどう</rt></ruby>で<ruby>日次調整<rt>にちじちょうせい</rt></ruby>している。」 <br/>*Độ chính xác dự báo tồn kho. Phòng KD đang điều chỉnh thủ công hàng ngày.* |
 | **ズン** | 「**Goal — Phase 3 完了時にどのような状態をイメージされていますか**【2】？」 <br/>*Mục tiêu — khi Phase 3 hoàn thành, quý anh hình dung trạng thái như thế nào ạ?* |
 | **大垣** | 「予測精度 +15%、手動調整時間<ruby>半減<rt>はんげん</rt></ruby>。GMV 影響としては<ruby>年間<rt>ねんかん</rt></ruby> +¥80M <ruby>見込<rt>みこ</rt></ruby>み。」 <br/>*Độ chính xác +15%, thời gian điều chỉnh thủ công giảm một nửa. Ảnh hưởng GMV ước +¥80M/năm.* |
@@ -821,11 +821,11 @@ Sau khi thiết lập bối cảnh (rule 11), Dũng vào phần khai thác thôn
 | **中村CFO** | 「Phase 3 単体としては ¥15-20M <ruby>帯<rt>たい</rt></ruby>で考えています。それを大きく超えると<ruby>稟議<rt>りんぎ</rt></ruby>が<ruby>難航<rt>なんこう</rt></ruby>します。」 <br/>*Riêng Phase 3 chúng tôi tính dải ¥15-20M. Vượt nhiều là ringi sẽ khó.* |
 | **ズン** | 「ありがとうございます。**Timeline** — リリース希望時期は？」 <br/>*Em cảm ơn ạ. Thời hạn — thời điểm ra mắt mong muốn?* |
 | **大垣** | 「7 月末までに<ruby>本番投入<rt>ほんばんとうにゅう</rt></ruby>できれば<ruby>理想<rt>りそう</rt></ruby>です。」 <br/>*Lý tưởng là đưa vào vận hành thực tế trước cuối tháng 7.* |
-| **ズン** | 「**最後に Decision — 本件のご<ruby>判断<rt>はんだん</rt></ruby>は中村 CFO 様 + 大垣部長様の<ruby>合議<rt>ごうぎ</rt></ruby>でよろしいでしょうか？それ以外に<ruby>稟議経路<rt>りんぎけいろ</rt></ruby>で確認すべき方はいらっしゃいますか**【4】？」 <br/>*Cuối cùng là Người quyết định — quyết định vụ này là hợp nghị giữa anh Nakamura CFO và anh Ōgaki ạ? Ngoài ra trên đường ringi còn ai cần tham vấn không ạ?* |
+| **ズン** | 「**最後に Decision — 本件のご<ruby>判断<rt>はんだん</rt></ruby>は中村 CFO 様 + 大垣部長の<ruby>合議<rt>ごうぎ</rt></ruby>でよろしいでしょうか？それ以外に<ruby>稟議経路<rt>りんぎけいろ</rt></ruby>で確認すべき方はいらっしゃいますか**【4】？」 <br/>*Cuối cùng là Người quyết định — quyết định vụ này là hợp nghị giữa anh Nakamura CFO và anh Ōgaki ạ? Ngoài ra trên đường ringi còn ai cần tham vấn không ạ?* |
 | **大垣** | 「我々2名の合議+IT<ruby>部門長<rt>ぶもんちょう</rt></ruby>の technical review が必要です。あと<ruby>取締役会<rt>とりしまりやくかい</rt></ruby> (¥18M 超は<ruby>付議<rt>ふぎ</rt></ruby>)。」 <br/>*Hai chúng tôi hợp nghị + xem xét kỹ thuật của trưởng phòng IT. Thêm HĐQT (vượt ¥18M phải đưa lên).* |
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。これで5観点のご<ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>揃<rt>そろ</rt></ruby>いました。」 <br/>*Em rõ ạ. Vậy là 5 trục đã đủ thông tin ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Tuyên bố "5 trục" ngay từ đầu** — khách biết bạn sẽ hỏi nhiều, kiên nhẫn hơn. Tránh khách sốt ruột "khi nào tới giá?"
 - 【2】**Cặp Vấn đề → Mục tiêu** — chỉ hỏi vấn đề thì mang sắc thái tiêu cực; mục tiêu cho khách hình dung trạng thái tương lai, dễ trả lời bằng con số.
 - 【3】**Ngân sách hỏi gián tiếp** "新年度フレームの中で" — không hỏi thẳng "予算いくら?" (kiểu hỏi dễ thất bại). Chi tiết ở rule 15.
@@ -858,7 +858,7 @@ Sau khi thiết lập bối cảnh (rule 11), Dũng vào phần khai thác thôn
 | 予算感 | よさんかん | DỰ TOÁN CẢM | Cảm giác về ngân sách |
 | 稟議経路 | りんぎけいろ | BẨM NGHỊ KINH LỘ | Đường ringi |
 | 合議 | ごうぎ | HỢP NGHỊ | Quyết định tập thể |
-| 取締役会 | とりしまりやくかい | THỦ ĐẾ DỊCH HỘI | Hội đồng quản trị |', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 取締役会 | とりしまりやくかい | THỦ ĐẾ DỊCH HỘI | Hội đồng quản trị |', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000013, 800000007, NULL, 'markdown_book', 'Rule 13 — Lắng nghe ràng buộc ẩn / 隠れた制約の傾聴', '# Rule 13 — Lắng nghe ràng buộc ẩn / 隠れた制約の傾聴
 > **Luận điểm.** Khách Nhật rất hiếm khi trực tiếp nói "có vấn đề X", thay vào đó phát tín hiệu gián tiếp: cách buông lửng câu 言葉尻 ("ちょっと…"), nhắc thời gian 時間 ("少し時間かかる"), dùng thể bị động. Phải bắt được 3 loại ràng buộc ẩn: **(1) thời hạn 稟議 (thực sự bao lâu)**, **(2) giới hạn chu kỳ ngân sách**, **(3) chính trị nội bộ** (sếp khác phản đối).
 >
@@ -899,7 +899,7 @@ Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっ
 | **大垣** | 「データ<ruby>漏洩<rt>ろうえい</rt></ruby>リスクとモデル<ruby>説明可能性<rt>せつめいかのうせい</rt></ruby>。御社で説明できる資料があれば助かります。」 <br/>*Rủi ro rò rỉ dữ liệu và khả năng giải thích model. Nếu bên em có tài liệu giải thích được thì rất giúp.* |
 | **ズン** | 「**白鷗様 IT 部門長様向けに security PoC + AI explainability の brief を 1 週間以内に**【3】。それに合わせて Timeline は 7 月末→ 8 月中旬に<ruby>余裕<rt>よゆう</rt></ruby>を持たせる<ruby>案<rt>あん</rt></ruby>も<ruby>併<rt>あわ</rt></ruby>せてご<ruby>提案<rt>ていあん</rt></ruby>します。」 <br/>*Em sẽ chuẩn bị tài liệu minh chứng bảo mật + tóm tắt khả năng giải thích AI cho trưởng phòng IT bên Hakuō trong 1 tuần. Đồng thời em đề xuất nới thời hạn cuối tháng 7 → giữa tháng 8 cho có dư địa ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「もう少し詳しく…」** = câu hỏi mở để khách nói rõ thêm. Tránh câu hỏi đóng (có/không).
 - 【2】**「具体的にどのあたり」** — đào vấn đề xuống mức vận hành cụ thể. Khách Nhật thường chia sẻ khi đã tạo được niềm tin.
 - 【3】**Biến ràng buộc thành giải pháp** — biết trưởng phòng IT lo, đề xuất tài liệu minh chứng bảo mật + dời thời hạn → tăng cơ hội ringi được duyệt.
@@ -930,7 +930,7 @@ Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっ
 | 漏洩リスク | ろうえいリスク | LẬU TIẾT — | Rủi ro rò rỉ |
 | 説明可能性 | せつめいかのうせい | THUYẾT MINH KHẢ NĂNG TÍNH | Khả năng giải thích (của model) |
 | 余裕を持たせる | よゆうをもたせる | DƯ DỤNG — | Để dư địa |
-| 稟議の助け | りんぎのたすけ | BẨM NGHỊ — TRỢ | Hỗ trợ ringi |', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 稟議の助け | りんぎのたすけ | BẨM NGHỊ — TRỢ | Hỗ trợ ringi |', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000014, 800000007, NULL, 'markdown_book', 'Rule 14 — Phản chiếu + tóm tắt / ミラーリング・要約', '# Rule 14 — Phản chiếu + tóm tắt / ミラーリング・要約
 > **Luận điểm.** Sau mỗi khối khai thác (3-5 câu khách trả lời), **phản chiếu lại** bằng câu "つまり〜とのご認識でしょうか" — xác nhận hiểu đúng + cho khách cơ hội điều chỉnh. Hai tác dụng: (1) tránh hiểu sai, (2) khách cảm "được lắng nghe" → hợp tác hơn.
 >
@@ -966,7 +966,7 @@ Sau khi đào ràng buộc ẩn của trưởng phòng IT (rule 13), Dũng tiế
 | **大垣** | 「はい。+15% は<ruby>超<rt>こ</rt></ruby>えなくて大丈夫、超えると cost <ruby>上<rt>あ</rt></ruby>がるので<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>る。」 <br/>*Đúng. +15% không cần vượt, vượt là chi phí lên, ngược lại làm khó chúng tôi.* |
 | **ズン** | 「**+15% は<ruby>超過<rt>ちょうか</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>、cost との trade-off を<ruby>意識<rt>いしき</rt></ruby>**【2】、<ruby>承知<rt>しょうち</rt></ruby>しました。次に予算<ruby>感<rt>かん</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>ってもよろしいでしょうか？」 <br/>*+15% không cần vượt, cân nhắc đánh đổi với chi phí — em rõ ạ. Tiếp theo cho phép em hỏi cảm giác ngân sách được không ạ?* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「つまり、〜とのご認識でよろしいでしょうか」** = câu phản chiếu mặc định. Đảm bảo khách điều chỉnh nếu sai.
 - 【2】**Phản chiếu lại sắc thái khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được sắc thái tinh tế, KHÔNG diễn đạt lại quá xa.
 - Phản chiếu tại chỗ tốn 10 giây nhưng tiết kiệm cả ngày làm đề xuất sai.
@@ -997,7 +997,7 @@ Sau khi đào ràng buộc ẩn của trưởng phòng IT (rule 13), Dũng tiế
 | 確認 | かくにん | XÁC NHẬN | Xác nhận |
 | トレードオフ | トレードオフ | — | Đánh đổi |
 | 超過 | ちょうか | SIÊU QUÁ | Vượt quá |
-| 超えなくて大丈夫 | こえなくてだいじょうぶ | — | Không cần vượt quá |', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 超えなくて大丈夫 | こえなくてだいじょうぶ | — | Không cần vượt quá |', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000015, 800000007, NULL, 'markdown_book', 'Rule 15 — Thăm dò mức độ nhạy cảm giá / 価格感度の探り', '# Rule 15 — Thăm dò mức độ nhạy cảm giá / 価格感度の探り
 > **Luận điểm.** Hỏi "予算いくら?" trực tiếp = khách Nhật khó trả lời (cảm giác bị "ép"). Hỏi gián tiếp 3 cách: **(1) Theo khung** ("年度予算のフレームの中で"), **(2) Theo dải** ("¥10M〜¥30M のどの帯域"), **(3) So sánh** ("Phase 2 と比較してどの程度の規模感"). Chọn đúng câu hỏi → khách chia sẻ dải ngân sách 80% trường hợp.
 >
@@ -1031,11 +1031,11 @@ Trong bước khai thác thông tin (rule 12, phần Ngân sách), Dũng cần t
 |---------|-----|
 | **ズン** | 「**<ruby>予算感<rt>よさんかん</rt></ruby>につきまして** — <ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>新年度<rt>しんねんど</rt></ruby> IT <ruby>投資<rt>とうし</rt></ruby> framework の中で、Phase 3 はどの程度の **<ruby>位置付<rt>いちづ</rt></ruby>け**でしょうか【1】？」 <br/>*Về cảm giác ngân sách — trong khung đầu tư IT năm mới của quý công ty, Phase 3 ở vị trí nào ạ?* |
 | **中村CFO** | 「Phase 3 は<ruby>重要案件<rt>じゅうようあんけん</rt></ruby>として<ruby>中位<rt>ちゅうい</rt></ruby>以上に位置付けています。」 <br/>*Phase 3 là dự án quan trọng, định vị ở mức trung vị trở lên.* |
-| **ズン** | 「**Phase 2 が ¥14.5M でしたが、Phase 3 は<ruby>機能拡張<rt>きのうかくちょう</rt></ruby>として<ruby>規模感的<rt>きぼかんてき</rt></ruby>にどのあたりを<ruby>想定<rt>そうてい</rt></ruby>されておられますか**【2】？」 <br/>*Phase 2 là ¥14.5M, Phase 3 là mở rộng chức năng thì quý anh dự ở mức quy mô nào ạ?* |
+| **ズン** | 「**Phase 2 が ¥14.5M でしたが、Phase 3 は<ruby>機能拡張<rt>きのうかくちょう</rt></ruby>として<ruby>規模感的<rt>きぼかんてき</rt></ruby>にどのあたりを<ruby>想定<rt>そうてい</rt></ruby>でいらっしゃいますか**【2】？」 <br/>*Phase 2 là ¥14.5M, Phase 3 là mở rộng chức năng thì quý anh dự ở mức quy mô nào ạ?* |
 | **中村CFO** | 「Phase 2 <ruby>比<rt>ひ</rt></ruby> 1.2-1.4 <ruby>倍程度<rt>ばいていど</rt></ruby>、つまり ¥17-20M の<ruby>帯域<rt>たいいき</rt></ruby>で考えています。」 <br/>*Khoảng 1.2-1.4 lần Phase 2, tức là dải ¥17-20M.* |
 | **ズン** | 「ありがとうございます。**¥17-20M の帯域**、<ruby>参考<rt>さんこう</rt></ruby>にさせていただきます【3】。<ruby>本日<rt>ほんじつ</rt></ruby>の3<ruby>段階<rt>だんかい</rt></ruby><ruby>提案<rt>ていあん</rt></ruby>も、その帯域を<ruby>中心<rt>ちゅうしん</rt></ruby>に位置付けております。」 <br/>*Em cảm ơn ạ. Em xin tham khảo dải ¥17-20M ạ. Đề xuất 3 bậc hôm nay cũng định vị quanh dải đó ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「位置付け」「フレームの中で」** = câu hỏi định tính, dễ trả lời. Khách chia sẻ thứ hạng đại khái, không phải con số chính xác.
 - 【2】**Cách hỏi theo so sánh** dựa trên Phase 2 ¥14.5M (mốc tham chiếu đã biết). Khách dễ trả lời倍数 (bội số) hơn 絶対値 (con số tuyệt đối).
 - 【3】**Nhắc lại dải số** "¥17-20M の帯域" để khách xác nhận/đính chính + ghi nhớ vào phiếu ringi.
@@ -1066,7 +1066,7 @@ Trong bước khai thác thông tin (rule 12, phần Ngân sách), Dũng cần t
 | 帯域 | たいいき | ĐỚI VỰC | Dải |
 | 規模感 | きぼかん | QUY MÔ CẢM | Cảm giác quy mô |
 | 想定 | そうてい | TƯỞNG ĐỊNH | Dự kiến |
-| 中位 | ちゅうい | TRUNG VỊ | Mức trung vị |', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 中位 | ちゅうい | TRUNG VỊ | Mức trung vị |', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000016, 800000007, NULL, 'markdown_book', 'Rule 16 — Xác nhận người có quyền quyết định / 決裁者確認', '# Rule 16 — Xác nhận người có quyền quyết định / 決裁者確認
 > **Luận điểm.** Tỉnh táo: ai trong phòng là **真の決裁者**, ai chỉ là người gác cổng. Câu hỏi chuẩn: "最終決裁は〜様でいらっしゃいますでしょうか？" + "ご決裁の前に、技術検証や予算審議など、どのようなステップが残っていらっしゃいますか？" Bỏ sót → báo giá sai người, mất thời gian.
 >
@@ -1104,7 +1104,7 @@ Trong bước Người quyết định của khai thác thông tin (rule 12), D�
 | **大垣** | 「IT <ruby>部門長<rt>ぶもんちょう</rt></ruby> technical review (rule 13 で出た件)、<ruby>経理部<rt>けいりぶ</rt></ruby>の予算 cycle 審議、そして<ruby>最終的<rt>さいしゅうてき</rt></ruby>に法務 contract review。3 ステップで、<ruby>合計<rt>ごうけい</rt></ruby> 3 <ruby>週間<rt>しゅうかん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>です。」 <br/>*Trưởng phòng IT xem xét kỹ thuật (vấn đề nêu ở rule 13), phòng kế toán thẩm định chu kỳ ngân sách, cuối cùng là pháp chế xem xét hợp đồng. 3 bước, tổng khoảng 3 tuần.* |
 | **ズン** | 「**3 ステップ・3 週間、加えて取締役会の付議タイミング**【3】、ありがとうございます。それを<ruby>踏<rt>ふ</rt></ruby>まえて Timeline を<ruby>組<rt>く</rt></ruby>み<ruby>直<rt>なお</rt></ruby>します。」 <br/>*3 bước / 3 tuần, kèm thời điểm đưa lên HĐQT — em cảm ơn ạ. Em sẽ ghép lại thời hạn dựa trên đó ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Xác nhận thẩm quyền quyết định + tuyến báo cáo** — không chỉ "ai duyệt" mà cả "ai cần báo cáo" (取締役会).
 - 【2】**Câu hỏi về các bước còn lại** = mấu chốt. Khám phá xem xét kỹ thuật / thẩm định ngân sách / kiểm tra pháp lý là 3 bước phổ biến, mỗi bước 1 tuần.
 - 【3】**Nhắc lại bước + thời gian** — xác nhận hiểu đúng + dùng làm cơ sở khi lên thời hạn.
@@ -1119,6 +1119,7 @@ Trong bước Người quyết định của khai thác thông tin (rule 12), D�
 ---
 
 ## Tránh
+- Nói 「大垣部長様」 — chức danh 部長 đã hàm kính ý, thêm 様 thành 二重敬語. Đúng: 「大垣部長」 hoặc 「大垣様」
 - Đoán người quyết định → báo giá sai người
 - Hỏi "ai duyệt" mà không hỏi "còn bước nào" → biết tên nhưng không biết cách
 - Người cấp cao bên khách (CFO) ngồi đó mà nhìn về phía 部長 → mất 顔 (thể diện)
@@ -1135,7 +1136,7 @@ Trong bước Người quyết định của khai thác thông tin (rule 12), D�
 | 技術レビュー | ぎじゅつレビュー | KỸ THUẬT — | Xem xét kỹ thuật |
 | 予算審議 | よさんしんぎ | DỰ TOÁN THẨM NGHỊ | Thẩm định ngân sách |
 | 法務チェック | ほうむチェック | PHÁP VỤ — | Kiểm tra pháp lý |
-| 経理部 | けいりぶ | KINH LÝ BỘ | Phòng kế toán |', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 経理部 | けいりぶ | KINH LÝ BỘ | Phòng kế toán |', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000017, 800000007, NULL, 'markdown_book', 'Rule 17 — Phân bổ thời gian thảo luận / 時間管理', '# Rule 17 — Phân bổ thời gian thảo luận / 時間管理
 > **Luận điểm.** Đàm phán 60 phút mà giai đoạn khai thác thông tin ngốn 50 phút → không còn thời gian cho giá + chốt. Khung thời gian mỗi phần (10/30/20) đã chốt ở rule 11. Khi khai thác vượt 25 phút, **chuyển mềm** "そろそろ次の段階に" — không "切ります" cứng.
 >
@@ -1174,7 +1175,7 @@ Khai thác thông tin rule 12-16 đã ngốn 30 phút (đúng chương trình). 
 | **大垣** | 「お<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Mời em.* |
 | **ズン** | 「**お時間 30 分<ruby>経過<rt>けいか</rt></ruby>、agenda <ruby>通<rt>どお</rt></ruby>りに<ruby>進<rt>すす</rt></ruby>んでおります**【3】。提案は3 段階でご<ruby>用意<rt>ようい</rt></ruby>しております…」 <br/>*Đã trôi qua 30 phút, đang đúng chương trình ạ. Em đã chuẩn bị đề xuất 3 bậc...* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Tạm gác câu hỏi chứ không bỏ** — "ở phần tiếp theo sẽ giải thích kỹ" = tôn trọng câu hỏi + kiểm soát thời gian. Khách thấy được coi trọng.
 - 【2】**「そろそろ〜よろしいでしょうか」** = câu chuyển mềm mặc định. Khác với "終わりですので".
 - 【3】**Đọc tiến độ thời gian thành tiếng** — gọi tên tiến độ chương trình giúp cả 2 bên cùng theo dõi thời gian. Cũng là chiêu để giữ thế chủ động.
@@ -1205,7 +1206,7 @@ Khai thác thông tin rule 12-16 đã ngốn 30 phút (đúng chương trình). 
 | 提案の概要 | ていあんのがいよう | ĐỀ ÁN KHÁI YẾU | Tổng quan đề xuất |
 | 再学習頻度 | さいがくしゅうひんど | TÁI HỌC TẬP TẦN ĐỘ | Tần suất huấn luyện lại |
 | 想定 | そうてい | TƯỞNG ĐỊNH | Dự kiến |
-| 経過 | けいか | KINH QUÁ | Đã trôi qua |', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 経過 | けいか | KINH QUÁ | Đã trôi qua |', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000018, 800000007, NULL, 'markdown_book', 'Rule 18 — Neo giá trước hay chờ? / アンカリングの判断', '# Rule 18 — Neo giá trước hay chờ? / アンカリングの判断
 > **Luận điểm.** Có 2 trường phái: **(1) Ra giá trước** (neo cao trước, tận dụng thiên kiến mỏ neo) — tốt khi mình có ước lượng ZOPA tốt, **(2) Để khách ra giá trước** (để khách báo giá trước) — tốt khi mình KHÔNG biết mức trần của khách. **Phase 3 đã có ZOPA → ra giá trước**. Quy tắc: **biết ZOPA → neo giá; mù ZOPA → chờ**.
 >
@@ -1240,12 +1241,12 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn thì thầm "đ�
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「<ruby>価格<rt>かかく</rt></ruby>について、<ruby>本日<rt>ほんじつ</rt></ruby> 3 <ruby>段階<rt>だんかい</rt></ruby>でご<ruby>提案<rt>ていあん</rt></ruby>させていただいております。**まずは Better tier — ¥18M、Anchor として Best tier ¥24M も<ruby>併<rt>あわ</rt></ruby>せて**【1】、ご<ruby>検討<rt>けんとう</rt></ruby>の tài liệu としてお<ruby>持<rt>も</rt></ruby>ちしました。」 <br/>*Về giá, hôm nay em đề xuất 3 bậc ạ. Trước hết là Better ¥18M, kèm Best ¥24M làm mỏ neo, em mang theo làm tài liệu tham khảo để quý anh xem xét ạ.* |
-| **ズン** | 「**¥18M の<ruby>根拠<rt>こんきょ</rt></ruby>は**、Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%、AI レコメンドエンジンの<ruby>開発<rt>かいはつ</rt></ruby><ruby>工数<rt>こうすう</rt></ruby> + <ruby>専任<rt>せんにん</rt></ruby> PM + SLA 99.9% を<ruby>含<rt>ふく</rt></ruby>めた<ruby>構成<rt>こうせい</rt></ruby>。**<ruby>御社<rt>おんしゃ</rt></ruby>の +¥80M GMV インパクトに<ruby>対<rt>たい</rt></ruby>し ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>**【2】に<ruby>位置<rt>いち</rt></ruby>します。」 <br/>*Cơ sở ¥18M: tăng 24% so Phase 2, gồm dev AI recommend engine + PM chuyên trách + SLA 99.9%. So với impact +¥80M GMV của quý cty, ROI ở mức 4.4 lần ạ.* |
+| **ズン** | 「**¥18M の<ruby>根拠<rt>こんきょ</rt></ruby>は**、Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%、AI レコメンドエンジンの<ruby>開発<rt>かいはつ</rt></ruby><ruby>工数<rt>こうすう</rt></ruby> + <ruby>専任<rt>せんにん</rt></ruby> PM + SLA 99.9% を<ruby>含<rt>ふく</rt></ruby>めた<ruby>構成<rt>こうせい</rt></ruby>。**<ruby>御社<rt>おんしゃ</rt></ruby>の +¥80M GMV インパクトを<ruby>利益<rt>りえき</rt></ruby><ruby>換算<rt>かんさん</rt></ruby>した<ruby>年間<rt>ねんかん</rt></ruby><ruby>便益<rt>べんえき</rt></ruby>に<ruby>対<rt>たい</rt></ruby>し ROI 5.1 <ruby>倍<rt>ばい</rt></ruby>**【2】に<ruby>位置<rt>いち</rt></ruby>します。」 <br/>*Cơ sở ¥18M: tăng 24% so Phase 2, gồm dev AI recommend engine + PM chuyên trách + SLA 99.9%. So với lợi ích năm quy từ impact +¥80M GMV của quý cty, ROI ở mức 5.1 lần ạ.* |
 | **大垣** | 「…¥18M ですね。」 <br/>*...¥18M nhỉ.* |
 | **ズン** | (<ruby>沈黙<rt>ちんもく</rt></ruby>) <br/>*(im lặng)* |
 | **大垣** | 「<ruby>悪<rt>わる</rt></ruby>くない<ruby>数字<rt>すうじ</rt></ruby>ですが、<ruby>社内<rt>しゃない</rt></ruby>で<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。」 <br/>*Con số không tệ, nhưng cần thảo luận nội bộ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Anchor 構造**: 出 Better (target) + Best (high anchor). 両方見せると Better が "現実解" に見える (rule 06 連携).
 - 【2】**根拠と一緒に anchor** — anchor 単独より 30% 効果増. ROI 倍率は CFO に響く.
 - **Go first 適用条件**: (a) ZOPA estimate ある, (b) 根拠データ揃ってる, (c) 自分が言葉に詰まらない練習済み.
@@ -1277,7 +1278,7 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn thì thầm "đ�
 | 構成 | こうせい | CẤU THÀNH | Cấu thành |
 | ROI 倍率 | ROIばいりつ | — | Bội số ROI |
 | 議論が必要 | ぎろんがひつよう | NGHỊ LUẬN TẤT YẾU | Cần thảo luận |
-| 効果 | こうか | HIỆU QUẢ | Hiệu lực |', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 効果 | こうか | HIỆU QUẢ | Hiệu lực |', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000019, 800000007, NULL, 'markdown_book', 'Rule 19 — Cấu trúc câu đề xuất giá / 価格提示フレーズ', '# Rule 19 — Cấu trúc câu đề xuất giá / 価格提示フレーズ
 > **Luận điểm.** Khi báo giá, tránh "¥18M です" trần. Cấu trúc 4 phần: **(1) Khung dẫn** (まずは〜の価格帯で), **(2) Number** (¥18M), **(3) Justification** (cơ sở), **(4) Chuyển lượt** (chuyển sang khách phản hồi). Câu trần ngắn → tông giọng hời hợt. 4-part phrase → giọng chuyên nghiệp + giảm phản kháng.
 >
@@ -1313,7 +1314,7 @@ Sau anchor (rule 18), khách phản kháng. Dũng cần câu chuẩn cho đối 
 | **大垣** | 「2 <ruby>年契約<rt>ねんけいやく</rt></ruby>の点、<ruby>確認<rt>かくにん</rt></ruby>が必要です。」 <br/>*Vụ hợp đồng 2 năm cần xác nhận lại.* |
 | **ズン** | 「もちろんです、お時間をお<ruby>取<rt>と</rt></ruby>りいただいて<ruby>結構<rt>けっこう</rt></ruby>です。」 <br/>*Tất nhiên ạ, quý anh cứ dành thời gian xem xét ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Câu bắc cầu** "ご指摘の点、もっともでございます" — ghi nhận ý khách trước khi counter (rule 26 cũng dùng).
 - 【2】**Justification cụ thể** — "Phase 2 テンプレート流用 -8%" thay vì "ちょっと安く". Khách Nhật tin con số.
 - 【3】**Trade rõ ràng** "2 年契約していただければ" — counter có điều kiện đi kèm (rule 09 trade-back).
@@ -1347,7 +1348,7 @@ Sau anchor (rule 18), khách phản kháng. Dũng cần câu chuẩn cho đối 
 | 構成見直し | こうせいみなおし | CẤU THÀNH KIẾN TRỰC | Xem lại cấu thành |
 | 流用 | りゅうよう | LƯU DỤNG | Tận dụng / dùng lại |
 | 工数 | こうすう | CÔNG SỐ | Effort / man-day |
-| 契約期間延長 | けいやくきかんえんちょう | KHẾ ƯỚC KỲ GIAN DIÊN TRƯỜNG | Kéo dài thời hạn hợp đồng |', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 契約期間延長 | けいやくきかんえんちょう | KHẾ ƯỚC KỲ GIAN DIÊN TRƯỜNG | Kéo dài thời hạn hợp đồng |', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000020, 800000007, NULL, 'markdown_book', 'Rule 20 — Đối phó với "高い" / 「高い」への対応', '# Rule 20 — Đối phó với "高い" / 「高い」への対応
 > **Luận điểm.** "高い (đắt)" = dấu hiệu khách quan tâm, KHÔNG phải từ chối. Công thức xử lý 3 bước: **(1) Ghi nhận** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn** (chuyển từ giá sang giá trị/ROI/chi phí khi không hành động), **(3) Phương án** (đưa kịch bản điều chỉnh có đánh đổi). Nhảy giảm giá ngay = rò giá trị.
 >
@@ -1387,7 +1388,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** | 「**そのうえで、ご<ruby>予算面<rt>よさんめん</rt></ruby>でのご<ruby>懸念<rt>けねん</rt></ruby>があれば、以下のオプション**【4】**: (A) 2 年<ruby>契約<rt>けいやく</rt></ruby>で ¥17.5M <ruby>維持<rt>いじ</rt></ruby>、(B) 1 年契約 + phạm vi -10% で ¥16M、(C) Best tier に拡大 ¥24M で AI dashboard 込み。御社のコスト感に合うのはどちらでしょうか？」 <br/>*Trên cơ sở đó, nếu vẫn lo về ngân sách, các phương án như sau: (A) Hợp đồng 2 năm giữ ¥17.5M, (B) Hợp đồng 1 năm + phạm vi -10% còn ¥16M, (C) Mở rộng lên Best ¥24M kèm AI bảng theo dõi. Phương án nào phù hợp cảm giác chi phí của quý công ty ạ?* |
 | **中村CFO** | 「(A) の 2 年契約<ruby>案<rt>あん</rt></ruby>、社内で<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 <br/>*Phương án (A) hợp đồng 2 năm, chúng tôi mang về xem xét nội bộ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Ghi nhận trước** — không nhảy ngay vào phòng thủ. Câu "ご指摘の点、もっともでございます" dùng được mọi tình huống.
 - 【2】**Câu đổi góc nhìn** "別の角度から" — chuyển từ "giá cao" sang "chi phí khi không hành động" / "so sánh ROI".
 - 【3】**Đổi góc nhìn bằng số cụ thể** — 2.400 時間, ¥730K/月, ¥1.2M/月, lợi thuần +¥470K/月. CFO tin con số.
@@ -1423,7 +1424,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 在庫調整 | ざいこちょうせい | TẠI KHỐ ĐIỀU CHỈNH | Điều chỉnh tồn kho |
 | lợi thuần | ネット・ポジティブ | — | Lợi nhuận dương thuần |
 | 予算面 | よさんめん | DỰ TOÁN DIỆN | Mặt ngân sách |
-| 持ち帰り検討 | もちかえりけんとう | KIỂM THẢO | Mang về xem xét |', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 持ち帰り検討 | もちかえりけんとう | KIỂM THẢO | Mang về xem xét |', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000021, 800000007, NULL, 'markdown_book', 'Rule 21 — Giảm scope thay vì giảm giá / 価格でなくスコープを削る', '# Rule 21 — Giảm scope thay vì giảm giá / 価格でなくスコープを削る
 > **Luận điểm.** Giảm đơn giá ¥18M → ¥16M = -11% biên lợi nhuận **không hồi phục được**. Giảm phạm vi (cắt tính năng, lùi hạng mục bàn giao, giảm SLA) → giữ đơn giá, giảm tổng tiền — về tài chính tương đương với khách, về biên lợi nhuận của mình **giữ nguyên 26%**. Khách Nhật dễ chấp nhận khi đề xuất rõ ràng.
 >
@@ -1460,7 +1461,7 @@ CFO chọn phương án (A) ¥17.5M 2 năm (rule 20). Nhưng 大垣 ép thêm "�
 | **ズン** | 「AI レコメンドエンジン core は Phase 3 で<ruby>稼働<rt>かどう</rt></ruby>、dashboard は Phase 2 <ruby>流用版<rt>りゅうようばん</rt></ruby>で<ruby>代替可能<rt>だいたいかのう</rt></ruby>です。**đơn giá (<ruby>機能<rt>きのう</rt></ruby>あたり<ruby>単価<rt>たんか</rt></ruby>) は<ruby>同等<rt>どうとう</rt></ruby>のまま、<ruby>総額<rt>そうがく</rt></ruby>調整**【3】という<ruby>形<rt>かたち</rt></ruby>です。Phase 4 <ruby>着手時<rt>ちゃくしゅじ</rt></ruby>に dashboard <ruby>追加<rt>ついか</rt></ruby>で +¥1M、その<ruby>時<rt>とき</rt></ruby>に<ruby>再<rt>さい</rt></ruby>ご<ruby>相談<rt>そうだん</rt></ruby>という形ではいかがでしょうか？」 <br/>*Core AI recommend engine vẫn vận hành ở Phase 3, bảng theo dõi dùng bản tận dụng từ Phase 2 thay thế được ạ. Đơn giá (giá trên từng tính năng) giữ nguyên, chỉ điều chỉnh tổng tiền. Phase 4 khởi động sẽ thêm bảng theo dõi +¥1M, lúc đó trao đổi lại ạ — quý anh thấy thế nào?* |
 | **大垣** | 「unit price 同等であれば<ruby>社内<rt>しゃない</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>しやすい。検討します。」 <br/>*Đơn giá giữ nguyên thì dễ giải thích nội bộ. Tôi sẽ xem xét.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「スコープ調整が必要」** — câu chuyển từ đàm phán giá sang đàm phán phạm vi. Giữ đòn bẩy.
 - 【2】**Cắt tính năng có thể đẩy về sau (後出し) Phase 4** — KHÔNG mất khách, chỉ lùi thời gian thu. Khách ringi dễ duyệt hơn.
 - 【3】**"Đơn giá tương đương (unit price 同等)"** = câu chốt then chốt. CFO/部長 cần "lý do giải thích nội bộ": "không bị giảm giá, chỉ giảm phạm vi".
@@ -1492,7 +1493,7 @@ CFO chọn phương án (A) ¥17.5M 2 năm (rule 20). Nhưng 大垣 ép thêm "�
 | 半常駐 | はんじょうちゅう | BÁN THƯỜNG TRÚ | Bán-túc trực |
 | 単価 | たんか | ĐƠN GIÁ | Đơn giá |
 | 同等 | どうとう | ĐỒNG ĐẲNG | Tương đương |
-| 復活 | ふっかつ | PHỤC HOẠT | Khôi phục |', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 復活 | ふっかつ | PHỤC HOẠT | Khôi phục |', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000022, 800000007, NULL, 'markdown_book', 'Rule 22 — Gộp gói / tách mục định giá / バンドリング・アンバンドリング', '# Rule 22 — Gộp gói / tách mục định giá / バンドリング・アンバンドリング
 > **Luận điểm.** **Gộp gói** = ghép nhiều hạng mục vào 1 giá tổng (khách khó so giá từng cái → giữ biên lợi nhuận). **Tách gói** = tách từng hạng mục ra giá lẻ (khách thấy chi tiết, dễ chấp nhận từng phần). Khi nào dùng cái nào: **Gộp gói** khi khách ép tổng số; **Tách gói** khi khách ép 1 hạng mục ("AI engine riêng bao nhiêu?").
 >
@@ -1527,7 +1528,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** | 「<ruby>複数機能<rt>ふくすうきのう</rt></ruby>を<ruby>同一<rt>どういつ</rt></ruby>プロジェクトで<ruby>開発<rt>かいはつ</rt></ruby>すると<ruby>共通基盤化<rt>きょうつうきばんか</rt></ruby>で<ruby>工数<rt>こうすう</rt></ruby> 5% <ruby>削減<rt>さくげん</rt></ruby>できます。それを<ruby>御社<rt>おんしゃ</rt></ruby>に<ruby>還元<rt>かんげん</rt></ruby>する<ruby>形<rt>かたち</rt></ruby>【3】。<ruby>稟議書<rt>りんぎしょ</rt></ruby>に『giá gói』として<ruby>明記<rt>めいき</rt></ruby>いただければ、<ruby>個別<rt>こべつ</rt></ruby> dòng ngân sách từng mục は nội bộ giải trình chi phí としてお<ruby>使<rt>つか</rt></ruby>いいただけます。」 <br/>*Nhiều tính năng phát triển trong cùng dự án thì build trên nền chung giảm được 5% effort. Em chia sẻ phần đó với quý cty. Trong ringi-sho ghi rõ ''giá gói'', còn dòng ngân sách từng mục dùng làm tài liệu giải trình chi phí nội bộ ạ.* |
 | **中村CFO** | 「これなら<ruby>稟議書<rt>りんぎしょ</rt></ruby>が<ruby>書<rt>か</rt></ruby>きやすい。ありがとうございます。」 <br/>*Vậy thì ringi-sho dễ viết. Cảm ơn em.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Tách từng mục ra** — 4 hạng mục kèm chi phí. CFO dùng cho ringi-sho.
 - 【2】**Chiết khấu gói** — tổng từng mục ¥18.5M > gói ¥17.5M (lợi ¥1M). Khách thấy "đang được ưu đãi".
 - 【3】**Cơ sở chiết khấu = 共通基盤化 (giảm khối lượng công việc 5%)** — không bịa, có thật. CFO sẽ kiểm chứng.
@@ -1559,7 +1560,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 共通基盤化 | きょうつうきばんか | CỘNG THÔNG CƠ BÀN HÓA | Xây trên nền chung |
 | 還元 | かんげん | HOÀN NGUYÊN | Hoàn lại / chia sẻ |
 | ラインアイテム | ラインアイテム | — | Dòng ngân sách / hạng mục |
-| 稟議書 | りんぎしょ | BẨM NGHỊ THƯ | Tài liệu ringi |', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 稟議書 | りんぎしょ | BẨM NGHỊ THƯ | Tài liệu ringi |', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000023, 800000007, NULL, 'markdown_book', 'Rule 23 — Quy đổi sang ROI / ROI 換算', '# Rule 23 — Quy đổi sang ROI / ROI 換算
 > **Luận điểm.** Khách Nhật (đặc biệt CFO) duyệt giá lớn dựa trên **ROI rõ ràng + được nội bộ kiểm chứng**. Quy đổi giá → ROI: **(1) Investment** (¥18M), **(2) Annual return** (cost saving + revenue uplift), **(3) Payback period** (tháng), **(4) IRR / NPV nếu thương vụ lớn**. Báo giá không kèm ROI = CFO Nhật khó duyệt.
 >
@@ -1592,12 +1593,12 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |---------|-----|
 | **中村CFO** | 「ROI はどのくらいですか？」 <br/>*ROI khoảng bao nhiêu?* |
 | **ズン** | 「**ROI 4 chỉ số**【1】です。**Đầu tư**: ¥17.5M。**Lợi tức hàng năm**: (a) AI レコメンド<ruby>導入<rt>どうにゅう</rt></ruby>で transaction <ruby>単価<rt>たんか</rt></ruby> +12% × 月 GMV ¥600M ≒ 年 +¥864M doanh thu tăng thêm、<ruby>利益率<rt>りえきりつ</rt></ruby> 9% <ruby>換算<rt>かんさん</rt></ruby>で **¥77.7M/年 lợi nhuận ròng**【2】、(b) <ruby>手動<rt>しゅどう</rt></ruby><ruby>在庫<rt>ざいこ</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby><ruby>削減<rt>さくげん</rt></ruby> = 5名 × 240日 × 2h × 単価 ¥6,000 = **¥14.4M/年 tiết kiệm chi phí**、<ruby>合計<rt>ごうけい</rt></ruby> **¥92.1M/年**。」 <br/>*ROI 4 chỉ số ạ. Đầu tư: ¥17.5M. Lợi tức hàng năm: (a) AI recommend triển khai → đơn giá transaction +12% × GMV tháng ¥600M ≒ +¥864M doanh thu tăng thêm/năm, quy theo biên lợi nhuận 9% là ¥77.7M/năm lợi nhuận ròng; (b) giảm điều chỉnh tồn kho thủ công = 5 người × 240 ngày × 2h × ¥6,000 = ¥14.4M/năm tiết kiệm chi phí. Tổng ¥92.1M/năm ạ.* |
-| **ズン** | 「**Payback period: ¥17.5M ÷ ¥92.1M ≒ 2.3 ヶ月**【3】、つまり<ruby>初年度<rt>しょねんど</rt></ruby>で 5.3 倍の return。**3 年 NPV (<ruby>割引率<rt>わりびきりつ</rt></ruby> 5%): ¥234M**【4】。」 <br/>*Thời gian thu hồi vốn: ¥17.5M ÷ ¥92.1M ≒ 2.3 tháng, tức năm đầu hoàn vốn 5.3 lần. NPV 3 năm (tỉ lệ chiết khấu 5%): ¥234M ạ.* |
+| **ズン** | 「**Payback period: ¥17.5M ÷ (¥92.1M ÷ 12ヶ月) ≒ 2.3 ヶ月**【3】、つまり<ruby>初年度<rt>しょねんど</rt></ruby>で 5.3 倍の return。**3 年 NPV (<ruby>割引率<rt>わりびきりつ</rt></ruby> 5%): ¥234M**【4】。」 <br/>*Thời gian thu hồi vốn: ¥17.5M ÷ (¥92.1M ÷ 12 tháng) ≒ 2.3 tháng, tức năm đầu hoàn vốn 5.3 lần. NPV 3 năm (tỉ lệ chiết khấu 5%): ¥234M ạ.* |
 | **中村CFO** | 「数値の<ruby>信頼性<rt>しんらいせい</rt></ruby>は？」 <br/>*Độ tin cậy của con số?* |
 | **ズン** | 「Phase 2 で transaction 単価 +9% を<ruby>実現済<rt>じつげんず</rt></ruby>み (vs. <ruby>予測<rt>よそく</rt></ruby> +8%、<ruby>上振<rt>うわぶ</rt></ruby>れ)。AI モデル<ruby>精度<rt>せいど</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>で +12% は ngoại suy có kiểm soát です。Whitepaper + <ruby>第三者<rt>だいさんしゃ</rt></ruby><ruby>監査済<rt>かんさず</rt></ruby>みデータをお<ruby>渡<rt>わた</rt></ruby>しします【5】。」 <br/>*Phase 2 đã hiện thực được đơn giá transaction +9% (so với dự +8%, vượt). +12% với AI model nâng cấp là ngoại suy có kiểm soát ạ. Em chuyển tới quý anh whitepaper + dữ liệu đã kiểm toán bên thứ ba ạ.* |
 | **中村CFO** | 「これなら<ruby>取締役会<rt>とりしまりやくかい</rt></ruby>に<ruby>出<rt>だ</rt></ruby>せます。」 <br/>*Vậy thì đưa được lên HĐQT.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**ROI 4 chỉ số** — Đầu tư / Lợi tức hàng năm / Thời gian thu hồi vốn / NPV. Đủ cả 4 = khoa học, không bịa.
 - 【2】**Lợi tức hàng năm chia ra tiết kiệm chi phí + doanh thu tăng thêm** — CFO tin tưởng vì mỗi nhánh được kiểm chứng độc lập.
 - 【3】**Thời gian thu hồi vốn < 6 月 = "ROI mạnh"** trong ngữ cảnh B2B Nhật. < 12 月 = "OK". > 24 月 = khó duyệt.
@@ -1631,7 +1632,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 上振れ | うわぶれ | — | Vượt dự kiến |
 | 第三者監査 | だいさんしゃかんさ | ĐỆ TAM GIẢ GIÁM TRA | Kiểm toán bên thứ ba |
 | 取締役会 | とりしまりやくかい | THỦ ĐẾ DỊCH HỘI | HĐQT |
-| Ngoại suy có kiểm soát | せいぎょされたがいそう | KHỐNG CHẾ NGOẠI SÁCH | Ngoại suy có kiểm soát |', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| Ngoại suy có kiểm soát | せいぎょされたがいそう | KHỐNG CHẾ NGOẠI SÁCH | Ngoại suy có kiểm soát |', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000024, 800000007, NULL, 'markdown_book', 'Rule 24 — Đổi nhượng bộ (ngang giá) / 譲歩交換', '# Rule 24 — Đổi nhượng bộ (ngang giá) / 譲歩交換
 > **Luận điểm.** Mọi nhượng bộ đều phải có **trade ngược** — đổi lấy điều gì đó. Câu chuẩn: "**もし〇〇していただければ、〇〇いたします**" (nếu quý anh cho X, em sẽ cho Y). KHÔNG bao giờ nhượng bộ đơn phương. Tit-for-tat duy trì sự cân bằng giá trị.
 >
@@ -1669,7 +1670,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** | 「もちろんです。**<ruby>両方<rt>りょうほう</rt></ruby><ruby>ご了承<rt>ごりょうしょう</rt></ruby>いただけた<ruby>段階<rt>だんかい</rt></ruby>で ¥17M + dashboard <ruby>込<rt>こ</rt></ruby>みで<ruby>確定<rt>かくてい</rt></ruby>**【4】、もし (2) のみ<ruby>難<rt>むずか</rt></ruby>しい<ruby>場合<rt>ばあい</rt></ruby>は contractual に scope <ruby>調整<rt>ちょうせい</rt></ruby>となります。」 <br/>*Tất nhiên ạ. Khi cả 2 đều OK em sẽ chốt ¥17M + dashboard, nếu chỉ (2) khó thì sẽ điều chỉnh scope trong hợp đồng ạ.* |
 | **大垣** | 「<ruby>整理<rt>せいり</rt></ruby>して<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 <br/>*Tôi tổng hợp rồi mang về xem xét.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Ghi nhận** trước khi phản hồi, không nhảy vào đổi ngay.
 - 【2】**「もし〜していただければ」** = công thức chuẩn cho đổi nhượng bộ ngang giá. KHÔNG bị thấy là "đòi", chỉ là điều kiện.
 - 【3】**Điều kiện đổi chọn 2 thứ có giá trị cho mình mà chi phí thấp cho khách** — 2 năm đã có ringi nội bộ rồi (rule 19), 事例公開 = giá trị marketing.
@@ -1701,7 +1702,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 自動更新 | じどうこうしん | TỰ ĐỘNG CẬP TÂN | Tự động gia hạn |
 | 公式事例 | こうしきじれい | CÔNG THỨC SỰ LỆ | Case study chính thức |
 | 広報部 | こうほうぶ | QUẢNG BÁO BỘ | Phòng PR |
-| 整理する | せいりする | CHỈNH LÝ | Sắp xếp / tổng hợp |', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 整理する | せいりする | CHỈNH LÝ | Sắp xếp / tổng hợp |', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000025, 800000007, NULL, 'markdown_book', 'Rule 25 — Im lặng như vũ khí / 沈黙の活用', '# Rule 25 — Im lặng như vũ khí / 沈黙の活用
 > **Luận điểm.** Sau khi đưa đề nghị, **đếm 7 giây im lặng**. Người Việt thường lấp khoảng lặng (vì khó chịu về mặt văn hoá) → tự nói hạ giá xuống. Khách Nhật quen với 沈黙 → ai phá im lặng trước = mất lợi thế. Luyện trước gương.
 >
@@ -1721,7 +1722,7 @@ Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im l
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「Better tier ¥18M、ROI 4.4 倍に位置します。」 <br/>*Better tier ¥18M, ROI ở mức 4.4 lần ạ.* |
+| **ズン** | 「Better tier ¥18M、ROI 5.1 倍に位置します。」 <br/>*Better tier ¥18M, ROI ở mức 5.1 lần ạ.* |
 | **大垣** | 「…」 <br/>*(im lặng 4 giây, suy nghĩ)* |
 | **トゥアン** | 「あの、もし価格がご<ruby>懸念<rt>けねん</rt></ruby>でしたら、scope <ruby>調整<rt>ちょうせい</rt></ruby>で ¥16M も<ruby>可能<rt>かのう</rt></ruby>です。」 <br/>*À, nếu quý anh lo về giá, điều chỉnh scope thì ¥16M cũng được ạ.* |
 | **大垣** | 「あ、¥16M も可能ですか。それで<ruby>進<rt>すす</rt></ruby>めましょう。」 <br/>*À, ¥16M cũng được à. Vậy chốt như thế nhé.* |
@@ -1736,16 +1737,16 @@ Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im l
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「Better tier ¥18M、ROI 4.4 倍に<ruby>位置<rt>いち</rt></ruby>します。」 <br/>*Better tier ¥18M, ROI ở mức 4.4 lần ạ.* |
+| **ズン** | 「Better tier ¥18M、ROI 5.1 倍に<ruby>位置<rt>いち</rt></ruby>します。」 <br/>*Better tier ¥18M, ROI ở mức 5.1 lần ạ.* |
 | **ズン** | (<ruby>沈黙<rt>ちんもく</rt></ruby>) <br/>*(đặt tay phải lên đùi — signal đã hẹn, giữ im lặng)* |
 | **大垣** | 「…」 <br/>*(im lặng 1 giây)* |
 | **トゥアン** | (沈黙) <br/>*(định mở miệng, thấy signal Dũng, dừng lại)* |
 | **大垣** | 「…」 <br/>*(im lặng 3 giây)* |
 | **大垣** | 「…」 <br/>*(im lặng tiếp, tổng 5 giây)* |
-| **大垣** | 「ROI 4.4 倍はインパクトありますね。<ruby>但<rt>ただ</rt></ruby>し ¥18M は<ruby>社内<rt>しゃない</rt></ruby>ハードル<ruby>高<rt>たか</rt></ruby>めです、scope か contract length で<ruby>調整余地<rt>ちょうせいよち</rt></ruby>あれば<ruby>検討<rt>けんとう</rt></ruby>します。」【1】 <br/>*ROI 4.4 lần có sức tác động đấy. Nhưng ¥18M trong nội bộ rào cao, nếu có dư địa điều chỉnh ở scope hay contract length thì chúng tôi xem xét.* |
+| **大垣** | 「ROI 5.1 倍はインパクトありますね。<ruby>但<rt>ただ</rt></ruby>し ¥18M は<ruby>社内<rt>しゃない</rt></ruby>ハードル<ruby>高<rt>たか</rt></ruby>めです、scope か contract length で<ruby>調整余地<rt>ちょうせいよち</rt></ruby>あれば<ruby>検討<rt>けんとう</rt></ruby>します。」【1】 <br/>*ROI 5.1 lần có sức tác động đấy. Nhưng ¥18M trong nội bộ rào cao, nếu có dư địa điều chỉnh ở scope hay contract length thì chúng tôi xem xét.* |
 | **ズン** | 「ありがとうございます。それでは scope <ruby>調整案<rt>ちょうせいあん</rt></ruby>と contract length <ruby>案<rt>あん</rt></ruby>、<ruby>両方<rt>りょうほう</rt></ruby>ご<ruby>用意<rt>ようい</rt></ruby>します。」 <br/>*Em cảm ơn ạ. Vậy em chuẩn bị cả phương án điều chỉnh scope lẫn contract length ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**大垣 phá khoảng im lặng trước = tiến tới bằng nhượng bộ** (về "phạm vi hay thời hạn hợp đồng"). Đây là sự dịch chuyển lợi thế về phía Dũng.
 - **Khoảng im lặng 7 giây = mục tiêu luyện tập**. Cảm giác ban đầu mỗi giây như 5 giây. Luyện trước gương / với người đi trước.
 - **Hiệu tay trong nhóm** (rule 07) cực quan trọng — không có tín hiệu thì thành viên ít kinh nghiệm sẽ nói lấp.
@@ -1777,7 +1778,7 @@ Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im l
 | ハードル | ハードル | — | Rào / khó khăn |
 | 調整余地 | ちょうせいよち | ĐIỀU CHỈNH DƯ ĐỊA | Dư địa điều chỉnh |
 | インパクト | インパクト | — | Tác động |
-| 口を封じる | くちをふうじる | — | Khoá miệng |', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 口を封じる | くちをふうじる | — | Khoá miệng |', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000026, 800000007, NULL, 'markdown_book', 'Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応', '# Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応
 > **Luận điểm.** Khách gây áp lực "¥15M でなければ Y 社に発注", "今週中に決めなければ" = chiêu gây áp lực. Công thức xử lý: **(1) Câu bắc cầu** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn + giữ ranh giới** ("ただ弊社として〜は難しい"), **(3) Đẩy lên cấp trên** (anh Hà CTO vào cuộc). Đối đầu cứng = mất thương vụ; nhượng bộ quá mức = mất biên lợi nhuận. Câu bắc cầu + đẩy lên cấp trên = giữ được lợi thế.
 >
@@ -1819,7 +1820,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ハー CTO** | 「大垣<ruby>様<rt>さま</rt></ruby>、ハーでございます。¥15M というご<ruby>要望<rt>ようぼう</rt></ruby>、<ruby>伺<rt>うかが</rt></ruby>いました。**¥15M でしたら scope は -30% (AI dashboard・<ruby>専任<rt>せんにん</rt></ruby> PM・SLA 99.9%→99.5%) となり、Phase 3 <ruby>当初<rt>とうしょ</rt></ruby><ruby>目的<rt>もくてき</rt></ruby>の<ruby>達成度合<rt>たっせいどあ</rt></ruby>いは 65% <ruby>程度<rt>ていど</rt></ruby>になります**【4】。**Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは<ruby>承認済<rt>しょうにんず</rt></ruby>みの<ruby>最終条件<rt>さいしゅうじょうけん</rt></ruby>**でございます。」 <br/>*Anh Ōgaki, em là Hà ạ. Em đã nghe yêu cầu ¥15M. Nếu ¥15M thì scope -30% (bỏ AI dashboard, PM chuyên trách, SLA 99.9%→99.5%), mức đạt mục tiêu ban đầu Phase 3 chỉ ~65%. Scope tương đương Phase 2 thì walk-away bên em là ¥15.5M, đây là điều kiện cuối đã được duyệt ạ.* |
 | **大垣** | 「…CTO <ruby>同席<rt>どうせき</rt></ruby>ですと<ruby>話<rt>はなし</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりますね。¥15.5M なら<ruby>社内<rt>しゃない</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 <br/>*…CTO cùng dự thì câu chuyện khác. ¥15.5M thì tôi mang về xem xét nội bộ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Câu bắc cầu** = hạ nhiệt. KHÔNG tranh cãi ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
 - 【2】**Câu giữ ranh giới** "弊社として〜は難しい" — thể hiện lập trường cứng nhưng tông giọng lịch sự.
 - 【3】**Đưa cấp trên vào** "弊社 CTO をお呼びしてもよろしいでしょうか" — phải xin phép, không tự ý gọi.
@@ -1852,7 +1853,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 粗利を割り込む | あらりをわりこむ | THÔ LỢI | Phá ngưỡng margin |
 | 致しかねます | いたしかねます | — | Khó thực hiện được |
 | エスカレーション | エスカレーション | — | Đưa lên cấp trên |
-| 達成度合い | たっせいどあい | ĐẠT THÀNH ĐỘ | Mức độ đạt được |', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 達成度合い | たっせいどあい | ĐẠT THÀNH ĐỘ | Mức độ đạt được |', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000027, 800000007, NULL, 'markdown_book', 'Rule 27 — Re-anchor sau pushback / 再アンカリング', '# Rule 27 — Re-anchor sau pushback / 再アンカリング
 > **Luận điểm.** Sau khi khách bác bỏ anchor đầu (¥18M → "高い"), KHÔNG vội nhượng bộ ngay. Cần **re-anchor**: lập lại VALUE ban đầu + thêm lý lẽ + nhắc lại mục tiêu. Hiệu ứng: khách bị "kéo neo về" ¥18M một lần nữa, lần này có thêm cơ sở. Không re-anchor → mỗi lần khách ép là lại giảm giá → rò rỉ ¥1-2M.
 >
@@ -1884,12 +1885,12 @@ Sau khi 大垣 reject ¥18M là "厳しい" (rule 19), tới ngày 2 (持ち帰�
 | Vai | Câu |
 |---------|-----|
 | **大垣** | 「持ち帰り検討の結果、¥16M でないと社内通せません。」 <br/>*Mang về xem xét xong, không phải ¥16M là không qua nội bộ.* |
-| **ズン** | 「ご<ruby>検討<rt>けんとう</rt></ruby>ありがとうございます。**<ruby>改<rt>あらた</rt></ruby>めて<ruby>整理<rt>せいり</rt></ruby>させていただきますと**【1】、¥18M はROI 4.4 <ruby>倍<rt>ばい</rt></ruby>、Payback 2.3 ヶ<ruby>月<rt>げつ</rt></ruby>、3 <ruby>年<rt>ねん</rt></ruby> NPV ¥234M という<ruby>構造<rt>こうぞう</rt></ruby>で、<ruby>御社<rt>おんしゃ</rt></ruby>の +¥80M GMV <ruby>目標達成<rt>もくひょうたっせい</rt></ruby>に<ruby>最<rt>もっと</rt></ruby>も<ruby>合致<rt>がっち</rt></ruby>する<ruby>設計<rt>せっけい</rt></ruby>でございます。」 <br/>*Em cảm ơn quý anh đã xem xét ạ. Xin phép em sắp xếp lại — ¥18M có cấu trúc ROI 4.4 lần, Payback 2.3 tháng, NPV 3 năm ¥234M, là thiết kế khớp nhất với mục tiêu +¥80M GMV của quý cty ạ.* |
+| **ズン** | 「ご<ruby>検討<rt>けんとう</rt></ruby>ありがとうございます。**<ruby>改<rt>あらた</rt></ruby>めて<ruby>整理<rt>せいり</rt></ruby>させていただきますと**【1】、¥18M はROI 5.1 <ruby>倍<rt>ばい</rt></ruby>、Payback 2.3 ヶ<ruby>月<rt>げつ</rt></ruby>、3 <ruby>年<rt>ねん</rt></ruby> NPV ¥234M という<ruby>構造<rt>こうぞう</rt></ruby>で、<ruby>御社<rt>おんしゃ</rt></ruby>の +¥80M GMV <ruby>目標達成<rt>もくひょうたっせい</rt></ruby>に<ruby>最<rt>もっと</rt></ruby>も<ruby>合致<rt>がっち</rt></ruby>する<ruby>設計<rt>せっけい</rt></ruby>でございます。」 <br/>*Em cảm ơn quý anh đã xem xét ạ. Xin phép em sắp xếp lại — ¥18M có cấu trúc ROI 5.1 lần, Payback 2.3 tháng, NPV 3 năm ¥234M, là thiết kế khớp nhất với mục tiêu +¥80M GMV của quý cty ạ.* |
 | **ズン** | 「**<ruby>追加情報<rt>ついかじょうほう</rt></ruby>として**【2】、Phase 2 <ruby>同等<rt>どうとう</rt></ruby>の SLA 99.9% を<ruby>維持<rt>いじ</rt></ruby>しつつ、AI レコメンドエンジンの<ruby>精度<rt>せいど</rt></ruby>を Phase 2 <ruby>比<rt>ひ</rt></ruby> +18% (vs. <ruby>当初提案<rt>とうしょていあん</rt></ruby> +12%) に<ruby>拡張<rt>かくちょう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>との<ruby>社内検証<rt>しゃないけんしょう</rt></ruby><ruby>結果<rt>けっか</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました【3】。これにより transaction <ruby>単価<rt>たんか</rt></ruby><ruby>期待値<rt>きたいち</rt></ruby>は +14% に<ruby>上方修正<rt>じょうほうしゅうせい</rt></ruby>、Annual return も +¥15M/<ruby>年<rt>ねん</rt></ruby><ruby>改善<rt>かいぜん</rt></ruby><ruby>見込<rt>みこ</rt></ruby>み。」 <br/>*Thông tin thêm: giữ SLA 99.9% tương đương Phase 2, độ chính xác AI recommend engine có thể mở rộng lên +18% so Phase 2 (so với đề xuất ban đầu +12%) — đã có kết quả kiểm chứng nội bộ. Theo đó kỳ vọng đơn giá transaction điều chỉnh tăng lên +14%, Annual return cải thiện +¥15M/năm ạ.* |
 | **ズン** | 「**この value を<ruby>踏<rt>ふ</rt></ruby>まえつつ、<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>社内<rt>しゃない</rt></ruby>ハードルにも<ruby>合<rt>あ</rt></ruby>わせる<ruby>形<rt>かたち</rt></ruby>として**【4】 — **¥17M で scope <ruby>維持<rt>いじ</rt></ruby> + 2 <ruby>年契約<rt>ねんけいやく</rt></ruby>**を<ruby>再提案<rt>さいていあん</rt></ruby>。¥16M は scope -15% (AI dashboard 2nd phase <ruby>後出<rt>あとだ</rt></ruby>し) となります。**御社のご<ruby>判断<rt>はんだん</rt></ruby>としていかがでしょうか**？」 <br/>*Trên nền value đó, đồng thời khớp rào nội bộ quý cty — em tái đề xuất ¥17M giữ scope + hợp đồng 2 năm. ¥16M là scope -15% (đẩy AI dashboard sang 2nd phase). Quý anh thấy thế nào ạ?* |
 | **大垣** | 「+18% <ruby>精度<rt>せいど</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>、<ruby>稟議書<rt>りんぎしょ</rt></ruby>に<ruby>追加<rt>ついか</rt></ruby>できます。¥17M + 2 <ruby>年<rt>ねん</rt></ruby>なら<ruby>社内再協議<rt>しゃないさいきょうぎ</rt></ruby>します。」 <br/>*Vụ +18% độ chính xác có thể thêm vào ringi-sho. ¥17M + 2 năm thì tôi đem ra thảo luận lại nội bộ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「改めて整理」** = signal "ta sẽ restate value", khách biết đợi.
 - 【2】**「追加情報として」** = key. Tái neo giá cần thêm dữ kiện mới — KHÔNG phải lặp lại nguyên văn.
 - 【3】**社内検証結果 = AI 精度 +18% (上方修正)** — anchor lại với số ấn tượng hơn.
@@ -1922,7 +1923,7 @@ Sau khi 大垣 reject ¥18M là "厳しい" (rule 19), tới ngày 2 (持ち帰�
 | 社内検証 | しゃないけんしょう | XÃ NỘI KIỂM CHỨNG | Kiểm chứng nội bộ |
 | 期待値 | きたいち | KỲ ĐÃI TRỊ | Giá trị kỳ vọng |
 | 社内ハードル | しゃないハードル | XÃ NỘI | Rào nội bộ |
-| 再協議 | さいきょうぎ | TÁI HIỆP NGHỊ | Thảo luận lại |', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 再協議 | さいきょうぎ | TÁI HIỆP NGHỊ | Thảo luận lại |', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000028, 800000007, NULL, 'markdown_book', 'Rule 28 — Walk away phong nhã / 撤退の作法', '# Rule 28 — Walk away phong nhã / 撤退の作法
 > **Luận điểm.** Khi vượt điểm rút lui, phải rút — nhưng rút **lịch sự để giữ quan hệ cho thương vụ sau**. Mô hình: **(1) Ghi nhận khách**, **(2) Bày tỏ tiếc nuối**, **(3) Để ngỏ cánh cửa** ("Phase 4 で改めて"), **(4) Giữ thể diện cả 2 bên**. KHÔNG kết thúc bằng tông giọng "thất bại".
 >
@@ -1933,7 +1934,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ---
 
 ## Bối cảnh / 場面
-Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15.5M). Hà CTO đã vào cuộc (rule 26) nhưng khách vẫn không đồng ý. Dũng phải rút lui phong nhã.
+Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15M). Hà CTO đã vào cuộc (rule 26) nhưng khách vẫn không đồng ý. Dũng phải rút lui phong nhã.
 
 ---
 
@@ -1962,7 +1963,7 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15.5
 | **大垣** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。今回は条件が合いませんでしたが、Phase 2 での<ruby>協業<rt>きょうぎょう</rt></ruby>は弊社としても<ruby>評価<rt>ひょうか</rt></ruby>しております。今後何かあれば、こちらからもお声がけします。」 <br/>*Cảm ơn em đã chu đáo. Lần này điều kiện chưa khớp, nhưng hợp tác Phase 2 bên tôi cũng đánh giá tốt. Sau này có việc gì, bên tôi cũng sẽ liên hệ lại.* |
 | **ハー CTO** | 「ありがとうございます。本日のお<ruby>時間<rt>じかん</rt></ruby>、<ruby>感謝<rt>かんしゃ</rt></ruby>いたします。」 <br/>*Em cảm ơn ạ. Cảm ơn quý anh dành thời gian hôm nay ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Ghi nhận thời gian khách** — họ đã đầu tư 4 vòng, phải ghi nhận.
 - 【2】**Ngôn ngữ kết thúc trung tính** "条件面で折り合いがつかず" — KHÔNG đổ lỗi cho ai. "残念" + trung tính.
 - 【3】**Câu để ngỏ cánh cửa** "Phase 4 や別案件、いつでも歓迎" — để lại khả năng. Khách Nhật ghi nhớ tông giọng này, có thể quay lại 6-12 tháng sau.
@@ -1994,7 +1995,7 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15.5
 | ご縁 | ごえん | DUYÊN | Mối duyên / kết nối |
 | 貴重な経験 | きちょうなけいけん | QUÝ TRỌNG KINH NGHIỆM | Trải nghiệm quý |
 | 事業環境 | じぎょうかんきょう | SỰ NGHIỆP HOÀN CẢNH | Môi trường kinh doanh |
-| 歓迎 | かんげい | HOAN NGHÊNH | Hoan nghênh |', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 歓迎 | かんげい | HOAN NGHÊNH | Hoan nghênh |', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000029, 800000007, NULL, 'markdown_book', 'Rule 29 — Xử lý yêu cầu nhỏ sau chốt / ニブル・後出し対応', '# Rule 29 — Xử lý yêu cầu nhỏ sau chốt / ニブル・後出し対応
 > **Luận điểm.** **Xin thêm nhỏ** = sau khi gần chốt thương vụ, khách thêm yêu cầu nhỏ ("ついでに training 1 日無料で…"). 1 lần xin thêm nhỏ = ¥0.5M, nhiều lần = ¥3-5M rò rỉ. Mô hình: **(1) Ghi nhận**, **(2) Đưa điều kiện đổi** (KHÔNG cho miễn phí), **(3) Đặt lại đồng hồ** (yêu cầu mới = xem lại toàn bộ thỏa thuận).
 >
@@ -2026,10 +2027,10 @@ Sau Phase 3 chốt ¥17M + 2 năm + dashboard kèm trade (rule 24), 田中 PMO S
 |---------|-----|
 | **田中PMO** | 「ズン<ruby>様<rt>さま</rt></ruby>、Phase 3 contract draft <ruby>確認<rt>かくにん</rt></ruby>しました。ついでに social engineer <ruby>部署<rt>ぶしょ</rt></ruby><ruby>向<rt>む</rt></ruby>け training 1 <ruby>日<rt>にち</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>で<ruby>追加<rt>ついか</rt></ruby><ruby>可能<rt>かのう</rt></ruby>でしょうか？」 <br/>*Anh Dũng, tôi đã xem bản thảo hợp đồng Phase 3 rồi. Tiện thể thêm training 1 ngày miễn phí cho phòng social engineer được không ạ?* |
 | **ズン** | 「**お<ruby>声<rt>こえ</rt></ruby>がけありがとうございます**【1】。training 1 <ruby>日<rt>にち</rt></ruby> (¥0.4M <ruby>相当<rt>そうとう</rt></ruby>) は<ruby>当初<rt>とうしょ</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby> scope <ruby>外<rt>がい</rt></ruby>となります。**<ruby>社内<rt>しゃない</rt></ruby> training をご<ruby>希望<rt>きぼう</rt></ruby>でしたら、<ruby>以下<rt>いか</rt></ruby> 2 <ruby>案<rt>あん</rt></ruby>**【2】**: (A) <ruby>有償<rt>ゆうしょう</rt></ruby>で ¥0.4M <ruby>追加<rt>ついか</rt></ruby>、(B) <ruby>既存<rt>きそん</rt></ruby> scope <ruby>内<rt>ない</rt></ruby>で AI dashboard カスタムを 1 <ruby>機能<rt>きのう</rt></ruby> trade、トータル<ruby>金額<rt>きんがく</rt></ruby><ruby>不変<rt>ふへん</rt></ruby>。」 <br/>*Cảm ơn em đã liên hệ. Training 1 ngày (tương đương ¥0.4M) nằm ngoài scope hợp đồng ban đầu. Nếu phía em muốn training nội bộ, có 2 phương án: (A) Có phí, thêm ¥0.4M, (B) Trade 1 chức năng AI dashboard custom trong scope hiện tại, tổng tiền không đổi ạ.* |
-| **ズン** | 「**なお、<ruby>追加<rt>ついか</rt></ruby><ruby>要素<rt>ようそ</rt></ruby>のご<ruby>検討<rt>けんとう</rt></ruby>に<ruby>際<rt>さい</rt></ruByの</ruby>しては<ruby>全体<rt>ぜんたい</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>の<ruby>再<rt>さい</rt></ruby> review が<ruby>必要<rt>ひつよう</rt></ruby>となるため、<ruby>契約<rt>けいやく</rt></ruby><ruby>締結<rt>ていけつ</rt></ruby>スケジュールが 1 <ruby>週間<rt>しゅうかん</rt></ruby><ruby>後<rt>うし</rt></ruby>ろ<ruby>倒<rt>だお</rt></ruby>しとなる<ruby>可能性<rt>かのうせい</rt></ruby>があります**【3】。ご<ruby>都合<rt>つごう</rt></ruby>をお<ruby>聞<rt>き</rt></ruby>かせください。」 <br/>*Thêm nữa, để xem xét yếu tố bổ sung này thì cần xem lại toàn bộ thỏa thuận, có thể lịch ký hợp đồng sẽ lùi 1 tuần. Em xin nghe ý anh ạ.* |
-| **田中PMO** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>に。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>再協議<rt>さいきょうぎ</rt></ruby>し、<ruby>後<rt>のち</rt></ruby>ほど<ruby>正式<rt>せいしき</rt></ruby>に。スケジュール<ruby>優先<rt>ゆうせん</rt></ruby>で training は<ruby>当初<rt>とうしょ</rt></ruby><ruby>通<rt>どお</rt></ruById</ruby>り<ruby>無<rt>な</rt></ruby>しで<ruby>進<rt>すす</rt></ruby>めます。」 <br/>*Cảm ơn anh chu đáo. Tôi thảo luận lại nội bộ rồi báo chính thức sau. Ưu tiên lịch, training thì giữ nguyên không thêm, mình tiếp tục như ban đầu ạ.* |
+| **ズン** | 「**なお、<ruby>追加<rt>ついか</rt></ruby><ruby>要素<rt>ようそ</rt></ruby>のご<ruby>検討<rt>けんとう</rt></ruby>に<ruby>際<rt>さい</rt></ruby>しては<ruby>全体<rt>ぜんたい</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>の<ruby>再<rt>さい</rt></ruby> review が<ruby>必要<rt>ひつよう</rt></ruby>となるため、<ruby>契約<rt>けいやく</rt></ruby><ruby>締結<rt>ていけつ</rt></ruby>スケジュールが 1 <ruby>週間<rt>しゅうかん</rt></ruby><ruby>後<rt>うし</rt></ruby>ろ<ruby>倒<rt>だお</rt></ruby>しとなる<ruby>可能性<rt>かのうせい</rt></ruby>があります**【3】。ご<ruby>都合<rt>つごう</rt></ruby>をお<ruby>聞<rt>き</rt></ruby>かせください。」 <br/>*Thêm nữa, để xem xét yếu tố bổ sung này thì cần xem lại toàn bộ thỏa thuận, có thể lịch ký hợp đồng sẽ lùi 1 tuần. Em xin nghe ý anh ạ.* |
+| **田中PMO** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>に。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>再協議<rt>さいきょうぎ</rt></ruby>し、<ruby>後<rt>のち</rt></ruby>ほど<ruby>正式<rt>せいしき</rt></ruby>に。スケジュール<ruby>優先<rt>ゆうせん</rt></ruby>で training は<ruby>当初<rt>とうしょ</rt></ruby><ruby>通<rt>どお</rt></ruby>り<ruby>無<rt>な</rt></ruby>しで<ruby>進<rt>すす</rt></ruby>めます。」 <br/>*Cảm ơn anh chu đáo. Tôi thảo luận lại nội bộ rồi báo chính thức sau. Ưu tiên lịch, training thì giữ nguyên không thêm, mình tiếp tục như ban đầu ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Ghi nhận nhẹ** "お声がけありがとうございます" — không cứng "không" ngay.
 - 【2】**Phương án (A) có phí / (B) đổi phạm vi** — không cho miễn phí, nhưng vẫn mở đường. Khách tự quyết.
 - 【3】**Đặt lại đồng hồ** = mấu chốt. Yêu cầu mới = xem lại toàn bộ thỏa thuận = lùi lịch → khách thường tự rút yêu cầu thêm vì sợ trễ tiến độ.
@@ -2061,7 +2062,7 @@ Sau Phase 3 chốt ¥17M + 2 năm + dashboard kèm trade (rule 24), 田中 PMO S
 | 全体合意 | ぜんたいごうい | TOÀN THỂ HỢP Ý | Đồng thuận tổng thể |
 | 後ろ倒し | うしろだおし | — | Đẩy lùi (hạn chót) |
 | 抑止力 | よくしりょく | ỨC CHỈ LỰC | Sức răn đe |
-| 再 review | さいレビュー | — | Xem lại |', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 再 review | さいレビュー | — | Xem lại |', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000030, 800000007, NULL, 'markdown_book', 'Rule 30 — Confirm point of agreement / 合意点の確認', '# Rule 30 — Confirm point of agreement / 合意点の確認
 > **Luận điểm.** Cuối phiên đàm phán, KHÔNG được kết thúc bằng "じゃあそれで". Phải **đọc lại từng điểm** đã đồng thuận: giá, phạm vi, thời hạn, điều kiện. Trong văn hóa 稟議, thiếu 1 mục = sau khi ringi chạy sẽ phát hiện lệch → đàm phán lại. Đọc lại = chốt chắc trước khi ra khỏi phòng họp.
 >
@@ -2101,7 +2102,7 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 | **大垣** | 「はい、その<ruby>通<rt>とお</rt></ruby>りです。1<ruby>点<rt>てん</rt></ruby>だけ、**<ruby>支払<rt>しはらい</rt></ruby>サイトは<ruby>月末締<rt>げつまつじ</rt></ruby>め<ruby>翌月末払<rt>よくげつまつばら</rt></ruby>い**でお<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Đúng vậy. Chỉ có một điểm: chu kỳ thanh toán là chốt cuối tháng, trả cuối tháng kế tiếp giúp tôi.* |
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。**<ruby>月末締<rt>げつまつじ</rt></ruby>め<ruby>翌月末払<rt>よくげつまつばら</rt></ruby>いを<ruby>追記<rt>ついき</rt></ruby>**して、**24<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>メールをお<ruby>送<rt>おく</rt></ruby>りいたします**【3】。<ruby>本日<rt>ほんじつ</rt></ruby>はありがとうございました。」 <br/>*Em nhận rồi ạ. Em sẽ bổ sung ''chốt cuối tháng - trả cuối tháng kế'', và gửi mail tổng kết trong vòng 24 giờ ạ. Hôm nay em cảm ơn anh nhiều ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「合意事項を確認させてください」** — thiết lập nghi thức đọc lại. Không phải tuỳ chọn, là quy trình bắt buộc.
 - 【2】**7 mục đánh số** — giá / thời hạn / phạm vi / SLA / thanh toán / sở hữu trí tuệ / lịch ringi. Mỗi mục là 1 nguồn sai lệch tiềm ẩn.
 - 【3】**Cam kết mail tóm tắt trong 24h** — bắc cầu sang rule 31. Đọc lại xác nhận miệng + mail tóm tắt = chốt kép.
@@ -2132,7 +2133,7 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 | 月末締め | げつまつじめ | NGUYỆT MẠT ĐÌNH | Chốt cuối tháng |
 | 翌月末払い | よくげつまつばらい | DỰC NGUYỆT MẠT BẢI | Trả cuối tháng kế |
 | 共同所有 | きょうどうしょゆう | CỘNG ĐỒNG SỞ HỮU | Đồng sở hữu |
-| 概ね | おおむね | — | Đại thể |', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 概ね | おおむね | — | Đại thể |', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000031, 800000007, NULL, 'markdown_book', 'Rule 31 — Mail tóm tắt xác nhận / 要約・確認メール', '# Rule 31 — Mail tóm tắt xác nhận / 要約・確認メール
 > **Luận điểm.** Trong vòng **24 giờ** sau đàm phán, gửi mail tóm tắt liệt kê: (1) người tham dự, (2) các điểm đã đồng thuận, (3) các điểm còn mở, (4) bước tiếp theo + người phụ trách + hạn chót. Mail tóm tắt là **văn bản chính thức** trong quy trình ringi — nếu không có, phạm vi sẽ lệch trong 1-2 tuần đến lúc soạn hợp đồng.
 >
@@ -2173,7 +2174,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | (14:00 大垣返信) **大垣** | 「ズン様、迅速なご対応ありがとうございます。**読み戻し通り**で齟齬ございません。1点、稟議の上申は **5月7日** で動きます。」 |
 | **ズン** | 「大垣様より OK 返信いただきました【2】。稟議 5/7 上申とのことです。次は契約書 draft を準備します。」 |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**5 phần** = Người tham dự / Điểm đồng thuận / Điểm chưa quyết / Bước tiếp theo / Đính kèm. Bỏ phần nào = mail tóm tắt không phục vụ được ringi.
 - 【2】**Phản hồi OK = chốt**. Lịch sử mail này được đính kèm vào tài liệu ringi → hồ sơ chính thức. Nếu khách tranh chấp sau, có bằng chứng.
 - **24h = hạn chuẩn**. Khách Nhật mong mail tóm tắt trong 24h giờ làm việc. Trễ → độ tin tưởng giảm đo được.
@@ -2210,11 +2211,15 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ---
 
 ## Mẫu
-(Mẫu mail tóm tắt JP/VN với 5 phần — xem hướng dẫn đính kèm cuốn sách)', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+(Mẫu mail tóm tắt JP/VN với 5 phần — xem hướng dẫn đính kèm cuốn sách)', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000032, 800000007, NULL, 'markdown_book', 'Rule 32 — LOI trước, soạn hợp đồng sau / 契約書ドラフト・LOI', '# Rule 32 — LOI trước, soạn hợp đồng sau / 契約書ドラフト・LOI
 > **Luận điểm.** Sau khi mail tóm tắt được xác nhận OK, KHÔNG nhảy thẳng sang hợp đồng đầy đủ. Bước trung gian: **LOI (Thư xác nhận ý định)** — văn bản 1-2 trang xác nhận **điều khoản thương mại + ý định ký hợp đồng**, ký 2 bên trong 1-2 tuần. Sau LOI mới soạn hợp đồng chính (4-8 tuần). Thiếu LOI = bản thảo hợp đồng sẽ bị "重要条件もう一度ね" → đàm phán lại.
 >
-> 商談合意 → LOI (1-2 ページ、commercial terms 確認) → 契約書ドラフト (詳細条項) の 2 段階。LOI を飛ばすと、契約書段階で「主要条件再確認」が発生し再交渉となる。
+> ⚠️ **Phải hiểu đúng: LOI về nguyên tắc KHÔNG có hiệu lực ràng buộc pháp lý** (原則 non-binding). Có chữ ký, có con dấu vẫn không buộc được đối phương phải ký hợp đồng chính. Chỉ **một số điều khoản được ghi rõ là ràng buộc** mới có hiệu lực — thông lệ Nhật là **独占交渉権** (quyền đàm phán độc quyền, thường 1-3 tháng) và **秘密保持義務** (nghĩa vụ bảo mật). Giá và phạm vi ghi trong LOI là **thoả thuận về ý định**, không phải cam kết cưỡng chế được.
+>
+> Vậy giá trị thật của LOI là gì? **Ràng buộc bằng uy tín và bằng quy trình nội bộ của khách**, không phải bằng luật: đối tác Nhật đã đóng dấu thì rất ngại lật lại (mất 信用), và con số trong LOI trở thành mốc để bộ phận của họ xin 稟議. Đó là lý do LOI hiệu quả — nhưng đừng nhầm nó với hợp đồng.
+>
+> 商談合意 → LOI (1-2 ページ、commercial terms 確認) → 契約書ドラフト (詳細条項) の 2 段階。LOI を飛ばすと、契約書段階で「主要条件再確認」が発生し再交渉となる。LOI は原則 **法的拘束力なし**。拘束力を持たせるのは通常 **独占交渉権**と**秘密保持義務**のみで、その旨を条文に明記する。
 >
 > **Liên quan:** rule 30 (合意確認), rule 31 (recap mail), rule 33 (条項調整).
 
@@ -2251,17 +2256,19 @@ Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI kh
 | (3日後) **大垣** | 「ズン様、LOI 拝見しました。**社内 legal も問題なし**、税抜価格を明記頂いており明確です。本日捺印して PDF 送付いたします。」 |
 | **ズン** | 「LOI 捺印戻り完了。次は本契約書 draft v1 を 4 週間以内に。条項面の調整に集中できます【3】。」 |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**LOI 6 mục** = Giá (ghi rõ chưa thuế) / Kỳ hạn / Phạm vi tóm tắt / SLA / Điều kiện thanh toán / Ngày có hiệu lực. Điều khoản chi tiết (bồi thường thiệt hại, IP chi tiết, hủy hợp đồng) chuyển sang hợp đồng chính.
+  **Mục thứ 7 bắt buộc phải có — điều khoản về hiệu lực:** ghi rõ mục nào ràng buộc, mục nào không. Mẫu chuẩn: 「本合意書のうち、第○条(独占交渉権)および第○条(秘密保持)を除き、**法的拘束力を有しない**」. Thiếu dòng này, sau tranh chấp hai bên sẽ cãi nhau về việc LOI ràng buộc tới đâu.
 - 【2】**LOI → hợp đồng chính trong 4 tuần** = kiểm soát nhịp độ. LOI 1 trang là nền tảng cho hợp đồng chính 30 trang.
 - 【3】**LOI đã chốt điều khoản thương mại** → đàm phán hợp đồng chính chỉ còn về "điều khoản chi tiết". Không mở lại phần thương mại (chuyển sang rule 33).
+  Nhưng "chốt" ở đây là **chốt trên thực tế**, không phải chốt về pháp lý: nếu khách vẫn muốn mở lại giá, LOI không ngăn được về mặt luật. Cái ngăn họ là chi phí uy tín và việc 稟議 nội bộ đã chạy theo con số đó. Vì vậy vẫn phải chuẩn bị sẵn lý lẽ giữ giá (rule 20, rule 27), đừng coi LOI là lá chắn.
 
 ---
 
 ## Cụm từ mẫu
-> **「LOI = 商務合意のロック。本契約 = 条項詳細。順番を飛ばすと商務再交渉が発生する。」**
+> **「LOI = 商務合意の**着地点確認**。原則 法的拘束力なし、拘束力は独占交渉権と秘密保持のみ明記。本契約 = 条項詳細。順番を飛ばすと商務再交渉が発生する。」**
 >
-> *LOI khóa điều khoản thương mại. Hợp đồng chính khóa chi tiết điều khoản. Bỏ LOI = điều khoản thương mại sẽ mở lại lúc soạn thảo.*
+> *LOI xác nhận điểm đáp của thoả thuận thương mại — về nguyên tắc không ràng buộc pháp lý, chỉ ghi rõ ràng buộc cho quyền đàm phán độc quyền và nghĩa vụ bảo mật. Hợp đồng chính mới khóa chi tiết điều khoản. Bỏ LOI = điều khoản thương mại sẽ mở lại lúc soạn thảo.*
 
 ---
 
@@ -2269,6 +2276,8 @@ Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI kh
 - Tư duy "LOI là bước thừa" → 4 tuần soạn hợp đồng mà có 1 điều khoản bất đồng = mở lại toàn bộ
 - LOI không ghi rõ giá đã hay chưa gồm thuế → bẫy 100%
 - LOI gửi mà không qua pháp chế xem lại → lỗi chữ / cách diễn đạt sau này thành vấn đề diễn giải ràng buộc
+- **LOI không có điều khoản về hiệu lực** (không ghi mục nào ràng buộc, mục nào không) → tranh chấp sau này không có căn cứ phân định
+- **Tưởng LOI đã đóng dấu là hợp đồng** → chủ quan, không chuẩn bị lý lẽ giữ giá cho vòng soạn hợp đồng chính
 - LOI gửi xong để cả tháng không theo dõi → hết hiệu lực / nguội dần; ghi rõ **hạn đóng dấu 2 tuần**
 
 ---
@@ -2288,7 +2297,7 @@ Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI kh
 ---
 
 ## Mẫu
-(Mẫu LOI 1-2 trang JP/VN với 6 phần điều khoản thương mại — xem hướng dẫn đính kèm cuốn sách)', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+(Mẫu LOI 1-2 trang JP/VN với 6 phần điều khoản thương mại — xem hướng dẫn đính kèm cuốn sách)', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000033, 800000007, NULL, 'markdown_book', 'Rule 33 — Đàm phán cuối về điều khoản / 契約条項の最終調整', '# Rule 33 — Đàm phán cuối về điều khoản / 契約条項の最終調整
 > **Luận điểm.** Sau LOI, bản thảo hợp đồng đi vào giai đoạn điều chỉnh điều khoản. Top 3 mục căng nhất với khách Nhật: **(1) Bồi thường thiệt hại (損害賠償上限)**, **(2) Quyền sở hữu trí tuệ** (đặc biệt là code & dữ liệu huấn luyện), **(3) SLA + phạt vi phạm**. Mục tiêu: giới hạn trách nhiệm ở mức **giá trị hợp đồng năm** (¥17M, KHÔNG vô hạn), code thuộc khách + thành phần tái sử dụng thuộc Tiên Phát.
 >
@@ -2329,7 +2338,7 @@ Bản thảo hợp đồng v1 Tiên Phát gửi 大垣. Pháp chế 白鷗 trả
 | **大垣** | 「…IP 2 層構造は理解できます。indemnity 上限も legal <ruby>慣行<rt>かんこう</rt></ruby>ですね。社内検討の上、**3 <ruby>営業日<rt>えいぎょうび</rt></ruby>以内にお返事**いたします。」 <br/>*…IP 2 layers tôi hiểu được. Cap indemnity cũng là practice của legal. Bên anh nội bộ thảo luận, trong 3 ngày làm việc sẽ phản hồi.* |
 | (3日後) **大垣** | 「3 点とも<ruby>承諾<rt>しょうだく</rt></ruby>いたします。final draft に<ruby>反映<rt>はんえい</rt></ruby>お願いします。」 <br/>*Cả 3 điểm bên tôi đồng thuận. Phiền anh update vào final draft.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ただし」 + 「持ち帰り検討」** — KHÔNG từ chối ngay mà đưa lên cấp trên xem xét. Phép lịch sự Nhật khi bất đồng.
 - 【2】**Hà CTO xác định rõ điểm rút lui** = 3 mục. Dưới mức này thì rút thật. Mơ hồ → bị lật ngược trong đàm phán.
 - 【3】**Đóng khung "chuẩn ngành"** = không phải ý kiến cá nhân mà là thông lệ thị trường. Độ tin cậy cao hơn.
@@ -2363,7 +2372,7 @@ Bản thảo hợp đồng v1 Tiên Phát gửi 大垣. Pháp chế 白鷗 trả
 | 業界標準 | ぎょうかいひょうじゅん | NGHIỆP GIỚI TIÊU CHUẨN | Chuẩn ngành |
 | 取締役会 | とりしまりやくかい | THỦ ĐẾ DỊCH HỘI | HĐQT |
 | ライセンス供与 | ライセンスきょうよ | CUNG DỮ | Cấp phép sử dụng |
-| 営業日 | えいぎょうび | DOANH NGHIỆP NHẬT | Ngày làm việc (ngày mở cửa) |', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 営業日 | えいぎょうび | DOANH NGHIỆP NHẬT | Ngày làm việc (ngày mở cửa) |', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000034, 800000007, NULL, 'markdown_book', 'Rule 34 — Yêu cầu ký kết trang trọng / 調印依頼', '# Rule 34 — Yêu cầu ký kết trang trọng / 調印依頼
 > **Luận điểm.** Hợp đồng chính OK cả 2 bên → bước yêu cầu ký trang trọng. Câu chuẩn trong kinh doanh Nhật: 「**ご署名・ご捺印いただけますでしょうか**」. KHÔNG dùng "サイン" thông thường hay 「契約書送ります」 khô khan. Phải đi kèm: (a) lý do thời điểm, (b) phương thức gợi ý (ký điện tử hay bản giấy/đóng dấu), (c) hạn chót rõ ràng.
 >
@@ -2410,7 +2419,7 @@ Hợp đồng chính v3 sau 3 vòng đàm phán điều khoản đã OK. Hà CTO
 | (16:30) **DocuSign <ruby>完了通知<rt>かんりょうつうち</rt></ruby>** → **ズン** *(Slack Hương)* | 「Phase 3 <ruby>契約<rt>けいやく</rt></ruby><ruby>締結<rt>ていけつ</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>しました。Hà CTO + 大垣様 <ruby>両社<rt>りょうしゃ</rt></ruby><ruby>捺印済<rt>なついんずみ</rt></ruby>【4】。」 |
 | | *Hợp đồng Phase 3 ký xong rồi ạ. Anh Hà CTO + anh Ōgaki cả 2 bên đã đóng dấu ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ご署名・ご捺印いただけますでしょうか」** = câu chuẩn yêu cầu ký kết. 「サイン」 không trang trọng → NG.
 - 【2】**Hạn chót rõ + lý do (ngày khởi động dự án)** = không phải thúc giục mà có lý. Hạn cần đặt sớm hơn ít nhất 1 tuần.
 - 【3】**Đưa 2 phương án** = giai đoạn đan xen giữa văn hóa đóng dấu giấy và chữ ký điện tử đang phổ biến. Để khách tự chọn theo tiện ích.
@@ -2444,7 +2453,7 @@ Hợp đồng chính v3 sau 3 vòng đàm phán điều khoản đã OK. Hà CTO
 | 原本 | げんぽん | NGUYÊN BẢN | Bản gốc |
 | eSignature (DocuSign) | イー・シグネチャー | — | Chữ ký điện tử |
 | 締結 | ていけつ | ĐẾ KẾT | Ký kết |
-| 急かし | せかし | — | Thúc giục |', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 急かし | せかし | — | Thúc giục |', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000035, 800000007, NULL, 'markdown_book', 'Rule 35 — Rút lui đàm phán phong nhã / 商談打ち切り', '# Rule 35 — Rút lui đàm phán phong nhã / 商談打ち切り
 > **Luận điểm.** Khi điều kiện không thể thỏa thuận được → rút lui. KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 để giữ cánh cửa quan hệ. Trong kinh doanh Nhật: quan hệ dài hạn quan trọng hơn một thương vụ đơn lẻ — rút lui phong nhã = cơ hội lần sau.
 >
@@ -2486,7 +2495,7 @@ Phase 3 vòng 4: 大垣 thúc ép mức cuối ¥14M (dưới ngưỡng rút lui
 | **大垣** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>誠実<rt>せいじつ</rt></ruby>なご<ruby>回答<rt>かいとう</rt></ruby>ありがとうございます。**こちらも<ruby>社内<rt>しゃない</rt></ruby>で<ruby>再検討<rt>さいけんとう</rt></ruby>の<ruby>余地<rt>よち</rt></ruby>**があります。<ruby>一度<rt>いちど</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>らせてください。」 <br/>*Anh Dũng, cảm ơn em đã trả lời chân thành. Bên anh cũng còn dư địa xem xét lại nội bộ. Cho anh mang về một lần nhé.* |
 | (1 週間後) **大垣** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby>で<ruby>予算<rt>よさん</rt></ruby>を ¥15.5M まで<ruby>引<rt>ひ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げました。<ruby>再度<rt>さいど</rt></ruby> negotiation お<ruby>願<rt>ねが</rt></ruby>いできますか？」 <br/>*(1 tuần sau) Anh Dũng, bên anh đã tăng ngân sách nội bộ lên ¥15.5M. Mình đàm phán lại được không?* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「条件面で折り合いがつかず」** = đổ lỗi cho "điều kiện" trừu tượng chứ không phải "quý công ty". Giữ thể diện cả 2 bên.
 - 【2】**Cách diễn đạt 「品質維持困難」** = rút lui là vì "vì lợi ích bên anh" chứ không phải vì tham. Đảo ngược thế cờ.
 - 【3】**「ご縁がございましたら」** = câu then chốt mở cánh cửa tương lai. Người Nhật nhớ quan hệ 5-10 năm.
@@ -2519,7 +2528,7 @@ Phase 3 vòng 4: 大垣 thúc ép mức cuối ¥14M (dưới ngưỡng rút lui
 | 原価構造 | げんかこうぞう | NGUYÊN GIÁ CẤU TRÚC | Cấu trúc giá thành |
 | ご縁 | ごえん | DUYÊN | Duyên / mối kết |
 | 半端な | はんぱな | — | Nửa vời |
-| 再検討 | さいけんとう | TÁI KIỂM THẢO | Xem xét lại |', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 再検討 | さいけんとう | TÁI KIỂM THẢO | Xem xét lại |', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000036, 800000007, NULL, 'markdown_book', 'Rule 36 — Chào hỏi sau ký kết (điềm tĩnh) / 商談成立後の挨拶', '# Rule 36 — Chào hỏi sau ký kết (điềm tĩnh) / 商談成立後の挨拶
 > **Luận điểm.** Sau ký xong, KHÔNG nên thổi phồng "ありがとうございます！！" 3 dấu chấm than. Business Nhật: giọng điệu chừng mực, hướng vào 「**身が引き締まる**」 (cảm nhận trọng trách) thay vì ăn mừng. Phô trương quá = bị nhìn nhận là "未熟" (non nớt). Câu chuẩn: 「**身の引き締まる思いです**」 + 「期待にお応えできるよう」 (cam kết).
 >
@@ -2566,7 +2575,7 @@ Thông báo hoàn tất ký điện tử lúc 16:30. Dũng vui vẻ. Cần gửi
 | (社内 Slack) **ズン → Hương** | 「Phase 3 <ruby>締結<rt>ていけつ</rt></ruby><ruby>御礼<rt>おんれい</rt></ruby>メール<ruby>送信<rt>そうしん</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>。<ruby>返信<rt>へんしん</rt></ruby>から大垣様 friendly tone【4】。次は Tanaka PMO とキックオフ<ruby>調整<rt>ちょうせい</rt></ruby><ruby>入<rt>はい</rt></ruby>ります。」 |
 |  | *Mail cảm ơn ký Phase 3 đã gửi xong. Phản hồi của anh Ōgaki có giọng thân thiện. Tiếp theo em sẽ vào sắp xếp kickoff với PM Tanaka.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「誠にありがとうございました」** — trang trọng nhưng chỉ 1 lần. Không cần !!!.
 - 【2】**「身の引き締まる思い」** = câu chốt. Không phải cảm xúc 「嬉しい」 mà là truyền tải trách nhiệm. Giọng trưởng thành.
 - 【3】**「ご期待にお応えできますよう」** = cam kết về tương lai. Hướng vào việc bàn giao, không phải ăn mừng.
@@ -2599,7 +2608,7 @@ Thông báo hoàn tất ký điện tử lúc 16:30. Dũng vui vẻ. Cần gửi
 | 全力でお取組み | ぜんりょくでおとりくみ | TOÀN LỰC | Toàn lực nỗ lực |
 | 信頼 | しんらい | TÍN LẠI | Tin tưởng |
 | 段取り | だんどり | — | Sắp xếp |
-| 締結 | ていけつ | ĐÌNH KẾT | Ký kết |', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 締結 | ていけつ | ĐÌNH KẾT | Ký kết |', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000037, 800000007, NULL, 'markdown_book', 'Rule 37 — Bàn giao nội bộ khởi động dự án / 社内キックオフ', '# Rule 37 — Bàn giao nội bộ khởi động dự án / 社内キックオフ
 > **Luận điểm.** Sau ký, giai đoạn bàn giao do Tanaka PMO + Tuấn dẫn dắt — KHÔNG phải Dũng. Nhưng Dũng chịu trách nhiệm bàn giao: **(1) Tóm tắt bối cảnh đàm phán** (tại sao ¥17M, mỗi phần phạm vi đến từ điều kiện đổi nào), **(2) Hồ sơ nhân sự phía khách** (Ōgaki trực tiếp, Tanaka chi tiết), **(3) Cam kết miệng còn nợ** (mọi lời hứa chưa đưa vào hợp đồng). Bỏ qua bàn giao → nhóm thực thi phải dò lại từ đầu, làm lại, tốn thời gian.
 >
@@ -2639,8 +2648,8 @@ Phase 3 ký xong thứ Hai. Thứ Tư có buổi khởi động nội bộ: Tu�
 |---------|-----|
 | **ズン** | 「Phase 3 <ruby>内部<rt>ないぶ</rt></ruby>キックオフ、30 分です。<ruby>本日<rt>ほんじつ</rt></ruby>のアジェンダは **3 phần**【1】: ①<ruby>交渉<rt>こうしょう</rt></ruby> bối cảnh、②<ruby>白鷗<rt>はくおう</rt></ruby><ruby>側<rt>がわ</rt></ruby> sơ đồ nhân sự、③cam kết miệng còn nợ。<ruby>事前<rt>じぜん</rt></ruby>に tài liệu bàn giao <ruby>共有済<rt>きょうゆうず</rt></ruby>み。<ruby>質問<rt>しつもん</rt></ruby>はその<ruby>場<rt>ば</rt></ruby>で。」 |
 | | | *Khởi động nội bộ Phase 3, 30 phút. Nội dung hôm nay 3 phần: ①Bối cảnh đàm phán, ②Sơ đồ nhân sự bên Hakuō, ③Cam kết miệng còn nợ. Tài liệu bàn giao đã chia sẻ trước. Câu hỏi nêu trực tiếp.* |
-| **ズン** | 「**<ruby>価格<rt>かかく</rt></ruby> ¥17M は Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%**、<ruby>内訳<rt>うちわけ</rt></ruby>は AI レコメンド + <ruby>専任<rt>せんにん</rt></ruby> PM + dashboard customization 1 <ruby>機能<rt>きのう</rt></ruby>。trade で 2 <ruby>年契約<rt>ねんけいやく</rt></ruby>を<ruby>取<rt>と</rt></ruby>った<ruby>代<rt>か</rt></ruby>わりに、<ruby>契約期間中<rt>けいやくきかんちゅう</rt></ruby> SLA 99.9% commit。なので **SLA 99.5% に<ruby>落<rt>お</rt></ruby>とすことは<ruby>交渉的<rt>こうしょうてき</rt></ruby>に NG**【2】、<ruby>技術的<rt>ぎじゅつてき</rt></ruby>に<ruby>可能<rt>かのう</rt></ruby>でも<ruby>避<rt>さ</rt></ruby>ける。」 |
-| | | *Giá ¥17M là +24% so với Phase 2. Cấu thành: AI đề xuất + PM chuyên trách + 1 dashboard customization. Điều kiện đổi lấy được 2 năm hợp đồng, đổi lại cam kết SLA 99.9% suốt kỳ. Vì vậy hạ SLA xuống 99.5% là NG về mặt đàm phán — kỹ thuật có thể làm được nhưng tránh.* |
+| **ズン** | 「**<ruby>価格<rt>かかく</rt></ruby> ¥17M は Phase 2 <ruby>比<rt>ひ</rt></ruby> +17%**、<ruby>内訳<rt>うちわけ</rt></ruby>は AI レコメンド + <ruby>専任<rt>せんにん</rt></ruby> PM + dashboard customization 1 <ruby>機能<rt>きのう</rt></ruby>。trade で 2 <ruby>年契約<rt>ねんけいやく</rt></ruby>を<ruby>取<rt>と</rt></ruby>った<ruby>代<rt>か</rt></ruby>わりに、<ruby>契約期間中<rt>けいやくきかんちゅう</rt></ruby> SLA 99.9% commit。なので **SLA 99.5% に<ruby>落<rt>お</rt></ruby>とすことは<ruby>交渉的<rt>こうしょうてき</rt></ruby>に NG**【2】、<ruby>技術的<rt>ぎじゅつてき</rt></ruby>に<ruby>可能<rt>かのう</rt></ruby>でも<ruby>避<rt>さ</rt></ruby>ける。」 |
+| | | *Giá ¥17M là +17% so với Phase 2. Cấu thành: AI đề xuất + PM chuyên trách + 1 dashboard customization. Điều kiện đổi lấy được 2 năm hợp đồng, đổi lại cam kết SLA 99.9% suốt kỳ. Vì vậy hạ SLA xuống 99.5% là NG về mặt đàm phán — kỹ thuật có thể làm được nhưng tránh.* |
 | **ズン** | 「<ruby>大垣<rt>おおがき</rt></ruby>様 — trực tiếp、<ruby>数字主義<rt>すうじしゅぎ</rt></ruby>、khoảng im lặng dài (=<ruby>熟考中<rt>じゅっこうちゅう</rt></ruby>、đừng giục)。**<ruby>初回<rt>しょかい</rt></ruby> weekly は<ruby>厳<rt>きび</rt></ruby>しめ review される<ruby>可能性<rt>かのうせい</rt></ruby><ruby>高<rt>たか</rt></ruby>い** (rule 36 phô trương したら<ruby>更<rt>さら</rt></ruby>に)。Tanaka PMO — Slack nhiều、chi tiết、làm không đồng bộ OK。Nakamura CFO は monthly executive review 1 <ruby>度<rt>ど</rt></ruby>だけ<ruby>参加<rt>さんか</rt></ruby>、<ruby>財務指標<rt>ざいむしひょう</rt></ruby><ruby>厳<rt>きび</rt></ruby>しい。」 |
 | | | *Anh Ōgaki — trực tiếp, coi trọng số liệu, khoảng im lặng dài (=đang nghĩ, đừng giục). Họp tuần đầu khả năng cao bị kiểm tra chặt (rule 36 phô trương thì còn chặt hơn). Anh Tanaka PMO — Slack nhiều, chi tiết, làm việc không đồng bộ OK. Anh Nakamura CFO chỉ tham gia họp xét duyệt tháng 1 lần, chỉ số tài chính chặt.* |
 | **ズン** | 「**<ruby>口頭<rt>こうとう</rt></ruby> cam kết miệng 2 <ruby>件<rt>けん</rt></ruby>**【3】: (a) 8 <ruby>月初旬<rt>がつしょじゅん</rt></ruby>に Phase 4 phạm vi <ruby>軽<rt>かる</rt></ruby>く trao đổi (không ràng buộc)、(b) Tanaka PMO に<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby> xem trước bảng theo dõi <ruby>共有<rt>きょうゆう</rt></ruby> — これは<ruby>契約外<rt>けいやくがい</rt></ruby>サービス、<ruby>注意<rt>ちゅうい</rt></ruby>。」 |
@@ -2650,7 +2659,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có buổi khởi động nội bộ: Tu�
 | **田中PMO** | 「ズン様、ありがとうございました。tomorrow <ruby>朝<rt>あさ</rt></ruby>、Tuấn さんと<ruby>初回<rt>しょかい</rt></ruby> sync <ruby>設定<rt>せってい</rt></ruby>します。<ruby>引継<rt>ひきつ</rt></ruby>ぎ doc <ruby>拝見<rt>はいけん</rt></ruby>しました【4】、 personality map <ruby>助<rt>たす</rt></ruby>かります。」 |
 | | | *Anh Dũng, tôi cảm ơn. Sáng mai tôi sẽ đặt lịch đồng bộ đầu tiên với anh Tuấn. Em đã xem tài liệu bàn giao, hồ sơ nhân sự rất hữu ích ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Cấu trúc 3 phần** — bối cảnh / hồ sơ nhân sự / cam kết miệng. Mỗi phần 8-10 phút.
 - 【2】**「NG về mặt đàm phán」 vs 「技術的可能」** = nhóm thực thi không biết có thể cắt tắt làm SLA xuống. Chia sẻ lịch sử đánh đổi.
 - 【3】**Cam kết miệng phải ghi thành văn bản**. 「ついで」「次回も」 nằm ngoài hợp đồng nhưng khách nhớ. Tanaka PMO không biết sẽ là nguồn gốc yêu cầu nhỏ xin thêm sau này (rule 29).
@@ -2683,7 +2692,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có buổi khởi động nội bộ: Tu�
 | 専任 | せんにん | CHUYÊN NHẬM | Chuyên trách |
 | cam kết miệng | コミットメント | — | Cam kết |
 | ngân sách độ tin cậy | リライアビリティバジェット | — | Ngân sách độ tin cậy |
-| 同期 | どうき | ĐỒNG KỲ | Đồng bộ |', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 同期 | どうき | ĐỒNG KỲ | Đồng bộ |', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000038, 800000007, NULL, 'markdown_book', 'Rule 38 — Thông cáo báo chí cần duyệt chung / 対外発表', '# Rule 38 — Thông cáo báo chí cần duyệt chung / 対外発表
 > **Luận điểm.** Thông cáo báo chí về hợp đồng = quảng bá rất tốt cho cả 2 bên — nhưng doanh nghiệp Nhật **cực kỳ nhạy cảm** với cách dùng từ. Bắt buộc: (a) **duyệt chung** từ cả phòng pháp chế + Quan hệ công chúng, (b) tránh ghi con số ¥ chính xác (dùng "数千万円規模"), (c) tên khách đặt trong câu sau Tiên Phát (KHÔNG đặt 白鷗 lên đầu tạo cảm giác "勝った" — kiểu khoe thắng), (d) phát hành cùng ngày cùng giờ.
 >
@@ -2725,7 +2734,7 @@ Phase 3 định giá ¥17M — cột mốc. Marketing Hizashi muốn phát hành
 | (5/15 09:00 同時 release、件名:「ティエンファット株式会社、白鷗株式会社と AI <ruby>業務委託<rt>ぎょうむいたく</rt></ruby> Phase 3 締結 — 数千万円規模」) | (両社サイトに<ruby>掲載<rt>けいさい</rt></ruby>) <br/>*(Phát hành đồng thời 09:00 ngày 15/5, tiêu đề: "Tiên Phát ký AI giao việc Phase 3 với Hakuō — quy mô vài chục triệu yên" — đăng trên site cả 2 bên)* |
 | **ズン** | 「PR 同時 release 完了。大垣 quote 入りで joint announcement <ruby>体裁<rt>ていさい</rt></ruby>【3】。Linh 良い仕事した。」 <br/>*PR release đồng thời xong rồi. Có quote anh Ōgaki nên joint announcement chuẩn vẻ. Linh làm tốt.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Cách diễn đạt 「数千万円規模」** = không để lộ ngân sách chính xác cho đối thủ. Đây là chuẩn ngành.
 - 【2】**Quy trình duyệt chung**: bản thảo PR nội bộ → pháp chế nội bộ → phòng quan hệ công chúng 白鷗 (kênh chính thức) → 大垣 (phụ trách kinh doanh, chia sẻ song song) → pháp chế cả 2 bên → quyết định ngày phát hành.
 - 【3】**Trích dẫn chung** = có bình luận của 大垣 nên ra dáng thông báo của cả hai bên. Độ tin cậy cao hơn thông báo đơn phương.
@@ -2764,7 +2773,7 @@ Phase 3 định giá ¥17M — cột mốc. Marketing Hizashi muốn phát hành
 ---
 
 ## Mẫu
-(Mẫu thông cáo báo chí JP với các phần Tiêu đề / Dẫn nhập / Nội dung / Trích dẫn / Giới thiệu công ty — xem hướng dẫn đính kèm cuốn sách)', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+(Mẫu thông cáo báo chí JP với các phần Tiêu đề / Dẫn nhập / Nội dung / Trích dẫn / Giới thiệu công ty — xem hướng dẫn đính kèm cuốn sách)', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000039, 800000007, NULL, 'markdown_book', 'Rule 39 — Cảm ơn toàn bộ chuỗi liên quan / 関係者への感謝', '# Rule 39 — Cảm ơn toàn bộ chuỗi liên quan / 関係者への感謝
 > **Luận điểm.** Sau ký, KHÔNG chỉ cảm ơn Ōgaki và Hà CTO. Phải cảm ơn toàn bộ chuỗi: **(1) Phía khách** — Tanaka PMO, Nakamura CFO, kể cả lễ tân, **(2) Phía mình** — Tuấn / Linh / Loan, đặc biệt **nhân sự trẻ** thường bị bỏ sót. Cảm ơn người trẻ một cách cụ thể (KHÔNG chung chung 「お疲れ様」). Nhân sự trẻ cảm nhận được đầu tư → gắn bó + hiệu suất về sau.
 >
@@ -2807,7 +2816,7 @@ Phase 3 ký + thông cáo báo chí phát hành thứ Năm. Chiều thứ Sáu D
 | **ロアン** | 「ズンさん、ご<ruby>丁寧<rt>ていねい</rt></ruby>に。<ruby>指摘<rt>してき</rt></ruby>した<ruby>分<rt>ぶん</rt></ruby> <ruby>役立<rt>やくだ</rt></ruby>ったと<ruby>知<rt>し</rt></ruby>れて<ruby>嬉<rt>うれ</rt></ruby>しいです。<ruby>次<rt>つぎ</rt></ruby>の case でも<ruby>遠慮<rt>えんりょ</rt></ruby>なく。」 <br/>*Anh Dũng, em viết kỹ quá. Chị vui khi biết những chỗ chị chỉ ra hữu ích. Lần sau cứ gọi không ngại.* |
 | (Slack #general 全社向け、ただし thank-you DM 後に投稿) **ズン** | 「Phase 3 <ruby>締結<rt>ていけつ</rt></ruby>! <ruby>関係者<rt>かんけいしゃ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>個別<rt>こべつ</rt></ruby><ruby>感謝<rt>かんしゃ</rt></ruby> DM <ruby>済<rt>ずみ</rt></ruby>【5】。Tuấn、ハー CTO、フオン副部長、リン、ロアン、<ruby>田中<rt>たなか</rt></ruby>様、大垣様、Nakamura 様 — ありがとうございました。」 <br/>*Ký Phase 3 rồi! Em đã DM cảm ơn riêng từng stakeholder. Anh Tuấn, anh Hà CTO, chị Hương, Linh, chị Loan, anh Tanaka, anh Ōgaki, anh Nakamura — em xin cảm ơn.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Cấp cao + trẻ tách danh sách riêng** — cảm ơn người trẻ mất thời gian hơn (cần cụ thể) nên dành riêng.
 - 【2】**Đóng góp cụ thể từng người** — 「お疲れ様」 chung chung KHÔNG OK. 「毎週の細やかな進捗確認」 = đóng góp thực tế của Tanaka.
 - 【3】**Nhân sự trẻ đánh giá rất cao việc được nhìn nhận chi tiết**. Nhắc cụ thể ngày tháng + hành vi.
@@ -2841,7 +2850,7 @@ Phase 3 ký + thông cáo báo chí phát hành thứ Năm. Chiều thứ Sáu D
 | 指摘 | してき | CHỈ TRÍCH | Chỉ ra / nêu ra điểm cần lưu ý |
 | 死角 | しかく | TỬ GIÁC | Điểm mù |
 | bộ phận hỗ trợ | サポートファンクション | — | Bộ phận hỗ trợ (kế toán, pháp chế) |
-| 個別 | こべつ | CÁ BIỆT | Riêng từng người |', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 個別 | こべつ | CÁ BIỆT | Riêng từng người |', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000040, 800000007, NULL, 'markdown_book', 'Rule 40 — Đàm phán đa bên / 多者間交渉', '# Rule 40 — Đàm phán đa bên / 多者間交渉
 > **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 bên liên quan, 3 ưu tiên khác nhau. **CFO** = giá / ROI, **営業部長** = tổng giá trị thương vụ / quan hệ, **PM** = phạm vi / tiến độ. Trả lời chỉ 1 người = 2 người mất kết nối. Công thức: **(1) Nhận diện từng mối quan tâm**, **(2) Trả lời song song** (1 câu cho mỗi người), **(3) Trả lời người cấp cao cuối cùng** (CFO).
 >
@@ -2861,10 +2870,10 @@ Phase 3 vòng cuối, buổi duyệt cấp lãnh đạo: 中村 CFO + 大垣 + �
 
 | Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>とのことですが、payback period は<ruby>何<rt>なん</rt></ruby>ヶ<ruby>月<rt>げつ</rt></ruby>でしょうか？」 <br/>*Bên em báo ROI 4.4x, nhưng payback period bao nhiêu tháng?* |
+| **中村CFO** | 「ROI 5.1 <ruby>倍<rt>ばい</rt></ruby>とのことですが、payback period は<ruby>何<rt>なん</rt></ruby>ヶ<ruby>月<rt>げつ</rt></ruby>でしょうか？」 <br/>*Bên em báo ROI 5.1x, nhưng payback period bao nhiêu tháng?* |
 | **大垣** | 「<ruby>価格<rt>かかく</rt></ruby> ¥17M に **<ruby>保守<rt>ほしゅ</rt></ruby><ruby>延長<rt>えんちょう</rt></ruby> オプション**は<ruby>含<rt>ふく</rt></ruby>まれますか？」 <br/>*Giá ¥17M có bao gồm option gia hạn maintenance không?* |
 | **松本PM** | 「Phase 2 <ruby>同等<rt>どうとう</rt></ruby> SLA 99.9% を<ruby>維持<rt>いじ</rt></ruby>できますか？」 <br/>*Có giữ được SLA 99.9% tương đương Phase 2 không?* |
-| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby><ruby>様<rt>さま</rt></ruby>、ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>は **18 ヶ<ruby>月<rt>げつ</rt></ruby>で payback** です。」 <br/>*Anh Nakamura, ROI 4.4x payback trong 18 tháng ạ.* |
+| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby><ruby>様<rt>さま</rt></ruby>、ROI 5.1 <ruby>倍<rt>ばい</rt></ruby>は **2.3 ヶ<ruby>月<rt>げつ</rt></ruby>で payback** です。」 <br/>*Anh Nakamura, ROI 5.1x payback trong 2,3 tháng ạ.* |
 | (大垣 + 松本 unaddressed) **大垣** | …(<ruby>沈黙<rt>ちんもく</rt></ruby>) <br/>*…(im lặng)* |
 | **松本** | 「あの、SLA は…」 <br/>*Ờ thì... SLA là...* |
 
@@ -2877,19 +2886,20 @@ Phase 3 vòng cuối, buổi duyệt cấp lãnh đạo: 中村 CFO + 大垣 + �
 
 | Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>の payback period は？」 <br/>*Payback period của ROI 4.4x là bao nhiêu?* |
+| **中村CFO** | 「ROI 5.1 <ruby>倍<rt>ばい</rt></ruby>の payback period は？」 <br/>*Payback period của ROI 5.1x là bao nhiêu?* |
 | **大垣** | 「<ruby>保守<rt>ほしゅ</rt></ruby><ruby>延長<rt>えんちょう</rt></ruby>は<ruby>含<rt>ふく</rt></ruby>まれますか？」 <br/>*Maintenance gia hạn có bao gồm không?* |
 | **松本** | 「SLA 99.9% <ruby>維持<rt>いじ</rt></ruby>できますか？」 <br/>*Có giữ được SLA 99.9% không?* |
 | **ズン** | 「ご<ruby>質問<rt>しつもん</rt></ruby>ありがとうございます。**3 <ruby>点<rt>てん</rt></ruby>まとめてお<ruby>答<rt>こた</rt></ruby>えいたします**【1】。」 <br/>*Em cảm ơn các câu hỏi ạ. Em xin trả lời gộp 3 điểm.* |
 | **ズン** | 「**まず<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の SLA**: Phase 2 <ruby>同等<rt>どうとう</rt></ruby>の 99.9% <ruby>維持<rt>いじ</rt></ruby>、<ruby>加<rt>くわ</rt></ruby>えて **<ruby>専任<rt>せんにん</rt></ruby> PM が weekly で reliability budget review**、<ruby>達成<rt>たっせい</rt></ruby><ruby>困難<rt>こんなん</rt></ruby><ruby>時<rt>じ</rt></ruby>は<ruby>早期<rt>そうき</rt></ruby> escalation の<ruby>体制<rt>たいせい</rt></ruby>でございます【2】。」 <br/>*Đầu tiên SLA của anh Matsumoto: giữ 99.9% tương đương Phase 2, ngoài ra PM chuyên trách kiểm tra ngân sách độ tin cậy hàng tuần, khi khó đạt thì có cơ chế leo thang sớm ạ.* |
 | **ズン** | 「**<ruby>次<rt>つぎ</rt></ruby>に<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>保守<rt>ほしゅ</rt></ruby><ruby>延長<rt>えんちょう</rt></ruby>**: ¥17M には<ruby>初年度<rt>しょねんど</rt></ruby><ruby>保守<rt>ほしゅ</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>み、**2 <ruby>年目<rt>ねんめ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>の<ruby>延長<rt>えんちょう</rt></ruby><ruby>保守<rt>ほしゅ</rt></ruby>は<ruby>別枠<rt>べつわく</rt></ruby> (¥2M / <ruby>年<rt>ねん</rt></ruby>)**、<ruby>契約書<rt>けいやくしょ</rt></ruby> separate clause でご<ruby>案内<rt>あんない</rt></ruby>しております。」 <br/>*Tiếp theo về maintenance gia hạn anh Ōgaki: ¥17M đã bao gồm maintenance năm đầu, gia hạn từ năm 2 trở đi là khung riêng (¥2M/năm), em ghi ở separate clause của contract ạ.* |
-| **ズン** | 「**<ruby>最後<rt>さいご</rt></ruby>に<ruby>中村<rt>なかむら</rt></ruby> CFO の payback**: <ruby>御社<rt>おんしゃ</rt></ruby> GMV インパクト ¥80M / <ruby>年<rt>ねん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>し、Phase 3 <ruby>投資<rt>とうし</rt></ruby> ¥17M、**payback <ruby>約<rt>やく</rt></ruby> 18 ヶ<ruby>月<rt>げつ</rt></ruby>**【3】、3 <ruby>年目<rt>ねんめ</rt></ruby>から<ruby>純利益<rt>じゅんりえき</rt></ruby> acceleration、5 <ruby>年<rt>ねん</rt></ruby><ruby>累計<rt>るいけい</rt></ruby> ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>を<ruby>試算<rt>しさん</rt></ruby>しております。<ruby>詳細<rt>しょうさい</rt></ruby> cashflow も<ruby>別添<rt>べってん</rt></ruby>にてご<ruby>用意<rt>ようい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です。」 <br/>*Cuối cùng payback của anh Nakamura CFO: GMV impact bên anh ¥80M/năm, đầu tư Phase 3 ¥17M, payback khoảng 18 tháng, từ năm 3 lợi nhuận ròng accelerate, ROI tích lũy 5 năm 4.4 lần. Cashflow chi tiết em có thể đính kèm thêm ạ.* |
+| **ズン** | 「**<ruby>最後<rt>さいご</rt></ruby>に<ruby>中村<rt>なかむら</rt></ruby> CFO の payback**: <ruby>御社<rt>おんしゃ</rt></ruby> GMV インパクト ¥80M / <ruby>年<rt>ねん</rt></ruby>を<ruby>利益率<rt>りえきりつ</rt></ruby> 9% で<ruby>換算<rt>かんさん</rt></ruby>し、<ruby>工数削減<rt>こうすうさくげん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>を<ruby>加<rt>くわ</rt></ruby>えた<ruby>年間<rt>ねんかん</rt></ruby><ruby>便益<rt>べんえき</rt></ruby> ¥92.1M に<ruby>対<rt>たい</rt></ruby>し、Phase 3 <ruby>投資<rt>とうし</rt></ruby> ¥17M、**payback <ruby>約<rt>やく</rt></ruby> 2.3 ヶ<ruby>月<rt>げつ</rt></ruby>**【3】、<ruby>初年度<rt>しょねんど</rt></ruby> ROI 5.1 <ruby>倍<rt>ばい</rt></ruby>を<ruby>試算<rt>しさん</rt></ruby>しております。<ruby>詳細<rt>しょうさい</rt></ruby> cashflow も<ruby>別添<rt>べってん</rt></ruby>にてご<ruby>用意<rt>ようい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です。」 <br/>*Cuối cùng payback của anh Nakamura CFO: quy GMV impact ¥80M/năm bên anh theo biên lợi nhuận 9%, cộng phần tiết kiệm nhân công, ra lợi ích năm ¥92,1M; so với đầu tư Phase 3 ¥17M thì payback khoảng 2,3 tháng, ROI năm đầu 5,1 lần. Cashflow chi tiết em có thể đính kèm thêm ạ.* |
 | **中村CFO** | 「ありがとうございます。3 <ruby>点<rt>てん</rt></ruby>ともクリアです。<ruby>社内<rt>しゃない</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。」 <br/>*Cảm ơn em. Cả 3 điểm đều rõ. Bên anh vào nội bộ thảo luận.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「3 点まとめてお答えいたします」** = tín hiệu báo sẽ trả lời tất cả. Xua đi nỗi lo của người sợ bị bỏ qua.
 - 【2】**Thứ tự: cấp dưới → cấp cao** (松本 → 大垣 → 中村 CFO). Người cấp cao trả lời cuối = đứng trên đỉnh kim tự tháp giá trị (chi tiết kỹ thuật của 松本 → tổng thương vụ của 大垣 → ROI của CFO). Mỗi cấp đều có câu trả lời riêng.
 - 【3】**Câu của CFO trả lời cuối cùng + chi tiết nhất**. CFO sẽ cảm thấy "câu hỏi của mình quan trọng nhất nên được trả lời sau cùng".
+  ⚠️ **Trước CFO, tuyệt đối không lấy thẳng GMV chia cho đầu tư.** GMV là doanh số chạy qua, **không phải lợi nhuận**. Phải quy về lợi ích thật: GMV × biên lợi nhuận + phần chi phí tiết kiệm được (cách tính đầy đủ ở rule 23). Lấy `¥80M ÷ ¥17M ≈ 4.7 lần` là kiểu tính mà CFO bắt lỗi trong 5 giây — và một khi bị bắt, mọi con số khác của mình cũng mất tin cậy.
 - **Đảo mắt nhìn từng người + cúi nhẹ** = tín hiệu phi ngôn ngữ cho thấy đang trả lời từng người. Cố định ánh mắt vào 1 người thì 2 người còn lại mất kết nối.
 
 ---
@@ -2920,7 +2930,7 @@ Phase 3 vòng cuối, buổi duyệt cấp lãnh đạo: 中村 CFO + 大垣 + �
 | 純利益 | じゅんりえき | THUẦN LỢI ÍCH | Lợi nhuận ròng |
 | 別枠 | べつわく | BIỆT KHUÔNG | Khung riêng |
 | 専任 PM | せんにん PM | CHUYÊN NHIỆM | PM chuyên trách |
-| Reliability budget | リライアビリティ・バジェット | — | Ngân sách độ tin cậy |', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| Reliability budget | リライアビリティ・バジェット | — | Ngân sách độ tin cậy |', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000041, 800000007, NULL, 'markdown_book', 'Rule 41 — Chiến thuật đàm phán trực tuyến / オンライン交渉', '# Rule 41 — Chiến thuật đàm phán trực tuyến / オンライン交渉
 > **Luận điểm.** Trực tuyến ≠ trực tiếp đơn giản. 4 khác biệt then chốt: **(1) Mô phỏng giao tiếp bằng mắt** (nhìn vào camera, KHÔNG nhìn màn hình), **(2) Chiến lược chia sẻ màn hình** (chỉ chia sẻ khi trình bày, KHÔNG suốt phiên), **(3) Khoảng im lặng khó cảm nhận** — 7 giây trực tiếp = 4 giây trực tuyến (độ trễ mạng che lấp), **(4) Khoảng im lặng trong công cụ họp dễ bị "技術的に大丈夫?" cắt ngang** làm mất hiệu ứng neo giá.
 >
@@ -2960,8 +2970,8 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 |  | *Về giá Phase 3, em xin phép chia sẻ màn hình ạ.* |
 | (画面共有 ON、3 <ruby>段階提案<rt>だんかいていあん</rt></ruby> slide <ruby>表示<rt>ひょうじ</rt></ruby>) **ズン** *(camera <ruby>戻<rt>もど</rt></ruby>して<ruby>直視<rt>ちょくし</rt></ruby>)* | 「**Better tier ¥18M、Best tier ¥24M**、<ruby>本日<rt>ほんじつ</rt></ruby>は Better tier をベースにご<ruby>相談<rt>そうだん</rt></ruby>させていただければと<ruby>存<rt>ぞん</rt></ruby>じます【1】。」 |
 |  | *Better tier ¥18M, Best tier ¥24M, hôm nay em xin được trao đổi base trên Better tier ạ.* |
-| (画面共有 OFF、 camera のみに<ruby>集中<rt>しゅうちゅう</rt></ruby>) **ズン** *(camera 直視のまま)* | 「¥18M の<ruby>根拠<rt>こんきょ</rt></ruby>は Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%、ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>感想<rt>かんそう</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>できればと存じます。」 |
-|  | *Cơ sở ¥18M là +24% so với Phase 2, ROI 4.4 lần. Em rất mong nhận được cảm nhận từ bên anh ạ.* |
+| (画面共有 OFF、 camera のみに<ruby>集中<rt>しゅうちゅう</rt></ruby>) **ズン** *(camera 直視のまま)* | 「¥18M の<ruby>根拠<rt>こんきょ</rt></ruby>は Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%、ROI 5.1 <ruby>倍<rt>ばい</rt></ruby>。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>感想<rt>かんそう</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>できればと存じます。」 |
+|  | *Cơ sở ¥18M là +24% so với Phase 2, ROI 5.1 lần. Em rất mong nhận được cảm nhận từ bên anh ạ.* |
 | (沈黙 4 秒、 Dũng は camera 直視・<ruby>微笑<rt>びしょう</rt></ruby>、 hand stillness) | … |
 |  | *(Im lặng 4 giây, Dũng vẫn nhìn camera, mỉm cười nhẹ, tay không động)* |
 | **大垣** *(4 秒目で<ruby>発言<rt>はつげん</rt></ruby>)* | 「…¥18M ですね。<ruby>社内<rt>しゃない</rt></ruby>で検討します。」 |
@@ -2971,7 +2981,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 | (Dũng Slack Hương 後で) **ズン** | 「online 4 秒 silence で大垣様 reply。screen share は anchor slide <ruby>出<rt>だ</rt></ruby>して即 OFF、camera 直視で<ruby>沈黙保持<rt>ちんもくほじ</rt></ruby>。**相手が ''connection 大丈夫?'' interrupt する前に reply 来た**【2】。」 |
 |  | *Im lặng trực tuyến 4 giây thì anh Ōgaki đã trả lời. Chia màn hình chỉ lúc đưa slide neo giá rồi tắt ngay, camera giữ nhìn thẳng để duy trì im lặng. Reply đến trước khi anh ấy interrupt ''connection OK?''.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Chỉ chia sẻ màn hình lúc đưa neo giá** → củng cố bằng thị giác. Sau khi đưa xong thì **tắt chia sẻ ngay + quay lại camera** = lấy lại kết nối bằng khuôn mặt.
 - 【2】**Khoảng im lặng trực tuyến = 4 giây** (trực tiếp 7 giây). Quá 5 giây sẽ bị hiểu nhầm là độ trễ mạng.
 - **Giao tiếp bằng mắt = nhìn thẳng vào ống kính camera** (không phải nhìn mặt đối phương). Cần luyện 1 tuần; lúc đầu sẽ cảm thấy thiếu tự nhiên.
@@ -3005,7 +3015,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 | 沈黙保持 | ちんもくほじ | TRẦM MẶC BẢO TRÌ | Giữ im lặng |
 | ネット遅延 | ネットちえん | TRÌ DIÊN | Độ trễ mạng (lag mạng) |
 | Giữ tay yên | ハンドスティルネス | — | Giữ tay yên không cử động |
-| Mô phỏng giao tiếp bằng mắt | アイコンタクトモック | — | Nhìn camera thay vì mặt đối phương |', 'system', 41, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| Mô phỏng giao tiếp bằng mắt | アイコンタクトモック | — | Nhìn camera thay vì mặt đối phương |', 'system', 41, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000042, 800000007, NULL, 'markdown_book', 'Rule 42 — Đàm phán qua phiên dịch / 通訳介在', '# Rule 42 — Đàm phán qua phiên dịch / 通訳介在
 > **Luận điểm.** Khi Linh học phiên dịch tham gia phiên đàm phán: 4 quy tắc cần theo. **(1) Nhịp độ** = câu ngắn 15-25 字 tối đa, KHÔNG nói liên tục không ngắt, **(2) Dừng sau câu** ≥ 2 giây cho Linh dịch, **(3) Người nói đứng sát phiên dịch nhưng nhìn KHÁCH** (không nhìn phiên dịch), **(4) Dặn trước** phiên dịch về thuật ngữ chính (BATNA, ZOPA, indemnity) — phiên dịch được biết thuật ngữ đặc thù trước. Bỏ 1 trong 4 → phiên dịch quá tải, dịch sai = số tiền sai.
 >
@@ -3052,7 +3062,7 @@ Phase 4 xác định phạm vi với 1 khách hàng mới (văn phòng Hà Nội
 | **リン** | 「SLA chín-chín-chín-năm phần trăm, tức là 99.95%.」 <br/>*SLA chín-chín-chín-năm phần trăm, tức là 99.95%.* |
 | (商談後) **ズン** | 「お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>。99.95% <ruby>区切<rt>くぎ</rt></ruby>り<ruby>発音<rt>はつおん</rt></ruby> + indemnity term pre-brief で<ruby>精度<rt>せいど</rt></ruby> high。<ruby>次回<rt>じかい</rt></ruby>も<ruby>同<rt>おな</rt></ruby>じ pattern で。」 <br/>*Em vất vả rồi. Phát âm tách 99.95% + brief trước thuật ngữ indemnity giúp độ chính xác cao. Lần sau công thức y vậy.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Dặn trước 30 phút** = danh sách thuật ngữ chính + điểm nhạy cảm về số + phong cách nói. Phiên dịch vào không có thông tin gì trước thì độ chính xác giảm -30%.
 - 【2】**Phát âm tách số** (「99.95% = きゅうきゅう・きゅうご」) = phòng tránh dịch sai. 3 と 5 / 9 と 4 は Vietnamese で類似音.
 - 【3】**Người nói nhìn thẳng khách** (không nhìn Linh). Linh đứng ở khoảng cách nghe rõ. Khách cảm thấy "đang nói chuyện trực tiếp với Dũng".
@@ -3087,7 +3097,7 @@ Phase 4 xác định phạm vi với 1 khách hàng mới (văn phòng Hà Nội
 | Ear-shot 距離 | イアショット きょり | CỰ LY | Khoảng cách nghe rõ |
 | 凝視 | ぎょうし | NGƯNG THỊ | Nhìn chăm |
 | Bộ nhớ tạm | メモリーバッファ | — | Bộ nhớ tạm (dung lượng ghi nhớ) |
-| Lỗi ứng phó | インプロビザミス | — | Lỗi do ứng phó thiếu chuẩn bị |', 'system', 42, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| Lỗi ứng phó | インプロビザミス | — | Lỗi do ứng phó thiếu chuẩn bị |', 'system', 42, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000043, 800000007, NULL, 'markdown_book', 'Rule 43 — Các tình huống cần leo thang / エスカレーション', '# Rule 43 — Các tình huống cần leo thang / エスカレーション
 > **Luận điểm.** 4 điều kiện kích hoạt để báo cáo lên Hà CTO / Hương: **(T1)** Khách ép giá dưới điểm rút lui ¥15M, **(T2)** Yêu cầu điều khoản ngoài thẩm quyền (bồi thường không giới hạn, IP toàn bộ), **(T3)** Tông đe dọa / tối hậu thư, **(T4)** Quyết định liên phòng ban (kỹ thuật + tài chính). Quy trình báo cấp trên: **(a)** Slack cấp trên với bối cảnh 30 giây, **(b)** Cấp trên quyết bước vào hay hướng dẫn qua Slack, **(c)** Khi bước vào thì Dũng thiết lập (KHÔNG rút đi). Báo cấp trên = chuyển quyền sở hữu + giữ thể diện cả 2 phía.
 >
@@ -3107,7 +3117,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 | Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby> down ません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 <br/>*Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
+| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby>が<ruby>下<rt>お</rt></ruby>りません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 <br/>*Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
 | **ズン** | 「えっと…<ruby>無制限<rt>むせいげん</rt></ruby>ですか…<ruby>承知<rt>しょうち</rt></ruby>いたしました、それで<ruby>進<rt>すす</rt></ruby>めます…」 <br/>*Ờ thì... unlimited ạ... em rõ rồi ạ, em đi tiếp như vậy ạ...* |
 | (1 <ruby>時間後<rt>じかんご</rt></ruby> Slack <ruby>報告<rt>ほうこく</rt></ruby>) **ズン** | 「Hà CTO、Phase 4 indemnity <ruby>無制限<rt>むせいげん</rt></ruby>で<ruby>合意<rt>ごうい</rt></ruby>しました。」 <br/>*Anh Hà CTO, Phase 4 em đã thống nhất indemnity unlimited rồi ạ.* |
 | **ハー CTO** | 「**<ruby>何故<rt>なぜ</rt></ruby> escalate しなかった？<ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える。<ruby>今<rt>いま</rt></ruby>すぐ<ruby>撤回<rt>てっかい</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>**。<ruby>社長<rt>しゃちょう</rt></ruby> escalate も<ruby>必要<rt>ひつよう</rt></ruby>。」 <br/>*Sao em không escalate? Vượt quy định cap HĐQT. Bây giờ phải renegotiate rút lại ngay. Có khi phải escalate cả Tổng Giám đốc.* |
@@ -3121,7 +3131,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 | Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby> down ません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 <br/>*Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
+| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby>が<ruby>下<rt>お</rt></ruby>りません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 <br/>*Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
 | **ズン** | 「ご<ruby>要望<rt>ようぼう</rt></ruby><ruby>承知<rt>しょうち</rt></ruby>しました。」 <br/>*Em ghi nhận yêu cầu của anh ạ.* |
 | **ズン** | 「**indemnity <ruby>無制限<rt>むせいげん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わるため、<ruby>私<rt>わたし</rt></ruby>の<ruby>権限<rt>けんげん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えます**【1】。**5 <ruby>分<rt>ふん</rt></ruby>ほどお<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>し、Hà CTO に<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせてください**【2】。」 <br/>*Quyết định về indemnity unlimited liên quan đến quy định cap HĐQT bên em, vượt thẩm quyền của em ạ. Phiền anh cho em 5 phút để liên lạc anh Hà CTO ạ.* |
 | **中村CFO** | 「<ruby>分<rt>わ</rt></ruby>かりました。5 <ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ちます。」 <br/>*Hiểu rồi. Anh đợi 5 phút.* |
@@ -3132,7 +3142,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 | **中村CFO** | 「CTO <ruby>直接<rt>ちょくせつ</rt></ruby>ご<ruby>回答<rt>かいとう</rt></ruby> <ruby>助<rt>たす</rt></ruby>かります。<ruby>段階的<rt>だんかいてき</rt></ruby> cap、 <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 <br/>*CTO trả lời trực tiếp giúp anh nhiều. Cap theo bậc, anh mang về xem.* |
 | (<ruby>商談後<rt>しょうだんご</rt></ruby> Slack) **ハー CTO → Dũng** | 「Good job escalate。T2/T3 <ruby>認識<rt>にんしき</rt></ruby> + 30 <ruby>秒<rt>びょう</rt></ruby> context + setup <ruby>完璧<rt>かんぺき</rt></ruby>【4】。<ruby>学<rt>まな</rt></ruby>べた。」 <br/>*Em escalate tốt. Nhận T2/T3 + 30s context + setup hoàn hảo. Anh cũng học được.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「権限を超えます」 framing** = điểm yếu cá nhân ではなく quy định tổ chức. 顧客は accept しやすい.
 - 【2】**Yêu cầu buffer 5 phút** = người Nhật hiểu mô hình báo cấp trên。"Mang về đột ngột" よりは hợp lý.
 - 【3】**Dũng が session に残る** = giữ trách nhiệm. Biến mất hoàn toàn → khách nghĩ "Dũng vô dụng".
@@ -3165,7 +3175,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 | 段階的 cap | だんかいてき cap | ĐOẠN GIAI ĐÍCH | Giới hạn theo bậc |
 | Kích hoạt (trigger) | トリガー | — | Điều kiện kích hoạt |
 | Biểu cảm vi mô | マイクロエクスプレッション | — | Biểu cảm khuôn mặt thoáng qua |
-| Bước vào (step-in) | ステップイン | — | Cấp cao can thiệp vào phiên |', 'system', 43, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| Bước vào (step-in) | ステップイン | — | Cấp cao can thiệp vào phiên |', 'system', 43, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000044, 800000007, NULL, 'markdown_book', 'Rule 44 — Khoảng cách phong cách đàm phán VN-JP / VN-JP 交渉ギャップ', '# Rule 44 — Khoảng cách phong cách đàm phán VN-JP / VN-JP 交渉ギャップ
 > **Luận điểm.** Phong cách VN: **直接 (trực tiếp)**, "Giảm 10% thì OK?", nhượng bộ 1 lần lớn. Phong cách JP: **間接 (gián tiếp)**, 「条件面で…」「持ち帰りでも…」, nhượng bộ nhỏ + có qua có lại. VN BD mang phong cách trực tiếp vào phòng JP → khách Nhật thấy 「無礼」 hoặc 「未熟」. JP exec mang phong cách gián tiếp sang VN → VN BD thấy "không quyết được", "vòng vo". Hizashi VN BD cần chuyển đổi phong cách: **giảm mức độ trực tiếp 30% + mô hình nhượng bộ có qua có lại**.
 >
@@ -3209,7 +3219,7 @@ Phase 4 với khách mới (sản xuất JP, trụ sở Tokyo). Tuấn Tech Lead
 | (商談後 Slack Tuấn に) **ズン** | 「Tuấn、 JP は『<ruby>高<rt>たか</rt></ruby>い』 ≠ 『discount せよ』。 specific reason を indirect に asking している【3】。VN style で<ruby>即<rt>そく</rt></ruby> 10% <ruby>下<rt>さ</rt></ruby>げると ratchet <ruby>動<rt>うご</rt></ruby>く。next time も<ruby>同<rt>おな</rt></ruby>じ pattern で。」 <br/>*Tuấn, JP ''cao'' KHÔNG phải ''giảm đi''. Họ hỏi gián tiếp lý do cụ thể. Style VN giảm 10% phát thì ratchet xảy ra. Lần sau cùng mô hình này.* |
 | **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。<ruby>沈黙<rt>ちんもく</rt></ruby> 2 <ruby>秒<rt>びょう</rt></ruby>で Dũng の signal <ruby>待<rt>ま</rt></ruby>つ pattern <ruby>学<rt>まな</rt></ruby>んだ。」 <br/>*Hiểu rồi. Anh học được mô hình ''im lặng 2 giây chờ tín hiệu Dũng''.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Hỏi cụ thể từng mục "内訳要素"** = phân tách + định hình lại JP indirect 「高い」. Không giảm giá ngay mà khám phá thêm.
 - 【2】**Nhượng bộ dạng đánh đổi** (「スコープを外せば ¥18M」) = mô hình có qua có lại kiểu JP. Giảm 1 lần lớn 1 chiều là phong cách VN.
 - 【3】**JP「高い」 4 lớp diễn giải**: (i) thật sự thấy đắt (hiếm), (ii) muốn nghe giải thích từng mục (phổ biến nhất), (iii) muốn giải thích chênh lệch so với đối thủ, (iv) biểu đạt "chưa chắc" để giữ thể diện. Giảm giá trực tiếp chỉ đúng với (i).
@@ -3244,7 +3254,7 @@ Phase 4 với khách mới (sản xuất JP, trụ sở Tokyo). Tuấn Tech Lead
 | Hiệu ứng bánh cóc | ラチェット効果 | HIỆU QUẢ | Giảm rồi khó tăng lại |
 | Chuyển phong cách | コードスイッチ | — | Chuyển đổi giữa phong cách VN và JP |
 | Phân tách gói | アンバンドル | — | Tách từng hạng mục ra |
-| Hướng dẫn tại chỗ | リアルタイムコーチ | — | Hướng dẫn nhân sự trực tiếp trong phiên |', 'system', 44, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| Hướng dẫn tại chỗ | リアルタイムコーチ | — | Hướng dẫn nhân sự trực tiếp trong phiên |', 'system', 44, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (870000045, 800000007, NULL, 'markdown_book', 'Rule 45 — Nhìn lại và cải thiện sau đàm phán / 振り返りと改善', '# Rule 45 — Nhìn lại và cải thiện sau đàm phán / 振り返りと改善
 > **Luận điểm.** Sau MỖI vụ đàm phán (kể cả điểm rút lui), trong vòng **1 tuần** chạy nhìn lại: **(1) Cái gì hiệu quả**, **(2) Cái gì chưa tốt**, **(3) Giả định ngược** (nếu làm khác thì sao), **(4) Nhận diện xu hướng** (lặp lại từ vụ trước?), **(5) Cam kết lần sau**. Hương dẫn dắt buổi nhìn lại với Dũng + Tuấn. Bỏ qua = mỗi vụ học cùng bài 3-4 lần.
 >
@@ -3287,7 +3297,7 @@ Phase 3 ¥17M ký xong, Phase 4 với khách mới cũng vừa kết thúc vòng
 | **ズン** | 「cam kết 3 つ【4】: (a) kích hoạt báo cấp trên checklist を thẻ bỏ túi <ruby>化<rt>か</rt></ruby>、 <ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>まで。(b) JP <ruby>商談<rt>しょうだん</rt></ruby> trước họp の 1 <ruby>分<rt>ぷん</rt></ruby> dặn trước を bắt buộc <ruby>化<rt>か</rt></ruby>。(c) Phase 5 nhìn lại で a/b の<ruby>効果<rt>こうか</rt></ruby><ruby>測定<rt>そくてい</rt></ruby>。」 <br/>*3 cam kết: (a) Làm thẻ bỏ túi từ bảng kiểm tra kích hoạt báo cấp trên, hạn chót thứ Hai tuần sau. (b) Bắt buộc hóa nghi thức dặn 1 phút trước họp đàm phán JP. (c) Đo hiệu quả a/b ở buổi nhìn lại Phase 5.* |
 | **フオン** | 「cam kết <ruby>文書化<rt>ぶんしょか</rt></ruby>、 team wiki に<ruby>保存<rt>ほぞん</rt></ruby>。**3 ヶ月後 nhìn lại tiếp theo でこの cam kết の mức tuân thủ <ruby>確認<rt>かくにん</rt></ruby>**【5】。お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>。」 <br/>*Tài liệu hóa cam kết, lưu vào wiki nhóm. 3 tháng sau buổi nhìn lại tiếp theo để kiểm tra mức tuân thủ các cam kết này. Mọi người vất vả rồi.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Mẫu 5 phần cố định** = ngăn bỏ qua hoặc làm hời hợt. Giả định ngược là phần học được nhiều nhất.
 - 【2】**Giả định ngược = 「もし〜していれば」** cụ thể hóa phương án thay thế. Không phải hối tiếc trừu tượng mà là hành động cụ thể lần sau.
 - 【3】**Nhận diện xu hướng** = không chỉ 1 vụ mà nhìn xuyên suốt. Nếu phát hiện thói quen văn hóa → can thiệp cấp nhóm.
@@ -3329,6 +3339,6 @@ Phase 3 ¥17M ký xong, Phase 4 với khách mới cũng vừa kết thúc vòng
 
 ---
 
-## Mẫu', 'system', 45, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+## Mẫu', 'system', 45, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 
 COMMIT;

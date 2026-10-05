@@ -41,9 +41,9 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 |  | *Đàm phán 14:00, thống nhất cuối. Vai trò: Dũng dẫn + phụ trách phát ngôn về giá, anh Tuấn chỉ trả lời phần kỹ thuật, anh Hà CTO chỉ phát biểu khi cần báo cấp trên.* |
 | **ハー CTO** | 「<ruby>価格発言<rt>かかくはつげん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>がしてもいけない。ズン<ruby>以外<rt>いがい</rt></ruby>は『<ruby>社内確認<rt>しゃないかくにん</rt></ruby>させてください』で<ruby>受<rt>う</rt></ruby>ける。」 |
 |  | *Trừ Dũng, không ai được phát ngôn về giá. Mọi người khác chỉ nói 'cho phép em xác nhận nội bộ'.* |
-| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。**<ruby>譲歩順序<rt>じょうほじゅんじょ</rt></ruby>**【2】も<ruby>再確認<rt>さいかくにん</rt></ruby>:【ステップ1】¥19M anchor → <ruby>反応見<rt>はんのうみ</rt></ruby>る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M <ruby>以下<rt>いか</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り、その<ruby>場<rt>ば</rt></ruby>で yes <ruby>言<rt>い</rt></ruby>わない**。」 |
+| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。**<ruby>譲歩順序<rt>じょうほじゅんじょ</rt></ruby>**【2】も<ruby>再確認<rt>さいかくにん</rt></ruby>:【ステップ1】¥19M anchor → <ruby>反応見<rt>はんのうみ</rt></ruby>る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M <ruby>未満<rt>みまん</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り、その<ruby>場<rt>ば</rt></ruby>で yes <ruby>言<rt>い</rt></ruby>わない**。」 |
 |  | *Em rõ. Em xác nhận lại thứ tự nhượng bộ: Bước 1 neo giá ¥19M, Bước 2 mục tiêu ¥18M, Bước 3 ¥17M kèm phạm vi -10%, Bước 4 ¥16M kèm phạm vi -20% + trao đổi thêm, dưới ¥15M là mang về xem xét, không nói có tại chỗ.* |
-| **フオン** | 「¥15M <ruby>以下出<rt>いかで</rt></ruby>てきたら、ハー CTO に<ruby>振<rt>ふ</rt></ruby>る。『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>時間取<rt>じかんと</rt></ruby>る【3】。」 |
+| **フオン** | 「¥15M <ruby>未満出<rt>みまんで</rt></ruby>てきたら、ハー CTO に<ruby>振<rt>ふ</rt></ruby>る。『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>時間取<rt>じかんと</rt></ruby>る【3】。」 |
 |  | *Nếu khách đẩy dưới ¥15M, đẩy sang anh Hà CTO. Dùng câu 'cho phép em xác nhận với CTO bên em' để mua thời gian.* |
 | **トゥアン** | 「<ruby>私<rt>わたし</rt></ruby>は<ruby>技術以外<rt>ぎじゅついがい</rt></ruby>、<ruby>絶対黙<rt>ぜったいだま</rt></ruby>ります。」 |
 |  | *Ngoài phần kỹ thuật, em im hoàn toàn.* |

@@ -59,9 +59,38 @@ DB target: PostgreSQL local của `HizashiWeb/backend` (project anh chị em ở
 - Stage 4 enforce ≥90% hội thoại TIẾNG NHẬT NGHIỆP VỤ (mẫu câu người học dùng khi đi làm), ≤1 scene tiếng Việt/chương. KHÔNG phải tiểu thuyết — mục đích #1 là dạy tiếng Nhật
 - Ruby furigana cú pháp đúng tuyệt đối (`<ruby>`==`</ruby>`); tuyến phụ (gia đình/hôn nhân) chốt với user trước; verify độc lập sau mỗi batch subagent
 - Sách mẫu chuẩn: `books/27_kaigo/t01_rainichi_shock/*_HoiThoai.md` (series Kaigo 27-32 — tham chiếu story arc nghề nghiệp dài)
-- KHÔNG có JSON exercises, KHÔNG seed DB
+- KHÔNG có JSON exercises. Pipeline **không sinh SQL**, nhưng sách lite **vẫn seed DB được** — xem dưới
 - 8 stages thay vì 10 → nhanh hơn ~30-40%
 - Subagents dùng giống nhau nhưng prompt focus dialogue
+
+### Sách LITE VẪN seed DB được (tiền lệ: sách 09, 17/08/2026)
+
+Pipeline lite không sinh SQL, nhưng nội dung của nó **vẫn là markdown như sách full** nên
+đưa vào `curricula` / `curriculum_node` bình thường. Sách 09 đã lên production theo cách này.
+
+**Khác biệt phải xử lý — cách cắt node:**
+
+| | Sách full (02-08) | Sách lite (09) |
+|---|---|---|
+| File nguồn | 35-51 × `rule.md` (~15KB) | 8 × `chương.md` (**37-74KB**) |
+| Node | 1 file = 1 node | **cắt theo `## Tình huống`** → 94 node (~3.5KB) |
+
+Đừng để nguyên 1 chương = 1 node: 58KB gấp 4 lần mặt bằng, người học phải cuộn rất dài.
+Đơn vị học tự nhiên của sách hội thoại là **một cảnh**, không phải một chương.
+
+Script mẫu: `_shared/scripts/build_sql_book09.py` — cắt theo regex `^##\s+(Tình huống\s+.+)$`,
+gộp phần dẫn nhập đầu chương vào node đầu, phần tổng kết vào node cuối (không mất chữ nào).
+
+### Mở free toàn bộ một cuốn sách
+
+Backend đọc `curricula.is_free_override` ở `api/domains/content/curriculum.py:388` và **bỏ hẳn
+khối tính `is_locked`** — không cần đụng `free_preview_count`. Đặt 3 lớp cho chắc:
+
+```sql
+is_free_override   = TRUE      -- công tắc chính
+free_preview_count = 9999      -- dự phòng nếu ai tắt cờ trên
+access_level       = 'free'    -- trên TỪNG node, dự phòng lớp 3
+```
 
 ## Rà soát & sửa sách đã xuất bản
 

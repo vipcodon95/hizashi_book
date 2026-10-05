@@ -54,7 +54,7 @@ Ngày trình bày chính thức. Dũng đứng đầu phòng, Matsumoto + Ōgaki
 
 ## Tránh
 
-- "本日はお忙しい中…" mở đầu rập khuôn — bắt buộc nhưng không phải phần thu hút
+- Dồn "本日はお忙しい中…" vào 30 giây vàng — lời chào không sai, nhưng hãy rút thật gọn (hoặc lùi xuống sau phần thu hút, như mẫu TỐT ở trên), đừng để nó ngốn hết lượt chú ý đầu tiên
 - Giới thiệu công ty trước khi vào phần thu hút → người nghe không cảm thấy chuyện liên quan
 - Phần mở đầu dài >15s → đã rơi vào "kể chuyện lê thê", không còn lực đấm
 - Đọc phần mở đầu từ slide → bị nhạt. Phần này PHẢI nói thuộc lòng + giao tiếp bằng mắt

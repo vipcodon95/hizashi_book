@@ -180,7 +180,7 @@ Khách JP đôi khi yêu cầu trình bày mà không báo trước — kiểm t
 
 ### Bí quyết — Nhận lời khen — đừng quá khiêm nhường
 
-Người Việt + người Nhật đều có thói quen né lời khen ('まだまだ', 'em chưa đủ'). Nhưng JP hiện đại (2020s+) coi câu 'ありがとうございます' đơn giản là chuẩn:
+Né lời khen ('まだまだ', 'em chưa đủ') là phản xạ quen thuộc ở cả hai nơi, nhất là với người đi làm lâu năm. Nhưng trong môi trường doanh nghiệp Nhật những năm gần đây, nhận lời khen bằng một câu 'ありがとうございます' gọn gàng đang trở thành cách phổ biến hơn:
 - Nhận lời khen thẳng thắn + 1 câu tiếp nối ('được anh X khen em vui').
 - Quá khiêm nhường ('まだまだです / em chưa giỏi') = đôi khi khiêm tốn giả tạo, làm người khen ngại.
 - Tanaka đã hướng dẫn Dũng đúng — khoảnh khắc xây dựng quan hệ.
@@ -479,7 +479,7 @@ Ngày cuối công tác = mua omiyage cho gia đình + bạn HCMC. Mẹo:
 Giới hạn 23kg JAL/VN/ANA hạng phổ thông. Mẹo:
 - **Hộp nặng + nhỏ** (chocolate, sake) → balo xách tay. Balo thường không cân nghiêm.
 - **Quần áo + bánh giòn** → hành lý ký gửi.
-- Nếu vượt 0.5-1kg → nhân viên quầy thường linh hoạt nếu bạn di chuyển đồ nhanh ngay tại chỗ. Vượt 2kg+ → tính phụ phí (≈¥3,000-5,000/kg).
+- Nếu vượt 0.5-1kg → nhân viên quầy thường linh hoạt nếu bạn di chuyển đồ nhanh ngay tại chỗ. Vượt nhiều hơn → phải tách sang **kiện thứ hai**, và phí tính **theo kiện** chứ không theo kg (chặng quốc tế thường từ ¥6.000/kiện trở lên tuỳ tuyến). Vì vậy đừng nghĩ "vượt 3kg thì trả 3 lần" — cứ vượt là thành một kiện tính riêng.
 - **Cân thử ở khách sạn** bằng cân hành lý (¥1,000 ở Don Quijote, đáng đầu tư với người đi công tác thường xuyên).
 
 

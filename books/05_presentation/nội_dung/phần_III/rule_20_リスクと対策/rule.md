@@ -41,7 +41,7 @@ Slide 9 = slide rủi ro. Linh thảo nháp → ghi "リスクは特にござい
 | **ズン** | 「うん、**<ruby>赤<rt>あか</rt></ruby>は『<ruby>要警戒<rt>ようけいかい</rt></ruby>』マーク<ruby>専用<rt>せんよう</rt></ruby>**【3】(rule 05 cross-ref)。ここなら<ruby>赤<rt>あか</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>。」 <br/>*Đúng rồi, đỏ chỉ dành cho dấu 「cần cảnh giác」 (tham chiếu chéo rule 05). Chỗ này dùng đỏ là đúng.* |
 
 📝 **Ghi chú:**
-- 【1】**4-5 リスク** — 3個少ない、6個以上希薄化. 4-5 cái là điểm vàng (sweet spot).
+- 【1】**3-5 リスク** — 2個以下は「気づいてない」、6個以上は希薄化. Trong khoảng đó thì **4-5 cái** là đậm đà nhất.
 - 【2】**確率 × 影響** — đánh giá 2 chiều. 「確率低 + 影響大」 (xác suất thấp + tác động lớn) hay bị bỏ sót nhất và quan trọng.
 - 【3】**「赤は要警戒専用」** — đồng bộ với Rule 05 (色彩 — tâm lý màu sắc). Đỏ trang trí thì cấm, nhưng đỏ cảnh báo thì được.
 
@@ -62,7 +62,7 @@ Slide 9 = slide rủi ro. Linh thảo nháp → ghi "リスクは特にござい
 | 1 | インフラ移行失敗 | 中 | 大 | 旧環境 parallel 3ヶ月 |
 | 2 | データ移行欠損 | 中 | 大 | 日次リコンサイル監査 |
 | 3 | KPI未達 | 低 | 中 | 月次見直し + 再計画権利 |
-| 4 | 保守要員依存 | 低 | 中 | 2名以上の đào tạo chéo |
+| 4 | 保守要員依存 | 低 | 中 | 2名以上のクロストレーニング |
 | 5 | 季節商品再発 | 中 | 中 | ML model 月次再学習 |
 
 ---

@@ -37,7 +37,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 |  | *Vâng, gia đình expat đến nhiều. Phố Đặng Tiến, menu Anh-Nhật-Việt. Counter 8 ghế, phải book.* |
 | **松本** | 「予約取れる?今夜?」 |
 |  | *Đặt được không em? Tối nay?* |
-| **ズン** | 「先週シェフのトミタさんに連絡してて、19時<ruby>押<rt>お</rt></ruby>さえてあります。**おまかせ4500万ドン(約23,000円)**で、**ハノイで一番"<ruby>東京<rt>とうきょう</rt></ruby>の味"に近い**という<ruby>評価<rt>ひょうか</rt></ruby>です。」 |
+| **ズン** | 「先週シェフのトミタさんに連絡してて、19時<ruby>押<rt>お</rt></ruby>さえてあります。**おまかせ450万ドン(約26,000円)**で、**ハノイで一番"<ruby>東京<rt>とうきょう</rt></ruby>の味"に近い**という<ruby>評価<rt>ひょうか</rt></ruby>です。」 |
 |  | *Em đã liên hệ chef Tomita tuần trước, giữ chỗ 19h rồi ạ. Omakase 4.5 triệu (~23k yen), đánh giá là 'gần vị Tokyo nhất' Hà Nội.* |
 | **松本** | 「もう予約してくれてたの?ありがたい。」 |
 |  | *Em đặt rồi à? Cảm ơn em.* |
@@ -131,7 +131,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 
 ```
 ■ HÀ NỘI:
-「カイカヤ・ハノイ — 銀座の本店から来たシェフ、おまかせ4500万ドン。」
+「カイカヤ・ハノイ — 銀座の本店から来たシェフ、おまかせ450万ドン。」
 「Sushi Ichi — 福岡の魚を空輸。」
 「Yakitori Ton — 東京・恵比寿の修行帰り、3万ドン1本。」
 「Izakaya Hokkai — 北海道海産メイン、いくら丼+ホタテバター。」

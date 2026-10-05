@@ -41,7 +41,7 @@ Cuối bữa tối Q1 lúc 21:00, sau trà kết thúc suất ăn. Dũng trao om
 
 📝 **Ghi chú:**
 - 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / thương hiệu / độ hiếm = đại kỵ.
-- 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. Túi giấy bỏ đi (kiểu Nhật).
+- 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. **Túi giấy thì gấp gọn cất lại vào cặp mình mang về** — đẩy túi sang phía khách nhờ họ vứt là マナー違反. (Ngoại lệ: khách phải đi xa hoặc quà cồng kềnh thì mới hỏi 「よろしければ袋もお使いください」.)
 - 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = dấu hiệu có thể chia trong cty.
 - 【4】**Thứ tự**: CFO Nakamura → trưởng Ōgaki → PM Matsumoto → PMO Tanaka. Trao từng người, mỗi người đứng / nhổm dậy nhận bằng 2 tay.
 

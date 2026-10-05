@@ -37,7 +37,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 | **松本PM** | 「<ruby>羊羹<rt>ようかん</rt></ruby>で、<ruby>日持<rt>ひも</rt></ruby>ちもしますので。」 <br/>*Là yokan, để được khá lâu ạ.* |
 | **フオン副部長** | 「ありがとうございます。<ruby>後<rt>のち</rt></ruby>ほど<ruby>社内<rt>しゃない</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>でいただきます。」【3】 <br/>*Cảm ơn anh ạ. Lát nữa em mời cả phòng cùng dùng.* |
 | **リン** | （<ruby>包<rt>つつ</rt></ruby>みは<ruby>開<rt>あ</rt></ruby>けず、<ruby>机<rt>つくえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたまま） <br/>*(không mở gói, giữ nguyên trên bàn)* |
-| **フオン副部長** | （<ruby>後<rt>のち</rt></ruby>ほど<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>にメール）「<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>素敵<rt>すてき</rt></ruby>なお<ruby>土産<rt>みやげ</rt></ruby>をいただき、ありがとうございました。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>でおいしくいただきました。<ruby>後<rt>のち</rt></ruby>ほど<ruby>改<rt>あらた</rt></ruby>めて<ruby>御礼<rt>おれい</rt></ruby>のメールを<ruby>送<rt>おく</rt></ruby>らせていただきます。」【4】 <br/>*(sau đó mail anh Matsumoto) Hôm nay anh tặng quà rất ý nghĩa, em xin cảm ơn ạ. Cả phòng đã cùng thưởng thức ngon lành. Em xin gửi lại thư cảm ơn trang trọng sau ạ.* |
+| **フオン副部長** | （<ruby>後<rt>のち</rt></ruby>ほど<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>にメール）「<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>素敵<rt>すてき</rt></ruby>なお<ruby>土産<rt>みやげ</rt></ruby>をいただき、ありがとうございました。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>でおいしくいただきました。<ruby>今後<rt>こんご</rt></ruby>ともどうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」【4】 <br/>*(sau đó mail anh Matsumoto) Hôm nay anh tặng quà rất ý nghĩa, em xin cảm ơn ạ. Cả phòng đã cùng thưởng thức ngon lành. Mong anh tiếp tục giúp đỡ ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「頂戴いたします」** — câu nhận cố định, trang trọng hơn 「ありがとう」. Đi kèm cúi chào 30°. Nhổm dậy nhẹ nếu đang ngồi.

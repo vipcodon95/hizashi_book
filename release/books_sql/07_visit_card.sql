@@ -7,7 +7,7 @@
 BEGIN;
 
 -- 1) Curricula
-INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000008, NULL, 'markdown_book', 'BJT', 'Tiếp khách · Thăm · Danh thiếp', 'Bộ sách Hizashi — Tiếp khách · Thăm · Danh thiếp', 'Hizashi シリーズ — 来客・訪問・名刺交換', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET type = EXCLUDED.type, title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, category = EXCLUDED.category, tenant_id = EXCLUDED.tenant_id, is_system = EXCLUDED.is_system, is_public = EXCLUDED.is_public, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, free_preview_count = EXCLUDED.free_preview_count, status = EXCLUDED.status, updated_at = NOW();
+INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000008, NULL, 'markdown_book', 'BJT', 'Tiếp khách · Thăm · Danh thiếp', 'Bộ sách Hizashi — Tiếp khách · Thăm · Danh thiếp', 'Hizashi シリーズ — 来客・訪問・名刺交換', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, updated_at = NOW();
 
 -- 2) Curriculum nodes
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000001, 800000008, NULL, 'markdown_book', 'Rule 01 — Chuẩn bị danh thiếp đúng cách / 名刺の準備', '# Rule 01 — Chuẩn bị danh thiếp đúng cách / 名刺の準備
@@ -49,7 +49,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến thăm 
 | **リン** | 「① <ruby>専用<rt>せんよう</rt></ruby>ケース: <ruby>名刺入<rt>めいしい</rt></ruby>れ<ruby>持参済<rt>じさんずみ</rt></ruby> ② <ruby>両面<rt>りょうめん</rt></ruby> JP/EN: <ruby>印刷<rt>いんさつ</rt></ruby>完了 (<ruby>見本写真<rt>みほんしゃしん</rt></ruby>) ③ 数: 14枚 + buffer 6枚 = 20枚【2】 ④ <ruby>誤字<rt>ごじ</rt></ruby>チェック: トゥアン先輩に<ruby>ダブルチェック済<rt>ダブルチェックずみ</rt></ruby>【3】。」 <br/>*① Hộp riêng: hộp danh thiếp đã có. ② 2 mặt JP/EN: đã in (ảnh mẫu đính kèm). ③ Số lượng: 14 + dự phòng 6 = 20 tờ. ④ Check typo: anh Tuấn kiểm tra lại rồi ạ.* |
 | **ズン** | 「完璧。明日朝 8:30 全員<ruby>集合<rt>しゅうごう</rt></ruby>、<ruby>名刺<rt>めいし</rt></ruby><ruby>確認<rt>かくにん</rt></ruby> → ロビー 9:15 <ruby>待機<rt>たいき</rt></ruby> → 9:30 <ruby>大垣<rt>おおがき</rt></ruby><ruby>ご一行<rt>ごいっこう</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>。」 <br/>*Tuyệt. Mai 8:30 tập hợp, check danh thiếp → 9:15 lobby chờ → 9:30 đoàn anh Ōgaki đến.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「4条件チェック」** — kiểm tra danh thiếp trước sự kiện, tối thiểu từ chiều hôm trước. Sáng cùng ngày = quá muộn nếu cần in lại.
 - 【2】**人数×2倍 + buffer** — phòng trường hợp khách dẫn theo người chưa biết (thông dịch/đồng nghiệp). 6枚 buffer = 1 lần trao hụt mà không hốt hoảng.
 - 【3】**誤字チェック cấp trên** — Tuấn (trưởng nhóm kỹ thuật) kiểm tra hai lượt. Một lỗi chính tả = nhớ mãi cả đời.
@@ -81,7 +81,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến thăm 
 | 誤字 | ごじ | NGỘ TỰ | Lỗi chính tả |
 | ご一行 | ごいっこう | NHẤT HÀNH | Đoàn (formal) |
 | 印刷 | いんさつ | ẤN LOÁT | In ấn |
-| ダブルチェック | ダブルチェック | — | Kiểm tra hai lượt |', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| ダブルチェック | ダブルチェック | — | Kiểm tra hai lượt |', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000002, 800000008, NULL, 'markdown_book', 'Rule 02 — Nhận danh thiếp 2 tay / 名刺の受け取り方', '# Rule 02 — Nhận danh thiếp 2 tay / 名刺の受け取り方
 > **Luận điểm.** Nhận danh thiếp = **nghi lễ 3 giây**: 2 tay đỡ ở góc dưới + nói「頂戴いたします」+ đọc tên/chức vụ ngay trước mặt khách (không cất túi). Cất ngay vào túi = "ném" mặt khách.
 >
@@ -120,7 +120,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **大垣** | 「リンさん、こちらこそ。」 <br/>*Cô Linh, tôi cũng vậy.* |
 | **リン** | *(im lặng, đỡ trang trọng)* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**両手で角を持つ** — 2 ngón cái + trỏ giữ 2 góc dưới. KHÔNG che chữ in trên danh thiếp. KHÔNG cầm chính giữa.
 - 【2】**「頂戴いたします」** — câu cố định khi nhận danh thiếp. KHÔNG dùng「ありがとうございます」(quá nhẹ) hay「もらいます」(quá thường).
 - 【3】**Đọc lại tên + chức vụ** — xác nhận đã đọc, đã ghi nhớ. Cũng giúp mình phát âm đúng tên khách trong cuộc họp.
@@ -153,7 +153,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 角 | かど | GIÁC | Góc (của danh thiếp) |
 | 役職 | やくしょく | DỊCH CHỨC | Chức vụ |
 | 確認 | かくにん | XÁC NHẬN | Xác nhận |
-| 儀式 | ぎしき | NGHI THỨC | Nghi lễ |', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 儀式 | ぎしき | NGHI THỨC | Nghi lễ |', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000003, 800000008, NULL, 'markdown_book', 'Rule 03 — Trao danh thiếp 2 tay / 名刺の渡し方', '# Rule 03 — Trao danh thiếp 2 tay / 名刺の渡し方
 > **Luận điểm.** Trao danh thiếp = chìa **2 tay** + **mặt JP hướng về phía khách** (đọc được luôn) + **tự xưng đầy đủ「会社名・部署・役職・氏名」** + **cúi chào nhẹ 15°**. Trao 1 tay hoặc hướng chữ về phía mình = "vứt" thẻ.
 >
@@ -192,7 +192,7 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 | **大垣** | 「**<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします**。ズンさん、こちらこそよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Tôi xin nhận. Anh Dũng, tôi cũng rất mong được hợp tác.* |
 | **ズン** | *(giữ ánh mắt 1 giây rồi rút lui)* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**会社・部署・役職・フルネーム順** — thứ tự chuẩn JP. KHÔNG đảo. KHÔNG bỏ phần. Tên VN dùng phiên âm katakana「チャン・ヴァン・ズン」để khách đọc đúng.
 - 【2】**「よろしくお願い申し上げます」** > 「お願いします」khi gặp lần đầu với cấp trên. Một bậc nâng mức trang trọng.
 
@@ -225,7 +225,7 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 | お辞儀 | おじぎ | TỪ NGHI | Cúi chào |
 | 15度 | じゅうごど | — | 15 độ (cúi chào nhẹ) |
 | フルネーム | フルネーム | — | Họ tên đầy đủ |
-| 自己紹介 | じこしょうかい | TỰ KỶ THIỆU GIỚI | Tự giới thiệu |', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 自己紹介 | じこしょうかい | TỰ KỶ THIỆU GIỚI | Tự giới thiệu |', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000004, 800000008, NULL, 'markdown_book', 'Rule 04 — Trao đổi 同時 (đồng thời) / 名刺の同時交換', '# Rule 04 — Trao đổi 同時 (đồng thời) / 名刺の同時交換
 > **Luận điểm.** Khi 2 bên trao cùng lúc: **tay phải đưa danh thiếp của mình** xuống dưới (低), **tay trái nhận danh thiếp khách** ở trên (高) → **đảo lại để tay phải đỡ** danh thiếp khách 2 tay → đưa lên ngang ngực + 「頂戴いたします」. Quy tắc: **trao thấp, nhận cao** (= khiêm nhường, nâng khách).
 >
@@ -264,7 +264,7 @@ Sau khi Linh + Dũng đã trao đổi danh thiếp với Ōgaki riêng từng ng
 | **トゥアン** | 「**<ruby>松本<rt>まつもと</rt></ruby>PM、よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします**【3】。」 <br/>*Anh Matsumoto PM, rất mong được hợp tác ạ.* |
 | **松本** | 「トゥアンさん、こちらこそ。」 <br/>*Anh Tuấn, tôi cũng vậy.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**右手低・左手高** — quy tắc cốt lõi 同時交換: tay phải trao danh thiếp **của mình** chìa thấp (khiêm nhường) + tay trái đỡ danh thiếp **khách** ở cao (tôn trọng). Nghĩ kiểu: "danh thiếp tôi = đồ tôi đưa = thấp; danh thiếp anh = đồ tôi nhận = cao".
 - 【2】**「頂戴いたします」** — nói cùng lúc nhận. Cả 2 bên đều nói. Không tranh nhau "お先にどうぞ".
 - 【3】**Đảo lại 2 tay rồi đọc** — sau khi nhận bằng 1 tay (trái), ngay lập tức chuyển sang đỡ 2 tay (phải đặt dưới trái) + đọc tên + chức vụ. Toàn bộ nhịp ~ 3 giây.
@@ -296,11 +296,17 @@ Sau khi Linh + Dũng đã trao đổi danh thiếp với Ōgaki riêng từng ng
 | 低く | ひくく | ĐÊ | Thấp |
 | 高く | たかく | CAO | Cao |
 | 持ち直す | もちなおす | — | Cầm lại / chuyển tay |
-| お先にどうぞ | おさきにどうぞ | — | Mời anh/chị trước |', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| お先にどうぞ | おさきにどうぞ | — | Mời anh/chị trước |', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000005, 800000008, NULL, 'markdown_book', 'Rule 05 — Vai vế quyết định ai trao trước / 立場による順序', '# Rule 05 — Vai vế quyết định ai trao trước / 立場による順序
-> **Luận điểm.** Khi bên mình có nhiều người: **người cấp dưới trao trước, người cấp trên trao sau**. Khi 2 bên không cùng cấp: **cấp thấp trao trước cấp cao** (= người đến thăm 訪問者 trước người được thăm, bên cần việc trước bên được nhờ). Đảo thứ tự = lộ "không hiểu tôn ti trật tự".
+> **Luận điểm.** Phải tách **hai trục** — đây là chỗ rất dễ nhầm:
 >
-> 名刺交換は『下位者から上位者へ』の順番。自社内では junior が先、相手より格下なら自社全員が先に出す。
+> **Trục 1 — GIỮA HAI CÔNG TY:** bên **đến thăm (訪問者)** trao trước bên được thăm; bên **cần việc** trao trước bên được nhờ. Đây là "cấp thấp trao trước cấp cao" theo nghĩa **vị thế công ty**.
+>
+> **Trục 2 — TRONG NỘI BỘ MỘT ĐOÀN:** **người cấp CAO NHẤT trao trước**, cấp dưới đứng chờ rồi lần lượt theo thứ tự chức vụ giảm dần. Trưởng đoàn hai bên đổi danh thiếp với nhau trước, sau đó mới tới cấp dưới.
+>
+> Nhầm trục 2 thành "cấp dưới đi trước" là lỗi nặng: nhân viên mới bước ra trước mặt CFO trong khi Phó phòng đứng sau = 失礼 thấy rõ. Đảo thứ tự = lộ "không hiểu tôn ti trật tự".
+>
+> 名刺交換は2軸で考える。①**会社間**: 訪問者側・お願いする側が先に出す。②**自社内**: **役職が高い順**に交換し、部下は上司の交換が終わるまで待つ。まず両社のトップ同士が交換する。
 >
 > **Liên quan:** rule 03 (trao), rule 04 (đồng thời), rule 06 (đặt bàn).
 
@@ -323,39 +329,40 @@ Sau khi Linh + Dũng + Tuấn trao danh thiếp xong với 大垣, đến lượ
 | **フオン副部長** | 「ティエンファット <ruby>営業<rt>えいぎょう</rt></ruby> <ruby>副部長<rt>ふくぶちょう</rt></ruby>のフオンでございます。」 <br/>*Tôi là Hương, Phó phòng Kinh doanh Cty Tiên Phát.* |
 | **リン** | 「リンです、よろしく…」 <br/>*Em Linh ạ, mong được...* |
 | **中村CFO** | 「<ruby>中村<rt>なかむら</rt></ruby>でございます。」 <br/>*Tôi là Nakamura.* |
-| **フオン副部長** | 「リンさん、<ruby>本来<rt>ほんらい</rt></ruby>は junior から<ruby>先<rt>さき</rt></ruby>よ。トゥアンさんの<ruby>後<rt>あと</rt></ruby>でいいの。」 <br/>*Linh, đáng lẽ người cấp dưới phải đi trước. Em đứng sau anh Tuấn cũng được.* |
+| **フオン副部長** | 「リンさん、<ruby>順番<rt>じゅんばん</rt></ruby>は<ruby>役職順<rt>やくしょくじゅん</rt></ruby>よ。<ruby>私<rt>わたし</rt></ruby>→トゥアンさん→ズンさん→リンさんの<ruby>順<rt>じゅん</rt></ruby>。<ruby>上司<rt>じょうし</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるまで<ruby>待<rt>ま</rt></ruby>っていてね。」 <br/>*Linh, thứ tự là theo chức vụ. Chị → anh Tuấn → anh Dũng → em. Em đợi cấp trên trao xong đã nhé.* |
 
-**Vì sao xấu:** (1) Hương cấp cao nhất bên Việt nhưng lại trao trước → "vứt" ý tôn trọng khách (người cấp dưới phải đứng ra trước). (2) Linh thì nhảy hàng (đáng lẽ là cuối) → loạn nhịp. Người Nhật rất tinh ý với thứ tự = lộ ngay tổ chức không sắp xếp trước.
+**Vì sao xấu:** Linh (thực tập sinh) **chen ngang trong lúc cấp trên chưa trao xong** — trong đoàn phải để người cấp cao nhất đi trước, cấp dưới đứng chờ. Nhân viên mới bước ra trước mặt CFO khi Phó phòng còn đang trao = 失礼 rõ. Ở những buổi trang trọng, thứ tự là thứ người ta để ý → lộ ngay là đoàn không sắp xếp trước. (Hương trao trước là **đúng chuẩn** — chỗ sai duy nhất ở đây là Linh.)
 
 ---
 
-## Hội thoại TỐT — cấp dưới trước, cấp trên sau
+## Hội thoại TỐT — cấp trên trao trước, cấp dưới đứng chờ
 *sắp xếp thứ tự trước buổi gặp · bắt đầu, trao với 中村 CFO trước · lần lượt trao với 中村, sau đó với 大垣, rồi với 松本【3】 · cuối cùng, chìa với 中村 CFO*
 
 | Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「<ruby>順番<rt>じゅんばん</rt></ruby>は **リン → ズン → トゥアン → 私（フオン）**【1】。<ruby>相手側<rt>あいてがわ</rt></ruby>は<ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>最上位<rt>さいじょうい</rt></ruby>だから、**みんな<ruby>最初<rt>さいしょ</rt></ruby>に中村さんと<ruby>交換<rt>こうかん</rt></ruby>**【2】。」 <br/>*Thứ tự sẽ là Linh → Dũng → Tuấn → chị (Hương). Bên khách Nakamura CFO cao nhất nên cả nhóm trao danh thiếp với anh Nakamura đầu tiên.* |
+| **フオン副部長** | 「<ruby>順番<rt>じゅんばん</rt></ruby>は **私（フオン）→ トゥアン → ズン → リン**【1】。<ruby>相手側<rt>あいてがわ</rt></ruby>は<ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>最上位<rt>さいじょうい</rt></ruby>だから、**まず<ruby>私<rt>わたし</rt></ruby>と中村さんが<ruby>交換<rt>こうかん</rt></ruby>、それから<ruby>順番<rt>じゅんばん</rt></ruby>に**【2】。」 <br/>*Thứ tự sẽ là chị (Hương) → Tuấn → Dũng → Linh. Bên khách Nakamura CFO cao nhất, nên chị trao với anh Nakamura trước, rồi lần lượt tới các em.* |
 | **リン** | 「ティエンファット マーケティングのリンと<ruby>申<rt>もう</rt></ruby>します。<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。」 <br/>*Em là Linh, Marketing Cty Tiên Phát. Xin nhận ạ.* |
 | **中村CFO** | 「中村でございます。」 <br/>*Tôi là Nakamura.* |
-| **ズン → トゥアン → フオン副部長** | *(theo nhịp đã sắp xếp)* <br/>*(Dũng → Tuấn → Phó phòng Hương lần lượt theo thứ tự đã thống nhất)* |
-| **フオン副部長** | 「<ruby>最後<rt>さいご</rt></ruby>になり<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。営業部 副部長のフオンでございます。」 <br/>*Xin lỗi vì để đến cuối ạ. Tôi là Hương, Phó phòng Kinh doanh.* |
+| **トゥアン → ズン → リン** | *(theo nhịp đã sắp xếp, đợi người trước xong mới bước lên)* <br/>*(Tuấn → Dũng → Linh lần lượt theo thứ tự đã thống nhất)* |
+| **リン** | 「<ruby>最後<rt>さいご</rt></ruby>になり<ruby>失礼<rt>しつれい</rt></ruby>いたします。ティエンファット <ruby>営業部<rt>えいぎょうぶ</rt></ruby>のリンと<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Em xin phép trao cuối ạ. Em là Linh, phòng Kinh doanh Cty Tiên Phát.* |
 
- **Ghi chú:**
-- 【1】**Cấp dưới trước cấp trên bên mình** — Linh (intern) → Dũng (BD) → Tuấn (Lead) → Hương (副部長). Lý do: người càng nhẹ ký càng "thăm dò" trước, người cấp cao xuất hiện cuối = điểm nhấn.
-- 【2】**Mọi người chào người cấp cao nhất bên kia trước** — 中村 CFO cấp cao nhất → tất cả 4 người Tiên Phát trao danh thiếp với 中村 trước, rồi mới quay sang 大垣, rồi 松本.
-- 【3】**Thứ tự ma trận** — viết ra: 4 chủ × 3 khách = 12 cặp trao đổi. Người cấp dưới bên mình + người cấp cao bên kia = ưu tiên đầu. Người cấp cao bên mình + người cấp dưới bên kia = cuối.
+📝 **Ghi chú:**
+- 【1】**Cấp trên trao trước, cấp dưới đứng chờ** — Hương (副部長) → Tuấn (Lead) → Dũng (BD) → Linh (intern). Trưởng đoàn hai bên đổi danh thiếp với nhau trước, xong mới tới lượt cấp dưới. Người cấp dưới **đứng yên chờ**, không bước lên khi cấp trên chưa xong.
+- 【2】**Ghép cặp theo cấp bậc** — 中村 CFO cấp cao nhất bên khách, Hương cấp cao nhất bên mình → hai người này đổi trước. Sau đó Hương trao tiếp với 大垣, 松本; song song Tuấn bắt đầu từ 中村. Nguyên tắc: **cặp cấp cao ↔ cấp cao đi trước**.
+- 【3】**Thứ tự ma trận** — viết ra: 4 bên mình × 3 bên khách = 12 cặp trao đổi. Cặp **cấp cao nhất ↔ cấp cao nhất** đi đầu (Hương ↔ 中村), cặp **cấp thấp nhất ↔ cấp thấp nhất** đi cuối (Linh ↔ 松本). Đừng để cấp bậc hai bên lệch nhau quá xa trong một cặp.
 
 ---
 
 ## Cụm từ mẫu
-> **「名刺は『自社junior先・相手senior優先』のマトリクス順。」**
+> **「<ruby>会社間<rt>かいしゃかん</rt></ruby>は<ruby>訪問者<rt>ほうもんしゃ</rt></ruby>が<ruby>先<rt>さき</rt></ruby>、<ruby>自社内<rt>じしゃない</rt></ruby>は<ruby>役職順<rt>やくしょくじゅん</rt></ruby>。トップ<ruby>同士<rt>どうし</rt></ruby>から<ruby>交換<rt>こうかん</rt></ruby>。」**
 >
-> *Trao danh thiếp = ma trận: người cấp dưới bên mình trước, người cấp cao bên khách ưu tiên.*
+> *Giữa hai công ty: bên đến thăm trao trước. Trong nội bộ đoàn: theo thứ tự chức vụ, cấp cao trước. Trưởng đoàn hai bên đổi danh thiếp với nhau đầu tiên.*
 
 ---
 
 ## Tránh
-- **Người cấp cao bên mình bước ra đầu tiên** → lộ "không hiểu người cấp dưới phải dấn thân trước"
+- **Nhân viên cấp dưới bước ra trước khi cấp trên chưa trao xong** → 失礼 rõ với khách, và lộ ngay là đoàn không sắp xếp trước
+- **Lẫn lộn hai trục** — "bên đến thăm trao trước" là quy tắc **giữa hai công ty**, đừng áp xuống nội bộ đoàn thành "cấp dưới đi trước"
 - **Thứ tự tùy tiện** không sắp xếp → 4 người loạn lên = không khí gãy
 - Người cấp dưới bên mình **bỏ qua** không trao với người cấp cao bên khách (vì thấy "không cùng cấp") → BẮT BUỘC mọi người trao với mọi người
 - "**お先にどうぞ**" tùm lum → chỉ áp dụng giữa 2 bên cùng cấp, không lạm dụng
@@ -373,7 +380,7 @@ Sau khi Linh + Dũng + Tuấn trao danh thiếp xong với 大垣, đến lượ
 | 最上位 | さいじょうい | TỐI THƯỢNG VỊ | Cấp cao nhất |
 | 最後 | さいご | TỐI HẬU | Cuối cùng |
 | 申し訳ございません | もうしわけございません | — | Vô cùng xin lỗi (kính ngữ) |
-| マトリクス | マトリクス | — | Ma trận |', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| マトリクス | マトリクス | — | Ma trận |', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000006, 800000008, NULL, 'markdown_book', 'Rule 06 — Bố trí danh thiếp trên bàn / 名刺の机上配置', '# Rule 06 — Bố trí danh thiếp trên bàn / 名刺の机上配置
 > **Luận điểm.** Sau khi trao đổi danh thiếp xong, vào phòng họp **đặt danh thiếp khách trên bàn theo thứ tự chỗ ngồi** (vị trí thật của họ ngồi đối diện) trong suốt cuộc họp. KHÔNG xếp chồng. KHÔNG cất túi. **Cất chỉ khi khách đã đứng dậy ra về**. Mục đích: gọi tên đúng + nhớ chức vụ + không nhầm lẫn người cấp cao.
 >
@@ -414,7 +421,7 @@ Sau khi trao đổi danh thiếp tại tiền sảnh, đoàn vào phòng họp. 
 | **大垣** | 「はい、<ruby>大垣<rt>おおがき</rt></ruby>です。」 <br/>*Vâng, Ōgaki đây.* |
 | **リン** | *(lúc đó mới thu lại 3 danh thiếp 2 tay xếp ngay ngắn vào hộp)*【2】 |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Bố trí theo thứ tự chỗ ngồi** — danh thiếp Nakamura ở chỗ Nakamura ngồi, Ōgaki ở chỗ Ōgaki, Matsumoto ở chỗ Matsumoto. Như vậy Dũng nhìn lướt = đối chiếu mặt người + danh thiếp = nhớ tên/chức ngay. CFO cấp cao nhất thường ngồi 上座 trung tâm.
 - 【2】**Cất khi khách đã đứng dậy** — KHÔNG cất giữa buổi họp. KHÔNG cất khi nói "今日のミーティング終了". Đợi khách rời chỗ, đứng dậy mình rồi mới gom 2 tay xếp vào hộp ngay ngắn (KHÔNG nhét túi).
 
@@ -447,7 +454,7 @@ Sau khi trao đổi danh thiếp tại tiền sảnh, đoàn vào phòng họp. 
 | 仕舞う | しまう | — | Cất đi |
 | 退室 | たいしつ | THOÁI THẤT | Rời phòng |
 | 並べる | ならべる | TỊNH | Sắp xếp |
-| 中央 | ちゅうおう | TRUNG ƯƠNG | Trung tâm |', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 中央 | ちゅうおう | TRUNG ƯƠNG | Trung tâm |', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000007, 800000008, NULL, 'markdown_book', 'Rule 07 — Lưu trữ sau cuộc gặp / 名刺管理', '# Rule 07 — Lưu trữ sau cuộc gặp / 名刺管理
 > **Luận điểm.** Trong **24 giờ** sau cuộc gặp: (1) Nhập CRM kèm bối cảnh (ngày/sự kiện/chủ đề) (2) Dán ghi chú bối cảnh ("ai giới thiệu", "chủ đề họ quan tâm", "việc tiếp theo nào") (3) Quét (lưu) đám mây (4) Gửi email tiếp theo kèm liên kết nội dung. Không nhập trong 24h = quên 70% bối cảnh = chết tài sản mạng lưới quan hệ.
 >
@@ -488,7 +495,7 @@ Tối cùng ngày sự kiện 大垣 + 松本 + 中村 đến thăm, Dũng yêu 
 | **リン** | 「**『Phase 4 <ruby>予算<rt>よさん</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby>を 1,500<ruby>万円<rt>まんえん</rt></ruby>で<ruby>気<rt>き</rt></ruby>にしている。Q3 <ruby>決算後<rt>けっさんご</rt></ruby>に<ruby>再検討<rt>さいけんとう</rt></ruby>と<ruby>発言<rt>はつげん</rt></ruby>』**【3】 — これでいいですか？」 <br/>*''Phase 4 quan tâm trần budget 15 triệu yên. Phát biểu sẽ xem xét lại sau quyết toán Q3'' — vậy được chưa anh?* |
 | **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>・フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>にも<ruby>共有<rt>きょうゆう</rt></ruby>して。<ruby>明朝<rt>みょうちょう</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>メールにこの context <ruby>入<rt>い</rt></ruby>れる。」 <br/>*Hoàn hảo. Em chia sẻ cho cả anh Tuấn + chị Hương phó phòng. Mail cảm ơn sáng mai sẽ nhét bối cảnh này vào.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**24時間ルール** — não người quên 70% bối cảnh sau 24h. Nhập trong cùng ngày = giữ chi tiết. Sau 3 ngày = chỉ còn chung chung.
 - 【2】**Ghi chú bối cảnh 1 dòng/người** — không cần dài. Công thức: "chủ đề họ quan tâm + câu nói đặc trưng họ nói + việc tiếp theo nào". Đủ để 6 tháng sau gặp lại = nhớ ngay bối cảnh.
 - 【3】**Câu trích dẫn cụ thể** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp email tiếp theo dẫn lại đúng = chứng minh "tôi nghe và nhớ".
@@ -541,7 +548,7 @@ Tối cùng ngày sự kiện 大垣 + 松本 + 中村 đến thăm, Dũng yêu 
 | 共有 | きょうゆう | CỘNG HỮU | Chia sẻ |
 | 締切 | しめきり | — | Hạn chót |
 | 曖昧 | あいまい | ÁI MUỘI | Mơ hồ |
-| 関心事 | かんしんごと | QUAN TÂM SỰ | Vấn đề quan tâm |', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 関心事 | かんしんごと | QUAN TÂM SỰ | Vấn đề quan tâm |', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000008, 800000008, NULL, 'markdown_book', 'Rule 08 — Đón khách tại tiền sảnh / お出迎え', '# Rule 08 — Đón khách tại tiền sảnh / お出迎え
 > **Luận điểm.** Đón khách Nhật = **đứng đợi tại tiền sảnh tối thiểu 5 phút trước giờ hẹn**, lễ tân được dặn trước (báo cả nhóm ngay khi khách đến), cả nhóm **đứng dậy cúi chào đón** ngay khi thấy khách bước vào. Khách Nhật bước vào tiền sảnh thấy mình **đang ngồi xem điện thoại** = mất 30% thiện cảm.
 >
@@ -583,7 +590,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **大垣** | 「お<ruby>世話<rt>せわ</rt></ruby>になります。」 <br/>*Cảm ơn anh.* |
 | **ズン** | 「**<ruby>会議室<rt>かいぎしつ</rt></ruby>は3<ruby>階<rt>かい</rt></ruby>でございます。ご<ruby>案内<rt>あんない</rt></ruby>いたします**【4】。」 <br/>*Phòng họp ở tầng 3 ạ. Em xin phép dẫn các anh lên.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Dặn lễ tân TRƯỚC** — tên cty + số người + giờ. Lễ tân không bị bất ngờ, không hỏi lại khách "anh hẹn ai?".
 - 【2】**「すぐ私の内線へ」** — lễ tân chuyển ngay đến nội bộ nhóm. Dũng có thể đang nghe điện ở tầng trên vẫn xuống kịp 30 giây.
 - 【3】**「ようこそお越しくださいました」** — câu cố định đón khách. Trang trọng hơn 「いらっしゃいませ」(dùng cho bán lẻ).
@@ -618,11 +625,11 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 受付 | うけつけ | THỤ PHÓ | Lễ tân |
 | ご一行 | ごいっこう | NHẤT HÀNH | Đoàn |
 | 待機 | たいき | ĐÃI CƠ | Chờ / sẵn sàng |
-| お見えになる | おみえになる | — | (kính ngữ của 来る) Đến |', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| お見えになる | おみえになる | — | (kính ngữ của 来る) Đến |', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000009, 800000008, NULL, 'markdown_book', 'Rule 09 — Hướng dẫn vào phòng họp / 会議室へのご案内', '# Rule 09 — Hướng dẫn vào phòng họp / 会議室へのご案内
-> **Luận điểm.** Dẫn khách đi = **đi trước 1-2 bước phía trước-bên trái** (chỉ đường) + **không bao giờ quay lưng** + chỉ tay mở cửa cho khách vào trước. Ở thang máy: bấm nút giữ + để khách vào trước + mình vào sau, đứng cạnh bảng điều khiển.
+> **Luận điểm.** Dẫn khách đi = **đi trước 1-2 bước phía trước-bên trái** (chỉ đường) + **không bao giờ quay lưng** + chỉ tay mở cửa cho khách vào trước. Ở thang máy phải tách **hai trường hợp**: thang **trống** → mình nói 「失礼します」 **vào trước**, đứng bảng điều khiển giữ nút 開 rồi mời khách vào; thang **đã có người** → để khách vào trước, mình vào sau. Cả hai trường hợp: **khách ra trước, mình ra sau cùng**.
 >
-> 案内は『前1-2歩・斜め左前・背中見せず・ドア手を添えて先に通す』。エレベーターは操作盤側に立って客を先に。
+> 案内は『前1-2歩・斜め左前・背中見せず・ドア手を添えて先に通す』。エレベーターは空なら「失礼します」と先に乗り操作盤で開を押す、先客がいれば客を先に。降りるときは必ず客が先。
 >
 > **Liên quan:** rule 08 (お出迎え), rule 10 (上座), rule 13 (お見送り — trình tự ngược).
 
@@ -661,9 +668,9 @@ Sau khi cúi chào đón tại tiền sảnh (rule 08), Dũng dẫn 3 khách 大
 | **ズン** | 「**3階に<ruby>到着<rt>とうちゃく</rt></ruby>いたしました。お先にどうぞ**。」 <br/>*Đã đến rồi ạ. Mời các anh ra trước.* |
 | **ズン** | 「**<ruby>会議室<rt>かいぎしつ</rt></ruby>はこちらでございます**【4】。」 <br/>*Phòng họp ở đây ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「こちらへどうぞ」** — câu chuẩn dẫn đường. Tay phải mở 90° chỉ hướng.
-- 【2】**「お先にどうぞ」** — khi vào thang máy / cửa: khách trước, mình sau. Đảo ngược khi RA THANG = mình giữ nút, khách ra trước (an toàn — không kẹt cửa).
+- 【2】**Thang trống thì mình vào trước** — nói 「失礼します」 rồi bước vào, đứng ngay bảng điều khiển giữ nút 開, sau đó mời khách 「どうぞ」. Lý do: người cấp dưới lo phần thao tác nút, để cấp trên/khách không phải đụng tay. **Chỉ khi thang đã có người** mới để khách vào trước (vì lúc đó đã có người đứng bảng nút). Ở CỬA PHÒNG thì luôn là khách trước. Khi RA THANG: mình giữ nút, khách ra trước.
 - 【3】**Đứng cạnh bảng nút** — bên chủ nhà trong thang máy luôn đứng cạnh nút để bấm tầng + giữ mở. Khách đứng phía trong (上座 trong thang máy = góc xa cửa).
 - 【4】**Mở cửa phòng giữ** — gõ nhẹ 2 lần (kể cả phòng trống) → mở → giữ cửa cho 3 khách vào trước → mình vào sau cùng → đóng cửa.
 
@@ -681,7 +688,7 @@ Sau khi cúi chào đón tại tiền sảnh (rule 08), Dũng dẫn 3 khách 大
 - Vào thang máy / phòng **trước khách** → chiếm chỗ (trừ trường hợp ra thang — bên chủ nhà ra sau)
 - **Quay lưng** đi nhanh → khách rớt phía sau
 - Đứng **giữa** thang máy / chắn cửa → đứng cạnh bảng nút
-- **Không gõ cửa** phòng họp dù phòng trống → luôn gõ 2 lần
+- **Không gõ cửa** phòng họp dù phòng trống → luôn gõ 3 lần
 - Mở cửa rồi **bước vào trước** khách → giữ cửa, khách vào trước
 - **Im lặng** suốt đường đi → có thể chêm "thời tiết" / "Tokyo はいかがでしたか" trò chuyện phiến nhẹ
 
@@ -697,7 +704,7 @@ Sau khi cúi chào đón tại tiền sảnh (rule 08), Dũng dẫn 3 khách 大
 | 会議室 | かいぎしつ | HỘI NGHỊ THẤT | Phòng họp |
 | 廊下 | ろうか | LANG HẠ | Hành lang |
 | ノック | ノック | — | Gõ cửa |
-| 参る | まいる | THAM | (khiêm nhường của 行く) Đi |', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 参る | まいる | THAM | (khiêm nhường của 行く) Đi |', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000010, 800000008, NULL, 'markdown_book', 'Rule 10 — Vị trí ngồi (kamiza/shimoza) / 上座・下座', '# Rule 10 — Vị trí ngồi (kamiza/shimoza) / 上座・下座
 > **Luận điểm.** **Khách ngồi 上座 (kamiza — chỗ trang trọng, xa cửa nhất, lưng dựa tường)**, **chủ ngồi 下座 (shimoza — gần cửa, giữa khách và cửa ra vào)**. Trong đoàn khách, **người cấp cao nhất ngồi 上座 trung tâm**, các người khác bậc thang giảm dần. Mời sai chỗ = "tôi không biết anh là cấp trên" = mất thể diện.
 >
@@ -747,7 +754,7 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 | **大垣 + 松本** | *(ngồi)* |
 | **ズン + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + リン**【3】 | 「失礼いたします。」 <br/>*Em xin phép ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「お掛けください」** > 「座ってください」— kính ngữ ngồi, dùng cho khách. Tay phải mở 90° chỉ rõ ghế nào.
 - 【2】**Cấp trên ngồi trung tâm 上座** — Nakamura CFO cao nhất → ghế giữa dãy 上座. Ōgaki (部長) bên phải Nakamura (vị trí thứ 2). Matsumoto (PM) bên trái (vị trí thứ 3). Quy tắc: nhìn từ kamiza, **bên phải > bên trái** về độ trang trọng.
 - 【3】**Ghế đối xứng giữa hai bên** — bên 下座: cấp trên bên mình (Hương 副部長) ngồi đối diện cấp trên bên khách (Nakamura). Khi nói chuyện = cùng cấp dễ trao đổi.
@@ -781,7 +788,7 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 | 出入口 | でいりぐち | XUẤT NHẬP KHẨU | Cửa ra vào |
 | 壁背 | かべせ | BÍCH BỐI | Lưng dựa tường |
 | 座席 | ざせき | TỌA TỊCH | Chỗ ngồi |
-| 配置 | はいち | PHỐI TRÍ | Bố trí |', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 配置 | はいち | PHỐI TRÍ | Bố trí |', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000011, 800000008, NULL, 'markdown_book', 'Rule 11 — Pha trà / mời nước / お茶のお出し方', '# Rule 11 — Pha trà / mời nước / お茶のお出し方
 > **Luận điểm.** Trà ra **trong 5 phút** sau khi khách ngồi. Thứ tự: **cấp cao bên khách trước → nhân viên trẻ bên khách → cấp cao bên mình → nhân viên trẻ bên mình**. Đặt cốc **bên phải khách** (không chắn tầm nhìn). Trà nóng cho người cấp cao, lựa chọn (nóng/lạnh) hỏi trước nếu mùa hè HCMC.
 >
@@ -822,7 +829,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (thực tập sinh, phụ trách 
 | **リン**【3】 | *(im lặng đặt từng cốc theo thứ tự)* <br/>*(tiếp theo phục vụ Ōgaki → Matsumoto → Hương → Dũng → Tuấn theo thứ tự)* |
 | **リン** | 「**ごゆっくりどうぞ**【4】。」 <br/>*Mời các anh thưởng thức ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「失礼いたします」** — câu cố định khi vào phòng họp đang diễn ra. Dù mình là nhân viên phục vụ cũng nói (KHÔNG im lặng vào bê trà).
 - 【2】**Đặt bên phải, 2 tay** — bên phải khách (= tay uống). 2 tay đỡ đáy cốc đặt nhẹ. KHÔNG thả cao 5cm trên bàn (tiếng "cốp").
 - 【3】**Thứ tự chuẩn**: người cấp cao bên khách (trung tâm) → khách phải → khách trái → cấp trên bên mình (副部長) → nhân viên trẻ bên mình. Tổng thời gian ~ 90 giây cho 6 cốc.
@@ -858,7 +865,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (thực tập sinh, phụ trách 
 | 失礼いたします | しつれいいたします | THẤT LỄ | Xin phép (vào/ra phòng) |
 | 着席 | ちゃくせき | TRƯỚC TỊCH | Ngồi xuống |
 | 順番 | じゅんばん | THUẬN PHIÊN | Thứ tự |
-| 右側 | みぎがわ | HỮU TRẮC | Bên phải |', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 右側 | みぎがわ | HỮU TRẮC | Bên phải |', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000012, 800000008, NULL, 'markdown_book', 'Rule 12 — Mở đầu cuộc họp trực tiếp / 対面会議の冒頭', '# Rule 12 — Mở đầu cuộc họp trực tiếp / 対面会議の冒頭
 > **Luận điểm.** Khác họp trực tuyến (sách 03 rule_09): họp trực tiếp mở đầu cần **(1) cảm ơn đã đến tận nơi (2) xác nhận thời lượng + chương trình họp giấy (3) màn giới thiệu vòng tròn nếu có người mới (4) đặt quy ước trà/giải lao/điện thoại (5) nói chậm hơn 10% so với họp trực tuyến**. Khách Nhật bay 5h đến HCMC = mệt + lệch múi giờ = trách nhiệm bên chủ nhà là làm họ thoải mái trong 5 phút đầu.
 >
@@ -901,7 +908,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **フオン副部長** | 「**お<ruby>茶<rt>ちゃ</rt></ruby>のお<ruby>代<rt>か</rt></ruby>わり、お<ruby>手洗<rt>てあら</rt></ruby>い、いつでもお<ruby>申<rt>もう</rt></ruby>し<ruby>付<rt>つ</rt></ruby>けください。<ruby>携帯<rt>けいたい</rt></ruby>はマナーモードでお<ruby>願<rt>ねが</rt></ruby>いいたします**【4】。」 <br/>*Trà châm thêm, WC, lúc nào các anh cần cứ nói ạ. Mong các anh để điện thoại chế độ im lặng giúp em.* |
 | **フオン副部長** | 「では、<ruby>最初<rt>さいしょ</rt></ruby>のトピック『Phase 3 スコープ<ruby>確認<rt>かくにん</rt></ruby>』に<ruby>入<rt>はい</rt></ruby>らせていただきます。」 <br/>*Vậy em xin phép vào chủ đề đầu ''Xác nhận phạm vi Phase 3'' ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**長旅謝辞 (cảm ơn đường xa)** — bay 12h đến cần được ghi nhận. Câu mẫu: 「お忙しい中、また長旅の中、HCMCまでお越しいただき、誠にありがとうございます」.
 - 【2】**Chương trình họp giấy** — không phải chỉ PDF. In sẵn 1 bản/người đặt trên bàn từ 9:30. Khách Nhật quen ghi chú bằng tay.
 - 【3】**Giới thiệu vòng tròn khi có người mới** — Linh là thực tập sinh lần đầu, màn giới thiệu vòng tròn giúp khách khớp "tên + mặt + vai trò" cho mọi người. Mỗi người 30 giây.
@@ -940,7 +947,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | お申し付けください | おもうしつけください | — | Mong anh nói (kính ngữ) |
 | マナーモード | マナーモード | — | Chế độ im lặng |
 | 自己紹介 | じこしょうかい | TỰ KỶ THIỆU GIỚI | Tự giới thiệu |
-| スコープ | スコープ | — | Phạm vi |', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| スコープ | スコープ | — | Phạm vi |', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000013, 800000008, NULL, 'markdown_book', 'Rule 13 — Kết thúc + tiễn khách / お見送り', '# Rule 13 — Kết thúc + tiễn khách / お見送り
 > **Luận điểm.** Tiễn khách = **đi cùng đến tiền sảnh/cửa thang máy/cửa taxi tùy mức trọng** + **đứng đợi cho đến khi cửa thang máy đóng / xe đi khuất** + **cúi chào 45° cuối**. Không tiễn (chào tạm biệt tại phòng họp) = "tôi xong với anh rồi". Tiễn ngắn (đến cửa thôi) = thiếu trọng lượng cho khách cấp lãnh đạo (C-level).
 >
@@ -988,7 +995,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **大垣 + <ruby>中村<rt>なかむら</rt></ruby> + <ruby>松本<rt>まつもと</rt></ruby>** | 「ありがとうございました。」 <br/>*Cảm ơn các bạn.* |
 | **フオン副部長 + ズン + リン** | 「**本日は誠にありがとうございました。お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>帰<rt>かえ</rt></ruby>りくださいませ**【4】。」 <br/>*Hôm nay em chân thành cảm ơn ạ. Mong các anh về cẩn thận ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「お見送りさせていただきます」** — câu cố định khi đề nghị tiễn. KHÔNG dùng 「送ります」(quá suồng sã).
 - 【2】**Taxi đặt sẵn** — bên chủ nhà trách nhiệm. Khách Nhật không tự bắt Grab. Đặt trước 15 phút bằng app công ty hoặc taxi của khách sạn.
 - 【3】**Đợi xe khuất tầm mắt** — không phải đợi xe khởi hành rồi quay vào ngay. Đợi 5-10 giây cho đến khi xe **rẽ khuất** mới được đứng thẳng. Khách Nhật quay lại vẫy = mình vẫy lại được.
@@ -1023,7 +1030,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | お車 | おくるま | XA | Xe (kính ngữ) |
 | ご用意 | ごようい | DỤNG Ý | Chuẩn bị (kính ngữ) |
 | お気をつけて | おきをつけて | — | Đi cẩn thận (kính ngữ) |
-| 恐縮 | きょうしゅく | KHỦNG XÚC | Thật ngại / quá lịch sự |', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 恐縮 | きょうしゅく | KHỦNG XÚC | Thật ngại / quá lịch sự |', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000014, 800000008, NULL, 'markdown_book', 'Rule 14 — Chăm sóc sau khi tiếp (theo dõi) / アフターケア', '# Rule 14 — Chăm sóc sau khi tiếp (theo dõi) / アフターケア
 > **Luận điểm.** Trong **24 giờ** sau buổi thăm: gửi email cảm ơn từ cấp trên bên chủ nhà (Hương 副部長 hoặc CTO Hà), nhắc lại **3 yếu tố cụ thể từ buổi họp** (1 câu trích dẫn của cấp trên + 1 hành động cụ thể + 1 ghi chú cá nhân), kèm **biên bản họp + tài liệu trình chiếu** đính kèm. Email sáo rỗng 1 dòng = buổi thăm không "đậm". Email đầy ngữ cảnh = xây dựng được quan hệ.
 >
@@ -1063,7 +1070,7 @@ Sáng hôm sau buổi thăm (ngày D+1, 9:00). Linh đã làm xong ghi chú 24h 
 | **フオン副部長** | 「<ruby>私<rt>わたし</rt></ruby>の<ruby>名義<rt>めいぎ</rt></ruby>で送って。<ruby>署名<rt>しょめい</rt></ruby>は **副部長フオン**【2】。リンの名前は『<ruby>資料<rt>しりょう</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>: リン』で本文に<ruby>明記<rt>めいき</rt></ruby>【3】。」 <br/>*Gửi tên chị nhé. Chữ ký ''副部長 Hương''. Tên Linh ghi rõ trong body ''Tài liệu: Linh''.* |
 | **リン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。9:30 までに<ruby>送信<rt>そうしん</rt></ruby>いたします。」 <br/>*Em rõ ạ. Trước 9:30 em sẽ gửi.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**3要素必須** — câu trích dẫn + hành động + ghi chú cá nhân. Trích dẫn = chứng minh "tôi nghe và nhớ". Hành động = chuyển sang việc tiếp nối cụ thể. Ghi chú cá nhân = xây dựng quan hệ (tránh kiểu chỉ phản hồi nội dung họp đơn thuần).
 - 【2】**Senior 名義で送る** — email từ Hương (副部長) > từ Linh (thực tập sinh). Khách Nhật đánh giá trọng lượng email theo cấp người gửi.
 - 【3】**Linh được ghi tên trong body** — người làm thực sự là Linh nhưng cấp trên đứng tên gửi → ghi "資料作成: リン" để khách nhận diện được Linh (tạo nền cho lần gặp sau).
@@ -1098,7 +1105,7 @@ Sáng hôm sau buổi thăm (ngày D+1, 9:00). Linh đã làm xong ghi chú 24h 
 | 添付 | てんぷ | THIÊM PHÓ | Đính kèm |
 | 署名 | しょめい | THỰ DANH | Chữ ký (mail) |
 | 名義 | めいぎ | DANH NGHĨA | Tên đại diện |
-| キックオフ | キックオフ | — | Khởi động (buổi họp mở đầu dự án) |', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| キックオフ | キックオフ | — | Khởi động (buổi họp mở đầu dự án) |', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000015, 800000008, NULL, 'markdown_book', 'Rule 15 — Khách đến sớm / muộn / 早退・遅刻対応', '# Rule 15 — Khách đến sớm / muộn / 早退・遅刻対応
 > **Luận điểm.** Khách đến **sớm 15+ phút**: dẫn vào phòng chờ ngay (không bắt đợi sảnh), trà ra trong 3 phút, báo nhanh cấp trên qua Slack. Khách đến **muộn 10+ phút**: gọi xác nhận tình hình 1 lần, KHÔNG hối thúc, vẫn giữ giọng niềm nở khi đến + KHÔNG đề cập "anh trễ". Linh hoạt = dấu hiệu người tiếp đón trưởng thành. "Anh muộn 15 phút rồi nha" = quan hệ hỏng.
 >
@@ -1161,7 +1168,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **大垣** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません…」 <br/>*Xin lỗi em...* |
 | **ズン** | 「**ようこそお<ruby>越<rt>こ</rt></ruby>しくださいました**【6】。お<ruby>疲<rt>つか</rt></ruby>れさまでございます。<ruby>会議室<rt>かいぎしつ</rt></ruby>にご<ruby>案内<rt>あんない</rt></ruby>いたします。」 <br/>*Hân hạnh được đón anh ạ. Anh vất vả ạ. Em xin phép dẫn anh vào phòng họp.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Sớm 15+ phút** → đón vào phòng chờ NGAY, KHÔNG bắt đợi ở sảnh. Câu chuẩn: 「会議室の準備はできておりますので、よろしければ先にお通しいたします」.
 - 【2】**Trà ra trong 3 phút** với khách sớm. Đợi cấp trên xuống là việc của người tiếp đón, KHÔNG để khách đứng đợi.
 - 【3】**Báo Slack cho cấp trên** ngay khi xử lý xong = cấp trên biết để xuống sớm hoặc sắp xếp lại lịch nội bộ.
@@ -1198,7 +1205,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 渋滞 | じゅうたい | SÁP TRỆ | Tắc đường |
 | ご無事 | ごぶじ | VÔ SỰ | An toàn (kính ngữ) |
 | 整う | ととのう | CHỈNH | Đã sẵn sàng |
-| 何かございましたか | なにかございましたか | — | Có chuyện gì không ạ (kính ngữ) |', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 何かございましたか | なにかございましたか | — | Có chuyện gì không ạ (kính ngữ) |', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000016, 800000008, NULL, 'markdown_book', 'Rule 16 — Chuẩn bị trước khi đi công tác / 訪問前の準備', '# Rule 16 — Chuẩn bị trước khi đi công tác / 訪問前の準備
 > **Luận điểm.** Chuyến công tác Nhật chuẩn bị **5 mục** trước 24h: (1) Xác nhận với 担当者 qua mail (giờ + địa chỉ + người đi cùng) (2) Dress code: suit đậm + cravate (3) Tuyến đường + thời gian dự phòng 30 phút (Tokyo subway phức tạp + giờ cao điểm) (4) IC card / tiền mặt 1 man yen (5) Omiyage VN (rule 28). Xác nhận muộn 24h = không có cảm giác cấp bách.
 >
@@ -1239,8 +1246,8 @@ Dũng + Tuấn lần đầu đi công tác Tokyo cho 白鷗 office tại Shinjuk
 | **トゥアン** | 「**『10<ruby>時<rt>じ</rt></ruby>にロビーでお<ruby>迎<rt>むか</rt></ruby>えします』** とのこと。<ruby>受付<rt>うけつけ</rt></ruby>で『<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby> <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>のティエンファットのトゥアンとズンです』と<ruby>申告<rt>しんこく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。」 <br/>*Anh ấy nói ''10h sẽ ra đón ở sảnh''. Em sẽ trình lễ tân: ''Hẹn anh Tanaka Cty 白鷗, em là Tuấn và Dũng bên Tiên Phát''.* |
 | **ズン** | 「OK。<ruby>明朝<rt>みょうちょう</rt></ruby> 9:00 ホテル ロビー<ruby>集合<rt>しゅうごう</rt></ruby>。」 <br/>*OK. Sáng mai 9:00 tập trung sảnh khách sạn.* |
 
- **Ghi chú:**
-- 【1】**24h前確認メール** — xác nhận: 時間/人数/場所/agenda。Format: 「明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名でお伺いいたします。受付対応のご手配をお願いいたします」.
+📝 **Ghi chú:**
+- 【1】**24h前確認メール** — xác nhận: 時間/人数/場所/agenda。Format: 「明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名で伺います。受付対応のご手配をお願いいたします」.
 - 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: áo sơ mi màu / chỉ mặc áo vest / quần chinos.
 - 【3】**Tuyến đường + 30 phút dự phòng** — Tokyo subway giờ cao điểm trễ 5-15 phút thường. Tính tuyến đường + thêm 30 phút. Đến sảnh trước 5-10 phút (rule 17).
 - 【4】**IC card + tiền mặt** — Suica/Pasmo charge sẵn. Tiền mặt 1 man yen cho taxi khẩn cấp. Thẻ Visa nhiều shop nhỏ Tokyo không nhận.
@@ -1318,7 +1325,7 @@ Dũng + Tuấn lần đầu đi công tác Tokyo cho 白鷗 office tại Shinjuk
 | ICカード | ICカード | — | IC card (Suica/Pasmo) |
 | お土産 | おみやげ | — | Quà (omiyage) |
 | 濃紺 | のうこん | NỒNG LAM | Xanh đậm |
-| ネクタイ | ネクタイ | — | Cravate |', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| ネクタイ | ネクタイ | — | Cravate |', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000017, 800000008, NULL, 'markdown_book', 'Rule 17 — Đến sảnh 5-10 phút trước / 5-10分前到着', '# Rule 17 — Đến sảnh 5-10 phút trước / 5-10分前到着
 > **Luận điểm.** Đến sảnh tiếp đón **5-10 phút trước** giờ hẹn (KHÔNG sớm hơn, KHÔNG đúng giờ). Sớm 30 phút = bắt chủ nhà bất ngờ + phải tiếp sớm. Đúng giờ = muộn (vì lễ tân + tự xưng + nhận thẻ vào + đi thang máy = 5-10 phút). Quy tắc đối chiếu sách 03 rule_06 — "đúng giờ" trong văn hóa kinh doanh Nhật = đến trước 5-10 phút.
 >
@@ -1372,7 +1379,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 | **受付** | 「お待ちしておりました。8階<ruby>会議室<rt>かいぎしつ</rt></ruby>へどうぞ。田中も<ruby>間<rt>ま</rt></ruby>もなく<ruby>参<rt>まい</rt></ruby>ります。」 <br/>*Em đã đợi ạ. Mời các anh lên phòng họp tầng 8 ạ. Anh Tanaka cũng sắp đến.* |
 | **田中PMO** | 「ズンさん、トゥアンさん、ようこそ。」 <br/>*Anh Dũng, anh Tuấn, hân hạnh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**到着目標 9:55** — 5 phút trước hẹn 10:00. Tính ngược: lễ tân (2 phút) + thang máy (3 phút) = đến phòng đúng 10:00.
 - 【2】**Vào sảnh 9:54** — KHÔNG vào sớm hơn 10 phút. Nếu đến địa điểm sớm hơn → đứng ngoài cửa hoặc cafe gần đó để canh giờ. Vào sảnh 30 phút sớm = "tôi vô tổ chức".
 - 【3】**Tự xưng tại lễ tân** — chuyển sang rule 18.
@@ -1408,7 +1415,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 | 時間調整 | じかんちょうせい | THỜI GIAN ĐIỀU CHỈNH | Điều chỉnh thời gian |
 | 早すぎ | はやすぎ | — | Quá sớm |
 | 定刻 | ていこく | ĐỊNH KHẮC | Đúng giờ |
-| 実質 | じっしつ | THỰC CHẤT | Thực chất |', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 実質 | じっしつ | THỰC CHẤT | Thực chất |', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000018, 800000008, NULL, 'markdown_book', 'Rule 18 — Đăng ký vào tại lễ tân / 受付対応', '# Rule 18 — Đăng ký vào tại lễ tân / 受付対応
 > **Luận điểm.** Tại lễ tân khách Nhật, tự xưng **đầy đủ 4 yếu tố**: (1) Tên cty mình (2) Họ tên đầy đủ (3) Tên 担当者 muốn gặp (4) Lý do hẹn (giờ + chủ đề). Bow nhẹ 15° khi nói. KHÔNG hỏi "phòng số mấy" — lễ tân sẽ hướng dẫn. KHÔNG đi tìm thang máy tự ý — đợi lễ tân chỉ + ký nhận pass.
 >
@@ -1453,7 +1460,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **受付** | 「<ruby>会議室<rt>かいぎしつ</rt></ruby>は8<ruby>階<rt>かい</rt></ruby>の803<ruby>号室<rt>ごうしつ</rt></ruby>でございます。**エレベーターは<ruby>右奥<rt>みぎおく</rt></ruby>、<ruby>左側<rt>ひだりがわ</rt></ruby>を3<ruby>号機<rt>ごうき</rt></ruby>**【5】**でお<ruby>上<rt>あ</rt></ruby>がりください**。<ruby>田中<rt>たなか</rt></ruby>はすでにお<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*Phòng họp 803 tầng 8 ạ. Thang máy bên phải phía trong, các anh đi thang máy số 3 bên trái ạ. Anh Tanaka cũng đang đợi rồi ạ.* |
 | **ズン** | 「ありがとうございます。」 <br/>*Cảm ơn chị ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「おはようございます」** — câu chào lễ tân JP, KHÔNG「Hi」/「Hello」. Sau 11h chuyển sang「こんにちは」.
 - 【2】**社名+氏名先** — bắt đầu với "ティエンファットの…" để lễ tân biết bạn là ai.
 - 【3】**4 yếu tố trong 1 câu**: 時刻 (10時より) + 部署役職 (PMO部の田中様) + 用件 (お打ち合わせのお約束). Lễ tân không phải hỏi lại.
@@ -1491,7 +1498,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | お約束 | おやくそく | — | Hẹn (kính ngữ) |
 | サイン | サイン | — | Ký |
 | ご担当 | ごたんとう | — | Phụ trách (kính ngữ) |
-| お打ち合わせ | おうちあわせ | — | Buổi họp (kính ngữ) |', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| お打ち合わせ | おうちあわせ | — | Buổi họp (kính ngữ) |', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000019, 800000008, NULL, 'markdown_book', 'Rule 19 — Cởi áo khoác trước cửa phòng họp / コート脱ぎのタイミング', '# Rule 19 — Cởi áo khoác trước cửa phòng họp / コート脱ぎのタイミング
 > **Luận điểm.** Áo khoác / khăn quàng **cởi TRƯỚC khi vào tòa nhà** (hoặc trước cửa phòng họp ở tầng), cầm gấp gọn ở tay trái. KHÔNG cởi sau khi đã ngồi (= "tôi mệt + nóng"). Lý do văn hóa: áo khoác = "đường xa bụi bặm" → cởi ngoài = không mang bụi vào không gian khách. Quan trọng đặc biệt mùa đông Tokyo (tháng 12-2, ai cũng có áo khoác).
 >
@@ -1522,19 +1529,19 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ khách sạn mặc áo kh
 ---
 
 ## Hội thoại TỐT — cởi trước cửa, gấp tay trái
-*đến trước cửa 803, dừng 30 giây · cởi áo khoác + khăn quàng, gấp 2 lần, đặt trên cánh tay trái【2】 · gõ cửa 2 lần, đợi 2 giây · mở cửa · cúi chào 15° tại cửa, vào phòng, cầm áo khoác tay trái · treo áo khoác lên móc treo góc phòng*
+*đến trước cửa 803, dừng 30 giây · cởi áo khoác + khăn quàng, gấp 2 lần, đặt trên cánh tay trái【2】 · gõ cửa 3 lần, đợi 2 giây · mở cửa · cúi chào 15° tại cửa, vào phòng, cầm áo khoác tay trái · treo áo khoác lên móc treo góc phòng*
 
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「**コート<ruby>脱<rt>ぬ</rt></ruby>ごう**【1】。」 <br/>*Cởi áo nha.* |
 | **ズン + トゥアン** | *(im lặng)*【2】 <br/>*(gấp áo khoác + khăn quàng 2 lần, đặt lên cẳng tay trái)* |
-| **ズン** | *(コン コン)* <br/>*(gõ cửa 2 lần)* |
+| **ズン** | *(コン コン)* <br/>*(gõ cửa 3 lần)* |
 | **田中PMO** | 「どうぞ。」 <br/>*Mời vào.* |
 | **ズン + トゥアン**【3】 | 「**<ruby>失礼<rt>しつれい</rt></ruby>いたします**。」 <br/>*Em xin phép ạ.* |
 | **田中PMO** | 「コート、こちらの ハンガーへどうぞ。」 <br/>*Áo khoác, mời các anh treo móc bên này ạ.* |
 | **ズン** | 「ありがとうございます。」 <br/>*Cảm ơn anh ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Cởi trước cửa phòng họp** — KHÔNG sau khi ngồi. Tốt nhất: cởi ngay trước cửa tòa nhà (nếu sảnh ấm) hoặc cửa phòng họp (nếu hành lang lạnh).
 - 【2】**Gấp 2 lần, tay trái** — gấp úp vào trong (mặt ngoài giấu vào trong, mặt trong lộ ra). Đặt trên cẳng tay trái (tay phải sẵn sàng cúi chào / nhận danh thiếp / mở cửa).
 - 【3】**Cầm áo khoác lúc cúi chào** — áo khoác đã ở tay trái = cúi chào / bắt tay / mở cửa = tay phải tự do. Vào phòng không lúng túng.
@@ -1569,7 +1576,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ khách sạn mặc áo kh
 | 左腕 | ひだりうで | TẢ UYỂN | Cẳng tay trái |
 | ハンガー | ハンガー | — | Móc treo |
 | お預かり | おあずかり | — | Em xin giữ giúp (kính ngữ) |
-| 入室 | にゅうしつ | NHẬP THẤT | Vào phòng |', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 入室 | にゅうしつ | NHẬP THẤT | Vào phòng |', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000020, 800000008, NULL, 'markdown_book', 'Rule 20 — Ngồi đợi đúng cách / 待機マナー', '# Rule 20 — Ngồi đợi đúng cách / 待機マナー
 > **Luận điểm.** Đợi trong phòng họp khách Nhật **TRƯỚC khi cấp trên bên họ đến**: (1) **KHÔNG ngồi 上座** dù được mời "どこでもどうぞ" (2) **Đứng** đợi cho tới khi 担当者 chỉ ghế cụ thể (3) Nếu được dẫn vào sớm: ngồi **下座** (gần cửa) (4) **KHÔNG sờ điện thoại** (5) **KHÔNG mở máy tính** trước khi cấp trên đến (6) Tay đặt trên gối, lưng thẳng. Sờ phone = "tôi không tôn trọng đợi anh".
 >
@@ -1612,7 +1619,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **中村CFO** | 「お<ruby>待<rt>ま</rt></ruby>たせいたしました、中村です。」 <br/>*Xin lỗi đã để các anh chờ, tôi là Nakamura.* |
 | **ズン + トゥアン** | 「**お<ruby>忙<rt>いそが</rt></ruby>しいところ、お<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>いたしまして<ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます**【4】。」 <br/>*Anh bận rộn mà dành thời gian cho em, em ngại quá ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「下座でお待ちいたします」** — chủ động báo "tôi sẽ ngồi 下座" = mượn câu này để KHÔNG bị mời nhầm 上座. Tanaka thấy = ấn tượng "nhân viên trẻ được đào tạo bài bản".
 - 【2】**Lưng thẳng, tay trên gối** — KHÔNG dựa lưng ghế. KHÔNG bắt chéo chân. Hai bàn tay đặt nhẹ trên gối hoặc trên bàn.
 - 【3】**Điện thoại + máy tính đều tắt** — điện thoại để chế độ rung, cất trong túi. Máy tính trong cặp. Đợi cấp trên đến, mở máy tính CHỈ khi được mời "資料ご準備ください".
@@ -1649,11 +1656,11 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 姿勢 | しせい | TƯ THẾ | Tư thế |
 | お時間頂戴 | おじかんちょうだい | — | Xin được dành thời gian |
 | 恐縮 | きょうしゅく | KHỦNG XÚC | Thật ngại / quá lịch sự |
-| 間もなく | まもなく | — | Sắp đến |', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 間もなく | まもなく | — | Sắp đến |', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000021, 800000008, NULL, 'markdown_book', 'Rule 21 — Vào phòng họp với chủ nhà / 入室マナー', '# Rule 21 — Vào phòng họp với chủ nhà / 入室マナー
-> **Luận điểm.** Vào phòng họp = nghi lễ 4 bước: (1) **Gõ cửa 2 lần** (kể cả cửa mở) (2) Đợi 「どうぞ」 + 2 giây (3) Mở cửa, đứng tại ngưỡng, **cúi chào 15°** + 「**失礼いたします**」 (4) Bước vào, đóng cửa nhẹ (KHÔNG quay lưng đóng — xoay 1/4 đóng bằng tay sau lưng). Bỏ bước = "đột nhập".
+> **Luận điểm.** Vào phòng họp = nghi lễ 4 bước: (1) **Gõ cửa 3 lần** (kể cả cửa mở) (2) Đợi 「どうぞ」 + 2 giây (3) Mở cửa, đứng tại ngưỡng, **cúi chào 15°** + 「**失礼いたします**」 (4) Bước vào, đóng cửa nhẹ (KHÔNG quay lưng, cũng KHÔNG đóng bằng tay sau lưng — xoay người chếch, đặt tay lên mặt cửa). Bỏ bước = "đột nhập".
 >
-> 入室は『2回ノック・"どうぞ"+2秒待機・15度お辞儀+"失礼いたします"・後ろ手で静かに閉扉』の4ステップ。
+> 入室は『3回ノック・"どうぞ"+2秒待機・15度お辞儀+"失礼いたします"・体を斜めにして静かに閉扉』の4ステップ。
 >
 > **Liên quan:** rule 19 (コート), rule 20 (待機), rule 23 (退室).
 
@@ -1680,39 +1687,39 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ---
 
 ## Hội thoại TỐT — 4 bước nghi lễ
-*đến cửa · gõ 2 lần nhẹ, đợi 2 giây · từ trong · mở cửa, đứng tại ngưỡng, cúi chào 15° · theo sau, cúi chào 15°, vào trong · đóng cửa: xoay 1/4 chứ KHÔNG quay lưng, tay sau lưng đẩy nhẹ cửa · bước đến gần bàn, cúi chào 30°*
+*đến cửa · gõ 3 lần nhẹ, đợi 2 giây · từ trong · mở cửa, đứng tại ngưỡng, cúi chào 15° · theo sau, cúi chào 15°, vào trong · đóng cửa: xoay người chếch về phía cửa, đặt tay lên mặt cửa đóng nhẹ (KHÔNG quay lưng, KHÔNG dùng tay sau lưng) · bước đến gần bàn, cúi chào 30°*
 
 | Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「どうぞ、お<ruby>入<rt>はい</rt></ruby>りください。」 <br/>*Mời các anh vào.* |
-| **ズン**【1】 | *(コン コン — 2<ruby>回<rt>かい</rt></ruby>ノック、2<ruby>秒<rt>びょう</rt></ruby><ruby>待機<rt>たいき</rt></ruby>)* <br/>*(cốc cốc — gõ 2 lần, đợi 2 giây)* |
+| **ズン**【1】 | *(コン コン コン — 3<ruby>回<rt>かい</rt></ruby>ノック、2<ruby>秒<rt>びょう</rt></ruby><ruby>待機<rt>たいき</rt></ruby>)* <br/>*(cốc cốc cốc — gõ 3 lần, đợi 2 giây)* |
 | **中村CFO** | 「どうぞ。」 <br/>*Mời vào.* |
 | **ズン**【2】 | 「**<ruby>失礼<rt>しつれい</rt></ruby>いたします**【3】。ティエンファットのズンと<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Em xin phép ạ. Em là Dũng bên Cty Tiên Phát.* |
 | **トゥアン** | 「**失礼いたします**。<ruby>技術<rt>ぎじゅつ</rt></ruby>リーダーのトゥアンと申します。」 <br/>*Em xin phép ạ. Em là Tuấn, Tech Lead.* |
-| **ズン**【4】 | *(1/4<ruby>回転<rt>かいてん</rt></ruby>、<ruby>後<rt>うし</rt></ruby>ろ<ruby>手<rt>で</rt></ruby>で<ruby>扉<rt>とびら</rt></ruby>を<ruby>音<rt>おと</rt></ruby><ruby>無<rt>な</rt></ruby>し<ruby>閉<rt>し</rt></ruby>め)* <br/>*(xoay 1/4, tay sau lưng đóng cửa không tiếng)* |
+| **ズン**【4】 | *(<ruby>体<rt>からだ</rt></ruby>を<ruby>斜<rt>なな</rt></ruby>めに、<ruby>扉<rt>とびら</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>添<rt>そ</rt></ruby>えて<ruby>音<rt>おと</rt></ruby><ruby>無<rt>な</rt></ruby>し<ruby>閉<rt>し</rt></ruby>め)* <br/>*(xoay người chếch, tay đặt lên mặt cửa, đóng không tiếng)* |
 | **中村CFO** | 「お入りください。<ruby>中村<rt>なかむら</rt></ruby>です。」 <br/>*Mời các anh vào. Tôi là Nakamura.* |
 | **ズン + トゥアン** | 「お<ruby>忙<rt>いそが</rt></ruby>しいところ、お<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>いたしまして<ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます。」 <br/>*Anh bận rộn dành thời gian, em ngại quá ạ.* |
 
- **Ghi chú:**
-- 【1】**Gõ 2 lần** — chuẩn nghi thức Nhật. 3 lần = kiểu gõ cửa WC, 1 lần = thân mật. Nhẹ nhàng. Đợi 2 giây sau gõ trước khi mở.
+📝 **Ghi chú:**
+- 【1】**Gõ 3 lần** — chuẩn business Nhật. **2 lần = quy ước kiểm phòng trống (nhà vệ sinh)**, 1 lần = thân mật. Môi trường quốc tế/ngoại quốc có nơi dùng 4 lần. Nhẹ nhàng. Đợi 2 giây sau gõ trước khi mở.
 - 【2】**Đứng tại ngưỡng cúi chào 15°** — chân chưa bước qua ngưỡng, mở cửa, cúi chào. KHÔNG vừa đi vừa cúi chào.
 - 【3】**「失礼いたします」** — câu cố định vào phòng. KHÔNG「Hi」/「すみません」/「こんにちは」.
-- 【4】**Đóng cửa không quay lưng** — xoay 1/4 (mặt vẫn hơi nhìn trong phòng), tay phải hoặc trái sau lưng đẩy nhẹ cửa. Nếu chỗ chật xoay không được = quay xong xoay lại cúi chào nhẹ với phòng.
+- 【4】**Đóng cửa: xoay người chếch, tay đặt lên mặt cửa** — **đóng bằng tay sau lưng (後ろ手) là lỗi bị nêu đích danh trong tài liệu nghi thức Nhật**. Cách đúng: xoay người chếch về phía cửa (mặt vẫn hơi hướng vào phòng), một tay nắm tay cầm, tay kia đặt lên mặt cửa, đóng chậm không tiếng.
 
 ---
 
 ## Cụm từ mẫu
-> **「入室は『2回ノック・"失礼いたします"・15度お辞儀・後ろ手で静かに閉扉』の4ステップ。」**
+> **「入室は『3回ノック・"失礼いたします"・15度お辞儀・体を斜めにして静かに閉扉』の4ステップ。」**
 >
-> *Vào phòng = gõ 2 lần / "失礼いたします" / cúi chào 15° / đóng cửa không quay lưng.*
+> *Vào phòng = gõ 3 lần / "失礼いたします" / cúi chào 15° / đóng cửa không quay lưng.*
 
 ---
 
 ## Tránh
-- **Không gõ cửa** dù cửa mở → vẫn gõ 2 lần
+- **Không gõ cửa** dù cửa mở → vẫn gõ 3 lần
 - "**Hi**" / "**こんにちは**" / "**すみません**" → 「失礼いたします」 cố định
 - **Vừa đi vừa cúi chào** → đứng tại ngưỡng, cúi chào xong mới bước
-- Đóng cửa **quay lưng** + tiếng "**BANG**" → xoay 1/4, tay sau lưng, đóng nhẹ
+- Đóng cửa **quay lưng** hoặc **đóng bằng tay sau lưng (後ろ手)** → cả hai đều sai; xoay người chếch, tay đặt lên mặt cửa, đóng nhẹ
 - Vào phòng **mở điện thoại/máy tính ngay** → đứng đợi cấp trên chỉ chỗ ngồi rồi mới ngồi (rule 10)
 - **Không cúi chào khi cấp trên trong phòng** → cúi chào 30° khi nói câu chào CFO
 
@@ -1725,10 +1732,10 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | ノック | ノック | — | Gõ cửa |
 | 失礼いたします | しつれいいたします | — | Xin phép |
 | 閉扉 | へいひ | BẾ PHI | Đóng cửa |
-| 後ろ手 | うしろで | — | Tay sau lưng |
+| 斜めに構える | ななめにかまえる | — | Xoay người chếch (khi đóng cửa) |
 | 敷居 | しきい | PHỦ CƯ | Ngưỡng cửa |
 | 静かに | しずかに | — | Im lặng / nhẹ nhàng |
-| お入りください | おはいりください | — | Mời vào (kính ngữ) |', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| お入りください | おはいりください | — | Mời vào (kính ngữ) |', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000022, 800000008, NULL, 'markdown_book', 'Rule 22 — Đi quanh văn phòng / nhà máy / 工場・社内案内', '# Rule 22 — Đi quanh văn phòng / nhà máy / 工場・社内案内
 > **Luận điểm.** Khi được dẫn tham quan văn phòng / nhà máy: **đi sau người dẫn 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / màn hình**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Chuyến tham quan thường có **NDA ngầm định** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + uy tín.
 >
@@ -1770,13 +1777,13 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** | 「**お<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってもよろしいでしょうか**【2】？team合影として<ruby>記念<rt>きねん</rt></ruby>に。」 <br/>*Em xin phép chụp ảnh được không ạ? Để làm kỷ niệm chung của team ạ.* |
 | **田中PMO** | 「team の<ruby>許可<rt>きょか</rt></ruby>も取りますね。…許可出ました。dev team <ruby>全体<rt>ぜんたい</rt></ruby>のみ、<ruby>個人<rt>こじん</rt></ruby>特定不可の<ruby>構図<rt>こうず</rt></ruby>でお願いします。」 <br/>*Để tôi hỏi team đã. ...OK rồi. Chỉ team toàn cảnh, bố cục không nhận diện cá nhân nhé.* |
 | **ズン** | 「ありがとうございます。」 <br/>*Cảm ơn anh ạ.* |
-| **田中PMO** | 「こちらは<ruby>別件<rt>べっけん</rt></ruby>のmeeting中で、お通りすぎいたしましょう。」 <br/>*Phòng này đang họp việc khác, mình đi qua thôi nhé.* |
+| **田中PMO** | 「こちらは<ruby>別件<rt>べっけん</rt></ruby>のmeeting中で、通り過ぎましょう。」 <br/>*Phòng này đang họp việc khác, mình đi qua thôi nhé.* |
 | **ズン + トゥアン**【3】 | *(im lặng đi qua)* <br/>*(im lặng theo Tanaka, không nhìn vào phòng kế)* |
 | **田中PMO** | 「こちらから新宿の<ruby>街並<rt>まちな</rt></ruby>みがご覧いただけます。」 <br/>*Từ đây các anh có thể ngắm phố Shinjuku.* |
 | **ズン** | 「**こちらの<ruby>景色<rt>けしき</rt></ruby>は<ruby>撮影<rt>さつえい</rt></ruby>してもよろしいでしょうか**【4】？<ruby>建物<rt>たてもの</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>を含む<ruby>可能性<rt>かのうせい</rt></ruby>があれば撮影しません。」 <br/>*Em xin phép chụp cảnh này có được không ạ? Nếu có thể chụp phải tòa khác thì em không chụp ạ.* |
 | **田中PMO** | 「景色だけでしたら問題ございません。」 <br/>*Cảnh thôi thì không sao ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Đi sau 1-2 bước** — KHÔNG đi ngang Tanaka. KHÔNG đi trước. Mắt quan sát nhưng tay không sờ thiết bị / màn hình / bảng trắng.
 - 【2】**「お写真を撮ってもよろしいでしょうか」** — câu cố định xin phép chụp. Nói rõ mục đích ("team合影"). Chờ bên tiếp đón đồng ý rõ ràng.
 - 【3】**Phòng cửa mở** — KHÔNG nhìn vào dù tò mò. Đi qua nhanh. Tanaka có thể nói "通りすぎいたしましょう" (chúng ta đi qua thôi) = ngầm ý không vào.
@@ -1814,7 +1821,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 隣室 | りんしつ | LÂN THẤT | Phòng kế bên |
 | 立入禁止 | たちいりきんし | LẬP NHẬP CẤM CHỈ | Cấm vào |
 | 通りすぎる | とおりすぎる | — | Đi qua |
-| 構図 | こうず | CẤU ĐỒ | Bố cục (ảnh) |', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 構図 | こうず | CẤU ĐỒ | Bố cục (ảnh) |', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000023, 800000008, NULL, 'markdown_book', 'Rule 23 — Rời văn phòng trang trọng / 退室マナー', '# Rule 23 — Rời văn phòng trang trọng / 退室マナー
 > **Luận điểm.** Rời meeting không phải chỉ là "đứng dậy đi ra cửa". Bộ động tác rời phòng (退室) kiểu Nhật = **đứng dậy → cúi chào chính thức 30° → ra tới cửa quay lại cúi chào lần 2 → 「失礼いたします」**. Ấn tượng cuối cùng được khắc sâu nhất, đừng phá nó bằng việc ngồi luôn chào hay ôm cặp chạy nhanh.
 >
@@ -1856,7 +1863,7 @@ Trụ sở 白鷗 Tokyo, meeting + tham quan Phase 3 kickoff vừa xong lúc 12:
 | **トゥアンリーダー** | 「<ruby>失礼<rt>しつれい</rt></ruby>いたします。」【4】 <br/>*Em xin phép ạ.* |
 | **田中PMO** | 「お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>帰<rt>かえ</rt></ruby>りください。」 <br/>*Các anh về cẩn thận ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Đứng dậy hơi sau người tiếp hoặc cùng lúc** — cúi chào 30° lúc rời sâu hơn lúc vào. Cặp giữ tay trái để tay phải sẵn sàng cho mọi cử chỉ.
 - 【2】**Tanaka mở bàn tay phẳng chỉ cửa** — đây là động tác dẫn đường chính thức, khách phải xoay người theo hướng đó, không tự đoán.
 - 【3】**Trước cửa quay lại cúi chào lần 2** — ''mỹ học khi rời'' kiểu Nhật. Ấn tượng cuối nhớ lâu nhất.
@@ -1889,7 +1896,7 @@ Trụ sở 白鷗 Tokyo, meeting + tham quan Phase 3 kickoff vừa xong lúc 12:
 | 失礼いたします | しつれいいたします | — | Em xin phép (rời) |
 | 出口 | でぐち | XUẤT KHẨU | Lối ra |
 | 振り返る | ふりかえる | — | Quay đầu lại |
-| 貴重な | きちょうな | QUÝ TRỌNG | Quý báu |', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 貴重な | きちょうな | QUÝ TRỌNG | Quý báu |', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000024, 800000008, NULL, 'markdown_book', 'Rule 24 — Mời khách bữa ăn tối trang trọng / 接待ディナーへの招待', '# Rule 24 — Mời khách bữa ăn tối trang trọng / 接待ディナーへの招待
 > **Luận điểm.** Tiếp khách (接待) cấp CFO không phải "rủ ăn tối". Combo bắt buộc: **đặt nhà hàng từ D-2 + phòng riêng + suất ăn chốt trước + hỏi dị ứng / kiêng / rượu + xe đưa đón 2 chiều**. Đặt cùng ngày = chỉ còn quán B = mất tầm. Để khách tự chọn thực đơn = đẩy gánh nặng quyết định.
 >
@@ -1925,7 +1932,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** | 「<ruby>送迎<rt>そうげい</rt></ruby>タクシー2<ruby>台<rt>だい</rt></ruby><ruby>手配済<rt>てはいず</rt></ruby>。18:00 ホテルロビーお<ruby>迎<rt>むか</rt></ruby>え、18:30 レストラン<ruby>到着<rt>とうちゃく</rt></ruby>、<ruby>終了後<rt>しゅうりょうご</rt></ruby>ホテルまで<ruby>送<rt>おく</rt></ruby>り。」【4】 <br/>*Em đã đặt 2 taxi đưa đón. 18:00 đón ở sảnh khách sạn, 18:30 đến nhà hàng, kết thúc đưa về khách sạn.* |
 | **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。<ruby>当日<rt>とうじつ</rt></ruby>はホスト<ruby>側<rt>がわ</rt></ruby><ruby>着席<rt>ちゃくせき</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>+ズン+トゥアン+フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>。よろしく。」 <br/>*Tốt. Bên tiếp đón hôm đó anh + em + Tuấn + chị Hương phó phòng. Em lo nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Phòng riêng + suất ăn chốt trước** = riêng tư + đẳng cấp. Có CFO = suất ăn cao nhất + kết hợp rượu vang là chuẩn. Số người + 1 ghế dự phòng.
 - 【2】**Xác nhận dị ứng / tôn giáo / không thích** qua Tanaka PMO trước D-3. Hỏi tại chỗ = thất lễ. Ghi rõ từng người.
 - 【3】**Mặc định sake + vang + đồ không cồn** → khách có lựa chọn. CFO không uống cũng không bị áp lực.
@@ -1981,7 +1988,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 甲殻類 | こうかくるい | GIÁP XÁC LOẠI | Giáp xác |
 | 送迎 | そうげい | TỐNG NGHINH | Đưa đón |
 | 手配 | てはい | THỦ PHỐI | Sắp xếp / đặt |
-| ささやか | ささやか | — | Khiêm nhường, đơn sơ |', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| ささやか | ささやか | — | Khiêm nhường, đơn sơ |', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000025, 800000008, NULL, 'markdown_book', 'Rule 25 — Vai trò bên tiếp đón và khách / ホスト・ゲストの作法', '# Rule 25 — Vai trò bên tiếp đón và khách / ホスト・ゲストの作法
 > **Luận điểm.** Tiếp khách kiểu Nhật = bên tiếp đón gánh **3 trách nhiệm trọn gói**: **gọi món (chốt thực đơn trước), rót rượu (rót liên tục), trả tiền (kín đáo)**. Khách KHÔNG làm gì cả. Chia tiền (割り勘) trong 接待 = phá hủy khái niệm. Khách tự rót cho mình = bên tiếp đón bỏ vai.
 >
@@ -2021,16 +2028,20 @@ Phòng riêng nhà hàng Nhật Q1, bữa tối bắt đầu 18:30. Bên tiếp 
 | **ハーCTO** | （<ruby>中座<rt>ちゅうざ</rt></ruby>してこっそり rời bàn, hóa đơn<ruby>決済<rt>けっさい</rt></ruby> → <ruby>戻<rt>もど</rt></ruby>る）「お<ruby>会計<rt>かいけい</rt></ruby>はこちらで<ruby>承<rt>うけたまわ</rt></ruby>りました。」【4】 <br/>*(rời bàn kín đáo trả tiền rồi quay lại) Hóa đơn bên em đã lo rồi ạ.* |
 | **中村CFO** | 「ご<ruby>馳走<rt>ちそう</rt></ruby>になりました、ありがとうございました。」 <br/>*Tôi đã được thiết đãi, cảm ơn rất nhiều.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Thông báo quyết định trước của chủ nhà** = khách khỏi phải chọn. Không mở thực đơn trước mặt khách. Suất ăn đã chốt qua nhà hàng từ D-2.
 - 【2】**「お注ぎいたします」** — cầm chai bằng 2 tay (hoặc tay phải + tay trái đỡ), nhãn hướng lên. Ly khách thì khách cầm 2 tay nâng đón.
-- 【3】**Bên tiếp đón canh ly khách liên tục** = rót trước khi cạn. Hành động trước khi khách phải tự rót = ghi điểm.
+- 【3】**Bên tiếp đón canh ly khách** = rót trước khi cạn. Hành động trước khi khách phải tự rót = ghi điểm.
+  ⚠️ **Nhưng phải biết khi nào DỪNG.** Rót liên tục không nhìn phản ứng là **アルハラ** (quấy rối bằng rượu) — khảo sát Persol trên 10 vạn người cho thấy ~80% coi việc trách móc chuyện お酌 là quấy rối. Ba dấu hiệu dừng ngay: khách **lấy tay che miệng ly**, khách nói 「もう十分です」/「そろそろ…」, hoặc ly vẫn còn gần đầy sau một lúc lâu (nghĩa là họ đang không uống).
+  Khi đó chuyển sang hỏi 「お茶かソフトドリンクはいかがですか」 — chăm sóc vẫn tiếp tục, chỉ đổi thứ rót.
+- 【3b】**Người không uống được rượu — phải có đường thoát.** ~40% người Nhật thiếu men ALDH2 (không chuyển hoá được acetaldehyde), và アルハラ nay là cấm kỵ có thể bị kiện. **Đừng bao giờ ép, kể cả "một ngụm cho phải phép".**
+  Nếu **mình** là người không uống được, hai câu an toàn: 「お酒は弱いのですが、お付き合いさせてください」 (Em không uống được, nhưng xin phép ngồi cùng ạ) hoặc 「体質的に飲めないんです」 (Cơ địa em không uống được ạ). Cầm ly trà hay đồ không cồn cụng cùng bàn là **hoàn toàn hợp lệ** — thứ người Nhật muốn là có người ngồi cùng, không phải ly rượu.
 - 【4】**「お会計はこちらで承りました」** — hóa đơn được bên tiếp đón thanh toán bí mật trước khi tan tiệc, không rút ví trước mặt khách. Đây là tinh hoa tiếp khách Nhật.
 
 ---
 
 ## Cụm từ mẫu
-> **「お注ぎいたします。」 / 「お会計はこちらで承りました。」**
+> **「お注ぎいたします。」 / 「お<ruby>会計<rt>かいけい</rt></ruby>はこちらで<ruby>承<rt>うけたまわ</rt></ruby>りました。」**
 >
 > *Em xin rót ạ. / Hóa đơn bên em đã lo rồi ạ.*
 
@@ -2054,7 +2065,7 @@ Phòng riêng nhà hàng Nhật Q1, bữa tối bắt đầu 18:30. Bên tiếp 
 | 承りました | うけたまわりました | — | Đã nhận / đã lo |
 | ご馳走 | ごちそう | NGỰ TRÌ TẨU | Sự thiết đãi |
 | 割り勘 | わりかん | QUÁT KHAM | Chia tiền (NG cho接待) |
-| 中座 | ちゅうざ | TRUNG TỌA | Rời bàn giữa chừng |', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 中座 | ちゅうざ | TRUNG TỌA | Rời bàn giữa chừng |', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000026, 800000008, NULL, 'markdown_book', 'Rule 26 — Cụng ly 乾杯 chuẩn / 乾杯のマナー', '# Rule 26 — Cụng ly 乾杯 chuẩn / 乾杯のマナー
 > **Luận điểm.** Kanpai không phải "ai hô cũng được, cụng càng kêu càng vui". Quy tắc cứng: **(1) Quyền hô = người cấp cao nhất bên tiếp đón. (2) Ly mình hạ hơi thấp hơn ly cấp cao của khách (CFO Nakamura). (3) Chạm nhẹ, không cụng kêu cốp. (4) Đợi bên tiếp đón nhấp trước rồi mình mới uống.** Sai 1 trong 4 = đảo trên dưới hoặc thiếu sang.
 >
@@ -2090,10 +2101,13 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 | **トゥアンリーダー** | （<ruby>同様<rt>どうよう</rt></ruby>にglassを低く、host のハーCTO が一口飲んでから自分も飲む）【4】 <br/>*(cũng hạ ly thấp, đợi Hà CTO bên tiếp đón nhấp trước rồi mới uống)* |
 | **松本PM** | 「ありがとうございます。Phase 3、よろしくお願いします。」 <br/>*Cảm ơn rất nhiều. Phase 3, mong các anh chị giúp đỡ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Quyền hô = cấp cao nhất bên tiếp đón** — hôm nay là Hà CTO. Khách hô trước = sai. Câu mẫu cố định: 「[công ty / dự án] の [thành công] と [継続関係] を願いまして、乾杯！」
 - 【2】**Thấp hơn ly cấp trên = kính trọng** — cùng cấp = ngang. Cấp dưới = thấp nhất. Linh (nhân viên trẻ) phải thấp hơn cả Dũng.
 - 【3】**Chạm nhẹ + giao mắt cười** = chính thức. Cụng mạnh = vỡ ly + thiếu sang.
+  ⚠️ **Ly rượu vang thì KHÔNG chạm ly chút nào** — chân ly mảnh, chạm là sứt hoặc vỡ. Cách đúng: nâng ly ngang tầm ngực/tầm mắt, giao mắt gật đầu. Bàn tiệc trong chương này có rượu vang nên đây là chi tiết dễ sai ngay tại buổi quan trọng nhất.
+- 【3b】**Ly kanpai KHÔNG bắt buộc phải là rượu.** Nâng ly bằng nước ngọt, trà, hay bia không cồn đều hợp lệ — 「ソフトドリンクで乾杯の音頭を取っても失礼にはあたりません」. Người không uống được cứ cầm đồ mình uống được mà cụng.
+  ⚠️ **Nhưng tuyệt đối không kanpai bằng NƯỚC LỌC** — 水杯 (mizu-sakazuki) là nghi thức ly biệt trước lúc vĩnh quyết. Gọi một ly trà hoặc nước ngọt là xong.
 - 【4】**Cụng xong, bên tiếp đón nhấp trước, khách uống sau** — thứ tự uống cũng giống thứ tự hô.
 
 ---
@@ -2123,7 +2137,7 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 | お付き合い | おつきあい | — | Quan hệ giao thiệp |
 | 願いまして | ねがいまして | — | Mong / chúc |
 | 上位者 | じょういしゃ | THƯỢNG VỊ GIẢ | Người cấp cao |
-| 軽く触れる | かるくふれる | — | Chạm nhẹ |', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 軽く触れる | かるくふれる | — | Chạm nhẹ |', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000027, 800000008, NULL, 'markdown_book', 'Rule 27 — Cuộc trò chuyện không công việc / 雑談トピック', '# Rule 27 — Cuộc trò chuyện không công việc / 雑談トピック
 > **Luận điểm.** Khi câu chuyện công việc đã hết, đừng bỏ trống — và đừng bịa. Có **chủ đề an toàn 4 nhóm**: **ẩm thực (món đang ăn) · sở thích (vòng qua "cuối tuần") · du lịch (gợi mở lần sau) · thời tiết / mùa**. Có **chủ đề cấm tuyệt đối 3 nhóm**: **chính trị · tuổi · lương**. Sai 1 cái = bữa tối còn 30 phút khó xử.
 >
@@ -2164,7 +2178,7 @@ Giữa bữa tối Q1 lúc 19:30, khoảng nghỉ giữa món. Dũng + Tuấn c�
 | **大垣営業部長** | 「<ruby>今年<rt>ことし</rt></ruby>のHCMCは、<ruby>雨季<rt>うき</rt></ruby>の<ruby>入<rt>い</rt></ruby>りはどうですか？」【4】 <br/>*Năm nay HCMC vào mùa mưa thế nào ạ?* |
 | **ズン** | 「<ruby>今年<rt>ことし</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>より<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れまして、5<ruby>月<rt>がつ</rt></ruby><ruby>中旬<rt>ちゅうじゅん</rt></ruby>から<ruby>本格的<rt>ほんかくてき</rt></ruby>になりそうです。」 <br/>*Năm nay hơi muộn so với mọi năm, chắc khoảng giữa tháng 5 mới thật sự bắt đầu ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Món đang ăn** = chủ đề chung chắc chắn. Khách dễ kể chi tiết, tự nhiên. Hỏi cảm nhận về vị + chia sẻ nguồn gốc nguyên liệu.
 - 【2】**Hỏi sở thích vòng qua "cuối tuần" / "ngày nghỉ"** = gián tiếp. Hỏi thẳng「趣味は何ですか」hơi trang trọng cứng nhắc.
 - 【3】**Du lịch = dẫn dắt tự nhiên cho lần sau quay lại** — gợi 2-3 quán ăn / cà phê / điểm du lịch ở HCMC, Đà Lạt cụ thể.
@@ -2197,7 +2211,7 @@ Giữa bữa tối Q1 lúc 19:30, khoảng nghỉ giữa món. Dũng + Tuấn c�
 | 週末 | しゅうまつ | CHU MẠT | Cuối tuần |
 | 趣味 | しゅみ | THÚ VỊ | Sở thích |
 | 雨季 | うき | VŨ QUÝ | Mùa mưa |
-| お越しの際 | おこしのさい | — | Khi sang / khi đến |', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| お越しの際 | おこしのさい | — | Khi sang / khi đến |', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000028, 800000008, NULL, 'markdown_book', 'Rule 28 — Trao omiyage (quà) / お土産の渡し方', '# Rule 28 — Trao omiyage (quà) / お土産の渡し方
 > **Luận điểm.** Trao omiyage chuẩn Nhật = **(1) Lấy ra khỏi túi giấy, (2) xoay mặt chữ về phía khách, (3) đưa 2 tay, (4) câu khiêm nhường「つまらないものですが」, (5) chỉ giải thích "xuất xứ + cách dùng" (KHÔNG nói giá / thương hiệu / độ hiếm), (6) trao theo thứ tự cấp bậc**. Đưa cả túi + khoe giá = phá hết tinh thần Nhật.
 >
@@ -2235,9 +2249,9 @@ Cuối bữa tối Q1 lúc 21:00, sau trà kết thúc suất ăn. Dũng trao om
 | **ズン** | （<ruby>続<rt>つづ</rt></ruby>いて<ruby>大垣<rt>おおがき</rt></ruby>様 → <ruby>松本<rt>まつもと</rt></ruby>様 → <ruby>田中<rt>たなか</rt></ruby>様の<ruby>順<rt>じゅん</rt></ruby>で<ruby>同<rt>おな</rt></ruby>じ<ruby>手順<rt>てじゅん</rt></ruby>）【4】 <br/>*(tiếp tục anh Ōgaki → anh Matsumoto → anh Tanaka theo cùng trình tự)* |
 | **リン** | （ズンの<ruby>隣<rt>となり</rt></ruby>で<ruby>観察<rt>かんさつ</rt></ruby>、メモ）「<ruby>紙袋<rt>かみぶくろ</rt></ruby>から<ruby>出<rt>だ</rt></ruby>す → <ruby>文字<rt>もじ</rt></ruby><ruby>向<rt>む</rt></ruby>き → <ruby>両手<rt>りょうて</rt></ruby> → <ruby>上位者<rt>じょういしゃ</rt></ruby><ruby>順<rt>じゅん</rt></ruby>、ですね。」 <br/>*(ngồi cạnh Dũng quan sát, ghi chú) Lấy ra khỏi túi → mặt chữ → 2 tay → trao theo thứ tự cấp bậc, ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / thương hiệu / độ hiếm = đại kỵ.
-- 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. Túi giấy bỏ đi (kiểu Nhật).
+- 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. **Túi giấy thì gấp gọn cất lại vào cặp mình mang về** — đẩy túi sang phía khách nhờ họ vứt là マナー違反. (Ngoại lệ: khách phải đi xa hoặc quà cồng kềnh thì mới hỏi 「よろしければ袋もお使いください」.)
 - 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = dấu hiệu có thể chia trong cty.
 - 【4】**Thứ tự**: CFO Nakamura → trưởng Ōgaki → PM Matsumoto → PMO Tanaka. Trao từng người, mỗi người đứng / nhổm dậy nhận bằng 2 tay.
 
@@ -2306,7 +2320,7 @@ Cuối bữa tối Q1 lúc 21:00, sau trà kết thúc suất ăn. Dũng trao om
 | 差し出す | さしだす | — | Đưa ra |
 | 召し上がる | めしあがる | — | Dùng / ăn (kính ngữ) |
 | お心遣い | おこころづかい | — | Tấm lòng / sự quan tâm |
-| 高地 | こうち | CAO ĐỊA | Vùng cao |', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 高地 | こうち | CAO ĐỊA | Vùng cao |', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000029, 800000008, NULL, 'markdown_book', 'Rule 29 — Nhận omiyage / お土産の受け取り', '# Rule 29 — Nhận omiyage / お土産の受け取り
 > **Luận điểm.** Nhận omiyage chuẩn Nhật = **(1) Đưa 2 tay đón, (2) câu cố định「頂戴いたします」+ cúi chào 30°, (3) đặt lên 上座 (kamiza) của bàn, (4) KHÔNG mở tại chỗ, (5) báo "lát em mời cả phòng cùng dùng", (6) gửi thư cảm ơn trong 24h**. Mở quà tại chỗ + hỏi giá = NG cấp tối đa.
 >
@@ -2342,9 +2356,9 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 | **松本PM** | 「<ruby>羊羹<rt>ようかん</rt></ruby>で、<ruby>日持<rt>ひも</rt></ruby>ちもしますので。」 <br/>*Là yokan, để được khá lâu ạ.* |
 | **フオン副部長** | 「ありがとうございます。<ruby>後<rt>のち</rt></ruby>ほど<ruby>社内<rt>しゃない</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>でいただきます。」【3】 <br/>*Cảm ơn anh ạ. Lát nữa em mời cả phòng cùng dùng.* |
 | **リン** | （<ruby>包<rt>つつ</rt></ruby>みは<ruby>開<rt>あ</rt></ruby>けず、<ruby>机<rt>つくえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたまま） <br/>*(không mở gói, giữ nguyên trên bàn)* |
-| **フオン副部長** | （<ruby>後<rt>のち</rt></ruby>ほど<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>にメール）「<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>素敵<rt>すてき</rt></ruby>なお<ruby>土産<rt>みやげ</rt></ruby>をいただき、ありがとうございました。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>でおいしくいただきました。<ruby>後<rt>のち</rt></ruby>ほど<ruby>改<rt>あらた</rt></ruby>めて<ruby>御礼<rt>おれい</rt></ruby>のメールを<ruby>送<rt>おく</rt></ruby>らせていただきます。」【4】 <br/>*(sau đó mail anh Matsumoto) Hôm nay anh tặng quà rất ý nghĩa, em xin cảm ơn ạ. Cả phòng đã cùng thưởng thức ngon lành. Em xin gửi lại thư cảm ơn trang trọng sau ạ.* |
+| **フオン副部長** | （<ruby>後<rt>のち</rt></ruby>ほど<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>にメール）「<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>素敵<rt>すてき</rt></ruby>なお<ruby>土産<rt>みやげ</rt></ruby>をいただき、ありがとうございました。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>でおいしくいただきました。<ruby>今後<rt>こんご</rt></ruby>ともどうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」【4】 <br/>*(sau đó mail anh Matsumoto) Hôm nay anh tặng quà rất ý nghĩa, em xin cảm ơn ạ. Cả phòng đã cùng thưởng thức ngon lành. Mong anh tiếp tục giúp đỡ ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「頂戴いたします」** — câu nhận cố định, trang trọng hơn 「ありがとう」. Đi kèm cúi chào 30°. Nhổm dậy nhẹ nếu đang ngồi.
 - 【2】**Đặt 2 tay → đặt lên phía 上座 (kamiza) của bàn đàng hoàng**. Để dưới sàn = NG. Để góc bàn lăn lóc = NG.
 - 【3】**「皆でいただきます」** = báo sẽ chia → tôn trọng ý người gửi (''cả nhà mình''). Mang về nhà ăn riêng = dấu hiệu sai.
@@ -2377,7 +2391,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 | 羊羹 | ようかん | DƯƠNG CANH | Yokan (bánh ngọt) |
 | 日持ち | ひもち | — | Để được lâu |
 | 後ほど | のちほど | — | Lát nữa / sau |
-| 御礼 | おれい | NGỰ LỄ | Lời cảm ơn |', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 御礼 | おれい | NGỰ LỄ | Lời cảm ơn |', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000030, 800000008, NULL, 'markdown_book', 'Rule 30 — Thư cảm ơn sau bữa tối / 食事後のお礼メール', '# Rule 30 — Thư cảm ơn sau bữa tối / 食事後のお礼メール
 > **Luận điểm.** Mail cảm ơn sau bữa tối = **24h trong giới hạn vàng** (lý tưởng = sáng hôm sau 8-9h). Bốn yếu tố: **(1) To riêng từng người + CC sếp (BCC = đại kỵ), (2) trích 1-2 chủ đề cụ thể từ buổi dinner, (3) hẹn lần sau với mốc thời gian rõ, (4) độ dài 200-300 chữ JP**. 3 ngày sau gửi = mất "độ tươi". BCC chung = mất cảm giác cá nhân hóa.
 >
@@ -2410,10 +2424,10 @@ Sáng sau bữa tối Q1 lúc 8:30. Dũng cần gửi mail cảm ơn tới Ōgak
 | **ハーCTO** | 「ズン、昨日のお<ruby>礼<rt>れい</rt></ruby>メール、ドラフト<ruby>見<rt>み</rt></ruby>せて。」 <br/>*Dũng, bản nháp mail cảm ơn hôm qua đưa anh xem.* |
 | **ズン** | 「<ruby>翌朝<rt>よくあさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby><ruby>送信予定<rt>そうしんよてい</rt></ruby>【1】。To = <ruby>中村<rt>なかむら</rt></ruby>CFO<ruby>様<rt>さま</rt></ruby> / <ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby> <ruby>個別<rt>こべつ</rt></ruby>4<ruby>通<rt>つう</rt></ruby>、CC = ハーCTO+フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>【2】。<ruby>各<rt>かく</rt></ruby>メールに<ruby>昨夜<rt>さくや</rt></ruby>の<ruby>和牛<rt>わぎゅう</rt></ruby>のご<ruby>感想<rt>かんそう</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>登山<rt>とざん</rt></ruby>のお<ruby>話<rt>はなし</rt></ruby>を1-2<ruby>行<rt>ぎょう</rt></ruby><ruby>引用<rt>いんよう</rt></ruby>しております【3】。」 <br/>*Em định gửi 8h sáng nay. To = anh Nakamura / anh Ōgaki / anh Matsumoto / anh Tanaka — 4 mail riêng từng người. CC = anh Hà CTO + chị Hương phó phòng. Mỗi mail em trích 1-2 dòng về wagyu hôm qua + chuyện leo núi của anh Matsumoto.* |
 | **ハーCTO** | 「いいね。<ruby>次回約束<rt>じかいやくそく</rt></ruby>は<ruby>入<rt>い</rt></ruby>れた？」 <br/>*Tốt. Hẹn lần sau em đã cho vào chưa?* |
-| **ズン** | 「はい、『<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いし、5<ruby>月<rt>がつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に<ruby>改<rt>あらた</rt></ruby>めて』と<ruby>入<rt>い</rt></ruby>れています。」【4】 <br/>*Vâng, em viết ''lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ''.* |
+| **ズン** | 「はい、『<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>伺<rt>うかが</rt></ruby>い、5<ruby>月<rt>がつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に<ruby>改<rt>あらた</rt></ruby>めて』と<ruby>入<rt>い</rt></ruby>れています。」【4】 <br/>*Vâng, em viết ''lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ''.* |
 | **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。8<ruby>時<rt>じ</rt></ruby>に<ruby>送信<rt>そうしん</rt></ruby>して、<ruby>午後<rt>ごご</rt></ruby>にハーから<ruby>中村<rt>なかむら</rt></ruby>CFOへ<ruby>補足<rt>ほそく</rt></ruby>の<ruby>謝意<rt>しゃい</rt></ruby>メールも<ruby>送<rt>おく</rt></ruby>る。」 <br/>*Hoàn hảo. 8h gửi nhé. Chiều anh sẽ gửi mail bổ sung cảm ơn anh CFO Nakamura.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + dấu hiệu chỉn chu. 24h là giới hạn cứng.
 - 【2】**To = cá nhân từng người. CC = sếp mình + thư ký khách / Tanaka PMO. BCC = đại kỵ** — khách Nhật kiểm tra tiêu đề mail thấy BCC sẽ giảm điểm.
 - 【3】**Trích 1-2 điểm cụ thể từ buổi tối** = dấu hiệu "tôi nghe kỹ". Cá nhân hóa đáng nhớ → tăng nhiệt. Mỗi mail có 1-2 chi tiết riêng cho người đó.
@@ -2422,7 +2436,7 @@ Sáng sau bữa tối Q1 lúc 8:30. Dũng cần gửi mail cảm ơn tới Ōgak
 ---
 
 ## Cụm từ mẫu
-> **「<ruby>昨夜<rt>さくや</rt></ruby>はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いさせていただきます。」**
+> **「<ruby>昨夜<rt>さくや</rt></ruby>はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>伺<rt>うかが</rt></ruby>います。」**
 >
 > *Tối qua anh bận mà vẫn dành thời gian quý báu, em xin chân thành cảm ơn ạ. Lần sau bên em xin được đến thăm Tokyo.*
 
@@ -2450,10 +2464,10 @@ Sáng sau bữa tối Q1 lúc 8:30. Dũng cần gửi mail cảm ơn tới Ōgak
 昨夜はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。
 中村様には、ベトナムまでお越しいただきましたのに、こちらこそお気遣いをいただきまして恐縮しております。
 
-特に、〇〇様からお伺いいたしました〇〇のお話は、大変印象に残っております。
+特に、〇〇様から伺いました〇〇のお話は、大変印象に残っております。
 また、Phase 3 に向けた中村様のお言葉、改めてチームへ共有いたします。
 
-次回はぜひ当方からも東京へお伺いさせていただきたく、5月の頃改めてご相談させてください。
+次回はぜひ当方からも東京へ伺いたく、5月の頃改めてご相談させてください。
 
 末筆ながら、皆様のますますのご健勝をお祈り申し上げます。
 
@@ -2464,7 +2478,7 @@ TEL: 〇〇
 E-mail: 〇〇
 ```
 
-**Ghi chú:** Lý tưởng = gửi 8-9h sáng hôm sau. To riêng + CC sếp, BCC = đại kỵ. Trích 1-2 chủ đề cụ thể + hẹn lần sau để giữ "nhiệt". Dài quá NG (cỡ 200-300 chữ JP).
+📝 **Ghi chú:** Lý tưởng = gửi 8-9h sáng hôm sau. To riêng + CC sếp, BCC = đại kỵ. Trích 1-2 chủ đề cụ thể + hẹn lần sau để giữ "nhiệt". Dài quá NG (cỡ 200-300 chữ JP).
 
 ---
 
@@ -2477,7 +2491,7 @@ E-mail: 〇〇
 | 頂戴 | ちょうだい | ĐỈNH ĐỚI | Nhận (kính ngữ) |
 | お気遣い | おきづかい | — | Sự quan tâm |
 | 末筆ながら | まっぴつながら | — | Cuối thư (cố định) |
-| ご健勝 | ごけんしょう | — | Sức khỏe (kính ngữ) |', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| ご健勝 | ごけんしょう | — | Sức khỏe (kính ngữ) |', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000031, 800000008, NULL, 'markdown_book', 'Rule 31 — Khách Nhật đoàn lớn 5+ người / 5名以上の対応', '# Rule 31 — Khách Nhật đoàn lớn 5+ người / 5名以上の対応
 > **Luận điểm.** Từ 5 người trở lên = "tự ngồi tự xoay" sẽ thành thảm họa. Bắt buộc 4 thứ chuẩn bị: **(1) Bảng tên + sơ đồ ngồi (席札+席次表) đặt giữa bàn trước khi khách đến, (2) chỉ định ghế: khách cấp cao ngồi giữa 上座, cấp trên bên chủ nhà ngồi đối diện ở 下座, (3) chia cụm 3-4 người, mỗi chủ nhà phụ trách rót, (4) bảng tiến trình 30 phút in sẵn cho cả nhóm chủ nhà**. 11 người mà 1 người rót = không kham nổi.
 >
@@ -2515,7 +2529,7 @@ Trong onsite Tokyo, buổi lễ tổng kết tại trụ sở 白鷗. Bên 白�
 | **ズン** | 「③ flow table: 18:30<ruby>乾杯<rt>かんぱい</rt></ruby> → 18:40 <ruby>中村<rt>なかむら</rt></ruby>CFOご<ruby>挨拶<rt>あいさつ</rt></ruby> → 18:50 <ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby> → 19:00 ハーCTO → 19:10 フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> → 19:20 <ruby>自由<rt>じゆう</rt></ruby><ruby>歓談<rt>かんだん</rt></ruby> → 20:30 お<ruby>土産<rt>みやげ</rt></ruby><ruby>交換<rt>こうかん</rt></ruby> → 21:00 <ruby>締<rt>し</rt></ruby>め。host <ruby>側<rt>がわ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>印刷<rt>いんさつ</rt></ruby><ruby>配布<rt>はいふ</rt></ruby><ruby>済<rt>ず</rt></ruby>。」【4】 <br/>*(3) Bảng tiến trình: 18:30 kanpai → 18:40 CFO Nakamura phát biểu → 18:50 trưởng Ōgaki → 19:00 Hà CTO → 19:10 chị Hương phó phòng → 19:20 trò chuyện tự do → 20:30 trao omiyage → 21:00 kết thúc. Đã in phát cả nhóm tiếp đón.* |
 | **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。明日17:30<ruby>会場<rt>かいじょう</rt></ruby><ruby>集合<rt>しゅうごう</rt></ruby>、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>。」 <br/>*Hoàn hảo. Mai 17:30 tập trung tại địa điểm, check lần cuối.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Bàn 11 người vẫn 上座 (xa cửa nhất) ở giữa = vị trí tối cao**. 3 cấp cao bên khách ngồi 上座, cấp trên bên chủ nhà (Hà CTO) ngồi 下座 đối diện CFO Nakamura.
 - 【2】**5+ người = bắt buộc bảng tên + sơ đồ ngồi đặt giữa bàn**, bố trí xong trước khi khách đến. Tránh ngơ ngác + thứ bậc rõ ràng.
 - 【3】**Mỗi chủ nhà phụ trách cụm 3-4 người = phát hiện ly cạn trong 2 phút**. Người phụ trách các cụm chat ngầm Slack check mức ly với nhau.
@@ -2548,18 +2562,18 @@ Trong onsite Tokyo, buổi lễ tổng kết tại trụ sở 白鷗. Bên 白�
 | 下座 | しもざ | HẠ TỌA | Chỗ dưới (gần cửa) |
 | 着席 | ちゃくせき | TRƯỚC TỊCH | Vào chỗ |
 | 歓談 | かんだん | HOAN ĐÀM | Trò chuyện thân mật |
-| 締め | しめ | — | Kết thúc |', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 締め | しめ | — | Kết thúc |', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000032, 800000008, NULL, 'markdown_book', 'Rule 32 — Góc độ cúi chào theo cấp bậc / お辞儀の角度', '# Rule 32 — Góc độ cúi chào theo cấp bậc / お辞儀の角度
-> **Luận điểm.** Cúi chào Nhật KHÔNG phải "cúi nhẹ là được". Có **4 góc cố định**: **15° eshaku (xã giao hành lang) · 30° keirei (vào/ra phòng họp, đồng cấp) · 45° saikeirei (CFO / GĐ / khách lớn lần đầu) · 90° xin lỗi nặng**. Sai góc = hoặc thiếu lễ (15° gặp CFO) hoặc làm khách ngại (90° trong tình huống thường).
+> **Luận điểm.** Cúi chào Nhật KHÔNG phải "cúi nhẹ là được". Chuẩn ngành Nhật phân **3 loại**: **15° eshaku (xã giao hành lang) · 30° keirei (vào/ra phòng họp, đồng cấp) · 45° saikeirei (CFO / GĐ / khách lớn lần đầu)**. Ngoài ba loại đó còn một mức đặc biệt — **cúi 90° khi xin lỗi nặng** — nhưng đây **không phải loại thứ tư** mà là đầu sâu nhất của 最敬礼, chỉ xuất hiện ở 謝罪会見 cấp công ty. Sai góc = hoặc thiếu lễ (15° gặp CFO) hoặc làm khách ngại (90° trong tình huống thường).
 >
-> 角度=温度+敬意+反省深さ signal。場面ごとに4種類使い分け。
+> お辞儀は会釈15°・敬礼30°・最敬礼45°の3種類。90°は謝罪会見レベルの例外で、通常業務では使わない。角度=温度+敬意+反省深さ signal。
 >
 > **Liên quan:** rule 21 (入室), rule 23 (退室), rule 26 (乾杯).
 
 ---
 
 ## Bối cảnh / 場面
-Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 4 kiểu cúi chào cho Linh. Linh là thực tập sinh lần đầu đi công tác, học để khỏi lúng túng giữa các tình huống đan xen (gặp CFO / vào phòng / chào hành lang / tình huống lỗi).
+Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 3 kiểu cúi chào chuẩn (kèm 1 mức ngoại lệ khi xin lỗi) cho Linh. Linh là thực tập sinh lần đầu đi công tác, học để khỏi lúng túng giữa các tình huống đan xen (gặp CFO / vào phòng / chào hành lang / tình huống lỗi).
 
 ---
 
@@ -2575,10 +2589,10 @@ Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 4 
 
 ---
 
-## Hội thoại TỐT — dùng 4 góc đúng tình huống
+## Hội thoại TỐT — dùng đúng góc theo tình huống
 | Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「リン、お<ruby>辞儀<rt>じぎ</rt></ruby>は4<ruby>種類<rt>しゅるい</rt></ruby>。<ruby>場面<rt>ばめん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>ける。<ruby>実演<rt>じつえん</rt></ruby>するから<ruby>真似<rt>まね</rt></ruby>してね。」 <br/>*Linh, bow có 4 loại. Tùy tình huống mà dùng. Chị làm mẫu, em theo nhé.* |
+| **フオン副部長** | 「リン、お<ruby>辞儀<rt>じぎ</rt></ruby>は<ruby>基本<rt>きほん</rt></ruby>3<ruby>種類<rt>しゅるい</rt></ruby>+<ruby>例外<rt>れいがい</rt></ruby>1つ。<ruby>場面<rt>ばめん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>ける。<ruby>実演<rt>じつえん</rt></ruby>するから<ruby>真似<rt>まね</rt></ruby>してね。」 <br/>*Linh, bow có 3 loại cơ bản, thêm 1 mức ngoại lệ. Tùy tình huống mà dùng. Chị làm mẫu, em theo nhé.* |
 | **フオン副部長** | （15°、<ruby>約<rt>やく</rt></ruby>1<ruby>秒<rt>びょう</rt></ruby>）「これが<ruby>会釈<rt>えしゃく</rt></ruby>。<ruby>廊下<rt>ろうか</rt></ruby>ですれ<ruby>違<rt>ちが</rt></ruby>い・<ruby>朝<rt>あさ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>。」【1】 <br/>*(15°, khoảng 1 giây) Đây là eshaku. Đi qua hành lang, chào sáng.* |
 | **リン** | （15°<ruby>真似<rt>まね</rt></ruby>）「はい、おはようございます。」 <br/>*(bắt chước 15°) Vâng, chào buổi sáng.* |
 | **フオン副部長** | （30°、約2-3秒）「これが<ruby>敬礼<rt>けいれい</rt></ruby>。<ruby>打合<rt>うちあわ</rt></ruby>せ<ruby>入退室<rt>にゅうたいしつ</rt></ruby>・<ruby>初対面<rt>しょたいめん</rt></ruby><ruby>同等<rt>どうとう</rt></ruby><ruby>職位<rt>しょくい</rt></ruby>。」【2】 <br/>*(30°, khoảng 2-3 giây) Đây là keirei. Vào/ra phòng họp, gặp lần đầu cùng cấp.* |
@@ -2588,18 +2602,18 @@ Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 4 
 | **フオン副部長** | （90°、3秒以上）「これが<ruby>謝罪<rt>しゃざい</rt></ruby>お<ruby>辞儀<rt>じぎ</rt></ruby>。<ruby>重大<rt>じゅうだい</rt></ruby>ミス<ruby>時<rt>じ</rt></ruby>のみ。<ruby>普段<rt>ふだん</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>では<ruby>絶対<rt>ぜったい</rt></ruby>しない。」【4】 <br/>*(90°, 3+ giây) Đây là bow xin lỗi. Chỉ dùng khi sai nặng. Tình huống bình thường tuyệt đối không bow vậy.* |
 | **リン** | 「わかりました。<ruby>明日<rt>あした</rt></ruby>CFOへの<ruby>初対面<rt>しょたいめん</rt></ruby>は45°、お<ruby>部屋<rt>へや</rt></ruby>の<ruby>出入<rt>でい</rt></ruby>りは30°、<ruby>廊下<rt>ろうか</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>は15°ですね。」 <br/>*Em hiểu rồi. Mai gặp CFO lần đầu = 45°, vào/ra phòng = 30°, chào hành lang = 15° ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**15° 会釈 (eshaku)** — đi qua nhau ở hành lang, chào nhẹ trong cty, chào sáng đồng nghiệp. Cúi 1 giây rồi ngẩng. Dùng trong cùng cty.
 - 【2】**30° 敬礼 (keirei)** — vào / ra phòng họp khách, mở / đóng buổi họp, gặp lần đầu cùng cấp. Bow chuẩn business. 2-3 giây.
 - 【3】**45° 最敬礼 (saikeirei)** — lần đầu gặp CFO / GĐ / khách lớn, cảm ơn trong tình huống quan trọng. 3-4 giây, sâu và lặng.
-- 【4】**90° xin lỗi nặng** — sai nặng / vi phạm hợp đồng. Giữ 3+ giây. Mức cúi sâu nhất trước khi xuống dogeza (quỳ). Tình huống bình thường tuyệt đối không cúi vậy = làm khách hoảng.
+- 【4】**90° xin lỗi nặng** — sai nặng / vi phạm hợp đồng. Giữ 3+ giây. Đây KHÔNG phải loại thứ tư trong hệ phân loại — chuẩn ngành chỉ có 3 loại; 90° là đầu sâu nhất của 最敬礼, thấy ở 謝罪会見 cấp công ty. Tình huống bình thường tuyệt đối không cúi vậy = làm khách hoảng.
 
 ---
 
 ## Cụm từ mẫu
-> **「お辞儀は会釈15°・敬礼30°・最敬礼45°・謝罪90°の4種類。角度=温度+敬意+反省深さの signal。」**
+> **「お辞儀は会釈15°・敬礼30°・最敬礼45°の3種類。謝罪90°は会見レベルの例外。角度=温度+敬意+反省深さの signal。」**
 >
-> *Cúi chào có 4 loại: eshaku 15°, keirei 30°, saikeirei 45°, xin lỗi 90°. Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
+> *Cúi chào có 3 loại: eshaku 15°, keirei 30°, saikeirei 45°. Riêng 90° là mức ngoại lệ, chỉ dùng khi xin lỗi ở cấp họp báo. Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
 
 ---
 
@@ -2621,7 +2635,7 @@ Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 4 
 | 謝罪 | しゃざい | TẠ TỘI | Xin lỗi |
 | 反省 | はんせい | PHẢN TỈNH | Suy ngẫm / ăn năn |
 | 真似する | まねする | — | Bắt chước |
-| 使い分け | つかいわけ | — | Dùng phân biệt theo tình huống |', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 使い分け | つかいわけ | — | Dùng phân biệt theo tình huống |', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000033, 800000008, NULL, 'markdown_book', 'Rule 33 — Tránh xung đột văn hóa VN-JP / 文化衝突の回避', '# Rule 33 — Tránh xung đột văn hóa VN-JP / 文化衝突の回避
 > **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất thể diện người mời, (3) "Đáp lễ quà ngay" → tín hiệu "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
 >
@@ -2663,8 +2677,9 @@ Ngày 3 công tác Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tu
 | **松本PM** | 「<ruby>楽<rt>たの</rt></ruby>しみにしております。」 <br/>*Tôi rất mong chờ.* |
 | **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby>はご<ruby>馳走<rt>ちそう</rt></ruby>になりました。<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」【4】 <br/>*Hôm nay em đã được tiếp đãi, em xin chân thành cảm ơn ạ.* |
 
- **Ghi chú:**
-- 【1】**Đảo ngược "mình tự rót cho mình" kiểu VN**. Kiểu Nhật = chăm sóc lẫn nhau: rót cho đối phương → đối phương rót lại cho mình. Đó là nhịp相互ケア.
+📝 **Ghi chú:**
+- 【1】**Đảo ngược "mình tự rót cho mình"**. Nhịp ở bàn tiệc Nhật là chăm sóc lẫn nhau: rót cho đối phương → đối phương rót lại cho mình (相互ケア).
+  ⚠️ **Nhịp này không buộc bạn phải uống.** Nếu không uống được, vẫn giữ đúng nhịp bằng cách **rót cho đối phương** rồi để ly mình là ノンアル: 「お注ぎします。私はソフトドリンクで失礼します」. Cơ địa không dung nạp cồn thì nói thẳng 「お酒は飲めない体質でして」 — người Nhật hiểu ngay (≈40% dân số thiếu men ALDH2) và sẽ không mời nữa. Ép bản thân uống để giữ nhịp là アルハラ ngược, không phải lễ phép.
 - 【2】**Giữ thể diện người mời** — kìm "để em trả" kiểu VN, để người mời trả theo kiểu Nhật. Thay vào đó **đề xuất lần sau mình mời lại** = đôi bên cùng vui.
 - 【3】**Đáp lễ ngay = tín hiệu "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = đáp lễ tự nhiên không tạo gánh nặng tâm lý.
 - 【4】**「ご馳走になりました」** — câu cố định lúc tạm biệt người mời. Sáng hôm sau gửi mail cảm ơn lần nữa = hoàn hảo.
@@ -2696,7 +2711,7 @@ Ngày 3 công tác Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tu
 | お返し | おかえし | — | Đáp lễ |
 | 違和感 | いわかん | DỊ HÒA CẢM | Cảm giác lạ / không tự nhiên |
 | 居酒屋 | いざかや | CƯ TỬU ỐC | Quán nhậu thân mật Nhật |
-| 相互 | そうご | TƯƠNG HỖ | Lẫn nhau / hỗ tương |', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 相互 | そうご | TƯƠNG HỖ | Lẫn nhau / hỗ tương |', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000034, 800000008, NULL, 'markdown_book', 'Rule 34 — Chuyến công tác Nhật lần đầu — bộ đồ thiết yếu / 初訪問 Survival Kit', '# Rule 34 — Chuyến công tác Nhật lần đầu — bộ đồ thiết yếu / 初訪問 Survival Kit
 > **Luận điểm.** Công tác Tokyo lần đầu = đừng nghĩ "tới rồi mua". Phân biệt rõ **thứ phải xong tại VN** vs **thứ mua tại Nhật**. 6 nhóm: **tiền mặt · IC card · vest · omiyage · thời tiết · Wi-Fi**. Sai nhớ: **omiyage / tiền mặt / mạng = bắt buộc xong tại VN**. Đến Narita không có tiền mặt = không mua được Suica = không đi taxi được = thảm họa ngày 1.
 >
@@ -2730,9 +2745,9 @@ D-2 trước chuyến công tác Tokyo, Hải (lần đầu đi công tác) ki�
 | **ハイ** | 「わかりました。<ruby>今日中<rt>きょうじゅう</rt></ruby>にすべて<ruby>準備<rt>じゅんび</rt></ruby>して、<ruby>明日<rt>あした</rt></ruby>チェックリスト<ruby>見<rt>み</rt></ruby>せます。」 <br/>*Em hiểu rồi. Hôm nay em chuẩn bị xong hết, mai đưa anh danh sách kiểm tra xem.* |
 | **トゥアンリーダー** | 「あと、<ruby>現地<rt>げんち</rt></ruby>D1 <ruby>朝<rt>あさ</rt></ruby>はホテルロビー 7:30 <ruby>集合<rt>しゅうごう</rt></ruby>。スーツ+IC card <ruby>持参<rt>じさん</rt></ruby>で。」 <br/>*À, ngày 1 tại Nhật sáng tập trung sảnh khách sạn 7:30. Mặc suit + mang IC card.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Tiền mặt 5 man yen — đổi trước ở VN** (sân bay / ngân hàng). Đến Narita mua được IC card + đi taxi luôn. ATM Nhật hay từ chối thẻ VN.
-- 【2】**Suica mua tại quầy xanh JR Narita** (tiền cọc 2,000 yên + 3,000 yên dư). iPhone hỗ trợ thì cài eSIM Suica trước càng tốt.
+- 【2】**Suica mua tại quầy xanh JR Narita** (tiền cọc 500 yên + nạp thêm tuỳ nhu cầu). iPhone hỗ trợ thì cài eSIM Suica trước càng tốt.
 - 【3】**Móc treo + kỹ thuật xếp vest trong vali** (gập tay áo vào trong tránh nhăn). Đến khách sạn treo lên + máy hấp nhỏ ngay.
 - 【4】**Omiyage chuẩn bị từ VN** — cà phê / trà / bánh thương hiệu cao cấp, đóng gói riêng. Mua tại Narita = mất tâm (trùng rule 16).
 - 【5】**Tokyo tháng 4-5 sáng tối lạnh + mưa bất ngờ** → ô gấp + áo len / áo khoác mỏng cần ngay từ chiều ngày 1.
@@ -2815,7 +2830,7 @@ D-2 trước chuyến công tác Tokyo, Hải (lần đầu đi công tác) ki�
 | 折り目 | おりめ | — | Vết gấp / nhăn |
 | 拒否 | きょひ | CỰ PHỦ | Từ chối |
 | 改札 | かいさつ | CẢI TRÁT | Cổng soát vé |
-| 残高 | ざんだか | TÀN CAO | Số dư |', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 残高 | ざんだか | TÀN CAO | Số dư |', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (880000035, 800000008, NULL, 'markdown_book', 'Rule 35 — Tự đánh giá ceremony etiquette / 振り返り', '# Rule 35 — Tự đánh giá ceremony etiquette / 振り返り
 > **Luận điểm.** Sau mỗi chuyến công tác / 接待 / sự kiện quan trọng, **Hizashi式 tự đánh giá = 5 mục cấu trúc**: **(1) 3 điểm tốt (mô hình tái lặp được), (2) 3 vấn đề (kiểu "ai + làm gì + kết quả"), (3) 3 việc cải thiện (CHỦ + HẠN CHÓT bắt buộc), (4) phát hiện mới (mẫu câu / nghi thức / đặc điểm khách), (5) lưu hồ sơ Notion + CRM 2 nơi**. "Lần sau em cẩn thận hơn" = không phải tự đánh giá.
 >
@@ -2851,12 +2866,12 @@ Sau chuyến công tác Tokyo + lễ tổng kết, về HCMC chiều thứ 6 hô
 | **フオン副部長** | 「<ruby>改善<rt>かいぜん</rt></ruby> action は？」 <br/>*Việc cần cải thiện?* |
 | **ズン** | 「①リン<ruby>担当<rt>たんとう</rt></ruby>でbow<ruby>角度<rt>かくど</rt></ruby> visual guide <ruby>作成<rt>さくせい</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>まで ②ハイ担当で『<ruby>相互<rt>そうご</rt></ruby>pour』<ruby>練習<rt>れんしゅう</rt></ruby> video <ruby>共有<rt>きょうゆう</rt></ruby>、来週<ruby>水曜<rt>すいよう</rt></ruby>まで ③Suicaは<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>残高<rt>ざんだか</rt></ruby> 5,000<ruby>円<rt>えん</rt></ruby> minimum <ruby>規則化<rt>きそくか</rt></ruby>、checklistへ<ruby>追加<rt>ついか</rt></ruby> (<ruby>今日中<rt>きょうじゅう</rt></ruby>)。」【3】 <br/>*(1) Linh phụ trách làm hướng dẫn trực quan góc cúi chào, trước thứ 6 tuần sau. (2) Hải phụ trách chia sẻ video luyện ''rót lẫn nhau'', trước thứ 4 tuần sau. (3) Suica luật mới: số dư trước khi đi tối thiểu 5,000 yên, thêm vào danh sách kiểm tra (trong hôm nay).* |
 | **フオン副部長** | 「<ruby>新発見<rt>しんはっけん</rt></ruby>は？」 <br/>*Phát hiện mới?* |
-| **リン** | 「<ruby>新<rt>しん</rt></ruby>phrase: <ruby>田中<rt>たなか</rt></ruby>PMOの『<ruby>通<rt>とお</rt></ruby>り<ruby>過<rt>す</rt></ruby>ぎましょう』(<ruby>隣室<rt>りんしつ</rt></ruby><ruby>回避<rt>かいひ</rt></ruby>) と『お<ruby>言葉<rt>ことば</rt></ruby>に<ruby>甘<rt>あま</rt></ruby>えさせていただきます』(<ruby>招待<rt>しょうたい</rt></ruby><ruby>受領<rt>じゅりょう</rt></ruby>)、<ruby>社内<rt>しゃない</rt></ruby> vocabulary に<ruby>追加<rt>ついか</rt></ruby>します。」【4】 <br/>*Cụm mới: ''Otoorisugi itashimashou'' của Tanaka PMO (đi qua phòng kế) và ''Okotoba ni amaesasete itadakimasu'' (nhận lời mời). Em thêm vào kho từ vựng nội bộ.* |
+| **リン** | 「<ruby>新<rt>しん</rt></ruby>phrase: <ruby>田中<rt>たなか</rt></ruby>PMOの『<ruby>通<rt>とお</rt></ruby>り<ruby>過<rt>す</rt></ruby>ぎましょう』(<ruby>隣室<rt>りんしつ</rt></ruby><ruby>回避<rt>かいひ</rt></ruby>) と『お<ruby>言葉<rt>ことば</rt></ruby>に<ruby>甘<rt>あま</rt></ruby>えさせていただきます』(<ruby>招待<rt>しょうたい</rt></ruby><ruby>受領<rt>じゅりょう</rt></ruby>)、<ruby>社内<rt>しゃない</rt></ruby> vocabulary に<ruby>追加<rt>ついか</rt></ruby>します。」【4】 <br/>*Cụm mới: ''Toorisugimashou'' của Tanaka PMO (đi qua phòng kế) và ''Okotoba ni amaesasete itadakimasu'' (nhận lời mời). Em thêm vào kho từ vựng nội bộ.* |
 | **フオン副部長** | 「<ruby>記録<rt>きろく</rt></ruby>は？」 <br/>*Lưu hồ sơ?* |
 | **ズン** | 「Notion『 onsite playbook v2』+ CRM <ruby>白鷗社<rt>はくおうしゃ</rt></ruby>tab『2026-04 Tokyo onsite log』<ruby>両方<rt>りょうほう</rt></ruby><ruby>更新<rt>こうしん</rt></ruby>。<ruby>次回<rt>じかい</rt></ruby><ruby>担当者<rt>たんとうしゃ</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>過<rt>あやま</rt></ruby>ちをしないよう。」【5】 <br/>*Cập nhật cả Notion ''sổ tay công tác v2'' + CRM tab 白鷗 ''nhật ký công tác Tokyo 2026-04''. Để lần sau ai phụ trách không lặp lỗi.* |
 | **フオン副部長** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これがHizashi<ruby>式<rt>しき</rt></ruby><ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り。<ruby>今後<rt>こんご</rt></ruby>も<ruby>毎<rt>まい</rt></ruby> onsite/<ruby>接待<rt>せったい</rt></ruby><ruby>後<rt>ご</rt></ruby>にこの5項目で。」 <br/>*Hoàn hảo. Đây là tự đánh giá kiểu Hizashi. Sau này sau mỗi chuyến công tác / tiếp khách đều làm 5 mục này.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Cụ thể hóa thành công thành mô hình tái sử dụng được** — viết kiểu "chỉ định ghế + cụm rót + bảng tiến trình" để dự án khác áp dụng lại.
 - 【2】**Kiểu "ai + làm gì + kết quả gì"** — cụ thể như "Linh cúi chào 90° làm CFO ngại". Sau đọc lại vẫn hình dung được tình huống.
 - 【3】**Bắt buộc CHỦ + HẠN CHÓT** — "Anh OO sẽ làm OO trước OO/OO". Không có chủ + hạn chót thì "cải thiện" không bao giờ thành hiện thực.
@@ -2937,6 +2952,6 @@ vấn đề + việc cần cải thiện đã giải quyết chưa.
 | 期限 | きげん | KỲ HẠN | Hạn chót |
 | 記録 | きろく | KÝ LỤC | Ghi chép / lưu hồ sơ |
 | 文章化 | ぶんしょうか | VĂN CHƯƠNG HÓA | Viết thành văn bản |
-| 過ち | あやまち | — | Lỗi |', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 過ち | あやまち | — | Lỗi |', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 
 COMMIT;

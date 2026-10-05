@@ -34,7 +34,7 @@ Sáng sau bữa tối Q1 lúc 8:30. Dũng cần gửi mail cảm ơn tới Ōgak
 | **ハーCTO** | 「ズン、昨日のお<ruby>礼<rt>れい</rt></ruby>メール、ドラフト<ruby>見<rt>み</rt></ruby>せて。」 <br/>*Dũng, bản nháp mail cảm ơn hôm qua đưa anh xem.* |
 | **ズン** | 「<ruby>翌朝<rt>よくあさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby><ruby>送信予定<rt>そうしんよてい</rt></ruby>【1】。To = <ruby>中村<rt>なかむら</rt></ruby>CFO<ruby>様<rt>さま</rt></ruby> / <ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby> <ruby>個別<rt>こべつ</rt></ruby>4<ruby>通<rt>つう</rt></ruby>、CC = ハーCTO+フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>【2】。<ruby>各<rt>かく</rt></ruby>メールに<ruby>昨夜<rt>さくや</rt></ruby>の<ruby>和牛<rt>わぎゅう</rt></ruby>のご<ruby>感想<rt>かんそう</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>登山<rt>とざん</rt></ruby>のお<ruby>話<rt>はなし</rt></ruby>を1-2<ruby>行<rt>ぎょう</rt></ruby><ruby>引用<rt>いんよう</rt></ruby>しております【3】。」 <br/>*Em định gửi 8h sáng nay. To = anh Nakamura / anh Ōgaki / anh Matsumoto / anh Tanaka — 4 mail riêng từng người. CC = anh Hà CTO + chị Hương phó phòng. Mỗi mail em trích 1-2 dòng về wagyu hôm qua + chuyện leo núi của anh Matsumoto.* |
 | **ハーCTO** | 「いいね。<ruby>次回約束<rt>じかいやくそく</rt></ruby>は<ruby>入<rt>い</rt></ruby>れた？」 <br/>*Tốt. Hẹn lần sau em đã cho vào chưa?* |
-| **ズン** | 「はい、『<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いし、5<ruby>月<rt>がつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に<ruby>改<rt>あらた</rt></ruby>めて』と<ruby>入<rt>い</rt></ruby>れています。」【4】 <br/>*Vâng, em viết 'lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ'.* |
+| **ズン** | 「はい、『<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>伺<rt>うかが</rt></ruby>い、5<ruby>月<rt>がつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に<ruby>改<rt>あらた</rt></ruby>めて』と<ruby>入<rt>い</rt></ruby>れています。」【4】 <br/>*Vâng, em viết 'lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ'.* |
 | **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。8<ruby>時<rt>じ</rt></ruby>に<ruby>送信<rt>そうしん</rt></ruby>して、<ruby>午後<rt>ごご</rt></ruby>にハーから<ruby>中村<rt>なかむら</rt></ruby>CFOへ<ruby>補足<rt>ほそく</rt></ruby>の<ruby>謝意<rt>しゃい</rt></ruby>メールも<ruby>送<rt>おく</rt></ruby>る。」 <br/>*Hoàn hảo. 8h gửi nhé. Chiều anh sẽ gửi mail bổ sung cảm ơn anh CFO Nakamura.* |
 
 📝 **Ghi chú:**
@@ -47,7 +47,7 @@ Sáng sau bữa tối Q1 lúc 8:30. Dũng cần gửi mail cảm ơn tới Ōgak
 
 ## Câu chốt
 
-> **「<ruby>昨夜<rt>さくや</rt></ruby>はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いさせていただきます。」**
+> **「<ruby>昨夜<rt>さくや</rt></ruby>はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>伺<rt>うかが</rt></ruby>います。」**
 >
 > *Tối qua anh bận mà vẫn dành thời gian quý báu, em xin chân thành cảm ơn ạ. Lần sau bên em xin được đến thăm Tokyo.*
 
@@ -77,10 +77,10 @@ Sáng sau bữa tối Q1 lúc 8:30. Dũng cần gửi mail cảm ơn tới Ōgak
 昨夜はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。
 中村様には、ベトナムまでお越しいただきましたのに、こちらこそお気遣いをいただきまして恐縮しております。
 
-特に、〇〇様からお伺いいたしました〇〇のお話は、大変印象に残っております。
+特に、〇〇様から伺いました〇〇のお話は、大変印象に残っております。
 また、Phase 3 に向けた中村様のお言葉、改めてチームへ共有いたします。
 
-次回はぜひ当方からも東京へお伺いさせていただきたく、5月の頃改めてご相談させてください。
+次回はぜひ当方からも東京へ伺いたく、5月の頃改めてご相談させてください。
 
 末筆ながら、皆様のますますのご健勝をお祈り申し上げます。
 

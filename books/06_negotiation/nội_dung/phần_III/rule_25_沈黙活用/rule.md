@@ -20,7 +20,7 @@ Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im l
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「Better tier ¥18M、ROI 4.4 倍に位置します。」 <br/>*Better tier ¥18M, ROI ở mức 4.4 lần ạ.* |
+| **ズン** | 「Better tier ¥18M、ROI 5.1 倍に位置します。」 <br/>*Better tier ¥18M, ROI ở mức 5.1 lần ạ.* |
 | **大垣** | 「…」 <br/>*(im lặng 4 giây, suy nghĩ)* |
 | **トゥアン** | 「あの、もし価格がご<ruby>懸念<rt>けねん</rt></ruby>でしたら、scope <ruby>調整<rt>ちょうせい</rt></ruby>で ¥16M も<ruby>可能<rt>かのう</rt></ruby>です。」 <br/>*À, nếu quý anh lo về giá, điều chỉnh scope thì ¥16M cũng được ạ.* |
 | **大垣** | 「あ、¥16M も可能ですか。それで<ruby>進<rt>すす</rt></ruby>めましょう。」 <br/>*À, ¥16M cũng được à. Vậy chốt như thế nhé.* |
@@ -36,13 +36,13 @@ Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im l
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「Better tier ¥18M、ROI 4.4 倍に<ruby>位置<rt>いち</rt></ruby>します。」 <br/>*Better tier ¥18M, ROI ở mức 4.4 lần ạ.* |
+| **ズン** | 「Better tier ¥18M、ROI 5.1 倍に<ruby>位置<rt>いち</rt></ruby>します。」 <br/>*Better tier ¥18M, ROI ở mức 5.1 lần ạ.* |
 | **ズン** | (<ruby>沈黙<rt>ちんもく</rt></ruby>) <br/>*(đặt tay phải lên đùi — signal đã hẹn, giữ im lặng)* |
 | **大垣** | 「…」 <br/>*(im lặng 1 giây)* |
 | **トゥアン** | (沈黙) <br/>*(định mở miệng, thấy signal Dũng, dừng lại)* |
 | **大垣** | 「…」 <br/>*(im lặng 3 giây)* |
 | **大垣** | 「…」 <br/>*(im lặng tiếp, tổng 5 giây)* |
-| **大垣** | 「ROI 4.4 倍はインパクトありますね。<ruby>但<rt>ただ</rt></ruby>し ¥18M は<ruby>社内<rt>しゃない</rt></ruby>ハードル<ruby>高<rt>たか</rt></ruby>めです、scope か contract length で<ruby>調整余地<rt>ちょうせいよち</rt></ruby>あれば<ruby>検討<rt>けんとう</rt></ruby>します。」【1】 <br/>*ROI 4.4 lần có sức tác động đấy. Nhưng ¥18M trong nội bộ rào cao, nếu có dư địa điều chỉnh ở scope hay contract length thì chúng tôi xem xét.* |
+| **大垣** | 「ROI 5.1 倍はインパクトありますね。<ruby>但<rt>ただ</rt></ruby>し ¥18M は<ruby>社内<rt>しゃない</rt></ruby>ハードル<ruby>高<rt>たか</rt></ruby>めです、scope か contract length で<ruby>調整余地<rt>ちょうせいよち</rt></ruby>あれば<ruby>検討<rt>けんとう</rt></ruby>します。」【1】 <br/>*ROI 5.1 lần có sức tác động đấy. Nhưng ¥18M trong nội bộ rào cao, nếu có dư địa điều chỉnh ở scope hay contract length thì chúng tôi xem xét.* |
 | **ズン** | 「ありがとうございます。それでは scope <ruby>調整案<rt>ちょうせいあん</rt></ruby>と contract length <ruby>案<rt>あん</rt></ruby>、<ruby>両方<rt>りょうほう</rt></ruby>ご<ruby>用意<rt>ようい</rt></ruby>します。」 <br/>*Em cảm ơn ạ. Vậy em chuẩn bị cả phương án điều chỉnh scope lẫn contract length ạ.* |
 
 📝 **Ghi chú:**

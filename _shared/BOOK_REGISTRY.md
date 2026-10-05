@@ -91,11 +91,25 @@ title_vi, vocabulary, tags...). KHÔNG dùng tên `metadata` (đụng SQLAlchemy
 
 > Trạng thái phản ánh DB local. Production đồng bộ sau.
 
-| book_seq | Tên sách | Folder | Status | Ghi chú |
-|---|---|---|---|---|
 **Quy tắc**: 1 folder = 1 book_seq theo STT folder. Sách song ngữ (vd 01_email VN+JP)
 gộp về 1 row, dùng `curriculum_node.*_jp` cho nội dung JP và `curricula.context.title_jp`
 cho tên JP. KHÔNG tách thành 2 book_seq.
+
+> ⚠️ **THỰC TẾ ĐÃ LỆCH QUY TẮC TRÊN — cột book_seq dưới đây là số ĐANG DÙNG THẬT, không phải STT folder.**
+>
+> `01_email` đã được **tách thành 2 book_seq** (vi=1, ja=2) chứ không gộp 1 row như quy tắc.
+> Hệ quả: mọi sách sau đó **dịch một bậc** so với STT folder.
+>
+> | Folder | book_seq THẬT | curricula id |
+> |---|---|---|
+> | `01_email` (vi) | 1 | 800000001 |
+> | `01_email` (ja) | 2 | 800000002 |
+> | `02_phone` … `08_smalltalk` | 3 … 9 | 800000003 … 800000009 |
+> | `09_real_dialogues` | **10** | 800000010 |
+> | `10_business_japanese` | — | không dùng hệ này, đi `study_courses` id 8010 |
+>
+> **Không có seq nào trùng nhau** — chỉ lệch so với tên thư mục.
+> Khi cấp seq mới: tra cột "book_seq THẬT" ở bảng dưới, đừng suy từ STT folder.
 
 | book_seq | Folder | Tên sách | Status | Ghi chú |
 |---|---|---|---|---|
@@ -107,8 +121,8 @@ cho tên JP. KHÔNG tách thành 2 book_seq.
 | 6 | `06_negotiation` | Đàm phán · Đề xuất | READY TO SEED | Data cũ đã xoá |
 | 7 | `07_visit_card` | Tiếp khách · Thăm · Danh thiếp | READY TO SEED | Data cũ đã xoá |
 | 8 | `08_smalltalk` | Trò chuyện thân thiết | READY TO SEED | Data cũ đã xoá |
-| 9 | `09_real_dialogues` | Hội thoại thực tế | DRAFT | Chưa seed DB |
-| 10 | `10_business_japanese` | Business Japanese — Kính ngữ (course + lý thuyết) | READY TO SEED | Data cũ đã xoá. Reseed gộp course/curriculum/modules vào book_seq=10 dùng chung make_id(10, ...) |
+| **10** | `09_real_dialogues` | Hội thoại thực tế | **✅ ĐÃ SEED PRODUCTION** (2026-08-17) | `curricula 800000010` · **94 node** `801000001-801000094` (cắt theo `## Tình huống`, KHÔNG theo chương). **MỞ FREE TOÀN BỘ**: `is_free_override=TRUE` + `free_preview_count=9999` + 94/94 node `access_level='free'`. Build: `_shared/scripts/build_sql_book09.py` |
+| — | `10_business_japanese` | Business Japanese — Kính ngữ (course + lý thuyết) | READY TO SEED | **KHÔNG dùng `make_id`/`curricula`** — đi hệ `study_courses` id **8010**, modules 8011-8015. Vì vậy seq 10 ở trên cấp cho `09_real_dialogues` không hề đụng sách này |
 | 11 | `11_hoa_year1` | Một Năm của Hoa Y1 (Thực tập sinh ngành thực phẩm) | READY TO SEED | Data cũ đã xoá |
 | 12 | `12_hoa_year2` | Một Năm của Hoa Y2 | DRAFT | Chưa seed |
 | 13 | `13_hoa_year3` | Một Năm của Hoa Y3 | DRAFT | Chưa seed |

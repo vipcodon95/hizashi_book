@@ -41,6 +41,9 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 - 【1】**Quyền hô = cấp cao nhất bên tiếp đón** — hôm nay là Hà CTO. Khách hô trước = sai. Câu mẫu cố định: 「[công ty / dự án] の [thành công] と [継続関係] を願いまして、乾杯！」
 - 【2】**Thấp hơn ly cấp trên = kính trọng** — cùng cấp = ngang. Cấp dưới = thấp nhất. Linh (nhân viên trẻ) phải thấp hơn cả Dũng.
 - 【3】**Chạm nhẹ + giao mắt cười** = chính thức. Cụng mạnh = vỡ ly + thiếu sang.
+  ⚠️ **Ly rượu vang thì KHÔNG chạm ly chút nào** — chân ly mảnh, chạm là sứt hoặc vỡ. Cách đúng: nâng ly ngang tầm ngực/tầm mắt, giao mắt gật đầu. Bàn tiệc trong chương này có rượu vang nên đây là chi tiết dễ sai ngay tại buổi quan trọng nhất.
+- 【3b】**Ly kanpai KHÔNG bắt buộc phải là rượu.** Nâng ly bằng nước ngọt, trà, hay bia không cồn đều hợp lệ — 「ソフトドリンクで乾杯の音頭を取っても失礼にはあたりません」. Người không uống được cứ cầm đồ mình uống được mà cụng.
+  ⚠️ **Nhưng tuyệt đối không kanpai bằng NƯỚC LỌC** — 水杯 (mizu-sakazuki) là nghi thức ly biệt trước lúc vĩnh quyết. Gọi một ly trà hoặc nước ngọt là xong.
 - 【4】**Cụng xong, bên tiếp đón nhấp trước, khách uống sau** — thứ tự uống cũng giống thứ tự hô.
 
 ---

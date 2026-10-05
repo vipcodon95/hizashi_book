@@ -19,7 +19,7 @@ Sáng đàm phán Phase 3, sau buổi họp thống nhất nội bộ. Hà CTO y
 | Vai | Câu |
 |---------|-----|
 | **ハー CTO** | 「ズン、<ruby>撤退<rt>てったい</rt></ruby>ライン<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>読<rt>よ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げて。」 <br/>*Dũng, đọc hết danh sách điều kiện rút lui ra.* |
-| **ズン** | 「¥15M <ruby>以下<rt>いか</rt></ruby>です。」 <br/>*Dưới ¥15M ạ.* |
+| **ズン** | 「¥15M <ruby>未満<rt>みまん</rt></ruby>です。」 <br/>*Dưới ¥15M ạ.* |
 | **ハー CTO** | 「それだけ？IP は？SLA は？<ruby>支払<rt>しはらい</rt></ruby> net 30 か net 60 か？<ruby>大垣<rt>おおがき</rt></ruby>さんが『<ruby>価格<rt>かかく</rt></ruby> ¥18M でも、IP は<ruby>白鷗<rt>はくおう</rt></ruby><ruby>側<rt>がわ</rt></ruby> 100%』と<ruby>言<rt>い</rt></ruby>い<ruby>出<rt>だ</rt></ruby>したらどうする？」 <br/>*Chỉ vậy thôi? IP? SLA? Điều kiện thanh toán net 30 hay net 60? Anh Ōgaki bảo 'giá ¥18M cũng được, nhưng IP 100% về Hakuō' thì em làm sao?* |
 | **ズン** | 「えっ、それは…<ruby>考<rt>かんが</rt></ruby>えてなかったです。」 <br/>*Ơ, cái đó... em chưa nghĩ tới ạ.* |
 | **ハー CTO** | 「**<ruby>価格<rt>かかく</rt></ruby>は<ruby>撤退<rt>てったい</rt></ruby>ラインの 1 <ruby>軸<rt>じく</rt></ruby>でしかない**。<ruby>今<rt>いま</rt></ruby>すぐ 5 軸<ruby>書<rt>か</rt></ruby>き<ruby>出<rt>だ</rt></ruby>せ。<ruby>書<rt>か</rt></ruby>けないなら<ruby>今日<rt>きょう</rt></ruby>は<ruby>出<rt>で</rt></ruby>ない。」 <br/>*Giá chỉ là 1 trong các trục điều kiện rút lui. Viết ngay 5 trục. Không viết được thì hôm nay không đi.* |

@@ -68,7 +68,7 @@ Slide 5 của Dũng = biểu đồ so sánh Phase 1 vs Phase 2 vs Phase 3 (dự 
 ## Tránh
 
 - 3D biểu đồ bất kỳ → bóp méo nhận thức
-- Biểu đồ tròn >5 项目 → không thể so sánh các phần
+- Biểu đồ tròn >5 項目 → không thể so sánh các phần
 - Thiếu nguồn / kỳ / N → bị đánh giá "根拠不明" (không có căn cứ)
 - Cầu vồng 7 màu → nhiễu thị giác
 - Nhiều chú thích trên 1 biểu đồ → không có thông điệp chính rõ ràng

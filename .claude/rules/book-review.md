@@ -5,6 +5,54 @@
 
 ---
 
+## ⛔⛔ LUẬT SỐ MỘT: KHÔNG GÁN CHẶT TẬP TỤC VÀO CẢ DÂN TỘC
+
+> Chủ nhà nói thẳng: *"vấn đề văn hoá rất khó nói đấy. các tập tục nên phải nói theo kiểu tuỳ vùng… đừng nói gán chặt với Việt Nam và Nhật Bản."*
+
+Tập tục khác nhau theo **vùng miền · thế hệ · thành thị/nông thôn · từng gia đình · từng ngành**. Viết `người Nhật thường…` / `người Việt hay…` vừa **sai sự thật**, vừa dạy học viên nói kiểu quy chụp trước mặt khách — đúng thứ làm hỏng quan hệ mà cả bộ sách này đang dạy cách xây.
+
+### Hai chỗ, hai cách xử
+
+| Vị trí | Xử lý |
+|---|---|
+| **Lời thoại nhân vật** (dòng bắt đầu `\|`) | Chấp nhận được — người ta nói chủ quan là tự nhiên. Nhưng **tốt hơn** nếu để nhân vật tự khoanh vùng: 「私の地元では」「地域や家によって違います」「đám em từng dự」 |
+| **Văn dạy học** (luận điểm, Bí quyết, ghi chú【】, mục Tránh, câu chốt) | **PHẢI SỬA.** Đây là chỗ sách nói bằng giọng người dạy |
+
+### Bảng viết lại
+
+| Gán chặt ❌ | Viết lại ✅ |
+|---|---|
+| `người Việt thường mặc định ai cũng đọc hết` | `người gửi hay mặc định…` |
+| `người Nhật hay chưa quen kéo bún` | `khách chưa từng ăn bún nước kiểu này thường lúng túng` |
+| `đây là chỗ người Việt hay nhầm` | `đây là chỗ rất dễ nhầm` |
+| `người Nhật rất tinh ý với thứ tự` | `ở những buổi trang trọng, thứ tự là thứ người ta để ý` |
+| `đám cưới VN khách 300-500, max 1000` | `bên em 300 khách trở lên không hiếm — ở quê có khi mời cả làng, người trẻ thành phố lại làm nhỏ gọn` |
+| `Việt Nam không có văn hoá X` | `chỗ em thì không có, nhưng mỗi vùng một khác` |
+
+### Lệnh quét
+
+```python
+PAT = r'(người Nhật|người Việt|ở Nhật|ở Việt Nam|日本人は|ベトナム人は)\s*(thường|hay|luôn|đều|không|rất|ai cũng|thì)'
+# BỎ dòng bắt đầu bằng '|' (lời thoại) — chỉ soi văn dạy học
+```
+
+⚠️ **Đã dính 15 ca:** sách 09 ×4 · 04 ×3 · 07 ×2 · 08 ×1 · 03 ×3 · 05 ×2. Trong đó **2 ca do chính main Claude viết ra khi đang sửa lỗi khác** — nghĩa là khi **bổ sung nội dung mới** rất dễ tự tạo lỗi này. Sửa xong phải quét lại chính đoạn mình vừa viết.
+
+### Ca CẤM SỬA — nói về khách cụ thể, không khái quát hoá
+
+Không phải câu nào có chữ "khách Nhật" cũng sai. Giữ nguyên khi câu đang nói về **người cụ thể trong tình huống đó**:
+
+> `Tài liệu gửi đúng lúc khách bước vào phòng = khách Nhật không kịp đọc trước` — đang nói về **đoàn khách trong buổi họp này**, không phải cả dân tộc. **ĐÚNG.**
+
+Phân biệt: câu có **bối cảnh cụ thể** (buổi họp này, đoàn khách này) thì giữ; câu nêu **thuộc tính chung** ("người Nhật vốn…", "khách Nhật rất thích…") thì sửa.
+
+### Ca vừa gán chặt vừa SAI THỰC TẾ — nguy hiểm nhất
+
+`05 rule_27`: 「khách Nhật **rất chú trọng cân bằng công việc - cuộc sống**」 — vừa quy chụp, vừa sai: đó chưa phải điểm mạnh của môi trường lao động Nhật, viết vậy nghe như mỉa.
+→ Sửa sang **lý do thiết thực**: `nói trước khung giờ mình trực giúp đối phương biết khi nào liên lạc được, khỏi phải ngại khi gửi ngoài giờ`.
+
+---
+
 ## ⛔ MỤC ĐÍCH DUY NHẤT: REVIEW **NỘI DUNG** — tức các file `.md`
 
 **Đối tượng rà soát là NỘI DUNG HỌC VIÊN ĐỌC.** Cụ thể:
@@ -57,6 +105,14 @@ def strip(t):
 ```
 Đã dính 3 lần (main Claude 1, C3 1, và suýt bỏ sót lỗi rule_58 sách 02).
 
+**Biến thể nguy hiểm hơn — ruby chen ngay sau CHỮ SỐ** (sách 05):
+```
+1200<ruby>万円<rt>まんえん</rt></ruby>      ← đọc ra "1200万円", nhưng Edit theo chuỗi đó THẤT BẠI
+Phase 3 のお<ruby>見積<rt>みつ</rt></ruby>り  ← ruby cắt đôi cả từ 見積り
+```
+Sửa số tiền/số liệu là ca dễ dính nhất, vì ta hay copy con số từ bản đã strip.
+**Quy trình an toàn:** `sed -n '<dòng>p'` xem NGUYÊN VĂN (còn ruby) → copy từ đó → mới Edit.
+
 ### 1.2 Đếm thư mục ≠ đếm rule
 Nhiều sách có **thư mục rác chỉ chứa `.placeholder`** (tên slug cũ sót lại sau đổi tên). Sách 02 có 10 cái như vậy → đếm thư mục ra 70, thực tế 60 rule.
 ```bash
@@ -105,6 +161,33 @@ Quy tắc:
 - **Luôn `print()` từng file đã đổi** — rồi ĐỌC danh sách đó trước khi đi tiếp.
 - Sửa ≤ 3 chỗ thì dùng Edit, đừng viết script.
 - Script chỉ thật sự cần khi lỗi lặp đều khắp (vd: emoji strip 40/40 file).
+
+### 1.9 ⚠️ ĐỪNG bê thước đo của sách khác sang — kiểm cấu trúc sách này TRƯỚC
+**Đã dính 3 lần trong MỘT đợt (sách 08):**
+
+| Phép đo bê từ sách 02-07 | Kết quả ảo | Thực tế |
+|---|---|---|
+| Bộ lọc giản thể có `那` | "11 ký tự lạ" | `那` là **kanji Nhật** (那覇 Naha, 那珂川). Lọc lại còn `几帳面`, `没` — cũng là kanji Nhật. **0 lỗi** |
+| `\n \*\*` = emoji strip | "29 file mất emoji" | Sách 08 **không dùng** cấu trúc `📝 **Ghi chú:**` (chỉ 2/51 file có chữ "Ghi chú"). 29 ca là dòng in đậm bình thường |
+| Mục lục: so H1 với **cột 3** | "lệch 51/51" | Bảng sách 08 gộp `VN / JP` vào **cột 2**, cột 3 lặp phần JP. So đúng cột → **lệch 1/51** |
+
+Ca mục lục nguy hiểm nhất: phép đo sai **luôn trả 51/51 bất kể sách đúng hay sai** — không có cách nào tự phát hiện từ con số.
+
+**Quy trình bắt buộc trước khi đo:**
+1. `grep -n "^|" meta/mục_lục.md | head -8` — xem bảng có mấy cột, cột nào chứa gì
+2. Kiểm sách có dùng cấu trúc mình định quét không (`Ghi chú`, `<br/>` ngăn JA/VN…)
+3. Bộ lọc ký tự: chỉ giữ ký tự **chỉ có ở giản thể**, và **mở tận nơi xem ngữ cảnh** trước khi kết luận
+
+**Cấu trúc đã gặp:** sách 02-07 mục lục 4 cột (`# | Tên VN | Tên JP | Brief`), JA+VN cùng dòng ngăn `<br/>`. Sách 08 mục lục cột 2 gộp `VN / JP`, JA và VN **hai dòng riêng**. Sách 09 không có `meta/`, 8 `chương.md` dài.
+
+### 1.8 Sửa chuỗi CÓ RUBY — phải in lại dòng sau khi sửa, không chỉ in "OK"
+**Đã xảy ra (sách 06):** script thay keigo viết nhầm chuỗi đích `</ruby**います` (thừa dấu sao)
+→ **tạo ra thẻ ruby vỡ MỚI ngay khi đang sửa ruby vỡ CŨ**. Script vẫn báo "OK" vì
+chuỗi nguồn khớp; lỗi chỉ lộ khi đọc lại file.
+
+Ruby làm chuỗi dài và rối, gõ tay rất dễ sai một ký tự. Vì vậy:
+- Sau mỗi lần thay, **in lại chính dòng đó** (`print(L[d-1][:150])`), đừng in `OK`.
+- Kiểm cuối bằng cách đếm thẻ hỏng: `raw.count('</ruBy') + raw.count('ruby**')` phải = 0.
 
 ---
 
@@ -179,6 +262,35 @@ Lỗi về **Việt Nam nguy hiểm nhất** vì độc giả là người Việ
 Bên Nhật: nhân vật gán sai quê (新庄剛志 quê Fukuoka, không phải Hokkaido) · đặc sản gán sai tỉnh (黒霧島 là Miyazaki, không phải Kagoshima) · số liệu ("nhất Nhật Bản", độ cao, số gian hàng) · mốc thời gian lệch bối cảnh truyện.
 
 **→ Bắt buộc WebSearch kiểm chứng mọi khẳng định sự thật đáng ngờ.**
+
+### 🔴 D2. Khái quát hoá dân tộc — "người Nhật thường…", "người Việt hay…"
+
+**Chủ nhà đã nhắc thẳng:** *"vấn đề văn hoá rất khó nói đấy. các tập tục nên phải nói theo kiểu tuỳ vùng… đừng nói gán chặt với Việt Nam và Nhật Bản."*
+
+Tập tục khác nhau theo **vùng miền, thế hệ, thành thị/nông thôn, từng gia đình**. Gán chặt vào cả dân tộc vừa sai vừa dạy học viên nói kiểu quy chụp trước mặt khách.
+
+**Phân biệt hai chỗ:**
+
+| Vị trí | Xử lý |
+|---|---|
+| **Lời thoại nhân vật** (dòng bắt đầu bằng `\|`) | Chấp nhận được — người ta nói chủ quan là tự nhiên. Nhưng **tốt hơn** nếu nhân vật tự giới hạn: 「私の地元では…」「地域や家によって違います」 |
+| **Văn dạy học** (luận điểm, Bí quyết, ghi chú, mục Tránh) | **Phải sửa.** Đây là chỗ sách nói bằng giọng người dạy |
+
+**Cách viết lại:**
+- `người Việt thường mặc định…` → `người gửi hay mặc định…`
+- `người Nhật hay chưa quen kéo bún` → `khách chưa từng ăn bún nước kiểu này thường lúng túng`
+- `đây là chỗ người Việt hay nhầm` → `đây là chỗ rất dễ nhầm`
+- `người Nhật rất tinh ý với thứ tự` → `ở những buổi trang trọng, thứ tự là thứ người ta để ý`
+- `đám cưới VN khách 300-500, max 1000` → `bên em 300 khách trở lên không hiếm. Ở quê có khi mời cả làng, còn người trẻ thành phố lại làm nhỏ gọn`
+
+**Đã dính (sách 09, 04, 07, 08):** 4 ca văn dạy học + 3 ca lời thoại gán chặt.
+⚠️ **Hai ca là do chính main Claude viết ra trong đợt sửa cùng ngày** — khi bổ sung nội dung mới rất dễ tự tạo lỗi này.
+
+**Lệnh quét:**
+```python
+PAT=r'(người Nhật|người Việt) (thường|hay|luôn|đều|không|rất|ai cũng)'
+# bỏ dòng bắt đầu bằng '|' (lời thoại), chỉ soi văn dạy học
+```
 
 ### 🟡 E. Tiếng Việt
 - Xưng hô: **chỉ báo khi bản Nhật cho thấy người nói TỰ nói về mình** (không có `〜さん`, có `私`/`僕`/`〜いたします`). Trích cả JA lẫn VN làm bằng chứng.

@@ -1,6 +1,6 @@
 # Chương 01 — Một ngày tại triển lãm IT WEEK Tokyo / IT WEEK東京・1日同行記
 
-> **Bối cảnh.** Tháng 5/2026, Tokyo Big Sight. Japan IT Week Spring — triển lãm IT lớn nhất Đông Á, ≈950 công ty trưng bày, 3 ngày, gần 58,000 lượt khách. Cty Thiên Phát ký Phase 4 với 白鷗 xong tháng 4 → Matsumoto đề xuất 'cùng đi 1 ngày triển lãm để Dũng xem hệ sinh thái ngành IT Nhật'. Đoàn: Matsumoto, Ōgaki (Osaka lên Tokyo), Tanaka. Bên VN: Dũng + Tuấn.
+> **Bối cảnh.** Tháng 5/2026, Tokyo Big Sight. Japan IT Week Spring — triển lãm IT lớn nhất Nhật Bản, hơn 1.100 công ty trưng bày, 3 ngày, khoảng 51.000 lượt khách. Cty Thiên Phát ký Phase 4 với 白鷗 xong tháng 4 → Matsumoto đề xuất 'cùng đi 1 ngày triển lãm để Dũng xem hệ sinh thái ngành IT Nhật'. Đoàn: Matsumoto, Ōgaki (Osaka lên Tokyo), Tanaka. Bên VN: Dũng + Tuấn.
 >
 > **背景.** 2026年5月、東京ビッグサイトで開催されるJapan IT Week Spring。ティエンファットがフェーズ4契約後、松本PMが『業界エコシステムを見てもらおう』と1日同行を提案。
 
@@ -35,11 +35,11 @@
 | **ズン** | 「松本さん、おはようございます。今朝の<ruby>電車<rt>でんしゃ</rt></ruby>空いてました、新橋から30分くらいで。」<br/>*Anh Matsumoto, chào anh ạ. Tàu sáng nay vắng, từ Shinbashi khoảng 30 phút thôi.* |
 | **松本PM** | 「いいタイミング。トゥアンさんは?」<br/>*Đúng giờ ghê. Anh Tuấn đâu rồi?* |
 | **ズン** | 「トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>はホテルからタクシーで、もう少しで<ruby>着<rt>つ</rt></ruby>きます。」<br/>*Anh Tuấn đi taxi từ khách sạn, sắp tới rồi ạ.* |
-| **松本PM** | 「<ruby>了解<rt>りょうかい</rt></ruby>。大垣さんは大阪から朝イチの<ruby>新幹線<rt>しんかんせん</rt></ruby>で、9:00<ruby>過<rt>す</rt></ruby>ぎに<ruby>到着<rt>とうちゃく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。田中くんはもう中でbadge<ruby>取<rt>と</rt></ruby>ってるはずです。」<br/>*Rõ. Anh Ōgaki đi Shinkansen sớm nhất từ Osaka, qua 9 giờ đến. Tanaka chắc đã vào lấy thẻ đeo rồi.* |
+| **松本PM** | 「<ruby>了解<rt>りょうかい</rt></ruby>。大垣さんは大阪から朝イチの<ruby>新幹線<rt>しんかんせん</rt></ruby>で、9:00<ruby>過<rt>す</rt></ruby>ぎに<ruby>到着<rt>とうちゃく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。田中くんはもう中でバッジ<ruby>取<rt>と</rt></ruby>ってるはずです。」<br/>*Rõ. Anh Ōgaki đi Shinkansen sớm nhất từ Osaka, qua 9 giờ đến. Tanaka chắc đã vào lấy thẻ đeo rồi.* |
 | **ズン** | 「あ、田中さん早いですね!」<br/>*Ô, anh Tanaka đến sớm thật ạ!* |
 | **松本PM** | 「IT Week <ruby>毎年<rt>まいとし</rt></ruby>来てるからね、田中は<ruby>要領<rt>ようりょう</rt></ruby>わかってる。先に<ruby>並<rt>なら</rt></ruby>ばせて<ruby>正解<rt>せいかい</rt></ruby>だったよ。」<br/>*Năm nào Tanaka cũng đi IT Week nên rành lắm. Cho cậu ấy xếp hàng trước là đúng đấy.* |
 | **トゥアンリーダー** | 「(タクシーから降りて手を振る)松本さん、おはようございます。お待たせしました。」<br/>*(xuống taxi vẫy tay) Anh Matsumoto, chào anh. Để anh chờ rồi.* |
-| **松本PM** | 「トゥアンさんおはよう。じゃあ、まず badge 取りに行こうか。」<br/>*Anh Tuấn chào nhé. Vậy mình đi lấy thẻ đeo trước.* |
+| **松本PM** | 「トゥアンさんおはよう。じゃあ、まず バッジ 取りに行こうか。」<br/>*Anh Tuấn chào nhé. Vậy mình đi lấy thẻ đeo trước.* |
 
 
 ### Bí quyết — Chào đầu ngày
@@ -55,7 +55,7 @@
 
 | Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「おはようございます、皆さん。私のbadgeは『Hakuō Co. Ltd.』で<ruby>出<rt>で</rt></ruby>てるけど、皆さんも<ruby>会社名<rt>かいしゃめい</rt></ruby>チェックしてね、<ruby>誤字<rt>ごじ</rt></ruby>あるとあとで<ruby>困<rt>こま</rt></ruby>るから。」<br/>*Mọi người vất vả. Badge tôi in là 'Hakuō Co. Ltd.', mọi người cũng check tên công ty nhé, lỡ typo thì sau khó.* |
+| **田中PMO** | 「おはようございます、皆さん。私のバッジは『Hakuō Co. Ltd.』で<ruby>出<rt>で</rt></ruby>てるけど、皆さんも<ruby>会社名<rt>かいしゃめい</rt></ruby>チェックしてね、<ruby>誤字<rt>ごじ</rt></ruby>あるとあとで<ruby>困<rt>こま</rt></ruby>るから。」<br/>*Mọi người vất vả. Badge tôi in là 'Hakuō Co. Ltd.', mọi người cũng check tên công ty nhé, lỡ typo thì sau khó.* |
 | **ズン** | 「田中さん、おはようございます。ありがとうございます。」<br/>*Anh Tanaka, chào anh. Cảm ơn anh ạ.* |
 | **田中PMO** | 「(ズンの QR を覗き込む) 『Tien Phat Co.』、OK だね。じゃあ印刷ボタン押して。」<br/>*(nhìn QR của Dũng) 'Tien Phat Co.', OK. Bấm nút in đi.* |
 
@@ -72,10 +72,10 @@
 | Vai | Câu |
 |---------|-----|
 | **トゥアンリーダー** | 「私のは『Tien Phat Co. — Tuan Le, Tech Lead』で合ってます。」<br/>*Của em là 'Tien Phat Co. — Tuan Le, Tech Lead', đúng rồi.* |
-| **田中PMO** | 「いいね。ランヤード、<ruby>首<rt>くび</rt></ruby>にかけて<ruby>見<rt>み</rt></ruby>えるように。Hakuō としては badge <ruby>見<rt>み</rt></ruby>せて<ruby>入<rt>はい</rt></ruby>る booth とパス<ruby>入<rt>はい</rt></ruby>る booth、一日2-3か<ruby>所<rt>しょ</rt></ruby>あるから。」<br/>*Tốt. Đeo dây đeo lên cổ cho dễ thấy. Là Hakuō thì hôm nay có 2-3 gian hàng phải xuất trình thẻ mới vào được.* |
+| **田中PMO** | 「いいね。ランヤード、<ruby>首<rt>くび</rt></ruby>にかけて<ruby>見<rt>み</rt></ruby>えるように。Hakuō としては バッジ <ruby>見<rt>み</rt></ruby>せて<ruby>入<rt>はい</rt></ruby>る ブース とパス<ruby>入<rt>はい</rt></ruby>るブース、一日2-3か<ruby>所<rt>しょ</rt></ruby>あるから。」<br/>*Tốt. Đeo dây đeo lên cổ cho dễ thấy. Là Hakuō thì hôm nay có 2-3 gian hàng phải xuất trình thẻ mới vào được.* |
 | **松本PM** | 「ズンさん、ストラップの<ruby>色<rt>いろ</rt></ruby>、ベンダー<ruby>側<rt>がわ</rt></ruby>?それとも<ruby>一般来場<rt>いっぱんらいじょう</rt></ruby>?」<br/>*Dũng à, dây đeo màu gì? Gian trưng bày hay khách tham quan?* |
 | **ズン** | 「あ、これ…一般来場 (visitor) です。」<br/>*À, đây là… khách tham quan ạ.* |
-| **松本PM** | 「OK、その<ruby>方<rt>ほう</rt></ruby>が<ruby>動<rt>うご</rt></ruby>きやすい。<ruby>展示者<rt>てんじしゃ</rt></ruby>だと<ruby>自分<rt>じぶん</rt></ruby>の booth <ruby>守<rt>まも</rt></ruby>らなきゃいけないからね。」<br/>*OK, vậy đi lại dễ hơn. Người trưng bày thì phải canh gian hàng của mình suốt.* |
+| **松本PM** | 「OK、その<ruby>方<rt>ほう</rt></ruby>が<ruby>動<rt>うご</rt></ruby>きやすい。<ruby>展示者<rt>てんじしゃ</rt></ruby>だと<ruby>自分<rt>じぶん</rt></ruby>の ブース <ruby>守<rt>まも</rt></ruby>らなきゃいけないからね。」<br/>*OK, vậy đi lại dễ hơn. Người trưng bày thì phải canh gian hàng của mình suốt.* |
 
 
 ### Bí quyết — Màu thẻ nói lên tất cả + tên Việt khi đăng ký sự kiện ở Nhật
@@ -151,7 +151,7 @@ Bạn không cần biết tất cả. **1 câu hỏi sắc** đủ để khách 
 | **松本PM** | 「ありがとうございます。ズンさんのチームのおかげです。」<br/>*Cảm ơn anh, nhờ team của Dũng cả.* |
 | **フン** | 「(ズンに)後で 5 分<ruby>時間<rt>じかん</rt></ruby>あれば<ruby>情報交換<rt>じょうほうこうかん</rt></ruby>しよう、Slack で<ruby>時間<rt>じかん</rt></ruby><ruby>貼<rt>は</rt></ruby>っとく。」<br/>*(với Dũng) Lát có 5 phút thì trao đổi thông tin chút, tao gửi Slack hẹn giờ.* |
 | **ズン** | 「了解、12 時のランチ後とかどう?」<br/>*OK, sau ăn trưa 12 giờ được không?* |
-| **フン** | 「OK、僕も booth 13:00 から 15 分空きあるから。」<br/>*OK, tao cũng trống 15 phút từ 1 giờ ở gian hàng.* |
+| **フン** | 「OK、僕も ブース 13:00 から 15 分空きあるから。」<br/>*OK, tao cũng trống 15 phút từ 1 giờ ở gian hàng.* |
 
 *[Đoàn Hakuō đi vòng xem trưng bày. Tanaka chỉ vào bảng tình huống thực tế trên tường.]*
 
@@ -251,7 +251,7 @@ Gian hàng có trò chơi phát quà = cơ hội **xây thiện cảm cá nhân*
 | **松本PM** | 「初めまして、お話伺っていました。」<br/>*Rất hân hạnh, tôi có nghe nói.* |
 | **フン** | 「(松本+大垣+田中に<ruby>名刺<rt>めいし</rt></ruby><ruby>渡<rt>わた</rt></ruby>す)<ruby>失礼<rt>しつれい</rt></ruby>します、お<ruby>時間<rt>じかん</rt></ruby> 1分だけ。ベトナム IT <ruby>業界<rt>ぎょうかい</rt></ruby>の<ruby>合同<rt>ごうどう</rt></ruby>イベント、<ruby>来年<rt>らいねん</rt></ruby> 6 月に Tokyo で<ruby>計画<rt>けいかく</rt></ruby>しています。Hakuō <ruby>様<rt>さま</rt></ruby>もぜひ。」<br/>*(đưa danh thiếp cho Matsumoto, Ōgaki, Tanaka) Xin phép, chỉ 1 phút thôi. Sự kiện chung của ngành IT Việt Nam, tháng 6 năm sau dự định tổ chức tại Tokyo. Mời quý Hakuō tham dự.* |
 | **松本PM** | 「いいね、<ruby>案内<rt>あんない</rt></ruby>くれたら<ruby>検討<rt>けんとう</rt></ruby>します。」<br/>*Hay đó, có thông tin gửi tôi sẽ xem xét.* |
-| **フン** | 「ありがとうございます。じゃあ、私 booth 戻ります。ズン、また Slack で。」<br/>*Cảm ơn anh. Vậy tôi về gian hàng. Dũng, lát Slack nhé.* |
+| **フン** | 「ありがとうございます。じゃあ、私 ブース 戻ります。ズン、また Slack で。」<br/>*Cảm ơn anh. Vậy tôi về gian hàng. Dũng, lát Slack nhé.* |
 | **ズン** | 「了解、後で。」<br/>*OK, lát.* |
 
 
@@ -289,7 +289,7 @@ Bữa trưa = **cửa sổ vàng nhất** trong ngày để chuyển từ 'công
 | **トゥアンリーダー** | 「<ruby>同感<rt>どうかん</rt></ruby>です。『70% automation + 30% human review』というAndrewのフレーム、Phase 4のAI<ruby>レビュー<rt>れびゅー</rt></ruby>モジュールにそのまま<ruby>使<rt>つか</rt></ruby>えそうですね。」<br/>*Em cũng nghĩ vậy. Frame '70% automation + 30% human review' của Andrew áp thẳng vào module AI review Phase 4 được.* |
 | **松本PM** | 「いいね、<ruby>来週<rt>らいしゅう</rt></ruby>のレビュー<ruby>会議<rt>かいぎ</rt></ruby>でその<ruby>話<rt>はなし</rt></ruby>、<ruby>議題<rt>ぎだい</rt></ruby>に<ruby>入<rt>い</rt></ruby>れよう。ズンさん、<ruby>議事録<rt>ぎじろく</rt></ruby>に Andrew のフレームをメモっといて。」<br/>*Hay, họp review tuần sau đưa vào agenda. Dũng à, ghi note frame của Andrew vào biên bản nhé.* |
 | **ズン** | 「70-30 ですね、メモしました。<ruby>発表<rt>はっぴょう</rt></ruby>スライド、QR で<ruby>公式<rt>こうしき</rt></ruby>サイトに<ruby>上<rt>あ</rt></ruby>がるみたいだから後で<ruby>送<rt>おく</rt></ruby>ります。」<br/>*70-30 ạ, em ghi rồi. Slide bài nói lên QR site chính thức, lát em gửi link.* |
-| **松本PM** | 「お願いね。次、白鷗のbooth寄ろうか、3:30から。」<br/>*Nhờ cậu. Tiếp theo qua gian hàng Hakuō nhé, 3:30.* |
+| **松本PM** | 「お願いね。次、白鷗のブース寄ろうか、3:30から。」<br/>*Nhờ cậu. Tiếp theo qua gian hàng Hakuō nhé, 3:30.* |
 | **田中PMO** | 「うん、井上が 4:00 までで<ruby>終<rt>お</rt></ruby>わるから先に<ruby>挨拶<rt>あいさつ</rt></ruby>しに行こう。」<br/>*Ừ, Inoue làm tới 4:00 thì hết, mình qua chào trước đi.* |
 
 
@@ -317,7 +317,7 @@ Khách dẫn bạn nghe bài phát biểu chính = bạn được **chia sẻ 'k
 | **井上** | 「ありがとう。今日 200名くらい来てくれてる。Smart Bank Assistant の demo は<ruby>午前<rt>ごぜん</rt></ruby>で 8 <ruby>回<rt>かい</rt></ruby>、<ruby>午後<rt>ごご</rt></ruby>でこれから 5 <ruby>回<rt>かい</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。」<br/>*Cảm ơn cậu. Hôm nay khoảng 200 khách. Demo Smart Bank Assistant sáng 8 lần, chiều dự định thêm 5 lần.* |
 | **ズン** | 「お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です。<ruby>手伝<rt>てつだ</rt></ruby>えることありますか?フライヤー<ruby>配<rt>くば</rt></ruby>るとか、<ruby>写真<rt>しゃしん</rt></ruby><ruby>撮<rt>と</rt></ruby>るとか。」<br/>*Anh vất vả ạ. Có gì em phụ được không? Phát flyer, chụp ảnh chẳng hạn.* |
 | **井上** | 「えっ、いいの?じゃあ、3:45 の demo の<ruby>時<rt>とき</rt></ruby>に、フライヤーを<ruby>横<rt>よこ</rt></ruby>で<ruby>配<rt>くば</rt></ruby>ってくれる?<ruby>助<rt>たす</rt></ruby>かる。」<br/>*Ơ, được hả? Vậy lúc demo 3:45, phụ phát flyer bên cạnh giúp anh nhé? Cứu anh.* |
-| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です、3:45 まで booth <ruby>内<rt>ない</rt></ruby>で<ruby>待機<rt>たいき</rt></ruby>します。」<br/>*Vâng, em đợi trong gian hàng tới 3:45.* |
+| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です、3:45 まで ブース <ruby>内<rt>ない</rt></ruby>で<ruby>待機<rt>たいき</rt></ruby>します。」<br/>*Vâng, em đợi trong gian hàng tới 3:45.* |
 
 *[Matsumoto rời đi xem demo, Tanaka ngồi nghỉ ghế, Tuấn đi xem khu trưng bày kỹ thuật. Ōgaki ở lại với Inoue.]*
 

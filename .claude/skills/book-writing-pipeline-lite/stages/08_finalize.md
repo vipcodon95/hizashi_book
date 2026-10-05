@@ -114,7 +114,9 @@ Issues từ council/consistency chưa fix vì lý do specific:
 Next steps cho user:
 1. Đọc / proofread thủ công 1-2 chương spot-check
 2. Xuất bản: convert markdown → ePub / PDF / web (dùng pandoc hoặc tool tương tự)
-3. KHÔNG seed DB — sách lite chỉ là content reading, không vào Hizashi app
+3. Seed DB: pipeline lite KHÔNG tự sinh SQL, nhưng sách lite **vẫn seed được** nếu user muốn đưa vào app.
+   Tiền lệ: sách 09 lên production 17/08/2026 (94 node, cắt theo `## Tình huống`).
+   Script mẫu: `_shared/scripts/build_sql_book09.py`. Xem CLAUDE.md mục "Sách LITE VẪN seed DB được".
 4. Update memory `book_<NN>_<name>.md` đánh dấu hoàn thành
 ```
 
@@ -151,8 +153,8 @@ Next:
 ## Constraints
 
 - KHÔNG fix issues mà council/review không flag (no scope creep)
-- KHÔNG build SQL (vì không có exercises JSON)
-- KHÔNG seed DB
+- KHÔNG build SQL trong pipeline (vì không có exercises JSON)
+- KHÔNG tự seed DB — nhưng nếu user yêu cầu thì làm được, xem note ở "Next steps"
 - Outstanding > 5 → flag warning trong revision log
 
 ## Failure handling

@@ -35,13 +35,13 @@ Cast như sách 04. Bổ sung scenario:
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 01 | Checklist 7 câu hỏi trước khi soạn | プレゼン準備の7つの問い | Audience / Goal / Time / Setting / Output / Risk / Backup [TEMPLATE: checklist] |
-| 02 | Quy tắc 1-slide-1-message | 1スライド1メッセージ | Mỗi slide có 1 takeaway. Title = takeaway, không phải topic |
+| 01 | Danh sách 7 câu hỏi trước khi soạn | プレゼン準備の7つの問い | Audience / Goal / Time / Setting / Output / Risk / Backup [TEMPLATE: checklist] |
+| 02 | Quy tắc mỗi slide một thông điệp | 1スライド1メッセージ | Mỗi slide có 1 takeaway. Title = takeaway, không phải topic |
 | 03 | Đường mạch câu chuyện (SCQA) | ストーリーアーク | Situation → Complication → Question → Answer |
-| 04 | Visual hierarchy & font | 視覚階層・フォント | Size hierarchy, alignment, white space [TEMPLATE: checklist] |
-| 05 | Color psychology JP business | 色彩心理 | Conservative palette, avoid red except CTA, light gray bg |
-| 06 | Density rule (10-20-30) | 密度ルール | 10 slide / 20 phút / 30pt font tối thiểu |
-| 07 | Backup plan (Plan B) | バックアップ計画 | Crisis: PDF backup, offline demo, mobile hotspot |
+| 04 | Phân cấp thị giác & phông chữ | 視覚階層・フォント | Size hierarchy, alignment, white space [TEMPLATE: checklist] |
+| 05 | Tâm lý màu sắc trong kinh doanh Nhật | 色彩心理 | Conservative palette, avoid red except CTA, light gray bg |
+| 06 | Quy tắc mật độ (10-20-30) | 密度ルール | 10 slide / 20 phút / 30pt font tối thiểu |
+| 07 | Phương án dự phòng (Plan B) | バックアップ計画 | Crisis: PDF backup, offline demo, mobile hotspot |
 
 ---
 
@@ -49,12 +49,12 @@ Cast như sách 04. Bổ sung scenario:
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 08 | Hook 30 giây mở | 30秒オープニング | First impression: stat / question / story / quote |
-| 09 | Tự giới thiệu khi pitch | プレゼン自己紹介 | Cty → Vai trò → Why-me trong 30s |
-| 10 | Bối cảnh + agenda speech | 背景＋アジェンダ発話 | Cấu trúc: bối cảnh chung → vấn đề → roadmap pitch |
-| 11 | Hook story / data / question | フックの3パターン | Pick 1 pattern theo audience + topic |
-| 12 | Mood setting cho khách Nhật conservative | 日本顧客向けムード作り | Tone serious-but-warm, avoid US-style hype |
-| 13 | Time-keeping promise | 時間管理の約束 | "本日30分でPhase 3スコープを決めたい" — promise rõ |
+| 08 | 30 giây mở đầu thu hút | 30秒オープニング | First impression: stat / question / story / quote |
+| 09 | Tự giới thiệu khi thuyết trình | プレゼン自己紹介 | Cty → Vai trò → Why-me trong 30s |
+| 10 | Bối cảnh + trình bày chương trình | 背景＋アジェンダ発話 | Cấu trúc: bối cảnh chung → vấn đề → roadmap pitch |
+| 11 | 3 kiểu mở đầu thu hút | フックの3パターン | Pick 1 pattern theo audience + topic |
+| 12 | Tạo bầu không khí cho khách Nhật điềm đạm | 日本顧客向けムード作り | Tone serious-but-warm, avoid US-style hype |
+| 13 | Cam kết giữ đúng giờ | 時間管理の約束 | "本日30分でPhase 3スコープを決めたい" — promise rõ |
 
 ---
 
@@ -62,14 +62,14 @@ Cast như sách 04. Bổ sung scenario:
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 14 | Logical flow markers | 論理マーカー | まず / 次に / 最後に — guide audience qua flow |
-| 15 | Data presentation | データ提示 | Chart đúng loại (bar/line/pie), source ghi rõ |
-| 16 | Demo flow trong pitch | デモの流れ | Setup → user journey → key moment → recap |
-| 17 | So sánh phương án (matrix) | 比較マトリクス | Pros/cons table, recommend rõ |
-| 18 | Customer voice / case study | 顧客の声・事例 | Testimonial format: situation → result → quote |
-| 19 | Pricing slide tactful | 価格スライドの作り方 | Anchor → tier → ROI |
-| 20 | Risk & mitigation | リスクと対策 | Show 3-5 risks + mitigation cụ thể |
-| 21 | Roadmap visualization | ロードマップ可視化 | Phase timeline, milestones, owner [TEMPLATE: report] |
+| 14 | Dấu hiệu luồng logic | 論理マーカー | まず / 次に / 最後に — guide audience qua flow |
+| 15 | Trình bày dữ liệu | データ提示 | Chart đúng loại (bar/line/pie), source ghi rõ |
+| 16 | Luồng demo | デモの流れ | Setup → user journey → key moment → recap |
+| 17 | So sánh phương án (bảng so sánh) | 比較マトリクス | Pros/cons table, recommend rõ |
+| 18 | Lời chứng thực của khách | 顧客の声・事例 | Testimonial format: situation → result → quote |
+| 19 | Slide giá cả khéo léo | 価格スライドの作り方 | Anchor → tier → ROI |
+| 20 | Rủi ro và biện pháp đối phó | リスクと対策 | Show 3-5 risks + mitigation cụ thể |
+| 21 | Trực quan hóa lộ trình | ロードマップ可視化 | Phase timeline, milestones, owner [TEMPLATE: report] |
 
 ---
 
@@ -77,13 +77,13 @@ Cast như sách 04. Bổ sung scenario:
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 22 | Mời Q&A formal | Q&A導入 | "ご質問・ご意見をいただけますでしょうか" |
+| 22 | Mời Q&A trang trọng | Q&A導入 | "ご質問・ご意見をいただけますでしょうか" |
 | 23 | Trả lời câu hỏi khó | 難しい質問への対応 | LASR: Listen → Acknowledge → Solve → Redirect |
-| 24 | 持ち帰り cho câu chưa biết | 不明事項の持ち帰り | Cross-ref sách 03/04. Honest "持ち帰り + deadline" |
-| 25 | Đối phó câu hostile | 敵対的質問への切り返し | Bridge phrase + reframe + answer |
-| 26 | Closing với CTA | クロージング＋CTA | Recap 3 điểm → Call to Action rõ |
-| 27 | Thank-you slide | 謝辞スライド | Format chuẩn + contact info |
-| 28 | Post-pitch follow-up email | 事後フォローメール | Trong 24h: đính kèm slides + recap + next step [TEMPLATE: email_followup] |
+| 24 | Mang về xem xét cho câu chưa biết | 不明事項の持ち帰り | Cross-ref sách 03/04. Honest "持ち帰り + deadline" |
+| 25 | Đối phó câu hỏi gay gắt | 敵対的質問への切り返し | Bridge phrase + reframe + answer |
+| 26 | Phần kết với CTA | クロージング＋CTA | Recap 3 điểm → Call to Action rõ |
+| 27 | Slide cảm ơn | 謝辞スライド | Format chuẩn + contact info |
+| 28 | Email phản hồi sau buổi thuyết trình | 事後フォローメール | Trong 24h: đính kèm slides + recap + next step [TEMPLATE: email_followup] |
 
 ---
 
@@ -91,13 +91,13 @@ Cast như sách 04. Bổ sung scenario:
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 29 | Online presentation | オンラインプレゼン | Camera, lighting, voice projection, share screen |
-| 30 | Hybrid presentation | ハイブリッドプレゼン | Cân bằng đối tượng online + offline |
-| 31 | Tech failure recovery | 技術トラブル復旧 | Crisis flow: acknowledge → switch → entertain |
-| 32 | Co-presenter handoff | 共同プレゼンの引き継ぎ | Verbal handoff "それでは、ハーCTOにバトンタッチ" |
-| 33 | Recording + share | 録画と共有 | Permission ask + edit + distribution |
-| 34 | Self-review checklist | 自己評価 | 12-item rubric [TEMPLATE: checklist] |
-| 35 | Iteration cycle | 改善サイクル | Rehearse → pilot → live → retro |
+| 29 | Thuyết trình trực tuyến | オンラインプレゼン | Camera, lighting, voice projection, share screen |
+| 30 | Thuyết trình kết hợp | ハイブリッドプレゼン | Cân bằng đối tượng online + offline |
+| 31 | Xử lý sự cố kỹ thuật | 技術トラブル復旧 | Crisis flow: acknowledge → switch → entertain |
+| 32 | Bàn giao giữa người đồng trình bày | 共同プレゼンの引き継ぎ | Verbal handoff "それでは、ハーCTOにバトンタッチ" |
+| 33 | Quay video + chia sẻ | 録画と共有 | Permission ask + edit + distribution |
+| 34 | Bảng tiêu chí tự đánh giá | 自己評価 | 12-item rubric [TEMPLATE: checklist] |
+| 35 | Chu kỳ cải thiện | 改善サイクル | Rehearse → pilot → live → retro |
 
 ---
 

@@ -144,19 +144,14 @@ def build_curriculum_insert(book_json: dict) -> str:
         "'published', "
         "NOW()"
         ") "
+        # CHỈ cập nhật NỘI DUNG. KHÔNG đụng cột trạng thái/vận hành
+        # (is_active, is_deleted, is_public, is_system, status,
+        #  free_preview_count, category, tenant_id) — những cột này có thể
+        # đã được chỉnh tay trên production, ghi đè sẽ mất cấu hình thật.
         "ON CONFLICT (id) DO UPDATE SET "
-        "type = EXCLUDED.type, "
         "title = EXCLUDED.title, "
         "introduction = EXCLUDED.introduction, "
         "introduction_jp = EXCLUDED.introduction_jp, "
-        "category = EXCLUDED.category, "
-        "tenant_id = EXCLUDED.tenant_id, "
-        "is_system = EXCLUDED.is_system, "
-        "is_public = EXCLUDED.is_public, "
-        "is_active = EXCLUDED.is_active, "
-        "is_deleted = EXCLUDED.is_deleted, "
-        "free_preview_count = EXCLUDED.free_preview_count, "
-        "status = EXCLUDED.status, "
         "updated_at = NOW();"
     )
 
@@ -203,16 +198,13 @@ def build_node_insert(book_entry: BookEntry, node_meta: dict, order_index: int) 
         "TRUE, FALSE, "
         "NOW()"
         ") "
+        # CHỈ cập nhật NỘI DUNG (tiêu đề + thân bài). KHÔNG đụng
+        # curriculum_id, order_index, access_level, tenant_id,
+        # is_active, is_deleted — đây là cột vận hành, có thể đã được
+        # chỉnh tay trên production (khoá bài, đổi bài miễn phí, sắp xếp lại).
         "ON CONFLICT (id) DO UPDATE SET "
-        "curriculum_id = EXCLUDED.curriculum_id, "
-        "node_type = EXCLUDED.node_type, "
         "node_title = EXCLUDED.node_title, "
         "node_content = EXCLUDED.node_content, "
-        "tenant_id = EXCLUDED.tenant_id, "
-        "order_index = EXCLUDED.order_index, "
-        "access_level = EXCLUDED.access_level, "
-        "is_active = EXCLUDED.is_active, "
-        "is_deleted = EXCLUDED.is_deleted, "
         "updated_at = NOW();"
     )
 

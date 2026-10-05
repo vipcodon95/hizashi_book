@@ -15,7 +15,7 @@
 
 ## Bối cảnh
 
-Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp Zoom với Matsumoto + Sato + Kato để chốt lịch onsite tháng 9 → nhắc đến "trùng Trung thu" → khách hỏi sâu.
+Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 25/9 dương). Dũng họp Zoom với Matsumoto + Sato + Kato để chốt lịch onsite tháng 9 → nhắc đến "trùng Trung thu" → khách hỏi sâu.
 
 ---
 
@@ -25,8 +25,8 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「ズンさん、9月7日は<ruby>祝日<rt>しゅくじつ</rt></ruby>?」 |
-|  | *Dũng, 7/9 có phải ngày lễ không?* |
+| **松本** | 「ズンさん、9月25日は<ruby>祝日<rt>しゅくじつ</rt></ruby>?」 |
+|  | *Dũng, 25/9 có phải ngày lễ không?* |
 | **ズン** | 「祝日ではないですが、**<ruby>中秋節<rt>ちゅうしゅうせつ</rt></ruby>(Tết Trung Thu)**で、**ベトナムの子供のお<ruby>祭<rt>まつ</rt></ruby>り**です。」 |
 |  | *Không phải nghỉ lễ ạ, nhưng là Trung thu — Tết của trẻ con VN.* |
 | **松本** | 「あ、中秋節ってアジア共通?」 |
@@ -129,7 +129,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 
 ```
 ■ TRUNG THU:
-「9月7日は中秋節、ベトナムの子供のお祭りです。」
+「9月25日は中秋節、ベトナムの子供のお祭りです。」
 「お盆と違って『次世代』が中心で、雰囲気が180度違います。」
 「子供たちが赤い星型の提灯を持って獅子舞を見ながら街を歩きます。」
 「Bánh Trung Thu(月餅)は<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby><ruby>入<rt>い</rt></ruby>りもあって衝撃受けます(笑)」

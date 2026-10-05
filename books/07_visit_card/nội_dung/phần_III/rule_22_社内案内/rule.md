@@ -43,7 +43,7 @@
 | **ズン** | 「**お<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってもよろしいでしょうか**【2】？team合影として<ruby>記念<rt>きねん</rt></ruby>に。」 <br/>*Em xin phép chụp ảnh được không ạ? Để làm kỷ niệm chung của team ạ.* |
 | **田中PMO** | 「team の<ruby>許可<rt>きょか</rt></ruby>も取りますね。…許可出ました。dev team <ruby>全体<rt>ぜんたい</rt></ruby>のみ、<ruby>個人<rt>こじん</rt></ruby>特定不可の<ruby>構図<rt>こうず</rt></ruby>でお願いします。」 <br/>*Để tôi hỏi team đã. ...OK rồi. Chỉ team toàn cảnh, bố cục không nhận diện cá nhân nhé.* |
 | **ズン** | 「ありがとうございます。」 <br/>*Cảm ơn anh ạ.* |
-| **田中PMO** | 「こちらは<ruby>別件<rt>べっけん</rt></ruby>のmeeting中で、お通りすぎいたしましょう。」 <br/>*Phòng này đang họp việc khác, mình đi qua thôi nhé.* |
+| **田中PMO** | 「こちらは<ruby>別件<rt>べっけん</rt></ruby>のmeeting中で、通り過ぎましょう。」 <br/>*Phòng này đang họp việc khác, mình đi qua thôi nhé.* |
 | **ズン + トゥアン**【3】 | *(im lặng đi qua)* <br/>*(im lặng theo Tanaka, không nhìn vào phòng kế)* |
 | **田中PMO** | 「こちらから新宿の<ruby>街並<rt>まちな</rt></ruby>みがご覧いただけます。」 <br/>*Từ đây các anh có thể ngắm phố Shinjuku.* |
 | **ズン** | 「**こちらの<ruby>景色<rt>けしき</rt></ruby>は<ruby>撮影<rt>さつえい</rt></ruby>してもよろしいでしょうか**【4】？<ruby>建物<rt>たてもの</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>を含む<ruby>可能性<rt>かのうせい</rt></ruby>があれば撮影しません。」 <br/>*Em xin phép chụp cảnh này có được không ạ? Nếu có thể chụp phải tòa khác thì em không chụp ạ.* |

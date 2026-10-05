@@ -70,7 +70,7 @@ Tên cty Nhật hay bị nhầm lẫn kanji:
 |---------|-----|
 | **佐々木 (開発)** | 「(<ruby>窓<rt>まど</rt></ruby>の<ruby>外<rt>そと</rt></ruby>を見て)…うわ、すごい<ruby>数<rt>かず</rt></ruby>のバイク。<ruby>事故<rt>じこ</rt></ruby>にならない?」<br/>*(nhìn ra cửa sổ) Wow, xe máy nhiều khủng. Không tai nạn à?* |
 | **林 (営業)** | 「(<ruby>架空<rt>かくう</rt></ruby>、<ruby>緊張<rt>きんちょう</rt></ruby>)<ruby>歩道<rt>ほどう</rt></ruby>もバイクが<ruby>走<rt>はし</rt></ruby>ってる…」<br/>*(nhân vật phụ, lo) Lề đường cũng có xe máy chạy…* |
-| **ズン** | 「(笑って)はい、HCMC は<ruby>約<rt>やく</rt></ruby>700<ruby>万台<rt>まんだい</rt></ruby>のバイクが<ruby>登録<rt>とうろく</rt></ruby>されてます。<ruby>一見<rt>いっけん</rt></ruby>カオスですが、<ruby>実<rt>じつ</rt></ruby>は<ruby>皆<rt>みな</rt></ruby>さんが<ruby>暗黙<rt>あんもく</rt></ruby>のリズムで<ruby>動<rt>うご</rt></ruby>いてて、<ruby>事故率<rt>じこりつ</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>より<ruby>低<rt>ひく</rt></ruby>いんですよ。」<br/>*(cười) Vâng, HCMC có khoảng 7 triệu xe máy đăng ký. Nhìn chaos nhưng thật ra mọi người chạy theo nhịp ngầm, tỷ lệ tai nạn thấp hơn Tokyo.* |
+| **ズン** | 「(笑って)はい、HCMC は<ruby>約<rt>やく</rt></ruby>700<ruby>万台<rt>まんだい</rt></ruby>のバイクが<ruby>登録<rt>とうろく</rt></ruby>されてます。<ruby>一見<rt>いっけん</rt></ruby>カオスですが、<ruby>実<rt>じつ</rt></ruby>は<ruby>皆<rt>みな</rt></ruby>さんが<ruby>暗黙<rt>あんもく</rt></ruby>のリズムで<ruby>動<rt>うご</rt></ruby>いてて、<ruby>慣<rt>な</rt></ruby>れると<ruby>読<rt>よ</rt></ruby>めるようになります。ただ<ruby>事故<rt>じこ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>より<ruby>多<rt>おお</rt></ruby>いので、<ruby>道路<rt>どうろ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>るときは<ruby>私<rt>わたし</rt></ruby>が<ruby>横<rt>よこ</rt></ruby>につきます。」<br/>*(cười) Vâng, HCMC có khoảng 7 triệu xe máy đăng ký. Nhìn chaos nhưng thật ra mọi người chạy theo nhịp ngầm, quen rồi thì đọc được nhịp đó. Nhưng tai nạn ở đây vẫn nhiều hơn Nhật, nên lúc qua đường em đi kèm bên cạnh anh nhé.* |
 | **松本PM** | 「<ruby>本<rt>ほん</rt></ruby>でも<ruby>読<rt>よ</rt></ruby>んだことあるけど、<ruby>実際<rt>じっさい</rt></ruby>見ると<ruby>違<rt>ちが</rt></ruby>うな。<ruby>圧倒的<rt>あっとうてき</rt></ruby>。」<br/>*Tôi đọc sách rồi nhưng nhìn thực tế khác hẳn. Choáng ngợp.* |
 | **田中PMO** | 「ズンさん、<ruby>信号待<rt>しんごうま</rt></ruby>ちでバイクが<ruby>交差点<rt>こうさてん</rt></ruby><ruby>埋<rt>う</rt></ruby>まるね。<ruby>歩行者<rt>ほこうしゃ</rt></ruby>どうやって<ruby>渡<rt>わた</rt></ruby>るの?」<br/>*Dũng à, đèn đỏ xe máy lấp đầy ngã tư nhỉ. Người đi bộ qua đường thế nào?* |
 | **ズン** | 「コツがあります。ゆっくり、<ruby>止<rt>と</rt></ruby>まらず、<ruby>一定<rt>いってい</rt></ruby>の<ruby>速度<rt>そくど</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>く。バイクは<ruby>流<rt>なが</rt></ruby>れてくるけど、<ruby>自然<rt>しぜん</rt></ruby>に<ruby>避<rt>さ</rt></ruby>けてくれる。<ruby>明日<rt>あした</rt></ruby><ruby>朝<rt>あさ</rt></ruby>、Phạm Ngũ Lão で<ruby>実演<rt>じつえん</rt></ruby>しますね(笑)」<br/>*Có mẹo ạ. Đi chậm, không dừng, tốc độ đều. Xe máy chạy tới sẽ tự né. Sáng mai em demo ở phố Phạm Ngũ Lão (cười)* |
@@ -262,7 +262,7 @@ Khách đề nghị phiên dịch trực tiếp = không thoải mái nhưng là
 
 Dẫn khách JP vào quán bình dân thay vì nhà hàng cao cấp = dấu hiệu tin tưởng + quan hệ đã sâu:
 - **Chỉ chọn quán bình dân khi quan hệ đã ở mức 2+** — lần đầu đến thăm thường tránh.
-- **Demo cách ăn** — người Nhật hay chưa quen kéo bún + múc nước bằng muỗng.
+- **Demo cách ăn** — khách chưa từng ăn bún nước kiểu này thường lúng túng ở chỗ kéo bún và múc nước bằng muỗng. Cứ làm mẫu tự nhiên một lần, đừng hỏi 'anh biết ăn chưa?'.
 - **Câu chuyện đi kèm** — '6 tiếng ninh xương' = truyền dạy văn hóa ẩm thực.
 - **Tôn trọng yêu cầu ăn uống** — Tanaka mua phở rau quán bên cạnh, vẫn ngồi cùng = tiếp đón chu đáo.
 - Đừng chọn quán quá tệ (không nhà vệ sinh / bàn bẩn) — bản sắc địa phương ≠ thử thách khách JP.
@@ -270,15 +270,15 @@ Dẫn khách JP vào quán bình dân thay vì nhà hàng cao cấp = dấu hi�
 
 ---
 
-## Tình huống 7 — Thứ Ba 18:00 · Quán bar sân thượng Saigon Saigon (Caravelle Hotel) nhìn ra sông Sài Gòn
+## Tình huống 7 — Thứ Ba 16:30 · Quán bar sân thượng Saigon Saigon (Caravelle Hotel) nhìn ra sông Sài Gòn
 
-*Quán bar sân thượng nổi tiếng quận 1, tầm nhìn 360°. Đoàn JP + Hương + Dũng + Tuấn gọi bia + cocktail. Trời mưa to bất ngờ 18:30 — phải dồn vào trong, mất tầm nhìn.*
+*Quán bar sân thượng nổi tiếng quận 1, tầm nhìn 360°. Đoàn JP + Hương + Dũng + Tuấn gọi bia + cocktail. Trời mưa to bất ngờ 17:00 — phải dồn vào trong, mất tầm nhìn.*
 
 | Vai | Câu |
 |---------|-----|
 | **松本PM** | 「(rooftop で<ruby>乾杯<rt>かんぱい</rt></ruby>)HCMC の<ruby>景色<rt>けしき</rt></ruby>、<ruby>最高<rt>さいこう</rt></ruby>だね。リバービュー。」<br/>*(trên sân thượng, nâng ly) Cảnh HCMC tuyệt nhỉ. Nhìn thấy cả sông.* |
 
-*[10 phút sau, mây đen kéo. 18:30 mưa rào to. Mọi người vội vàng dọn ly chạy vào trong.]*
+*[10 phút sau, mây đen kéo. 17:00 mưa rào to. Mọi người vội vàng dọn ly chạy vào trong.]*
 
 | Vai | Câu |
 |---------|-----|
@@ -289,10 +289,10 @@ Dẫn khách JP vào quán bình dân thay vì nhà hàng cao cấp = dấu hi�
 | **田中PMO** | 「(タオルで<ruby>頭<rt>あたま</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>く)ありがとう、トゥアンさん<ruby>気<rt>き</rt></ruby>が<ruby>利<rt>き</rt></ruby>く。」<br/>*(dùng khăn lau đầu) Cảm ơn, anh Tuấn tinh tế.* |
 | **林 (営業)** | 「(<ruby>窓<rt>まど</rt></ruby>の<ruby>外<rt>そと</rt></ruby>を見て)…あ、ほんとに、もう<ruby>小降<rt>こぶ</rt></ruby>りになってきた!」<br/>*(nhìn ra cửa sổ)… à, thật rồi, mưa nhỏ lại rồi!* |
 | **松本PM** | 「ベトナムの<ruby>天気<rt>てんき</rt></ruby>、<ruby>面白<rt>おもしろ</rt></ruby>いね。Tokyo の<ruby>雨<rt>あめ</rt></ruby>は<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>降<rt>ふ</rt></ruby>るけど、HCMC は<ruby>短<rt>みじか</rt></ruby>くて strong。」<br/>*Thời tiết Việt Nam thú vị. Mưa Tokyo cả ngày, HCMC ngắn mà dữ.* |
-| **ズン** | 「<ruby>後<rt>あと</rt></ruby>でリバービュー<ruby>戻<rt>もど</rt></ruby>れますよ。<ruby>今<rt>いま</rt></ruby> PM 7<ruby>時<rt>じ</rt></ruby>、<ruby>晴<rt>は</rt></ruby>れたら<ruby>虹<rt>にじ</rt></ruby>が<ruby>出<rt>で</rt></ruby>るかも。」<br/>*Lát nữa quay lại view sông được ạ. Giờ 19h, tạnh có khi có cầu vồng.* |
+| **ズン** | 「<ruby>後<rt>あと</rt></ruby>でリバービュー<ruby>戻<rt>もど</rt></ruby>れますよ。<ruby>今<rt>いま</rt></ruby>5<ruby>時<rt>じ</rt></ruby><ruby>過<rt>す</rt></ruby>ぎ、<ruby>晴<rt>は</rt></ruby>れたら<ruby>虹<rt>にじ</rt></ruby>が<ruby>出<rt>で</rt></ruby>るかも。」<br/>*Lát nữa quay lại view sông được ạ. Giờ hơn 5h, tạnh có khi có cầu vồng.* |
 | **佐々木 (開発)** | 「<ruby>本当<rt>ほんとう</rt></ruby>?それは<ruby>見<rt>み</rt></ruby>たい。」<br/>*Thật à? Cái đó muốn xem.* |
 
-*[19:15 mưa tạnh hẳn. Đoàn ra sân thượng lại — mặt trời lặn rực rỡ ngang sông Sài Gòn. Không có cầu vồng nhưng bầu trời cam hồng. Đoàn JP đứng chụp ảnh 10 phút.]*
+*[17:15 mưa tạnh hẳn. Đoàn ra sân thượng lại — mặt trời lặn rực rỡ ngang sông Sài Gòn. Không có cầu vồng nhưng bầu trời cam hồng. Đoàn JP đứng chụp ảnh 10 phút.]*
 
 
 ### Bí quyết — Mưa bất ngờ = chuyển hướng khéo
@@ -404,7 +404,7 @@ Khách JP lần đầu ăn đường phố → đôi khi gặp sự cố cay. C�
 | Vai | Câu |
 |---------|-----|
 | **ハー** | 「<ruby>現実的<rt>げんじつてき</rt></ruby>なお<ruby>話<rt>はなし</rt></ruby>を。1<ruby>年目<rt>ねんめ</rt></ruby>はベトナム<ruby>側<rt>がわ</rt></ruby>のキャパビルダップ、2<ruby>年目<rt>ねんめ</rt></ruby>で<ruby>共同<rt>きょうどう</rt></ruby> R&D project、3<ruby>年目<rt>ねんめ</rt></ruby>で IP の co-ownership <ruby>議論<rt>ぎろん</rt></ruby>。<ruby>段階的<rt>だんかいてき</rt></ruby>に。」<br/>*Câu chuyện thực tế. Năm 1 nâng cao năng lực phía Việt Nam, năm 2 cùng dự án R&D, năm 3 bàn co-ownership IP. Từng bước.* |
-| **松本PM** | 「<ruby>現実的<rt>げんじつてき</rt></ruby>で<ruby>良<rt>よ</rt></ruby>いです。ハーさん、<ruby>白鷗<rt>はくおう</rt></ruby>としても、ベトナムを<ruby>単<rt>たん</rt></ruby>なる outsourcing <ruby>拠点<rt>きょてん</rt></ruby>ではなく、<ruby>戦略<rt>せんりゃく</rt></ruby>パートナーとして<ruby>見<rt>み</rt></ruby>たい。<ruby>今日<rt>きょう</rt></ruby>のコメント、<ruby>東京<rt>とうきょう</rt></ruby> board に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>ります。」<br/>*Thực tế là tốt. Anh Hà, về phía Hakuō chúng tôi cũng muốn nhìn Việt Nam không chỉ là điểm gia công mà là đối tác chiến lược. Ý kiến hôm nay em đem về hội đồng Tokyo.* |
+| **松本PM** | 「<ruby>現実的<rt>げんじつてき</rt></ruby>で<ruby>良<rt>よ</rt></ruby>いです。ハーさん、<ruby>白鷗<rt>はくおう</rt></ruby>としても、ベトナムを<ruby>単<rt>たん</rt></ruby>なる outsourcing <ruby>拠点<rt>きょてん</rt></ruby>ではなく、<ruby>戦略<rt>せんりゃく</rt></ruby>パートナーとして<ruby>見<rt>み</rt></ruby>たい。<ruby>今日<rt>きょう</rt></ruby>のコメント、<ruby>東京<rt>とうきょう</rt></ruby> board に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>ります。」<br/>*Thực tế là tốt. Anh Hà, về phía Hakuō chúng tôi cũng muốn nhìn Việt Nam không chỉ là điểm gia công mà là đối tác chiến lược. Ý kiến hôm nay tôi sẽ đem về hội đồng Tokyo.* |
 | **ハー** | 「ありがとうございます。ズンさん、<ruby>今日<rt>きょう</rt></ruby>のメモは<ruby>私<rt>わたし</rt></ruby>と<ruby>松本<rt>まつもと</rt></ruby>さん<ruby>両方<rt>りょうほう</rt></ruby>にメールで<ruby>送<rt>おく</rt></ruby>って。」<br/>*Cảm ơn anh. Dũng à, ghi chú hôm nay em gửi mail cho anh với anh Matsumoto cả hai.* |
 | **ズン** | 「(<ruby>姿勢<rt>しせい</rt></ruby><ruby>正<rt>ただ</rt></ruby>して)<ruby>了解<rt>りょうかい</rt></ruby>です。<ruby>本日中<rt>ほんじつじゅう</rt></ruby>にお<ruby>送<rt>おく</rt></ruby>りします。」<br/>*(chỉnh tư thế) Vâng em hiểu. Trong hôm nay em gửi.* |
 | **松本PM** | 「(笑って、ズンに)ズンさん、<ruby>表情<rt>ひょうじょう</rt></ruby><ruby>変<rt>か</rt></ruby>えずに<ruby>重<rt>おも</rt></ruby>い<ruby>議論<rt>ぎろん</rt></ruby>をメモしてたね、<ruby>立派<rt>りっぱ</rt></ruby>だ。」<br/>*(cười, với Dũng) Dũng à, không thay đổi vẻ mặt mà ghi chú cuộc thảo luận nặng nề vậy, giỏi đó.* |

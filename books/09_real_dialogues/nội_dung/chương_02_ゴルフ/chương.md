@@ -49,11 +49,11 @@ Tee off thường 7:30-8:00 sáng. Cộng 1.5h di chuyển + 30 phút khởi đ�
 | **ズン** | 「大垣さん、おはようございます。今日よろしくお願いします。」<br/>*Anh Ōgaki, chào anh ạ. Hôm nay nhờ anh.* |
 | **トゥアンリーダー** | 「おはようございます。」<br/>*Chào anh.* |
 
-*[Dũng định bước thẳng vào khu thay đồ với giày thể thao — Tuấn kéo nhẹ tay áo, chỉ xuống chân, rồi chỉ vào kệ dép trong màu trắng.]*
+*[Dũng định ra thẳng xe điện với đôi giày thể thao đang đi — Tuấn kéo nhẹ tay áo, chỉ xuống chân, rồi chỉ về phía phòng thay đồ.]*
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | 「(小声)ズンさん、靴<ruby>脱<rt>ぬ</rt></ruby>いでスリッパね。クラブハウス内は<ruby>土足<rt>どそく</rt></ruby>NG。」<br/>*(nhỏ giọng) Dũng à, cởi giày đi dép trong nha. Trong nhà câu lạc bộ không đi giày ngoài.* |
+| **トゥアンリーダー** | 「(小声)ズンさん、ゴルフシューズは<ruby>更衣室<rt>こういしつ</rt></ruby>のロッカーで<ruby>履<rt>は</rt></ruby>き<ruby>替<rt>か</rt></ruby>えるんだ。クラブハウス内は<ruby>土足<rt>どそく</rt></ruby>でいいけど、スパイクのまま<ruby>歩<rt>ある</rt></ruby>き<ruby>回<rt>まわ</rt></ruby>るのはNG。」<br/>*(nhỏ giọng) Dũng à, giày golf thì thay ở locker trong phòng thay đồ nhé. Nhà câu lạc bộ đi giày bình thường vào được, nhưng để nguyên giày đinh đi lại thì không.* |
 | **ズン** | 「(小声)あ、すみません、知らなかった。」<br/>*(nhỏ giọng) À, em xin lỗi, em không biết.* |
 | **大垣 営業部長** | 「(笑って)初めて?大丈夫大丈夫、誰でも<ruby>最初<rt>さいしょ</rt></ruby>は分からない。ロッカーで golf shoes に<ruby>履<rt>は</rt></ruby>き<ruby>替<rt>か</rt></ruby>えてから外に出るんだ。」<br/>*(cười) Lần đầu hả? Không sao không sao, ai lần đầu cũng vậy. Trong phòng thay đồ đổi sang giày golf rồi mới ra ngoài.* |
 | **松本PM** | 「(到着)おはよう、皆さん。今日は天気いいね、午後<ruby>曇<rt>くも</rt></ruby>り<ruby>予報<rt>よほう</rt></ruby>だけど雨はなさそう。」<br/>*(đến nơi) Chào mọi người. Hôm nay trời đẹp nhỉ, dự báo chiều có mây nhưng không mưa.* |
@@ -64,7 +64,7 @@ Tee off thường 7:30-8:00 sáng. Cộng 1.5h di chuyển + 30 phút khởi đ�
 ### Bí quyết — Phép tắc trong nhà câu lạc bộ JP
 
 Sân golf JP nghiêm ngặt:
-- **Cởi giày bước vào nhà câu lạc bộ** — đổi dép trong.
+- **Thay giày golf ở locker phòng thay đồ** — nhà câu lạc bộ Nhật **đi giày bình thường vào được** (土足OK); đừng đi dép lê lang thang, cũng đừng để nguyên giày đinh. Giày đi đường nên là **giày da**, sandal/dép lê là NG ngay từ cổng.
 - **Phòng thay đồ** đổi sang giày golf mới ra sân.
 - **Không** đi giày ngoài sân lên thảm nhà câu lạc bộ.
 - Trang phục: áo có cổ + quần dài (không quần short, không jean, không áo phông). Nhiều sân JP từ chối khách vi phạm quy định.
@@ -118,7 +118,7 @@ Trượt bóng khởi động = OK, đừng hoảng. Khách JP **không đánh g
 | **ズン** | 「(顔赤く)あ…OB じゃないですけど、<ruby>隣<rt>となり</rt></ruby>のホール…すみません。」<br/>*(mặt đỏ) Ơ… không phải OB mà bay sang fairway lỗ bên cạnh… em xin lỗi.* |
 | **大垣 営業部長** | 「(笑って)ズンさん、<ruby>最初<rt>さいしょ</rt></ruby>の1打目は<ruby>緊張<rt>きんちょう</rt></ruby>して<ruby>当然<rt>とうぜん</rt></ruby>!マリガン、もう1球いいよ。」<br/>*(cười) Dũng à, quả tee shot đầu lo lắng là chuyện thường! Mulligan, đánh lại 1 quả nữa.* |
 | **ズン** | 「えっ、本当ですか?ありがとうございます。」<br/>*Ơ, thật ạ? Cảm ơn anh.* |
-| **松本PM** | 「うん、初めての<ruby>海外<rt>かいがい</rt></ruby>ゴルフ場、ホール1のマリガンは<ruby>伝統<rt>でんとう</rt></ruby>みたいなものだから。<ruby>気楽<rt>きらく</rt></ruby>にね。」<br/>*Ừ, sân golf nước ngoài lần đầu, mulligan lỗ 1 gần như là truyền thống rồi. Thoải mái đi.* |
+| **松本PM** | 「うん、<ruby>日本<rt>にほん</rt></ruby>のゴルフ<ruby>場<rt>じょう</rt></ruby>は<ruby>初<rt>はじ</rt></ruby>めてでしょ、ホール1の<ruby>1打<rt>いちだ</rt></ruby>くらい、<ruby>気<rt>き</rt></ruby>にしなくていいから。<ruby>気楽<rt>きらく</rt></ruby>にね。」<br/>*Ừ, lần đầu chơi ở sân Nhật mà, quả đầu lỗ 1 đừng bận tâm. Thoải mái đi.* |
 
 *[Dũng đặt tee thứ 2. Hít sâu. Vung — quả này bay 150y, hơi lệch phải nhưng vào fairway.]*
 
@@ -131,7 +131,7 @@ Trượt bóng khởi động = OK, đừng hoảng. Khách JP **không đánh g
 
 ### Bí quyết — Mulligan = cử chỉ tin tưởng
 
-**Mulligan** = đánh lại miễn phí, không tính điểm. Ở Nhật:
+**Mulligan** = đánh lại miễn phí, không tính điểm. Đây **không phải luật golf** và **không phải tập tục Nhật** — luật riêng hay gặp ở Nhật là **前進4打 (zenshin yon-da)**, đặt ra để vòng đấu khỏi chậm. Nhưng trong vòng giao lưu thân mật thì:
 - Chủ nhà offer mulligan ở lỗ 1 cho người mới = **cử chỉ tin tưởng**, đừng từ chối kiêu.
 - Cảm ơn rõ ràng + chỉ xài 1 lần / vòng (không xài lại ở lỗ 2-3).
 - Đừng tự ý 'tao đánh lại nhé' — phải đợi chủ nhà đề nghị.
@@ -229,7 +229,8 @@ Người mới chơi golf điểm 100+ là bình thường. Khách JP biết. H�
 Chủ nhà hay mời 1 bia bữa trưa. Người mới chơi:
 - **Đừng nhận** — 9 lỗ sau sẽ khó tập trung + nguy hiểm khi swing.
 - **Từ chối khéo** với lý do kỹ thuật: '午後まだ 9 ホールあるので集中したい' = lý do chuyên nghiệp, chủ nhà chấp nhận.
-- Đừng từ chối kiểu '私はお酒飲めません' — quá tuyệt đối, chủ nhà khó mời lần sau.
+- Nếu bạn **uống được** mà chỉ muốn từ chối lần này: đừng dùng '私はお酒飲めません' — nghe như tuyên bố vĩnh viễn, chủ nhà khó mời lần sau.
+- ⚠️ Nhưng nếu bạn **thật sự không uống được** (cơ địa, dị ứng cồn — khoảng 40% người Nhật thiếu men ALDH2) thì 'お酒は飲めない体質でして' là câu **đúng và nên nói thẳng**. Đừng vì giữ ý mà nhận ly: ép bản thân uống là アルハラ, và người Nhật hiện đại hiểu ngay khi nghe lý do 体質.
 - Sau vòng + onsen mới uống bia OK.
 
 
@@ -241,9 +242,9 @@ Chủ nhà hay mời 1 bia bữa trưa. Người mới chơi:
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | 「(小声でズンに)ズン、weather チェックして。空が変わってきた。」<br/>*(nhỏ giọng với Dũng) Dũng, check weather đi. Trời chuyển rồi.* |
+| **トゥアンリーダー** | 「(小声でズンに)ズン、天気チェックして。空が変わってきた。」<br/>*(nhỏ giọng với Dũng) Dũng, check weather đi. Trời chuyển rồi.* |
 | **ズン** | 「(スマホ<ruby>確認<rt>かくにん</rt></ruby>)…14時頃から雨<ruby>予報<rt>よほう</rt></ruby>、20%。<ruby>一応<rt>いちおう</rt></ruby>カート<ruby>覆<rt>おお</rt></ruby>い<ruby>準備<rt>じゅんび</rt></ruby>した方がいいかも。」<br/>*(check điện thoại)… từ 14h dự báo mưa, 20%. Có lẽ chuẩn bị áo che cart trước cho chắc.* |
-| **松本PM** | 「ズンさん、weather チェックありがとう。caddie さんに<ruby>傘<rt>かさ</rt></ruby>あるか聞いてみて。」<br/>*Dũng cảm ơn cậu check weather. Hỏi caddie xem có ô không nhé.* |
+| **松本PM** | 「ズンさん、天気チェックありがとう。キャディさんに<ruby>傘<rt>かさ</rt></ruby>あるか聞いてみて。」<br/>*Dũng cảm ơn cậu check weather. Hỏi caddie xem có ô không nhé.* |
 | **ズン** | 「(キャディに) すみません、<ruby>傘<rt>かさ</rt></ruby>は何本ありますか?」<br/>*(với caddie) Xin lỗi, có mấy cái ô ạ?* |
 | **井上キャディ** | 「カート内に4本ございます、ご<ruby>安心<rt>あんしん</rt></ruby>ください。」<br/>*Trong cart có 4 cái, quý khách yên tâm.* |
 | **松本PM** | 「OK、じゃあ降っても続けられる。Hole 10 行こう。」<br/>*OK, vậy mưa cũng chơi tiếp được. Ra lỗ 10 nhé.* |
@@ -420,7 +421,7 @@ Chủ nhà rủ 'tháng sau làm tiếp' = quan hệ đã lên tầm mới. Các
 Lỗi không lặp lại:
 - Quên điện thoại trên xe điện (lỗ 5) → lần sau để túi quần.
 - Đặt cờ pin trên green (lỗ 18) → ngoài green / viền cỏ.
-- Suýt đi giày thể thao vào nhà câu lạc bộ → đổi dép trong ngay khi vào.
+- Suýt ra sân luôn bằng giày thể thao → phải vào locker thay giày golf trước.
 
 Việc cần làm:
 - [ ] Mai gửi ảnh lỗ 5 cho Matsumoto qua mail

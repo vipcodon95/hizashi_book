@@ -256,8 +256,12 @@ def build_sql() -> str:
     # Vì id BIGSERIAL, KHÔNG dùng ON CONFLICT (id). Xoá rồi insert lại.
     lines.append(f"-- 4. curriculum_node_content (delete & insert {len(records)} rows)")
     lines.append(
-        f"DELETE FROM curriculum_node_content WHERE curriculum_node_id IN "
-        f"(SELECT id FROM curriculum_node WHERE curriculum_id = {BOOK_ID});"
+        # Bám DẢI ID node, KHÔNG bám curriculum_id: sau khi tách 5 cuốn theo
+        # cấp (split_reading_collection_by_level.py) thì node đã rời khỏi
+        # curricula gốc — truy theo curriculum_id sẽ xoá hụt, rồi 700 INSERT
+        # bên dưới đẻ ra bản trùng vì bảng này không ON CONFLICT được.
+        f"DELETE FROM curriculum_node_content WHERE curriculum_node_id BETWEEN "
+        f"{records[0]['reading_passage_id']} AND {records[-1]['reading_passage_id']};"
     )
     for rec in records:
         node_id = rec["reading_passage_id"]

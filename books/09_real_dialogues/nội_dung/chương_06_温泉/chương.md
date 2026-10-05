@@ -168,7 +168,7 @@ Quy tắc:
 | Vai | Câu |
 |---------|-----|
 | **松本PM** | 「(ズンに優しく)ズンさん、<ruby>料理<rt>りょうり</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>、ベトナムで言うものなくて<ruby>分<rt>わ</rt></ruby>からないと思うけど、<ruby>気<rt>き</rt></ruby>にしないで。食べたい<ruby>順<rt>じゅん</rt></ruby>に食べていいよ。」<br/>*(dịu với Dũng) Dũng à, tên món Việt Nam không có tương đương nên không hiểu là chuyện thường. Đừng để ý. Ăn theo thứ tự thích là được.* |
-| **大垣 営業部長** | 「(<ruby>指差<rt>ゆびさ</rt></ruby>す)これ、<ruby>松葉蟹<rt>まつばがに</rt></ruby>。<ruby>山陰<rt>さんいん</rt></ruby>・<ruby>北陸<rt>ほくりく</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>王様<rt>おうさま</rt></ruby>。<ruby>甘<rt>あま</rt></ruby>みが<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違<rt>ちが</rt></ruby>うよ。<ruby>一口<rt>ひとくち</rt></ruby>で<ruby>全部<rt>ぜんぶ</rt></ruby>入れて。」<br/>*(chỉ tay) Cái này là cua matsuba, vua của mùa đông vùng San-in và Hokuriku. Vị ngọt khác hẳn đó.* |
+| **大垣 営業部長** | 「(<ruby>指差<rt>ゆびさ</rt></ruby>す)これ、<ruby>松葉蟹<rt>まつばがに</rt></ruby>。<ruby>山陰<rt>さんいん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>王様<rt>おうさま</rt></ruby>。<ruby>甘<rt>あま</rt></ruby>みが<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違<rt>ちが</rt></ruby>うよ。<ruby>一口<rt>ひとくち</rt></ruby>で<ruby>全部<rt>ぜんぶ</rt></ruby>入れて。」<br/>*(chỉ tay) Cái này là cua matsuba, vua của mùa đông vùng San-in. Vị ngọt khác hẳn đó.* |
 | **ズン** | 「(<ruby>一口<rt>ひとくち</rt></ruby>で食べる)…おお、<ruby>層<rt>そう</rt></ruby>ごとに<ruby>味<rt>あじ</rt></ruby><ruby>違<rt>ちが</rt></ruby>う、<ruby>面白<rt>おもしろ</rt></ruby>い!」<br/>*(ăn 1 miếng)… ôi, mỗi lớp vị khác nhau, thú vị!* |
 | **松本PM** | 「(<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>)これは『<ruby>金目鯛<rt>きんめだい</rt></ruby>』、<ruby>伊豆半島<rt>いずはんとう</rt></ruby>の<ruby>高級魚<rt>こうきゅうぎょ</rt></ruby>。お<ruby>造<rt>つく</rt></ruby>りで<ruby>脂<rt>あぶら</rt></ruby>があって…これは<ruby>蕪<rt>かぶ</rt></ruby>の<ruby>煮物<rt>にもの</rt></ruby>、<ruby>出汁<rt>だし</rt></ruby>が<ruby>染<rt>し</rt></ruby>みてる…」<br/>*(giải thích từng món) Đây là 'kinmedai', cá cao cấp bán đảo Izu. Sashimi có mỡ… Đây là kabu ninh, dashi thấm đẫm…* |
 | **トゥアンリーダー** | 「松本さん、こんなに<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>してくださって、<ruby>贅沢<rt>ぜいたく</rt></ruby>なランチになりました。」<br/>*Anh Matsumoto, anh giải thích kỹ vầy, bữa trưa thành xa xỉ.* |
@@ -235,13 +235,16 @@ Nhiều ryokan onsen JP cấm hình xăm (từ lệnh cấm yakuza cũ). Cách x
 
 ### Bí quyết — Quy tắc tắm onsen — 5 điều bắt buộc
 
-Đây là phần người nước ngoài dễ vấp nhất, và vấp thì cả phòng tắm đều thấy. Nhớ 5 điều:
+Đây là phần người nước ngoài dễ vấp nhất, và vấp thì cả phòng tắm đều thấy. Nhớ 6 điều:
 
 1. **かけ湯 (kakeyu) trước khi vào bồn** — múc nước dội rửa người ở khu vòi sen, bắt đầu từ chân lên. **Tuyệt đối không nhảy thẳng vào bồn khi chưa rửa.** Đây là lỗi nặng nhất.
 2. **Gội rửa sạch tại ghế tắm** — ngồi ghế thấp, rửa xà phòng kỹ, **xả hết bọt** rồi mới vào bồn. Bồn là để ngâm, không phải để tắm.
 3. **Khăn KHÔNG được nhúng xuống nước** — khăn nhỏ để lên đầu hoặc đặt cạnh bồn. Khăn to để lại phòng thay đồ.
 4. **Không bơi, không té nước, không nói to.** Bồn onsen là chỗ tĩnh.
 5. **Lau người ở khu tắm trước khi bước ra** phòng thay đồ — đừng nhỏ nước ướt sàn chiếu.
+6. ⚠️ **Uống rượu xong thì ĐỪNG vào bồn** — đây là điều nguy hiểm nhất, không phải chuyện lễ nghi. Cơ quan Tiêu dùng Nhật (消費者庁) khuyến cáo `飲酒後の入浴は避ける`: rượu làm **tụt huyết áp**, cộng nước nóng gây choáng và chết đuối trong bồn. Nhật có khoảng **19.000 ca tử vong mỗi năm** liên quan tới tai nạn khi tắm. Đợi hết say hẳn, hoặc dời sang sáng hôm sau. Nhiệt độ nước ≤41°C, ngâm ≤10 phút.
+
+Nếu đàn anh rủ "tắm tiếp cho giãn gân cốt" ngay sau tiệc, cách từ chối an toàn mà không mất lòng: 「お酒が回っているので、少し休んでから伺います」 (Em ngấm rượu rồi, nghỉ chút em xuống sau ạ) — người Nhật hiểu ngay và thường sẽ tán thành, vì đây là khuyến cáo y tế phổ biến ở Nhật.
 
 **Mặc 浴衣 (yukata) — chi tiết dễ sai nhất:**
 - **Vạt TRÁI đè lên vạt PHẢI** (nhìn từ phía người mặc: tay phải luồn vào trước). Gọi là **右前 (migi-mae)**.
@@ -378,7 +381,7 @@ Sake nóng (atsukan) ryokan mùa đông:
 
 **Onsen khuya 2 người** (sau bữa tối, bồn nhỏ, 2 người) = môi trường đàn anh JP hay mở lòng nhất:
 - Vì tắm trần → cởi bỏ vật chất.
-- Vì chút rượu + nước ấm → thư giãn.
+- Vì nước ấm + không gian tĩnh → thư giãn. (⚠️ Nhưng **đừng xuống bồn khi còn ngấm rượu** — xem mục 6 phần quy tắc. Nếu vừa uống ở tiệc, hãy nghỉ cho tỉnh rồi mới đi tắm.)
 - Vì ánh sáng nhỏ + hơi nước → thật sự riêng tư.
 - Vì chỉ 2 người → không có ai khác.
 

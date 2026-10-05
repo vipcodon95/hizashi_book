@@ -36,7 +36,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 |  | *Em biết rõ ghê! Lễ hội lilac cũng cuối tuần này. Đã ăn Genghis Khan (BBQ cừu) bao giờ chưa?* |
 | **ズン** | 「まだないんです。ぜひ<ruby>本場<rt>ほんば</rt></ruby>で…!」 |
 |  | *Chưa ạ. Mong được ăn ở nguyên bản!* |
-| **nakamura_cfo** | 「じゃあ初日の夜は『**だるま**』に予約しよう。<ruby>創業<rt>そうぎょう</rt></ruby>60年の名店だよ。」 |
+| **nakamura_cfo** | 「じゃあ初日の夜は『**だるま**』に予約しよう。<ruby>創業<rt>そうぎょう</rt></ruby>70年の名店だよ。」 |
 |  | *Vậy tối đầu tiên đặt 'Daruma'. Quán 60 năm tuổi nổi tiếng.* |
 
 > **VN:** Chuẩn bị trước = ghi điểm cực mạnh. "Lilac" + "công viên Ōdōri" + biết đã tháng 5 là mùa đẹp = tiền bối cảm động.

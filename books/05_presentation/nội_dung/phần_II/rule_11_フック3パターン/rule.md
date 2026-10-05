@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Tuần trước buổi trình bày, Linh (thực tập sinh) sắp trình bày lần đầu cho 1 khách hàng nhỏ. Hỏi Dũng "anh dùng kiểu nào?" Dũng giải thích 3 kiểu + cách chọn.
+Tuần trước buổi trình bày, Linh (thực tập sinh) sắp có bài thuyết trình nội bộ đầu tiên — giới thiệu chiến dịch mới. Hỏi Dũng "anh dùng kiểu nào?" Dũng giải thích 3 kiểu + cách chọn.
 
 ---
 

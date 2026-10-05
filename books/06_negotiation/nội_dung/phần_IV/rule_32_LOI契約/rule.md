@@ -2,7 +2,11 @@
 
 > **Luận điểm.** Sau khi mail tóm tắt được xác nhận OK, KHÔNG nhảy thẳng sang hợp đồng đầy đủ. Bước trung gian: **LOI (Thư xác nhận ý định)** — văn bản 1-2 trang xác nhận **điều khoản thương mại + ý định ký hợp đồng**, ký 2 bên trong 1-2 tuần. Sau LOI mới soạn hợp đồng chính (4-8 tuần). Thiếu LOI = bản thảo hợp đồng sẽ bị "重要条件もう一度ね" → đàm phán lại.
 >
-> 商談合意 → LOI (1-2 ページ、commercial terms 確認) → 契約書ドラフト (詳細条項) の 2 段階。LOI を飛ばすと、契約書段階で「主要条件再確認」が発生し再交渉となる。
+> ⚠️ **Phải hiểu đúng: LOI về nguyên tắc KHÔNG có hiệu lực ràng buộc pháp lý** (原則 non-binding). Có chữ ký, có con dấu vẫn không buộc được đối phương phải ký hợp đồng chính. Chỉ **một số điều khoản được ghi rõ là ràng buộc** mới có hiệu lực — thông lệ Nhật là **独占交渉権** (quyền đàm phán độc quyền, thường 1-3 tháng) và **秘密保持義務** (nghĩa vụ bảo mật). Giá và phạm vi ghi trong LOI là **thoả thuận về ý định**, không phải cam kết cưỡng chế được.
+>
+> Vậy giá trị thật của LOI là gì? **Ràng buộc bằng uy tín và bằng quy trình nội bộ của khách**, không phải bằng luật: đối tác Nhật đã đóng dấu thì rất ngại lật lại (mất 信用), và con số trong LOI trở thành mốc để bộ phận của họ xin 稟議. Đó là lý do LOI hiệu quả — nhưng đừng nhầm nó với hợp đồng.
+>
+> 商談合意 → LOI (1-2 ページ、commercial terms 確認) → 契約書ドラフト (詳細条項) の 2 段階。LOI を飛ばすと、契約書段階で「主要条件再確認」が発生し再交渉となる。LOI は原則 **法的拘束力なし**。拘束力を持たせるのは通常 **独占交渉権**と**秘密保持義務**のみで、その旨を条文に明記する。
 >
 > **Liên quan:** rule 30 (合意確認), rule 31 (recap mail), rule 33 (条項調整).
 
@@ -44,16 +48,18 @@ Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI kh
 
 📝 **Ghi chú:**
 - 【1】**LOI 6 mục** = Giá (ghi rõ chưa thuế) / Kỳ hạn / Phạm vi tóm tắt / SLA / Điều kiện thanh toán / Ngày có hiệu lực. Điều khoản chi tiết (bồi thường thiệt hại, IP chi tiết, hủy hợp đồng) chuyển sang hợp đồng chính.
+  **Mục thứ 7 bắt buộc phải có — điều khoản về hiệu lực:** ghi rõ mục nào ràng buộc, mục nào không. Mẫu chuẩn: 「本合意書のうち、第○条(独占交渉権)および第○条(秘密保持)を除き、**法的拘束力を有しない**」. Thiếu dòng này, sau tranh chấp hai bên sẽ cãi nhau về việc LOI ràng buộc tới đâu.
 - 【2】**LOI → hợp đồng chính trong 4 tuần** = kiểm soát nhịp độ. LOI 1 trang là nền tảng cho hợp đồng chính 30 trang.
 - 【3】**LOI đã chốt điều khoản thương mại** → đàm phán hợp đồng chính chỉ còn về "điều khoản chi tiết". Không mở lại phần thương mại (chuyển sang rule 33).
+  Nhưng "chốt" ở đây là **chốt trên thực tế**, không phải chốt về pháp lý: nếu khách vẫn muốn mở lại giá, LOI không ngăn được về mặt luật. Cái ngăn họ là chi phí uy tín và việc 稟議 nội bộ đã chạy theo con số đó. Vì vậy vẫn phải chuẩn bị sẵn lý lẽ giữ giá (rule 20, rule 27), đừng coi LOI là lá chắn.
 
 ---
 
 ## Câu chốt
 
-> **「LOI = 商務合意のロック。本契約 = 条項詳細。順番を飛ばすと商務再交渉が発生する。」**
+> **「LOI = 商務合意の**着地点確認**。原則 法的拘束力なし、拘束力は独占交渉権と秘密保持のみ明記。本契約 = 条項詳細。順番を飛ばすと商務再交渉が発生する。」**
 >
-> *LOI khóa điều khoản thương mại. Hợp đồng chính khóa chi tiết điều khoản. Bỏ LOI = điều khoản thương mại sẽ mở lại lúc soạn thảo.*
+> *LOI xác nhận điểm đáp của thoả thuận thương mại — về nguyên tắc không ràng buộc pháp lý, chỉ ghi rõ ràng buộc cho quyền đàm phán độc quyền và nghĩa vụ bảo mật. Hợp đồng chính mới khóa chi tiết điều khoản. Bỏ LOI = điều khoản thương mại sẽ mở lại lúc soạn thảo.*
 
 ---
 
@@ -62,6 +68,8 @@ Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI kh
 - Tư duy "LOI là bước thừa" → 4 tuần soạn hợp đồng mà có 1 điều khoản bất đồng = mở lại toàn bộ
 - LOI không ghi rõ giá đã hay chưa gồm thuế → bẫy 100%
 - LOI gửi mà không qua pháp chế xem lại → lỗi chữ / cách diễn đạt sau này thành vấn đề diễn giải ràng buộc
+- **LOI không có điều khoản về hiệu lực** (không ghi mục nào ràng buộc, mục nào không) → tranh chấp sau này không có căn cứ phân định
+- **Tưởng LOI đã đóng dấu là hợp đồng** → chủ quan, không chuẩn bị lý lẽ giữ giá cho vòng soạn hợp đồng chính
 - LOI gửi xong để cả tháng không theo dõi → hết hiệu lực / nguội dần; ghi rõ **hạn đóng dấu 2 tuần**
 
 ---

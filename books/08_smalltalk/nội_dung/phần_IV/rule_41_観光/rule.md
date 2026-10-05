@@ -39,8 +39,8 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 |  | *Tàu junk cruise 1 đêm — sao đêm, ngắm bình minh trong sương sớm, trải nghiệm xa xỉ. Bhaya Cruises hoặc Indochina Sails uy tín. 150-200 USD/người, gồm ăn + hướng dẫn viên + phòng.* |
 | **松本** | 「<ruby>奥<rt>おく</rt></ruby>さんが絶対喜ぶやつだ。」 |
 |  | *Vợ tôi chắc chắn sẽ thích cái này.* |
-| **ズン** | 「サパは**Bac Ha Marketの<ruby>日曜<rt>にちよう</rt></ruby>マーケット**でモン<ruby>族<rt>ぞく</rt></ruby>の<ruby>伝統衣装<rt>でんとういしょう</rt></ruby>が見られます。**冬は1<ruby>度<rt>ど</rt></ruby>くらいまで下がる**ので<ruby>防寒<rt>ぼうかん</rt></ruby>必須、**フランス<ruby>植民地時代<rt>しょくみんちじだい</rt></ruby>のサパ<ruby>駅前<rt>えきまえ</rt></ruby>のホテル(Hotel de la Coupole)**が<ruby>雰囲気<rt>ふんいき</rt></ruby>抜群です。」 |
-|  | *Sapa thì chợ Bắc Hà chủ nhật xem trang phục truyền thống của người Mông. Mùa đông xuống tới 1°C nên phải mặc ấm. Hotel de la Coupole trước ga Sapa thời Pháp thuộc, không khí cực đỉnh.* |
+| **ズン** | 「サパは<ruby>市場<rt>いちば</rt></ruby>でモン<ruby>族<rt>ぞく</rt></ruby>の<ruby>伝統衣装<rt>でんとういしょう</rt></ruby>が見られます。**冬は1<ruby>度<rt>ど</rt></ruby>くらいまで下がる**ので<ruby>防寒<rt>ぼうかん</rt></ruby>必須、**インドシナ<ruby>様式<rt>ようしき</rt></ruby>のホテル(Hotel de la Coupole、2018<ruby>年開業<rt>ねんかいぎょう</rt></ruby>)**が<ruby>雰囲気<rt>ふんいき</rt></ruby>抜群です。」 |
+|  | *Sapa thì ra chợ xem trang phục truyền thống của người Mông. Chợ Bắc Hà chủ nhật còn đậm hơn nhưng cách Sapa 2,5 tiếng xe một chiều nên phải xếp ngày riêng. Mùa đông xuống tới 1°C nên phải mặc ấm. Hotel de la Coupole (khai trương 2018, kiến trúc phỏng phong cách Đông Dương) thì không khí cực đỉnh.* |
 
 > **VN:** Khách trung niên đi đôi = trải nghiệm + thị giác + thoải mái. "船上泊" (ngủ trên tàu) + "霧水墨画" (sương như tranh thủy mặc) = gợi cảm giác lãng mạn.
 

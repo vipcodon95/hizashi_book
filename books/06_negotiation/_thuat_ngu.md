@@ -21,7 +21,7 @@
 | IRR | Internal Rate of Return | Tỷ suất hoàn vốn nội bộ — chỉ số tài chính dùng cùng NPV khi thuyết phục CFO Nhật phê duyệt hợp đồng lớn |
 | IT | Information Technology | Công nghệ thông tin — thường chỉ lĩnh vực / ngân sách IT của khách hàng |
 | KPI | Key Performance Indicator | Chỉ số đo lường hiệu suất mục tiêu — cần nắm KPI của khách để đặt giá trị đề xuất đúng hướng |
-| LOI | Letter of Intent | Thư xác nhận ý định hợp tác — văn bản ràng buộc nhẹ trước khi ký hợp đồng chính thức; gồm 6 mục: giá, thời hạn, phạm vi, SLA, điều khoản thanh toán, ngày hiệu lực |
+| LOI | Letter of Intent | Thư xác nhận ý định hợp tác, ký trước hợp đồng chính thức; gồm 6 mục: giá, thời hạn, phạm vi, SLA, điều khoản thanh toán, ngày hiệu lực. **Về nguyên tắc KHÔNG có hiệu lực ràng buộc pháp lý** — chỉ những điều khoản được ghi rõ là ràng buộc (thông lệ: quyền đàm phán độc quyền 独占交渉権 + nghĩa vụ bảo mật 秘密保持) mới cưỡng chế được |
 | LTV | Lifetime Value | Giá trị vòng đời khách hàng — dùng khi thương lượng đánh đổi giảm giá lấy hợp đồng dài hạn (vd: ¥17.5M đổi lấy LTV +35% qua hợp đồng 2 năm) |
 | MTG | Meeting | Cuộc họp — viết tắt thông dụng trong môi trường doanh nghiệp Nhật (cả nói lẫn Slack) |
 | NDA | Non-Disclosure Agreement | Thỏa thuận bảo mật thông tin — bắt buộc ký trước khi chia sẻ thông tin nhạy cảm trong đàm phán |

@@ -7,7 +7,7 @@
 BEGIN;
 
 -- 1) Curricula
-INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000009, NULL, 'markdown_book', 'BJT', 'Trò chuyện thân thiết', 'Bộ sách Hizashi — Trò chuyện thân thiết', 'Hizashi シリーズ — 雑談・関係構築', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET type = EXCLUDED.type, title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, category = EXCLUDED.category, tenant_id = EXCLUDED.tenant_id, is_system = EXCLUDED.is_system, is_public = EXCLUDED.is_public, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, free_preview_count = EXCLUDED.free_preview_count, status = EXCLUDED.status, updated_at = NOW();
+INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000009, NULL, 'markdown_book', 'BJT', 'Trò chuyện thân thiết', 'Bộ sách Hizashi — Trò chuyện thân thiết', 'Hizashi シリーズ — 雑談・関係構築', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, updated_at = NOW();
 
 -- 2) Curriculum nodes
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000001, 800000009, NULL, 'markdown_book', 'Rule 01 — Khi nào "tán" được? / 雑談のタイミング', '# Rule 01 — Khi nào "tán" được? / 雑談のタイミング
@@ -155,7 +155,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ---
 
-> **Hizashi Sách 08 — Rule 01 — 雑談のタイミング**', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 01 — 雑談のタイミング**', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000002, 800000009, NULL, 'markdown_book', 'Rule 02 — Quy tắc 80/20 (khách nói 80%) / 8:2のルール', '# Rule 02 — Quy tắc 80/20 (khách nói 80%) / 8:2のルール
 > **Luận điểm.** 雑談 không phải để khoe khoang — bạn nói **2 phần**, khách nói **8 phần**. Nhiệm vụ của bạn = **đặt câu hỏi tốt → lắng nghe → phản hồi chân thành**. Người Việt sai ở đây nhiều nhất: thấy im lặng là tự nhồi chuyện mình.
 
@@ -316,7 +316,7 @@ Tháng 5/2026, bữa tối sau lễ khởi động Phase 4. Dũng ngồi cạnh 
 
 ---
 
-> **Hizashi Sách 08 — Rule 02 — 8:2のルール**', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 02 — 8:2のルール**', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000003, 800000009, NULL, 'markdown_book', 'Rule 03 — 5 mức độ thân mật + chủ đề phù hợp / 親密度5レベル', '# Rule 03 — 5 mức độ thân mật + chủ đề phù hợp / 親密度5レベル
 > **Luận điểm.** Mỗi mức độ quan hệ có **chủ đề được phép**. Đẩy chủ đề L4 (gia đình) khi mới gặp lần đầu (L1) = phá quan hệ. Lùi mãi ở L1 (thời tiết) sau 5 năm hợp tác = chưa "vô" được khách.
 
@@ -475,11 +475,11 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ## BJT
 **J3 — 場面把握:** Đo đúng cấp quan hệ theo số lần gặp + chất lượng tương tác.
 **J2 — 表現読解:** Bắt tín hiệu khách "mở cửa" cấp tiếp theo (mời cùng đi / chia sẻ chi tiết gia đình / dùng ngôn ngữ thân mật hơn).
-**J1 — 発言聴解:** Phân biệt なれなれしい vs 親しみやすい — sắc thái rất mỏng, người Việt hay nhầm.
+**J1 — 発言聴解:** Phân biệt なれなれしい vs 親しみやすい — sắc thái rất mỏng, người học tiếng Nhật hay nhầm.
 
 ---
 
-> **Hizashi Sách 08 — Rule 03 — 親密度5レベル**', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 03 — 親密度5レベル**', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000004, 800000009, NULL, 'markdown_book', 'Rule 04 — Câu hỏi mở vs đóng / 開かれた質問・閉じた質問', '# Rule 04 — Câu hỏi mở vs đóng / 開かれた質問・閉じた質問
 > **Luận điểm.** Câu hỏi đóng (有/無, はい/いいえ) = mạch đứt trong 2 lượt. Câu hỏi mở (5W1H + いかがでしたか) = khách kể 30 giây tự nhiên. Đổi 1 chữ — đổi cả buổi 雑談.
 
@@ -648,7 +648,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ---
 
-> **Hizashi Sách 08 — Rule 04 — 開かれた質問・閉じた質問**', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 04 — 開かれた質問・閉じた質問**', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000005, 800000009, NULL, 'markdown_book', 'Rule 05 — Người giỏi lắng nghe / 聞き上手の技術', '# Rule 05 — Người giỏi lắng nghe / 聞き上手の技術
 > **Luận điểm.** 聞き上手 = 3 kỹ thuật chồng lên: **(1) Lặp từ khóa** (オウム返し) → **(2) Tóm tắt ngắn** (要約) → **(3) Đào sâu thêm**. Kết hợp được = khách cảm thấy "anh này HIỂU mình", thay vì chỉ nghe.
 
@@ -737,8 +737,8 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |---------|-----|
 | **松本** | 「<ruby>実<rt>じつ</rt></ruby>は先月、初めてベトナムに<ruby>観光<rt>かんこう</rt></ruby>で行きまして、ハロン<ruby>湾<rt>わん</rt></ruby>が…」 |
 |  | *Thật ra tháng trước anh lần đầu đi du lịch Việt Nam, vịnh Hạ Long...* |
-| **ズン** | 「**ハロン湾ですか!<ruby>世界遺産<rt>せかいいさん</rt></ruby>で、3000<ruby>以上<rt>いじょう</rt></ruby>の島があって、<ruby>伝説<rt>でんせつ</rt></ruby>では<ruby>龍<rt>りゅう</rt></ruby>が…**」(2 phút độc thoại) |
-|  | *Vịnh Hạ Long ạ! Di sản thế giới, có hơn 3000 đảo, truyền thuyết là nơi rồng giáng...* |
+| **ズン** | 「**ハロン湾ですか!<ruby>世界遺産<rt>せかいいさん</rt></ruby>で、2000<ruby>近<rt>ちか</rt></ruby>くの島があって、<ruby>伝説<rt>でんせつ</rt></ruby>では<ruby>龍<rt>りゅう</rt></ruby>が…**」(2 phút độc thoại) |
+|  | *Vịnh Hạ Long ạ! Di sản thế giới, có gần 2000 hòn đảo, truyền thuyết là nơi rồng giáng...* |
 | **松本** | 「…そうなんですね。へえ。」 |
 |  | *...vậy à. Ờ.* |
 
@@ -756,8 +756,8 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |  | *Vịnh Hạ Long ạ, anh thấy thế nào ạ?* |
 | **松本** | 「すごかったですよ、<ruby>霧<rt>きり</rt></ruby>の中の<ruby>島々<rt>しまじま</rt></ruby>が<ruby>水墨画<rt>すいぼくが</rt></ruby>みたいで…」 |
 |  | *Tuyệt vời lắm, những hòn đảo trong sương như tranh thủy mặc...* |
-| **ズン** | 「水墨画の<ruby>表現<rt>ひょうげん</rt></ruby>、まさに!**実は地元では『海の<ruby>桂林<rt>けいりん</rt></ruby>』とも呼ばれているんですよ。**」 |
-|  | *Ví như tranh thủy mặc, đúng quá! Thật ra dân địa phương còn gọi là ''Quế Lâm trên biển'' đấy ạ.* |
+| **ズン** | 「水墨画の<ruby>表現<rt>ひょうげん</rt></ruby>、まさに!**実は『海の<ruby>桂林<rt>けいりん</rt></ruby>』と<ruby>例<rt>たと</rt></ruby>えられることもあるそうです。**」 |
+|  | *Ví như tranh thủy mặc, đúng quá! Nghe nói có người còn ví là ''Quế Lâm trên biển'' đấy ạ.* |
 
 → Để khách kể TRƯỚC, mình chèn kiến thức SAU = đẳng cấp.
 
@@ -841,7 +841,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ---
 
-> **Hizashi Sách 08 — Rule 05 — 聞き上手の技術**', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 05 — 聞き上手の技術**', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000006, 800000009, NULL, 'markdown_book', 'Rule 06 — Chuyển chủ đề mượt / トピック転換', '# Rule 06 — Chuyển chủ đề mượt / トピック転換
 > **Luận điểm.** Chuyển chủ đề = nghệ thuật. Có **3 từ chuyển cốt lõi** (ところで / そういえば / 話は変わりますが) — mỗi cái dùng đúng tình huống. Đổi chủ đề phũ = "không đọc không khí". Không đổi khi cần đổi = bị mắc kẹt ở chủ đề đã chết.
 
@@ -1019,7 +1019,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ---
 
-> **Hizashi Sách 08 — Rule 06 — トピック転換**', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 06 — トピック転換**', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000007, 800000009, NULL, 'markdown_book', 'Rule 07 — Khi im lặng — đừng hoảng / 沈黙の活用', '# Rule 07 — Khi im lặng — đừng hoảng / 沈黙の活用
 > **Luận điểm.** Người Việt sợ im lặng (>3 giây = bối rối → nhồi câu vô nghĩa). Người Nhật xem **5-7 giây sự yên tĩnh là chuyện bình thường** — thậm chí là dấu hiệu của 信頼関係 (quan hệ tin cậy). Học cách "ở im lặng cùng nhau" mà không hoảng chính là một vũ khí mạnh.
 
@@ -1200,7 +1200,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 
 ---
 
-> **Hizashi Sách 08 — Rule 07 — 沈黙の活用**', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 07 — 沈黙の活用**', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000008, 800000009, NULL, 'markdown_book', 'Rule 08 — 8 chủ đề cấm tuyệt đối / NG話題8選', '# Rule 08 — 8 chủ đề cấm tuyệt đối / NG話題8選
 > **Luận điểm.** Có **8 vùng "đụng là chết"** trong 雑談 với khách Nhật. 1 phát ngôn sai = mất quan hệ 5 năm xây dựng. Nhớ thuộc lòng — và biết cách **gỡ ra** khi khách (hoặc nhóm mình) lỡ chạm.
 
@@ -1334,8 +1334,8 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 「失礼しました。[từ nối] 別の話なんですが…」
 
 ■ KHÉO NÉ khi khách hỏi lương / tuổi mình:
-「いやあ、ベトナムの平均くらいですよ(笑)」(nói chung chung)
-「もう30近いですよ(笑)。ところで…」(nói áng chừng + chuyển chủ đề)
+「いやあ、そういうのはちょっと(笑)。ところで…」(cười xòa + chuyển chủ đề ngay)
+「秘密です(笑)。それより、[chủ đề khác]は…」(đùa nhẹ rồi bắc cầu sang chủ đề an toàn)
 
 ■ KHÉO NÉ khi khách tự nhắc chủ đề NG:
 「そうですか…」(phản ứng nhẹ, không đào)
@@ -1389,7 +1389,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ---
 
-> **Hizashi Sách 08 — Rule 08 — NG話題8選**', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 08 — NG話題8選**', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000009, 800000009, NULL, 'markdown_book', 'Rule 09 — Thời tiết — không hời hợt / 天気の深さ', '# Rule 09 — Thời tiết — không hời hợt / 天気の深さ
 > **Luận điểm.** "今日は暑いですね" là **lớp 1**. Khách Nhật trân trọng người nói được **lớp 2-3**: phân biệt 蒸し暑い vs カラッと暑い, biết 花冷え, biết Hokkaido tháng 5 mới hoa đào và Kyushu tháng 6 vào 梅雨. Thời tiết = cánh cửa **vùng miền + mùa vụ** sâu nhất.
 
@@ -1562,7 +1562,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ---
 
-> **Hizashi Sách 08 — Rule 09 — 天気の深さ**', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 09 — 天気の深さ**', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000010, 800000009, NULL, 'markdown_book', 'Rule 10 — Quê quán — đào sâu / 出身地の話題', '# Rule 10 — Quê quán — đào sâu / 出身地の話題
 > **Luận điểm.** "ご出身は?" chỉ là **bước 1**. Giá trị thật nằm ở **3 bước sau**: ① ghi lại; ② về tìm hiểu món ăn / môn thể thao / lễ hội của vùng đó; ③ lần gặp tiếp theo, mở chủ đề bằng kiến thức cụ thể. Đây là **lợi thế không ai bắt chước được** mà AI không thay thế được.
 
@@ -1710,7 +1710,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 | 単身赴任 | たんしんふにん | ĐƠN THÂN PHÓ NHẬM | Đi công tác xa nhà một mình (vợ con ở quê) |
 | 名物 | めいぶつ | DANH VẬT | Đặc sản nổi tiếng vùng |
 | 地元 | じもと | ĐỊA NGUYÊN | Quê / địa phương |
-| ご当地 | ごとうち | ĐƯƠNG ĐỊA | "Của vùng đó" (お当地グルメ / お当地アイドル) |
+| ご当地 | ごとうち | ĐƯƠNG ĐỊA | "Của vùng đó" (ご当地グルメ / ご当地アイドル) |
 | 県人会 | けんじんかい | HUYỆN NHÂN HỘI | Hội đồng hương cấp tỉnh |
 | 方言 | ほうげん | PHƯƠNG NGÔN | Phương ngữ |
 | 訛り | なまり | NGOA | Giọng địa phương |
@@ -1726,7 +1726,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 
 ---
 
-> **Hizashi Sách 08 — Rule 10 — 出身地の話題**', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 10 — 出身地の話題**', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000011, 800000009, NULL, 'markdown_book', 'Rule 11 — Ăn — món địa phương / 食の話題', '# Rule 11 — Ăn — món địa phương / 食の話題
 > **Luận điểm.** 食 = **chủ đề vàng tuyệt đối an toàn**. Người Nhật **cuồng** chia sẻ 名物 quê họ. Mỗi vùng có "ấn tượng món" riêng — nhớ được 3-5 món/tỉnh = bạn không bao giờ bí chủ đề. Đây là phần dễ nhất + đem lại nhiều ấn tượng nhất trong sách 08.
 
@@ -1811,8 +1811,8 @@ Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn 
 |  | *Đúng. Cơ bản là Hatchō miso. Miso katsu, miso nikomi udon, dotenni... đều miso đỏ.* |
 | **ズン** | 「**ひつまぶし**【2】も食べてみたいです。**<ruby>蓬莱軒<rt>ほうらいけん</rt></ruby>**って有名ですよね。」 |
 |  | *Em cũng muốn thử hitsumabushi. Quán Hōraiken nổi tiếng đúng không ạ?* |
-| **伊藤** | 「お、よく<ruby>勉強<rt>べんきょう</rt></ruby>してますね。蓬莱軒の<ruby>本店<rt>ほんてん</rt></ruby>、<ruby>神宮<rt>じんぐう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>く。3食べ方ありますよね — そのまま、<ruby>薬味<rt>やくみ</rt></ruby>、お<ruby>茶漬<rt>ちゃづ</rt></ruby>け。」 |
-|  | *Ồ, em học kỹ đó. Hōraiken bản tiệm gần đền Atsuta. Có 3 cách ăn — nguyên, gia vị, ochazuke.* |
+| **伊藤** | 「お、よく<ruby>勉強<rt>べんきょう</rt></ruby>してますね。蓬莱軒は<ruby>熱田神宮<rt>あつたじんぐう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにも<ruby>店<rt>みせ</rt></ruby>がありますよ。3食べ方ありますよね — そのまま、<ruby>薬味<rt>やくみ</rt></ruby>、お<ruby>茶漬<rt>ちゃづ</rt></ruby>け。」 |
+|  | *Ồ, em học kỹ đó. Hōraiken có chi nhánh ngay gần đền Atsuta. Có 3 cách ăn — nguyên, gia vị, ochazuke.* |
 | **ズン** | 「3パターン!まだ<ruby>未経験<rt>みけいけん</rt></ruby>です。**<ruby>手羽先<rt>てばさき</rt></ruby>**は**<ruby>世界<rt>せかい</rt></ruby>の山ちゃん**派ですか、**<ruby>風来坊<rt>ふうらいぼう</rt></ruby>**派ですか?」 |
 |  | *3 kiểu! Em chưa thử bao giờ. Cánh gà anh phe Sekai no Yamachan hay Furaibō ạ?* |
 | **伊藤** | 「あはは、これも戦争になる(笑)。私は風来坊派かな、<ruby>甘<rt>あま</rt></ruby>めが好き。山ちゃんはガツン<ruby>系<rt>けい</rt></ruby>。」 |
@@ -1839,7 +1839,7 @@ Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn 
 |  | *Khó nhỉ. Có cả biển lẫn núi. Hải sản thì uni với ikura số 1. Lẩu Ishikari mùa đông tiêu chuẩn.* |
 | **ズン** | 「**<ruby>札幌<rt>さっぽろ</rt></ruby>ラーメン**は**味噌**ですよね。**すみれ**って有名って聞きました。」 |
 |  | *Ramen Sapporo là miso đúng không ạ. Em nghe Sumire nổi tiếng.* |
-| **中村** | 「すみれ、<ruby>純連<rt>すみれ</rt></ruby>、けやき…どれも美味しい。あと**ジンギスカン**【3】**サッポロビール<ruby>園<rt>えん</rt></ruby>**で食べると<ruby>最高<rt>さいこう</rt></ruby>。」 |
+| **中村** | 「すみれ、<ruby>純連<rt>じゅんれん</rt></ruby>、けやき…どれも美味しい。あと**ジンギスカン**【3】**サッポロビール<ruby>園<rt>えん</rt></ruby>**で食べると<ruby>最高<rt>さいこう</rt></ruby>。」 |
 |  | *Sumire, Junren, Keyaki... cái nào cũng ngon. Thêm Jingisukan ăn ở Sapporo Beer Garden tuyệt nhất.* |
 | **ズン** | 「ジンギスカン、<ruby>羊肉<rt>ようにく</rt></ruby>ですよね。<ruby>北海道民<rt>ほっかいどうみん</rt></ruby>は子供の頃から?」 |
 |  | *Jingisukan là thịt cừu đúng không ạ. Dân Hokkaido ăn từ bé luôn ạ?* |
@@ -1916,7 +1916,7 @@ Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn 
 
 ---
 
-> **Hizashi Sách 08 — Rule 11 — 食の話題**', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 11 — 食の話題**', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000012, 800000009, NULL, 'markdown_book', 'Rule 12 — Uống — sake/shochu/beer / 酒の話題', '# Rule 12 — Uống — sake/shochu/beer / 酒の話題
 > **Luận điểm.** 酒 = chủ đề vàng #2 sau 食. Mỗi vùng có "rượu chuyên":  **新潟・秋田・山形 → 日本酒** / **九州 → 焼酎** / **沖縄 → 泡盛** / craft beer = trên toàn quốc. Biết tên 3-5 nhà ủ rượu cụ thể từng vùng + biết phân biệt 純米 với 大吟醸 = bạn từ "tay mơ" → "đối tác đáng trân trọng".
 
@@ -2072,7 +2072,8 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 ---
 
 ## NG — tuyệt đối tránh
-- "私はお酒飲めない" mà không thử nỗ lực 1 ly → mất cơ hội gắn kết. Nếu không uống được, nói "弱いので少しだけ" + uống 1 ngụm.
+- Từ chối cụt lủn "私はお酒飲めません" rồi im lặng → khách hụt hẫng. **Không phải vì bạn phải uống**, mà vì thiếu vế thứ hai: hãy nói `「お酒は弱いのですが、お付き合いさせてください」` + **cầm ly ウーロン茶 / ノンアルコール cụng cùng mọi người**. Người Nhật nâng ly là để cùng nhịp, không phải để đo tửu lượng.
+  ⚠️ **Tuyệt đối không ép bản thân uống "cho phải phép".** Khoảng 40% người Nhật thiếu men ALDH2 nên chính họ hiểu rõ chuyện không uống được; và **アルハラ (quấy rối rượu bia)** nay là điều cấm kỵ ở doanh nghiệp Nhật. Nếu bạn dị ứng rượu, nói thẳng `「体質的に飲めないんです」` — đây là lý do được chấp nhận hoàn toàn.
 - Khen vùng A xong chê vùng B trước mặt khách vùng B.
 - Hỏi giá chai sake thượng hạng (十四代 / 魔王) → thô.
 - Tự rót cho mình (自酌) khi senior chưa rót xong → tham chiếu Sách 07 rule_26.
@@ -2112,7 +2113,7 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 ---
 
-> **Hizashi Sách 08 — Rule 12 — 酒の話題**', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 12 — 酒の話題**', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000013, 800000009, NULL, 'markdown_book', 'Rule 13 — Gia đình — depth/limit / 家族話の境界', '# Rule 13 — Gia đình — depth/limit / 家族話の境界
 > **Luận điểm.** 家族 (gia đình) là chủ đề **đẳng cấp 4-5** (chỉ mở khi đã thân ≥6 tháng + đã đi ăn ≥3 lần). Có vùng OK (vợ/chồng/con học gì / thú cưng) và vùng cấm tuyệt đối (thu nhập / khúc mắc hôn nhân / tuổi vợ / chuyện con không ngoan). Sai = mất luôn mối quan hệ.
 
@@ -2222,7 +2223,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 | **ズン** | 「お子様の<ruby>予定<rt>よてい</rt></ruby>とかは?」 |
 |  | *[NG] Anh có kế hoạch sinh con không ạ?* |
 | **田中** | 「あ、ちょっと<ruby>電話<rt>でんわ</rt></ruby>、すみません。」 |
-|  | *À, em xin lỗi, có điện thoại.* |
+|  | *À, xin lỗi, tôi có điện thoại.* |
 
  **Sao xấu:** ① Mới gặp 2-3 lần chưa đủ thân để mở chủ đề gia đình. ② Hỏi tuổi vợ = vùng cấm. ③ Hỏi kế hoạch sinh con = đặc biệt nhạy cảm với cặp vợ chồng khó có con (tỉ lệ ở Nhật cao).
 
@@ -2289,7 +2290,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 
 ---
 
-> **Hizashi Sách 08 — Rule 13 — 家族話の境界**', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 13 — 家族話の境界**', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000014, 800000009, NULL, 'markdown_book', 'Rule 14 — Hobby — golf/baseball/sumo / 趣味', '# Rule 14 — Hobby — golf/baseball/sumo / 趣味
 > **Luận điểm.** 3 thú chơi quốc dân của giới công sở Nhật: **ゴルフ** (chuẩn mực trong làm ăn, nhiều thương vụ chốt ngay trên sân) / **野球** (đội bóng theo quê) / **相撲** (người lớn tuổi mê, lịch 6 場所/năm). Biết ghép đúng thú chơi với từng khách = mở chìa khóa quan hệ.
 
@@ -2381,8 +2382,8 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 |---------|-----|
 | **佐藤** | 「お、今日**<ruby>九州場所<rt>きゅうしゅうばしょ</rt></ruby>**【1】3日目か。**<ruby>大の里<rt>おおのさと</rt></ruby>**【2】今日は誰と<ruby>当<rt>あ</rt></ruby>たるかな。」 |
 |  | *Ồ, hôm nay là ngày 3 của Kyushu basho. Ōnosato hôm nay đấu với ai nhỉ.* |
-| **ズン** | 「先生、相撲お好きなんですね!**大の里**、**<ruby>新横綱<rt>しんよこづな</rt></ruby>**になりましたよね?」 |
-|  | *Anh thích sumo nhỉ! Ōnosato vừa lên yokozuna đúng không ạ?* |
+| **ズン** | 「先生、相撲お好きなんですね!**大の里**、<ruby>横綱<rt>よこづな</rt></ruby>になってから<ruby>強<rt>つよ</rt></ruby>いですよね?」 |
+|  | *Anh thích sumo nhỉ! Ōnosato từ khi lên yokozuna mạnh thật đúng không ạ?* |
 | **佐藤** | 「ズンさん、相撲も知っとるか!?最近の若手で<ruby>稀<rt>まれ</rt></ruby>に見る<ruby>素質<rt>そしつ</rt></ruby>。**<ruby>幕内優勝<rt>まくうちゆうしょう</rt></ruby>**何回続いてるか覚えてる?」 |
 |  | *Dũng biết cả sumo!? Tài năng hiếm có trong lứa trẻ. Đã vô địch giải mấy lần liên tiếp em nhớ không?* |
 | **ズン** | 「<ruby>先場所<rt>せんばしょ</rt></ruby>、<ruby>先々場所<rt>せんせんばしょ</rt></ruby>と<ruby>連続優勝<rt>れんぞくゆうしょう</rt></ruby>で…3場所連続だと**<ruby>全勝優勝<rt>ぜんしょうゆうしょう</rt></ruby>**【3】も?」 |
@@ -2396,7 +2397,7 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 | **ズン** | 「ちゃんこ、<ruby>力士<rt>りきし</rt></ruby>の食事ですよね。**チャンコ屋**ある通り、<ruby>両国<rt>りょうごく</rt></ruby>に。」 |
 |  | *Chanko là món của lực sĩ nhỉ. Ở Ryōgoku có cả phố quán Chanko.* |
 
-【1】 **6 場所/năm**: 1月初場所(東京)、3月大阪、5月東京、7月名古屋、9月東京、11月**九州場所**. 【2】 **大の里** = Ōnosato — yokozuna trẻ đang hot 2025-26. 【3】 **全勝優勝** = thắng cả 15 trận. 【4】 **福岡国際センター** = sân Kyushu basho. 【5】 **枡席** = ô vé 4 người ngồi sàn. 【6】 **ちゃんこ鍋** = lẩu sumo. 【7】 **断髪式** = lễ cắt mái tóc khi sumo giải nghệ.
+【1】 **6 場所/năm**: 1月初場所(東京)、3月大阪、5月東京、7月名古屋、9月東京、11月**九州場所**. 【2】 **大の里** = Ōnosato — yokozuna trẻ, lên hạng 7/2025. 【3】 **全勝優勝** = thắng cả 15 trận. 【4】 **福岡国際センター** = sân Kyushu basho. 【5】 **枡席** = ô vé 4 người ngồi sàn. 【6】 **ちゃんこ鍋** = lẩu sumo. 【7】 **断髪式** = lễ cắt mái tóc khi sumo giải nghệ.
 
 > **VN:** Từ vựng sumo: **場所 / 横綱・大関・関脇 / 幕内 / 優勝 / 千秋楽 / 土俵 / 枡席 / ちゃんこ**. Người 60 tuổi mê sumo nhưng thế hệ trẻ Nhật đang xa rời → ai biết = quý.
 
@@ -2444,7 +2445,7 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 
 ■ 相撲 (senior):
 「[今場所]、誰の調子いいですか?」
-「[大の里]、新横綱になりましたよね。」
+「[大の里]、横綱になってから強いですよね。」
 「[九州場所]、いつか枡席で観てみたいです。」
 
 ■ HOBBY MODERN (trẻ):
@@ -2500,7 +2501,7 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 
 ---
 
-> **Hizashi Sách 08 — Rule 14 — 趣味**', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 14 — 趣味**', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000015, 800000009, NULL, 'markdown_book', 'Rule 15 — Du lịch + onsen / 旅行・温泉', '# Rule 15 — Du lịch + onsen / 旅行・温泉
 > **Luận điểm.** 旅行 = chủ đề thân khi đã quen 3-6 tháng. **温泉** đặc biệt — người Nhật nhìn ai cũng thấy "nguồn an ủi". Biết phân biệt **旅館 và ホテル**, **会席 và 懐石**, 10 onsen nổi tiếng nhất, quy tắc tắm onsen = bạn ngang tầm chủ nhà.
 
@@ -2583,10 +2584,10 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 |---------|-----|
 | **佐藤** | 「ズンさん、九州来たら<ruby>黒川温泉<rt>くろかわおんせん</rt></ruby>【1】、絶対行ってほしいとよ。」 |
 |  | *Dũng, đến Kyushu nhất định phải đi onsen Kurokawa.* |
-| **ズン** | 「黒川!<ruby>入湯手形<rt>にゅうとうてがた</rt></ruby>【2】で**3つの旅館**の**露天風呂**を巡れるんですよね?」 |
+| **ズン** | 「黒川!<ruby>入湯手形<rt>にゅうとうてがた</rt></ruby>【2】で**露天風呂巡り**ができるんですよね?」 |
 |  | *Kurokawa! Có ''thẻ gỗ vào tắm'' để đi 3 bồn lộ thiên ở 3 ryokan đúng không ạ?* |
-| **佐藤** | 「お、知っとるか!**1300円**で<ruby>3軒<rt>さんげん</rt></ruby>、6か月有効。村全体が一つの旅館って<ruby>思想<rt>しそう</rt></ruby>で、<ruby>街並み<rt>まちなみ</rt></ruby>も統一感ある。」 |
-|  | *Ồ, biết luôn! 1300 yên 3 quán, 6 tháng hiệu lực. Triết lý ''cả làng là 1 ryokan'', cảnh quan thống nhất.* |
+| **佐藤** | 「お、知っとるか!**1500円**で<ruby>露天風呂<rt>ろてんぶろ</rt></ruby>2<ruby>軒<rt>けん</rt></ruby>＋<ruby>飲食<rt>いんしょく</rt></ruby>・お<ruby>土産<rt>みやげ</rt></ruby>1<ruby>枚<rt>まい</rt></ruby>、6か月有効。村全体が一つの旅館って<ruby>思想<rt>しそう</rt></ruby>で、<ruby>街並み<rt>まちなみ</rt></ruby>も統一感ある。」 |
+|  | *Ồ, biết luôn! 1500 yên — 2 tem tắm + 1 tem đổi đồ ăn/quà, hiệu lực 6 tháng. Triết lý ''cả làng là 1 ryokan'', cảnh quan thống nhất.* |
 | **ズン** | 「街全体が…素敵な思想ですね。<ruby>新明館<rt>しんめいかん</rt></ruby>の<ruby>洞窟風呂<rt>どうくつぶろ</rt></ruby>、**山みず木**の<ruby>渓流露天<rt>けいりゅうろてん</rt></ruby>、有名って聞きました。」 |
 |  | *Cả làng... triết lý đẹp. Em nghe Shinmeikan có bồn hang động, Yamamizuki có lộ thiên ven suối nổi tiếng.* |
 | **佐藤** | 「全部押さえてる(笑)。あと**いこい旅館**の<ruby>滝の湯<rt>たきのゆ</rt></ruby>もよかとよ。<ruby>阿蘇山<rt>あそさん</rt></ruby>【3】とセットで行くのがおすすめ。<ruby>湯布院<rt>ゆふいん</rt></ruby>【4】も近いから2泊で回れる。」 |
@@ -2598,7 +2599,7 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 | **ズン** | 「黒川+湯布院+阿蘇、絶対計画します!」 |
 |  | *Kurokawa + Yufuin + Aso, em chắc chắn sẽ lên kế hoạch!* |
 
-【1】 **黒川温泉** (Kumamoto) = onsen làng truyền thống. 【2】 **入湯手形** = "thẻ tắm" gỗ — vào 3 ryokan khác nhau. 【3】 **阿蘇山** = núi lửa Aso. 【4】 **湯布院** (Oita) = onsen khác Kyushu. 【5】 **由布岳** = núi Yufu. 【6】 **馬刺し** = sashimi ngựa Kumamoto. 【7】 **地鶏** = gà địa phương Miyazaki.
+【1】 **黒川温泉** (Kumamoto) = onsen làng truyền thống. 【2】 **入湯手形** = "thẻ tắm" gỗ 1500 yên — 2 tem tắm + 1 tem ăn/quà (đổi mới từ 2024). 【3】 **阿蘇山** = núi lửa Aso. 【4】 **湯布院** (Oita) = onsen khác Kyushu. 【5】 **由布岳** = núi Yufu. 【6】 **馬刺し** = sashimi ngựa Kumamoto. 【7】 **地鶏** = gà địa phương Miyazaki.
 
 > **VN:** **湯布院** vs **黒川** vs **別府** = 3 onsen Kyushu. Mỗi nơi có concept riêng. **入湯手形** ở Kurokawa = đặc sản trải nghiệm.
 
@@ -2623,8 +2624,8 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 |  | *Gần đây có nhiều ryokan OK xăm nhưng truyền thống đa số NG. Phải kiểm tra trước. Có miếng dán che nữa.* |
 | **ズン** | 「気をつけます。あと<ruby>写真撮影<rt>しゃしんさつえい</rt></ruby>は当然NG?」 |
 |  | *Em sẽ cẩn thận. Còn chụp ảnh đương nhiên NG ạ?* |
-| **大垣** | 「<ruby>脱衣所<rt>だついじょ</rt></ruby>でも<ruby>浴室<rt>よくしつ</rt></ruby>でもNG。<ruby>廊下<rt>ろうか</rt></ruby>と外だけ。あと<ruby>飲酒<rt>いんしゅ</rt></ruby>後すぐ温泉は気をつけて、<ruby>血圧<rt>けつあつ</rt></ruby>上がるから。<ruby>水分補給<rt>すいぶんほきゅう</rt></ruby>忘れずに。」 |
-|  | *Cả phòng thay đồ lẫn phòng tắm đều NG. Chỉ hành lang với ngoài thôi. Còn vừa uống rượu vào tắm là cẩn thận, huyết áp lên. Đừng quên uống nước.* |
+| **大垣** | 「<ruby>脱衣所<rt>だついじょ</rt></ruby>でも<ruby>浴室<rt>よくしつ</rt></ruby>でもNG。<ruby>廊下<rt>ろうか</rt></ruby>と外だけ。あと<ruby>飲酒<rt>いんしゅ</rt></ruby>後すぐの<ruby>入浴<rt>にゅうよく</rt></ruby>は<ruby>絶対<rt>ぜったい</rt></ruby>やめてね。<ruby>血圧<rt>けつあつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がって<ruby>湯船<rt>ゆぶね</rt></ruby>で<ruby>意識<rt>いしき</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>う<ruby>事故<rt>じこ</rt></ruby>が<ruby>毎年<rt>まいとし</rt></ruby>あるから。<ruby>水分補給<rt>すいぶんほきゅう</rt></ruby>忘れずに。」 |
+|  | *Cả phòng thay đồ lẫn phòng tắm đều NG. Chỉ hành lang với ngoài thôi. Còn vừa uống rượu xong thì tuyệt đối đừng ngâm — huyết áp tụt, mỗi năm đều có người ngất trong bồn. Đừng quên uống nước.* |
 
 【1】 **かけ湯** = dội nước trước khi vào bồn. 【2】 **入れ墨** (irezumi) = xăm. Truyền thống = tránh.
 
@@ -2684,7 +2685,7 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 | 単純泉 | たんじゅんせん | ĐƠN THUẦN TUYỀN | Nước đơn giản |
 | 塩化物泉 | えんかぶつせん | DIÊM HÓA VẬT TUYỀN | Natri clorua |
 | 名湯 | めいとう | DANH THANG | Onsen nổi tiếng |
-| 入湯手形 | にゅうとうてがた | NHẬP THANG THỦ HÌNH | Thẻ gỗ vào nhiều bồn |
+| 入湯手形 | にゅうとうてがた | NHẬP THANG THỦ HÌNH | Thẻ gỗ 1500 yên: 2 tem tắm + 1 tem ăn/quà |
 | 雪見露天 | ゆきみろてん | TUYẾT KIẾN LỘ THIÊN | Bồn lộ thiên ngắm tuyết |
 | 朝風呂 | あさぶろ | TRIÊU PHONG LỮ | Tắm sáng |
 | かけ湯 | かけゆ | — | Dội nước trước khi vào |
@@ -2698,7 +2699,7 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 
 ---
 
-> **Hizashi Sách 08 — Rule 15 — 旅行・温泉**', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 15 — 旅行・温泉**', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000016, 800000009, NULL, 'markdown_book', 'Rule 16 — Lễ hội theo mùa / 季節行事', '# Rule 16 — Lễ hội theo mùa / 季節行事
 > **Luận điểm.** Lịch JP chia 4 mùa rõ + 1 chuỗi 年中行事 (lễ hội thường niên). Mở chủ đề đúng lễ hội + đúng vùng = tự nhiên: **桜 (4月) / 花火 (7-8月) / 紅葉 (11月) / お正月 (1月)** + lễ hội vùng (青森ねぶた / 京都祇園祭 / 仙台七夕 / 徳島阿波踊り). Chậm 1 tuần = lỗi mùa.
 
@@ -2787,10 +2788,10 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 |  | *Thắp đèn Shirakawa-go là tháng 1 ngắm tuyết, nhưng lá đỏ cũng đỉnh. Khác Kōrankei (Aichi), Eikandō (Kyoto) — Hida sâu núi đặc trưng.* |
 | **ズン** | 「香嵐渓と永観堂!京都の**<ruby>清水寺<rt>きよみずでら</rt></ruby>**<ruby>夜間拝観<rt>やかんはいかん</rt></ruby>も気になります。」 |
 |  | *Kōrankei với Eikandō! Em cũng tò mò chùa Kiyomizu mở đêm Kyoto.* |
-| **加藤** | 「京都は<ruby>混雑<rt>こんざつ</rt></ruby>がすごいけどね。岐阜なら**<ruby>新穂高<rt>しんほたか</rt></ruby>ロープウェイ**【6】、**3000メートル**【7】から**紅葉の<ruby>絨毯<rt>じゅうたん</rt></ruby>**を<ruby>見下<rt>みお</rt></ruby>ろせる。」 |
-|  | *Kyoto đông kinh khủng. Gifu thì có cáp treo Shinhotaka, từ 3000m nhìn xuống thảm lá đỏ.* |
-| **ズン** | 「3000m!**<ruby>寒<rt>さむ</rt></ruby>さ<ruby>対策<rt>たいさく</rt></ruby>**【8】<ruby>必須<rt>ひっす</rt></ruby>ですね。**<ruby>飛騨牛<rt>ひだぎゅう</rt></ruby><ruby>朴葉味噌<rt>ほおばみそ</rt></ruby>**で<ruby>温<rt>あたた</rt></ruby>まるのも楽しみで。」 |
-|  | *3000m! Phải chuẩn bị chống lạnh. Em mong cả ăn bò Hida + miso hōba để ấm.* |
+| **加藤** | 「京都は<ruby>混雑<rt>こんざつ</rt></ruby>がすごいけどね。岐阜なら**<ruby>新穂高<rt>しんほたか</rt></ruby>ロープウェイ**【6】、**<ruby>標高<rt>ひょうこう</rt></ruby>2000メートル<ruby>超<rt>ちょう</rt></ruby>**【7】から**紅葉の<ruby>絨毯<rt>じゅうたん</rt></ruby>**を<ruby>見下<rt>みお</rt></ruby>ろせる。」 |
+|  | *Kyoto đông kinh khủng. Gifu thì có cáp treo Shinhotaka, từ độ cao hơn 2000m nhìn xuống thảm lá đỏ.* |
+| **ズン** | 「2000m<ruby>超<rt>ちょう</rt></ruby>!**<ruby>寒<rt>さむ</rt></ruby>さ<ruby>対策<rt>たいさく</rt></ruby>**【8】<ruby>必須<rt>ひっす</rt></ruby>ですね。**<ruby>飛騨牛<rt>ひだぎゅう</rt></ruby><ruby>朴葉味噌<rt>ほおばみそ</rt></ruby>**で<ruby>温<rt>あたた</rt></ruby>まるのも楽しみで。」 |
+|  | *Hơn 2000m! Phải chuẩn bị chống lạnh. Em mong cả ăn bò Hida + miso hōba để ấm.* |
 | **加藤** | 「お、つながったね(笑)。あと**<ruby>飛騨高山祭<rt>ひだたかやままつり</rt></ruby>**【9】、4月と10月、屋台が出る。**<ruby>山車<rt>だし</rt></ruby>**【10】、**ユネスコ<ruby>無形文化遺産<rt>むけいぶんかいさん</rt></ruby>**よ。」 |
 |  | *Ồ, em nối được rồi (cười). Còn lễ Hida-Takayama tháng 4 và 10, có yatai. Xe diễu hành — di sản văn hóa phi vật thể UNESCO.* |
 | **ズン** | 「ユネスコ!10月の**秋の高山祭**、ぜひ行きたいです。」 |
@@ -2898,7 +2899,7 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 
 ---
 
-> **Hizashi Sách 08 — Rule 16 — 季節行事**', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 16 — 季節行事**', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000017, 800000009, NULL, 'markdown_book', 'Rule 17 — Sức khỏe + tuổi / 健康・年齢', '# Rule 17 — Sức khỏe + tuổi / 健康・年齢
 > **Luận điểm.** Khách lớn tuổi 50-60t Nhật **rất thích chia sẻ về sức khỏe** — kết quả 人間ドック, máy đo huyết áp, đi gym, golf để giảm cân. NHƯNG: hỏi sai cách = xâm phạm riêng tư. **OK**: nói chung "お体お気をつけて" / "最近運動どうですか". **NG**: hỏi tuổi cụ thể (nhất là phụ nữ), hỏi bệnh chi tiết, "太りましたか?".
 
@@ -3092,7 +3093,7 @@ Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Na
 
 ---
 
-> **Hizashi Sách 08 — Rule 17 — 健康・年齢**', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 17 — 健康・年齢**', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000018, 800000009, NULL, 'markdown_book', 'Rule 18 — Generation references / 世代の話題', '# Rule 18 — Generation references / 世代の話題
 > **Luận điểm.** JP có **3 thế hệ rõ rệt**: **昭和** (1926-1989, ký ức tuổi thơ + バブル) / **平成** (1989-2019, デフレ世代) / **令和** (2019-, デジタルネイティブ). Khớp đúng chủ đề tham chiếu với tuổi khách = bạn nói cùng ngôn ngữ. Sai = lệch.
 
@@ -3288,7 +3289,7 @@ Dũng phải xoay chủ đề tham chiếu theo từng đối tác: Sato 60t (ho
 
 ---
 
-> **Hizashi Sách 08 — Rule 18 — 世代の話題**', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 18 — 世代の話題**', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000019, 800000009, NULL, 'markdown_book', 'Rule 19 — Anime/manga (cẩn thận) / アニメ・漫画', '# Rule 19 — Anime/manga (cẩn thận) / アニメ・漫画
 > **Luận điểm.** Chủ đề anime = **vũ khí 2 lưỡi**. Với khách 30-40t = **gắn kết ngay**. Với senior 50-60t bảo thủ = **phản tác dụng** (xem là "sở thích trẻ con"). Quy tắc: **đợi khách mở trước**, hoặc nhắc đến **作品 phù hợp thế hệ senior** (ジブリ / 名探偵コナン / サザエさん) làm cầu nối.
 
@@ -3477,7 +3478,7 @@ Dũng dùng chủ đề anime 4 cách: ① gắn kết tốt với Tanaka 35t qu
 
 ---
 
-> **Hizashi Sách 08 — Rule 19 — アニメ・漫画**', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 19 — アニメ・漫画**', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000020, 800000009, NULL, 'markdown_book', 'Rule 20 — Tin tức quốc tế (an toàn) / 国際ニュース', '# Rule 20 — Tin tức quốc tế (an toàn) / 国際ニュース
 > **Luận điểm.** Tin tức là **con dao hai lưỡi**: an toàn = **thể thao quốc tế** (WBC, World Cup, Olympics) + **thiên tai** (động đất, bão — đồng cảm). **CẤM TUYỆT ĐỐI**: chính trị Mỹ-Nhật-Trung, Bắc Triều Tiên, Đài Loan, scandal showbiz, vụ án hình sự cụ thể. Sai 1 câu = mất mối quan hệ.
 
@@ -3566,16 +3567,16 @@ Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải
 |  | *Kagiyama được gọi là kế thừa Hanyu Yuzuru. 4.5 vòng còn khó, nhưng cấu trúc hoàn thiện.* |
 | **ズン** | 「**羽生さん**プロ<ruby>転向後<rt>てんこうご</rt></ruby>も**アイスショー**でファン<ruby>熱狂<rt>ねっきょう</rt></ruby>…ベトナムでも**羽生ファン**多いです。」 |
 |  | *Hanyu sau khi chuyển pro vẫn hot ở ice show... Việt Nam fan Hanyu cũng nhiều.* |
-| **田中** | 「お、ベトナムでも!?あと**スノーボード**ハーフパイプの**<ruby>平野歩夢<rt>ひらのあゆむ</rt></ruby>**【8】、**<ruby>3連覇<rt>さんれんぱ</rt></ruby>**<ruby>狙<rt>ねら</rt></ruby>いだよね。」 |
-|  | *Ồ, Việt Nam cũng có!? Còn snowboard halfpipe Hirano Ayumu, săn 3 lần liên tiếp đó.* |
-| **ズン** | 「平野!**<ruby>北京<rt>ペキン</rt></ruby>で金**取った時、<ruby>感動<rt>かんどう</rt></ruby>でした。**スーパーフライト**【9】かっこよかった。」 |
+| **田中** | 「お、ベトナムでも!?あと**スノーボード**ハーフパイプの**<ruby>平野歩夢<rt>ひらのあゆむ</rt></ruby>**【8】、**<ruby>2連覇<rt>にれんぱ</rt></ruby>**<ruby>狙<rt>ねら</rt></ruby>いだよね。」 |
+|  | *Ồ, Việt Nam cũng có!? Còn snowboard halfpipe Hirano Ayumu, săn cú đúp vô địch liên tiếp đó.* |
+| **ズン** | 「平野!**<ruby>北京<rt>ペキン</rt></ruby>で金**取った時、<ruby>感動<rt>かんどう</rt></ruby>でした。**トリプルコーク1440**【9】かっこよかった。」 |
 |  | *Hirano! Lúc đoạt vàng Beijing em cảm động lắm. Trick Super Flight đỉnh quá.* |
 | **田中** | 「次回<ruby>出張時<rt>しゅっちょうじ</rt></ruby>、家でオリンピック<ruby>観戦<rt>かんせん</rt></ruby>パーティーしようよ。**<ruby>お好み焼き<rt>おこのみやき</rt></ruby>**焼きながら(笑)。」 |
 |  | *Lần sau em đến công tác, mở tiệc xem Olympics nhà anh. Vừa nướng okonomiyaki (cười).* |
 | **ズン** | 「お好み焼きパーティー!最高ですね。」 |
 |  | *Tiệc okonomiyaki! Tuyệt vời!* |
 
-【1】 **ミラノ・コルティナ五輪** = Milano-Cortina 2026 Winter Olympics. 【2】 **スピードスケート** = speed skating. 【3】 **高木美帆** = Takagi Miho. 【4】 **フィギュアスケート** = figure skating. 【5】 **鍵山優真** = Kagiyama Yuma. 【6】 **坂本花織** = Sakamoto Kaori. 【7】 **羽生結弦** = Hanyu Yuzuru (retired pro). 【8】 **平野歩夢** = Hirano Ayumu. 【9】 **スーパーフライト** = trick gold-winning Beijing 2022.
+【1】 **ミラノ・コルティナ五輪** = Milano-Cortina 2026 Winter Olympics. 【2】 **スピードスケート** = speed skating. 【3】 **高木美帆** = Takagi Miho. 【4】 **フィギュアスケート** = figure skating. 【5】 **鍵山優真** = Kagiyama Yuma. 【6】 **坂本花織** = Sakamoto Kaori. 【7】 **羽生結弦** = Hanyu Yuzuru (retired pro). 【8】 **平野歩夢** = Hirano Ayumu. 【9】 **トリプルコーク1440** = cú xoay 4 vòng rưỡi kèm 3 lần lộn trục — đòn đưa Hirano tới HCV Bắc Kinh 2022.
 
 > **VN:** Olympics là chủ đề theo mùa: 夏季 (**東京2020 / パリ2024 / LA 2028**), 冬季 (**北京2022 / ミラノ2026**). Tên vận động viên Nhật cần thuộc.
 
@@ -3676,7 +3677,7 @@ Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải
 
 ---
 
-> **Hizashi Sách 08 — Rule 20 — 国際ニュース**', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 20 — 国際ニュース**', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000021, 800000009, NULL, 'markdown_book', 'Rule 21 — Hokkaido — biển + sữa + tuyết / 北海道', '# Rule 21 — Hokkaido — biển + sữa + tuyết / 北海道
 > **Luận điểm.** Khách Hokkaido = niềm tự hào về **海鮮 (uni/ikura/カニ)**, **札幌ラーメン**, **雪まつり** và đội **日本ハムファイターズ**. Hỏi về 北海道 = mở khóa được tiền bối người Hokkaido nói trong 30 phút không nghỉ. **KHÔNG** gộp Hokkaido vào "東北" — sai vùng = cụt cảm xúc.
 
@@ -3710,7 +3711,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 |  | *Em biết rõ ghê! Lễ hội lilac cũng cuối tuần này. Đã ăn Genghis Khan (BBQ cừu) bao giờ chưa?* |
 | **ズン** | 「まだないんです。ぜひ<ruby>本場<rt>ほんば</rt></ruby>で…!」 |
 |  | *Chưa ạ. Mong được ăn ở nguyên bản!* |
-| **nakamura_cfo** | 「じゃあ初日の夜は『**だるま**』に予約しよう。<ruby>創業<rt>そうぎょう</rt></ruby>60年の名店だよ。」 |
+| **nakamura_cfo** | 「じゃあ初日の夜は『**だるま**』に予約しよう。<ruby>創業<rt>そうぎょう</rt></ruby>70年の名店だよ。」 |
 |  | *Vậy tối đầu tiên đặt ''Daruma''. Quán 60 năm tuổi nổi tiếng.* |
 
 > **VN:** Chuẩn bị trước = ghi điểm cực mạnh. "Lilac" + "công viên Ōdōri" + biết đã tháng 5 là mùa đẹp = tiền bối cảm động.
@@ -3811,7 +3812,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 | **Lễ hội** | さっぽろ雪まつり (đầu 2月, 大通公園), YOSAKOIソーラン祭り (6月), ライラックまつり (5月), 函館港まつり (8月) |
 | **Du lịch** | 函館夜景 (top 3 thế giới), 小樽運河, 富良野ラベンダー (7月), 美瑛, 知床 (UNESCO), 摩周湖, 登別温泉, ニセコ |
 | **Tiếng địa phương (北海道弁)** | 「なまら」(=とても), 「したっけ」(=じゃあね), 「(し)んだ」(=〜のだ) — nhẹ thôi |
-| **Nhân vật nổi tiếng** | 新庄剛志 (cựu HLV Fighters), 大泉洋 (diễn viên) |
+| **Nhân vật nổi tiếng** | 大泉洋 (diễn viên), 松山千春 (ca sĩ), 中島みゆき (ca sĩ) — đều gốc Hokkaido. ⚠️ 新庄剛志 là HLV Fighters nhưng **quê Fukuoka**, không phải người Hokkaido |
 | **Mùa đẹp** | 5月 (ライラック), 7-8月 (ラベンダー), 2月 (雪まつり), 9-10月 (紅葉) |
 
 ---
@@ -3850,7 +3851,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 
 ---
 
-> **Hizashi Sách 08 — Rule 21 — 北海道**', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 21 — 北海道**', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000022, 800000009, NULL, 'markdown_book', 'Rule 22 — Tohoku — tuyết, sake, lễ hội mùa hè / 東北', '# Rule 22 — Tohoku — tuyết, sake, lễ hội mùa hè / 東北
 > **Luận điểm.** Tohoku = **6 tỉnh** (青森・岩手・秋田・宮城・山形・福島), mỗi tỉnh có 1 đặc sản + 1 lễ hội biểu tượng. Học bằng cách nhớ **3 大祭り** (青森ねぶた / 仙台七夕 / 秋田竿燈) và **6 món** đại diện. Người Tohoku **kiệm lời** nhưng cảm động sâu khi đối tác hiểu vùng họ.
 
@@ -3878,7 +3879,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 |---------|-----|
 | **ズン** | 「吉田さん、ご<ruby>出身<rt>しゅっしん</rt></ruby>は<ruby>仙台<rt>せんだい</rt></ruby>でしたよね。<ruby>先月<rt>せんげつ</rt></ruby>、**仙台<ruby>牛<rt>ぎゅう</rt></ruby>タン**の話を松本さんから聞いて、とても<ruby>気<rt>き</rt></ruby>になっていまして…」 |
 |  | *Anh Yoshida quê Sendai nhỉ. Tháng trước em nghe anh Matsumoto kể về gyūtan Sendai, em quan tâm lắm...* |
-| **吉田 (placeholder)** | 「そうそう、仙台は牛タン!**<ruby>利久<rt>りきゅう</rt></ruby>**と**<ruby>喜助<rt>きすけ</rt></ruby>**、どっちがいいかで<ruby>地元民<rt>じもとみん</rt></ruby>が<ruby>論争<rt>ろんそう</rt></ruby>するくらいですよ。」 |
+| **吉田** | 「そうそう、仙台は牛タン!**<ruby>利久<rt>りきゅう</rt></ruby>**と**<ruby>喜助<rt>きすけ</rt></ruby>**、どっちがいいかで<ruby>地元民<rt>じもとみん</rt></ruby>が<ruby>論争<rt>ろんそう</rt></ruby>するくらいですよ。」 |
 |  | *Đúng rồi, Sendai = gyūtan! Riku vs Kisuke, người địa phương còn tranh luận nhau.* |
 | **ズン** | 「では<ruby>地元<rt>じもと</rt></ruby>の方は、どちら<ruby>派<rt>は</rt></ruby>ですか?」 |
 |  | *Vậy người địa phương anh thuộc phe nào ạ?* |
@@ -3898,8 +3899,8 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 |---------|-----|
 | **ズン** | 「<ruby>遠藤<rt>えんどう</rt></ruby>さんは<ruby>山形<rt>やまがた</rt></ruby>のご出身ですよね。山形といえば**さくらんぼ**と**<ruby>米沢牛<rt>よねざわぎゅう</rt></ruby>**、それと**<ruby>日本酒<rt>にほんしゅ</rt></ruby>**…」 |
 |  | *Anh Endō quê Yamagata nhỉ. Yamagata thì cherry, bò Yonezawa, và nihonshu...* |
-| **遠藤 (placeholder)** | 「お、よく言ってくれた!山形は**<ruby>東北屈指<rt>とうほくくっし</rt></ruby>の<ruby>酒<rt>さけ</rt></ruby>どころ**ですよ。**<ruby>出羽桜<rt>でわざくら</rt></ruby>**、**<ruby>十四代<rt>じゅうよんだい</rt></ruby>**、**<ruby>楯野川<rt>たてのかわ</rt></ruby>**…全部山形です。」 |
-|  | *Ồ, em nói chuẩn! Yamagata là vùng sake số 1 Tohoku. Dewazakura, Juyondai, Tatenokawa... đều Yamagata.* |
+| **遠藤** | 「お、よく言ってくれた!山形は**<ruby>東北屈指<rt>とうほくくっし</rt></ruby>の<ruby>酒<rt>さけ</rt></ruby>どころ**ですよ。**<ruby>出羽桜<rt>でわざくら</rt></ruby>**、**<ruby>十四代<rt>じゅうよんだい</rt></ruby>**、**<ruby>楯野川<rt>たてのかわ</rt></ruby>**…全部山形です。」 |
+|  | *Ồ, em nói chuẩn! Yamagata là vùng sake thuộc hàng đầu Tohoku. Dewazakura, Juyondai, Tatenokawa... đều Yamagata.* |
 | **ズン** | 「**十四代**!<ruby>幻<rt>まぼろし</rt></ruby>の酒って聞きました。」 |
 |  | *Juyondai! Em nghe là sake huyền thoại.* |
 | **遠藤** | 「そう、なかなか手に<ruby>入<rt>はい</rt></ruby>らない。今度<ruby>東京<rt>とうきょう</rt></ruby>で見つけたら一緒に飲みましょう。あと、**さくらんぼ**は**<ruby>佐藤錦<rt>さとうにしき</rt></ruby>**が<ruby>王様<rt>おうさま</rt></ruby>。6月が<ruby>旬<rt>しゅん</rt></ruby>ですよ。」 |
@@ -4028,7 +4029,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-> **Hizashi Sách 08 — Rule 22 — 東北**', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 22 — 東北**', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000023, 800000009, NULL, 'markdown_book', 'Rule 23 — Kanto/Tokyo — Shitamachi vs Yamanote / 関東・東京', '# Rule 23 — Kanto/Tokyo — Shitamachi vs Yamanote / 関東・東京
 > **Luận điểm.** Tokyo không phải "1 thành phố" — phân **下町 (Asakusa/Tsukishima/Ueno) ↔ 山の手 (Setagaya/Aoyama/Meguro)** với tư duy khác biệt. Khách Tokyo nói "下町育ち" hay "山の手育ち" là tự định vị mình. **3 đội bóng chày Tokyo:** 巨人 (Yomiuri Giants — Tokyo Dome), ヤクルト (Yakult Swallows — 神宮), DeNA (Yokohama — không Tokyo nhưng Kanto).
 
@@ -4212,7 +4213,7 @@ Tháng 5/2026, Dũng đi với 松本PM (người gốc Tokyo, 浅草 lớn lên
 
 ---
 
-> **Hizashi Sách 08 — Rule 23 — 関東東京**', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 23 — 関東東京**', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000024, 800000009, NULL, 'markdown_book', 'Rule 24 — Aichi/Nagoya — miso + tư duy Toyota / 愛知・名古屋', '# Rule 24 — Aichi/Nagoya — miso + tư duy Toyota / 愛知・名古屋
 > **Luận điểm.** Nagoya = **bộ 3-2-1 từ khóa**: 3 món miso (味噌カツ・味噌煮込みうどん・どて煮), 2 đặc sản phong cách Nagoya (ひつまぶし・名古屋コーチン), 1 tư duy đặc trưng (**慎重 + コスパ**). Khách Nagoya thiên về lý lẽ, kỹ tính, hoài nghi quảng cáo — kiểu **Toyota DNA**. Khen "コスパいい" ăn điểm hơn "豪華".
 
@@ -4405,7 +4406,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 
 ---
 
-> **Hizashi Sách 08 — Rule 24 — 愛知**', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 24 — 愛知**', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000025, 800000009, NULL, 'markdown_book', 'Rule 25 — Gifu — núi, craft, đặc sản hiếm khách Việt biết / 岐阜', '# Rule 25 — Gifu — núi, craft, đặc sản hiếm khách Việt biết / 岐阜
 > **Luận điểm.** **Gifu = mỏ vàng zatsudan** vì 99% người Việt KHÔNG biết chiều sâu, mà người Gifu cực tự hào. Nắm vững 9 từ khóa: **飛騨牛 / 飛騨高山古い町並み / 白川郷 (UNESCO 合掌造り) / 鵜飼 (長良川 bắt cá bằng chim cốc) / 朴葉味噌 / 関の刃物 / 美濃焼 / 中津川栗きんとん / さるぼぼ**. Khách Gifu được nhắc 1 trong 9 = miệng cười không khép được.
 
@@ -4618,7 +4619,7 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 ---
 
-> **Hizashi Sách 08 — Rule 25 — 岐阜** *(Signature深掘り Rule)*', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 25 — 岐阜** *(Signature深掘り Rule)*', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000026, 800000009, NULL, 'markdown_book', 'Rule 26 — Osaka — お好み焼, 阪神, 笑い文化 / 大阪', '# Rule 26 — Osaka — お好み焼, 阪神, 笑い文化 / 大阪
 > **Luận điểm.** Osaka = "**食い倒れの街**" + "**笑いの街**" + "**阪神タイガースの街**". Khách Osaka thẳng + nhanh + thích cười + ghét kiểu trang trọng cứng. **Dùng nhẹ Kansai-ben** ("ほんま" / "おおきに") = thân ngay, nhưng đừng lạm dụng quá đà sẽ thành nhạo.
 
@@ -4834,7 +4835,7 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 
 ---
 
-> **Hizashi Sách 08 — Rule 26 — 大阪**', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 26 — 大阪**', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000027, 800000009, NULL, 'markdown_book', 'Rule 27 — Kyoto — tinh tế, おもてなし, niềm tự hào kín đáo / 京都', '# Rule 27 — Kyoto — tinh tế, おもてなし, niềm tự hào kín đáo / 京都
 > **Luận điểm.** Kyoto = **sự tinh tế ngầm** — khen quá thẳng = thô. Khách Kyoto trân trọng **間 (ma) — khoảng lặng**, **本音と建前** rõ rệt nhất Nhật, và niềm tự hào "**京の都が日本の本物**". Học **6 từ khóa**: 懐石/抹茶/舞妓/おもてなし/西陣織/八ツ橋. Cộng với **京言葉** kín đáo (「〜どす」) — không đùa.
 
@@ -4887,7 +4888,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 |---------|-----|
 | **ハーCTO** | 「美しいですね…まるで**<ruby>絵画<rt>かいが</rt></ruby>**のよう。」 |
 |  | *Đẹp quá... cứ như một bức tranh.* |
-| **黒田社長** | 「**<ruby>菊乃井<rt>きくのい</rt></ruby>**は**<ruby>京懐石<rt>きょうかいせき</rt></ruby>**の<ruby>代表格<rt>だいひょうかく</rt></ruby>でね。**<ruby>村田吉弘<rt>むらたよしひろ</rt></ruby>**先生は、**京懐石を<ruby>ユネスコ無形文化遺産<rt>ユネスコむけいぶんかいさん</rt></ruby>**にする運動の<ruby>中心人物<rt>ちゅうしんじんぶつ</rt></ruby>でいらっしゃいます。」 |
+| **黒田社長** | 「**<ruby>菊乃井<rt>きくのい</rt></ruby>**は**<ruby>京懐石<rt>きょうかいせき</rt></ruby>**の<ruby>代表格<rt>だいひょうかく</rt></ruby>でね。**<ruby>村田吉弘<rt>むらたよしひろ</rt></ruby>**先生は、**「<ruby>和食<rt>わしょく</rt></ruby>」を<ruby>ユネスコ無形文化遺産<rt>ユネスコむけいぶんかいさん</rt></ruby>**に<ruby>登録<rt>とうろく</rt></ruby>する<ruby>運動<rt>うんどう</rt></ruby>の<ruby>中心人物<rt>ちゅうしんじんぶつ</rt></ruby>でいらっしゃいます。」 |
 |  | *Kikunoi là đại diện của kaiseki Kyoto. Thầy Murata Yoshihiro là nhân vật trung tâm phong trào đưa kaiseki Kyoto vào di sản phi vật thể UNESCO.* |
 | **ズン** | 「**懐石**は**<ruby>茶懐石<rt>ちゃかいせき</rt></ruby>**から発展した、と聞きました。**<ruby>先付<rt>さきづけ</rt></ruby>・<ruby>椀物<rt>わんもの</rt></ruby>・<ruby>向付<rt>むこうづけ</rt></ruby>・<ruby>八寸<rt>はっすん</rt></ruby>・<ruby>焚合<rt>たきあわ</rt></ruby>せ・<ruby>強肴<rt>しいざかな</rt></ruby>・<ruby>御飯<rt>ごはん</rt></ruby>・<ruby>止め椀<rt>とめわん</rt></ruby>・<ruby>水菓子<rt>みずがし</rt></ruby>**…のお作法ですよね。」 |
 |  | *Em nghe nói kaiseki phát triển từ chakaiseki. Trình tự là sakizuke, wanmono, mukōzuke, hassun, takiawase, shiizakana, gohan, tomewan, mizugashi đúng không ạ?* |
@@ -5044,7 +5045,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 
 ---
 
-> **Hizashi Sách 08 — Rule 27 — 京都**', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 27 — 京都**', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000028, 800000009, NULL, 'markdown_book', 'Rule 28 — Hiroshima — Carp + 重ね焼き + 牡蠣 + 宮島 / 広島', '# Rule 28 — Hiroshima — Carp + 重ね焼き + 牡蠣 + 宮島 / 広島
 > **Luận điểm.** Hiroshima =**3 niềm tự hào không thể đụng**: (1) **広島東洋カープ** (đội bóng cuồng nhiệt áo đỏ 赤いユニフォーム), (2) **広島お好み焼 = 重ね焼き** (KHÔNG混ぜ焼き Osaka), (3) **牡蠣 (国内シェア60%)** + **宮島**. Khách Hiroshima như anh Hiroshi — nhắc 1 trong 3 = mở khóa 1 tiếng nói chuyện. Phân biệt **広島市 ≠ 広島県** (尾道, 福山, 呉 là 県内 nhưng khác thành phố).
 
@@ -5074,8 +5075,8 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 |---------|-----|
 | **hiroshi_chugoku** | 「ズンさん、ここが**お<ruby>好<rt>この</rt></ruby>み<ruby>村<rt>むら</rt></ruby>**じゃ。**<ruby>新天地<rt>しんてんち</rt></ruby>**いう<ruby>繁華街<rt>はんかがい</rt></ruby>にあって、**3<ruby>階建<rt>かいだ</rt></ruby>て<ruby>約<rt>やく</rt></ruby>20<ruby>店舗<rt>てんぽ</rt></ruby>**<ruby>集<rt>あつ</rt></ruby>まっとるんよ。広島お好み焼の<ruby>聖地<rt>せいち</rt></ruby>じゃけぇ。」 |
 |  | *Em Dũng, đây là Okonomimura. Ở khu Shintenchi, 3 tầng khoảng 20 quán. Thánh địa okonomiyaki Hiroshima.* |
-| **ズン** | 「『じゃけぇ』、**<ruby>広島弁<rt>ひろしまべん</rt></ruby>**ですね。25店舗もあるんですか…どこ行きますか?」 |
-|  | *''Jakē'', Hiroshima-ben nhỉ. 25 quán cơ. Mình vào quán nào?* |
+| **ズン** | 「『じゃけぇ』、**<ruby>広島弁<rt>ひろしまべん</rt></ruby>**ですね。20店舗もあるんですか…どこ行きますか?」 |
+|  | *''Jakē'', Hiroshima-ben nhỉ. 20 quán cơ. Mình vào quán nào?* |
 | **hiroshi_chugoku** | 「**<ruby>麗<rt>れい</rt></ruby>ちゃん**にしよう、ここは<ruby>老舗<rt>しにせ</rt></ruby>中の老舗。<ruby>創業<rt>そうぎょう</rt></ruby><ruby>半世紀<rt>はんせいき</rt></ruby>以上。広島お好み焼の**<ruby>重<rt>かさ</rt></ruby>ね<ruby>焼<rt>や</rt></ruby>き**は、**<ruby>順番<rt>じゅんばん</rt></ruby>が<ruby>命<rt>いのち</rt></ruby>**じゃ。」 |
 |  | *Reichan đi, lâu đời nhất. Khai trương hơn nửa thế kỷ. Kasaneyaki Hiroshima thì thứ tự là tinh thần.* |
 | **ズン** | 「**<ruby>生地<rt>きじ</rt></ruby>→キャベツ→もやし→<ruby>豚<rt>ぶた</rt></ruby>バラ→そば(or うどん)→<ruby>卵<rt>たまご</rt></ruby>→ソース**、ですよね。」 |
@@ -5280,7 +5281,7 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-> **Hizashi Sách 08 — Rule 28 — 広島** *(Signature深掘り Rule)*', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 28 — 広島** *(Signature深掘り Rule)*', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000029, 800000009, NULL, 'markdown_book', 'Rule 29 — Shikoku — udon, citrus, お遍路 / 四国', '# Rule 29 — Shikoku — udon, citrus, お遍路 / 四国
 > **Luận điểm.** Shikoku **4 県 4 đặc trưng**: 香川 = **讃岐うどん**, 愛媛 = **みかん/ポンジュース + 道後温泉**, 高知 = **カツオたたき + 坂本龍馬**, 徳島 = **阿波踊り + すだち**. Sợi dây xuyên 4 県: **お遍路 88ヶ所** (1200 km hành hương). Khách Shikoku ít — gặp ai mà nói được chiều sâu 4 県 + sự gắn bó với bản sắc quê hương thì rất tốt.
 
@@ -5348,8 +5349,8 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 ### Scenario 3 — Kochi カツオ + 坂本龍馬
 | Vai | Câu |
 |---------|-----|
-| **近藤** | 「高知の**カツオのたたき**、**<ruby>塩<rt>しお</rt></ruby>たたき**で食うのが<ruby>本場流<rt>ほんばりゅう</rt></ruby>。**<ruby>大谷石<rt>おおやいし</rt></ruby>**じゃなく、**<ruby>藁焼<rt>わらや</rt></ruby>き**で<ruby>表面焦<rt>ひょうめんこ</rt></ruby>がして、<ruby>生姜<rt>しょうが</rt></ruby>・にんにく・ねぎ載せて。」 |
-|  | *Tataki cá ngừ Kōchi, ăn kiểu ''shio-tataki'' mới là chuẩn bản địa. Không phải đá Ōya, mà nướng rơm cho cháy bề mặt, rồi đặt gừng, tỏi, hành lên.* |
+| **近藤** | 「高知の**カツオのたたき**、**<ruby>塩<rt>しお</rt></ruby>たたき**で食うのが<ruby>本場流<rt>ほんばりゅう</rt></ruby>。**ガス<ruby>火<rt>び</rt></ruby>**じゃなく、**<ruby>藁焼<rt>わらや</rt></ruby>き**で<ruby>表面焦<rt>ひょうめんこ</rt></ruby>がして、<ruby>生姜<rt>しょうが</rt></ruby>・にんにく・ねぎ載せて。」 |
+|  | *Tataki cá ngừ Kōchi, ăn kiểu ''shio-tataki'' mới là chuẩn bản địa. Không phải nướng bếp ga, mà nướng rơm cho cháy bề mặt, rồi đặt gừng, tỏi, hành lên.* |
 | **ズン** | 「**藁焼き**、<ruby>香<rt>かお</rt></ruby>りが<ruby>移<rt>うつ</rt></ruby>るんですね。」 |
 |  | *Nướng rơm, hương rơm thấm vào nhỉ.* |
 | **近藤** | 「そう、**ひろめ<ruby>市場<rt>いちば</rt></ruby>**(高知駅近く)で**<ruby>明神丸<rt>みょうじんまる</rt></ruby>**が一番有名。あと**酒**!高知は**<ruby>酒豪県<rt>しゅごうけん</rt></ruby>**で、**<ruby>司牡丹<rt>つかさぼたん</rt></ruby>**、**<ruby>酔鯨<rt>すいげい</rt></ruby>**、**<ruby>美丈夫<rt>びじょうふ</rt></ruby>**…**<ruby>返杯<rt>へんぱい</rt></ruby>**って文化があってな、お<ruby>互<rt>たが</rt></ruby>いの<ruby>杯<rt>さかずき</rt></ruby>を<ruby>交換<rt>こうかん</rt></ruby>して飲み合うんよ。」 |
@@ -5486,7 +5487,7 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 
 ---
 
-> **Hizashi Sách 08 — Rule 29 — 四国**', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 29 — 四国**', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000030, 800000009, NULL, 'markdown_book', 'Rule 30 — Fukuoka — 博多豚骨, もつ鍋, 屋台, ホークス / 福岡', '# Rule 30 — Fukuoka — 博多豚骨, もつ鍋, 屋台, ホークス / 福岡
 > **Luận điểm.** Fukuoka = **trung tâm ẩm thực + cuộc vui về đêm của Kyushu**. **5 từ khóa**: **博多豚骨ラーメン**, **もつ鍋**, **明太子**, **水炊き**, **中洲屋台 (中洲那珂川河畔)**. + **福岡ソフトバンクホークス** + **麦焼酎**. Người Hakata thẳng + ấm + nhậu khỏe — gần văn hóa Osaka nhưng giọng đặc trưng Hakata-ben.
 
@@ -5568,7 +5569,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 |  | *Em Dũng, có phải fan của Fukuoka SoftBank Hawks không?* |
 | **ズン** | 「**みずほPayPayドーム**でホームゲーム、<ruby>見<rt>み</rt></ruby>てみたいです。**<ruby>王貞治<rt>おうさだはる</rt></ruby>**<ruby>会長<rt>かいちょう</rt></ruby>、**ホークス**を**九州<ruby>一<rt>いち</rt></ruby>の<ruby>球団<rt>きゅうだん</rt></ruby>**に<ruby>育<rt>そだ</rt></ruby>てましたよね。」 |
 |  | *Em muốn xem trận sân nhà ở Mizuho PayPay Dome. Chủ tịch Ō Sadaharu đã nuôi dưỡng Hawks thành đội bóng số 1 Kyushu nhỉ.* |
-| **sato_kyushu** | 「**王さん**!1995年からダイエー<ruby>時代<rt>じだい</rt></ruby>に<ruby>監督就任<rt>かんとくしゅうにん</rt></ruby>、**3<ruby>度<rt>ど</rt></ruby>の日本一**(99,03,11)<ruby>達成<rt>たっせい</rt></ruby>。今は会長。**<ruby>孫正義<rt>そんまさよし</rt></ruby>**社長(SoftBank)が**2005年**に<ruby>買収<rt>ばいしゅう</rt></ruby>してから**<ruby>最強時代<rt>さいきょうじだい</rt></ruby>**。」 |
+| **sato_kyushu** | 「**王さん**!1995年からダイエー<ruby>時代<rt>じだい</rt></ruby>に<ruby>監督就任<rt>かんとくしゅうにん</rt></ruby>、**2<ruby>度<rt>ど</rt></ruby>の日本一**(99,03)<ruby>達成<rt>たっせい</rt></ruby>。今は会長。**<ruby>孫正義<rt>そんまさよし</rt></ruby>**社長(SoftBank)が**2005年**に<ruby>買収<rt>ばいしゅう</rt></ruby>してから**<ruby>最強時代<rt>さいきょうじだい</rt></ruby>**。」 |
 |  | *Anh Ō! Từ năm 1995 thời Daiei nhận chức HLV, đạt 3 lần vô địch Nhật (99, 03, 11). Giờ là chủ tịch. Từ khi giám đốc Son Masayoshi (SoftBank) thâu tóm năm 2005, là thời đại mạnh nhất.* |
 | **ズン** | 「**ホークスは<ruby>黄色<rt>きいろ</rt></ruby>の<ruby>応援<rt>おうえん</rt></ruby>**ですよね、**<ruby>鷹<rt>たか</rt></ruby>**のロゴ。」 |
 |  | *Hawks cổ vũ màu vàng nhỉ, logo chim ưng.* |
@@ -5583,7 +5584,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 | **sato_kyushu** | 「博多2<ruby>大祭<rt>だいまつ</rt></ruby>り全部<ruby>押<rt>お</rt></ruby>さえとる!ズンさん、<ruby>来年<rt>らいねん</rt></ruby>は**追い山**見に<ruby>来<rt>き</rt></ruby>んしゃい、**4:59に<ruby>櫛田神社<rt>くしだじんじゃ</rt></ruby>で<ruby>待<rt>ま</rt></ruby>っとる**ばい。」 |
 |  | *Em nắm cả 2 lễ lớn của Hakata luôn! Sang năm đến xem oiyama đi em, 4:59 anh chờ ở Kushida Jinja đó.* |
 
-> **VN:** ホークス みずほPayPayドーム + 王貞治 + 1999/2003/2011 日本一 + 孫正義 2005 SoftBank + 黄色応援 + 山笠 7/1-15 + 770年+ + 追い山 7/15 4:59 + 舁き山 1t + 男だけ + 博多どんたく 5/3-4 + 200万人 = chiều sâu hạng S+. Anh Sato ngỏ ý dẫn đi vào 来年.
+> **VN:** ホークス みずほPayPayドーム + 王貞治 + 1999/2003 日本一 + 孫正義 2005 SoftBank + 黄色応援 + 山笠 7/1-15 + 770年+ + 追い山 7/15 4:59 + 舁き山 1t + 男だけ + 博多どんたく 5/3-4 + 200万人 = chiều sâu hạng S+. Anh Sato ngỏ ý dẫn đi vào 来年.
 
 ---
 
@@ -5651,7 +5652,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 | **ラーメン4派** | **長浜** (極細+替え玉発祥), **博多** (細), **久留米** (豚骨発祥1937 南京千両), **熊本** (マー油+にんにく) |
 | **替え玉文化** | 1玉100円, バリカタ・カタ・普通・やわ・バリやわ (+粉落とし) |
 | **酒** | **麦焼酎** (大分が生産量日本一): いいちこ, 二階堂, 中々. 福岡 日本酒: 万葉, 喜多屋, 三井の寿 |
-| **Thể thao — ホークス** | **福岡ソフトバンクホークス** — みずほPayPayドーム, 王貞治会長, 孫正義社長(2005買収), 黄色応援, 1999/2003/2011 日本一. **アビスパ福岡 (J)**, **ギラヴァンツ北九州**, **ライジングゼファー福岡 (B)** |
+| **Thể thao — ホークス** | **福岡ソフトバンクホークス** — みずほPayPayドーム, 王貞治会長, 孫正義社長(2005買収), 黄色応援, 1999/2003 日本一(王監督時代). **アビスパ福岡 (J)**, **ギラヴァンツ北九州**, **ライジングゼファー福岡 (B)** |
 | **Lễ hội** | **博多祇園山笠** (7/1-15, 770+年, 追い山7/15 4:59 1t 男のみ), **博多どんたく** (5/3-4, 200万人, GW), 北九州 戸畑祇園 (7月) |
 | **観光** | **太宰府天満宮** (全国12000総本宮, 菅原道真), **櫛田神社** (山笠本宮), **中洲川端**, **キャナルシティ博多**, **マリンメッセ**, **糸島**, **門司港レトロ**, **柳川 (掘割)**, **小倉城** |
 | **Phương ngữ (博多弁/Hakata-ben)** | 「〜と?」 (= 〜の?), 「〜ばい」 (= 〜よ), 「〜やけん」 (= 〜だから), 「〜ちゃ」, 「ばってん」 (= でも), 「しゃい」 (命令柔), 「とっとー?」 (= 取ってる?), 「なんしようと?」 (= 何してるの?) |
@@ -5701,7 +5702,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 
 ---
 
-> **Hizashi Sách 08 — Rule 30 — 福岡**', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 30 — 福岡**', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000031, 800000009, NULL, 'markdown_book', 'Rule 31 — Kumamoto + Kagoshima — 馬刺し, くまモン, 黒豚, 西郷さん, 桜島 / 熊本・鹿児島', '# Rule 31 — Kumamoto + Kagoshima — 馬刺し, くまモン, 黒豚, 西郷さん, 桜島 / 熊本・鹿児島
 > **Luận điểm.** **2 県 Kyushu Nam** với bản sắc rất riêng. **熊本** = **馬刺し** + **からし蓮根** + **くまモン** + **阿蘇山**. **鹿児島** = **黒豚** + **さつま揚げ** + **西郷隆盛** + **桜島** + **芋焼酎**. Người dân chân thật, tự hào lịch sử Saigō / Edo (薩摩藩). Khách 鹿児島 đặc biệt cuồng **西郷どん**.
 
@@ -5762,10 +5763,10 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 |  | *Đông tây 18km, nam bắc 25km, caldera hàng đầu thế giới. Đền Aso xây 2300+ năm. Onsen Kurokawa là top 10 Nhật.* |
 | **ズン** | 「**黒川温泉**の**<ruby>入湯手形<rt>にゅうとうてがた</rt></ruby>**(3湯廻り)、面白いシステムですよね。」 |
 |  | *Nyūtō tegata Kurokawa (3 onsen), hệ thống hay nhỉ.* |
-| **partner** | 「お、入湯手形まで!**1300円**で3軒選べる。**<ruby>露天風呂<rt>ろてんぶろ</rt></ruby>**ばっかり選ぶ人多いね。」 |
+| **partner** | 「お、入湯手形まで!**1500円**で<ruby>露天風呂<rt>ろてんぶろ</rt></ruby>2<ruby>軒<rt>けん</rt></ruby>＋<ruby>飲食<rt>いんしょく</rt></ruby>・お<ruby>土産<rt>みやげ</rt></ruby>1<ruby>枚<rt>まい</rt></ruby>。**<ruby>露天風呂<rt>ろてんぶろ</rt></ruby>**ばっかり選ぶ人多いね。」 |
 |  | *Cả nyūtō tegata! 1300 yên 3 quán. Nhiều người chọn rotenburo hết.* |
 
-> **VN:** からし蓮根 江戸時代 細川忠利 400年 + 熊本郷土 (だご汁/いきなり団子/辛子高菜/太平燕) + 阿蘇カルデラ 18x25km + 阿蘇神社 2300年+ + 黒川温泉 入湯手形 1300円 = Kumamoto tier S+.
+> **VN:** からし蓮根 江戸時代 細川忠利 400年 + 熊本郷土 (だご汁/いきなり団子/辛子高菜/太平燕) + 阿蘇カルデラ 18x25km + 阿蘇神社 2300年+ + 黒川温泉 入湯手形 1500円 = Kumamoto tier S+.
 
 ---
 
@@ -5808,8 +5809,8 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 |  | *Mềm + ngọt là dấu hiệu thuần chủng nhỉ.* |
 | **partner** | 「**しゃぶしゃぶ**で**<ruby>ポン酢<rt>ポンず</rt></ruby>+<ruby>大根<rt>だいこん</rt></ruby>おろし**で食うのが鹿児島流。あと**<ruby>さつま揚げ<rt>さつまあげ</rt></ruby>**!ねっとり甘い、**<ruby>揚立屋<rt>あげたてや</rt></ruby>**、**<ruby>月揚庵<rt>つきあげあん</rt></ruby>**が<ruby>老舗<rt>しにせ</rt></ruby>。」 |
 |  | *Shabu-shabu chấm ponzu + củ cải nghiền là kiểu Kagoshima. Còn satsuma-age! Dẻo ngọt, Agetateya, Tsukiage-an lâu đời.* |
-| **ズン** | 「**<ruby>芋焼酎<rt>いもじょうちゅう</rt></ruby>**、**鹿児島が99%**なんですよね。」 |
-|  | *Imo shōchū, Kagoshima 99% nhỉ.* |
+| **ズン** | 「**<ruby>芋焼酎<rt>いもじょうちゅう</rt></ruby>**、**鹿児島は<ruby>蔵元数<rt>くらもとすう</rt></ruby>で<ruby>日本一<rt>にほんいち</rt></ruby>**なんですよね。」 |
+|  | *Imo shōchū, Kagoshima nhất nước về số lò nấu nhỉ.* |
 | **partner** | 「**芋焼酎**!**<ruby>森伊蔵<rt>もりいぞう</rt></ruby>・<ruby>魔王<rt>まおう</rt></ruby>・<ruby>村尾<rt>むらお</rt></ruby>**で**3M**って言うてな、**<ruby>幻<rt>まぼろし</rt></ruby>のプレミアム**じゃ。**<ruby>前割り<rt>まえわり</rt></ruby>**って知っとる?」 |
 |  | *Imo shōchū! Mori Izō, Maō, Murao gọi 3M, premium huyền thoại. Maewari biết không?* |
 | **ズン** | 「**前割り**、**前日に水で割って一晩寝かせる**、**まろやか**になる方法ですよね。」 |
@@ -5857,7 +5858,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 | **食** | **馬刺し (菅乃屋/天國)** — 赤身/霜降り/たてがみ/フタエゴ, **からし蓮根**, **だご汁**, **いきなり団子**, **太平燕 (タイピーエン)**, **辛子高菜**, **熊本ラーメン (マー油+にんにく)** — 黒亭/こむらさき, **馬肉ステーキ** |
 | **酒** | 球磨焼酎 (米焼酎発祥地, 500年): 鳥飼, 文蔵, 萬緑, 武者返し |
 | **キャラ** | **くまモン** (2010ゆるキャラGP優勝, 経済効果1500億円+) |
-| **観光** | **熊本城 (加藤清正1607)**, **阿蘇山+カルデラ (18×25km)**, **阿蘇神社 (2300年+)**, **黒川温泉 (入湯手形1300円3湯)**, **天草** (キリシタン), **草千里** |
+| **観光** | **熊本城 (加藤清正1607)**, **阿蘇山+カルデラ (18×25km)**, **阿蘇神社 (2300年+)**, **黒川温泉 (入湯手形1500円: 2湯+飲食1枚)**, **天草** (キリシタン), **草千里** |
 | **祭り** | 火の国まつり (8月), 山鹿灯籠まつり (8/15-16), おばあちゃんの市 |
 | **方言** | 肥後弁 「〜たい」 「ばってん」 「もっこす」 (頑固) |
 
@@ -5867,7 +5868,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 | **県庁所在地** | 鹿児島市 |
 | **食** | **鹿児島黒豚 (6白バークシャー種)** — しゃぶしゃぶ/とんかつ, **さつま揚げ (揚立屋/月揚庵)**, **鶏飯 (奄美)**, **しろくま (氷菓)**, **きびなご**, **トンコツ料理**, **がね (薩摩天ぷら)** |
 | **黒酢** | **福山町 — 世界唯一壺仕込み黒酢の里**: 坂元のくろず, 桷志田, くすや黒酢 |
-| **酒 — 芋焼酎** | 鹿児島99%. **3M = 森伊蔵・魔王・村尾** (幻のプレミアム). 一般: 黒霧島, 白波, 富乃宝山, 七窪. **前割り**製法 |
+| **酒 — 芋焼酎** | Kagoshima là vùng **芋焼酎 hàng đầu Nhật Bản**. **3M = 森伊蔵・魔王・村尾** (幻のプレミアム). Phổ thông: **白波, 富乃宝山, 七窪** (đều Kagoshima). **前割り**製法. ⚠️ **黒霧島 là hãng 霧島酒造 tỉnh Miyazaki**, không phải Kagoshima |
 | **観光** | **桜島**, **城山+西郷さん終焉の地**, **仙巌園**, **指宿砂むし温泉**, **屋久島 (UNESCO 1993)**, **奄美大島 (UNESCO 2021)**, **知覧特攻平和会館** |
 | **歴史** | **薩摩藩**, **西郷隆盛 (1828-1877城山自決)**, **大久保利通**, **東郷平八郎** (海軍元帥), **示現流剣術** |
 | **祭り** | おはら祭り (11/2-3), 川内大綱引 (9月) |
@@ -5920,7 +5921,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 ---
 
-> **Hizashi Sách 08 — Rule 31 — 熊本鹿児島**', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 31 — 熊本鹿児島**', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000032, 800000009, NULL, 'markdown_book', 'Rule 32 — Okinawa — văn hóa khác, 沖縄時間, ハイサイ / 沖縄', '# Rule 32 — Okinawa — văn hóa khác, 沖縄時間, ハイサイ / 沖縄
 > **Luận điểm.** Okinawa = **Ryūkyū文化** từng là **王国 (1429-1879)**, **không phải** "Nhật mini". Khách Okinawa có **nhịp riêng** ("沖縄時間"), **ẩm thực riêng**, **言葉 riêng** (うちなーぐち/沖縄方言). Thuộc lòng 8 từ khóa: **ゴーヤチャンプル / ソーキそば / 泡盛 / 三線 / シーサー / ハイサイ / ちゅらさん / 首里城**. **Phong cách**: thư thái, chậm, ấm — không hối thúc.
 
@@ -6028,8 +6029,8 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 | Vai | Câu |
 |---------|-----|
-| **kobayashi_okinawa** | 「**首里城**は**琉球王国の<ruby>王城<rt>おうじょう</rt></ruby>**(1429-1879)、**<ruby>正殿<rt>せいでん</rt></ruby>**は**2019年10月<ruby>火災<rt>かさい</rt></ruby>**で<ruby>焼失<rt>しょうしつ</rt></ruby>したけど、**2026年<ruby>復元<rt>ふくげん</rt></ruby><ruby>完成<rt>かんせい</rt></ruby><ruby>目指<rt>めざ</rt></ruby>して**<ruby>復興中<rt>ふっこうちゅう</rt></ruby>ね。」 |
-|  | *Shuri-jō là vương cung Ryūkyū (1429-1879). Chánh điện cháy 10/2019 nhưng đang phục hồi, mục tiêu hoàn thành 2026.* |
+| **kobayashi_okinawa** | 「**首里城**は**琉球王国の<ruby>王城<rt>おうじょう</rt></ruby>**(1429-1879)、**<ruby>正殿<rt>せいでん</rt></ruby>**は**2019年10月<ruby>火災<rt>かさい</rt></ruby>**で<ruby>焼失<rt>しょうしつ</rt></ruby>したけど、**2026年11月に<ruby>正殿<rt>せいでん</rt></ruby>の<ruby>復元<rt>ふくげん</rt></ruby>が<ruby>完成<rt>かんせい</rt></ruby>した**ばかりなんですよ。」 |
+|  | *Shuri-jō là vương cung Ryūkyū (1429-1879). Chánh điện cháy 10/2019, và vừa phục dựng xong tháng 11/2026 đó.* |
 | **ズン** | 「**2019年火災**、<ruby>心<rt>こころ</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>みました。**復元プロジェクト**、お<ruby>力添<rt>ちからぞ</rt></ruby>えできれば…」 |
 |  | *Cháy 2019 em đau lòng. Dự án phục hồi, nếu góp được sức...* |
 | **kobayashi_okinawa** | 「ありがとうね〜。**首里城**は**ユネスコ<ruby>世界遺産<rt>せかいいさん</rt></ruby>『琉球王国のグスク**』(2000年<ruby>登録<rt>とうろく</rt></ruby>)の<ruby>中心<rt>ちゅうしん</rt></ruby>。**<ruby>朱色<rt>しゅいろ</rt></ruby>の正殿**は**中国・日本・<ruby>南国<rt>なんごく</rt></ruby>文化のミックス**、世界に<ruby>唯一無二<rt>ゆいいつむに</rt></ruby>さ。」 |
@@ -6047,7 +6048,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 | **kobayashi_okinawa** | 「ぜひ**<ruby>離島<rt>りとう</rt></ruby>**(<ruby>石垣<rt>いしがき</rt></ruby>・<ruby>宮古<rt>みやこ</rt></ruby>・<ruby>西表<rt>いりおもて</rt></ruby>)も。**ちゅら<ruby>海<rt>うみ</rt></ruby>**って<ruby>美<rt>うつく</rt></ruby>しい海、見てほしい。**沖縄1<ruby>週間<rt>しゅうかん</rt></ruby>**で<ruby>帰<rt>かえ</rt></ruby>りたくなくなるさ〜(<ruby>笑<rt>わら</rt></ruby>)」 |
 |  | *Đảo xa nữa nhé (Ishigaki/Miyako/Iriomote). Chura-umi đẹp lắm, tôi muốn em xem. 1 tuần Okinawa em không muốn về nữa đâu (cười).* |
 
-> **VN:** 首里城 琉球王国 1429-1879 + 2019火災 + 2026復元 + UNESCO 2000 グスク + ジンベエザメ 8.7m 水槽 8.2x22.5x60 + (cẩn thận) 沖縄戦 4人に1人 + ひめゆり + 6/23 慰霊の日 + 離島 (石垣/宮古/西表) + ちゅら海 = trọn vẹn chiều sâu Okinawa + sự nhạy cảm.
+> **VN:** 首里城 琉球王国 1429-1879 + 2019火災 + 2026年11月正殿復元完成 + UNESCO 2000 グスク + ジンベエザメ 8.7m 水槽 8.2x22.5x60 + (cẩn thận) 沖縄戦 4人に1人 + ひめゆり + 6/23 慰霊の日 + 離島 (石垣/宮古/西表) + ちゅら海 = trọn vẹn chiều sâu Okinawa + sự nhạy cảm.
 
 ---
 
@@ -6073,7 +6074,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 「シーサー、オスは口開け福を呼ぶ、メスは口閉じ災いを防ぐ、ですよね。」
 
 ■ 首里城:
-「首里城、2019年火災から復興、応援しています。」
+「首里城、2019年の火災から復元されて、本当によかったですね。」
 「琉球王国の歴史、本当に深いですね。」
 
 ■ 平和 (cẩn thận):
@@ -6097,7 +6098,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 | **アーティスト** | 安室奈美恵, BEGIN, HY, Kiroro, 夏川りみ, MAX, SPEED, ORANGE RANGE, 喜納昌吉 (ハイサイおじさん), 沖縄アクターズスクール |
 | **守り神** | **シーサー** (オス=口開福呼/メス=口閉災防), **壺屋やちむん** で購入 |
 | **文化用語** | ハイサイ (こんにちは男), ハイタイ (女), めんそ〜れ (chào mừng), なんくるないさ〜 (rồi sẽ ổn), ゆいまーる (giúp lẫn nhau), 沖縄時間 (thư thái), カチャーシー (vũ điệu kết thúc) |
-| **観光** | **首里城 (UNESCO 2000, 1429王城, 2019火災2026復元)**, **美ら海水族館 (ジンベエザメ8.7m)**, **国際通り**, **斎場御嶽 (UNESCO)**, **古宇利島**, **万座毛**, **離島**: 石垣島/宮古島/西表島/慶良間/竹富島 |
+| **観光** | **首里城 (UNESCO 2000, 1429王城, 2019火災 → 2026年11月正殿復元完成)**, **美ら海水族館 (ジンベエザメ8.7m)**, **国際通り**, **斎場御嶽 (UNESCO)**, **古宇利島**, **万座毛**, **離島**: 石垣島/宮古島/西表島/慶良間/竹富島 |
 | **平和** | **沖縄戦 (1945)** 県民4人に1人没. **ひめゆりの塔**, **平和祈念公園**, **6/23慰霊の日**. Chủ đề cần thận trọng. |
 | **方言 (うちなーぐち/沖縄方言)** | 「〜さ〜」「〜よ」「だからよ」(=だよね), 「めんそ〜れ」「ハイサイ」「にふぇーでーびる」(=ありがとう), 「ちゅら」(=美しい) |
 | **Thể thao** | **FC琉球 (J)**, **琉球ゴールデンキングス (B)**, **沖縄SV** |
@@ -6153,7 +6154,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 ---
 
-> **Hizashi Sách 08 — Rule 32 — 沖縄**', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 32 — 沖縄**', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000033, 800000009, NULL, 'markdown_book', 'Rule 33 — Kho ghi nhớ — ghi nhớ chi tiết cụ thể về khách JP / 雑談メモバンク', '# Rule 33 — Kho ghi nhớ — ghi nhớ chi tiết cụ thể về khách JP / 雑談メモバンク
 > **Luận điểm.** AI không thể nhớ thay bạn. Sau mỗi cuộc gặp khách Nhật, **trong vòng 24h** ghi vào CRM: **quê quán + món yêu thích + đội thể thao ủng hộ + thông tin gia đình + điều khách kể lần gặp gần nhất**. **Trước cuộc gặp tiếp**, xem lại 3 phút. Đây là **lợi thế không ai bắt chước được** mà cạnh tranh không vượt qua được — khách Nhật **cảm động sâu** khi đối tác nhớ "**con anh học cấp 2 chưa?**" sau 6 tháng.
 
@@ -6331,7 +6332,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 
 ---
 
-> **Hizashi Sách 08 — Rule 33 — 雑談メモバンク**', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 33 — 雑談メモバンク**', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000034, 800000009, NULL, 'markdown_book', 'Rule 34 — Phở — câu chuyện văn hóa / フォーの話', '# Rule 34 — Phở — câu chuyện văn hóa / フォーの話
 > **Luận điểm.** Khách Nhật ai cũng biết "phở" — nhưng mức độ hiểu sâu chỉ tới đó. Bạn = người am hiểu ẩm thực VN → kể được **Bắc vs Nam, gà vs bò, sáng vs đêm, Bát Đàn vs Pasteur** = mở chủ đề kéo dài 20 phút mà khách Nhật say sưa nghe.
 
@@ -6400,8 +6401,8 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 |---------|-----|
 | **松本** | 「ハノイで一番のフォー<ruby>屋<rt>や</rt></ruby>、どこ?」 |
 |  | *Hà Nội phở ngon nhất ở đâu?* |
-| **ズン** | 「3つ<ruby>候補<rt>こうほ</rt></ruby>あります。**①フォー・バッダン(Phở Bát Đàn)** — <ruby>行列必至<rt>ぎょうれつひっし</rt></ruby>、自分でトレイ取りに行くスタイル。**②フォー・ティン(Phở Thìn)** — <ruby>牛肉炒<rt>ぎゅうにくいた</rt></ruby>めスタイル、<ruby>味濃<rt>あじこ</rt></ruby>いめ。**③フォー・ザートゥエン(Phở Gia Truyền)** — <ruby>観光客<rt>かんこうきゃく</rt></ruby>少なめ、地元ファン多い。」 |
-|  | *Có 3 ứng viên ạ. ① Phở Bát Đàn — chắc chắn xếp hàng, tự bê khay. ② Phở Thìn — bò xào, vị đậm. ③ Phở Gia Truyền — ít khách du lịch, đông khách ruột địa phương.* |
+| **ズン** | 「3つ<ruby>候補<rt>こうほ</rt></ruby>あります。**①フォー・バッダン(Phở Bát Đàn)** — <ruby>行列必至<rt>ぎょうれつひっし</rt></ruby>、自分でトレイ取りに行くスタイル。**②フォー・ティン(Phở Thìn)** — <ruby>牛肉炒<rt>ぎゅうにくいた</rt></ruby>めスタイル、<ruby>味濃<rt>あじこ</rt></ruby>いめ。**③フォー・スーン(Phở Sướng)** — ディンリエット<ruby>通<rt>どお</rt></ruby>りの<ruby>路地裏<rt>ろじうら</rt></ruby>、1930<ruby>年代<rt>ねんだい</rt></ruby>からの<ruby>老舗<rt>しにせ</rt></ruby>。<ruby>観光客<rt>かんこうきゃく</rt></ruby>少なめ、地元ファン多い。」 |
+|  | *Có 3 ứng viên ạ. ① Phở Bát Đàn — chắc chắn xếp hàng, tự bê khay. ② Phở Thìn — bò xào, vị đậm. ③ Phở Sướng — trong ngõ Trung Yên phố Đinh Liệt, gia truyền từ những năm 1930. Ít khách du lịch, đông khách ruột địa phương.* |
 | **松本** | 「最初の客なら、どれがいい?」 |
 |  | *Lần đầu thì chọn cái nào?* |
 | **ズン** | 「最初は**バッダン**を朝7時に。<ruby>並<rt>なら</rt></ruby>ぶの込みで体験です。但し、**<ruby>店員<rt>てんいん</rt></ruby>はぶっきらぼう**【1】なので、それも込みで楽しんで下さい(笑)」 |
@@ -6426,12 +6427,12 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 |  | *Có nhiều thuyết thú vị, nhưng đến giờ học giả vẫn tranh luận... Em không phải chuyên gia nên không dám khẳng định, nhưng nghe nói thuyết tỉnh Nam Định khởi nguồn là mạnh nhất.* |
 | **大垣** | 「ふーん、ナムディン省ね。今度行ってみたい。」 |
 |  | *Hử, tỉnh Nam Định. Lần sau tôi muốn đi thử.* |
-| **ズン** | 「ナムディンの**フォー村(Cồ Lễ村)**ってのがあって、<ruby>職人<rt>しょくにん</rt></ruby>がほとんどそこ<ruby>出身<rt>しゅっしん</rt></ruby>らしいです。」 |
-|  | *Nam Định có "làng phở Cồ Lễ", nghe nói thợ nấu phần lớn xuất thân từ đó.* |
+| **ズン** | 「ナムディンの**フォー<ruby>村<rt>むら</rt></ruby>(Vân Cù<ruby>村<rt>むら</rt></ruby>)**ってのがあって、<ruby>職人<rt>しょくにん</rt></ruby>がほとんどそこ<ruby>出身<rt>しゅっしん</rt></ruby>らしいです。」 |
+|  | *Nam Định có "làng phở Vân Cù", nghe nói thợ nấu phần lớn xuất thân từ đó.* |
 | **大垣** | 「面白いね、職人の村か。日本の<ruby>蕎麦<rt>そば</rt></ruby>の<ruby>信州<rt>しんしゅう</rt></ruby>みたいなもんだ。」 |
 |  | *Hay nhỉ, làng nghề. Giống Shinshu của soba Nhật vậy.* |
 
-【2】 **NG:** dẫn dắt vào "thuộc địa Pháp" / nguồn gốc TQ-VN căng thẳng. **OK:** "có nhiều thuyết, tôi không phải chuyên gia" + bổ sung chi tiết dễ chịu (làng nghề Cồ Lễ).
+【2】 **NG:** dẫn dắt vào "thuộc địa Pháp" / nguồn gốc TQ-VN căng thẳng. **OK:** "có nhiều thuyết, tôi không phải chuyên gia" + bổ sung chi tiết dễ chịu (làng nghề Vân Cù).
 
 ---
 
@@ -6450,7 +6451,7 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 ■ ĐÀO SÂU:
 「日本でいう"締めのラーメン"のポジションです。」
 「フォーガー(鶏)も地元ではすごく人気です。」
-「フォー職人の村『コーレ村』がナムディンにあります。」
+「フォー職人の村『ヴァンクー<ruby>村<rt>むら</rt></ruby>』がナムディンにあります。」
 
 ■ NÉ KHÉO:
 「諸説あって、研究者でも議論中でして…」
@@ -6490,15 +6491,15 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 
 ---
 
-> **Hizashi Sách 08 — Rule 34 — フォーの話**', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 34 — フォーの話**', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000035, 800000009, NULL, 'markdown_book', 'Rule 35 — Tết — âm lịch vs dương lịch / テト・旧正月', '# Rule 35 — Tết — âm lịch vs dương lịch / テト・旧正月
-> **Luận điểm.** Khách Nhật biết "Tết" nhưng hay nhầm với 正月 (1/1). Bạn phải kể được: **âm lịch khác dương lịch, 12 con giáp giống JP nhưng 1 con khác (Trâu vs Ushi/Bò), hoa đào Bắc / hoa mai Nam, lì xì, mâm ngũ quả** — và **tránh cõi chính trị** quanh Tết.
+> **Luận điểm.** Khách Nhật biết "Tết" nhưng hay nhầm với 正月 (1/1). Bạn phải kể được: **âm lịch khác dương lịch, 12 con giáp giống JP nhưng 4 con khác (nổi nhất là Mèo vs Thỏ, Trâu vs Bò), hoa đào Bắc / hoa mai Nam, lì xì, mâm ngũ quả** — và **tránh cõi chính trị** quanh Tết.
 
 ---
 
 ## Tâm lý JP (4 dòng)
 - Người Nhật từ Meiji đã chuyển 正月 sang dương lịch — họ tò mò khi VN vẫn giữ âm lịch.
-- 12 con giáp gần như giống y JP — chỉ **Trâu/Bò (丑) và Mèo/Thỏ (卯/兎)** khác → đây là điểm "ơ thật á?" mà JP cực thích.
+- 12 con giáp gần như giống y JP — khác **4 con: Trâu/Bò (丑), Mèo/Thỏ (卯), Dê/Cừu (未), Lợn/Lợn rừng (亥)**; nổi nhất là **Mèo vs Thỏ** → đây là điểm "ơ thật á?" mà JP cực thích.
 - JP rất thích món truyền thống có **ý nghĩa tinh thần** (おせち料理) → mâm ngũ quả, bánh chưng cùng phạm trù.
 - TUYỆT ĐỐI tránh: Tết Mậu Thân, đoàn tụ Bắc-Nam, dòng người về quê = vùng chính trị.
 
@@ -6555,7 +6556,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 |  | *Haha, không phải lợn rừng mà lợn nhà! Văn hóa khác nhau hiện rõ nhỉ.* |
 
 【1】 12 giáp VN: **Tý/Sửu(水牛)/Dần/卯(猫)/Thìn/Tỵ/Ngọ/Mùi(山羊)/Thân/Dậu/Tuất/Hợi(豚)**. So với JP: 子・丑・寅・卯(兎)・辰・巳・午・未・申・酉・戌・亥(猪).
-【2】 **3 con giáp VN khác JP:** Sửu = trâu (vs ushi/bò), Mão = mèo (vs u/thỏ), Hợi = lợn (vs i/lợn rừng), Mùi = dê (vs cừu) — JP có 4 điểm khác nhỏ, nhưng "mèo vs thỏ" là điểm gây ấn tượng nhất.
+【2】 **4 con giáp VN khác JP:** Sửu = trâu (vs ushi/bò), Mão = mèo (vs u/thỏ), Mùi = dê (vs hitsuji/cừu), Hợi = lợn (vs i/lợn rừng) — trong đó "mèo vs thỏ" là điểm gây ấn tượng nhất, "trâu vs bò" là điểm dễ kể thứ hai.
 
 ---
 
@@ -6574,8 +6575,8 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 |  | *Loài khác, vàng 5 cánh, rực rỡ kiểu nhiệt đới. Biểu tượng "may mắn và hạnh phúc".* |
 | **山本** | 「ええなあ、写真見てみたい。」 |
 |  | *Hay nhỉ, tôi muốn xem ảnh.* |
-| **ズン** | 「これが**バンザン<ruby>花卉村<rt>かきむら</rt></ruby>(Làng hoa Vạn Giã)**の桃の<ruby>市場<rt>いちば</rt></ruby>で、テト前は花だけで<ruby>埋<rt>う</rt></ruby>まります。」 |
-|  | *Đây là chợ hoa đào làng Vạn Giã, trước Tết toàn hoa.* |
+| **ズン** | 「これが**ニャッタン<ruby>花<rt>はな</rt></ruby>の<ruby>村<rt>むら</rt></ruby>(Làng đào Nhật Tân)**の桃の<ruby>市場<rt>いちば</rt></ruby>で、テト前は花だけで<ruby>埋<rt>う</rt></ruby>まります。」 |
+|  | *Đây là chợ hoa đào làng Nhật Tân, trước Tết toàn hoa.* |
 | **山本** | 「すごい!<ruby>神戸<rt>こうべ</rt></ruby>の花市場みたい。」 |
 |  | *Wow! Giống chợ hoa Kobe.* |
 | **ズン** | 「あと**マム・ングークア(<ruby>五果盆<rt>ごかぼん</rt></ruby>)**って、5種類の果物を<ruby>仏壇<rt>ぶつだん</rt></ruby>に飾る習慣があります。各果物に意味があって、例えば**カスタードアップル/<ruby>釈迦頭<rt>しゃかとう</rt></ruby>(Cầu)・イチジク(Sung)・パパイヤ(Vừa Đủ)・ココナッツ(Dừa)・マンゴー(Xoài)**で読むと『十分に欲しいだけ』って意味になります。」 |
@@ -6672,7 +6673,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 
 ---
 
-> **Hizashi Sách 08 — Rule 35 — テト・旧正月**', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 35 — テト・旧正月**', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000036, 800000009, NULL, 'markdown_book', 'Rule 36 — Cà phê Việt / ベトナムコーヒー', '# Rule 36 — Cà phê Việt / ベトナムコーヒー
 > **Luận điểm.** Khách Nhật uống quen drip Arabica. Bạn = người trong cuộc có thể kể: VN = **#2 thế giới**, robusta là chủ lực, **phin lọc** chậm 4 phút, **cà phê sữa đá** đậm gấp đôi cà phê Tokyo, và **cà phê trứng Hà Nội** = trải nghiệm "wow" họ chưa biết.
 
@@ -6828,7 +6829,7 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 | ロブスタ | ロブスタ | — | Robusta |
 | アラビカ | アラビカ | — | Arabica |
 | ファインロブスタ | ファインロブスタ | — | Fine Robusta (specialty) |
-| 中部高原 | ちゅうぶこうげん | TRUNG BỘ CAO NGUYÊN | Cao nguyên Trung phần (Buôn Ma Thuột, Đà Lạt) |
+| 中部高原 | ちゅうぶこうげん | TRUNG BỘ CAO NGUYÊN | Cao nguyên Trung phần — vùng robusta lớn nhất là Buôn Ma Thuột (Đắk Lắk) |
 | フィン | フィン | — | Phin (cà phê filter VN) |
 | 練乳 | れんにゅう | LUYỆN NHŨ | Sữa đặc |
 | カフェスアダー | カフェスアダー | — | Cà phê sữa đá |
@@ -6846,7 +6847,7 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 
 ---
 
-> **Hizashi Sách 08 — Rule 36 — ベトナムコーヒー**', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 36 — ベトナムコーヒー**', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000037, 800000009, NULL, 'markdown_book', 'Rule 37 — Khí hậu 3 miền VN / 3地域気候', '# Rule 37 — Khí hậu 3 miền VN / 3地域気候
 > **Luận điểm.** "VN nóng quanh năm" = nhận thức sai phổ biến của khách Nhật. **Hà Nội có 4 mùa thật**, **Đà Nẵng-Huế hứng bão và lũ tháng 10**, **HCM 2 mùa mưa-khô**. Bạn kể được 3 miền khí hậu = khách Nhật chuẩn bị quần áo tại nơi công tác đúng + có chủ đề sâu để bắc cầu với 4 mùa JP.
 
@@ -6903,8 +6904,8 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 |  | *Tuần này bão số 12 vừa hình thành ở Biển Đông, dự báo áp sát Đà Nẵng thứ Sáu. Tuần sau chắc chắn an toàn hơn ạ.* |
 | **小林** | 「あー、台風?沖縄もしょっちゅう来るから慣れてるけど、ベトナムも来るんだ。」 |
 |  | *À, bão? Okinawa hay có nên anh quen, VN cũng có nhỉ.* |
-| **ズン** | 「**<ruby>中部<rt>ちゅうぶ</rt></ruby>(フエ・ダナン・ホイアン)が一番台風に弱い**地域で、**9-11月は<ruby>台風<rt>たいふう</rt></ruby>シーズン**。2017年のダムレイ台風では、ホイアン<ruby>旧市街<rt>きゅうしがい</rt></ruby>が**<ruby>腰<rt>こし</rt></ruby>の高さまで<ruby>浸水<rt>しんすい</rt></ruby>**しました。」 |
-|  | *Miền Trung (Huế-Đà Nẵng-Hội An) yếu nhất với bão. 9-11 là mùa bão. Bão Damrey 2017 phố cổ Hội An ngập đến hông.* |
+| **ズン** | 「**<ruby>中部<rt>ちゅうぶ</rt></ruby>(フエ・ダナン・ホイアン)が一番台風に弱い**地域で、**9-11月は<ruby>台風<rt>たいふう</rt></ruby>シーズン**。2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>の<ruby>大雨<rt>おおあめ</rt></ruby>では、ホイアン<ruby>旧市街<rt>きゅうしがい</rt></ruby>が**<ruby>腰<rt>こし</rt></ruby>の高さまで<ruby>浸水<rt>しんすい</rt></ruby>**しました。」 |
+|  | *Miền Trung (Huế-Đà Nẵng-Hội An) yếu nhất với bão. 9-11 là mùa bão. Đợt mưa lũ tháng 11/2017, phố cổ Hội An ngập đến hông.* |
 | **小林** | 「腰までか…沖縄の台風<ruby>被害<rt>ひがい</rt></ruby>と似てるな。」 |
 |  | *Đến hông à... giống thiệt hại bão Okinawa nhỉ.* |
 | **ズン** | 「沖縄と中部VNはほぼ同じ<ruby>緯度<rt>いど</rt></ruby>なので、台風の<ruby>通り道<rt>とおりみち</rt></ruby>がよく似てます。**現地は旧市街の家を1階<ruby>空っぽ<rt>からっぽ</rt></ruby>にして、<ruby>家具<rt>かぐ</rt></ruby>を2階に上げる**【1】っていう<ruby>適応<rt>てきおう</rt></ruby>してます。」 |
@@ -6945,8 +6946,8 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 |---------|-----|
 | **松本** | 「日本の<ruby>四季<rt>しき</rt></ruby>文化って、ベトナムの人にはピンと来ない?」 |
 |  | *Văn hóa 4 mùa của Nhật, người VN có hiểu không?* |
-| **ズン** | 「**ハノイ<ruby>出身者<rt>しゅっしんしゃ</rt></ruby>には四季は分かります**。私も小さい頃**<ruby>桃<rt>もも</rt></ruby>の花の春、ロータスの夏、<ruby>菊<rt>きく</rt></ruby>の秋、<ruby>菊酒<rt>きくざけ</rt></ruby>の冬**って母から<ruby>教わって<rt>おそわって</rt></ruby>育ちました。」 |
-|  | *Người gốc Hà Nội thì hiểu 4 mùa. Hồi bé em được mẹ dạy ''xuân hoa đào, hạ sen, thu cúc, đông rượu cúc'' đó ạ.* |
+| **ズン** | 「**ハノイ<ruby>出身者<rt>しゅっしんしゃ</rt></ruby>には四季は分かります**。私も小さい頃**<ruby>桃<rt>もも</rt></ruby>の花の春、ロータスの夏、<ruby>菊<rt>きく</rt></ruby>の秋、スイセンの冬**って母から<ruby>教わって<rt>おそわって</rt></ruby>育ちました。」 |
+|  | *Người gốc Hà Nội thì hiểu 4 mùa. Hồi bé em được mẹ dạy ''xuân hoa đào, hạ sen, thu cúc, đông thủy tiên'' đó ạ.* |
 | **松本** | 「あ、ベトナムにも<ruby>季語<rt>きご</rt></ruby>みたいなのあるんだ。」 |
 |  | *À, VN cũng có quý ngữ kiểu vậy.* |
 | **ズン** | 「**北部の<ruby>伝統文化<rt>でんとうぶんか</rt></ruby>には四季感**ありますね。**ホーチミン出身者には逆にピンと来ない**ようで、彼らに『<ruby>紅葉狩り<rt>もみじがり</rt></ruby>』の話をしても初めて知ることが多いです。」 |
@@ -7023,7 +7024,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 
 ---
 
-> **Hizashi Sách 08 — Rule 37 — 3地域気候**', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 37 — 3地域気候**', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000038, 800000009, NULL, 'markdown_book', 'Rule 38 — Thành phố khách Nhật quan tâm / 注目都市', '# Rule 38 — Thành phố khách Nhật quan tâm / 注目都市
 > **Luận điểm.** Khách Nhật đi VN thường tới 4 nơi: **Hà Nội cổ kính / TP HCM năng động / Đà Nẵng biển + sân bay quốc tế / Hội An phố cổ**. Mỗi nơi cần một câu giới thiệu sắc sảo + 1 quán cà phê / 1 quán ăn / 1 điểm ngắm cảnh. Bạn = hướng dẫn viên bản địa.
 
@@ -7081,8 +7082,8 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 |  | *Sáng Bánh Mì Huỳnh Hoa (xếp hàng), trưa Cơm Tấm Ba Ghiền (Michelin), tối Quán Bụi Garden (món local kiểu modern).* |
 | **山本** | 「ミシュランあるんや!」 |
 |  | *Có Michelin luôn á!* |
-| **ズン** | 「**ホーチミンはミシュランガイド出てます**(2023〜)。**3区の<ruby>路地裏<rt>ろじうら</rt></ruby>Phở Le**、**1区のフォークインギン**、**Banh Xeo 46A**もミシュラン入りです。」 |
-|  | *HCM có Michelin Guide từ 2023. Phở Lệ trong hẻm Q3, Phở Quỳnh Q1, Bánh Xèo 46A đều vào sao.* |
+| **ズン** | 「**ホーチミンはミシュランガイド出てます**(2023〜)。**3区の<ruby>路地裏<rt>ろじうら</rt></ruby>Phở Le**や**Banh Xeo 46A**が**ビブグルマン**(<ruby>星<rt>ほし</rt></ruby>ではなく「コスパの<ruby>良<rt>よ</rt></ruby>い<ruby>店<rt>みせ</rt></ruby>」<ruby>部門<rt>ぶもん</rt></ruby>)に<ruby>入<rt>はい</rt></ruby>っています。」 |
+|  | *HCM có Michelin Guide từ 2023. Phở Lệ trong hẻm Q3 và Bánh Xèo 46A đều vào **Bib Gourmand** — hạng "ngon, giá hợp lý", khác với hạng sao ạ.* |
 | **山本** | 「それ全部回る!カフェは?」 |
 |  | *Đi hết! Cafe?* |
 | **ズン** | 「**The Workshop**(specialty coffee<ruby>聖地<rt>せいち</rt></ruby>)、**Cafe Apartment(Block 42 Nguyen Hue)**(1棟全部カフェ・古いアパート)、**Vietcetera Café**(<ruby>若手<rt>わかて</rt></ruby>アーティスト集まる)。あと**Saigon Saigon Bar**でルーフトップ、<ruby>教会<rt>きょうかい</rt></ruby>と<ruby>市役所<rt>しやくしょ</rt></ruby>が<ruby>見渡せ<rt>みわたせ</rt></ruby>ます。」 |
@@ -7147,7 +7148,7 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 
 ■ HCM (1-line):
 「ホーチミンは"路上が食堂、夜は屋上が酒場"の街です。」
-「Banh Mi Huynh Hoa、Com Tam Ba Ghien、Pho Leがミシュラン入り。」
+「Banh Mi Huynh Hoa、Com Tam Ba Ghien、Pho Le がミシュラン・ビブグルマン入り。」
 「Cafe Apartment(Nguyen Hue)、The Workshop、Saigon Saigon Bar。」
 
 ■ DA NANG / HA:
@@ -7195,7 +7196,7 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 
 ---
 
-> **Hizashi Sách 08 — Rule 38 — 注目都市**', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 38 — 注目都市**', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000039, 800000009, NULL, 'markdown_book', 'Rule 39 — Lễ hội VN / ベトナムの祭り', '# Rule 39 — Lễ hội VN / ベトナムの祭り
 > **Luận điểm.** JP yêu 祭り của họ — và rất tò mò "VN có tương đương gì?". 4 lễ hội kể được sâu = **Tết Trung Thu (中秋節 — gần Obon JP), Lễ Hùng Vương (建国記念日相当), Quốc Khánh 2/9, Tết Đoan Ngọ (端午の節句相当 nhưng VN khác)**. Tránh các chủ đề chính trị nhạy cảm quanh 2/9 và 30/4.
 
@@ -7210,7 +7211,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ---
 
 ## Bối cảnh
-Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp Zoom với Matsumoto + Sato + Kato để chốt lịch onsite tháng 9 → nhắc đến "trùng Trung thu" → khách hỏi sâu.
+Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 25/9 dương). Dũng họp Zoom với Matsumoto + Sato + Kato để chốt lịch onsite tháng 9 → nhắc đến "trùng Trung thu" → khách hỏi sâu.
 
 ---
 
@@ -7218,8 +7219,8 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 ### Scenario 1 — Trung thu (Tết Thiếu Nhi) — bắc cầu với Obon
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「ズンさん、9月7日は<ruby>祝日<rt>しゅくじつ</rt></ruby>?」 |
-|  | *Dũng, 7/9 có phải ngày lễ không?* |
+| **松本** | 「ズンさん、9月25日は<ruby>祝日<rt>しゅくじつ</rt></ruby>?」 |
+|  | *Dũng, 25/9 có phải ngày lễ không?* |
 | **ズン** | 「祝日ではないですが、**<ruby>中秋節<rt>ちゅうしゅうせつ</rt></ruby>(Tết Trung Thu)**で、**ベトナムの子供のお<ruby>祭<rt>まつ</rt></ruby>り**です。」 |
 |  | *Không phải nghỉ lễ ạ, nhưng là Trung thu — Tết của trẻ con VN.* |
 | **松本** | 「あ、中秋節ってアジア共通?」 |
@@ -7232,9 +7233,9 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 |  | *Obon trọng tâm cúng tổ tiên đúng không. Trung thu VN trọng tâm ''thế hệ kế tiếp'' — không khí ngược 180°. Tối trẻ con cầm đèn ông sao đỏ, xem múa lân đi quanh phố.* |
 | **松本** | 「ええ、<ruby>可愛<rt>かわい</rt></ruby>い!月餅は日本にもあるけど、ベトナムのは違うの?」 |
 |  | *Ơ, dễ thương! Bánh trung thu Nhật cũng có, VN khác à?* |
-| **ズン** | 「**バインチュンチュー(Bánh Trung Thu)**、表面にお花の<ruby>模様<rt>もよう</rt></ruby>で、中身は**<ruby>蓮<rt>はす</rt></ruby>の実、カラスミ<ruby>卵黄<rt>らんおう</rt></ruby>、<ruby>緑豆<rt>りょくとう</rt></ruby>あん、カスタード**等。**カラスミ入り**は日本人<ruby>結構<rt>けっこう</rt></ruby><ruby>衝撃<rt>しょうげき</rt></ruby>受けます(笑)。」 |
+| **ズン** | 「**バインチュンチュー(Bánh Trung Thu)**、表面にお花の<ruby>模様<rt>もよう</rt></ruby>で、中身は**<ruby>蓮<rt>はす</rt></ruby>の実、<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby>、<ruby>緑豆<rt>りょくとう</rt></ruby>あん、カスタード**等。**<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby><ruby>入<rt>い</rt></ruby>り**は日本人<ruby>結構<rt>けっこう</rt></ruby><ruby>衝撃<rt>しょうげき</rt></ruby>受けます(笑)。」 |
 |  | *Bánh Trung Thu, mặt có hoa văn, nhân hạt sen / trứng muối / đậu xanh / custard. Loại trứng muối nhiều người Nhật khá sốc (cười).* |
-| **松本** | 「カラスミ?それは食べてみたい!」 |
+| **松本** | 「<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby>?それは食べてみたい!」 |
 |  | *Trứng muối! Tôi muốn thử!* |
 
 > **VN:** So sánh "Trung thu = Tết trẻ con / Obon = lễ tổ tiên" → khách Nhật lập tức phân biệt được và thấy thú vị.
@@ -7318,10 +7319,10 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 ## Câu vàng copy-paste
 ```
 ■ TRUNG THU:
-「9月7日は中秋節、ベトナムの子供のお祭りです。」
+「9月25日は中秋節、ベトナムの子供のお祭りです。」
 「お盆と違って『次世代』が中心で、雰囲気が180度違います。」
 「子供たちが赤い星型の提灯を持って獅子舞を見ながら街を歩きます。」
-「Bánh Trung Thu(月餅)はカラスミ入りもあって衝撃受けます(笑)」
+「Bánh Trung Thu(月餅)は<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby><ruby>入<rt>い</rt></ruby>りもあって衝撃受けます(笑)」
 
 ■ HÙNG VƯƠNG:
 「フンヴオン王の命日、4000年前の初代王様の命日で祝日です。」
@@ -7363,7 +7364,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 | シルバーウィーク | シルバーウィーク | — | Tuần nghỉ tháng 9 JP (dùng để bắc cầu) |
 | 端午の節句 | たんごのせっく | ĐOAN NGỌ TIẾT CÚ | Tết Đoan Ngọ JP (5/5) |
 | 七夕 | たなばた | THẤT TỊCH | Tết thất tịch / Tết Ngâu |
-| カラスミ | カラスミ | — | Trứng cá muối (bắc cầu sang trứng muối VN) |
+| 塩漬け卵黄 | しおづけらんおう | DIÊM TÍCH NOÃN HOÀNG | Lòng đỏ trứng (vịt) muối — nhân bánh trung thu VN. ⚠️ KHÔNG dùng カラスミ: đó là trứng cá đối muối khô, món khác hẳn |
 
 ---
 
@@ -7374,7 +7375,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 
 ---
 
-> **Hizashi Sách 08 — Rule 39 — ベトナムの祭り**', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 39 — ベトナムの祭り**', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000040, 800000009, NULL, 'markdown_book', 'Rule 40 — Nhà hàng Nhật ở VN / ベトナムでの和食', '# Rule 40 — Nhà hàng Nhật ở VN / ベトナムでの和食
 > **Luận điểm.** Khách Nhật onsite VN 1 tuần thường thèm "đúng vị" 和食 ngày 4-5. Bạn = chủ nhà phải có **danh sách 4-5 nhà hàng đúng vị tại HN/HCM** — phân loại theo: chef gốc Nhật / chuỗi nhập khẩu / izakaya địa phương. Gợi ý đúng = tăng đẳng cấp chủ nhà.
 
@@ -7409,7 +7410,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 |  | *Vâng, gia đình expat đến nhiều. Phố Đặng Tiến, menu Anh-Nhật-Việt. Counter 8 ghế, phải book.* |
 | **松本** | 「予約取れる?今夜?」 |
 |  | *Đặt được không em? Tối nay?* |
-| **ズン** | 「先週シェフのトミタさんに連絡してて、19時<ruby>押<rt>お</rt></ruby>さえてあります。**おまかせ4500万ドン(約23,000円)**で、**ハノイで一番"<ruby>東京<rt>とうきょう</rt></ruby>の味"に近い**という<ruby>評価<rt>ひょうか</rt></ruby>です。」 |
+| **ズン** | 「先週シェフのトミタさんに連絡してて、19時<ruby>押<rt>お</rt></ruby>さえてあります。**おまかせ450万ドン(約26,000円)**で、**ハノイで一番"<ruby>東京<rt>とうきょう</rt></ruby>の味"に近い**という<ruby>評価<rt>ひょうか</rt></ruby>です。」 |
 |  | *Em đã liên hệ chef Tomita tuần trước, giữ chỗ 19h rồi ạ. Omakase 4.5 triệu (~23k yen), đánh giá là ''gần vị Tokyo nhất'' Hà Nội.* |
 | **松本** | 「もう予約してくれてたの?ありがたい。」 |
 |  | *Em đặt rồi à? Cảm ơn em.* |
@@ -7499,7 +7500,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 ## Câu vàng copy-paste
 ```
 ■ HÀ NỘI:
-「カイカヤ・ハノイ — 銀座の本店から来たシェフ、おまかせ4500万ドン。」
+「カイカヤ・ハノイ — 銀座の本店から来たシェフ、おまかせ450万ドン。」
 「Sushi Ichi — 福岡の魚を空輸。」
 「Yakitori Ton — 東京・恵比寿の修行帰り、3万ドン1本。」
 「Izakaya Hokkai — 北海道海産メイン、いくら丼+ホタテバター。」
@@ -7553,7 +7554,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 
 ---
 
-> **Hizashi Sách 08 — Rule 40 — ベトナムでの和食**', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 40 — ベトナムでの和食**', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000041, 800000009, NULL, 'markdown_book', 'Rule 41 — Cảnh đẹp + cuộc vui đêm / 観光・夜の楽しみ', '# Rule 41 — Cảnh đẹp + cuộc vui đêm / 観光・夜の楽しみ
 > **Luận điểm.** Khách Nhật onsite có cuối tuần / ngày dư = cơ hội bạn thể hiện am hiểu địa phương **theo đối tượng**. Khách lớn tuổi 60t = **Hạ Long / Sapa / Hội An**. Khách trẻ 30t = **Phú Quốc / khu phố đêm Bùi Viện / Tạ Hiện**. Sai đối tượng = phá trải nghiệm.
 
@@ -7590,8 +7591,8 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 |  | *Tàu junk cruise 1 đêm — sao đêm, ngắm bình minh trong sương sớm, trải nghiệm xa xỉ. Bhaya Cruises hoặc Indochina Sails uy tín. 150-200 USD/người, gồm ăn + hướng dẫn viên + phòng.* |
 | **松本** | 「<ruby>奥<rt>おく</rt></ruby>さんが絶対喜ぶやつだ。」 |
 |  | *Vợ tôi chắc chắn sẽ thích cái này.* |
-| **ズン** | 「サパは**Bac Ha Marketの<ruby>日曜<rt>にちよう</rt></ruby>マーケット**でモン<ruby>族<rt>ぞく</rt></ruby>の<ruby>伝統衣装<rt>でんとういしょう</rt></ruby>が見られます。**冬は1<ruby>度<rt>ど</rt></ruby>くらいまで下がる**ので<ruby>防寒<rt>ぼうかん</rt></ruby>必須、**フランス<ruby>植民地時代<rt>しょくみんちじだい</rt></ruby>のサパ<ruby>駅前<rt>えきまえ</rt></ruby>のホテル(Hotel de la Coupole)**が<ruby>雰囲気<rt>ふんいき</rt></ruby>抜群です。」 |
-|  | *Sapa thì chợ Bắc Hà chủ nhật xem trang phục truyền thống của người Mông. Mùa đông xuống tới 1°C nên phải mặc ấm. Hotel de la Coupole trước ga Sapa thời Pháp thuộc, không khí cực đỉnh.* |
+| **ズン** | 「サパは<ruby>市場<rt>いちば</rt></ruby>でモン<ruby>族<rt>ぞく</rt></ruby>の<ruby>伝統衣装<rt>でんとういしょう</rt></ruby>が見られます。**冬は1<ruby>度<rt>ど</rt></ruby>くらいまで下がる**ので<ruby>防寒<rt>ぼうかん</rt></ruby>必須、**インドシナ<ruby>様式<rt>ようしき</rt></ruby>のホテル(Hotel de la Coupole、2018<ruby>年開業<rt>ねんかいぎょう</rt></ruby>)**が<ruby>雰囲気<rt>ふんいき</rt></ruby>抜群です。」 |
+|  | *Sapa thì ra chợ xem trang phục truyền thống của người Mông. Chợ Bắc Hà chủ nhật còn đậm hơn nhưng cách Sapa 2,5 tiếng xe một chiều nên phải xếp ngày riêng. Mùa đông xuống tới 1°C nên phải mặc ấm. Hotel de la Coupole (khai trương 2018, kiến trúc phỏng phong cách Đông Dương) thì không khí cực đỉnh.* |
 
 > **VN:** Khách trung niên đi đôi = trải nghiệm + thị giác + thoải mái. "船上泊" (ngủ trên tàu) + "霧水墨画" (sương như tranh thủy mặc) = gợi cảm giác lãng mạn.
 
@@ -7623,7 +7624,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 | Vai | Câu |
 |---------|-----|
 | **田中** | 「タヒエン<ruby>通<rt>どお</rt></ruby>り、ベトナムのナイトライフの<ruby>聖地<rt>せいち</rt></ruby>って聞いたんだけど、行ってみたい。」 |
-|  | *Phố Tạ Hiện, nghe nói là thánh địa cuộc vui về đêm của Việt Nam, em muốn đi thử.* |
+|  | *Phố Tạ Hiện, nghe nói là thánh địa cuộc vui về đêm của Việt Nam, tôi muốn đi thử.* |
 | **ズン** | 「タヒエンですね、行けます。**3つ<ruby>事前<rt>じぜん</rt></ruby>に<ruby>共有<rt>きょうゆう</rt></ruby>させてください**。**①<ruby>音量<rt>おんりょう</rt></ruby><ruby>爆音<rt>ばくおん</rt></ruby>**(クラブ<ruby>並<rt>な</rt></ruby>み)、**②ぼったくりバー<ruby>注意<rt>ちゅうい</rt></ruby>**、**③スリ注意**。」 |
 |  | *Tạ Hiện được ạ. Có 3 điều em muốn chia sẻ trước. ① Âm lượng cực to (như club), ② cẩn thận bar chặt chém, ③ cẩn thận móc túi.* |
 | **田中** | 「クラブ並み?」 |
@@ -7635,7 +7636,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 | **ズン** | 「はい、**ビアホイ(Bia hơi)**って<ruby>地<rt>じ</rt></ruby>ビール<ruby>屋外<rt>おくがい</rt></ruby>バー<ruby>文化<rt>ぶんか</rt></ruby>で、**プラスチック<ruby>椅子<rt>いす</rt></ruby>+<ruby>生樽<rt>なまだる</rt></ruby>ビール**。<ruby>但<rt>ただ</rt></ruby>し**<ruby>外国人価格<rt>がいこくじんかかく</rt></ruby>に上がりやすい**ので、メニュー写真<ruby>撮<rt>と</rt></ruby>るのが安全。」 |
 |  | *Vâng, ''bia hơi'' là văn hóa bia tươi vỉa hè — ghế nhựa, bia bom tươi. Nhưng giá cho người nước ngoài dễ bị đẩy lên, nên chụp ảnh menu cho an toàn.* |
 | **田中** | 「写真撮るね。スリは?」 |
-|  | *Em sẽ chụp. Còn móc túi?* |
+|  | *Tôi sẽ chụp. Còn móc túi?* |
 | **ズン** | 「**バックパック<ruby>前持<rt>まえも</rt></ruby>ち+iPhone<ruby>内<rt>うち</rt></ruby>ポケット**。**<ruby>現金<rt>げんきん</rt></ruby>は1<ruby>日分<rt>にちぶん</rt></ruby>だけ**で、**カード<ruby>持参<rt>じさん</rt></ruby>しない**のが<ruby>鉄則<rt>てっそく</rt></ruby>。Grab呼んで<ruby>戻<rt>もど</rt></ruby>る時は**<ruby>正規<rt>せいき</rt></ruby>Grabかドライバー<ruby>名<rt>めい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>**を。」 |
 |  | *Balo đeo trước + iPhone túi trong. Tiền mặt chỉ mang đủ 1 ngày, không mang thẻ — đó là quy tắc vàng. Gọi Grab về thì phải kiểm tra đúng Grab chính hãng và tên tài xế.* |
 | **田中** | 「全部メモ。サイゴンの方は?」 |
@@ -7732,7 +7733,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 
 ---
 
-> **Hizashi Sách 08 — Rule 41 — 観光・夜の楽しみ**', 'system', 41, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 41 — 観光・夜の楽しみ**', 'system', 41, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000042, 800000009, NULL, 'markdown_book', 'Rule 42 — Trình tự gọi món tại izakaya / 居酒屋オーダー', '# Rule 42 — Trình tự gọi món tại izakaya / 居酒屋オーダー
 > **Luận điểm.** Gọi món izakaya có **trình tự chuẩn 4 bước**: ① **とりあえずビール** → ② **mồi (お通し+刺身/枝豆)** → ③ **món chính (焼鳥+揚げ物+焼き魚)** → ④ **締め (ご飯/麺類)**. Nếu là người trẻ nhất bàn, **bạn = vai trò gọi món mặc định**. Người Việt sai vì gọi tất cả 1 lần như quán ăn Việt.
 
@@ -7929,7 +7930,7 @@ Tháng 5/2026, ăn tối sau lễ khởi động Phase 4 tại izakaya Tokyo Yur
 
 ---
 
-> **Hizashi Sách 08 — Rule 42 — 居酒屋オーダー**', 'system', 42, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 42 — 居酒屋オーダー**', 'system', 42, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000043, 800000009, NULL, 'markdown_book', 'Rule 43 — Toast + thứ tự rót / 乾杯・お酌', '# Rule 43 — Toast + thứ tự rót / 乾杯・お酌
 > **Luận điểm.** お酌 (rót cho người khác) = một trong những tín hiệu **hiểu văn hóa Nhật rõ nhất**. Ly mình **giữ thấp hơn senior khi cạn ly**, **rót cho người khác trước, mình cuối**, **bia rót 80% + bọt 20%**, **sake nóng cầm tokkuri 2 tay**. Sai = "không biết quy tắc" = mất uy tín tinh tế.
 
@@ -8033,7 +8034,7 @@ Tháng 5/2026, tiệc liên hoan Phase 4 closing tại izakaya Tokyo. Cùng dàn
 | **トゥアン** | 「あ、すみません。ベトナム<ruby>流<rt>りゅう</rt></ruby>出ちゃって…」 |
 |  | *À, xin lỗi. Lỡ kiểu VN...* |
 | **松本** | 「いえいえ、<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>い面白いですね。**100%**って<ruby>表現<rt>ひょうげん</rt></ruby>、<ruby>覚<rt>おぼ</rt></ruby>えましたよ(笑)」 |
-|  | *Không không, khác văn hóa thú vị nhỉ. Em nhớ cụm ''100%'' rồi (cười)* |
+|  | *Không không, khác văn hóa thú vị nhỉ. Tôi nhớ cụm ''100%'' rồi (cười)* |
 | **ズン** | 「松本さんがいつかハノイに<ruby>来<rt>こ</rt></ruby>られた時、ぜひ"100%"してください(笑)。今日は**獺祭ペース**でゆっくりと。」 |
 |  | *Khi nào anh đến HN nhất định ''100%'' nha (cười). Hôm nay theo nhịp Dassai đi từ từ ạ.* |
 
@@ -8101,7 +8102,7 @@ Tháng 5/2026, tiệc liên hoan Phase 4 closing tại izakaya Tokyo. Cùng dàn
 
 ---
 
-> **Hizashi Sách 08 — Rule 43 — 乾杯・お酌**', 'system', 43, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 43 — 乾杯・お酌**', 'system', 43, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000044, 800000009, NULL, 'markdown_book', 'Rule 44 — 一次会・二次会・締め / 一次会・二次会', '# Rule 44 — 一次会・二次会・締め / 一次会・二次会
 > **Luận điểm.** Buổi nhậu JP có **3 lớp**: **一次会 (ăn izakaya 2-2.5h) → 二次会 (bar / karaoke / tăng 2, 1-1.5h) → 締め (ramen / quán ochazuke, 30-45 phút)**. Junior phải biết **khi nào về**, **khi nào ở lại**, **đọc không khí bàn**. Sai = mất cơ hội gắn kết hoặc bị xem là "thiếu sức bền".
 
@@ -8279,7 +8280,7 @@ Tháng 5/2026, bữa tối kết thúc Phase 4 đang ở giai đoạn cuối 一
 
 ---
 
-> **Hizashi Sách 08 — Rule 44 — 一次会・二次会**', 'system', 44, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 44 — 一次会・二次会**', 'system', 44, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000045, 800000009, NULL, 'markdown_book', 'Rule 45 — Karaoke — chọn bài / カラオケ選曲', '# Rule 45 — Karaoke — chọn bài / カラオケ選曲
 > **Luận điểm.** Karaoke 二次会 = thường gặp. **Khớp thế hệ khách**: 50-60t = **nhạc Showa (1970s-80s)**, 30-40t = **J-pop / nhạc hit thời Heisei**, dưới 30 = **idol Reiwa / vocaloid**. Tránh **nhạc Anh-Mỹ khó hát** + **bài quá u tối** + **bài kén nghe (隠れ名曲 không ai biết)**. Sai chọn bài = phá không khí.
 
@@ -8330,8 +8331,8 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 |---------|-----|
 | **大垣** | (hát xong, vỗ tay) |
 |  | *(hát xong TSUNAMI, vỗ tay)* |
-| **ズン** | 「大垣さん、**もし良ければ<ruby>松田聖子<rt>まつだせいこ</rt></ruby>の『<ruby>青<rt>あお</rt></ruby>い<ruby>珊瑚礁<rt>さんごしょう</rt></ruby>』**、Yamamotoさんと一緒にデュエットいかがですか?」【1】 |
-|  | *Anh Ōgaki, nếu được thì ''Aoi Sangoshou'' của Matsuda Seiko, hát đôi với chị Yamamoto được không ạ?* |
+| **ズン** | 「大垣さん、**もし良ければ<ruby>松田聖子<rt>まつだせいこ</rt></ruby>の『<ruby>青<rt>あお</rt></ruby>い<ruby>珊瑚礁<rt>さんごしょう</rt></ruby>』**、いかがですか?みんなで<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げますよ!」【1】 |
+|  | *Anh Ōgaki, nếu được thì ''Aoi Sangoshou'' của Matsuda Seiko ạ? Cả nhà sẽ hưởng ứng cùng anh!* |
 | **山本** | 「えーやっぱりズン、わかってるねえ!行こ大垣さん!」 |
 |  | *Eee Dũng, em hiểu thật đó! Đi anh Ōgaki!* |
 | **大垣** | 「ええなあ、聖子ちゃん!ズンも一緒に<ruby>踊<rt>おど</rt></ruby>らな。」 |
@@ -8375,7 +8376,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 | **ズン** | 「ハイ、**ベトナム語の歌**でいいよ!**Mỹ Tâm『Như một giấc mơ』** とか。日本人の方も<ruby>新鮮<rt>しんせん</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>ばれる。」 |
 |  | *Hải, hát tiếng Việt được mà! Như ''Như một giấc mơ'' của Mỹ Tâm. Khách Nhật cũng thấy mới mẻ.* |
 | **山本** | 「ベトナムの歌!?是非聞きたい!」 |
-|  | *Bài VN! Em muốn nghe lắm!* |
+|  | *Bài VN! Tôi muốn nghe lắm!* |
 | **ハイ** | 「では、**ファン・マイン・クイン『Có chàng trai viết lên cây』**で。」 |
 |  | *Vậy em hát ''Có chàng trai viết lên cây'' của Phan Mạnh Quỳnh.* |
 | **ハイ** |  (hát) |
@@ -8405,7 +8406,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 ■ GỢI Ý cho 30-40t (J-pop):
 「Mr. Children『innocent world』、いかがですか?」
 「スピッツの『チェリー』、私もう一曲。」
-「宇多田ヒカル『First Love』、デュエット?」
+「みんなが<ruby>知<rt>し</rt></ruby>ってる<ruby>曲<rt>きょく</rt></ruby>で<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げませんか?」
 
 ■ BẮC CẦU cho ĐÀN EM VN:
 「ベトナム語の歌でいいよ!Mỹ Tâm とか、新鮮で喜ばれる。」
@@ -8431,7 +8432,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 ## NG — tuyệt đối tránh
 - **Bài nhạc Anh-Mỹ khó hát** (Whitney Houston / Mariah Carey) → giọng yếu ai cũng nghe ra.
 - **Bài quá u tối** (椎名林檎 nội tâm sâu) → phá không khí.
-- **Bài tình cảm 1-1** với khách khác giới → tín hiệu ngại ngùng.
+- **Bài tình cảm 1-1** với khách khác giới → tín hiệu ngại ngùng. ⚠️ **Tuyệt đối không tự ý ghép đôi song ca** cho hai người khác giới trong đoàn (nhất là cấp trên với cấp dưới) — dù có ý tốt tạo không khí, đây là chuyện dễ thành quấy rối. Muốn kéo mọi người vào thì mời **cả nhóm cùng hưởng ứng**, đừng chỉ định cặp.
 - **Bài quá kén** (隠れ名曲 không ai biết) → khách không hát theo được.
 - **Hát quá nhiều** liên tục 3-4 bài → không nhường mic.
 - **Từ chối hát** hoàn toàn → "thiếu hợp tác".
@@ -8461,7 +8462,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 
 ---
 
-> **Hizashi Sách 08 — Rule 45 — カラオケ選曲**', 'system', 45, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 45 — カラオケ選曲**', 'system', 45, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000046, 800000009, NULL, 'markdown_book', 'Rule 46 — Tránh say + dừng đúng lúc / 飲み過ぎ防止', '# Rule 46 — Tránh say + dừng đúng lúc / 飲み過ぎ防止
 > **Luận điểm.** Say nặng ở tiệc tối với đối tác Nhật = **mất uy tín 1 năm**. Bạn cần biết: **tự điều tiết nhịp uống** + **cách từ chối thêm rượu lịch sự** + **cách gỡ tình huống khi khách Nhật say chứ không phải mình** + **nguyên tắc sáng mai**: dù nhậu bao xa, **9h sáng là phải đầu óc rõ ràng tại văn phòng**.
 
@@ -8540,7 +8541,7 @@ Tháng 5/2026, tiệc tối Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cu
 | **大垣** | 「田中、ペース<ruby>落<rt>お</rt></ruby>とせ。お水<ruby>飲<rt>の</rt></ruby>め。」 |
 |  | *Tanaka, chậm lại. Uống nước đi.* |
 | **田中** | 「はい…すみません。」 |
-|  | *Vâng... em xin lỗi.* |
+|  | *Vâng... tôi xin lỗi.* |
 | **ズン** | 「**そろそろお<ruby>開<rt>ひら</rt></ruby>きにしましょうか?田中さんもタクシーで**。」 |
 |  | *Mình kết thúc nhé anh? Anh Tanaka cũng đi taxi ạ.* |
 | **大垣** | 「そやな、お開きにしよう。ズン、田中をタクシー<ruby>乗<rt>の</rt></ruby>せてくれ。」 |
@@ -8637,7 +8638,7 @@ Tháng 5/2026, tiệc tối Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cu
 
 ---
 
-> **Hizashi Sách 08 — Rule 46 — 飲み過ぎ防止**', 'system', 46, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 46 — 飲み過ぎ防止**', 'system', 46, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000047, 800000009, NULL, 'markdown_book', 'Rule 47 — Chủ đề VÀNG (an toàn 100%) / 安全話題TOP10', '# Rule 47 — Chủ đề VÀNG (an toàn 100%) / 安全話題TOP10
 > **Luận điểm.** 10 chủ đề an toàn 100% với khách Nhật — bất kỳ thế hệ, vùng miền, mức thân quen. Khi bạn **bị mất ý** trong 雑談, **rút 1 trong 10** này để cứu cơ. Mỗi chủ đề có **1 câu mở chuẩn** + **2-3 câu đào sâu** để khai thác.
 
@@ -8651,7 +8652,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ---
 
 ## Bối cảnh
-Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để gỡ tình huống.
+Tháng 9/2026, Dũng dự bữa tối cùng đoàn Hakuō sau buổi review Phase 5. Ngồi cạnh anh Hiroshi (Trưởng chi nhánh Kansai, gốc Hiroshima) — người Dũng mới gặp lần thứ hai, chưa có nhiều vốn chuyện chung. Đây là lúc phải biết **đào sâu một chủ đề vàng** thay vì nhảy lung tung, và biết **gỡ thế bí** khi bất chợt cạn ý giữa bữa.
 
 ---
 
@@ -8761,7 +8762,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để g
 
 ---
 
-> **Hizashi Sách 08 — Rule 47 — 安全話題TOP10**', 'system', 47, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 47 — 安全話題TOP10**', 'system', 47, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000048, 800000009, NULL, 'markdown_book', 'Rule 48 — Chủ đề MÌN / 地雷話題', '# Rule 48 — Chủ đề MÌN / 地雷話題
 > **Luận điểm.** 10 chủ đề MÌN — chạm vào = nổ. Nguy hiểm hơn cả là **tỏ ra biết** mà thực sự **không hiểu sắc thái**. Khi khách hỏi, biết **né khéo bằng câu chuẩn**. Khi đồng nghiệp VN sắp chạm, **gỡ ngay** trước khi khách phản ứng.
 
@@ -8834,7 +8835,7 @@ Tham khảo. 2 tình huống — 1 ví dụ né khéo khi khách thử dò, 1 v�
 | **ズン** | 「ベトナムでは年齢で**<ruby>呼<rt>よ</rt></ruby>び方が変わる(em / chị / cô)**ので、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>することが多いんです。文化の違い、面白いですね。」 |
 |  | *VN cách xưng hô đổi theo tuổi (em / chị / cô) nên thường xác nhận từ đầu. Khác văn hóa, thú vị nhỉ.* |
 | **山本** | 「へえ、呼び方変わるんですか!?それは知らなかった。」 |
-|  | *Ơ, cách xưng hô đổi à!? Em không biết đó.* |
+|  | *Ơ, cách xưng hô đổi à!? Tôi không biết đó.* |
 | **ハイ** | 「これからは気をつけます、ありがとうございます。」 |
 |  | *Em rút kinh nghiệm, cảm ơn ạ.* |
 
@@ -8909,7 +8910,7 @@ Tham khảo. 2 tình huống — 1 ví dụ né khéo khi khách thử dò, 1 v�
 
 ---
 
-> **Hizashi Sách 08 — Rule 48 — 地雷話題**', 'system', 48, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 48 — 地雷話題**', 'system', 48, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000049, 800000009, NULL, 'markdown_book', 'Rule 49 — Sách/báo/TV để có vốn nói / 雑談ネタ収集', '# Rule 49 — Sách/báo/TV để có vốn nói / 雑談ネタ収集
 > **Luận điểm.** 雑談 không phải IQ — là **vốn (ネタ)**. Mỗi tuần **30 phút thu nạp** = đủ kho 雑談 cho 1 tuần ăn tối / họp. **5 nguồn chính**: NHK / 日経 / Yahoo!Japan ranking / 47News (theo vùng) / TV bangumi. Không cần đọc hết — **lướt nhanh + chụp màn hình**.
 
@@ -9056,7 +9057,7 @@ Tham khảo. 1 tình huống "áp dụng nguồn thu nạp vào bữa tối" + p
 
 ---
 
-> **Hizashi Sách 08 — Rule 49 — 雑談ネタ収集**', 'system', 49, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 49 — 雑談ネタ収集**', 'system', 49, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000050, 800000009, NULL, 'markdown_book', 'Rule 50 — Kho ghi nhớ — duy trì quan hệ lâu dài / 関係維持の記憶バンク', '# Rule 50 — Kho ghi nhớ — duy trì quan hệ lâu dài / 関係維持の記憶バンク
 > **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi kho ghi nhớ** = khoản đầu tư có giá trị nhất, lợi suất cao nhất trong sự nghiệp với khách Nhật. **Trước mỗi cuộc gặp, 3 phút ôn lại** = người cấp cao cảm thấy "anh ấy nhớ tôi" — đó là lợi thế không ai bắt chước được.
 
@@ -9071,7 +9072,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ---
 
 ## Bối cảnh
-Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi nhớ ngay sau bữa tối" + **MẪU GHI CHÉP** đầy đủ.
+Tháng 12/2026, sau gần một năm làm việc cùng Hakuō. Dũng đã tích được kha khá chi tiết đời thường của từng khách trong sổ tay riêng. Chương này là lúc **thu hoạch**: dùng lại đúng chi tiết đã ghi để mở đầu 3 phút trước cuộc họp, và cách **ghi kho ghi nhớ ngay sau bữa tối** khi trí nhớ còn nóng.
 
 ---
 
@@ -9182,7 +9183,7 @@ Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi n
 
 ---
 
-> **Hizashi Sách 08 — Rule 50 — 関係維持の記憶バンク**', 'system', 50, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 50 — 関係維持の記憶バンク**', 'system', 50, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (890000051, 800000009, NULL, 'markdown_book', 'Rule 51 — Tự đánh giá + luyện tập / <ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りと<ruby>練習<rt>れんしゅう</rt></ruby>', '# Rule 51 — Tự đánh giá + luyện tập / <ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りと<ruby>練習<rt>れんしゅう</rt></ruby>
 > **Luận điểm.** Sau mỗi buổi <ruby>雑談<rt>ざつだん</rt></ruby> (tiệc tối / <ruby>会食<rt>かいしょく</rt></ruby> / cuộc gọi dài) → **15 phút tự đánh giá**: **3 điều làm tốt / 3 điều còn lỡ / 3 việc cần làm tiếp**. Kỷ luật này biến trải nghiệm mỗi buổi tiệc thành **kỹ năng tích lũy lãi kép**. Không tự đánh giá (振り返り) = lặp lại lỗi cũ 3 năm liên tiếp.
 
@@ -9310,6 +9311,6 @@ Tổng: 一次 + 二次 + 締め (5 tiếng)
 
 ---
 
-> **Hizashi Sách 08 — Rule 51 — <ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りと<ruby>練習<rt>れんしゅう</rt></ruby>**', 'system', 51, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+> **Hizashi Sách 08 — Rule 51 — <ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りと<ruby>練習<rt>れんしゅう</rt></ruby>**', 'system', 51, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 
 COMMIT;

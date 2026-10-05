@@ -7,7 +7,7 @@
 BEGIN;
 
 -- 1) Curricula
-INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000003, NULL, 'markdown_book', 'BJT', 'Điện thoại Công Việc', 'Bộ sách Hizashi — Điện thoại Công Việc', 'Hizashi シリーズ — 電話応対', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET type = EXCLUDED.type, title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, category = EXCLUDED.category, tenant_id = EXCLUDED.tenant_id, is_system = EXCLUDED.is_system, is_public = EXCLUDED.is_public, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, free_preview_count = EXCLUDED.free_preview_count, status = EXCLUDED.status, updated_at = NOW();
+INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000003, NULL, 'markdown_book', 'BJT', 'Điện thoại Công Việc', 'Bộ sách Hizashi — Điện thoại Công Việc', 'Hizashi シリーズ — 電話応対', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, updated_at = NOW();
 
 -- 2) Curriculum nodes
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000001, 800000003, NULL, 'markdown_book', 'Rule 01 — Câu mở đầu khi nhấc máy / 受電の第一声', '# Rule 01 — Câu mở đầu khi nhấc máy / 受電の第一声
@@ -48,10 +48,10 @@ Anh Matsumoto (松本PM, khách hàng Nhật bên Cty Hakuō) gọi cho em Dũng
 | Vai | Câu |
 |---------|-----|
 | **ズン** (BD, ティエンファット) | 「お<ruby>電話<rt>でんわ</rt></ruby>ありがとうございます【1】。ティエンファット<ruby>社<rt>しゃ</rt></ruby>、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズン【2】でございます【3】。」 <br/>*Cảm ơn anh đã gọi điện. Tôi là Dũng, phòng kinh doanh, Cty Thiên Phát ạ.* |
-| **松本PM** (Hakuō) | 「お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>白鷗株式会社<rt>はくおうかぶしきがいしゃ</rt></ruby>の<ruby>松本<rt>まつもと</rt></ruby>と<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Cty Hakuō ạ.* |
-| **ズン** | 「松本様、いつもお世話になっております。」 <br/>*Anh Matsumoto, em luôn cảm ơn anh đã hỗ trợ ạ.* |
+| **松本PM** (Hakuō) | 「お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>白鷗株式会社<rt>はくおうかぶしきがいしゃ</rt></ruby>の<ruby>松本<rt>まつもと</rt></ruby>と<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Chào anh, rất mong được anh giúp đỡ. Tôi là Matsumoto bên Cty Hakuō ạ.* |
+| **ズン** | 「松本様、いつもお世話になっております。」 <br/>*Anh Matsumoto, luôn mong được anh giúp đỡ ạ.* |
 
- **Ghi chú / 注釈:**
+📝 **Ghi chú / 注釈:**
 
 - 【1】「**お電話ありがとうございます**」 — câu chuẩn doanh nghiệp Nhật khi nhận máy. Một số công ty quy định dùng「**はい、◯◯です**」cho cuộc gọi nội bộ ngắn — học theo quy định nội bộ của bạn.
 - 【2】**Trật tự không đảo:** Công ty → Phòng ban → Tên cá nhân. KHÔNG nói "ズン、ティエンファット社の営業部です" — nghe lủng củng.
@@ -121,7 +121,7 @@ Anh Matsumoto (松本PM, khách hàng Nhật bên Cty Hakuō) gọi cho em Dũng
 | 営業部 | えいぎょうぶ | DOANH NGHIỆP BỘ | Phòng kinh doanh |
 | でございます | でございます | — | です (kính ngữ trang trọng nhất) |
 | 申します | もうします | THÂN | (Khiêm nhường) "tôi tên là…" |
-| お世話になっております | おせわになっております | THẾ THOẠI | Cảm ơn anh đã hỗ trợ (chào trang trọng) |', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| お世話になっております | おせわになっております | THẾ THOẠI | Câu chào xã giao cố định trong kinh doanh — không dịch sát nghĩa "được giúp đỡ", chỉ là lời chào mở đầu |', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000002, 800000003, NULL, 'markdown_book', 'Rule 02 — Bắt máy trong 3 hồi chuông / 3コール以内に出る', '# Rule 02 — Bắt máy trong 3 hồi chuông / 3コール以内に出る
 > **Luận điểm / 要点.**
 > Quy tắc bất thành văn ở văn phòng Nhật: bắt máy **trong 3 hồi chuông**. Quá 3 → coi như "khách bị bỏ rơi", phải kèm câu xin lỗi.
@@ -143,7 +143,7 @@ Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「お電話ありがとうございます。ティエンファット社のズンでございます。」 <br/>*Cảm ơn anh đã gọi. Tôi là Dũng bên Cty Thiên Phát ạ.* |
-| **松本PM** | 「(im lặng 1 giây)... お世話になっております。」 <br/>*(im 1 giây)... Cảm ơn anh đã hỗ trợ.* |
+| **松本PM** | 「(im lặng 1 giây)... お世話になっております。」 <br/>*(im 1 giây)... Chào anh, rất mong được anh giúp đỡ.* |
 
 **Vì sao xấu:** Reo 5 hồi mà không xin lỗi → khách ngầm cảm thấy "được phục vụ kém". 1 giây im lặng của Matsumoto là biểu hiện. Câu mở đúng nhưng *thiếu lời xin lỗi*.
 
@@ -155,9 +155,9 @@ Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「お電話ありがとうございます。お待たせいたしました【1】、ティエンファット社のズンでございます。」 <br/>*Cảm ơn anh đã gọi. Xin lỗi vì đã để anh đợi, tôi là Dũng bên Cty Thiên Phát ạ.* |
-| **松本PM** | 「お世話になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の松本です。」 <br/>*Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Hakuō.* |
+| **松本PM** | 「お世話になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の松本です。」 <br/>*Chào anh, rất mong được anh giúp đỡ. Tôi là Matsumoto bên Hakuō.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】Quá 3 hồi → bắt buộc kèm「お待たせいたしました」. Quá 5 hồi →「大変お待たせいたしました」 (thêm「大変」).
 
 ---
@@ -195,7 +195,7 @@ Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng
 | 大変 | たいへん | ĐẠI BIẾN | Rất, hết sức |
 | 席を外す | せきをはずす | TỊCH NGOẠI | Vắng mặt, rời chỗ |
 | 用件 | ようけん | DỤNG KIỆN | Việc cần (lý do gọi) |
-| 承る | うけたまわる | THỪA | (Khiêm nhường) tiếp nhận |', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 承る | うけたまわる | THỪA | (Khiêm nhường) tiếp nhận |', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000003, 800000003, NULL, 'markdown_book', 'Rule 03 — Trễ thì xin lỗi đúng cách / お待たせした時の詫び方', '# Rule 03 — Trễ thì xin lỗi đúng cách / お待たせした時の詫び方
 > **Luận điểm / 要点.**
 > Có 4 mức "xin lỗi vì để đợi" tùy vào *thời gian khách đợi*. Dùng sai mức = mất điểm — nhẹ quá thì vô tâm, nặng quá thì sáo.
@@ -240,7 +240,7 @@ Anh Matsumoto gọi nhiều lần, có khi đường dây bận, có khi em Dũn
 | **ズン** | 「<ruby>大変<rt>たいへん</rt></ruby>お<ruby>待<rt>ま</rt></ruby>たせし、<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません【1】。ティエンファット<ruby>社<rt>しゃ</rt></ruby>のズンでございます。」 <br/>*Vô cùng xin lỗi vì đã để anh đợi. Tôi là Dũng bên Cty Thiên Phát ạ.* |
 | **松本PM** | 「いえ、こちらこそ。」 <br/>*Không, ngược lại em.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】Để khách chờ lâu thì cần「申し訳ございません」 ngoài「お待たせ」. Đây là 2 câu khác biệt — 「お待たせ」 ghi nhận hành động, 「申し訳ございません」 thể hiện hối tiếc.
 
 ---
@@ -281,7 +281,7 @@ Anh Matsumoto gọi nhiều lần, có khi đường dây bận, có khi em Dũn
 | 申し訳ございません | もうしわけございません | THÂN DỊCH | Vô cùng xin lỗi (kính ngữ) |
 | 大変 | たいへん | ĐẠI BIẾN | Rất, hết sức |
 | 誠に | まことに | THÀNH | Thật sự, chân thành |
-| 保留 | ほりゅう | BẢO LƯU | Giữ máy/chờ máy |', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 保留 | ほりゅう | BẢO LƯU | Giữ máy/chờ máy |', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000004, 800000003, NULL, 'markdown_book', 'Rule 04 — Một tay nghe, một tay ghi / 片手で受話器、片手でメモ', '# Rule 04 — Một tay nghe, một tay ghi / 片手で受話器、片手でメモ
 > **Luận điểm / 要点.**
 > Khi điện thoại reo, **trước khi bốc** phải có **bút + giấy** trong tầm với. Bốc rồi mới mò tìm bút = trễ ghi 5-10 giây thông tin quan trọng.
@@ -321,7 +321,7 @@ Anh Matsumoto gọi báo lịch họp gấp với 5 thông tin (ngày, giờ, ph
 | **ズン** | 「<ruby>復唱<rt>ふくしょう</rt></ruby>させていただきます。明日14時、第3会議室、6名、<ruby>資料<rt>しりょう</rt></ruby><ruby>本日<rt>ほんじつ</rt></ruby><ruby>中<rt>じゅう</rt></ruby>、で<ruby>間違<rt>まちが</rt></ruby>いございませんでしょうか【1】。」 <br/>*Em xin lặp lại: mai 14h, phòng họp 3, 6 người, tài liệu trong hôm nay ạ.* |
 | **松本PM** | 「その<ruby>通<rt>とお</rt></ruby>りです。」 <br/>*Đúng vậy.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】「復唱させていただきます」 = "em xin lặp lại để xác nhận". Câu kết của bộ 3 "nghe → ghi → lặp lại để xác nhận", giúp ghi chính xác nhất.
 
 ---
@@ -358,7 +358,7 @@ Anh Matsumoto gọi báo lịch họp gấp với 5 thông tin (ngày, giờ, ph
 | 受話器 | じゅわき | THỤ THOẠI KHÍ | Ống nghe |
 | メモ | メモ | — | Ghi chú |
 | 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại để xác nhận |
-| 資料 | しりょう | TƯ LIỆU | Tài liệu |', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 資料 | しりょう | TƯ LIỆU | Tài liệu |', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000005, 800000003, NULL, 'markdown_book', 'Rule 05 — Khung mẫu 5W1H ghi chú / 5W1Hメモテンプレート', '# Rule 05 — Khung mẫu 5W1H ghi chú / 5W1Hメモテンプレート
 > **Luận điểm.** Mỗi cuộc gọi công việc đều cần ghi 6 điều: **When-Who-Where-What-Why-How**. Có khung mẫu sẵn = không sót thông tin.
 >
@@ -387,7 +387,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** (tiếp) | 「<ruby>念<rt>ねん</rt></ruby>のため<ruby>復唱<rt>ふくしょう</rt></ruby>させていただきます。打ち合わせを来週火曜15時に変更、でよろしいでしょうか。」 <br/>*Em xin lặp lại để chắc chắn: đổi cuộc họp sang thứ Ba tuần sau 15h, đúng không ạ?* |
 | **松本PM** | 「はい、お<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Vâng, nhờ em.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】「承りました」 = 「nhận thông tin rồi」kính ngữ. Khi dùng nó, khách hiểu bạn đã *ghi vào sổ*.
 
 ---
@@ -403,7 +403,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 念のため | ねんのため | NIỆM | Để chắc chắn |
 | 承る | うけたまわる | THỪA | Nhận (kính ngữ) |
 | 件名 | けんめい | KIỆN DANH | Tiêu đề, chủ đề |
-| 対応 | たいおう | ĐỐI ỨNG | Cách xử lý, đáp |', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 対応 | たいおう | ĐỐI ỨNG | Cách xử lý, đáp |', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000006, 800000003, NULL, 'markdown_book', 'Rule 06 — Cao độ và tốc độ giọng qua điện thoại / 電話の声の高さ・速度', '# Rule 06 — Cao độ và tốc độ giọng qua điện thoại / 電話の声の高さ・速度
 > **Luận điểm.** Qua điện thoại, giọng bị "thiếu nửa cảm xúc" so với gặp mặt. Bù bằng: **nâng cao độ nửa cung** + **chậm hơn 10%** + **rõ phụ âm cuối câu**.
 >
@@ -457,7 +457,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 高さ | たかさ | CAO | Độ cao (cao độ) |
 | 速度 | そくど | TỐC ĐỘ | Tốc độ |
 | 半音 | はんおん | BÁN ÂM | Nửa cung (âm nhạc) |
-| 語尾 | ごび | NGỮ VĨ | Cuối câu |', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 語尾 | ごび | NGỮ VĨ | Cuối câu |', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000007, 800000003, NULL, 'markdown_book', 'Rule 07 — Nụ cười trong giọng nói — giọng truyền cảm xúc / 声で笑顔を作る', '# Rule 07 — Nụ cười trong giọng nói — giọng truyền cảm xúc / 声で笑顔を作る
 > **Luận điểm.** Điện thoại không thấy mặt → cảm xúc phải đi qua **giọng**. Khi miệng thực sự cười, giọng có hơi ấm — khách *cảm nhận* được mặc dù không thấy.
 >
@@ -508,7 +508,7 @@ Khi người ta cười, **đường thanh quản** thay đổi — tần số �
 | 笑顔 | えがお | TIẾU NHAN | Mặt cười, nụ cười |
 | 口角 | こうかく | KHẨU GIÁC | Góc miệng |
 | 元気 | げんき | NGUYÊN KHÍ | Khỏe, năng lượng |
-| 温度 | おんど | ÔN ĐỘ | Nhiệt độ (giọng — cảm xúc) |', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 温度 | おんど | ÔN ĐỘ | Nhiệt độ (giọng — cảm xúc) |', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000008, 800000003, NULL, 'markdown_book', 'Rule 08 — Môi trường yên / 静かな環境を確保', '# Rule 08 — Môi trường yên / 静かな環境を確保
 > **Luận điểm.** Tiếng ồn nền (café, đường, văn phòng ồn) trên điện thoại = mất chuyên nghiệp. Khách phải tập trung gấp đôi → nhanh mệt → giảm chất lượng cuộc gọi.
 >
@@ -568,7 +568,7 @@ Nếu *bắt buộc* phải nghe ở môi trường ồn (đang đi công tác):
 | 環境 | かんきょう | HOÀN CẢNH | Môi trường |
 | 背景音 | はいけいおん | BỐI CẢNH ÂM | Tiếng ồn nền |
 | 外出中 | がいしゅつちゅう | NGOẠI XUẤT TRUNG | Đang ra ngoài |
-| 容赦 | ようしゃ | DUNG XÁ | Tha thứ, thông cảm |', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 容赦 | ようしゃ | DUNG XÁ | Tha thứ, thông cảm |', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000009, 800000003, NULL, 'markdown_book', 'Rule 09 — Sắp xếp bàn trước cuộc gọi quan trọng / 重要電話前のデスク準備', '# Rule 09 — Sắp xếp bàn trước cuộc gọi quan trọng / 重要電話前のデスク準備
 > **Luận điểm.** Trước cuộc gọi quan trọng (5+ phút, có quyết định), sắp xếp bàn trong 30 giây: **bút + giấy + lịch + tài liệu liên quan + cốc nước**.
 >
@@ -610,7 +610,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |------|------|----------|-------|
 | 整える | ととのえる | CHỈNH | Sắp xếp |
 | ヘッドセット | ヘッドセット | — | Tai nghe có micro |
-| 通知 | つうち | THÔNG TRI | Thông báo |', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 通知 | つうち | THÔNG TRI | Thông báo |', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000010, 800000003, NULL, 'markdown_book', 'Rule 10 — Tâm lý chuẩn bị cho cuộc gọi khó / 困難電話のメンタル準備', '# Rule 10 — Tâm lý chuẩn bị cho cuộc gọi khó / 困難電話のメンタル準備
 > **Luận điểm.** Cuộc gọi khó (xin lỗi, đòi nợ, từ chối, báo tin xấu) cần **30 giây luyện tâm lý trong đầu** trước khi bốc/quay số. Không có = lúng túng = mất kiểm soát.
 >
@@ -662,7 +662,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 想定 | そうてい | TƯỞNG ĐỊNH | Dự đoán |
 | 言い訳 | いいわけ | NGÔN DỊCH | Bào chữa |
 | 主導権 | しゅどうけん | CHỦ ĐẠO QUYỀN | Quyền chủ động |
-| 深呼吸 | しんこきゅう | THÂM HÔ HẤP | Hít thở sâu |', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 深呼吸 | しんこきゅう | THÂM HÔ HẤP | Hít thở sâu |', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000011, 800000003, NULL, 'markdown_book', 'Rule 11 — Đại diện công ty trả lời, không phải cá nhân / 会社の代表として答える', '# Rule 11 — Đại diện công ty trả lời, không phải cá nhân / 会社の代表として答える
 > **Luận điểm.** Khi nhấc máy, bạn không còn là "ズン" — bạn là **ティエンファット社**. Phong thái, ngôn ngữ, cách nói "không biết" đều phải theo chuẩn công ty, không cá nhân.
 >
@@ -696,7 +696,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **松本PM** | 「契約書の修正版、いつもらえますか？」 <br/>*Hợp đồng sửa đổi khi nào em gửi được?* |
 | **ズン** | 「<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にご<ruby>連絡<rt>れんらく</rt></ruby>いたします【1】。」 <br/>*Em xin xác nhận và liên lạc lại anh trong hôm nay ạ.* |
 
- **Ghi chú:** 【1】Câu này có 3 thông điệp: (1) sẽ kiểm tra, (2) sẽ liên lạc lại, (3) trong hôm nay = hạn chót rõ ràng.
+📝 **Ghi chú:** 【1】Câu này có 3 thông điệp: (1) sẽ kiểm tra, (2) sẽ liên lạc lại, (3) trong hôm nay = hạn chót rõ ràng.
 
 ---
 
@@ -711,7 +711,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 確認 | かくにん | XÁC NHẬN | Xác nhận |
 | 担当者 | たんとうしゃ | ĐẢM ĐƯƠNG GIẢ | Người phụ trách |
 | 繋ぐ | つなぐ | HỆ | Nối, chuyển (máy) |
-| 席を外す | せきをはずす | TỊCH NGOẠI | Vắng mặt |', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 席を外す | せきをはずす | TỊCH NGOẠI | Vắng mặt |', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000012, 800000003, NULL, 'markdown_book', 'Rule 12 — Xác nhận tên đối phương / 相手の名前を復唱で確認', '# Rule 12 — Xác nhận tên đối phương / 相手の名前を復唱で確認
 > **Luận điểm.** Tên người Nhật **dễ nghe nhầm** (松本 vs 増本, 山田 vs 山本). Phải lặp lại để xác nhận.
 >
@@ -734,7 +734,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | Từ | Cách đọc | Hán Việt | Nghĩa Việt |
 |------|------|----------|-------|
 | 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại |
-| いらっしゃる | いらっしゃる | — | (Kính ngữ) là, có |', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| いらっしゃる | いらっしゃる | — | (Kính ngữ) là, có |', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000013, 800000003, NULL, 'markdown_book', 'Rule 13 — Lặp lại số/email/tên / 数字・メール・氏名の復唱', '# Rule 13 — Lặp lại số/email/tên / 数字・メール・氏名の復唱
 > **Luận điểm.** Điện thoại dễ nghe nhầm: **数字** (1-7, 4-8), **メール** (@ → "アット"?), **氏名** (đồng âm). Lặp lại từng phần — không phải cả câu.
 >
@@ -761,7 +761,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |------|------|----------|-------|
 | 数字 | すうじ | SỐ TỰ | Số |
 | 区切る | くぎる | KHU | Phân đoạn |
-| アットマーク | アットマーク | — | @ (at sign) |', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| アットマーク | アットマーク | — | @ (at sign) |', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000014, 800000003, NULL, 'markdown_book', 'Rule 14 — 5W1H ghi chú bắt buộc / 5W1Hメモは必須', '# Rule 14 — 5W1H ghi chú bắt buộc / 5W1Hメモは必須
 > **Luận điểm.** Mỗi cuộc gọi nhận → ghi 5W1H: **いつ・誰が・どこで・何を・なぜ・どうやって**. Thiếu 1 = phải gọi lại hỏi = mất chuyên nghiệp.
 >
@@ -773,7 +773,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | Vai | Câu |
 |---------|-----|
 | **松本PM** | 「明日の<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせ、<ruby>第<rt>だい</rt></ruby>3<ruby>会議室<rt>かいぎしつ</rt></ruby>で14時から、6<ruby>名<rt>めい</rt></ruby>で。<ruby>資料<rt>しりょう</rt></ruby>は<ruby>事前<rt>じぜん</rt></ruby>にメールで。」 <br/>*Họp ngày mai, phòng họp 3, từ 14h, 6 người. Tài liệu gửi mail trước.* |
-| **ズン** | 「<ruby>念<rt>ねん</rt></ruby>のため<ruby>復唱<rt>ふくしょう</rt></ruby>いたします。明日（When）、松本様（Who）、第3会議室（Where）、打ち合わせ（What）、6<ruby>名参加<rt>めいさんか</rt></ruby>（How）、14時から（When详）、資料事前メール（How详）、でよろしいでしょうか。」 <br/>*Em xin lặp lại: ngày mai, anh Matsumoto, phòng họp 3, cuộc họp, 6 người, từ 14h, tài liệu mail trước, đúng không ạ?* |
+| **ズン** | 「<ruby>念<rt>ねん</rt></ruby>のため<ruby>復唱<rt>ふくしょう</rt></ruby>いたします。明日（When）、松本様（Who）、第3会議室（Where）、打ち合わせ（What）、6<ruby>名参加<rt>めいさんか</rt></ruby>（How）、14時から（When詳）、資料事前メール（How詳）、でよろしいでしょうか。」 <br/>*Em xin lặp lại: ngày mai, anh Matsumoto, phòng họp 3, cuộc họp, 6 người, từ 14h, tài liệu mail trước, đúng không ạ?* |
 | **松本PM** | 「その<ruby>通<rt>とお</rt></ruby>りです。」 <br/>*Đúng vậy.* |
 
 ## Cụm từ mẫu
@@ -783,7 +783,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | Từ | Cách đọc | Hán Việt | Nghĩa Việt |
 |------|------|----------|-------|
 | 抜け | ぬけ | BẠT | Thiếu sót |
-| 詳細 | しょうさい | TƯỜNG TẾ | Chi tiết |', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 詳細 | しょうさい | TƯỜNG TẾ | Chi tiết |', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000015, 800000003, NULL, 'markdown_book', 'Rule 15 — Chuyển máy khi người nhận có mặt / 担当者がいる場合の取次ぎ', '# Rule 15 — Chuyển máy khi người nhận có mặt / 担当者がいる場合の取次ぎ
 > **Luận điểm.** Chuyển máy có 3 bước: (1) hỏi tên người nhận, (2) xác nhận với người được nhờ, (3) chuyển. Không nhảy bước = chuyển nhầm.
 >
@@ -810,7 +810,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |------|------|----------|-------|
 | 取次ぎ | とりつぎ | THỦ THỨ | Chuyển máy |
 | 繋ぐ | つなぐ | HỆ | Nối |
-| 変わる | かわる | BIẾN | Đổi (người nói) |', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 変わる | かわる | BIẾN | Đổi (người nói) |', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000016, 800000003, NULL, 'markdown_book', 'Rule 16 — 4 công thức xử lý khi người nhận vắng / 担当者不在の4パターン', '# Rule 16 — 4 công thức xử lý khi người nhận vắng / 担当者不在の4パターン
 > **Luận điểm.** Khi người được gọi không có mặt, có **4 công thức chuẩn** để phản hồi: (1) đang họp, (2) đang ra ngoài, (3) đang nghỉ phép, (4) đã về. Mỗi công thức có mức độ thông tin tiết lộ khác nhau.
 >
@@ -824,8 +824,8 @@ Anh Matsumoto gọi cho anh Tuấn (Tech lead Thiên Phát) nhưng anh Tuấn đ
 ## Hội thoại — TỐT (Công thức 1: 会議中)
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>松本<rt>まつもと</rt></ruby>ですが、トゥアンさんお<ruby>願<rt>ねが</rt></ruby>いできますでしょうか。」 <br/>*Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Hakuō, nhờ em nối máy cho anh Tuấn ạ.* |
-| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。あいにくトゥアンはただいま<ruby>会議中<rt>かいぎちゅう</rt></ruby>でございまして、15<ruby>時<rt>じ</rt></ruby>には<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>でございます。」 <br/>*Anh Matsumoto, cảm ơn anh đã hỗ trợ ạ. Đáng tiếc anh Tuấn hiện đang họp, dự kiến 15h sẽ kết thúc ạ.* |
+| **松本PM** | 「いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>松本<rt>まつもと</rt></ruby>ですが、トゥアンさんお<ruby>願<rt>ねが</rt></ruby>いできますでしょうか。」 <br/>*Chào anh, rất mong được anh giúp đỡ. Tôi là Matsumoto bên Hakuō, nhờ em nối máy cho anh Tuấn ạ.* |
+| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。あいにくトゥアンはただいま<ruby>会議中<rt>かいぎちゅう</rt></ruby>でございまして、15<ruby>時<rt>じ</rt></ruby>には<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>でございます。」 <br/>*Anh Matsumoto, luôn mong được anh giúp đỡ ạ. Đáng tiếc anh Tuấn hiện đang họp, dự kiến 15h sẽ kết thúc ạ.* |
 | **ズン** | 「<ruby>終<rt>お</rt></ruby>わり<ruby>次第<rt>しだい</rt></ruby>、こちらから<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しお<ruby>電話<rt>でんわ</rt></ruby><ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げるようお<ruby>伝<rt>つた</rt></ruby>えしましょうか？」 <br/>*Khi xong cuộc họp em sẽ nhắn anh Tuấn gọi lại cho anh, được không ạ?* |
 | **松本PM** | 「では、お<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Vậy thì nhờ em ạ.* |
 
@@ -847,7 +847,7 @@ Anh Matsumoto gọi cho anh Tuấn (Tech lead Thiên Phát) nhưng anh Tuấn đ
 | 会議中 | かいぎちゅう | HỘI NGHỊ TRUNG | Đang họp |
 | 外出 | がいしゅつ | NGOẠI XUẤT | Ra ngoài |
 | あいにく | あいにく | — | Đáng tiếc thay |
-| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại |', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại |', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000017, 800000003, NULL, 'markdown_book', 'Rule 17 — Giữ máy tối đa 1 phút / 保留は1分以内', '# Rule 17 — Giữ máy tối đa 1 phút / 保留は1分以内
 > **Luận điểm.** Để khách chờ máy quá 1 phút = mất kiên nhẫn của khách. Nếu phải lâu hơn → quay lại đường dây, xin lỗi và đề xuất gọi lại.
 >
@@ -871,7 +871,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |------|------|----------|-------|
 | 保留 | ほりゅう | BẢO LƯU | Chờ máy/giữ máy |
 | 少々 | しょうしょう | THIỂU THIỂU | Một chút |
-| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại |', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại |', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000018, 800000003, NULL, 'markdown_book', 'Rule 18 — 5 yếu tố bắt buộc khi ghi lời nhắn / 伝言メモの5要素', '# Rule 18 — 5 yếu tố bắt buộc khi ghi lời nhắn / 伝言メモの5要素
 > **Luận điểm.** Một bản ghi lời nhắn hoàn chỉnh có 5 yếu tố: **(1) ai gọi**, **(2) công ty/phòng**, **(3) số gọi lại**, **(4) nội dung**, **(5) thời điểm gọi**. Thiếu 1 trong 5 = ghi chú vô dụng.
 >
@@ -906,7 +906,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 伝言 | でんごん | TRUYỀN NGÔN | Lời nhắn |
 | 申し伝える | もうしつたえる | THÂN TRUYỀN | (Khiêm) chuyển lời |
 | 念のため | ねんのため | NIỆM | Để chắc chắn |
-| 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại |', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại |', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000019, 800000003, NULL, 'markdown_book', 'Rule 19 — Xử lý cuộc gọi nhầm số lịch sự / 間違い電話への対応', '# Rule 19 — Xử lý cuộc gọi nhầm số lịch sự / 間違い電話への対応
 > **Luận điểm.** Khi gặp người gọi nhầm số, **đừng cúp máy đột ngột**. Lễ phép xác nhận số đối phương đang gọi, báo họ gọi nhầm, kết thúc bằng câu chào.
 >
@@ -933,7 +933,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 間違い電話 | まちがいでんわ | GIAN VI ĐIỆN THOẠI | Gọi nhầm số |
 | お確かめ | おたしかめ | XÁC | Kiểm tra (尊敬語 — đối phương kiểm tra) |
 | お手数ですが | おてすうですが | THỦ SỐ | Phiền anh/chị |
-| かけ直す | かけなおす | TRỰC | Gọi lại |', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| かけ直す | かけなおす | TRỰC | Gọi lại |', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000020, 800000003, NULL, 'markdown_book', 'Rule 20 — Bước đầu xử lý phàn nàn qua điện thoại / クレーム電話の最初の対応', '# Rule 20 — Bước đầu xử lý phàn nàn qua điện thoại / クレーム電話の最初の対応
 > **Luận điểm.** Khi khách phàn nàn — **đừng giải thích trước**. Bước 1 = **nghe**, **xin lỗi cảm xúc** (không phải xin lỗi sự kiện), rồi mới hỏi chi tiết.
 >
@@ -966,7 +966,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 不便 | ふべん | BẤT TIỆN | Bất tiện |
 | 傾聴 | けいちょう | KHUYNH THÍNH | Lắng nghe chăm chú |
 | 早急に | さっきゅうに | TẢO CẤP | Khẩn trương |
-| 左様でございますか | さようでございますか | TẢ DẠNG | Vâng, em hiểu rồi (kính ngữ) |', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 左様でございますか | さようでございますか | TẢ DẠNG | Vâng, em hiểu rồi (kính ngữ) |', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000021, 800000003, NULL, 'markdown_book', 'Rule 21 — Khi khách hỏi đường đến văn phòng / 訪問先案内の電話', '# Rule 21 — Khi khách hỏi đường đến văn phòng / 訪問先案内の電話
 > **Luận điểm.** Khi khách điện hỏi đường, **xác nhận họ đang ở đâu** trước, sau đó hướng dẫn theo điểm mốc rõ ràng. Tránh "đi thẳng rồi rẽ" — dùng tên ga, tên tòa nhà.
 >
@@ -979,8 +979,8 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |---------|-----|
 | **松本PM** | 「すみません、今ホアンキエム<ruby>湖<rt>こ</rt></ruby>の<ruby>北側<rt>きたがわ</rt></ruby>におります。<ruby>御社<rt>おんしゃ</rt></ruby>まではどのように行けばよろしいでしょうか？」 <br/>*Xin lỗi, tôi đang ở phía bắc hồ Hoàn Kiếm. Tới văn phòng các bạn đi đường nào ạ?* |
 | **ズン** | 「お電話ありがとうございます。湖の北側ですと、Hang Bac通りを北へ<ruby>徒歩<rt>とほ</rt></ruby>約5分でございます。<ruby>途中<rt>とちゅう</rt></ruby>、<ruby>左手<rt>ひだりて</rt></ruby>にBIDV<ruby>銀行<rt>ぎんこう</rt></ruby>が見えてまいります。」 <br/>*Cảm ơn anh đã gọi ạ. Từ bắc hồ, anh đi phố Hàng Bạc về phía bắc khoảng 5 phút đi bộ. Trên đường bên trái sẽ thấy ngân hàng BIDV ạ.* |
-| **ズン** | 「BIDVの次の<ruby>角<rt>かど</rt></ruby>を<ruby>右折<rt>うせつ</rt></ruby>いただきますと、3<ruby>軒目<rt>けんめ</rt></ruby>の8<ruby>階建<rt>かいだ</rt></ruby>てビルが<ruby>弊社<rt>へいしゃ</rt></ruby>でございます。1階に『ティエンファット』の<ruby>看板<rt>かんばん</rt></ruby>がございます。」 <br/>*Qua BIDV, anh rẽ phải ở góc đường tiếp theo, tòa nhà 8 tầng thứ 3 là văn phòng em ạ. Tầng 1 có biển hiệu ''Thiên Phát'' ạ.* |
-| **松本PM** | 「BIDVの<ruby>先<rt>さき</rt></ruby>を右、3軒目の8階建てビルですね。<ruby>承知<rt>しょうち</rt></ruby>しました。」 <br/>*Qua BIDV rẽ phải, tòa thứ 3 cao 8 tầng nhỉ. Tôi hiểu rồi ạ.* |
+| **ズン** | 「BIDVの次の<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がっていただきますと、3つ<ruby>目<rt>め</rt></ruby>の8<ruby>階建<rt>かいだ</rt></ruby>てビルが<ruby>弊社<rt>へいしゃ</rt></ruby>でございます。1階に『ティエンファット』の<ruby>看板<rt>かんばん</rt></ruby>がございます。」 <br/>*Qua BIDV, anh rẽ phải ở góc đường tiếp theo, tòa nhà 8 tầng thứ 3 là văn phòng em ạ. Tầng 1 có biển hiệu ''Thiên Phát'' ạ.* |
+| **松本PM** | 「BIDVの<ruby>先<rt>さき</rt></ruby>を右、3つ目の8階建てビルですね。<ruby>承知<rt>しょうち</rt></ruby>しました。」 <br/>*Qua BIDV rẽ phải, tòa thứ 3 cao 8 tầng nhỉ. Tôi hiểu rồi ạ.* |
 | **ズン** | 「お気をつけてお<ruby>越<rt>こ</rt></ruby>しください。」 <br/>*Anh đi cẩn thận giúp em ạ.* |
 
 ## Cụm từ mẫu
@@ -993,7 +993,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 目印 | めじるし | MỤC ẤN | Điểm mốc |
 | 角 | かど | GIÁC | Góc đường |
 | 右折 | うせつ | HỮU CHIẾT | Rẽ phải |
-| 看板 | かんばん | KHÁN BẢN | Bảng hiệu |', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 看板 | かんばん | KHÁN BẢN | Bảng hiệu |', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000022, 800000003, NULL, 'markdown_book', 'Rule 22 — Thứ tự gác máy: khách trước, mình sau / 受話器を置くタイミング', '# Rule 22 — Thứ tự gác máy: khách trước, mình sau / 受話器を置くタイミング
 > **Luận điểm.** Quy tắc giao tiếp công sở Nhật: **khách hàng / cấp trên gác máy trước**, mình gác sau. Cúp trước = thiếu tôn trọng.
 >
@@ -1021,7 +1021,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |------|------|----------|-------|
 | 受話器 | じゅわき | THỤ THOẠI KHÍ | Ống nghe |
 | 静かに | しずかに | TĨNH | Nhẹ nhàng |
-| 失礼いたします | しつれいいたします | THẤT LỄ | Xin phép kết thúc (kính ngữ) |', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 失礼いたします | しつれいいたします | THẤT LỄ | Xin phép kết thúc (kính ngữ) |', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000023, 800000003, NULL, 'markdown_book', 'Rule 23 — Báo lại nội bộ sau cuộc gọi quan trọng / 受電後の社内報告', '# Rule 23 — Báo lại nội bộ sau cuộc gọi quan trọng / 受電後の社内報告
 > **Luận điểm.** Cuộc gọi xong = mới một nửa công việc. Phải báo nội bộ ngay (nhắn tin/email/trực tiếp) cho người liên quan trong **15 phút**, kèm 5 yếu tố ghi chú.
 >
@@ -1054,7 +1054,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 報告 | ほうこく | BÁO CÁO | Báo cáo |
 | 共有 | きょうゆう | CỘNG HỮU | Chia sẻ |
 | 申し伝える | もうしつたえる | THÂN TRUYỀN | (Khiêm) chuyển lời |
-| 先ほど | さきほど | TIÊN | Vừa nãy |', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 先ほど | さきほど | TIÊN | Vừa nãy |', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000024, 800000003, NULL, 'markdown_book', 'Rule 24 — Danh sách kiểm tra trước khi nhấn gọi / 発信前のチェックリスト', '# Rule 24 — Danh sách kiểm tra trước khi nhấn gọi / 発信前のチェックリスト
 > **Luận điểm.** Trước khi gọi đi, kiểm 5 mục: **(1) mục đích rõ chưa**, **(2) thời điểm gọi phù hợp**, **(3) tài liệu sẵn**, **(4) ghi chú 5W1H đã viết**, **(5) môi trường yên tĩnh**.
 >
@@ -1080,7 +1080,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「<ruby>目的<rt>もくてき</rt></ruby>：4月度<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>。<ruby>資料<rt>しりょう</rt></ruby>：<ruby>開<rt>ひら</rt></ruby>いた。メモ：<ruby>書<rt>か</rt></ruby>いた。<ruby>環境<rt>かんきょう</rt></ruby>：OK。<ruby>発信<rt>はっしん</rt></ruby>。」 <br/>*(Tự nhủ) Mục đích: báo cáo tiến độ tháng 4. Tài liệu: mở rồi. Ghi chú: viết rồi. Môi trường: OK. Gọi.* |
-| **ズン** | 「お世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンでございます。松本<ruby>様<rt>さま</rt></ruby>のお<ruby>席<rt>せき</rt></ruby>はございますでしょうか？」 <br/>*Cảm ơn anh đã hỗ trợ ạ. Em là Dũng, phòng kinh doanh, Cty Thiên Phát ạ. Anh Matsumoto có ở văn phòng không ạ?* |
+| **ズン** | 「お世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンでございます。松本<ruby>様<rt>さま</rt></ruby>のお<ruby>席<rt>せき</rt></ruby>はございますでしょうか？」 <br/>*Chào anh ạ, rất mong được anh giúp đỡ. Em là Dũng, phòng kinh doanh, Cty Thiên Phát ạ. Anh Matsumoto có ở văn phòng không ạ?* |
 
 ## Cụm từ mẫu
 > **「<ruby>目的<rt>もくてき</rt></ruby>・<ruby>時間<rt>じかん</rt></ruby>・<ruby>資料<rt>しりょう</rt></ruby>・メモ・<ruby>環境<rt>かんきょう</rt></ruby>」5チェック**
@@ -1091,7 +1091,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | 発信 | はっしん | PHÁT TÍN | Gọi đi |
 | 目的 | もくてき | MỤC ĐÍCH | Mục đích |
 | 時間帯 | じかんたい | THỜI GIAN ĐỚI | Khung giờ |
-| 資料 | しりょう | TƯ LIỆU | Tài liệu |', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 資料 | しりょう | TƯ LIỆU | Tài liệu |', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000025, 800000003, NULL, 'markdown_book', 'Rule 25 — Chọn giờ gọi: khung tránh / khung tốt / 電話する時間帯の選び方', '# Rule 25 — Chọn giờ gọi: khung tránh / khung tốt / 電話する時間帯の選び方
 > **Luận điểm.** Khung giờ tốt: **10:00-11:30**, **14:00-16:30**. Khung tránh: **9:00-9:30** (đầu giờ chuẩn bị), **12:00-13:00** (nghỉ trưa), **17:30+** (về). Đặc biệt sáng thứ Hai = bận nhất.
 >
@@ -1126,7 +1126,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 時間帯 | じかんたい | THỜI GIAN ĐỚI | Khung giờ |
 | 始業 | しぎょう | THỦY NGHIỆP | Bắt đầu giờ làm |
 | 終業 | しゅうぎょう | CHUNG NGHIỆP | Hết giờ làm |
-| 昼休み | ひるやすみ | — | Nghỉ trưa |', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 昼休み | ひるやすみ | — | Nghỉ trưa |', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000026, 800000003, NULL, 'markdown_book', 'Rule 26 — Mẫu câu giới thiệu khi gọi đi / 発信時の名乗りフォーマット', '# Rule 26 — Mẫu câu giới thiệu khi gọi đi / 発信時の名乗りフォーマット
 > **Luận điểm.** Mẫu câu chuẩn khi gọi đi: **「お世話になっております」 → 公司・部署・名前 → 「〇〇様お願いします」**.
 >
@@ -1161,7 +1161,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 名乗る | なのる | — | Tự xưng tên |
 | 申します | もうします | — | (Khiêm) tên là |
 | 恐れ入りますが | おそれいりますが | — | Phiền anh/chị |
-| いらっしゃる | いらっしゃる | — | (Kính ngữ) có, là |', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| いらっしゃる | いらっしゃる | — | (Kính ngữ) có, là |', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000027, 800000003, NULL, 'markdown_book', 'Rule 27 — お時間よろしいでしょうか / 相手の都合を最初に確認', '# Rule 27 — お時間よろしいでしょうか / 相手の都合を最初に確認
 > **Luận điểm.** Sau khi tự xưng → **hỏi liền** "anh/chị có rảnh nói chuyện không". Nếu không hỏi mà nhảy thẳng vào việc = thiếu lịch sự.
 >
@@ -1193,7 +1193,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 都合 | つごう | ĐÔ HỢP | Sự thuận tiện |
 | 立て込む | たてこむ | — | Đang bận, dày kín |
 | 後ほど | のちほど | — | Lát nữa |
-| 改めて | あらためて | — | Lại |', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 改めて | あらためて | — | Lại |', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000028, 800000003, NULL, 'markdown_book', 'Rule 28 — Trình bày 30 giây — truyền đạt mục đích gọn / 30秒で要件を伝える', '# Rule 28 — Trình bày 30 giây — truyền đạt mục đích gọn / 30秒で要件を伝える
 > **Luận điểm.** Sau khi xác nhận có rảnh → trong 30 giây phải nói rõ **(1) lý do gọi**, **(2) hành động cần** từ đối phương, **(3) thời gian quyết định**.
 >
@@ -1223,7 +1223,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 要件 | ようけん | YẾU KIỆN | Việc, mục đích |
 | 進捗 | しんちょく | TIẾN THÚC | Tiến độ |
 | 期限 | きげん | KỲ HẠN | Hạn chót |
-| 前置き | まえおき | — | Lời mở rào |', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 前置き | まえおき | — | Lời mở rào |', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000029, 800000003, NULL, 'markdown_book', 'Rule 29 — Yêu cầu lặp lại điểm quan trọng / 重要事項の復唱を依頼', '# Rule 29 — Yêu cầu lặp lại điểm quan trọng / 重要事項の復唱を依頼
 > **Luận điểm.** Khi truyền đạt thông tin quan trọng (số, ngày, số tiền), **nhờ đối phương lặp lại** — không chỉ tự lặp.
 >
@@ -1251,8 +1251,8 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại |
 | 金額 | きんがく | KIM NGẠCH | Số tiền |
 | 納期 | のうき | NẠP KỲ | Hạn giao |
-| 念のため | ねんのため | — | Để chắc chắn |', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000030, 800000003, NULL, 'markdown_book', 'Rule 30 — Đề xuất chuyển kênh khi phone không đủ / 電話で済まない時の提案', '# Rule 30 — Đề xuất chuyển kênh khi phone không đủ / 電話で済まない時の提案
+| 念のため | ねんのため | — | Để chắc chắn |', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000030, 800000003, NULL, 'markdown_book', 'Rule 30 — Đề xuất chuyển kênh khi điện thoại không đủ / 電話で済まない時の提案', '# Rule 30 — Đề xuất chuyển kênh khi điện thoại không đủ / 電話で済まない時の提案
 > **Luận điểm.** Khi nội dung phức tạp (kèm số liệu, hình, văn bản dài) → đề xuất **chuyển sang mail/họp trực tuyến/gặp trực tiếp**. Đừng cố giải thích chi tiết qua điện thoại.
 >
 > 複雑な内容は電話で完結させず、メール／オンライン会議／対面へ切り替える提案を。
@@ -1276,7 +1276,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | かえって | かえって | — | Ngược lại, càng |
 | 添付 | てんぷ | THIÊM PHỤ | Đính kèm |
 | オンライン会議 | おんらいんかいぎ | — | Họp trực tuyến |
-| 切り替える | きりかえる | — | Chuyển đổi |', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 切り替える | きりかえる | — | Chuyển đổi |', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000031, 800000003, NULL, 'markdown_book', 'Rule 31 — Nhờ chuyển lời khi người nhận vắng / 不在時の伝言依頼', '# Rule 31 — Nhờ chuyển lời khi người nhận vắng / 不在時の伝言依頼
 > **Luận điểm.** Khi gọi mà người cần gặp vắng → nhờ người bắt máy chuyển lời, kèm **(1) tên + cty mình**, **(2) việc cần**, **(3) cách liên lạc lại**.
 >
@@ -1302,7 +1302,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 伝言 | でんごん | TRUYỀN NGÔN | Lời nhắn |
 | 申し伝える | もうしつたえる | — | (Khiêm) chuyển lời |
 | 問題ございません | もんだいございません | — | Không vấn đề (kính ngữ) |
-| 旨 | むね | CHỈ | Việc, ý là |', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 旨 | むね | CHỈ | Việc, ý là |', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000032, 800000003, NULL, 'markdown_book', 'Rule 32 — Xin gọi lại — mẫu nhờ gọi lại / 折り返しの依頼', '# Rule 32 — Xin gọi lại — mẫu nhờ gọi lại / 折り返しの依頼
 > **Luận điểm.** Khi nhờ gọi lại, **đề xuất khung giờ thuận tiện cho đối phương**, không phải mình. Cộng thêm **phương án thay thế** (mail) nếu không tiện.
 >
@@ -1326,7 +1326,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại |
 | お手すき | おてすき | — | Lúc rảnh |
 | 幸いです | さいわいです | — | Mong được... |
-| 終日 | しゅうじつ | CHUNG NHẬT | Cả ngày |', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 終日 | しゅうじつ | CHUNG NHẬT | Cả ngày |', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000033, 800000003, NULL, 'markdown_book', 'Rule 33 — Cuộc gọi quốc tế — múi giờ + chậm hơn / 国際電話の留意点', '# Rule 33 — Cuộc gọi quốc tế — múi giờ + chậm hơn / 国際電話の留意点
 > **Luận điểm.** Gọi quốc tế: **(1) tính giờ đối phương** (Việt Nam < Nhật 2h), **(2) nói chậm hơn 10-15%**, **(3) tránh từ lóng/viết tắt**, **(4) xác nhận lại qua mail sau gọi**.
 >
@@ -1356,7 +1356,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 時差 | じさ | THỜI SAI | Lệch giờ |
 | 略語 | りゃくご | LƯỢC NGỮ | Từ viết tắt |
 | 至急 | しきゅう | CHÍ CẤP | Khẩn cấp |
-| 国際電話 | こくさいでんわ | QUỐC TẾ ĐIỆN THOẠI | Cuộc gọi quốc tế |', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 国際電話 | こくさいでんわ | QUỐC TẾ ĐIỆN THOẠI | Cuộc gọi quốc tế |', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000034, 800000003, NULL, 'markdown_book', 'Rule 34 — Cách nói trong cuộc gọi khẩn / 緊急電話の言い回し', '# Rule 34 — Cách nói trong cuộc gọi khẩn / 緊急電話の言い回し
 > **Luận điểm.** Cuộc gọi khẩn cấp: **mở đầu báo "khẩn cấp"** ngay trong câu đầu. Cấu trúc: 「至急ご連絡したい件で〜」. Bỏ vòng vo, vào thẳng vấn đề.
 >
@@ -1369,7 +1369,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |---------|-----|
 | **ズン** | 「お忙しいところ<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります。<ruby>至急<rt>しきゅう</rt></ruby>ご<ruby>連絡<rt>れんらく</rt></ruby>したい<ruby>件<rt>けん</rt></ruby>がございます。」 <br/>*Em xin lỗi làm phiền lúc anh đang bận. Em có việc gấp cần liên hệ ạ.* |
 | **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby><ruby>納品<rt>のうひん</rt></ruby>予定のサーバーですが、<ruby>配送<rt>はいそう</rt></ruby><ruby>業者<rt>ぎょうしゃ</rt></ruby>のトラブルで<ruby>到着<rt>とうちゃく</rt></ruby>が午後に<ruby>ずれ込<rt>ずれこ</rt></ruby>む<ruby>見込<rt>みこ</rt></ruby>みでございます。」 <br/>*Máy chủ dự kiến giao hôm nay đang bị bên vận chuyển trục trặc, dự kiến chiều mới tới ạ.* |
-| **ズン** | 「<ruby>現場<rt>げんば</rt></ruby>のトゥアンにも<ruby>至急<rt>しきゅう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>いたします。<ruby>松本<rt>まつもと</rt></ruby>様からも何かご<ruby>対応<rt>たいおう</rt></ruby>が必要でしたら、ご<ruby>指示<rt>しじ</rt></ruby>ください。」 <br/>*Em nghĩ cần báo gấp cho anh Tuấn ở hiện trường, anh thấy thế nào ạ?* |
+| **ズン** | 「<ruby>現場<rt>げんば</rt></ruby>のトゥアンにも<ruby>至急<rt>しきゅう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>いたします。<ruby>松本<rt>まつもと</rt></ruby>様からも何かご<ruby>対応<rt>たいおう</rt></ruby>が必要でしたら、ご<ruby>指示<rt>しじ</rt></ruby>ください。」 <br/>*Em sẽ chia sẻ gấp cho anh Tuấn ở hiện trường ạ. Nếu anh Matsumoto cần bên em xử lý thêm gì, xin anh chỉ thị ạ.* |
 | **松本PM** | 「分かりました。トゥアンさんへ私からも<ruby>連絡<rt>れんらく</rt></ruby>します。」 <br/>*Tôi hiểu rồi. Tôi cũng sẽ liên hệ anh Tuấn.* |
 
 ## Cụm từ mẫu
@@ -1385,7 +1385,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 至急 | しきゅう | CHÍ CẤP | Khẩn cấp |
 | 即時 | そくじ | TỨC THỜI | Ngay lập tức |
 | ずれ込む | ずれこむ | — | Trễ, dời |
-| 見込み | みこみ | — | Dự kiến |', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 見込み | みこみ | — | Dự kiến |', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000035, 800000003, NULL, 'markdown_book', 'Rule 35 — Tóm tắt xác nhận trước khi cúp máy / 電話を切る前の確認', '# Rule 35 — Tóm tắt xác nhận trước khi cúp máy / 電話を切る前の確認
 > **Luận điểm.** Trước khi cúp, **tóm tắt 3 điểm**: (1) đã thống nhất gì, (2) ai làm gì, (3) hạn chót. Tránh "tan biến" khi cúp xong không nhớ chi tiết.
 >
@@ -1410,7 +1410,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 確認 | かくにん | XÁC NHẬN | Xác nhận |
 | 合意 | ごうい | HỢP Ý | Đồng ý, thống nhất |
 | 担当 | たんとう | ĐẢM ĐƯƠNG | Người phụ trách |
-| 期限 | きげん | KỲ HẠN | Hạn chót |', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 期限 | きげん | KỲ HẠN | Hạn chót |', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000036, 800000003, NULL, 'markdown_book', 'Rule 36 — Đừng để máy chờ quá im — lấp im lặng / 保留中の対応', '# Rule 36 — Đừng để máy chờ quá im — lấp im lặng / 保留中の対応
 > **Luận điểm.** Giữ máy chờ quá 30 giây mà im lặng = khách lo "có còn kết nối không". Cứ 30 giây quay lại line nói **「お待たせしております」** một lần.
 >
@@ -1434,7 +1434,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | Từ | Cách đọc | Hán Việt | Nghĩa Việt |
 |-----|---------|---------|-------|
 | 保留中 | ほりゅうちゅう | BẢO LƯU TRUNG | Đang giữ máy |
-| 沈黙 | ちんもく | TRẦM MẶC | Im lặng |', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 沈黙 | ちんもく | TRẦM MẶC | Im lặng |', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000037, 800000003, NULL, 'markdown_book', 'Rule 37 — Khi line đứt, ai gọi lại trước? / 切れた時のかけ直しルール', '# Rule 37 — Khi line đứt, ai gọi lại trước? / 切れた時のかけ直しルール
 > **Luận điểm.** Quy tắc nghiệp vụ: **bên gọi đi (発信側) gọi lại trước**. Nếu khách là người gọi → mình vẫn nên chủ động gọi lại để thể hiện thiện chí.
 >
@@ -1462,7 +1462,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 途中 | とちゅう | ĐỒ TRUNG | Giữa chừng |
 | 切れる | きれる | — | Đứt, ngắt |
 | 電波 | でんぱ | ĐIỆN BA | Sóng điện thoại |
-| かけ直す | かけなおす | — | Gọi lại |', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| かけ直す | かけなおす | — | Gọi lại |', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000038, 800000003, NULL, 'markdown_book', 'Rule 38 — Khi nghe không rõ / お電話が遠いようですが', '# Rule 38 — Khi nghe không rõ / お電話が遠いようですが
 > **Luận điểm.** Khi không nghe rõ, **đừng đổ lỗi cho đối phương** ("bạn nói nhỏ"). Câu chuẩn: 「お電話が遠いようですが」 — coi như lỗi của line/môi trường.
 >
@@ -1492,7 +1492,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |-----|---------|---------|-------|
 | 遠い | とおい | — | Xa (đường truyền không rõ) |
 | 申し訳ございません | もうしわけございません | — | Xin lỗi (kính ngữ cao) |
-| はっきり | はっきり | — | Rõ ràng |', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| はっきり | はっきり | — | Rõ ràng |', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000039, 800000003, NULL, 'markdown_book', 'Rule 39 — 5 công thức hỏi lại từ không hiểu / 聞き返しの5パターン', '# Rule 39 — 5 công thức hỏi lại từ không hiểu / 聞き返しの5パターン
 > **Luận điểm.** 5 công thức hỏi lại tùy mức độ chưa hiểu: (1) toàn bộ, (2) một phần, (3) nghĩa từ, (4) cách viết, (5) chính tả tên.
 >
@@ -1526,7 +1526,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 聞き返し | ききかえし | — | Hỏi lại |
 | 漢字 | かんじ | HÁN TỰ | Chữ Hán |
 | 垣 | かき | HOÀN | Hàng rào |
-| 意味 | いみ | Ý VỊ | Nghĩa |', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 意味 | いみ | Ý VỊ | Nghĩa |', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000040, 800000003, NULL, 'markdown_book', 'Rule 40 — Khách đang giận — nghe trước, giải pháp sau / 怒っているお客様への対応', '# Rule 40 — Khách đang giận — nghe trước, giải pháp sau / 怒っているお客様への対応
 > **Luận điểm.** Khi khách giận, **đừng cắt ngang**. Để họ nói hết, dùng câu chêm 「はい」「左様でございますか」 cho thấy đang lắng nghe, sau đó mới giải pháp.
 >
@@ -1556,7 +1556,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 怒る | おこる | — | Giận |
 | 傾聴 | けいちょう | KHUYNH THÍNH | Lắng nghe |
 | 共感 | きょうかん | CỘNG CẢM | Đồng cảm |
-| 遮る | さえぎる | — | Cắt ngang |', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 遮る | さえぎる | — | Cắt ngang |', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000041, 800000003, NULL, 'markdown_book', 'Rule 41 — Bộ xử lý phàn nàn đầy đủ — 5 bước / クレーム対応のフルセット', '# Rule 41 — Bộ xử lý phàn nàn đầy đủ — 5 bước / クレーム対応のフルセット
 > **Luận điểm.** 5 bước chuẩn: **(1) 傾聴 nghe**, **(2) 謝罪 xin lỗi cảm xúc**, **(3) 事実確認 xác minh**, **(4) 解決提示 giải pháp**, **(5) 再発防止 cam kết**.
 >
@@ -1592,9 +1592,9 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 防止 | ぼうし | PHÒNG CHỈ | Ngăn chặn |
 | 検品 | けんぴん | KIỂM PHẨM | Kiểm hàng |
 | 回収 | かいしゅう | HỒI THU | Thu hồi |
-| 不良品 | ふりょうひん | BẤT LƯƠNG PHẨM | Hàng lỗi |', 'system', 41, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000042, 800000003, NULL, 'markdown_book', 'Rule 42 — Cách từ chối qua phone không gây xước / 電話で断る言い方', '# Rule 42 — Cách từ chối qua phone không gây xước / 電話で断る言い方
-> **Luận điểm.** Từ chối qua phone: **(1) cảm ơn lời mời/đề xuất**, **(2) lý do khái quát** (không nói chi tiết), **(3) đề xuất phương án thay thế nếu có**.
+| 不良品 | ふりょうひん | BẤT LƯƠNG PHẨM | Hàng lỗi |', 'system', 41, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000042, 800000003, NULL, 'markdown_book', 'Rule 42 — Cách từ chối qua điện thoại không gây mất lòng / 電話で断る言い方', '# Rule 42 — Cách từ chối qua điện thoại không gây mất lòng / 電話で断る言い方
+> **Luận điểm.** Từ chối qua điện thoại: **(1) cảm ơn lời mời/đề xuất**, **(2) lý do khái quát** (không nói chi tiết), **(3) đề xuất phương án thay thế nếu có**.
 >
 > 電話で断る時：①感謝 ②婉曲な理由 ③代替案 の3点セット。
 >
@@ -1621,8 +1621,8 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 断る | ことわる | — | Từ chối |
 | あいにく | あいにく | — | Đáng tiếc |
 | 婉曲 | えんきょく | UYỂN KHÚC | Vòng vo |
-| 代替案 | だいたいあん | ĐẠI THẾ ÁN | Phương án thay thế |', 'system', 42, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000043, 800000003, NULL, 'markdown_book', 'Rule 43 — Báo dời / đổi lịch qua phone / 延期・変更を電話で伝える', '# Rule 43 — Báo dời / đổi lịch qua phone / 延期・変更を電話で伝える
+| 代替案 | だいたいあん | ĐẠI THẾ ÁN | Phương án thay thế |', 'system', 42, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000043, 800000003, NULL, 'markdown_book', 'Rule 43 — Báo dời / đổi lịch qua điện thoại / 延期・変更を電話で伝える', '# Rule 43 — Báo dời / đổi lịch qua điện thoại / 延期・変更を電話で伝える
 > **Luận điểm.** Báo dời lịch: **(1) xin lỗi**, **(2) lý do ngắn gọn**, **(3) đề xuất 2-3 phương án mới**, **(4) xác nhận lại + gửi mail**.
 >
 > 延期・変更連絡：謝罪→理由→代替日提示（複数）→メール確認の4ステップ。
@@ -1650,8 +1650,8 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 変更 | へんこう | BIẾN CANH | Thay đổi |
 | 急遽 | きゅうきょ | CẤP CỬ | Đột xuất |
 | 代替案 | だいたいあん | ĐẠI THẾ ÁN | Phương án thay thế |
-| 出張 | しゅっちょう | XUẤT TRƯƠNG | Công tác |', 'system', 43, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000044, 800000003, NULL, 'markdown_book', 'Rule 44 — Báo tin xấu qua phone / 悪い知らせを電話で伝える', '# Rule 44 — Báo tin xấu qua phone / 悪い知らせを電話で伝える
+| 出張 | しゅっちょう | XUẤT TRƯƠNG | Công tác |', 'system', 43, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000044, 800000003, NULL, 'markdown_book', 'Rule 44 — Báo tin xấu qua điện thoại / 悪い知らせを電話で伝える', '# Rule 44 — Báo tin xấu qua điện thoại / 悪い知らせを電話で伝える
 > **Luận điểm.** Tin xấu **không gửi mail trước** mà gọi điện. Cấu trúc: **(1) báo trước "tin không tốt"**, **(2) sự việc gọn**, **(3) ảnh hưởng**, **(4) kế hoạch xử lý**.
 >
 > 悪い知らせは電話が原則。①予告 ②事実 ③影響 ④対応策 の順で伝える。
@@ -1676,7 +1676,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 障害 | しょうがい | CHƯỚNG NGẠI | Sự cố |
 | 影響範囲 | えいきょうはんい | ẢNH HƯỞNG PHẠM VI | Phạm vi ảnh hưởng |
 | 復旧 | ふっきゅう | PHỤC CỰU | Khôi phục |
-| 推定 | すいてい | SUY ĐỊNH | Ước tính |', 'system', 44, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 推定 | すいてい | SUY ĐỊNH | Ước tính |', 'system', 44, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000045, 800000003, NULL, 'markdown_book', 'Rule 45 — Gọi xin lỗi — 4 bước / 謝罪の電話', '# Rule 45 — Gọi xin lỗi — 4 bước / 謝罪の電話
 > **Luận điểm.** Gọi xin lỗi 4 bước: **(1) thừa nhận sự việc**, **(2) xin lỗi rõ ràng** (không vòng vo), **(3) giải pháp khôi phục**, **(4) cam kết tránh tái diễn**. (Tham khảo Sách 01 Rule 53.)
 >
@@ -1695,9 +1695,15 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **「<ruby>全責任<rt>ぜんせきにん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby>にございます。」**
+>
+> ⚠️ **CHỈ dùng khi đã xác minh lỗi thuộc về bên mình** (như tình huống trên: `弊社の確認漏れにより` — đã rõ nguyên nhân). Đây là **全面謝罪** — nhận toàn bộ trách nhiệm.
+>
+> Khi **chưa rõ nguyên nhân**, hoặc lỗi có thể thuộc bên thứ ba (nhà vận chuyển, đối tác), dùng **部分謝罪** — xin lỗi về sự bất tiện gây ra, KHÔNG nhận trách nhiệm về nguyên nhân:
+> **「ご<ruby>不便<rt>ふべん</rt></ruby>をおかけし、<ruby>誠<rt>まこと</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。<ruby>原因<rt>げんいん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、<ruby>改<rt>あらた</rt></ruby>めてご<ruby>報告<rt>ほうこく</rt></ruby>いたします。」**
 
 ## Tránh
 - 「もしかしたら〜」 → lưỡng lự, không thừa nhận.
+- ⚠️ **Nhận trách nhiệm quá tay khi chưa xác minh** — nói `全責任は弊社にございます` cho sự cố chưa rõ nguyên nhân, hoặc lỗi của bên thứ ba. Đây là rủi ro thật: câu này có sức nặng khi bàn bồi thường. Chưa rõ thì dùng 部分謝罪 ở trên.
 - 「仕方ありませんでした」 → đẩy lỗi cho hoàn cảnh.
 
 ## Bảng từ vựng
@@ -1706,7 +1712,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 謝罪 | しゃざい | TẠ TỘI | Xin lỗi |
 | 責任 | せきにん | TRÁCH NHIỆM | Trách nhiệm |
 | 徹底 | てってい | TRIỆT ĐỂ | Triệt để |
-| 二重化 | にじゅうか | NHỊ TRỌNG HÓA | Tăng gấp đôi (cơ chế kiểm) |', 'system', 45, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 二重化 | にじゅうか | NHỊ TRỌNG HÓA | Tăng gấp đôi (cơ chế kiểm) |', 'system', 45, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000046, 800000003, NULL, 'markdown_book', 'Rule 46 — Gọi cảm ơn / お礼の電話', '# Rule 46 — Gọi cảm ơn / お礼の電話
 > **Luận điểm.** Sau cuộc họp / sự hỗ trợ → gọi cảm ơn trong **24h**. Cụ thể (cảm ơn vì việc gì), ngắn (3 phút), không vào việc mới.
 >
@@ -1734,7 +1740,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |-----|---------|---------|-------|
 | 貴重 | きちょう | QUÝ TRỌNG | Quý báu |
 | 参考 | さんこう | THAM KHẢO | Tham khảo |
-| 引き続き | ひきつづき | — | Tiếp tục |', 'system', 46, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 引き続き | ひきつづき | — | Tiếp tục |', 'system', 46, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000047, 800000003, NULL, 'markdown_book', 'Rule 47 — Gọi đòi nợ / nhắc thanh toán / 督促の電話', '# Rule 47 — Gọi đòi nợ / nhắc thanh toán / 督促の電話
 > **Luận điểm.** Đòi tiền là tình huống tế nhị. Cấu trúc: **(1) hỏi xác nhận** (giả định có thể đã trả), **(2) thông tin cụ thể** (số hóa đơn, ngày), **(3) đề xuất ngày trả mới**. Không buộc tội.
 >
@@ -1761,7 +1767,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 請求書 | せいきゅうしょ | THỈNH CẦU THƯ | Hóa đơn |
 | 振込み | ふりこみ | — | Chuyển khoản |
 | 行き違い | いきちがい | — | Sự nhầm lẫn |
-| 入金 | にゅうきん | NHẬP KIM | Vào tiền |', 'system', 47, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 入金 | にゅうきん | NHẬP KIM | Vào tiền |', 'system', 47, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000048, 800000003, NULL, 'markdown_book', 'Rule 48 — Gọi để thông báo / công văn miệng / 通知のための電話', '# Rule 48 — Gọi để thông báo / công văn miệng / 通知のための電話
 > **Luận điểm.** Khi cần thông báo chính thức (thay đổi giờ làm, đổi địa chỉ...) → gọi điện *trước* khi gửi mail. Cấu trúc: **(1) báo "có thông báo"**, **(2) nội dung**, **(3) thời điểm hiệu lực**, **(4) cam kết gửi mail xác nhận**.
 >
@@ -1772,7 +1778,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ## Hội thoại
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「お世話になっております。1点ご<ruby>通知<rt>つうち</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げたい<ruby>件<rt>けん</rt></ruby>がございます。」 <br/>*Cảm ơn anh đã hỗ trợ ạ. Em có 1 việc xin được thông báo ạ.* |
+| **ズン** | 「お世話になっております。1点ご<ruby>通知<rt>つうち</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げたい<ruby>件<rt>けん</rt></ruby>がございます。」 <br/>*Chào anh ạ, rất mong được anh giúp đỡ. Em có 1 việc xin được thông báo ạ.* |
 | **ズン** | 「<ruby>来月<rt>らいげつ</rt></ruby>5月1日より、<ruby>弊社<rt>へいしゃ</rt></ruby>の<ruby>新<rt>しん</rt></ruby>オフィスへ<ruby>移転<rt>いてん</rt></ruby>することとなりました。」 <br/>*Từ ngày 1/5 tháng sau, bên em sẽ chuyển sang văn phòng mới ạ.* |
 | **ズン** | 「<ruby>住所<rt>じゅうしょ</rt></ruby>はハノイ<ruby>市<rt>し</rt></ruby>バーディン<ruby>区<rt>く</rt></ruby>フンチエン<ruby>通<rt>どお</rt></ruby>り123<ruby>番<rt>ばん</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>は<ruby>変更<rt>へんこう</rt></ruby>ございません。」 <br/>*Địa chỉ là số 123 phố Hùng Chiến, quận Ba Đình, Hà Nội ạ. Số điện thoại không đổi ạ.* |
 | **ズン** | 「<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に<ruby>正式<rt>せいしき</rt></ruby>なご<ruby>案内<rt>あんない</rt></ruby>メールをお<ruby>送<rt>おく</rt></ruby>りいたします。」 <br/>*Chi tiết em sẽ gửi mail thông báo chính thức trong hôm nay ạ.* |
@@ -1787,7 +1793,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 通知 | つうち | THÔNG TRI | Thông báo |
 | 移転 | いてん | DI CHUYỂN | Chuyển trụ sở |
 | 案内 | あんない | ÁN NỘI | Hướng dẫn, thông báo |
-| 正式 | せいしき | CHÍNH THỨC | Chính thức |', 'system', 48, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 正式 | せいしき | CHÍNH THỨC | Chính thức |', 'system', 48, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000049, 800000003, NULL, 'markdown_book', 'Rule 49 — Hộp thư thoại 30 giây công thức / 留守番電話に残すメッセージ', '# Rule 49 — Hộp thư thoại 30 giây công thức / 留守番電話に残すメッセージ
 > **Luận điểm.** Hộp thư thoại 30 giây có 4 phần: **(1) tên + cty**, **(2) lý do gọi 1 câu**, **(3) số gọi lại + thời gian thuận**, **(4) lời chào kết**.
 >
@@ -1798,7 +1804,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ## Mẫu hộp thư thoại
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「いつもお世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンと<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Cảm ơn anh đã hỗ trợ ạ. Em là Dũng phòng kinh doanh Cty Thiên Phát ạ.* |
+| **ズン** | 「いつもお世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンと<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Chào anh ạ, rất mong được anh giúp đỡ. Em là Dũng phòng kinh doanh Cty Thiên Phát ạ.* |
 | **ズン** | 「明日の<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせ<ruby>資料<rt>しりょう</rt></ruby>の<ruby>件<rt>けん</rt></ruby>でご<ruby>相談<rt>そうだん</rt></ruby>したく、お電話<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げました。」 <br/>*Em gọi điện vì muốn trao đổi về tài liệu họp ngày mai ạ.* |
 | **ズン** | 「お<ruby>手<rt>て</rt></ruby>すきの<ruby>際<rt>さい</rt></ruby>に090-1234-5678までお電話いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです。本日17時まで<ruby>対応<rt>たいおう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>でございます。」 <br/>*Lúc nào rảnh anh gọi lại số 090-1234-5678 giúp em ạ. Hôm nay em có thể nhận máy đến 17h ạ.* |
 | **ズン** | 「<ruby>失礼<rt>しつれい</rt></ruby>いたします。」 <br/>*Em xin phép cúp máy ạ.* |
@@ -1817,9 +1823,9 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 留守番電話 | るすばんでんわ | LƯU THỦ PHIÊN ĐIỆN THOẠI | Hộp thư thoại |
 | お手すき | おてすき | — | Lúc rảnh |
 | 際 | さい | TẾ | Lúc, khi |
-| 幸い | さいわい | HẠNH | Mong được |', 'system', 49, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 幸い | さいわい | HẠNH | Mong được |', 'system', 49, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000050, 800000003, NULL, 'markdown_book', 'Rule 50 — Sau khi nghe hộp thư thoại — gọi lại trong 24h / 留守番電話を聞いた後の対応', '# Rule 50 — Sau khi nghe hộp thư thoại — gọi lại trong 24h / 留守番電話を聞いた後の対応
-> **Luận điểm.** Khi mình nghe được lời nhắn trong hộp thư thoại của khách → gọi lại **trong 24h**. Mở lời bằng "聞きました" + nội dung tóm tắt = thể hiện đã chú ý.
+> **Luận điểm.** Khi mình nghe được lời nhắn trong hộp thư thoại của khách → gọi lại **trong 24h**. Mở lời bằng 「メッセージを確認いたしました」 + tóm tắt nội dung = thể hiện đã chú ý. ⚠️ Đừng nói 「聞きました」 — nghe suồng sã, thiếu kính ngữ với khách.
 >
 > 留守電を聞いた後は24時間以内に折り返し。『メッセージを確認いたしました』で受信を伝える。
 >
@@ -1841,7 +1847,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |------|------|------|-------|
 | 確認 | かくにん | XÁC NHẬN | Xác nhận / kiểm tra |
 | 早速 | さっそく | TẢO TỐC | Nhanh chóng |
-| 折り返し | おりかえし | — | Gọi lại |', 'system', 50, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 折り返し | おりかえし | — | Gọi lại |', 'system', 50, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000051, 800000003, NULL, 'markdown_book', 'Rule 51 — Sau cuộc gọi gửi tóm tắt qua mail / 電話後のフォローアップメール', '# Rule 51 — Sau cuộc gọi gửi tóm tắt qua mail / 電話後のフォローアップメール
 > **Luận điểm.** Sau cuộc gọi quan trọng → gửi mail tóm tắt **trong 1h** với 3 phần: **(1) cảm ơn**, **(2) thống nhất**, **(3) bước tiếp + hạn chót**.
 >
@@ -1889,7 +1895,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |------|------|------|-------|
 | フォローアップ | フォローアップ | — | Theo sát sau cuộc gọi |
 | 認識合わせ | にんしきあわせ | NHẬN THỨC — | Đồng nhất hiểu biết |
-| 合意事項 | ごういじこう | HỢP Ý SỰ HẠNG | Điểm thống nhất |', 'system', 51, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 合意事項 | ごういじこう | HỢP Ý SỰ HẠNG | Điểm thống nhất |', 'system', 51, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000052, 800000003, NULL, 'markdown_book', 'Rule 52 — Họp trực tuyến qua Zoom / Teams / オンライン会議の電話作法', '# Rule 52 — Họp trực tuyến qua Zoom / Teams / オンライン会議の電話作法
 > **Luận điểm.** Họp trực tuyến có giọng nhưng không có hình → vẫn áp dụng nghi thức gọi điện + thêm: **(1) tự giới thiệu rõ ràng** mỗi lần phát biểu, **(2) nói chậm hơn**, **(3) xác nhận "聞こえますか" đầu cuộc.
 >
@@ -1920,7 +1926,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | オンライン会議 | オンライン かいぎ | — HỘI NGHỊ | Họp trực tuyến |
 | 音声 | おんせい | ÂM THANH | Âm thanh |
 | 発言 | はつげん | PHÁT NGÔN | Phát biểu |
-| 質問 | しつもん | CHẤT VẤN | Câu hỏi |', 'system', 52, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 質問 | しつもん | CHẤT VẤN | Câu hỏi |', 'system', 52, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000053, 800000003, NULL, 'markdown_book', 'Rule 53 — Giọng điệu khi chia sẻ màn hình / 画面共有時の声の使い方', '# Rule 53 — Giọng điệu khi chia sẻ màn hình / 画面共有時の声の使い方
 > **Luận điểm.** Khi chia sẻ màn hình, **chỉ trực tiếp** khu vực đang nói (「左上の表」「3行目」). Nói chậm hơn 10%, dừng nhẹ giữa các điểm để người nghe theo kịp.
 >
@@ -1948,7 +1954,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 画面共有 | がめんきょうゆう | HỌA DIỆN CỘNG HỮU | Chia sẻ màn hình |
 | 表 | ひょう | BIỂU | Bảng |
 | 前月比 | ぜんげつひ | TIỀN NGUYỆT TỈ | So với tháng trước |
-| 小休止 | しょうきゅうし | TIỂU HƯU CHỈ | Nghỉ ngắn |', 'system', 53, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 小休止 | しょうきゅうし | TIỂU HƯU CHỈ | Nghỉ ngắn |', 'system', 53, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000054, 800000003, NULL, 'markdown_book', 'Rule 54 — Phép tắc tắt/bật mic / マイクオフ・オンの礼儀', '# Rule 54 — Phép tắc tắt/bật mic / マイクオフ・オンの礼儀
 > **Luận điểm.** Khi không nói = tắt mic. Khi muốn nói = bật mic + chờ 0.5 giây cho âm thanh ổn định trước khi mở lời. Tránh tiếng động lạ làm gián đoạn người khác.
 >
@@ -1980,7 +1986,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | ミュート | ミュート | — | Tắt mic |
 | 雑音 | ざつおん | TẠP ÂM | Tạp âm |
 | 待機 | たいき | ĐÃI CƠ | Chờ |
-| 発言 | はつげん | PHÁT NGÔN | Phát biểu |', 'system', 54, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 発言 | はつげん | PHÁT NGÔN | Phát biểu |', 'system', 54, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000055, 800000003, NULL, 'markdown_book', 'Rule 55 — Họp trực tuyến quốc tế / 国際オンライン会議', '# Rule 55 — Họp trực tuyến quốc tế / 国際オンライン会議
 > **Luận điểm.** Họp trực tuyến quốc tế: **(1) hỏi múi giờ + ngôn ngữ chính** ngay đầu, **(2) nói chậm hơn cả người Nhật bản xứ**, **(3) tránh từ lóng/bóng gió**, **(4) xác nhận hiểu sau mỗi vấn đề lớn.
 >
@@ -2007,7 +2013,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 国際 | こくさい | QUỐC TẾ | Quốc tế |
 | 時差 | じさ | THỜI SAI | Múi giờ |
 | 主言語 | しゅげんご | CHỦ NGÔN NGỮ | Ngôn ngữ chính |
-| 不明な点 | ふめいなてん | BẤT MINH — ĐIỂM | Điểm chưa rõ |', 'system', 55, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 不明な点 | ふめいなてん | BẤT MINH — ĐIỂM | Điểm chưa rõ |', 'system', 55, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000056, 800000003, NULL, 'markdown_book', 'Rule 56 — Xin phép ghi âm / chuyển giọng thành văn bản / 録音・文字起こしの許可', '# Rule 56 — Xin phép ghi âm / chuyển giọng thành văn bản / 録音・文字起こしの許可
 > **Luận điểm.** Trước khi bật ghi âm hay AI chuyển giọng thành văn bản → **xin phép từng người tham gia**. Quy định về quyền riêng tư của Nhật rất nghiêm.
 >
@@ -2036,7 +2042,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 録音 | ろくおん | LỤC ÂM | Ghi âm |
 | 文字起こし | もじおこし | VĂN TỰ — | Chuyển giọng thành văn bản |
 | 議事録 | ぎじろく | NGHỊ SỰ LỤC | Biên bản họp |
-| 了承 | りょうしょう | LIỄU THỪA | Đồng ý |', 'system', 56, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 了承 | りょうしょう | LIỄU THỪA | Đồng ý |', 'system', 56, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000057, 800000003, NULL, 'markdown_book', 'Rule 57 — Giành lượt phát biểu trong họp trực tuyến — chen lời khéo léo / 電話会議で発言を取る', '# Rule 57 — Giành lượt phát biểu trong họp trực tuyến — chen lời khéo léo / 電話会議で発言を取る
 > **Luận điểm.** Khi muốn xen lời trong họp trực tuyến → **đợi câu kết của người trước**, dùng câu chuẩn 「恐れ入ります」 + tự xưng. Tránh cắt lời.
 >
@@ -2066,7 +2072,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 |------|------|------|-------|
 | 発言を取る | はつげんをとる | PHÁT NGÔN — | Lấy lượt phát biểu |
 | 恐れ入ります | おそれいります | — | Phiền anh/chị, xin lỗi |
-| お先に | おさきに | — | Trước (mời người khác đi trước) |', 'system', 57, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| お先に | おさきに | — | Trước (mời người khác đi trước) |', 'system', 57, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000058, 800000003, NULL, 'markdown_book', 'Rule 58 — Họp kết hợp — vừa trực tiếp vừa trực tuyến / ハイブリッド会議', '# Rule 58 — Họp kết hợp — vừa trực tiếp vừa trực tuyến / ハイブリッド会議
 > **Luận điểm.** Họp kết hợp có nguy cơ "người tham gia trực tuyến bị bỏ rơi". Người điều phối phải **gọi tên người tham gia trực tuyến**, nhắc lại phát biểu của phòng cho phía trực tuyến, đảm bảo cả hai bên cùng tham gia.
 >
@@ -2085,7 +2091,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | **ズン** | 「<ruby>会場<rt>かいじょう</rt></ruby><ruby>側<rt>がわ</rt></ruby>で先ほど『コスト<ruby>面<rt>めん</rt></ruby>の<ruby>懸念<rt>けねん</rt></ruby>』が<ruby>出<rt>で</rt></ruby>ておりますが、松本様はどうお<ruby>考<rt>かんが</rt></ruby>えでしょうか？」 <br/>*Bên phòng vừa nãy có nêu ''lo ngại về chi phí'', anh Matsumoto thấy thế nào ạ?* |
 
 ## Cụm từ mẫu
-> **「オンラインからもお<ruby>声<rt>こえ</rt></ruby>をいただけますでしょうか。」**
+> **「オンラインからもご<ruby>意見<rt>いけん</rt></ruby>をお<ruby>伺<rt>うかが</rt></ruby>いできますでしょうか。」**
 
 ## Bảng từ vựng
 | Từ | Cách đọc | Hán Việt | Nghĩa Việt |
@@ -2094,7 +2100,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 参加者 | さんかしゃ | THAM GIA GIẢ | Người tham gia |
 | 取り残す | とりのこす | — | Bỏ rơi |
 | 配慮 | はいりょ | PHỐI LỰ | Quan tâm |
-| 懸念 | けねん | HUYỀN NIỆM | Mối lo |', 'system', 58, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 懸念 | けねん | HUYỀN NIỆM | Mối lo |', 'system', 58, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000059, 800000003, NULL, 'markdown_book', 'Rule 59 — Quản lý lịch sử cuộc gọi & ghi chú / 電話履歴の管理', '# Rule 59 — Quản lý lịch sử cuộc gọi & ghi chú / 電話履歴の管理
 > **Luận điểm.** Mọi cuộc gọi công việc cần lưu lại: **(1) ngày giờ**, **(2) đối phương + cty**, **(3) tóm tắt 5W1H**, **(4) việc cần làm**, **(5) trạng thái theo dõi**. Lưu trên CRM hoặc file Excel cá nhân.
 >
@@ -2124,7 +2130,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 履歴 | りれき | LÝ LỊCH | Lịch sử |
 | 記録 | きろく | KÝ LỤC | Ghi nhận |
 | 進捗 | しんちょく | TIẾN THÚC | Tiến độ |
-| 完了 | かんりょう | HOÀN LIỄU | Hoàn thành |', 'system', 59, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 完了 | かんりょう | HOÀN LIỄU | Hoàn thành |', 'system', 59, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (830000060, 800000003, NULL, 'markdown_book', 'Rule 60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại / 電話力の自己診断', '# Rule 60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại / 電話力の自己診断
 > **Luận điểm.** Cuối sách: tự chấm điểm 10 điểm kỹ năng điện thoại từ rule 1 đến 59. Đánh dấu mục yếu → ôn lại rule tương ứng. **Kỹ năng điện thoại = luyện tập, không phải lý thuyết**.
 >
@@ -2167,6 +2173,6 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 | 自己診断 | じこしんだん | TỰ KỶ CHẨN ĐOÁN | Tự chẩn đoán |
 | 弱点 | じゃくてん | NHƯỢC ĐIỂM | Điểm yếu |
 | 練習 | れんしゅう | LUYỆN TẬP | Luyện tập |
-| 継続 | けいぞく | KẾ TỤC | Liên tục |', 'system', 60, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+| 継続 | けいぞく | KẾ TỤC | Liên tục |', 'system', 60, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, updated_at = NOW();
 
 COMMIT;

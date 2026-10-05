@@ -1,6 +1,6 @@
 # Rule 14 — Cấu trúc liên lạc toàn nhóm / 全員に届く連絡
 
-> **Luận điểm.** Khi gửi thông tin cho cả team (thông báo đại trà), người Việt thường mặc định "ai cũng đọc hết". Sai. Thực tế: 30% chỉ lướt tiêu đề, 50% đọc 3 dòng đầu, 20% đọc kỹ. Cấu trúc: **Tóm tắt ngắn (1-2 dòng) → Chi tiết → Việc cần làm rõ ràng cho từng vai trò**.
+> **Luận điểm.** Khi gửi thông tin cho cả team (thông báo đại trà), người gửi hay mặc định "ai cũng đọc hết". Sai. Thực tế: 30% chỉ lướt tiêu đề, 50% đọc 3 dòng đầu, 20% đọc kỹ. Cấu trúc: **Tóm tắt ngắn (1-2 dòng) → Chi tiết → Việc cần làm rõ ràng cho từng vai trò**.
 >
 > 全員向けの連絡は **概要 → Chi tiết → Việc cần làm theo người phụ trách** で構成。subject line だけ読む人、最初3行だけ読む人を想定する。
 >

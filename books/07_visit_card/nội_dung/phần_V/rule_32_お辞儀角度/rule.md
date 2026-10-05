@@ -1,8 +1,8 @@
 # Rule 32 — Góc độ cúi chào theo cấp bậc / お辞儀の角度
 
-> **Luận điểm.** Cúi chào Nhật KHÔNG phải "cúi nhẹ là được". Có **4 góc cố định**: **15° eshaku (xã giao hành lang) · 30° keirei (vào/ra phòng họp, đồng cấp) · 45° saikeirei (CFO / GĐ / khách lớn lần đầu) · 90° xin lỗi nặng**. Sai góc = hoặc thiếu lễ (15° gặp CFO) hoặc làm khách ngại (90° trong tình huống thường).
+> **Luận điểm.** Cúi chào Nhật KHÔNG phải "cúi nhẹ là được". Chuẩn ngành Nhật phân **3 loại**: **15° eshaku (xã giao hành lang) · 30° keirei (vào/ra phòng họp, đồng cấp) · 45° saikeirei (CFO / GĐ / khách lớn lần đầu)**. Ngoài ba loại đó còn một mức đặc biệt — **cúi 90° khi xin lỗi nặng** — nhưng đây **không phải loại thứ tư** mà là đầu sâu nhất của 最敬礼, chỉ xuất hiện ở 謝罪会見 cấp công ty. Sai góc = hoặc thiếu lễ (15° gặp CFO) hoặc làm khách ngại (90° trong tình huống thường).
 >
-> 角度=温度+敬意+反省深さ signal。場面ごとに4種類使い分け。
+> お辞儀は会釈15°・敬礼30°・最敬礼45°の3種類。90°は謝罪会見レベルの例外で、通常業務では使わない。角度=温度+敬意+反省深さ signal。
 >
 > **Liên quan:** rule 21 (入室), rule 23 (退室), rule 26 (乾杯).
 
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 4 kiểu cúi chào cho Linh. Linh là thực tập sinh lần đầu đi công tác, học để khỏi lúng túng giữa các tình huống đan xen (gặp CFO / vào phòng / chào hành lang / tình huống lỗi).
+Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 3 kiểu cúi chào chuẩn (kèm 1 mức ngoại lệ khi xin lỗi) cho Linh. Linh là thực tập sinh lần đầu đi công tác, học để khỏi lúng túng giữa các tình huống đan xen (gặp CFO / vào phòng / chào hành lang / tình huống lỗi).
 
 ---
 
@@ -27,11 +27,11 @@ Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 4 
 
 ---
 
-## Hội thoại TỐT — dùng 4 góc đúng tình huống
+## Hội thoại TỐT — dùng đúng góc theo tình huống
 
 | Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「リン、お<ruby>辞儀<rt>じぎ</rt></ruby>は4<ruby>種類<rt>しゅるい</rt></ruby>。<ruby>場面<rt>ばめん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>ける。<ruby>実演<rt>じつえん</rt></ruby>するから<ruby>真似<rt>まね</rt></ruby>してね。」 <br/>*Linh, bow có 4 loại. Tùy tình huống mà dùng. Chị làm mẫu, em theo nhé.* |
+| **フオン副部長** | 「リン、お<ruby>辞儀<rt>じぎ</rt></ruby>は<ruby>基本<rt>きほん</rt></ruby>3<ruby>種類<rt>しゅるい</rt></ruby>+<ruby>例外<rt>れいがい</rt></ruby>1つ。<ruby>場面<rt>ばめん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>ける。<ruby>実演<rt>じつえん</rt></ruby>するから<ruby>真似<rt>まね</rt></ruby>してね。」 <br/>*Linh, bow có 3 loại cơ bản, thêm 1 mức ngoại lệ. Tùy tình huống mà dùng. Chị làm mẫu, em theo nhé.* |
 | **フオン副部長** | （15°、<ruby>約<rt>やく</rt></ruby>1<ruby>秒<rt>びょう</rt></ruby>）「これが<ruby>会釈<rt>えしゃく</rt></ruby>。<ruby>廊下<rt>ろうか</rt></ruby>ですれ<ruby>違<rt>ちが</rt></ruby>い・<ruby>朝<rt>あさ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>。」【1】 <br/>*(15°, khoảng 1 giây) Đây là eshaku. Đi qua hành lang, chào sáng.* |
 | **リン** | （15°<ruby>真似<rt>まね</rt></ruby>）「はい、おはようございます。」 <br/>*(bắt chước 15°) Vâng, chào buổi sáng.* |
 | **フオン副部長** | （30°、約2-3秒）「これが<ruby>敬礼<rt>けいれい</rt></ruby>。<ruby>打合<rt>うちあわ</rt></ruby>せ<ruby>入退室<rt>にゅうたいしつ</rt></ruby>・<ruby>初対面<rt>しょたいめん</rt></ruby><ruby>同等<rt>どうとう</rt></ruby><ruby>職位<rt>しょくい</rt></ruby>。」【2】 <br/>*(30°, khoảng 2-3 giây) Đây là keirei. Vào/ra phòng họp, gặp lần đầu cùng cấp.* |
@@ -45,15 +45,15 @@ Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 4 
 - 【1】**15° 会釈 (eshaku)** — đi qua nhau ở hành lang, chào nhẹ trong cty, chào sáng đồng nghiệp. Cúi 1 giây rồi ngẩng. Dùng trong cùng cty.
 - 【2】**30° 敬礼 (keirei)** — vào / ra phòng họp khách, mở / đóng buổi họp, gặp lần đầu cùng cấp. Bow chuẩn business. 2-3 giây.
 - 【3】**45° 最敬礼 (saikeirei)** — lần đầu gặp CFO / GĐ / khách lớn, cảm ơn trong tình huống quan trọng. 3-4 giây, sâu và lặng.
-- 【4】**90° xin lỗi nặng** — sai nặng / vi phạm hợp đồng. Giữ 3+ giây. Mức cúi sâu nhất trước khi xuống dogeza (quỳ). Tình huống bình thường tuyệt đối không cúi vậy = làm khách hoảng.
+- 【4】**90° xin lỗi nặng** — sai nặng / vi phạm hợp đồng. Giữ 3+ giây. Đây KHÔNG phải loại thứ tư trong hệ phân loại — chuẩn ngành chỉ có 3 loại; 90° là đầu sâu nhất của 最敬礼, thấy ở 謝罪会見 cấp công ty. Tình huống bình thường tuyệt đối không cúi vậy = làm khách hoảng.
 
 ---
 
 ## Câu chốt
 
-> **「お辞儀は会釈15°・敬礼30°・最敬礼45°・謝罪90°の4種類。角度=温度+敬意+反省深さの signal。」**
+> **「お辞儀は会釈15°・敬礼30°・最敬礼45°の3種類。謝罪90°は会見レベルの例外。角度=温度+敬意+反省深さの signal。」**
 >
-> *Cúi chào có 4 loại: eshaku 15°, keirei 30°, saikeirei 45°, xin lỗi 90°. Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
+> *Cúi chào có 3 loại: eshaku 15°, keirei 30°, saikeirei 45°. Riêng 90° là mức ngoại lệ, chỉ dùng khi xin lỗi ở cấp họp báo. Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
 
 ---
 

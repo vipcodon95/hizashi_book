@@ -39,7 +39,7 @@ Cast như sách 06 + scenario:
 | 02 | Nhận danh thiếp 2 tay | 名刺の受け取り方 | 2 tay, đọc ngay, đặt trên bàn theo seat |
 | 03 | Trao danh thiếp 2 tay | 名刺の渡し方 | Hướng chữ về phía họ, tự xưng đầy đủ |
 | 04 | Trao đổi 同時 (đồng thời) | 名刺の同時交換 | Right-hand giving, left-hand receiving |
-| 05 | Vai vế quyết định ai trao trước | 立場による順序 | Junior trao trước senior |
+| 05 | Vai vế quyết định ai trao trước | 立場による順序 | Giữa 2 công ty: bên đến thăm trước. Trong đoàn: cấp cao trước |
 | 06 | Bố trí danh thiếp trên bàn | 名刺の机上配置 | Theo seat order, không xếp chồng |
 | 07 | Lưu trữ sau cuộc gặp | 名刺管理 | CRM nhập trong 24h, dán memo bối cảnh |
 
@@ -49,13 +49,13 @@ Cast như sách 06 + scenario:
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 08 | Đón khách tại lobby | お出迎え | Đứng dậy 5p trước, lễ tân thông báo |
+| 08 | Đón khách tại tiền sảnh | お出迎え | Đứng dậy 5p trước, lễ tân thông báo |
 | 09 | Hướng dẫn vào phòng họp | 会議室へのご案内 | Đi trước 1 bước, không quay lưng |
 | 10 | Vị trí ngồi (kamiza/shimoza) | 上座・下座 | Khách ngồi 上座 (xa cửa), chủ 下座 |
 | 11 | Pha trà / mời nước | お茶のお出し方 | Trà nóng cho cấp cao, nhiệt độ + thứ tự |
-| 12 | Mở đầu hội nghị offline | 対面会議の冒頭 | Cross-ref sách 03 rule_09. Nói chậm hơn |
+| 12 | Mở đầu cuộc họp trực tiếp | 対面会議の冒頭 | Cross-ref sách 03 rule_09. Nói chậm hơn |
 | 13 | Kết thúc + tiễn khách | お見送り | Tiễn ra lobby, đứng đến khi thang máy đóng |
-| 14 | After-care (theo dõi) | アフターケア | Email cảm ơn trong 24h |
+| 14 | Chăm sóc sau khi tiếp (theo dõi) | アフターケア | Email cảm ơn trong 24h |
 | 15 | Khách đến sớm / muộn | 早退・遅刻対応 | Linh hoạt receive, không làm khó |
 
 ---
@@ -64,9 +64,9 @@ Cast như sách 06 + scenario:
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 16 | Chuẩn bị trước khi đi onsite | 訪問前の準備 | Confirm 24h trước, dress code, route + buffer time [TEMPLATE: checklist] |
-| 17 | Đến lobby 5-10 phút trước | 5-10分前到着 | Cross-ref sách 03 rule_06 |
-| 18 | Check-in tại lễ tân | 受付対応 | Tự xưng + 担当者 + lý do hẹn |
+| 16 | Chuẩn bị trước khi đi công tác | 訪問前の準備 | Confirm 24h trước, dress code, route + buffer time [TEMPLATE: checklist] |
+| 17 | Đến sảnh 5-10 phút trước | 5-10分前到着 | Cross-ref sách 03 rule_06 |
+| 18 | Đăng ký vào tại lễ tân | 受付対応 | Tự xưng + 担当者 + lý do hẹn |
 | 19 | Cởi áo khoác trước cửa phòng họp | コート脱ぎのタイミング | Văn hóa Nhật: cởi trước khi vào |
 | 20 | Ngồi đợi đúng cách | 待機マナー | Không ngồi 上座, không sờ điện thoại |
 | 21 | Vào phòng họp với chủ nhà | 入室マナー | "失礼いたします" + bow nhẹ |
@@ -80,12 +80,12 @@ Cast như sách 06 + scenario:
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
 | 24 | Mời khách bữa ăn tối trang trọng | 接待ディナーへの招待 | Restaurant traditional, choose menu trước |
-| 25 | Vai trò host vs guest | ホスト・ゲストの作法 | Host order, host pour, host pay |
+| 25 | Vai trò bên tiếp đón và khách | ホスト・ゲストの作法 | Host order, host pour, host pay |
 | 26 | Cụng ly 乾杯 chuẩn | 乾杯のマナー | Hold lower than senior glass |
 | 27 | Cuộc trò chuyện không công việc | 雑談トピック | Safe topics, avoid politics/religion |
 | 28 | Trao omiyage (quà) | お土産の渡し方 | "つまらないものですが" framing [TEMPLATE: checklist] |
 | 29 | Nhận omiyage | お土産の受け取り | "頂戴いたします" + later open |
-| 30 | After-dinner thank-you mail | 食事後のお礼メール | Trong 24h [TEMPLATE: email_followup] |
+| 30 | Thư cảm ơn sau bữa tối | 食事後のお礼メール | Trong 24h [TEMPLATE: email_followup] |
 
 ---
 
@@ -94,9 +94,9 @@ Cast như sách 06 + scenario:
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
 | 31 | Khách Nhật đoàn lớn 5+ người | 5名以上の対応 | Manage seat + drink + flow |
-| 32 | Bow angle theo cấp bậc | お辞儀の角度 | 15° / 30° / 45° / 90° tùy context |
-| 33 | Tránh culture clash VN-JP | 文化衝突の回避 | Pour drink, pay bill, gift back |
-| 34 | Onsite Nhật lần đầu — bộ đồ thiết yếu | 初訪問 Survival | Yen cash, IC card, weather kit, business attire [TEMPLATE: checklist] |
+| 32 | Góc độ cúi chào theo cấp bậc | お辞儀の角度 | 3 loại chuẩn 15° / 30° / 45°; 90° là ngoại lệ khi xin lỗi |
+| 33 | Tránh xung đột văn hóa VN-JP | 文化衝突の回避 | Pour drink, pay bill, gift back |
+| 34 | Chuyến công tác Nhật lần đầu — bộ đồ thiết yếu | 初訪問 Survival | Yen cash, IC card, weather kit, business attire [TEMPLATE: checklist] |
 | 35 | Tự đánh giá ceremony etiquette | 振り返り | After each event: notes + improve [TEMPLATE: checklist] |
 
 ---

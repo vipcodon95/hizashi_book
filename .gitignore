@@ -47,3 +47,12 @@ books/*/_pipeline/.lock
 logs/
 books/reading_collection/_review
 books/reading_collection/md/
+
+# Sản phẩm build của _shared/output — KHÔNG track file mới.
+# Dựng lại được từ nguồn, nặng (epub vài trăm KB, seed SQL vài chục MB).
+# Lưu ý: 35 file cũ đã lỡ track từ trước vẫn được giữ nguyên — .gitignore
+# không tác động tới file đã track. Muốn gỡ hẳn thì dùng `git rm --cached`.
+_shared/output/*.epub
+_shared/output/*.sql
+_shared/output/*.pdf
+_shared/output/*.zip

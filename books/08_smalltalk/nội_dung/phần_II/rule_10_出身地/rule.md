@@ -156,7 +156,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 | 単身赴任 | たんしんふにん | ĐƠN THÂN PHÓ NHẬM | Đi công tác xa nhà một mình (vợ con ở quê) |
 | 名物 | めいぶつ | DANH VẬT | Đặc sản nổi tiếng vùng |
 | 地元 | じもと | ĐỊA NGUYÊN | Quê / địa phương |
-| ご当地 | ごとうち | ĐƯƠNG ĐỊA | "Của vùng đó" (お当地グルメ / お当地アイドル) |
+| ご当地 | ごとうち | ĐƯƠNG ĐỊA | "Của vùng đó" (ご当地グルメ / ご当地アイドル) |
 | 県人会 | けんじんかい | HUYỆN NHÂN HỘI | Hội đồng hương cấp tỉnh |
 | 方言 | ほうげん | PHƯƠNG NGÔN | Phương ngữ |
 | 訛り | なまり | NGOA | Giọng địa phương |

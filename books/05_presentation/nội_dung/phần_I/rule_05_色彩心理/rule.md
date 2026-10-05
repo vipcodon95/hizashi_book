@@ -1,4 +1,4 @@
-# Rule 05 — Tâm lý màu sắc trong Tiếng Nhật công việc / 色彩心理
+# Rule 05 — Tâm lý màu sắc trong kinh doanh Nhật / 色彩心理
 
 > **Luận điểm.** Bộ slide kinh doanh Nhật = **bảng màu bảo thủ**: navy / charcoal / xanh dịu làm màu chính, nền xám nhạt, một màu nhấn **chỉ cho nút kêu gọi hành động**. Đỏ giành riêng cho cảnh báo / hành động khẩn — KHÔNG dùng làm trang trí. Quá nhiều màu → "nhà cung cấp ồn ào", mất uy.
 >

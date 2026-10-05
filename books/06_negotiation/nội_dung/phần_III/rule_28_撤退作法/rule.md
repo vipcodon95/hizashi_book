@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15.5M). Hà CTO đã vào cuộc (rule 26) nhưng khách vẫn không đồng ý. Dũng phải rút lui phong nhã.
+Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15M). Hà CTO đã vào cuộc (rule 26) nhưng khách vẫn không đồng ý. Dũng phải rút lui phong nhã.
 
 ---
 

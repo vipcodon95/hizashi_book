@@ -81,7 +81,7 @@ Em Linh làm từ xa thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "
 
 - Làm từ xa mà không khai báo họp đứng buổi sáng → sếp/khách phải hỏi quanh.
 - Trạng thái Slack không cập nhật khi đi ăn / đi họp → thời gian phản hồi bị đánh giá thấp.
-- Tắt camera "không có lý do" → người Nhật coi là không nghiêm túc.
+- Tắt camera "không có lý do" → dễ bị hiểu là không nghiêm túc. Nếu cần tắt (mạng yếu, đang di chuyển) thì nói trước một câu.
 - Bỏ nhật ký cuối ngày nhiều ngày → mất vòng phản hồi.
 
 ---

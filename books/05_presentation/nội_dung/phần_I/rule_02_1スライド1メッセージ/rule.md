@@ -58,7 +58,7 @@ Sau khi điền xong 7問, Dũng quay lại với bản thảo 15 slide. Mỗi s
 - Tiêu đề 「〇〇について」「〇〇の件」 — đó là chủ đề, không phải thông điệp
 - 1 slide chứa 5-7 gạch đầu dòng — não chỉ giữ được 3 ± 1
 - Tiêu đề dài quá 25 chữ — đọc không kịp trong 3 giây
-- Phần thân có chữ nhỏ < 24pt để nhồi nội dung — vi phạm rule 06
+- Phần thân có chữ nhỏ < 20pt để nhồi nội dung — vi phạm rule 04 và rule 06
 
 ---
 

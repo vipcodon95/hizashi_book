@@ -102,7 +102,8 @@ JP modern (2020s+) — **không ép uống** đã thành phổ biến. Người 
 - **Nói rõ đồ uống thay thế**: 'ウーロン茶でお願いします' / 'ソフトドリンクで'.
 - **Không cần xin lỗi** — chỉ cần nói rõ muốn uống gì khác.
 - Người có kinh nghiệm tốt (như Yamamoto) **chủ động phát hiện** + đỡ cho người mới — nhận ra khi người mới đang do dự.
-- **Tránh** câu '私はお酒飲めません' tuyệt đối — nghe quá cứng nhắc. Câu 'ビール苦手で…' nhẹ hơn.
+- Nếu chỉ **hôm nay không muốn uống**: câu 'ビール苦手で…' nhẹ hơn '私はお酒飲めません' (nghe như tuyên bố vĩnh viễn).
+- ⚠️ Nhưng nếu **cơ địa không uống được**, hãy nói thẳng: 'お酒は飲めない体質でして' hoặc '体質的に飲めないんです'. Khoảng 40% người Nhật thiếu men ALDH2 nên họ hiểu ngay và sẽ không mời nữa. **Đừng bao giờ ép bản thân uống chỉ để giữ không khí** — đó là điều sách 08 rule 12 nhấn mạnh.
 
 
 ---
@@ -181,13 +182,13 @@ Người mới đói + lo lắng → ăn nhanh là phản xạ tự nhiên. Các
 
 ## Tình huống 6 — Thứ 6, 20:00 · Bàn tatami
 
-*Lượt 2 đồ uống, không khí cởi mở hơn. Sato (Fukuoka, 60t) gọi shochu, mời Dũng 1 ly nhỏ. Sách 08 dạy không từ chối người lớn tuổi hơn mời.*
+*Lượt 2 đồ uống, không khí cởi mở hơn. Sato (Fukuoka, 60t) gọi shochu, mời Dũng 1 ly nhỏ. Dũng uống được và cũng tò mò muốn thử.*
 
 | Vai | Câu |
 |---------|-----|
 | **佐藤さん** | 「(<ruby>博多弁<rt>はかたべん</rt></ruby>)ズンくん、こっち来て、<ruby>焼酎<rt>しょうちゅう</rt></ruby><ruby>一杯<rt>いっぱい</rt></ruby>どうね?」<br/>*(tiếng Hakata) Dũng nè, qua đây, làm 1 ly shochu không?* |
 
-*[Dũng nhớ quy tắc sách 08: người 60t mời 1 ly = không từ chối, dù không quen shochu. Đứng dậy đi lại chỗ Sato.]*
+*[Được đàn anh mời riêng là tín hiệu muốn nói chuyện — Dũng đứng dậy đi lại chỗ Sato. (Nếu không uống được thì vẫn nên sang, cầm ly trà hay nước ngọt mà ngồi cùng: thứ đàn anh muốn là **có người ngồi cạnh**, không phải ly rượu. Xem sách 08 rule 12 — không bao giờ ép bản thân uống.)]*
 
 | Vai | Câu |
 |---------|-----|
