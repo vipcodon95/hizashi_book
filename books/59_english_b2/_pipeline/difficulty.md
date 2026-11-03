@@ -8,3 +8,4 @@
 | u0708 | 370 / 358 | 18.1 / 21.9 | kế hoạch kinh doanh của Chloe (tương lai hoàn thành) + bài giải thích lạm phát qua giá cà phê (so sánh số liệu, xu hướng; không bàn chính sách); 6 câu suy luận/áp dụng (1 nối 2 bài) |
 | u0910 | 318 / 320 | 17.3 / 19.5 | ⚠️ ngắn hơn mục tiêu 360 — ghi chép thử thách không mua đồ mới (đảo ngữ phủ định, tỉ lệ) + bài sức khoẻ về cô đơn (insist that, lead to/result in); 7 câu suy luận/mục đích (1 nối 2 bài) |
 | u1112 | [357, 328] từ, TB [26.6, 23.2] | bài kiến thức các pha thử nghiệm thuốc (bị động tiếp diễn, nhượng bộ – phản bác, the former) + bài 30 buổi sáng chậm của Mitchell (be about to, giọng mỉa vui); 7 câu suy luận/chức năng (1 nối 2 bài) |
+| u1314 | [358, 338] từ, TB [18.4, 20.7] | thông báo The Neighbors' Table (bị động tương lai, if so / if not, khoanh vùng phong tục) + bài du lịch quá tải (having + V3; Venice, Kyoto, vịnh Maya); 6 câu suy luận/giọng điệu (1 nối 2 bài) |
