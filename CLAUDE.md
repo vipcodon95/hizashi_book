@@ -282,6 +282,7 @@ Không gom nhiều chương vào 1 commit. Không đợi xong cả sách mới c
 
 Đọc trước: `_shared/english_cefr/KE_HOACH_SERIES.md`. Tóm tắt:
 - **1 cấp = 1 cuốn, 1 chương = 1 unit** của khoá tiếng Anh. Vốn từ lấy từ `_shared/en_curriculum/` (phiếu A1–C1).
+- **Đa ngôn ngữ:** mọi đoạn chữ là `i18n {en, vi}` (sau này thêm `ja`, `th`…). Nhãn mục nằm trong `LABELS` của script build, không viết trong nội dung.
 - **`*_BaiTap.json` là nguồn sự thật**, gồm bài đọc chia `segments` (từng câu: `en` / `vi` / `speaker`, dùng cho shadowing) và câu hỏi có `evidence_segments`. File `_DocHieu.md` **sinh tự động**: `python3 _shared/scripts/build_en_reading.py <file>`. Không sửa tay md.
 - Soát vốn từ: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối unit> --allow "<tên riêng>" <file>`.
 - **Dàn nhân vật cố định:** `_shared/en_curriculum/characters.md`, gồm nhà Carter và nhà Brooks ở Maple Street, San Diego. Phải đúng tuổi, nghề, tính cách theo cấp. Không dùng tên Việt.

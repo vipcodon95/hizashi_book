@@ -45,8 +45,9 @@ Folder chương: `u<NN>_<slug>/` chứa đúng 2 file: `u<NN>_<Name>_BaiTap.json
 2. **Viết JSON nguồn.** Cách nhanh: viết một script Python sinh JSON trong scratchpad, theo mẫu chương đã duyệt.
    - `meta`: `curriculum_unit`, `curriculum_sheets`, `characters`, `story_time`.
    - `lesson`: `practice_for`, `objective`, `vocab` (từ của unit, nghĩa lấy tự động từ khoá), `extra_words` (từ ngoài phạm vi, có nghĩa), `phrases_note`, `tips`.
-   - `reading_passages[].segments`: mỗi phần tử `{n, para, kind, speaker, label, en, vi}`. 1 segment = 1 câu; lượt thoại rất ngắn được để chung. `speaker` tách khỏi `en`.
-   - `questions[]`: 4 lựa chọn, đúng 1 đáp án; `evidence_segments`; `explanation` có trích câu tiếng Anh trong ngoặc kép; đáp án rải đều A–D.
+   - **Mọi đoạn chữ là bản đồ ngôn ngữ `i18n {en, vi}`** (sau này thêm `ja`, `th`). Bảng trường ở mục 5 của kế hoạch. Nhãn mục không viết trong nội dung, vì script lấy từ `LABELS`.
+   - `reading_passages[].segments`: mỗi phần tử `{n, para, kind, speaker, label, i18n}`. 1 segment = 1 câu; lượt thoại rất ngắn được để chung. `speaker` tách khỏi câu.
+   - `questions[]`: `i18n`, 4 `choices[].i18n`, đúng 1 đáp án; `evidence_segments`; `explanation_i18n` có trích câu tiếng Anh trong ngoặc kép; đáp án rải đều A–D.
 3. **Chạy 3 lệnh, lặp tới khi sạch:**
    ```bash
    python3 _shared/scripts/build_en_reading.py <json>          # sinh md + kiểm cấu trúc
@@ -81,7 +82,7 @@ Người học là "you" (hàng xóm mới ở Maple Street). Văn bản có th�
 ```
 Bạn là biên tập viên tiếng Anh (native-level) kiêm giáo viên luyện thi VSTEP, rà sách <NN> "<tên>" cấp <cấp>.
 CHỈ BÁO CÁO, KHÔNG SỬA. Ghi báo cáo ra books/<book>/_pipeline/05_review.md.
-Đối tượng: các file u*/*_BaiTap.json (segments[].en/vi, questions). File md là bản sinh, không cần đọc.
+Đối tượng: các file u*/*_BaiTap.json (segments[].i18n, questions[].i18n, choices[].i18n, explanation_i18n). File md là bản sinh, không cần đọc.
 Trục rà:
  (1) tiếng Anh tự nhiên, đúng ngữ pháp, đúng giọng Mỹ;
  (2) đáp án đúng duy nhất, phương án nhiễu hợp lý, giải thích khớp đáp án;

@@ -2,29 +2,33 @@
 """Build 1 chương sách đọc hiểu tiếng Anh từ file NGUỒN `*_BaiTap.json`.
 
 Usage:
-    python3 _shared/scripts/build_en_reading.py books/56_english_a1/u03_family_friends/u03_FamilyFriends_BaiTap.json
+    python3 _shared/scripts/build_en_reading.py <chương>_BaiTap.json
 
-NGUỒN SỰ THẬT = file JSON. Người viết chỉ sửa:
-  - reading_passages[].segments   ← từng câu: {n, para, kind, speaker, label, en, vi}
-  - questions[]                    ← question_jp/question_vn, choices, explanation, evidence_segments
-  - lesson                         ← mục tiêu, từ trọng tâm (vocab), từ ngoài bài học (extra_words: [{word, vi}]), mẹo
-  - meta.characters / meta.story_time ← nhân vật chính + thời điểm trong truyện (khớp characters.md)
+NGUỒN SỰ THẬT = file JSON. Mọi đoạn chữ là một BẢN ĐỒ NGÔN NGỮ `{"en": …, "vi": …, "ja": …}`:
 
-Script tự sinh lại (đừng sửa tay):
-  - reading_passages[].content_ja / translation_vn / word_count   (giữ tương thích schema cũ)
-  - file `*_DocHieu.md` cùng thư mục
-và kiểm tra:
-  - n liên tục 1..N, mỗi segment có en + vi
-  - evidence_segments trỏ tới segment có thật, và đoạn tiếng Anh trích trong explanation
-    ("...") phải nằm trong các segment đó
-  - đúng 1 đáp án đúng / câu, 4 lựa chọn
-Thoát mã 1 nếu có lỗi.
+  meta.languages                 ["vi"]  ← ngôn ngữ người học sách hỗ trợ (thêm "ja", "th"… sau)
+  meta.title_i18n                {en, vi}
+  meta.story_time_i18n           {vi}
+  meta.characters                ["Harriet Brooks", …]  (tên riêng, không dịch)
+  lesson.practice_for_i18n / objective_i18n             {vi}
+  lesson.vocab                   ["word", …]  ← nghĩa lấy từ khoá (_shared/en_curriculum, trường <lang>)
+  lesson.extra_words             [{word, i18n: {vi}}]   ← từ ngoài phạm vi, chú nghĩa
+  lesson.phrases                 [{i18n: {en, vi}}]
+  lesson.tips                    [{i18n: {vi}}]
+  reading_passages[].heading_i18n  {vi}
+  reading_passages[].segments[]  {n, para, kind, speaker, label, i18n: {en, vi}}
+  questions[].i18n               {en, vi}          (câu hỏi)
+  questions[].choices[].i18n     {en, vi}
+  questions[].explanation_i18n   {vi}   questions[].tip_i18n {vi}
+  questions[].evidence_segments  [n, …]
 
-Segment:
-  kind    : "title" | "sentence" | "signature"   (title/signature không cần đọc khi shadowing)
-  speaker : tên người nói (hội thoại / tin nhắn) — tách riêng khỏi `en` để TTS không đọc tên
-  label   : nhãn đầu đoạn, vd "1." (chỉ hiển thị, TTS bỏ qua)
-  para    : số đoạn — các segment cùng para + cùng speaker ghép thành 1 đoạn hiển thị
+Script SINH (đừng sửa tay):
+  - khoá cũ để tương thích schema/app hiện tại (lấy từ "vi"): content_ja, translation_vn, word_count,
+    question_jp, question_vn, choices[].text / text_translation, explanation, tip, meta.title / title_vn …
+  - file md cho từng ngôn ngữ: `_DocHieu.md` (vi), `_DocHieu.<lang>.md` (ngôn ngữ khác).
+    Nhãn mục (Dịch từng câu, Câu hỏi…) lấy từ bảng LABELS bên dưới — thống nhất cho mọi chương.
+Kiểm tra: đủ bản dịch cho mọi ngôn ngữ trong meta.languages; n liên tục; evidence_segments hợp lệ;
+đoạn trích "…" trong giải thích nằm trong câu được trỏ; 4 lựa chọn, đúng 1 đáp án đúng.
 """
 from __future__ import annotations
 import json, re, sys
@@ -32,26 +36,44 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 CURR = ROOT / "_shared" / "en_curriculum"
-POS_VI = {"noun": "danh từ", "verb": "động từ", "adj": "tính từ", "adv": "trạng từ",
-          "interj": "thán từ", "phrase": "cụm từ", "prep": "giới từ", "conj": "liên từ",
-          "pron": "đại từ", "det": "từ hạn định", "num": "số từ"}
+LEGACY = "vi"  # ngôn ngữ dùng để sinh khoá cũ (question_vn, translation_vn…)
+
+LABELS = {
+    "vi": {
+        "practice_for": "Luyện cho", "characters": "Nhân vật", "objective": "Mục tiêu",
+        "vocab": "Từ vựng trước khi đọc", "vocab_cols": "| Từ | Loại từ | Nghĩa | Phiếu |",
+        "extra": "**Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):",
+        "extra_cols": "| Từ | Nghĩa |", "phrases": "Cụm hay gặp trong bài:",
+        "translation": "Dịch từng câu", "translation_cols": "| # | Tiếng Anh | Tiếng Việt |",
+        "questions": "Câu hỏi", "tips": "💡 Mẹo làm bài", "answers": "Đáp án & giải thích",
+        "answers_cols": "| Câu | Đáp án | Giải thích |", "sentence": "Câu",
+        "pos": {"noun": "danh từ", "verb": "động từ", "adj": "tính từ", "adv": "trạng từ", "interj": "thán từ",
+                "phrase": "cụm từ", "prep": "giới từ", "conj": "liên từ", "pron": "đại từ", "det": "từ hạn định",
+                "num": "số từ"},
+    },
+    # "ja": {...}, "th": {...}  ← thêm khi làm bản dịch mới; giữ nguyên các khoá như bản "vi"
+}
 errors: list[str] = []
 
 def err(m: str) -> None:
     errors.append(m)
 
-def curriculum_words(sheets: list[str]) -> dict[str, tuple[str, str, str]]:
-    out: dict[str, tuple[str, str, str]] = {}
-    for lvl in {s.split(".")[0] for s in sheets}:
+def need(node: dict | None, langs: list[str], where: str, with_en: bool = False) -> None:
+    for lg in (["en"] if with_en else []) + langs:
+        if not (node or {}).get(lg, "").strip():
+            err(f"{where}: thiếu bản '{lg}'")
+
+def curriculum_words(sheets: list[str]) -> dict[str, dict]:
+    out: dict[str, dict] = {}
+    for lvl in sorted({s.split(".")[0] for s in sheets}):
         for u in json.load(open(CURR / f"{lvl}.json", encoding="utf-8"))["units"]:
             for s in u["sheets"]:
                 if s["id"] in sheets:
                     for w in s["words"]:
-                        out[w["word"]] = (w["vi"], w["pos"], s["id"])
+                        out[w["word"]] = {**w, "sheet": s["id"]}
     return out
 
-def paragraphs(segs: list[dict]) -> list[tuple[str | None, str | None, str, list[dict]]]:
-    """Gom segment → đoạn: (speaker, label, kind, [segments])."""
+def paragraphs(segs: list[dict]):
     out: list = []
     for s in segs:
         key = (s.get("para"), s.get("speaker"))
@@ -61,145 +83,172 @@ def paragraphs(segs: list[dict]) -> list[tuple[str | None, str | None, str, list
             out.append((key, [s]))
     return [(k[1], g[0].get("label"), g[0].get("kind", "sentence"), g) for k, g in out]
 
-def para_text(speaker, label, segs, field="en") -> str:
-    body = " ".join(s[field] for s in segs)
-    if label:
-        body = f"{label} {body}"
-    return f"{speaker}: {body}" if speaker else body
-
-def check_passage(p: dict) -> dict[int, dict]:
-    segs = p.get("segments") or []
-    if not segs:
-        err(f"{p['id']}: thiếu segments")
-    for i, s in enumerate(segs, 1):
-        if s.get("n") != i:
-            err(f"{p['id']}: segment thứ {i} có n={s.get('n')} (phải liên tục 1..N)")
-        for k in ("en", "vi"):
-            if not (s.get(k) or "").strip():
-                err(f"{p['id']} câu {s.get('n')}: thiếu '{k}'")
-        if s.get("kind", "sentence") not in ("title", "sentence", "signature"):
-            err(f"{p['id']} câu {s.get('n')}: kind='{s.get('kind')}' không hợp lệ")
-    # sinh trường tương thích schema cũ
-    paras = paragraphs(segs)
-    p["content_ja"] = "\n\n".join(para_text(sp, lb, g) for sp, lb, _, g in paras)
-    p["translation_vn"] = "\n".join(
-        f"({s['n']}) " + (f"{s['speaker']}: " if s.get("speaker") else "") + s["vi"] for s in segs)
-    p["word_count"] = len(re.findall(r"[A-Za-z']+", " ".join(s["en"] for s in segs)))
-    return {s["n"]: s for s in segs}
-
-def ev_label(ev: list[int]) -> str:
+def ev_label(ev: list[int], word: str) -> str:
     if not ev:
         return ""
     if len(ev) > 1 and ev == list(range(ev[0], ev[-1] + 1)):
-        return f"Câu {ev[0]}–{ev[-1]}"
-    return "Câu " + ", ".join(map(str, ev))
+        return f"{word} {ev[0]}–{ev[-1]}"
+    return f"{word} " + ", ".join(map(str, ev))
 
-def main(path: Path) -> int:
-    d = json.load(open(path, encoding="utf-8"))
-    meta, lesson = d["meta"], d.get("lesson") or {}
-    seg_maps = {p["id"]: check_passage(p) for p in d.get("reading_passages") or []}
-    d["meta"]["total_questions"] = len(d["questions"])
-    d["meta"]["total_passages"] = len(d.get("reading_passages") or [])
+def validate_and_legacy(d: dict) -> list[str]:
+    meta, lesson = d["meta"], d.setdefault("lesson", {})
+    langs = meta.get("languages") or ["vi"]
+    for lg in langs:
+        if lg not in LABELS:
+            err(f"meta.languages có '{lg}' nhưng LABELS chưa có bảng nhãn cho ngôn ngữ này")
+    need(meta.get("title_i18n"), langs, "meta.title_i18n", with_en=True)
+    for k in ("practice_for_i18n", "objective_i18n"):
+        need(lesson.get(k), langs, f"lesson.{k}")
+    for e in lesson.get("extra_words") or []:
+        need(e.get("i18n"), langs, f"lesson.extra_words '{e.get('word')}'")
+    for i, p in enumerate(lesson.get("phrases") or []):
+        need(p.get("i18n"), langs, f"lesson.phrases[{i}]", with_en=True)
+    for i, t in enumerate(lesson.get("tips") or []):
+        need(t.get("i18n"), langs, f"lesson.tips[{i}]")
+
+    meta["title"] = meta["title_i18n"]["en"]
+    meta["title_vn"] = meta["title_i18n"].get(LEGACY, "")
+    seg_maps = {}
+    for p in d.get("reading_passages") or []:
+        need(p.get("heading_i18n"), langs, f"{p['id']}.heading_i18n")
+        segs = p.get("segments") or []
+        if not segs:
+            err(f"{p['id']}: thiếu segments")
+        for i, s in enumerate(segs, 1):
+            if s.get("n") != i:
+                err(f"{p['id']}: segment thứ {i} có n={s.get('n')} (phải liên tục 1..N)")
+            need(s.get("i18n"), langs, f"{p['id']} câu {s.get('n')}", with_en=True)
+            if s.get("kind", "sentence") not in ("title", "sentence", "signature"):
+                err(f"{p['id']} câu {s.get('n')}: kind='{s.get('kind')}' không hợp lệ")
+
+        def ptxt(sp, lb, g, lg):
+            body = " ".join(s["i18n"].get(lg, "") for s in g)
+            body = f"{lb} {body}" if lb else body
+            return f"{sp}: {body}" if sp else body
+        p["content_ja"] = "\n\n".join(ptxt(sp, lb, g, "en") for sp, lb, _, g in paragraphs(segs))
+        p["translation_vn"] = "\n".join(
+            f"({s['n']}) " + (f"{s['speaker']}: " if s.get("speaker") else "") + s["i18n"].get(LEGACY, "") for s in segs)
+        p["word_count"] = len(re.findall(r"[A-Za-zÀ-ÿ']+", " ".join(s["i18n"].get("en", "") for s in segs)))
+        seg_maps[p["id"]] = {s["n"]: s for s in segs}
 
     for q in d["questions"]:
+        need(q.get("i18n"), langs, f"{q['id']}.i18n", with_en=True)
+        need(q.get("explanation_i18n"), langs, f"{q['id']}.explanation_i18n")
+        if q.get("tip_i18n"):
+            need(q["tip_i18n"], langs, f"{q['id']}.tip_i18n")
         ch = q["choices"]
-        if len(ch) != 4 or sum(c["is_correct"] for c in ch) != 1:
+        if len(ch) != 4 or sum(bool(c.get("is_correct")) for c in ch) != 1:
             err(f"{q['id']}: phải 4 lựa chọn, đúng 1 đáp án đúng")
+        for c in ch:
+            need(c.get("i18n"), langs, f"{q['id']} lựa chọn {c.get('id')}", with_en=True)
+            c["text"] = c["i18n"].get("en", "")
+            c["text_translation"] = c["i18n"].get(LEGACY, "")
+        q["question_jp"] = q["i18n"].get("en", "")
+        q["question_vn"] = q["i18n"].get(LEGACY, "")
+        q["explanation"] = q["explanation_i18n"].get(LEGACY, "")
+        if q.get("tip_i18n"):
+            q["tip"] = q["tip_i18n"].get(LEGACY, "")
         segs = seg_maps.get(q.get("passage_ref"), {})
         ev = q.get("evidence_segments") or []
         for n in ev:
             if n not in segs:
                 err(f"{q['id']}: evidence_segments có câu {n} không tồn tại trong {q.get('passage_ref')}")
-        quoted = re.findall(r'"([^"]+)"', q.get("explanation", ""))
-        if ev and quoted:
-            src = " ".join(segs[n]["en"] for n in ev if n in segs)
-            q1 = quoted[0].rstrip(".…!?, ")
-            if q1 not in src:
-                err(f"{q['id']}: trích \"{q1}\" không nằm trong câu {ev}")
+        src = " ".join(segs[n]["i18n"].get("en", "") for n in ev if n in segs)
+        for lg in langs:
+            quoted = re.findall(r'"([^"]+)"', (q.get("explanation_i18n") or {}).get(lg, ""))
+            if ev and quoted:
+                q1 = quoted[0].rstrip(".…!?, ")
+                if q1 not in src:
+                    err(f"{q['id']} ({lg}): trích \"{q1}\" không nằm trong câu {ev}")
+    meta["total_questions"] = len(d["questions"])
+    meta["total_passages"] = len(d.get("reading_passages") or [])
+    for qs in d.get("question_sets") or []:
+        p = next((p for p in d["reading_passages"] if p["id"] == qs.get("reading_passage_ref")), None)
+        if p:
+            qs["name"] = p["heading_i18n"].get(LEGACY, qs.get("name", ""))
+    return langs
 
-    # ---------- render md ----------
-    L: list[str] = []
-    sheets = meta.get("curriculum_sheets") or []
-    L += [f"# {meta['title']} ({meta['title_vn']})", ""]
-    if lesson.get("practice_for"):
-        L += [f"> **Luyện cho:** {lesson['practice_for']}", ">"]
+def render_md(d: dict, lg: str) -> str:
+    meta, lesson, T = d["meta"], d["lesson"], LABELS[lg]
+    tr = lambda node: (node or {}).get(lg, "")
+    L = [f"# {meta['title_i18n']['en']} ({tr(meta['title_i18n'])})", ""]
+    L += [f"> **{T['practice_for']}:** {tr(lesson.get('practice_for_i18n'))}", ">"]
     if meta.get("characters"):
-        L += [f"> **Nhân vật:** {', '.join(meta['characters'])}" + (f" · {meta['story_time']}" if meta.get("story_time") else ""), ">"]
-    L += [f"> **Mục tiêu:** {lesson.get('objective', '')}", "", "---", ""]
+        st = tr(meta.get("story_time_i18n"))
+        L += [f"> **{T['characters']}:** {', '.join(meta['characters'])}" + (f" · {st}" if st else ""), ">"]
+    L += [f"> **{T['objective']}:** {tr(lesson.get('objective_i18n'))}", "", "---", ""]
+
     vocab = lesson.get("vocab") or []
     if vocab:
-        cw = curriculum_words(sheets)
-        L += ["## Từ vựng trước khi đọc", "", "| Từ | Loại từ | Nghĩa | Phiếu |", "|---|---|---|---|"]
+        cw = curriculum_words(meta.get("curriculum_sheets") or [])
+        L += [f"## {T['vocab']}", "", T["vocab_cols"], "|---|---|---|---|"]
         for w in vocab:
             if w not in cw:
-                err(f"lesson.vocab: '{w}' không có trong các phiếu {sheets}")
+                err(f"lesson.vocab: '{w}' không có trong các phiếu {meta.get('curriculum_sheets')}")
                 continue
-            vi, pos, sid = cw[w]
-            L.append(f"| {w} | {POS_VI.get(pos, pos)} | {vi} | `{sid}` |")
+            if not cw[w].get(lg):
+                err(f"lesson.vocab: '{w}' chưa có nghĩa '{lg}' trong khoá học")
+            L.append(f"| {w} | {T['pos'].get(cw[w]['pos'], cw[w]['pos'])} | {cw[w].get(lg, '')} | `{cw[w]['sheet']}` |")
         L.append("")
-        extra = lesson.get("extra_words") or []
-        if extra:
-            L += ["**Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):", "",
-                  "| Từ | Nghĩa |", "|---|---|"]
-            for e in extra:
-                if not (e.get("word") and e.get("vi")):
-                    err(f"lesson.extra_words: thiếu word/vi ở {e}")
-                L.append(f"| {e.get('word')} | {e.get('vi')} |")
+        if lesson.get("extra_words"):
+            L += [T["extra"], "", T["extra_cols"], "|---|---|"]
+            L += [f"| {e['word']} | {tr(e['i18n'])} |" for e in lesson["extra_words"]]
             L.append("")
-        if lesson.get("phrases_note"):
-            L += [f"> 📌 {lesson['phrases_note']}", ""]
+        if lesson.get("phrases"):
+            ph = ", ".join(f"*{p['i18n']['en']}* ({tr(p['i18n'])})" for p in lesson["phrases"])
+            L += [f"> 📌 {T['phrases']} {ph}.", ""]
         L += ["---", ""]
 
-    qnum = 0
-    for p in d.get("reading_passages") or []:
-        L += [f"## {p['heading_vn']}", ""]
+    qnum, nums = 0, {}
+    for p in d["reading_passages"]:
+        L += [f"## {tr(p['heading_i18n'])}", ""]
         for sp, lb, kind, g in paragraphs(p["segments"]):
-            body = " ".join(s["en"] for s in g)
-            if kind == "title":
-                txt = f"**{body}**"
-            elif sp:
-                txt = f"**{sp}:** {body}"
-            else:
-                txt = f"{lb} {body}" if lb else body
+            body = " ".join(s["i18n"]["en"] for s in g)
+            txt = f"**{body}**" if kind == "title" else (f"**{sp}:** {body}" if sp else (f"{lb} {body}" if lb else body))
             L += [f"> {txt}", ">"]
         L[-1] = ""
-        L += ["### Dịch từng câu", "", "| # | Tiếng Anh | Tiếng Việt |", "|---|---|---|"]
+        L += [f"### {T['translation']}", "", T["translation_cols"], "|---|---|---|"]
         for s in p["segments"]:
             who = f"**{s['speaker']}:** " if s.get("speaker") else ""
-            L.append(f"| {s['n']} | {who}{s['en']} | {s['vi']} |")
-        L += ["", "### Câu hỏi", ""]
+            L.append(f"| {s['n']} | {who}{s['i18n']['en']} | {tr(s['i18n'])} |")
+        L += ["", f"### {T['questions']}", ""]
         for q in [q for q in d["questions"] if q["passage_ref"] == p["id"]]:
             qnum += 1
-            q["_num"] = qnum
-            L += [f"**{qnum}. {q['question_jp']}**", f"*({q['question_vn']})*", ""]
-            L += [f"- {c['id']}. {c['text']} *({c['text_translation']})*" for c in q["choices"]]
+            nums[q["id"]] = qnum
+            L += [f"**{qnum}. {q['i18n']['en']}**", f"*({tr(q['i18n'])})*", ""]
+            L += [f"- {c['id']}. {c['i18n']['en']} *({tr(c['i18n'])})*" for c in q["choices"]]
             L.append("")
         L += ["---", ""]
-
     if lesson.get("tips"):
-        L += ["## 💡 Mẹo làm bài", ""] + [f"- {t}" for t in lesson["tips"]] + ["", "---", ""]
-    L += ["## Đáp án & giải thích", "", "| Câu | Đáp án | Giải thích |", "|---|---|---|"]
+        L += [f"## {T['tips']}", ""] + [f"- {tr(t['i18n'])}" for t in lesson["tips"]] + ["", "---", ""]
+    L += [f"## {T['answers']}", "", T["answers_cols"], "|---|---|---|"]
     for q in d["questions"]:
         ok = next(c["id"] for c in q["choices"] if c["is_correct"])
-        evl = ev_label(q.get("evidence_segments") or [])
-        L.append(f"| {q.pop('_num')} | **{ok}** | {(evl + ': ') if evl else ''}{q['explanation']} |")
+        evl = ev_label(q.get("evidence_segments") or [], T["sentence"])
+        L.append(f"| {nums.get(q['id'], '?')} | **{ok}** | {(evl + ': ') if evl else ''}{tr(q['explanation_i18n'])} |")
     md = "\n".join(L) + "\n"
     if any(c in md for c in "━─═├└│"):
-        err("md có box-drawing chars")
+        err(f"md ({lg}) có box-drawing chars")
+    return md
 
+def main(path: Path) -> int:
+    d = json.load(open(path, encoding="utf-8"))
+    langs = validate_and_legacy(d)
+    mds = {lg: render_md(d, lg) for lg in langs if lg in LABELS} if not errors else {}
     if errors:
         print("❌ LỖI:\n  " + "\n  ".join(errors))
         return 1
     path.write_text(json.dumps(d, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    md_path = path.with_name(path.name.replace("_BaiTap.json", "_DocHieu.md"))
-    md_path.write_text(md, encoding="utf-8")
+    stem = path.name.replace("_BaiTap.json", "_DocHieu")
+    for lg, md in mds.items():
+        path.with_name(f"{stem}.md" if lg == "vi" else f"{stem}.{lg}.md").write_text(md, encoding="utf-8")
     words = [p["word_count"] for p in d["reading_passages"]]
     avg = []
     for p in d["reading_passages"]:
         ss = [s for s in p["segments"] if s.get("kind", "sentence") == "sentence"]
-        avg.append(round(sum(len(re.findall(r"[A-Za-z']+", s["en"])) for s in ss) / max(len(ss), 1), 1))
+        avg.append(round(sum(len(re.findall(r"[A-Za-zÀ-ÿ']+", s["i18n"]["en"])) for s in ss) / max(len(ss), 1), 1))
     answers = "".join(next(c["id"] for c in q["choices"] if c["is_correct"]) for q in d["questions"])
-    print(f"✅ {path.name} → {md_path.name} | bài đọc {words} từ, TB {avg} từ/câu | {len(d['questions'])} câu | đáp án {answers}")
+    print(f"✅ {path.name} → md {langs} | bài đọc {words} từ, TB {avg} từ/câu | {len(d['questions'])} câu | đáp án {answers}")
     return 0
 
 if __name__ == "__main__":

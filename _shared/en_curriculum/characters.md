@@ -68,6 +68,15 @@ Tên lấy từ bộ tên Mỹ đã thay tên Việt trong giáo trình (02/11).
    - **Tracy (19–22):** từ B1 có mối tình đầu thời đại học.
 5. **Người lạ** chỉ xuất hiện một lần (khách hàng, người phỏng vấn…): đặt tên Mỹ khác, không dùng tên trong dàn nhân vật.
 
+## Nhật ký sự kiện (sách đọc hiểu ghi vào khi viết)
+
+Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm · sự kiện · sách/chương đưa ra.
+
+| Cấp | Thời điểm | Sự kiện / chi tiết mới | Nguồn |
+|---|---|---|---|
+| A1 | cuối tháng 8, năm 1 | Người học ("you") chuyển tới Maple Street. Harriet dán thiệp chào hàng xóm mới, mời ghé quán Harriet's. | sách 56 · u01 |
+| A1 | cuối tháng 8, năm 1 | Ở Westview High có **International Club** (câu lạc bộ cho học sinh mới, học sinh nước ngoài) do cô Lydia Park phụ trách, sinh hoạt sau giờ học ở lớp của cô. Câu lạc bộ tranh biện (B2) vẫn là việc riêng của cô Lydia. | sách 56 · u01 |
+
 ## Còn mở
 
 - Các câu đang có trong giáo trình app dùng các tên này **lung tung** (ví dụ "Nathan is nine"). Có chỉnh lại cho khớp

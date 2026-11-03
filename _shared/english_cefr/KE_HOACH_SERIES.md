@@ -2,7 +2,7 @@
 
 > Bản 3, 03/11/2026. Đã chốt các mục 1–2; mục 8 là việc còn mở.
 >
-> Bài mẫu thử: `books/56_english_a1/_mau_thu/u03_family_friends/`.
+> Chương đầu tiên đã viết: `books/56_english_a1/u01_hello/`.
 >
 > **Nguyên liệu chính:** `_shared/en_curriculum/` (danh sách phiếu của khoá tiếng Anh trên app).
 
@@ -86,13 +86,38 @@ Script này sinh lại `content_ja`, `translation_vn`, `word_count` và file `_D
 | B2 | 350–450 từ | 20 | thêm: suy luận, mục đích đoạn, thái độ tác giả |
 | C1 | 450–550 từ | 20 | thêm: hàm ý, cấu trúc lập luận |
 
-## 5. JSON: giữ nguyên schema chung, thêm dữ liệu từng câu
+## 5. JSON: giữ nguyên schema chung, thêm dữ liệu từng câu, đa ngôn ngữ
+
+> **Chốt 03/11/2026:** sau này còn làm bản cho người Nhật, người Thái… Vì vậy **mọi đoạn chữ là một bản đồ ngôn ngữ**
+> `i18n: {"en": …, "vi": …}`. Thêm ngôn ngữ mới thì chỉ thêm khoá (`"ja"`, `"th"`) vào cùng chỗ và khai báo trong
+> `meta.languages`. Script build báo mọi chỗ còn thiếu bản dịch.
+>
+> Các nhãn mục ("Dịch từng câu", "Câu hỏi", "Đáp án & giải thích"…) **không viết trong nội dung**. Chúng nằm ở
+> bảng `LABELS` trong `build_en_reading.py`. Mỗi ngôn ngữ sinh ra một file md: `_DocHieu.md` (vi), `_DocHieu.ja.md`…
+>
+> Nghĩa từ vựng lấy từ khoá học theo trường cùng tên ngôn ngữ (`words[].vi`, sau này `words[].ja`).
+
+| Nơi | Trường nguồn |
+|---|---|
+| tiêu đề chương | `meta.title_i18n {en, vi}` |
+| thời điểm truyện | `meta.story_time_i18n` |
+| luyện cho / mục tiêu | `lesson.practice_for_i18n`, `lesson.objective_i18n` |
+| từ ngoài bài học | `lesson.extra_words[] {word, i18n}` |
+| cụm từ | `lesson.phrases[] {i18n: {en, vi}}` |
+| mẹo | `lesson.tips[] {i18n}` |
+| tiêu đề bài đọc | `reading_passages[].heading_i18n` |
+| câu bài đọc | `segments[].i18n {en, vi}` |
+| câu hỏi | `questions[].i18n {en, vi}` |
+| phương án | `choices[].i18n {en, vi}` |
+| giải thích / mẹo câu hỏi | `explanation_i18n`, `tip_i18n` |
+
+Khoá cũ (`question_jp`, `question_vn`, `text`, `text_translation`, `explanation`, `content_ja`, `translation_vn`, `title_vn`) **do script sinh từ `en` / `vi`**, chỉ để app hiện tại chạy được. Không sửa tay.
 
 **Bài đọc lưu thành `segments`.** Mỗi phần tử là **một dòng hiển thị / một dòng shadowing**:
 
 ```json
-{"n": 4, "para": 3, "kind": "sentence", "speaker": null, "label": "1.",
- "en": "These are my grandpa and my grandma.", "vi": "Đây là ông và bà của mình."}
+{"n": 4, "para": 3, "kind": "sentence", "speaker": null, "label": null,
+ "i18n": {"en": "I live here on Maple Street, too.", "vi": "Tôi cũng sống ở đây, trên phố Maple."}}
 ```
 
 | Trường | Ý nghĩa |
@@ -102,7 +127,7 @@ Script này sinh lại `content_ja`, `translation_vn`, `word_count` và file `_D
 | `kind` | `title` / `sentence` / `signature`. Khi shadowing, app có thể bỏ qua title và signature |
 | `speaker` | người nói (hội thoại, tin nhắn). **Tách riêng khỏi `en`** để TTS không đọc tên người nói |
 | `label` | nhãn đầu đoạn như `1.`, chỉ để hiển thị, TTS bỏ qua |
-| `en` / `vi` | câu tiếng Anh / bản dịch |
+| `i18n` | `en` là câu gốc; `vi` (sau này `ja`, `th`…) là bản dịch |
 
 **Quy tắc cắt câu:**
 - 1 segment = 1 câu.

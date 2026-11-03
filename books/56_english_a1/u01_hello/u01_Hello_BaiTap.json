@@ -1,0 +1,1221 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 1 — Hello!",
+      "vi": "Chào hỏi"
+    },
+    "title": "Unit 1 — Hello!",
+    "title_vn": "Chào hỏi",
+    "module_code": "56_u01",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u01",
+    "curriculum_sheets": [
+      "a1.01",
+      "a1.02",
+      "a1.03",
+      "a1.04"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Tina Carter",
+      "Lydia Park",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 8, năm 1 — bạn (\"you\") vừa chuyển tới Maple Street"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Ai viết, viết cho ai, văn bản mời làm gì",
+    "description_vn": "Thiệp chào hàng xóm mới của Harriet và thông báo Câu lạc bộ Quốc tế. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 1 khoá A1 · phiếu `a1.01` – `a1.04` (chào hỏi, giới thiệu, quốc tịch và ngôn ngữ, ngôn ngữ lớp học)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một tấm thiệp chào hàng xóm và một thông báo của trường; nhận ra ai viết, viết cho ai, ở đâu, và văn bản mời bạn làm gì."
+    },
+    "vocab": [
+      "hello",
+      "name",
+      "live",
+      "nice",
+      "place",
+      "say",
+      "know",
+      "people",
+      "friend",
+      "girl",
+      "question",
+      "meet",
+      "see",
+      "student",
+      "foreign",
+      "language",
+      "world",
+      "introduce",
+      "speak",
+      "hometown",
+      "culture",
+      "teacher",
+      "please"
+    ],
+    "extra_words": [
+      {
+        "word": "welcome",
+        "i18n": {
+          "vi": "chào mừng"
+        }
+      },
+      {
+        "word": "café",
+        "i18n": {
+          "vi": "quán cà phê"
+        }
+      },
+      {
+        "word": "club",
+        "i18n": {
+          "vi": "câu lạc bộ"
+        }
+      },
+      {
+        "word": "classroom",
+        "i18n": {
+          "vi": "phòng học, lớp học"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "Nice to meet you",
+          "vi": "rất vui được gặp bạn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "See you later",
+          "vi": "hẹn gặp lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a lot of",
+          "vi": "nhiều"
+        }
+      },
+      {
+        "i18n": {
+          "en": "around the world",
+          "vi": "khắp thế giới"
+        }
+      },
+      {
+        "i18n": {
+          "en": "after school",
+          "vi": "sau giờ học"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a foreign language",
+          "vi": "ngoại ngữ"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Đọc tên ký ở cuối văn bản để biết **ai viết**. Đọc dòng đầu (Hello, students! / Hello, and welcome!) để biết **viết cho ai**."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`I`, `my` là người viết; `you`, `your` là người đọc; `she`, `he`, `they` là người khác. Gặp đại từ thì dừng lại xem nó chỉ ai."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu điền chỗ trống (`Harriet lives ______.`) cũng là câu hỏi tìm thông tin: tìm tên người trong bài rồi đọc kỹ câu chứa tên đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Thông báo thường trả lời đủ: **cho ai, làm gì, ở đâu, khi nào, hỏi ai**. Gạch chân các ý đó khi đọc."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u01_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tấm thiệp trên cửa nhà bạn"
+      },
+      "title": "Welcome to Maple Street!",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 60,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Welcome to Maple Street!",
+            "vi": "Chào mừng bạn đến với phố Maple!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hello, and welcome!",
+            "vi": "Xin chào, chào mừng bạn!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My name is Harriet Brooks.",
+            "vi": "Tôi tên là Harriet Brooks."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I live here on Maple Street, too.",
+            "vi": "Tôi cũng sống ở đây, trên phố Maple."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have a café.",
+            "vi": "Tôi có một quán cà phê."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is Harriet's, and it is a very nice place.",
+            "vi": "Quán tên là Harriet's, và đó là một nơi rất dễ chịu."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Come and say hello!",
+            "vi": "Hãy ghé qua chào tôi nhé!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I know the people here, and they are very nice.",
+            "vi": "Tôi quen mọi người ở đây, và họ rất tốt."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Carters are my friends.",
+            "vi": "Nhà Carter là bạn của tôi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina Carter is a very nice girl.",
+            "vi": "Tina Carter là một cô bé rất dễ thương."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She has a lot of questions!",
+            "vi": "Cô bé có cả tá câu hỏi đấy!"
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nice to meet you.",
+            "vi": "Rất vui được gặp bạn."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "See you later!",
+            "vi": "Hẹn gặp lại bạn!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          }
+        }
+      ],
+      "content_ja": "Welcome to Maple Street!\n\nHello, and welcome! My name is Harriet Brooks. I live here on Maple Street, too.\n\nI have a café. It is Harriet's, and it is a very nice place. Come and say hello!\n\nI know the people here, and they are very nice. The Carters are my friends. Tina Carter is a very nice girl. She has a lot of questions!\n\nNice to meet you. See you later!\n\nHarriet",
+      "translation_vn": "(1) Chào mừng bạn đến với phố Maple!\n(2) Xin chào, chào mừng bạn!\n(3) Tôi tên là Harriet Brooks.\n(4) Tôi cũng sống ở đây, trên phố Maple.\n(5) Tôi có một quán cà phê.\n(6) Quán tên là Harriet's, và đó là một nơi rất dễ chịu.\n(7) Hãy ghé qua chào tôi nhé!\n(8) Tôi quen mọi người ở đây, và họ rất tốt.\n(9) Nhà Carter là bạn của tôi.\n(10) Tina Carter là một cô bé rất dễ thương.\n(11) Cô bé có cả tá câu hỏi đấy!\n(12) Rất vui được gặp bạn.\n(13) Hẹn gặp lại bạn!\n(14) Harriet",
+      "word_count": 73,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.01",
+        "a1.02",
+        "a1.03",
+        "a1.04"
+      ]
+    },
+    {
+      "id": "passage_u01_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Thông báo ở trường Westview High"
+      },
+      "title": "Westview High: International Club",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 75,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Westview High School: International Club",
+            "vi": "Trường trung học Westview: Câu lạc bộ Quốc tế"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hello, students!",
+            "vi": "Chào các bạn học sinh!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Are you new at Westview High?",
+            "vi": "Bạn mới vào trường Westview High?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Is English a foreign language for you?",
+            "vi": "Tiếng Anh là ngoại ngữ đối với bạn?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Come to the International Club!",
+            "vi": "Hãy đến Câu lạc bộ Quốc tế!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Meet friends from around the world.",
+            "vi": "Gặp gỡ bạn bè từ khắp nơi trên thế giới."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Introduce yourself and say hello in a new language.",
+            "vi": "Giới thiệu bản thân và nói lời chào bằng một ngôn ngữ mới."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Speak English with your new friends.",
+            "vi": "Nói tiếng Anh với những người bạn mới."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Say a word about your hometown and your culture.",
+            "vi": "Kể đôi lời về quê hương và văn hoá của bạn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The club is after school in Ms. Park's classroom.",
+            "vi": "Câu lạc bộ sinh hoạt sau giờ học, ở lớp của cô Park."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ms. Lydia Park, English teacher",
+            "vi": "Cô Lydia Park, giáo viên tiếng Anh"
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Questions? Please ask Ms. Park.",
+            "vi": "Có câu hỏi? Hãy hỏi cô Park."
+          }
+        }
+      ],
+      "content_ja": "Westview High School: International Club\n\nHello, students! Are you new at Westview High? Is English a foreign language for you?\n\nCome to the International Club! Meet friends from around the world. Introduce yourself and say hello in a new language. Speak English with your new friends. Say a word about your hometown and your culture.\n\nThe club is after school in Ms. Park's classroom.\n\nMs. Lydia Park, English teacher Questions? Please ask Ms. Park.",
+      "translation_vn": "(1) Trường trung học Westview: Câu lạc bộ Quốc tế\n(2) Chào các bạn học sinh!\n(3) Bạn mới vào trường Westview High?\n(4) Tiếng Anh là ngoại ngữ đối với bạn?\n(5) Hãy đến Câu lạc bộ Quốc tế!\n(6) Gặp gỡ bạn bè từ khắp nơi trên thế giới.\n(7) Giới thiệu bản thân và nói lời chào bằng một ngôn ngữ mới.\n(8) Nói tiếng Anh với những người bạn mới.\n(9) Kể đôi lời về quê hương và văn hoá của bạn.\n(10) Câu lạc bộ sinh hoạt sau giờ học, ở lớp của cô Park.\n(11) Cô Lydia Park, giáo viên tiếng Anh\n(12) Có câu hỏi? Hãy hỏi cô Park.",
+      "word_count": 74,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.01",
+        "a1.02",
+        "a1.03",
+        "a1.04"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u01_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "This is from ______.",
+        "vi": "Đây là lời của ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina Carter",
+            "vi": "Tina Carter"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina Carter",
+          "text_translation": "Tina Carter"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet Brooks",
+            "vi": "Harriet Brooks"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Harriet Brooks",
+          "text_translation": "Harriet Brooks"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ms. Park",
+            "vi": "cô Park"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ms. Park",
+          "text_translation": "cô Park"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the Carters",
+            "vi": "nhà Carter"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the Carters",
+          "text_translation": "nhà Carter"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"My name is Harriet Brooks.\" Cuối thiệp cũng ký tên Harriet. Tina và nhà Carter chỉ là người được nhắc tới."
+      },
+      "audio_data": null,
+      "question_jp": "This is from ______.",
+      "question_vn": "Đây là lời của ______.",
+      "explanation": "\"My name is Harriet Brooks.\" Cuối thiệp cũng ký tên Harriet. Tina và nhà Carter chỉ là người được nhắc tới."
+    },
+    {
+      "id": "q_u01_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Harriet lives ______.",
+        "vi": "Harriet sống ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in a big city",
+            "vi": "ở một thành phố lớn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in a big city",
+          "text_translation": "ở một thành phố lớn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at school",
+            "vi": "ở trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at school",
+          "text_translation": "ở trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on Maple Street",
+            "vi": "trên phố Maple"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "on Maple Street",
+          "text_translation": "trên phố Maple"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the café",
+            "vi": "trong quán cà phê"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in the café",
+          "text_translation": "trong quán cà phê"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I live here on Maple Street, too.\" \"too\" (cũng) cho biết Harriet là hàng xóm của bạn."
+      },
+      "audio_data": null,
+      "question_jp": "Harriet lives ______.",
+      "question_vn": "Harriet sống ______.",
+      "explanation": "\"I live here on Maple Street, too.\" \"too\" (cũng) cho biết Harriet là hàng xóm của bạn."
+    },
+    {
+      "id": "q_u01_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Harriet's is ______.",
+        "vi": "Harriet's là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a café",
+            "vi": "một quán cà phê"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a café",
+          "text_translation": "một quán cà phê"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a school",
+            "vi": "một trường học"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a school",
+          "text_translation": "một trường học"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a city",
+            "vi": "một thành phố"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a city",
+          "text_translation": "một thành phố"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a girl",
+            "vi": "một cô bé"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a girl",
+          "text_translation": "một cô bé"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have a café. It is Harriet's\" — \"It\" là quán cà phê, Harriet's là tên quán."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tên riêng có 's (Harriet's) thường là tên cửa hàng hoặc quán: \"quán của Harriet\"."
+      },
+      "question_jp": "Harriet's is ______.",
+      "question_vn": "Harriet's là ______.",
+      "explanation": "\"I have a café. It is Harriet's\" — \"It\" là quán cà phê, Harriet's là tên quán.",
+      "tip": "Tên riêng có 's (Harriet's) thường là tên cửa hàng hoặc quán: \"quán của Harriet\"."
+    },
+    {
+      "id": "q_u01_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Tina Carter ______.",
+        "vi": "Tina Carter ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "is a teacher",
+            "vi": "là giáo viên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "is a teacher",
+          "text_translation": "là giáo viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "is Harriet's café",
+            "vi": "là quán cà phê của Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "is Harriet's café",
+          "text_translation": "là quán cà phê của Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "is a new student",
+            "vi": "là học sinh mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "is a new student",
+          "text_translation": "là học sinh mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "has a lot of questions",
+            "vi": "có rất nhiều câu hỏi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "has a lot of questions",
+          "text_translation": "có rất nhiều câu hỏi"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tina Carter is a very nice girl. She has a lot of questions!\" \"She\" ở câu 11 là Tina."
+      },
+      "audio_data": null,
+      "question_jp": "Tina Carter ______.",
+      "question_vn": "Tina Carter ______.",
+      "explanation": "\"Tina Carter is a very nice girl. She has a lot of questions!\" \"She\" ở câu 11 là Tina."
+    },
+    {
+      "id": "q_u01_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Harriet says ______ to you.",
+        "vi": "Harriet nói ______ với bạn."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sorry",
+            "vi": "xin lỗi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "sorry",
+          "text_translation": "xin lỗi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "hello and welcome",
+            "vi": "xin chào và chào mừng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "hello and welcome",
+          "text_translation": "xin chào và chào mừng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "bye",
+            "vi": "tạm biệt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "bye",
+          "text_translation": "tạm biệt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "pardon",
+            "vi": "xin nhắc lại"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "pardon",
+          "text_translation": "xin nhắc lại"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Hello, and welcome!\" Cả tấm thiệp là lời chào hàng xóm mới. Bài không có lời xin lỗi hay lời tạm biệt."
+      },
+      "audio_data": null,
+      "question_jp": "Harriet says ______ to you.",
+      "question_vn": "Harriet nói ______ với bạn.",
+      "explanation": "\"Hello, and welcome!\" Cả tấm thiệp là lời chào hàng xóm mới. Bài không có lời xin lỗi hay lời tạm biệt."
+    },
+    {
+      "id": "q_u01_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "The International Club is for ______.",
+        "vi": "Câu lạc bộ Quốc tế dành cho ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "new students",
+            "vi": "học sinh mới"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "new students",
+          "text_translation": "học sinh mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "teachers",
+            "vi": "giáo viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "teachers",
+          "text_translation": "giáo viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "people on Maple Street",
+            "vi": "người ở phố Maple"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "people on Maple Street",
+          "text_translation": "người ở phố Maple"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet",
+          "text_translation": "Harriet"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Hello, students! Are you new at Westview High?\" Thông báo nói với học sinh, nhất là học sinh mới."
+      },
+      "audio_data": null,
+      "question_jp": "The International Club is for ______.",
+      "question_vn": "Câu lạc bộ Quốc tế dành cho ______.",
+      "explanation": "\"Hello, students! Are you new at Westview High?\" Thông báo nói với học sinh, nhất là học sinh mới."
+    },
+    {
+      "id": "q_u01_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "At the club, students ______.",
+        "vi": "Ở câu lạc bộ, học sinh ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "say sorry",
+            "vi": "nói xin lỗi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "say sorry",
+          "text_translation": "nói xin lỗi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "answer Ms. Park's questions",
+            "vi": "trả lời câu hỏi của cô Park"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "answer Ms. Park's questions",
+          "text_translation": "trả lời câu hỏi của cô Park"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "spell new words",
+            "vi": "đánh vần từ mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "spell new words",
+          "text_translation": "đánh vần từ mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "meet friends from around the world",
+            "vi": "gặp bạn bè khắp thế giới"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "meet friends from around the world",
+          "text_translation": "gặp bạn bè khắp thế giới"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Meet friends from around the world.\""
+      },
+      "audio_data": null,
+      "question_jp": "At the club, students ______.",
+      "question_vn": "Ở câu lạc bộ, học sinh ______.",
+      "explanation": "\"Meet friends from around the world.\""
+    },
+    {
+      "id": "q_u01_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "The club is ______.",
+        "vi": "Câu lạc bộ sinh hoạt ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "after school at Harriet's",
+            "vi": "sau giờ học, ở quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "after school at Harriet's",
+          "text_translation": "sau giờ học, ở quán Harriet's"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in the morning in Ms. Park's classroom",
+            "vi": "buổi sáng, ở lớp cô Park"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in the morning in Ms. Park's classroom",
+          "text_translation": "buổi sáng, ở lớp cô Park"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "after school in Ms. Park's classroom",
+            "vi": "sau giờ học, ở lớp cô Park"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "after school in Ms. Park's classroom",
+          "text_translation": "sau giờ học, ở lớp cô Park"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the morning at Harriet's",
+            "vi": "buổi sáng, ở quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in the morning at Harriet's",
+          "text_translation": "buổi sáng, ở quán Harriet's"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"The club is after school in Ms. Park's classroom.\" Phải đúng cả giờ lẫn nơi chốn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có hai thông tin (khi nào + ở đâu) thì loại dần: sai một nửa là sai cả câu."
+      },
+      "question_jp": "The club is ______.",
+      "question_vn": "Câu lạc bộ sinh hoạt ______.",
+      "explanation": "\"The club is after school in Ms. Park's classroom.\" Phải đúng cả giờ lẫn nơi chốn.",
+      "tip": "Câu hỏi có hai thông tin (khi nào + ở đâu) thì loại dần: sai một nửa là sai cả câu."
+    },
+    {
+      "id": "q_u01_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "Ms. Park is ______.",
+        "vi": "Cô Park là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a student",
+            "vi": "học sinh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a student",
+          "text_translation": "học sinh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a foreigner",
+            "vi": "người nước ngoài"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a foreigner",
+          "text_translation": "người nước ngoài"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "an English teacher",
+            "vi": "giáo viên tiếng Anh"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "an English teacher",
+          "text_translation": "giáo viên tiếng Anh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet's friend",
+            "vi": "bạn của Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet's friend",
+          "text_translation": "bạn của Harriet"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Ms. Lydia Park, English teacher\". Bài không nói cô Park là người nước ngoài hay bạn của Harriet."
+      },
+      "audio_data": null,
+      "question_jp": "Ms. Park is ______.",
+      "question_vn": "Cô Park là ______.",
+      "explanation": "\"Ms. Lydia Park, English teacher\". Bài không nói cô Park là người nước ngoài hay bạn của Harriet."
+    },
+    {
+      "id": "q_u01_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "Students can ask Ms. Park ______.",
+        "vi": "Học sinh có thể hỏi cô Park ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "questions",
+            "vi": "các câu hỏi"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "questions",
+          "text_translation": "các câu hỏi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a flag",
+            "vi": "một lá cờ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a flag",
+          "text_translation": "một lá cờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a name",
+            "vi": "một cái tên"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a name",
+          "text_translation": "một cái tên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a café",
+            "vi": "một quán cà phê"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a café",
+          "text_translation": "một quán cà phê"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Questions? Please ask Ms. Park.\""
+      },
+      "audio_data": null,
+      "question_jp": "Students can ask Ms. Park ______.",
+      "question_vn": "Học sinh có thể hỏi cô Park ______.",
+      "explanation": "\"Questions? Please ask Ms. Park.\""
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u01_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tấm thiệp trên cửa nhà bạn",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u01_01",
+      "question_ids": [
+        "q_u01_001",
+        "q_u01_002",
+        "q_u01_003",
+        "q_u01_004",
+        "q_u01_005"
+      ]
+    },
+    {
+      "set_id": "set_u01_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Thông báo ở trường Westview High",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u01_02",
+      "question_ids": [
+        "q_u01_006",
+        "q_u01_007",
+        "q_u01_008",
+        "q_u01_009",
+        "q_u01_010"
+      ]
+    }
+  ]
+}

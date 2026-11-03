@@ -7,7 +7,7 @@ Usage:
     python3 _shared/scripts/check_cefr_level.py --level A1 --text "Some English text"
 
 Soát gì:
-- JSON: segments[].en (hoặc content_ja), question_jp, choices[].text.
+- JSON: segments[].i18n.en, questions[].i18n.en, choices[].i18n.en (khoá cũ nếu chưa có i18n).
 - MD: dòng '> ' ngay dưới heading '## Bài đọc …'.
 
 Theo khoá (--sheet hoặc tự lấy từ JSON):
@@ -110,7 +110,7 @@ def sheet_order() -> list[dict]:
     return out
 
 def tokens_of(text: str) -> list[str]:
-    return [x.lower() for x in re.findall(r"[A-Za-z']+", text)]
+    return [x.lower() for x in re.findall(r"[A-Za-zÀ-ÿ']+", text)]
 
 def candidates(w: str):
     yield w
@@ -130,10 +130,10 @@ def texts_from(path: Path) -> tuple[list[str], dict]:
         out = []
         for p in d.get("reading_passages") or []:
             segs = p.get("segments")
-            out += [s["en"] for s in segs] if segs else [p.get("content_ja", "")]
+            out += [(s.get("i18n") or {}).get("en") or s.get("en", "") for s in segs] if segs else [p.get("content_ja", "")]
         for q in d.get("questions") or []:
-            out.append(q.get("question_jp") or "")
-            out += [c.get("text", "") for c in q.get("choices") or []]
+            out.append((q.get("i18n") or {}).get("en") or q.get("question_jp") or "")
+            out += [(c.get("i18n") or {}).get("en") or c.get("text", "") for c in q.get("choices") or []]
         return out, d
     out, in_reading = [], False
     for l in path.read_text(encoding="utf-8").splitlines():
@@ -163,7 +163,7 @@ def main() -> int:
         t, d = texts_from(Path(f))
         texts += t
         for e in (d.get("lesson") or {}).get("extra_words") or []:
-            extra[e["word"].lower()] = e["vi"]
+            extra[e["word"].lower()] = (e.get("i18n") or {}).get("vi") or e.get("vi", "")
         if not sheet and (d.get("meta") or {}).get("curriculum_sheets"):
             sheet = d["meta"]["curriculum_sheets"][-1]
     if not (a.level or sheet):
@@ -202,7 +202,7 @@ def main() -> int:
     gate_hits: dict[str, list[str]] = {}
     for t in texts:
         for sent in re.split(r"(?<=[.!?])\s+|\n+", t):
-            toks = re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", sent)
+            toks = re.findall(r"[A-Za-zÀ-ÿ]+(?:'[A-Za-zÀ-ÿ]+)?", sent)
             for i, tok in enumerate(toks):
                 total += 1
                 w = tok.lower()
