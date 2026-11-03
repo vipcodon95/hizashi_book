@@ -1,0 +1,1971 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 27–28 — Language and communication & Society",
+      "vi": "Ngôn ngữ, giao tiếp & Xã hội"
+    },
+    "title": "Units 27–28 — Language and communication & Society",
+    "title_vn": "Ngôn ngữ, giao tiếp & Xã hội",
+    "module_code": "59_u2728",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u27+u28",
+    "curriculum_sheets": [
+      "b2.105",
+      "b2.106",
+      "b2.107",
+      "b2.108",
+      "b2.109",
+      "b2.110",
+      "b2.111",
+      "b2.112"
+    ],
+    "characters": [
+      "Megan Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 3, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "dare, the + adj, there have been, chức năng ví dụ",
+    "description_vn": "Bản tin bệnh viện phỏng vấn Megan về việc học tiếng Tây Ban Nha cho bệnh nhân, và bài kiến thức về một nước Mỹ đang già đi. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 27 + Unit 28 khoá B2 · phiếu `b2.105` – `b2.112` (dare, ngôn ngữ và giao tiếp, hiểu lầm, ngôn ngữ cơ thể; there have been, mạo từ trong câu khái quát, xã hội, các thế hệ)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài phỏng vấn trên bản tin bệnh viện và một bài kiến thức xã hội; hiểu `dare to V`, `How dare you…!` dùng để đùa, `there have been`, `the + tính từ` chỉ cả nhóm người (the elderly), mạo từ trong câu khái quát, `outnumber`, và chức năng của một ví dụ."
+    },
+    "extra_words": [
+      {
+        "word": "born",
+        "i18n": {
+          "vi": "được sinh ra"
+        }
+      },
+      {
+        "word": "grandchildren",
+        "i18n": {
+          "vi": "các cháu (số nhiều của grandchild)"
+        }
+      },
+      {
+        "word": "newsletter",
+        "i18n": {
+          "vi": "bản tin"
+        }
+      },
+      {
+        "word": "interpreter",
+        "i18n": {
+          "vi": "phiên dịch viên"
+        }
+      },
+      {
+        "word": "translate",
+        "i18n": {
+          "vi": "dịch"
+        }
+      },
+      {
+        "word": "grandson",
+        "i18n": {
+          "vi": "cháu trai"
+        }
+      },
+      {
+        "word": "humbling",
+        "i18n": {
+          "vi": "khiến người ta khiêm tốn"
+        }
+      },
+      {
+        "word": "grammatically",
+        "i18n": {
+          "vi": "về mặt ngữ pháp"
+        }
+      },
+      {
+        "word": "surgery",
+        "i18n": {
+          "vi": "ca phẫu thuật"
+        }
+      },
+      {
+        "word": "outnumber",
+        "i18n": {
+          "vi": "đông hơn về số lượng"
+        }
+      },
+      {
+        "word": "retirement",
+        "i18n": {
+          "vi": "sự nghỉ hưu"
+        }
+      },
+      {
+        "word": "baby boomers",
+        "i18n": {
+          "vi": "thế hệ bùng nổ dân số"
+        }
+      },
+      {
+        "word": "preschool",
+        "i18n": {
+          "vi": "trường mẫu giáo"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "for good reason",
+          "vi": "có lý do chính đáng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "lose patience",
+          "vi": "hết kiên nhẫn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "How dare you…!",
+          "vi": "sao dám…!"
+        }
+      },
+      {
+        "i18n": {
+          "en": "there have been",
+          "vi": "đã có"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the elderly",
+          "vi": "người cao tuổi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "find yourself doing",
+          "vi": "thấy mình đang phải làm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "pass down",
+          "vi": "truyền lại"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`not dare (to) + V` = không dám. `How dare you…!` thường là giận, nhưng giữa bạn bè có thể là đùa. Xem câu sau để biết."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`the + tính từ` (the elderly, the young) = cả nhóm người, động từ chia số nhiều."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài phỏng vấn: lời nhân vật nằm trong ngoặc kép. Câu hỏi về quan điểm phải lấy đúng lời của người đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu \"The question is not X; … The question is Y\" cho biết người viết nghĩ điều gì mới quan trọng: Y."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2728_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 27) — Megan học tiếng Tây Ban Nha cho bệnh nhân"
+      },
+      "narrator": "announcer",
+      "title": "\"I Didn't Dare to Speak\": A Nurse Learns Spanish",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I Didn't Dare to Speak\": A Nurse Learns Spanish",
+            "vi": "\"Tôi không dám nói\": một y tá học tiếng Tây Ban Nha"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunset Bay Hospital staff newsletter · People of the Month",
+            "vi": "Bản tin nhân viên Bệnh viện Sunset Bay · Gương mặt của tháng"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Megan Carter has worked as an emergency nurse at Sunset Bay for almost twenty years. Last year, she decided to learn Spanish, and this month we asked her why.",
+            "vi": "Megan Carter làm y tá cấp cứu ở Sunset Bay gần hai mươi năm. Năm ngoái, chị quyết định học tiếng Tây Ban Nha, và tháng này chúng tôi hỏi chị vì sao."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"In San Diego, a lot of our patients speak Spanish at home, and some of them speak very little English,\" she explains. \"We have excellent interpreters, but they can't be in every room at three in the morning.\"",
+            "vi": "\"Ở San Diego, nhiều bệnh nhân của mình nói tiếng Tây Ban Nha ở nhà, có người nói rất ít tiếng Anh,\" chị giải thích. \"Chúng tôi có những phiên dịch viên rất giỏi, nhưng họ không thể có mặt ở mọi phòng lúc ba giờ sáng.\""
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One night changed her mind. An elderly woman with chest pain was too frightened to answer questions, and her ten-year-old grandson had to translate.",
+            "vi": "Một đêm đã khiến chị đổi ý. Một bà cụ đau ngực sợ tới mức không trả lời nổi câu hỏi, và cậu cháu trai mười tuổi phải dịch."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Hospitals try hard not to use children as interpreters, and for good reason,\" Megan says. \"He was terrified, and I couldn't even tell his grandmother that she was going to be OK.\"",
+            "vi": "\"Bệnh viện cố hết sức để không phải nhờ trẻ con phiên dịch, và có lý do chính đáng,\" Megan nói. \"Thằng bé sợ chết khiếp, còn tôi thì thậm chí không nói được với bà cụ rằng bà sẽ ổn.\""
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She started with an app and an evening class at the community college. The beginning was humbling.",
+            "vi": "Chị bắt đầu bằng một ứng dụng và một lớp buổi tối ở trường cao đẳng cộng đồng. Khởi đầu thật khiến người ta khiêm tốn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"For months, I didn't dare to speak to real patients. I was afraid of saying something wrong at the worst possible moment.\"",
+            "vi": "\"Suốt mấy tháng, tôi không dám nói với bệnh nhân thật. Tôi sợ nói sai vào đúng lúc tệ nhất.\""
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Her colleague Marisol, who grew up speaking Spanish, finally lost patience. \"She told me, 'How dare you be so perfect in English and so shy in Spanish? Just try!'\"",
+            "vi": "Đồng nghiệp của chị, Marisol, người lớn lên nói tiếng Tây Ban Nha, cuối cùng hết kiên nhẫn. \"Marisol bảo tôi: 'Sao chị dám hoàn hảo bằng tiếng Anh mà lại nhút nhát bằng tiếng Tây Ban Nha thế? Thử đi!'\""
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So she tried. Her first sentence to a patient was, she admits, grammatically terrible. The patient smiled and answered slowly.",
+            "vi": "Thế là chị thử. Câu đầu tiên chị nói với bệnh nhân, chị thừa nhận, sai ngữ pháp kinh khủng. Bệnh nhân mỉm cười và trả lời thật chậm."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"That's when I realized that people don't need me to be perfect. They need me to try.\"",
+            "vi": "\"Lúc đó tôi mới nhận ra người ta không cần tôi hoàn hảo. Họ cần tôi cố gắng.\""
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Megan is clear that a few words do not replace a trained interpreter, especially for serious medical decisions. \"I would never dare to explain a surgery in my Spanish,\" she laughs.",
+            "vi": "Megan nói rõ vài câu nói không thay thế được phiên dịch viên được đào tạo, nhất là với những quyết định y tế nghiêm trọng. \"Tôi chẳng bao giờ dám giải thích một ca phẫu thuật bằng vốn tiếng Tây Ban Nha của mình,\" chị cười."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But she can now say \"You are safe\", \"Your family is here\" and \"Does it hurt more now?\", and she says that these small sentences have changed how patients look at her.",
+            "vi": "Nhưng giờ chị nói được \"Bác an toàn rồi\", \"Gia đình bác đang ở đây\" và \"Giờ có đau hơn không?\", và chị nói những câu nhỏ ấy đã thay đổi cách bệnh nhân nhìn chị."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Their faces relax. For a moment, the hospital is a little less foreign.\"",
+            "vi": "\"Gương mặt họ giãn ra. Trong một khoảnh khắc, bệnh viện bớt xa lạ đi một chút.\""
+          }
+        }
+      ],
+      "content_ja": "\"I Didn't Dare to Speak\": A Nurse Learns Spanish\n\nSunset Bay Hospital staff newsletter · People of the Month\n\nMegan Carter has worked as an emergency nurse at Sunset Bay for almost twenty years. Last year, she decided to learn Spanish, and this month we asked her why. \"In San Diego, a lot of our patients speak Spanish at home, and some of them speak very little English,\" she explains. \"We have excellent interpreters, but they can't be in every room at three in the morning.\" One night changed her mind. An elderly woman with chest pain was too frightened to answer questions, and her ten-year-old grandson had to translate. \"Hospitals try hard not to use children as interpreters, and for good reason,\" Megan says. \"He was terrified, and I couldn't even tell his grandmother that she was going to be OK.\"\n\nShe started with an app and an evening class at the community college. The beginning was humbling. \"For months, I didn't dare to speak to real patients. I was afraid of saying something wrong at the worst possible moment.\" Her colleague Marisol, who grew up speaking Spanish, finally lost patience. \"She told me, 'How dare you be so perfect in English and so shy in Spanish? Just try!'\"\n\nSo she tried. Her first sentence to a patient was, she admits, grammatically terrible. The patient smiled and answered slowly. \"That's when I realized that people don't need me to be perfect. They need me to try.\" Megan is clear that a few words do not replace a trained interpreter, especially for serious medical decisions. \"I would never dare to explain a surgery in my Spanish,\" she laughs.\n\nBut she can now say \"You are safe\", \"Your family is here\" and \"Does it hurt more now?\", and she says that these small sentences have changed how patients look at her. \"Their faces relax. For a moment, the hospital is a little less foreign.\"",
+      "translation_vn": "(1) \"Tôi không dám nói\": một y tá học tiếng Tây Ban Nha\n(2) Bản tin nhân viên Bệnh viện Sunset Bay · Gương mặt của tháng\n(3) Megan Carter làm y tá cấp cứu ở Sunset Bay gần hai mươi năm. Năm ngoái, chị quyết định học tiếng Tây Ban Nha, và tháng này chúng tôi hỏi chị vì sao.\n(4) \"Ở San Diego, nhiều bệnh nhân của mình nói tiếng Tây Ban Nha ở nhà, có người nói rất ít tiếng Anh,\" chị giải thích. \"Chúng tôi có những phiên dịch viên rất giỏi, nhưng họ không thể có mặt ở mọi phòng lúc ba giờ sáng.\"\n(5) Một đêm đã khiến chị đổi ý. Một bà cụ đau ngực sợ tới mức không trả lời nổi câu hỏi, và cậu cháu trai mười tuổi phải dịch.\n(6) \"Bệnh viện cố hết sức để không phải nhờ trẻ con phiên dịch, và có lý do chính đáng,\" Megan nói. \"Thằng bé sợ chết khiếp, còn tôi thì thậm chí không nói được với bà cụ rằng bà sẽ ổn.\"\n(7) Chị bắt đầu bằng một ứng dụng và một lớp buổi tối ở trường cao đẳng cộng đồng. Khởi đầu thật khiến người ta khiêm tốn.\n(8) \"Suốt mấy tháng, tôi không dám nói với bệnh nhân thật. Tôi sợ nói sai vào đúng lúc tệ nhất.\"\n(9) Đồng nghiệp của chị, Marisol, người lớn lên nói tiếng Tây Ban Nha, cuối cùng hết kiên nhẫn. \"Marisol bảo tôi: 'Sao chị dám hoàn hảo bằng tiếng Anh mà lại nhút nhát bằng tiếng Tây Ban Nha thế? Thử đi!'\"\n(10) Thế là chị thử. Câu đầu tiên chị nói với bệnh nhân, chị thừa nhận, sai ngữ pháp kinh khủng. Bệnh nhân mỉm cười và trả lời thật chậm.\n(11) \"Lúc đó tôi mới nhận ra người ta không cần tôi hoàn hảo. Họ cần tôi cố gắng.\"\n(12) Megan nói rõ vài câu nói không thay thế được phiên dịch viên được đào tạo, nhất là với những quyết định y tế nghiêm trọng. \"Tôi chẳng bao giờ dám giải thích một ca phẫu thuật bằng vốn tiếng Tây Ban Nha của mình,\" chị cười.\n(13) Nhưng giờ chị nói được \"Bác an toàn rồi\", \"Gia đình bác đang ở đây\" và \"Giờ có đau hơn không?\", và chị nói những câu nhỏ ấy đã thay đổi cách bệnh nhân nhìn chị.\n(14) \"Gương mặt họ giãn ra. Trong một khoảnh khắc, bệnh viện bớt xa lạ đi một chút.\"",
+      "word_count": 325,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.105",
+        "b2.106",
+        "b2.107",
+        "b2.108"
+      ]
+    },
+    {
+      "id": "passage_u2728_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 28) — Một xã hội đang già đi"
+      },
+      "narrator": "announcer",
+      "title": "Growing Older Together: America's Changing Age",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Growing Older Together: America's Changing Age",
+            "vi": "Cùng nhau già đi: tuổi tác đang thay đổi của nước Mỹ"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There have been many changes in American society over the last fifty years, but one of the biggest is also one of the quietest: the country is getting older.",
+            "vi": "Xã hội Mỹ đã trải qua nhiều thay đổi trong năm mươi năm qua, nhưng một trong những thay đổi lớn nhất cũng là một trong những thay đổi lặng lẽ nhất: đất nước đang già đi."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2022, more than 57 million Americans, about one in six, were aged 65 or older, and the number is growing every year.",
+            "vi": "Năm 2022, hơn 57 triệu người Mỹ, khoảng một phần sáu dân số, từ 65 tuổi trở lên, và con số này tăng lên mỗi năm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Experts expect that, within the next decade or so, older adults will outnumber children for the first time in the nation's history.",
+            "vi": "Các chuyên gia dự đoán trong khoảng mười năm tới, lần đầu tiên trong lịch sử nước Mỹ, người lớn tuổi sẽ đông hơn trẻ em."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There are two main reasons. People are living longer, thanks to better medicine and healthier lives, and families are having fewer children than in the past.",
+            "vi": "Có hai lý do chính. Người ta sống lâu hơn nhờ y học tốt hơn và lối sống lành mạnh hơn, và các gia đình sinh ít con hơn trước."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The large generation born after 1945, often called the baby boomers, has also now reached retirement age.",
+            "vi": "Thế hệ đông đảo sinh sau năm 1945, thường gọi là thế hệ bùng nổ dân số, giờ cũng đã tới tuổi nghỉ hưu."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This change brings challenges.",
+            "vi": "Thay đổi này mang tới thách thức."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There have already been shortages of nurses and home care workers in many areas, and the cost of caring for the elderly is rising.",
+            "vi": "Ở nhiều nơi đã thiếu y tá và người chăm sóc tại nhà, và chi phí chăm sóc người cao tuổi đang tăng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many adults in their fifties now find themselves caring for their parents and their teenage children at the same time, with little time left for themselves.",
+            "vi": "Nhiều người ngoài năm mươi giờ thấy mình vừa chăm bố mẹ vừa chăm con tuổi teen cùng lúc, chẳng còn mấy thời gian cho bản thân."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And as earlier research has shown, loneliness is a serious health risk, especially for people who live alone.",
+            "vi": "Và như các nghiên cứu trước đã chỉ ra, cô đơn là một rủi ro sức khoẻ nghiêm trọng, nhất là với người sống một mình."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But an older society also has strengths that are often forgotten.",
+            "vi": "Nhưng một xã hội già đi cũng có những thế mạnh thường bị lãng quên."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Older people volunteer, care for grandchildren, start businesses and pass down skills that would otherwise be lost.",
+            "vi": "Người lớn tuổi làm tình nguyện, trông cháu, mở doanh nghiệp và truyền lại những kỹ năng mà nếu không thì sẽ mất."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some communities have started programs that bring generations together: in one well-known example in Seattle, a preschool has been running inside a home for older people since the early 1990s, and the children and residents paint, sing and eat together every week.",
+            "vi": "Một số cộng đồng đã mở các chương trình gắn kết các thế hệ: ở một ví dụ nổi tiếng tại Seattle, một trường mẫu giáo hoạt động ngay trong một viện dưỡng lão từ đầu những năm 1990, và trẻ em cùng người cao tuổi vẽ, hát và ăn cùng nhau mỗi tuần."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The question, then, is not whether America will grow older; it already is.",
+            "vi": "Vậy câu hỏi không phải là nước Mỹ có già đi hay không; nó đã đang già đi rồi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The question is whether communities will be designed so that the old and the young keep meeting each other, or whether they will live in separate worlds.",
+            "vi": "Câu hỏi là các cộng đồng có được thiết kế để người già và người trẻ tiếp tục gặp gỡ nhau, hay họ sẽ sống trong những thế giới tách biệt."
+          }
+        }
+      ],
+      "content_ja": "Growing Older Together: America's Changing Age\n\nThere have been many changes in American society over the last fifty years, but one of the biggest is also one of the quietest: the country is getting older. In 2022, more than 57 million Americans, about one in six, were aged 65 or older, and the number is growing every year. Experts expect that, within the next decade or so, older adults will outnumber children for the first time in the nation's history.\n\nThere are two main reasons. People are living longer, thanks to better medicine and healthier lives, and families are having fewer children than in the past. The large generation born after 1945, often called the baby boomers, has also now reached retirement age.\n\nThis change brings challenges. There have already been shortages of nurses and home care workers in many areas, and the cost of caring for the elderly is rising. Many adults in their fifties now find themselves caring for their parents and their teenage children at the same time, with little time left for themselves. And as earlier research has shown, loneliness is a serious health risk, especially for people who live alone.\n\nBut an older society also has strengths that are often forgotten. Older people volunteer, care for grandchildren, start businesses and pass down skills that would otherwise be lost. Some communities have started programs that bring generations together: in one well-known example in Seattle, a preschool has been running inside a home for older people since the early 1990s, and the children and residents paint, sing and eat together every week.\n\nThe question, then, is not whether America will grow older; it already is. The question is whether communities will be designed so that the old and the young keep meeting each other, or whether they will live in separate worlds.",
+      "translation_vn": "(1) Cùng nhau già đi: tuổi tác đang thay đổi của nước Mỹ\n(2) Xã hội Mỹ đã trải qua nhiều thay đổi trong năm mươi năm qua, nhưng một trong những thay đổi lớn nhất cũng là một trong những thay đổi lặng lẽ nhất: đất nước đang già đi.\n(3) Năm 2022, hơn 57 triệu người Mỹ, khoảng một phần sáu dân số, từ 65 tuổi trở lên, và con số này tăng lên mỗi năm.\n(4) Các chuyên gia dự đoán trong khoảng mười năm tới, lần đầu tiên trong lịch sử nước Mỹ, người lớn tuổi sẽ đông hơn trẻ em.\n(5) Có hai lý do chính. Người ta sống lâu hơn nhờ y học tốt hơn và lối sống lành mạnh hơn, và các gia đình sinh ít con hơn trước.\n(6) Thế hệ đông đảo sinh sau năm 1945, thường gọi là thế hệ bùng nổ dân số, giờ cũng đã tới tuổi nghỉ hưu.\n(7) Thay đổi này mang tới thách thức.\n(8) Ở nhiều nơi đã thiếu y tá và người chăm sóc tại nhà, và chi phí chăm sóc người cao tuổi đang tăng.\n(9) Nhiều người ngoài năm mươi giờ thấy mình vừa chăm bố mẹ vừa chăm con tuổi teen cùng lúc, chẳng còn mấy thời gian cho bản thân.\n(10) Và như các nghiên cứu trước đã chỉ ra, cô đơn là một rủi ro sức khoẻ nghiêm trọng, nhất là với người sống một mình.\n(11) Nhưng một xã hội già đi cũng có những thế mạnh thường bị lãng quên.\n(12) Người lớn tuổi làm tình nguyện, trông cháu, mở doanh nghiệp và truyền lại những kỹ năng mà nếu không thì sẽ mất.\n(13) Một số cộng đồng đã mở các chương trình gắn kết các thế hệ: ở một ví dụ nổi tiếng tại Seattle, một trường mẫu giáo hoạt động ngay trong một viện dưỡng lão từ đầu những năm 1990, và trẻ em cùng người cao tuổi vẽ, hát và ăn cùng nhau mỗi tuần.\n(14) Vậy câu hỏi không phải là nước Mỹ có già đi hay không; nó đã đang già đi rồi.\n(15) Câu hỏi là các cộng đồng có được thiết kế để người già và người trẻ tiếp tục gặp gỡ nhau, hay họ sẽ sống trong những thế giới tách biệt.",
+      "word_count": 302,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.109",
+        "b2.110",
+        "b2.111",
+        "b2.112"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2728_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What is the article about Megan mainly about?",
+        "vi": "Bài viết về Megan chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to become an emergency nurse",
+            "vi": "cách trở thành y tá cấp cứu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to become an emergency nurse",
+          "text_translation": "cách trở thành y tá cấp cứu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the history of Sunset Bay Hospital",
+            "vi": "lịch sử Bệnh viện Sunset Bay"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the history of Sunset Bay Hospital",
+          "text_translation": "lịch sử Bệnh viện Sunset Bay"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why hospitals need more interpreters",
+            "vi": "vì sao bệnh viện cần thêm phiên dịch"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why hospitals need more interpreters",
+          "text_translation": "vì sao bệnh viện cần thêm phiên dịch"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "why Megan learned Spanish and what it has meant for her work",
+            "vi": "vì sao Megan học tiếng Tây Ban Nha và điều đó có ý nghĩa gì với công việc của chị"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "why Megan learned Spanish and what it has meant for her work",
+          "text_translation": "vì sao Megan học tiếng Tây Ban Nha và điều đó có ý nghĩa gì với công việc của chị"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Last year, she decided to learn Spanish, and this month we asked her why.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the article about Megan mainly about?",
+      "question_vn": "Bài viết về Megan chủ yếu nói về điều gì?",
+      "explanation": "\"Last year, she decided to learn Spanish, and this month we asked her why.\""
+    },
+    {
+      "id": "q_u2728_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "Why can't interpreters always help patients?",
+        "vi": "Vì sao phiên dịch viên không phải lúc nào cũng giúp được bệnh nhân?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They don't speak Spanish.",
+            "vi": "Vì họ không nói tiếng Tây Ban Nha."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They don't speak Spanish.",
+          "text_translation": "Vì họ không nói tiếng Tây Ban Nha."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They can't be in every room at all hours, such as three in the morning.",
+            "vi": "Vì họ không thể có mặt ở mọi phòng vào mọi giờ, như lúc ba giờ sáng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They can't be in every room at all hours, such as three in the morning.",
+          "text_translation": "Vì họ không thể có mặt ở mọi phòng vào mọi giờ, như lúc ba giờ sáng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Patients don't trust them.",
+            "vi": "Vì bệnh nhân không tin họ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Patients don't trust them.",
+          "text_translation": "Vì bệnh nhân không tin họ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are too expensive.",
+            "vi": "Vì quá đắt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are too expensive.",
+          "text_translation": "Vì quá đắt."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"We have excellent interpreters, but they can't be in every room at three in the morning.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why can't interpreters always help patients?",
+      "question_vn": "Vì sao phiên dịch viên không phải lúc nào cũng giúp được bệnh nhân?",
+      "explanation": "\"We have excellent interpreters, but they can't be in every room at three in the morning.\""
+    },
+    {
+      "id": "q_u2728_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What happened on the night that changed Megan's mind?",
+        "vi": "Đêm đã khiến Megan đổi ý đã xảy ra chuyện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "A frightened elderly patient's ten-year-old grandson had to translate.",
+            "vi": "Cậu cháu mười tuổi của một bà cụ đang hoảng sợ phải phiên dịch."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "A frightened elderly patient's ten-year-old grandson had to translate.",
+          "text_translation": "Cậu cháu mười tuổi của một bà cụ đang hoảng sợ phải phiên dịch."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "An interpreter made a mistake.",
+            "vi": "Một phiên dịch viên dịch sai."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "An interpreter made a mistake.",
+          "text_translation": "Một phiên dịch viên dịch sai."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Megan was moved to a new department.",
+            "vi": "Megan được chuyển khoa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Megan was moved to a new department.",
+          "text_translation": "Megan được chuyển khoa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A patient refused to speak English.",
+            "vi": "Một bệnh nhân không chịu nói tiếng Anh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "A patient refused to speak English.",
+          "text_translation": "Một bệnh nhân không chịu nói tiếng Anh."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"An elderly woman with chest pain was too frightened to answer questions, and her ten-year-old grandson had to translate.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened on the night that changed Megan's mind?",
+      "question_vn": "Đêm đã khiến Megan đổi ý đã xảy ra chuyện gì?",
+      "explanation": "\"An elderly woman with chest pain was too frightened to answer questions, and her ten-year-old grandson had to translate.\""
+    },
+    {
+      "id": "q_u2728_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "Why do hospitals try not to use children as interpreters?",
+        "vi": "Vì sao bệnh viện cố không nhờ trẻ con phiên dịch?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because children speak too fast",
+            "vi": "vì trẻ nói quá nhanh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because children speak too fast",
+          "text_translation": "vì trẻ nói quá nhanh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because children don't know Spanish",
+            "vi": "vì trẻ không biết tiếng Tây Ban Nha"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because children don't know Spanish",
+          "text_translation": "vì trẻ không biết tiếng Tây Ban Nha"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it can be frightening for them and they may not understand medical information",
+            "vi": "vì việc đó có thể làm trẻ sợ hãi và trẻ có thể không hiểu thông tin y tế"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because it can be frightening for them and they may not understand medical information",
+          "text_translation": "vì việc đó có thể làm trẻ sợ hãi và trẻ có thể không hiểu thông tin y tế"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because children must be at school",
+            "vi": "vì trẻ phải đi học"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because children must be at school",
+          "text_translation": "vì trẻ phải đi học"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"He was terrified\". Một đứa trẻ mười tuổi phải dịch chuyện đau ngực của bà mình là quá sức, và dễ hiểu sai."
+      },
+      "audio_data": null,
+      "question_jp": "Why do hospitals try not to use children as interpreters?",
+      "question_vn": "Vì sao bệnh viện cố không nhờ trẻ con phiên dịch?",
+      "explanation": "Câu suy luận. \"He was terrified\". Một đứa trẻ mười tuổi phải dịch chuyện đau ngực của bà mình là quá sức, và dễ hiểu sai."
+    },
+    {
+      "id": "q_u2728_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What does \"The beginning was humbling\" mean?",
+        "vi": "Câu \"Khởi đầu thật khiến người ta khiêm tốn\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The beginning was very easy.",
+            "vi": "Khởi đầu rất dễ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The beginning was very easy.",
+          "text_translation": "Khởi đầu rất dễ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The class was expensive.",
+            "vi": "Lớp học đắt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The class was expensive.",
+          "text_translation": "Lớp học đắt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The app didn't work.",
+            "vi": "Ứng dụng không chạy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The app didn't work.",
+          "text_translation": "Ứng dụng không chạy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The beginning showed Megan how much she still had to learn.",
+            "vi": "Khởi đầu cho Megan thấy chị còn phải học nhiều tới mức nào."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The beginning showed Megan how much she still had to learn.",
+          "text_translation": "Khởi đầu cho Megan thấy chị còn phải học nhiều tới mức nào."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"The beginning was humbling.\" Câu sau giải thích: \"For months, I didn't dare to speak to real patients.\" Một y tá giàu kinh nghiệm bỗng thành người mới học."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"The beginning was humbling\" mean?",
+      "question_vn": "Câu \"Khởi đầu thật khiến người ta khiêm tốn\" nghĩa là gì?",
+      "explanation": "\"The beginning was humbling.\" Câu sau giải thích: \"For months, I didn't dare to speak to real patients.\" Một y tá giàu kinh nghiệm bỗng thành người mới học."
+    },
+    {
+      "id": "q_u2728_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What does \"I didn't dare to speak to real patients\" mean?",
+        "vi": "Câu \"I didn't dare to speak to real patients\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Megan was too afraid to speak to real patients.",
+            "vi": "Megan quá sợ, không dám nói với bệnh nhân thật."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Megan was too afraid to speak to real patients.",
+          "text_translation": "Megan quá sợ, không dám nói với bệnh nhân thật."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Megan wasn't allowed to speak.",
+            "vi": "Megan không được phép nói."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Megan wasn't allowed to speak.",
+          "text_translation": "Megan không được phép nói."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Megan didn't want to help patients.",
+            "vi": "Megan không muốn giúp bệnh nhân."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Megan didn't want to help patients.",
+          "text_translation": "Megan không muốn giúp bệnh nhân."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Megan spoke too much.",
+            "vi": "Megan nói quá nhiều."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Megan spoke too much.",
+          "text_translation": "Megan nói quá nhiều."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"I didn't dare to speak to real patients. I was afraid of saying something wrong\". Not dare to V = không dám làm gì."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I didn't dare to speak to real patients\" mean?",
+      "question_vn": "Câu \"I didn't dare to speak to real patients\" nghĩa là gì?",
+      "explanation": "\"I didn't dare to speak to real patients. I was afraid of saying something wrong\". Not dare to V = không dám làm gì."
+    },
+    {
+      "id": "q_u2728_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What does Marisol's \"How dare you be so perfect in English and so shy in Spanish?\" show?",
+        "vi": "Câu \"Sao chị dám hoàn hảo bằng tiếng Anh mà lại nhút nhát bằng tiếng Tây Ban Nha thế?\" của Marisol cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Marisol was really angry with Megan.",
+            "vi": "Marisol thật sự giận Megan."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Marisol was really angry with Megan.",
+          "text_translation": "Marisol thật sự giận Megan."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Marisol thinks that Megan's English is bad.",
+            "vi": "Marisol nghĩ tiếng Anh của Megan dở."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Marisol thinks that Megan's English is bad.",
+          "text_translation": "Marisol nghĩ tiếng Anh của Megan dở."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Marisol is teasing Megan to push her to try.",
+            "vi": "Marisol trêu Megan để thúc chị thử nói."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Marisol is teasing Megan to push her to try.",
+          "text_translation": "Marisol trêu Megan để thúc chị thử nói."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Marisol doesn't speak Spanish.",
+            "vi": "Marisol không nói tiếng Tây Ban Nha."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Marisol doesn't speak Spanish.",
+          "text_translation": "Marisol không nói tiếng Tây Ban Nha."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. How dare you…! thường dùng khi tức giận, nhưng ở đây Marisol dùng để đùa, rồi nói \"Just try!\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Marisol's \"How dare you be so perfect in English and so shy in Spanish?\" show?",
+      "question_vn": "Câu \"Sao chị dám hoàn hảo bằng tiếng Anh mà lại nhút nhát bằng tiếng Tây Ban Nha thế?\" của Marisol cho thấy điều gì?",
+      "explanation": "Câu suy luận về giọng điệu. How dare you…! thường dùng khi tức giận, nhưng ở đây Marisol dùng để đùa, rồi nói \"Just try!\"."
+    },
+    {
+      "id": "q_u2728_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What did Megan realize after her first sentence to a patient?",
+        "vi": "Sau câu nói đầu tiên với bệnh nhân, Megan nhận ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that her Spanish was perfect",
+            "vi": "rằng tiếng Tây Ban Nha của chị hoàn hảo"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that her Spanish was perfect",
+          "text_translation": "rằng tiếng Tây Ban Nha của chị hoàn hảo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that people don't need her to be perfect, but they need her to try",
+            "vi": "rằng người ta không cần chị hoàn hảo, họ cần chị cố gắng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "that people don't need her to be perfect, but they need her to try",
+          "text_translation": "rằng người ta không cần chị hoàn hảo, họ cần chị cố gắng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that she should stop learning",
+            "vi": "rằng chị nên thôi học"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that she should stop learning",
+          "text_translation": "rằng chị nên thôi học"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that patients prefer English",
+            "vi": "rằng bệnh nhân thích tiếng Anh hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that patients prefer English",
+          "text_translation": "rằng bệnh nhân thích tiếng Anh hơn"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"That's when I realized that people don't need me to be perfect. They need me to try.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Megan realize after her first sentence to a patient?",
+      "question_vn": "Sau câu nói đầu tiên với bệnh nhân, Megan nhận ra điều gì?",
+      "explanation": "\"That's when I realized that people don't need me to be perfect. They need me to try.\""
+    },
+    {
+      "id": "q_u2728_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "Why would Megan never explain a surgery in her Spanish?",
+        "vi": "Vì sao Megan sẽ không bao giờ giải thích ca phẫu thuật bằng tiếng Tây Ban Nha của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because serious medical decisions need a trained interpreter",
+            "vi": "vì quyết định y tế nghiêm trọng cần phiên dịch viên được đào tạo"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because serious medical decisions need a trained interpreter",
+          "text_translation": "vì quyết định y tế nghiêm trọng cần phiên dịch viên được đào tạo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because surgeons don't allow it",
+            "vi": "vì bác sĩ phẫu thuật không cho"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because surgeons don't allow it",
+          "text_translation": "vì bác sĩ phẫu thuật không cho"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because she doesn't work with surgeons",
+            "vi": "vì chị không làm cùng bác sĩ phẫu thuật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because she doesn't work with surgeons",
+          "text_translation": "vì chị không làm cùng bác sĩ phẫu thuật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because patients don't want to know",
+            "vi": "vì bệnh nhân không muốn biết"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because patients don't want to know",
+          "text_translation": "vì bệnh nhân không muốn biết"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"a few words do not replace a trained interpreter, especially for serious medical decisions.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why would Megan never explain a surgery in her Spanish?",
+      "question_vn": "Vì sao Megan sẽ không bao giờ giải thích ca phẫu thuật bằng tiếng Tây Ban Nha của mình?",
+      "explanation": "\"a few words do not replace a trained interpreter, especially for serious medical decisions.\""
+    },
+    {
+      "id": "q_u2728_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What does \"For a moment, the hospital is a little less foreign\" suggest?",
+        "vi": "Câu \"Trong một khoảnh khắc, bệnh viện bớt xa lạ đi một chút\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The hospital has moved to another country.",
+            "vi": "Bệnh viện đã chuyển sang nước khác."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The hospital has moved to another country.",
+          "text_translation": "Bệnh viện đã chuyển sang nước khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Patients don't like the hospital.",
+            "vi": "Bệnh nhân không thích bệnh viện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Patients don't like the hospital.",
+          "text_translation": "Bệnh nhân không thích bệnh viện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Hearing their own language makes patients feel more comfortable and less alone.",
+            "vi": "Được nghe tiếng mẹ đẻ khiến bệnh nhân thấy dễ chịu và bớt lẻ loi hơn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Hearing their own language makes patients feel more comfortable and less alone.",
+          "text_translation": "Được nghe tiếng mẹ đẻ khiến bệnh nhân thấy dễ chịu và bớt lẻ loi hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The hospital has hired foreign nurses.",
+            "vi": "Bệnh viện đã thuê y tá nước ngoài."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The hospital has hired foreign nurses.",
+          "text_translation": "Bệnh viện đã thuê y tá nước ngoài."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Their faces relax.\" Vài câu bằng tiếng mẹ đẻ làm nơi đáng sợ trở nên gần gũi hơn."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"For a moment, the hospital is a little less foreign\" suggest?",
+      "question_vn": "Câu \"Trong một khoảnh khắc, bệnh viện bớt xa lạ đi một chút\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"Their faces relax.\" Vài câu bằng tiếng mẹ đẻ làm nơi đáng sợ trở nên gần gũi hơn."
+    },
+    {
+      "id": "q_u2728_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Children should take care of older people.",
+            "vi": "Trẻ em nên chăm sóc người già."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Children should take care of older people.",
+          "text_translation": "Trẻ em nên chăm sóc người già."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "America is getting older, which brings both challenges and strengths.",
+            "vi": "Nước Mỹ đang già đi, điều này mang tới cả thách thức lẫn thế mạnh."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "America is getting older, which brings both challenges and strengths.",
+          "text_translation": "Nước Mỹ đang già đi, điều này mang tới cả thách thức lẫn thế mạnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Older people should work more.",
+            "vi": "Người già nên làm việc nhiều hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Older people should work more.",
+          "text_translation": "Người già nên làm việc nhiều hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Families should have more children.",
+            "vi": "Các gia đình nên sinh thêm con."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Families should have more children.",
+          "text_translation": "Các gia đình nên sinh thêm con."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"one of the biggest is also one of the quietest: the country is getting older.\" Bài có đoạn \"This change brings challenges\" và \"also has strengths\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"one of the biggest is also one of the quietest: the country is getting older.\" Bài có đoạn \"This change brings challenges\" và \"also has strengths\"."
+    },
+    {
+      "id": "q_u2728_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "In 2022, about what share of Americans were aged 65 or older?",
+        "vi": "Năm 2022, khoảng bao nhiêu phần dân số Mỹ từ 65 tuổi trở lên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about one in three",
+            "vi": "khoảng một phần ba"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "about one in three",
+          "text_translation": "khoảng một phần ba"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about half",
+            "vi": "khoảng một nửa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "about half",
+          "text_translation": "khoảng một nửa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "about one in ten",
+            "vi": "khoảng một phần mười"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "about one in ten",
+          "text_translation": "khoảng một phần mười"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "about one in six",
+            "vi": "khoảng một phần sáu"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "about one in six",
+          "text_translation": "khoảng một phần sáu"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"more than 57 million Americans, about one in six, were aged 65 or older\"."
+      },
+      "audio_data": null,
+      "question_jp": "In 2022, about what share of Americans were aged 65 or older?",
+      "question_vn": "Năm 2022, khoảng bao nhiêu phần dân số Mỹ từ 65 tuổi trở lên?",
+      "explanation": "\"more than 57 million Americans, about one in six, were aged 65 or older\"."
+    },
+    {
+      "id": "q_u2728_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "What do experts expect to happen within the next decade or so?",
+        "vi": "Các chuyên gia dự đoán điều gì sẽ xảy ra trong khoảng mười năm tới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Older adults will outnumber children for the first time.",
+            "vi": "Lần đầu tiên người lớn tuổi sẽ đông hơn trẻ em."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Older adults will outnumber children for the first time.",
+          "text_translation": "Lần đầu tiên người lớn tuổi sẽ đông hơn trẻ em."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Children will outnumber adults.",
+            "vi": "Trẻ em sẽ đông hơn người lớn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Children will outnumber adults.",
+          "text_translation": "Trẻ em sẽ đông hơn người lớn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Everyone will retire at 65.",
+            "vi": "Ai cũng nghỉ hưu ở tuổi 65."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Everyone will retire at 65.",
+          "text_translation": "Ai cũng nghỉ hưu ở tuổi 65."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The population will stop growing.",
+            "vi": "Dân số sẽ ngừng tăng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The population will stop growing.",
+          "text_translation": "Dân số sẽ ngừng tăng."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"older adults will outnumber children for the first time in the nation's history.\" Outnumber = đông hơn về số lượng."
+      },
+      "audio_data": null,
+      "question_jp": "What do experts expect to happen within the next decade or so?",
+      "question_vn": "Các chuyên gia dự đoán điều gì sẽ xảy ra trong khoảng mười năm tới?",
+      "explanation": "\"older adults will outnumber children for the first time in the nation's history.\" Outnumber = đông hơn về số lượng."
+    },
+    {
+      "id": "q_u2728_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "What are the two main reasons why the country is getting older?",
+        "vi": "Hai lý do chính khiến đất nước già đi là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "more immigration and more jobs",
+            "vi": "nhập cư nhiều hơn và nhiều việc làm hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "more immigration and more jobs",
+          "text_translation": "nhập cư nhiều hơn và nhiều việc làm hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "more pollution and fewer hospitals",
+            "vi": "ô nhiễm nhiều hơn và ít bệnh viện hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "more pollution and fewer hospitals",
+          "text_translation": "ô nhiễm nhiều hơn và ít bệnh viện hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "people are living longer, and families are having fewer children",
+            "vi": "người ta sống lâu hơn, và các gia đình sinh ít con hơn"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "people are living longer, and families are having fewer children",
+          "text_translation": "người ta sống lâu hơn, và các gia đình sinh ít con hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "people retire later and work more",
+            "vi": "người ta nghỉ hưu muộn và làm nhiều hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "people retire later and work more",
+          "text_translation": "người ta nghỉ hưu muộn và làm nhiều hơn"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"People are living longer, thanks to better medicine and healthier lives, and families are having fewer children than in the past.\""
+      },
+      "audio_data": null,
+      "question_jp": "What are the two main reasons why the country is getting older?",
+      "question_vn": "Hai lý do chính khiến đất nước già đi là gì?",
+      "explanation": "\"People are living longer, thanks to better medicine and healthier lives, and families are having fewer children than in the past.\""
+    },
+    {
+      "id": "q_u2728_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "In \"the cost of caring for the elderly is rising\", what does \"the elderly\" mean?",
+        "vi": "Trong câu \"the cost of caring for the elderly is rising\", \"the elderly\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "one old person",
+            "vi": "một người già"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "one old person",
+          "text_translation": "một người già"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "older people as a group",
+            "vi": "người cao tuổi nói chung"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "older people as a group",
+          "text_translation": "người cao tuổi nói chung"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "old buildings",
+            "vi": "những toà nhà cũ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "old buildings",
+          "text_translation": "những toà nhà cũ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the oldest child in a family",
+            "vi": "đứa con lớn nhất trong nhà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the oldest child in a family",
+          "text_translation": "đứa con lớn nhất trong nhà"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"the cost of caring for the elderly is rising.\" The + tính từ = cả nhóm người mang đặc điểm đó, động từ chia số nhiều."
+      },
+      "audio_data": null,
+      "question_jp": "In \"the cost of caring for the elderly is rising\", what does \"the elderly\" mean?",
+      "question_vn": "Trong câu \"the cost of caring for the elderly is rising\", \"the elderly\" nghĩa là gì?",
+      "explanation": "\"the cost of caring for the elderly is rising.\" The + tính từ = cả nhóm người mang đặc điểm đó, động từ chia số nhiều."
+    },
+    {
+      "id": "q_u2728_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "What problem do many adults in their fifties face?",
+        "vi": "Nhiều người ngoài năm mươi gặp khó khăn gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They can't find jobs.",
+            "vi": "Không tìm được việc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They can't find jobs.",
+          "text_translation": "Không tìm được việc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They have too much free time.",
+            "vi": "Có quá nhiều thời gian rảnh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They have too much free time.",
+          "text_translation": "Có quá nhiều thời gian rảnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have no parents.",
+            "vi": "Không còn bố mẹ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have no parents.",
+          "text_translation": "Không còn bố mẹ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They care for their parents and their teenage children at the same time.",
+            "vi": "Vừa chăm bố mẹ vừa chăm con tuổi teen cùng lúc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They care for their parents and their teenage children at the same time.",
+          "text_translation": "Vừa chăm bố mẹ vừa chăm con tuổi teen cùng lúc."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many adults in their fifties now find themselves caring for their parents and their teenage children at the same time\"."
+      },
+      "audio_data": null,
+      "question_jp": "What problem do many adults in their fifties face?",
+      "question_vn": "Nhiều người ngoài năm mươi gặp khó khăn gì?",
+      "explanation": "\"Many adults in their fifties now find themselves caring for their parents and their teenage children at the same time\"."
+    },
+    {
+      "id": "q_u2728_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "Which of these is given as a strength of older people?",
+        "vi": "Điều nào được nêu là thế mạnh của người lớn tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They pass down skills that would otherwise be lost.",
+            "vi": "Họ truyền lại những kỹ năng mà nếu không thì sẽ mất."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They pass down skills that would otherwise be lost.",
+          "text_translation": "Họ truyền lại những kỹ năng mà nếu không thì sẽ mất."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They don't need health care.",
+            "vi": "Họ không cần chăm sóc y tế."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They don't need health care.",
+          "text_translation": "Họ không cần chăm sóc y tế."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They never feel lonely.",
+            "vi": "Họ không bao giờ cô đơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They never feel lonely.",
+          "text_translation": "Họ không bao giờ cô đơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They have more children.",
+            "vi": "Họ sinh nhiều con hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They have more children.",
+          "text_translation": "Họ sinh nhiều con hơn."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Older people volunteer, care for grandchildren, start businesses and pass down skills that would otherwise be lost.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is given as a strength of older people?",
+      "question_vn": "Điều nào được nêu là thế mạnh của người lớn tuổi?",
+      "explanation": "\"Older people volunteer, care for grandchildren, start businesses and pass down skills that would otherwise be lost.\""
+    },
+    {
+      "id": "q_u2728_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "Why does the writer mention the preschool in Seattle?",
+        "vi": "Vì sao người viết nhắc tới trường mẫu giáo ở Seattle?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that preschools are expensive",
+            "vi": "để cho thấy mẫu giáo đắt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that preschools are expensive",
+          "text_translation": "để cho thấy mẫu giáo đắt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to advertise a school",
+            "vi": "để quảng cáo một trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to advertise a school",
+          "text_translation": "để quảng cáo một trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as an example of a program that brings the young and the old together",
+            "vi": "làm ví dụ về một chương trình gắn kết người trẻ và người già"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "as an example of a program that brings the young and the old together",
+          "text_translation": "làm ví dụ về một chương trình gắn kết người trẻ và người già"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that children don't like older people",
+            "vi": "để cho thấy trẻ không thích người già"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to show that children don't like older people",
+          "text_translation": "để cho thấy trẻ không thích người già"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng. \"Some communities have started programs that bring generations together\". Trường mẫu giáo ở Seattle là ví dụ minh hoạ."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention the preschool in Seattle?",
+      "question_vn": "Vì sao người viết nhắc tới trường mẫu giáo ở Seattle?",
+      "explanation": "Câu suy luận về chức năng. \"Some communities have started programs that bring generations together\". Trường mẫu giáo ở Seattle là ví dụ minh hoạ."
+    },
+    {
+      "id": "q_u2728_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "According to the writer, what is the real question for the future?",
+        "vi": "Theo người viết, câu hỏi thật sự cho tương lai là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "whether America will grow older",
+            "vi": "liệu nước Mỹ có già đi không"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "whether America will grow older",
+          "text_translation": "liệu nước Mỹ có già đi không"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "whether communities will keep the old and the young meeting each other",
+            "vi": "liệu các cộng đồng có giữ cho người già và người trẻ tiếp tục gặp gỡ nhau không"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "whether communities will keep the old and the young meeting each other",
+          "text_translation": "liệu các cộng đồng có giữ cho người già và người trẻ tiếp tục gặp gỡ nhau không"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "whether older people will stop working",
+            "vi": "liệu người già có thôi làm việc không"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "whether older people will stop working",
+          "text_translation": "liệu người già có thôi làm việc không"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "whether families will move to Seattle",
+            "vi": "liệu các gia đình có chuyển tới Seattle không"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "whether families will move to Seattle",
+          "text_translation": "liệu các gia đình có chuyển tới Seattle không"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"The question is whether communities will be designed so that the old and the young keep meeting each other\". Câu trước nói việc già đi đã đang xảy ra rồi."
+      },
+      "audio_data": null,
+      "question_jp": "According to the writer, what is the real question for the future?",
+      "question_vn": "Theo người viết, câu hỏi thật sự cho tương lai là gì?",
+      "explanation": "\"The question is whether communities will be designed so that the old and the young keep meeting each other\". Câu trước nói việc già đi đã đang xảy ra rồi."
+    },
+    {
+      "id": "q_u2728_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "Use both texts. Which idea do the two texts share?",
+        "vi": "Dựa vào cả hai bài. Hai bài có chung ý nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Older people should learn Spanish.",
+            "vi": "Người già nên học tiếng Tây Ban Nha."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Older people should learn Spanish.",
+          "text_translation": "Người già nên học tiếng Tây Ban Nha."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Hospitals have too many nurses.",
+            "vi": "Bệnh viện thừa y tá."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Hospitals have too many nurses.",
+          "text_translation": "Bệnh viện thừa y tá."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Children should work as interpreters.",
+            "vi": "Trẻ em nên làm phiên dịch."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Children should work as interpreters.",
+          "text_translation": "Trẻ em nên làm phiên dịch."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Making the effort to connect with people who are different from us makes a real difference.",
+            "vi": "Chịu khó kết nối với những người khác mình tạo ra khác biệt thật sự."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Making the effort to connect with people who are different from us makes a real difference.",
+          "text_translation": "Chịu khó kết nối với những người khác mình tạo ra khác biệt thật sự."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2 mong người già và người trẻ \"keep meeting each other\". Bài 1: Megan học vài câu tiếng Tây Ban Nha và bệnh viện \"is a little less foreign\" với bệnh nhân."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which idea do the two texts share?",
+      "question_vn": "Dựa vào cả hai bài. Hai bài có chung ý nào?",
+      "explanation": "Câu nối hai bài. Bài 2 mong người già và người trẻ \"keep meeting each other\". Bài 1: Megan học vài câu tiếng Tây Ban Nha và bệnh viện \"is a little less foreign\" với bệnh nhân."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2728_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 27) — Megan học tiếng Tây Ban Nha cho bệnh nhân",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2728_01",
+      "question_ids": [
+        "q_u2728_001",
+        "q_u2728_002",
+        "q_u2728_003",
+        "q_u2728_004",
+        "q_u2728_005",
+        "q_u2728_006",
+        "q_u2728_007",
+        "q_u2728_008",
+        "q_u2728_009",
+        "q_u2728_010"
+      ]
+    },
+    {
+      "set_id": "set_u2728_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 28) — Một xã hội đang già đi",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2728_02",
+      "question_ids": [
+        "q_u2728_011",
+        "q_u2728_012",
+        "q_u2728_013",
+        "q_u2728_014",
+        "q_u2728_015",
+        "q_u2728_016",
+        "q_u2728_017",
+        "q_u2728_018",
+        "q_u2728_019",
+        "q_u2728_020"
+      ]
+    }
+  ]
+}

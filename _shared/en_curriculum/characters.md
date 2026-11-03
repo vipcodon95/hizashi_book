@@ -155,6 +155,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | B2 | tháng 1, năm 7 | (Đề thi thử giữa sách) Bệnh viện Sunset Bay có hơn 300 tình nguyện viên (từ 16 tuổi, bố mẹ ký đơn; 1 ca 4 tiếng/tuần trong 6 tháng). **Bà Harriet viết thư cho Amy (9 tuổi) để mở năm 18 tuổi**: thôi hát từ năm 12 tuổi vì cô giáo chê giọng; nhắc ông (chồng bà Harriet, **đã mất**): tiếc đã cãi nhau chuyện vặt | 59 · mock1 |
 | B2 | tháng 1, năm 7 | Câu lạc bộ sách ở Harriet's đọc **Frankenstein**; Lydia viết ghi chép. Ethan bênh Victor ("chỉ là chàng trai trẻ hoảng loạn"), Harriet phản bác, Nathan nói câu hỏi trong sách rất hiện đại | 59 · u2324 |
 | B2 | tháng 2, năm 7 | **Ethan chạy siêu marathon 50 km đầu tiên** (đường mòn vùng núi phía đông San Diego), về đích 7 giờ 12 phút; tập 5 tháng; Leah đổi ca để chờ ở vạch đích, cầm biển "I'm so proud of you (and also: why?)". Từ mùa đông khó khăn năm 6, hai người giữ một buổi tối mỗi tuần cho nhau | 59 · u2526 |
+| B2 | tháng 3, năm 7 | **Megan (y tá cấp cứu ~20 năm ở Sunset Bay) học tiếng Tây Ban Nha** từ năm 6 (ứng dụng + lớp buổi tối ở trường cao đẳng cộng đồng) sau một đêm phải nhờ cậu bé 10 tuổi dịch cho bà mình; đồng nghiệp **Marisol** (người lạ) thúc chị nói. Được lên mục "People of the Month" trên bản tin nhân viên bệnh viện | 59 · u2728 |
 
 ## Còn mở
 
