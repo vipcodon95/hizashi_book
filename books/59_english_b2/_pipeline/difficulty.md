@@ -12,3 +12,4 @@
 | u1516 | [334, 320] từ, TB [23.1, 20.9] | báo cáo kế hoạch công viên bỏ túi (the fact that, ngôn ngữ quy trình, vị trí) + khoa học rừng tảo bẹ California (điều kiện loại 3, đảo ngữ Had); 6 câu suy luận (1 nối 2 bài) |
 | u1718 | [319, 345] từ, TB [19.4, 22.3] | nhật ký đếm chim di cư của Tina (see/hear + O + V) + bài loa thông minh trong gia đình (bị động tường thuật, find it + adj); 7 câu suy luận/ẩn dụ (1 nối 2 bài) |
 | u1920 | [354, 330] từ, TB [24.8, 23.1] | truyện clip lan truyền của Trevor (being + V3) + bài thuật toán đề xuất (câu chẻ, rào đón); 7 câu suy luận/chức năng/giọng điệu (1 nối 2 bài) |
+| u2122 | [330, 341] từ, TB [21.4, 23.7] | bài điểm kịch sân sau (such/so/too + a + adj + N) + bài phục chế tranh (as quan hệ; Night Watch, Rijksmuseum); 6 câu suy luận/mục đích/giọng điệu (1 nối 2 bài) |
