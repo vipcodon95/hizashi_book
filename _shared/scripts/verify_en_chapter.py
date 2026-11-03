@@ -117,7 +117,7 @@ def main(folder: Path) -> int:
     names |= {sp for sp in speakers if sp and sp not in CAST}
     phones = set(re.findall(r"\d{3}-\d{3}-\d{4}", alltxt))
     cast_phones = {"619-555-0142", "619-555-0187"}  # Megan, Leah (characters.md)
-    for other in sorted(folder.parent.glob("*/*.json")):
+    for other in sorted(folder.parent.parent.glob("5[6-9]_english_*/*/*.json")) + sorted(folder.parent.parent.glob("6[0-9]_english_*/*/*.json")):
         if other.parent == folder or other.parent.name.startswith("_"):
             continue
         od = json.load(open(other, encoding="utf-8"))
