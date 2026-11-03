@@ -1,0 +1,1333 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 11 — People and personality",
+      "vi": "Tính cách"
+    },
+    "title": "Unit 11 — People and personality",
+    "title_vn": "Tính cách",
+    "module_code": "57_u11",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u11",
+    "curriculum_sheets": [
+      "a2.41",
+      "a2.42",
+      "a2.43",
+      "a2.44"
+    ],
+    "characters": [
+      "Chloe Bennett",
+      "Leah Carter",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 4, năm 3 (tối thứ Tư; Chloe 25 tuổi, phục vụ ở Harriet's, vừa đi buổi hẹn đầu với Dustin, anh chàng quen qua app; Leah 24 tuổi, năm cuối trường y, đang \"nói chuyện\" với Ethan nhưng chưa hẹn hò)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Mệnh đề quan hệ who / which / that, Whose…?, look / seem / sound + tính từ; thông tin cụ thể, ý chính, nghĩa trong ngữ cảnh, quy chiếu, áp dụng, suy luận lý do, cảm xúc, tính cách (1 câu nối 2 bài)",
+    "description_vn": "Chloe nhắn tin kể với Leah buổi hẹn đầu với Dustin, anh chàng dắt chó thuê quen qua app, hẹn đúng ở quán Harriet's vào ngày cô nghỉ; và bài trắc nghiệm vui trên tạp chí \"What Kind of Friend Are You?\". 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 11 khoá A2 · phiếu `a2.41` – `a2.44` (tả tính cách, người như thế nào, ấn tượng đầu tiên, he looks tired: mệnh đề quan hệ who / which / that, Who…? / Whose…?, look / seem / sound / feel + tính từ)."
+    },
+    "objective_i18n": {
+      "vi": "đọc chuỗi tin nhắn Chloe kể với Leah về buổi hẹn đầu tiên với một anh chàng quen qua app, và bài trắc nghiệm tính cách vui trên tạp chí; hiểu mệnh đề quan hệ who / which / that, câu hỏi Whose…?, động từ nối look / seem / sound + tính từ; tìm thông tin cụ thể, ý chính, nghĩa trong ngữ cảnh, đại từ them chỉ gì, áp dụng kết quả trắc nghiệm, và suy ra lý do, cảm xúc, tính cách."
+    },
+    "extra_words": [
+      {
+        "word": "firefighter",
+        "i18n": {
+          "vi": "lính cứu hoả"
+        }
+      },
+      {
+        "word": "profile",
+        "i18n": {
+          "vi": "hồ sơ cá nhân (trên app)"
+        }
+      },
+      {
+        "word": "app",
+        "i18n": {
+          "vi": "ứng dụng (trên điện thoại)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "as always",
+          "vi": "như mọi lần"
+        }
+      },
+      {
+        "i18n": {
+          "en": "No way!",
+          "vi": "Không thể nào!"
+        }
+      },
+      {
+        "i18n": {
+          "en": "day off",
+          "vi": "ngày nghỉ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "The usual?",
+          "vi": "Vẫn món như mọi khi chứ?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a strong personality",
+          "vi": "cá tính mạnh"
+        }
+      },
+      {
+        "i18n": {
+          "en": "cheer (someone) up",
+          "vi": "làm (ai) vui lên"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Mệnh đề quan hệ làm chủ ngữ: **who** cho người (`people who work all day`), **which** cho vật (`a funny picture which you drew`), **that** cho cả hai (`the kind of person that never gets impatient`). Gặp danh từ + who / which / that thì đọc tiếp cả cụm: phần sau giải thích \"người / vật nào\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**look / seem / sound / feel + tính từ** = trông / có vẻ / nghe có vẻ / cảm thấy (`he looked amused`, `He sounds pleasant`). **look like + danh từ** = trông giống (`He looks exactly like his photos`). He sounds… thường là nhận xét qua lời người khác kể, không phải nghe giọng thật."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Whose + danh từ…?** hỏi chủ sở hữu (`Whose dog was it?`); câu trả lời hay dùng `It belongs to…` hoặc `It's mine / his / theirs`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài trắc nghiệm: câu hỏi \"X chọn phần lớn là A\" thì chỉ đọc mục **Mostly A**; phương án nhiễu hay lấy câu của mục B, C."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận (lý do, cảm xúc, tính cách): bài không nói thẳng. Gom dấu hiệu (gọi đúng tên, `the usual`, `as always`, chữ viết HOA) rồi loại phương án gắn chi tiết cho sai người."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u11_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tin nhắn Chloe kể với Leah về buổi hẹn đầu tiên"
+      },
+      "narrator": "Chloe",
+      "title": "A Date with a Dog",
+      "category": "letter",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Wednesday, 8:15 p.m.",
+            "vi": "Thứ Tư, 8 giờ 15 tối"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Leah, are you free? I need your advice, as always!",
+            "vi": "Leah ơi, cậu rảnh không? Mình cần lời khuyên của cậu, như mọi lần!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "The guy from the app? The one who writes poems in his profile?",
+            "vi": "Chuyện anh chàng trên app à? Cái anh viết thơ trong hồ sơ ấy?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Yes, Dustin! He looks exactly like his photos and has a really soft voice.",
+            "vi": "Đúng, Dustin! Anh ấy trông y hệt trong ảnh, và giọng nói nhẹ nhàng lắm."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "He walks dogs for people who work all day, so he brought a big brown one to our date.",
+            "vi": "Anh ấy dắt chó đi dạo thuê cho những người đi làm cả ngày, nên anh dắt theo một con chó nâu to tới buổi hẹn."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "A dog on a date? Whose dog was it?",
+            "vi": "Dắt chó đi hẹn hò á? Chó của ai thế?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "It belongs to a customer, but it sat on my feet the whole time!",
+            "vi": "Nó là chó của một khách hàng, nhưng suốt buổi nó ngồi lên chân mình!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Dustin seemed calm and gentle, the kind of person that never gets impatient. He also has a talent for funny stories.",
+            "vi": "Dustin có vẻ điềm tĩnh và hiền lành, kiểu người chẳng bao giờ mất kiên nhẫn. Anh ấy còn có tài kể chuyện cười nữa."
+          }
+        },
+        {
+          "n": 9,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "He sounds pleasant. Not like the man who talked about his car all night!",
+            "vi": "Nghe có vẻ dễ chịu đấy. Không giống cái ông nói về xe của ông ấy suốt cả buổi tối!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Now here's the strange part: he chose the café, and it was Harriet's!",
+            "vi": "Giờ tới đoạn lạ nè: anh ấy chọn quán cà phê, và đó là quán Harriet's!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "No way! On your day off?",
+            "vi": "Không thể nào! Đúng hôm cậu được nghỉ à?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Harriet didn't look surprised at all. She said, \"Hello, Dustin! The usual soup, dear?\"",
+            "vi": "Bà Harriet chẳng có vẻ ngạc nhiên chút nào. Bà nói: \"Chào Dustin! Vẫn món súp mọi khi hả cháu?\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "He has lunch there every Wednesday, and I never work on Wednesdays!",
+            "vi": "Thứ Tư nào anh ấy cũng ăn trưa ở đó, mà thứ Tư thì mình chẳng bao giờ đi làm!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Then she gave him a free piece of cake and said, \"Be nice to my Chloe. She has a strong personality!\"",
+            "vi": "Rồi bà cho anh ấy một miếng bánh miễn phí và nói: \"Đối xử tốt với Chloe của bà nhé. Con bé cá tính mạnh lắm đấy!\""
+          }
+        },
+        {
+          "n": 15,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "I wanted to look calm and gentle, and she told the truth in one minute!",
+            "vi": "Mình muốn tỏ ra điềm tĩnh và hiền lành, thế mà bà nói ra sự thật trong đúng một phút!"
+          }
+        },
+        {
+          "n": 16,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Did he run away?",
+            "vi": "Anh ấy có bỏ chạy không?"
+          }
+        },
+        {
+          "n": 17,
+          "para": 15,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "No, he looked amused and asked for a second date. Now, how's your firefighter who can't cook?",
+            "vi": "Không, trông anh ấy thích thú lắm, và anh còn hẹn buổi thứ hai. Giờ thì sao, anh lính cứu hoả không biết nấu ăn của cậu thế nào?"
+          }
+        },
+        {
+          "n": 18,
+          "para": 16,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "He's not MY firefighter! We're just talking. Every night. For hours.",
+            "vi": "Anh ấy không phải lính cứu hoả CỦA mình! Tụi mình chỉ đang nói chuyện thôi. Tối nào cũng nói. Hàng tiếng liền."
+          }
+        }
+      ],
+      "content_ja": "Wednesday, 8:15 p.m.\n\nChloe: Leah, are you free? I need your advice, as always!\n\nLeah: The guy from the app? The one who writes poems in his profile?\n\nChloe: Yes, Dustin! He looks exactly like his photos and has a really soft voice. He walks dogs for people who work all day, so he brought a big brown one to our date.\n\nLeah: A dog on a date? Whose dog was it?\n\nChloe: It belongs to a customer, but it sat on my feet the whole time!\n\nChloe: Dustin seemed calm and gentle, the kind of person that never gets impatient. He also has a talent for funny stories.\n\nLeah: He sounds pleasant. Not like the man who talked about his car all night!\n\nChloe: Now here's the strange part: he chose the café, and it was Harriet's!\n\nLeah: No way! On your day off?\n\nChloe: Harriet didn't look surprised at all. She said, \"Hello, Dustin! The usual soup, dear?\" He has lunch there every Wednesday, and I never work on Wednesdays!\n\nChloe: Then she gave him a free piece of cake and said, \"Be nice to my Chloe. She has a strong personality!\" I wanted to look calm and gentle, and she told the truth in one minute!\n\nLeah: Did he run away?\n\nChloe: No, he looked amused and asked for a second date. Now, how's your firefighter who can't cook?\n\nLeah: He's not MY firefighter! We're just talking. Every night. For hours.",
+      "translation_vn": "(1) Thứ Tư, 8 giờ 15 tối\n(2) Chloe: Leah ơi, cậu rảnh không? Mình cần lời khuyên của cậu, như mọi lần!\n(3) Leah: Chuyện anh chàng trên app à? Cái anh viết thơ trong hồ sơ ấy?\n(4) Chloe: Đúng, Dustin! Anh ấy trông y hệt trong ảnh, và giọng nói nhẹ nhàng lắm.\n(5) Chloe: Anh ấy dắt chó đi dạo thuê cho những người đi làm cả ngày, nên anh dắt theo một con chó nâu to tới buổi hẹn.\n(6) Leah: Dắt chó đi hẹn hò á? Chó của ai thế?\n(7) Chloe: Nó là chó của một khách hàng, nhưng suốt buổi nó ngồi lên chân mình!\n(8) Chloe: Dustin có vẻ điềm tĩnh và hiền lành, kiểu người chẳng bao giờ mất kiên nhẫn. Anh ấy còn có tài kể chuyện cười nữa.\n(9) Leah: Nghe có vẻ dễ chịu đấy. Không giống cái ông nói về xe của ông ấy suốt cả buổi tối!\n(10) Chloe: Giờ tới đoạn lạ nè: anh ấy chọn quán cà phê, và đó là quán Harriet's!\n(11) Leah: Không thể nào! Đúng hôm cậu được nghỉ à?\n(12) Chloe: Bà Harriet chẳng có vẻ ngạc nhiên chút nào. Bà nói: \"Chào Dustin! Vẫn món súp mọi khi hả cháu?\"\n(13) Chloe: Thứ Tư nào anh ấy cũng ăn trưa ở đó, mà thứ Tư thì mình chẳng bao giờ đi làm!\n(14) Chloe: Rồi bà cho anh ấy một miếng bánh miễn phí và nói: \"Đối xử tốt với Chloe của bà nhé. Con bé cá tính mạnh lắm đấy!\"\n(15) Chloe: Mình muốn tỏ ra điềm tĩnh và hiền lành, thế mà bà nói ra sự thật trong đúng một phút!\n(16) Leah: Anh ấy có bỏ chạy không?\n(17) Chloe: Không, trông anh ấy thích thú lắm, và anh còn hẹn buổi thứ hai. Giờ thì sao, anh lính cứu hoả không biết nấu ăn của cậu thế nào?\n(18) Leah: Anh ấy không phải lính cứu hoả CỦA mình! Tụi mình chỉ đang nói chuyện thôi. Tối nào cũng nói. Hàng tiếng liền.",
+      "word_count": 230,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.41",
+        "a2.42",
+        "a2.43",
+        "a2.44"
+      ]
+    },
+    {
+      "id": "passage_u11_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài trắc nghiệm vui trên tạp chí: Bạn là kiểu bạn bè nào?"
+      },
+      "narrator": "announcer",
+      "title": "What Kind of Friend Are You?",
+      "category": "article",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What Kind of Friend Are You?",
+            "vi": "Bạn là kiểu bạn bè nào?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every group of friends has different personalities.",
+            "vi": "Nhóm bạn nào cũng có những tính cách khác nhau."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Answer three questions, then count your letters!",
+            "vi": "Hãy trả lời ba câu hỏi, rồi đếm xem bạn chọn chữ nào nhiều nhất!"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "1. Your friend had a bad day. What do you do?",
+            "vi": "1. Bạn của bạn vừa có một ngày tồi tệ. Bạn làm gì?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A. Take her out dancing to cheer her up. B. Make her some tea and listen quietly. C. Send her a funny picture which you drew.",
+            "vi": "A. Rủ cô ấy đi nhảy cho vui lên. B. Pha cho cô ấy chút trà và lặng lẽ lắng nghe. C. Gửi cho cô ấy một bức tranh vui do bạn vẽ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "2. It's your friend's birthday. What's your gift?",
+            "vi": "2. Hôm nay là sinh nhật bạn của bạn. Quà của bạn là gì?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A. A surprise party with a big crowd. B. A book that she has wanted for months. C. A song that you wrote for her.",
+            "vi": "A. Một bữa tiệc bất ngờ thật đông người. B. Một cuốn sách cô ấy đã muốn có từ mấy tháng nay. C. Một bài hát do bạn viết tặng cô ấy."
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "3. Your group is planning a trip. Who are you?",
+            "vi": "3. Nhóm bạn đang lên kế hoạch đi chơi. Bạn là ai?"
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A. The person who wakes everybody up at 6 a.m. B. The person who remembers the tickets and snacks. C. The person who takes photos of everything.",
+            "vi": "A. Người gọi cả nhóm dậy lúc 6 giờ sáng. B. Người nhớ mang vé và đồ ăn vặt. C. Người chụp ảnh mọi thứ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your Results",
+            "vi": "Kết quả của bạn"
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mostly A: The Party Starter. You are an energetic, confident friend who brings fun everywhere.",
+            "vi": "Phần lớn là A: Người khuấy động cuộc vui. Bạn là người bạn năng động, tự tin, đi đâu cũng mang niềm vui tới."
+          }
+        },
+        {
+          "n": 12,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Life is never boring with you, but you can be impatient. Slow down and listen too!",
+            "vi": "Ở bên bạn thì cuộc sống chẳng bao giờ nhàm chán, nhưng bạn có thể hơi thiếu kiên nhẫn. Hãy chậm lại và lắng nghe nữa nhé!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mostly B: The Wise Owl. You are the gentle friend that people call at midnight.",
+            "vi": "Phần lớn là B: Chú cú thông thái. Bạn là người bạn hiền lành mà mọi người gọi lúc nửa đêm."
+          }
+        },
+        {
+          "n": 14,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You stay calm when others panic, and your advice is usually right.",
+            "vi": "Bạn giữ bình tĩnh khi người khác cuống lên, và lời khuyên của bạn thường đúng."
+          }
+        },
+        {
+          "n": 15,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mostly C: The Artist. You are a playful, creative friend who sees the world in a different way.",
+            "vi": "Phần lớn là C: Người nghệ sĩ. Bạn là người bạn tinh nghịch, sáng tạo, nhìn thế giới theo một cách khác."
+          }
+        },
+        {
+          "n": 16,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your creativity makes people smile, but you sometimes forget plans. Write them down!",
+            "vi": "Sự sáng tạo của bạn làm mọi người mỉm cười, nhưng đôi khi bạn quên mất các kế hoạch. Hãy ghi chúng lại!"
+          }
+        },
+        {
+          "n": 17,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is no wrong answer here: every group needs a little A, B and C!",
+            "vi": "Ở đây không có câu trả lời nào sai: nhóm nào cũng cần một chút A, B và C!"
+          }
+        }
+      ],
+      "content_ja": "What Kind of Friend Are You?\n\nEvery group of friends has different personalities. Answer three questions, then count your letters!\n\n1. Your friend had a bad day. What do you do?\n\nA. Take her out dancing to cheer her up. B. Make her some tea and listen quietly. C. Send her a funny picture which you drew.\n\n2. It's your friend's birthday. What's your gift?\n\nA. A surprise party with a big crowd. B. A book that she has wanted for months. C. A song that you wrote for her.\n\n3. Your group is planning a trip. Who are you?\n\nA. The person who wakes everybody up at 6 a.m. B. The person who remembers the tickets and snacks. C. The person who takes photos of everything.\n\nYour Results\n\nMostly A: The Party Starter. You are an energetic, confident friend who brings fun everywhere. Life is never boring with you, but you can be impatient. Slow down and listen too!\n\nMostly B: The Wise Owl. You are the gentle friend that people call at midnight. You stay calm when others panic, and your advice is usually right.\n\nMostly C: The Artist. You are a playful, creative friend who sees the world in a different way. Your creativity makes people smile, but you sometimes forget plans. Write them down!\n\nThere is no wrong answer here: every group needs a little A, B and C!",
+      "translation_vn": "(1) Bạn là kiểu bạn bè nào?\n(2) Nhóm bạn nào cũng có những tính cách khác nhau.\n(3) Hãy trả lời ba câu hỏi, rồi đếm xem bạn chọn chữ nào nhiều nhất!\n(4) 1. Bạn của bạn vừa có một ngày tồi tệ. Bạn làm gì?\n(5) A. Rủ cô ấy đi nhảy cho vui lên. B. Pha cho cô ấy chút trà và lặng lẽ lắng nghe. C. Gửi cho cô ấy một bức tranh vui do bạn vẽ.\n(6) 2. Hôm nay là sinh nhật bạn của bạn. Quà của bạn là gì?\n(7) A. Một bữa tiệc bất ngờ thật đông người. B. Một cuốn sách cô ấy đã muốn có từ mấy tháng nay. C. Một bài hát do bạn viết tặng cô ấy.\n(8) 3. Nhóm bạn đang lên kế hoạch đi chơi. Bạn là ai?\n(9) A. Người gọi cả nhóm dậy lúc 6 giờ sáng. B. Người nhớ mang vé và đồ ăn vặt. C. Người chụp ảnh mọi thứ.\n(10) Kết quả của bạn\n(11) Phần lớn là A: Người khuấy động cuộc vui. Bạn là người bạn năng động, tự tin, đi đâu cũng mang niềm vui tới.\n(12) Ở bên bạn thì cuộc sống chẳng bao giờ nhàm chán, nhưng bạn có thể hơi thiếu kiên nhẫn. Hãy chậm lại và lắng nghe nữa nhé!\n(13) Phần lớn là B: Chú cú thông thái. Bạn là người bạn hiền lành mà mọi người gọi lúc nửa đêm.\n(14) Bạn giữ bình tĩnh khi người khác cuống lên, và lời khuyên của bạn thường đúng.\n(15) Phần lớn là C: Người nghệ sĩ. Bạn là người bạn tinh nghịch, sáng tạo, nhìn thế giới theo một cách khác.\n(16) Sự sáng tạo của bạn làm mọi người mỉm cười, nhưng đôi khi bạn quên mất các kế hoạch. Hãy ghi chúng lại!\n(17) Ở đây không có câu trả lời nào sai: nhóm nào cũng cần một chút A, B và C!",
+      "word_count": 230,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.41",
+        "a2.42",
+        "a2.43",
+        "a2.44"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u11_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "Why did Dustin bring a dog to the date?",
+        "vi": "Vì sao Dustin dắt một con chó tới buổi hẹn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is his own dog, and he takes it everywhere.",
+            "vi": "Đó là chó của anh ấy, và anh dắt nó đi khắp nơi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is his own dog, and he takes it everywhere.",
+          "text_translation": "Đó là chó của anh ấy, và anh dắt nó đi khắp nơi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He walks dogs for people who work all day.",
+            "vi": "Anh ấy dắt chó đi dạo thuê cho những người đi làm cả ngày."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He walks dogs for people who work all day.",
+          "text_translation": "Anh ấy dắt chó đi dạo thuê cho những người đi làm cả ngày."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet asked him to bring it to the café.",
+            "vi": "Bà Harriet nhờ anh ấy dắt nó tới quán."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet asked him to bring it to the café.",
+          "text_translation": "Bà Harriet nhờ anh ấy dắt nó tới quán."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Chloe wanted to meet his dog.",
+            "vi": "Chloe muốn gặp con chó của anh ấy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Chloe wanted to meet his dog.",
+          "text_translation": "Chloe muốn gặp con chó của anh ấy."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"He walks dogs for people who work all day, so he brought a big brown one to our date.\" Khi Leah hỏi \"Whose dog was it?\", Chloe đáp \"It belongs to a customer\": con chó là của một khách hàng, không phải của Dustin. Bà Harriet chỉ xuất hiện ở quán, bà không nhờ gì cả. Bài không nói Chloe muốn gặp con chó."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why? hay có đáp án ngay trước chữ so. Whose dog…? = chó của ai; câu trả lời It belongs to… (nó thuộc về…) cho biết chủ thật."
+      },
+      "question_jp": "Why did Dustin bring a dog to the date?",
+      "question_vn": "Vì sao Dustin dắt một con chó tới buổi hẹn?",
+      "explanation": "\"He walks dogs for people who work all day, so he brought a big brown one to our date.\" Khi Leah hỏi \"Whose dog was it?\", Chloe đáp \"It belongs to a customer\": con chó là của một khách hàng, không phải của Dustin. Bà Harriet chỉ xuất hiện ở quán, bà không nhờ gì cả. Bài không nói Chloe muốn gặp con chó.",
+      "tip": "Câu hỏi Why? hay có đáp án ngay trước chữ so. Whose dog…? = chó của ai; câu trả lời It belongs to… (nó thuộc về…) cho biết chủ thật."
+    },
+    {
+      "id": "q_u11_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "What does Leah mean by \"He sounds pleasant\"?",
+        "vi": "Leah muốn nói gì khi viết \"He sounds pleasant\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She heard Dustin's soft voice on the phone.",
+            "vi": "Cô ấy đã nghe giọng nói nhẹ nhàng của Dustin qua điện thoại."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She heard Dustin's soft voice on the phone.",
+          "text_translation": "Cô ấy đã nghe giọng nói nhẹ nhàng của Dustin qua điện thoại."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Dustin talks too much, like the man with the car.",
+            "vi": "Dustin nói nhiều quá, giống cái ông có chiếc xe."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Dustin talks too much, like the man with the car.",
+          "text_translation": "Dustin nói nhiều quá, giống cái ông có chiếc xe."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Dustin seems nervous and impatient.",
+            "vi": "Dustin có vẻ lo lắng và thiếu kiên nhẫn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Dustin seems nervous and impatient.",
+          "text_translation": "Dustin có vẻ lo lắng và thiếu kiên nhẫn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "From Chloe's words, Dustin seems like a nice person.",
+            "vi": "Qua lời Chloe kể, Dustin có vẻ là người dễ mến."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "From Chloe's words, Dustin seems like a nice person.",
+          "text_translation": "Qua lời Chloe kể, Dustin có vẻ là người dễ mến."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Chloe vừa tả \"Dustin seemed calm and gentle, the kind of person that never gets impatient\", rồi Leah đáp \"He sounds pleasant\". Ở đây sound + tính từ nghĩa là \"nghe (qua lời kể) có vẻ…\", không phải Leah nghe giọng anh ấy: bài không có chi tiết nào cho thấy Leah từng nghe giọng Dustin, cô chỉ biết anh qua hồ sơ trên app (\"The one who writes poems in his profile?\"). Cái ông nói về xe \"all night\" là người Leah đem ra so sánh (\"Not like the man…\"), tức là Dustin khác ông ấy. Chloe nói Dustin không bao giờ mất kiên nhẫn, nên phương án nói anh ấy thiếu kiên nhẫn là sai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "look / seem / sound + tính từ = trông / có vẻ / nghe có vẻ. Khi nghe ai kể về một người, câu đáp He sounds nice. nghĩa là \"nghe cậu kể thì anh ấy có vẻ dễ mến\"."
+      },
+      "question_jp": "What does Leah mean by \"He sounds pleasant\"?",
+      "question_vn": "Leah muốn nói gì khi viết \"He sounds pleasant\"?",
+      "explanation": "Chloe vừa tả \"Dustin seemed calm and gentle, the kind of person that never gets impatient\", rồi Leah đáp \"He sounds pleasant\". Ở đây sound + tính từ nghĩa là \"nghe (qua lời kể) có vẻ…\", không phải Leah nghe giọng anh ấy: bài không có chi tiết nào cho thấy Leah từng nghe giọng Dustin, cô chỉ biết anh qua hồ sơ trên app (\"The one who writes poems in his profile?\"). Cái ông nói về xe \"all night\" là người Leah đem ra so sánh (\"Not like the man…\"), tức là Dustin khác ông ấy. Chloe nói Dustin không bao giờ mất kiên nhẫn, nên phương án nói anh ấy thiếu kiên nhẫn là sai.",
+      "tip": "look / seem / sound + tính từ = trông / có vẻ / nghe có vẻ. Khi nghe ai kể về một người, câu đáp He sounds nice. nghĩa là \"nghe cậu kể thì anh ấy có vẻ dễ mến\"."
+    },
+    {
+      "id": "q_u11_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "Why didn't Harriet look surprised when Dustin came in?",
+        "vi": "Vì sao bà Harriet chẳng có vẻ ngạc nhiên khi Dustin bước vào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He often has lunch at her café, so she already knew him.",
+            "vi": "Anh ấy hay ăn trưa ở quán bà, nên bà đã biết anh từ trước."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He often has lunch at her café, so she already knew him.",
+          "text_translation": "Anh ấy hay ăn trưa ở quán bà, nên bà đã biết anh từ trước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Chloe told her about the date before.",
+            "vi": "Chloe đã kể với bà về buổi hẹn từ trước."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Chloe told her about the date before.",
+          "text_translation": "Chloe đã kể với bà về buổi hẹn từ trước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She saw his photos on the app.",
+            "vi": "Bà đã xem ảnh của anh ấy trên app."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She saw his photos on the app.",
+          "text_translation": "Bà đã xem ảnh của anh ấy trên app."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dustin is a member of Harriet's family.",
+            "vi": "Dustin là người trong gia đình bà Harriet."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Dustin is a member of Harriet's family.",
+          "text_translation": "Dustin là người trong gia đình bà Harriet."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do, nhưng ta suy ra được. Bà chào \"Hello, Dustin! The usual soup, dear?\": bà gọi đúng tên anh và biết anh hay gọi món gì (\"the usual\" = món như mọi khi). Ngay sau đó Chloe giải thích \"He has lunch there every Wednesday, and I never work on Wednesdays!\": anh là khách quen, chỉ là tới đúng ngày Chloe không đi làm nên Chloe chưa từng gặp. Bài không nói Chloe kể trước với bà, hay bà xem app. Bài cũng không nói Dustin là người nhà bà Harriet."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: ghép lời nói của nhân vật (gọi tên, \"the usual\") với câu giải thích ngay sau đó. Phương án nghe hợp lý nhưng bài không nhắc tới (kể trước, xem app) là phương án nhiễu."
+      },
+      "question_jp": "Why didn't Harriet look surprised when Dustin came in?",
+      "question_vn": "Vì sao bà Harriet chẳng có vẻ ngạc nhiên khi Dustin bước vào?",
+      "explanation": "Bài không nói thẳng lý do, nhưng ta suy ra được. Bà chào \"Hello, Dustin! The usual soup, dear?\": bà gọi đúng tên anh và biết anh hay gọi món gì (\"the usual\" = món như mọi khi). Ngay sau đó Chloe giải thích \"He has lunch there every Wednesday, and I never work on Wednesdays!\": anh là khách quen, chỉ là tới đúng ngày Chloe không đi làm nên Chloe chưa từng gặp. Bài không nói Chloe kể trước với bà, hay bà xem app. Bài cũng không nói Dustin là người nhà bà Harriet.",
+      "tip": "Câu suy luận: ghép lời nói của nhân vật (gọi tên, \"the usual\") với câu giải thích ngay sau đó. Phương án nghe hợp lý nhưng bài không nhắc tới (kể trước, xem app) là phương án nhiễu."
+    },
+    {
+      "id": "q_u11_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "Why does Chloe write \"she told the truth in one minute\"?",
+        "vi": "Vì sao Chloe viết \"she told the truth in one minute\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is angry because Harriet gave Dustin a free piece of cake.",
+            "vi": "Cô ấy giận vì bà Harriet cho Dustin miếng bánh miễn phí."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is angry because Harriet gave Dustin a free piece of cake.",
+          "text_translation": "Cô ấy giận vì bà Harriet cho Dustin miếng bánh miễn phí."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet said Dustin has a strong personality.",
+            "vi": "Bà Harriet nói Dustin có cá tính mạnh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet said Dustin has a strong personality.",
+          "text_translation": "Bà Harriet nói Dustin có cá tính mạnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe wanted to look calm and gentle, but Harriet quickly showed her real personality.",
+            "vi": "Chloe muốn tỏ ra điềm tĩnh, hiền lành, nhưng bà Harriet đã nhanh chóng để lộ tính cách thật của cô."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Chloe wanted to look calm and gentle, but Harriet quickly showed her real personality.",
+          "text_translation": "Chloe muốn tỏ ra điềm tĩnh, hiền lành, nhưng bà Harriet đã nhanh chóng để lộ tính cách thật của cô."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dustin told Harriet the truth about the dog.",
+            "vi": "Dustin nói với bà Harriet sự thật về con chó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Dustin told Harriet the truth about the dog.",
+          "text_translation": "Dustin nói với bà Harriet sự thật về con chó."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, phải suy ra. Bà Harriet nói về Chloe: \"Be nice to my Chloe. She has a strong personality!\" Chloe viết \"I wanted to look calm and gentle, and she told the truth in one minute!\": Chloe định tỏ ra là người điềm tĩnh, hiền lành giống Dustin, nhưng \"sự thật\" là cô sôi nổi, cá tính mạnh, và bà đã nói ra ngay. Giọng Chloe là ngượng mà buồn cười, không phải giận: miếng bánh chỉ là chi tiết bên lề. \"She has a strong personality\" nói về Chloe, không phải Dustin. Bài không có chuyện Dustin nói gì với bà Harriet về con chó."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Muốn hiểu \"the truth\" là sự thật gì, tìm câu ngay trước: I wanted to look… (điều người nói muốn tỏ ra) đối lập với lời bà Harriet vừa nói (điều có thật)."
+      },
+      "question_jp": "Why does Chloe write \"she told the truth in one minute\"?",
+      "question_vn": "Vì sao Chloe viết \"she told the truth in one minute\"?",
+      "explanation": "Bài không nói thẳng, phải suy ra. Bà Harriet nói về Chloe: \"Be nice to my Chloe. She has a strong personality!\" Chloe viết \"I wanted to look calm and gentle, and she told the truth in one minute!\": Chloe định tỏ ra là người điềm tĩnh, hiền lành giống Dustin, nhưng \"sự thật\" là cô sôi nổi, cá tính mạnh, và bà đã nói ra ngay. Giọng Chloe là ngượng mà buồn cười, không phải giận: miếng bánh chỉ là chi tiết bên lề. \"She has a strong personality\" nói về Chloe, không phải Dustin. Bài không có chuyện Dustin nói gì với bà Harriet về con chó.",
+      "tip": "Muốn hiểu \"the truth\" là sự thật gì, tìm câu ngay trước: I wanted to look… (điều người nói muốn tỏ ra) đối lập với lời bà Harriet vừa nói (điều có thật)."
+    },
+    {
+      "id": "q_u11_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "What does Leah say about the firefighter?",
+        "vi": "Leah nói gì về anh lính cứu hoả?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is her boyfriend now.",
+            "vi": "Bây giờ anh ấy là bạn trai của cô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is her boyfriend now.",
+          "text_translation": "Bây giờ anh ấy là bạn trai của cô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are only talking, but they talk every night for hours.",
+            "vi": "Hai người chỉ đang nói chuyện thôi, nhưng tối nào cũng nói hàng tiếng liền."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They are only talking, but they talk every night for hours.",
+          "text_translation": "Hai người chỉ đang nói chuyện thôi, nhưng tối nào cũng nói hàng tiếng liền."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He cooked a nice dinner for her.",
+            "vi": "Anh ấy nấu cho cô một bữa tối ngon."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He cooked a nice dinner for her.",
+          "text_translation": "Anh ấy nấu cho cô một bữa tối ngon."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He asked her for a second date.",
+            "vi": "Anh ấy hẹn cô buổi thứ hai."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He asked her for a second date.",
+          "text_translation": "Anh ấy hẹn cô buổi thứ hai."
+        }
+      ],
+      "evidence_segments": [
+        17,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"He's not MY firefighter! We're just talking. Every night. For hours.\" Leah nói anh ấy chưa phải \"của mình\", tức là chưa phải bạn trai, hai người chỉ đang nói chuyện. Nhưng tối nào cũng nói hàng tiếng, nên ta đoán được Leah thích anh ấy. Chloe gọi anh là \"your firefighter who can't cook\", nên anh không nấu bữa tối ngon nào. Người hẹn buổi thứ hai là Dustin, với Chloe."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Chữ viết HOA trong tin nhắn (MY) là chỗ người viết nhấn mạnh. Câu ngắn dồn dập ở cuối (Every night. For hours.) thường hé lộ cảm xúc thật."
+      },
+      "question_jp": "What does Leah say about the firefighter?",
+      "question_vn": "Leah nói gì về anh lính cứu hoả?",
+      "explanation": "\"He's not MY firefighter! We're just talking. Every night. For hours.\" Leah nói anh ấy chưa phải \"của mình\", tức là chưa phải bạn trai, hai người chỉ đang nói chuyện. Nhưng tối nào cũng nói hàng tiếng, nên ta đoán được Leah thích anh ấy. Chloe gọi anh là \"your firefighter who can't cook\", nên anh không nấu bữa tối ngon nào. Người hẹn buổi thứ hai là Dustin, với Chloe.",
+      "tip": "Chữ viết HOA trong tin nhắn (MY) là chỗ người viết nhấn mạnh. Câu ngắn dồn dập ở cuối (Every night. For hours.) thường hé lộ cảm xúc thật."
+    },
+    {
+      "id": "q_u11_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "What is the magazine quiz for?",
+        "vi": "Bài trắc nghiệm trên tạp chí này để làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to help readers discover what kind of friend they are",
+            "vi": "giúp người đọc khám phá xem mình là kiểu bạn bè nào"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to help readers discover what kind of friend they are",
+          "text_translation": "giúp người đọc khám phá xem mình là kiểu bạn bè nào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to help readers choose the best birthday gift",
+            "vi": "giúp người đọc chọn món quà sinh nhật tốt nhất"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to help readers choose the best birthday gift",
+          "text_translation": "giúp người đọc chọn món quà sinh nhật tốt nhất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to help friends plan a trip",
+            "vi": "giúp nhóm bạn lên kế hoạch đi chơi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to help friends plan a trip",
+          "text_translation": "giúp nhóm bạn lên kế hoạch đi chơi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to teach readers how to draw funny pictures",
+            "vi": "dạy người đọc cách vẽ tranh vui"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to teach readers how to draw funny pictures",
+          "text_translation": "dạy người đọc cách vẽ tranh vui"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        2,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề là \"What Kind of Friend Are You?\", và bài mở đầu \"Every group of friends has different personalities. Answer three questions, then count your letters!\" Đếm chữ xong thì xem \"Your Results\" để biết mình là kiểu bạn nào. Quà sinh nhật, chuyến đi và bức tranh vui chỉ là chi tiết trong từng câu hỏi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Ý chính / mục đích của bài: đọc tiêu đề và câu mở bài. Phương án chỉ lặp lại một câu hỏi nhỏ trong bài là phương án nhiễu."
+      },
+      "question_jp": "What is the magazine quiz for?",
+      "question_vn": "Bài trắc nghiệm trên tạp chí này để làm gì?",
+      "explanation": "Tiêu đề là \"What Kind of Friend Are You?\", và bài mở đầu \"Every group of friends has different personalities. Answer three questions, then count your letters!\" Đếm chữ xong thì xem \"Your Results\" để biết mình là kiểu bạn nào. Quà sinh nhật, chuyến đi và bức tranh vui chỉ là chi tiết trong từng câu hỏi.",
+      "tip": "Ý chính / mục đích của bài: đọc tiêu đề và câu mở bài. Phương án chỉ lặp lại một câu hỏi nhỏ trong bài là phương án nhiễu."
+    },
+    {
+      "id": "q_u11_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "Chloe chooses mostly A. What does the quiz say about her?",
+        "vi": "Chloe chọn phần lớn là A. Bài trắc nghiệm nói gì về cô ấy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She stays calm when others panic.",
+            "vi": "Cô ấy giữ bình tĩnh khi người khác cuống lên."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She stays calm when others panic.",
+          "text_translation": "Cô ấy giữ bình tĩnh khi người khác cuống lên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She sometimes forgets plans.",
+            "vi": "Đôi khi cô ấy quên mất các kế hoạch."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She sometimes forgets plans.",
+          "text_translation": "Đôi khi cô ấy quên mất các kế hoạch."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She can be impatient, so she should slow down and listen.",
+            "vi": "Cô ấy có thể hơi thiếu kiên nhẫn, nên cô nên chậm lại và lắng nghe."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She can be impatient, so she should slow down and listen.",
+          "text_translation": "Cô ấy có thể hơi thiếu kiên nhẫn, nên cô nên chậm lại và lắng nghe."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her advice is usually right.",
+            "vi": "Lời khuyên của cô ấy thường đúng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her advice is usually right.",
+          "text_translation": "Lời khuyên của cô ấy thường đúng."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Phần lớn là A thì kết quả là \"Mostly A: The Party Starter. You are an energetic, confident friend who brings fun everywhere. Life is never boring with you, but you can be impatient. Slow down and listen too!\" Giữ bình tĩnh và lời khuyên thường đúng là kết quả B (The Wise Owl). Hay quên kế hoạch là kết quả C (The Artist)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi áp dụng: tìm đúng mục kết quả (Mostly A / B / C), rồi chỉ đọc trong mục đó. Phương án nhiễu thường lấy câu của mục bên cạnh."
+      },
+      "question_jp": "Chloe chooses mostly A. What does the quiz say about her?",
+      "question_vn": "Chloe chọn phần lớn là A. Bài trắc nghiệm nói gì về cô ấy?",
+      "explanation": "Phần lớn là A thì kết quả là \"Mostly A: The Party Starter. You are an energetic, confident friend who brings fun everywhere. Life is never boring with you, but you can be impatient. Slow down and listen too!\" Giữ bình tĩnh và lời khuyên thường đúng là kết quả B (The Wise Owl). Hay quên kế hoạch là kết quả C (The Artist).",
+      "tip": "Câu hỏi áp dụng: tìm đúng mục kết quả (Mostly A / B / C), rồi chỉ đọc trong mục đó. Phương án nhiễu thường lấy câu của mục bên cạnh."
+    },
+    {
+      "id": "q_u11_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "In \"Write them down!\", what does \"them\" mean?",
+        "vi": "Trong câu \"Write them down!\", \"them\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "people",
+            "vi": "mọi người"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "people",
+          "text_translation": "mọi người"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "funny pictures",
+            "vi": "những bức tranh vui"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "funny pictures",
+          "text_translation": "những bức tranh vui"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "your letters",
+            "vi": "các chữ cái bạn đã chọn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "your letters",
+          "text_translation": "các chữ cái bạn đã chọn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "plans",
+            "vi": "các kế hoạch"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "plans",
+          "text_translation": "các kế hoạch"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Your creativity makes people smile, but you sometimes forget plans. Write them down!\" Người hay quên kế hoạch thì nên ghi kế hoạch lại, nên \"them\" chỉ \"plans\". \"People\" cũng là danh từ số nhiều trong câu, nhưng \"ghi mọi người lại\" thì không có nghĩa. Tranh vui và chữ cái nằm ở các phần khác của bài, không phải ở câu ngay trước."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đại từ them thường chỉ danh từ số nhiều gần nhất ở câu ngay trước. Thay thử từng phương án vào chỗ them xem câu có nghĩa không."
+      },
+      "question_jp": "In \"Write them down!\", what does \"them\" mean?",
+      "question_vn": "Trong câu \"Write them down!\", \"them\" chỉ cái gì?",
+      "explanation": "\"Your creativity makes people smile, but you sometimes forget plans. Write them down!\" Người hay quên kế hoạch thì nên ghi kế hoạch lại, nên \"them\" chỉ \"plans\". \"People\" cũng là danh từ số nhiều trong câu, nhưng \"ghi mọi người lại\" thì không có nghĩa. Tranh vui và chữ cái nằm ở các phần khác của bài, không phải ở câu ngay trước.",
+      "tip": "Đại từ them thường chỉ danh từ số nhiều gần nhất ở câu ngay trước. Thay thử từng phương án vào chỗ them xem câu có nghĩa không."
+    },
+    {
+      "id": "q_u11_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "Look at both texts. Which result probably describes Leah best?",
+        "vi": "Xem cả hai bài đọc. Kết quả nào nhiều khả năng hợp với Leah nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The Wise Owl, because Chloe asks for her advice \"as always\"",
+            "vi": "Chú cú thông thái, vì Chloe hỏi xin lời khuyên của cô \"như mọi lần\""
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The Wise Owl, because Chloe asks for her advice \"as always\"",
+          "text_translation": "Chú cú thông thái, vì Chloe hỏi xin lời khuyên của cô \"như mọi lần\""
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The Party Starter, because she talks to the firefighter for hours",
+            "vi": "Người khuấy động cuộc vui, vì cô nói chuyện với anh lính cứu hoả hàng tiếng liền"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The Party Starter, because she talks to the firefighter for hours",
+          "text_translation": "Người khuấy động cuộc vui, vì cô nói chuyện với anh lính cứu hoả hàng tiếng liền"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The Artist, because she writes poems in her profile",
+            "vi": "Người nghệ sĩ, vì cô viết thơ trong hồ sơ của mình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The Artist, because she writes poems in her profile",
+          "text_translation": "Người nghệ sĩ, vì cô viết thơ trong hồ sơ của mình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The Party Starter, because she wakes everybody up at 6 a.m.",
+            "vi": "Người khuấy động cuộc vui, vì cô gọi mọi người dậy lúc 6 giờ sáng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The Party Starter, because she wakes everybody up at 6 a.m.",
+          "text_translation": "Người khuấy động cuộc vui, vì cô gọi mọi người dậy lúc 6 giờ sáng"
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Phải nối hai bài. Ở bài 2, kết quả B viết \"You are the gentle friend that people call at midnight. You stay calm when others panic, and your advice is usually right.\" Ở bài 1, Chloe mở đầu \"Leah, are you free? I need your advice, as always!\": Chloe lúc nào cũng tìm Leah xin lời khuyên. Vậy Leah hợp với The Wise Owl nhất. Người viết thơ trong hồ sơ là Dustin, không phải Leah. Nói chuyện hàng tiếng với Ethan không làm Leah thành người khuấy động cuộc vui, và bài không nói Leah gọi ai dậy lúc 6 giờ sáng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: tìm ở bài 1 một chi tiết về tính cách nhân vật (as always = như mọi lần, việc lặp đi lặp lại), rồi so với mô tả từng kiểu ở bài 2. Cẩn thận phương án gắn chi tiết của người khác (viết thơ là Dustin)."
+      },
+      "question_jp": "Look at both texts. Which result probably describes Leah best?",
+      "question_vn": "Xem cả hai bài đọc. Kết quả nào nhiều khả năng hợp với Leah nhất?",
+      "explanation": "Phải nối hai bài. Ở bài 2, kết quả B viết \"You are the gentle friend that people call at midnight. You stay calm when others panic, and your advice is usually right.\" Ở bài 1, Chloe mở đầu \"Leah, are you free? I need your advice, as always!\": Chloe lúc nào cũng tìm Leah xin lời khuyên. Vậy Leah hợp với The Wise Owl nhất. Người viết thơ trong hồ sơ là Dustin, không phải Leah. Nói chuyện hàng tiếng với Ethan không làm Leah thành người khuấy động cuộc vui, và bài không nói Leah gọi ai dậy lúc 6 giờ sáng.",
+      "tip": "Câu nối hai bài: tìm ở bài 1 một chi tiết về tính cách nhân vật (as always = như mọi lần, việc lặp đi lặp lại), rồi so với mô tả từng kiểu ở bài 2. Cẩn thận phương án gắn chi tiết của người khác (viết thơ là Dustin)."
+    },
+    {
+      "id": "q_u11_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "What does the quiz say at the end?",
+        "vi": "Cuối bài, bài trắc nghiệm nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mostly B is the best result.",
+            "vi": "Phần lớn là B là kết quả tốt nhất."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Mostly B is the best result.",
+          "text_translation": "Phần lớn là B là kết quả tốt nhất."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "There is no wrong answer, and every group needs all three types.",
+            "vi": "Không có câu trả lời nào sai, và nhóm nào cũng cần cả ba kiểu bạn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "There is no wrong answer, and every group needs all three types.",
+          "text_translation": "Không có câu trả lời nào sai, và nhóm nào cũng cần cả ba kiểu bạn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Friends should always plan their trips.",
+            "vi": "Bạn bè nên luôn lên kế hoạch cho các chuyến đi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Friends should always plan their trips.",
+          "text_translation": "Bạn bè nên luôn lên kế hoạch cho các chuyến đi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You must choose A for every question.",
+            "vi": "Bạn phải chọn A cho mọi câu hỏi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "You must choose A for every question.",
+          "text_translation": "Bạn phải chọn A cho mọi câu hỏi."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"There is no wrong answer here: every group needs a little A, B and C!\" Nghĩa là kiểu nào cũng tốt, và một nhóm bạn cần đủ cả ba. Bài không nói kết quả nào tốt nhất, không khuyên lúc nào cũng lên kế hoạch, và không bắt chọn A."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu kết của bài trắc nghiệm vui thường là lời nhắn chung cho mọi người đọc. Phương án có từ tuyệt đối (best, always, must, every) cần kiểm thật kỹ."
+      },
+      "question_jp": "What does the quiz say at the end?",
+      "question_vn": "Cuối bài, bài trắc nghiệm nói gì?",
+      "explanation": "\"There is no wrong answer here: every group needs a little A, B and C!\" Nghĩa là kiểu nào cũng tốt, và một nhóm bạn cần đủ cả ba. Bài không nói kết quả nào tốt nhất, không khuyên lúc nào cũng lên kế hoạch, và không bắt chọn A.",
+      "tip": "Câu kết của bài trắc nghiệm vui thường là lời nhắn chung cho mọi người đọc. Phương án có từ tuyệt đối (best, always, must, every) cần kiểm thật kỹ."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u11_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tin nhắn Chloe kể với Leah về buổi hẹn đầu tiên",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u11_01",
+      "question_ids": [
+        "q_u11_001",
+        "q_u11_002",
+        "q_u11_003",
+        "q_u11_004",
+        "q_u11_005"
+      ]
+    },
+    {
+      "set_id": "set_u11_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài trắc nghiệm vui trên tạp chí: Bạn là kiểu bạn bè nào?",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u11_02",
+      "question_ids": [
+        "q_u11_006",
+        "q_u11_007",
+        "q_u11_008",
+        "q_u11_009",
+        "q_u11_010"
+      ]
+    }
+  ]
+}

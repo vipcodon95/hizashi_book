@@ -13,3 +13,4 @@ Mốc nối từ A1: u16 sách 56 = 154 / 154 từ, TB 12,4 từ/câu.
 | u07 | 210 / 216 | 14.4 / 15.4 | chat gia đình (Trevor trẹo chân) + tờ hướng dẫn RICE của hiệu thuốc (Mayo Clinic, CDC); 2 câu suy luận (1 nối 2 bài). Main viết lại câu né "if" bằng mệnh đề when |
 | u08 | 204 / 202 | 13.4 / 15.8 | tin nhắn Leah–Chloe (gặp Ethan) + 5 trải nghiệm ở San Diego (sdnhm, NPS kiểm chứng); 3 câu suy luận |
 | u10 | 210 / 212 | 14.2 / 15.1 | dự án tiết kiệm năng lượng của Tina + tờ an toàn động đất/cháy rừng (CDC, CAL FIRE Ready Set Go); 3 câu suy luận |
+| u11 | 230 / 230 | 13.4 / 16.3 | tin nhắn Chloe kể buổi hẹn với Dustin + trắc nghiệm tính cách; 3 câu suy luận (1 nối 2 bài) |
