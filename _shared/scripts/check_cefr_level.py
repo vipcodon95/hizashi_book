@@ -201,6 +201,7 @@ def main() -> int:
     total, over, outside, used, glossed = 0, {}, set(), set(), set()
     gate_hits: dict[str, list[str]] = {}
     for t in texts:
+        t = re.sub(r"\S+@\S+|https?://\S+|www\.\S+", " ", t)  # bỏ email / URL
         for sent in re.split(r"(?<=[.!?])\s+|\n+", t):
             toks = re.findall(r"[A-Za-zÀ-ÿ]+(?:'[A-Za-zÀ-ÿ]+)?", sent)
             for i, tok in enumerate(toks):
@@ -231,6 +232,8 @@ def main() -> int:
                 hit = False
                 if rx == "PAST":
                     for w in re.findall(r"[a-z']+", low):
+                        if w in extra:
+                            continue
                         if w in PAST_IRR and not re.search(rf"\b(has|have|'ve|'s)\s+{w}\b", low):
                             hit = True
                         elif w.endswith("ed") and w not in nouns_adjs and any(c in verbs for c in list(candidates(w))[1:]):

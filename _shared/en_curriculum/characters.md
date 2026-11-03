@@ -76,6 +76,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 |---|---|---|---|
 | A1 | cuối tháng 8, năm 1 | Người học ("you") chuyển tới Maple Street. Harriet dán thiệp chào hàng xóm mới, mời ghé quán Harriet's. | sách 56 · u01 |
 | A1 | cuối tháng 8, năm 1 | Ở Westview High có **International Club** (câu lạc bộ cho học sinh mới, học sinh nước ngoài) do cô Lydia Park phụ trách, sinh hoạt sau giờ học ở lớp của cô. Câu lạc bộ tranh biện (B2) vẫn là việc riêng của cô Lydia. | sách 56 · u01 |
+| A1 | tháng 9, năm 1 | Biscuit trốn ra ngoài, tới quán Harriet's; "you" nhắn tin cho Megan. **Thông tin cố định:** nhà Carter số 12, nhà Brooks số 15 Maple Street; di động Megan 619-555-0142, di động Leah 619-555-0187, email megan.carter@example.com; Biscuit 3 tuổi ở A1. | sách 56 · u02 |
 
 ## Còn mở
 
