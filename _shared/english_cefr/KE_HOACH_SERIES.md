@@ -191,6 +191,8 @@ Khoá cũ (`question_jp`, `question_vn`, `text`, `text_translation`, `explanatio
 
   Chương đầu của cuốn sau không được ngắn hơn chương cuối của cuốn trước.
 
+> **Chốt 03/11/2026 (ngân sách):** sách B1 từ u07 gộp **2 unit / chương** (mỗi unit 1 bài × 10 câu). B2–C1 cũng làm theo cách này.
+
 ## 7a. Độ khó tăng dần và chủ đề (chủ nhà chốt 03/11/2026)
 
 ### Độ khó phải tăng dần, cả trong một cuốn lẫn giữa các cuốn

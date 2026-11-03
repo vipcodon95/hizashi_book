@@ -12,6 +12,8 @@
 
 **Tránh trùng bài app** (01_research.md mục 3).
 
+> ⚠️ **Chốt 03/11 (tiết kiệm token):** từ u07, **1 chương = 2 unit**. Bài 1 luyện unit lẻ, bài 2 luyện unit chẵn, mỗi bài 10 câu. Chương đặt tên `u07_08_…`, code `u0708`. Ghi chú "Bài 1 / Bài 2" ở các dòng dưới chỉ là ý tưởng; mỗi unit chọn 1 trong 2 ý.
+
 | Ch. | Unit | Thời điểm | Bài 1 (dàn nhân vật) | Bài 2 (kiến thức / xã hội) |
 |---|---|---|---|---|
 | u01 | Personality | 9/năm 4 | Tina (10) viết bài "người tôi ngưỡng mộ" về bà Harriet, ngày đầu vào cấp 2 | Bài phổ thông: hướng nội / hướng ngoại (khoa học tâm lý, không dán nhãn) |
