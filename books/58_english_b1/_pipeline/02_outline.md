@@ -54,7 +54,7 @@
 | u35 | Problems and complaints | 12 | Bà Harriet viết email khiếu nại nhà cung cấp cà phê (as if) — KHÔNG thư khiếu nại kiểu mẫu app | Bài: cách khiếu nại hiệu quả |
 | u36 | Feelings and stress | 12 | Tracy căng thẳng mùa thi cuối kỳ, gọi về cho Leah (wish) | Bài: căng thẳng và cách đối phó (khuyến nghị chính thức) |
 | u37 | Community | 12 | Ngày dọn dẹp / quyên góp áo ấm ở Maple Street (Here is…) | Bài: tình nguyện và sức khoẻ |
-| u38 | Opinions | 12 | Câu lạc bộ tranh biện cô Park ở Westview High (B2 cô làm chính; ở đây là buổi đầu) | Bài nêu quan điểm: có nên cấm điện thoại trong lớp |
+| u38 | Opinions | 12 | Câu lạc bộ tranh biện cô Park ở Westview High (B2 cô làm chính; ở đây là buổi đầu) | Bài nêu quan điểm: có nên bắt buộc làm tình nguyện để tốt nghiệp (đổi từ "cấm điện thoại trong lớp" vì trùng bài app B2 u42) |
 | u39 | Advertising | 12 | Chloe thiết kế quảng cáo cho Harriet's | Bài: quảng cáo nhắm vào trẻ em |
 | u40 | Describing places | 12/năm 5 | Tracy về San Diego nghỉ đông, tả Maple Street sau 2 năm xa | Bài giới thiệu một nơi: Balboa Park / San Diego (sự thật đúng) |
 | **mock2** | Đề cuối sách (= b1.test) | — | 4 bài × 10 câu, format VSTEP | |

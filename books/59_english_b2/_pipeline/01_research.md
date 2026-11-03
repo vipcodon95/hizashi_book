@@ -47,7 +47,7 @@ Sách ôn B2: **~30% bài gắn dàn nhân vật, ~70% bài kiến thức / quan
 | 22 | The painting in the kitchen | 45 / 46 | A year in the old house… / The office is not dead — it is changing |
 | 23 | Book or film? Why I always read first | | |
 
-⚠️ **Ghi chú cho chủ nhà:** chương B1 `u3738` (sách 58) có bài tranh biện "Should Phones Be Banned in Class?". Chủ đề này **gần với bài app B2 u42** "Should phones be banned in schools?". Hình thức khác (hội thoại tranh biện, B1) nhưng cùng chủ đề. Nếu cần tránh hẳn thì đổi chủ đề bài đó ở đợt review.
+✅ **Đã xử lý:** bài tranh biện ở chương B1 `u3738` (sách 58) từng trùng chủ đề với bài app B2 u42 "Should phones be banned in schools?". Đã đổi sang chủ đề "có nên bắt buộc làm tình nguyện mới được tốt nghiệp"; câu nhắc lại ở B2 `u4142` cũng đã sửa theo.
 
 ## 4. Unit nhạy cảm — cách xử lý (mục 7a kế hoạch)
 

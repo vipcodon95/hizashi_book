@@ -20,8 +20,8 @@
 | involve | động từ | bao gồm, lôi cuốn vào | `b1.147` |
 | involved | tính từ | tham gia | `b1.147` |
 | firmly | trạng từ | kiên quyết, chắc chắn | `b1.149` |
-| generally | trạng từ | nói chung | `b1.150` |
-| instance | danh từ | ví dụ (for instance) | `b1.150` |
+| unite | động từ | đoàn kết | `b1.147` |
+| teamwork | danh từ | tinh thần đồng đội | `b1.145` |
 
 **Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):
 
@@ -36,11 +36,11 @@
 | sign language | ngôn ngữ ký hiệu |
 | coat drive | đợt quyên góp áo ấm |
 | debate | tranh biện |
-| ban | cấm, lệnh cấm |
-| calculator | máy tính bỏ túi |
-| responsibly | một cách có trách nhiệm |
+| graduate | tốt nghiệp |
+| duty | bổn phận, việc phải làm |
+| credit | sự ghi nhận, tín chỉ |
 
-> 📌 Cụm hay gặp trong bài: *Here is how it worked* (mọi việc đã diễn ra thế này), *get involved* (tham gia), *put together a plan* (lên kế hoạch), *I see your point* (mình hiểu ý bạn), *generally speaking* (nói chung), *outweigh the disadvantages* (lớn hơn bất lợi), *switch sides* (đổi phe).
+> 📌 Cụm hay gặp trong bài: *Here is how it worked* (mọi việc đã diễn ra thế này), *get involved* (tham gia), *put together a plan* (lên kế hoạch), *I see your point* (mình hiểu ý bạn), *generally speaking* (nói chung), *do more harm than good* (hại nhiều hơn lợi), *switch sides* (đổi phe).
 
 ---
 
@@ -169,54 +169,53 @@
 
 ## Bài đọc 2 (Unit 38) — Buổi đầu của câu lạc bộ tranh biện
 
-> **Debate Club, First Meeting: Should Phones Be Banned in Class?**
+> **Debate Club, First Meeting: Should Volunteering Be Required to Graduate?**
 >
-> Ms. Park started a new debate club at Westview High in December. At the first meeting, two students practiced on a topic that everyone at school had an opinion about.
+> Ms. Park started a new debate club at Westview High in December. At the first meeting, two students practiced on a question that many people at school had an opinion about: should every student have to do volunteer work in order to graduate?
 >
 > **Lydia:** Maddie, you're first. Remember: give reasons, not just feelings.
 >
-> **Maddie:** Thank you. I firmly believe that phones should be banned during class. Although phones are useful, they are designed to grab our attention, and every message pulls us away from the lesson. There is also some evidence. A study in England found that after schools banned phones, students' test scores went up, especially for students who were struggling. Generally speaking, fewer distractions mean better learning.
+> **Maddie:** Thank you. I firmly believe that every student should do some volunteer work before they graduate. Some school systems in the United States already ask students to do a certain number of hours. Although we are all busy, volunteering teaches us things that classes can't, such as teamwork, responsibility and how to talk to people who are different from us. Last month, our neighbors organized a whole coat drive through a group chat. The students who helped told me that it was the best thing they did all year, and many of them only tried it because someone asked them.
 >
 > **Lydia:** Thank you, Maddie. Noah?
 >
-> **Noah:** I see your point, and I agree that phones can be a problem in class. But I don't think that a complete ban is the answer. For instance, many students use their phones to check the meaning of a word, take a photo of the board or use a calculator. Phones also help people work together outside school. Last month, our neighbors organized a whole coat drive through a group chat. Instead of banning phones, schools should teach students how to use them responsibly. Despite the risks, I think that the benefits outweigh the disadvantages.
+> **Noah:** I see your point, and I agree that volunteering is valuable. But I don't think that making it a rule is the answer. For instance, many students already have jobs after school, or they look after younger brothers and sisters. Because of these duties, they have very little free time. And when something is required, people often do it only to get the hours. Helping because you have to is not the same as helping because you want to. Instead of a rule, the school should make volunteering easy: share opportunities, give credit for it and let students choose. Despite the good intentions, I think that a rule would do more harm than good.
 >
-> **Maddie:** With respect, schools have been trying that for years, and it hasn't worked. Teaching responsibility is great, but during a lesson, the phone should be in a bag.
+> **Maddie:** With respect, making it easy hasn't worked. The same students always volunteer, and the others never start. A small number of hours would at least give everyone a first try.
 >
-> **Noah:** I suppose we could agree on that: phones away during the lesson, and out only when the teacher asks students to use them.
+> **Noah:** I suppose we could agree on that: a small number of hours, with many choices, and helping your own family counts too.
 >
-> **Lydia:** Interesting! You started on opposite sides and came to a partial agreement. That isn't a weakness in a debate. In real life, that's often where the best solutions are. Next week, you'll switch sides. Maddie will argue against the ban, and Noah will argue for it. Understanding the other viewpoint is the most useful skill that I can teach you.
+> **Lydia:** Interesting! You started on opposite sides and came to a partial agreement. That isn't a weakness in a debate. In real life, that's often where the best solutions are. Next week, you'll switch sides. Maddie will argue against the rule, and Noah will argue for it. Understanding the other viewpoint is the most useful skill that I can teach you.
 
 ### Dịch từng câu
 
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
-| 1 | Debate Club, First Meeting: Should Phones Be Banned in Class? | Câu lạc bộ tranh biện, buổi đầu tiên: có nên cấm điện thoại trong lớp? |
+| 1 | Debate Club, First Meeting: Should Volunteering Be Required to Graduate? | Câu lạc bộ tranh biện, buổi đầu tiên: có nên bắt buộc làm tình nguyện mới được tốt nghiệp? |
 | 2 | Ms. Park started a new debate club at Westview High in December. | Tháng Mười hai, cô Park lập câu lạc bộ tranh biện mới ở trường Westview High. |
-| 3 | At the first meeting, two students practiced on a topic that everyone at school had an opinion about. | Ở buổi đầu tiên, hai học sinh tập tranh biện về một chủ đề mà cả trường ai cũng có ý kiến. |
+| 3 | At the first meeting, two students practiced on a question that many people at school had an opinion about: should every student have to do volunteer work in order to graduate? | Ở buổi đầu tiên, hai học sinh tập tranh biện về một câu hỏi mà nhiều người trong trường có ý kiến: có nên bắt mọi học sinh làm tình nguyện thì mới được tốt nghiệp? |
 | 4 | **Lydia:** Maddie, you're first. Remember: give reasons, not just feelings. | Maddie, em nói trước. Nhớ nhé: đưa ra lý lẽ, đừng chỉ nói cảm xúc. |
-| 5 | **Maddie:** Thank you. I firmly believe that phones should be banned during class. | Em cảm ơn cô. Em tin chắc rằng nên cấm điện thoại trong giờ học. |
-| 6 | **Maddie:** Although phones are useful, they are designed to grab our attention, and every message pulls us away from the lesson. | Dù điện thoại có ích, chúng được thiết kế để giành lấy sự chú ý của chúng ta, và mỗi tin nhắn lại kéo ta ra khỏi bài học. |
-| 7 | **Maddie:** There is also some evidence. A study in England found that after schools banned phones, students' test scores went up, especially for students who were struggling. | Cũng có bằng chứng nữa. Một nghiên cứu ở Anh phát hiện sau khi các trường cấm điện thoại, điểm thi của học sinh tăng lên, nhất là với những bạn đang học đuối. |
-| 8 | **Maddie:** Generally speaking, fewer distractions mean better learning. | Nói chung, ít bị phân tâm hơn thì học tốt hơn. |
-| 9 | **Lydia:** Thank you, Maddie. Noah? | Cảm ơn Maddie. Noah? |
-| 10 | **Noah:** I see your point, and I agree that phones can be a problem in class. But I don't think that a complete ban is the answer. | Mình hiểu ý bạn, và mình đồng ý là điện thoại có thể gây rắc rối trong lớp. Nhưng mình không nghĩ cấm hẳn là cách giải quyết. |
-| 11 | **Noah:** For instance, many students use their phones to check the meaning of a word, take a photo of the board or use a calculator. | Ví dụ, nhiều bạn dùng điện thoại để tra nghĩa một từ, chụp ảnh bảng hay dùng máy tính bỏ túi. |
-| 12 | **Noah:** Phones also help people work together outside school. Last month, our neighbors organized a whole coat drive through a group chat. | Điện thoại còn giúp mọi người cùng làm việc ngoài trường học. Tháng trước, hàng xóm khu mình tổ chức cả một đợt quyên góp áo ấm qua nhóm chat. |
-| 13 | **Noah:** Instead of banning phones, schools should teach students how to use them responsibly. Despite the risks, I think that the benefits outweigh the disadvantages. | Thay vì cấm điện thoại, nhà trường nên dạy học sinh cách dùng có trách nhiệm. Dù có rủi ro, mình nghĩ lợi ích vẫn lớn hơn bất lợi. |
-| 14 | **Maddie:** With respect, schools have been trying that for years, and it hasn't worked. Teaching responsibility is great, but during a lesson, the phone should be in a bag. | Xin phép nói thẳng, các trường đã thử cách đó nhiều năm rồi mà không ăn thua. Dạy tinh thần trách nhiệm thì hay, nhưng trong giờ học, điện thoại nên nằm trong cặp. |
-| 15 | **Noah:** I suppose we could agree on that: phones away during the lesson, and out only when the teacher asks students to use them. | Mình nghĩ tụi mình có thể đồng ý điểm này: cất điện thoại trong giờ học, chỉ lấy ra khi giáo viên yêu cầu dùng. |
-| 16 | **Lydia:** Interesting! You started on opposite sides and came to a partial agreement. | Thú vị đấy! Hai em bắt đầu từ hai phía đối lập và đi tới một phần đồng thuận. |
-| 17 | **Lydia:** That isn't a weakness in a debate. In real life, that's often where the best solutions are. | Đó không phải điểm yếu trong tranh biện. Ngoài đời, các giải pháp tốt nhất thường nằm ở chính chỗ đó. |
-| 18 | **Lydia:** Next week, you'll switch sides. Maddie will argue against the ban, and Noah will argue for it. Understanding the other viewpoint is the most useful skill that I can teach you. | Tuần sau, hai em đổi phe. Maddie sẽ phản đối lệnh cấm, còn Noah sẽ ủng hộ nó. Hiểu được quan điểm của phía bên kia là kỹ năng hữu ích nhất cô có thể dạy các em. |
+| 5 | **Maddie:** Thank you. I firmly believe that every student should do some volunteer work before they graduate. Some school systems in the United States already ask students to do a certain number of hours. | Em cảm ơn cô. Em tin chắc rằng học sinh nào cũng nên làm một ít việc tình nguyện trước khi tốt nghiệp. Một số hệ thống trường học ở Mỹ đã yêu cầu học sinh làm đủ một số giờ nhất định. |
+| 6 | **Maddie:** Although we are all busy, volunteering teaches us things that classes can't, such as teamwork, responsibility and how to talk to people who are different from us. | Dù ai cũng bận, làm tình nguyện dạy chúng ta những điều mà giờ học không dạy được, như làm việc nhóm, tinh thần trách nhiệm và cách nói chuyện với những người khác mình. |
+| 7 | **Maddie:** Last month, our neighbors organized a whole coat drive through a group chat. The students who helped told me that it was the best thing they did all year, and many of them only tried it because someone asked them. | Tháng trước, hàng xóm khu mình tổ chức cả một đợt quyên góp áo ấm qua nhóm chat. Những bạn học sinh tham gia kể với mình đó là việc hay nhất các bạn làm cả năm, và nhiều bạn chỉ thử vì có người rủ. |
+| 8 | **Lydia:** Thank you, Maddie. Noah? | Cảm ơn Maddie. Noah? |
+| 9 | **Noah:** I see your point, and I agree that volunteering is valuable. But I don't think that making it a rule is the answer. | Mình hiểu ý bạn, và mình đồng ý là làm tình nguyện rất có giá trị. Nhưng mình không nghĩ biến nó thành quy định là cách giải quyết. |
+| 10 | **Noah:** For instance, many students already have jobs after school, or they look after younger brothers and sisters. Because of these duties, they have very little free time. | Ví dụ, nhiều bạn đã đi làm thêm sau giờ học, hoặc phải trông em. Vì những việc ấy, các bạn có rất ít thời gian rảnh. |
+| 11 | **Noah:** And when something is required, people often do it only to get the hours. Helping because you have to is not the same as helping because you want to. | Mà khi một việc bị bắt buộc, người ta hay làm chỉ để đủ giờ. Giúp vì phải giúp không giống với giúp vì muốn giúp. |
+| 12 | **Noah:** Instead of a rule, the school should make volunteering easy: share opportunities, give credit for it and let students choose. Despite the good intentions, I think that a rule would do more harm than good. | Thay vì đặt quy định, trường nên làm cho việc tình nguyện trở nên dễ dàng: chia sẻ cơ hội, ghi nhận nó và để học sinh tự chọn. Dù xuất phát từ ý tốt, mình nghĩ một quy định sẽ hại nhiều hơn lợi. |
+| 13 | **Maddie:** With respect, making it easy hasn't worked. The same students always volunteer, and the others never start. A small number of hours would at least give everyone a first try. | Xin phép nói thẳng, làm cho nó dễ dàng đã không ăn thua. Lúc nào cũng chỉ những bạn ấy đi tình nguyện, còn các bạn khác thì chẳng bao giờ bắt đầu. Một số giờ nhỏ ít ra cũng cho mọi người một lần thử. |
+| 14 | **Noah:** I suppose we could agree on that: a small number of hours, with many choices, and helping your own family counts too. | Mình nghĩ tụi mình có thể đồng ý điểm này: một số giờ nhỏ thôi, có nhiều lựa chọn, và giúp đỡ chính gia đình mình cũng được tính. |
+| 15 | **Lydia:** Interesting! You started on opposite sides and came to a partial agreement. | Thú vị đấy! Hai em bắt đầu từ hai phía đối lập và đi tới một phần đồng thuận. |
+| 16 | **Lydia:** That isn't a weakness in a debate. In real life, that's often where the best solutions are. | Đó không phải điểm yếu trong tranh biện. Ngoài đời, các giải pháp tốt nhất thường nằm ở chính chỗ đó. |
+| 17 | **Lydia:** Next week, you'll switch sides. Maddie will argue against the rule, and Noah will argue for it. Understanding the other viewpoint is the most useful skill that I can teach you. | Tuần sau, hai em đổi phe. Maddie sẽ phản đối quy định, còn Noah sẽ ủng hộ nó. Hiểu được quan điểm của phía bên kia là kỹ năng hữu ích nhất cô có thể dạy các em. |
 
 ### Câu hỏi
 
 **11. What happened at the first meeting of the debate club?**
 *(Ở buổi đầu của câu lạc bộ tranh biện đã diễn ra điều gì?)*
 
-- A. Ms. Park banned phones at Westview High. *(Cô Park cấm điện thoại ở trường Westview High.)*
-- B. Two students practiced debating whether phones should be banned in class. *(Hai học sinh tập tranh biện về việc có nên cấm điện thoại trong lớp.)*
+- A. Ms. Park made volunteering a school rule. *(Cô Park đặt việc tình nguyện thành nội quy.)*
+- B. Two students practiced debating whether volunteering should be required to graduate. *(Hai học sinh tập tranh biện về việc có nên bắt buộc làm tình nguyện mới được tốt nghiệp.)*
 - C. The students wrote a new school rule. *(Học sinh viết một nội quy mới.)*
 - D. Maddie and Noah had a fight. *(Maddie và Noah cãi nhau to.)*
 
@@ -228,21 +227,21 @@
 - C. Use your phone to find facts. *(Dùng điện thoại tìm dữ kiện.)*
 - D. Give reasons, not just feelings. *(Đưa ra lý lẽ, đừng chỉ nói cảm xúc.)*
 
-**13. What is Maddie's main reason for banning phones in class?**
-*(Lý do chính Maddie muốn cấm điện thoại trong lớp là gì?)*
+**13. What is Maddie's main reason for requiring volunteer work?**
+*(Lý do chính Maddie muốn bắt buộc làm tình nguyện là gì?)*
 
-- A. Phones are designed to grab attention and pull students away from the lesson. *(Điện thoại được thiết kế để giành sự chú ý và kéo học sinh ra khỏi bài học.)*
-- B. Phones are too expensive for students. *(Điện thoại quá đắt với học sinh.)*
-- C. Phones break easily. *(Điện thoại dễ hỏng.)*
-- D. Teachers don't like phones. *(Giáo viên không thích điện thoại.)*
+- A. It teaches things that classes can't, such as teamwork and responsibility. *(Nó dạy những điều giờ học không dạy được, như làm việc nhóm và tinh thần trách nhiệm.)*
+- B. It helps students get better grades. *(Nó giúp học sinh được điểm cao hơn.)*
+- C. It gives students free time. *(Nó cho học sinh thời gian rảnh.)*
+- D. Teachers don't like it. *(Giáo viên không thích nó.)*
 
-**14. What did the study in England find?**
-*(Nghiên cứu ở Anh phát hiện điều gì?)*
+**14. What does Maddie say about the students who helped with the coat drive?**
+*(Maddie nói gì về những học sinh giúp đợt quyên góp áo ấm?)*
 
-- A. Students learned better with more phones. *(Học sinh học tốt hơn khi dùng nhiều điện thoại hơn.)*
-- B. Test scores went down after the ban. *(Điểm thi giảm sau lệnh cấm.)*
-- C. Test scores went up after the ban, especially for students who were struggling. *(Điểm thi tăng sau lệnh cấm, nhất là với những bạn đang học đuối.)*
-- D. Phones had no effect at all. *(Điện thoại hoàn toàn không ảnh hưởng gì.)*
+- A. They didn't enjoy it. *(Các bạn không thích.)*
+- B. They were paid for it. *(Các bạn được trả tiền.)*
+- C. They said it was the best thing they did all year, and many only tried it because someone asked them. *(Các bạn nói đó là việc hay nhất cả năm, và nhiều bạn chỉ thử vì có người rủ.)*
+- D. They did it to get school credit. *(Các bạn làm để được ghi nhận ở trường.)*
 
 **15. How does Noah begin his answer to Maddie?**
 *(Noah mở đầu phần đáp lại Maddie thế nào?)*
@@ -252,29 +251,29 @@
 - C. He refuses to answer. *(Cậu từ chối trả lời.)*
 - D. He agrees with everything she said. *(Cậu đồng ý với mọi điều bạn nói.)*
 
-**16. Which of these is NOT one of Noah's examples of using phones well?**
-*(Điều nào KHÔNG nằm trong các ví dụ của Noah về việc dùng điện thoại đúng cách?)*
+**16. Which of these is NOT one of Noah's reasons against the rule?**
+*(Điều nào KHÔNG nằm trong các lý lẽ phản đối quy định của Noah?)*
 
-- A. checking the meaning of a word *(tra nghĩa một từ)*
-- B. taking a photo of the board *(chụp ảnh bảng)*
-- C. using a calculator *(dùng máy tính bỏ túi)*
-- D. playing games during the break *(chơi trò chơi giờ ra chơi)*
+- A. Many students already have jobs after school. *(Nhiều bạn đã đi làm thêm sau giờ học.)*
+- B. Some students look after younger brothers and sisters. *(Một số bạn phải trông em.)*
+- C. People often do required things only to get the hours. *(Người ta hay làm việc bắt buộc chỉ để đủ giờ.)*
+- D. Volunteer work is dangerous for teenagers. *(Việc tình nguyện nguy hiểm với tuổi teen.)*
 
-**17. In "Despite the risks, I think that the benefits outweigh the disadvantages", what does "Despite the risks" mean?**
-*(Trong câu "Despite the risks, I think that the benefits outweigh the disadvantages", "Despite the risks" nghĩa là gì?)*
+**17. In "Despite the good intentions, I think that a rule would do more harm than good", what does "Despite the good intentions" mean?**
+*(Trong câu "Despite the good intentions, I think that a rule would do more harm than good", "Despite the good intentions" nghĩa là gì?)*
 
-- A. although there are risks *(dù có rủi ro)*
-- B. because there are risks *(vì có rủi ro)*
-- C. there are no risks *(không có rủi ro nào)*
-- D. during the risks *(trong lúc có rủi ro)*
+- A. although the idea comes from good intentions *(dù ý tưởng xuất phát từ ý tốt)*
+- B. because the idea comes from good intentions *(vì ý tưởng xuất phát từ ý tốt)*
+- C. there are no good intentions *(chẳng có ý tốt nào)*
+- D. during the good intentions *(trong lúc có ý tốt)*
 
 **18. What do Maddie and Noah finally agree on?**
 *(Cuối cùng Maddie và Noah đồng ý điều gì?)*
 
-- A. Phones should be banned from school completely. *(Nên cấm hẳn điện thoại khỏi trường.)*
-- B. Students can use phones whenever they want. *(Học sinh được dùng điện thoại bất cứ lúc nào.)*
-- C. Phones should be away during the lesson and out only when the teacher asks. *(Cất điện thoại trong giờ học, chỉ lấy ra khi giáo viên yêu cầu.)*
-- D. Debate clubs should not talk about phones. *(Câu lạc bộ tranh biện không nên bàn chuyện điện thoại.)*
+- A. Volunteering should stop completely. *(Nên bỏ hẳn việc tình nguyện.)*
+- B. Students should volunteer every weekend. *(Học sinh nên đi tình nguyện mỗi cuối tuần.)*
+- C. A small number of hours, with many choices, and helping your own family counts too. *(Một số giờ nhỏ, có nhiều lựa chọn, và giúp đỡ gia đình mình cũng được tính.)*
+- D. Debate clubs should not talk about volunteering. *(Câu lạc bộ tranh biện không nên bàn chuyện tình nguyện.)*
 
 **19. Why does Ms. Park ask Maddie and Noah to switch sides next week?**
 *(Vì sao cô Park bảo Maddie và Noah tuần sau đổi phe?)*
@@ -284,8 +283,8 @@
 - C. She wants Maddie to win. *(Vì cô muốn Maddie thắng.)*
 - D. The rules of the club say so. *(Vì nội quy câu lạc bộ quy định vậy.)*
 
-**20. Use both texts. Which event from the newsletter does Noah use as an example?**
-*(Dựa vào cả hai bài. Noah lấy sự kiện nào trong bản tin làm ví dụ?)*
+**20. Use both texts. Which event from the newsletter does Maddie use as an example?**
+*(Dựa vào cả hai bài. Maddie lấy sự kiện nào trong bản tin làm ví dụ?)*
 
 - A. the free library *(tủ sách miễn phí)*
 - B. Harriet's free cookies *(bánh quy miễn phí của bà Harriet)*
@@ -317,13 +316,13 @@
 | 8 | **D** | Câu 4: "412 coats, 156 blankets, 90 pairs of gloves and more than 200 warm hats." Không có đồ chơi. |
 | 9 | **A** | Câu 15: Câu suy luận. "both were contributions that mattered." Câu trước đó: "Volunteering does not have to take a lot of time." |
 | 10 | **C** | Câu 17: "In February, we are putting together a plan for a little free library at the corner of Maple Street and Pine Street." Ngày 12 tháng Một là buổi họp để gặp Helena. |
-| 11 | **B** | Câu 3: "At the first meeting, two students practiced on a topic that everyone at school had an opinion about." Đây là buổi tập, không phải để ra quy định. |
+| 11 | **B** | Câu 3: "should every student have to do volunteer work in order to graduate?" Đây là buổi tập, không phải để ra quy định. |
 | 12 | **D** | Câu 4: "Remember: give reasons, not just feelings." |
-| 13 | **A** | Câu 6: "Although phones are useful, they are designed to grab our attention, and every message pulls us away from the lesson." Although + mệnh đề: dù … (vẫn). |
-| 14 | **C** | Câu 7: "after schools banned phones, students' test scores went up, especially for students who were struggling." |
-| 15 | **B** | Câu 10: "I see your point, and I agree that phones can be a problem in class. But I don't think that a complete ban is the answer." Đây là cách phản bác lịch sự: ghi nhận trước, rồi mới nói "But…". |
-| 16 | **D** | Câu 11: "many students use their phones to check the meaning of a word, take a photo of the board or use a calculator." Không có chơi trò chơi. |
-| 17 | **A** | Câu 13: "Despite the risks, I think that the benefits outweigh the disadvantages." Despite + danh từ = although + mệnh đề: dù, mặc dù. |
-| 18 | **C** | Câu 15: "phones away during the lesson, and out only when the teacher asks students to use them." Cô Park gọi đây là "a partial agreement". |
-| 19 | **B** | Câu 18: Câu suy luận. "Understanding the other viewpoint is the most useful skill that I can teach you." |
-| 20 | **D** | Câu 12: Câu nối hai bài. Noah: "Last month, our neighbors organized a whole coat drive through a group chat." Bản tin: "Most of the planning happened in the Maple Street Neighbors Chat". |
+| 13 | **A** | Câu 6: "Although we are all busy, volunteering teaches us things that classes can't, such as teamwork, responsibility and how to talk to people who are different from us." Although + mệnh đề: dù … (vẫn). |
+| 14 | **C** | Câu 7: "it was the best thing they did all year, and many of them only tried it because someone asked them." |
+| 15 | **B** | Câu 9: "I see your point, and I agree that volunteering is valuable. But I don't think that making it a rule is the answer." Đây là cách phản bác lịch sự: ghi nhận trước, rồi mới nói "But…". |
+| 16 | **D** | Câu 10–11: "many students already have jobs after school, or they look after younger brothers and sisters." Noah không hề nói việc tình nguyện nguy hiểm. |
+| 17 | **A** | Câu 12: "Despite the good intentions, I think that a rule would do more harm than good." Despite + danh từ = although + mệnh đề: dù, mặc dù. |
+| 18 | **C** | Câu 14: "a small number of hours, with many choices, and helping your own family counts too." Cô Park gọi đây là "a partial agreement". |
+| 19 | **B** | Câu 17: Câu suy luận. "Understanding the other viewpoint is the most useful skill that I can teach you." |
+| 20 | **D** | Câu 7: Câu nối hai bài. Maddie: "Last month, our neighbors organized a whole coat drive through a group chat." Bản tin: "Most of the planning happened in the Maple Street Neighbors Chat". |

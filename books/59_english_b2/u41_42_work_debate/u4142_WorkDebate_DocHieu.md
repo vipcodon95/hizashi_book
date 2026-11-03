@@ -180,7 +180,7 @@
 >
 > **Noah:** Exactly. To whom you're talking matters too. A future nurse and a future electrician need very different advice.
 >
-> Ms. Park smiled. A year ago, they had shouted at each other about phones. Today, they had disagreed more politely, and more usefully, than many adults she knew.
+> Ms. Park smiled. A year ago, they had argued loudly about volunteering. Today, they had disagreed more politely, and more usefully, than many adults she knew.
 
 ### Dịch từng câu
 
@@ -200,7 +200,7 @@
 | 12 | **Lydia:** How interesting! You both used the word "many" in your final sentence. | Thú vị thật! Cả hai em đều dùng chữ "nhiều" trong câu chốt. |
 | 13 | **Maddie:** That's because neither of us thinks there's one answer for everyone. | Vì không ai trong tụi em nghĩ có một câu trả lời cho tất cả mọi người. |
 | 14 | **Noah:** Exactly. To whom you're talking matters too. A future nurse and a future electrician need very different advice. | Chính xác. Mình đang nói với ai cũng quan trọng. Một người sắp làm y tá và một người sắp làm thợ điện cần những lời khuyên rất khác nhau. |
-| 15 | Ms. Park smiled. A year ago, they had shouted at each other about phones. Today, they had disagreed more politely, and more usefully, than many adults she knew. | Cô Park mỉm cười. Một năm trước, hai em còn to tiếng với nhau về điện thoại. Hôm nay, các em bất đồng lịch sự hơn, và hữu ích hơn, cả nhiều người lớn cô biết. |
+| 15 | Ms. Park smiled. A year ago, they had argued loudly about volunteering. Today, they had disagreed more politely, and more usefully, than many adults she knew. | Cô Park mỉm cười. Một năm trước, hai em còn to tiếng với nhau về chuyện làm tình nguyện. Hôm nay, các em bất đồng lịch sự hơn, và hữu ích hơn, cả nhiều người lớn cô biết. |
 
 ### Câu hỏi
 
@@ -317,5 +317,5 @@
 | 16 | **D** | Câu 10: "the change has made very little difference to who actually gets hired." Bỏ yêu cầu trên giấy chưa chắc đã thay đổi thực tế tuyển dụng. |
 | 17 | **A** | Câu 11: Câu hỏi chức năng. Đây là một câu không hoàn chỉnh (fragment), thường gặp trong văn nói, dùng để chốt ý gọn. |
 | 18 | **C** | Câu 12: "You both used the word "many" in your final sentence." Maddie đáp: "neither of us thinks there's one answer for everyone." |
-| 19 | **B** | Câu 15: Câu suy luận. "A year ago, they had shouted at each other about phones. Today, they had disagreed more politely, and more usefully, than many adults she knew." |
+| 19 | **B** | Câu 15: Câu suy luận. "A year ago, they had argued loudly about volunteering. Today, they had disagreed more politely, and more usefully, than many adults she knew." |
 | 20 | **D** | Câu 13: Câu nối hai bài. Maddie: "neither of us thinks there's one answer for everyone." Nathan cũng thừa nhận "some of you prefer talking to writing" và đề nghị thử hai tháng rồi cùng quyết định. |
