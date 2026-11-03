@@ -22,3 +22,4 @@ Mốc nối từ A1: u16 sách 56 = 154 / 154 từ, TB 12,4 từ/câu.
 | u16 | 248 / 246 | 13.6 / 19.0 | bà Harriet gọi xe qua app + thông báo đóng đường diễu hành (CA Vehicle Code §21212 mũ bảo hiểm); 4 câu suy luận (1 nối 2 bài) |
 | u17 | 247 / 252 | 11.6 / 13.8 | họp chia việc nhà (hội thoại nhiều lượt ngắn nên TB câu thấp, số từ vẫn tăng) + danh sách vào ký túc xá (Sleep Foundation, quy định ký túc xá); 4 câu suy luận |
 | u18 | 256 / 253 | 14.5 / 15.4 | thiệp mời tiệc 70 tuổi + Tina thuật lại câu trả lời (câu tường thuật) + hướng dẫn trả lời lời mời; 4 câu suy luận (1 nối 2 bài) |
+| u20 | 265 / 265 | 16.0 / 16.7 | thư chia tay của Tracy + mẹo học/sống xa nhà (NSF, Harvard SITN); 4 câu suy luận (1 nối 2 bài). Main: Christmas → winter holidays, football → soccer |
