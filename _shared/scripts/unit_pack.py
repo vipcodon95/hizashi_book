@@ -27,5 +27,5 @@ if book:
 t = (ROOT / "_shared/en_curriculum/characters.md").read_text(encoding="utf-8")
 rows = [l for l in t.splitlines() if re.match(r"^\| (A1|A2|B1|B2|C1) \|", l)]
 print(f"\nSỰ KIỆN GẦN NHẤT ({last}):")
-for r in rows[-last:]:
+for r in (rows[-last:] if last else []):
     print(" ", r[:400])
