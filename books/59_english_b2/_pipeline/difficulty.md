@@ -18,3 +18,4 @@
 | u2526 | [322, 305] từ, TB [22.4, 23.0] | bài Ethan chạy 50 km (mind/regret + V-ing) + bài truyền thống thay đổi (would quá khứ, So do I; khoanh vùng theo từng nhà); 7 câu suy luận/giọng điệu (1 nối 2 bài) |
 | u2728 | [325, 302] từ, TB [24.3, 21.1] | bài phỏng vấn Megan học tiếng Tây Ban Nha (dare, How dare you đùa) + bài xã hội Mỹ già đi (there have been, the elderly); 6 câu suy luận/chức năng (1 nối 2 bài) |
 | u2930 | [337, 317] từ, TB [23.3, 22.2] | bản tin lừa đảo qua điện thoại (bị động với modal) + bài cách bất đồng văn minh (đảo ngữ phủ định; KHÔNG chính trị); 7 câu suy luận/chức năng (1 nối 2 bài) |
+| u3132 | [317, 340] từ, TB [25.6, 25.2] | bài Cape Town "Day Zero" 2018 (for + sb + to V) + lịch sử Hotel del Coronado (bị động với người nhận; 1888, 1977); 6 câu suy luận/chức năng (1 nối 2 bài) |
