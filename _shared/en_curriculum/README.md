@@ -1,4 +1,4 @@
-# Khoá tiếng Anh Hizashi A1–C1: danh sách phiếu (nguyên liệu)
+# Khoá tiếng Anh Hizashi A1–C2: danh sách phiếu (nguyên liệu)
 
 Đây là danh sách phiếu học của khoá tiếng Anh trên app Hizashi, dùng làm nguyên liệu để viết **sách bài tập đọc nâng cao**. Cách viết, cấu trúc sách và dạng bài do bên viết tự quyết.
 
@@ -6,7 +6,7 @@ Dữ liệu được xuất từ `HZLanguageResource/en/curriculum/` bằng scri
 
 ## Các file
 
-### `a1.json` … `c1.json`
+### `a1.json` … `c2.json`
 
 Mỗi file là một cấp độ: `units[]`, mỗi unit có `title` (en/vi) và `sheets[]`.
 
@@ -19,6 +19,7 @@ Số phiếu theo cấp:
 | B1 | 161 |
 | B2 | 181 |
 | C1 | 49 |
+| C2 | 33 |
 
 Mỗi phiếu có các trường:
 
@@ -55,7 +56,7 @@ Mỗi bài đọc phải ghi **mã phiếu** (hoặc mã unit) mà nó luyện, 
 
 Giáo trình app đã đổi hết tên Việt sang tên Mỹ (02/11/2026): giọng đọc tiếng Anh đọc sai tên Việt, kiểu `Lan` thành *Lamb*. Sách dùng **đúng bộ tên này** để khớp với app. Không dùng tên Việt.
 
-**Dàn nhân vật xuyên suốt:** xem `characters.md`. File này ghi tuổi, nghề, tính cách, quan hệ và mạch truyện của từng người qua các cấp A1–C1. Mọi bài phải khớp với file này. Có sự kiện lớn hay thêm nhân vật mới thì ghi lại vào đó.
+**Dàn nhân vật xuyên suốt:** xem `characters.md`. File này ghi tuổi, nghề, tính cách, quan hệ và mạch truyện của từng người qua các cấp A1–C1. Mọi bài phải khớp với file này. File hiện ghi tới C1; sách C2 đặt sau C1 khoảng 1,5 năm (theo quy tắc thời gian trôi trong file), sự kiện mới ghi bổ sung vào đó. Có sự kiện lớn hay thêm nhân vật mới thì ghi lại vào đó.
 
 | Nhân vật (tên cũ) | Số lần dùng |
 |---|---|
