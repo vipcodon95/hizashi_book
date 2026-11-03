@@ -1,0 +1,1349 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 7 — Health and the body",
+      "vi": "Sức khoẻ và cơ thể"
+    },
+    "title": "Unit 7 — Health and the body",
+    "title_vn": "Sức khoẻ và cơ thể",
+    "module_code": "57_u07",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u07",
+    "curriculum_sheets": [
+      "a2.25",
+      "a2.26",
+      "a2.27",
+      "a2.28"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Megan Carter",
+      "Tracy Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 2, năm 3 (Trevor lớp 7, bị ngã đau mắt cá chân trong trận bóng sáng thứ Bảy)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Đại từ phản thân, need to, be able to, trạng từ cách thức, How often…?, make / do; thông tin cụ thể, quy chiếu, thái độ, ý chính, suy luận, nối hai bài",
+    "description_vn": "Trevor bị ngã đau mắt cá chân khi đá bóng; Tracy, Trevor và Megan nhắn tin trong nhóm gia đình, Megan bình tĩnh hướng dẫn xử lý. Bài 2 là tờ hướng dẫn của hiệu thuốc Pine Street về cách chăm vết bong gân nhẹ (RICE), khi nào cần đi khám và thói quen lành mạnh cho cầu thủ nhỏ tuổi. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 7 khoá A2 · phiếu `a2.25` – `a2.28` (đau ốm và các bộ phận cơ thể, ở hiệu thuốc, thói quen lành mạnh, chấn thương khi chơi thể thao)."
+    },
+    "objective_i18n": {
+      "vi": "đọc tin nhắn nhóm của nhà Carter khi Trevor bị ngã đau mắt cá chân lúc đá bóng, và một tờ hướng dẫn của hiệu thuốc về cách chăm vết bong gân nhẹ (RICE), khi nào cần đi khám và các thói quen lành mạnh; hiểu đại từ phản thân (by himself, itself, yourself), need to, be able to, trạng từ cách thức (badly, slowly, tightly), How often…? và make / do; tìm thông tin cụ thể, hiểu đại từ it chỉ gì, đoán thái độ người viết, suy ra lý do của một câu hỏi và nối thông tin giữa hai bài."
+    },
+    "extra_words": [
+      {
+        "word": "bandage",
+        "i18n": {
+          "vi": "băng (để quấn vết thương)"
+        }
+      },
+      {
+        "word": "swollen",
+        "i18n": {
+          "vi": "sưng"
+        }
+      },
+      {
+        "word": "sprain",
+        "i18n": {
+          "vi": "vết bong gân"
+        }
+      },
+      {
+        "word": "pharmacist",
+        "i18n": {
+          "vi": "dược sĩ"
+        }
+      },
+      {
+        "word": "calm",
+        "i18n": {
+          "vi": "bình tĩnh"
+        }
+      },
+      {
+        "word": "rest",
+        "i18n": {
+          "vi": "nghỉ ngơi"
+        }
+      },
+      {
+        "word": "elevation",
+        "i18n": {
+          "vi": "sự nâng cao (gác chân cao)"
+        }
+      },
+      {
+        "word": "ouch",
+        "i18n": {
+          "vi": "ui da (kêu khi đau)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "fall over",
+          "vi": "ngã, té"
+        }
+      },
+      {
+        "i18n": {
+          "en": "by himself",
+          "vi": "tự mình (không cần ai giúp)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "It hurts badly.",
+          "vi": "Đau lắm."
+        }
+      },
+      {
+        "i18n": {
+          "en": "take care of yourself",
+          "vi": "tự chăm sóc bản thân"
+        }
+      },
+      {
+        "i18n": {
+          "en": "do the dishes",
+          "vi": "rửa bát"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make a face",
+          "vi": "nhăn mặt"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Đại từ phản thân chỉ lại chính chủ ngữ: `by himself` = tự cậu ấy làm, không ai giúp; `take care of itself` = tự chăm sóc chính nó. Gặp `-self / -selves`, hãy nhìn lại chủ ngữ để biết đang nói về ai."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Trạng từ cách thức đuôi **-ly** trả lời câu hỏi THẾ NÀO: `hurts badly` (đau nặng), `slowly put a bandage` (từ từ quấn băng), `not too tightly` (không quá chặt). Câu hỏi về cách làm thường có đáp án nằm đúng ở trạng từ này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Phân biệt **How often?** (bao lâu một lần: `four times a day`) với **How long?** (mỗi lần bao lâu: `fifteen to twenty minutes`). Phương án nhiễu hay lấy con số của câu hỏi kia."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`be able to` = `can`, nhưng dùng được cả với tương lai: `Will I be able to play?` (Con có đá được không?). `not able to put any weight on the foot` = hoàn toàn không dồn được sức nặng lên chân."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi nối hai bài: tìm tình huống của nhân vật ở bài 1, rồi tìm dòng hướng dẫn ở bài 2 khớp với đúng tình huống ấy."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u07_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tin nhắn nhóm gia đình Carter: Trevor bị đau mắt cá chân"
+      },
+      "narrator": "announcer",
+      "title": "Trevor's Ankle",
+      "category": "dialogue",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Carter Family Chat",
+            "vi": "Nhóm chat nhà Carter"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday, 9:40 a.m.",
+            "vi": "Thứ Bảy, 9 giờ 40 sáng"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Mom, Trevor fell over in the game and hurt his ankle. He's sitting on the grass.",
+            "vi": "Mẹ ơi, Trevor bị ngã trong trận đấu và đau mắt cá chân. Em ấy đang ngồi trên bãi cỏ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "OK, stay calm. Can he move his toes? Is he able to stand up by himself?",
+            "vi": "Được rồi, bình tĩnh nhé. Em có cử động được các ngón chân không? Em có tự đứng dậy được không?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Ouch! I can move my toes, but I can't walk on it. It hurts badly.",
+            "vi": "Ui da! Con cử động được ngón chân, nhưng không đi được trên chân đó. Đau lắm ạ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Then don't walk on it. Tracy, get ice from the coach, and put a thin towel between the ice and his skin.",
+            "vi": "Vậy thì đừng đi trên chân đó. Tracy, xin huấn luyện viên ít đá, và lót một chiếc khăn mỏng giữa đá và da của em."
+          }
+        },
+        {
+          "n": 7,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Keep it there for fifteen to twenty minutes. I'm coming in the car.",
+            "vi": "Giữ đá ở đó mười lăm đến hai mươi phút. Mẹ đang lái xe tới đây."
+          }
+        },
+        {
+          "n": 8,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Will I be able to play next Saturday? The team needs me!",
+            "vi": "Thứ Bảy tới con có đá được không? Đội cần con mà!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "First your ankle needs to rest. Your body knows how to take care of itself.",
+            "vi": "Trước hết mắt cá của con cần được nghỉ. Cơ thể con tự biết cách chăm sóc chính nó."
+          }
+        },
+        {
+          "n": 10,
+          "para": 10,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday, 6:15 p.m.",
+            "vi": "Thứ Bảy, 6 giờ 15 tối"
+          }
+        },
+        {
+          "n": 11,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Mom slowly put a soft bandage around my ankle. It's swollen, but not badly.",
+            "vi": "Mẹ đã từ từ quấn một cuộn băng mềm quanh mắt cá cho con. Nó bị sưng, nhưng không nặng."
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "How often do I need to put ice on it?",
+            "vi": "Con cần chườm đá bao lâu một lần ạ?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Four times a day for the first two days. And keep your foot up on two pillows.",
+            "vi": "Ngày bốn lần, trong hai ngày đầu. Và gác chân lên hai cái gối nhé."
+          }
+        },
+        {
+          "n": 14,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "We will see a doctor when it is more swollen tomorrow, or when you still can't stand on it on Monday.",
+            "vi": "Mai mà chân sưng hơn, hoặc tới thứ Hai con vẫn chưa đứng được, thì mình đi khám bác sĩ."
+          }
+        },
+        {
+          "n": 15,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Good news: I can't walk, so no dishes for me tonight!",
+            "vi": "Tin vui: con không đi được, nên tối nay con khỏi rửa bát!"
+          }
+        },
+        {
+          "n": 16,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Better news: your hands are fine, so you can do your homework.",
+            "vi": "Tin vui hơn: tay em vẫn lành lặn, nên em làm bài tập được đấy."
+          }
+        },
+        {
+          "n": 17,
+          "para": 15,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Don't make that face. I'll help you with math.",
+            "vi": "Đừng nhăn mặt thế. Chị sẽ giúp em môn toán."
+          }
+        }
+      ],
+      "content_ja": "Carter Family Chat\n\nSaturday, 9:40 a.m.\n\nTracy: Mom, Trevor fell over in the game and hurt his ankle. He's sitting on the grass.\n\nMegan: OK, stay calm. Can he move his toes? Is he able to stand up by himself?\n\nTrevor: Ouch! I can move my toes, but I can't walk on it. It hurts badly.\n\nMegan: Then don't walk on it. Tracy, get ice from the coach, and put a thin towel between the ice and his skin.\n\nMegan: Keep it there for fifteen to twenty minutes. I'm coming in the car.\n\nTrevor: Will I be able to play next Saturday? The team needs me!\n\nMegan: First your ankle needs to rest. Your body knows how to take care of itself.\n\nSaturday, 6:15 p.m.\n\nTrevor: Mom slowly put a soft bandage around my ankle. It's swollen, but not badly. How often do I need to put ice on it?\n\nMegan: Four times a day for the first two days. And keep your foot up on two pillows. We will see a doctor when it is more swollen tomorrow, or when you still can't stand on it on Monday.\n\nTrevor: Good news: I can't walk, so no dishes for me tonight!\n\nTracy: Better news: your hands are fine, so you can do your homework.\n\nTracy: Don't make that face. I'll help you with math.",
+      "translation_vn": "(1) Nhóm chat nhà Carter\n(2) Thứ Bảy, 9 giờ 40 sáng\n(3) Tracy: Mẹ ơi, Trevor bị ngã trong trận đấu và đau mắt cá chân. Em ấy đang ngồi trên bãi cỏ.\n(4) Megan: Được rồi, bình tĩnh nhé. Em có cử động được các ngón chân không? Em có tự đứng dậy được không?\n(5) Trevor: Ui da! Con cử động được ngón chân, nhưng không đi được trên chân đó. Đau lắm ạ.\n(6) Megan: Vậy thì đừng đi trên chân đó. Tracy, xin huấn luyện viên ít đá, và lót một chiếc khăn mỏng giữa đá và da của em.\n(7) Megan: Giữ đá ở đó mười lăm đến hai mươi phút. Mẹ đang lái xe tới đây.\n(8) Trevor: Thứ Bảy tới con có đá được không? Đội cần con mà!\n(9) Megan: Trước hết mắt cá của con cần được nghỉ. Cơ thể con tự biết cách chăm sóc chính nó.\n(10) Thứ Bảy, 6 giờ 15 tối\n(11) Trevor: Mẹ đã từ từ quấn một cuộn băng mềm quanh mắt cá cho con. Nó bị sưng, nhưng không nặng.\n(12) Trevor: Con cần chườm đá bao lâu một lần ạ?\n(13) Megan: Ngày bốn lần, trong hai ngày đầu. Và gác chân lên hai cái gối nhé.\n(14) Megan: Mai mà chân sưng hơn, hoặc tới thứ Hai con vẫn chưa đứng được, thì mình đi khám bác sĩ.\n(15) Trevor: Tin vui: con không đi được, nên tối nay con khỏi rửa bát!\n(16) Tracy: Tin vui hơn: tay em vẫn lành lặn, nên em làm bài tập được đấy.\n(17) Tracy: Đừng nhăn mặt thế. Chị sẽ giúp em môn toán.",
+      "word_count": 212,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.25",
+        "a2.26",
+        "a2.27",
+        "a2.28"
+      ]
+    },
+    {
+      "id": "passage_u07_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Tờ hướng dẫn của hiệu thuốc: chăm sóc vết trẹo nhẹ và thói quen lành mạnh"
+      },
+      "narrator": "announcer",
+      "title": "Hurt Your Ankle?",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Pine Street Pharmacy",
+            "vi": "Hiệu thuốc Pine Street"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hurt Your Ankle?",
+            "vi": "Bạn bị đau mắt cá chân?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A sprain happens when you turn your ankle the wrong way, for example when you fall over during a game.",
+            "vi": "Bong gân xảy ra khi mắt cá chân bị vặn sai hướng, chẳng hạn khi bạn ngã trong lúc thi đấu."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most small sprains get better at home, and an easy word can help: RICE, like the food!",
+            "vi": "Phần lớn các vết bong gân nhẹ sẽ đỡ dần khi chăm ở nhà, và có một từ dễ nhớ giúp bạn: RICE, giống từ \"cơm\" vậy!"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "R",
+          "i18n": {
+            "en": "Rest: Don't walk on the injured foot for a day or two.",
+            "vi": "Nghỉ (Rest): Đừng đi lại trên bàn chân bị đau trong một, hai ngày."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "I",
+          "i18n": {
+            "en": "Ice: Hold an ice pack on it for fifteen to twenty minutes, a few times a day.",
+            "vi": "Chườm lạnh (Ice): Đặt túi đá lên chỗ đau mười lăm đến hai mươi phút, vài lần mỗi ngày."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Never put ice right on your skin; use a thin towel.",
+            "vi": "Đừng bao giờ đặt đá trực tiếp lên da; hãy lót một chiếc khăn mỏng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "C",
+          "i18n": {
+            "en": "Compression: Put a soft bandage around the ankle, but not too tightly.",
+            "vi": "Băng ép (Compression): Quấn băng mềm quanh mắt cá chân, nhưng đừng quấn chặt quá."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cold or blue toes mean that it is too tight.",
+            "vi": "Ngón chân lạnh hoặc tím tái nghĩa là băng đang quá chặt."
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "E",
+          "i18n": {
+            "en": "Elevation: Lie down with your foot above your heart, on two or three pillows.",
+            "vi": "Nâng cao (Elevation): Nằm xuống, để bàn chân cao hơn tim, kê trên hai hoặc ba cái gối."
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When to See a Doctor",
+            "vi": "Khi nào cần đi khám bác sĩ"
+          }
+        },
+        {
+          "n": 12,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "See a doctor when you are not able to put any weight on the foot, when the ankle looks very swollen, or when the pain is not better after two or three days.",
+            "vi": "Hãy đi khám khi bạn hoàn toàn không dồn được sức nặng lên bàn chân, khi mắt cá trông sưng rất to, hoặc khi cơn đau không đỡ sau hai, ba ngày."
+          }
+        },
+        {
+          "n": 13,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before you take any pill for pain, ask our pharmacist, because some drugs are not safe for children.",
+            "vi": "Trước khi uống bất kỳ viên thuốc giảm đau nào, hãy hỏi dược sĩ của chúng tôi, vì có những loại thuốc không an toàn cho trẻ em."
+          }
+        },
+        {
+          "n": 14,
+          "para": 10,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Healthy Habits for Young Players",
+            "vi": "Thói quen lành mạnh cho cầu thủ nhỏ tuổi"
+          }
+        },
+        {
+          "n": 15,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Warm up for ten minutes before every game, and bend your knees slowly.",
+            "vi": "Khởi động mười phút trước mỗi trận, và gập gối thật chậm."
+          }
+        },
+        {
+          "n": 16,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sleep well, too: children from six to twelve need nine to twelve hours a night.",
+            "vi": "Ngủ cũng phải đủ: trẻ từ sáu đến mười hai tuổi cần ngủ chín đến mười hai tiếng mỗi đêm."
+          }
+        },
+        {
+          "n": 17,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Take care of yourself, and enjoy the game!",
+            "vi": "Hãy tự chăm sóc bản thân, và tận hưởng trận đấu nhé!"
+          }
+        }
+      ],
+      "content_ja": "Pine Street Pharmacy\n\nHurt Your Ankle?\n\nA sprain happens when you turn your ankle the wrong way, for example when you fall over during a game. Most small sprains get better at home, and an easy word can help: RICE, like the food!\n\nR Rest: Don't walk on the injured foot for a day or two.\n\nI Ice: Hold an ice pack on it for fifteen to twenty minutes, a few times a day. Never put ice right on your skin; use a thin towel.\n\nC Compression: Put a soft bandage around the ankle, but not too tightly. Cold or blue toes mean that it is too tight.\n\nE Elevation: Lie down with your foot above your heart, on two or three pillows.\n\nWhen to See a Doctor\n\nSee a doctor when you are not able to put any weight on the foot, when the ankle looks very swollen, or when the pain is not better after two or three days. Before you take any pill for pain, ask our pharmacist, because some drugs are not safe for children.\n\nHealthy Habits for Young Players\n\nWarm up for ten minutes before every game, and bend your knees slowly. Sleep well, too: children from six to twelve need nine to twelve hours a night.\n\nTake care of yourself, and enjoy the game!",
+      "translation_vn": "(1) Hiệu thuốc Pine Street\n(2) Bạn bị đau mắt cá chân?\n(3) Bong gân xảy ra khi mắt cá chân bị vặn sai hướng, chẳng hạn khi bạn ngã trong lúc thi đấu.\n(4) Phần lớn các vết bong gân nhẹ sẽ đỡ dần khi chăm ở nhà, và có một từ dễ nhớ giúp bạn: RICE, giống từ \"cơm\" vậy!\n(5) Nghỉ (Rest): Đừng đi lại trên bàn chân bị đau trong một, hai ngày.\n(6) Chườm lạnh (Ice): Đặt túi đá lên chỗ đau mười lăm đến hai mươi phút, vài lần mỗi ngày.\n(7) Đừng bao giờ đặt đá trực tiếp lên da; hãy lót một chiếc khăn mỏng.\n(8) Băng ép (Compression): Quấn băng mềm quanh mắt cá chân, nhưng đừng quấn chặt quá.\n(9) Ngón chân lạnh hoặc tím tái nghĩa là băng đang quá chặt.\n(10) Nâng cao (Elevation): Nằm xuống, để bàn chân cao hơn tim, kê trên hai hoặc ba cái gối.\n(11) Khi nào cần đi khám bác sĩ\n(12) Hãy đi khám khi bạn hoàn toàn không dồn được sức nặng lên bàn chân, khi mắt cá trông sưng rất to, hoặc khi cơn đau không đỡ sau hai, ba ngày.\n(13) Trước khi uống bất kỳ viên thuốc giảm đau nào, hãy hỏi dược sĩ của chúng tôi, vì có những loại thuốc không an toàn cho trẻ em.\n(14) Thói quen lành mạnh cho cầu thủ nhỏ tuổi\n(15) Khởi động mười phút trước mỗi trận, và gập gối thật chậm.\n(16) Ngủ cũng phải đủ: trẻ từ sáu đến mười hai tuổi cần ngủ chín đến mười hai tiếng mỗi đêm.\n(17) Hãy tự chăm sóc bản thân, và tận hưởng trận đấu nhé!",
+      "word_count": 216,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.25",
+        "a2.26",
+        "a2.27",
+        "a2.28"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u07_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "What happened to Trevor in the game?",
+        "vi": "Chuyện gì đã xảy ra với Trevor trong trận đấu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He lost his phone on the grass.",
+            "vi": "Cậu ấy làm mất điện thoại trên bãi cỏ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He lost his phone on the grass.",
+          "text_translation": "Cậu ấy làm mất điện thoại trên bãi cỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He fell over and hurt his ankle.",
+            "vi": "Cậu ấy bị ngã và đau mắt cá chân."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He fell over and hurt his ankle.",
+          "text_translation": "Cậu ấy bị ngã và đau mắt cá chân."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He hurt his hand and can't do homework.",
+            "vi": "Cậu ấy bị đau tay và không làm bài tập được."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He hurt his hand and can't do homework.",
+          "text_translation": "Cậu ấy bị đau tay và không làm bài tập được."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He felt dizzy and sat down.",
+            "vi": "Cậu ấy thấy chóng mặt và ngồi xuống."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He felt dizzy and sat down.",
+          "text_translation": "Cậu ấy thấy chóng mặt và ngồi xuống."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Mom, Trevor fell over in the game and hurt his ankle.\" Trevor ngồi trên bãi cỏ vì đau chân, không phải vì chóng mặt; bài không nói gì về điện thoại bị mất. Tay cậu vẫn lành: \"your hands are fine\" (câu 16)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi What happened? thường có đáp án ngay ở tin nhắn đầu tiên. Đọc kỹ bộ phận cơ thể (ankle, hand…) vì phương án nhiễu hay đổi chỗ này."
+      },
+      "question_jp": "What happened to Trevor in the game?",
+      "question_vn": "Chuyện gì đã xảy ra với Trevor trong trận đấu?",
+      "explanation": "\"Mom, Trevor fell over in the game and hurt his ankle.\" Trevor ngồi trên bãi cỏ vì đau chân, không phải vì chóng mặt; bài không nói gì về điện thoại bị mất. Tay cậu vẫn lành: \"your hands are fine\" (câu 16).",
+      "tip": "Câu hỏi What happened? thường có đáp án ngay ở tin nhắn đầu tiên. Đọc kỹ bộ phận cơ thể (ankle, hand…) vì phương án nhiễu hay đổi chỗ này."
+    },
+    {
+      "id": "q_u07_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "Why does Megan ask, \"Can he move his toes? Is he able to stand up by himself?\"",
+        "vi": "Vì sao Megan hỏi \"Em có cử động được ngón chân không? Em có tự đứng dậy được không?\""
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wants Trevor to finish the game.",
+            "vi": "Bà muốn Trevor đá nốt trận."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wants Trevor to finish the game.",
+          "text_translation": "Bà muốn Trevor đá nốt trận."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks Tracy is not telling the truth.",
+            "vi": "Bà nghĩ Tracy không nói thật."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She thinks Tracy is not telling the truth.",
+          "text_translation": "Bà nghĩ Tracy không nói thật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wants to know where Trevor is sitting.",
+            "vi": "Bà muốn biết Trevor đang ngồi ở đâu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wants to know where Trevor is sitting.",
+          "text_translation": "Bà muốn biết Trevor đang ngồi ở đâu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants to know how badly he is hurt.",
+            "vi": "Bà muốn biết con bị đau nặng tới mức nào."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She wants to know how badly he is hurt.",
+          "text_translation": "Bà muốn biết con bị đau nặng tới mức nào."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do, nhưng suy ra được. Megan là y tá cấp cứu; hai câu hỏi này giúp bà biết chân con đau nặng hay nhẹ. Nghe Trevor trả lời \"I can move my toes, but I can't walk on it\", bà quyết ngay: \"Then don't walk on it.\" Bà không muốn con đá tiếp, không nghi Tracy, và Tracy đã nói Trevor ngồi \"on the grass\" rồi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why does … ask …? : xem người đó LÀM GÌ ngay sau khi nghe câu trả lời. Hành động ấy cho biết họ hỏi để làm gì."
+      },
+      "question_jp": "Why does Megan ask, \"Can he move his toes? Is he able to stand up by himself?\"",
+      "question_vn": "Vì sao Megan hỏi \"Em có cử động được ngón chân không? Em có tự đứng dậy được không?\"",
+      "explanation": "Bài không nói thẳng lý do, nhưng suy ra được. Megan là y tá cấp cứu; hai câu hỏi này giúp bà biết chân con đau nặng hay nhẹ. Nghe Trevor trả lời \"I can move my toes, but I can't walk on it\", bà quyết ngay: \"Then don't walk on it.\" Bà không muốn con đá tiếp, không nghi Tracy, và Tracy đã nói Trevor ngồi \"on the grass\" rồi.",
+      "tip": "Câu hỏi Why does … ask …? : xem người đó LÀM GÌ ngay sau khi nghe câu trả lời. Hành động ấy cho biết họ hỏi để làm gì."
+    },
+    {
+      "id": "q_u07_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "Trevor writes, \"I can't walk on it.\" What does \"it\" mean?",
+        "vi": "Trevor viết \"I can't walk on it.\" Từ \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "his hurt ankle and foot",
+            "vi": "mắt cá và bàn chân bị đau của cậu ấy"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "his hurt ankle and foot",
+          "text_translation": "mắt cá và bàn chân bị đau của cậu ấy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the grass",
+            "vi": "bãi cỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the grass",
+          "text_translation": "bãi cỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the ice pack",
+            "vi": "túi đá"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the ice pack",
+          "text_translation": "túi đá"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the soccer game",
+            "vi": "trận bóng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the soccer game",
+          "text_translation": "trận bóng"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I can move my toes, but I can't walk on it. It hurts badly.\" Thứ Trevor không đi lên được và đang \"hurts badly\" là chân bị đau, tức \"his ankle\" trong tin nhắn đầu của Tracy. Bãi cỏ thì vẫn đi được; túi đá chưa xuất hiện; trận đấu thì không \"walk on\" được."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thử thay từng phương án vào chỗ it: \"I can't walk on the ice pack. The ice pack hurts badly\" là vô lý, nên loại."
+      },
+      "question_jp": "Trevor writes, \"I can't walk on it.\" What does \"it\" mean?",
+      "question_vn": "Trevor viết \"I can't walk on it.\" Từ \"it\" chỉ cái gì?",
+      "explanation": "\"I can move my toes, but I can't walk on it. It hurts badly.\" Thứ Trevor không đi lên được và đang \"hurts badly\" là chân bị đau, tức \"his ankle\" trong tin nhắn đầu của Tracy. Bãi cỏ thì vẫn đi được; túi đá chưa xuất hiện; trận đấu thì không \"walk on\" được.",
+      "tip": "Thử thay từng phương án vào chỗ it: \"I can't walk on the ice pack. The ice pack hurts badly\" là vô lý, nên loại."
+    },
+    {
+      "id": "q_u07_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "How often does Trevor need to put ice on his ankle?",
+        "vi": "Trevor cần chườm đá lên mắt cá bao lâu một lần?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "once a day for a week",
+            "vi": "mỗi ngày một lần trong một tuần"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "once a day for a week",
+          "text_translation": "mỗi ngày một lần trong một tuần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "two times a day on Monday",
+            "vi": "mỗi ngày hai lần vào thứ Hai"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "two times a day on Monday",
+          "text_translation": "mỗi ngày hai lần vào thứ Hai"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "four times a day for the first two days",
+            "vi": "mỗi ngày bốn lần trong hai ngày đầu"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "four times a day for the first two days",
+          "text_translation": "mỗi ngày bốn lần trong hai ngày đầu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "every twenty minutes all day",
+            "vi": "cứ hai mươi phút một lần suốt cả ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "every twenty minutes all day",
+          "text_translation": "cứ hai mươi phút một lần suốt cả ngày"
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Trevor hỏi \"How often do I need to put ice on it?\" và mẹ trả lời: \"Four times a day for the first two days.\" Con số \"twenty minutes\" là thời gian giữ đá mỗi lần (câu 7), không phải khoảng cách giữa các lần. Thứ Hai là hạn để quyết có đi khám không."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "How often? hỏi tần suất: tìm cụm once / twice / four times a day / every …. Đừng nhầm với How long? (mỗi lần bao lâu)."
+      },
+      "question_jp": "How often does Trevor need to put ice on his ankle?",
+      "question_vn": "Trevor cần chườm đá lên mắt cá bao lâu một lần?",
+      "explanation": "Trevor hỏi \"How often do I need to put ice on it?\" và mẹ trả lời: \"Four times a day for the first two days.\" Con số \"twenty minutes\" là thời gian giữ đá mỗi lần (câu 7), không phải khoảng cách giữa các lần. Thứ Hai là hạn để quyết có đi khám không.",
+      "tip": "How often? hỏi tần suất: tìm cụm once / twice / four times a day / every …. Đừng nhầm với How long? (mỗi lần bao lâu)."
+    },
+    {
+      "id": "q_u07_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "Which word best describes Megan in the messages?",
+        "vi": "Từ nào miêu tả đúng nhất Megan trong các tin nhắn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "angry",
+            "vi": "giận dữ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "angry",
+          "text_translation": "giận dữ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "calm",
+            "vi": "bình tĩnh"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "calm",
+          "text_translation": "bình tĩnh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "confused",
+            "vi": "bối rối"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "confused",
+          "text_translation": "bối rối"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "sleepy",
+            "vi": "buồn ngủ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "sleepy",
+          "text_translation": "buồn ngủ"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        6,
+        7,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Megan mở đầu bằng \"OK, stay calm.\" Sau đó bà hỏi đúng chỗ, dặn từng bước rõ ràng (\"Keep it there for fifteen to twenty minutes. I'm coming in the car.\") và có cả kế hoạch cho ngày mai. Bà không mắng ai, không lúng túng, cũng không có dấu hiệu buồn ngủ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi thái độ: đọc giọng của TOÀN BỘ tin nhắn của người đó. Câu ngắn, dặn từng bước, không trách móc = bình tĩnh."
+      },
+      "question_jp": "Which word best describes Megan in the messages?",
+      "question_vn": "Từ nào miêu tả đúng nhất Megan trong các tin nhắn?",
+      "explanation": "Megan mở đầu bằng \"OK, stay calm.\" Sau đó bà hỏi đúng chỗ, dặn từng bước rõ ràng (\"Keep it there for fifteen to twenty minutes. I'm coming in the car.\") và có cả kế hoạch cho ngày mai. Bà không mắng ai, không lúng túng, cũng không có dấu hiệu buồn ngủ.",
+      "tip": "Câu hỏi thái độ: đọc giọng của TOÀN BỘ tin nhắn của người đó. Câu ngắn, dặn từng bước, không trách móc = bình tĩnh."
+    },
+    {
+      "id": "q_u07_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "What is the main purpose of the text?",
+        "vi": "Mục đích chính của văn bản là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sell ice packs and bandages",
+            "vi": "để bán túi đá và băng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to sell ice packs and bandages",
+          "text_translation": "để bán túi đá và băng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell readers about soccer games on Pine Street",
+            "vi": "để báo tin về các trận bóng trên phố Pine"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to tell readers about soccer games on Pine Street",
+          "text_translation": "để báo tin về các trận bóng trên phố Pine"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how to care for a small sprain and stay healthy",
+            "vi": "để giải thích cách chăm vết bong gân nhẹ và giữ sức khoẻ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to explain how to care for a small sprain and stay healthy",
+          "text_translation": "để giải thích cách chăm vết bong gân nhẹ và giữ sức khoẻ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell children to stop playing sports",
+            "vi": "để khuyên trẻ em thôi chơi thể thao"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell children to stop playing sports",
+          "text_translation": "để khuyên trẻ em thôi chơi thể thao"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        14,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"Most small sprains get better at home, and an easy word can help: RICE, like the food!\" Sau đó văn bản giải thích RICE, khi nào cần đi khám, và phần \"Healthy Habits for Young Players\". Nó không bán hàng, không báo tin trận đấu, và còn chúc \"enjoy the game!\", tức là vẫn khuyến khích chơi thể thao."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Ý chính của văn bản có nhiều tiêu đề: đọc lướt tất cả các tiêu đề rồi tìm phương án bao được cả các phần."
+      },
+      "question_jp": "What is the main purpose of the text?",
+      "question_vn": "Mục đích chính của văn bản là gì?",
+      "explanation": "\"Most small sprains get better at home, and an easy word can help: RICE, like the food!\" Sau đó văn bản giải thích RICE, khi nào cần đi khám, và phần \"Healthy Habits for Young Players\". Nó không bán hàng, không báo tin trận đấu, và còn chúc \"enjoy the game!\", tức là vẫn khuyến khích chơi thể thao.",
+      "tip": "Ý chính của văn bản có nhiều tiêu đề: đọc lướt tất cả các tiêu đề rồi tìm phương án bao được cả các phần."
+    },
+    {
+      "id": "q_u07_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "What should you do before you put ice on your ankle?",
+        "vi": "Bạn nên làm gì trước khi chườm đá lên mắt cá chân?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Put a thin towel between the ice and your skin.",
+            "vi": "Lót một chiếc khăn mỏng giữa đá và da."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Put a thin towel between the ice and your skin.",
+          "text_translation": "Lót một chiếc khăn mỏng giữa đá và da."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Walk on the foot for ten minutes.",
+            "vi": "Đi bộ trên bàn chân đó mười phút."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Walk on the foot for ten minutes.",
+          "text_translation": "Đi bộ trên bàn chân đó mười phút."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Put the bandage on very tightly.",
+            "vi": "Quấn băng thật chặt."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Put the bandage on very tightly.",
+          "text_translation": "Quấn băng thật chặt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Bend your knees slowly.",
+            "vi": "Gập gối thật chậm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Bend your knees slowly.",
+          "text_translation": "Gập gối thật chậm."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Never put ice right on your skin; use a thin towel.\" Megan cũng dặn Tracy y như vậy ở bài 1. Đi bộ là việc tờ hướng dẫn bảo tránh (\"Don't walk on the injured foot\"), băng thì \"not too tightly\", còn gập gối chậm là việc khởi động trước trận, không liên quan tới việc chườm đá."
+      },
+      "audio_data": null,
+      "question_jp": "What should you do before you put ice on your ankle?",
+      "question_vn": "Bạn nên làm gì trước khi chườm đá lên mắt cá chân?",
+      "explanation": "\"Never put ice right on your skin; use a thin towel.\" Megan cũng dặn Tracy y như vậy ở bài 1. Đi bộ là việc tờ hướng dẫn bảo tránh (\"Don't walk on the injured foot\"), băng thì \"not too tightly\", còn gập gối chậm là việc khởi động trước trận, không liên quan tới việc chườm đá."
+    },
+    {
+      "id": "q_u07_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "In the Compression part, why does the text say \"not too tightly\"?",
+        "vi": "Ở phần Compression, vì sao văn bản dặn \"not too tightly\" (không quá chặt)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the ankle is not able to move",
+            "vi": "vì mắt cá chân không cử động được"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the ankle is not able to move",
+          "text_translation": "vì mắt cá chân không cử động được"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because you need to take it off every day",
+            "vi": "vì ngày nào bạn cũng phải tháo nó ra"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because you need to take it off every day",
+          "text_translation": "vì ngày nào bạn cũng phải tháo nó ra"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because a tight bandage keeps the foot warm",
+            "vi": "vì băng chặt giữ cho bàn chân ấm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because a tight bandage keeps the foot warm",
+          "text_translation": "vì băng chặt giữ cho bàn chân ấm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because a very tight bandage can make your toes cold or blue",
+            "vi": "vì băng quá chặt có thể làm ngón chân lạnh hoặc tím"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because a very tight bandage can make your toes cold or blue",
+          "text_translation": "vì băng quá chặt có thể làm ngón chân lạnh hoặc tím"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Put a soft bandage around the ankle, but not too tightly.\" Ngay sau đó: \"Cold or blue toes mean that it is too tight.\" Vậy băng chặt quá làm ngón chân lạnh, tím, chứ không giữ ấm. Bài không nói phải tháo băng mỗi ngày."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trạng từ cách thức (tightly, slowly, carefully) cho biết LÀM THẾ NÀO. Câu ngay sau thường giải thích vì sao phải làm như vậy."
+      },
+      "question_jp": "In the Compression part, why does the text say \"not too tightly\"?",
+      "question_vn": "Ở phần Compression, vì sao văn bản dặn \"not too tightly\" (không quá chặt)?",
+      "explanation": "\"Put a soft bandage around the ankle, but not too tightly.\" Ngay sau đó: \"Cold or blue toes mean that it is too tight.\" Vậy băng chặt quá làm ngón chân lạnh, tím, chứ không giữ ấm. Bài không nói phải tháo băng mỗi ngày.",
+      "tip": "Trạng từ cách thức (tightly, slowly, carefully) cho biết LÀM THẾ NÀO. Câu ngay sau thường giải thích vì sao phải làm như vậy."
+    },
+    {
+      "id": "q_u07_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "How much sleep does a twelve-year-old like Trevor need?",
+        "vi": "Theo tờ hướng dẫn, một bạn mười hai tuổi như Trevor cần ngủ bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about six hours a night",
+            "vi": "khoảng sáu tiếng mỗi đêm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "about six hours a night",
+          "text_translation": "khoảng sáu tiếng mỗi đêm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "nine to twelve hours a night",
+            "vi": "chín đến mười hai tiếng mỗi đêm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "nine to twelve hours a night",
+          "text_translation": "chín đến mười hai tiếng mỗi đêm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "ten minutes before every game",
+            "vi": "mười phút trước mỗi trận"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "ten minutes before every game",
+          "text_translation": "mười phút trước mỗi trận"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "fifteen to twenty minutes",
+            "vi": "mười lăm đến hai mươi phút"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "fifteen to twenty minutes",
+          "text_translation": "mười lăm đến hai mươi phút"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Sleep well, too: children from six to twelve need nine to twelve hours a night.\" Trevor mười hai tuổi nên nằm trong nhóm này. \"Six\" là tuổi nhỏ nhất của nhóm, không phải số giờ ngủ. \"Ten minutes\" là thời gian khởi động, còn \"fifteen to twenty minutes\" là thời gian chườm đá."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài kiến thức có nhiều con số: gạch chân mỗi số đi với danh từ nào (hours a night, minutes before every game, minutes of ice)."
+      },
+      "question_jp": "How much sleep does a twelve-year-old like Trevor need?",
+      "question_vn": "Theo tờ hướng dẫn, một bạn mười hai tuổi như Trevor cần ngủ bao nhiêu?",
+      "explanation": "\"Sleep well, too: children from six to twelve need nine to twelve hours a night.\" Trevor mười hai tuổi nên nằm trong nhóm này. \"Six\" là tuổi nhỏ nhất của nhóm, không phải số giờ ngủ. \"Ten minutes\" là thời gian khởi động, còn \"fifteen to twenty minutes\" là thời gian chườm đá.",
+      "tip": "Bài kiến thức có nhiều con số: gạch chân mỗi số đi với danh từ nào (hours a night, minutes before every game, minutes of ice)."
+    },
+    {
+      "id": "q_u07_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "On Monday, Trevor's ankle is more swollen and he still can't stand on it. Use both texts. What should the Carters do?",
+        "vi": "Sang thứ Hai, mắt cá của Trevor sưng hơn và cậu vẫn không đứng lên được. Theo cả hai bài, nhà Carter nên làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Wait one more week and let him play next Saturday.",
+            "vi": "Đợi thêm một tuần rồi cho cậu đá trận thứ Bảy tới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Wait one more week and let him play next Saturday.",
+          "text_translation": "Đợi thêm một tuần rồi cho cậu đá trận thứ Bảy tới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Hold ice on his skin for one hour without a towel.",
+            "vi": "Chườm đá trực tiếp lên da một tiếng không lót khăn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Hold ice on his skin for one hour without a towel.",
+          "text_translation": "Chườm đá trực tiếp lên da một tiếng không lót khăn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Take him to a doctor.",
+            "vi": "Đưa cậu đi khám bác sĩ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Take him to a doctor.",
+          "text_translation": "Đưa cậu đi khám bác sĩ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Give him an adult pill and ask nobody.",
+            "vi": "Cho cậu uống một viên thuốc của người lớn mà không hỏi ai."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Give him an adult pill and ask nobody.",
+          "text_translation": "Cho cậu uống một viên thuốc của người lớn mà không hỏi ai."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Ghép hai bài. Tờ hướng dẫn viết: \"See a doctor when you are not able to put any weight on the foot, when the ankle looks very swollen\" (bài 2, câu 12). Megan cũng đã dặn: \"We will see a doctor when it is more swollen tomorrow, or when you still can't stand on it on Monday.\" (bài 1, câu 14). Các phương án khác trái với lời dặn: không đợi rồi cho đá tiếp, không đặt đá thẳng lên da, và phải hỏi dược sĩ trước khi uống thuốc vì \"some drugs are not safe for children\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi nối hai bài: tìm tình huống ở bài 1, rồi tìm quy tắc ở bài 2 nói về đúng tình huống đó. Hai nơi cùng chỉ một hướng thì đó là đáp án."
+      },
+      "question_jp": "On Monday, Trevor's ankle is more swollen and he still can't stand on it. Use both texts. What should the Carters do?",
+      "question_vn": "Sang thứ Hai, mắt cá của Trevor sưng hơn và cậu vẫn không đứng lên được. Theo cả hai bài, nhà Carter nên làm gì?",
+      "explanation": "Ghép hai bài. Tờ hướng dẫn viết: \"See a doctor when you are not able to put any weight on the foot, when the ankle looks very swollen\" (bài 2, câu 12). Megan cũng đã dặn: \"We will see a doctor when it is more swollen tomorrow, or when you still can't stand on it on Monday.\" (bài 1, câu 14). Các phương án khác trái với lời dặn: không đợi rồi cho đá tiếp, không đặt đá thẳng lên da, và phải hỏi dược sĩ trước khi uống thuốc vì \"some drugs are not safe for children\".",
+      "tip": "Câu hỏi nối hai bài: tìm tình huống ở bài 1, rồi tìm quy tắc ở bài 2 nói về đúng tình huống đó. Hai nơi cùng chỉ một hướng thì đó là đáp án."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u07_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tin nhắn nhóm gia đình Carter: Trevor bị đau mắt cá chân",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u07_01",
+      "question_ids": [
+        "q_u07_001",
+        "q_u07_002",
+        "q_u07_003",
+        "q_u07_004",
+        "q_u07_005"
+      ]
+    },
+    {
+      "set_id": "set_u07_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Tờ hướng dẫn của hiệu thuốc: chăm sóc vết trẹo nhẹ và thói quen lành mạnh",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u07_02",
+      "question_ids": [
+        "q_u07_006",
+        "q_u07_007",
+        "q_u07_008",
+        "q_u07_009",
+        "q_u07_010"
+      ]
+    }
+  ]
+}

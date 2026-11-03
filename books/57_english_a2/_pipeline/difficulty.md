@@ -10,3 +10,4 @@ Mốc nối từ A1: u16 sách 56 = 154 / 154 từ, TB 12,4 từ/câu.
 | u01 | 168 / 164 | 13.6 / 13.2 | Tina phỏng vấn bà Harriet + tiểu sử Jane Goodall (kiểm chứng: janegoodall.org, Smithsonian, NatGeo); 2 câu suy luận |
 | u05 | 190 / 191 | 13.2 / 15.5 | hội thoại đổi áo + giờ lễ bưu điện/ngân hàng (USPS kiểm chứng); 2 câu suy luận. Main sửa 3 câu hỏi trỏ "sentence N" |
 | u06 | 197 / 193 | 13.7 / 15.3 | hội thoại nấu súp (an toàn bếp kiểm chứng) + review nhà hàng; 2 câu suy luận + 1 câu thái độ |
+| u07 | 210 / 216 | 14.4 / 15.4 | chat gia đình (Trevor trẹo chân) + tờ hướng dẫn RICE của hiệu thuốc (Mayo Clinic, CDC); 2 câu suy luận (1 nối 2 bài). Main viết lại câu né "if" bằng mệnh đề when |
