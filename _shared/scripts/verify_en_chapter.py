@@ -21,7 +21,8 @@ ROOT = Path(__file__).resolve().parents[2]
 CAST = set(("Mitchell Megan Tracy Trevor Tina Biscuit Carter Carters Harriet Nathan Helena Amy Brooks Leah Ethan Hayes "
             "Chloe Bennett Lydia Park Maple Street San Diego Westview High Washington New York Philadelphia Miami "
             "Savannah Asheville Aspen Maui Monterey Mississippi Baltimore Orleans Mammoth Cave Georgetown "
-            "Mr Mrs Ms Dr English I OK You").split())
+            "Mr Mrs Ms Dr English I OK You Monday Tuesday Wednesday Thursday Friday Saturday Sunday January February "
+            "March April May June July August September October November December").split())
 FORBIDDEN = r"\b(communis\w*|fascis\w*|nazi\w*|dictator\w*|capitalis\w*|socialis\w*|marxis\w*|totalitarian\w*|" \
             r"election\w*|vote[sd]?|voting|president|politic\w*|parliament\w*|congress\w*|senat\w*|democrat\w*|" \
             r"republican\w*|war|wars|army|armies|soldier\w*|weapon\w*|bomb\w*|religio\w*|church\w*|mosque\w*|" \
