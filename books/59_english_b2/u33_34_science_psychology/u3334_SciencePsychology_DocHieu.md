@@ -46,11 +46,11 @@
 >
 > Question
 >
-> A pollinator is defined as any animal that carries pollen from one flower to another. Pollinators can be divided into several groups, including bees, butterflies, flies, beetles and some birds. My question was: in our school garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world?
+> A pollinator is defined as any animal that carries pollen from one flower to another. Pollinators can be divided into several groups, including bees, butterflies, flies, beetles and some birds. My question was: in this garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world?
 >
 > Method
 >
-> The garden at my old elementary school is believed to have been planted about four years ago by the Green Club at Westview High, with help from younger students. I chose four native plants and four non-native plants of similar size and color. On twelve sunny mornings in March, I watched each plant for ten minutes and counted every visit by a pollinator. To make the test fair, I changed the order in which I watched the plants every day, so that no plant was always watched at the warmest time.
+> I did my research in the garden behind the gym at Westview High, where my brother goes to school. It was planted two years ago by the Green Club, and its first native flowers are said to have been grown from seeds that the science teacher collected himself. I chose four native plants and four non-native plants of similar size and color. On twelve sunny mornings in March, I watched each plant for ten minutes and counted every visit by a pollinator. To make the test fair, I changed the order in which I watched the plants every day, so that no plant was always watched at the warmest time.
 >
 > Results
 >
@@ -58,7 +58,7 @@
 >
 > Conclusion
 >
-> In our garden, native flowers attracted many more pollinators. However, I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere. A personal note: on the day of the fair, I was sure that everyone could hear my voice shaking. Afterward, one of the judges told me that I had seemed "very calm". I wish I had known that before I started.
+> In this garden, native flowers attracted many more pollinators. However, I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere. A personal note: on the day of the fair, I was sure that everyone could hear my voice shaking. Afterward, one of the judges told me that I had seemed "very calm". I wish I had known that before I started.
 
 ### Dịch từng câu
 
@@ -68,9 +68,9 @@
 | 2 | Written by: Tina Carter, Grade 7 | Người viết: Tina Carter, lớp 7 |
 | 3 | Question | Câu hỏi |
 | 4 | A pollinator is defined as any animal that carries pollen from one flower to another. Pollinators can be divided into several groups, including bees, butterflies, flies, beetles and some birds. | Loài thụ phấn được định nghĩa là bất kỳ động vật nào mang phấn hoa từ bông này sang bông khác. Có thể chia chúng thành nhiều nhóm, gồm ong, bướm, ruồi, bọ cánh cứng và một số loài chim. |
-| 5 | My question was: in our school garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world? | Câu hỏi của em là: trong vườn trường, hoa bản địa, loài mọc tự nhiên ở Nam California, có thu hút nhiều loài thụ phấn hơn hoa đến từ những nơi khác trên thế giới không? |
+| 5 | My question was: in this garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world? | Câu hỏi của em là: trong khu vườn này, hoa bản địa, loài mọc tự nhiên ở Nam California, có thu hút nhiều loài thụ phấn hơn hoa đến từ những nơi khác trên thế giới không? |
 | 6 | Method | Phương pháp |
-| 7 | The garden at my old elementary school is believed to have been planted about four years ago by the Green Club at Westview High, with help from younger students. | Khu vườn ở trường tiểu học cũ của em được cho là do câu lạc bộ Xanh của trường Westview High trồng khoảng bốn năm trước, có học sinh nhỏ hơn phụ giúp. |
+| 7 | I did my research in the garden behind the gym at Westview High, where my brother goes to school. It was planted two years ago by the Green Club, and its first native flowers are said to have been grown from seeds that the science teacher collected himself. | Em làm nghiên cứu ở khu vườn sau nhà thể chất trường Westview High, trường anh trai em học. Vườn do câu lạc bộ Xanh trồng hai năm trước, và nghe nói những cây hoa bản địa đầu tiên được ươm từ hạt do chính thầy giáo khoa học tự đi thu. |
 | 8 | I chose four native plants and four non-native plants of similar size and color. On twelve sunny mornings in March, I watched each plant for ten minutes and counted every visit by a pollinator. | Em chọn bốn cây bản địa và bốn cây không bản địa có kích thước và màu sắc tương tự. Trong mười hai buổi sáng nắng tháng Ba, em quan sát mỗi cây mười phút và đếm mọi lượt ghé thăm của loài thụ phấn. |
 | 9 | To make the test fair, I changed the order in which I watched the plants every day, so that no plant was always watched at the warmest time. | Để thí nghiệm công bằng, ngày nào em cũng đổi thứ tự quan sát các cây, để không cây nào lúc nào cũng được quan sát vào giờ ấm nhất. |
 | 10 | Results | Kết quả |
@@ -78,7 +78,7 @@
 | 12 | Native bees, most of which were very small, made up the largest group of visitors. | Ong bản địa, phần lớn rất nhỏ, là nhóm khách đông nhất. |
 | 13 | On two windy mornings, the counts were much lower for all plants, so those results seem to have been affected by the weather. | Hai buổi sáng nhiều gió, số lượt đếm được ở mọi cây đều thấp hơn hẳn, nên những kết quả đó có vẻ đã bị thời tiết ảnh hưởng. |
 | 14 | Conclusion | Kết luận |
-| 15 | In our garden, native flowers attracted many more pollinators. However, I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere. | Trong vườn của chúng em, hoa bản địa thu hút nhiều loài thụ phấn hơn hẳn. Tuy nhiên, em mới nghiên cứu tám cây trong một khu vườn, nên cần nghiên cứu thêm trước khi ai đó có thể nói điều này đúng ở mọi nơi. |
+| 15 | In this garden, native flowers attracted many more pollinators. However, I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere. | Trong khu vườn này, hoa bản địa thu hút nhiều loài thụ phấn hơn hẳn. Tuy nhiên, em mới nghiên cứu tám cây trong một khu vườn, nên cần nghiên cứu thêm trước khi ai đó có thể nói điều này đúng ở mọi nơi. |
 | 16 | A personal note: on the day of the fair, I was sure that everyone could hear my voice shaking. Afterward, one of the judges told me that I had seemed "very calm". I wish I had known that before I started. | Một ghi chú riêng: hôm hội chợ, em chắc mẩm ai cũng nghe thấy giọng em run. Sau đó, một vị giám khảo bảo em trông "rất bình tĩnh". Ước gì em biết điều đó trước khi bắt đầu. |
 
 ### Câu hỏi
@@ -88,7 +88,7 @@
 
 - A. how to plant a garden *(cách trồng một khu vườn)*
 - B. why bees are small *(vì sao ong nhỏ)*
-- C. whether native flowers attract more pollinators than non-native ones in the school garden *(liệu hoa bản địa có thu hút nhiều loài thụ phấn hơn hoa không bản địa trong vườn trường không)*
+- C. whether native flowers attract more pollinators than non-native ones in the Westview High garden *(liệu hoa bản địa có thu hút nhiều loài thụ phấn hơn hoa không bản địa trong vườn trường Westview High không)*
 - D. which flowers smell the best *(hoa nào thơm nhất)*
 
 **2. How is a pollinator defined in the report?**
@@ -99,13 +99,13 @@
 - C. a kind of flower *(một loại hoa)*
 - D. a bee that makes honey *(một con ong làm mật)*
 
-**3. What does "The garden … is believed to have been planted about four years ago" tell us?**
-*(Câu "Khu vườn được cho là đã được trồng khoảng bốn năm trước" cho biết điều gì?)*
+**3. What does "its first native flowers are said to have been grown from seeds" tell us?**
+*(Câu "nghe nói những cây hoa bản địa đầu tiên được ươm từ hạt" cho biết điều gì?)*
 
-- A. The garden will be planted in four years. *(Bốn năm nữa vườn mới được trồng.)*
-- B. Tina planted the garden herself. *(Chính Tina trồng vườn.)*
-- C. The garden is being planted now. *(Vườn đang được trồng.)*
-- D. People think that the garden was planted in the past, but Tina isn't completely sure. *(Người ta cho rằng vườn được trồng từ trước, nhưng Tina không chắc hoàn toàn.)*
+- A. The flowers will be grown from seeds next year. *(Năm sau hoa mới được ươm từ hạt.)*
+- B. Tina grew the flowers herself. *(Chính Tina ươm hoa.)*
+- C. The flowers are being grown now. *(Hoa đang được ươm.)*
+- D. People say that this happened in the past, but Tina did not see it herself. *(Người ta kể chuyện này đã xảy ra, nhưng Tina không tận mắt thấy.)*
 
 **4. How did Tina make her test fair?**
 *(Tina làm thí nghiệm công bằng bằng cách nào?)*
@@ -296,16 +296,16 @@
 
 | Câu | Đáp án | Giải thích |
 |---|---|---|
-| 1 | **C** | Câu 5: "My question was: in our school garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world?" |
+| 1 | **C** | Câu 5: "My question was: in this garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world?" |
 | 2 | **A** | Câu 4: "A pollinator is defined as any animal that carries pollen from one flower to another." Is defined as = được định nghĩa là. |
-| 3 | **D** | Câu 7: Is believed to have been + V3 = được cho là đã được làm. Bị động hoàn thành nguyên mẫu nói về một việc trong quá khứ mà người viết chỉ nghe nói. |
+| 3 | **D** | Câu 7: "its first native flowers are said to have been grown from seeds that the science teacher collected himself." Are said to have been + V3 = nghe nói đã được làm. Bị động hoàn thành nguyên mẫu nói về việc trong quá khứ mà người viết chỉ nghe kể. |
 | 4 | **B** | Câu 9: "I changed the order in which I watched the plants every day, so that no plant was always watched at the warmest time." |
 | 5 | **C** | Câu 8: Câu suy luận. Nếu một nhóm cây to hơn hay sặc sỡ hơn, kết quả có thể do kích thước, màu sắc chứ không phải do là cây bản địa. Đây là cách giữ một biến số duy nhất. |
 | 6 | **A** | Câu 11: "412 visits to the native plants and 168 visits to the non-native plants, which is almost two and a half times as many." |
 | 7 | **D** | Câu 13: "the counts were much lower for all plants, so those results seem to have been affected by the weather." Seem to have been + V3 = có vẻ đã bị. |
 | 8 | **B** | Câu 15: "I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere." Đây là thái độ khoa học thận trọng. |
 | 9 | **A** | Câu 16: Câu suy luận. Cô bé tưởng ai cũng nghe giọng mình run, nhưng giám khảo lại thấy cô "very calm". Wish + had + V3 = tiếc về quá khứ. |
-| 10 | **C** | Câu 15: Câu hỏi thái độ. Cô bé khẳng định kết quả "In our garden", rồi nêu rõ giới hạn của nghiên cứu. |
+| 10 | **C** | Câu 15: Câu hỏi thái độ. Cô bé khẳng định kết quả "In this garden", rồi nêu rõ giới hạn của nghiên cứu. |
 | 11 | **B** | Câu 3: "the spotlight effect: the feeling that other people are noticing us far more than they really are." |
 | 12 | **D** | Câu 3: "what psychologists call the spotlight effect: the feeling that other people are noticing us far more than they really are." |
 | 13 | **A** | Câu 6: "On average, they guessed about half." Một phần tư là con số thực tế. |
