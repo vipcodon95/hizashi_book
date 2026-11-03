@@ -16,3 +16,4 @@ Mốc nối từ A1: u16 sách 56 = 154 / 154 từ, TB 12,4 từ/câu.
 | u11 | 230 / 230 | 13.4 / 16.3 | tin nhắn Chloe kể buổi hẹn với Dustin + trắc nghiệm tính cách; 3 câu suy luận (1 nối 2 bài) |
 | u12 | 225 / 224 | 13.8 / 15.9 | Trevor dạy bà Harriet dùng máy thanh toán + review đồng hồ thông minh hư cấu; 3 câu suy luận + 1 câu thái độ |
 | u09 | 209 / 210 | 13.4 / 16.0 | nhật ký Tracy (đỗ đại học) + lịch sự kiện trung tâm cộng đồng; 3 câu suy luận (1 nối 2 bài) |
+| u13 | 249 / 237 | 14.3 / 14.8 | Leah tốt nghiệp (Match Day: AMA) + bài "Jobs of the Future" (BLS); 3 câu suy luận |
