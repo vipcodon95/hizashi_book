@@ -1,0 +1,3866 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "C1 Mock Test 2 (Final)",
+      "vi": "Đề thi thử C1 (cuối sách)"
+    },
+    "title": "C1 Mock Test 2 (Final)",
+    "title_vn": "Đề thi thử C1 (cuối sách)",
+    "module_code": "60_mock2",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C1",
+    "curriculum_unit": "c1.test",
+    "curriculum_sheets": [
+      "c1.001",
+      "c1.002",
+      "c1.003",
+      "c1.004",
+      "c1.005",
+      "c1.006",
+      "c1.007",
+      "c1.008",
+      "c1.009",
+      "c1.010",
+      "c1.011",
+      "c1.012",
+      "c1.013",
+      "c1.014",
+      "c1.015",
+      "c1.016",
+      "c1.017",
+      "c1.018",
+      "c1.019",
+      "c1.020",
+      "c1.021",
+      "c1.022",
+      "c1.023",
+      "c1.024",
+      "c1.025",
+      "c1.026",
+      "c1.027",
+      "c1.028",
+      "c1.029",
+      "c1.030",
+      "c1.031",
+      "c1.032",
+      "c1.033",
+      "c1.034",
+      "c1.035",
+      "c1.036",
+      "c1.037",
+      "c1.038",
+      "c1.039",
+      "c1.040",
+      "c1.041",
+      "c1.042",
+      "c1.043",
+      "c1.044",
+      "c1.045",
+      "c1.046",
+      "c1.047",
+      "c1.048",
+      "c1.test"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Leah Carter",
+      "Ethan Hayes",
+      "Harriet Brooks",
+      "Nathan Brooks",
+      "Amy Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 10 – 11, năm 8"
+    },
+    "total_passages": 4,
+    "total_questions": 40,
+    "focus": "Đề thi thử VSTEP bậc 5: 4 bài × 10 câu",
+    "description_vn": "Đề thi thử cuối sách C1: bài phát biểu của Tracy ở đám cưới Leah và Ethan, bài khoa học về thời gian hình thành thói quen, báo cáo tháng đầu của The Neighbors' Kitchen, bài quan điểm của Nathan về AI và việc đào tạo người mới vào nghề. 4 bài × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Đề thi thử cuối sách · ôn toàn bộ khoá C1, phiếu `c1.001` – `c1.048` và `c1.test` (12 unit + kiểm tra cuối cấp)."
+    },
+    "objective_i18n": {
+      "vi": "Đề thi thử 40 câu, làm trong 60 phút (theo format đọc VSTEP bậc 5: 4 bài × 10 câu). Đề khó dần: bài phát biểu của Tracy ở đám cưới Leah và Ethan → bài khoa học về thời gian hình thành thói quen (nghiên cứu 2010) → báo cáo tháng đầu của The Neighbors' Kitchen → bài quan điểm của Nathan về AI và việc đào tạo người mới vào nghề (nghiên cứu Stanford 2025). Khoảng một nửa số câu hỏi về hàm ý, giọng điệu, cấu trúc lập luận và liên hệ giữa các chương."
+    },
+    "extra_words": [
+      {
+        "word": "maid of honor",
+        "i18n": {
+          "vi": "phù dâu chính"
+        }
+      },
+      {
+        "word": "kneel",
+        "i18n": {
+          "vi": "quỳ"
+        }
+      },
+      {
+        "word": "knelt",
+        "i18n": {
+          "vi": "đã quỳ"
+        }
+      },
+      {
+        "word": "obviously",
+        "i18n": {
+          "vi": "dĩ nhiên"
+        }
+      },
+      {
+        "word": "toast",
+        "i18n": {
+          "vi": "lời chúc rượu"
+        }
+      },
+      {
+        "word": "instructed",
+        "i18n": {
+          "vi": "được dặn"
+        }
+      },
+      {
+        "word": "myth",
+        "i18n": {
+          "vi": "huyền thoại, chuyện tưởng thật"
+        }
+      },
+      {
+        "word": "motivational",
+        "i18n": {
+          "vi": "truyền động lực"
+        }
+      },
+      {
+        "word": "plastic surgeon",
+        "i18n": {
+          "vi": "bác sĩ phẫu thuật thẩm mỹ"
+        }
+      },
+      {
+        "word": "volunteer",
+        "i18n": {
+          "vi": "tình nguyện viên"
+        }
+      },
+      {
+        "word": "automaticity",
+        "i18n": {
+          "vi": "mức độ tự động"
+        }
+      },
+      {
+        "word": "sit-ups",
+        "i18n": {
+          "vi": "động tác gập bụng"
+        }
+      },
+      {
+        "word": "achievable",
+        "i18n": {
+          "vi": "làm được"
+        }
+      },
+      {
+        "word": "tamale",
+        "i18n": {
+          "vi": "bánh tamale (món Mexico)"
+        }
+      },
+      {
+        "word": "wheat",
+        "i18n": {
+          "vi": "lúa mì"
+        }
+      },
+      {
+        "word": "fridge",
+        "i18n": {
+          "vi": "tủ lạnh"
+        }
+      },
+      {
+        "word": "underestimate",
+        "i18n": {
+          "vi": "đánh giá thấp"
+        }
+      },
+      {
+        "word": "junior",
+        "i18n": {
+          "vi": "người mới vào nghề"
+        }
+      },
+      {
+        "word": "payroll",
+        "i18n": {
+          "vi": "bảng lương"
+        }
+      },
+      {
+        "word": "flaw",
+        "i18n": {
+          "vi": "lỗ hổng, điểm sai"
+        }
+      },
+      {
+        "word": "larger",
+        "i18n": {
+          "vi": "lớn hơn"
+        }
+      },
+      {
+        "word": "perfection",
+        "i18n": {
+          "vi": "sự hoàn hảo"
+        }
+      },
+      {
+        "word": "scones",
+        "i18n": {
+          "vi": "bánh scone"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "without a second thought",
+          "vi": "không chút đắn đo"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on the other hand",
+          "vi": "mặt khác"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on their hands and knees",
+          "vi": "bò bằng tay và đầu gối"
+        }
+      },
+      {
+        "i18n": {
+          "en": "which is to say",
+          "vi": "tức là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "comes at a price",
+          "vi": "phải trả giá"
+        }
+      },
+      {
+        "i18n": {
+          "en": "to put it politely",
+          "vi": "nói một cách lịch sự"
+        }
+      },
+      {
+        "i18n": {
+          "en": "so far",
+          "vi": "tới giờ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "say it aloud",
+          "vi": "nói nó ra thành lời"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in ten years' time",
+          "vi": "trong mười năm nữa"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Quản lý thời gian:** 60 phút cho 4 bài. Phần 1 khoảng 13 phút, Phần 2 khoảng 15 phút, Phần 3 khoảng 14 phút, Phần 4 khoảng 18 phút."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài phát biểu:** người nói thường báo trước cấu trúc (`answer the question, add a reason, give an example`) rồi làm đúng như thế. Câu cuối hay khép vòng với câu đầu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài khoa học:** phân biệt **con số trung bình** với **khoảng dao động** (`the average hides an enormous range`). Câu hỏi hay bẫy bằng phương án \"áp dụng cho mọi người\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Báo cáo:** so con số thật với mục tiêu (`a little below the four hours`). Cụm nói giảm (`to put it politely`) là chỗ hỏi hàm ý."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài quan điểm C1:** người viết nêu cả **giới hạn của bằng chứng** (`other factors may have played a part`). Câu hỏi thái độ: họ trình bày công bằng, không phải bác bỏ nghiên cứu."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_mock2_01",
+      "heading_i18n": {
+        "vi": "Phần 1 — Bài phát biểu của Tracy ở đám cưới Leah và Ethan"
+      },
+      "narrator": "Tracy",
+      "title": "A Speech for Leah and Ethan",
+      "category": "story",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 240,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Speech for Leah and Ethan",
+            "vi": "Bài phát biểu dành cho Leah và Ethan"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Given by Tracy Carter, maid of honor, at the wedding of Dr. Leah Carter and Ethan Hayes, Saturday, October 13, in the garden of Pine Street Library",
+            "vi": "Tracy Carter, phù dâu chính, phát biểu ở đám cưới bác sĩ Leah Carter và Ethan Hayes, thứ Bảy 13 tháng Mười, tại khu vườn thư viện Pine Street"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Good evening, everyone. When Leah asked me to give this speech, I asked her for advice, because that is what I have done about everything for the last nine years. She told me what she once told me before a job interview: answer the question, add a reason, give an example, and then stop. So I will try.",
+            "vi": "Chào buổi tối mọi người. Khi Leah nhờ em phát biểu, em đã xin chị ấy lời khuyên, vì đó là điều em làm với mọi chuyện suốt chín năm qua. Chị ấy nói với em đúng điều từng nói trước một buổi phỏng vấn xin việc của em: trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi dừng. Vậy em sẽ thử."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The question is: why are these two right for each other? The reason is that each of them is brave in exactly the way that the other one is not.",
+            "vi": "Câu hỏi là: vì sao hai người này hợp với nhau? Lý do là mỗi người dũng cảm đúng theo cách mà người kia không có."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan will run into a burning building without a second thought, but when he asked Leah to be his girlfriend, he was so nervous that he asked her to be his \"emergency contact\" instead.",
+            "vi": "Ethan sẽ lao vào một toà nhà đang cháy không chút đắn đo, nhưng khi hỏi Leah làm bạn gái, anh run tới mức hỏi chị làm \"người liên lạc khẩn cấp\" của anh."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leah, on the other hand, can tell a family the worst news of their lives with calm and kindness, but it took her three days and a long talk with Chloe to tell Ethan that she was hurt, the time he said yes to a training course before he had asked her.",
+            "vi": "Còn Leah thì có thể báo cho một gia đình tin tồi tệ nhất đời họ một cách bình tĩnh và tử tế, nhưng chị phải mất ba ngày và một cuộc nói chuyện dài với Chloe mới nói được với Ethan rằng chị bị tổn thương, lần anh nhận lời một khoá huấn luyện trước khi hỏi ý chị."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now the example. Last Christmas morning, on the beach, Ethan knelt down, opened a small box, and dropped the ring in the sand. For ten minutes, the two of them searched on their hands and knees while a crowd of strangers joined in.",
+            "vi": "Giờ là ví dụ. Sáng Giáng sinh năm ngoái, trên bãi biển, Ethan quỳ xuống, mở một chiếc hộp nhỏ, rồi đánh rơi nhẫn xuống cát. Suốt mười phút, hai người bò trên cát tìm, trong khi một đám người lạ cũng xúm vào tìm cùng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was Leah who found it. She held it up, and before Ethan could say a word, she said, \"Yes. Obviously yes. Now please stand up.\"",
+            "vi": "Chính Leah là người tìm thấy. Chị giơ nó lên, và trước khi Ethan kịp nói lời nào, chị bảo: \"Có. Dĩ nhiên là có. Giờ anh làm ơn đứng dậy đi.\""
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That, to me, is their whole marriage in one picture: he takes the risk, she finds what was lost, and somehow they end up laughing in front of strangers.",
+            "vi": "Với em, đó là toàn bộ cuộc hôn nhân của họ trong một bức tranh: anh ấy dám liều, chị ấy tìm lại thứ đã mất, và không hiểu sao cả hai lại cười phá lên trước mặt người lạ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In Ethan's family, I have learned, the youngest cousin rings a small bell at the end of the toasts, and everyone has to stop talking and look at the person they came with. In my family, we have no such custom. We just cry. So, Amy, ring the bell.",
+            "vi": "Em mới biết, ở nhà Ethan, đứa em họ nhỏ nhất sẽ rung một cái chuông nhỏ khi kết thúc phần chúc rượu, và mọi người phải ngừng nói, nhìn người đi cùng mình. Ở nhà em thì không có tục đó. Bọn em chỉ khóc thôi. Vậy, Amy ơi, rung chuông đi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And now, as instructed, I will stop.",
+            "vi": "Và giờ, đúng như được dặn, em sẽ dừng."
+          }
+        }
+      ],
+      "content_ja": "A Speech for Leah and Ethan\n\nGiven by Tracy Carter, maid of honor, at the wedding of Dr. Leah Carter and Ethan Hayes, Saturday, October 13, in the garden of Pine Street Library\n\nGood evening, everyone. When Leah asked me to give this speech, I asked her for advice, because that is what I have done about everything for the last nine years. She told me what she once told me before a job interview: answer the question, add a reason, give an example, and then stop. So I will try.\n\nThe question is: why are these two right for each other? The reason is that each of them is brave in exactly the way that the other one is not. Ethan will run into a burning building without a second thought, but when he asked Leah to be his girlfriend, he was so nervous that he asked her to be his \"emergency contact\" instead. Leah, on the other hand, can tell a family the worst news of their lives with calm and kindness, but it took her three days and a long talk with Chloe to tell Ethan that she was hurt, the time he said yes to a training course before he had asked her.\n\nNow the example. Last Christmas morning, on the beach, Ethan knelt down, opened a small box, and dropped the ring in the sand. For ten minutes, the two of them searched on their hands and knees while a crowd of strangers joined in. It was Leah who found it. She held it up, and before Ethan could say a word, she said, \"Yes. Obviously yes. Now please stand up.\" That, to me, is their whole marriage in one picture: he takes the risk, she finds what was lost, and somehow they end up laughing in front of strangers.\n\nIn Ethan's family, I have learned, the youngest cousin rings a small bell at the end of the toasts, and everyone has to stop talking and look at the person they came with. In my family, we have no such custom. We just cry. So, Amy, ring the bell. And now, as instructed, I will stop.",
+      "translation_vn": "(1) Bài phát biểu dành cho Leah và Ethan\n(2) Tracy Carter, phù dâu chính, phát biểu ở đám cưới bác sĩ Leah Carter và Ethan Hayes, thứ Bảy 13 tháng Mười, tại khu vườn thư viện Pine Street\n(3) Chào buổi tối mọi người. Khi Leah nhờ em phát biểu, em đã xin chị ấy lời khuyên, vì đó là điều em làm với mọi chuyện suốt chín năm qua. Chị ấy nói với em đúng điều từng nói trước một buổi phỏng vấn xin việc của em: trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi dừng. Vậy em sẽ thử.\n(4) Câu hỏi là: vì sao hai người này hợp với nhau? Lý do là mỗi người dũng cảm đúng theo cách mà người kia không có.\n(5) Ethan sẽ lao vào một toà nhà đang cháy không chút đắn đo, nhưng khi hỏi Leah làm bạn gái, anh run tới mức hỏi chị làm \"người liên lạc khẩn cấp\" của anh.\n(6) Còn Leah thì có thể báo cho một gia đình tin tồi tệ nhất đời họ một cách bình tĩnh và tử tế, nhưng chị phải mất ba ngày và một cuộc nói chuyện dài với Chloe mới nói được với Ethan rằng chị bị tổn thương, lần anh nhận lời một khoá huấn luyện trước khi hỏi ý chị.\n(7) Giờ là ví dụ. Sáng Giáng sinh năm ngoái, trên bãi biển, Ethan quỳ xuống, mở một chiếc hộp nhỏ, rồi đánh rơi nhẫn xuống cát. Suốt mười phút, hai người bò trên cát tìm, trong khi một đám người lạ cũng xúm vào tìm cùng.\n(8) Chính Leah là người tìm thấy. Chị giơ nó lên, và trước khi Ethan kịp nói lời nào, chị bảo: \"Có. Dĩ nhiên là có. Giờ anh làm ơn đứng dậy đi.\"\n(9) Với em, đó là toàn bộ cuộc hôn nhân của họ trong một bức tranh: anh ấy dám liều, chị ấy tìm lại thứ đã mất, và không hiểu sao cả hai lại cười phá lên trước mặt người lạ.\n(10) Em mới biết, ở nhà Ethan, đứa em họ nhỏ nhất sẽ rung một cái chuông nhỏ khi kết thúc phần chúc rượu, và mọi người phải ngừng nói, nhìn người đi cùng mình. Ở nhà em thì không có tục đó. Bọn em chỉ khóc thôi. Vậy, Amy ơi, rung chuông đi.\n(11) Và giờ, đúng như được dặn, em sẽ dừng.",
+      "word_count": 360,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004",
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008",
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012",
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016",
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020",
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024",
+        "c1.025",
+        "c1.026",
+        "c1.027",
+        "c1.028",
+        "c1.029",
+        "c1.030",
+        "c1.031",
+        "c1.032",
+        "c1.033",
+        "c1.034",
+        "c1.035",
+        "c1.036",
+        "c1.037",
+        "c1.038",
+        "c1.039",
+        "c1.040",
+        "c1.041",
+        "c1.042",
+        "c1.043",
+        "c1.044",
+        "c1.045",
+        "c1.046",
+        "c1.047",
+        "c1.048",
+        "c1.test"
+      ]
+    },
+    {
+      "id": "passage_mock2_02",
+      "heading_i18n": {
+        "vi": "Phần 2 — Bài khoa học: thói quen mất bao lâu để hình thành"
+      },
+      "narrator": "announcer",
+      "title": "How Long Does It Really Take to Form a Habit?",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 250,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How Long Does It Really Take to Form a Habit?",
+            "vi": "Thực sự mất bao lâu để hình thành một thói quen?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ask almost anyone how long it takes to form a new habit, and you will probably hear the same answer: twenty-one days. The number appears in countless apps, articles and motivational videos, and it sounds wonderfully precise.",
+            "vi": "Hỏi gần như bất kỳ ai mất bao lâu để hình thành một thói quen mới, bạn có lẽ sẽ nghe cùng một câu trả lời: hai mươi mốt ngày. Con số này xuất hiện trong vô số ứng dụng, bài báo và video truyền động lực, và nghe chính xác một cách tuyệt vời."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is, however, almost certainly wrong. The idea seems to have come from a popular book written in 1960 by a plastic surgeon, who noticed that his patients took about three weeks to get used to their new faces. He was describing a minimum, not a rule, and he was not studying habits at all.",
+            "vi": "Tuy nhiên, nó gần như chắc chắn là sai. Ý tưởng này dường như bắt nguồn từ một cuốn sách nổi tiếng năm 1960 của một bác sĩ phẫu thuật thẩm mỹ, người nhận thấy bệnh nhân của mình mất khoảng ba tuần để quen với khuôn mặt mới. Ông mô tả một mức tối thiểu chứ không phải một quy luật, và ông hoàn toàn không nghiên cứu thói quen."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The best-known scientific attempt to answer the question was published in 2010 by a team at University College London. They asked 96 volunteers to choose one new daily behavior, such as eating a piece of fruit with lunch or running for fifteen minutes before dinner, and to report every day for twelve weeks how automatic it felt.",
+            "vi": "Nỗ lực khoa học nổi tiếng nhất nhằm trả lời câu hỏi này được công bố năm 2010 bởi một nhóm ở Đại học University College London. Họ đề nghị 96 tình nguyện viên chọn một hành vi mới hằng ngày, như ăn một miếng trái cây trong bữa trưa hay chạy mười lăm phút trước bữa tối, và mỗi ngày báo cáo trong mười hai tuần xem hành vi đó tự động tới mức nào."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On average, it took 66 days for a behavior to reach its peak of automaticity, which is to say, the point at which it happened without much thought. However, the average hides an enormous range.",
+            "vi": "Trung bình, phải mất 66 ngày để một hành vi đạt mức tự động cao nhất, tức là thời điểm nó diễn ra mà không cần nghĩ nhiều. Tuy nhiên, con số trung bình che giấu một khoảng dao động rất lớn."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For some people, it took just 18 days; for others, the researchers estimated that it would take more than 250. Simple behaviors, like drinking a glass of water after breakfast, became automatic much faster than demanding ones, like doing fifty sit-ups.",
+            "vi": "Với một số người, chỉ mất 18 ngày; với những người khác, các nhà nghiên cứu ước tính sẽ mất hơn 250 ngày. Hành vi đơn giản, như uống một cốc nước sau bữa sáng, trở nên tự động nhanh hơn nhiều so với hành vi đòi hỏi nhiều công sức, như gập bụng năm mươi lần."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One finding is particularly encouraging. Missing a single day did not seriously damage the process. Insofar as there is a secret, it is not perfection but repetition in a consistent situation: the same action, at the same time or after the same cue, again and again.",
+            "vi": "Có một phát hiện đặc biệt đáng khích lệ. Bỏ lỡ một ngày không làm hỏng nghiêm trọng quá trình. Nếu có bí quyết nào, thì đó không phải sự hoàn hảo mà là sự lặp lại trong một hoàn cảnh nhất quán: cùng một hành động, cùng một thời điểm hoặc sau cùng một tín hiệu, lặp đi lặp lại."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why, then, does the myth survive? Partly because it is comforting. Three weeks sounds achievable; two months, or eight months, sounds daunting. But the comfort comes at a price.",
+            "vi": "Vậy vì sao huyền thoại ấy vẫn tồn tại? Một phần vì nó an ủi. Ba tuần nghe có vẻ làm được; hai tháng, hay tám tháng, nghe thật nản. Nhưng sự an ủi ấy phải trả giá."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "People who expect a habit to be easy after twenty-one days tend to conclude, on day twenty-two, that they have failed, and they give up just when the habit may be about to form.",
+            "vi": "Những người mong một thói quen trở nên dễ dàng sau hai mươi mốt ngày thường kết luận, vào ngày thứ hai mươi hai, rằng mình đã thất bại, và họ bỏ cuộc đúng lúc thói quen có lẽ sắp hình thành."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A more honest message would be less exciting but far more useful: it will probably take longer than you think, and that is perfectly normal.",
+            "vi": "Một thông điệp trung thực hơn sẽ kém hấp dẫn hơn nhưng hữu ích hơn nhiều: có lẽ nó sẽ mất lâu hơn bạn nghĩ, và điều đó hoàn toàn bình thường."
+          }
+        }
+      ],
+      "content_ja": "How Long Does It Really Take to Form a Habit?\n\nAsk almost anyone how long it takes to form a new habit, and you will probably hear the same answer: twenty-one days. The number appears in countless apps, articles and motivational videos, and it sounds wonderfully precise. It is, however, almost certainly wrong. The idea seems to have come from a popular book written in 1960 by a plastic surgeon, who noticed that his patients took about three weeks to get used to their new faces. He was describing a minimum, not a rule, and he was not studying habits at all.\n\nThe best-known scientific attempt to answer the question was published in 2010 by a team at University College London. They asked 96 volunteers to choose one new daily behavior, such as eating a piece of fruit with lunch or running for fifteen minutes before dinner, and to report every day for twelve weeks how automatic it felt.\n\nOn average, it took 66 days for a behavior to reach its peak of automaticity, which is to say, the point at which it happened without much thought. However, the average hides an enormous range. For some people, it took just 18 days; for others, the researchers estimated that it would take more than 250. Simple behaviors, like drinking a glass of water after breakfast, became automatic much faster than demanding ones, like doing fifty sit-ups.\n\nOne finding is particularly encouraging. Missing a single day did not seriously damage the process. Insofar as there is a secret, it is not perfection but repetition in a consistent situation: the same action, at the same time or after the same cue, again and again.\n\nWhy, then, does the myth survive? Partly because it is comforting. Three weeks sounds achievable; two months, or eight months, sounds daunting. But the comfort comes at a price. People who expect a habit to be easy after twenty-one days tend to conclude, on day twenty-two, that they have failed, and they give up just when the habit may be about to form. A more honest message would be less exciting but far more useful: it will probably take longer than you think, and that is perfectly normal.",
+      "translation_vn": "(1) Thực sự mất bao lâu để hình thành một thói quen?\n(2) Hỏi gần như bất kỳ ai mất bao lâu để hình thành một thói quen mới, bạn có lẽ sẽ nghe cùng một câu trả lời: hai mươi mốt ngày. Con số này xuất hiện trong vô số ứng dụng, bài báo và video truyền động lực, và nghe chính xác một cách tuyệt vời.\n(3) Tuy nhiên, nó gần như chắc chắn là sai. Ý tưởng này dường như bắt nguồn từ một cuốn sách nổi tiếng năm 1960 của một bác sĩ phẫu thuật thẩm mỹ, người nhận thấy bệnh nhân của mình mất khoảng ba tuần để quen với khuôn mặt mới. Ông mô tả một mức tối thiểu chứ không phải một quy luật, và ông hoàn toàn không nghiên cứu thói quen.\n(4) Nỗ lực khoa học nổi tiếng nhất nhằm trả lời câu hỏi này được công bố năm 2010 bởi một nhóm ở Đại học University College London. Họ đề nghị 96 tình nguyện viên chọn một hành vi mới hằng ngày, như ăn một miếng trái cây trong bữa trưa hay chạy mười lăm phút trước bữa tối, và mỗi ngày báo cáo trong mười hai tuần xem hành vi đó tự động tới mức nào.\n(5) Trung bình, phải mất 66 ngày để một hành vi đạt mức tự động cao nhất, tức là thời điểm nó diễn ra mà không cần nghĩ nhiều. Tuy nhiên, con số trung bình che giấu một khoảng dao động rất lớn.\n(6) Với một số người, chỉ mất 18 ngày; với những người khác, các nhà nghiên cứu ước tính sẽ mất hơn 250 ngày. Hành vi đơn giản, như uống một cốc nước sau bữa sáng, trở nên tự động nhanh hơn nhiều so với hành vi đòi hỏi nhiều công sức, như gập bụng năm mươi lần.\n(7) Có một phát hiện đặc biệt đáng khích lệ. Bỏ lỡ một ngày không làm hỏng nghiêm trọng quá trình. Nếu có bí quyết nào, thì đó không phải sự hoàn hảo mà là sự lặp lại trong một hoàn cảnh nhất quán: cùng một hành động, cùng một thời điểm hoặc sau cùng một tín hiệu, lặp đi lặp lại.\n(8) Vậy vì sao huyền thoại ấy vẫn tồn tại? Một phần vì nó an ủi. Ba tuần nghe có vẻ làm được; hai tháng, hay tám tháng, nghe thật nản. Nhưng sự an ủi ấy phải trả giá.\n(9) Những người mong một thói quen trở nên dễ dàng sau hai mươi mốt ngày thường kết luận, vào ngày thứ hai mươi hai, rằng mình đã thất bại, và họ bỏ cuộc đúng lúc thói quen có lẽ sắp hình thành.\n(10) Một thông điệp trung thực hơn sẽ kém hấp dẫn hơn nhưng hữu ích hơn nhiều: có lẽ nó sẽ mất lâu hơn bạn nghĩ, và điều đó hoàn toàn bình thường.",
+      "word_count": 368,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004",
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008",
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012",
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016",
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020",
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024",
+        "c1.025",
+        "c1.026",
+        "c1.027",
+        "c1.028",
+        "c1.029",
+        "c1.030",
+        "c1.031",
+        "c1.032",
+        "c1.033",
+        "c1.034",
+        "c1.035",
+        "c1.036",
+        "c1.037",
+        "c1.038",
+        "c1.039",
+        "c1.040",
+        "c1.041",
+        "c1.042",
+        "c1.043",
+        "c1.044",
+        "c1.045",
+        "c1.046",
+        "c1.047",
+        "c1.048",
+        "c1.test"
+      ]
+    },
+    {
+      "id": "passage_mock2_03",
+      "heading_i18n": {
+        "vi": "Phần 3 — Báo cáo tháng đầu của The Neighbors' Kitchen"
+      },
+      "narrator": "Harriet",
+      "title": "The Neighbors' Kitchen: Our First Month",
+      "category": "report",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 240,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Neighbors' Kitchen: Our First Month",
+            "vi": "The Neighbors' Kitchen: Tháng đầu tiên của chúng tôi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A report for the Maple Street Neighbors' Newsletter by Harriet Brooks, with numbers checked by Nathan Brooks",
+            "vi": "Báo cáo cho Bản tin hàng xóm Maple Street, do Harriet Brooks viết, Nathan Brooks kiểm tra các con số"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On October 15, the shared kitchen in the old bakery next to Harriet's opened its doors. The idea is simple: anyone who cooks for a living, or hopes to, can rent a professional kitchen by the hour, at $25 an hour, instead of paying for a whole restaurant.",
+            "vi": "Ngày 15 tháng Mười, căn bếp dùng chung trong tiệm bánh cũ cạnh quán Harriet's mở cửa. Ý tưởng rất đơn giản: bất cứ ai nấu ăn để kiếm sống, hoặc mong được như thế, đều có thể thuê một căn bếp chuyên nghiệp theo giờ, giá 25 đô một giờ, thay vì phải trả tiền cho cả một nhà hàng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In our first month, the kitchen was booked for an average of three and a half hours a day. That is a little below the four hours that Nathan says we need to cover our costs, but it is far more than I expected, and bookings rose steadily every week.",
+            "vi": "Trong tháng đầu, bếp được đặt trung bình ba tiếng rưỡi mỗi ngày. Mức đó thấp hơn một chút so với bốn tiếng mà Nathan nói ta cần để hoà vốn, nhưng nhiều hơn hẳn tôi mong, và lượt đặt tăng đều mỗi tuần."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Fourteen regular cooks have used it so far, including a woman who sells tamales at the farmers' market, a young man who bakes bread for people who cannot eat wheat, and a retired restaurant chef who now teaches a Saturday cooking class for teenagers.",
+            "vi": "Tới giờ đã có mười bốn người nấu thường xuyên dùng bếp, trong đó có một chị bán bánh tamale ở chợ nông sản, một chàng trai nướng bánh mì cho người không ăn được lúa mì, và một đầu bếp nhà hàng đã nghỉ hưu giờ dạy lớp nấu ăn sáng thứ Bảy cho thanh thiếu niên."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not everything has gone smoothly. In the second week, two cooks argued about fridge space, and one of them left the other's cheese on the counter all night. We now have labeled shelves and a rule that every item must carry a name and a date.",
+            "vi": "Không phải mọi thứ đều suôn sẻ. Tuần thứ hai, hai người nấu cãi nhau về chỗ trong tủ lạnh, và một người để pho mát của người kia trên quầy suốt đêm. Giờ chúng tôi có kệ dán nhãn và quy định mọi món phải ghi tên và ngày."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We also underestimated cleaning. Each cook is supposed to leave the kitchen as they found it, but standards vary, to put it politely, so we have added thirty minutes of cleaning to the end of each day, paid for out of the booking fees.",
+            "vi": "Chúng tôi cũng đánh giá thấp việc dọn dẹp. Mỗi người nấu lẽ ra phải trả bếp như lúc nhận, nhưng nói một cách lịch sự thì tiêu chuẩn mỗi người mỗi khác, nên chúng tôi đã thêm ba mươi phút dọn dẹp vào cuối mỗi ngày, trả từ tiền thuê bếp."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The best surprise has been the café itself. Cooks waiting for their bread to rise come next door for coffee, and customers who see them through the window ask what they are making. Lunchtime sales at Harriet's are up by about a tenth compared with October last year.",
+            "vi": "Bất ngờ dễ chịu nhất lại là chính quán cà phê. Những người nấu chờ bột bánh nở thường sang bên cạnh uống cà phê, và khách nhìn qua cửa sổ thấy họ thì hỏi họ đang làm gì. Doanh thu buổi trưa của Harriet's tăng khoảng một phần mười so với tháng Mười năm ngoái."
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For the next month, we have two goals: reach four hours a day, and start a monthly \"tasting night\", when our cooks can sell small plates to neighbors. As for me, I am still baking the scones, and nobody has yet been allowed to touch my oven.",
+            "vi": "Tháng tới, chúng tôi có hai mục tiêu: đạt bốn tiếng mỗi ngày, và mở \"đêm nếm thử\" hằng tháng, khi những người nấu có thể bán các đĩa nhỏ cho hàng xóm. Còn tôi, tôi vẫn nướng bánh scone, và tới giờ chưa ai được phép đụng vào lò của tôi."
+          }
+        }
+      ],
+      "content_ja": "The Neighbors' Kitchen: Our First Month\n\nA report for the Maple Street Neighbors' Newsletter by Harriet Brooks, with numbers checked by Nathan Brooks\n\nOn October 15, the shared kitchen in the old bakery next to Harriet's opened its doors. The idea is simple: anyone who cooks for a living, or hopes to, can rent a professional kitchen by the hour, at $25 an hour, instead of paying for a whole restaurant.\n\nIn our first month, the kitchen was booked for an average of three and a half hours a day. That is a little below the four hours that Nathan says we need to cover our costs, but it is far more than I expected, and bookings rose steadily every week. Fourteen regular cooks have used it so far, including a woman who sells tamales at the farmers' market, a young man who bakes bread for people who cannot eat wheat, and a retired restaurant chef who now teaches a Saturday cooking class for teenagers.\n\nNot everything has gone smoothly. In the second week, two cooks argued about fridge space, and one of them left the other's cheese on the counter all night. We now have labeled shelves and a rule that every item must carry a name and a date. We also underestimated cleaning. Each cook is supposed to leave the kitchen as they found it, but standards vary, to put it politely, so we have added thirty minutes of cleaning to the end of each day, paid for out of the booking fees.\n\nThe best surprise has been the café itself. Cooks waiting for their bread to rise come next door for coffee, and customers who see them through the window ask what they are making. Lunchtime sales at Harriet's are up by about a tenth compared with October last year.\n\nFor the next month, we have two goals: reach four hours a day, and start a monthly \"tasting night\", when our cooks can sell small plates to neighbors. As for me, I am still baking the scones, and nobody has yet been allowed to touch my oven.",
+      "translation_vn": "(1) The Neighbors' Kitchen: Tháng đầu tiên của chúng tôi\n(2) Báo cáo cho Bản tin hàng xóm Maple Street, do Harriet Brooks viết, Nathan Brooks kiểm tra các con số\n(3) Ngày 15 tháng Mười, căn bếp dùng chung trong tiệm bánh cũ cạnh quán Harriet's mở cửa. Ý tưởng rất đơn giản: bất cứ ai nấu ăn để kiếm sống, hoặc mong được như thế, đều có thể thuê một căn bếp chuyên nghiệp theo giờ, giá 25 đô một giờ, thay vì phải trả tiền cho cả một nhà hàng.\n(4) Trong tháng đầu, bếp được đặt trung bình ba tiếng rưỡi mỗi ngày. Mức đó thấp hơn một chút so với bốn tiếng mà Nathan nói ta cần để hoà vốn, nhưng nhiều hơn hẳn tôi mong, và lượt đặt tăng đều mỗi tuần.\n(5) Tới giờ đã có mười bốn người nấu thường xuyên dùng bếp, trong đó có một chị bán bánh tamale ở chợ nông sản, một chàng trai nướng bánh mì cho người không ăn được lúa mì, và một đầu bếp nhà hàng đã nghỉ hưu giờ dạy lớp nấu ăn sáng thứ Bảy cho thanh thiếu niên.\n(6) Không phải mọi thứ đều suôn sẻ. Tuần thứ hai, hai người nấu cãi nhau về chỗ trong tủ lạnh, và một người để pho mát của người kia trên quầy suốt đêm. Giờ chúng tôi có kệ dán nhãn và quy định mọi món phải ghi tên và ngày.\n(7) Chúng tôi cũng đánh giá thấp việc dọn dẹp. Mỗi người nấu lẽ ra phải trả bếp như lúc nhận, nhưng nói một cách lịch sự thì tiêu chuẩn mỗi người mỗi khác, nên chúng tôi đã thêm ba mươi phút dọn dẹp vào cuối mỗi ngày, trả từ tiền thuê bếp.\n(8) Bất ngờ dễ chịu nhất lại là chính quán cà phê. Những người nấu chờ bột bánh nở thường sang bên cạnh uống cà phê, và khách nhìn qua cửa sổ thấy họ thì hỏi họ đang làm gì. Doanh thu buổi trưa của Harriet's tăng khoảng một phần mười so với tháng Mười năm ngoái.\n(9) Tháng tới, chúng tôi có hai mục tiêu: đạt bốn tiếng mỗi ngày, và mở \"đêm nếm thử\" hằng tháng, khi những người nấu có thể bán các đĩa nhỏ cho hàng xóm. Còn tôi, tôi vẫn nướng bánh scone, và tới giờ chưa ai được phép đụng vào lò của tôi.",
+      "word_count": 348,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004",
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008",
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012",
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016",
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020",
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024",
+        "c1.025",
+        "c1.026",
+        "c1.027",
+        "c1.028",
+        "c1.029",
+        "c1.030",
+        "c1.031",
+        "c1.032",
+        "c1.033",
+        "c1.034",
+        "c1.035",
+        "c1.036",
+        "c1.037",
+        "c1.038",
+        "c1.039",
+        "c1.040",
+        "c1.041",
+        "c1.042",
+        "c1.043",
+        "c1.044",
+        "c1.045",
+        "c1.046",
+        "c1.047",
+        "c1.048",
+        "c1.test"
+      ]
+    },
+    {
+      "id": "passage_mock2_04",
+      "heading_i18n": {
+        "vi": "Phần 4 — Bài quan điểm của Nathan: ai sẽ đào tạo người mới vào nghề?"
+      },
+      "narrator": "Nathan",
+      "title": "Who Will Train the Juniors?",
+      "category": "essay",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 260,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Who Will Train the Juniors?",
+            "vi": "Ai sẽ đào tạo người mới vào nghề?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan Brooks, software team lead",
+            "vi": "Nathan Brooks, trưởng nhóm phần mềm"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I started my career, my first year was full of boring work: fixing small errors, writing tests, updating documents that nobody read. I complained about it constantly. I now realize that it was the most important training I ever received.",
+            "vi": "Khi tôi mới vào nghề, năm đầu tiên toàn những việc nhàm chán: sửa lỗi nhỏ, viết bài kiểm thử, cập nhật những tài liệu chẳng ai đọc. Tôi than phiền suốt. Giờ tôi nhận ra đó là khoá đào tạo quan trọng nhất tôi từng được nhận."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every small error I fixed taught me how the larger system worked, and every senior engineer who checked my work taught me what \"good\" looked like.",
+            "vi": "Mỗi lỗi nhỏ tôi sửa dạy tôi hệ thống lớn hơn vận hành thế nào, và mỗi kỹ sư lâu năm kiểm tra bài của tôi dạy tôi thế nào là \"tốt\"."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today, AI tools can do much of that boring work in seconds. For experienced engineers, this is a gift. For people trying to enter the profession, it may be a problem.",
+            "vi": "Ngày nay, công cụ AI có thể làm phần lớn những việc nhàm chán đó trong vài giây. Với kỹ sư nhiều kinh nghiệm, đây là một món quà. Với những người đang cố bước vào nghề, nó có thể là một vấn đề."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A 2025 study by researchers at Stanford University, based on payroll records from millions of American workers, found that employment of workers aged 22 to 25 in the jobs most exposed to AI had fallen by around 13 percent compared with workers in less exposed jobs.",
+            "vi": "Một nghiên cứu năm 2025 của các nhà nghiên cứu ở Đại học Stanford, dựa trên dữ liệu bảng lương của hàng triệu người lao động Mỹ, cho thấy số người có việc trong độ tuổi 22 tới 25 ở những công việc chịu tác động AI nhiều nhất đã giảm khoảng 13 phần trăm so với người lao động ở những công việc ít chịu tác động hơn."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Older workers in the same jobs were doing fine. The researchers were careful to say that other factors may have played a part, but the pattern is hard to ignore.",
+            "vi": "Những người lớn tuổi hơn trong cùng công việc vẫn ổn. Các nhà nghiên cứu thận trọng nói rằng có thể có những yếu tố khác góp phần, nhưng xu hướng này khó mà làm ngơ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some managers see no problem here. If a machine can do a junior's work, they argue, why hire a junior? The flaw in this argument is obvious once you say it aloud: every senior engineer was once a junior. A company that stops training beginners today will have no experienced people in ten years' time.",
+            "vi": "Một số quản lý không thấy có vấn đề gì. Họ lập luận: nếu máy làm được việc của người mới, thì tuyển người mới làm gì? Lỗ hổng của lập luận này hiển nhiên ngay khi ta nói nó ra: kỹ sư lâu năm nào cũng từng là người mới. Một công ty thôi đào tạo người mới hôm nay sẽ không còn ai giàu kinh nghiệm trong mười năm nữa."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So what should we do? Not so much protect the old training as design a new one. On my team, every junior engineer now spends part of each week checking the AI's work, which turns out to be an excellent way to learn, because you cannot judge an answer that you do not understand.",
+            "vi": "Vậy ta nên làm gì? Không phải bảo vệ cách đào tạo cũ mà là thiết kế một cách mới. Trong nhóm tôi, giờ mỗi kỹ sư mới dành một phần thời gian mỗi tuần để kiểm tra bài của AI, hoá ra đó là cách học tuyệt vời, vì ta không thể đánh giá một câu trả lời mà mình không hiểu."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They also present their findings to a senior engineer, who asks them to explain each decision.",
+            "vi": "Họ cũng trình bày kết quả cho một kỹ sư lâu năm, người sẽ yêu cầu họ giải thích từng quyết định."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A young engineer I know learned more from one mistake that she found and reported than from a whole year of easy tasks. Machines can do the easy tasks now. Our job is to make sure that beginners still get the chance to make, and learn from, the hard ones.",
+            "vi": "Một kỹ sư trẻ tôi quen học được từ một lỗi mà cô tự tìm ra và báo cáo nhiều hơn cả một năm làm việc dễ. Giờ máy làm được việc dễ. Việc của chúng ta là đảm bảo người mới vẫn có cơ hội mắc, và học từ, những lỗi khó."
+          }
+        }
+      ],
+      "content_ja": "Who Will Train the Juniors?\n\nNathan Brooks, software team lead\n\nWhen I started my career, my first year was full of boring work: fixing small errors, writing tests, updating documents that nobody read. I complained about it constantly. I now realize that it was the most important training I ever received. Every small error I fixed taught me how the larger system worked, and every senior engineer who checked my work taught me what \"good\" looked like.\n\nToday, AI tools can do much of that boring work in seconds. For experienced engineers, this is a gift. For people trying to enter the profession, it may be a problem. A 2025 study by researchers at Stanford University, based on payroll records from millions of American workers, found that employment of workers aged 22 to 25 in the jobs most exposed to AI had fallen by around 13 percent compared with workers in less exposed jobs. Older workers in the same jobs were doing fine. The researchers were careful to say that other factors may have played a part, but the pattern is hard to ignore.\n\nSome managers see no problem here. If a machine can do a junior's work, they argue, why hire a junior? The flaw in this argument is obvious once you say it aloud: every senior engineer was once a junior. A company that stops training beginners today will have no experienced people in ten years' time.\n\nSo what should we do? Not so much protect the old training as design a new one. On my team, every junior engineer now spends part of each week checking the AI's work, which turns out to be an excellent way to learn, because you cannot judge an answer that you do not understand. They also present their findings to a senior engineer, who asks them to explain each decision.\n\nA young engineer I know learned more from one mistake that she found and reported than from a whole year of easy tasks. Machines can do the easy tasks now. Our job is to make sure that beginners still get the chance to make, and learn from, the hard ones.",
+      "translation_vn": "(1) Ai sẽ đào tạo người mới vào nghề?\n(2) Nathan Brooks, trưởng nhóm phần mềm\n(3) Khi tôi mới vào nghề, năm đầu tiên toàn những việc nhàm chán: sửa lỗi nhỏ, viết bài kiểm thử, cập nhật những tài liệu chẳng ai đọc. Tôi than phiền suốt. Giờ tôi nhận ra đó là khoá đào tạo quan trọng nhất tôi từng được nhận.\n(4) Mỗi lỗi nhỏ tôi sửa dạy tôi hệ thống lớn hơn vận hành thế nào, và mỗi kỹ sư lâu năm kiểm tra bài của tôi dạy tôi thế nào là \"tốt\".\n(5) Ngày nay, công cụ AI có thể làm phần lớn những việc nhàm chán đó trong vài giây. Với kỹ sư nhiều kinh nghiệm, đây là một món quà. Với những người đang cố bước vào nghề, nó có thể là một vấn đề.\n(6) Một nghiên cứu năm 2025 của các nhà nghiên cứu ở Đại học Stanford, dựa trên dữ liệu bảng lương của hàng triệu người lao động Mỹ, cho thấy số người có việc trong độ tuổi 22 tới 25 ở những công việc chịu tác động AI nhiều nhất đã giảm khoảng 13 phần trăm so với người lao động ở những công việc ít chịu tác động hơn.\n(7) Những người lớn tuổi hơn trong cùng công việc vẫn ổn. Các nhà nghiên cứu thận trọng nói rằng có thể có những yếu tố khác góp phần, nhưng xu hướng này khó mà làm ngơ.\n(8) Một số quản lý không thấy có vấn đề gì. Họ lập luận: nếu máy làm được việc của người mới, thì tuyển người mới làm gì? Lỗ hổng của lập luận này hiển nhiên ngay khi ta nói nó ra: kỹ sư lâu năm nào cũng từng là người mới. Một công ty thôi đào tạo người mới hôm nay sẽ không còn ai giàu kinh nghiệm trong mười năm nữa.\n(9) Vậy ta nên làm gì? Không phải bảo vệ cách đào tạo cũ mà là thiết kế một cách mới. Trong nhóm tôi, giờ mỗi kỹ sư mới dành một phần thời gian mỗi tuần để kiểm tra bài của AI, hoá ra đó là cách học tuyệt vời, vì ta không thể đánh giá một câu trả lời mà mình không hiểu.\n(10) Họ cũng trình bày kết quả cho một kỹ sư lâu năm, người sẽ yêu cầu họ giải thích từng quyết định.\n(11) Một kỹ sư trẻ tôi quen học được từ một lỗi mà cô tự tìm ra và báo cáo nhiều hơn cả một năm làm việc dễ. Giờ máy làm được việc dễ. Việc của chúng ta là đảm bảo người mới vẫn có cơ hội mắc, và học từ, những lỗi khó.",
+      "word_count": 355,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004",
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008",
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012",
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016",
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020",
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024",
+        "c1.025",
+        "c1.026",
+        "c1.027",
+        "c1.028",
+        "c1.029",
+        "c1.030",
+        "c1.031",
+        "c1.032",
+        "c1.033",
+        "c1.034",
+        "c1.035",
+        "c1.036",
+        "c1.037",
+        "c1.038",
+        "c1.039",
+        "c1.040",
+        "c1.041",
+        "c1.042",
+        "c1.043",
+        "c1.044",
+        "c1.045",
+        "c1.046",
+        "c1.047",
+        "c1.048",
+        "c1.test"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mock2_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "Why did Tracy ask Leah for advice about the speech?",
+        "vi": "Vì sao Tracy xin Leah lời khuyên cho bài phát biểu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because Leah writes speeches for a living",
+            "vi": "vì Leah viết diễn văn kiếm sống"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because Leah writes speeches for a living",
+          "text_translation": "vì Leah viết diễn văn kiếm sống"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she has asked Leah for advice about everything for years",
+            "vi": "vì nhiều năm nay chuyện gì cô cũng xin Leah lời khuyên"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because she has asked Leah for advice about everything for years",
+          "text_translation": "vì nhiều năm nay chuyện gì cô cũng xin Leah lời khuyên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Ethan told her to",
+            "vi": "vì Ethan bảo cô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Ethan told her to",
+          "text_translation": "vì Ethan bảo cô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she had forgotten her notes",
+            "vi": "vì cô quên ghi chú"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because she had forgotten her notes",
+          "text_translation": "vì cô quên ghi chú"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"because that is what I have done about everything for the last nine years.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Tracy ask Leah for advice about the speech?",
+      "question_vn": "Vì sao Tracy xin Leah lời khuyên cho bài phát biểu?",
+      "explanation": "\"because that is what I have done about everything for the last nine years.\""
+    },
+    {
+      "id": "q_mock2_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "How does Tracy organize her speech?",
+        "vi": "Tracy tổ chức bài phát biểu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as a list of thank-yous",
+            "vi": "như một danh sách lời cảm ơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "as a list of thank-yous",
+          "text_translation": "như một danh sách lời cảm ơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as a story told in time order from childhood",
+            "vi": "như một câu chuyện kể theo thời gian từ thời thơ ấu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "as a story told in time order from childhood",
+          "text_translation": "như một câu chuyện kể theo thời gian từ thời thơ ấu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as a poem",
+            "vi": "như một bài thơ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "as a poem",
+          "text_translation": "như một bài thơ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "using Leah's interview advice: a question, a reason, an example, then she stops",
+            "vi": "dùng lời khuyên phỏng vấn của Leah: câu hỏi, lý do, ví dụ, rồi dừng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "using Leah's interview advice: a question, a reason, an example, then she stops",
+          "text_translation": "dùng lời khuyên phỏng vấn của Leah: câu hỏi, lý do, ví dụ, rồi dừng"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc. Cô báo trước \"answer the question, add a reason, give an example, and then stop\" rồi làm đúng: \"The question is\", \"The reason is\", \"Now the example\", và dừng."
+      },
+      "audio_data": null,
+      "question_jp": "How does Tracy organize her speech?",
+      "question_vn": "Tracy tổ chức bài phát biểu thế nào?",
+      "explanation": "Câu hỏi cấu trúc. Cô báo trước \"answer the question, add a reason, give an example, and then stop\" rồi làm đúng: \"The question is\", \"The reason is\", \"Now the example\", và dừng."
+    },
+    {
+      "id": "q_mock2_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "According to Tracy, why are Leah and Ethan right for each other?",
+        "vi": "Theo Tracy, vì sao Leah và Ethan hợp nhau?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Each is brave in a way that the other is not.",
+            "vi": "Mỗi người dũng cảm theo cách người kia không có."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Each is brave in a way that the other is not.",
+          "text_translation": "Mỗi người dũng cảm theo cách người kia không có."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They both work in hospitals.",
+            "vi": "Cả hai đều làm ở bệnh viện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They both work in hospitals.",
+          "text_translation": "Cả hai đều làm ở bệnh viện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They never argue.",
+            "vi": "Họ không bao giờ cãi nhau."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They never argue.",
+          "text_translation": "Họ không bao giờ cãi nhau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They have known each other since childhood.",
+            "vi": "Họ quen nhau từ nhỏ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They have known each other since childhood.",
+          "text_translation": "Họ quen nhau từ nhỏ."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"each of them is brave in exactly the way that the other one is not.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Tracy, why are Leah and Ethan right for each other?",
+      "question_vn": "Theo Tracy, vì sao Leah và Ethan hợp nhau?",
+      "explanation": "\"each of them is brave in exactly the way that the other one is not.\""
+    },
+    {
+      "id": "q_mock2_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What does the \"emergency contact\" story show about Ethan?",
+        "vi": "Chuyện \"người liên lạc khẩn cấp\" cho thấy gì về Ethan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He was joking.",
+            "vi": "Anh đang đùa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He was joking.",
+          "text_translation": "Anh đang đùa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He works too much.",
+            "vi": "Anh làm việc quá nhiều."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He works too much.",
+          "text_translation": "Anh làm việc quá nhiều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Although he is brave at work, he is nervous about expressing his feelings.",
+            "vi": "Dù dũng cảm trong công việc, anh lại run khi bày tỏ tình cảm."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Although he is brave at work, he is nervous about expressing his feelings.",
+          "text_translation": "Dù dũng cảm trong công việc, anh lại run khi bày tỏ tình cảm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He does not trust Leah.",
+            "vi": "Anh không tin Leah."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He does not trust Leah.",
+          "text_translation": "Anh không tin Leah."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về tính cách. Anh lao vào nhà cháy \"without a second thought\" nhưng \"was so nervous\" khi hỏi Leah làm bạn gái."
+      },
+      "audio_data": null,
+      "question_jp": "What does the \"emergency contact\" story show about Ethan?",
+      "question_vn": "Chuyện \"người liên lạc khẩn cấp\" cho thấy gì về Ethan?",
+      "explanation": "Câu suy luận về tính cách. Anh lao vào nhà cháy \"without a second thought\" nhưng \"was so nervous\" khi hỏi Leah làm bạn gái."
+    },
+    {
+      "id": "q_mock2_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What kind of courage does Tracy say Leah lacks?",
+        "vi": "Tracy nói Leah thiếu kiểu dũng cảm nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the courage to work at night",
+            "vi": "dám làm ca đêm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the courage to work at night",
+          "text_translation": "dám làm ca đêm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the courage to tell Ethan directly when she is hurt",
+            "vi": "dám nói thẳng với Ethan khi chị bị tổn thương"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the courage to tell Ethan directly when she is hurt",
+          "text_translation": "dám nói thẳng với Ethan khi chị bị tổn thương"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the courage to give bad news to families",
+            "vi": "dám báo tin xấu cho gia đình bệnh nhân"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the courage to give bad news to families",
+          "text_translation": "dám báo tin xấu cho gia đình bệnh nhân"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the courage to travel",
+            "vi": "dám đi xa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the courage to travel",
+          "text_translation": "dám đi xa"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"it took her three days and a long talk with Chloe to tell Ethan that she was hurt\". Báo tin xấu thì chị làm \"with calm and kindness\"."
+      },
+      "audio_data": null,
+      "question_jp": "What kind of courage does Tracy say Leah lacks?",
+      "question_vn": "Tracy nói Leah thiếu kiểu dũng cảm nào?",
+      "explanation": "\"it took her three days and a long talk with Chloe to tell Ethan that she was hurt\". Báo tin xấu thì chị làm \"with calm and kindness\"."
+    },
+    {
+      "id": "q_mock2_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What does Leah's reply, \"Yes. Obviously yes. Now please stand up\", suggest?",
+        "vi": "Câu đáp của Leah \"Có. Dĩ nhiên là có. Giờ anh làm ơn đứng dậy đi\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She was sure of her answer and wanted to save Ethan from more embarrassment.",
+            "vi": "Chị chắc chắn câu trả lời và muốn cứu Ethan khỏi ngượng thêm."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She was sure of her answer and wanted to save Ethan from more embarrassment.",
+          "text_translation": "Chị chắc chắn câu trả lời và muốn cứu Ethan khỏi ngượng thêm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She was angry about the ring.",
+            "vi": "Chị giận vì chiếc nhẫn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She was angry about the ring.",
+          "text_translation": "Chị giận vì chiếc nhẫn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wanted to think about it.",
+            "vi": "Chị muốn suy nghĩ thêm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wanted to think about it.",
+          "text_translation": "Chị muốn suy nghĩ thêm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She did not want strangers to help.",
+            "vi": "Chị không muốn người lạ giúp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She did not want strangers to help.",
+          "text_translation": "Chị không muốn người lạ giúp."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"before Ethan could say a word\": chị không cần nghe lời cầu hôn. \"Now please stand up\" cho thấy chị muốn kết thúc cảnh anh quỳ trên cát trước đám đông."
+      },
+      "audio_data": null,
+      "question_jp": "What does Leah's reply, \"Yes. Obviously yes. Now please stand up\", suggest?",
+      "question_vn": "Câu đáp của Leah \"Có. Dĩ nhiên là có. Giờ anh làm ơn đứng dậy đi\" gợi ý điều gì?",
+      "explanation": "Câu hàm ý. \"before Ethan could say a word\": chị không cần nghe lời cầu hôn. \"Now please stand up\" cho thấy chị muốn kết thúc cảnh anh quỳ trên cát trước đám đông."
+    },
+    {
+      "id": "q_mock2_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What does \"he takes the risk, she finds what was lost\" mean as a description of their marriage?",
+        "vi": "Câu \"anh ấy dám liều, chị ấy tìm lại thứ đã mất\" có nghĩa gì khi mô tả cuộc hôn nhân của họ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ethan often loses things.",
+            "vi": "Ethan hay đánh mất đồ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ethan often loses things.",
+          "text_translation": "Ethan hay đánh mất đồ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah never takes risks.",
+            "vi": "Leah không bao giờ liều."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leah never takes risks.",
+          "text_translation": "Leah không bao giờ liều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They should not go to the beach.",
+            "vi": "Họ không nên ra biển."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They should not go to the beach.",
+          "text_translation": "Họ không nên ra biển."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Using the ring story, it shows how their different strengths complete each other.",
+            "vi": "Qua chuyện chiếc nhẫn, nó cho thấy thế mạnh khác nhau của họ bổ sung cho nhau."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Using the ring story, it shows how their different strengths complete each other.",
+          "text_translation": "Qua chuyện chiếc nhẫn, nó cho thấy thế mạnh khác nhau của họ bổ sung cho nhau."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hiểu nghĩa ẩn dụ. \"their whole marriage in one picture\": chi tiết chiếc nhẫn tượng trưng cho tính cách hai người."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"he takes the risk, she finds what was lost\" mean as a description of their marriage?",
+      "question_vn": "Câu \"anh ấy dám liều, chị ấy tìm lại thứ đã mất\" có nghĩa gì khi mô tả cuộc hôn nhân của họ?",
+      "explanation": "Câu hiểu nghĩa ẩn dụ. \"their whole marriage in one picture\": chi tiết chiếc nhẫn tượng trưng cho tính cách hai người."
+    },
+    {
+      "id": "q_mock2_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What can be inferred about the custom of ringing a bell?",
+        "vi": "Có thể suy ra gì về tục rung chuông?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is common in every American family.",
+            "vi": "Mọi gia đình Mỹ đều có."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is common in every American family.",
+          "text_translation": "Mọi gia đình Mỹ đều có."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy's family invented it for the wedding.",
+            "vi": "Nhà Tracy nghĩ ra cho đám cưới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tracy's family invented it for the wedding.",
+          "text_translation": "Nhà Tracy nghĩ ra cho đám cưới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is a tradition in Ethan's family, which Tracy has only recently learned about.",
+            "vi": "Đó là truyền thống của nhà Ethan, Tracy mới biết gần đây."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is a tradition in Ethan's family, which Tracy has only recently learned about.",
+          "text_translation": "Đó là truyền thống của nhà Ethan, Tracy mới biết gần đây."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Amy refuses to do it.",
+            "vi": "Amy từ chối làm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Amy refuses to do it.",
+          "text_translation": "Amy từ chối làm."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"In Ethan's family, I have learned\" và \"In my family, we have no such custom.\" Phong tục được nói theo từng gia đình."
+      },
+      "audio_data": null,
+      "question_jp": "What can be inferred about the custom of ringing a bell?",
+      "question_vn": "Có thể suy ra gì về tục rung chuông?",
+      "explanation": "Câu suy luận. \"In Ethan's family, I have learned\" và \"In my family, we have no such custom.\" Phong tục được nói theo từng gia đình."
+    },
+    {
+      "id": "q_mock2_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What is the tone of the line \"In my family, we have no such custom. We just cry\"?",
+        "vi": "Câu \"Ở nhà em thì không có tục đó. Bọn em chỉ khóc thôi\" có giọng điệu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "affectionate and humorous",
+            "vi": "trìu mến và hài hước"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "affectionate and humorous",
+          "text_translation": "trìu mến và hài hước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "sad and serious",
+            "vi": "buồn và nghiêm trọng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "sad and serious",
+          "text_translation": "buồn và nghiêm trọng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "critical of Ethan's family",
+            "vi": "chê nhà Ethan"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "critical of Ethan's family",
+          "text_translation": "chê nhà Ethan"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "angry",
+            "vi": "giận dữ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "angry",
+          "text_translation": "giận dữ"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. Đây là câu đùa trìu mến về nhà Carter hay xúc động, không chê bai ai."
+      },
+      "audio_data": null,
+      "question_jp": "What is the tone of the line \"In my family, we have no such custom. We just cry\"?",
+      "question_vn": "Câu \"Ở nhà em thì không có tục đó. Bọn em chỉ khóc thôi\" có giọng điệu thế nào?",
+      "explanation": "Câu hỏi giọng điệu. Đây là câu đùa trìu mến về nhà Carter hay xúc động, không chê bai ai."
+    },
+    {
+      "id": "q_mock2_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "Why does Tracy end with \"as instructed, I will stop\"?",
+        "vi": "Vì sao Tracy kết thúc bằng câu \"đúng như được dặn, em sẽ dừng\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she has run out of time",
+            "vi": "vì hết giờ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she has run out of time",
+          "text_translation": "vì hết giờ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the guests are bored",
+            "vi": "vì khách chán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the guests are bored",
+          "text_translation": "vì khách chán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to playfully complete Leah's advice, which ended with \"and then stop\"",
+            "vi": "để hoàn tất một cách tinh nghịch lời khuyên của Leah, vốn kết thúc bằng \"rồi dừng\""
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to playfully complete Leah's advice, which ended with \"and then stop\"",
+          "text_translation": "để hoàn tất một cách tinh nghịch lời khuyên của Leah, vốn kết thúc bằng \"rồi dừng\""
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Amy rang the bell too early",
+            "vi": "vì Amy rung chuông sớm quá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Amy rang the bell too early",
+          "text_translation": "vì Amy rung chuông sớm quá"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc. Câu cuối khép vòng với đầu bài: \"and then stop. So I will try.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tracy end with \"as instructed, I will stop\"?",
+      "question_vn": "Vì sao Tracy kết thúc bằng câu \"đúng như được dặn, em sẽ dừng\"?",
+      "explanation": "Câu hỏi cấu trúc. Câu cuối khép vòng với đầu bài: \"and then stop. So I will try.\""
+    },
+    {
+      "id": "q_mock2_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "According to the article, what do most people believe about forming a habit?",
+        "vi": "Theo bài, phần lớn mọi người tin gì về việc hình thành thói quen?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It takes about a year.",
+            "vi": "Mất khoảng một năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It takes about a year.",
+          "text_translation": "Mất khoảng một năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is impossible for adults.",
+            "vi": "Người lớn không thể làm được."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is impossible for adults.",
+          "text_translation": "Người lớn không thể làm được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It takes twenty-one days.",
+            "vi": "Mất hai mươi mốt ngày."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It takes twenty-one days.",
+          "text_translation": "Mất hai mươi mốt ngày."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It depends on the app you use.",
+            "vi": "Tuỳ ứng dụng bạn dùng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It depends on the app you use.",
+          "text_translation": "Tuỳ ứng dụng bạn dùng."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"you will probably hear the same answer: twenty-one days.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, what do most people believe about forming a habit?",
+      "question_vn": "Theo bài, phần lớn mọi người tin gì về việc hình thành thói quen?",
+      "explanation": "\"you will probably hear the same answer: twenty-one days.\""
+    },
+    {
+      "id": "q_mock2_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "Where does the twenty-one-day idea seem to have come from?",
+        "vi": "Ý tưởng hai mươi mốt ngày dường như bắt nguồn từ đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a 1960 book by a plastic surgeon who was describing how long patients took to get used to their new faces",
+            "vi": "một cuốn sách năm 1960 của bác sĩ phẫu thuật thẩm mỹ mô tả bệnh nhân mất bao lâu để quen khuôn mặt mới"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a 1960 book by a plastic surgeon who was describing how long patients took to get used to their new faces",
+          "text_translation": "một cuốn sách năm 1960 của bác sĩ phẫu thuật thẩm mỹ mô tả bệnh nhân mất bao lâu để quen khuôn mặt mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the 2010 study",
+            "vi": "nghiên cứu năm 2010"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the 2010 study",
+          "text_translation": "nghiên cứu năm 2010"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a motivational video",
+            "vi": "một video truyền động lực"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a motivational video",
+          "text_translation": "một video truyền động lực"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a study of 96 volunteers",
+            "vi": "một nghiên cứu 96 tình nguyện viên"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a study of 96 volunteers",
+          "text_translation": "một nghiên cứu 96 tình nguyện viên"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"a popular book written in 1960 by a plastic surgeon, who noticed that his patients took about three weeks to get used to their new faces.\""
+      },
+      "audio_data": null,
+      "question_jp": "Where does the twenty-one-day idea seem to have come from?",
+      "question_vn": "Ý tưởng hai mươi mốt ngày dường như bắt nguồn từ đâu?",
+      "explanation": "\"a popular book written in 1960 by a plastic surgeon, who noticed that his patients took about three weeks to get used to their new faces.\""
+    },
+    {
+      "id": "q_mock2_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "Why does the writer point out that the surgeon \"was not studying habits at all\"?",
+        "vi": "Vì sao người viết chỉ ra rằng vị bác sĩ \"hoàn toàn không nghiên cứu thói quen\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to praise the surgeon",
+            "vi": "để khen vị bác sĩ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to praise the surgeon",
+          "text_translation": "để khen vị bác sĩ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that plastic surgery is dangerous",
+            "vi": "để cho thấy phẫu thuật thẩm mỹ nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that plastic surgery is dangerous",
+          "text_translation": "để cho thấy phẫu thuật thẩm mỹ nguy hiểm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to suggest that habits form in three weeks",
+            "vi": "để gợi ý thói quen hình thành trong ba tuần"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to suggest that habits form in three weeks",
+          "text_translation": "để gợi ý thói quen hình thành trong ba tuần"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that the popular number is based on something unrelated, so it should not be trusted",
+            "vi": "để cho thấy con số phổ biến dựa trên điều không liên quan, nên không đáng tin"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that the popular number is based on something unrelated, so it should not be trusted",
+          "text_translation": "để cho thấy con số phổ biến dựa trên điều không liên quan, nên không đáng tin"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"He was describing a minimum, not a rule, and he was not studying habits at all.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer point out that the surgeon \"was not studying habits at all\"?",
+      "question_vn": "Vì sao người viết chỉ ra rằng vị bác sĩ \"hoàn toàn không nghiên cứu thói quen\"?",
+      "explanation": "Câu suy luận về mục đích. \"He was describing a minimum, not a rule, and he was not studying habits at all.\""
+    },
+    {
+      "id": "q_mock2_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What did the volunteers in the 2010 study have to do?",
+        "vi": "Các tình nguyện viên trong nghiên cứu năm 2010 phải làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "run fifteen minutes every morning",
+            "vi": "chạy mười lăm phút mỗi sáng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "run fifteen minutes every morning",
+          "text_translation": "chạy mười lăm phút mỗi sáng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "choose one new daily behavior and report each day how automatic it felt",
+            "vi": "chọn một hành vi mới hằng ngày và báo mỗi ngày nó tự động tới mức nào"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "choose one new daily behavior and report each day how automatic it felt",
+          "text_translation": "chọn một hành vi mới hằng ngày và báo mỗi ngày nó tự động tới mức nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "stop a bad habit",
+            "vi": "bỏ một thói quen xấu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "stop a bad habit",
+          "text_translation": "bỏ một thói quen xấu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "eat fruit for twelve weeks",
+            "vi": "ăn trái cây trong mười hai tuần"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "eat fruit for twelve weeks",
+          "text_translation": "ăn trái cây trong mười hai tuần"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"choose one new daily behavior\" và \"and to report every day for twelve weeks how automatic it felt.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the volunteers in the 2010 study have to do?",
+      "question_vn": "Các tình nguyện viên trong nghiên cứu năm 2010 phải làm gì?",
+      "explanation": "\"choose one new daily behavior\" và \"and to report every day for twelve weeks how automatic it felt.\""
+    },
+    {
+      "id": "q_mock2_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What does \"automaticity\" mean in the article?",
+        "vi": "Trong bài, \"automaticity\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a machine that helps form habits",
+            "vi": "một cỗ máy giúp hình thành thói quen"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a machine that helps form habits",
+          "text_translation": "một cỗ máy giúp hình thành thói quen"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the speed of a behavior",
+            "vi": "tốc độ của một hành vi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the speed of a behavior",
+          "text_translation": "tốc độ của một hành vi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the state in which a behavior happens without much thought",
+            "vi": "trạng thái một hành vi diễn ra mà không cần nghĩ nhiều"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the state in which a behavior happens without much thought",
+          "text_translation": "trạng thái một hành vi diễn ra mà không cần nghĩ nhiều"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the number of days in a study",
+            "vi": "số ngày trong một nghiên cứu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the number of days in a study",
+          "text_translation": "số ngày trong một nghiên cứu"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Từ trong ngữ cảnh. Cụm \"which is to say\" giải thích ngay: \"the point at which it happened without much thought.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does \"automaticity\" mean in the article?",
+      "question_vn": "Trong bài, \"automaticity\" nghĩa là gì?",
+      "explanation": "Từ trong ngữ cảnh. Cụm \"which is to say\" giải thích ngay: \"the point at which it happened without much thought.\""
+    },
+    {
+      "id": "q_mock2_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What does the article say about the average of 66 days?",
+        "vi": "Bài nói gì về con số trung bình 66 ngày?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It applies to everyone.",
+            "vi": "Nó đúng với mọi người."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It applies to everyone.",
+          "text_translation": "Nó đúng với mọi người."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was a mistake.",
+            "vi": "Nó là một sai sót."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was a mistake.",
+          "text_translation": "Nó là một sai sót."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is shorter than twenty-one days.",
+            "vi": "Nó ngắn hơn hai mươi mốt ngày."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is shorter than twenty-one days.",
+          "text_translation": "Nó ngắn hơn hai mươi mốt ngày."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It hides a very wide range, from 18 days to an estimated 250 or more.",
+            "vi": "Nó che giấu một khoảng dao động rất rộng, từ 18 ngày tới ước tính hơn 250 ngày."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It hides a very wide range, from 18 days to an estimated 250 or more.",
+          "text_translation": "Nó che giấu một khoảng dao động rất rộng, từ 18 ngày tới ước tính hơn 250 ngày."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"the average hides an enormous range\" và \"For some people, it took just 18 days; for others, the researchers estimated that it would take more than 250.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the article say about the average of 66 days?",
+      "question_vn": "Bài nói gì về con số trung bình 66 ngày?",
+      "explanation": "\"the average hides an enormous range\" và \"For some people, it took just 18 days; for others, the researchers estimated that it would take more than 250.\""
+    },
+    {
+      "id": "q_mock2_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "Which finding does the writer call \"encouraging\"?",
+        "vi": "Người viết gọi phát hiện nào là \"đáng khích lệ\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Missing a single day did not seriously damage the process.",
+            "vi": "Bỏ lỡ một ngày không làm hỏng nghiêm trọng quá trình."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Missing a single day did not seriously damage the process.",
+          "text_translation": "Bỏ lỡ một ngày không làm hỏng nghiêm trọng quá trình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Habits form in exactly 66 days.",
+            "vi": "Thói quen hình thành đúng 66 ngày."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Habits form in exactly 66 days.",
+          "text_translation": "Thói quen hình thành đúng 66 ngày."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Difficult habits form fastest.",
+            "vi": "Thói quen khó hình thành nhanh nhất."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Difficult habits form fastest.",
+          "text_translation": "Thói quen khó hình thành nhanh nhất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Apps make habits easier.",
+            "vi": "Ứng dụng giúp tạo thói quen dễ hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Apps make habits easier.",
+          "text_translation": "Ứng dụng giúp tạo thói quen dễ hơn."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Missing a single day did not seriously damage the process.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which finding does the writer call \"encouraging\"?",
+      "question_vn": "Người viết gọi phát hiện nào là \"đáng khích lệ\"?",
+      "explanation": "\"Missing a single day did not seriously damage the process.\""
+    },
+    {
+      "id": "q_mock2_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "According to the article, why does the twenty-one-day myth survive?",
+        "vi": "Theo bài, vì sao huyền thoại hai mươi mốt ngày vẫn tồn tại?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because scientists support it",
+            "vi": "vì nhà khoa học ủng hộ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because scientists support it",
+          "text_translation": "vì nhà khoa học ủng hộ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because a short, achievable number is comforting",
+            "vi": "vì một con số ngắn, làm được thì an ủi"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because a short, achievable number is comforting",
+          "text_translation": "vì một con số ngắn, làm được thì an ủi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it is true for simple habits",
+            "vi": "vì nó đúng với thói quen đơn giản"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it is true for simple habits",
+          "text_translation": "vì nó đúng với thói quen đơn giản"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because apps are paid to repeat it",
+            "vi": "vì ứng dụng được trả tiền để nhắc lại"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because apps are paid to repeat it",
+          "text_translation": "vì ứng dụng được trả tiền để nhắc lại"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Partly because it is comforting. Three weeks sounds achievable\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, why does the twenty-one-day myth survive?",
+      "question_vn": "Theo bài, vì sao huyền thoại hai mươi mốt ngày vẫn tồn tại?",
+      "explanation": "\"Partly because it is comforting. Three weeks sounds achievable\"."
+    },
+    {
+      "id": "q_mock2_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What is the \"price\" of believing the myth?",
+        "vi": "\"Cái giá\" của việc tin vào huyền thoại là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People spend money on apps.",
+            "vi": "Người ta tốn tiền mua ứng dụng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People spend money on apps.",
+          "text_translation": "Người ta tốn tiền mua ứng dụng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People form habits too quickly.",
+            "vi": "Người ta hình thành thói quen quá nhanh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "People form habits too quickly.",
+          "text_translation": "Người ta hình thành thói quen quá nhanh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People choose difficult habits.",
+            "vi": "Người ta chọn thói quen khó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People choose difficult habits.",
+          "text_translation": "Người ta chọn thói quen khó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People may think they have failed and give up just before the habit forms.",
+            "vi": "Người ta có thể nghĩ mình thất bại và bỏ cuộc ngay trước khi thói quen hình thành."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "People may think they have failed and give up just before the habit forms.",
+          "text_translation": "Người ta có thể nghĩ mình thất bại và bỏ cuộc ngay trước khi thói quen hình thành."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Họ \"conclude, on day twenty-two, that they have failed, and they give up just when the habit may be about to form.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the \"price\" of believing the myth?",
+      "question_vn": "\"Cái giá\" của việc tin vào huyền thoại là gì?",
+      "explanation": "Câu suy luận. Họ \"conclude, on day twenty-two, that they have failed, and they give up just when the habit may be about to form.\""
+    },
+    {
+      "id": "q_mock2_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What is the writer's main message?",
+        "vi": "Thông điệp chính của người viết là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Habits cannot be changed.",
+            "vi": "Thói quen không thể thay đổi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Habits cannot be changed.",
+          "text_translation": "Thói quen không thể thay đổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Forming a habit usually takes longer than people think, and that is normal, so keep repeating.",
+            "vi": "Hình thành thói quen thường lâu hơn người ta nghĩ, và điều đó bình thường, nên hãy tiếp tục lặp lại."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Forming a habit usually takes longer than people think, and that is normal, so keep repeating.",
+          "text_translation": "Hình thành thói quen thường lâu hơn người ta nghĩ, và điều đó bình thường, nên hãy tiếp tục lặp lại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Twenty-one days is enough for simple habits.",
+            "vi": "Hai mươi mốt ngày là đủ cho thói quen đơn giản."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Twenty-one days is enough for simple habits.",
+          "text_translation": "Hai mươi mốt ngày là đủ cho thói quen đơn giản."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Studies about habits are unreliable.",
+            "vi": "Nghiên cứu về thói quen không đáng tin."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Studies about habits are unreliable.",
+          "text_translation": "Nghiên cứu về thói quen không đáng tin."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"it will probably take longer than you think, and that is perfectly normal.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's main message?",
+      "question_vn": "Thông điệp chính của người viết là gì?",
+      "explanation": "\"it will probably take longer than you think, and that is perfectly normal.\""
+    },
+    {
+      "id": "q_mock2_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What is the main idea of The Neighbors' Kitchen?",
+        "vi": "Ý tưởng chính của The Neighbors' Kitchen là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People who cook for a living can rent a professional kitchen by the hour.",
+            "vi": "Người nấu ăn kiếm sống có thể thuê bếp chuyên nghiệp theo giờ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "People who cook for a living can rent a professional kitchen by the hour.",
+          "text_translation": "Người nấu ăn kiếm sống có thể thuê bếp chuyên nghiệp theo giờ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Neighbors can eat free meals.",
+            "vi": "Hàng xóm được ăn miễn phí."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Neighbors can eat free meals.",
+          "text_translation": "Hàng xóm được ăn miễn phí."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet's café moves into a bigger space.",
+            "vi": "Quán Harriet's chuyển sang chỗ rộng hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet's café moves into a bigger space.",
+          "text_translation": "Quán Harriet's chuyển sang chỗ rộng hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Children learn to bake.",
+            "vi": "Trẻ em học làm bánh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Children learn to bake.",
+          "text_translation": "Trẻ em học làm bánh."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"anyone who cooks for a living, or hopes to, can rent a professional kitchen by the hour, at $25 an hour\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of The Neighbors' Kitchen?",
+      "question_vn": "Ý tưởng chính của The Neighbors' Kitchen là gì?",
+      "explanation": "\"anyone who cooks for a living, or hopes to, can rent a professional kitchen by the hour, at $25 an hour\"."
+    },
+    {
+      "id": "q_mock2_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "How did the first month compare with the target?",
+        "vi": "Tháng đầu so với mục tiêu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was far above the target.",
+            "vi": "Vượt xa mục tiêu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It was far above the target.",
+          "text_translation": "Vượt xa mục tiêu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It exactly met the target.",
+            "vi": "Đạt đúng mục tiêu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It exactly met the target.",
+          "text_translation": "Đạt đúng mục tiêu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was slightly below the four hours needed, but better than Harriet expected and rising.",
+            "vi": "Thấp hơn một chút so với bốn tiếng cần thiết, nhưng tốt hơn bà Harriet mong và đang tăng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It was slightly below the four hours needed, but better than Harriet expected and rising.",
+          "text_translation": "Thấp hơn một chút so với bốn tiếng cần thiết, nhưng tốt hơn bà Harriet mong và đang tăng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nobody used the kitchen.",
+            "vi": "Không ai dùng bếp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nobody used the kitchen.",
+          "text_translation": "Không ai dùng bếp."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"three and a half hours a day. That is a little below the four hours that Nathan says we need\" nhưng \"far more than I expected, and bookings rose steadily every week.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did the first month compare with the target?",
+      "question_vn": "Tháng đầu so với mục tiêu thế nào?",
+      "explanation": "\"three and a half hours a day. That is a little below the four hours that Nathan says we need\" nhưng \"far more than I expected, and bookings rose steadily every week.\""
+    },
+    {
+      "id": "q_mock2_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Which of these is NOT mentioned as a regular user of the kitchen?",
+        "vi": "Ai KHÔNG được nhắc tới như người dùng bếp thường xuyên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a woman who sells tamales",
+            "vi": "một chị bán bánh tamale"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a woman who sells tamales",
+          "text_translation": "một chị bán bánh tamale"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a baker who opened a restaurant downtown",
+            "vi": "một thợ bánh đã mở nhà hàng ở trung tâm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a baker who opened a restaurant downtown",
+          "text_translation": "một thợ bánh đã mở nhà hàng ở trung tâm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a young man who bakes bread for people who cannot eat wheat",
+            "vi": "một chàng trai nướng bánh cho người không ăn được lúa mì"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a young man who bakes bread for people who cannot eat wheat",
+          "text_translation": "một chàng trai nướng bánh cho người không ăn được lúa mì"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a retired chef who teaches teenagers",
+            "vi": "một đầu bếp nghỉ hưu dạy thanh thiếu niên"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a retired chef who teaches teenagers",
+          "text_translation": "một đầu bếp nghỉ hưu dạy thanh thiếu niên"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Ba phương án còn lại đều có trong câu \"Fourteen regular cooks have used it so far\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT mentioned as a regular user of the kitchen?",
+      "question_vn": "Ai KHÔNG được nhắc tới như người dùng bếp thường xuyên?",
+      "explanation": "Ba phương án còn lại đều có trong câu \"Fourteen regular cooks have used it so far\"."
+    },
+    {
+      "id": "q_mock2_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Why were labeled shelves introduced?",
+        "vi": "Vì sao có kệ dán nhãn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the health inspector asked",
+            "vi": "vì thanh tra y tế yêu cầu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the health inspector asked",
+          "text_translation": "vì thanh tra y tế yêu cầu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the fridge broke",
+            "vi": "vì tủ lạnh hỏng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the fridge broke",
+          "text_translation": "vì tủ lạnh hỏng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Harriet wanted to sell cheese",
+            "vi": "vì bà Harriet muốn bán pho mát"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Harriet wanted to sell cheese",
+          "text_translation": "vì bà Harriet muốn bán pho mát"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because two cooks argued about fridge space and one left the other's food out",
+            "vi": "vì hai người nấu cãi nhau về chỗ trong tủ lạnh và một người để đồ ăn của người kia ra ngoài"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because two cooks argued about fridge space and one left the other's food out",
+          "text_translation": "vì hai người nấu cãi nhau về chỗ trong tủ lạnh và một người để đồ ăn của người kia ra ngoài"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"two cooks argued about fridge space, and one of them left the other's cheese on the counter all night. We now have labeled shelves\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why were labeled shelves introduced?",
+      "question_vn": "Vì sao có kệ dán nhãn?",
+      "explanation": "\"two cooks argued about fridge space, and one of them left the other's cheese on the counter all night. We now have labeled shelves\"."
+    },
+    {
+      "id": "q_mock2_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What does \"standards vary, to put it politely\" suggest?",
+        "vi": "Cụm \"nói một cách lịch sự thì tiêu chuẩn mỗi người mỗi khác\" gợi ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Some cooks leave the kitchen quite dirty.",
+            "vi": "Có người nấu để bếp khá bẩn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Some cooks leave the kitchen quite dirty.",
+          "text_translation": "Có người nấu để bếp khá bẩn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "All cooks are very clean.",
+            "vi": "Mọi người nấu đều rất sạch."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "All cooks are very clean.",
+          "text_translation": "Mọi người nấu đều rất sạch."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet is not polite.",
+            "vi": "Bà Harriet không lịch sự."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet is not polite.",
+          "text_translation": "Bà Harriet không lịch sự."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Cleaning is not necessary.",
+            "vi": "Không cần dọn dẹp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Cleaning is not necessary.",
+          "text_translation": "Không cần dọn dẹp."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"to put it politely\" báo hiệu cách nói giảm: thực tế có người để bếp bẩn, nên phải thêm \"thirty minutes of cleaning\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"standards vary, to put it politely\" suggest?",
+      "question_vn": "Cụm \"nói một cách lịch sự thì tiêu chuẩn mỗi người mỗi khác\" gợi ý gì?",
+      "explanation": "Câu hàm ý. \"to put it politely\" báo hiệu cách nói giảm: thực tế có người để bếp bẩn, nên phải thêm \"thirty minutes of cleaning\"."
+    },
+    {
+      "id": "q_mock2_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "How is the extra cleaning paid for?",
+        "vi": "Phần dọn dẹp thêm được trả bằng tiền nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by Harriet's savings",
+            "vi": "tiền tiết kiệm của bà Harriet"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by Harriet's savings",
+          "text_translation": "tiền tiết kiệm của bà Harriet"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "out of the booking fees",
+            "vi": "từ tiền thuê bếp"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "out of the booking fees",
+          "text_translation": "từ tiền thuê bếp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by the neighbors",
+            "vi": "do hàng xóm góp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by the neighbors",
+          "text_translation": "do hàng xóm góp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by a loan",
+            "vi": "bằng một khoản vay"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "by a loan",
+          "text_translation": "bằng một khoản vay"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"paid for out of the booking fees.\""
+      },
+      "audio_data": null,
+      "question_jp": "How is the extra cleaning paid for?",
+      "question_vn": "Phần dọn dẹp thêm được trả bằng tiền nào?",
+      "explanation": "\"paid for out of the booking fees.\""
+    },
+    {
+      "id": "q_mock2_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What was the \"best surprise\"?",
+        "vi": "\"Bất ngờ dễ chịu nhất\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The kitchen made a large profit.",
+            "vi": "Bếp lời lớn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The kitchen made a large profit.",
+          "text_translation": "Bếp lời lớn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A famous chef joined.",
+            "vi": "Một đầu bếp nổi tiếng tham gia."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "A famous chef joined.",
+          "text_translation": "Một đầu bếp nổi tiếng tham gia."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The kitchen helped the café: lunchtime sales rose by about a tenth.",
+            "vi": "Bếp giúp quán: doanh thu buổi trưa tăng khoảng một phần mười."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The kitchen helped the café: lunchtime sales rose by about a tenth.",
+          "text_translation": "Bếp giúp quán: doanh thu buổi trưa tăng khoảng một phần mười."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The cooks cleaned perfectly.",
+            "vi": "Người nấu dọn sạch hoàn hảo."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The cooks cleaned perfectly.",
+          "text_translation": "Người nấu dọn sạch hoàn hảo."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Lunchtime sales at Harriet's are up by about a tenth compared with October last year.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was the \"best surprise\"?",
+      "question_vn": "\"Bất ngờ dễ chịu nhất\" là gì?",
+      "explanation": "\"Lunchtime sales at Harriet's are up by about a tenth compared with October last year.\""
+    },
+    {
+      "id": "q_mock2_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "How does the kitchen bring new customers to the café?",
+        "vi": "Bếp mang thêm khách cho quán bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by advertising online",
+            "vi": "quảng cáo trên mạng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by advertising online",
+          "text_translation": "quảng cáo trên mạng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by giving free coffee",
+            "vi": "tặng cà phê miễn phí"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "by giving free coffee",
+          "text_translation": "tặng cà phê miễn phí"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by closing the café at lunch",
+            "vi": "đóng quán giờ trưa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by closing the café at lunch",
+          "text_translation": "đóng quán giờ trưa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Cooks come in for coffee while they wait, and customers become curious about the cooking they see.",
+            "vi": "Người nấu sang uống cà phê lúc chờ, và khách tò mò về món họ thấy đang nấu."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Cooks come in for coffee while they wait, and customers become curious about the cooking they see.",
+          "text_translation": "Người nấu sang uống cà phê lúc chờ, và khách tò mò về món họ thấy đang nấu."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Cooks waiting for their bread to rise come next door for coffee, and customers who see them through the window ask what they are making.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does the kitchen bring new customers to the café?",
+      "question_vn": "Bếp mang thêm khách cho quán bằng cách nào?",
+      "explanation": "\"Cooks waiting for their bread to rise come next door for coffee, and customers who see them through the window ask what they are making.\""
+    },
+    {
+      "id": "q_mock2_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Which statement about the next month's goals is correct?",
+        "vi": "Câu nào về mục tiêu tháng tới là đúng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They want to reach four hours a day and start a monthly tasting night.",
+            "vi": "Họ muốn đạt bốn tiếng mỗi ngày và mở đêm nếm thử hằng tháng."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They want to reach four hours a day and start a monthly tasting night.",
+          "text_translation": "Họ muốn đạt bốn tiếng mỗi ngày và mở đêm nếm thử hằng tháng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They want to close the café.",
+            "vi": "Họ muốn đóng quán."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They want to close the café.",
+          "text_translation": "Họ muốn đóng quán."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They want to raise the price to $40 an hour.",
+            "vi": "Họ muốn tăng giá lên 40 đô một giờ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They want to raise the price to $40 an hour.",
+          "text_translation": "Họ muốn tăng giá lên 40 đô một giờ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They want Harriet to stop baking.",
+            "vi": "Họ muốn bà Harriet thôi nướng bánh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They want Harriet to stop baking.",
+          "text_translation": "Họ muốn bà Harriet thôi nướng bánh."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"reach four hours a day\" và mở \"tasting night\" hằng tháng."
+      },
+      "audio_data": null,
+      "question_jp": "Which statement about the next month's goals is correct?",
+      "question_vn": "Câu nào về mục tiêu tháng tới là đúng?",
+      "explanation": "\"reach four hours a day\" và mở \"tasting night\" hằng tháng."
+    },
+    {
+      "id": "q_mock2_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What does the last sentence show about Harriet?",
+        "vi": "Câu cuối cho thấy gì về bà Harriet?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is tired of baking.",
+            "vi": "Bà chán làm bánh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is tired of baking.",
+          "text_translation": "Bà chán làm bánh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She plans to sell the oven.",
+            "vi": "Bà định bán lò."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She plans to sell the oven.",
+          "text_translation": "Bà định bán lò."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She keeps her own role in the café with pride and good humor.",
+            "vi": "Bà giữ vai trò riêng ở quán với niềm tự hào và sự hài hước."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She keeps her own role in the café with pride and good humor.",
+          "text_translation": "Bà giữ vai trò riêng ở quán với niềm tự hào và sự hài hước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She does not trust Nathan.",
+            "vi": "Bà không tin Nathan."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She does not trust Nathan.",
+          "text_translation": "Bà không tin Nathan."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận, nối với lời bà ghi ở cuối bản ghi nhớ của Nathan (bà vẫn tự nướng scone). Câu \"nobody has yet been allowed to touch my oven\" là giọng đùa tự hào."
+      },
+      "audio_data": null,
+      "question_jp": "What does the last sentence show about Harriet?",
+      "question_vn": "Câu cuối cho thấy gì về bà Harriet?",
+      "explanation": "Câu suy luận, nối với lời bà ghi ở cuối bản ghi nhớ của Nathan (bà vẫn tự nướng scone). Câu \"nobody has yet been allowed to touch my oven\" là giọng đùa tự hào."
+    },
+    {
+      "id": "q_mock2_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "How does Nathan now see the boring work of his first year?",
+        "vi": "Giờ Nathan nhìn những việc nhàm chán năm đầu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as a waste of time",
+            "vi": "phí thời gian"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "as a waste of time",
+          "text_translation": "phí thời gian"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as something only juniors should do",
+            "vi": "việc chỉ người mới nên làm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "as something only juniors should do",
+          "text_translation": "việc chỉ người mới nên làm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as the reason he nearly quit",
+            "vi": "lý do anh suýt bỏ nghề"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "as the reason he nearly quit",
+          "text_translation": "lý do anh suýt bỏ nghề"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "as the most important training he ever received",
+            "vi": "khoá đào tạo quan trọng nhất anh từng nhận"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "as the most important training he ever received",
+          "text_translation": "khoá đào tạo quan trọng nhất anh từng nhận"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I now realize that it was the most important training I ever received.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does Nathan now see the boring work of his first year?",
+      "question_vn": "Giờ Nathan nhìn những việc nhàm chán năm đầu thế nào?",
+      "explanation": "\"I now realize that it was the most important training I ever received.\""
+    },
+    {
+      "id": "q_mock2_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What did fixing small errors teach Nathan?",
+        "vi": "Việc sửa lỗi nhỏ dạy Nathan điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to work faster than others",
+            "vi": "cách làm nhanh hơn người khác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to work faster than others",
+          "text_translation": "cách làm nhanh hơn người khác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how the larger system worked",
+            "vi": "hệ thống lớn hơn vận hành thế nào"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "how the larger system worked",
+          "text_translation": "hệ thống lớn hơn vận hành thế nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to avoid senior engineers",
+            "vi": "cách tránh kỹ sư lâu năm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to avoid senior engineers",
+          "text_translation": "cách tránh kỹ sư lâu năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how to write documents",
+            "vi": "cách viết tài liệu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how to write documents",
+          "text_translation": "cách viết tài liệu"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every small error I fixed taught me how the larger system worked\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did fixing small errors teach Nathan?",
+      "question_vn": "Việc sửa lỗi nhỏ dạy Nathan điều gì?",
+      "explanation": "\"Every small error I fixed taught me how the larger system worked\"."
+    },
+    {
+      "id": "q_mock2_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Why might AI tools be \"a gift\" for some people and \"a problem\" for others?",
+        "vi": "Vì sao công cụ AI có thể là \"món quà\" với người này và \"vấn đề\" với người khác?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are expensive for small companies.",
+            "vi": "Chúng đắt với công ty nhỏ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are expensive for small companies.",
+          "text_translation": "Chúng đắt với công ty nhỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Only experienced engineers can use them.",
+            "vi": "Chỉ kỹ sư kinh nghiệm dùng được."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Only experienced engineers can use them.",
+          "text_translation": "Chỉ kỹ sư kinh nghiệm dùng được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They save experienced engineers time, but they take over the tasks that beginners used to learn from.",
+            "vi": "Chúng tiết kiệm thời gian cho người giàu kinh nghiệm, nhưng lấy mất những việc mà người mới từng học từ đó."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They save experienced engineers time, but they take over the tasks that beginners used to learn from.",
+          "text_translation": "Chúng tiết kiệm thời gian cho người giàu kinh nghiệm, nhưng lấy mất những việc mà người mới từng học từ đó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They make mistakes only for beginners.",
+            "vi": "Chúng chỉ mắc lỗi với người mới."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They make mistakes only for beginners.",
+          "text_translation": "Chúng chỉ mắc lỗi với người mới."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận nối với đoạn đầu. Việc nhàm chán chính là thứ dạy người mới; nếu AI làm hết, người mới mất cơ hội học."
+      },
+      "audio_data": null,
+      "question_jp": "Why might AI tools be \"a gift\" for some people and \"a problem\" for others?",
+      "question_vn": "Vì sao công cụ AI có thể là \"món quà\" với người này và \"vấn đề\" với người khác?",
+      "explanation": "Câu suy luận nối với đoạn đầu. Việc nhàm chán chính là thứ dạy người mới; nếu AI làm hết, người mới mất cơ hội học."
+    },
+    {
+      "id": "q_mock2_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What did the 2025 Stanford study find?",
+        "vi": "Nghiên cứu Stanford năm 2025 phát hiện điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Employment of 22- to 25-year-olds in the jobs most exposed to AI fell by around 13 percent compared with less exposed jobs.",
+            "vi": "Số người 22–25 tuổi có việc ở những công việc chịu tác động AI nhiều nhất giảm khoảng 13 phần trăm so với công việc ít chịu tác động hơn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Employment of 22- to 25-year-olds in the jobs most exposed to AI fell by around 13 percent compared with less exposed jobs.",
+          "text_translation": "Số người 22–25 tuổi có việc ở những công việc chịu tác động AI nhiều nhất giảm khoảng 13 phần trăm so với công việc ít chịu tác động hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "All workers lost 13 percent of their pay.",
+            "vi": "Mọi người lao động mất 13 phần trăm lương."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "All workers lost 13 percent of their pay.",
+          "text_translation": "Mọi người lao động mất 13 phần trăm lương."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Older workers lost their jobs fastest.",
+            "vi": "Người lớn tuổi mất việc nhanh nhất."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Older workers lost their jobs fastest.",
+          "text_translation": "Người lớn tuổi mất việc nhanh nhất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "AI created 13 percent more jobs.",
+            "vi": "AI tạo thêm 13 phần trăm việc làm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "AI created 13 percent more jobs.",
+          "text_translation": "AI tạo thêm 13 phần trăm việc làm."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"employment of workers aged 22 to 25 in the jobs most exposed to AI had fallen by around 13 percent compared with workers in less exposed jobs.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the 2025 Stanford study find?",
+      "question_vn": "Nghiên cứu Stanford năm 2025 phát hiện điều gì?",
+      "explanation": "\"employment of workers aged 22 to 25 in the jobs most exposed to AI had fallen by around 13 percent compared with workers in less exposed jobs.\""
+    },
+    {
+      "id": "q_mock2_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Why does Nathan mention that the researchers \"were careful to say that other factors may have played a part\"?",
+        "vi": "Vì sao Nathan nhắc rằng các nhà nghiên cứu \"thận trọng nói rằng có thể có những yếu tố khác góp phần\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that the study is worthless",
+            "vi": "để cho thấy nghiên cứu vô giá trị"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that the study is worthless",
+          "text_translation": "để cho thấy nghiên cứu vô giá trị"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to criticize Stanford",
+            "vi": "để chê Stanford"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to criticize Stanford",
+          "text_translation": "để chê Stanford"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to prove that AI is not the cause",
+            "vi": "để chứng minh AI không phải nguyên nhân"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to prove that AI is not the cause",
+          "text_translation": "để chứng minh AI không phải nguyên nhân"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to present the evidence fairly, without claiming more than it shows",
+            "vi": "để trình bày bằng chứng công bằng, không khẳng định quá những gì nó cho thấy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to present the evidence fairly, without claiming more than it shows",
+          "text_translation": "để trình bày bằng chứng công bằng, không khẳng định quá những gì nó cho thấy"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ với bằng chứng. Anh nêu rõ giới hạn của nghiên cứu nhưng vẫn kết luận \"the pattern is hard to ignore\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Nathan mention that the researchers \"were careful to say that other factors may have played a part\"?",
+      "question_vn": "Vì sao Nathan nhắc rằng các nhà nghiên cứu \"thận trọng nói rằng có thể có những yếu tố khác góp phần\"?",
+      "explanation": "Câu hỏi thái độ với bằng chứng. Anh nêu rõ giới hạn của nghiên cứu nhưng vẫn kết luận \"the pattern is hard to ignore\"."
+    },
+    {
+      "id": "q_mock2_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What is the flaw in the argument \"why hire a junior?\"",
+        "vi": "Lỗ hổng của lập luận \"tuyển người mới làm gì?\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Juniors are cheaper than machines.",
+            "vi": "Người mới rẻ hơn máy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Juniors are cheaper than machines.",
+          "text_translation": "Người mới rẻ hơn máy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Machines cannot do any junior work.",
+            "vi": "Máy không làm được việc nào của người mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Machines cannot do any junior work.",
+          "text_translation": "Máy không làm được việc nào của người mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Every senior was once a junior, so without training beginners, a company will have no experienced people later.",
+            "vi": "Người lâu năm nào cũng từng là người mới, nên không đào tạo người mới thì sau này công ty sẽ không còn người giàu kinh nghiệm."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Every senior was once a junior, so without training beginners, a company will have no experienced people later.",
+          "text_translation": "Người lâu năm nào cũng từng là người mới, nên không đào tạo người mới thì sau này công ty sẽ không còn người giàu kinh nghiệm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Managers do not understand AI.",
+            "vi": "Quản lý không hiểu AI."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Managers do not understand AI.",
+          "text_translation": "Quản lý không hiểu AI."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"every senior engineer was once a junior. A company that stops training beginners today will have no experienced people in ten years' time.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the flaw in the argument \"why hire a junior?\"",
+      "question_vn": "Lỗ hổng của lập luận \"tuyển người mới làm gì?\" là gì?",
+      "explanation": "\"every senior engineer was once a junior. A company that stops training beginners today will have no experienced people in ten years' time.\""
+    },
+    {
+      "id": "q_mock2_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What does \"Not so much protect the old training as design a new one\" mean?",
+        "vi": "Câu \"Không phải bảo vệ cách đào tạo cũ mà là thiết kế một cách mới\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The goal is to create a new way of training rather than to keep the old one.",
+            "vi": "Mục tiêu là tạo cách đào tạo mới chứ không giữ cách cũ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The goal is to create a new way of training rather than to keep the old one.",
+          "text_translation": "Mục tiêu là tạo cách đào tạo mới chứ không giữ cách cũ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The old training should be protected at all costs.",
+            "vi": "Phải bảo vệ cách đào tạo cũ bằng mọi giá."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The old training should be protected at all costs.",
+          "text_translation": "Phải bảo vệ cách đào tạo cũ bằng mọi giá."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Training is no longer needed.",
+            "vi": "Không cần đào tạo nữa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Training is no longer needed.",
+          "text_translation": "Không cần đào tạo nữa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Machines should design the training.",
+            "vi": "Máy nên thiết kế việc đào tạo."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Machines should design the training.",
+          "text_translation": "Máy nên thiết kế việc đào tạo."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Cấu trúc not so much A as B: B (\"design a new one\") mới là điều người viết chủ trương."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Not so much protect the old training as design a new one\" mean?",
+      "question_vn": "Câu \"Không phải bảo vệ cách đào tạo cũ mà là thiết kế một cách mới\" nghĩa là gì?",
+      "explanation": "Cấu trúc not so much A as B: B (\"design a new one\") mới là điều người viết chủ trương."
+    },
+    {
+      "id": "q_mock2_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Why is checking the AI's work a good way for juniors to learn?",
+        "vi": "Vì sao kiểm tra bài của AI là cách học tốt cho người mới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the AI is always wrong",
+            "vi": "vì AI luôn sai"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the AI is always wrong",
+          "text_translation": "vì AI luôn sai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because you cannot judge an answer you do not understand, so checking forces real learning",
+            "vi": "vì không thể đánh giá câu trả lời mình không hiểu, nên việc kiểm tra buộc phải học thật"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because you cannot judge an answer you do not understand, so checking forces real learning",
+          "text_translation": "vì không thể đánh giá câu trả lời mình không hiểu, nên việc kiểm tra buộc phải học thật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it is faster than writing code",
+            "vi": "vì nhanh hơn viết mã"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it is faster than writing code",
+          "text_translation": "vì nhanh hơn viết mã"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because seniors do not want to do it",
+            "vi": "vì người lâu năm không muốn làm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because seniors do not want to do it",
+          "text_translation": "vì người lâu năm không muốn làm"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"because you cannot judge an answer that you do not understand.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why is checking the AI's work a good way for juniors to learn?",
+      "question_vn": "Vì sao kiểm tra bài của AI là cách học tốt cho người mới?",
+      "explanation": "\"because you cannot judge an answer that you do not understand.\""
+    },
+    {
+      "id": "q_mock2_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Who is probably the \"young engineer I know\" in the last paragraph?",
+        "vi": "\"Một kỹ sư trẻ tôi quen\" ở đoạn cuối có lẽ là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Leah",
+            "vi": "Leah"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Leah",
+          "text_translation": "Leah"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "his colleague Greg",
+            "vi": "đồng nghiệp Greg"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "his colleague Greg",
+          "text_translation": "đồng nghiệp Greg"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe",
+            "vi": "Chloe"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Chloe",
+          "text_translation": "Chloe"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy, who found and reported her own calculation mistake",
+            "vi": "Tracy, người đã tự tìm ra và báo lỗi tính toán của mình"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Tracy, who found and reported her own calculation mistake",
+          "text_translation": "Tracy, người đã tự tìm ra và báo lỗi tính toán của mình"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận liên chương. Ở đề thi giữa sách, Tracy tự phát hiện lỗi tính lan can và gọi báo người hướng dẫn. Nathan là hàng xóm của nhà Carter."
+      },
+      "audio_data": null,
+      "question_jp": "Who is probably the \"young engineer I know\" in the last paragraph?",
+      "question_vn": "\"Một kỹ sư trẻ tôi quen\" ở đoạn cuối có lẽ là ai?",
+      "explanation": "Câu suy luận liên chương. Ở đề thi giữa sách, Tracy tự phát hiện lỗi tính lan can và gọi báo người hướng dẫn. Nathan là hàng xóm của nhà Carter."
+    },
+    {
+      "id": "q_mock2_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "How is Nathan's essay organized?",
+        "vi": "Bài của Nathan được tổ chức thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a list of AI tools",
+            "vi": "danh sách công cụ AI"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a list of AI tools",
+          "text_translation": "danh sách công cụ AI"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a personal memory, evidence of a problem, an opposing argument and its flaw, a solution, and a closing example",
+            "vi": "một kỷ niệm riêng, bằng chứng về vấn đề, một lập luận trái chiều và lỗ hổng của nó, giải pháp, rồi ví dụ kết"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a personal memory, evidence of a problem, an opposing argument and its flaw, a solution, and a closing example",
+          "text_translation": "một kỷ niệm riêng, bằng chứng về vấn đề, một lập luận trái chiều và lỗ hổng của nó, giải pháp, rồi ví dụ kết"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a story about Stanford",
+            "vi": "một câu chuyện về Stanford"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a story about Stanford",
+          "text_translation": "một câu chuyện về Stanford"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a comparison of two companies",
+            "vi": "so sánh hai công ty"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a comparison of two companies",
+          "text_translation": "so sánh hai công ty"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        6,
+        8,
+        9,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc lập luận. Kỷ niệm năm đầu → nghiên cứu Stanford → \"Some managers see no problem here\" → \"So what should we do?\" → ví dụ kỹ sư trẻ."
+      },
+      "audio_data": null,
+      "question_jp": "How is Nathan's essay organized?",
+      "question_vn": "Bài của Nathan được tổ chức thế nào?",
+      "explanation": "Câu hỏi cấu trúc lập luận. Kỷ niệm năm đầu → nghiên cứu Stanford → \"Some managers see no problem here\" → \"So what should we do?\" → ví dụ kỹ sư trẻ."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_mock2_reading_1",
+      "set_type": "reading",
+      "name": "Phần 1 — Bài phát biểu của Tracy ở đám cưới Leah và Ethan",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_mock2_01",
+      "question_ids": [
+        "q_mock2_001",
+        "q_mock2_002",
+        "q_mock2_003",
+        "q_mock2_004",
+        "q_mock2_005",
+        "q_mock2_006",
+        "q_mock2_007",
+        "q_mock2_008",
+        "q_mock2_009",
+        "q_mock2_010"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_2",
+      "set_type": "reading",
+      "name": "Phần 2 — Bài khoa học: thói quen mất bao lâu để hình thành",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_mock2_02",
+      "question_ids": [
+        "q_mock2_011",
+        "q_mock2_012",
+        "q_mock2_013",
+        "q_mock2_014",
+        "q_mock2_015",
+        "q_mock2_016",
+        "q_mock2_017",
+        "q_mock2_018",
+        "q_mock2_019",
+        "q_mock2_020"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_3",
+      "set_type": "reading",
+      "name": "Phần 3 — Báo cáo tháng đầu của The Neighbors' Kitchen",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_mock2_03",
+      "question_ids": [
+        "q_mock2_021",
+        "q_mock2_022",
+        "q_mock2_023",
+        "q_mock2_024",
+        "q_mock2_025",
+        "q_mock2_026",
+        "q_mock2_027",
+        "q_mock2_028",
+        "q_mock2_029",
+        "q_mock2_030"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_4",
+      "set_type": "reading",
+      "name": "Phần 4 — Bài quan điểm của Nathan: ai sẽ đào tạo người mới vào nghề?",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_mock2_04",
+      "question_ids": [
+        "q_mock2_031",
+        "q_mock2_032",
+        "q_mock2_033",
+        "q_mock2_034",
+        "q_mock2_035",
+        "q_mock2_036",
+        "q_mock2_037",
+        "q_mock2_038",
+        "q_mock2_039",
+        "q_mock2_040"
+      ]
+    }
+  ]
+}
