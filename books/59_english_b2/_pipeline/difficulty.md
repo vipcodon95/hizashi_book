@@ -25,3 +25,4 @@
 | u3940 | [338, 297] từ, TB [23.4, 19.5] | hướng dẫn túi đi ngay của Ethan (nothing to V, mệnh lệnh với be) + truyện Harriet cân nhắc mở rộng quán (must/might be + V-ing, kết thúc mở); 6 câu suy luận/giọng điệu (1 nối 2 bài) |
 | u4142 | [323, 294] từ, TB [22.2, 20.1] | email trưởng nhóm của Nathan (although/whereas, danh từ hoá) + tranh biện bằng đại học (giới từ + wh-, How + adj!, câu tu từ); 6 câu suy luận/chức năng (1 nối 2 bài) |
 | u4344 | [312, 318] từ, TB [23.3, 22.4] | bài nhận xét tháng đầu ở đại học của Trevor (ý kiến có lý do, giọng đùa) + tập phỏng vấn của Tracy với Leah (mở rộng câu trả lời: Well, I'd say…, The thing is…); 7 câu suy luận/chức năng (1 nối 2 bài) |
+| mock2 | [298, 306, 318, 320] từ, TB [22.3, 24.9, 26.2, 24.0] | đề cuối sách B2 4 bài × 10 câu: nội quy công viên bỏ túi → bài viết Helena về nghề xây cầu → khoa học tiếng cười → quan điểm học lập trình thời AI; ~14 câu suy luận; đáp án 10/10/10/10 |
