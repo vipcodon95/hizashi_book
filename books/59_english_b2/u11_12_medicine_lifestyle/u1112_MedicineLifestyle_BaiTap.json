@@ -1,0 +1,1957 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 11–12 — Medicine and science & Lifestyle",
+      "vi": "Y học, khoa học & Lối sống"
+    },
+    "title": "Units 11–12 — Medicine and science & Lifestyle",
+    "title_vn": "Y học, khoa học & Lối sống",
+    "module_code": "59_u1112",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u11+u12",
+    "curriculum_sheets": [
+      "b2.041",
+      "b2.042",
+      "b2.043",
+      "b2.044",
+      "b2.045",
+      "b2.046",
+      "b2.047",
+      "b2.048"
+    ],
+    "characters": [
+      "Leah Carter",
+      "Mitchell Carter",
+      "Megan Carter",
+      "Trevor Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 6–7, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Bị động tiếp diễn, nhượng bộ – phản bác, the former, giọng mỉa vui",
+    "description_vn": "Bài kiến thức về các pha thử nghiệm thuốc mới (có lời Dr. Leah) và bài Mitchell viết cho bản tin giáo viên về ba mươi buổi sáng chậm. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 11 + Unit 12 khoá B2 · phiếu `b2.041` – `b2.048` (thử nghiệm và bị động tiếp diễn, đột phá y học, đạo đức trong khoa học, y học thay thế; be about to, thói quen lành mạnh, giấc ngủ, làm việc và nghỉ ngơi)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài kiến thức y khoa và một bài kể trải nghiệm; hiểu bị động tiếp diễn (are being tested), bị động hoàn thành (has been studied), cấu trúc nhượng bộ – phản bác (Admittedly…, While it is true that…, Nevertheless), `the former / the latter`, `be about to`, và nhận ra giọng mỉa vui, hình ảnh ẩn dụ."
+    },
+    "extra_words": [
+      {
+        "word": "pharmacy",
+        "i18n": {
+          "vi": "hiệu thuốc"
+        }
+      },
+      {
+        "word": "clinical trial",
+        "i18n": {
+          "vi": "thử nghiệm lâm sàng"
+        }
+      },
+      {
+        "word": "phase",
+        "i18n": {
+          "vi": "giai đoạn, pha"
+        }
+      },
+      {
+        "word": "volunteer",
+        "i18n": {
+          "vi": "tình nguyện viên"
+        }
+      },
+      {
+        "word": "placebo",
+        "i18n": {
+          "vi": "giả dược"
+        }
+      },
+      {
+        "word": "approve",
+        "i18n": {
+          "vi": "cấp phép, phê duyệt"
+        }
+      },
+      {
+        "word": "cabinet",
+        "i18n": {
+          "vi": "tủ"
+        }
+      },
+      {
+        "word": "newsletter",
+        "i18n": {
+          "vi": "bản tin"
+        }
+      },
+      {
+        "word": "episode",
+        "i18n": {
+          "vi": "tập (phim)"
+        }
+      },
+      {
+        "word": "suspiciously",
+        "i18n": {
+          "vi": "một cách nghi ngờ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "give consent",
+          "vi": "đồng ý tham gia"
+        }
+      },
+      {
+        "i18n": {
+          "en": "admittedly",
+          "vi": "phải thừa nhận rằng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "while it is true that",
+          "vi": "dù đúng là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "nevertheless",
+          "vi": "dẫu vậy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be about to",
+          "vi": "sắp sửa"
+        }
+      },
+      {
+        "i18n": {
+          "en": "doze off",
+          "vi": "ngủ gật"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stay up",
+          "vi": "thức khuya"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài giải thích quy trình: đánh dấu từng bước (`Phase 1`, `Phase 2`…) và mục đích của mỗi bước. Câu hỏi hay tráo mục đích giữa các bước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Đoạn mở bằng `Admittedly` / `While it is true that` thường là nhượng bộ; ý chính của người viết nằm sau `Nevertheless` / `However`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`the former` = cái nhắc trước, `the latter` = cái nhắc sau. Quay lại câu trước để đếm thứ tự."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Giọng mỉa vui (`Trevor kindly took a photo`): nghĩa thật ngược với nghĩa chữ. Hãy hỏi việc đó có thật sự \"tử tế\" không."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1112_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 11) — Thuốc mới được thử nghiệm thế nào"
+      },
+      "narrator": "announcer",
+      "title": "From the Lab to the Pharmacy: How New Medicines Are Tested",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From the Lab to the Pharmacy: How New Medicines Are Tested",
+            "vi": "Từ phòng thí nghiệm tới hiệu thuốc: thuốc mới được thử nghiệm thế nào"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Right now, thousands of possible new medicines are being tested around the world. Most of them will never reach a pharmacy.",
+            "vi": "Ngay lúc này, hàng nghìn loại thuốc mới tiềm năng đang được thử nghiệm khắp thế giới. Phần lớn sẽ không bao giờ tới được hiệu thuốc."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Of the drugs that are tested on people for the first time, only about one in ten is finally approved, and the whole process usually takes between ten and fifteen years.",
+            "vi": "Trong số các loại thuốc được thử trên người lần đầu, chỉ khoảng một trên mười cuối cùng được cấp phép, và cả quá trình thường mất từ mười tới mười lăm năm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before a medicine is given to any person, it has usually been studied for years in laboratories, first on cells and then on animals.",
+            "vi": "Trước khi được đưa cho bất kỳ ai, một loại thuốc thường đã được nghiên cứu nhiều năm trong phòng thí nghiệm, trước trên tế bào rồi trên động vật."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Only then do clinical trials begin, and they are divided into stages, or \"phases\".",
+            "vi": "Chỉ sau đó thử nghiệm lâm sàng mới bắt đầu, và chúng được chia thành các giai đoạn, hay \"pha\"."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In Phase 1, a small group of twenty to a hundred volunteers, often healthy adults, take the drug so that researchers can check whether it is safe and what dose the body can handle.",
+            "vi": "Ở pha 1, một nhóm nhỏ hai mươi tới một trăm tình nguyện viên, thường là người trưởng thành khoẻ mạnh, dùng thuốc để các nhà nghiên cứu kiểm tra thuốc có an toàn không và cơ thể chịu được liều bao nhiêu."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In Phase 2, several hundred patients who have the disease are given the drug, and the question becomes whether it actually works.",
+            "vi": "Ở pha 2, vài trăm bệnh nhân mắc bệnh được dùng thuốc, và câu hỏi chuyển thành thuốc có thật sự hiệu quả không."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Phase 3 is the biggest: hundreds or thousands of patients are divided into groups, and the new drug is compared with an existing treatment or with a placebo, a pill that contains no medicine.",
+            "vi": "Pha 3 lớn nhất: hàng trăm, hàng nghìn bệnh nhân được chia nhóm, và thuốc mới được so sánh với cách điều trị hiện có hoặc với giả dược, một viên thuốc không chứa hoạt chất."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In many trials, neither the patients nor the doctors know who is receiving which, so that their expectations cannot affect the results.",
+            "vi": "Trong nhiều thử nghiệm, cả bệnh nhân lẫn bác sĩ đều không biết ai đang dùng loại nào, để kỳ vọng của họ không ảnh hưởng tới kết quả."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Admittedly, this system is slow and expensive, and patients who are seriously ill sometimes cannot wait.",
+            "vi": "Phải thừa nhận rằng hệ thống này chậm và tốn kém, và những bệnh nhân bệnh nặng đôi khi không thể chờ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "While it is true that some rules have been relaxed in emergencies, most scientists argue that the stages are necessary. Nevertheless, they continue to look for ways to make trials faster without making them less safe.",
+            "vi": "Dù đúng là một số quy định đã được nới lỏng trong tình huống khẩn cấp, phần lớn các nhà khoa học cho rằng các giai đoạn này là cần thiết. Dẫu vậy, họ vẫn tiếp tục tìm cách làm thử nghiệm nhanh hơn mà không kém an toàn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every volunteer must also give consent: they must be told about the possible risks and be free to leave the trial at any time.",
+            "vi": "Mọi tình nguyện viên còn phải đồng ý tham gia: họ phải được cho biết những rủi ro có thể xảy ra và được tự do rời thử nghiệm bất cứ lúc nào."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Patients often ask me if they should join a trial,\" says Dr. Leah Carter, an emergency doctor at Sunset Bay Hospital. \"I tell them to ask two questions: what are the risks, and what happens if I want to stop? If those two questions aren't answered clearly, the former matters more than any promise.\"",
+            "vi": "\"Bệnh nhân hay hỏi tôi có nên tham gia thử nghiệm không,\" bác sĩ Leah Carter, bác sĩ cấp cứu ở Bệnh viện Sunset Bay, nói. \"Tôi bảo họ hỏi hai câu: rủi ro là gì, và nếu tôi muốn dừng thì sao? Nếu hai câu đó không được trả lời rõ, thì câu thứ nhất quan trọng hơn bất kỳ lời hứa nào.\""
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The process may be slow, but every medicine in your cabinet at home has passed through it.",
+            "vi": "Quá trình này có thể chậm, nhưng mọi viên thuốc trong tủ thuốc nhà bạn đều đã đi qua nó."
+          }
+        }
+      ],
+      "content_ja": "From the Lab to the Pharmacy: How New Medicines Are Tested\n\nRight now, thousands of possible new medicines are being tested around the world. Most of them will never reach a pharmacy. Of the drugs that are tested on people for the first time, only about one in ten is finally approved, and the whole process usually takes between ten and fifteen years.\n\nBefore a medicine is given to any person, it has usually been studied for years in laboratories, first on cells and then on animals. Only then do clinical trials begin, and they are divided into stages, or \"phases\". In Phase 1, a small group of twenty to a hundred volunteers, often healthy adults, take the drug so that researchers can check whether it is safe and what dose the body can handle. In Phase 2, several hundred patients who have the disease are given the drug, and the question becomes whether it actually works. Phase 3 is the biggest: hundreds or thousands of patients are divided into groups, and the new drug is compared with an existing treatment or with a placebo, a pill that contains no medicine. In many trials, neither the patients nor the doctors know who is receiving which, so that their expectations cannot affect the results.\n\nAdmittedly, this system is slow and expensive, and patients who are seriously ill sometimes cannot wait. While it is true that some rules have been relaxed in emergencies, most scientists argue that the stages are necessary. Nevertheless, they continue to look for ways to make trials faster without making them less safe.\n\nEvery volunteer must also give consent: they must be told about the possible risks and be free to leave the trial at any time. \"Patients often ask me if they should join a trial,\" says Dr. Leah Carter, an emergency doctor at Sunset Bay Hospital. \"I tell them to ask two questions: what are the risks, and what happens if I want to stop? If those two questions aren't answered clearly, the former matters more than any promise.\" The process may be slow, but every medicine in your cabinet at home has passed through it.",
+      "translation_vn": "(1) Từ phòng thí nghiệm tới hiệu thuốc: thuốc mới được thử nghiệm thế nào\n(2) Ngay lúc này, hàng nghìn loại thuốc mới tiềm năng đang được thử nghiệm khắp thế giới. Phần lớn sẽ không bao giờ tới được hiệu thuốc.\n(3) Trong số các loại thuốc được thử trên người lần đầu, chỉ khoảng một trên mười cuối cùng được cấp phép, và cả quá trình thường mất từ mười tới mười lăm năm.\n(4) Trước khi được đưa cho bất kỳ ai, một loại thuốc thường đã được nghiên cứu nhiều năm trong phòng thí nghiệm, trước trên tế bào rồi trên động vật.\n(5) Chỉ sau đó thử nghiệm lâm sàng mới bắt đầu, và chúng được chia thành các giai đoạn, hay \"pha\".\n(6) Ở pha 1, một nhóm nhỏ hai mươi tới một trăm tình nguyện viên, thường là người trưởng thành khoẻ mạnh, dùng thuốc để các nhà nghiên cứu kiểm tra thuốc có an toàn không và cơ thể chịu được liều bao nhiêu.\n(7) Ở pha 2, vài trăm bệnh nhân mắc bệnh được dùng thuốc, và câu hỏi chuyển thành thuốc có thật sự hiệu quả không.\n(8) Pha 3 lớn nhất: hàng trăm, hàng nghìn bệnh nhân được chia nhóm, và thuốc mới được so sánh với cách điều trị hiện có hoặc với giả dược, một viên thuốc không chứa hoạt chất.\n(9) Trong nhiều thử nghiệm, cả bệnh nhân lẫn bác sĩ đều không biết ai đang dùng loại nào, để kỳ vọng của họ không ảnh hưởng tới kết quả.\n(10) Phải thừa nhận rằng hệ thống này chậm và tốn kém, và những bệnh nhân bệnh nặng đôi khi không thể chờ.\n(11) Dù đúng là một số quy định đã được nới lỏng trong tình huống khẩn cấp, phần lớn các nhà khoa học cho rằng các giai đoạn này là cần thiết. Dẫu vậy, họ vẫn tiếp tục tìm cách làm thử nghiệm nhanh hơn mà không kém an toàn.\n(12) Mọi tình nguyện viên còn phải đồng ý tham gia: họ phải được cho biết những rủi ro có thể xảy ra và được tự do rời thử nghiệm bất cứ lúc nào.\n(13) \"Bệnh nhân hay hỏi tôi có nên tham gia thử nghiệm không,\" bác sĩ Leah Carter, bác sĩ cấp cứu ở Bệnh viện Sunset Bay, nói. \"Tôi bảo họ hỏi hai câu: rủi ro là gì, và nếu tôi muốn dừng thì sao? Nếu hai câu đó không được trả lời rõ, thì câu thứ nhất quan trọng hơn bất kỳ lời hứa nào.\"\n(14) Quá trình này có thể chậm, nhưng mọi viên thuốc trong tủ thuốc nhà bạn đều đã đi qua nó.",
+      "word_count": 357,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.041",
+        "b2.042",
+        "b2.043",
+        "b2.044"
+      ]
+    },
+    {
+      "id": "passage_u1112_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 12) — Ba mươi buổi sáng chậm của Mitchell và Megan"
+      },
+      "narrator": "Mitchell",
+      "title": "Thirty Slow Mornings",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thirty Slow Mornings",
+            "vi": "Ba mươi buổi sáng chậm"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Mitchell Carter, for the Westview High staff newsletter",
+            "vi": "Người viết: Mitchell Carter, cho bản tin giáo viên trường Westview High"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For years, my mornings looked the same. The alarm went off at 6:15, I checked my email in bed, drank coffee standing up and left the house at 6:45, already tired.",
+            "vi": "Nhiều năm liền, buổi sáng của tôi y như nhau. Chuông báo thức reo lúc 6:15, tôi nằm trên giường đọc email, đứng uống cà phê, rồi 6:45 ra khỏi nhà mà đã thấy mệt."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My wife Megan, an emergency nurse, had it even worse: after a night shift, she would come home at dawn just as I was about to leave.",
+            "vi": "Vợ tôi, Megan, y tá cấp cứu, còn khổ hơn: sau ca đêm, cô ấy về nhà lúc rạng sáng đúng lúc tôi sắp đi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In June, we decided to try an experiment: thirty \"slow mornings\".",
+            "vi": "Tháng Sáu, chúng tôi quyết định thử một thí nghiệm: ba mươi \"buổi sáng chậm\"."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The rules were simple. We would get up thirty minutes earlier, leave our phones in the kitchen overnight, eat breakfast sitting down, and spend ten minutes outside before work.",
+            "vi": "Luật rất đơn giản. Chúng tôi sẽ dậy sớm hơn ba mươi phút, để điện thoại ở bếp qua đêm, ngồi xuống ăn sáng, và dành mười phút ngoài trời trước khi đi làm."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On the days after Megan's night shifts, we agreed that she would sleep and I would do the routine alone.",
+            "vi": "Những ngày sau ca đêm của Megan, chúng tôi thống nhất cô ấy sẽ ngủ còn tôi làm một mình."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first week was harder than either of us had expected.",
+            "vi": "Tuần đầu khó hơn cả hai chúng tôi tưởng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Getting up earlier meant going to bed earlier, and we kept staying up to finish one more episode of a TV series.",
+            "vi": "Dậy sớm hơn nghĩa là phải đi ngủ sớm hơn, mà chúng tôi cứ thức để xem nốt thêm một tập phim bộ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On day four, I dozed off on the sofa at nine in the evening, and our son Trevor kindly took a photo for the family chat.",
+            "vi": "Ngày thứ tư, tôi ngủ gật trên ghế sofa lúc chín giờ tối, và cậu con trai Trevor tử tế chụp một tấm ảnh gửi vào nhóm chat gia đình."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By the second week, however, something had changed.",
+            "vi": "Tuy nhiên sang tuần thứ hai, có điều gì đó đã khác."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Without my phone, I noticed things: the birds in the lemon tree, the light coming slowly over the hills, the way our dog sleeps with one eye open.",
+            "vi": "Không có điện thoại, tôi để ý nhiều thứ: lũ chim trên cây chanh, ánh sáng chầm chậm tràn qua những ngọn đồi, cái kiểu con chó nhà tôi ngủ mà vẫn mở hé một mắt."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Megan and I talked over breakfast more in a month than we had in the previous year. I arrived at school calmer, and my first-period students noticed; one of them asked me, suspiciously, whether I was feeling well.",
+            "vi": "Một tháng ấy, tôi và Megan trò chuyện bên bữa sáng nhiều hơn cả năm trước cộng lại. Tôi tới trường bình thản hơn, và học sinh tiết một nhận ra; một em còn nghi ngờ hỏi tôi có khoẻ không."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not everything worked. Our teenagers refused to join, and on busy days the ten minutes outside were sometimes skipped.",
+            "vi": "Không phải điều gì cũng suôn sẻ. Bọn trẻ tuổi teen nhà tôi nhất quyết không tham gia, và những hôm bận thì mười phút ngoài trời đôi khi bị bỏ qua."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But we have kept the most important rule: the phones sleep in the kitchen. It is a small change, and I am not claiming that it will work for everyone. For us, it has turned the start of the day from a race into a conversation.",
+            "vi": "Nhưng chúng tôi giữ lại luật quan trọng nhất: điện thoại ngủ ở bếp. Đó là một thay đổi nhỏ, và tôi không nói rằng nó hợp với tất cả mọi người. Với chúng tôi, nó đã biến đầu ngày từ một cuộc chạy đua thành một cuộc trò chuyện."
+          }
+        }
+      ],
+      "content_ja": "Thirty Slow Mornings\n\nWritten by: Mitchell Carter, for the Westview High staff newsletter\n\nFor years, my mornings looked the same. The alarm went off at 6:15, I checked my email in bed, drank coffee standing up and left the house at 6:45, already tired. My wife Megan, an emergency nurse, had it even worse: after a night shift, she would come home at dawn just as I was about to leave. In June, we decided to try an experiment: thirty \"slow mornings\".\n\nThe rules were simple. We would get up thirty minutes earlier, leave our phones in the kitchen overnight, eat breakfast sitting down, and spend ten minutes outside before work. On the days after Megan's night shifts, we agreed that she would sleep and I would do the routine alone.\n\nThe first week was harder than either of us had expected. Getting up earlier meant going to bed earlier, and we kept staying up to finish one more episode of a TV series. On day four, I dozed off on the sofa at nine in the evening, and our son Trevor kindly took a photo for the family chat.\n\nBy the second week, however, something had changed. Without my phone, I noticed things: the birds in the lemon tree, the light coming slowly over the hills, the way our dog sleeps with one eye open. Megan and I talked over breakfast more in a month than we had in the previous year. I arrived at school calmer, and my first-period students noticed; one of them asked me, suspiciously, whether I was feeling well.\n\nNot everything worked. Our teenagers refused to join, and on busy days the ten minutes outside were sometimes skipped. But we have kept the most important rule: the phones sleep in the kitchen. It is a small change, and I am not claiming that it will work for everyone. For us, it has turned the start of the day from a race into a conversation.",
+      "translation_vn": "(1) Ba mươi buổi sáng chậm\n(2) Người viết: Mitchell Carter, cho bản tin giáo viên trường Westview High\n(3) Nhiều năm liền, buổi sáng của tôi y như nhau. Chuông báo thức reo lúc 6:15, tôi nằm trên giường đọc email, đứng uống cà phê, rồi 6:45 ra khỏi nhà mà đã thấy mệt.\n(4) Vợ tôi, Megan, y tá cấp cứu, còn khổ hơn: sau ca đêm, cô ấy về nhà lúc rạng sáng đúng lúc tôi sắp đi.\n(5) Tháng Sáu, chúng tôi quyết định thử một thí nghiệm: ba mươi \"buổi sáng chậm\".\n(6) Luật rất đơn giản. Chúng tôi sẽ dậy sớm hơn ba mươi phút, để điện thoại ở bếp qua đêm, ngồi xuống ăn sáng, và dành mười phút ngoài trời trước khi đi làm.\n(7) Những ngày sau ca đêm của Megan, chúng tôi thống nhất cô ấy sẽ ngủ còn tôi làm một mình.\n(8) Tuần đầu khó hơn cả hai chúng tôi tưởng.\n(9) Dậy sớm hơn nghĩa là phải đi ngủ sớm hơn, mà chúng tôi cứ thức để xem nốt thêm một tập phim bộ.\n(10) Ngày thứ tư, tôi ngủ gật trên ghế sofa lúc chín giờ tối, và cậu con trai Trevor tử tế chụp một tấm ảnh gửi vào nhóm chat gia đình.\n(11) Tuy nhiên sang tuần thứ hai, có điều gì đó đã khác.\n(12) Không có điện thoại, tôi để ý nhiều thứ: lũ chim trên cây chanh, ánh sáng chầm chậm tràn qua những ngọn đồi, cái kiểu con chó nhà tôi ngủ mà vẫn mở hé một mắt.\n(13) Một tháng ấy, tôi và Megan trò chuyện bên bữa sáng nhiều hơn cả năm trước cộng lại. Tôi tới trường bình thản hơn, và học sinh tiết một nhận ra; một em còn nghi ngờ hỏi tôi có khoẻ không.\n(14) Không phải điều gì cũng suôn sẻ. Bọn trẻ tuổi teen nhà tôi nhất quyết không tham gia, và những hôm bận thì mười phút ngoài trời đôi khi bị bỏ qua.\n(15) Nhưng chúng tôi giữ lại luật quan trọng nhất: điện thoại ngủ ở bếp. Đó là một thay đổi nhỏ, và tôi không nói rằng nó hợp với tất cả mọi người. Với chúng tôi, nó đã biến đầu ngày từ một cuộc chạy đua thành một cuộc trò chuyện.",
+      "word_count": 328,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.045",
+        "b2.046",
+        "b2.047",
+        "b2.048"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1112_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the stages that a new medicine must pass through before it is approved",
+            "vi": "các giai đoạn một loại thuốc mới phải trải qua trước khi được cấp phép"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the stages that a new medicine must pass through before it is approved",
+          "text_translation": "các giai đoạn một loại thuốc mới phải trải qua trước khi được cấp phép"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why medicines are expensive",
+            "vi": "vì sao thuốc đắt"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "why medicines are expensive",
+          "text_translation": "vì sao thuốc đắt"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to become a doctor",
+            "vi": "cách trở thành bác sĩ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to become a doctor",
+          "text_translation": "cách trở thành bác sĩ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the history of a famous medicine",
+            "vi": "lịch sử một loại thuốc nổi tiếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the history of a famous medicine",
+          "text_translation": "lịch sử một loại thuốc nổi tiếng"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Only then do clinical trials begin, and they are divided into stages, or \"phases\".\" Bài lần lượt giải thích pha 1, 2, 3 và việc đồng ý tham gia."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"Only then do clinical trials begin, and they are divided into stages, or \"phases\".\" Bài lần lượt giải thích pha 1, 2, 3 và việc đồng ý tham gia."
+    },
+    {
+      "id": "q_u1112_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What does \"thousands of possible new medicines are being tested around the world\" tell us?",
+        "vi": "Câu \"hàng nghìn loại thuốc mới tiềm năng đang được thử nghiệm khắp thế giới\" cho biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The tests finished long ago.",
+            "vi": "Các thử nghiệm đã xong từ lâu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The tests finished long ago.",
+          "text_translation": "Các thử nghiệm đã xong từ lâu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The medicines are already in pharmacies.",
+            "vi": "Thuốc đã có ở hiệu thuốc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The medicines are already in pharmacies.",
+          "text_translation": "Thuốc đã có ở hiệu thuốc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The testing is happening at this moment.",
+            "vi": "Việc thử nghiệm đang diễn ra ngay lúc này."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The testing is happening at this moment.",
+          "text_translation": "Việc thử nghiệm đang diễn ra ngay lúc này."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The medicines will be tested next year.",
+            "vi": "Năm sau thuốc mới được thử."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The medicines will be tested next year.",
+          "text_translation": "Năm sau thuốc mới được thử."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Right now, thousands of possible new medicines are being tested\". Bị động tiếp diễn (are being + V3) = đang được làm."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"thousands of possible new medicines are being tested around the world\" tell us?",
+      "question_vn": "Câu \"hàng nghìn loại thuốc mới tiềm năng đang được thử nghiệm khắp thế giới\" cho biết điều gì?",
+      "explanation": "\"Right now, thousands of possible new medicines are being tested\". Bị động tiếp diễn (are being + V3) = đang được làm."
+    },
+    {
+      "id": "q_u1112_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "About how many drugs that are tested on people for the first time are finally approved?",
+        "vi": "Trong số thuốc được thử trên người lần đầu, khoảng bao nhiêu cuối cùng được cấp phép?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "almost all of them",
+            "vi": "gần như tất cả"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "almost all of them",
+          "text_translation": "gần như tất cả"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about half",
+            "vi": "khoảng một nửa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "about half",
+          "text_translation": "khoảng một nửa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "ten to fifteen percent each year",
+            "vi": "mười tới mười lăm phần trăm mỗi năm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "ten to fifteen percent each year",
+          "text_translation": "mười tới mười lăm phần trăm mỗi năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "about one in ten",
+            "vi": "khoảng một trên mười"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "about one in ten",
+          "text_translation": "khoảng một trên mười"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"only about one in ten is finally approved\". Mười tới mười lăm là số năm của cả quá trình, không phải tỉ lệ."
+      },
+      "audio_data": null,
+      "question_jp": "About how many drugs that are tested on people for the first time are finally approved?",
+      "question_vn": "Trong số thuốc được thử trên người lần đầu, khoảng bao nhiêu cuối cùng được cấp phép?",
+      "explanation": "\"only about one in ten is finally approved\". Mười tới mười lăm là số năm của cả quá trình, không phải tỉ lệ."
+    },
+    {
+      "id": "q_u1112_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What is the main purpose of Phase 1?",
+        "vi": "Mục đích chính của pha 1 là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to compare the drug with a placebo",
+            "vi": "so sánh thuốc với giả dược"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to compare the drug with a placebo",
+          "text_translation": "so sánh thuốc với giả dược"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to check whether the drug is safe and what dose the body can handle",
+            "vi": "kiểm tra thuốc có an toàn không và cơ thể chịu được liều bao nhiêu"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to check whether the drug is safe and what dose the body can handle",
+          "text_translation": "kiểm tra thuốc có an toàn không và cơ thể chịu được liều bao nhiêu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to sell the drug",
+            "vi": "bán thuốc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to sell the drug",
+          "text_translation": "bán thuốc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to test the drug on animals",
+            "vi": "thử thuốc trên động vật"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to test the drug on animals",
+          "text_translation": "thử thuốc trên động vật"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"so that researchers can check whether it is safe and what dose the body can handle.\" Thử trên động vật là trước khi có thử nghiệm lâm sàng."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Phase 1?",
+      "question_vn": "Mục đích chính của pha 1 là gì?",
+      "explanation": "\"so that researchers can check whether it is safe and what dose the body can handle.\" Thử trên động vật là trước khi có thử nghiệm lâm sàng."
+    },
+    {
+      "id": "q_u1112_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What is a placebo?",
+        "vi": "Giả dược là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a pill that contains no medicine",
+            "vi": "một viên thuốc không chứa hoạt chất"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a pill that contains no medicine",
+          "text_translation": "một viên thuốc không chứa hoạt chất"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a new kind of vaccine",
+            "vi": "một loại vắc-xin mới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a new kind of vaccine",
+          "text_translation": "một loại vắc-xin mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "an existing treatment",
+            "vi": "cách điều trị hiện có"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "an existing treatment",
+          "text_translation": "cách điều trị hiện có"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a doctor who runs trials",
+            "vi": "bác sĩ điều hành thử nghiệm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a doctor who runs trials",
+          "text_translation": "bác sĩ điều hành thử nghiệm"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"a placebo, a pill that contains no medicine.\" Cụm sau dấu phẩy là phần định nghĩa."
+      },
+      "audio_data": null,
+      "question_jp": "What is a placebo?",
+      "question_vn": "Giả dược là gì?",
+      "explanation": "\"a placebo, a pill that contains no medicine.\" Cụm sau dấu phẩy là phần định nghĩa."
+    },
+    {
+      "id": "q_u1112_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "Why, in many trials, do neither the patients nor the doctors know who is receiving which?",
+        "vi": "Vì sao trong nhiều thử nghiệm, cả bệnh nhân lẫn bác sĩ đều không biết ai đang dùng loại nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to save money",
+            "vi": "để tiết kiệm tiền"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to save money",
+          "text_translation": "để tiết kiệm tiền"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the doctors forget",
+            "vi": "vì bác sĩ quên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the doctors forget",
+          "text_translation": "vì bác sĩ quên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that their expectations cannot affect the results",
+            "vi": "để kỳ vọng của họ không ảnh hưởng tới kết quả"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "so that their expectations cannot affect the results",
+          "text_translation": "để kỳ vọng của họ không ảnh hưởng tới kết quả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the pills look different",
+            "vi": "vì các viên thuốc trông khác nhau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the pills look different",
+          "text_translation": "vì các viên thuốc trông khác nhau"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"so that their expectations cannot affect the results.\" Nếu biết mình dùng thuốc thật, người ta có thể tự thấy khá hơn."
+      },
+      "audio_data": null,
+      "question_jp": "Why, in many trials, do neither the patients nor the doctors know who is receiving which?",
+      "question_vn": "Vì sao trong nhiều thử nghiệm, cả bệnh nhân lẫn bác sĩ đều không biết ai đang dùng loại nào?",
+      "explanation": "\"so that their expectations cannot affect the results.\" Nếu biết mình dùng thuốc thật, người ta có thể tự thấy khá hơn."
+    },
+    {
+      "id": "q_u1112_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What is the function of the paragraph that begins with \"Admittedly\"?",
+        "vi": "Đoạn bắt đầu bằng \"Admittedly\" có chức năng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to describe Phase 2 in more detail",
+            "vi": "để mô tả kỹ hơn pha 2"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to describe Phase 2 in more detail",
+          "text_translation": "để mô tả kỹ hơn pha 2"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell a story about a patient",
+            "vi": "để kể chuyện một bệnh nhân"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to tell a story about a patient",
+          "text_translation": "để kể chuyện một bệnh nhân"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that scientists want to stop trials",
+            "vi": "để cho thấy các nhà khoa học muốn dừng thử nghiệm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to show that scientists want to stop trials",
+          "text_translation": "để cho thấy các nhà khoa học muốn dừng thử nghiệm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to admit the weaknesses of the system and then explain why it is still used",
+            "vi": "để thừa nhận điểm yếu của hệ thống rồi giải thích vì sao vẫn dùng nó"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to admit the weaknesses of the system and then explain why it is still used",
+          "text_translation": "để thừa nhận điểm yếu của hệ thống rồi giải thích vì sao vẫn dùng nó"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng đoạn. \"Admittedly, this system is slow and expensive\" là nhượng bộ; \"Nevertheless\" mở ra phần phản biện. Đây là cấu trúc nhượng bộ – phản bác."
+      },
+      "audio_data": null,
+      "question_jp": "What is the function of the paragraph that begins with \"Admittedly\"?",
+      "question_vn": "Đoạn bắt đầu bằng \"Admittedly\" có chức năng gì?",
+      "explanation": "Câu hỏi chức năng đoạn. \"Admittedly, this system is slow and expensive\" là nhượng bộ; \"Nevertheless\" mở ra phần phản biện. Đây là cấu trúc nhượng bộ – phản bác."
+    },
+    {
+      "id": "q_u1112_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What must every volunteer be told before joining a trial?",
+        "vi": "Trước khi tham gia thử nghiệm, mọi tình nguyện viên phải được cho biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how much they will be paid",
+            "vi": "họ sẽ được trả bao nhiêu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how much they will be paid",
+          "text_translation": "họ sẽ được trả bao nhiêu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the possible risks, and that they are free to leave at any time",
+            "vi": "những rủi ro có thể xảy ra, và rằng họ được tự do rời đi bất cứ lúc nào"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the possible risks, and that they are free to leave at any time",
+          "text_translation": "những rủi ro có thể xảy ra, và rằng họ được tự do rời đi bất cứ lúc nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the name of the drug company",
+            "vi": "tên công ty dược"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the name of the drug company",
+          "text_translation": "tên công ty dược"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "which group they are in",
+            "vi": "họ ở nhóm nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "which group they are in",
+          "text_translation": "họ ở nhóm nào"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"they must be told about the possible risks and be free to leave the trial at any time.\" Ở nhiều thử nghiệm, người tham gia không được biết mình ở nhóm nào."
+      },
+      "audio_data": null,
+      "question_jp": "What must every volunteer be told before joining a trial?",
+      "question_vn": "Trước khi tham gia thử nghiệm, mọi tình nguyện viên phải được cho biết điều gì?",
+      "explanation": "\"they must be told about the possible risks and be free to leave the trial at any time.\" Ở nhiều thử nghiệm, người tham gia không được biết mình ở nhóm nào."
+    },
+    {
+      "id": "q_u1112_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "In Dr. Carter's comment, what does \"the former\" refer to?",
+        "vi": "Trong lời bác sĩ Carter, \"the former\" chỉ điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the question about the risks",
+            "vi": "câu hỏi về rủi ro"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the question about the risks",
+          "text_translation": "câu hỏi về rủi ro"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the question about stopping",
+            "vi": "câu hỏi về việc dừng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the question about stopping",
+          "text_translation": "câu hỏi về việc dừng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the trial",
+            "vi": "cuộc thử nghiệm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the trial",
+          "text_translation": "cuộc thử nghiệm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the patient",
+            "vi": "bệnh nhân"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the patient",
+          "text_translation": "bệnh nhân"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"what are the risks, and what happens if I want to stop?\" rồi \"the former matters more than any promise.\" The former = cái được nhắc trước (rủi ro); the latter = cái sau."
+      },
+      "audio_data": null,
+      "question_jp": "In Dr. Carter's comment, what does \"the former\" refer to?",
+      "question_vn": "Trong lời bác sĩ Carter, \"the former\" chỉ điều gì?",
+      "explanation": "\"what are the risks, and what happens if I want to stop?\" rồi \"the former matters more than any promise.\" The former = cái được nhắc trước (rủi ro); the latter = cái sau."
+    },
+    {
+      "id": "q_u1112_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What is the writer's overall view of the testing process?",
+        "vi": "Nhìn chung, người viết đánh giá quá trình thử nghiệm thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is useless and should end.",
+            "vi": "Nó vô ích và nên chấm dứt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is useless and should end.",
+          "text_translation": "Nó vô ích và nên chấm dứt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is too fast.",
+            "vi": "Nó quá nhanh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is too fast.",
+          "text_translation": "Nó quá nhanh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is slow, but it is an important reason why our medicines are safe.",
+            "vi": "Nó chậm, nhưng là lý do quan trọng giúp thuốc của ta an toàn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is slow, but it is an important reason why our medicines are safe.",
+          "text_translation": "Nó chậm, nhưng là lý do quan trọng giúp thuốc của ta an toàn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It only matters for rare diseases.",
+            "vi": "Nó chỉ quan trọng với bệnh hiếm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It only matters for rare diseases.",
+          "text_translation": "Nó chỉ quan trọng với bệnh hiếm."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. \"The process may be slow, but every medicine in your cabinet at home has passed through it.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's overall view of the testing process?",
+      "question_vn": "Nhìn chung, người viết đánh giá quá trình thử nghiệm thế nào?",
+      "explanation": "Câu hỏi thái độ. \"The process may be slow, but every medicine in your cabinet at home has passed through it.\""
+    },
+    {
+      "id": "q_u1112_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What is Mitchell's article mainly about?",
+        "vi": "Bài viết của Mitchell chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to become a better teacher",
+            "vi": "cách làm giáo viên giỏi hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to become a better teacher",
+          "text_translation": "cách làm giáo viên giỏi hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why phones are dangerous",
+            "vi": "vì sao điện thoại nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "why phones are dangerous",
+          "text_translation": "vì sao điện thoại nguy hiểm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Megan's work as a nurse",
+            "vi": "công việc y tá của Megan"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Megan's work as a nurse",
+          "text_translation": "công việc y tá của Megan"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a month-long experiment with slower mornings, and what he learned",
+            "vi": "một tháng thử buổi sáng chậm, và điều anh rút ra"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a month-long experiment with slower mornings, and what he learned",
+          "text_translation": "một tháng thử buổi sáng chậm, và điều anh rút ra"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"In June, we decided to try an experiment: thirty \"slow mornings\".\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Mitchell's article mainly about?",
+      "question_vn": "Bài viết của Mitchell chủ yếu nói về điều gì?",
+      "explanation": "\"In June, we decided to try an experiment: thirty \"slow mornings\".\""
+    },
+    {
+      "id": "q_u1112_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What does \"she would come home at dawn just as I was about to leave\" mean?",
+        "vi": "Câu \"cô ấy về nhà lúc rạng sáng đúng lúc tôi sắp đi\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mitchell had already left when Megan came home.",
+            "vi": "Mitchell đã đi rồi khi Megan về."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Mitchell had already left when Megan came home.",
+          "text_translation": "Mitchell đã đi rồi khi Megan về."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Megan came home when Mitchell was just going to leave.",
+            "vi": "Megan về đúng lúc Mitchell chuẩn bị đi."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Megan came home when Mitchell was just going to leave.",
+          "text_translation": "Megan về đúng lúc Mitchell chuẩn bị đi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They left the house together.",
+            "vi": "Hai người cùng ra khỏi nhà."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They left the house together.",
+          "text_translation": "Hai người cùng ra khỏi nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Megan never came home.",
+            "vi": "Megan không bao giờ về nhà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Megan never came home.",
+          "text_translation": "Megan không bao giờ về nhà."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"just as I was about to leave.\" Be about to + V = sắp sửa làm gì (ngay lập tức). Would ở đây chỉ thói quen trong quá khứ."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"she would come home at dawn just as I was about to leave\" mean?",
+      "question_vn": "Câu \"cô ấy về nhà lúc rạng sáng đúng lúc tôi sắp đi\" nghĩa là gì?",
+      "explanation": "\"just as I was about to leave.\" Be about to + V = sắp sửa làm gì (ngay lập tức). Would ở đây chỉ thói quen trong quá khứ."
+    },
+    {
+      "id": "q_u1112_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Which of these was NOT one of the rules of the experiment?",
+        "vi": "Điều nào KHÔNG nằm trong luật của thí nghiệm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "drinking coffee standing up",
+            "vi": "đứng uống cà phê"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "drinking coffee standing up",
+          "text_translation": "đứng uống cà phê"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "getting up thirty minutes earlier",
+            "vi": "dậy sớm hơn ba mươi phút"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "getting up thirty minutes earlier",
+          "text_translation": "dậy sớm hơn ba mươi phút"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "leaving phones in the kitchen overnight",
+            "vi": "để điện thoại ở bếp qua đêm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "leaving phones in the kitchen overnight",
+          "text_translation": "để điện thoại ở bếp qua đêm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "spending ten minutes outside before work",
+            "vi": "dành mười phút ngoài trời trước khi đi làm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "spending ten minutes outside before work",
+          "text_translation": "dành mười phút ngoài trời trước khi đi làm"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Đứng uống cà phê là thói quen cũ của Mitchell; luật mới là \"eat breakfast sitting down\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these was NOT one of the rules of the experiment?",
+      "question_vn": "Điều nào KHÔNG nằm trong luật của thí nghiệm?",
+      "explanation": "Đứng uống cà phê là thói quen cũ của Mitchell; luật mới là \"eat breakfast sitting down\"."
+    },
+    {
+      "id": "q_u1112_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Why was the first week harder than expected?",
+        "vi": "Vì sao tuần đầu khó hơn dự đoán?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Their alarm clock was broken.",
+            "vi": "Vì đồng hồ báo thức hỏng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Their alarm clock was broken.",
+          "text_translation": "Vì đồng hồ báo thức hỏng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Megan worked every night.",
+            "vi": "Vì Megan làm đêm suốt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Megan worked every night.",
+          "text_translation": "Vì Megan làm đêm suốt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Getting up earlier meant going to bed earlier, but they kept staying up to watch TV.",
+            "vi": "Vì dậy sớm hơn thì phải ngủ sớm hơn, mà họ cứ thức xem ti vi."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Getting up earlier meant going to bed earlier, but they kept staying up to watch TV.",
+          "text_translation": "Vì dậy sớm hơn thì phải ngủ sớm hơn, mà họ cứ thức xem ti vi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The weather was bad.",
+            "vi": "Vì thời tiết xấu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The weather was bad.",
+          "text_translation": "Vì thời tiết xấu."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Getting up earlier meant going to bed earlier, and we kept staying up to finish one more episode of a TV series.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why was the first week harder than expected?",
+      "question_vn": "Vì sao tuần đầu khó hơn dự đoán?",
+      "explanation": "\"Getting up earlier meant going to bed earlier, and we kept staying up to finish one more episode of a TV series.\""
+    },
+    {
+      "id": "q_u1112_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What does \"our son Trevor kindly took a photo for the family chat\" suggest?",
+        "vi": "Câu \"cậu con trai Trevor tử tế chụp một tấm ảnh gửi vào nhóm chat gia đình\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor wanted to help his father sleep.",
+            "vi": "Trevor muốn giúp bố ngủ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Trevor wanted to help his father sleep.",
+          "text_translation": "Trevor muốn giúp bố ngủ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor is a professional photographer.",
+            "vi": "Trevor là thợ ảnh chuyên nghiệp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor is a professional photographer.",
+          "text_translation": "Trevor là thợ ảnh chuyên nghiệp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Mitchell was angry with Trevor.",
+            "vi": "Mitchell giận Trevor."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Mitchell was angry with Trevor.",
+          "text_translation": "Mitchell giận Trevor."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Mitchell is joking: Trevor was teasing him, not being kind.",
+            "vi": "Mitchell đang đùa: Trevor trêu bố chứ chẳng tử tế gì."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Mitchell is joking: Trevor was teasing him, not being kind.",
+          "text_translation": "Mitchell đang đùa: Trevor trêu bố chứ chẳng tử tế gì."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Chữ kindly ở đây là mỉa vui: chụp ảnh bố ngủ gật gửi cả nhà xem là để trêu."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"our son Trevor kindly took a photo for the family chat\" suggest?",
+      "question_vn": "Câu \"cậu con trai Trevor tử tế chụp một tấm ảnh gửi vào nhóm chat gia đình\" hàm ý gì?",
+      "explanation": "Câu suy luận về giọng điệu. Chữ kindly ở đây là mỉa vui: chụp ảnh bố ngủ gật gửi cả nhà xem là để trêu."
+    },
+    {
+      "id": "q_u1112_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What did Mitchell notice once he stopped using his phone in the morning?",
+        "vi": "Khi thôi dùng điện thoại buổi sáng, Mitchell để ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "new emails from students",
+            "vi": "email mới của học sinh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "new emails from students",
+          "text_translation": "email mới của học sinh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "small things around him, like birds and the morning light",
+            "vi": "những điều nhỏ quanh mình, như chim chóc và ánh sáng buổi sớm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "small things around him, like birds and the morning light",
+          "text_translation": "những điều nhỏ quanh mình, như chim chóc và ánh sáng buổi sớm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that his dog was sick",
+            "vi": "rằng con chó bị ốm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that his dog was sick",
+          "text_translation": "rằng con chó bị ốm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the lemon tree had died",
+            "vi": "rằng cây chanh đã chết"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that the lemon tree had died",
+          "text_translation": "rằng cây chanh đã chết"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"the birds in the lemon tree, the light coming slowly over the hills, the way our dog sleeps with one eye open.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Mitchell notice once he stopped using his phone in the morning?",
+      "question_vn": "Khi thôi dùng điện thoại buổi sáng, Mitchell để ý điều gì?",
+      "explanation": "\"the birds in the lemon tree, the light coming slowly over the hills, the way our dog sleeps with one eye open.\""
+    },
+    {
+      "id": "q_u1112_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Why did one student ask Mitchell, \"suspiciously\", whether he was feeling well?",
+        "vi": "Vì sao một học sinh \"nghi ngờ\" hỏi Mitchell có khoẻ không?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because Mitchell seemed much calmer than usual",
+            "vi": "vì Mitchell có vẻ bình thản hơn hẳn mọi khi"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because Mitchell seemed much calmer than usual",
+          "text_translation": "vì Mitchell có vẻ bình thản hơn hẳn mọi khi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Mitchell was late",
+            "vi": "vì Mitchell tới muộn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because Mitchell was late",
+          "text_translation": "vì Mitchell tới muộn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Mitchell looked sick",
+            "vi": "vì Mitchell trông ốm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Mitchell looked sick",
+          "text_translation": "vì Mitchell trông ốm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Mitchell forgot the lesson",
+            "vi": "vì Mitchell quên bài"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Mitchell forgot the lesson",
+          "text_translation": "vì Mitchell quên bài"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I arrived at school calmer, and my first-period students noticed\". Học sinh thấy thầy khác thường nên mới hỏi, đây cũng là một chi tiết hài hước."
+      },
+      "audio_data": null,
+      "question_jp": "Why did one student ask Mitchell, \"suspiciously\", whether he was feeling well?",
+      "question_vn": "Vì sao một học sinh \"nghi ngờ\" hỏi Mitchell có khoẻ không?",
+      "explanation": "Câu suy luận. \"I arrived at school calmer, and my first-period students noticed\". Học sinh thấy thầy khác thường nên mới hỏi, đây cũng là một chi tiết hài hước."
+    },
+    {
+      "id": "q_u1112_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Which part of the experiment did not work well?",
+        "vi": "Phần nào của thí nghiệm không suôn sẻ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Megan and Mitchell stopped talking.",
+            "vi": "Megan và Mitchell thôi nói chuyện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Megan and Mitchell stopped talking.",
+          "text_translation": "Megan và Mitchell thôi nói chuyện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The phones broke.",
+            "vi": "Điện thoại hỏng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The phones broke.",
+          "text_translation": "Điện thoại hỏng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Their teenagers refused to join, and the time outside was sometimes skipped.",
+            "vi": "Bọn trẻ tuổi teen không chịu tham gia, và đôi khi bỏ qua thời gian ngoài trời."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Their teenagers refused to join, and the time outside was sometimes skipped.",
+          "text_translation": "Bọn trẻ tuổi teen không chịu tham gia, và đôi khi bỏ qua thời gian ngoài trời."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Mitchell arrived at school tired.",
+            "vi": "Mitchell tới trường trong trạng thái mệt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Mitchell arrived at school tired.",
+          "text_translation": "Mitchell tới trường trong trạng thái mệt."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our teenagers refused to join, and on busy days the ten minutes outside were sometimes skipped.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which part of the experiment did not work well?",
+      "question_vn": "Phần nào của thí nghiệm không suôn sẻ?",
+      "explanation": "\"Our teenagers refused to join, and on busy days the ten minutes outside were sometimes skipped.\""
+    },
+    {
+      "id": "q_u1112_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What does Mitchell mean by \"it has turned the start of the day from a race into a conversation\"?",
+        "vi": "Mitchell muốn nói gì qua câu \"nó đã biến đầu ngày từ một cuộc chạy đua thành một cuộc trò chuyện\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He now runs in the morning.",
+            "vi": "Giờ anh chạy bộ buổi sáng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He now runs in the morning.",
+          "text_translation": "Giờ anh chạy bộ buổi sáng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Mornings used to be rushed, but now they are calm and shared.",
+            "vi": "Buổi sáng trước đây vội vã, giờ thì thong thả và có nhau."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Mornings used to be rushed, but now they are calm and shared.",
+          "text_translation": "Buổi sáng trước đây vội vã, giờ thì thong thả và có nhau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He talks on the phone every morning.",
+            "vi": "Sáng nào anh cũng nói chuyện điện thoại."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He talks on the phone every morning.",
+          "text_translation": "Sáng nào anh cũng nói chuyện điện thoại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He has joined a running club.",
+            "vi": "Anh vào câu lạc bộ chạy bộ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He has joined a running club.",
+          "text_translation": "Anh vào câu lạc bộ chạy bộ."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về hình ảnh ẩn dụ. A race = vội vã như chạy đua (thói quen cũ); a conversation = thời gian trò chuyện với Megan."
+      },
+      "audio_data": null,
+      "question_jp": "What does Mitchell mean by \"it has turned the start of the day from a race into a conversation\"?",
+      "question_vn": "Mitchell muốn nói gì qua câu \"nó đã biến đầu ngày từ một cuộc chạy đua thành một cuộc trò chuyện\"?",
+      "explanation": "Câu suy luận về hình ảnh ẩn dụ. A race = vội vã như chạy đua (thói quen cũ); a conversation = thời gian trò chuyện với Megan."
+    },
+    {
+      "id": "q_u1112_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Use both texts. What do the medicine trials and the slow-morning experiment have in common?",
+        "vi": "Dựa vào cả hai bài. Thử nghiệm thuốc và thí nghiệm buổi sáng chậm có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them took ten to fifteen years.",
+            "vi": "Cả hai đều mất mười tới mười lăm năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them took ten to fifteen years.",
+          "text_translation": "Cả hai đều mất mười tới mười lăm năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them used a placebo.",
+            "vi": "Cả hai đều dùng giả dược."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them used a placebo.",
+          "text_translation": "Cả hai đều dùng giả dược."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them were done in a hospital.",
+            "vi": "Cả hai đều làm ở bệnh viện."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them were done in a hospital.",
+          "text_translation": "Cả hai đều làm ở bệnh viện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them are careful not to claim that one result works for everyone.",
+            "vi": "Cả hai đều thận trọng, không khẳng định một kết quả đúng với mọi người."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both of them are careful not to claim that one result works for everyone.",
+          "text_translation": "Cả hai đều thận trọng, không khẳng định một kết quả đúng với mọi người."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Mitchell viết \"I am not claiming that it will work for everyone.\" Bài 1 cũng giải thích vì sao thuốc phải qua nhiều pha với hàng nghìn người, chứ không kết luận từ vài trường hợp."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do the medicine trials and the slow-morning experiment have in common?",
+      "question_vn": "Dựa vào cả hai bài. Thử nghiệm thuốc và thí nghiệm buổi sáng chậm có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Mitchell viết \"I am not claiming that it will work for everyone.\" Bài 1 cũng giải thích vì sao thuốc phải qua nhiều pha với hàng nghìn người, chứ không kết luận từ vài trường hợp."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1112_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 11) — Thuốc mới được thử nghiệm thế nào",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1112_01",
+      "question_ids": [
+        "q_u1112_001",
+        "q_u1112_002",
+        "q_u1112_003",
+        "q_u1112_004",
+        "q_u1112_005",
+        "q_u1112_006",
+        "q_u1112_007",
+        "q_u1112_008",
+        "q_u1112_009",
+        "q_u1112_010"
+      ]
+    },
+    {
+      "set_id": "set_u1112_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 12) — Ba mươi buổi sáng chậm của Mitchell và Megan",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1112_02",
+      "question_ids": [
+        "q_u1112_011",
+        "q_u1112_012",
+        "q_u1112_013",
+        "q_u1112_014",
+        "q_u1112_015",
+        "q_u1112_016",
+        "q_u1112_017",
+        "q_u1112_018",
+        "q_u1112_019",
+        "q_u1112_020"
+      ]
+    }
+  ]
+}
