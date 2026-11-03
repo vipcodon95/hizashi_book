@@ -1,0 +1,2034 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 6 — Education",
+      "vi": "Giáo dục"
+    },
+    "title": "Unit 6 — Education",
+    "title_vn": "Giáo dục",
+    "module_code": "58_u06",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u06",
+    "curriculum_sheets": [
+      "b1.021",
+      "b1.022",
+      "b1.023",
+      "b1.024"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Trevor Carter",
+      "Tina Carter",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "đầu tháng 11, năm 4 — Tracy học năm hai ở Washington"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Mục đích, từ trong ngữ cảnh, in time/on time, thái độ",
+    "description_vn": "Email của Tracy về năm hai đại học và bài báo học trực tuyến hay trực tiếp. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 6 khoá B1 · phiếu `b1.021` – `b1.024` (hệ thống trường học, việc quan trọng với học sinh, học trực tuyến, thi cử và áp lực)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một email và một bài báo nêu quan điểm; nắm mục đích, đoán từ qua ngữ cảnh, phân biệt in time / on time và at first / in the end, nhận ra thái độ người viết."
+    },
+    "extra_words": [
+      {
+        "word": "roommate",
+        "i18n": {
+          "vi": "bạn cùng phòng"
+        }
+      },
+      {
+        "word": "lab report",
+        "i18n": {
+          "vi": "báo cáo thí nghiệm"
+        }
+      },
+      {
+        "word": "water filter",
+        "i18n": {
+          "vi": "bộ lọc nước"
+        }
+      },
+      {
+        "word": "in person",
+        "i18n": {
+          "vi": "trực tiếp, gặp mặt"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "keep up with",
+          "vi": "theo kịp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "go over",
+          "vi": "xem lại, ôn lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "hand in",
+          "vi": "nộp (bài)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "lose concentration",
+          "vi": "mất tập trung"
+        }
+      },
+      {
+        "i18n": {
+          "en": "at your own pace",
+          "vi": "theo tốc độ của mình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on the other hand",
+          "vi": "mặt khác, ngược lại"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu hỏi mục đích email: đọc câu chào và câu kết, rồi gom các đoạn giữa xem người viết đang kể, nhờ, hay than phiền."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`in time` = kịp (trước khi việc gì xảy ra); `on time` = đúng giờ đã hẹn. `at first` = lúc đầu (sau đó thay đổi); `in the end` = cuối cùng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài nêu quan điểm thường có cấu trúc: ưu điểm → nhược điểm (`However…`) → ý kiến (`In my opinion…`). Câu hỏi thái độ nằm ở đoạn ý kiến."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi \"học sinh nào sẽ thấy khó nhất\": tìm trong đoạn NHƯỢC ĐIỂM, vì ba phương án còn lại thường lấy từ đoạn ưu điểm."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u06_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Email của Tracy từ Washington"
+      },
+      "narrator": "Tracy",
+      "title": "Subject: Sophomore Life",
+      "category": "email",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 160,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: Sophomore Life",
+            "vi": "Tiêu đề: Đời sinh viên năm hai"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi there,",
+            "vi": "Chào bạn,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Greetings from Washington, where the leaves are already red and orange!",
+            "vi": "Gửi lời chào từ Washington, nơi lá cây đã chuyển đỏ và cam!"
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My roommate and I have already bought warm boots for the first snow.",
+            "vi": "Mình với bạn cùng phòng đã mua sẵn ủng ấm để đón trận tuyết đầu tiên."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm a sophomore now, and I can hardly believe that my second academic year has already started.",
+            "vi": "Giờ mình là sinh viên năm hai rồi, và mình vẫn chưa tin nổi năm học thứ hai đã bắt đầu."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At first, the engineering curriculum felt overwhelming.",
+            "vi": "Lúc đầu, chương trình học ngành kỹ thuật làm mình choáng ngợp."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some of my lectures have three hundred students, and the professors speak so fast that it is hard for me to keep up with them.",
+            "vi": "Có những giờ giảng tới ba trăm sinh viên, và các giáo sư nói nhanh tới mức mình khó mà theo kịp."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the end, I found a solution: I record every session, and I go over my notes the same evening.",
+            "vi": "Cuối cùng mình tìm ra cách: mình ghi âm mọi buổi học và xem lại ghi chép ngay tối hôm đó."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My roommate thinks that I am crazy, but this way I never miss anything important.",
+            "vi": "Bạn cùng phòng bảo mình điên, nhưng làm vậy thì mình không bao giờ bỏ sót điều gì quan trọng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is essential for me to hand in every assignment on time, because one late lab report can lower your grade a lot.",
+            "vi": "Với mình, nộp mọi bài tập đúng hạn là điều bắt buộc, vì chỉ một bản báo cáo thí nghiệm nộp muộn cũng có thể kéo điểm xuống nhiều."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is great news, too.",
+            "vi": "Còn có tin vui nữa."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In October, I finally joined a research team that is designing a small water filter for villages without clean water.",
+            "vi": "Tháng Mười, cuối cùng mình đã vào được một nhóm nghiên cứu đang thiết kế một bộ lọc nước nhỏ cho những ngôi làng thiếu nước sạch."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The professor who leads it says that our first model works, but it still needs a lot of testing.",
+            "vi": "Giáo sư trưởng nhóm nói mẫu đầu tiên của bọn mình chạy được, nhưng còn phải thử nghiệm rất nhiều."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next semester, we are going to test it in a real village, and I might be able to go with the team.",
+            "vi": "Học kỳ sau, nhóm sẽ thử nghiệm ở một ngôi làng thật, và có thể mình sẽ được đi cùng."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The hardest part is the exams.",
+            "vi": "Phần khó nhất là thi cử."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before my first examination, my anxiety was so bad that I barely slept.",
+            "vi": "Trước kỳ thi đầu tiên, mình lo tới mức gần như không ngủ được."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now I revise a little every day instead of studying all night, and it really helps.",
+            "vi": "Giờ mình ôn mỗi ngày một ít thay vì thức trắng cả đêm, và cách đó giúp thật."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I also attend a study group every Thursday, and we explain difficult problems to one another.",
+            "vi": "Mình còn tham gia một nhóm học mỗi thứ Năm, mọi người giảng cho nhau những bài khó."
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How is Trevor's math?",
+            "vi": "Môn toán của Trevor thế nào rồi?"
+          }
+        },
+        {
+          "n": 20,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina says that you are a much stricter teacher than I was!",
+            "vi": "Tina bảo bạn là một cô giáo nghiêm hơn mình nhiều đấy!"
+          }
+        },
+        {
+          "n": 21,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'll be home in December, just in time for Harriet's winter cookies.",
+            "vi": "Tháng Mười Hai mình sẽ về, vừa kịp mẻ bánh quy mùa đông của bà Harriet."
+          }
+        },
+        {
+          "n": 22,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy",
+            "vi": "Tracy"
+          }
+        }
+      ],
+      "content_ja": "Subject: Sophomore Life\n\nHi there,\n\nGreetings from Washington, where the leaves are already red and orange! My roommate and I have already bought warm boots for the first snow. I'm a sophomore now, and I can hardly believe that my second academic year has already started.\n\nAt first, the engineering curriculum felt overwhelming. Some of my lectures have three hundred students, and the professors speak so fast that it is hard for me to keep up with them. In the end, I found a solution: I record every session, and I go over my notes the same evening. My roommate thinks that I am crazy, but this way I never miss anything important. It is essential for me to hand in every assignment on time, because one late lab report can lower your grade a lot.\n\nThere is great news, too. In October, I finally joined a research team that is designing a small water filter for villages without clean water. The professor who leads it says that our first model works, but it still needs a lot of testing. Next semester, we are going to test it in a real village, and I might be able to go with the team.\n\nThe hardest part is the exams. Before my first examination, my anxiety was so bad that I barely slept. Now I revise a little every day instead of studying all night, and it really helps. I also attend a study group every Thursday, and we explain difficult problems to one another.\n\nHow is Trevor's math? Tina says that you are a much stricter teacher than I was! I'll be home in December, just in time for Harriet's winter cookies.\n\nTracy",
+      "translation_vn": "(1) Tiêu đề: Đời sinh viên năm hai\n(2) Chào bạn,\n(3) Gửi lời chào từ Washington, nơi lá cây đã chuyển đỏ và cam!\n(4) Mình với bạn cùng phòng đã mua sẵn ủng ấm để đón trận tuyết đầu tiên.\n(5) Giờ mình là sinh viên năm hai rồi, và mình vẫn chưa tin nổi năm học thứ hai đã bắt đầu.\n(6) Lúc đầu, chương trình học ngành kỹ thuật làm mình choáng ngợp.\n(7) Có những giờ giảng tới ba trăm sinh viên, và các giáo sư nói nhanh tới mức mình khó mà theo kịp.\n(8) Cuối cùng mình tìm ra cách: mình ghi âm mọi buổi học và xem lại ghi chép ngay tối hôm đó.\n(9) Bạn cùng phòng bảo mình điên, nhưng làm vậy thì mình không bao giờ bỏ sót điều gì quan trọng.\n(10) Với mình, nộp mọi bài tập đúng hạn là điều bắt buộc, vì chỉ một bản báo cáo thí nghiệm nộp muộn cũng có thể kéo điểm xuống nhiều.\n(11) Còn có tin vui nữa.\n(12) Tháng Mười, cuối cùng mình đã vào được một nhóm nghiên cứu đang thiết kế một bộ lọc nước nhỏ cho những ngôi làng thiếu nước sạch.\n(13) Giáo sư trưởng nhóm nói mẫu đầu tiên của bọn mình chạy được, nhưng còn phải thử nghiệm rất nhiều.\n(14) Học kỳ sau, nhóm sẽ thử nghiệm ở một ngôi làng thật, và có thể mình sẽ được đi cùng.\n(15) Phần khó nhất là thi cử.\n(16) Trước kỳ thi đầu tiên, mình lo tới mức gần như không ngủ được.\n(17) Giờ mình ôn mỗi ngày một ít thay vì thức trắng cả đêm, và cách đó giúp thật.\n(18) Mình còn tham gia một nhóm học mỗi thứ Năm, mọi người giảng cho nhau những bài khó.\n(19) Môn toán của Trevor thế nào rồi?\n(20) Tina bảo bạn là một cô giáo nghiêm hơn mình nhiều đấy!\n(21) Tháng Mười Hai mình sẽ về, vừa kịp mẻ bánh quy mùa đông của bà Harriet.\n(22) Tracy",
+      "word_count": 282,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024"
+      ]
+    },
+    {
+      "id": "passage_u06_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Học trực tuyến hay học trực tiếp?"
+      },
+      "narrator": "announcer",
+      "title": "Online or in Person? Choosing How to Learn",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Online or in Person? Choosing How to Learn",
+            "vi": "Học trực tuyến hay trực tiếp? Chọn cách học cho mình"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ten years ago, most students learned in a classroom.",
+            "vi": "Mười năm trước, phần lớn học sinh học trong lớp."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today, many schools and universities offer online courses, and students can sign in from their kitchen, a café or a bus.",
+            "vi": "Ngày nay, nhiều trường phổ thông và đại học mở khoá học trực tuyến, và học sinh có thể đăng nhập từ nhà bếp, quán cà phê hay trên xe buýt."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So which way of learning is better?",
+            "vi": "Vậy cách học nào tốt hơn?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The honest answer is that it depends on the student.",
+            "vi": "Câu trả lời thành thật là: tuỳ vào người học."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Online learning has clear advantages.",
+            "vi": "Học trực tuyến có những ưu điểm rõ ràng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is accessible to people who live far from a school or who work during the day, and recorded lectures can be watched again and again.",
+            "vi": "Nó mở ra cho những người sống xa trường hoặc đi làm ban ngày, và bài giảng ghi sẵn có thể xem đi xem lại."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Students can also learn at their own pace, which suits people who need more time for difficult subjects.",
+            "vi": "Người học cũng có thể học theo tốc độ của mình, điều này hợp với những ai cần thêm thời gian cho môn khó."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Online courses are often cheaper, too, because students do not have to pay for travel or housing.",
+            "vi": "Khoá học trực tuyến thường cũng rẻ hơn, vì người học không phải trả tiền đi lại hay chỗ ở."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, learning at home needs a lot of motivation.",
+            "vi": "Tuy nhiên, học ở nhà đòi hỏi rất nhiều động lực."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Without a teacher in the room, it is easy to lose concentration and to check messages instead.",
+            "vi": "Không có giáo viên trong phòng, rất dễ mất tập trung và quay sang xem tin nhắn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some students also feel lonely, because a webcam cannot fully replace a conversation in the canteen.",
+            "vi": "Một số người học còn thấy cô đơn, vì webcam không thể thay hẳn một cuộc trò chuyện ở căng tin."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A good internet connection is also necessary, and not every family has one.",
+            "vi": "Một đường truyền internet tốt cũng là điều bắt buộc, mà không phải nhà nào cũng có."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Classroom learning, on the other hand, gives students a clear routine and quick help from teachers and classmates.",
+            "vi": "Ngược lại, học trên lớp cho người học một nếp sinh hoạt rõ ràng và sự giúp đỡ nhanh từ thầy cô, bạn bè."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Questions can be answered immediately, and group work is usually easier when everyone is in the same room.",
+            "vi": "Câu hỏi được giải đáp ngay, và làm việc nhóm thường dễ hơn khi mọi người ở cùng một phòng."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For this reason, many experts now suggest a mix of the two: lessons in person, with online materials for revision.",
+            "vi": "Vì thế, nhiều chuyên gia hiện gợi ý kết hợp cả hai: học trực tiếp, kèm tài liệu trực tuyến để ôn tập."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In my opinion, the question is not \"online or in person?\" but \"what helps you to learn best?\"",
+            "vi": "Theo tôi, câu hỏi không phải là \"trực tuyến hay trực tiếp?\" mà là \"cái gì giúp bạn học tốt nhất?\""
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before you register for a course, think about your habits honestly, and choose the one that fits your life.",
+            "vi": "Trước khi đăng ký một khoá học, hãy thành thật nghĩ về thói quen của mình, và chọn cách hợp với cuộc sống của bạn."
+          }
+        }
+      ],
+      "content_ja": "Online or in Person? Choosing How to Learn\n\nTen years ago, most students learned in a classroom. Today, many schools and universities offer online courses, and students can sign in from their kitchen, a café or a bus. So which way of learning is better? The honest answer is that it depends on the student.\n\nOnline learning has clear advantages. It is accessible to people who live far from a school or who work during the day, and recorded lectures can be watched again and again. Students can also learn at their own pace, which suits people who need more time for difficult subjects. Online courses are often cheaper, too, because students do not have to pay for travel or housing.\n\nHowever, learning at home needs a lot of motivation. Without a teacher in the room, it is easy to lose concentration and to check messages instead. Some students also feel lonely, because a webcam cannot fully replace a conversation in the canteen. A good internet connection is also necessary, and not every family has one.\n\nClassroom learning, on the other hand, gives students a clear routine and quick help from teachers and classmates. Questions can be answered immediately, and group work is usually easier when everyone is in the same room. For this reason, many experts now suggest a mix of the two: lessons in person, with online materials for revision.\n\nIn my opinion, the question is not \"online or in person?\" but \"what helps you to learn best?\" Before you register for a course, think about your habits honestly, and choose the one that fits your life.",
+      "translation_vn": "(1) Học trực tuyến hay trực tiếp? Chọn cách học cho mình\n(2) Mười năm trước, phần lớn học sinh học trong lớp.\n(3) Ngày nay, nhiều trường phổ thông và đại học mở khoá học trực tuyến, và học sinh có thể đăng nhập từ nhà bếp, quán cà phê hay trên xe buýt.\n(4) Vậy cách học nào tốt hơn?\n(5) Câu trả lời thành thật là: tuỳ vào người học.\n(6) Học trực tuyến có những ưu điểm rõ ràng.\n(7) Nó mở ra cho những người sống xa trường hoặc đi làm ban ngày, và bài giảng ghi sẵn có thể xem đi xem lại.\n(8) Người học cũng có thể học theo tốc độ của mình, điều này hợp với những ai cần thêm thời gian cho môn khó.\n(9) Khoá học trực tuyến thường cũng rẻ hơn, vì người học không phải trả tiền đi lại hay chỗ ở.\n(10) Tuy nhiên, học ở nhà đòi hỏi rất nhiều động lực.\n(11) Không có giáo viên trong phòng, rất dễ mất tập trung và quay sang xem tin nhắn.\n(12) Một số người học còn thấy cô đơn, vì webcam không thể thay hẳn một cuộc trò chuyện ở căng tin.\n(13) Một đường truyền internet tốt cũng là điều bắt buộc, mà không phải nhà nào cũng có.\n(14) Ngược lại, học trên lớp cho người học một nếp sinh hoạt rõ ràng và sự giúp đỡ nhanh từ thầy cô, bạn bè.\n(15) Câu hỏi được giải đáp ngay, và làm việc nhóm thường dễ hơn khi mọi người ở cùng một phòng.\n(16) Vì thế, nhiều chuyên gia hiện gợi ý kết hợp cả hai: học trực tiếp, kèm tài liệu trực tuyến để ôn tập.\n(17) Theo tôi, câu hỏi không phải là \"trực tuyến hay trực tiếp?\" mà là \"cái gì giúp bạn học tốt nhất?\"\n(18) Trước khi đăng ký một khoá học, hãy thành thật nghĩ về thói quen của mình, và chọn cách hợp với cuộc sống của bạn.",
+      "word_count": 269,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u06_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "What is the main purpose of Tracy's email?",
+        "vi": "Mục đích chính của email của Tracy là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to complain about her professors",
+            "vi": "để than phiền về các giáo sư"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to complain about her professors",
+          "text_translation": "để than phiền về các giáo sư"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to share news about her second year at university",
+            "vi": "để kể chuyện năm hai đại học của mình"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to share news about her second year at university",
+          "text_translation": "để kể chuyện năm hai đại học của mình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask for help with an assignment",
+            "vi": "để nhờ giúp một bài tập"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask for help with an assignment",
+          "text_translation": "để nhờ giúp một bài tập"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to describe the weather in Washington",
+            "vi": "để tả thời tiết ở Washington"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to describe the weather in Washington",
+          "text_translation": "để tả thời tiết ở Washington"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'm a sophomore now, and I can hardly believe that my second academic year has already started.\" Cả email kể chuyện học, nhóm nghiên cứu và thi cử. Thời tiết chỉ là câu chào; Tracy không than phiền hay nhờ giúp."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Tracy's email?",
+      "question_vn": "Mục đích chính của email của Tracy là gì?",
+      "explanation": "\"I'm a sophomore now, and I can hardly believe that my second academic year has already started.\" Cả email kể chuyện học, nhóm nghiên cứu và thi cử. Thời tiết chỉ là câu chào; Tracy không than phiền hay nhờ giúp."
+    },
+    {
+      "id": "q_u06_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "In \"At first, the engineering curriculum felt overwhelming\", what does \"overwhelming\" mean?",
+        "vi": "Trong câu \"At first, the engineering curriculum felt overwhelming\", \"overwhelming\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "boring and easy",
+            "vi": "nhàm chán và dễ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "boring and easy",
+          "text_translation": "nhàm chán và dễ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "cheap",
+            "vi": "rẻ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "cheap",
+          "text_translation": "rẻ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "too much to deal with",
+            "vi": "quá sức, choáng ngợp"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "too much to deal with",
+          "text_translation": "quá sức, choáng ngợp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "very short",
+            "vi": "rất ngắn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "very short",
+          "text_translation": "rất ngắn"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"At first, the engineering curriculum felt overwhelming.\" Câu sau giải thích: lớp 300 người, giáo sư nói nhanh, khó theo kịp, nên overwhelming = quá nhiều, quá sức."
+      },
+      "audio_data": null,
+      "question_jp": "In \"At first, the engineering curriculum felt overwhelming\", what does \"overwhelming\" mean?",
+      "question_vn": "Trong câu \"At first, the engineering curriculum felt overwhelming\", \"overwhelming\" nghĩa là gì?",
+      "explanation": "\"At first, the engineering curriculum felt overwhelming.\" Câu sau giải thích: lớp 300 người, giáo sư nói nhanh, khó theo kịp, nên overwhelming = quá nhiều, quá sức."
+    },
+    {
+      "id": "q_u06_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "How does Tracy deal with fast lectures now?",
+        "vi": "Giờ Tracy xử lý các giờ giảng nhanh thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She asks the professors to speak slowly.",
+            "vi": "Cô xin giáo sư nói chậm lại."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She asks the professors to speak slowly.",
+          "text_translation": "Cô xin giáo sư nói chậm lại."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She stopped going to lectures.",
+            "vi": "Cô thôi đi học."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She stopped going to lectures.",
+          "text_translation": "Cô thôi đi học."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She studies all night before exams.",
+            "vi": "Cô thức trắng đêm trước kỳ thi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She studies all night before exams.",
+          "text_translation": "Cô thức trắng đêm trước kỳ thi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She records every session and goes over her notes the same evening.",
+            "vi": "Cô ghi âm mọi buổi học và xem lại ghi chép ngay tối đó."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She records every session and goes over her notes the same evening.",
+          "text_translation": "Cô ghi âm mọi buổi học và xem lại ghi chép ngay tối đó."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"In the end, I found a solution: I record every session, and I go over my notes the same evening.\" Thức trắng đêm là cách cũ trước kỳ thi, Tracy đã bỏ."
+      },
+      "audio_data": null,
+      "question_jp": "How does Tracy deal with fast lectures now?",
+      "question_vn": "Giờ Tracy xử lý các giờ giảng nhanh thế nào?",
+      "explanation": "\"In the end, I found a solution: I record every session, and I go over my notes the same evening.\" Thức trắng đêm là cách cũ trước kỳ thi, Tracy đã bỏ."
+    },
+    {
+      "id": "q_u06_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Why is it essential for Tracy to hand in every assignment on time?",
+        "vi": "Vì sao với Tracy, nộp bài đúng hạn là điều bắt buộc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "One late lab report can lower her grade a lot.",
+            "vi": "Vì chỉ một báo cáo thí nghiệm nộp muộn cũng có thể kéo điểm xuống nhiều."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "One late lab report can lower her grade a lot.",
+          "text_translation": "Vì chỉ một báo cáo thí nghiệm nộp muộn cũng có thể kéo điểm xuống nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Her professors do not read late work.",
+            "vi": "Vì giáo sư không đọc bài nộp muộn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Her professors do not read late work.",
+          "text_translation": "Vì giáo sư không đọc bài nộp muộn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wants to win a prize.",
+            "vi": "Vì cô muốn giành giải."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wants to win a prize.",
+          "text_translation": "Vì cô muốn giành giải."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her research team needs the reports.",
+            "vi": "Vì nhóm nghiên cứu cần các báo cáo."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her research team needs the reports.",
+          "text_translation": "Vì nhóm nghiên cứu cần các báo cáo."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"It is essential for me to hand in every assignment on time, because one late lab report can lower your grade a lot.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why is it essential for Tracy to hand in every assignment on time?",
+      "question_vn": "Vì sao với Tracy, nộp bài đúng hạn là điều bắt buộc?",
+      "explanation": "\"It is essential for me to hand in every assignment on time, because one late lab report can lower your grade a lot.\""
+    },
+    {
+      "id": "q_u06_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "In \"The professor who leads it says that our first model works\", what does \"it\" refer to?",
+        "vi": "Trong câu \"The professor who leads it…\", \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the water filter",
+            "vi": "bộ lọc nước"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the water filter",
+          "text_translation": "bộ lọc nước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the village",
+            "vi": "ngôi làng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the village",
+          "text_translation": "ngôi làng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the research team",
+            "vi": "nhóm nghiên cứu"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the research team",
+          "text_translation": "nhóm nghiên cứu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the lecture",
+            "vi": "giờ giảng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the lecture",
+          "text_translation": "giờ giảng"
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I finally joined a research team that is designing a small water filter…\" rồi \"The professor who leads it\". Người ta dẫn dắt (lead) một nhóm, không dẫn dắt một bộ lọc."
+      },
+      "audio_data": null,
+      "question_jp": "In \"The professor who leads it says that our first model works\", what does \"it\" refer to?",
+      "question_vn": "Trong câu \"The professor who leads it…\", \"it\" chỉ cái gì?",
+      "explanation": "\"I finally joined a research team that is designing a small water filter…\" rồi \"The professor who leads it\". Người ta dẫn dắt (lead) một nhóm, không dẫn dắt một bộ lọc."
+    },
+    {
+      "id": "q_u06_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "What is Tracy's research team working on?",
+        "vi": "Nhóm nghiên cứu của Tracy đang làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a faster way to record lectures",
+            "vi": "một cách ghi âm bài giảng nhanh hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a faster way to record lectures",
+          "text_translation": "một cách ghi âm bài giảng nhanh hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a small water filter for villages without clean water",
+            "vi": "một bộ lọc nước nhỏ cho làng thiếu nước sạch"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a small water filter for villages without clean water",
+          "text_translation": "một bộ lọc nước nhỏ cho làng thiếu nước sạch"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a new exam for engineering students",
+            "vi": "một bài thi mới cho sinh viên kỹ thuật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a new exam for engineering students",
+          "text_translation": "một bài thi mới cho sinh viên kỹ thuật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a new kind of winter cookie",
+            "vi": "một loại bánh quy mùa đông mới"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a new kind of winter cookie",
+          "text_translation": "một loại bánh quy mùa đông mới"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"a research team that is designing a small water filter for villages without clean water.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Tracy's research team working on?",
+      "question_vn": "Nhóm nghiên cứu của Tracy đang làm gì?",
+      "explanation": "\"a research team that is designing a small water filter for villages without clean water.\""
+    },
+    {
+      "id": "q_u06_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "What can we guess about Tracy from \"Now I revise a little every day instead of studying all night\"?",
+        "vi": "Từ câu \"Now I revise a little every day instead of studying all night\", ta đoán được gì về Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She has stopped caring about exams.",
+            "vi": "Cô không còn quan tâm tới thi cử."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She has stopped caring about exams.",
+          "text_translation": "Cô không còn quan tâm tới thi cử."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She studies less than before.",
+            "vi": "Cô học ít hơn trước."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She studies less than before.",
+          "text_translation": "Cô học ít hơn trước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She learned a better way to prepare from her bad experience.",
+            "vi": "Cô rút ra cách ôn tốt hơn từ trải nghiệm không vui."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She learned a better way to prepare from her bad experience.",
+          "text_translation": "Cô rút ra cách ôn tốt hơn từ trải nghiệm không vui."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She failed her first examination.",
+            "vi": "Cô trượt kỳ thi đầu tiên."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She failed her first examination.",
+          "text_translation": "Cô trượt kỳ thi đầu tiên."
+        }
+      ],
+      "evidence_segments": [
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Before my first examination, my anxiety was so bad that I barely slept.\" Sau trải nghiệm đó Tracy đổi cách ôn, và \"it really helps\". Bài không nói cô trượt hay học ít đi."
+      },
+      "audio_data": null,
+      "question_jp": "What can we guess about Tracy from \"Now I revise a little every day instead of studying all night\"?",
+      "question_vn": "Từ câu \"Now I revise a little every day instead of studying all night\", ta đoán được gì về Tracy?",
+      "explanation": "Câu suy luận. \"Before my first examination, my anxiety was so bad that I barely slept.\" Sau trải nghiệm đó Tracy đổi cách ôn, và \"it really helps\". Bài không nói cô trượt hay học ít đi."
+    },
+    {
+      "id": "q_u06_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Who is now helping Trevor with math?",
+        "vi": "Giờ ai đang kèm Trevor học toán?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy, by video call",
+            "vi": "Tracy, qua gọi video"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy, by video call",
+          "text_translation": "Tracy, qua gọi video"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tina",
+          "text_translation": "Tina"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "one of Tracy's professors",
+            "vi": "một giáo sư của Tracy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "one of Tracy's professors",
+          "text_translation": "một giáo sư của Tracy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the person who receives this email",
+            "vi": "chính người nhận email này"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the person who receives this email",
+          "text_translation": "chính người nhận email này"
+        }
+      ],
+      "evidence_segments": [
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"How is Trevor's math?\" rồi \"Tina says that you are a much stricter teacher than I was!\" \"you\" chính là người nhận email."
+      },
+      "audio_data": null,
+      "question_jp": "Who is now helping Trevor with math?",
+      "question_vn": "Giờ ai đang kèm Trevor học toán?",
+      "explanation": "Câu suy luận. \"How is Trevor's math?\" rồi \"Tina says that you are a much stricter teacher than I was!\" \"you\" chính là người nhận email."
+    },
+    {
+      "id": "q_u06_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "In \"just in time for Harriet's winter cookies\", what does \"in time\" mean?",
+        "vi": "Trong \"just in time for Harriet's winter cookies\", \"in time\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "early enough for something",
+            "vi": "kịp lúc, đủ sớm cho việc gì"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "early enough for something",
+          "text_translation": "kịp lúc, đủ sớm cho việc gì"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "exactly at the planned hour",
+            "vi": "đúng giờ đã định"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "exactly at the planned hour",
+          "text_translation": "đúng giờ đã định"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "too late",
+            "vi": "quá muộn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "too late",
+          "text_translation": "quá muộn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "for a long time",
+            "vi": "trong thời gian dài"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "for a long time",
+          "text_translation": "trong thời gian dài"
+        }
+      ],
+      "evidence_segments": [
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'll be home in December, just in time for Harriet's winter cookies.\" in time = kịp (trước khi việc gì đó xảy ra), khác on time = đúng giờ đã hẹn."
+      },
+      "audio_data": null,
+      "question_jp": "In \"just in time for Harriet's winter cookies\", what does \"in time\" mean?",
+      "question_vn": "Trong \"just in time for Harriet's winter cookies\", \"in time\" nghĩa là gì?",
+      "explanation": "\"I'll be home in December, just in time for Harriet's winter cookies.\" in time = kịp (trước khi việc gì đó xảy ra), khác on time = đúng giờ đã hẹn."
+    },
+    {
+      "id": "q_u06_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Which of these is NOT true about Tracy?",
+        "vi": "Điều nào KHÔNG đúng về Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is in her second year.",
+            "vi": "Cô đang học năm hai."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is in her second year.",
+          "text_translation": "Cô đang học năm hai."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She joined a research team in October.",
+            "vi": "Cô vào nhóm nghiên cứu hồi tháng Mười."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She joined a research team in October.",
+          "text_translation": "Cô vào nhóm nghiên cứu hồi tháng Mười."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She will come home in December.",
+            "vi": "Tháng Mười Hai cô sẽ về nhà."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She will come home in December.",
+          "text_translation": "Tháng Mười Hai cô sẽ về nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her lectures all have fewer than fifty students.",
+            "vi": "Lớp nào của cô cũng dưới năm mươi sinh viên."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Her lectures all have fewer than fifty students.",
+          "text_translation": "Lớp nào của cô cũng dưới năm mươi sinh viên."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Some of my lectures have three hundred students\". Có lớp tới 300 người, nên D sai. Ba ý còn lại đều có trong email."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT true about Tracy?",
+      "question_vn": "Điều nào KHÔNG đúng về Tracy?",
+      "explanation": "\"Some of my lectures have three hundred students\". Có lớp tới 300 người, nên D sai. Ba ý còn lại đều có trong email."
+    },
+    {
+      "id": "q_u06_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Online learning is always better.",
+            "vi": "Học trực tuyến lúc nào cũng tốt hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Online learning is always better.",
+          "text_translation": "Học trực tuyến lúc nào cũng tốt hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The best way to learn depends on the student.",
+            "vi": "Cách học tốt nhất tuỳ vào người học."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The best way to learn depends on the student.",
+          "text_translation": "Cách học tốt nhất tuỳ vào người học."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Schools should stop online courses.",
+            "vi": "Trường học nên ngừng các khoá trực tuyến."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Schools should stop online courses.",
+          "text_translation": "Trường học nên ngừng các khoá trực tuyến."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Students should study in cafés.",
+            "vi": "Học sinh nên học ở quán cà phê."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Students should study in cafés.",
+          "text_translation": "Học sinh nên học ở quán cà phê."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"The honest answer is that it depends on the student.\" Đoạn cuối nhắc lại: \"what helps you to learn best?\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"The honest answer is that it depends on the student.\" Đoạn cuối nhắc lại: \"what helps you to learn best?\"."
+    },
+    {
+      "id": "q_u06_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "Which is an advantage of online learning in the article?",
+        "vi": "Theo bài báo, đâu là một ưu điểm của học trực tuyến?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Students can watch recorded lectures again and again.",
+            "vi": "Có thể xem lại bài giảng ghi sẵn nhiều lần."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Students can watch recorded lectures again and again.",
+          "text_translation": "Có thể xem lại bài giảng ghi sẵn nhiều lần."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Students never feel lonely.",
+            "vi": "Người học không bao giờ thấy cô đơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Students never feel lonely.",
+          "text_translation": "Người học không bao giờ thấy cô đơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It needs no motivation.",
+            "vi": "Không cần động lực."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It needs no motivation.",
+          "text_translation": "Không cần động lực."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Teachers can help very quickly in the room.",
+            "vi": "Giáo viên giúp rất nhanh ngay trong phòng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Teachers can help very quickly in the room.",
+          "text_translation": "Giáo viên giúp rất nhanh ngay trong phòng."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"recorded lectures can be watched again and again.\" Cô đơn và cần động lực là nhược điểm; giúp nhanh ngay trong phòng là ưu điểm của học trên lớp."
+      },
+      "audio_data": null,
+      "question_jp": "Which is an advantage of online learning in the article?",
+      "question_vn": "Theo bài báo, đâu là một ưu điểm của học trực tuyến?",
+      "explanation": "\"recorded lectures can be watched again and again.\" Cô đơn và cần động lực là nhược điểm; giúp nhanh ngay trong phòng là ưu điểm của học trên lớp."
+    },
+    {
+      "id": "q_u06_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "In \"It is accessible to people who live far from a school\", what does \"accessible\" mean?",
+        "vi": "Trong câu \"It is accessible to people who live far from a school\", \"accessible\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "expensive",
+            "vi": "đắt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "expensive",
+          "text_translation": "đắt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "dangerous",
+            "vi": "nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "dangerous",
+          "text_translation": "nguy hiểm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "easy to reach or use",
+            "vi": "dễ tiếp cận, dễ dùng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "easy to reach or use",
+          "text_translation": "dễ tiếp cận, dễ dùng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "difficult to understand",
+            "vi": "khó hiểu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "difficult to understand",
+          "text_translation": "khó hiểu"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"It is accessible to people who live far from a school or who work during the day\". Người ở xa hoặc đi làm ban ngày vẫn học được, nên accessible = dễ tiếp cận."
+      },
+      "audio_data": null,
+      "question_jp": "In \"It is accessible to people who live far from a school\", what does \"accessible\" mean?",
+      "question_vn": "Trong câu \"It is accessible to people who live far from a school\", \"accessible\" nghĩa là gì?",
+      "explanation": "\"It is accessible to people who live far from a school or who work during the day\". Người ở xa hoặc đi làm ban ngày vẫn học được, nên accessible = dễ tiếp cận."
+    },
+    {
+      "id": "q_u06_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "Why do some online students feel lonely?",
+        "vi": "Vì sao một số người học trực tuyến thấy cô đơn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Their courses are too difficult.",
+            "vi": "Vì khoá học quá khó."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Their courses are too difficult.",
+          "text_translation": "Vì khoá học quá khó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They study in the canteen.",
+            "vi": "Vì họ học ở căng tin."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They study in the canteen.",
+          "text_translation": "Vì họ học ở căng tin."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have too many classmates.",
+            "vi": "Vì họ có quá nhiều bạn học."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have too many classmates.",
+          "text_translation": "Vì họ có quá nhiều bạn học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A webcam cannot fully replace a real conversation.",
+            "vi": "Vì webcam không thể thay hẳn một cuộc trò chuyện thật."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A webcam cannot fully replace a real conversation.",
+          "text_translation": "Vì webcam không thể thay hẳn một cuộc trò chuyện thật."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Some students also feel lonely, because a webcam cannot fully replace a conversation in the canteen.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why do some online students feel lonely?",
+      "question_vn": "Vì sao một số người học trực tuyến thấy cô đơn?",
+      "explanation": "\"Some students also feel lonely, because a webcam cannot fully replace a conversation in the canteen.\""
+    },
+    {
+      "id": "q_u06_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "In \"choose the one that fits your life\", what does \"the one\" refer to?",
+        "vi": "Trong câu \"choose the one that fits your life\", \"the one\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the way of learning",
+            "vi": "cách học"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the way of learning",
+          "text_translation": "cách học"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the teacher",
+            "vi": "giáo viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the teacher",
+          "text_translation": "giáo viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the webcam",
+            "vi": "chiếc webcam"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the webcam",
+          "text_translation": "chiếc webcam"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the canteen",
+            "vi": "căng tin"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the canteen",
+          "text_translation": "căng tin"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"Before you register for a course, think about your habits honestly, and choose the one that fits your life.\" Cả bài so sánh hai cách học, nên \"the one\" là cách học hợp với bạn."
+      },
+      "audio_data": null,
+      "question_jp": "In \"choose the one that fits your life\", what does \"the one\" refer to?",
+      "question_vn": "Trong câu \"choose the one that fits your life\", \"the one\" chỉ cái gì?",
+      "explanation": "\"Before you register for a course, think about your habits honestly, and choose the one that fits your life.\" Cả bài so sánh hai cách học, nên \"the one\" là cách học hợp với bạn."
+    },
+    {
+      "id": "q_u06_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "What do many experts now suggest?",
+        "vi": "Nhiều chuyên gia hiện gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "only online courses",
+            "vi": "chỉ học trực tuyến"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "only online courses",
+          "text_translation": "chỉ học trực tuyến"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a mix of lessons in person and online materials",
+            "vi": "kết hợp học trực tiếp với tài liệu trực tuyến"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a mix of lessons in person and online materials",
+          "text_translation": "kết hợp học trực tiếp với tài liệu trực tuyến"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "more lectures with three hundred students",
+            "vi": "nhiều giờ giảng ba trăm người hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "more lectures with three hundred students",
+          "text_translation": "nhiều giờ giảng ba trăm người hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "no homework at all",
+            "vi": "không giao bài tập nữa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "no homework at all",
+          "text_translation": "không giao bài tập nữa"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"many experts now suggest a mix of the two: lessons in person, with online materials for revision.\""
+      },
+      "audio_data": null,
+      "question_jp": "What do many experts now suggest?",
+      "question_vn": "Nhiều chuyên gia hiện gợi ý điều gì?",
+      "explanation": "\"many experts now suggest a mix of the two: lessons in person, with online materials for revision.\""
+    },
+    {
+      "id": "q_u06_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "Which student would probably find online learning MOST difficult?",
+        "vi": "Học sinh nào nhiều khả năng thấy học trực tuyến KHÓ nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a student who lives far from any school",
+            "vi": "người sống xa mọi trường học"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a student who lives far from any school",
+          "text_translation": "người sống xa mọi trường học"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a student who works during the day",
+            "vi": "người đi làm ban ngày"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a student who works during the day",
+          "text_translation": "người đi làm ban ngày"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a student who easily loses concentration at home",
+            "vi": "người ở nhà rất dễ mất tập trung"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a student who easily loses concentration at home",
+          "text_translation": "người ở nhà rất dễ mất tập trung"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a student who likes to watch lectures again",
+            "vi": "người thích xem lại bài giảng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a student who likes to watch lectures again",
+          "text_translation": "người thích xem lại bài giảng"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Without a teacher in the room, it is easy to lose concentration and to check messages instead.\" Ba người kia lại chính là những người được lợi từ học trực tuyến."
+      },
+      "audio_data": null,
+      "question_jp": "Which student would probably find online learning MOST difficult?",
+      "question_vn": "Học sinh nào nhiều khả năng thấy học trực tuyến KHÓ nhất?",
+      "explanation": "Câu suy luận. \"Without a teacher in the room, it is easy to lose concentration and to check messages instead.\" Ba người kia lại chính là những người được lợi từ học trực tuyến."
+    },
+    {
+      "id": "q_u06_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "What is the writer's attitude in the last paragraph?",
+        "vi": "Thái độ của người viết ở đoạn cuối là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "angry about online courses",
+            "vi": "bực bội với các khoá trực tuyến"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "angry about online courses",
+          "text_translation": "bực bội với các khoá trực tuyến"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "sure that classrooms will disappear",
+            "vi": "chắc rằng lớp học sẽ biến mất"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "sure that classrooms will disappear",
+          "text_translation": "chắc rằng lớp học sẽ biến mất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "worried about cafés",
+            "vi": "lo lắng về quán cà phê"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "worried about cafés",
+          "text_translation": "lo lắng về quán cà phê"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "balanced and practical",
+            "vi": "cân bằng và thực tế"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "balanced and practical",
+          "text_translation": "cân bằng và thực tế"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"In my opinion, the question is not \"online or in person?\" but \"what helps you to learn best?\"\" Người viết không thiên về bên nào, chỉ khuyên chọn thực tế."
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's attitude in the last paragraph?",
+      "question_vn": "Thái độ của người viết ở đoạn cuối là gì?",
+      "explanation": "\"In my opinion, the question is not \"online or in person?\" but \"what helps you to learn best?\"\" Người viết không thiên về bên nào, chỉ khuyên chọn thực tế."
+    },
+    {
+      "id": "q_u06_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "Which is NOT mentioned in the article as a place where students can sign in?",
+        "vi": "Nơi nào KHÔNG được nhắc trong bài như chỗ người học có thể đăng nhập?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a library",
+            "vi": "thư viện"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a library",
+          "text_translation": "thư viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a kitchen",
+            "vi": "nhà bếp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a kitchen",
+          "text_translation": "nhà bếp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a café",
+            "vi": "quán cà phê"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a café",
+          "text_translation": "quán cà phê"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a bus",
+            "vi": "xe buýt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a bus",
+          "text_translation": "xe buýt"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"students can sign in from their kitchen, a café or a bus.\" Bài không nhắc thư viện."
+      },
+      "audio_data": null,
+      "question_jp": "Which is NOT mentioned in the article as a place where students can sign in?",
+      "question_vn": "Nơi nào KHÔNG được nhắc trong bài như chỗ người học có thể đăng nhập?",
+      "explanation": "\"students can sign in from their kitchen, a café or a bus.\" Bài không nhắc thư viện."
+    },
+    {
+      "id": "q_u06_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "Use both texts. Which idea from the article does Tracy already use?",
+        "vi": "Dựa vào cả hai bài. Tracy đã áp dụng ý nào trong bài báo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She studies only online.",
+            "vi": "Cô chỉ học trực tuyến."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She studies only online.",
+          "text_translation": "Cô chỉ học trực tuyến."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She goes to lectures in person and uses recordings for revision.",
+            "vi": "Cô đi học trực tiếp và dùng bản ghi âm để ôn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She goes to lectures in person and uses recordings for revision.",
+          "text_translation": "Cô đi học trực tiếp và dùng bản ghi âm để ôn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She studies in a café every day.",
+            "vi": "Ngày nào cô cũng học ở quán cà phê."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She studies in a café every day.",
+          "text_translation": "Ngày nào cô cũng học ở quán cà phê."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She stopped going to lectures with three hundred students.",
+            "vi": "Cô thôi đi những giờ giảng ba trăm người."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She stopped going to lectures with three hundred students.",
+          "text_translation": "Cô thôi đi những giờ giảng ba trăm người."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài báo gợi ý \"many experts now suggest a mix of the two: lessons in person, with online materials for revision.\" Tracy vẫn đi giảng đường và \"I record every session, and I go over my notes the same evening\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which idea from the article does Tracy already use?",
+      "question_vn": "Dựa vào cả hai bài. Tracy đã áp dụng ý nào trong bài báo?",
+      "explanation": "Câu nối hai bài. Bài báo gợi ý \"many experts now suggest a mix of the two: lessons in person, with online materials for revision.\" Tracy vẫn đi giảng đường và \"I record every session, and I go over my notes the same evening\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u06_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Email của Tracy từ Washington",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u06_01",
+      "question_ids": [
+        "q_u06_001",
+        "q_u06_002",
+        "q_u06_003",
+        "q_u06_004",
+        "q_u06_005",
+        "q_u06_006",
+        "q_u06_007",
+        "q_u06_008",
+        "q_u06_009",
+        "q_u06_010"
+      ]
+    },
+    {
+      "set_id": "set_u06_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Học trực tuyến hay học trực tiếp?",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u06_02",
+      "question_ids": [
+        "q_u06_011",
+        "q_u06_012",
+        "q_u06_013",
+        "q_u06_014",
+        "q_u06_015",
+        "q_u06_016",
+        "q_u06_017",
+        "q_u06_018",
+        "q_u06_019",
+        "q_u06_020"
+      ]
+    }
+  ]
+}
