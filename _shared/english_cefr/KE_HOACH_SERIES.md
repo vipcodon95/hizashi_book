@@ -177,6 +177,7 @@ Khoá cũ (`question_jp`, `question_vn`, `text`, `text_translation`, `explanatio
   - từ ngoài phạm vi có chú nghĩa: tới khoảng 8 từ mỗi chương;
   - độ phủ từ của unit chỉ để tham khảo, không bắt buộc ≥ 50%;
   - ưu tiên văn tự nhiên.
+- **Vốn từ máy soát** = từ khoá học cộng dồn + từ thông dụng CEFR-J **tới hết cấp hiện tại**. Script chỉ báo từ vượt cấp.
 - **Vẫn giữ:** không dùng ngữ pháp của cấp SAU (script cảnh báo); đúng dàn nhân vật; vùng cấm.
 - **Độ dài và độ khó tăng liên tục qua các cuốn:**
 

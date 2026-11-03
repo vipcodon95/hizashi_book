@@ -12,7 +12,7 @@ Soát gì:
 
 Theo khoá (--sheet hoặc tự lấy từ JSON):
 - VỐN TỪ tới phiếu X = mọi từ + grammar_words + collocations + phrasal của các phiếu từ a1.01 tới X
-  (cộng dồn, _shared/en_curriculum/), + từ CEFR-J của các cấp DƯỚI cấp hiện tại.
+  (cộng dồn, _shared/en_curriculum/), + từ CEFR-J tới HẾT cấp hiện tại (sách ôn — KE_HOACH mục 7b).
 - Từ đã chú nghĩa trong `lesson.extra_words` của JSON được chấp nhận (liệt kê riêng).
 - NGOÀI PHẠM VI: từ không có trong vốn từ → thay, hoặc thêm vào lesson.extra_words kèm nghĩa.
 - ⚠️ NGỮ PHÁP CHƯA HỌC: cấu trúc mà khoá dạy ở phiếu SAU X (quá khứ, will, tiếp diễn, so sánh…).
@@ -50,6 +50,7 @@ IRREG = {
     "found": "find", "kept": "keep", "slept": "sleep", "spoke": "speak", "spoken": "speak",
     "drank": "drink", "drove": "drive", "flew": "fly", "swam": "swim", "sang": "sing", "won": "win",
     "lost": "lose", "paid": "pay", "sent": "send", "spent": "spend", "brought": "bring", "caught": "catch",
+    "ate": "eat", "became": "become", "began": "begin", "begun": "begin", "bent": "bend", "bit": "bite", "bitten": "bite", "bought": "buy", "bound": "bind", "bred": "breed", "broke": "break", "broken": "break", "brought": "bring", "built": "build", "burnt": "burn", "came": "come", "caught": "catch", "chose": "choose", "chosen": "choose", "dealt": "deal", "drank": "drink", "drawn": "draw", "dreamt": "dream", "drew": "draw", "driven": "drive", "drove": "drive", "drunk": "drink", "dug": "dig", "eaten": "eat", "fallen": "fall", "fed": "feed", "fell": "fall", "felt": "feel", "fled": "flee", "flew": "fly", "flown": "fly", "flung": "fling", "forgave": "forgive", "forgiven": "forgive", "forgot": "forget", "forgotten": "forget", "fought": "fight", "found": "find", "froze": "freeze", "frozen": "freeze", "gave": "give", "given": "give", "gone": "go", "got": "get", "gotten": "get", "grew": "grow", "grown": "grow", "heard": "hear", "held": "hold", "hid": "hide", "hidden": "hide", "hit": "hit", "hung": "hang", "hurt": "hurt", "kept": "keep", "knelt": "kneel", "knew": "know", "known": "know", "laid": "lay", "lain": "lie", "lay": "lie", "leapt": "leap", "learnt": "learn", "led": "lead", "left": "leave", "lent": "lend", "lit": "light", "lost": "lose", "made": "make", "meant": "mean", "met": "meet", "mistook": "mistake", "overslept": "oversleep", "paid": "pay", "put": "put", "quit": "quit", "ran": "run", "rang": "ring", "read": "read", "ridden": "ride", "risen": "rise", "rode": "ride", "rose": "rise", "rung": "ring", "said": "say", "sang": "sing", "sank": "sink", "sat": "sit", "saw": "see", "seen": "see", "sent": "send", "set": "set", "shook": "shake", "shot": "shoot", "shown": "show", "shut": "shut", "slept": "sleep", "slid": "slide", "smelt": "smell", "sold": "sell", "sought": "seek", "sped": "speed", "spelt": "spell", "spent": "spend", "spilt": "spill", "split": "split", "spoilt": "spoil", "spoke": "speak", "spoken": "speak", "spread": "spread", "stole": "steal", "stolen": "steal", "stood": "stand", "struck": "strike", "stuck": "stick", "sung": "sing", "sunk": "sink", "swam": "swim", "swept": "sweep", "swum": "swim", "swung": "swing", "taken": "take", "taught": "teach", "thought": "think", "threw": "throw", "thrown": "throw", "told": "tell", "took": "take", "tore": "tear", "torn": "tear", "understood": "understand", "went": "go", "wept": "weep", "withdrew": "withdraw", "woke": "wake", "woken": "wake", "won": "win", "wore": "wear", "worn": "wear", "wound": "wind", "written": "write", "wrote": "write", 
     "lives": "live", "wives": "wife", "knives": "knife", "i'm": "i", "it's": "it", "don't": "do",
     "doesn't": "do", "can't": "can", "i've": "i", "you're": "you", "we're": "we", "they're": "they",
     "he's": "he", "she's": "she", "that's": "that", "let's": "let", "isn't": "be", "aren't": "be",
@@ -191,7 +192,9 @@ def main() -> int:
             for g in s["grammar_words"] + s.get("collocations", []) + s.get("phrasal", []):
                 known.update(tokens_of(g))
         lvl = sheet.split(".")[0].upper()
-        known |= {w for w, l in lv.items() if ORDER.index(l) < ORDER.index(lvl)}
+        # SÁCH ÔN (KE_HOACH mục 7b): học viên đã học khá nhiều → tính cả từ thông dụng CEFR-J của CHÍNH cấp này.
+        # Script chỉ còn báo từ VƯỢT cấp. Ngữ pháp chưa học vẫn cảnh báo theo phiếu.
+        known |= {w for w, l in lv.items() if ORDER.index(l) <= ORDER.index(lvl)}
         cur = order[idx]
         unit_words = {w["word"].lower() for s in order if s["id"] in cur["_unit_ids"]
                       and cur["_unit_ids"].index(s["id"]) <= cur["_unit_ids"].index(sheet) for w in s["words"]}

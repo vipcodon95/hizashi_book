@@ -25,8 +25,10 @@ CAST = set(("Mitchell Megan Tracy Trevor Tina Biscuit Carter Carters Harriet Nat
             "March April May June July August September October November December").split())
 FORBIDDEN = r"\b(communis\w*|fascis\w*|nazi\w*|dictator\w*|capitalis\w*|socialis\w*|marxis\w*|totalitarian\w*|" \
             r"election\w*|vote[sd]?|voting|president|politic\w*|parliament\w*|congress\w*|senat\w*|democrat\w*|" \
-            r"republican\w*|war|wars|army|armies|soldier\w*|weapon\w*|bomb\w*|religio\w*|church\w*|mosque\w*|" \
-            r"temple\w*|god|gods|bible|quran)\b"
+            r"republican\w*|war|wars|army|armies|soldier\w*|weapon\w*|bomb\w*|religio\w*|god|gods|bible|quran)\b"
+# Nơi chốn tôn giáo (từ khoá học có dạy, vd a2.14 "mosque"): KHÔNG chặn, chỉ cảnh báo để đọc lại ngữ cảnh —
+# vùng cấm là TRANH LUẬN tôn giáo, không phải nhắc tới một toà nhà như một địa điểm.
+SOFT = r"\b(church\w*|mosque\w*|temple\w*|cathedral\w*|pray\w*)\b"
 NUM = {w: i for i, w in enumerate("zero one two three four five six seven eight nine ten eleven twelve thirteen "
                                   "fourteen fifteen sixteen seventeen eighteen nineteen twenty".split())}
 NUM.update({"thirty": 30, "forty": 40, "fifty": 50, "sixty": 60, "seventy": 70, "eighty": 80, "ninety": 90})
@@ -92,6 +94,9 @@ def main(folder: Path) -> int:
     alltxt = "\n".join(texts)
     hits = sorted(set(m.group(0).lower() for m in re.finditer(FORBIDDEN, alltxt, re.I)))
     print(f"[vùng cấm] {hits or '—'}")
+    soft = sorted(set(m.group(0).lower() for m in re.finditer(SOFT, alltxt, re.I)))
+    if soft:
+        print(f"[⚠️ nơi chốn tôn giáo — đọc lại ngữ cảnh, chỉ được là địa điểm] {soft}")
     if hits:
         bad.append(f"từ khoá vùng cấm: {hits}")
 
