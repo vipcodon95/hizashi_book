@@ -1,0 +1,2056 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 1–2 — Identity & Family dynamics",
+      "vi": "Bản sắc & Quan hệ gia đình"
+    },
+    "title": "Units 1–2 — Identity & Family dynamics",
+    "title_vn": "Bản sắc & Quan hệ gia đình",
+    "module_code": "59_u0102",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u01+u02",
+    "curriculum_sheets": [
+      "b2.001",
+      "b2.002",
+      "b2.003",
+      "b2.004",
+      "b2.005",
+      "b2.006",
+      "b2.007",
+      "b2.008"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Mitchell Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 1, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "whose, động từ tường thuật, chức năng ví dụ, thái độ",
+    "description_vn": "Bản nháp bài luận xin vào đại học của Trevor kèm ghi chú của bố, và bài khoa học về thứ tự sinh và tính cách. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 1 + Unit 2 khoá B2 · phiếu `b2.001` – `b2.008` (con người tôi, ấn tượng đầu, con người tôi đã trở thành, nhãn dán và khuôn mẫu; các thế hệ, quan hệ anh chị em, cách nuôi dạy con, mâu thuẫn gia đình)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài luận cá nhân kèm ghi chú góp ý và một bài khoa học phổ thông; hiểu `whose`, động từ tường thuật (admit, claim, promise), giới từ + whom, bị động của cụm động từ (be talked about), nhận ra chức năng của một ví dụ, và phân biệt quan niệm phổ biến với kết quả nghiên cứu."
+    },
+    "extra_words": [
+      {
+        "word": "born",
+        "i18n": {
+          "vi": "được sinh ra"
+        }
+      },
+      {
+        "word": "sibling",
+        "i18n": {
+          "vi": "anh chị em ruột"
+        }
+      },
+      {
+        "word": "meaningless",
+        "i18n": {
+          "vi": "vô nghĩa"
+        }
+      },
+      {
+        "word": "outgrown",
+        "i18n": {
+          "vi": "quá khứ phân từ của outgrow: lớn vượt qua"
+        }
+      },
+      {
+        "word": "rainwater",
+        "i18n": {
+          "vi": "nước mưa"
+        }
+      },
+      {
+        "word": "college essay",
+        "i18n": {
+          "vi": "bài luận xin vào đại học"
+        }
+      },
+      {
+        "word": "stands",
+        "i18n": {
+          "vi": "khán đài"
+        }
+      },
+      {
+        "word": "athlete",
+        "i18n": {
+          "vi": "vận động viên"
+        }
+      },
+      {
+        "word": "trophy",
+        "i18n": {
+          "vi": "cúp"
+        }
+      },
+      {
+        "word": "bitter",
+        "i18n": {
+          "vi": "cay cú, chua chát"
+        }
+      },
+      {
+        "word": "birth order",
+        "i18n": {
+          "vi": "thứ tự sinh"
+        }
+      },
+      {
+        "word": "firstborn",
+        "i18n": {
+          "vi": "con đầu lòng"
+        }
+      },
+      {
+        "word": "psychologist",
+        "i18n": {
+          "vi": "nhà tâm lý học"
+        }
+      },
+      {
+        "word": "intelligence",
+        "i18n": {
+          "vi": "trí tuệ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "identify someone with",
+          "vi": "gắn ai với"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stand up for yourself",
+          "vi": "tự lên tiếng bảo vệ mình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "come to the realization that",
+          "vi": "nhận ra rằng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "prior to",
+          "vi": "trước khi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "grow into",
+          "vi": "trưởng thành thành"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put someone off",
+          "vi": "làm ai mất thiện cảm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be talked about",
+          "vi": "được bàn tán"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`whose + danh từ` = của người đó. Một câu có thể lặp `whose` nhiều lần để liệt kê (\"whose name…, whose shirt…\")."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Động từ tường thuật mang thái độ: `admit` (thừa nhận điều khó nói), `claim` (khẳng định, chưa chắc đúng), `promise` (hứa)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi chức năng (\"Why does the writer mention…?\"): xem câu ĐỨNG TRƯỚC ví dụ. Ví dụ thường minh hoạ cho câu đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài phản bác một quan niệm thường có 3 phần: quan niệm → bằng chứng → giải thích vì sao người ta vẫn tin. Câu hỏi thái độ hay hỏi đoạn cuối, nơi người viết cân bằng lại."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0102_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 1) — Bản nháp bài luận xin vào đại học của Trevor"
+      },
+      "narrator": "Trevor",
+      "title": "College Essay, Draft 2: More Than a Number on a Shirt",
+      "category": "essay",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 220,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "College Essay, Draft 2: More Than a Number on a Shirt",
+            "vi": "Bài luận xin vào đại học, bản nháp 2: hơn cả một con số trên áo"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Trevor Carter",
+            "vi": "Người viết: Trevor Carter"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For most of my life, people have identified me with one thing: soccer.",
+            "vi": "Gần như cả cuộc đời mình, mọi người gắn tôi với đúng một thứ: bóng đá."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am the kid whose name is shouted from the stands, whose shirt has the number 9 on it, and whose grades are expected to be \"fine for an athlete\".",
+            "vi": "Tôi là cậu bé có tên được hò reo trên khán đài, có chiếc áo mang số 9, và có điểm số mà người ta chỉ mong là \"tạm được với một vận động viên\"."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For years, I accepted that label. It was easier than standing up for myself, and, to be honest, it felt good to be known for something.",
+            "vi": "Nhiều năm liền, tôi chấp nhận cái nhãn ấy. Như thế dễ hơn là tự lên tiếng cho mình, và thật lòng mà nói, được người ta biết tới vì một điều gì đó cũng dễ chịu."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last summer, an injury forced me to see myself from a different perspective.",
+            "vi": "Mùa hè năm ngoái, một chấn thương buộc tôi nhìn bản thân từ một góc độ khác."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For three weeks, I could not run, and I came to the realization that I had no idea who I was without a ball at my feet.",
+            "vi": "Suốt ba tuần không chạy được, tôi nhận ra mình hoàn toàn không biết mình là ai khi không có trái bóng dưới chân."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Earlier that year, I had joined my school's Green Club, originally because my best friend had joined it. Prior to that, I had never planted anything in my life.",
+            "vi": "Đầu năm đó, tôi đã vào câu lạc bộ Xanh của trường, ban đầu chỉ vì đứa bạn thân vào. Trước đó, tôi chưa từng trồng thứ gì trong đời."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Collecting rainwater and sorting cafeteria trash do not sound exciting, I admit.",
+            "vi": "Tôi thừa nhận là hứng nước mưa và phân loại rác căng tin nghe chẳng thú vị gì."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But during those three weeks on the bench, the garden was the only place where I felt useful, and I discovered that I enjoy solving problems that nobody has asked me to solve.",
+            "vi": "Nhưng trong ba tuần ngồi ghế dự bị ấy, khu vườn là nơi duy nhất tôi thấy mình có ích, và tôi phát hiện ra mình thích giải quyết những vấn đề chẳng ai nhờ mình giải quyết."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am not claiming that I have outgrown soccer. I still train five days a week, and I still hate losing.",
+            "vi": "Tôi không nói rằng mình đã lớn hơn bóng đá. Tôi vẫn tập năm ngày một tuần, và vẫn ghét thua."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, I have grown into someone whose interests reach far beyond the field, and I would like to study environmental engineering, a subject that I would never have considered two years ago.",
+            "vi": "Nhưng tôi đã trưởng thành thành một người có những mối quan tâm vượt xa sân bóng, và tôi muốn học kỹ thuật môi trường, ngành mà hai năm trước tôi chẳng bao giờ nghĩ tới."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I hope that you will see me as more than the number on my shirt; I am learning to see myself that way, too.",
+            "vi": "Tôi mong quý trường sẽ nhìn tôi như một người hơn cả con số trên áo; chính tôi cũng đang học cách nhìn mình như thế."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad's notes in the margin:",
+            "vi": "Ghi chú của bố bên lề:"
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Much better than Draft 1. You've stopped listing trophies and started telling a story.",
+            "vi": "Tốt hơn bản 1 nhiều. Con đã thôi liệt kê cúp và bắt đầu kể một câu chuyện."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Cut the line about grades being \"fine for an athlete\". It sounds bitter, and it may put readers off.",
+            "vi": "Bỏ câu về điểm số \"tạm được với một vận động viên\" đi. Nghe có vẻ cay cú, dễ làm người đọc mất thiện cảm."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "But keep the part where you admit that you joined the club because of your friend. That kind of honesty is striking in an essay, and readers remember it.",
+            "vi": "Nhưng giữ lại đoạn con thừa nhận vào câu lạc bộ là vì bạn. Kiểu thành thật đó rất nổi bật trong một bài luận, và người đọc sẽ nhớ."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "And I promise that I won't rewrite it for you. It has to sound like you, not like your history teacher.",
+            "vi": "Và bố hứa là sẽ không viết lại hộ con. Bài phải nghe giống con, chứ không giống thầy dạy sử của con."
+          }
+        }
+      ],
+      "content_ja": "College Essay, Draft 2: More Than a Number on a Shirt\n\nWritten by: Trevor Carter\n\nFor most of my life, people have identified me with one thing: soccer. I am the kid whose name is shouted from the stands, whose shirt has the number 9 on it, and whose grades are expected to be \"fine for an athlete\". For years, I accepted that label. It was easier than standing up for myself, and, to be honest, it felt good to be known for something.\n\nLast summer, an injury forced me to see myself from a different perspective. For three weeks, I could not run, and I came to the realization that I had no idea who I was without a ball at my feet. Earlier that year, I had joined my school's Green Club, originally because my best friend had joined it. Prior to that, I had never planted anything in my life. Collecting rainwater and sorting cafeteria trash do not sound exciting, I admit. But during those three weeks on the bench, the garden was the only place where I felt useful, and I discovered that I enjoy solving problems that nobody has asked me to solve.\n\nI am not claiming that I have outgrown soccer. I still train five days a week, and I still hate losing. However, I have grown into someone whose interests reach far beyond the field, and I would like to study environmental engineering, a subject that I would never have considered two years ago. I hope that you will see me as more than the number on my shirt; I am learning to see myself that way, too.\n\nDad's notes in the margin:\n\nMitchell: Much better than Draft 1. You've stopped listing trophies and started telling a story. Cut the line about grades being \"fine for an athlete\". It sounds bitter, and it may put readers off. But keep the part where you admit that you joined the club because of your friend. That kind of honesty is striking in an essay, and readers remember it. And I promise that I won't rewrite it for you. It has to sound like you, not like your history teacher.",
+      "translation_vn": "(1) Bài luận xin vào đại học, bản nháp 2: hơn cả một con số trên áo\n(2) Người viết: Trevor Carter\n(3) Gần như cả cuộc đời mình, mọi người gắn tôi với đúng một thứ: bóng đá.\n(4) Tôi là cậu bé có tên được hò reo trên khán đài, có chiếc áo mang số 9, và có điểm số mà người ta chỉ mong là \"tạm được với một vận động viên\".\n(5) Nhiều năm liền, tôi chấp nhận cái nhãn ấy. Như thế dễ hơn là tự lên tiếng cho mình, và thật lòng mà nói, được người ta biết tới vì một điều gì đó cũng dễ chịu.\n(6) Mùa hè năm ngoái, một chấn thương buộc tôi nhìn bản thân từ một góc độ khác.\n(7) Suốt ba tuần không chạy được, tôi nhận ra mình hoàn toàn không biết mình là ai khi không có trái bóng dưới chân.\n(8) Đầu năm đó, tôi đã vào câu lạc bộ Xanh của trường, ban đầu chỉ vì đứa bạn thân vào. Trước đó, tôi chưa từng trồng thứ gì trong đời.\n(9) Tôi thừa nhận là hứng nước mưa và phân loại rác căng tin nghe chẳng thú vị gì.\n(10) Nhưng trong ba tuần ngồi ghế dự bị ấy, khu vườn là nơi duy nhất tôi thấy mình có ích, và tôi phát hiện ra mình thích giải quyết những vấn đề chẳng ai nhờ mình giải quyết.\n(11) Tôi không nói rằng mình đã lớn hơn bóng đá. Tôi vẫn tập năm ngày một tuần, và vẫn ghét thua.\n(12) Nhưng tôi đã trưởng thành thành một người có những mối quan tâm vượt xa sân bóng, và tôi muốn học kỹ thuật môi trường, ngành mà hai năm trước tôi chẳng bao giờ nghĩ tới.\n(13) Tôi mong quý trường sẽ nhìn tôi như một người hơn cả con số trên áo; chính tôi cũng đang học cách nhìn mình như thế.\n(14) Ghi chú của bố bên lề:\n(15) Mitchell: Tốt hơn bản 1 nhiều. Con đã thôi liệt kê cúp và bắt đầu kể một câu chuyện.\n(16) Mitchell: Bỏ câu về điểm số \"tạm được với một vận động viên\" đi. Nghe có vẻ cay cú, dễ làm người đọc mất thiện cảm.\n(17) Mitchell: Nhưng giữ lại đoạn con thừa nhận vào câu lạc bộ là vì bạn. Kiểu thành thật đó rất nổi bật trong một bài luận, và người đọc sẽ nhớ.\n(18) Mitchell: Và bố hứa là sẽ không viết lại hộ con. Bài phải nghe giống con, chứ không giống thầy dạy sử của con.",
+      "word_count": 360,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.001",
+        "b2.002",
+        "b2.003",
+        "b2.004"
+      ]
+    },
+    {
+      "id": "passage_u0102_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 2) — Thứ tự sinh có quyết định tính cách?"
+      },
+      "narrator": "announcer",
+      "title": "Does Birth Order Shape Who We Are?",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Does Birth Order Shape Who We Are?",
+            "vi": "Thứ tự sinh có định hình con người ta?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ask a room full of people about birth order, and you will hear the same stories again and again.",
+            "vi": "Hỏi cả một phòng đầy người về thứ tự sinh, bạn sẽ nghe đi nghe lại những câu chuyện giống nhau."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Firstborns are said to be responsible and serious, the leaders to whom younger siblings look for help.",
+            "vi": "Người ta bảo con đầu thì có trách nhiệm và nghiêm túc, là thủ lĩnh mà các em tìm tới khi cần giúp."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Youngest children are supposed to be charming and a little spoiled, and middle children, it is often claimed, are forgotten and spend their lives fighting for attention.",
+            "vi": "Con út thì được cho là đáng yêu và hơi được chiều, còn con giữa, người ta thường bảo, bị quên lãng và cả đời phải giành sự chú ý."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The idea was made popular in the 1920s by the psychologist Alfred Adler, and it has been talked about ever since in books, magazines and family arguments.",
+            "vi": "Ý tưởng này được nhà tâm lý học Alfred Adler phổ biến từ những năm 1920, và từ đó tới nay vẫn được bàn tán trong sách, tạp chí và những cuộc cãi nhau trong nhà."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But when scientists finally tested it with large groups of people, the results were surprising.",
+            "vi": "Nhưng khi các nhà khoa học cuối cùng cũng kiểm chứng nó trên những nhóm người lớn, kết quả thật bất ngờ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2015, researchers studied more than 20,000 adults in the United States, the United Kingdom and Germany.",
+            "vi": "Năm 2015, các nhà nghiên cứu khảo sát hơn 20.000 người trưởng thành ở Mỹ, Anh và Đức."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They compared people from different families, and also brothers and sisters from the same family.",
+            "vi": "Họ so sánh những người thuộc các gia đình khác nhau, và cả anh chị em trong cùng một nhà."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They found no meaningful link between birth order and personality: firstborns were not more responsible, and youngest children were not more charming.",
+            "vi": "Họ không tìm thấy mối liên hệ đáng kể nào giữa thứ tự sinh và tính cách: con đầu không có trách nhiệm hơn, con út cũng chẳng đáng yêu hơn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The only difference was a very small one in intelligence test scores, which were slightly higher for firstborns on average, but the gap was so tiny that you would not notice it inside a real family.",
+            "vi": "Khác biệt duy nhất là một chênh lệch rất nhỏ ở điểm kiểm tra trí tuệ, trung bình con đầu nhỉnh hơn đôi chút, nhưng khoảng cách nhỏ tới mức trong một gia đình thật bạn sẽ không nhận ra."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Another study of over 370,000 American high school students came to almost the same conclusion.",
+            "vi": "Một nghiên cứu khác trên hơn 370.000 học sinh trung học Mỹ cũng đi tới kết luận gần như vậy."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So why are so many parents sure that their children fit the stereotypes?",
+            "vi": "Vậy tại sao nhiều cha mẹ lại tin chắc con mình đúng với những khuôn mẫu ấy?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One reason is that we usually compare siblings at the same moment, when they are different ages.",
+            "vi": "Một lý do là ta thường so sánh anh chị em ở cùng một thời điểm, khi chúng ở các độ tuổi khác nhau."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Of course a twelve-year-old seems more responsible than her seven-year-old brother; she is five years older.",
+            "vi": "Đương nhiên một cô bé mười hai tuổi trông có trách nhiệm hơn cậu em bảy tuổi; cô bé lớn hơn những năm năm."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We also tend to notice the examples that match what we already believe and forget the ones that don't.",
+            "vi": "Ta cũng hay để ý những ví dụ khớp với điều mình vốn tin, và quên những ví dụ không khớp."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this means that family position is meaningless.",
+            "vi": "Điều này không có nghĩa là vị trí trong gia đình chẳng có ý nghĩa gì."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An older child may be asked to look after younger ones, and that experience can matter.",
+            "vi": "Đứa lớn có thể được nhờ trông các em, và trải nghiệm đó có thể có ý nghĩa."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But researchers say that our upbringing, the age gap between siblings, the size of the family and the things that happen to us shape us far more than the simple fact of being born first, second or last.",
+            "vi": "Nhưng các nhà nghiên cứu nói rằng cách ta được nuôi dạy, khoảng cách tuổi giữa anh chị em, quy mô gia đình và những gì xảy ra với ta định hình ta nhiều hơn hẳn chuyện đơn thuần sinh ra thứ nhất, thứ hai hay cuối cùng."
+          }
+        }
+      ],
+      "content_ja": "Does Birth Order Shape Who We Are?\n\nAsk a room full of people about birth order, and you will hear the same stories again and again. Firstborns are said to be responsible and serious, the leaders to whom younger siblings look for help. Youngest children are supposed to be charming and a little spoiled, and middle children, it is often claimed, are forgotten and spend their lives fighting for attention.\n\nThe idea was made popular in the 1920s by the psychologist Alfred Adler, and it has been talked about ever since in books, magazines and family arguments. But when scientists finally tested it with large groups of people, the results were surprising.\n\nIn 2015, researchers studied more than 20,000 adults in the United States, the United Kingdom and Germany. They compared people from different families, and also brothers and sisters from the same family. They found no meaningful link between birth order and personality: firstborns were not more responsible, and youngest children were not more charming. The only difference was a very small one in intelligence test scores, which were slightly higher for firstborns on average, but the gap was so tiny that you would not notice it inside a real family. Another study of over 370,000 American high school students came to almost the same conclusion.\n\nSo why are so many parents sure that their children fit the stereotypes? One reason is that we usually compare siblings at the same moment, when they are different ages. Of course a twelve-year-old seems more responsible than her seven-year-old brother; she is five years older. We also tend to notice the examples that match what we already believe and forget the ones that don't.\n\nNone of this means that family position is meaningless. An older child may be asked to look after younger ones, and that experience can matter. But researchers say that our upbringing, the age gap between siblings, the size of the family and the things that happen to us shape us far more than the simple fact of being born first, second or last.",
+      "translation_vn": "(1) Thứ tự sinh có định hình con người ta?\n(2) Hỏi cả một phòng đầy người về thứ tự sinh, bạn sẽ nghe đi nghe lại những câu chuyện giống nhau.\n(3) Người ta bảo con đầu thì có trách nhiệm và nghiêm túc, là thủ lĩnh mà các em tìm tới khi cần giúp.\n(4) Con út thì được cho là đáng yêu và hơi được chiều, còn con giữa, người ta thường bảo, bị quên lãng và cả đời phải giành sự chú ý.\n(5) Ý tưởng này được nhà tâm lý học Alfred Adler phổ biến từ những năm 1920, và từ đó tới nay vẫn được bàn tán trong sách, tạp chí và những cuộc cãi nhau trong nhà.\n(6) Nhưng khi các nhà khoa học cuối cùng cũng kiểm chứng nó trên những nhóm người lớn, kết quả thật bất ngờ.\n(7) Năm 2015, các nhà nghiên cứu khảo sát hơn 20.000 người trưởng thành ở Mỹ, Anh và Đức.\n(8) Họ so sánh những người thuộc các gia đình khác nhau, và cả anh chị em trong cùng một nhà.\n(9) Họ không tìm thấy mối liên hệ đáng kể nào giữa thứ tự sinh và tính cách: con đầu không có trách nhiệm hơn, con út cũng chẳng đáng yêu hơn.\n(10) Khác biệt duy nhất là một chênh lệch rất nhỏ ở điểm kiểm tra trí tuệ, trung bình con đầu nhỉnh hơn đôi chút, nhưng khoảng cách nhỏ tới mức trong một gia đình thật bạn sẽ không nhận ra.\n(11) Một nghiên cứu khác trên hơn 370.000 học sinh trung học Mỹ cũng đi tới kết luận gần như vậy.\n(12) Vậy tại sao nhiều cha mẹ lại tin chắc con mình đúng với những khuôn mẫu ấy?\n(13) Một lý do là ta thường so sánh anh chị em ở cùng một thời điểm, khi chúng ở các độ tuổi khác nhau.\n(14) Đương nhiên một cô bé mười hai tuổi trông có trách nhiệm hơn cậu em bảy tuổi; cô bé lớn hơn những năm năm.\n(15) Ta cũng hay để ý những ví dụ khớp với điều mình vốn tin, và quên những ví dụ không khớp.\n(16) Điều này không có nghĩa là vị trí trong gia đình chẳng có ý nghĩa gì.\n(17) Đứa lớn có thể được nhờ trông các em, và trải nghiệm đó có thể có ý nghĩa.\n(18) Nhưng các nhà nghiên cứu nói rằng cách ta được nuôi dạy, khoảng cách tuổi giữa anh chị em, quy mô gia đình và những gì xảy ra với ta định hình ta nhiều hơn hẳn chuyện đơn thuần sinh ra thứ nhất, thứ hai hay cuối cùng.",
+      "word_count": 346,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.005",
+        "b2.006",
+        "b2.007",
+        "b2.008"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0102_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What is Trevor trying to do in his essay?",
+        "vi": "Trevor muốn làm gì trong bài luận?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "list the trophies that he has won",
+            "vi": "liệt kê những chiếc cúp cậu đã giành"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "list the trophies that he has won",
+          "text_translation": "liệt kê những chiếc cúp cậu đã giành"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "complain about his teachers",
+            "vi": "phàn nàn về giáo viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "complain about his teachers",
+          "text_translation": "phàn nàn về giáo viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "show that he is more than just an athlete",
+            "vi": "cho thấy cậu không chỉ là một vận động viên"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "show that he is more than just an athlete",
+          "text_translation": "cho thấy cậu không chỉ là một vận động viên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "explain how to collect rainwater",
+            "vi": "giải thích cách hứng nước mưa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "explain how to collect rainwater",
+          "text_translation": "giải thích cách hứng nước mưa"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I hope that you will see me as more than the number on my shirt\". Tiêu đề cũng nói vậy: \"More Than a Number on a Shirt\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is Trevor trying to do in his essay?",
+      "question_vn": "Trevor muốn làm gì trong bài luận?",
+      "explanation": "\"I hope that you will see me as more than the number on my shirt\". Tiêu đề cũng nói vậy: \"More Than a Number on a Shirt\"."
+    },
+    {
+      "id": "q_u0102_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What does Trevor suggest by saying that his grades were expected to be \"fine for an athlete\"?",
+        "vi": "Trevor hàm ý gì khi nói điểm số của cậu chỉ được mong là \"tạm được với một vận động viên\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People expected little from him in his studies.",
+            "vi": "Mọi người không kỳ vọng nhiều vào chuyện học của cậu."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "People expected little from him in his studies.",
+          "text_translation": "Mọi người không kỳ vọng nhiều vào chuyện học của cậu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He had the best grades in his class.",
+            "vi": "Cậu có điểm cao nhất lớp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He had the best grades in his class.",
+          "text_translation": "Cậu có điểm cao nhất lớp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "His teachers didn't know that he played soccer.",
+            "vi": "Giáo viên không biết cậu chơi bóng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "His teachers didn't know that he played soccer.",
+          "text_translation": "Giáo viên không biết cậu chơi bóng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Athletes don't need good grades.",
+            "vi": "Vận động viên không cần điểm cao."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Athletes don't need good grades.",
+          "text_translation": "Vận động viên không cần điểm cao."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"whose grades are expected to be \"fine for an athlete\"\". Dấu ngoặc kép cho thấy cậu trích lời người khác, với ý họ chỉ mong ở cậu mức \"tạm được\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor suggest by saying that his grades were expected to be \"fine for an athlete\"?",
+      "question_vn": "Trevor hàm ý gì khi nói điểm số của cậu chỉ được mong là \"tạm được với một vận động viên\"?",
+      "explanation": "Câu suy luận. \"whose grades are expected to be \"fine for an athlete\"\". Dấu ngoặc kép cho thấy cậu trích lời người khác, với ý họ chỉ mong ở cậu mức \"tạm được\"."
+    },
+    {
+      "id": "q_u0102_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Why did Trevor accept the label for years?",
+        "vi": "Vì sao nhiều năm liền Trevor chấp nhận cái nhãn ấy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "His father told him to.",
+            "vi": "Vì bố bảo cậu thế."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "His father told him to.",
+          "text_translation": "Vì bố bảo cậu thế."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He didn't know what a label was.",
+            "vi": "Vì cậu không biết nhãn là gì."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He didn't know what a label was.",
+          "text_translation": "Vì cậu không biết nhãn là gì."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He wanted to become a teacher.",
+            "vi": "Vì cậu muốn làm giáo viên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He wanted to become a teacher.",
+          "text_translation": "Vì cậu muốn làm giáo viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was easier than standing up for himself, and it felt good to be known.",
+            "vi": "Vì như thế dễ hơn là tự lên tiếng, và được người ta biết tới cũng dễ chịu."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It was easier than standing up for himself, and it felt good to be known.",
+          "text_translation": "Vì như thế dễ hơn là tự lên tiếng, và được người ta biết tới cũng dễ chịu."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was easier than standing up for myself, and, to be honest, it felt good to be known for something.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Trevor accept the label for years?",
+      "question_vn": "Vì sao nhiều năm liền Trevor chấp nhận cái nhãn ấy?",
+      "explanation": "\"It was easier than standing up for myself, and, to be honest, it felt good to be known for something.\""
+    },
+    {
+      "id": "q_u0102_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What did Trevor realize during his injury?",
+        "vi": "Trong thời gian chấn thương, Trevor nhận ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that he wanted to quit soccer",
+            "vi": "rằng cậu muốn bỏ bóng đá"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that he wanted to quit soccer",
+          "text_translation": "rằng cậu muốn bỏ bóng đá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that he had no idea who he was without soccer",
+            "vi": "rằng cậu không biết mình là ai khi không có bóng đá"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "that he had no idea who he was without soccer",
+          "text_translation": "rằng cậu không biết mình là ai khi không có bóng đá"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that his team didn't need him",
+            "vi": "rằng đội không cần cậu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that his team didn't need him",
+          "text_translation": "rằng đội không cần cậu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that he was a good runner",
+            "vi": "rằng cậu chạy giỏi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that he was a good runner",
+          "text_translation": "rằng cậu chạy giỏi"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"I came to the realization that I had no idea who I was without a ball at my feet.\" Come to the realization that = nhận ra rằng."
+      },
+      "audio_data": null,
+      "question_jp": "What did Trevor realize during his injury?",
+      "question_vn": "Trong thời gian chấn thương, Trevor nhận ra điều gì?",
+      "explanation": "\"I came to the realization that I had no idea who I was without a ball at my feet.\" Come to the realization that = nhận ra rằng."
+    },
+    {
+      "id": "q_u0102_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "In \"Prior to that, I had never planted anything in my life\", what does \"Prior to that\" mean?",
+        "vi": "Trong câu \"Prior to that, I had never planted anything in my life\", \"Prior to that\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "before he joined the Green Club",
+            "vi": "trước khi cậu vào câu lạc bộ Xanh"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "before he joined the Green Club",
+          "text_translation": "trước khi cậu vào câu lạc bộ Xanh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "after his injury",
+            "vi": "sau chấn thương"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "after his injury",
+          "text_translation": "sau chấn thương"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because of his friend",
+            "vi": "vì đứa bạn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because of his friend",
+          "text_translation": "vì đứa bạn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "during the summer",
+            "vi": "trong mùa hè"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "during the summer",
+          "text_translation": "trong mùa hè"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Prior to that, I had never planted anything in my life.\" Câu ngay trước kể việc vào câu lạc bộ Xanh. Prior to = before, và \"that\" chỉ việc vào câu lạc bộ."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Prior to that, I had never planted anything in my life\", what does \"Prior to that\" mean?",
+      "question_vn": "Trong câu \"Prior to that, I had never planted anything in my life\", \"Prior to that\" nghĩa là gì?",
+      "explanation": "\"Prior to that, I had never planted anything in my life.\" Câu ngay trước kể việc vào câu lạc bộ Xanh. Prior to = before, và \"that\" chỉ việc vào câu lạc bộ."
+    },
+    {
+      "id": "q_u0102_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What did Trevor discover while he was on the bench?",
+        "vi": "Trong thời gian ngồi ghế dự bị, Trevor phát hiện ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that sorting trash is exciting",
+            "vi": "rằng phân loại rác rất thú vị"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that sorting trash is exciting",
+          "text_translation": "rằng phân loại rác rất thú vị"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that he hates gardening",
+            "vi": "rằng cậu ghét làm vườn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that he hates gardening",
+          "text_translation": "rằng cậu ghét làm vườn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that he enjoys solving problems that nobody has asked him to solve",
+            "vi": "rằng cậu thích giải quyết những vấn đề chẳng ai nhờ mình"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "that he enjoys solving problems that nobody has asked him to solve",
+          "text_translation": "rằng cậu thích giải quyết những vấn đề chẳng ai nhờ mình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that he should become a coach",
+            "vi": "rằng cậu nên làm huấn luyện viên"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that he should become a coach",
+          "text_translation": "rằng cậu nên làm huấn luyện viên"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"I discovered that I enjoy solving problems that nobody has asked me to solve.\" Cậu còn thừa nhận việc hứng nước, phân loại rác \"do not sound exciting\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did Trevor discover while he was on the bench?",
+      "question_vn": "Trong thời gian ngồi ghế dự bị, Trevor phát hiện ra điều gì?",
+      "explanation": "\"I discovered that I enjoy solving problems that nobody has asked me to solve.\" Cậu còn thừa nhận việc hứng nước, phân loại rác \"do not sound exciting\"."
+    },
+    {
+      "id": "q_u0102_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What does Trevor mean by \"I am not claiming that I have outgrown soccer\"?",
+        "vi": "Trevor muốn nói gì qua câu \"Tôi không nói rằng mình đã lớn hơn bóng đá\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is going to stop playing soccer.",
+            "vi": "Cậu sắp thôi đá bóng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is going to stop playing soccer.",
+          "text_translation": "Cậu sắp thôi đá bóng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Soccer is still important to him, but it is not his only interest.",
+            "vi": "Bóng đá vẫn quan trọng với cậu, nhưng không còn là mối quan tâm duy nhất."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Soccer is still important to him, but it is not his only interest.",
+          "text_translation": "Bóng đá vẫn quan trọng với cậu, nhưng không còn là mối quan tâm duy nhất."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is too old to play soccer.",
+            "vi": "Cậu đã quá tuổi chơi bóng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He is too old to play soccer.",
+          "text_translation": "Cậu đã quá tuổi chơi bóng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He has never liked soccer.",
+            "vi": "Cậu chưa từng thích bóng đá."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He has never liked soccer.",
+          "text_translation": "Cậu chưa từng thích bóng đá."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I still train five days a week, and I still hate losing.\" Nhưng \"I have grown into someone whose interests reach far beyond the field\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor mean by \"I am not claiming that I have outgrown soccer\"?",
+      "question_vn": "Trevor muốn nói gì qua câu \"Tôi không nói rằng mình đã lớn hơn bóng đá\"?",
+      "explanation": "Câu suy luận. \"I still train five days a week, and I still hate losing.\" Nhưng \"I have grown into someone whose interests reach far beyond the field\"."
+    },
+    {
+      "id": "q_u0102_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What would Trevor like to study?",
+        "vi": "Trevor muốn học ngành gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "history",
+            "vi": "lịch sử"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "history",
+          "text_translation": "lịch sử"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "sports science",
+            "vi": "khoa học thể thao"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "sports science",
+          "text_translation": "khoa học thể thao"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "medicine",
+            "vi": "y khoa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "medicine",
+          "text_translation": "y khoa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "environmental engineering",
+            "vi": "kỹ thuật môi trường"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "environmental engineering",
+          "text_translation": "kỹ thuật môi trường"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"I would like to study environmental engineering, a subject that I would never have considered two years ago.\""
+      },
+      "audio_data": null,
+      "question_jp": "What would Trevor like to study?",
+      "question_vn": "Trevor muốn học ngành gì?",
+      "explanation": "\"I would like to study environmental engineering, a subject that I would never have considered two years ago.\""
+    },
+    {
+      "id": "q_u0102_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What does Trevor's dad tell him to do with the line about grades?",
+        "vi": "Bố Trevor bảo cậu làm gì với câu về điểm số?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "remove it, because it sounds bitter",
+            "vi": "bỏ đi, vì nghe có vẻ cay cú"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "remove it, because it sounds bitter",
+          "text_translation": "bỏ đi, vì nghe có vẻ cay cú"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "make it longer",
+            "vi": "viết dài thêm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "make it longer",
+          "text_translation": "viết dài thêm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "move it to the beginning",
+            "vi": "chuyển lên đầu bài"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "move it to the beginning",
+          "text_translation": "chuyển lên đầu bài"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "ask his teachers about it",
+            "vi": "hỏi giáo viên về nó"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "ask his teachers about it",
+          "text_translation": "hỏi giáo viên về nó"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Cut the line about grades being \"fine for an athlete\". It sounds bitter, and it may put readers off.\" Put off = làm mất thiện cảm."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor's dad tell him to do with the line about grades?",
+      "question_vn": "Bố Trevor bảo cậu làm gì với câu về điểm số?",
+      "explanation": "\"Cut the line about grades being \"fine for an athlete\". It sounds bitter, and it may put readers off.\" Put off = làm mất thiện cảm."
+    },
+    {
+      "id": "q_u0102_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Why does Trevor's dad want him to keep the part about joining the club because of his friend?",
+        "vi": "Vì sao bố Trevor muốn cậu giữ đoạn kể vào câu lạc bộ vì bạn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it is the funniest part",
+            "vi": "vì đó là đoạn buồn cười nhất"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it is the funniest part",
+          "text_translation": "vì đó là đoạn buồn cười nhất"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because his friend will read it",
+            "vi": "vì bạn cậu sẽ đọc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because his friend will read it",
+          "text_translation": "vì bạn cậu sẽ đọc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because honest details like this make the essay stand out",
+            "vi": "vì những chi tiết thành thật như vậy làm bài luận nổi bật"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because honest details like this make the essay stand out",
+          "text_translation": "vì những chi tiết thành thật như vậy làm bài luận nổi bật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it is about soccer",
+            "vi": "vì nó nói về bóng đá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it is about soccer",
+          "text_translation": "vì nó nói về bóng đá"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"That kind of honesty is striking in an essay, and readers remember it.\" Striking = nổi bật, gây ấn tượng."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor's dad want him to keep the part about joining the club because of his friend?",
+      "question_vn": "Vì sao bố Trevor muốn cậu giữ đoạn kể vào câu lạc bộ vì bạn?",
+      "explanation": "Câu suy luận. \"That kind of honesty is striking in an essay, and readers remember it.\" Striking = nổi bật, gây ấn tượng."
+    },
+    {
+      "id": "q_u0102_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Firstborn children are always leaders.",
+            "vi": "Con đầu lúc nào cũng là thủ lĩnh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Firstborn children are always leaders.",
+          "text_translation": "Con đầu lúc nào cũng là thủ lĩnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Popular beliefs about birth order are not supported by large studies.",
+            "vi": "Những niềm tin phổ biến về thứ tự sinh không được các nghiên cứu lớn ủng hộ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Popular beliefs about birth order are not supported by large studies.",
+          "text_translation": "Những niềm tin phổ biến về thứ tự sinh không được các nghiên cứu lớn ủng hộ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Middle children have the hardest lives.",
+            "vi": "Con giữa có cuộc đời vất vả nhất."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Middle children have the hardest lives.",
+          "text_translation": "Con giữa có cuộc đời vất vả nhất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Parents should have only one child.",
+            "vi": "Cha mẹ chỉ nên sinh một con."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Parents should have only one child.",
+          "text_translation": "Cha mẹ chỉ nên sinh một con."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"But when scientists finally tested it with large groups of people, the results were surprising.\" Phần sau cho thấy gần như không có liên hệ nào."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"But when scientists finally tested it with large groups of people, the results were surprising.\" Phần sau cho thấy gần như không có liên hệ nào."
+    },
+    {
+      "id": "q_u0102_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Who made the idea of birth order popular?",
+        "vi": "Ai đã phổ biến ý tưởng về thứ tự sinh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a group of parents in Germany",
+            "vi": "một nhóm phụ huynh ở Đức"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a group of parents in Germany",
+          "text_translation": "một nhóm phụ huynh ở Đức"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "magazines in the 2010s",
+            "vi": "các tạp chí những năm 2010"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "magazines in the 2010s",
+          "text_translation": "các tạp chí những năm 2010"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "high school students",
+            "vi": "học sinh trung học"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "high school students",
+          "text_translation": "học sinh trung học"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the psychologist Alfred Adler, in the 1920s",
+            "vi": "nhà tâm lý học Alfred Adler, những năm 1920"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the psychologist Alfred Adler, in the 1920s",
+          "text_translation": "nhà tâm lý học Alfred Adler, những năm 1920"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"The idea was made popular in the 1920s by the psychologist Alfred Adler\"."
+      },
+      "audio_data": null,
+      "question_jp": "Who made the idea of birth order popular?",
+      "question_vn": "Ai đã phổ biến ý tưởng về thứ tự sinh?",
+      "explanation": "\"The idea was made popular in the 1920s by the psychologist Alfred Adler\"."
+    },
+    {
+      "id": "q_u0102_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "According to popular belief, how are firstborns described?",
+        "vi": "Theo quan niệm phổ biến, con đầu được miêu tả thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "responsible and serious",
+            "vi": "có trách nhiệm và nghiêm túc"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "responsible and serious",
+          "text_translation": "có trách nhiệm và nghiêm túc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "charming and spoiled",
+            "vi": "đáng yêu và được chiều"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "charming and spoiled",
+          "text_translation": "đáng yêu và được chiều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "forgotten and lonely",
+            "vi": "bị quên lãng và cô đơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "forgotten and lonely",
+          "text_translation": "bị quên lãng và cô đơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "lazy and cheeky",
+            "vi": "lười và hỗn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "lazy and cheeky",
+          "text_translation": "lười và hỗn"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Firstborns are said to be responsible and serious, the leaders to whom younger siblings look for help.\" To whom = giới từ + whom."
+      },
+      "audio_data": null,
+      "question_jp": "According to popular belief, how are firstborns described?",
+      "question_vn": "Theo quan niệm phổ biến, con đầu được miêu tả thế nào?",
+      "explanation": "\"Firstborns are said to be responsible and serious, the leaders to whom younger siblings look for help.\" To whom = giới từ + whom."
+    },
+    {
+      "id": "q_u0102_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What did the 2015 study of more than 20,000 adults find?",
+        "vi": "Nghiên cứu năm 2015 trên hơn 20.000 người trưởng thành phát hiện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Firstborns were much more responsible.",
+            "vi": "Con đầu có trách nhiệm hơn nhiều."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Firstborns were much more responsible.",
+          "text_translation": "Con đầu có trách nhiệm hơn nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Youngest children were more charming.",
+            "vi": "Con út đáng yêu hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Youngest children were more charming.",
+          "text_translation": "Con út đáng yêu hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "There was no meaningful link between birth order and personality.",
+            "vi": "Không có liên hệ đáng kể nào giữa thứ tự sinh và tính cách."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "There was no meaningful link between birth order and personality.",
+          "text_translation": "Không có liên hệ đáng kể nào giữa thứ tự sinh và tính cách."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Middle children were the most intelligent.",
+            "vi": "Con giữa thông minh nhất."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Middle children were the most intelligent.",
+          "text_translation": "Con giữa thông minh nhất."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"They found no meaningful link between birth order and personality\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did the 2015 study of more than 20,000 adults find?",
+      "question_vn": "Nghiên cứu năm 2015 trên hơn 20.000 người trưởng thành phát hiện gì?",
+      "explanation": "\"They found no meaningful link between birth order and personality\"."
+    },
+    {
+      "id": "q_u0102_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What does the article say about the difference in intelligence test scores?",
+        "vi": "Bài báo nói gì về chênh lệch điểm kiểm tra trí tuệ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Youngest children scored much higher.",
+            "vi": "Con út điểm cao hơn nhiều."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Youngest children scored much higher.",
+          "text_translation": "Con út điểm cao hơn nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Firstborns scored slightly higher on average, but the gap was tiny.",
+            "vi": "Trung bình con đầu nhỉnh hơn đôi chút, nhưng khoảng cách rất nhỏ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Firstborns scored slightly higher on average, but the gap was tiny.",
+          "text_translation": "Trung bình con đầu nhỉnh hơn đôi chút, nhưng khoảng cách rất nhỏ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "There were no tests.",
+            "vi": "Không có bài kiểm tra nào."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "There were no tests.",
+          "text_translation": "Không có bài kiểm tra nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The gap was easy to notice in every family.",
+            "vi": "Trong gia đình nào cũng dễ thấy khoảng cách ấy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The gap was easy to notice in every family.",
+          "text_translation": "Trong gia đình nào cũng dễ thấy khoảng cách ấy."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"slightly higher for firstborns on average, but the gap was so tiny that you would not notice it inside a real family.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the article say about the difference in intelligence test scores?",
+      "question_vn": "Bài báo nói gì về chênh lệch điểm kiểm tra trí tuệ?",
+      "explanation": "\"slightly higher for firstborns on average, but the gap was so tiny that you would not notice it inside a real family.\""
+    },
+    {
+      "id": "q_u0102_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Why does the writer mention a twelve-year-old girl and her seven-year-old brother?",
+        "vi": "Vì sao người viết nhắc tới cô bé mười hai tuổi và cậu em bảy tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that girls are more responsible than boys",
+            "vi": "để cho thấy con gái có trách nhiệm hơn con trai"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that girls are more responsible than boys",
+          "text_translation": "để cho thấy con gái có trách nhiệm hơn con trai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to describe the writer's own children",
+            "vi": "để kể về con của người viết"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to describe the writer's own children",
+          "text_translation": "để kể về con của người viết"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to prove that firstborns are leaders",
+            "vi": "để chứng minh con đầu là thủ lĩnh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to prove that firstborns are leaders",
+          "text_translation": "để chứng minh con đầu là thủ lĩnh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that differences between siblings often come from their age, not their birth order",
+            "vi": "để cho thấy khác biệt giữa anh chị em thường do tuổi tác, không phải thứ tự sinh"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that differences between siblings often come from their age, not their birth order",
+          "text_translation": "để cho thấy khác biệt giữa anh chị em thường do tuổi tác, không phải thứ tự sinh"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng. \"Of course a twelve-year-old seems more responsible than her seven-year-old brother; she is five years older.\" Đây là ví dụ cho lý do ở câu trước: ta so sánh anh chị em khi chúng ở các độ tuổi khác nhau."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention a twelve-year-old girl and her seven-year-old brother?",
+      "question_vn": "Vì sao người viết nhắc tới cô bé mười hai tuổi và cậu em bảy tuổi?",
+      "explanation": "Câu suy luận về chức năng. \"Of course a twelve-year-old seems more responsible than her seven-year-old brother; she is five years older.\" Đây là ví dụ cho lý do ở câu trước: ta so sánh anh chị em khi chúng ở các độ tuổi khác nhau."
+    },
+    {
+      "id": "q_u0102_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "In \"our upbringing, the age gap between siblings, …\", what does \"upbringing\" mean?",
+        "vi": "Trong cụm \"our upbringing, the age gap between siblings, …\", \"upbringing\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the way that a child is raised by their family",
+            "vi": "cách một đứa trẻ được gia đình nuôi dạy"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the way that a child is raised by their family",
+          "text_translation": "cách một đứa trẻ được gia đình nuôi dạy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a person's height",
+            "vi": "chiều cao của một người"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a person's height",
+          "text_translation": "chiều cao của một người"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the house where a family lives",
+            "vi": "ngôi nhà một gia đình sống"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the house where a family lives",
+          "text_translation": "ngôi nhà một gia đình sống"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a child's school grades",
+            "vi": "điểm số ở trường của một đứa trẻ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a child's school grades",
+          "text_translation": "điểm số ở trường của một đứa trẻ"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"our upbringing, the age gap between siblings, the size of the family and the things that happen to us shape us\". Upbringing (bring up = nuôi dạy) = sự nuôi dạy."
+      },
+      "audio_data": null,
+      "question_jp": "In \"our upbringing, the age gap between siblings, …\", what does \"upbringing\" mean?",
+      "question_vn": "Trong cụm \"our upbringing, the age gap between siblings, …\", \"upbringing\" nghĩa là gì?",
+      "explanation": "\"our upbringing, the age gap between siblings, the size of the family and the things that happen to us shape us\". Upbringing (bring up = nuôi dạy) = sự nuôi dạy."
+    },
+    {
+      "id": "q_u0102_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "According to researchers, what shapes us far more than birth order?",
+        "vi": "Theo các nhà nghiên cứu, điều gì định hình ta nhiều hơn hẳn thứ tự sinh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "our names",
+            "vi": "tên của ta"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "our names",
+          "text_translation": "tên của ta"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the month when we were born",
+            "vi": "tháng ta sinh ra"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the month when we were born",
+          "text_translation": "tháng ta sinh ra"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "our upbringing, the age gap, family size and our experiences",
+            "vi": "cách được nuôi dạy, khoảng cách tuổi, quy mô gia đình và trải nghiệm của ta"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "our upbringing, the age gap, family size and our experiences",
+          "text_translation": "cách được nuôi dạy, khoảng cách tuổi, quy mô gia đình và trải nghiệm của ta"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the books we read as children",
+            "vi": "những cuốn sách ta đọc hồi nhỏ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the books we read as children",
+          "text_translation": "những cuốn sách ta đọc hồi nhỏ"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"our upbringing, the age gap between siblings, the size of the family and the things that happen to us shape us far more than the simple fact of being born first, second or last.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to researchers, what shapes us far more than birth order?",
+      "question_vn": "Theo các nhà nghiên cứu, điều gì định hình ta nhiều hơn hẳn thứ tự sinh?",
+      "explanation": "\"our upbringing, the age gap between siblings, the size of the family and the things that happen to us shape us far more than the simple fact of being born first, second or last.\""
+    },
+    {
+      "id": "q_u0102_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What is the writer's attitude toward the popular ideas about birth order?",
+        "vi": "Thái độ của người viết với những quan niệm phổ biến về thứ tự sinh thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The writer strongly believes them.",
+            "vi": "Người viết tin tuyệt đối."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The writer strongly believes them.",
+          "text_translation": "Người viết tin tuyệt đối."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The writer doubts them because of the evidence, but admits that family position can still matter a little.",
+            "vi": "Người viết nghi ngờ chúng dựa trên bằng chứng, nhưng thừa nhận vị trí trong gia đình vẫn có ý nghĩa phần nào."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The writer doubts them because of the evidence, but admits that family position can still matter a little.",
+          "text_translation": "Người viết nghi ngờ chúng dựa trên bằng chứng, nhưng thừa nhận vị trí trong gia đình vẫn có ý nghĩa phần nào."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The writer is angry with Alfred Adler.",
+            "vi": "Người viết giận Alfred Adler."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The writer is angry with Alfred Adler.",
+          "text_translation": "Người viết giận Alfred Adler."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The writer has no opinion.",
+            "vi": "Người viết không có ý kiến gì."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The writer has no opinion.",
+          "text_translation": "Người viết không có ý kiến gì."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. Người viết dựa vào nghiên cứu để phản bác, nhưng vẫn cân bằng: \"None of this means that family position is meaningless.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's attitude toward the popular ideas about birth order?",
+      "question_vn": "Thái độ của người viết với những quan niệm phổ biến về thứ tự sinh thế nào?",
+      "explanation": "Câu hỏi thái độ. Người viết dựa vào nghiên cứu để phản bác, nhưng vẫn cân bằng: \"None of this means that family position is meaningless.\""
+    },
+    {
+      "id": "q_u0102_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Use both texts. How does Trevor's essay support the idea at the end of the article?",
+        "vi": "Dựa vào cả hai bài. Bài luận của Trevor ủng hộ ý cuối bài báo như thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor says that being a younger brother made him a leader.",
+            "vi": "Trevor nói làm em giúp cậu thành thủ lĩnh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Trevor says that being a younger brother made him a leader.",
+          "text_translation": "Trevor nói làm em giúp cậu thành thủ lĩnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor says that his sisters decided his future.",
+            "vi": "Trevor nói các chị em quyết định tương lai cậu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor says that his sisters decided his future.",
+          "text_translation": "Trevor nói các chị em quyết định tương lai cậu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor says that firstborns are better at soccer.",
+            "vi": "Trevor nói con đầu đá bóng giỏi hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor says that firstborns are better at soccer.",
+          "text_translation": "Trevor nói con đầu đá bóng giỏi hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor was shaped by things that happened to him, such as his injury and the club, not by his place in the family.",
+            "vi": "Trevor được định hình bởi những gì xảy ra với cậu, như chấn thương và câu lạc bộ, chứ không phải vị trí trong gia đình."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Trevor was shaped by things that happened to him, such as his injury and the club, not by his place in the family.",
+          "text_translation": "Trevor được định hình bởi những gì xảy ra với cậu, như chấn thương và câu lạc bộ, chứ không phải vị trí trong gia đình."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: \"the things that happen to us shape us far more\". Ở bài 1, chấn thương và câu lạc bộ Xanh đã thay đổi cách Trevor nhìn bản thân. Cậu không hề nhắc tới thứ tự sinh."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. How does Trevor's essay support the idea at the end of the article?",
+      "question_vn": "Dựa vào cả hai bài. Bài luận của Trevor ủng hộ ý cuối bài báo như thế nào?",
+      "explanation": "Câu nối hai bài. Bài 2: \"the things that happen to us shape us far more\". Ở bài 1, chấn thương và câu lạc bộ Xanh đã thay đổi cách Trevor nhìn bản thân. Cậu không hề nhắc tới thứ tự sinh."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0102_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 1) — Bản nháp bài luận xin vào đại học của Trevor",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0102_01",
+      "question_ids": [
+        "q_u0102_001",
+        "q_u0102_002",
+        "q_u0102_003",
+        "q_u0102_004",
+        "q_u0102_005",
+        "q_u0102_006",
+        "q_u0102_007",
+        "q_u0102_008",
+        "q_u0102_009",
+        "q_u0102_010"
+      ]
+    },
+    {
+      "set_id": "set_u0102_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 2) — Thứ tự sinh có quyết định tính cách?",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0102_02",
+      "question_ids": [
+        "q_u0102_011",
+        "q_u0102_012",
+        "q_u0102_013",
+        "q_u0102_014",
+        "q_u0102_015",
+        "q_u0102_016",
+        "q_u0102_017",
+        "q_u0102_018",
+        "q_u0102_019",
+        "q_u0102_020"
+      ]
+    }
+  ]
+}
