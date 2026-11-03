@@ -1,0 +1,2067 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 29–30 — Customs and manners & Learning languages",
+      "vi": "Phong tục, phép lịch sự & Học ngoại ngữ"
+    },
+    "title": "Units 29–30 — Customs and manners & Learning languages",
+    "title_vn": "Phong tục, phép lịch sự & Học ngoại ngữ",
+    "module_code": "58_u2930",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u29+u30",
+    "curriculum_sheets": [
+      "b1.113",
+      "b1.114",
+      "b1.115",
+      "b1.116",
+      "b1.117",
+      "b1.118",
+      "b1.119",
+      "b1.120"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "make/let/have, What if, tiền tố, khoanh vùng văn hoá",
+    "description_vn": "Tracy kể với Leah về bạn cùng phòng mới và hỏi chuyện đưa bạn về nhà dịp Lễ Tạ ơn; bài báo về việc học ngoại ngữ ở các độ tuổi. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 29 + Unit 30 khoá B1 · phiếu `b1.113` – `b1.120` (bố mẹ cho phép và cấm, phép lịch sự, khác biệt văn hoá, phép ăn uống; quen với điều mới, hoà nhập ở nơi mới, lỗi ngôn ngữ, mẹo luyện tập)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một email và một bài báo; hiểu `make / let / have + người + V`, `What if…?` để nói nỗi lo, `be used to / get used to`, tiền tố `mis-`, `over-`, `un-`, và nhận ra cách nói tránh quy chụp văn hoá (\"in her family\", \"neither of us speaks for a whole country\")."
+    },
+    "extra_words": [
+      {
+        "word": "misunderstood",
+        "i18n": {
+          "vi": "bị hiểu sai (mis- + understood)"
+        }
+      },
+      {
+        "word": "roommate",
+        "i18n": {
+          "vi": "bạn cùng phòng"
+        }
+      },
+      {
+        "word": "transfer student",
+        "i18n": {
+          "vi": "sinh viên chuyển trường"
+        }
+      },
+      {
+        "word": "Thanksgiving",
+        "i18n": {
+          "vi": "Lễ Tạ ơn"
+        }
+      },
+      {
+        "word": "fork",
+        "i18n": {
+          "vi": "cái dĩa"
+        }
+      },
+      {
+        "word": "native speaker",
+        "i18n": {
+          "vi": "người bản ngữ"
+        }
+      },
+      {
+        "word": "pronounce",
+        "i18n": {
+          "vi": "phát âm"
+        }
+      },
+      {
+        "word": "rent",
+        "i18n": {
+          "vi": "tiền thuê nhà"
+        }
+      },
+      {
+        "word": "insurance",
+        "i18n": {
+          "vi": "bảo hiểm"
+        }
+      },
+      {
+        "word": "overthink",
+        "i18n": {
+          "vi": "nghĩ quá nhiều"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "a lesson in manners",
+          "vi": "một bài học về phép lịch sự"
+        }
+      },
+      {
+        "i18n": {
+          "en": "an awkward moment",
+          "vi": "một phút ngượng ngùng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "cut in",
+          "vi": "ngắt lời"
+        }
+      },
+      {
+        "i18n": {
+          "en": "speak for",
+          "vi": "đại diện, nói thay cho"
+        }
+      },
+      {
+        "i18n": {
+          "en": "mother tongue",
+          "vi": "tiếng mẹ đẻ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get used to + V-ing",
+          "vi": "dần quen với việc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "part of the process",
+          "vi": "một phần của quá trình"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`make + người + V` = bắt làm; `let + người + V` = cho phép; `have + người + V` = bảo, nhờ làm. Câu hỏi nghĩa của từ hay hỏi đúng ba động từ này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`What if…?` trong lời nhân vật thường là nỗi lo. Câu hỏi cảm xúc sẽ có đáp án dạng \"worried about…\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Khi nói về văn hoá, người viết cẩn thận thường khoanh vùng: `in her family`, `in my town`. Đừng chọn phương án gán thói quen cho cả một đất nước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài nghiên cứu: phân biệt các con số (`seventeen` cho ngữ pháp, `ten` cho trình độ bản ngữ) và việc mỗi con số nói về điều gì."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2930_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 29) — Email của Tracy về bạn cùng phòng mới"
+      },
+      "narrator": "Tracy",
+      "title": "Subject: My new roommate (and a Thanksgiving question)",
+      "category": "email",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: My new roommate (and a Thanksgiving question)",
+            "vi": "Tiêu đề: Bạn cùng phòng mới của em (và một câu hỏi về Lễ Tạ ơn)"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi Leah,",
+            "vi": "Chào chị Leah,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Classes started three weeks ago, and I finally have a roommate: Camila, a transfer student who grew up in a small town in southern Brazil.",
+            "vi": "Lớp học bắt đầu được ba tuần, và cuối cùng em cũng có bạn cùng phòng: Camila, một sinh viên chuyển trường, lớn lên ở một thị trấn nhỏ miền nam Brazil."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She's studying engineering like me, she laughs at all my bad jokes, and she cooks much better than I do.",
+            "vi": "Cậu ấy cũng học kỹ thuật như em, cười với mọi câu đùa nhạt của em, và nấu ăn giỏi hơn em nhiều."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She started learning English at fourteen, and she speaks it fluently, with an accent that I love.",
+            "vi": "Cậu ấy bắt đầu học tiếng Anh từ năm mười bốn tuổi, giờ nói trôi chảy, với một giọng mà em rất thích."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Living together has been a lesson in manners, though, for both of us.",
+            "vi": "Có điều, sống chung là cả một bài học về phép lịch sự, cho cả hai đứa."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On her first day, she hugged me, my friend Jenna and even the man who delivered our pizza.",
+            "vi": "Ngày đầu tiên, cậu ấy ôm em, ôm Jenna, và ôm luôn cả anh giao pizza."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Later she told me that in her family, everyone hugs everyone, and that a handshake feels cold to her.",
+            "vi": "Sau đó cậu ấy kể ở nhà cậu ấy, ai cũng ôm nhau, và với cậu ấy bắt tay nghe lạnh lùng lắm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm a handshake person, so the pizza man and I had a very awkward moment.",
+            "vi": "Em thì quen bắt tay, nên em với anh giao pizza đã có một phút ngượng ngùng ra trò."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But she has had surprises too. She was shocked that I eat lunch at my desk while I'm working.",
+            "vi": "Nhưng cậu ấy cũng gặp nhiều bất ngờ. Cậu ấy sốc khi thấy em vừa làm bài vừa ăn trưa ở bàn học."
+          }
+        },
+        {
+          "n": 11,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At home, her mom made everyone sit down together, and nobody was allowed to leave the table early.",
+            "vi": "Ở nhà cậu ấy, mẹ bắt cả nhà ngồi ăn cùng nhau, và không ai được rời bàn sớm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I told her that my parents had us put our phones in a basket at dinner, she said, \"See? Your family isn't so different from mine.\"",
+            "vi": "Khi em kể bố mẹ bắt bọn em bỏ điện thoại vào một cái giỏ trong bữa tối, cậu ấy bảo: \"Thấy chưa? Nhà cậu đâu có khác nhà tớ là mấy.\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I've learned not to cut in when she's telling a story, because she always finishes with something funny.",
+            "vi": "Em đã học được cách không ngắt lời khi cậu ấy đang kể chuyện, vì kiểu gì cậu ấy cũng kết bằng một chi tiết buồn cười."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Of course, we've realized that neither of us speaks for a whole country.",
+            "vi": "Tất nhiên, hai đứa cũng nhận ra rằng chẳng ai trong bọn em đại diện được cho cả một đất nước."
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Her cousins in the city do things very differently, and you and I don't even agree on how to eat pizza!",
+            "vi": "Mấy người anh chị họ của cậu ấy ở thành phố làm mọi thứ khác hẳn, còn chị với em thì đến cách ăn pizza cũng chẳng giống nhau!"
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now my question: can I bring Camila home for Thanksgiving? Her family is too far away, and the flight is too expensive.",
+            "vi": "Giờ là câu hỏi của em: em đưa Camila về nhà dịp Lễ Tạ ơn được không? Gia đình cậu ấy ở xa quá, vé máy bay lại đắt quá."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She's a little nervous. \"What if your family thinks I'm too loud? What if I use the wrong fork?\" she keeps asking.",
+            "vi": "Cậu ấy hơi lo. \"Nhỡ nhà cậu thấy tớ ồn ào quá thì sao? Nhỡ tớ cầm nhầm dĩa thì sao?\" cậu ấy cứ hỏi mãi."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I told her that Dad will make her eat three plates of food and that Biscuit will love her more than anyone. Do you think Mom will say yes?",
+            "vi": "Em bảo cậu ấy là bố em sẽ bắt cậu ấy ăn ba đĩa đầy, còn Biscuit sẽ quý cậu ấy hơn ai hết. Chị nghĩ mẹ em có đồng ý không?"
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Love, Tracy",
+            "vi": "Thương chị, Tracy"
+          }
+        }
+      ],
+      "content_ja": "Subject: My new roommate (and a Thanksgiving question)\n\nHi Leah,\n\nClasses started three weeks ago, and I finally have a roommate: Camila, a transfer student who grew up in a small town in southern Brazil. She's studying engineering like me, she laughs at all my bad jokes, and she cooks much better than I do. She started learning English at fourteen, and she speaks it fluently, with an accent that I love.\n\nLiving together has been a lesson in manners, though, for both of us. On her first day, she hugged me, my friend Jenna and even the man who delivered our pizza. Later she told me that in her family, everyone hugs everyone, and that a handshake feels cold to her. I'm a handshake person, so the pizza man and I had a very awkward moment. But she has had surprises too. She was shocked that I eat lunch at my desk while I'm working. At home, her mom made everyone sit down together, and nobody was allowed to leave the table early. When I told her that my parents had us put our phones in a basket at dinner, she said, \"See? Your family isn't so different from mine.\"\n\nI've learned not to cut in when she's telling a story, because she always finishes with something funny. Of course, we've realized that neither of us speaks for a whole country. Her cousins in the city do things very differently, and you and I don't even agree on how to eat pizza!\n\nNow my question: can I bring Camila home for Thanksgiving? Her family is too far away, and the flight is too expensive. She's a little nervous. \"What if your family thinks I'm too loud? What if I use the wrong fork?\" she keeps asking. I told her that Dad will make her eat three plates of food and that Biscuit will love her more than anyone. Do you think Mom will say yes?\n\nLove, Tracy",
+      "translation_vn": "(1) Tiêu đề: Bạn cùng phòng mới của em (và một câu hỏi về Lễ Tạ ơn)\n(2) Chào chị Leah,\n(3) Lớp học bắt đầu được ba tuần, và cuối cùng em cũng có bạn cùng phòng: Camila, một sinh viên chuyển trường, lớn lên ở một thị trấn nhỏ miền nam Brazil.\n(4) Cậu ấy cũng học kỹ thuật như em, cười với mọi câu đùa nhạt của em, và nấu ăn giỏi hơn em nhiều.\n(5) Cậu ấy bắt đầu học tiếng Anh từ năm mười bốn tuổi, giờ nói trôi chảy, với một giọng mà em rất thích.\n(6) Có điều, sống chung là cả một bài học về phép lịch sự, cho cả hai đứa.\n(7) Ngày đầu tiên, cậu ấy ôm em, ôm Jenna, và ôm luôn cả anh giao pizza.\n(8) Sau đó cậu ấy kể ở nhà cậu ấy, ai cũng ôm nhau, và với cậu ấy bắt tay nghe lạnh lùng lắm.\n(9) Em thì quen bắt tay, nên em với anh giao pizza đã có một phút ngượng ngùng ra trò.\n(10) Nhưng cậu ấy cũng gặp nhiều bất ngờ. Cậu ấy sốc khi thấy em vừa làm bài vừa ăn trưa ở bàn học.\n(11) Ở nhà cậu ấy, mẹ bắt cả nhà ngồi ăn cùng nhau, và không ai được rời bàn sớm.\n(12) Khi em kể bố mẹ bắt bọn em bỏ điện thoại vào một cái giỏ trong bữa tối, cậu ấy bảo: \"Thấy chưa? Nhà cậu đâu có khác nhà tớ là mấy.\"\n(13) Em đã học được cách không ngắt lời khi cậu ấy đang kể chuyện, vì kiểu gì cậu ấy cũng kết bằng một chi tiết buồn cười.\n(14) Tất nhiên, hai đứa cũng nhận ra rằng chẳng ai trong bọn em đại diện được cho cả một đất nước.\n(15) Mấy người anh chị họ của cậu ấy ở thành phố làm mọi thứ khác hẳn, còn chị với em thì đến cách ăn pizza cũng chẳng giống nhau!\n(16) Giờ là câu hỏi của em: em đưa Camila về nhà dịp Lễ Tạ ơn được không? Gia đình cậu ấy ở xa quá, vé máy bay lại đắt quá.\n(17) Cậu ấy hơi lo. \"Nhỡ nhà cậu thấy tớ ồn ào quá thì sao? Nhỡ tớ cầm nhầm dĩa thì sao?\" cậu ấy cứ hỏi mãi.\n(18) Em bảo cậu ấy là bố em sẽ bắt cậu ấy ăn ba đĩa đầy, còn Biscuit sẽ quý cậu ấy hơn ai hết. Chị nghĩ mẹ em có đồng ý không?\n(19) Thương chị, Tracy",
+      "word_count": 328,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.113",
+        "b1.114",
+        "b1.115",
+        "b1.116"
+      ]
+    },
+    {
+      "id": "passage_u2930_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 30) — Học ngoại ngữ có bao giờ là quá muộn?"
+      },
+      "narrator": "announcer",
+      "title": "Is It Ever Too Late to Learn a Language?",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Is It Ever Too Late to Learn a Language?",
+            "vi": "Học ngoại ngữ có bao giờ là quá muộn?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many people believe that only children can learn a new language well, and that adults who start later will always struggle.",
+            "vi": "Nhiều người tin rằng chỉ trẻ em mới học tốt một ngôn ngữ mới, còn người lớn bắt đầu muộn thì sẽ luôn chật vật."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The truth is more interesting.",
+            "vi": "Sự thật thú vị hơn thế."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Young children do have one clear advantage: accent.",
+            "vi": "Trẻ nhỏ đúng là có một lợi thế rõ ràng: giọng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Children who start a second language early typically learn to pronounce it like native speakers, while people who start as adults commonly keep some accent from their mother tongue, even when they become fluent.",
+            "vi": "Trẻ bắt đầu học ngôn ngữ thứ hai sớm thường phát âm được như người bản ngữ, còn người bắt đầu khi đã trưởng thành thường giữ chút giọng của tiếng mẹ đẻ, kể cả khi đã nói trôi chảy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Grammar is a different story.",
+            "vi": "Ngữ pháp thì lại khác."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A large study in 2018, which tested almost 670,000 people online, found that the ability to learn grammar stays strong until about the age of seventeen.",
+            "vi": "Một nghiên cứu lớn năm 2018, kiểm tra trực tuyến gần 670.000 người, phát hiện khả năng học ngữ pháp vẫn còn mạnh tới khoảng mười bảy tuổi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, to reach the level of a native speaker, it seems that most people need to start before about the age of ten.",
+            "vi": "Tuy nhiên, để đạt trình độ như người bản ngữ, có vẻ phần lớn mọi người cần bắt đầu trước khoảng mười tuổi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Adults also have advantages of their own.",
+            "vi": "Người lớn cũng có những lợi thế riêng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They usually learn faster at first, because they can read, take notes, memorize lists and understand rules.",
+            "vi": "Họ thường học nhanh hơn lúc đầu, vì họ biết đọc, ghi chép, học thuộc danh sách và hiểu quy tắc."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They also know what they want to say: a child may not need words like \"rent\" or \"insurance\", but an adult newcomer may need them in the first week.",
+            "vi": "Họ cũng biết rõ mình muốn nói gì: trẻ con có thể chưa cần những từ như \"tiền thuê nhà\" hay \"bảo hiểm\", nhưng một người lớn mới tới có thể cần chúng ngay tuần đầu."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What about children who grow up with two languages at home?",
+            "vi": "Còn những đứa trẻ lớn lên với hai ngôn ngữ ở nhà thì sao?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some parents worry that this will cause confusion or make their children start talking later.",
+            "vi": "Một số phụ huynh lo điều này sẽ khiến con bị rối hoặc biết nói muộn hơn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Research does not support this: bilingual children usually learn to talk at about the same age as other children.",
+            "vi": "Nghiên cứu không ủng hộ nỗi lo này: trẻ song ngữ thường biết nói ở độ tuổi tương đương những trẻ khác."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They sometimes mix the two languages in one sentence, but that is usually not a mistake: it shows that they know both languages and can choose the best word.",
+            "vi": "Đôi khi các em trộn hai thứ tiếng trong một câu, nhưng đó thường không phải lỗi: điều đó cho thấy các em biết cả hai và chọn được từ hợp nhất."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So, for adults, what works best?",
+            "vi": "Vậy với người lớn, cách nào hiệu quả nhất?"
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Experts suggest getting used to hearing the language every day, even for a short time, and speaking from the start, even if you make mistakes.",
+            "vi": "Các chuyên gia khuyên hãy tập quen với việc nghe ngôn ngữ đó mỗi ngày, dù chỉ một lúc, và nói ngay từ đầu, dù có mắc lỗi."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Being misunderstood is uncomfortable, but it is part of the process.",
+            "vi": "Bị hiểu nhầm thì khó chịu thật, nhưng đó là một phần của quá trình."
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And don't overthink your accent: people care much more about whether they can understand you than about whether you sound like a native speaker.",
+            "vi": "Và đừng nghĩ quá nhiều về giọng của mình: người ta quan tâm tới việc có hiểu bạn không hơn nhiều so với việc bạn có nói giống người bản ngữ không."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It may never be too late. But it's always a good time to start.",
+            "vi": "Có lẽ chẳng bao giờ là quá muộn. Nhưng lúc nào cũng là lúc tốt để bắt đầu."
+          }
+        }
+      ],
+      "content_ja": "Is It Ever Too Late to Learn a Language?\n\nMany people believe that only children can learn a new language well, and that adults who start later will always struggle. The truth is more interesting.\n\nYoung children do have one clear advantage: accent. Children who start a second language early typically learn to pronounce it like native speakers, while people who start as adults commonly keep some accent from their mother tongue, even when they become fluent. Grammar is a different story. A large study in 2018, which tested almost 670,000 people online, found that the ability to learn grammar stays strong until about the age of seventeen. However, to reach the level of a native speaker, it seems that most people need to start before about the age of ten.\n\nAdults also have advantages of their own. They usually learn faster at first, because they can read, take notes, memorize lists and understand rules. They also know what they want to say: a child may not need words like \"rent\" or \"insurance\", but an adult newcomer may need them in the first week.\n\nWhat about children who grow up with two languages at home? Some parents worry that this will cause confusion or make their children start talking later. Research does not support this: bilingual children usually learn to talk at about the same age as other children. They sometimes mix the two languages in one sentence, but that is usually not a mistake: it shows that they know both languages and can choose the best word.\n\nSo, for adults, what works best? Experts suggest getting used to hearing the language every day, even for a short time, and speaking from the start, even if you make mistakes. Being misunderstood is uncomfortable, but it is part of the process. And don't overthink your accent: people care much more about whether they can understand you than about whether you sound like a native speaker.\n\nIt may never be too late. But it's always a good time to start.",
+      "translation_vn": "(1) Học ngoại ngữ có bao giờ là quá muộn?\n(2) Nhiều người tin rằng chỉ trẻ em mới học tốt một ngôn ngữ mới, còn người lớn bắt đầu muộn thì sẽ luôn chật vật.\n(3) Sự thật thú vị hơn thế.\n(4) Trẻ nhỏ đúng là có một lợi thế rõ ràng: giọng.\n(5) Trẻ bắt đầu học ngôn ngữ thứ hai sớm thường phát âm được như người bản ngữ, còn người bắt đầu khi đã trưởng thành thường giữ chút giọng của tiếng mẹ đẻ, kể cả khi đã nói trôi chảy.\n(6) Ngữ pháp thì lại khác.\n(7) Một nghiên cứu lớn năm 2018, kiểm tra trực tuyến gần 670.000 người, phát hiện khả năng học ngữ pháp vẫn còn mạnh tới khoảng mười bảy tuổi.\n(8) Tuy nhiên, để đạt trình độ như người bản ngữ, có vẻ phần lớn mọi người cần bắt đầu trước khoảng mười tuổi.\n(9) Người lớn cũng có những lợi thế riêng.\n(10) Họ thường học nhanh hơn lúc đầu, vì họ biết đọc, ghi chép, học thuộc danh sách và hiểu quy tắc.\n(11) Họ cũng biết rõ mình muốn nói gì: trẻ con có thể chưa cần những từ như \"tiền thuê nhà\" hay \"bảo hiểm\", nhưng một người lớn mới tới có thể cần chúng ngay tuần đầu.\n(12) Còn những đứa trẻ lớn lên với hai ngôn ngữ ở nhà thì sao?\n(13) Một số phụ huynh lo điều này sẽ khiến con bị rối hoặc biết nói muộn hơn.\n(14) Nghiên cứu không ủng hộ nỗi lo này: trẻ song ngữ thường biết nói ở độ tuổi tương đương những trẻ khác.\n(15) Đôi khi các em trộn hai thứ tiếng trong một câu, nhưng đó thường không phải lỗi: điều đó cho thấy các em biết cả hai và chọn được từ hợp nhất.\n(16) Vậy với người lớn, cách nào hiệu quả nhất?\n(17) Các chuyên gia khuyên hãy tập quen với việc nghe ngôn ngữ đó mỗi ngày, dù chỉ một lúc, và nói ngay từ đầu, dù có mắc lỗi.\n(18) Bị hiểu nhầm thì khó chịu thật, nhưng đó là một phần của quá trình.\n(19) Và đừng nghĩ quá nhiều về giọng của mình: người ta quan tâm tới việc có hiểu bạn không hơn nhiều so với việc bạn có nói giống người bản ngữ không.\n(20) Có lẽ chẳng bao giờ là quá muộn. Nhưng lúc nào cũng là lúc tốt để bắt đầu.",
+      "word_count": 336,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.117",
+        "b1.118",
+        "b1.119",
+        "b1.120"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2930_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why did Tracy write this email?",
+        "vi": "Tracy viết email này để làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to tell Leah about her new roommate and ask about bringing her home for Thanksgiving",
+            "vi": "để kể với Leah về bạn cùng phòng mới và hỏi chuyện đưa cậu ấy về nhà dịp Lễ Tạ ơn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to tell Leah about her new roommate and ask about bringing her home for Thanksgiving",
+          "text_translation": "để kể với Leah về bạn cùng phòng mới và hỏi chuyện đưa cậu ấy về nhà dịp Lễ Tạ ơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to complain about her roommate",
+            "vi": "để phàn nàn về bạn cùng phòng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to complain about her roommate",
+          "text_translation": "để phàn nàn về bạn cùng phòng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask Leah how to cook",
+            "vi": "để hỏi Leah cách nấu ăn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask Leah how to cook",
+          "text_translation": "để hỏi Leah cách nấu ăn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how to use a fork",
+            "vi": "để giải thích cách dùng dĩa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how to use a fork",
+          "text_translation": "để giải thích cách dùng dĩa"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Phần đầu kể về Camila, phần cuối hỏi: \"Now my question: can I bring Camila home for Thanksgiving?\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Tracy write this email?",
+      "question_vn": "Tracy viết email này để làm gì?",
+      "explanation": "Phần đầu kể về Camila, phần cuối hỏi: \"Now my question: can I bring Camila home for Thanksgiving?\""
+    },
+    {
+      "id": "q_u2930_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Who is Camila?",
+        "vi": "Camila là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy's cousin from the city",
+            "vi": "chị họ của Tracy ở thành phố"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy's cousin from the city",
+          "text_translation": "chị họ của Tracy ở thành phố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a cook at Tracy's college",
+            "vi": "đầu bếp ở trường của Tracy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a cook at Tracy's college",
+          "text_translation": "đầu bếp ở trường của Tracy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a transfer student from southern Brazil who studies engineering",
+            "vi": "sinh viên chuyển trường từ miền nam Brazil, học kỹ thuật"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a transfer student from southern Brazil who studies engineering",
+          "text_translation": "sinh viên chuyển trường từ miền nam Brazil, học kỹ thuật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Jenna's sister",
+            "vi": "chị gái của Jenna"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Jenna's sister",
+          "text_translation": "chị gái của Jenna"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Camila, a transfer student who grew up in a small town in southern Brazil.\" và \"She's studying engineering like me\"."
+      },
+      "audio_data": null,
+      "question_jp": "Who is Camila?",
+      "question_vn": "Camila là ai?",
+      "explanation": "\"Camila, a transfer student who grew up in a small town in southern Brazil.\" và \"She's studying engineering like me\"."
+    },
+    {
+      "id": "q_u2930_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why does Tracy call herself \"a handshake person\"?",
+        "vi": "Vì sao Tracy tự gọi mình là \"người quen bắt tay\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She shakes hands with everyone she meets twice.",
+            "vi": "Vì cô bắt tay mỗi người hai lần."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She shakes hands with everyone she meets twice.",
+          "text_translation": "Vì cô bắt tay mỗi người hai lần."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She doesn't like the pizza man.",
+            "vi": "Vì cô không thích anh giao pizza."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She doesn't like the pizza man.",
+          "text_translation": "Vì cô không thích anh giao pizza."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She thinks hugs are rude.",
+            "vi": "Vì cô nghĩ ôm là bất lịch sự."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She thinks hugs are rude.",
+          "text_translation": "Vì cô nghĩ ôm là bất lịch sự."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She usually greets people with a handshake, not a hug.",
+            "vi": "Vì cô thường chào bằng cái bắt tay chứ không ôm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She usually greets people with a handshake, not a hug.",
+          "text_translation": "Vì cô thường chào bằng cái bắt tay chứ không ôm."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'm a handshake person, so the pizza man and I had a very awkward moment.\" Câu ngay trước nói ở nhà Camila \"everyone hugs everyone\"; Tracy thì quen bắt tay, nhưng cô không hề nói ôm là bất lịch sự."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tracy call herself \"a handshake person\"?",
+      "question_vn": "Vì sao Tracy tự gọi mình là \"người quen bắt tay\"?",
+      "explanation": "\"I'm a handshake person, so the pizza man and I had a very awkward moment.\" Câu ngay trước nói ở nhà Camila \"everyone hugs everyone\"; Tracy thì quen bắt tay, nhưng cô không hề nói ôm là bất lịch sự."
+    },
+    {
+      "id": "q_u2930_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "In \"her mom made everyone sit down together\", what does \"made\" mean?",
+        "vi": "Trong câu \"her mom made everyone sit down together\", \"made\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "cooked for",
+            "vi": "nấu cho"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "cooked for",
+          "text_translation": "nấu cho"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "required (people to do something)",
+            "vi": "bắt (ai làm gì)"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "required (people to do something)",
+          "text_translation": "bắt (ai làm gì)"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "built",
+            "vi": "xây"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "built",
+          "text_translation": "xây"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "allowed",
+            "vi": "cho phép"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "allowed",
+          "text_translation": "cho phép"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"her mom made everyone sit down together, and nobody was allowed to leave the table early.\" Make + người + V nguyên mẫu = bắt ai làm gì."
+      },
+      "audio_data": null,
+      "question_jp": "In \"her mom made everyone sit down together\", what does \"made\" mean?",
+      "question_vn": "Trong câu \"her mom made everyone sit down together\", \"made\" nghĩa là gì?",
+      "explanation": "\"her mom made everyone sit down together, and nobody was allowed to leave the table early.\" Make + người + V nguyên mẫu = bắt ai làm gì."
+    },
+    {
+      "id": "q_u2930_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "What does \"my parents had us put our phones in a basket at dinner\" mean?",
+        "vi": "Câu \"my parents had us put our phones in a basket at dinner\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy's parents asked the children to put their phones in a basket.",
+            "vi": "Bố mẹ Tracy bảo các con bỏ điện thoại vào giỏ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Tracy's parents asked the children to put their phones in a basket.",
+          "text_translation": "Bố mẹ Tracy bảo các con bỏ điện thoại vào giỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy's parents bought a basket for phones.",
+            "vi": "Bố mẹ Tracy mua một cái giỏ đựng điện thoại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tracy's parents bought a basket for phones.",
+          "text_translation": "Bố mẹ Tracy mua một cái giỏ đựng điện thoại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The children had no phones.",
+            "vi": "Bọn trẻ không có điện thoại."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The children had no phones.",
+          "text_translation": "Bọn trẻ không có điện thoại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy's parents used their phones at dinner.",
+            "vi": "Bố mẹ Tracy dùng điện thoại trong bữa tối."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tracy's parents used their phones at dinner.",
+          "text_translation": "Bố mẹ Tracy dùng điện thoại trong bữa tối."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"my parents had us put our phones in a basket at dinner\". Have + người + V nguyên mẫu = bảo, nhờ ai làm gì."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"my parents had us put our phones in a basket at dinner\" mean?",
+      "question_vn": "Câu \"my parents had us put our phones in a basket at dinner\" nghĩa là gì?",
+      "explanation": "\"my parents had us put our phones in a basket at dinner\". Have + người + V nguyên mẫu = bảo, nhờ ai làm gì."
+    },
+    {
+      "id": "q_u2930_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why does Camila say \"Your family isn't so different from mine\"?",
+        "vi": "Vì sao Camila nói \"Nhà cậu đâu có khác nhà tớ là mấy\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both families eat lunch at their desks.",
+            "vi": "Vì cả hai nhà đều ăn trưa ở bàn làm việc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both families eat lunch at their desks.",
+          "text_translation": "Vì cả hai nhà đều ăn trưa ở bàn làm việc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both families live in small towns.",
+            "vi": "Vì cả hai nhà đều ở thị trấn nhỏ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both families live in small towns.",
+          "text_translation": "Vì cả hai nhà đều ở thị trấn nhỏ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both mothers are teachers.",
+            "vi": "Vì cả hai bà mẹ đều là giáo viên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both mothers are teachers.",
+          "text_translation": "Vì cả hai bà mẹ đều là giáo viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both families thought that dinner together, without phones or TV, was important.",
+            "vi": "Vì cả hai nhà đều coi trọng bữa tối quây quần, không bị phân tâm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both families thought that dinner together, without phones or TV, was important.",
+          "text_translation": "Vì cả hai nhà đều coi trọng bữa tối quây quần, không bị phân tâm."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Mẹ Camila bắt cả nhà ngồi ăn cùng nhau; bố mẹ Tracy \"had us put our phones in a basket at dinner\". Hai cách khác nhau nhưng cùng một mục đích."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Camila say \"Your family isn't so different from mine\"?",
+      "question_vn": "Vì sao Camila nói \"Nhà cậu đâu có khác nhà tớ là mấy\"?",
+      "explanation": "Câu suy luận. Mẹ Camila bắt cả nhà ngồi ăn cùng nhau; bố mẹ Tracy \"had us put our phones in a basket at dinner\". Hai cách khác nhau nhưng cùng một mục đích."
+    },
+    {
+      "id": "q_u2930_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "In \"I've learned not to cut in when she's telling a story\", what does \"cut in\" mean?",
+        "vi": "Trong câu \"I've learned not to cut in when she's telling a story\", \"cut in\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "leave the room",
+            "vi": "rời khỏi phòng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "leave the room",
+          "text_translation": "rời khỏi phòng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "laugh loudly",
+            "vi": "cười to"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "laugh loudly",
+          "text_translation": "cười to"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "interrupt",
+            "vi": "ngắt lời"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "interrupt",
+          "text_translation": "ngắt lời"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "write it down",
+            "vi": "ghi lại"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "write it down",
+          "text_translation": "ghi lại"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I've learned not to cut in when she's telling a story, because she always finishes with something funny.\" Phải để bạn kể hết mới nghe được đoạn kết vui, nên cut in = ngắt lời."
+      },
+      "audio_data": null,
+      "question_jp": "In \"I've learned not to cut in when she's telling a story\", what does \"cut in\" mean?",
+      "question_vn": "Trong câu \"I've learned not to cut in when she's telling a story\", \"cut in\" nghĩa là gì?",
+      "explanation": "\"I've learned not to cut in when she's telling a story, because she always finishes with something funny.\" Phải để bạn kể hết mới nghe được đoạn kết vui, nên cut in = ngắt lời."
+    },
+    {
+      "id": "q_u2930_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "What does Tracy mean by \"neither of us speaks for a whole country\"?",
+        "vi": "Tracy muốn nói gì qua câu \"chẳng ai trong bọn em đại diện được cho cả một đất nước\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Neither of them speaks English well.",
+            "vi": "Cả hai đều nói tiếng Anh không tốt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Neither of them speaks English well.",
+          "text_translation": "Cả hai đều nói tiếng Anh không tốt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Habits are different from family to family, not only from country to country.",
+            "vi": "Thói quen khác nhau theo từng nhà, chứ không chỉ theo từng nước."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Habits are different from family to family, not only from country to country.",
+          "text_translation": "Thói quen khác nhau theo từng nhà, chứ không chỉ theo từng nước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They don't talk about their countries.",
+            "vi": "Hai người không nói về đất nước mình."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They don't talk about their countries.",
+          "text_translation": "Hai người không nói về đất nước mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They want to travel to every country.",
+            "vi": "Hai người muốn đi khắp các nước."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They want to travel to every country.",
+          "text_translation": "Hai người muốn đi khắp các nước."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Her cousins in the city do things very differently, and you and I don't even agree on how to eat pizza!\" Ngay trong một nhà, một nước, thói quen cũng khác nhau."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy mean by \"neither of us speaks for a whole country\"?",
+      "question_vn": "Tracy muốn nói gì qua câu \"chẳng ai trong bọn em đại diện được cho cả một đất nước\"?",
+      "explanation": "Câu suy luận. \"Her cousins in the city do things very differently, and you and I don't even agree on how to eat pizza!\" Ngay trong một nhà, một nước, thói quen cũng khác nhau."
+    },
+    {
+      "id": "q_u2930_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why can't Camila go home for Thanksgiving?",
+        "vi": "Vì sao Camila không về nhà dịp Lễ Tạ ơn được?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her family is too far away, and the flight is too expensive.",
+            "vi": "Vì gia đình ở xa quá, vé máy bay lại đắt quá."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Her family is too far away, and the flight is too expensive.",
+          "text_translation": "Vì gia đình ở xa quá, vé máy bay lại đắt quá."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has to work.",
+            "vi": "Vì cô phải đi làm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has to work.",
+          "text_translation": "Vì cô phải đi làm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her family doesn't celebrate it.",
+            "vi": "Vì gia đình cô không đón lễ này."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Her family doesn't celebrate it.",
+          "text_translation": "Vì gia đình cô không đón lễ này."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is sick.",
+            "vi": "Vì cô bị ốm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is sick.",
+          "text_translation": "Vì cô bị ốm."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Her family is too far away, and the flight is too expensive.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why can't Camila go home for Thanksgiving?",
+      "question_vn": "Vì sao Camila không về nhà dịp Lễ Tạ ơn được?",
+      "explanation": "\"Her family is too far away, and the flight is too expensive.\""
+    },
+    {
+      "id": "q_u2930_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "What do Camila's questions \"What if your family thinks I'm too loud? What if I use the wrong fork?\" show?",
+        "vi": "Những câu hỏi \"Nhỡ nhà cậu thấy tớ ồn ào quá thì sao? Nhỡ tớ cầm nhầm dĩa thì sao?\" của Camila cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She doesn't want to go.",
+            "vi": "Cô không muốn đi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She doesn't want to go.",
+          "text_translation": "Cô không muốn đi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has never used a fork.",
+            "vi": "Cô chưa từng dùng dĩa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has never used a fork.",
+          "text_translation": "Cô chưa từng dùng dĩa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is worried about making a bad impression.",
+            "vi": "Cô lo mình sẽ để lại ấn tượng không tốt."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She is worried about making a bad impression.",
+          "text_translation": "Cô lo mình sẽ để lại ấn tượng không tốt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She thinks Tracy's family is rude.",
+            "vi": "Cô nghĩ nhà Tracy bất lịch sự."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She thinks Tracy's family is rude.",
+          "text_translation": "Cô nghĩ nhà Tracy bất lịch sự."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"She's a little nervous.\" What if…? dùng để nói một nỗi lo về điều có thể xảy ra. Cả hai nỗi lo đều về việc gây ấn tượng xấu với gia đình Tracy."
+      },
+      "audio_data": null,
+      "question_jp": "What do Camila's questions \"What if your family thinks I'm too loud? What if I use the wrong fork?\" show?",
+      "question_vn": "Những câu hỏi \"Nhỡ nhà cậu thấy tớ ồn ào quá thì sao? Nhỡ tớ cầm nhầm dĩa thì sao?\" của Camila cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"She's a little nervous.\" What if…? dùng để nói một nỗi lo về điều có thể xảy ra. Cả hai nỗi lo đều về việc gây ấn tượng xấu với gia đình Tracy."
+    },
+    {
+      "id": "q_u2930_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Only children can learn languages well.",
+            "vi": "Chỉ trẻ em mới học ngoại ngữ tốt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Only children can learn languages well.",
+          "text_translation": "Chỉ trẻ em mới học ngoại ngữ tốt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Children and adults each have their own advantages when they learn a language.",
+            "vi": "Trẻ em và người lớn đều có lợi thế riêng khi học ngoại ngữ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Children and adults each have their own advantages when they learn a language.",
+          "text_translation": "Trẻ em và người lớn đều có lợi thế riêng khi học ngoại ngữ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Accent is the most important part of a language.",
+            "vi": "Giọng là phần quan trọng nhất của ngôn ngữ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Accent is the most important part of a language.",
+          "text_translation": "Giọng là phần quan trọng nhất của ngôn ngữ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Bilingual children always get confused.",
+            "vi": "Trẻ song ngữ lúc nào cũng bị rối."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Bilingual children always get confused.",
+          "text_translation": "Trẻ song ngữ lúc nào cũng bị rối."
+        }
+      ],
+      "evidence_segments": [
+        3,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"The truth is more interesting.\" Bài nêu lợi thế của trẻ (giọng, ngữ pháp) rồi \"Adults also have advantages of their own.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"The truth is more interesting.\" Bài nêu lợi thế của trẻ (giọng, ngữ pháp) rồi \"Adults also have advantages of their own.\""
+    },
+    {
+      "id": "q_u2930_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What clear advantage do young children have?",
+        "vi": "Trẻ nhỏ có lợi thế rõ ràng nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They learn faster at first.",
+            "vi": "Học nhanh hơn lúc đầu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They learn faster at first.",
+          "text_translation": "Học nhanh hơn lúc đầu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They can memorize lists.",
+            "vi": "Học thuộc được danh sách."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They can memorize lists.",
+          "text_translation": "Học thuộc được danh sách."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They know what they want to say.",
+            "vi": "Biết rõ mình muốn nói gì."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They know what they want to say.",
+          "text_translation": "Biết rõ mình muốn nói gì."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They can learn to pronounce a language like native speakers.",
+            "vi": "Có thể phát âm như người bản ngữ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They can learn to pronounce a language like native speakers.",
+          "text_translation": "Có thể phát âm như người bản ngữ."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Young children do have one clear advantage: accent.\" Ba phương án còn lại là lợi thế của người lớn."
+      },
+      "audio_data": null,
+      "question_jp": "What clear advantage do young children have?",
+      "question_vn": "Trẻ nhỏ có lợi thế rõ ràng nào?",
+      "explanation": "\"Young children do have one clear advantage: accent.\" Ba phương án còn lại là lợi thế của người lớn."
+    },
+    {
+      "id": "q_u2930_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What did the 2018 study find?",
+        "vi": "Nghiên cứu năm 2018 phát hiện điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The ability to learn grammar stays strong until about seventeen.",
+            "vi": "Khả năng học ngữ pháp còn mạnh tới khoảng mười bảy tuổi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The ability to learn grammar stays strong until about seventeen.",
+          "text_translation": "Khả năng học ngữ pháp còn mạnh tới khoảng mười bảy tuổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Adults can't learn grammar.",
+            "vi": "Người lớn không học được ngữ pháp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Adults can't learn grammar.",
+          "text_translation": "Người lớn không học được ngữ pháp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Accent is easy to change.",
+            "vi": "Giọng rất dễ thay đổi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Accent is easy to change.",
+          "text_translation": "Giọng rất dễ thay đổi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Children learn grammar faster than adults at first.",
+            "vi": "Lúc đầu trẻ học ngữ pháp nhanh hơn người lớn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Children learn grammar faster than adults at first.",
+          "text_translation": "Lúc đầu trẻ học ngữ pháp nhanh hơn người lớn."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"the ability to learn grammar stays strong until about the age of seventeen.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the 2018 study find?",
+      "question_vn": "Nghiên cứu năm 2018 phát hiện điều gì?",
+      "explanation": "\"the ability to learn grammar stays strong until about the age of seventeen.\""
+    },
+    {
+      "id": "q_u2930_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "According to the article, when do most people need to start to reach the level of a native speaker?",
+        "vi": "Theo bài, phần lớn mọi người cần bắt đầu khi nào để đạt trình độ như người bản ngữ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "after the age of seventeen",
+            "vi": "sau mười bảy tuổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "after the age of seventeen",
+          "text_translation": "sau mười bảy tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in the first week in a new country",
+            "vi": "ngay tuần đầu ở nước mới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in the first week in a new country",
+          "text_translation": "ngay tuần đầu ở nước mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "before about the age of ten",
+            "vi": "trước khoảng mười tuổi"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "before about the age of ten",
+          "text_translation": "trước khoảng mười tuổi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at any age",
+            "vi": "ở tuổi nào cũng được"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at any age",
+          "text_translation": "ở tuổi nào cũng được"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"to reach the level of a native speaker, it seems that most people need to start before about the age of ten.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, when do most people need to start to reach the level of a native speaker?",
+      "question_vn": "Theo bài, phần lớn mọi người cần bắt đầu khi nào để đạt trình độ như người bản ngữ?",
+      "explanation": "\"to reach the level of a native speaker, it seems that most people need to start before about the age of ten.\""
+    },
+    {
+      "id": "q_u2930_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "Why do adults usually learn faster at first?",
+        "vi": "Vì sao lúc đầu người lớn thường học nhanh hơn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They have better ears.",
+            "vi": "Vì tai họ thính hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They have better ears.",
+          "text_translation": "Vì tai họ thính hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They can read, take notes, memorize lists and understand rules.",
+            "vi": "Vì họ biết đọc, ghi chép, học thuộc danh sách và hiểu quy tắc."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They can read, take notes, memorize lists and understand rules.",
+          "text_translation": "Vì họ biết đọc, ghi chép, học thuộc danh sách và hiểu quy tắc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have no accent.",
+            "vi": "Vì họ không có giọng địa phương."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have no accent.",
+          "text_translation": "Vì họ không có giọng địa phương."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They have more free time.",
+            "vi": "Vì họ có nhiều thời gian rảnh hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They have more free time.",
+          "text_translation": "Vì họ có nhiều thời gian rảnh hơn."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"They usually learn faster at first, because they can read, take notes, memorize lists and understand rules.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why do adults usually learn faster at first?",
+      "question_vn": "Vì sao lúc đầu người lớn thường học nhanh hơn?",
+      "explanation": "\"They usually learn faster at first, because they can read, take notes, memorize lists and understand rules.\""
+    },
+    {
+      "id": "q_u2930_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What does the example of \"rent\" and \"insurance\" show?",
+        "vi": "Ví dụ về từ \"tiền thuê nhà\" và \"bảo hiểm\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "These words are very hard to pronounce.",
+            "vi": "Những từ này rất khó phát âm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "These words are very hard to pronounce.",
+          "text_translation": "Những từ này rất khó phát âm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Children learn these words first.",
+            "vi": "Trẻ em học những từ này trước."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Children learn these words first.",
+          "text_translation": "Trẻ em học những từ này trước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Newcomers should not rent a home.",
+            "vi": "Người mới tới không nên thuê nhà."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Newcomers should not rent a home.",
+          "text_translation": "Người mới tới không nên thuê nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Adults need practical words for real life right away.",
+            "vi": "Người lớn cần ngay những từ thiết thực cho cuộc sống."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Adults need practical words for real life right away.",
+          "text_translation": "Người lớn cần ngay những từ thiết thực cho cuộc sống."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"a child may not need words like \"rent\" or \"insurance\", but an adult newcomer may need them in the first week.\" Người lớn có nhu cầu thực tế rõ ràng, nên biết mình cần học từ gì."
+      },
+      "audio_data": null,
+      "question_jp": "What does the example of \"rent\" and \"insurance\" show?",
+      "question_vn": "Ví dụ về từ \"tiền thuê nhà\" và \"bảo hiểm\" cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"a child may not need words like \"rent\" or \"insurance\", but an adult newcomer may need them in the first week.\" Người lớn có nhu cầu thực tế rõ ràng, nên biết mình cần học từ gì."
+    },
+    {
+      "id": "q_u2930_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What does research say about children who grow up with two languages?",
+        "vi": "Nghiên cứu nói gì về trẻ lớn lên với hai ngôn ngữ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They usually learn to talk at about the same age as other children.",
+            "vi": "Các em thường biết nói ở độ tuổi tương đương trẻ khác."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They usually learn to talk at about the same age as other children.",
+          "text_translation": "Các em thường biết nói ở độ tuổi tương đương trẻ khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They always start talking later.",
+            "vi": "Các em luôn biết nói muộn hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They always start talking later.",
+          "text_translation": "Các em luôn biết nói muộn hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They never mix languages.",
+            "vi": "Các em không bao giờ trộn hai thứ tiếng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They never mix languages.",
+          "text_translation": "Các em không bao giờ trộn hai thứ tiếng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They forget one language.",
+            "vi": "Các em quên mất một thứ tiếng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They forget one language.",
+          "text_translation": "Các em quên mất một thứ tiếng."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Research does not support this: bilingual children usually learn to talk at about the same age as other children.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does research say about children who grow up with two languages?",
+      "question_vn": "Nghiên cứu nói gì về trẻ lớn lên với hai ngôn ngữ?",
+      "explanation": "\"Research does not support this: bilingual children usually learn to talk at about the same age as other children.\""
+    },
+    {
+      "id": "q_u2930_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What does it usually show when a bilingual child mixes two languages in one sentence?",
+        "vi": "Khi một đứa trẻ song ngữ trộn hai thứ tiếng trong một câu, điều đó thường cho thấy gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The child is confused.",
+            "vi": "Đứa trẻ đang bị rối."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The child is confused.",
+          "text_translation": "Đứa trẻ đang bị rối."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The child has made a mistake.",
+            "vi": "Đứa trẻ mắc lỗi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The child has made a mistake.",
+          "text_translation": "Đứa trẻ mắc lỗi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The child knows both languages and can choose the best word.",
+            "vi": "Đứa trẻ biết cả hai thứ tiếng và chọn được từ hợp nhất."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The child knows both languages and can choose the best word.",
+          "text_translation": "Đứa trẻ biết cả hai thứ tiếng và chọn được từ hợp nhất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The child doesn't like one of the languages.",
+            "vi": "Đứa trẻ không thích một trong hai thứ tiếng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The child doesn't like one of the languages.",
+          "text_translation": "Đứa trẻ không thích một trong hai thứ tiếng."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"that is usually not a mistake: it shows that they know both languages and can choose the best word.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does it usually show when a bilingual child mixes two languages in one sentence?",
+      "question_vn": "Khi một đứa trẻ song ngữ trộn hai thứ tiếng trong một câu, điều đó thường cho thấy gì?",
+      "explanation": "\"that is usually not a mistake: it shows that they know both languages and can choose the best word.\""
+    },
+    {
+      "id": "q_u2930_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "In \"Being misunderstood is uncomfortable\", what does \"misunderstood\" mean?",
+        "vi": "Trong câu \"Being misunderstood is uncomfortable\", \"misunderstood\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "understood very well",
+            "vi": "được hiểu rất rõ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "understood very well",
+          "text_translation": "được hiểu rất rõ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "understood in the wrong way",
+            "vi": "bị hiểu sai"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "understood in the wrong way",
+          "text_translation": "bị hiểu sai"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "not heard at all",
+            "vi": "hoàn toàn không được nghe thấy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "not heard at all",
+          "text_translation": "hoàn toàn không được nghe thấy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "understood again",
+            "vi": "được hiểu lại"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "understood again",
+          "text_translation": "được hiểu lại"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"Being misunderstood is uncomfortable, but it is part of the process.\" Tiền tố mis- = sai, nhầm, nên misunderstood = bị hiểu sai."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Being misunderstood is uncomfortable\", what does \"misunderstood\" mean?",
+      "question_vn": "Trong câu \"Being misunderstood is uncomfortable\", \"misunderstood\" nghĩa là gì?",
+      "explanation": "\"Being misunderstood is uncomfortable, but it is part of the process.\" Tiền tố mis- = sai, nhầm, nên misunderstood = bị hiểu sai."
+    },
+    {
+      "id": "q_u2930_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "Use both texts. Which point in the article fits Camila's English?",
+        "vi": "Dựa vào cả hai bài. Ý nào trong bài báo khớp với tiếng Anh của Camila?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Bilingual children start talking later.",
+            "vi": "Trẻ song ngữ biết nói muộn hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Bilingual children start talking later.",
+          "text_translation": "Trẻ song ngữ biết nói muộn hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Adults can never become fluent.",
+            "vi": "Người lớn không bao giờ nói trôi chảy được."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Adults can never become fluent.",
+          "text_translation": "Người lớn không bao giờ nói trôi chảy được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Only children can learn grammar.",
+            "vi": "Chỉ trẻ em mới học được ngữ pháp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Only children can learn grammar.",
+          "text_translation": "Chỉ trẻ em mới học được ngữ pháp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People who start after early childhood often keep an accent, even when they become fluent.",
+            "vi": "Người bắt đầu học sau tuổi ấu thơ thường giữ giọng riêng, kể cả khi đã nói trôi chảy."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "People who start after early childhood often keep an accent, even when they become fluent.",
+          "text_translation": "Người bắt đầu học sau tuổi ấu thơ thường giữ giọng riêng, kể cả khi đã nói trôi chảy."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: người bắt đầu muộn \"commonly keep some accent from their mother tongue, even when they become fluent.\" Bài 1: Camila \"started learning English at fourteen, and she speaks it fluently, with an accent\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which point in the article fits Camila's English?",
+      "question_vn": "Dựa vào cả hai bài. Ý nào trong bài báo khớp với tiếng Anh của Camila?",
+      "explanation": "Câu nối hai bài. Bài 2: người bắt đầu muộn \"commonly keep some accent from their mother tongue, even when they become fluent.\" Bài 1: Camila \"started learning English at fourteen, and she speaks it fluently, with an accent\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2930_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 29) — Email của Tracy về bạn cùng phòng mới",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2930_01",
+      "question_ids": [
+        "q_u2930_001",
+        "q_u2930_002",
+        "q_u2930_003",
+        "q_u2930_004",
+        "q_u2930_005",
+        "q_u2930_006",
+        "q_u2930_007",
+        "q_u2930_008",
+        "q_u2930_009",
+        "q_u2930_010"
+      ]
+    },
+    {
+      "set_id": "set_u2930_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 30) — Học ngoại ngữ có bao giờ là quá muộn?",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2930_02",
+      "question_ids": [
+        "q_u2930_011",
+        "q_u2930_012",
+        "q_u2930_013",
+        "q_u2930_014",
+        "q_u2930_015",
+        "q_u2930_016",
+        "q_u2930_017",
+        "q_u2930_018",
+        "q_u2930_019",
+        "q_u2930_020"
+      ]
+    }
+  ]
+}
