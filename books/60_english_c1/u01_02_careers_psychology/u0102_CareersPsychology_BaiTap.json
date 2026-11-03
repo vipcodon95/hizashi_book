@@ -1,0 +1,2001 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 1–2 — Careers and leadership & Psychology and behaviour",
+      "vi": "Sự nghiệp, lãnh đạo & Tâm lý, hành vi"
+    },
+    "title": "Units 1–2 — Careers and leadership & Psychology and behaviour",
+    "title_vn": "Sự nghiệp, lãnh đạo & Tâm lý, hành vi",
+    "module_code": "60_u0102",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C1",
+    "curriculum_unit": "c1.u01+u02",
+    "curriculum_sheets": [
+      "c1.001",
+      "c1.002",
+      "c1.003",
+      "c1.004",
+      "c1.005",
+      "c1.006",
+      "c1.007",
+      "c1.008"
+    ],
+    "characters": [
+      "Megan Carter",
+      "Leah Carter",
+      "Ethan Hayes"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 11 – 12, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Cấu trúc báo cáo, thừa nhận hạn chế, ý cũ vs bằng chứng mới, hàm ý",
+    "description_vn": "Megan báo cáo dự án đổi cách giao ca ở khoa cấp cứu sau mùa đông quá tải, và Leah viết cho bản tin bệnh viện về hiệu ứng người ngoài cuộc qua nghiên cứu camera năm 2020. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 1 + Unit 2 khoá C1 · phiếu `c1.001` – `c1.008` (quản lý nhóm, hợp đồng, dự án thay đổi, kiệt sức; hành vi, tính cách, cảm xúc dưới áp lực, suy đoán và thuyết phục)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bản báo cáo nội bộ và một bài tâm lý học có trích nghiên cứu; nhận ra cấu trúc báo cáo (bối cảnh → cách làm → kết quả → đề xuất), cách người viết tự thừa nhận hạn chế, cách một bài báo khoa học đặt ý cũ cạnh bằng chứng mới rồi điều chỉnh (Not quite…), và các cấu trúc C1: it's high time + quá khứ, be set to / due to / on the verge of, will chỉ thói quen, the very + danh từ."
+    },
+    "extra_words": [
+      {
+        "word": "handover",
+        "i18n": {
+          "vi": "việc giao ca"
+        }
+      },
+      {
+        "word": "charge nurse",
+        "i18n": {
+          "vi": "điều dưỡng trưởng ca"
+        }
+      },
+      {
+        "word": "corridor",
+        "i18n": {
+          "vi": "hành lang"
+        }
+      },
+      {
+        "word": "checklist",
+        "i18n": {
+          "vi": "bảng kiểm"
+        }
+      },
+      {
+        "word": "overlap",
+        "i18n": {
+          "vi": "khoảng chồng lên nhau"
+        }
+      },
+      {
+        "word": "overtime",
+        "i18n": {
+          "vi": "giờ làm thêm"
+        }
+      },
+      {
+        "word": "exhausted",
+        "i18n": {
+          "vi": "kiệt sức"
+        }
+      },
+      {
+        "word": "bystander",
+        "i18n": {
+          "vi": "người ngoài cuộc, người chứng kiến"
+        }
+      },
+      {
+        "word": "witness",
+        "i18n": {
+          "vi": "nhân chứng"
+        }
+      },
+      {
+        "word": "hesitation",
+        "i18n": {
+          "vi": "sự chần chừ"
+        }
+      },
+      {
+        "word": "make a fuss",
+        "i18n": {
+          "vi": "làm ầm lên"
+        }
+      },
+      {
+        "word": "newsletter",
+        "i18n": {
+          "vi": "bản tin"
+        }
+      },
+      {
+        "word": "repetitive",
+        "i18n": {
+          "vi": "lặp đi lặp lại"
+        }
+      },
+      {
+        "word": "closest",
+        "i18n": {
+          "vi": "gần nhất"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "It was high time we changed it.",
+          "vi": "Đã đến lúc phải thay đổi điều đó."
+        }
+      },
+      {
+        "i18n": {
+          "en": "on the condition that",
+          "vi": "với điều kiện là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be set to",
+          "vi": "sắp sửa, đã định sẵn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be due to",
+          "vi": "dự kiến sẽ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on the verge of",
+          "vi": "suýt, sắp sửa"
+        }
+      },
+      {
+        "i18n": {
+          "en": "step in",
+          "vi": "bước vào can thiệp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the very thing",
+          "vi": "chính điều"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Not quite.",
+          "vi": "Không hẳn."
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Báo cáo:** câu hỏi mục đích lấy ở phần đề xuất (`My recommendation is…`). Câu hỏi chức năng đoạn: xem đoạn đó trả lời câu hỏi nào (`So, was it?`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`be set to` / `be due to` = **chưa xảy ra**. Câu hỏi suy luận hay bẫy bằng phương án \"đã thử và hiệu quả\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài khoa học C1 thường **không bác bỏ hẳn** ý cũ: `Not quite`, `it is just that…` nghĩa là ý cũ đúng một phần. Tránh phương án tuyệt đối (completely true / completely false)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi quy chiếu (`The very thing`, `that someone`) luôn trả lời bằng câu ngay trước nó."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0102_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 1) — Báo cáo của Megan về dự án đổi cách giao ca"
+      },
+      "narrator": "Megan",
+      "title": "Changing How We Hand Over: A Report After Twelve Weeks",
+      "category": "report",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 260,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Changing How We Hand Over: A Report After Twelve Weeks",
+            "vi": "Thay đổi cách giao ca: Báo cáo sau mười hai tuần"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From: Megan Carter, charge nurse, Emergency Department, Sunset Bay Hospital. To: all department staff and the department director.",
+            "vi": "Người gửi: Megan Carter, điều dưỡng trưởng ca, Khoa Cấp cứu, Bệnh viện Sunset Bay. Người nhận: toàn bộ nhân viên khoa và giám đốc khoa."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last winter was the hardest that most of us can remember. With the workload rising week after week, three experienced nurses left the department within two months, and the ones who stayed were running on fatigue and coffee.",
+            "vi": "Mùa đông năm ngoái là mùa khó khăn nhất mà phần lớn chúng ta còn nhớ. Khi khối lượng công việc tăng lên tuần này qua tuần khác, ba điều dưỡng giàu kinh nghiệm đã rời khoa trong vòng hai tháng, còn những người ở lại thì sống bằng sự mệt mỏi và cà phê."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When we asked staff where things most often went wrong, the same answer kept coming back: the handover between shifts, at seven in the morning and seven at night, when information about forty patients is passed on in a crowded corridor in a hurry.",
+            "vi": "Khi chúng tôi hỏi nhân viên chuyện hay trục trặc nhất ở đâu, cùng một câu trả lời cứ lặp lại: lúc giao ca, bảy giờ sáng và bảy giờ tối, khi thông tin về bốn mươi bệnh nhân được chuyển cho nhau trong một hành lang đông đúc, vội vàng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was high time we changed it.",
+            "vi": "Đã đến lúc phải thay đổi điều đó."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In September, we initiated a twelve-week trial of a new protocol. Handover now takes place at the bedside, so that the patient can correct us if we get something wrong, and it follows a printed checklist of five points.",
+            "vi": "Tháng Chín, chúng tôi bắt đầu thử nghiệm một quy trình mới trong mười hai tuần. Giờ đây việc giao ca diễn ra ngay cạnh giường bệnh, để bệnh nhân có thể sửa lại nếu chúng ta nói sai điều gì, và theo một bảng kiểm in sẵn gồm năm điểm."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The biggest constraint was time. The director agreed to allocate a fifteen-minute overlap between shifts, paid as overtime, on the condition that we measured whether it was worth the money.",
+            "vi": "Rào cản lớn nhất là thời gian. Giám đốc đồng ý dành ra mười lăm phút chồng ca giữa hai ca, trả như giờ làm thêm, với điều kiện chúng tôi phải đo xem nó có đáng tiền hay không."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So, was it? In the twelve weeks before the trial, staff reported fourteen cases of important information being missed at handover. During the trial, they reported five.",
+            "vi": "Vậy nó có đáng không? Trong mười hai tuần trước thử nghiệm, nhân viên báo cáo mười bốn trường hợp bỏ sót thông tin quan trọng khi giao ca. Trong thời gian thử nghiệm, họ báo cáo năm trường hợp."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I should be honest about the costs, too. Handover takes longer than before, about thirteen minutes per nurse instead of nine, and several colleagues have told me that the checklist feels tedious when a patient's situation is simple.",
+            "vi": "Tôi cũng phải thành thật về cái giá phải trả. Giao ca lâu hơn trước, khoảng mười ba phút mỗi điều dưỡng thay vì chín phút, và vài đồng nghiệp nói với tôi rằng bảng kiểm thấy tẻ nhạt khi tình trạng bệnh nhân đơn giản."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One part of the trial clearly did not work: the night shift. Patients who had finally fallen asleep were woken up by four nurses talking beside their bed, which helped nobody.",
+            "vi": "Có một phần của thử nghiệm rõ ràng không hiệu quả: ca đêm. Những bệnh nhân vừa mới ngủ được lại bị đánh thức vì bốn điều dưỡng nói chuyện cạnh giường, điều này chẳng giúp ai cả."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For the night handover, we are set to try a quieter version at the door of each room, using a tablet instead of paper.",
+            "vi": "Với việc giao ca đêm, chúng tôi sắp thử một phiên bản nhẹ nhàng hơn ở cửa từng phòng, dùng máy tính bảng thay cho giấy."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My recommendation is that we keep the new protocol for day handovers and review it again in March. The director is due to make a final decision in January.",
+            "vi": "Đề xuất của tôi là giữ quy trình mới cho việc giao ca ban ngày và xem xét lại vào tháng Ba. Giám đốc sẽ ra quyết định cuối cùng vào tháng Một."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A personal note to finish. I have been a nurse in this department for more than twenty years, and last winter I was on the verge of leaving myself.",
+            "vi": "Một lời riêng để kết thúc. Tôi đã làm điều dưỡng ở khoa này hơn hai mươi năm, và mùa đông năm ngoái chính tôi cũng đã suýt nghỉ việc."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What kept me here was not the pay but the people, and this project has reminded me that retention is not only about money. It is about whether we believe that our ideas can change the place where we work.",
+            "vi": "Thứ giữ tôi ở lại không phải đồng lương mà là con người, và dự án này nhắc tôi rằng giữ chân nhân viên không chỉ là chuyện tiền. Đó là chuyện chúng ta có tin rằng ý tưởng của mình có thể thay đổi nơi mình làm việc hay không."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I would like to commend every nurse who tried something new while already exhausted. You did the hard part.",
+            "vi": "Tôi muốn ghi nhận từng điều dưỡng đã thử một điều mới trong khi bản thân đã kiệt sức. Các bạn đã làm phần khó nhất."
+          }
+        }
+      ],
+      "content_ja": "Changing How We Hand Over: A Report After Twelve Weeks\n\nFrom: Megan Carter, charge nurse, Emergency Department, Sunset Bay Hospital. To: all department staff and the department director.\n\nLast winter was the hardest that most of us can remember. With the workload rising week after week, three experienced nurses left the department within two months, and the ones who stayed were running on fatigue and coffee. When we asked staff where things most often went wrong, the same answer kept coming back: the handover between shifts, at seven in the morning and seven at night, when information about forty patients is passed on in a crowded corridor in a hurry. It was high time we changed it.\n\nIn September, we initiated a twelve-week trial of a new protocol. Handover now takes place at the bedside, so that the patient can correct us if we get something wrong, and it follows a printed checklist of five points. The biggest constraint was time. The director agreed to allocate a fifteen-minute overlap between shifts, paid as overtime, on the condition that we measured whether it was worth the money.\n\nSo, was it? In the twelve weeks before the trial, staff reported fourteen cases of important information being missed at handover. During the trial, they reported five. I should be honest about the costs, too. Handover takes longer than before, about thirteen minutes per nurse instead of nine, and several colleagues have told me that the checklist feels tedious when a patient's situation is simple.\n\nOne part of the trial clearly did not work: the night shift. Patients who had finally fallen asleep were woken up by four nurses talking beside their bed, which helped nobody. For the night handover, we are set to try a quieter version at the door of each room, using a tablet instead of paper.\n\nMy recommendation is that we keep the new protocol for day handovers and review it again in March. The director is due to make a final decision in January.\n\nA personal note to finish. I have been a nurse in this department for more than twenty years, and last winter I was on the verge of leaving myself. What kept me here was not the pay but the people, and this project has reminded me that retention is not only about money. It is about whether we believe that our ideas can change the place where we work. I would like to commend every nurse who tried something new while already exhausted. You did the hard part.",
+      "translation_vn": "(1) Thay đổi cách giao ca: Báo cáo sau mười hai tuần\n(2) Người gửi: Megan Carter, điều dưỡng trưởng ca, Khoa Cấp cứu, Bệnh viện Sunset Bay. Người nhận: toàn bộ nhân viên khoa và giám đốc khoa.\n(3) Mùa đông năm ngoái là mùa khó khăn nhất mà phần lớn chúng ta còn nhớ. Khi khối lượng công việc tăng lên tuần này qua tuần khác, ba điều dưỡng giàu kinh nghiệm đã rời khoa trong vòng hai tháng, còn những người ở lại thì sống bằng sự mệt mỏi và cà phê.\n(4) Khi chúng tôi hỏi nhân viên chuyện hay trục trặc nhất ở đâu, cùng một câu trả lời cứ lặp lại: lúc giao ca, bảy giờ sáng và bảy giờ tối, khi thông tin về bốn mươi bệnh nhân được chuyển cho nhau trong một hành lang đông đúc, vội vàng.\n(5) Đã đến lúc phải thay đổi điều đó.\n(6) Tháng Chín, chúng tôi bắt đầu thử nghiệm một quy trình mới trong mười hai tuần. Giờ đây việc giao ca diễn ra ngay cạnh giường bệnh, để bệnh nhân có thể sửa lại nếu chúng ta nói sai điều gì, và theo một bảng kiểm in sẵn gồm năm điểm.\n(7) Rào cản lớn nhất là thời gian. Giám đốc đồng ý dành ra mười lăm phút chồng ca giữa hai ca, trả như giờ làm thêm, với điều kiện chúng tôi phải đo xem nó có đáng tiền hay không.\n(8) Vậy nó có đáng không? Trong mười hai tuần trước thử nghiệm, nhân viên báo cáo mười bốn trường hợp bỏ sót thông tin quan trọng khi giao ca. Trong thời gian thử nghiệm, họ báo cáo năm trường hợp.\n(9) Tôi cũng phải thành thật về cái giá phải trả. Giao ca lâu hơn trước, khoảng mười ba phút mỗi điều dưỡng thay vì chín phút, và vài đồng nghiệp nói với tôi rằng bảng kiểm thấy tẻ nhạt khi tình trạng bệnh nhân đơn giản.\n(10) Có một phần của thử nghiệm rõ ràng không hiệu quả: ca đêm. Những bệnh nhân vừa mới ngủ được lại bị đánh thức vì bốn điều dưỡng nói chuyện cạnh giường, điều này chẳng giúp ai cả.\n(11) Với việc giao ca đêm, chúng tôi sắp thử một phiên bản nhẹ nhàng hơn ở cửa từng phòng, dùng máy tính bảng thay cho giấy.\n(12) Đề xuất của tôi là giữ quy trình mới cho việc giao ca ban ngày và xem xét lại vào tháng Ba. Giám đốc sẽ ra quyết định cuối cùng vào tháng Một.\n(13) Một lời riêng để kết thúc. Tôi đã làm điều dưỡng ở khoa này hơn hai mươi năm, và mùa đông năm ngoái chính tôi cũng đã suýt nghỉ việc.\n(14) Thứ giữ tôi ở lại không phải đồng lương mà là con người, và dự án này nhắc tôi rằng giữ chân nhân viên không chỉ là chuyện tiền. Đó là chuyện chúng ta có tin rằng ý tưởng của mình có thể thay đổi nơi mình làm việc hay không.\n(15) Tôi muốn ghi nhận từng điều dưỡng đã thử một điều mới trong khi bản thân đã kiệt sức. Các bạn đã làm phần khó nhất.",
+      "word_count": 425,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004"
+      ]
+    },
+    {
+      "id": "passage_u0102_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 2) — Leah viết về hiệu ứng người ngoài cuộc"
+      },
+      "narrator": "Leah",
+      "title": "Will Anyone Help? What the Cameras Really Show",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 270,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Will Anyone Help? What the Cameras Really Show",
+            "vi": "Liệu có ai giúp không? Camera thực sự cho thấy điều gì"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By Dr. Leah Carter, for the Sunset Bay Hospital staff newsletter",
+            "vi": "Bài của bác sĩ Leah Carter, cho bản tin nhân viên Bệnh viện Sunset Bay"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of us learned about the \"bystander effect\" in a first-year psychology class: the more people who see an emergency, the less likely it is that any one of them will help.",
+            "vi": "Phần lớn chúng ta học về \"hiệu ứng người ngoài cuộc\" trong lớp tâm lý học năm nhất: càng nhiều người chứng kiến một tình huống khẩn cấp, thì càng ít khả năng có một người trong số đó ra tay giúp."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The idea seems plausible. Each person presumes that somebody else has already called for help, and nobody wants to be the one who makes a fuss about nothing.",
+            "vi": "Ý tưởng này nghe hợp lý. Mỗi người đều cho rằng ai đó đã gọi cứu giúp rồi, và không ai muốn là người làm ầm lên vì chuyện chẳng có gì."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Laboratory experiments in the late 1960s seemed to support it. Students who believed they were the only witness to a medical emergency were far more likely to act than students who believed that others were listening too.",
+            "vi": "Các thí nghiệm trong phòng thí nghiệm cuối thập niên 1960 dường như ủng hộ điều đó. Những sinh viên tin rằng mình là nhân chứng duy nhất của một ca cấp cứu y tế có khả năng hành động cao hơn nhiều so với những sinh viên tin rằng người khác cũng đang nghe thấy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, a laboratory is not a street. In 2020, a team of researchers published a study that did something nobody had done on this scale before: they watched what really happens.",
+            "vi": "Tuy nhiên, phòng thí nghiệm không phải là đường phố. Năm 2020, một nhóm nhà nghiên cứu công bố một nghiên cứu làm điều chưa ai làm ở quy mô này: họ quan sát điều thực sự xảy ra."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They studied 219 arguments and fights in public places, recorded by security cameras in three countries, namely the United Kingdom, the Netherlands and South Africa.",
+            "vi": "Họ nghiên cứu 219 vụ cãi vã và xô xát ở nơi công cộng do camera an ninh ghi lại ở ba nước, cụ thể là Anh, Hà Lan và Nam Phi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The result was startling. In about nine out of ten cases, at least one bystander, and usually several, stepped in to help, by calming someone down, pulling someone away or standing between two people.",
+            "vi": "Kết quả thật đáng kinh ngạc. Trong khoảng chín trên mười trường hợp, có ít nhất một người ngoài cuộc, mà thường là vài người, đã bước vào giúp, bằng cách làm ai đó bình tĩnh lại, kéo ai đó ra, hay đứng chắn giữa hai người."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Even more surprising, the more people there were, the more likely it was that somebody would help. The very thing that was supposed to stop people from acting turned out to make help more likely.",
+            "vi": "Đáng ngạc nhiên hơn nữa, càng đông người thì càng có khả năng có ai đó giúp. Chính điều được cho là ngăn người ta hành động hoá ra lại khiến sự giúp đỡ dễ xảy ra hơn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Does this mean that the old idea was simply wrong? Not quite. Each individual in a large crowd may still be a little less likely to act; it is just that a large crowd contains more people who might.",
+            "vi": "Vậy có phải ý tưởng cũ đơn giản là sai? Không hẳn. Mỗi cá nhân trong một đám đông lớn có thể vẫn ít có khả năng hành động hơn một chút; chỉ là đám đông lớn có nhiều người có thể ra tay hơn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hesitation is real, too. People will often stand and watch for a few seconds while they look for cues from those around them, and in a medical emergency, those seconds matter.",
+            "vi": "Sự chần chừ cũng là có thật. Người ta thường đứng nhìn vài giây trong lúc tìm tín hiệu từ những người xung quanh, và trong một ca cấp cứu y tế, mấy giây đó rất quan trọng."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This is where my partner Ethan, who teaches first-aid classes for the fire department, has a simple rule. Never shout \"Somebody call 911!\" at a crowd. Point at one person and say, \"You, in the red jacket, call 911 and tell me when they answer.\"",
+            "vi": "Đây là lúc Ethan, người yêu của tôi và cũng là người dạy lớp sơ cứu cho sở cứu hoả, có một quy tắc đơn giản. Đừng bao giờ hét \"Ai đó gọi 911 đi!\" vào đám đông. Hãy chỉ vào một người và nói: \"Anh áo khoác đỏ kia, gọi 911 và báo tôi khi họ nghe máy.\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An explicit request removes the doubt. The person in the red jacket no longer has to guess whether someone else has done it.",
+            "vi": "Một lời nhờ cụ thể xoá bỏ sự nghi ngờ. Người mặc áo khoác đỏ không còn phải đoán xem ai đó đã làm việc đó hay chưa."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I find the 2020 study reassuring, and I think it should make us less cynical about strangers. Most people are not indifferent; they are simply waiting for someone to tell them what to do.",
+            "vi": "Tôi thấy nghiên cứu năm 2020 thật đáng yên lòng, và tôi nghĩ nó nên khiến chúng ta bớt hoài nghi về người lạ. Phần lớn mọi người không thờ ơ; họ chỉ đang chờ ai đó bảo họ phải làm gì."
+          }
+        },
+        {
+          "n": 15,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In our job, that someone is very often us.",
+            "vi": "Trong nghề của chúng ta, người đó rất thường là chính chúng ta."
+          }
+        }
+      ],
+      "content_ja": "Will Anyone Help? What the Cameras Really Show\n\nBy Dr. Leah Carter, for the Sunset Bay Hospital staff newsletter\n\nMost of us learned about the \"bystander effect\" in a first-year psychology class: the more people who see an emergency, the less likely it is that any one of them will help. The idea seems plausible. Each person presumes that somebody else has already called for help, and nobody wants to be the one who makes a fuss about nothing.\n\nLaboratory experiments in the late 1960s seemed to support it. Students who believed they were the only witness to a medical emergency were far more likely to act than students who believed that others were listening too.\n\nHowever, a laboratory is not a street. In 2020, a team of researchers published a study that did something nobody had done on this scale before: they watched what really happens. They studied 219 arguments and fights in public places, recorded by security cameras in three countries, namely the United Kingdom, the Netherlands and South Africa.\n\nThe result was startling. In about nine out of ten cases, at least one bystander, and usually several, stepped in to help, by calming someone down, pulling someone away or standing between two people. Even more surprising, the more people there were, the more likely it was that somebody would help. The very thing that was supposed to stop people from acting turned out to make help more likely.\n\nDoes this mean that the old idea was simply wrong? Not quite. Each individual in a large crowd may still be a little less likely to act; it is just that a large crowd contains more people who might. Hesitation is real, too. People will often stand and watch for a few seconds while they look for cues from those around them, and in a medical emergency, those seconds matter.\n\nThis is where my partner Ethan, who teaches first-aid classes for the fire department, has a simple rule. Never shout \"Somebody call 911!\" at a crowd. Point at one person and say, \"You, in the red jacket, call 911 and tell me when they answer.\" An explicit request removes the doubt. The person in the red jacket no longer has to guess whether someone else has done it.\n\nI find the 2020 study reassuring, and I think it should make us less cynical about strangers. Most people are not indifferent; they are simply waiting for someone to tell them what to do. In our job, that someone is very often us.",
+      "translation_vn": "(1) Liệu có ai giúp không? Camera thực sự cho thấy điều gì\n(2) Bài của bác sĩ Leah Carter, cho bản tin nhân viên Bệnh viện Sunset Bay\n(3) Phần lớn chúng ta học về \"hiệu ứng người ngoài cuộc\" trong lớp tâm lý học năm nhất: càng nhiều người chứng kiến một tình huống khẩn cấp, thì càng ít khả năng có một người trong số đó ra tay giúp.\n(4) Ý tưởng này nghe hợp lý. Mỗi người đều cho rằng ai đó đã gọi cứu giúp rồi, và không ai muốn là người làm ầm lên vì chuyện chẳng có gì.\n(5) Các thí nghiệm trong phòng thí nghiệm cuối thập niên 1960 dường như ủng hộ điều đó. Những sinh viên tin rằng mình là nhân chứng duy nhất của một ca cấp cứu y tế có khả năng hành động cao hơn nhiều so với những sinh viên tin rằng người khác cũng đang nghe thấy.\n(6) Tuy nhiên, phòng thí nghiệm không phải là đường phố. Năm 2020, một nhóm nhà nghiên cứu công bố một nghiên cứu làm điều chưa ai làm ở quy mô này: họ quan sát điều thực sự xảy ra.\n(7) Họ nghiên cứu 219 vụ cãi vã và xô xát ở nơi công cộng do camera an ninh ghi lại ở ba nước, cụ thể là Anh, Hà Lan và Nam Phi.\n(8) Kết quả thật đáng kinh ngạc. Trong khoảng chín trên mười trường hợp, có ít nhất một người ngoài cuộc, mà thường là vài người, đã bước vào giúp, bằng cách làm ai đó bình tĩnh lại, kéo ai đó ra, hay đứng chắn giữa hai người.\n(9) Đáng ngạc nhiên hơn nữa, càng đông người thì càng có khả năng có ai đó giúp. Chính điều được cho là ngăn người ta hành động hoá ra lại khiến sự giúp đỡ dễ xảy ra hơn.\n(10) Vậy có phải ý tưởng cũ đơn giản là sai? Không hẳn. Mỗi cá nhân trong một đám đông lớn có thể vẫn ít có khả năng hành động hơn một chút; chỉ là đám đông lớn có nhiều người có thể ra tay hơn.\n(11) Sự chần chừ cũng là có thật. Người ta thường đứng nhìn vài giây trong lúc tìm tín hiệu từ những người xung quanh, và trong một ca cấp cứu y tế, mấy giây đó rất quan trọng.\n(12) Đây là lúc Ethan, người yêu của tôi và cũng là người dạy lớp sơ cứu cho sở cứu hoả, có một quy tắc đơn giản. Đừng bao giờ hét \"Ai đó gọi 911 đi!\" vào đám đông. Hãy chỉ vào một người và nói: \"Anh áo khoác đỏ kia, gọi 911 và báo tôi khi họ nghe máy.\"\n(13) Một lời nhờ cụ thể xoá bỏ sự nghi ngờ. Người mặc áo khoác đỏ không còn phải đoán xem ai đó đã làm việc đó hay chưa.\n(14) Tôi thấy nghiên cứu năm 2020 thật đáng yên lòng, và tôi nghĩ nó nên khiến chúng ta bớt hoài nghi về người lạ. Phần lớn mọi người không thờ ơ; họ chỉ đang chờ ai đó bảo họ phải làm gì.\n(15) Trong nghề của chúng ta, người đó rất thường là chính chúng ta.",
+      "word_count": 419,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0102_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What is the main purpose of Megan's report?",
+        "vi": "Mục đích chính của bản báo cáo của Megan là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to report the results of a trial and recommend what to do next",
+            "vi": "báo cáo kết quả một đợt thử nghiệm và đề xuất bước tiếp theo"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to report the results of a trial and recommend what to do next",
+          "text_translation": "báo cáo kết quả một đợt thử nghiệm và đề xuất bước tiếp theo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to complain about the pay of nurses",
+            "vi": "phàn nàn về lương điều dưỡng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to complain about the pay of nurses",
+          "text_translation": "phàn nàn về lương điều dưỡng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to announce that she is leaving the hospital",
+            "vi": "thông báo cô sắp rời bệnh viện"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to announce that she is leaving the hospital",
+          "text_translation": "thông báo cô sắp rời bệnh viện"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to ask the director for more nurses",
+            "vi": "xin giám đốc thêm điều dưỡng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to ask the director for more nurses",
+          "text_translation": "xin giám đốc thêm điều dưỡng"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Báo cáo đi theo trình tự: bối cảnh → cách làm → kết quả → đề xuất: \"My recommendation is that we keep the new protocol for day handovers and review it again in March.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Megan's report?",
+      "question_vn": "Mục đích chính của bản báo cáo của Megan là gì?",
+      "explanation": "Báo cáo đi theo trình tự: bối cảnh → cách làm → kết quả → đề xuất: \"My recommendation is that we keep the new protocol for day handovers and review it again in March.\""
+    },
+    {
+      "id": "q_u0102_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Why did staff identify handover as the main problem?",
+        "vi": "Vì sao nhân viên xác định giao ca là vấn đề chính?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it happened only once a day",
+            "vi": "vì nó chỉ diễn ra một lần mỗi ngày"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it happened only once a day",
+          "text_translation": "vì nó chỉ diễn ra một lần mỗi ngày"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because information about many patients was passed on quickly in a crowded place",
+            "vi": "vì thông tin về nhiều bệnh nhân được chuyển vội trong một nơi đông đúc"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because information about many patients was passed on quickly in a crowded place",
+          "text_translation": "vì thông tin về nhiều bệnh nhân được chuyển vội trong một nơi đông đúc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because patients complained about it",
+            "vi": "vì bệnh nhân phàn nàn về nó"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because patients complained about it",
+          "text_translation": "vì bệnh nhân phàn nàn về nó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the director told them to",
+            "vi": "vì giám đốc bảo họ vậy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the director told them to",
+          "text_translation": "vì giám đốc bảo họ vậy"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"information about forty patients is passed on in a crowded corridor in a hurry\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did staff identify handover as the main problem?",
+      "question_vn": "Vì sao nhân viên xác định giao ca là vấn đề chính?",
+      "explanation": "\"information about forty patients is passed on in a crowded corridor in a hurry\"."
+    },
+    {
+      "id": "q_u0102_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Why does the new protocol take place at the bedside?",
+        "vi": "Vì sao quy trình mới diễn ra cạnh giường bệnh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the corridor is being repaired",
+            "vi": "vì hành lang đang sửa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the corridor is being repaired",
+          "text_translation": "vì hành lang đang sửa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it is quicker",
+            "vi": "vì nhanh hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because it is quicker",
+          "text_translation": "vì nhanh hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that patients can correct mistakes in what the nurses say",
+            "vi": "để bệnh nhân có thể sửa chỗ sai trong lời điều dưỡng nói"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "so that patients can correct mistakes in what the nurses say",
+          "text_translation": "để bệnh nhân có thể sửa chỗ sai trong lời điều dưỡng nói"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that nurses can sit down",
+            "vi": "để điều dưỡng được ngồi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "so that nurses can sit down",
+          "text_translation": "để điều dưỡng được ngồi"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"so that the patient can correct us if we get something wrong\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the new protocol take place at the bedside?",
+      "question_vn": "Vì sao quy trình mới diễn ra cạnh giường bệnh?",
+      "explanation": "\"so that the patient can correct us if we get something wrong\"."
+    },
+    {
+      "id": "q_u0102_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What condition did the director attach to the fifteen-minute overlap?",
+        "vi": "Giám đốc đặt điều kiện gì cho mười lăm phút chồng ca?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that nurses would not be paid for it",
+            "vi": "điều dưỡng không được trả tiền"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that nurses would not be paid for it",
+          "text_translation": "điều dưỡng không được trả tiền"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that it would be used only at night",
+            "vi": "chỉ dùng vào ban đêm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that it would be used only at night",
+          "text_translation": "chỉ dùng vào ban đêm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that Megan would work it alone",
+            "vi": "Megan tự làm một mình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that Megan would work it alone",
+          "text_translation": "Megan tự làm một mình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the team would measure whether it was worth the cost",
+            "vi": "nhóm phải đo xem nó có đáng tiền không"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "that the team would measure whether it was worth the cost",
+          "text_translation": "nhóm phải đo xem nó có đáng tiền không"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"on the condition that we measured whether it was worth the money\"."
+      },
+      "audio_data": null,
+      "question_jp": "What condition did the director attach to the fifteen-minute overlap?",
+      "question_vn": "Giám đốc đặt điều kiện gì cho mười lăm phút chồng ca?",
+      "explanation": "\"on the condition that we measured whether it was worth the money\"."
+    },
+    {
+      "id": "q_u0102_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "In the sentence about the checklist, the word \"tedious\" is closest in meaning to",
+        "vi": "Trong câu nói về bảng kiểm, từ \"tedious\" gần nghĩa nhất với"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "dangerous",
+            "vi": "nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "dangerous",
+          "text_translation": "nguy hiểm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "boring and repetitive",
+            "vi": "nhàm chán và lặp đi lặp lại"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "boring and repetitive",
+          "text_translation": "nhàm chán và lặp đi lặp lại"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "expensive",
+            "vi": "tốn kém"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "expensive",
+          "text_translation": "tốn kém"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "confusing",
+            "vi": "khó hiểu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "confusing",
+          "text_translation": "khó hiểu"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Từ trong ngữ cảnh. Bảng kiểm năm điểm phải làm cả khi \"a patient's situation is simple\", nên thấy lặp lại, nhàm chán."
+      },
+      "audio_data": null,
+      "question_jp": "In the sentence about the checklist, the word \"tedious\" is closest in meaning to",
+      "question_vn": "Trong câu nói về bảng kiểm, từ \"tedious\" gần nghĩa nhất với",
+      "explanation": "Từ trong ngữ cảnh. Bảng kiểm năm điểm phải làm cả khi \"a patient's situation is simple\", nên thấy lặp lại, nhàm chán."
+    },
+    {
+      "id": "q_u0102_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What is the function of the paragraph that begins \"So, was it?\"",
+        "vi": "Đoạn bắt đầu bằng \"So, was it?\" có chức năng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It presents the results, including both a benefit and a cost.",
+            "vi": "Nó trình bày kết quả, gồm cả một lợi ích và một cái giá."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It presents the results, including both a benefit and a cost.",
+          "text_translation": "Nó trình bày kết quả, gồm cả một lợi ích và một cái giá."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It describes the background of the problem.",
+            "vi": "Nó mô tả bối cảnh của vấn đề."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It describes the background of the problem.",
+          "text_translation": "Nó mô tả bối cảnh của vấn đề."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It makes a final recommendation.",
+            "vi": "Nó đưa ra đề xuất cuối cùng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It makes a final recommendation.",
+          "text_translation": "Nó đưa ra đề xuất cuối cùng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It tells a personal story.",
+            "vi": "Nó kể một câu chuyện riêng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It tells a personal story.",
+          "text_translation": "Nó kể một câu chuyện riêng."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc lập luận. Đoạn này trả lời \"So, was it?\": lỗi giảm từ 14 xuống 5, rồi \"I should be honest about the costs, too.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the function of the paragraph that begins \"So, was it?\"",
+      "question_vn": "Đoạn bắt đầu bằng \"So, was it?\" có chức năng gì?",
+      "explanation": "Câu hỏi cấu trúc lập luận. Đoạn này trả lời \"So, was it?\": lỗi giảm từ 14 xuống 5, rồi \"I should be honest about the costs, too.\""
+    },
+    {
+      "id": "q_u0102_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What can be inferred about the night-shift version of the protocol?",
+        "vi": "Có thể suy ra gì về phiên bản ca đêm của quy trình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has already been tested and works well.",
+            "vi": "Nó đã được thử và hiệu quả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It has already been tested and works well.",
+          "text_translation": "Nó đã được thử và hiệu quả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It will use more nurses.",
+            "vi": "Nó sẽ dùng nhiều điều dưỡng hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It will use more nurses.",
+          "text_translation": "Nó sẽ dùng nhiều điều dưỡng hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The director has rejected it.",
+            "vi": "Giám đốc đã bác bỏ nó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The director has rejected it.",
+          "text_translation": "Giám đốc đã bác bỏ nó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It has not been tried yet, and its aim is to avoid waking patients.",
+            "vi": "Nó chưa được thử, và mục đích là tránh đánh thức bệnh nhân."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It has not been tried yet, and its aim is to avoid waking patients.",
+          "text_translation": "Nó chưa được thử, và mục đích là tránh đánh thức bệnh nhân."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"we are set to try\" = sắp thử, tức chưa thử. Lý do là bệnh nhân \"were woken up by four nurses talking beside their bed\"."
+      },
+      "audio_data": null,
+      "question_jp": "What can be inferred about the night-shift version of the protocol?",
+      "question_vn": "Có thể suy ra gì về phiên bản ca đêm của quy trình?",
+      "explanation": "Câu suy luận. \"we are set to try\" = sắp thử, tức chưa thử. Lý do là bệnh nhân \"were woken up by four nurses talking beside their bed\"."
+    },
+    {
+      "id": "q_u0102_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Why does Megan mention that she nearly left the department herself?",
+        "vi": "Vì sao Megan nhắc rằng chính cô cũng suýt rời khoa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask for a pay rise",
+            "vi": "để xin tăng lương"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask for a pay rise",
+          "text_translation": "để xin tăng lương"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to announce her retirement",
+            "vi": "để báo nghỉ hưu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to announce her retirement",
+          "text_translation": "để báo nghỉ hưu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that she understands how her exhausted colleagues feel, and to support her point about retention",
+            "vi": "để cho thấy cô hiểu cảm giác của đồng nghiệp đang kiệt sức, và để củng cố ý của cô về giữ chân nhân viên"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to show that she understands how her exhausted colleagues feel, and to support her point about retention",
+          "text_translation": "để cho thấy cô hiểu cảm giác của đồng nghiệp đang kiệt sức, và để củng cố ý của cô về giữ chân nhân viên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to criticize the director",
+            "vi": "để chỉ trích giám đốc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to criticize the director",
+          "text_translation": "để chỉ trích giám đốc"
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. Ngay sau đó cô viết \"retention is not only about money\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Megan mention that she nearly left the department herself?",
+      "question_vn": "Vì sao Megan nhắc rằng chính cô cũng suýt rời khoa?",
+      "explanation": "Câu suy luận về mục đích. Ngay sau đó cô viết \"retention is not only about money\"."
+    },
+    {
+      "id": "q_u0102_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Which statement best describes Megan's attitude in the report?",
+        "vi": "Câu nào mô tả đúng nhất thái độ của Megan trong báo cáo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "honest about the problems, but positive overall",
+            "vi": "thành thật về các vấn đề nhưng nhìn chung tích cực"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "honest about the problems, but positive overall",
+          "text_translation": "thành thật về các vấn đề nhưng nhìn chung tích cực"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "completely satisfied with every part of the trial",
+            "vi": "hoàn toàn hài lòng với mọi phần của thử nghiệm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "completely satisfied with every part of the trial",
+          "text_translation": "hoàn toàn hài lòng với mọi phần của thử nghiệm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "angry with her colleagues",
+            "vi": "giận đồng nghiệp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "angry with her colleagues",
+          "text_translation": "giận đồng nghiệp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "doubtful that anything can change",
+            "vi": "nghi ngờ rằng mọi thứ có thể thay đổi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "doubtful that anything can change",
+          "text_translation": "nghi ngờ rằng mọi thứ có thể thay đổi"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. Cô thừa nhận \"I should be honest about the costs, too.\" và \"One part of the trial clearly did not work\", nhưng vẫn đề xuất giữ quy trình và khen cả nhóm."
+      },
+      "audio_data": null,
+      "question_jp": "Which statement best describes Megan's attitude in the report?",
+      "question_vn": "Câu nào mô tả đúng nhất thái độ của Megan trong báo cáo?",
+      "explanation": "Câu hỏi thái độ. Cô thừa nhận \"I should be honest about the costs, too.\" và \"One part of the trial clearly did not work\", nhưng vẫn đề xuất giữ quy trình và khen cả nhóm."
+    },
+    {
+      "id": "q_u0102_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "According to Megan, what is retention really about?",
+        "vi": "Theo Megan, việc giữ chân nhân viên thực chất là chuyện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "only salaries",
+            "vi": "chỉ lương"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "only salaries",
+          "text_translation": "chỉ lương"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "longer holidays",
+            "vi": "kỳ nghỉ dài hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "longer holidays",
+          "text_translation": "kỳ nghỉ dài hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "whether staff believe their ideas can change their workplace",
+            "vi": "nhân viên có tin ý tưởng của mình thay đổi được nơi làm việc không"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "whether staff believe their ideas can change their workplace",
+          "text_translation": "nhân viên có tin ý tưởng của mình thay đổi được nơi làm việc không"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "hiring younger nurses",
+            "vi": "tuyển điều dưỡng trẻ hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "hiring younger nurses",
+          "text_translation": "tuyển điều dưỡng trẻ hơn"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"It is about whether we believe that our ideas can change the place where we work.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Megan, what is retention really about?",
+      "question_vn": "Theo Megan, việc giữ chân nhân viên thực chất là chuyện gì?",
+      "explanation": "\"It is about whether we believe that our ideas can change the place where we work.\""
+    },
+    {
+      "id": "q_u0102_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What is the traditional idea of the \"bystander effect\"?",
+        "vi": "Ý tưởng truyền thống về \"hiệu ứng người ngoài cuộc\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People help more when they are tired.",
+            "vi": "Người ta giúp nhiều hơn khi mệt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People help more when they are tired.",
+          "text_translation": "Người ta giúp nhiều hơn khi mệt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The more people who see an emergency, the less likely any one of them is to help.",
+            "vi": "Càng nhiều người chứng kiến, càng ít khả năng một người trong số đó giúp."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The more people who see an emergency, the less likely any one of them is to help.",
+          "text_translation": "Càng nhiều người chứng kiến, càng ít khả năng một người trong số đó giúp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Doctors are the only people who help.",
+            "vi": "Chỉ bác sĩ mới giúp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Doctors are the only people who help.",
+          "text_translation": "Chỉ bác sĩ mới giúp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Strangers never help.",
+            "vi": "Người lạ không bao giờ giúp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Strangers never help.",
+          "text_translation": "Người lạ không bao giờ giúp."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"the more people who see an emergency, the less likely it is that any one of them will help.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the traditional idea of the \"bystander effect\"?",
+      "question_vn": "Ý tưởng truyền thống về \"hiệu ứng người ngoài cuộc\" là gì?",
+      "explanation": "\"the more people who see an emergency, the less likely it is that any one of them will help.\""
+    },
+    {
+      "id": "q_u0102_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "According to the article, why might each person in a crowd fail to act?",
+        "vi": "Theo bài, vì sao mỗi người trong đám đông có thể không hành động?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They do not care about strangers.",
+            "vi": "Họ không quan tâm người lạ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They do not care about strangers.",
+          "text_translation": "Họ không quan tâm người lạ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are afraid of the police.",
+            "vi": "Họ sợ cảnh sát."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are afraid of the police.",
+          "text_translation": "Họ sợ cảnh sát."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have never learned first aid.",
+            "vi": "Họ chưa từng học sơ cứu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have never learned first aid.",
+          "text_translation": "Họ chưa từng học sơ cứu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They assume someone else has already called, and fear making a fuss about nothing.",
+            "vi": "Họ cho rằng ai đó đã gọi rồi, và ngại làm ầm lên vì không có gì."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They assume someone else has already called, and fear making a fuss about nothing.",
+          "text_translation": "Họ cho rằng ai đó đã gọi rồi, và ngại làm ầm lên vì không có gì."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Each person presumes that somebody else has already called for help, and nobody wants to be the one who makes a fuss about nothing.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, why might each person in a crowd fail to act?",
+      "question_vn": "Theo bài, vì sao mỗi người trong đám đông có thể không hành động?",
+      "explanation": "\"Each person presumes that somebody else has already called for help, and nobody wants to be the one who makes a fuss about nothing.\""
+    },
+    {
+      "id": "q_u0102_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What does the sentence \"However, a laboratory is not a street\" suggest?",
+        "vi": "Câu \"Tuy nhiên, phòng thí nghiệm không phải là đường phố\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Results from experiments may not show what people really do in real life.",
+            "vi": "Kết quả thí nghiệm có thể không cho thấy người ta thực sự làm gì ngoài đời."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Results from experiments may not show what people really do in real life.",
+          "text_translation": "Kết quả thí nghiệm có thể không cho thấy người ta thực sự làm gì ngoài đời."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Laboratories are more dangerous than streets.",
+            "vi": "Phòng thí nghiệm nguy hiểm hơn đường phố."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Laboratories are more dangerous than streets.",
+          "text_translation": "Phòng thí nghiệm nguy hiểm hơn đường phố."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Scientists should not do experiments.",
+            "vi": "Nhà khoa học không nên làm thí nghiệm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Scientists should not do experiments.",
+          "text_translation": "Nhà khoa học không nên làm thí nghiệm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Streets need more cameras.",
+            "vi": "Đường phố cần thêm camera."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Streets need more cameras.",
+          "text_translation": "Đường phố cần thêm camera."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. Câu này chuyển ý: các thí nghiệm năm 1960 có thể không phản ánh đời thật, nên nghiên cứu 2020 \"watched what really happens\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the sentence \"However, a laboratory is not a street\" suggest?",
+      "question_vn": "Câu \"Tuy nhiên, phòng thí nghiệm không phải là đường phố\" hàm ý gì?",
+      "explanation": "Câu hàm ý. Câu này chuyển ý: các thí nghiệm năm 1960 có thể không phản ánh đời thật, nên nghiên cứu 2020 \"watched what really happens\"."
+    },
+    {
+      "id": "q_u0102_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "How was the 2020 study different from the earlier experiments?",
+        "vi": "Nghiên cứu năm 2020 khác các thí nghiệm trước thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It used only students.",
+            "vi": "Nó chỉ dùng sinh viên."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It used only students.",
+          "text_translation": "Nó chỉ dùng sinh viên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It took place in one hospital.",
+            "vi": "Nó diễn ra ở một bệnh viện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It took place in one hospital.",
+          "text_translation": "Nó diễn ra ở một bệnh viện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It studied real events recorded by security cameras in several countries.",
+            "vi": "Nó nghiên cứu các sự việc thật do camera an ninh ghi lại ở nhiều nước."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It studied real events recorded by security cameras in several countries.",
+          "text_translation": "Nó nghiên cứu các sự việc thật do camera an ninh ghi lại ở nhiều nước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It asked people what they would do.",
+            "vi": "Nó hỏi người ta sẽ làm gì."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It asked people what they would do.",
+          "text_translation": "Nó hỏi người ta sẽ làm gì."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"They studied 219 arguments and fights in public places, recorded by security cameras in three countries\"."
+      },
+      "audio_data": null,
+      "question_jp": "How was the 2020 study different from the earlier experiments?",
+      "question_vn": "Nghiên cứu năm 2020 khác các thí nghiệm trước thế nào?",
+      "explanation": "\"They studied 219 arguments and fights in public places, recorded by security cameras in three countries\"."
+    },
+    {
+      "id": "q_u0102_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Which of these is NOT mentioned as a way bystanders helped?",
+        "vi": "Cách nào KHÔNG được nhắc tới như cách người ngoài cuộc đã giúp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "calming someone down",
+            "vi": "làm ai đó bình tĩnh lại"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "calming someone down",
+          "text_translation": "làm ai đó bình tĩnh lại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "pulling someone away",
+            "vi": "kéo ai đó ra"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "pulling someone away",
+          "text_translation": "kéo ai đó ra"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "standing between two people",
+            "vi": "đứng chắn giữa hai người"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "standing between two people",
+          "text_translation": "đứng chắn giữa hai người"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "taking photos for the police",
+            "vi": "chụp ảnh cho cảnh sát"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "taking photos for the police",
+          "text_translation": "chụp ảnh cho cảnh sát"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"by calming someone down, pulling someone away or standing between two people\". Không có chuyện chụp ảnh."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT mentioned as a way bystanders helped?",
+      "question_vn": "Cách nào KHÔNG được nhắc tới như cách người ngoài cuộc đã giúp?",
+      "explanation": "\"by calming someone down, pulling someone away or standing between two people\". Không có chuyện chụp ảnh."
+    },
+    {
+      "id": "q_u0102_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "In the paragraph about the surprising result, what does \"The very thing\" refer to?",
+        "vi": "Trong đoạn nói về kết quả bất ngờ, \"The very thing\" chỉ điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the security cameras",
+            "vi": "các camera an ninh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the security cameras",
+          "text_translation": "các camera an ninh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the presence of many people",
+            "vi": "sự có mặt của nhiều người"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the presence of many people",
+          "text_translation": "sự có mặt của nhiều người"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the laboratory experiments",
+            "vi": "các thí nghiệm trong phòng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the laboratory experiments",
+          "text_translation": "các thí nghiệm trong phòng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "first-aid classes",
+            "vi": "các lớp sơ cứu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "first-aid classes",
+          "text_translation": "các lớp sơ cứu"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu quy chiếu. Câu trước nói \"the more people there were, the more likely it was that somebody would help\". Điều được cho là ngăn người ta hành động chính là đám đông."
+      },
+      "audio_data": null,
+      "question_jp": "In the paragraph about the surprising result, what does \"The very thing\" refer to?",
+      "question_vn": "Trong đoạn nói về kết quả bất ngờ, \"The very thing\" chỉ điều gì?",
+      "explanation": "Câu quy chiếu. Câu trước nói \"the more people there were, the more likely it was that somebody would help\". Điều được cho là ngăn người ta hành động chính là đám đông."
+    },
+    {
+      "id": "q_u0102_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "In the paragraph that begins \"Does this mean\", what is the writer's view of the old idea?",
+        "vi": "Trong đoạn bắt đầu bằng \"Does this mean\", người viết nhìn nhận ý tưởng cũ thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is partly true: each person may hesitate, but a crowd has more possible helpers.",
+            "vi": "Đúng một phần: mỗi người có thể chần chừ, nhưng đám đông có nhiều người có thể giúp hơn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It is partly true: each person may hesitate, but a crowd has more possible helpers.",
+          "text_translation": "Đúng một phần: mỗi người có thể chần chừ, nhưng đám đông có nhiều người có thể giúp hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is completely true.",
+            "vi": "Hoàn toàn đúng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is completely true.",
+          "text_translation": "Hoàn toàn đúng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is completely false.",
+            "vi": "Hoàn toàn sai."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is completely false.",
+          "text_translation": "Hoàn toàn sai."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is impossible to test.",
+            "vi": "Không thể kiểm chứng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is impossible to test.",
+          "text_translation": "Không thể kiểm chứng."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi lập luận. \"Not quite.\" rồi \"it is just that a large crowd contains more people who might.\""
+      },
+      "audio_data": null,
+      "question_jp": "In the paragraph that begins \"Does this mean\", what is the writer's view of the old idea?",
+      "question_vn": "Trong đoạn bắt đầu bằng \"Does this mean\", người viết nhìn nhận ý tưởng cũ thế nào?",
+      "explanation": "Câu hỏi lập luận. \"Not quite.\" rồi \"it is just that a large crowd contains more people who might.\""
+    },
+    {
+      "id": "q_u0102_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Why does Ethan advise pointing at one person?",
+        "vi": "Vì sao Ethan khuyên chỉ vào một người cụ thể?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it is more polite",
+            "vi": "vì lịch sự hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it is more polite",
+          "text_translation": "vì lịch sự hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because people in red jackets are calmer",
+            "vi": "vì người mặc áo đỏ bình tĩnh hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because people in red jackets are calmer",
+          "text_translation": "vì người mặc áo đỏ bình tĩnh hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because crowds cannot hear shouting",
+            "vi": "vì đám đông không nghe được tiếng hét"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because crowds cannot hear shouting",
+          "text_translation": "vì đám đông không nghe được tiếng hét"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because a direct request removes the doubt about whether someone else has called",
+            "vi": "vì lời nhờ trực tiếp xoá nghi ngờ về việc ai đó đã gọi chưa"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because a direct request removes the doubt about whether someone else has called",
+          "text_translation": "vì lời nhờ trực tiếp xoá nghi ngờ về việc ai đó đã gọi chưa"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận nối với đoạn 3 (mỗi người cho rằng ai đó đã gọi rồi): \"The person in the red jacket no longer has to guess whether someone else has done it.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ethan advise pointing at one person?",
+      "question_vn": "Vì sao Ethan khuyên chỉ vào một người cụ thể?",
+      "explanation": "Câu suy luận nối với đoạn 3 (mỗi người cho rằng ai đó đã gọi rồi): \"The person in the red jacket no longer has to guess whether someone else has done it.\""
+    },
+    {
+      "id": "q_u0102_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What does the final sentence, \"In our job, that someone is very often us\", imply?",
+        "vi": "Câu cuối \"Trong nghề của chúng ta, người đó rất thường là chính chúng ta\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Hospital staff should avoid emergencies outside work.",
+            "vi": "Nhân viên bệnh viện nên tránh tình huống khẩn cấp ngoài giờ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Hospital staff should avoid emergencies outside work.",
+          "text_translation": "Nhân viên bệnh viện nên tránh tình huống khẩn cấp ngoài giờ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Health workers are often the person who should take charge and tell others what to do.",
+            "vi": "Nhân viên y tế thường là người nên đứng ra chỉ huy và bảo người khác phải làm gì."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Health workers are often the person who should take charge and tell others what to do.",
+          "text_translation": "Nhân viên y tế thường là người nên đứng ra chỉ huy và bảo người khác phải làm gì."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Doctors are more cynical than other people.",
+            "vi": "Bác sĩ hoài nghi hơn người khác."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Doctors are more cynical than other people.",
+          "text_translation": "Bác sĩ hoài nghi hơn người khác."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nurses should teach first aid.",
+            "vi": "Điều dưỡng nên dạy sơ cứu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nurses should teach first aid.",
+          "text_translation": "Điều dưỡng nên dạy sơ cứu."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. Câu trước: mọi người \"are simply waiting for someone to tell them what to do.\" Người đọc là nhân viên bệnh viện, nên \"someone\" là họ."
+      },
+      "audio_data": null,
+      "question_jp": "What does the final sentence, \"In our job, that someone is very often us\", imply?",
+      "question_vn": "Câu cuối \"Trong nghề của chúng ta, người đó rất thường là chính chúng ta\" hàm ý gì?",
+      "explanation": "Câu hàm ý. Câu trước: mọi người \"are simply waiting for someone to tell them what to do.\" Người đọc là nhân viên bệnh viện, nên \"someone\" là họ."
+    },
+    {
+      "id": "q_u0102_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Use both texts. What do Megan's report and Leah's article have in common?",
+        "vi": "Dựa vào cả hai bài. Báo cáo của Megan và bài viết của Leah có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them reject research.",
+            "vi": "Cả hai đều bác bỏ nghiên cứu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them reject research.",
+          "text_translation": "Cả hai đều bác bỏ nghiên cứu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them describe a fight in public.",
+            "vi": "Cả hai đều tả một vụ xô xát nơi công cộng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them describe a fight in public.",
+          "text_translation": "Cả hai đều tả một vụ xô xát nơi công cộng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them show that clear communication about who does what can reduce mistakes and delays.",
+            "vi": "Cả hai cho thấy giao tiếp rõ ràng về việc ai làm gì có thể giảm sai sót và chậm trễ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Both of them show that clear communication about who does what can reduce mistakes and delays.",
+          "text_translation": "Cả hai cho thấy giao tiếp rõ ràng về việc ai làm gì có thể giảm sai sót và chậm trễ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them were written for patients.",
+            "vi": "Cả hai đều viết cho bệnh nhân."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Both of them were written for patients.",
+          "text_translation": "Cả hai đều viết cho bệnh nhân."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Megan dùng bảng kiểm năm điểm để giao ca rõ ràng (lỗi từ 14 xuống 5); Leah viết \"An explicit request removes the doubt.\""
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Megan's report and Leah's article have in common?",
+      "question_vn": "Dựa vào cả hai bài. Báo cáo của Megan và bài viết của Leah có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Megan dùng bảng kiểm năm điểm để giao ca rõ ràng (lỗi từ 14 xuống 5); Leah viết \"An explicit request removes the doubt.\""
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0102_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 1) — Báo cáo của Megan về dự án đổi cách giao ca",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0102_01",
+      "question_ids": [
+        "q_u0102_001",
+        "q_u0102_002",
+        "q_u0102_003",
+        "q_u0102_004",
+        "q_u0102_005",
+        "q_u0102_006",
+        "q_u0102_007",
+        "q_u0102_008",
+        "q_u0102_009",
+        "q_u0102_010"
+      ]
+    },
+    {
+      "set_id": "set_u0102_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 2) — Leah viết về hiệu ứng người ngoài cuộc",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0102_02",
+      "question_ids": [
+        "q_u0102_011",
+        "q_u0102_012",
+        "q_u0102_013",
+        "q_u0102_014",
+        "q_u0102_015",
+        "q_u0102_016",
+        "q_u0102_017",
+        "q_u0102_018",
+        "q_u0102_019",
+        "q_u0102_020"
+      ]
+    }
+  ]
+}
