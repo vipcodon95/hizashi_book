@@ -1,0 +1,1332 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 3 — Rules and advice",
+      "vi": "Quy định và lời khuyên"
+    },
+    "title": "Unit 3 — Rules and advice",
+    "title_vn": "Quy định và lời khuyên",
+    "module_code": "57_u03",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u03",
+    "curriculum_sheets": [
+      "a2.09",
+      "a2.10",
+      "a2.11",
+      "a2.12"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Megan Carter",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 10, năm 2 (Trevor 12 tuổi, lớp 7, vừa được mẹ cho một chiếc điện thoại mới)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "have to / must / must not / don't have to, lời khuyên với should và Why don't you…?, quy chiếu, nghĩa bóng, suy luận, nối dữ kiện giữa hai bài",
+    "description_vn": "Megan viết nội quy dùng điện thoại cho Trevor, Trevor nhắn tin xin chị Leah lời khuyên, và nội quy của Thư viện Thành phố nơi Leah đang ngồi học. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 3 khoá A2 · phiếu `a2.09` – `a2.12` (quy định ở nhà, quy định ở trường và nơi làm việc, đưa ra lời khuyên, xin lời khuyên)."
+    },
+    "objective_i18n": {
+      "vi": "đọc nội quy dùng điện thoại mẹ viết cho Trevor, chuỗi tin nhắn Trevor xin ý kiến chị Leah, và nội quy của thư viện thành phố; phân biệt have to / must (phải), must not (không được) và don't have to (không cần); nhận ra lời khuyên với should, Why don't you…?, Why not…?; hiểu chữ that chỉ gì, hiểu câu nói theo nghĩa bóng, suy ra lý do từ tin nhắn, và nối dữ kiện giữa hai bài."
+    },
+    "extra_words": [
+      {
+        "word": "strict",
+        "i18n": {
+          "vi": "nghiêm khắc"
+        }
+      },
+      {
+        "word": "follow",
+        "i18n": {
+          "vi": "làm theo"
+        }
+      },
+      {
+        "word": "borrow",
+        "i18n": {
+          "vi": "mượn"
+        }
+      },
+      {
+        "word": "alarm",
+        "i18n": {
+          "vi": "chuông báo động"
+        }
+      },
+      {
+        "word": "elevator",
+        "i18n": {
+          "vi": "thang máy"
+        }
+      },
+      {
+        "word": "stairs",
+        "i18n": {
+          "vi": "cầu thang bộ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "table manners",
+          "vi": "phép lịch sự khi ăn ở bàn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "at once",
+          "vi": "ngay lập tức"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Should I…?",
+          "vi": "Em/tôi có nên… không? (xin lời khuyên)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Why not try?",
+          "vi": "Sao không thử xem?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "at all times",
+          "vi": "lúc nào cũng, mọi lúc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "turn off",
+          "vi": "tắt (điện thoại, chuông)"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**have to / must** = phải (bắt buộc); **must not / mustn't** = không được (cấm); **don't have to** = không cần (không bắt buộc, làm cũng được). Câu hỏi về quy định thường bẫy đúng chỗ nhầm giữa must not và don't have to. (Văn viết kiểu Mỹ hay dùng must not; mustn't nghe kiểu Anh hơn.)"
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Lời khuyên: **should / shouldn't**, **I don't think you should…**, **Why don't you…?**, **Why not…?**. Câu hỏi What is … advice? thì tìm các cụm này, đừng lấy ý của người đi xin lời khuyên."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Thông báo nhiều tiêu đề nhỏ (First Floor, Reading Room…): mỗi quy định chỉ đúng cho phần của nó. Đọc tiêu đề trước, rồi mới đọc câu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận và câu nối hai bài: bài không nói thẳng. Gom 2–3 dữ kiện (lời ấp úng, giờ trên tin nhắn, quy định từng tầng) rồi loại dần các phương án không khớp."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u03_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Nội quy dùng điện thoại mẹ viết cho Trevor, và tin nhắn Trevor gửi chị Leah"
+      },
+      "narrator": "Megan",
+      "title": "Trevor's New Phone",
+      "category": "letter",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Phone Rules for Trevor",
+            "vi": "Nội quy dùng điện thoại của Trevor"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here is your new phone, Trevor, but there are rules.",
+            "vi": "Điện thoại mới của con đây, Trevor, nhưng có quy định hẳn hoi."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "1.",
+          "i18n": {
+            "en": "You have to finish your homework first.",
+            "vi": "Con phải làm xong bài tập về nhà trước đã."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "2.",
+          "i18n": {
+            "en": "You must not use it at the dinner table, so good table manners, please!",
+            "vi": "Con không được dùng điện thoại ở bàn ăn tối, nên giữ phép lịch sự khi ăn nhé!"
+          }
+        },
+        {
+          "n": 5,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "3.",
+          "i18n": {
+            "en": "At nine p.m., your phone goes to the kitchen, because it sleeps there, not in your room.",
+            "vi": "Chín giờ tối, điện thoại của con phải xuống bếp, vì nó ngủ ở đó, không ngủ trong phòng con."
+          }
+        },
+        {
+          "n": 6,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "4.",
+          "i18n": {
+            "en": "You must not watch soccer videos in bed. Yes, Trevor, I know about that.",
+            "vi": "Con không được nằm trên giường xem video bóng đá. Đúng thế đấy Trevor, mẹ biết chuyện đó rồi."
+          }
+        },
+        {
+          "n": 7,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "5.",
+          "i18n": {
+            "en": "You don't have to answer every message at once. Your friends can wait.",
+            "vi": "Con không cần trả lời mọi tin nhắn ngay lập tức. Bạn bè con chờ được."
+          }
+        },
+        {
+          "n": 8,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "6.",
+          "i18n": {
+            "en": "But you must always answer when I call!",
+            "vi": "Nhưng mẹ gọi thì con phải luôn luôn nghe máy!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 9,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom",
+            "vi": "Mẹ"
+          }
+        },
+        {
+          "n": 10,
+          "para": 10,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Monday, 8:15 p.m.",
+            "vi": "Thứ Hai, 8 giờ 15 tối"
+          }
+        },
+        {
+          "n": 11,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Leah, help! Mom gave me SIX phone rules. In my opinion, that's not fair. Should I tell her?",
+            "vi": "Chị Leah ơi, cứu em! Mẹ đặt cho em SÁU quy định dùng điện thoại. Theo em thế là không công bằng. Em có nên nói với mẹ không?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "I'm at the library, so I can't call. But no, I don't think you should.",
+            "vi": "Chị đang ở thư viện nên không gọi được. Mà không, chị nghĩ em không nên nói thế đâu."
+          }
+        },
+        {
+          "n": 13,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "My phone has to sleep in the kitchen. Phones don't sleep!",
+            "vi": "Nhưng điện thoại của em phải ngủ ở bếp. Điện thoại thì có ngủ bao giờ đâu!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Your phone sleeps, so you sleep too. Why don't you follow the rules for two weeks? Then ask her for thirty more minutes on Saturdays.",
+            "vi": "Điện thoại ngủ thì em cũng ngủ. Sao em không thử theo đúng nội quy trong hai tuần? Rồi hãy xin mẹ cho thêm ba mươi phút vào các ngày thứ Bảy."
+          }
+        },
+        {
+          "n": 15,
+          "para": 17,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Your mom is strict but fair, so why not try? Wait, is your homework finished?",
+            "vi": "Mẹ em nghiêm nhưng công bằng, vậy sao không thử xem? Khoan đã, em làm xong bài tập chưa?"
+          }
+        },
+        {
+          "n": 16,
+          "para": 18,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "OK... bye!",
+            "vi": "Ờ... em chào chị!"
+          }
+        }
+      ],
+      "content_ja": "Phone Rules for Trevor\n\nHere is your new phone, Trevor, but there are rules.\n\n1. You have to finish your homework first.\n\n2. You must not use it at the dinner table, so good table manners, please!\n\n3. At nine p.m., your phone goes to the kitchen, because it sleeps there, not in your room.\n\n4. You must not watch soccer videos in bed. Yes, Trevor, I know about that.\n\n5. You don't have to answer every message at once. Your friends can wait.\n\n6. But you must always answer when I call!\n\nMom\n\nMonday, 8:15 p.m.\n\nTrevor: Leah, help! Mom gave me SIX phone rules. In my opinion, that's not fair. Should I tell her?\n\nLeah: I'm at the library, so I can't call. But no, I don't think you should.\n\nTrevor: My phone has to sleep in the kitchen. Phones don't sleep!\n\nLeah: Your phone sleeps, so you sleep too. Why don't you follow the rules for two weeks? Then ask her for thirty more minutes on Saturdays.\n\nLeah: Your mom is strict but fair, so why not try? Wait, is your homework finished?\n\nTrevor: OK... bye!",
+      "translation_vn": "(1) Nội quy dùng điện thoại của Trevor\n(2) Điện thoại mới của con đây, Trevor, nhưng có quy định hẳn hoi.\n(3) Con phải làm xong bài tập về nhà trước đã.\n(4) Con không được dùng điện thoại ở bàn ăn tối, nên giữ phép lịch sự khi ăn nhé!\n(5) Chín giờ tối, điện thoại của con phải xuống bếp, vì nó ngủ ở đó, không ngủ trong phòng con.\n(6) Con không được nằm trên giường xem video bóng đá. Đúng thế đấy Trevor, mẹ biết chuyện đó rồi.\n(7) Con không cần trả lời mọi tin nhắn ngay lập tức. Bạn bè con chờ được.\n(8) Nhưng mẹ gọi thì con phải luôn luôn nghe máy!\n(9) Mẹ\n(10) Thứ Hai, 8 giờ 15 tối\n(11) Trevor: Chị Leah ơi, cứu em! Mẹ đặt cho em SÁU quy định dùng điện thoại. Theo em thế là không công bằng. Em có nên nói với mẹ không?\n(12) Leah: Chị đang ở thư viện nên không gọi được. Mà không, chị nghĩ em không nên nói thế đâu.\n(13) Trevor: Nhưng điện thoại của em phải ngủ ở bếp. Điện thoại thì có ngủ bao giờ đâu!\n(14) Leah: Điện thoại ngủ thì em cũng ngủ. Sao em không thử theo đúng nội quy trong hai tuần? Rồi hãy xin mẹ cho thêm ba mươi phút vào các ngày thứ Bảy.\n(15) Leah: Mẹ em nghiêm nhưng công bằng, vậy sao không thử xem? Khoan đã, em làm xong bài tập chưa?\n(16) Trevor: Ờ... em chào chị!",
+      "word_count": 178,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.09",
+        "a2.10",
+        "a2.11",
+        "a2.12"
+      ]
+    },
+    {
+      "id": "passage_u03_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Nội quy của thư viện thành phố"
+      },
+      "narrator": "announcer",
+      "title": "City Library Rules",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "City Library Rules",
+            "vi": "Nội quy Thư viện Thành phố"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Welcome! Please be polite and follow these rules.",
+            "vi": "Xin chào bạn! Xin hãy cư xử lịch sự và làm theo những quy định dưới đây."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First Floor",
+            "vi": "Tầng một"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This busy floor has the café, children's books and story time.",
+            "vi": "Tầng nhộn nhịp này có quán cà phê, sách thiếu nhi và giờ kể chuyện."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can talk and make phone calls here, and you can eat in the café.",
+            "vi": "Ở đây bạn có thể trò chuyện và gọi điện thoại, và có thể ăn uống trong quán cà phê."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second Floor: Reading Room",
+            "vi": "Tầng hai: Phòng đọc"
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This room is for reading in silence, so you must turn off your phone, and you must not talk at all.",
+            "vi": "Phòng này dành để đọc sách trong im lặng, nên bạn phải tắt điện thoại, và hoàn toàn không được nói chuyện."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "No food or drinks, please.",
+            "vi": "Xin đừng mang đồ ăn, thức uống vào phòng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Third Floor: Study Tables",
+            "vi": "Tầng ba: Bàn học"
+          }
+        },
+        {
+          "n": 10,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here you can talk softly with a friend, but keep your phone quiet.",
+            "vi": "Ở đây bạn có thể nói chuyện khẽ với bạn bè, nhưng xin hãy để điện thoại ở chế độ im lặng."
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Messages are fine, but you must not make phone calls here. For calls, go down to the first floor or outside.",
+            "vi": "Nhắn tin thì được, nhưng ở đây không được gọi điện. Muốn gọi thì hãy xuống tầng một hoặc ra ngoài."
+          }
+        },
+        {
+          "n": 12,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Children and Books",
+            "vi": "Trẻ em và sách"
+          }
+        },
+        {
+          "n": 13,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Children under eight have to stay with an adult at all times.",
+            "vi": "Trẻ dưới tám tuổi lúc nào cũng phải ở cùng người lớn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A library card is free, and you can borrow ten books for three weeks.",
+            "vi": "Thẻ thư viện miễn phí, và bạn được mượn mười cuốn sách trong ba tuần."
+          }
+        },
+        {
+          "n": 15,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Late books? You don't have to pay, but you can't borrow more until you bring them back.",
+            "vi": "Trả sách trễ ư? Bạn không phải nộp tiền, nhưng bạn không được mượn thêm cho tới khi mang sách trả lại."
+          }
+        },
+        {
+          "n": 16,
+          "para": 11,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Fire Alarm",
+            "vi": "Chuông báo cháy"
+          }
+        },
+        {
+          "n": 17,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When the fire alarm rings, you must leave the building at once.",
+            "vi": "Khi chuông báo cháy reo, bạn phải rời khỏi toà nhà ngay lập tức."
+          }
+        },
+        {
+          "n": 18,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Don't use the elevator. Take the stairs and follow our staff.",
+            "vi": "Đừng đi thang máy. Hãy đi cầu thang bộ và đi theo nhân viên thư viện."
+          }
+        }
+      ],
+      "content_ja": "City Library Rules\n\nWelcome! Please be polite and follow these rules.\n\nFirst Floor\n\nThis busy floor has the café, children's books and story time. You can talk and make phone calls here, and you can eat in the café.\n\nSecond Floor: Reading Room\n\nThis room is for reading in silence, so you must turn off your phone, and you must not talk at all. No food or drinks, please.\n\nThird Floor: Study Tables\n\nHere you can talk softly with a friend, but keep your phone quiet. Messages are fine, but you must not make phone calls here. For calls, go down to the first floor or outside.\n\nChildren and Books\n\nChildren under eight have to stay with an adult at all times. A library card is free, and you can borrow ten books for three weeks. Late books? You don't have to pay, but you can't borrow more until you bring them back.\n\nFire Alarm\n\nWhen the fire alarm rings, you must leave the building at once. Don't use the elevator. Take the stairs and follow our staff.",
+      "translation_vn": "(1) Nội quy Thư viện Thành phố\n(2) Xin chào bạn! Xin hãy cư xử lịch sự và làm theo những quy định dưới đây.\n(3) Tầng một\n(4) Tầng nhộn nhịp này có quán cà phê, sách thiếu nhi và giờ kể chuyện.\n(5) Ở đây bạn có thể trò chuyện và gọi điện thoại, và có thể ăn uống trong quán cà phê.\n(6) Tầng hai: Phòng đọc\n(7) Phòng này dành để đọc sách trong im lặng, nên bạn phải tắt điện thoại, và hoàn toàn không được nói chuyện.\n(8) Xin đừng mang đồ ăn, thức uống vào phòng.\n(9) Tầng ba: Bàn học\n(10) Ở đây bạn có thể nói chuyện khẽ với bạn bè, nhưng xin hãy để điện thoại ở chế độ im lặng.\n(11) Nhắn tin thì được, nhưng ở đây không được gọi điện. Muốn gọi thì hãy xuống tầng một hoặc ra ngoài.\n(12) Trẻ em và sách\n(13) Trẻ dưới tám tuổi lúc nào cũng phải ở cùng người lớn.\n(14) Thẻ thư viện miễn phí, và bạn được mượn mười cuốn sách trong ba tuần.\n(15) Trả sách trễ ư? Bạn không phải nộp tiền, nhưng bạn không được mượn thêm cho tới khi mang sách trả lại.\n(16) Chuông báo cháy\n(17) Khi chuông báo cháy reo, bạn phải rời khỏi toà nhà ngay lập tức.\n(18) Đừng đi thang máy. Hãy đi cầu thang bộ và đi theo nhân viên thư viện.",
+      "word_count": 178,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.09",
+        "a2.10",
+        "a2.11",
+        "a2.12"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u03_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "What does Trevor have to do before he uses his new phone?",
+        "vi": "Trevor phải làm gì trước khi dùng điện thoại mới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "take the phone to the kitchen",
+            "vi": "mang điện thoại xuống bếp"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "take the phone to the kitchen",
+          "text_translation": "mang điện thoại xuống bếp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "answer every message",
+            "vi": "trả lời mọi tin nhắn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "answer every message",
+          "text_translation": "trả lời mọi tin nhắn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "finish his homework",
+            "vi": "làm xong bài tập về nhà"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "finish his homework",
+          "text_translation": "làm xong bài tập về nhà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "call his mom",
+            "vi": "gọi điện cho mẹ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "call his mom",
+          "text_translation": "gọi điện cho mẹ"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Quy định số 1: \"You have to finish your homework first.\" Chữ \"first\" cho biết bài tập phải làm trước. Mang điện thoại xuống bếp là việc lúc chín giờ tối (quy định số 3). Mẹ nói Trevor KHÔNG cần trả lời mọi tin nhắn ngay (\"You don't have to answer every message at once\"). Quy định số 6 nói Trevor phải nghe máy khi mẹ gọi, chứ không bảo Trevor gọi cho mẹ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "have to = phải (vì quy định); don't have to = không cần, không bắt buộc. Đừng nhầm don't have to với must not (không được)."
+      },
+      "question_jp": "What does Trevor have to do before he uses his new phone?",
+      "question_vn": "Trevor phải làm gì trước khi dùng điện thoại mới?",
+      "explanation": "Quy định số 1: \"You have to finish your homework first.\" Chữ \"first\" cho biết bài tập phải làm trước. Mang điện thoại xuống bếp là việc lúc chín giờ tối (quy định số 3). Mẹ nói Trevor KHÔNG cần trả lời mọi tin nhắn ngay (\"You don't have to answer every message at once\"). Quy định số 6 nói Trevor phải nghe máy khi mẹ gọi, chứ không bảo Trevor gọi cho mẹ.",
+      "tip": "have to = phải (vì quy định); don't have to = không cần, không bắt buộc. Đừng nhầm don't have to với must not (không được)."
+    },
+    {
+      "id": "q_u03_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "In rule 4, what does \"that\" mean in \"I know about that\"?",
+        "vi": "Ở quy định số 4, chữ \"that\" trong câu \"I know about that\" chỉ điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor watches soccer videos in bed.",
+            "vi": "Trevor nằm trên giường xem video bóng đá."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Trevor watches soccer videos in bed.",
+          "text_translation": "Trevor nằm trên giường xem video bóng đá."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor uses his phone at the dinner table.",
+            "vi": "Trevor dùng điện thoại ở bàn ăn tối."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor uses his phone at the dinner table.",
+          "text_translation": "Trevor dùng điện thoại ở bàn ăn tối."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor's phone sleeps in the kitchen.",
+            "vi": "Điện thoại của Trevor ngủ ở bếp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor's phone sleeps in the kitchen.",
+          "text_translation": "Điện thoại của Trevor ngủ ở bếp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor answers every message at once.",
+            "vi": "Trevor trả lời mọi tin nhắn ngay lập tức."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Trevor answers every message at once.",
+          "text_translation": "Trevor trả lời mọi tin nhắn ngay lập tức."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"You must not watch soccer videos in bed. Yes, Trevor, I know about that.\" \"That\" chỉ việc ở câu ngay trước nó: nằm trên giường xem video bóng đá. Mẹ biết Trevor từng làm thế, nên mới viết thêm câu này nửa đùa nửa thật. Dùng điện thoại ở bàn ăn là quy định số 2, điện thoại ngủ ở bếp là quy định số 3, trả lời tin nhắn là quy định số 5: không cái nào nằm trong câu có \"that\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi quy chiếu (it / they / that): tìm danh từ hoặc việc ở NGAY TRƯỚC chữ đó, thường là trong cùng câu hoặc câu liền trước."
+      },
+      "question_jp": "In rule 4, what does \"that\" mean in \"I know about that\"?",
+      "question_vn": "Ở quy định số 4, chữ \"that\" trong câu \"I know about that\" chỉ điều gì?",
+      "explanation": "\"You must not watch soccer videos in bed. Yes, Trevor, I know about that.\" \"That\" chỉ việc ở câu ngay trước nó: nằm trên giường xem video bóng đá. Mẹ biết Trevor từng làm thế, nên mới viết thêm câu này nửa đùa nửa thật. Dùng điện thoại ở bàn ăn là quy định số 2, điện thoại ngủ ở bếp là quy định số 3, trả lời tin nhắn là quy định số 5: không cái nào nằm trong câu có \"that\".",
+      "tip": "Câu hỏi quy chiếu (it / they / that): tìm danh từ hoặc việc ở NGAY TRƯỚC chữ đó, thường là trong cùng câu hoặc câu liền trước."
+    },
+    {
+      "id": "q_u03_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "Rule 3 says the phone \"sleeps\" in the kitchen. What does Mom mean?",
+        "vi": "Quy định số 3 nói điện thoại \"ngủ\" ở bếp. Mẹ muốn nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor has to sleep in the kitchen.",
+            "vi": "Trevor phải ngủ ở bếp."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Trevor has to sleep in the kitchen.",
+          "text_translation": "Trevor phải ngủ ở bếp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "At night, the phone has to stay in the kitchen, not in Trevor's room.",
+            "vi": "Ban đêm điện thoại phải để ở bếp, không để trong phòng Trevor."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "At night, the phone has to stay in the kitchen, not in Trevor's room.",
+          "text_translation": "Ban đêm điện thoại phải để ở bếp, không để trong phòng Trevor."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The phone is old and slow.",
+            "vi": "Điện thoại cũ và chạy chậm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The phone is old and slow.",
+          "text_translation": "Điện thoại cũ và chạy chậm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor can only use the phone in the kitchen.",
+            "vi": "Trevor chỉ được dùng điện thoại trong bếp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Trevor can only use the phone in the kitchen.",
+          "text_translation": "Trevor chỉ được dùng điện thoại trong bếp."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"At nine p.m., your phone goes to the kitchen, because it sleeps there, not in your room.\" Điện thoại không ngủ thật: mẹ nói vui rằng ban đêm điện thoại phải nằm ở bếp. Leah giải thích thêm: \"Your phone sleeps, so you sleep too.\" Người ngủ ở phòng mình vẫn là Trevor, không phải ở bếp. Điện thoại là đồ mới (\"your new phone\"), không cũ. Bài cũng không nói Trevor chỉ được dùng nó trong bếp."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Gặp câu nói theo nghĩa bóng (đồ vật mà \"ngủ\", \"chờ\"…), đọc cả câu đứng cạnh nó để hiểu người viết thật sự muốn nói gì."
+      },
+      "question_jp": "Rule 3 says the phone \"sleeps\" in the kitchen. What does Mom mean?",
+      "question_vn": "Quy định số 3 nói điện thoại \"ngủ\" ở bếp. Mẹ muốn nói gì?",
+      "explanation": "\"At nine p.m., your phone goes to the kitchen, because it sleeps there, not in your room.\" Điện thoại không ngủ thật: mẹ nói vui rằng ban đêm điện thoại phải nằm ở bếp. Leah giải thích thêm: \"Your phone sleeps, so you sleep too.\" Người ngủ ở phòng mình vẫn là Trevor, không phải ở bếp. Điện thoại là đồ mới (\"your new phone\"), không cũ. Bài cũng không nói Trevor chỉ được dùng nó trong bếp.",
+      "tip": "Gặp câu nói theo nghĩa bóng (đồ vật mà \"ngủ\", \"chờ\"…), đọc cả câu đứng cạnh nó để hiểu người viết thật sự muốn nói gì."
+    },
+    {
+      "id": "q_u03_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "What is Leah's advice?",
+        "vi": "Chị Leah khuyên Trevor điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tell Mom the rules are not fair.",
+            "vi": "Bảo mẹ là nội quy không công bằng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tell Mom the rules are not fair.",
+          "text_translation": "Bảo mẹ là nội quy không công bằng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Call Mom from the library.",
+            "vi": "Gọi cho mẹ từ thư viện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Call Mom from the library.",
+          "text_translation": "Gọi cho mẹ từ thư viện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Watch soccer videos only on Saturdays.",
+            "vi": "Chỉ xem video bóng đá vào thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Watch soccer videos only on Saturdays.",
+          "text_translation": "Chỉ xem video bóng đá vào thứ Bảy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Follow the rules for two weeks, and then ask for more time on Saturdays.",
+            "vi": "Làm theo nội quy trong hai tuần, rồi xin thêm thời gian vào thứ Bảy."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Follow the rules for two weeks, and then ask for more time on Saturdays.",
+          "text_translation": "Làm theo nội quy trong hai tuần, rồi xin thêm thời gian vào thứ Bảy."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Why don't you follow the rules for two weeks? Then ask her for thirty more minutes on Saturdays.\" \"Why don't you…?\" là cách khuyên nhẹ nhàng. Bảo mẹ là không công bằng là ý của Trevor, và Leah gạt đi: \"I don't think you should\". Leah ở thư viện nên chính chị không gọi được (\"I can't call\"). Leah gợi ý xin thêm ba mươi phút vào thứ Bảy, nhưng không nói thêm giờ đó để làm gì, càng không nói chỉ được xem video bóng đá vào thứ Bảy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Lời khuyên ở A2 hay mở đầu bằng should, Why don't you…?, Why not…?. Tìm các cụm này là thấy ngay câu trả lời."
+      },
+      "question_jp": "What is Leah's advice?",
+      "question_vn": "Chị Leah khuyên Trevor điều gì?",
+      "explanation": "\"Why don't you follow the rules for two weeks? Then ask her for thirty more minutes on Saturdays.\" \"Why don't you…?\" là cách khuyên nhẹ nhàng. Bảo mẹ là không công bằng là ý của Trevor, và Leah gạt đi: \"I don't think you should\". Leah ở thư viện nên chính chị không gọi được (\"I can't call\"). Leah gợi ý xin thêm ba mươi phút vào thứ Bảy, nhưng không nói thêm giờ đó để làm gì, càng không nói chỉ được xem video bóng đá vào thứ Bảy.",
+      "tip": "Lời khuyên ở A2 hay mở đầu bằng should, Why don't you…?, Why not…?. Tìm các cụm này là thấy ngay câu trả lời."
+    },
+    {
+      "id": "q_u03_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "Why does Trevor suddenly say \"OK... bye!\" at the end?",
+        "vi": "Vì sao cuối cùng Trevor bỗng nói \"OK... bye!\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "His mom is calling him.",
+            "vi": "Vì mẹ đang gọi cho cậu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "His mom is calling him.",
+          "text_translation": "Vì mẹ đang gọi cho cậu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is nine p.m., so the phone has to go to the kitchen.",
+            "vi": "Vì đã chín giờ tối, điện thoại phải mang xuống bếp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is nine p.m., so the phone has to go to the kitchen.",
+          "text_translation": "Vì đã chín giờ tối, điện thoại phải mang xuống bếp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "His homework is not finished, so he is breaking rule one.",
+            "vi": "Vì cậu chưa làm xong bài tập, tức là đang phạm quy định số 1."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "His homework is not finished, so he is breaking rule one.",
+          "text_translation": "Vì cậu chưa làm xong bài tập, tức là đang phạm quy định số 1."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah has to leave the library.",
+            "vi": "Vì chị Leah phải rời thư viện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah has to leave the library.",
+          "text_translation": "Vì chị Leah phải rời thư viện."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        16,
+        3,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Leah hỏi: \"Wait, is your homework finished?\" Trevor không trả lời câu đó, chỉ ấp úng \"OK...\" rồi chào luôn. Quy định số 1 là \"You have to finish your homework first.\" Vậy Trevor đang nhắn tin khi chưa làm xong bài, và cậu vội tắt máy để đi làm bài. Bài không nói mẹ gọi. Tin nhắn lúc \"8:15 p.m.\", chưa tới chín giờ. Bài cũng không nói Leah phải về."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: bài không nói thẳng lý do. Ghép câu hỏi của người kia, câu trả lời ấp úng (OK…) và quy định ở trên để tự rút ra kết luận."
+      },
+      "question_jp": "Why does Trevor suddenly say \"OK... bye!\" at the end?",
+      "question_vn": "Vì sao cuối cùng Trevor bỗng nói \"OK... bye!\"?",
+      "explanation": "Leah hỏi: \"Wait, is your homework finished?\" Trevor không trả lời câu đó, chỉ ấp úng \"OK...\" rồi chào luôn. Quy định số 1 là \"You have to finish your homework first.\" Vậy Trevor đang nhắn tin khi chưa làm xong bài, và cậu vội tắt máy để đi làm bài. Bài không nói mẹ gọi. Tin nhắn lúc \"8:15 p.m.\", chưa tới chín giờ. Bài cũng không nói Leah phải về.",
+      "tip": "Câu suy luận: bài không nói thẳng lý do. Ghép câu hỏi của người kia, câu trả lời ấp úng (OK…) và quy định ở trên để tự rút ra kết luận."
+    },
+    {
+      "id": "q_u03_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Where can people eat?",
+        "vi": "Bạn đọc được ăn uống ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in the Reading Room",
+            "vi": "trong Phòng đọc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in the Reading Room",
+          "text_translation": "trong Phòng đọc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in the café on the first floor",
+            "vi": "trong quán cà phê ở tầng một"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "in the café on the first floor",
+          "text_translation": "trong quán cà phê ở tầng một"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at the study tables",
+            "vi": "ở các bàn học"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at the study tables",
+          "text_translation": "ở các bàn học"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "outside the library",
+            "vi": "ở bên ngoài thư viện"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "outside the library",
+          "text_translation": "ở bên ngoài thư viện"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"You can talk and make phone calls here, and you can eat in the café.\" Câu này nằm trong phần \"First Floor\". Phòng đọc ghi rõ \"No food or drinks, please.\" Phần bàn học ở tầng ba không nói gì tới ăn uống: chỗ duy nhất bài cho phép ăn là quán cà phê. Bài chỉ bảo ra ngoài để gọi điện (\"go down to the first floor or outside\"), không phải để ăn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thông báo chia theo tiêu đề nhỏ (First Floor, Second Floor…). Xác định câu trả lời nằm dưới tiêu đề nào trước khi chọn."
+      },
+      "question_jp": "Where can people eat?",
+      "question_vn": "Bạn đọc được ăn uống ở đâu?",
+      "explanation": "\"You can talk and make phone calls here, and you can eat in the café.\" Câu này nằm trong phần \"First Floor\". Phòng đọc ghi rõ \"No food or drinks, please.\" Phần bàn học ở tầng ba không nói gì tới ăn uống: chỗ duy nhất bài cho phép ăn là quán cà phê. Bài chỉ bảo ra ngoài để gọi điện (\"go down to the first floor or outside\"), không phải để ăn.",
+      "tip": "Thông báo chia theo tiêu đề nhỏ (First Floor, Second Floor…). Xác định câu trả lời nằm dưới tiêu đề nào trước khi chọn."
+    },
+    {
+      "id": "q_u03_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "What must you do in the Reading Room?",
+        "vi": "Trong Phòng đọc, bạn bắt buộc phải làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "turn off your phone",
+            "vi": "tắt điện thoại"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "turn off your phone",
+          "text_translation": "tắt điện thoại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "talk softly with a friend",
+            "vi": "nói chuyện khẽ với bạn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "talk softly with a friend",
+          "text_translation": "nói chuyện khẽ với bạn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "keep your phone quiet",
+            "vi": "để điện thoại ở chế độ im lặng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "keep your phone quiet",
+          "text_translation": "để điện thoại ở chế độ im lặng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "stay with an adult",
+            "vi": "ở cùng người lớn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "stay with an adult",
+          "text_translation": "ở cùng người lớn"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"This room is for reading in silence, so you must turn off your phone, and you must not talk at all.\" Ở Phòng đọc phải tắt hẳn điện thoại. Nói chuyện khẽ và chỉ để điện thoại im lặng là quy định của tầng ba (\"Study Tables\"), không phải Phòng đọc. Ở cùng người lớn là quy định cho trẻ dưới tám tuổi."
+      },
+      "audio_data": null,
+      "question_jp": "What must you do in the Reading Room?",
+      "question_vn": "Trong Phòng đọc, bạn bắt buộc phải làm gì?",
+      "explanation": "\"This room is for reading in silence, so you must turn off your phone, and you must not talk at all.\" Ở Phòng đọc phải tắt hẳn điện thoại. Nói chuyện khẽ và chỉ để điện thoại im lặng là quy định của tầng ba (\"Study Tables\"), không phải Phòng đọc. Ở cùng người lớn là quy định cho trẻ dưới tám tuổi."
+    },
+    {
+      "id": "q_u03_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "You have a late book. What happens?",
+        "vi": "Bạn trả một cuốn sách trễ hạn. Chuyện gì xảy ra?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "You have to pay for it.",
+            "vi": "Bạn phải nộp tiền."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "You have to pay for it.",
+          "text_translation": "Bạn phải nộp tiền."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "You have to buy a new library card.",
+            "vi": "Bạn phải làm thẻ thư viện mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "You have to buy a new library card.",
+          "text_translation": "Bạn phải làm thẻ thư viện mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You can borrow ten more books.",
+            "vi": "Bạn được mượn thêm mười cuốn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You can borrow ten more books.",
+          "text_translation": "Bạn được mượn thêm mười cuốn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You can't borrow more books until you bring it back.",
+            "vi": "Bạn không được mượn thêm cho tới khi mang sách trả lại."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "You can't borrow more books until you bring it back.",
+          "text_translation": "Bạn không được mượn thêm cho tới khi mang sách trả lại."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Late books? You don't have to pay, but you can't borrow more until you bring them back.\" \"Don't have to pay\" nghĩa là không phải nộp tiền, nên A sai. Thẻ thư viện \"is free\", bài không nói phải làm thẻ mới. Mười cuốn là số sách được mượn bình thường, không phải phần thưởng khi trả trễ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phương án nhiễu hay lấy đúng chữ trong bài nhưng bỏ chữ phủ định. Thấy \"You have to pay\" thì đối chiếu lại: bài viết \"You DON'T have to pay\"."
+      },
+      "question_jp": "You have a late book. What happens?",
+      "question_vn": "Bạn trả một cuốn sách trễ hạn. Chuyện gì xảy ra?",
+      "explanation": "\"Late books? You don't have to pay, but you can't borrow more until you bring them back.\" \"Don't have to pay\" nghĩa là không phải nộp tiền, nên A sai. Thẻ thư viện \"is free\", bài không nói phải làm thẻ mới. Mười cuốn là số sách được mượn bình thường, không phải phần thưởng khi trả trễ.",
+      "tip": "Phương án nhiễu hay lấy đúng chữ trong bài nhưng bỏ chữ phủ định. Thấy \"You have to pay\" thì đối chiếu lại: bài viết \"You DON'T have to pay\"."
+    },
+    {
+      "id": "q_u03_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "What must you do when the fire alarm rings?",
+        "vi": "Khi chuông báo cháy reo, bạn bắt buộc phải làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Go down to the first floor by elevator.",
+            "vi": "Đi thang máy xuống tầng một."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Go down to the first floor by elevator.",
+          "text_translation": "Đi thang máy xuống tầng một."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Go to the café on the first floor.",
+            "vi": "Xuống quán cà phê ở tầng một."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Go to the café on the first floor.",
+          "text_translation": "Xuống quán cà phê ở tầng một."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leave the building at once by the stairs.",
+            "vi": "Rời toà nhà ngay bằng cầu thang bộ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Leave the building at once by the stairs.",
+          "text_translation": "Rời toà nhà ngay bằng cầu thang bộ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Turn off your phone and wait.",
+            "vi": "Tắt điện thoại và chờ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Turn off your phone and wait.",
+          "text_translation": "Tắt điện thoại và chờ."
+        }
+      ],
+      "evidence_segments": [
+        17,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"When the fire alarm rings, you must leave the building at once.\" \"Don't use the elevator. Take the stairs and follow our staff.\" Đi thang máy là điều bài cấm. \"Go down to the first floor\" là lời dặn khi muốn gọi điện, không phải khi có cháy: chuông reo thì phải ra khỏi toà nhà, không phải xuống quán cà phê. Bài cũng không bảo tắt điện thoại rồi đứng chờ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trong thông báo an toàn, must / Don't là những điều quan trọng nhất. Đọc kỹ cả câu phủ định Don't ngay sau câu must."
+      },
+      "question_jp": "What must you do when the fire alarm rings?",
+      "question_vn": "Khi chuông báo cháy reo, bạn bắt buộc phải làm gì?",
+      "explanation": "\"When the fire alarm rings, you must leave the building at once.\" \"Don't use the elevator. Take the stairs and follow our staff.\" Đi thang máy là điều bài cấm. \"Go down to the first floor\" là lời dặn khi muốn gọi điện, không phải khi có cháy: chuông reo thì phải ra khỏi toà nhà, không phải xuống quán cà phê. Bài cũng không bảo tắt điện thoại rồi đứng chờ.",
+      "tip": "Trong thông báo an toàn, must / Don't là những điều quan trọng nhất. Đọc kỹ cả câu phủ định Don't ngay sau câu must."
+    },
+    {
+      "id": "q_u03_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Leah wrote to Trevor from the City Library, but she said, \"I can't call.\" Where in the library do you think she was?",
+        "vi": "Chị Leah nhắn tin cho Trevor từ Thư viện Thành phố, nhưng chị nói \"I can't call\". Nhiều khả năng lúc đó chị ở chỗ nào trong thư viện?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in the café on the first floor",
+            "vi": "trong quán cà phê ở tầng một"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in the café on the first floor",
+          "text_translation": "trong quán cà phê ở tầng một"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "near the children's books",
+            "vi": "ở chỗ sách thiếu nhi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "near the children's books",
+          "text_translation": "ở chỗ sách thiếu nhi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in the Reading Room on the second floor",
+            "vi": "trong Phòng đọc ở tầng hai"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in the Reading Room on the second floor",
+          "text_translation": "trong Phòng đọc ở tầng hai"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at the study tables on the third floor",
+            "vi": "ở các bàn học tầng ba"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "at the study tables on the third floor",
+          "text_translation": "ở các bàn học tầng ba"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        5,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Bài đọc 2, tầng ba: \"Messages are fine, but you must not make phone calls\". Bài đọc 1: Leah vẫn nhắn tin được, nhưng lại nói \"I'm at the library, so I can't call.\" Chỉ tầng ba khớp cả hai điều này. Ở tầng một \"You can talk and make phone calls here\", nên ngồi ở quán cà phê hay chỗ sách thiếu nhi thì Leah gọi được. Ở Phòng đọc \"you must turn off your phone\", nên ở đó Leah không nhắn tin được. Vậy nhiều khả năng Leah đang ngồi ở bàn học tầng ba."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: lấy hai dữ kiện ở bài 1 (nhắn tin được, gọi không được), rồi loại từng chỗ ở bài 2 không khớp với cả hai."
+      },
+      "question_jp": "Leah wrote to Trevor from the City Library, but she said, \"I can't call.\" Where in the library do you think she was?",
+      "question_vn": "Chị Leah nhắn tin cho Trevor từ Thư viện Thành phố, nhưng chị nói \"I can't call\". Nhiều khả năng lúc đó chị ở chỗ nào trong thư viện?",
+      "explanation": "Bài đọc 2, tầng ba: \"Messages are fine, but you must not make phone calls\". Bài đọc 1: Leah vẫn nhắn tin được, nhưng lại nói \"I'm at the library, so I can't call.\" Chỉ tầng ba khớp cả hai điều này. Ở tầng một \"You can talk and make phone calls here\", nên ngồi ở quán cà phê hay chỗ sách thiếu nhi thì Leah gọi được. Ở Phòng đọc \"you must turn off your phone\", nên ở đó Leah không nhắn tin được. Vậy nhiều khả năng Leah đang ngồi ở bàn học tầng ba.",
+      "tip": "Câu nối hai bài: lấy hai dữ kiện ở bài 1 (nhắn tin được, gọi không được), rồi loại từng chỗ ở bài 2 không khớp với cả hai."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u03_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Nội quy dùng điện thoại mẹ viết cho Trevor, và tin nhắn Trevor gửi chị Leah",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u03_01",
+      "question_ids": [
+        "q_u03_001",
+        "q_u03_002",
+        "q_u03_003",
+        "q_u03_004",
+        "q_u03_005"
+      ]
+    },
+    {
+      "set_id": "set_u03_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Nội quy của thư viện thành phố",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u03_02",
+      "question_ids": [
+        "q_u03_006",
+        "q_u03_007",
+        "q_u03_008",
+        "q_u03_009",
+        "q_u03_010"
+      ]
+    }
+  ]
+}
