@@ -1,0 +1,2092 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 31–32 — Crime and the law & Science and inventions",
+      "vi": "Tội phạm, luật pháp & Khoa học, phát minh"
+    },
+    "title": "Units 31–32 — Crime and the law & Science and inventions",
+    "title_vn": "Tội phạm, luật pháp & Khoa học, phát minh",
+    "module_code": "58_u3132",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u31+u32",
+    "curriculum_sheets": [
+      "b1.121",
+      "b1.122",
+      "b1.123",
+      "b1.124",
+      "b1.125",
+      "b1.126",
+      "b1.127",
+      "b1.128"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Harriet Brooks",
+      "Nathan Brooks",
+      "Megan Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 10, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "be supposed to, not to do, there must be, suy luận từ bằng chứng",
+    "description_vn": "Nhóm chat hàng xóm giúp Trevor tìm chiếc xe đạp bị trộm và bài lịch sử ngắn của vắc-xin. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 31 + Unit 32 khoá B1 · phiếu `b1.121` – `b1.128` (cảnh báo và lệnh cấm, tội phạm, cảnh sát, luật lệ và tiền phạt; suy đoán khoa học, phát minh lớn, thí nghiệm, khoa học trong đời sống)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một đoạn chat nhóm và một bài lịch sử khoa học; hiểu `be supposed to`, `tell / warn + người + not to V`, danh từ luôn số nhiều hoặc không đếm được (police are, news spread), `there must be`, `be likely to`, và suy luận từ bằng chứng."
+    },
+    "extra_words": [
+      {
+        "word": "vaccine",
+        "i18n": {
+          "vi": "vắc-xin"
+        }
+      },
+      {
+        "word": "vacca",
+        "i18n": {
+          "vi": "con bò (tiếng Latin)"
+        }
+      },
+      {
+        "word": "harmless",
+        "i18n": {
+          "vi": "vô hại"
+        }
+      },
+      {
+        "word": "measles",
+        "i18n": {
+          "vi": "bệnh sởi"
+        }
+      },
+      {
+        "word": "polio",
+        "i18n": {
+          "vi": "bệnh bại liệt"
+        }
+      },
+      {
+        "word": "mountain bike",
+        "i18n": {
+          "vi": "xe đạp địa hình"
+        }
+      },
+      {
+        "word": "serial number",
+        "i18n": {
+          "vi": "số khung, số sê-ri"
+        }
+      },
+      {
+        "word": "receipt",
+        "i18n": {
+          "vi": "hoá đơn"
+        }
+      },
+      {
+        "word": "seller",
+        "i18n": {
+          "vi": "người bán"
+        }
+      },
+      {
+        "word": "smallpox",
+        "i18n": {
+          "vi": "bệnh đậu mùa"
+        }
+      },
+      {
+        "word": "milkmaid",
+        "i18n": {
+          "vi": "cô gái vắt sữa bò"
+        }
+      },
+      {
+        "word": "cowpox",
+        "i18n": {
+          "vi": "bệnh đậu bò"
+        }
+      },
+      {
+        "word": "rabies",
+        "i18n": {
+          "vi": "bệnh dại"
+        }
+      },
+      {
+        "word": "germ",
+        "i18n": {
+          "vi": "mầm bệnh"
+        }
+      },
+      {
+        "word": "wipe out",
+        "i18n": {
+          "vi": "xoá sổ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "be supposed to",
+          "vi": "lẽ ra phải, được dặn phải"
+        }
+      },
+      {
+        "i18n": {
+          "en": "warn someone not to",
+          "vi": "khuyên ai đừng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "track down",
+          "vi": "lần ra, truy tìm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "carry out an investigation",
+          "vi": "tiến hành điều tra"
+        }
+      },
+      {
+        "i18n": {
+          "en": "there must be",
+          "vi": "hẳn phải có"
+        }
+      },
+      {
+        "i18n": {
+          "en": "conduct an experiment",
+          "vi": "tiến hành thí nghiệm"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`was supposed to + V …, but …` = lẽ ra phải làm nhưng không làm. Câu hỏi nghĩa thường có phương án \"should have…, but didn't\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`police` luôn đi với động từ số nhiều (police are), còn `news` thì không đếm được (the news spread). Đừng nhầm news là số nhiều."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`There must be…` là suy đoán chắc chắn, chưa phải điều đã chứng minh. Câu hỏi hay đặt bẫy \"he had already proved it\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận \"What can we guess…?\": tìm câu nói rõ điều CHƯA biết (`the police are still looking for the thief`)."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3132_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 31) — Nhóm chat hàng xóm: vụ chiếc xe đạp xanh"
+      },
+      "narrator": "announcer",
+      "title": "Maple Street Neighbors Chat: The Case of the Blue Bike",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Neighbors Chat: The Case of the Blue Bike",
+            "vi": "Nhóm chat hàng xóm Maple Street: vụ chiếc xe đạp xanh"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tuesday, 6:10 p.m.",
+            "vi": "Thứ Ba, 6:10 tối"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Hi everyone. My bike was stolen from outside Westview High this afternoon. It's a blue mountain bike with a black seat. If you see it, please let me know!",
+            "vi": "Chào mọi người. Chiều nay xe đạp của cháu bị trộm ngay trước trường Westview High. Đó là xe đạp địa hình màu xanh, yên đen. Ai thấy thì báo cháu với ạ!"
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "I know, I know. I was supposed to use the strong lock, but I was late for practice, so I only used the thin one. Mom has already told me.",
+            "vi": "Cháu biết, cháu biết rồi. Lẽ ra cháu phải dùng cái khoá chắc, nhưng cháu trễ giờ tập nên chỉ dùng cái khoá mỏng. Mẹ cháu mắng rồi ạ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "That's terrible, Trevor! The camera outside my café points at the street. I'll look through today's video tonight.",
+            "vi": "Khổ thân Trevor! Camera trước quán bà quay ra đường đấy. Tối nay bà sẽ xem lại đoạn phim hôm nay."
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "Report it to the police online today. They're more likely to find it if they have the serial number.",
+            "vi": "Báo cảnh sát qua mạng ngay hôm nay đi. Có số khung thì họ dễ tìm thấy hơn."
+          }
+        },
+        {
+          "n": 7,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "The serial number is on the receipt in the kitchen drawer. And no more thin locks!",
+            "vi": "Số khung ghi trên hoá đơn trong ngăn kéo bếp. Và cấm dùng khoá mỏng nữa nhé!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Wednesday, 8:30 a.m.",
+            "vi": "Thứ Tư, 8:30 sáng"
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "I'm afraid I have bad news. At 3:50 p.m., a young man in a gray jacket walked past with a blue bike. I've sent the video to Trevor.",
+            "vi": "Bà e là có tin không hay. Lúc 3:50 chiều, một thanh niên mặc áo khoác xám dắt một chiếc xe đạp xanh đi ngang qua. Bà đã gửi đoạn phim cho Trevor rồi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "That's definitely my bike. I've sent the video and the serial number to the police. An officer called and said that the investigation could take a few weeks.",
+            "vi": "Đúng là xe cháu rồi. Cháu đã gửi đoạn phim và số khung cho cảnh sát. Một anh cảnh sát gọi lại, bảo cuộc điều tra có thể mất vài tuần."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday, 11:15 a.m.",
+            "vi": "Thứ Bảy, 11:15 sáng"
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "You won't believe this. My friend Jake found an ad for a blue bike on a website where people sell used things. Same seat, same scratch on the frame!",
+            "vi": "Mọi người không tin nổi đâu. Cậu bạn Jake của cháu tìm thấy tin rao bán một chiếc xe đạp xanh trên một trang web bán đồ cũ. Cùng cái yên, cùng vết xước trên khung!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "Don't go and meet the seller yourself. The police warn people not to do that.",
+            "vi": "Đừng tự đi gặp người bán đấy. Cảnh sát khuyên mọi người không được làm thế."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Don't worry, I won't. The officer told me not to contact the seller and said that they would handle it.",
+            "vi": "Chú đừng lo, cháu không đi đâu. Anh cảnh sát dặn cháu không liên lạc với người bán và nói họ sẽ lo vụ này."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Monday, 5:40 p.m.",
+            "vi": "Thứ Hai, 5:40 chiều"
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "IT'S BACK! The police tracked down the seller, and the serial number proved that the bike was mine.",
+            "vi": "XE VỀ RỒI! Cảnh sát đã lần ra người bán, và số khung chứng minh chiếc xe là của cháu."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "The man said that he had bought it from someone else, so the police are still looking for the thief.",
+            "vi": "Người đó nói ông ta mua lại của người khác, nên cảnh sát vẫn đang tìm tên trộm."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Thank you, Harriet, for the video, and thank you, everyone, for your help. The news spread so fast!",
+            "vi": "Cảm ơn bà Harriet vì đoạn phim, và cảm ơn mọi người đã giúp. Tin lan nhanh thật!"
+          }
+        },
+        {
+          "n": 19,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "That's what neighbors are for. Now please buy a better lock!",
+            "vi": "Hàng xóm là để giúp nhau mà. Giờ thì mua cái khoá tốt hơn đi nhé!"
+          }
+        },
+        {
+          "n": 20,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Already done. It cost more than my first pair of soccer boots.",
+            "vi": "Mua rồi ạ. Nó còn đắt hơn cả đôi giày bóng đá đầu tiên của cháu."
+          }
+        }
+      ],
+      "content_ja": "Maple Street Neighbors Chat: The Case of the Blue Bike\n\nTuesday, 6:10 p.m.\n\nTrevor: Hi everyone. My bike was stolen from outside Westview High this afternoon. It's a blue mountain bike with a black seat. If you see it, please let me know! I know, I know. I was supposed to use the strong lock, but I was late for practice, so I only used the thin one. Mom has already told me.\n\nHarriet: That's terrible, Trevor! The camera outside my café points at the street. I'll look through today's video tonight.\n\nNathan: Report it to the police online today. They're more likely to find it if they have the serial number.\n\nMegan: The serial number is on the receipt in the kitchen drawer. And no more thin locks!\n\nWednesday, 8:30 a.m.\n\nHarriet: I'm afraid I have bad news. At 3:50 p.m., a young man in a gray jacket walked past with a blue bike. I've sent the video to Trevor.\n\nTrevor: That's definitely my bike. I've sent the video and the serial number to the police. An officer called and said that the investigation could take a few weeks.\n\nSaturday, 11:15 a.m.\n\nTrevor: You won't believe this. My friend Jake found an ad for a blue bike on a website where people sell used things. Same seat, same scratch on the frame!\n\nNathan: Don't go and meet the seller yourself. The police warn people not to do that.\n\nTrevor: Don't worry, I won't. The officer told me not to contact the seller and said that they would handle it.\n\nMonday, 5:40 p.m.\n\nTrevor: IT'S BACK! The police tracked down the seller, and the serial number proved that the bike was mine. The man said that he had bought it from someone else, so the police are still looking for the thief. Thank you, Harriet, for the video, and thank you, everyone, for your help. The news spread so fast!\n\nHarriet: That's what neighbors are for. Now please buy a better lock!\n\nTrevor: Already done. It cost more than my first pair of soccer boots.",
+      "translation_vn": "(1) Nhóm chat hàng xóm Maple Street: vụ chiếc xe đạp xanh\n(2) Thứ Ba, 6:10 tối\n(3) Trevor: Chào mọi người. Chiều nay xe đạp của cháu bị trộm ngay trước trường Westview High. Đó là xe đạp địa hình màu xanh, yên đen. Ai thấy thì báo cháu với ạ!\n(4) Trevor: Cháu biết, cháu biết rồi. Lẽ ra cháu phải dùng cái khoá chắc, nhưng cháu trễ giờ tập nên chỉ dùng cái khoá mỏng. Mẹ cháu mắng rồi ạ.\n(5) Harriet: Khổ thân Trevor! Camera trước quán bà quay ra đường đấy. Tối nay bà sẽ xem lại đoạn phim hôm nay.\n(6) Nathan: Báo cảnh sát qua mạng ngay hôm nay đi. Có số khung thì họ dễ tìm thấy hơn.\n(7) Megan: Số khung ghi trên hoá đơn trong ngăn kéo bếp. Và cấm dùng khoá mỏng nữa nhé!\n(8) Thứ Tư, 8:30 sáng\n(9) Harriet: Bà e là có tin không hay. Lúc 3:50 chiều, một thanh niên mặc áo khoác xám dắt một chiếc xe đạp xanh đi ngang qua. Bà đã gửi đoạn phim cho Trevor rồi.\n(10) Trevor: Đúng là xe cháu rồi. Cháu đã gửi đoạn phim và số khung cho cảnh sát. Một anh cảnh sát gọi lại, bảo cuộc điều tra có thể mất vài tuần.\n(11) Thứ Bảy, 11:15 sáng\n(12) Trevor: Mọi người không tin nổi đâu. Cậu bạn Jake của cháu tìm thấy tin rao bán một chiếc xe đạp xanh trên một trang web bán đồ cũ. Cùng cái yên, cùng vết xước trên khung!\n(13) Nathan: Đừng tự đi gặp người bán đấy. Cảnh sát khuyên mọi người không được làm thế.\n(14) Trevor: Chú đừng lo, cháu không đi đâu. Anh cảnh sát dặn cháu không liên lạc với người bán và nói họ sẽ lo vụ này.\n(15) Thứ Hai, 5:40 chiều\n(16) Trevor: XE VỀ RỒI! Cảnh sát đã lần ra người bán, và số khung chứng minh chiếc xe là của cháu.\n(17) Trevor: Người đó nói ông ta mua lại của người khác, nên cảnh sát vẫn đang tìm tên trộm.\n(18) Trevor: Cảm ơn bà Harriet vì đoạn phim, và cảm ơn mọi người đã giúp. Tin lan nhanh thật!\n(19) Harriet: Hàng xóm là để giúp nhau mà. Giờ thì mua cái khoá tốt hơn đi nhé!\n(20) Trevor: Mua rồi ạ. Nó còn đắt hơn cả đôi giày bóng đá đầu tiên của cháu.",
+      "word_count": 333,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.121",
+        "b1.122",
+        "b1.123",
+        "b1.124"
+      ]
+    },
+    {
+      "id": "passage_u3132_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 32) — Lịch sử ngắn của vắc-xin"
+      },
+      "narrator": "announcer",
+      "title": "From Cows to Cells: A Short History of Vaccines",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 200,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From Cows to Cells: A Short History of Vaccines",
+            "vi": "Từ bò tới tế bào: lịch sử ngắn của vắc-xin"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the 1700s, smallpox was one of the most feared diseases in the world.",
+            "vi": "Vào thế kỷ 18, bệnh đậu mùa là một trong những căn bệnh đáng sợ nhất thế giới."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It killed millions of people, and many of those who survived were left with deep marks on their skin.",
+            "vi": "Nó giết hàng triệu người, và nhiều người sống sót mang những vết sẹo sâu trên da."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But some people had noticed something strange: milkmaids, the women who milked cows, rarely seemed to catch it.",
+            "vi": "Nhưng có người đã để ý một điều lạ: những cô vắt sữa bò dường như hiếm khi mắc bệnh."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An English doctor called Edward Jenner was curious.",
+            "vi": "Một bác sĩ người Anh tên là Edward Jenner thấy tò mò."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many milkmaids had caught cowpox, a mild disease from cows. There must be a connection, he thought.",
+            "vi": "Nhiều cô vắt sữa từng mắc bệnh đậu bò, một bệnh nhẹ lây từ bò. Hẳn phải có mối liên hệ nào đó, ông nghĩ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 1796, he conducted an experiment that would never be allowed today.",
+            "vi": "Năm 1796, ông tiến hành một thí nghiệm mà ngày nay chắc chắn không được phép."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He took material from a cowpox spot on a milkmaid's hand and put it into a small cut on the arm of an eight-year-old boy, James Phipps.",
+            "vi": "Ông lấy dịch từ một nốt đậu bò trên tay một cô vắt sữa rồi đưa vào một vết rạch nhỏ trên cánh tay của cậu bé tám tuổi James Phipps."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Weeks later, he gave the boy smallpox material. The boy did not get sick.",
+            "vi": "Vài tuần sau, ông đưa dịch bệnh đậu mùa vào người cậu bé. Cậu không hề phát bệnh."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Jenner's theory was proved, and the word \"vaccine\" comes from vacca, the Latin word for \"cow\".",
+            "vi": "Giả thuyết của Jenner đã được chứng minh, và từ \"vaccine\" bắt nguồn từ vacca, nghĩa là \"con bò\" trong tiếng Latin."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Jenner was not the first to protect people in this way.",
+            "vi": "Jenner không phải người đầu tiên bảo vệ con người theo cách này."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In parts of Asia and Africa, people had used a more dangerous method for hundreds of years: they gave healthy people a small amount of material from a smallpox patient.",
+            "vi": "Ở một số vùng châu Á và châu Phi, người ta đã dùng một cách nguy hiểm hơn từ hàng trăm năm trước: đưa một ít dịch của người bệnh đậu mùa vào người khoẻ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Jenner's method was much less dangerous, and it spread quickly.",
+            "vi": "Cách của Jenner an toàn hơn nhiều, và nó lan rộng rất nhanh."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "About ninety years later, the French scientist Louis Pasteur made a vaccine against rabies, a disease that animal bites can pass to people.",
+            "vi": "Khoảng chín mươi năm sau, nhà khoa học người Pháp Louis Pasteur làm ra vắc-xin phòng bệnh dại, căn bệnh có thể lây sang người qua vết cắn của động vật."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since then, researchers have developed vaccines against many diseases, including measles, polio and the flu.",
+            "vi": "Từ đó tới nay, các nhà nghiên cứu đã phát triển vắc-xin phòng nhiều bệnh, trong đó có sởi, bại liệt và cúm."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of them work in a similar way: they show the body a weak, dead or harmless part of a germ, so that the body learns to recognize it and is ready to fight the real thing.",
+            "vi": "Phần lớn vắc-xin hoạt động theo cách giống nhau: cho cơ thể thấy một mầm bệnh đã bị làm yếu, đã chết hoặc một phần vô hại của nó, để cơ thể học cách nhận ra và sẵn sàng chống lại mầm bệnh thật."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The biggest success came in 1980, when the World Health Organization announced that smallpox had been completely wiped out.",
+            "vi": "Thành công lớn nhất đến vào năm 1980, khi Tổ chức Y tế Thế giới tuyên bố bệnh đậu mùa đã bị xoá sổ hoàn toàn."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is still the only human disease that has ever been removed from the whole planet.",
+            "vi": "Tới nay nó vẫn là căn bệnh duy nhất ở người từng bị loại bỏ khỏi toàn bộ hành tinh."
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today, scientists in laboratories are working on new types of vaccines, and some of them are likely to change medicine in ways that Jenner never imagined.",
+            "vi": "Ngày nay, các nhà khoa học trong phòng thí nghiệm đang nghiên cứu những loại vắc-xin mới, và một số loại nhiều khả năng sẽ thay đổi ngành y theo những cách Jenner chưa từng nghĩ tới."
+          }
+        }
+      ],
+      "content_ja": "From Cows to Cells: A Short History of Vaccines\n\nIn the 1700s, smallpox was one of the most feared diseases in the world. It killed millions of people, and many of those who survived were left with deep marks on their skin. But some people had noticed something strange: milkmaids, the women who milked cows, rarely seemed to catch it.\n\nAn English doctor called Edward Jenner was curious. Many milkmaids had caught cowpox, a mild disease from cows. There must be a connection, he thought. In 1796, he conducted an experiment that would never be allowed today. He took material from a cowpox spot on a milkmaid's hand and put it into a small cut on the arm of an eight-year-old boy, James Phipps. Weeks later, he gave the boy smallpox material. The boy did not get sick. Jenner's theory was proved, and the word \"vaccine\" comes from vacca, the Latin word for \"cow\".\n\nJenner was not the first to protect people in this way. In parts of Asia and Africa, people had used a more dangerous method for hundreds of years: they gave healthy people a small amount of material from a smallpox patient. Jenner's method was much less dangerous, and it spread quickly.\n\nAbout ninety years later, the French scientist Louis Pasteur made a vaccine against rabies, a disease that animal bites can pass to people. Since then, researchers have developed vaccines against many diseases, including measles, polio and the flu. Most of them work in a similar way: they show the body a weak, dead or harmless part of a germ, so that the body learns to recognize it and is ready to fight the real thing.\n\nThe biggest success came in 1980, when the World Health Organization announced that smallpox had been completely wiped out. It is still the only human disease that has ever been removed from the whole planet. Today, scientists in laboratories are working on new types of vaccines, and some of them are likely to change medicine in ways that Jenner never imagined.",
+      "translation_vn": "(1) Từ bò tới tế bào: lịch sử ngắn của vắc-xin\n(2) Vào thế kỷ 18, bệnh đậu mùa là một trong những căn bệnh đáng sợ nhất thế giới.\n(3) Nó giết hàng triệu người, và nhiều người sống sót mang những vết sẹo sâu trên da.\n(4) Nhưng có người đã để ý một điều lạ: những cô vắt sữa bò dường như hiếm khi mắc bệnh.\n(5) Một bác sĩ người Anh tên là Edward Jenner thấy tò mò.\n(6) Nhiều cô vắt sữa từng mắc bệnh đậu bò, một bệnh nhẹ lây từ bò. Hẳn phải có mối liên hệ nào đó, ông nghĩ.\n(7) Năm 1796, ông tiến hành một thí nghiệm mà ngày nay chắc chắn không được phép.\n(8) Ông lấy dịch từ một nốt đậu bò trên tay một cô vắt sữa rồi đưa vào một vết rạch nhỏ trên cánh tay của cậu bé tám tuổi James Phipps.\n(9) Vài tuần sau, ông đưa dịch bệnh đậu mùa vào người cậu bé. Cậu không hề phát bệnh.\n(10) Giả thuyết của Jenner đã được chứng minh, và từ \"vaccine\" bắt nguồn từ vacca, nghĩa là \"con bò\" trong tiếng Latin.\n(11) Jenner không phải người đầu tiên bảo vệ con người theo cách này.\n(12) Ở một số vùng châu Á và châu Phi, người ta đã dùng một cách nguy hiểm hơn từ hàng trăm năm trước: đưa một ít dịch của người bệnh đậu mùa vào người khoẻ.\n(13) Cách của Jenner an toàn hơn nhiều, và nó lan rộng rất nhanh.\n(14) Khoảng chín mươi năm sau, nhà khoa học người Pháp Louis Pasteur làm ra vắc-xin phòng bệnh dại, căn bệnh có thể lây sang người qua vết cắn của động vật.\n(15) Từ đó tới nay, các nhà nghiên cứu đã phát triển vắc-xin phòng nhiều bệnh, trong đó có sởi, bại liệt và cúm.\n(16) Phần lớn vắc-xin hoạt động theo cách giống nhau: cho cơ thể thấy một mầm bệnh đã bị làm yếu, đã chết hoặc một phần vô hại của nó, để cơ thể học cách nhận ra và sẵn sàng chống lại mầm bệnh thật.\n(17) Thành công lớn nhất đến vào năm 1980, khi Tổ chức Y tế Thế giới tuyên bố bệnh đậu mùa đã bị xoá sổ hoàn toàn.\n(18) Tới nay nó vẫn là căn bệnh duy nhất ở người từng bị loại bỏ khỏi toàn bộ hành tinh.\n(19) Ngày nay, các nhà khoa học trong phòng thí nghiệm đang nghiên cứu những loại vắc-xin mới, và một số loại nhiều khả năng sẽ thay đổi ngành y theo những cách Jenner chưa từng nghĩ tới.",
+      "word_count": 341,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.125",
+        "b1.126",
+        "b1.127",
+        "b1.128"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3132_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What is the chat mainly about?",
+        "vi": "Đoạn chat chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to buy a mountain bike",
+            "vi": "cách mua xe đạp địa hình"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to buy a mountain bike",
+          "text_translation": "cách mua xe đạp địa hình"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor's soccer practice",
+            "vi": "buổi tập bóng của Trevor"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor's soccer practice",
+          "text_translation": "buổi tập bóng của Trevor"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how neighbors and the police helped Trevor get his stolen bike back",
+            "vi": "hàng xóm và cảnh sát đã giúp Trevor lấy lại chiếc xe bị trộm thế nào"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "how neighbors and the police helped Trevor get his stolen bike back",
+          "text_translation": "hàng xóm và cảnh sát đã giúp Trevor lấy lại chiếc xe bị trộm thế nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet's new café camera",
+            "vi": "chiếc camera mới ở quán bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet's new café camera",
+          "text_translation": "chiếc camera mới ở quán bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Đoạn chat đi từ \"My bike was stolen\" tới \"IT'S BACK! The police tracked down the seller\". Hàng xóm góp đoạn phim, lời khuyên và tin rao bán."
+      },
+      "audio_data": null,
+      "question_jp": "What is the chat mainly about?",
+      "question_vn": "Đoạn chat chủ yếu nói về điều gì?",
+      "explanation": "Đoạn chat đi từ \"My bike was stolen\" tới \"IT'S BACK! The police tracked down the seller\". Hàng xóm góp đoạn phim, lời khuyên và tin rao bán."
+    },
+    {
+      "id": "q_u3132_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What does Trevor mean by \"I was supposed to use the strong lock\"?",
+        "vi": "Trevor muốn nói gì qua câu \"Lẽ ra cháu phải dùng cái khoá chắc\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He should have used it, but he didn't.",
+            "vi": "Lẽ ra cậu phải dùng nhưng đã không dùng."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He should have used it, but he didn't.",
+          "text_translation": "Lẽ ra cậu phải dùng nhưng đã không dùng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He used the strong lock.",
+            "vi": "Cậu đã dùng khoá chắc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He used the strong lock.",
+          "text_translation": "Cậu đã dùng khoá chắc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He doesn't have a strong lock.",
+            "vi": "Cậu không có khoá chắc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He doesn't have a strong lock.",
+          "text_translation": "Cậu không có khoá chắc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The school gave him a lock.",
+            "vi": "Trường đưa cậu một cái khoá."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The school gave him a lock.",
+          "text_translation": "Trường đưa cậu một cái khoá."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I was supposed to use the strong lock, but I was late for practice, so I only used the thin one.\" Be supposed to = được dặn, đáng lẽ phải làm; chữ but cho thấy cậu đã không làm."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor mean by \"I was supposed to use the strong lock\"?",
+      "question_vn": "Trevor muốn nói gì qua câu \"Lẽ ra cháu phải dùng cái khoá chắc\"?",
+      "explanation": "\"I was supposed to use the strong lock, but I was late for practice, so I only used the thin one.\" Be supposed to = được dặn, đáng lẽ phải làm; chữ but cho thấy cậu đã không làm."
+    },
+    {
+      "id": "q_u3132_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "Why does Nathan tell Trevor to report the theft with the serial number?",
+        "vi": "Vì sao Nathan bảo Trevor báo mất xe kèm số khung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The police will give him a new bike.",
+            "vi": "Vì cảnh sát sẽ cho cậu xe mới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The police will give him a new bike.",
+          "text_translation": "Vì cảnh sát sẽ cho cậu xe mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is needed to buy a new lock.",
+            "vi": "Vì cần nó để mua khoá mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is needed to buy a new lock.",
+          "text_translation": "Vì cần nó để mua khoá mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet asked for it.",
+            "vi": "Vì bà Harriet hỏi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet asked for it.",
+          "text_translation": "Vì bà Harriet hỏi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The police are more likely to find the bike if they have it.",
+            "vi": "Vì có số khung thì cảnh sát dễ tìm thấy xe hơn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The police are more likely to find the bike if they have it.",
+          "text_translation": "Vì có số khung thì cảnh sát dễ tìm thấy xe hơn."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"They're more likely to find it if they have the serial number.\" Police là danh từ số nhiều, nên đi với they're."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Nathan tell Trevor to report the theft with the serial number?",
+      "question_vn": "Vì sao Nathan bảo Trevor báo mất xe kèm số khung?",
+      "explanation": "\"They're more likely to find it if they have the serial number.\" Police là danh từ số nhiều, nên đi với they're."
+    },
+    {
+      "id": "q_u3132_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "Where can Trevor find the serial number?",
+        "vi": "Trevor tìm số khung ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on the bike seat",
+            "vi": "trên yên xe"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "on the bike seat",
+          "text_translation": "trên yên xe"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on the receipt in the kitchen drawer",
+            "vi": "trên hoá đơn trong ngăn kéo bếp"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "on the receipt in the kitchen drawer",
+          "text_translation": "trên hoá đơn trong ngăn kéo bếp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on the police website",
+            "vi": "trên trang web của cảnh sát"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on the police website",
+          "text_translation": "trên trang web của cảnh sát"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in Harriet's video",
+            "vi": "trong đoạn phim của bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in Harriet's video",
+          "text_translation": "trong đoạn phim của bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"The serial number is on the receipt in the kitchen drawer.\""
+      },
+      "audio_data": null,
+      "question_jp": "Where can Trevor find the serial number?",
+      "question_vn": "Trevor tìm số khung ở đâu?",
+      "explanation": "\"The serial number is on the receipt in the kitchen drawer.\""
+    },
+    {
+      "id": "q_u3132_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What did Harriet's video show?",
+        "vi": "Đoạn phim của bà Harriet cho thấy gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a young man in a gray jacket walking past with a blue bike",
+            "vi": "một thanh niên mặc áo khoác xám dắt chiếc xe đạp xanh đi qua"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a young man in a gray jacket walking past with a blue bike",
+          "text_translation": "một thanh niên mặc áo khoác xám dắt chiếc xe đạp xanh đi qua"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor locking his bike",
+            "vi": "Trevor khoá xe"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor locking his bike",
+          "text_translation": "Trevor khoá xe"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Jake looking at a website",
+            "vi": "Jake xem một trang web"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Jake looking at a website",
+          "text_translation": "Jake xem một trang web"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a police officer at the school",
+            "vi": "một cảnh sát ở trường"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a police officer at the school",
+          "text_translation": "một cảnh sát ở trường"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"At 3:50 p.m., a young man in a gray jacket walked past with a blue bike.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Harriet's video show?",
+      "question_vn": "Đoạn phim của bà Harriet cho thấy gì?",
+      "explanation": "\"At 3:50 p.m., a young man in a gray jacket walked past with a blue bike.\""
+    },
+    {
+      "id": "q_u3132_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "How was the bike found?",
+        "vi": "Chiếc xe được tìm thấy bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet saw it outside her café.",
+            "vi": "Bà Harriet thấy nó trước quán."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet saw it outside her café.",
+          "text_translation": "Bà Harriet thấy nó trước quán."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor met the seller.",
+            "vi": "Trevor gặp người bán."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor met the seller.",
+          "text_translation": "Trevor gặp người bán."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Jake found an ad for it on a website for used things.",
+            "vi": "Jake tìm thấy tin rao bán nó trên một trang web đồ cũ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Jake found an ad for it on a website for used things.",
+          "text_translation": "Jake tìm thấy tin rao bán nó trên một trang web đồ cũ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The thief brought it back.",
+            "vi": "Tên trộm mang trả lại."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The thief brought it back.",
+          "text_translation": "Tên trộm mang trả lại."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"My friend Jake found an ad for a blue bike on a website where people sell used things.\" Trevor được dặn không gặp người bán, nên cậu không đi."
+      },
+      "audio_data": null,
+      "question_jp": "How was the bike found?",
+      "question_vn": "Chiếc xe được tìm thấy bằng cách nào?",
+      "explanation": "\"My friend Jake found an ad for a blue bike on a website where people sell used things.\" Trevor được dặn không gặp người bán, nên cậu không đi."
+    },
+    {
+      "id": "q_u3132_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What do the police warn people not to do?",
+        "vi": "Cảnh sát khuyên mọi người không được làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sell used bikes online",
+            "vi": "bán xe đạp cũ trên mạng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "sell used bikes online",
+          "text_translation": "bán xe đạp cũ trên mạng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "go and meet the seller themselves",
+            "vi": "tự đi gặp người bán"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "go and meet the seller themselves",
+          "text_translation": "tự đi gặp người bán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "use thin locks",
+            "vi": "dùng khoá mỏng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "use thin locks",
+          "text_translation": "dùng khoá mỏng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "report thefts online",
+            "vi": "báo mất trộm qua mạng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "report thefts online",
+          "text_translation": "báo mất trộm qua mạng"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Don't go and meet the seller yourself. The police warn people not to do that.\" Warn + người + not to V = khuyên ai đừng làm gì."
+      },
+      "audio_data": null,
+      "question_jp": "What do the police warn people not to do?",
+      "question_vn": "Cảnh sát khuyên mọi người không được làm gì?",
+      "explanation": "\"Don't go and meet the seller yourself. The police warn people not to do that.\" Warn + người + not to V = khuyên ai đừng làm gì."
+    },
+    {
+      "id": "q_u3132_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What can we guess about the man who was selling the bike?",
+        "vi": "Có thể đoán gì về người đàn ông rao bán chiếc xe?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He was a police officer.",
+            "vi": "Ông ta là cảnh sát."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He was a police officer.",
+          "text_translation": "Ông ta là cảnh sát."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He was Jake's father.",
+            "vi": "Ông ta là bố của Jake."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He was Jake's father.",
+          "text_translation": "Ông ta là bố của Jake."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He was the young man in the video.",
+            "vi": "Ông ta chính là thanh niên trong đoạn phim."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He was the young man in the video.",
+          "text_translation": "Ông ta chính là thanh niên trong đoạn phim."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He may not be the person who stole it.",
+            "vi": "Có thể ông ta không phải người lấy trộm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He may not be the person who stole it.",
+          "text_translation": "Có thể ông ta không phải người lấy trộm."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"The man said that he had bought it from someone else, so the police are still looking for the thief.\" Cảnh sát vẫn đang tìm, nên chưa thể kết luận ông ta là kẻ trộm."
+      },
+      "audio_data": null,
+      "question_jp": "What can we guess about the man who was selling the bike?",
+      "question_vn": "Có thể đoán gì về người đàn ông rao bán chiếc xe?",
+      "explanation": "Câu suy luận. \"The man said that he had bought it from someone else, so the police are still looking for the thief.\" Cảnh sát vẫn đang tìm, nên chưa thể kết luận ông ta là kẻ trộm."
+    },
+    {
+      "id": "q_u3132_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What does Harriet mean by \"That's what neighbors are for\"?",
+        "vi": "Bà Harriet muốn nói gì qua câu \"Hàng xóm là để giúp nhau mà\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Helping each other is a natural part of being neighbors.",
+            "vi": "Giúp nhau là chuyện tự nhiên của hàng xóm."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Helping each other is a natural part of being neighbors.",
+          "text_translation": "Giúp nhau là chuyện tự nhiên của hàng xóm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor should pay her for the video.",
+            "vi": "Trevor nên trả tiền cho đoạn phim."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor should pay her for the video.",
+          "text_translation": "Trevor nên trả tiền cho đoạn phim."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Neighbors should not use the chat.",
+            "vi": "Hàng xóm không nên dùng nhóm chat."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Neighbors should not use the chat.",
+          "text_translation": "Hàng xóm không nên dùng nhóm chat."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She doesn't want to help again.",
+            "vi": "Bà không muốn giúp nữa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She doesn't want to help again.",
+          "text_translation": "Bà không muốn giúp nữa."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Trevor cảm ơn, bà Harriet đáp \"That's what neighbors are for.\" Ý là không cần cảm ơn, giúp nhau là việc hàng xóm vẫn làm."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet mean by \"That's what neighbors are for\"?",
+      "question_vn": "Bà Harriet muốn nói gì qua câu \"Hàng xóm là để giúp nhau mà\"?",
+      "explanation": "Câu suy luận. Trevor cảm ơn, bà Harriet đáp \"That's what neighbors are for.\" Ý là không cần cảm ơn, giúp nhau là việc hàng xóm vẫn làm."
+    },
+    {
+      "id": "q_u3132_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What does Trevor's last message suggest?",
+        "vi": "Tin nhắn cuối của Trevor cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He still uses the thin lock.",
+            "vi": "Cậu vẫn dùng khoá mỏng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He still uses the thin lock.",
+          "text_translation": "Cậu vẫn dùng khoá mỏng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He has bought new soccer boots.",
+            "vi": "Cậu đã mua giày bóng đá mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He has bought new soccer boots.",
+          "text_translation": "Cậu đã mua giày bóng đá mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He has learned his lesson and bought an expensive lock.",
+            "vi": "Cậu đã rút kinh nghiệm và mua một cái khoá đắt tiền."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He has learned his lesson and bought an expensive lock.",
+          "text_translation": "Cậu đã rút kinh nghiệm và mua một cái khoá đắt tiền."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is angry with Harriet.",
+            "vi": "Cậu giận bà Harriet."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He is angry with Harriet.",
+          "text_translation": "Cậu giận bà Harriet."
+        }
+      ],
+      "evidence_segments": [
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Already done. It cost more than my first pair of soccer boots.\" Cậu đã mua khoá mới ngay, mà lại là khoá đắt."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor's last message suggest?",
+      "question_vn": "Tin nhắn cuối của Trevor cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"Already done. It cost more than my first pair of soccer boots.\" Cậu đã mua khoá mới ngay, mà lại là khoá đắt."
+    },
+    {
+      "id": "q_u3132_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to milk a cow",
+            "vi": "cách vắt sữa bò"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to milk a cow",
+          "text_translation": "cách vắt sữa bò"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the history of vaccines, from Jenner to today",
+            "vi": "lịch sử vắc-xin, từ Jenner tới ngày nay"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the history of vaccines, from Jenner to today",
+          "text_translation": "lịch sử vắc-xin, từ Jenner tới ngày nay"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why smallpox is still dangerous",
+            "vi": "vì sao bệnh đậu mùa vẫn còn nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why smallpox is still dangerous",
+          "text_translation": "vì sao bệnh đậu mùa vẫn còn nguy hiểm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the life of Louis Pasteur",
+            "vi": "cuộc đời của Louis Pasteur"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the life of Louis Pasteur",
+          "text_translation": "cuộc đời của Louis Pasteur"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề \"From Cows to Cells: A Short History of Vaccines\" nói rõ chủ đề. Bài đi từ năm 1796 tới các phòng thí nghiệm ngày nay."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề \"From Cows to Cells: A Short History of Vaccines\" nói rõ chủ đề. Bài đi từ năm 1796 tới các phòng thí nghiệm ngày nay."
+    },
+    {
+      "id": "q_u3132_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What had some people noticed about milkmaids?",
+        "vi": "Một số người đã để ý điều gì ở những cô vắt sữa bò?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They often caught smallpox.",
+            "vi": "Họ hay mắc bệnh đậu mùa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They often caught smallpox.",
+          "text_translation": "Họ hay mắc bệnh đậu mùa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They had deep marks on their skin.",
+            "vi": "Họ có sẹo sâu trên da."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They had deep marks on their skin.",
+          "text_translation": "Họ có sẹo sâu trên da."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They were afraid of cows.",
+            "vi": "Họ sợ bò."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They were afraid of cows.",
+          "text_translation": "Họ sợ bò."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They rarely seemed to catch smallpox.",
+            "vi": "Họ dường như hiếm khi mắc bệnh đậu mùa."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They rarely seemed to catch smallpox.",
+          "text_translation": "Họ dường như hiếm khi mắc bệnh đậu mùa."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"milkmaids, the women who milked cows, rarely seemed to catch it.\" It ở đây là smallpox, bệnh được nhắc ở câu trước."
+      },
+      "audio_data": null,
+      "question_jp": "What had some people noticed about milkmaids?",
+      "question_vn": "Một số người đã để ý điều gì ở những cô vắt sữa bò?",
+      "explanation": "\"milkmaids, the women who milked cows, rarely seemed to catch it.\" It ở đây là smallpox, bệnh được nhắc ở câu trước."
+    },
+    {
+      "id": "q_u3132_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What does \"There must be a connection, he thought\" show about Jenner?",
+        "vi": "Câu \"Hẳn phải có mối liên hệ nào đó, ông nghĩ\" cho thấy điều gì về Jenner?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He felt sure that cowpox and smallpox were linked in some way.",
+            "vi": "Ông tin chắc bệnh đậu bò và đậu mùa có liên quan theo cách nào đó."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He felt sure that cowpox and smallpox were linked in some way.",
+          "text_translation": "Ông tin chắc bệnh đậu bò và đậu mùa có liên quan theo cách nào đó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He had already proved his theory.",
+            "vi": "Ông đã chứng minh xong giả thuyết."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He had already proved his theory.",
+          "text_translation": "Ông đã chứng minh xong giả thuyết."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He didn't believe the milkmaids.",
+            "vi": "Ông không tin các cô vắt sữa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He didn't believe the milkmaids.",
+          "text_translation": "Ông không tin các cô vắt sữa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He wanted to stop working as a doctor.",
+            "vi": "Ông muốn thôi làm bác sĩ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He wanted to stop working as a doctor.",
+          "text_translation": "Ông muốn thôi làm bác sĩ."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"There must be a connection, he thought.\" There must be = chắc chắn phải có, nói một suy đoán mạnh. Lúc đó ông chưa chứng minh được; thí nghiệm là bước sau."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"There must be a connection, he thought\" show about Jenner?",
+      "question_vn": "Câu \"Hẳn phải có mối liên hệ nào đó, ông nghĩ\" cho thấy điều gì về Jenner?",
+      "explanation": "\"There must be a connection, he thought.\" There must be = chắc chắn phải có, nói một suy đoán mạnh. Lúc đó ông chưa chứng minh được; thí nghiệm là bước sau."
+    },
+    {
+      "id": "q_u3132_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What did Jenner do in 1796?",
+        "vi": "Năm 1796 Jenner đã làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He caught cowpox himself.",
+            "vi": "Ông tự mắc bệnh đậu bò."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He caught cowpox himself.",
+          "text_translation": "Ông tự mắc bệnh đậu bò."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He made a vaccine against rabies.",
+            "vi": "Ông làm vắc-xin phòng dại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He made a vaccine against rabies.",
+          "text_translation": "Ông làm vắc-xin phòng dại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He put cowpox material into a boy's arm and later gave him smallpox material.",
+            "vi": "Ông đưa dịch đậu bò vào tay một cậu bé, rồi sau đó đưa dịch đậu mùa vào người cậu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He put cowpox material into a boy's arm and later gave him smallpox material.",
+          "text_translation": "Ông đưa dịch đậu bò vào tay một cậu bé, rồi sau đó đưa dịch đậu mùa vào người cậu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He announced that smallpox was gone.",
+            "vi": "Ông tuyên bố đậu mùa đã bị xoá sổ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He announced that smallpox was gone.",
+          "text_translation": "Ông tuyên bố đậu mùa đã bị xoá sổ."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"He took material from a cowpox spot on a milkmaid's hand and put it into a small cut on the arm of an eight-year-old boy\". Vắc-xin phòng dại là của Pasteur, còn tuyên bố năm 1980 là của Tổ chức Y tế Thế giới."
+      },
+      "audio_data": null,
+      "question_jp": "What did Jenner do in 1796?",
+      "question_vn": "Năm 1796 Jenner đã làm gì?",
+      "explanation": "\"He took material from a cowpox spot on a milkmaid's hand and put it into a small cut on the arm of an eight-year-old boy\". Vắc-xin phòng dại là của Pasteur, còn tuyên bố năm 1980 là của Tổ chức Y tế Thế giới."
+    },
+    {
+      "id": "q_u3132_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "Why would Jenner's experiment \"never be allowed today\"?",
+        "vi": "Vì sao thí nghiệm của Jenner \"ngày nay chắc chắn không được phép\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Cows are no longer used in science.",
+            "vi": "Vì khoa học không còn dùng bò."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Cows are no longer used in science.",
+          "text_translation": "Vì khoa học không còn dùng bò."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Smallpox is no longer a disease.",
+            "vi": "Vì đậu mùa không còn là bệnh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Smallpox is no longer a disease.",
+          "text_translation": "Vì đậu mùa không còn là bệnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Doctors today don't do experiments.",
+            "vi": "Vì bác sĩ ngày nay không làm thí nghiệm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Doctors today don't do experiments.",
+          "text_translation": "Vì bác sĩ ngày nay không làm thí nghiệm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Giving a dangerous disease to a child would be far too dangerous by today's rules.",
+            "vi": "Vì theo quy định ngày nay, đưa một bệnh nguy hiểm vào người một đứa trẻ là quá rủi ro."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Giving a dangerous disease to a child would be far too dangerous by today's rules.",
+          "text_translation": "Vì theo quy định ngày nay, đưa một bệnh nguy hiểm vào người một đứa trẻ là quá rủi ro."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"In 1796, he conducted an experiment that would never be allowed today.\" Các câu sau giải thích: ông đưa dịch đậu mùa, một bệnh chết người, vào một cậu bé tám tuổi."
+      },
+      "audio_data": null,
+      "question_jp": "Why would Jenner's experiment \"never be allowed today\"?",
+      "question_vn": "Vì sao thí nghiệm của Jenner \"ngày nay chắc chắn không được phép\"?",
+      "explanation": "Câu suy luận. \"In 1796, he conducted an experiment that would never be allowed today.\" Các câu sau giải thích: ông đưa dịch đậu mùa, một bệnh chết người, vào một cậu bé tám tuổi."
+    },
+    {
+      "id": "q_u3132_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "Where does the word \"vaccine\" come from?",
+        "vi": "Từ \"vaccine\" bắt nguồn từ đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Jenner's family name",
+            "vi": "họ của Jenner"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Jenner's family name",
+          "text_translation": "họ của Jenner"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the Latin word for \"cow\"",
+            "vi": "từ \"con bò\" trong tiếng Latin"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the Latin word for \"cow\"",
+          "text_translation": "từ \"con bò\" trong tiếng Latin"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a French word for \"medicine\"",
+            "vi": "từ \"thuốc\" trong tiếng Pháp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a French word for \"medicine\"",
+          "text_translation": "từ \"thuốc\" trong tiếng Pháp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the name of a milkmaid",
+            "vi": "tên một cô vắt sữa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the name of a milkmaid",
+          "text_translation": "tên một cô vắt sữa"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"the word \"vaccine\" comes from vacca, the Latin word for \"cow\".\""
+      },
+      "audio_data": null,
+      "question_jp": "Where does the word \"vaccine\" come from?",
+      "question_vn": "Từ \"vaccine\" bắt nguồn từ đâu?",
+      "explanation": "\"the word \"vaccine\" comes from vacca, the Latin word for \"cow\".\""
+    },
+    {
+      "id": "q_u3132_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What was the older method used in parts of Asia and Africa?",
+        "vi": "Cách làm cũ hơn ở một số vùng châu Á và châu Phi là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "giving healthy people a small amount of material from a smallpox patient",
+            "vi": "đưa một ít dịch của người bệnh đậu mùa vào người khoẻ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "giving healthy people a small amount of material from a smallpox patient",
+          "text_translation": "đưa một ít dịch của người bệnh đậu mùa vào người khoẻ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "keeping cows away from people",
+            "vi": "giữ bò tránh xa người"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "keeping cows away from people",
+          "text_translation": "giữ bò tránh xa người"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "using animal bites",
+            "vi": "dùng vết cắn của động vật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "using animal bites",
+          "text_translation": "dùng vết cắn của động vật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "giving people a dead part of a germ",
+            "vi": "cho người ta một phần đã chết của mầm bệnh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "giving people a dead part of a germ",
+          "text_translation": "cho người ta một phần đã chết của mầm bệnh"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"they gave healthy people a small amount of material from a smallpox patient.\" Bài nói đây là cách \"more dangerous\" (nguy hiểm hơn) so với cách của Jenner."
+      },
+      "audio_data": null,
+      "question_jp": "What was the older method used in parts of Asia and Africa?",
+      "question_vn": "Cách làm cũ hơn ở một số vùng châu Á và châu Phi là gì?",
+      "explanation": "\"they gave healthy people a small amount of material from a smallpox patient.\" Bài nói đây là cách \"more dangerous\" (nguy hiểm hơn) so với cách của Jenner."
+    },
+    {
+      "id": "q_u3132_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "How do most vaccines work?",
+        "vi": "Phần lớn vắc-xin hoạt động thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They kill all germs in the body.",
+            "vi": "Chúng giết mọi mầm bệnh trong cơ thể."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They kill all germs in the body.",
+          "text_translation": "Chúng giết mọi mầm bệnh trong cơ thể."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They make the body weaker.",
+            "vi": "Chúng làm cơ thể yếu đi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They make the body weaker.",
+          "text_translation": "Chúng làm cơ thể yếu đi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They show the body a weak, dead or harmless part of a germ so that it learns to recognize it.",
+            "vi": "Chúng cho cơ thể thấy một mầm bệnh đã bị làm yếu, đã chết hoặc phần vô hại của nó để cơ thể học cách nhận ra."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They show the body a weak, dead or harmless part of a germ so that it learns to recognize it.",
+          "text_translation": "Chúng cho cơ thể thấy một mầm bệnh đã bị làm yếu, đã chết hoặc phần vô hại của nó để cơ thể học cách nhận ra."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They replace the body's cells.",
+            "vi": "Chúng thay thế tế bào của cơ thể."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They replace the body's cells.",
+          "text_translation": "Chúng thay thế tế bào của cơ thể."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"they show the body a weak, dead or harmless part of a germ, so that the body learns to recognize it and is ready to fight the real thing.\""
+      },
+      "audio_data": null,
+      "question_jp": "How do most vaccines work?",
+      "question_vn": "Phần lớn vắc-xin hoạt động thế nào?",
+      "explanation": "\"they show the body a weak, dead or harmless part of a germ, so that the body learns to recognize it and is ready to fight the real thing.\""
+    },
+    {
+      "id": "q_u3132_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What happened in 1980?",
+        "vi": "Năm 1980 đã xảy ra chuyện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Louis Pasteur made his first vaccine.",
+            "vi": "Louis Pasteur làm vắc-xin đầu tiên."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Louis Pasteur made his first vaccine.",
+          "text_translation": "Louis Pasteur làm vắc-xin đầu tiên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The World Health Organization announced that smallpox had been completely wiped out.",
+            "vi": "Tổ chức Y tế Thế giới tuyên bố bệnh đậu mùa đã bị xoá sổ hoàn toàn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The World Health Organization announced that smallpox had been completely wiped out.",
+          "text_translation": "Tổ chức Y tế Thế giới tuyên bố bệnh đậu mùa đã bị xoá sổ hoàn toàn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Jenner's theory was proved.",
+            "vi": "Giả thuyết của Jenner được chứng minh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Jenner's theory was proved.",
+          "text_translation": "Giả thuyết của Jenner được chứng minh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A vaccine against the flu was made.",
+            "vi": "Vắc-xin cúm ra đời."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "A vaccine against the flu was made.",
+          "text_translation": "Vắc-xin cúm ra đời."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"The biggest success came in 1980, when the World Health Organization announced that smallpox had been completely wiped out.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened in 1980?",
+      "question_vn": "Năm 1980 đã xảy ra chuyện gì?",
+      "explanation": "\"The biggest success came in 1980, when the World Health Organization announced that smallpox had been completely wiped out.\""
+    },
+    {
+      "id": "q_u3132_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "Use both texts. What do Jenner and Harriet have in common?",
+        "vi": "Dựa vào cả hai bài. Jenner và bà Harriet có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them were doctors.",
+            "vi": "Cả hai đều là bác sĩ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them were doctors.",
+          "text_translation": "Cả hai đều là bác sĩ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them worked with the police.",
+            "vi": "Cả hai đều làm việc với cảnh sát."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them worked with the police.",
+          "text_translation": "Cả hai đều làm việc với cảnh sát."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them made a vaccine.",
+            "vi": "Cả hai đều làm ra vắc-xin."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them made a vaccine.",
+          "text_translation": "Cả hai đều làm ra vắc-xin."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them looked carefully at the evidence to help find an answer.",
+            "vi": "Cả hai đều xem xét kỹ bằng chứng để giúp tìm ra câu trả lời."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both of them looked carefully at the evidence to help find an answer.",
+          "text_translation": "Cả hai đều xem xét kỹ bằng chứng để giúp tìm ra câu trả lời."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Jenner để ý chuyện \"Many milkmaids had caught cowpox\" rồi suy luận và thử nghiệm. Bà Harriet \"look through today's video\" và tìm thấy người dắt chiếc xe xanh."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Jenner and Harriet have in common?",
+      "question_vn": "Dựa vào cả hai bài. Jenner và bà Harriet có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Jenner để ý chuyện \"Many milkmaids had caught cowpox\" rồi suy luận và thử nghiệm. Bà Harriet \"look through today's video\" và tìm thấy người dắt chiếc xe xanh."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3132_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 31) — Nhóm chat hàng xóm: vụ chiếc xe đạp xanh",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3132_01",
+      "question_ids": [
+        "q_u3132_001",
+        "q_u3132_002",
+        "q_u3132_003",
+        "q_u3132_004",
+        "q_u3132_005",
+        "q_u3132_006",
+        "q_u3132_007",
+        "q_u3132_008",
+        "q_u3132_009",
+        "q_u3132_010"
+      ]
+    },
+    {
+      "set_id": "set_u3132_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 32) — Lịch sử ngắn của vắc-xin",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3132_02",
+      "question_ids": [
+        "q_u3132_011",
+        "q_u3132_012",
+        "q_u3132_013",
+        "q_u3132_014",
+        "q_u3132_015",
+        "q_u3132_016",
+        "q_u3132_017",
+        "q_u3132_018",
+        "q_u3132_019",
+        "q_u3132_020"
+      ]
+    }
+  ]
+}

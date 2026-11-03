@@ -23,3 +23,4 @@ Mốc nối từ A2: u20 sách 57 = 265 / 265 từ, TB 16,0 / 16,7 từ/câu.
 | u2526 | 323 / 378 | 20.8 / 18.4 | email câu lạc bộ sách của Harriet (sách giấy vs sách điện tử) + bài phòng khám thể thao về chấn thương do tập quá sức (ví dụ Trevor, quy tắc giờ tập ≤ tuổi); 7 câu suy luận/áp dụng (1 nối 2 bài) |
 | u2728 | 317 / 309 | 14.3 / 16.1 | nhật ký học ukulele của Megan (V-ing / to V) + thông báo hội chợ mùa thu với quy định (be to do); 6 câu suy luận/áp dụng (1 nối 2 bài) |
 | u2930 | 328 / 336 | 18.7 / 17.2 | email Tracy về bạn cùng phòng Camila (make/let/have, What if, khoanh vùng văn hoá) + bài học ngoại ngữ ở các độ tuổi (nghiên cứu 2018); 6 câu suy luận (1 nối 2 bài) |
+| u3132 | 333 / 341 | 17.0 / 18.4 | nhóm chat hàng xóm tìm xe đạp bị trộm (be supposed to, not to do) + lịch sử vắc-xin từ Jenner (there must be, be likely to); 6 câu suy luận (1 nối 2 bài) |
