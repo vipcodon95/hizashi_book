@@ -58,7 +58,7 @@
 >
 > 5. Found in the Park
 >
-> Is this your jacket? We found a small blue jacket in the park on Tuesday. Please ask for it at the front desk of the City Library. The library is open from 9 a.m. to 6 p.m.
+> Is this your jacket? We found a small blue jacket in the park on Tuesday. Please ask for it at the front desk of the City Library. The library is open from 9 a.m. to 9 p.m.
 
 ### Dịch từng câu
 
@@ -85,7 +85,7 @@
 | 19 | Is this your jacket? | Đây có phải áo khoác của bạn không? |
 | 20 | We found a small blue jacket in the park on Tuesday. | Chúng tôi nhặt được một chiếc áo khoác nhỏ màu xanh dương trong công viên hôm thứ Ba. |
 | 21 | Please ask for it at the front desk of the City Library. | Xin mời tới quầy tiếp đón của Thư viện Thành phố để nhận lại. |
-| 22 | The library is open from 9 a.m. to 6 p.m. | Thư viện mở cửa từ 9 giờ sáng đến 6 giờ chiều. |
+| 22 | The library is open from 9 a.m. to 9 p.m. | Thư viện mở cửa từ 9 giờ sáng đến 9 giờ tối. |
 
 ### Câu hỏi
 
