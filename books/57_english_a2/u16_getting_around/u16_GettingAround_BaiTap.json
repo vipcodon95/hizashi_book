@@ -1,0 +1,1367 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 16 — Getting around",
+      "vi": "Đi lại"
+    },
+    "title": "Unit 16 — Getting around",
+    "title_vn": "Đi lại",
+    "module_code": "57_u16",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u16",
+    "curriculum_sheets": [
+      "a2.61",
+      "a2.62",
+      "a2.63",
+      "a2.64"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Chloe Bennett"
+    ],
+    "story_time_i18n": {
+      "vi": "giữa tháng 7, năm 3 (bài 1: chiều thứ Ba 16/7 sau khi quán Harriet's đóng cửa lúc 3pm, Chloe làm ca thứ Ba; bài 2: thông báo cho thứ Bảy 20/7; lịch năm 3 theo mẫu năm 2024; Harriet 69 tuổi, Chloe 25 tuổi)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Giới từ cuối câu, give + vật + to + người, pick up / drop off, từ vựng giao thông và đường sá; thông tin cụ thể, mục đích văn bản, từ trong ngữ cảnh, quy chiếu, 4 câu suy luận (1 câu nối hai bài)",
+    "description_vn": "Chloe kể chuyện bà Harriet lần đầu gọi xe qua app hư cấu Sunhop để mang bánh cảm ơn tới nhóm của cô Megan ở bệnh viện (nói chuyện với điện thoại như có tài xế bên trong, chê giá 12 đô so với xe buýt 1 đô, tặng bánh cho tài xế Russell, muốn tặng bánh cho cả app), và thông báo đóng đường, đổi trạm xe buýt số bảy ngày Lễ diễu hành mùa hè phố Maple (thứ Bảy 20/7). 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 16 khoá A2 · phiếu `a2.61` – `a2.64` (phương tiện công cộng, chỉ đường, giao thông và đường sá, thuê xe đạp)."
+    },
+    "objective_i18n": {
+      "vi": "đọc chuyện Chloe chỉ bà Harriet lần đầu gọi xe qua app, và thông báo đóng đường, đổi tuyến xe buýt ngày diễu hành mùa hè của khu phố; hiểu giới từ ở cuối câu (Who are you talking to?, the place you're going to, Which entrance should we drop you off at?), cấu trúc give + vật + to + người (gave a piece of cake to Russell), cặp pick up / drop off và từ giao thông; tìm chi tiết, giờ giấc và địa điểm, hiểu it chỉ gì, nắm mục đích thông báo và suy ra điều bài không nói thẳng."
+    },
+    "extra_words": [
+      {
+        "word": "melt",
+        "i18n": {
+          "vi": "tan chảy"
+        }
+      },
+      {
+        "word": "ride app",
+        "i18n": {
+          "vi": "ứng dụng gọi xe"
+        }
+      },
+      {
+        "word": "neighborhood",
+        "i18n": {
+          "vi": "khu phố, khu dân cư"
+        }
+      },
+      {
+        "word": "parade",
+        "i18n": {
+          "vi": "cuộc diễu hành"
+        }
+      },
+      {
+        "word": "band",
+        "i18n": {
+          "vi": "ban nhạc"
+        }
+      },
+      {
+        "word": "avenue",
+        "i18n": {
+          "vi": "đại lộ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "Who are you talking to?",
+          "vi": "Bạn đang nói chuyện với ai?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the place you're going to",
+          "vi": "nơi bạn muốn tới"
+        }
+      },
+      {
+        "i18n": {
+          "en": "pick you up at the door",
+          "vi": "đón bạn tận cửa"
+        }
+      },
+      {
+        "i18n": {
+          "en": "drop you off at the entrance",
+          "vi": "cho bạn xuống ở lối vào"
+        }
+      },
+      {
+        "i18n": {
+          "en": "closed to cars",
+          "vi": "cấm ô tô đi vào"
+        }
+      },
+      {
+        "i18n": {
+          "en": "No traffic jam.",
+          "vi": "Không tắc đường."
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Giới từ có thể đứng ở **cuối câu hỏi** hoặc cuối cụm \"cái mà\": `Who are you talking to?`, `the place you're going to`, `Which entrance should we drop you off at?`. Khi đọc, hãy ghép giới từ đó với từ để hỏi ở đầu câu (Who … to = với ai; Which entrance … at = ở lối vào nào)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**give + vật + to + người**: `gave a piece of cake to Russell` = đưa miếng bánh cho Russell. Người nhận đứng sau to; cũng có thể nói give Russell a piece of cake."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**pick up** (đón) và **drop off** (cho xuống) là cặp hay bị đánh tráo trong phương án nhiễu. Xem câu nói về lúc BẮT ĐẦU hay lúc KẾT THÚC chuyến đi."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài thông báo có nhiều giờ và địa điểm. Đọc tiêu đề từng mục (Roads, Buses, Parking…) để biết thông tin nằm ở đâu, rồi gắn mỗi mốc giờ, mỗi địa điểm với đúng việc của nó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận (vì sao ai đó hỏi / đồng ý, câu đùa ở cuối, câu nối hai bài): bài không nói thẳng. Nối câu ngay trước và ngay sau, hoặc lấy một chi tiết ở bài 1 rồi kiểm tra quy định ở bài 2."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u16_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Chuyến xe đặt qua app đầu tiên của bà Harriet"
+      },
+      "narrator": "Chloe",
+      "title": "Harriet's First Ride",
+      "category": "story",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's First Ride",
+            "vi": "Chuyến xe đầu tiên của bà Harriet"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last Tuesday, after the café closed at three, Harriet came out of the kitchen with two boxes of chocolate cake.",
+            "vi": "Thứ Ba tuần trước, sau khi quán đóng cửa lúc ba giờ, bà Harriet từ trong bếp đi ra với hai hộp bánh sô-cô-la."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They were a thank-you gift for Megan's team at the hospital, but her car was at the garage again.",
+            "vi": "Đó là quà cảm ơn cho nhóm của cô Megan ở bệnh viện, nhưng xe của bà lại nằm ở tiệm sửa xe lần nữa."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Why don't you take the number seven bus? It goes past the hospital.",
+            "vi": "Sao bà không đi xe buýt số bảy ạ? Nó chạy ngang bệnh viện mà."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "On hot afternoons that bus is crowded with teenagers, and my cakes will melt!",
+            "vi": "Chiều nóng thế này, xe đó chật cứng bọn tuổi teen, bánh của bà chảy hết mất!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So I showed her Sunhop, the ride app I use every day.",
+            "vi": "Thế là tôi chỉ cho bà Sunhop, cái app gọi xe mà ngày nào tôi cũng dùng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Just type the place you're going to, and a driver picks you up at the door.",
+            "vi": "Bà chỉ cần gõ nơi bà muốn tới, rồi sẽ có tài xế tới đón bà ngay tận cửa."
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet held the phone close to her face and spoke slowly and loudly.",
+            "vi": "Bà Harriet cầm điện thoại sát tận mặt rồi nói thật chậm và thật to."
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "Hello, young man! I would like to go to the hospital.",
+            "vi": "Chào cậu! Bà muốn đi tới bệnh viện."
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Harriet, who are you talking to?",
+            "vi": "Bà Harriet ơi, bà đang nói chuyện với ai thế ạ?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "The driver! Isn't he in there?",
+            "vi": "Thì với tài xế chứ ai! Cậu ấy không ở trong đó à?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I laughed and typed the address: the ride was twelve dollars.",
+            "vi": "Tôi bật cười rồi gõ địa chỉ giúp bà: chuyến xe giá mười hai đô."
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "Twelve dollars? The bus is only one dollar for me!",
+            "vi": "Mười hai đô á? Đi xe buýt bà chỉ mất có một đô thôi!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "But the bus won't carry your cakes to the door.",
+            "vi": "Nhưng xe buýt đâu có chở bánh của bà tới tận cửa."
+          }
+        },
+        {
+          "n": 15,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She agreed, and the app found a driver, Russell, four minutes away.",
+            "vi": "Bà đồng ý, và app tìm được một tài xế tên Russell, cách đó bốn phút."
+          }
+        },
+        {
+          "n": 16,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then it asked a question that Harriet loved: \"Which entrance should we drop you off at?\"",
+            "vi": "Rồi nó hỏi một câu mà bà Harriet rất thích: \"Chúng tôi nên thả bà xuống ở lối vào nào?\""
+          }
+        },
+        {
+          "n": 17,
+          "para": 16,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She chose the main entrance, and when the silver car came, she sat in the passenger seat and gave a piece of cake to Russell.",
+            "vi": "Bà chọn lối vào chính, và khi chiếc xe màu bạc tới, bà ngồi vào ghế cạnh tài xế và đưa cho Russell một miếng bánh."
+          }
+        },
+        {
+          "n": 18,
+          "para": 17,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Soon a message came: \"No traffic jam, and the cakes are safe.\"",
+            "vi": "Chẳng bao lâu sau, có tin nhắn tới: \"Không tắc đường, bánh vẫn nguyên vẹn.\""
+          }
+        },
+        {
+          "n": 19,
+          "para": 17,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then a second one came: \"I gave Russell five stars. Can I give the app some cake too?\"",
+            "vi": "Rồi tin thứ hai tới: \"Bà cho Russell năm sao rồi. Bà cho cái app ít bánh luôn được không?\""
+          }
+        }
+      ],
+      "content_ja": "Harriet's First Ride\n\nLast Tuesday, after the café closed at three, Harriet came out of the kitchen with two boxes of chocolate cake. They were a thank-you gift for Megan's team at the hospital, but her car was at the garage again.\n\nChloe: Why don't you take the number seven bus? It goes past the hospital.\n\nHarriet: On hot afternoons that bus is crowded with teenagers, and my cakes will melt!\n\nSo I showed her Sunhop, the ride app I use every day.\n\nChloe: Just type the place you're going to, and a driver picks you up at the door.\n\nHarriet held the phone close to her face and spoke slowly and loudly.\n\nHarriet: Hello, young man! I would like to go to the hospital.\n\nChloe: Harriet, who are you talking to?\n\nHarriet: The driver! Isn't he in there?\n\nI laughed and typed the address: the ride was twelve dollars.\n\nHarriet: Twelve dollars? The bus is only one dollar for me!\n\nChloe: But the bus won't carry your cakes to the door.\n\nShe agreed, and the app found a driver, Russell, four minutes away. Then it asked a question that Harriet loved: \"Which entrance should we drop you off at?\"\n\nShe chose the main entrance, and when the silver car came, she sat in the passenger seat and gave a piece of cake to Russell.\n\nSoon a message came: \"No traffic jam, and the cakes are safe.\" Then a second one came: \"I gave Russell five stars. Can I give the app some cake too?\"",
+      "translation_vn": "(1) Chuyến xe đầu tiên của bà Harriet\n(2) Thứ Ba tuần trước, sau khi quán đóng cửa lúc ba giờ, bà Harriet từ trong bếp đi ra với hai hộp bánh sô-cô-la.\n(3) Đó là quà cảm ơn cho nhóm của cô Megan ở bệnh viện, nhưng xe của bà lại nằm ở tiệm sửa xe lần nữa.\n(4) Chloe: Sao bà không đi xe buýt số bảy ạ? Nó chạy ngang bệnh viện mà.\n(5) Harriet: Chiều nóng thế này, xe đó chật cứng bọn tuổi teen, bánh của bà chảy hết mất!\n(6) Thế là tôi chỉ cho bà Sunhop, cái app gọi xe mà ngày nào tôi cũng dùng.\n(7) Chloe: Bà chỉ cần gõ nơi bà muốn tới, rồi sẽ có tài xế tới đón bà ngay tận cửa.\n(8) Bà Harriet cầm điện thoại sát tận mặt rồi nói thật chậm và thật to.\n(9) Harriet: Chào cậu! Bà muốn đi tới bệnh viện.\n(10) Chloe: Bà Harriet ơi, bà đang nói chuyện với ai thế ạ?\n(11) Harriet: Thì với tài xế chứ ai! Cậu ấy không ở trong đó à?\n(12) Tôi bật cười rồi gõ địa chỉ giúp bà: chuyến xe giá mười hai đô.\n(13) Harriet: Mười hai đô á? Đi xe buýt bà chỉ mất có một đô thôi!\n(14) Chloe: Nhưng xe buýt đâu có chở bánh của bà tới tận cửa.\n(15) Bà đồng ý, và app tìm được một tài xế tên Russell, cách đó bốn phút.\n(16) Rồi nó hỏi một câu mà bà Harriet rất thích: \"Chúng tôi nên thả bà xuống ở lối vào nào?\"\n(17) Bà chọn lối vào chính, và khi chiếc xe màu bạc tới, bà ngồi vào ghế cạnh tài xế và đưa cho Russell một miếng bánh.\n(18) Chẳng bao lâu sau, có tin nhắn tới: \"Không tắc đường, bánh vẫn nguyên vẹn.\"\n(19) Rồi tin thứ hai tới: \"Bà cho Russell năm sao rồi. Bà cho cái app ít bánh luôn được không?\"",
+      "word_count": 248,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.61",
+        "a2.62",
+        "a2.63",
+        "a2.64"
+      ]
+    },
+    {
+      "id": "passage_u16_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Thông báo đóng đường, đổi tuyến xe buýt ngày diễu hành mùa hè"
+      },
+      "narrator": "announcer",
+      "title": "Maple Street Summer Parade: Road Closures and Bus Changes",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Summer Parade: Road Closures and Bus Changes",
+            "vi": "Lễ diễu hành mùa hè phố Maple: đóng đường và thay đổi tuyến xe buýt"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Saturday, July 20, our neighborhood is having its first Summer Parade, with music, bands and happy dogs.",
+            "vi": "Thứ Bảy ngày 20 tháng 7, khu phố chúng ta tổ chức Lễ diễu hành mùa hè lần đầu tiên, có âm nhạc, các ban nhạc và những chú chó vui vẻ."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The parade starts at Maple Street School at ten in the morning and ends at Pine Street Park around noon.",
+            "vi": "Đoàn diễu hành xuất phát từ trường Maple Street School lúc mười giờ sáng và kết thúc ở công viên Pine Street Park vào khoảng trưa."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Roads",
+            "vi": "Đường sá"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street is closed to cars from eight in the morning until two in the afternoon, and so is the left-hand lane of Pine Street.",
+            "vi": "Phố Maple cấm ô tô từ tám giờ sáng tới hai giờ chiều, làn bên trái của phố Pine cũng vậy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do not park on Maple Street after seven, and please slow down and follow the yellow signs.",
+            "vi": "Không đỗ xe trên phố Maple sau bảy giờ, và xin hãy đi chậm lại, đi theo các biển báo màu vàng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Buses",
+            "vi": "Xe buýt"
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The number seven bus can't use Maple Street, so it goes along Willow Avenue instead.",
+            "vi": "Xe buýt số bảy không đi được trên phố Maple, nên sẽ chạy theo đại lộ Willow."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The stop opposite the bank is closed, so please use the stop on Willow Avenue, next to the gas station.",
+            "vi": "Trạm đối diện ngân hàng không hoạt động, nên xin hãy dùng trạm trên đại lộ Willow, cạnh trạm xăng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Buses to the library and the hospital may be a little late, so check the timetable.",
+            "vi": "Xe buýt đi thư viện và bệnh viện có thể trễ một chút, nên hãy xem lịch chạy."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Parking and ride apps",
+            "vi": "Đỗ xe và app gọi xe"
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The City Library parking lot is free all day, but it is small and often full by nine.",
+            "vi": "Bãi đỗ xe của thư viện thành phố miễn phí cả ngày, nhưng bãi nhỏ và thường kín chỗ trước chín giờ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ride app drivers can't enter the closed roads, so ask your driver to pick you up or drop you off at the library entrance.",
+            "vi": "Tài xế app gọi xe không được vào các đoạn đường bị đóng, nên hãy hẹn tài xế đón hoặc thả bạn ở lối vào thư viện."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Walk or ride",
+            "vi": "Đi bộ hoặc đạp xe"
+          }
+        },
+        {
+          "n": 15,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The best way to come is on foot or by bike, and Pine Street Park has a free bike area.",
+            "vi": "Cách tốt nhất để tới là đi bộ hoặc đạp xe, và công viên Pine Street Park có khu để xe đạp miễn phí."
+          }
+        },
+        {
+          "n": 16,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In California, everyone under eighteen on a bike or a scooter must wear a helmet.",
+            "vi": "Ở California, mọi người dưới mười tám tuổi đi xe đạp hay xe trượt scooter đều phải đội mũ bảo hiểm."
+          }
+        },
+        {
+          "n": 17,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On this hot day, Harriet's café opens at eight as usual and gives free water to everyone in the parade.",
+            "vi": "Hôm đó trời nóng, quán Harriet's vẫn mở cửa lúc tám giờ như thường lệ và tặng nước miễn phí cho mọi người trong đoàn diễu hành."
+          }
+        }
+      ],
+      "content_ja": "Maple Street Summer Parade: Road Closures and Bus Changes\n\nOn Saturday, July 20, our neighborhood is having its first Summer Parade, with music, bands and happy dogs. The parade starts at Maple Street School at ten in the morning and ends at Pine Street Park around noon.\n\nRoads\n\nMaple Street is closed to cars from eight in the morning until two in the afternoon, and so is the left-hand lane of Pine Street. Do not park on Maple Street after seven, and please slow down and follow the yellow signs.\n\nBuses\n\nThe number seven bus can't use Maple Street, so it goes along Willow Avenue instead. The stop opposite the bank is closed, so please use the stop on Willow Avenue, next to the gas station. Buses to the library and the hospital may be a little late, so check the timetable.\n\nParking and ride apps\n\nThe City Library parking lot is free all day, but it is small and often full by nine. Ride app drivers can't enter the closed roads, so ask your driver to pick you up or drop you off at the library entrance.\n\nWalk or ride\n\nThe best way to come is on foot or by bike, and Pine Street Park has a free bike area. In California, everyone under eighteen on a bike or a scooter must wear a helmet. On this hot day, Harriet's café opens at eight as usual and gives free water to everyone in the parade.",
+      "translation_vn": "(1) Lễ diễu hành mùa hè phố Maple: đóng đường và thay đổi tuyến xe buýt\n(2) Thứ Bảy ngày 20 tháng 7, khu phố chúng ta tổ chức Lễ diễu hành mùa hè lần đầu tiên, có âm nhạc, các ban nhạc và những chú chó vui vẻ.\n(3) Đoàn diễu hành xuất phát từ trường Maple Street School lúc mười giờ sáng và kết thúc ở công viên Pine Street Park vào khoảng trưa.\n(4) Đường sá\n(5) Phố Maple cấm ô tô từ tám giờ sáng tới hai giờ chiều, làn bên trái của phố Pine cũng vậy.\n(6) Không đỗ xe trên phố Maple sau bảy giờ, và xin hãy đi chậm lại, đi theo các biển báo màu vàng.\n(7) Xe buýt\n(8) Xe buýt số bảy không đi được trên phố Maple, nên sẽ chạy theo đại lộ Willow.\n(9) Trạm đối diện ngân hàng không hoạt động, nên xin hãy dùng trạm trên đại lộ Willow, cạnh trạm xăng.\n(10) Xe buýt đi thư viện và bệnh viện có thể trễ một chút, nên hãy xem lịch chạy.\n(11) Đỗ xe và app gọi xe\n(12) Bãi đỗ xe của thư viện thành phố miễn phí cả ngày, nhưng bãi nhỏ và thường kín chỗ trước chín giờ.\n(13) Tài xế app gọi xe không được vào các đoạn đường bị đóng, nên hãy hẹn tài xế đón hoặc thả bạn ở lối vào thư viện.\n(14) Đi bộ hoặc đạp xe\n(15) Cách tốt nhất để tới là đi bộ hoặc đạp xe, và công viên Pine Street Park có khu để xe đạp miễn phí.\n(16) Ở California, mọi người dưới mười tám tuổi đi xe đạp hay xe trượt scooter đều phải đội mũ bảo hiểm.\n(17) Hôm đó trời nóng, quán Harriet's vẫn mở cửa lúc tám giờ như thường lệ và tặng nước miễn phí cho mọi người trong đoàn diễu hành.",
+      "word_count": 246,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.61",
+        "a2.62",
+        "a2.63",
+        "a2.64"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u16_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "Why didn't Harriet want to take the number seven bus?",
+        "vi": "Vì sao bà Harriet không muốn đi xe buýt số bảy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It doesn't go past the hospital.",
+            "vi": "Nó không chạy ngang bệnh viện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It doesn't go past the hospital.",
+          "text_translation": "Nó không chạy ngang bệnh viện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Her car was at the garage.",
+            "vi": "Xe của bà đang ở tiệm sửa xe."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Her car was at the garage.",
+          "text_translation": "Xe của bà đang ở tiệm sửa xe."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is crowded on hot afternoons, and her cakes might melt.",
+            "vi": "Chiều nóng xe rất đông, bánh của bà có thể bị chảy."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is crowded on hot afternoons, and her cakes might melt.",
+          "text_translation": "Chiều nóng xe rất đông, bánh của bà có thể bị chảy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The bus is too expensive for her.",
+            "vi": "Xe buýt quá đắt với bà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The bus is too expensive for her.",
+          "text_translation": "Xe buýt quá đắt với bà."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Bà Harriet nói: \"On hot afternoons that bus is crowded with teenagers, and my cakes will melt!\" Vậy lý do là xe đông và bánh sẽ chảy. Chloe nói ngược lại là xe số bảy \"goes past the hospital\". Xe ở tiệm sửa (\"her car was at the garage again\") là lý do bà cần tìm cách đi, không phải lý do bà không đi xe buýt. Xe buýt lại rẻ: \"The bus is only one dollar for me!\""
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why didn't…want…? thường được trả lời ngay trong lượt thoại đáp lại lời gợi ý (Why don't you…?). Đọc kỹ câu ngay sau lời gợi ý."
+      },
+      "question_jp": "Why didn't Harriet want to take the number seven bus?",
+      "question_vn": "Vì sao bà Harriet không muốn đi xe buýt số bảy?",
+      "explanation": "Bà Harriet nói: \"On hot afternoons that bus is crowded with teenagers, and my cakes will melt!\" Vậy lý do là xe đông và bánh sẽ chảy. Chloe nói ngược lại là xe số bảy \"goes past the hospital\". Xe ở tiệm sửa (\"her car was at the garage again\") là lý do bà cần tìm cách đi, không phải lý do bà không đi xe buýt. Xe buýt lại rẻ: \"The bus is only one dollar for me!\"",
+      "tip": "Câu hỏi Why didn't…want…? thường được trả lời ngay trong lượt thoại đáp lại lời gợi ý (Why don't you…?). Đọc kỹ câu ngay sau lời gợi ý."
+    },
+    {
+      "id": "q_u16_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "Why does Chloe ask \"Harriet, who are you talking to?\"",
+        "vi": "Vì sao Chloe hỏi \"Harriet, who are you talking to?\" (Bà đang nói chuyện với ai thế ạ)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet is speaking to the phone as if a driver is inside it.",
+            "vi": "Bà Harriet đang nói vào điện thoại như thể có tài xế ở bên trong."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Harriet is speaking to the phone as if a driver is inside it.",
+          "text_translation": "Bà Harriet đang nói vào điện thoại như thể có tài xế ở bên trong."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet is talking to Russell on a phone call.",
+            "vi": "Bà Harriet đang gọi điện nói chuyện với Russell."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet is talking to Russell on a phone call.",
+          "text_translation": "Bà Harriet đang gọi điện nói chuyện với Russell."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe can't hear Harriet because she speaks very quietly.",
+            "vi": "Chloe không nghe được vì bà Harriet nói rất nhỏ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Chloe can't hear Harriet because she speaks very quietly.",
+          "text_translation": "Chloe không nghe được vì bà Harriet nói rất nhỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet is talking to Megan's team at the hospital.",
+            "vi": "Bà Harriet đang nói chuyện với nhóm của cô Megan ở bệnh viện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet is talking to Megan's team at the hospital.",
+          "text_translation": "Bà Harriet đang nói chuyện với nhóm của cô Megan ở bệnh viện."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Bà Harriet \"held the phone close to her face and spoke slowly and loudly\" rồi nói \"Hello, young man! I would like to go to the hospital.\" Khi Chloe hỏi, bà đáp \"The driver! Isn't he in there?\": bà tưởng có một tài xế ở trong điện thoại. Lúc đó app chưa tìm được Russell (chuyện tìm tài xế xảy ra sau), nên bà không gọi cho Russell. Bà nói \"loudly\" (to), không phải nói nhỏ. Bài không nói bà gọi cho nhóm của cô Megan."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Giới từ ở cuối câu hỏi: Who are you talking to? = Bạn đang nói chuyện với ai? Để hiểu vì sao một người hỏi như vậy, hãy đọc người kia làm gì ngay trước đó và trả lời thế nào ngay sau đó."
+      },
+      "question_jp": "Why does Chloe ask \"Harriet, who are you talking to?\"",
+      "question_vn": "Vì sao Chloe hỏi \"Harriet, who are you talking to?\" (Bà đang nói chuyện với ai thế ạ)?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Bà Harriet \"held the phone close to her face and spoke slowly and loudly\" rồi nói \"Hello, young man! I would like to go to the hospital.\" Khi Chloe hỏi, bà đáp \"The driver! Isn't he in there?\": bà tưởng có một tài xế ở trong điện thoại. Lúc đó app chưa tìm được Russell (chuyện tìm tài xế xảy ra sau), nên bà không gọi cho Russell. Bà nói \"loudly\" (to), không phải nói nhỏ. Bài không nói bà gọi cho nhóm của cô Megan.",
+      "tip": "Giới từ ở cuối câu hỏi: Who are you talking to? = Bạn đang nói chuyện với ai? Để hiểu vì sao một người hỏi như vậy, hãy đọc người kia làm gì ngay trước đó và trả lời thế nào ngay sau đó."
+    },
+    {
+      "id": "q_u16_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "Why did Harriet agree to pay twelve dollars for the ride?",
+        "vi": "Vì sao bà Harriet đồng ý trả mười hai đô cho chuyến xe?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The bus was only one dollar for her.",
+            "vi": "Đi xe buýt bà chỉ mất một đô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The bus was only one dollar for her.",
+          "text_translation": "Đi xe buýt bà chỉ mất một đô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Russell was only four minutes away.",
+            "vi": "Russell chỉ cách đó bốn phút."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Russell was only four minutes away.",
+          "text_translation": "Russell chỉ cách đó bốn phút."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe paid for the ride.",
+            "vi": "Chloe trả tiền chuyến xe."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Chloe paid for the ride.",
+          "text_translation": "Chloe trả tiền chuyến xe."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The car could take her cakes safely to the hospital door.",
+            "vi": "Xe có thể chở bánh của bà tới tận cửa bệnh viện an toàn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The car could take her cakes safely to the hospital door.",
+          "text_translation": "Xe có thể chở bánh của bà tới tận cửa bệnh viện an toàn."
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do, nhưng ta suy ra được. Bà kêu đắt: \"Twelve dollars? The bus is only one dollar for me!\" Chloe đáp: \"But the bus won't carry your cakes to the door.\" Ngay sau đó \"She agreed\": bà đồng ý vì nghĩ tới chỗ bánh. \"one dollar\" là lý do bà ngần ngại, không phải lý do bà đồng ý. Russell \"four minutes away\" là chuyện app tìm được SAU khi bà đồng ý. Bài không nói Chloe trả tiền."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Muốn biết vì sao ai đó đổi ý, hãy tìm câu nói ngay TRƯỚC chữ agreed / said yes. Đó thường là lý lẽ đã thuyết phục họ."
+      },
+      "question_jp": "Why did Harriet agree to pay twelve dollars for the ride?",
+      "question_vn": "Vì sao bà Harriet đồng ý trả mười hai đô cho chuyến xe?",
+      "explanation": "Bài không nói thẳng lý do, nhưng ta suy ra được. Bà kêu đắt: \"Twelve dollars? The bus is only one dollar for me!\" Chloe đáp: \"But the bus won't carry your cakes to the door.\" Ngay sau đó \"She agreed\": bà đồng ý vì nghĩ tới chỗ bánh. \"one dollar\" là lý do bà ngần ngại, không phải lý do bà đồng ý. Russell \"four minutes away\" là chuyện app tìm được SAU khi bà đồng ý. Bài không nói Chloe trả tiền.",
+      "tip": "Muốn biết vì sao ai đó đổi ý, hãy tìm câu nói ngay TRƯỚC chữ agreed / said yes. Đó thường là lý lẽ đã thuyết phục họ."
+    },
+    {
+      "id": "q_u16_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "In \"Which entrance should we drop you off at?\", what does \"drop you off\" mean?",
+        "vi": "Trong câu \"Which entrance should we drop you off at?\", \"drop you off\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "come and get you",
+            "vi": "tới đón bạn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "come and get you",
+          "text_translation": "tới đón bạn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "stop the car and let you get out",
+            "vi": "dừng xe cho bạn xuống"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "stop the car and let you get out",
+          "text_translation": "dừng xe cho bạn xuống"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "make you fall",
+            "vi": "làm bạn ngã"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "make you fall",
+          "text_translation": "làm bạn ngã"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "give you a piece of cake",
+            "vi": "đưa cho bạn một miếng bánh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "give you a piece of cake",
+          "text_translation": "đưa cho bạn một miếng bánh"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "App hỏi \"Which entrance should we drop you off at?\" và bà Harriet \"chose the main entrance\" của bệnh viện, tức là nơi bà xuống xe khi tới nơi. Vậy drop off = cho xuống xe. \"Tới đón\" là pick up, như Chloe nói: \"a driver picks you up at the door\". Drop không có nghĩa là làm ngã ở đây. Chuyện đưa bánh là việc bà Harriet làm (\"gave a piece of cake to Russell\"), không liên quan tới drop off."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "pick up (đón) và drop off (cho xuống) là một cặp trái nghĩa hay gặp khi nói về xe cộ. Câu hỏi có giới từ ở cuối (…drop you off at?) hỏi về NƠI chốn."
+      },
+      "question_jp": "In \"Which entrance should we drop you off at?\", what does \"drop you off\" mean?",
+      "question_vn": "Trong câu \"Which entrance should we drop you off at?\", \"drop you off\" nghĩa là gì?",
+      "explanation": "App hỏi \"Which entrance should we drop you off at?\" và bà Harriet \"chose the main entrance\" của bệnh viện, tức là nơi bà xuống xe khi tới nơi. Vậy drop off = cho xuống xe. \"Tới đón\" là pick up, như Chloe nói: \"a driver picks you up at the door\". Drop không có nghĩa là làm ngã ở đây. Chuyện đưa bánh là việc bà Harriet làm (\"gave a piece of cake to Russell\"), không liên quan tới drop off.",
+      "tip": "pick up (đón) và drop off (cho xuống) là một cặp trái nghĩa hay gặp khi nói về xe cộ. Câu hỏi có giới từ ở cuối (…drop you off at?) hỏi về NƠI chốn."
+    },
+    {
+      "id": "q_u16_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "What does Harriet's last message show?",
+        "vi": "Tin nhắn cuối của bà Harriet cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is very happy with the app and wants to thank it, like she thanks people.",
+            "vi": "Bà rất hài lòng với app và muốn cảm ơn nó, như cách bà cảm ơn người khác."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She is very happy with the app and wants to thank it, like she thanks people.",
+          "text_translation": "Bà rất hài lòng với app và muốn cảm ơn nó, như cách bà cảm ơn người khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wants to buy more cake through the app.",
+            "vi": "Bà muốn mua thêm bánh qua app."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She wants to buy more cake through the app.",
+          "text_translation": "Bà muốn mua thêm bánh qua app."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The cakes were not safe in the car.",
+            "vi": "Bánh không an toàn khi ở trong xe."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The cakes were not safe in the car.",
+          "text_translation": "Bánh không an toàn khi ở trong xe."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is still angry about the price of the ride.",
+            "vi": "Bà vẫn còn bực vì giá chuyến xe."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is still angry about the price of the ride.",
+          "text_translation": "Bà vẫn còn bực vì giá chuyến xe."
+        }
+      ],
+      "evidence_segments": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng bà nghĩ gì, nhưng ta suy ra được. Bà \"gave a piece of cake to Russell\" để cảm ơn tài xế, rồi nhắn \"I gave Russell five stars. Can I give the app some cake too?\" Bà muốn cảm ơn cả cái app bằng bánh, như cảm ơn một con người: đó là câu đùa. Bà đã thích app từ lúc nó hỏi \"a question that Harriet loved\". Bánh vẫn an toàn: \"the cakes are safe\". Bài không nói bà mua bánh qua app, cũng không nói bà còn bực vì giá tiền."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu kết của truyện vui thường là một câu đùa. Hỏi: nhân vật đối xử với đồ vật như với ai? Từ đó suy ra cảm xúc của họ."
+      },
+      "question_jp": "What does Harriet's last message show?",
+      "question_vn": "Tin nhắn cuối của bà Harriet cho thấy điều gì?",
+      "explanation": "Bài không nói thẳng bà nghĩ gì, nhưng ta suy ra được. Bà \"gave a piece of cake to Russell\" để cảm ơn tài xế, rồi nhắn \"I gave Russell five stars. Can I give the app some cake too?\" Bà muốn cảm ơn cả cái app bằng bánh, như cảm ơn một con người: đó là câu đùa. Bà đã thích app từ lúc nó hỏi \"a question that Harriet loved\". Bánh vẫn an toàn: \"the cakes are safe\". Bài không nói bà mua bánh qua app, cũng không nói bà còn bực vì giá tiền.",
+      "tip": "Câu kết của truyện vui thường là một câu đùa. Hỏi: nhân vật đối xử với đồ vật như với ai? Từ đó suy ra cảm xúc của họ."
+    },
+    {
+      "id": "q_u16_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "What is the main purpose of the notice?",
+        "vi": "Mục đích chính của thông báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to invite school bands to join the parade",
+            "vi": "mời các ban nhạc trường tham gia diễu hành"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to invite school bands to join the parade",
+          "text_translation": "mời các ban nhạc trường tham gia diễu hành"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell people how roads and buses change on parade day",
+            "vi": "cho mọi người biết đường sá và xe buýt thay đổi thế nào vào ngày diễu hành"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to tell people how roads and buses change on parade day",
+          "text_translation": "cho mọi người biết đường sá và xe buýt thay đổi thế nào vào ngày diễu hành"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain the helmet law in California",
+            "vi": "giải thích luật đội mũ bảo hiểm ở California"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain the helmet law in California",
+          "text_translation": "giải thích luật đội mũ bảo hiểm ở California"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to sell parking places at the City Library",
+            "vi": "bán chỗ đỗ xe ở thư viện thành phố"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to sell parking places at the City Library",
+          "text_translation": "bán chỗ đỗ xe ở thư viện thành phố"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        5,
+        8,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề là \"Maple Street Summer Parade: Road Closures and Bus Changes\", và các mục nói về đường bị đóng (\"Maple Street is closed to cars\"), xe buýt đổi đường (\"it goes along Willow Avenue instead\"), chỗ đỗ xe và app gọi xe. Ban nhạc chỉ được nhắc tới trong câu giới thiệu \"with music, bands and happy dogs\", không có lời mời. Luật mũ bảo hiểm chỉ là một câu. Bãi đỗ xe thư viện \"is free\", không phải bán."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi mục đích chính: đọc tiêu đề và tiêu đề từng mục. Phương án chỉ đúng với MỘT câu trong bài (như luật mũ bảo hiểm) thường là quá hẹp."
+      },
+      "question_jp": "What is the main purpose of the notice?",
+      "question_vn": "Mục đích chính của thông báo là gì?",
+      "explanation": "Tiêu đề là \"Maple Street Summer Parade: Road Closures and Bus Changes\", và các mục nói về đường bị đóng (\"Maple Street is closed to cars\"), xe buýt đổi đường (\"it goes along Willow Avenue instead\"), chỗ đỗ xe và app gọi xe. Ban nhạc chỉ được nhắc tới trong câu giới thiệu \"with music, bands and happy dogs\", không có lời mời. Luật mũ bảo hiểm chỉ là một câu. Bãi đỗ xe thư viện \"is free\", không phải bán.",
+      "tip": "Câu hỏi mục đích chính: đọc tiêu đề và tiêu đề từng mục. Phương án chỉ đúng với MỘT câu trong bài (như luật mũ bảo hiểm) thường là quá hẹp."
+    },
+    {
+      "id": "q_u16_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "When is Maple Street closed to cars?",
+        "vi": "Phố Maple cấm ô tô vào lúc nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "from seven in the morning until two in the afternoon",
+            "vi": "từ bảy giờ sáng tới hai giờ chiều"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "from seven in the morning until two in the afternoon",
+          "text_translation": "từ bảy giờ sáng tới hai giờ chiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "from ten in the morning until noon",
+            "vi": "từ mười giờ sáng tới trưa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "from ten in the morning until noon",
+          "text_translation": "từ mười giờ sáng tới trưa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "from eight in the morning until two in the afternoon",
+            "vi": "từ tám giờ sáng tới hai giờ chiều"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "from eight in the morning until two in the afternoon",
+          "text_translation": "từ tám giờ sáng tới hai giờ chiều"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "all day",
+            "vi": "cả ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "all day",
+          "text_translation": "cả ngày"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Maple Street is closed to cars from eight in the morning until two in the afternoon\". Bảy giờ là mốc cấm đỗ xe: \"Do not park on Maple Street after seven\". Mười giờ tới trưa là giờ diễu hành: \"starts … at ten in the morning and ends … around noon\". \"all day\" là nói về bãi đỗ xe thư viện miễn phí (\"free all day\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài thông báo có nhiều mốc giờ. Gạch chân từng mốc và ghi xem nó gắn với việc gì (đóng đường, cấm đỗ, diễu hành) trước khi chọn."
+      },
+      "question_jp": "When is Maple Street closed to cars?",
+      "question_vn": "Phố Maple cấm ô tô vào lúc nào?",
+      "explanation": "\"Maple Street is closed to cars from eight in the morning until two in the afternoon\". Bảy giờ là mốc cấm đỗ xe: \"Do not park on Maple Street after seven\". Mười giờ tới trưa là giờ diễu hành: \"starts … at ten in the morning and ends … around noon\". \"all day\" là nói về bãi đỗ xe thư viện miễn phí (\"free all day\").",
+      "tip": "Bài thông báo có nhiều mốc giờ. Gạch chân từng mốc và ghi xem nó gắn với việc gì (đóng đường, cấm đỗ, diễu hành) trước khi chọn."
+    },
+    {
+      "id": "q_u16_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "Where can passengers catch the number seven bus on parade day?",
+        "vi": "Vào ngày diễu hành, hành khách đón xe buýt số bảy ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at the stop opposite the bank",
+            "vi": "ở trạm đối diện ngân hàng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at the stop opposite the bank",
+          "text_translation": "ở trạm đối diện ngân hàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at the library entrance",
+            "vi": "ở lối vào thư viện"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at the library entrance",
+          "text_translation": "ở lối vào thư viện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at Maple Street School",
+            "vi": "ở trường Maple Street School"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at Maple Street School",
+          "text_translation": "ở trường Maple Street School"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at the stop on Willow Avenue, next to the gas station",
+            "vi": "ở trạm trên đại lộ Willow, cạnh trạm xăng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "at the stop on Willow Avenue, next to the gas station",
+          "text_translation": "ở trạm trên đại lộ Willow, cạnh trạm xăng"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"The stop opposite the bank is closed, so please use the stop on Willow Avenue, next to the gas station.\" Trạm đối diện ngân hàng là trạm bị đóng. Lối vào thư viện là chỗ hẹn tài xế app gọi xe (\"ask your driver to pick you up or drop you off at the library entrance\"), không phải trạm xe buýt. Trường Maple Street School là nơi đoàn diễu hành xuất phát."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "opposite (đối diện), next to (bên cạnh) là giới từ chỉ vị trí. Phương án nhiễu hay dùng đúng một địa điểm có trong bài nhưng gắn với việc khác."
+      },
+      "question_jp": "Where can passengers catch the number seven bus on parade day?",
+      "question_vn": "Vào ngày diễu hành, hành khách đón xe buýt số bảy ở đâu?",
+      "explanation": "\"The stop opposite the bank is closed, so please use the stop on Willow Avenue, next to the gas station.\" Trạm đối diện ngân hàng là trạm bị đóng. Lối vào thư viện là chỗ hẹn tài xế app gọi xe (\"ask your driver to pick you up or drop you off at the library entrance\"), không phải trạm xe buýt. Trường Maple Street School là nơi đoàn diễu hành xuất phát.",
+      "tip": "opposite (đối diện), next to (bên cạnh) là giới từ chỉ vị trí. Phương án nhiễu hay dùng đúng một địa điểm có trong bài nhưng gắn với việc khác."
+    },
+    {
+      "id": "q_u16_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "In \"but it is small and often full by nine\", what does \"it\" refer to?",
+        "vi": "Trong câu \"but it is small and often full by nine\", \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the City Library parking lot",
+            "vi": "bãi đỗ xe của thư viện thành phố"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the City Library parking lot",
+          "text_translation": "bãi đỗ xe của thư viện thành phố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the free bike area",
+            "vi": "khu để xe đạp miễn phí"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the free bike area",
+          "text_translation": "khu để xe đạp miễn phí"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the parade",
+            "vi": "đoàn diễu hành"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the parade",
+          "text_translation": "đoàn diễu hành"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the bus stop on Willow Avenue",
+            "vi": "trạm xe buýt trên đại lộ Willow"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the bus stop on Willow Avenue",
+          "text_translation": "trạm xe buýt trên đại lộ Willow"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"The City Library parking lot is free all day, but it is small and often full by nine.\" \"it\" chỉ chủ ngữ ở nửa câu trước: bãi đỗ xe của thư viện. Khu để xe đạp ở mục sau (\"Pine Street Park has a free bike area\"). Đoàn diễu hành và trạm xe buýt không nằm trong câu này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Với it trong vế sau của câu có but / and, hãy nhìn chủ ngữ của vế trước: thường it chỉ chính danh từ đó."
+      },
+      "question_jp": "In \"but it is small and often full by nine\", what does \"it\" refer to?",
+      "question_vn": "Trong câu \"but it is small and often full by nine\", \"it\" chỉ cái gì?",
+      "explanation": "Câu đầy đủ là \"The City Library parking lot is free all day, but it is small and often full by nine.\" \"it\" chỉ chủ ngữ ở nửa câu trước: bãi đỗ xe của thư viện. Khu để xe đạp ở mục sau (\"Pine Street Park has a free bike area\"). Đoàn diễu hành và trạm xe buýt không nằm trong câu này.",
+      "tip": "Với it trong vế sau của câu có but / and, hãy nhìn chủ ngữ của vế trước: thường it chỉ chính danh từ đó."
+    },
+    {
+      "id": "q_u16_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "On parade morning, Harriet needs a Sunhop ride to the hospital again. Where should she ask the driver to pick her up?",
+        "vi": "Sáng hôm diễu hành, bà Harriet lại cần gọi xe Sunhop tới bệnh viện. Bà nên hẹn tài xế đón ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at the door of her café on Maple Street",
+            "vi": "ở cửa quán của bà trên phố Maple"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at the door of her café on Maple Street",
+          "text_translation": "ở cửa quán của bà trên phố Maple"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at the main entrance of the hospital",
+            "vi": "ở lối vào chính của bệnh viện"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at the main entrance of the hospital",
+          "text_translation": "ở lối vào chính của bệnh viện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at the library entrance",
+            "vi": "ở lối vào thư viện"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "at the library entrance",
+          "text_translation": "ở lối vào thư viện"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at the stop opposite the bank",
+            "vi": "ở trạm đối diện ngân hàng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at the stop opposite the bank",
+          "text_translation": "ở trạm đối diện ngân hàng"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu này nối hai bài đọc. Bài 2 cho biết \"Maple Street is closed to cars from eight in the morning until two in the afternoon\" và \"Ride app drivers can't enter the closed roads, so ask your driver to pick you up or drop you off at the library entrance.\" Ở bài 1, Chloe nói tài xế \"picks you up at the door\", nhưng hôm diễu hành thì không được như vậy. Quán của bà ở trên phố Maple, nên tài xế không tới cửa quán được. Lối vào chính bệnh viện là nơi bà XUỐNG xe (drop off), không phải nơi đón. Trạm đối diện ngân hàng là trạm xe buýt, lại đang đóng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: lấy một thói quen ở bài 1 (đón tận cửa) rồi kiểm tra xem quy định ở bài 2 có thay đổi nó không."
+      },
+      "question_jp": "On parade morning, Harriet needs a Sunhop ride to the hospital again. Where should she ask the driver to pick her up?",
+      "question_vn": "Sáng hôm diễu hành, bà Harriet lại cần gọi xe Sunhop tới bệnh viện. Bà nên hẹn tài xế đón ở đâu?",
+      "explanation": "Câu này nối hai bài đọc. Bài 2 cho biết \"Maple Street is closed to cars from eight in the morning until two in the afternoon\" và \"Ride app drivers can't enter the closed roads, so ask your driver to pick you up or drop you off at the library entrance.\" Ở bài 1, Chloe nói tài xế \"picks you up at the door\", nhưng hôm diễu hành thì không được như vậy. Quán của bà ở trên phố Maple, nên tài xế không tới cửa quán được. Lối vào chính bệnh viện là nơi bà XUỐNG xe (drop off), không phải nơi đón. Trạm đối diện ngân hàng là trạm xe buýt, lại đang đóng.",
+      "tip": "Câu nối hai bài: lấy một thói quen ở bài 1 (đón tận cửa) rồi kiểm tra xem quy định ở bài 2 có thay đổi nó không."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u16_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Chuyến xe đặt qua app đầu tiên của bà Harriet",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u16_01",
+      "question_ids": [
+        "q_u16_001",
+        "q_u16_002",
+        "q_u16_003",
+        "q_u16_004",
+        "q_u16_005"
+      ]
+    },
+    {
+      "set_id": "set_u16_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Thông báo đóng đường, đổi tuyến xe buýt ngày diễu hành mùa hè",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u16_02",
+      "question_ids": [
+        "q_u16_006",
+        "q_u16_007",
+        "q_u16_008",
+        "q_u16_009",
+        "q_u16_010"
+      ]
+    }
+  ]
+}
