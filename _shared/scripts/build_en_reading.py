@@ -17,6 +17,8 @@ NGUỒN SỰ THẬT = file JSON. Mọi đoạn chữ là một BẢN ĐỒ NGÔN
   lesson.phrases                 [{i18n: {en, vi}}]
   lesson.tips                    [{i18n: {vi}}]
   reading_passages[].heading_i18n  {vi}
+  reading_passages[].narrator      giọng đọc các câu KHÔNG có speaker: tên nhân vật viết bài (Tina, Harriet…)
+                                   hoặc "announcer" (thông báo, quảng cáo, bài kiến thức). Câu có speaker đọc bằng giọng speaker.
   reading_passages[].segments[]  {n, para, kind, speaker, label, i18n: {en, vi}}
   questions[].i18n               {en, vi}          (câu hỏi)
   questions[].choices[].i18n     {en, vi}
@@ -157,6 +159,8 @@ def validate_and_legacy(d: dict) -> list[str]:
     seg_maps = {}
     for p in d.get("reading_passages") or []:
         need(p.get("heading_i18n"), langs, f"{p['id']}.heading_i18n")
+        if not (p.get("narrator") or "").strip():
+            err(f"{p['id']}: thiếu narrator (tên nhân vật viết bài, hoặc \"announcer\")")
         segs = p.get("segments") or []
         if not segs:
             err(f"{p['id']}: thiếu segments")

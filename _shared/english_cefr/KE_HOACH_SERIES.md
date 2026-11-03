@@ -126,6 +126,7 @@ Khoá cũ (`question_jp`, `question_vn`, `text`, `text_translation`, `explanatio
 | `para` | số đoạn. Các câu cùng `para` + cùng `speaker` ghép thành 1 đoạn khi hiển thị liền |
 | `kind` | `title` / `sentence` / `signature`. Khi shadowing, app có thể bỏ qua title và signature |
 | `speaker` | người nói (hội thoại, tin nhắn). **Tách riêng khỏi `en`** để TTS không đọc tên người nói |
+| `narrator` *(ở cấp bài đọc)* | giọng đọc các câu **không có** `speaker`: tên nhân vật viết bài (Tina viết nhật ký, Harriet viết lời nhắn…) hoặc `"announcer"` (thông báo, quảng cáo, bài kiến thức). Build bắt buộc phải có |
 | `label` | nhãn đầu đoạn như `1.`, chỉ để hiển thị, TTS bỏ qua |
 | `i18n` | `en` là câu gốc; `vi` (sau này `ja`, `th`…) là bản dịch |
 
@@ -167,6 +168,27 @@ Khoá cũ (`question_jp`, `question_vn`, `text`, `text_translation`, `explanatio
 | 6 | Nhất quán giữa các chương (nhân vật, độ khó tăng dần) | subagent |
 | 7 | Hội đồng: ngôn ngữ học tiếng Anh, sư phạm, chuyên gia luyện thi VSTEP | 3 subagent song song |
 | 8 | Hoàn thiện | main Claude |
+
+## 7b. Đây là SÁCH ÔN (chủ nhà chốt 03/11/2026)
+
+> *"sách này là sách ôn, đa phần mọi người học xong khá nhiều rồi nên cứ thoải mái đi. Càng về sau bài càng dài, câu hỏi cũng khó lên một chút."*
+
+- **Vốn từ được nới:**
+  - từ ngoài phạm vi có chú nghĩa: tới khoảng 8 từ mỗi chương;
+  - độ phủ từ của unit chỉ để tham khảo, không bắt buộc ≥ 50%;
+  - ưu tiên văn tự nhiên.
+- **Vẫn giữ:** không dùng ngữ pháp của cấp SAU (script cảnh báo); đúng dàn nhân vật; vùng cấm.
+- **Độ dài và độ khó tăng liên tục qua các cuốn:**
+
+  | Cuốn | Đầu cuốn | Cuối cuốn | Câu suy luận / chương |
+  |---|---|---|---|
+  | A1 (đã viết) | ~75 từ / bài | ~150 từ | 0 → 4 |
+  | A2 | ~150 | ~250 | 2 → 4 |
+  | B1 | ~250 | ~350 | 4 → 6 (trên 20 câu) |
+  | B2 | ~350 | ~450 | 6 → 8 |
+  | C1 | ~450 | ~550 | 8 → 10 |
+
+  Chương đầu của cuốn sau không được ngắn hơn chương cuối của cuốn trước.
 
 ## 7a. Độ khó tăng dần và chủ đề (chủ nhà chốt 03/11/2026)
 
