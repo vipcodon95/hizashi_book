@@ -45,9 +45,15 @@
 >
 > Is he on your street? Please check! Please phone Megan Carter.
 >
-> Mobile number: 619-555-0142 Address: 12 Maple Street Email: megan.carter@example.com
+> Mobile number: 619-555-0142
 >
-> Reward: fifty dollars Thank you!
+> Address: 12 Maple Street
+>
+> Email: megan.carter@example.com
+>
+> Reward: fifty dollars
+>
+> Thank you!
 
 ### Dịch từng câu
 

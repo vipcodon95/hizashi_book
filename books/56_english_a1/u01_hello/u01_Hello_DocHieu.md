@@ -123,7 +123,9 @@
 >
 > The club is after school in Ms. Park's classroom.
 >
-> Ms. Lydia Park, English teacher Questions? Please ask Ms. Park.
+> Ms. Lydia Park, English teacher
+>
+> Questions? Please ask Ms. Park.
 
 ### Dịch từng câu
 

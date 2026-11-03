@@ -111,11 +111,19 @@ def curriculum_words(sheets: list[str]) -> dict[str, dict]:
                         out[w["word"]] = {**w, "sheet": s["id"]}
     return out
 
+def _is_line(s: dict) -> bool:
+    """Dòng kiểu nhãn / bảng (không kết thúc bằng dấu câu) → hiển thị trên dòng riêng."""
+    en = s["i18n"].get("en", "").strip()
+    m = re.match(r"^([A-Z][^.!?:]{0,30}):\s", en)
+    if m and not s.get("speaker") and len(m.group(1).split()) <= 3 and len(en) <= 60:  # "Adult: $6", "Sunday: 7 a.m. to 11 p.m."
+        return True
+    return not re.search(r"[.!?…\"”')]$", en)
+
 def paragraphs(segs: list[dict]):
     out: list = []
     for s in segs:
         key = (s.get("para"), s.get("speaker"))
-        if out and out[-1][0] == key:
+        if out and out[-1][0] == key and not _is_line(out[-1][1][-1]) and not _is_line(s):
             out[-1][1].append(s)
         else:
             out.append((key, [s]))

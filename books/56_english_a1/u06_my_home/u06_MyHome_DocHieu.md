@@ -120,9 +120,13 @@
 
 > **Homes for Rent near Maple Street**
 >
-> 1. A small house at 28 Pine Street, with a large living room. There are two bedrooms and one bathroom. There is a shower, but there isn't a bath. The kitchen is small and old. Rent: $2,400 a month.
+> 1. A small house at 28 Pine Street, with a large living room. There are two bedrooms and one bathroom. There is a shower, but there isn't a bath. The kitchen is small and old.
 >
-> 2. An apartment at 40 Pine Street, on the top floor. There is one bedroom with a desk in the corner. There are some big windows in the living room. There are some shelves on the walls, but there aren't any beds. Rent: $1,900 a month.
+> Rent: $2,400 a month.
+>
+> 2. An apartment at 40 Pine Street, on the top floor. There is one bedroom with a desk in the corner. There are some big windows in the living room. There are some shelves on the walls, but there aren't any beds.
+>
+> Rent: $1,900 a month.
 >
 > Please phone Gary Lawson: 619-555-0163.
 

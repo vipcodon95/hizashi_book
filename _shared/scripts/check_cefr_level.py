@@ -214,7 +214,7 @@ def main() -> int:
                     glossed.add(w)
                 used.update(candidates(w))
                 starts = sent.lstrip(" \"'“(*-").startswith(tok)
-                if w in allow or (tok[0].isupper() and (i > 0 or w in cast or not starts) and w != "i"):
+                if w in allow or any(c in allow for c in candidates(w)) or (tok[0].isupper() and (i > 0 or w in cast or not starts) and w != "i"):
                     continue
                 if known is not None:
                     if not any(c in known for c in candidates(w)):
@@ -235,6 +235,8 @@ def main() -> int:
                 if rx == "PAST":
                     for w in re.findall(r"[a-z']+", low):
                         if w in extra:
+                            continue
+                        if w == "left" and re.search(r"(^|\b(turn|turns|on (your|the|my|her|his)|to (the|your)|the|and|or)\s+)left\b", low.strip()):
                             continue
                         if w in PAST_IRR and not re.search(rf"\b(has|have|'ve|'s)\s+([a-z]+\s+)?{w}\b", low):
                             hit = True

@@ -82,7 +82,9 @@ def main(folder: Path) -> int:
     ans = Counter(next(c["id"] for c in q["choices"] if c["is_correct"]) for q in d["questions"])
     lim = max(3, round(len(d["questions"]) * 0.3 + 0.49))
     print(f"[đáp án] {dict(sorted(ans.items()))} (tối đa {lim}/chữ)")
-    if max(ans.values()) > lim:
+    if not ans:
+        bad.append("chương chưa có câu hỏi")
+    elif max(ans.values()) > lim:
         bad.append(f"đáp án lệch: {dict(ans)}")
 
     texts = [s["i18n"]["en"] for p in d["reading_passages"] for s in p["segments"]]

@@ -11,3 +11,4 @@
 | u05 | 110 / 110 | 9.2 / 9.6 | hội thoại Megan–Tina + áp phích y tá trường; lời khuyên an toàn, không thuốc (agent viết, main kiểm chứng) |
 | u08 | 120 / 99 | 9.7 / 7.9 | hội thoại gọi món + thực đơn; 2 câu suy luận (lý do, cộng tiền) (agent viết, main kiểm chứng) |
 | u09 | 131 / 117 | 10.4 / 8.4 | hội thoại cửa hàng + quảng cáo giảm giá; câu TRUE, tính giá sau giảm (agent viết, main kiểm chứng) |
+| u10 | 127 / 127 | 8.6 / 7.1 | chỉ đường + bảng vé xe; 3 câu suy luận (bước tiếp theo, tính tiền cả nhà, chọn vé rẻ) (agent viết, main kiểm chứng) |
