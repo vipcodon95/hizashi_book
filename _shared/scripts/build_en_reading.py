@@ -182,8 +182,12 @@ def main(path: Path) -> int:
     md_path = path.with_name(path.name.replace("_BaiTap.json", "_DocHieu.md"))
     md_path.write_text(md, encoding="utf-8")
     words = [p["word_count"] for p in d["reading_passages"]]
+    avg = []
+    for p in d["reading_passages"]:
+        ss = [s for s in p["segments"] if s.get("kind", "sentence") == "sentence"]
+        avg.append(round(sum(len(re.findall(r"[A-Za-z']+", s["en"])) for s in ss) / max(len(ss), 1), 1))
     answers = "".join(next(c["id"] for c in q["choices"] if c["is_correct"]) for q in d["questions"])
-    print(f"✅ {path.name} → {md_path.name} | bài đọc {words} từ | {len(d['questions'])} câu | đáp án {answers}")
+    print(f"✅ {path.name} → {md_path.name} | bài đọc {words} từ, TB {avg} từ/câu | {len(d['questions'])} câu | đáp án {answers}")
     return 0
 
 if __name__ == "__main__":

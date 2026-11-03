@@ -286,6 +286,8 @@ Không gom nhiều chương vào 1 commit. Không đợi xong cả sách mới c
 - Soát vốn từ: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối unit> --allow "<tên riêng>" <file>`.
 - **Tên nhân vật và địa danh là tên Mỹ**, không dùng tên Việt (TTS đọc khó nghe).
 - Không viết trùng bài đọc app đã có (`reading_title` trong `en_curriculum`).
+- **Độ khó tăng dần** qua từng chương và từng cuốn. Nội dung hiện đại (công nghệ…), có suy nghĩ, cảm xúc, đánh giá.
+- ⛔ **Tuyệt đối không** viết về hệ tư tưởng, chế độ chính trị (phát xít, cộng sản, độc tài, tư bản…), chính đảng, bầu cử, chiến tranh, tranh luận tôn giáo. Chi tiết ở mục 7a của kế hoạch.
 
 ## Quy tắc CRITICAL khi viết content
 

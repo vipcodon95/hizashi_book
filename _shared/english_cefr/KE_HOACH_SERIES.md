@@ -142,6 +142,37 @@ Script này sinh lại `content_ja`, `translation_vn`, `word_count` và file `_D
 | 7 | Hội đồng: ngôn ngữ học tiếng Anh, sư phạm, chuyên gia luyện thi VSTEP | 3 subagent song song |
 | 8 | Hoàn thiện | main Claude |
 
+## 7a. Độ khó tăng dần và chủ đề (chủ nhà chốt 03/11/2026)
+
+### Độ khó phải tăng dần, cả trong một cuốn lẫn giữa các cuốn
+
+Script build in số từ và độ dài câu trung bình của từng bài. Ghi lại vào `_pipeline/` sau mỗi chương để theo dõi đường tăng.
+
+| Thước đo | Đầu cuốn → cuối cuốn |
+|---|---|
+| Độ dài bài | từ mức thấp lên mức cao của khung cấp ở mục 4 |
+| Độ dài câu trung bình | A1 ~6–8 từ → C1 ~20–25 từ |
+| Cấu trúc câu | câu đơn → câu ghép, mệnh đề quan hệ → câu phức nhiều tầng |
+| Loại câu hỏi | tìm thông tin → ý chính → suy luận → thái độ, hàm ý |
+| Tỉ lệ câu suy luận | A1 ~0–10% → C1 ~50% |
+
+Chương sau không được dễ hơn chương trước, trừ chương ôn tập.
+
+### Nội dung phải hiện đại và có chiều sâu
+
+- **Chủ đề mới:** công nghệ (AI, ứng dụng điện thoại, mạng xã hội, xe điện, làm việc từ xa, mua sắm online), môi trường, sức khoẻ, đời sống đô thị, du lịch, nghề nghiệp mới.
+- **Từ A2 trở lên phải có suy nghĩ, cảm xúc, đánh giá:** nhật ký, review sản phẩm, bài nêu ý kiến, thư góp ý, bài so sánh ưu nhược. Đây cũng chính là dạng văn bản để ra câu hỏi về thái độ và quan điểm tác giả ở B2–C1.
+- **Số liệu và sự kiện thật thì phải kiểm chứng (WebSearch)**, và ưu tiên viết sao cho không nhanh lỗi thời. Ví dụ: tránh "năm 2026 có X triệu người dùng". Nhân vật và công ty trong bài là hư cấu.
+
+### ⛔ TUYỆT ĐỐI KHÔNG viết về
+
+- hệ tư tưởng, chế độ chính trị: phát xít, cộng sản, độc tài, tư bản, chủ nghĩa…;
+- chính đảng, bầu cử, chính trị gia, chính sách của nhà nước cụ thể;
+- chiến tranh, xung đột vũ trang, tranh chấp lãnh thổ;
+- tôn giáo theo kiểu so sánh hay tranh luận.
+
+Nếu một chủ đề hợp lệ dễ trượt sang vùng này (lịch sử, kinh tế, tin tức), thì viết ở góc **đời sống / khoa học / con người**, không viết ở góc chính trị. Review và hội đồng (stage 5, 7) phải quét mục này.
+
 ## 7. Nguyên tắc nội dung
 
 - **Bài đọc và câu hỏi tự viết mới.** Không chép đề thật (Cambridge, IELTS, đề VSTEP đã công bố).
