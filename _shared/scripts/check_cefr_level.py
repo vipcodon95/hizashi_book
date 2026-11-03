@@ -116,7 +116,7 @@ def candidates(w: str):
     yield w
     if w in IRREG:
         yield IRREG[w]
-    for suf, rep in (("ies", "y"), ("ied", "y"), ("ing", ""), ("ing", "e"), ("ed", ""), ("ed", "e"),
+    for suf, rep in (("ves", "f"), ("ves", "fe"), ("ies", "y"), ("ied", "y"), ("ing", ""), ("ing", "e"), ("ed", ""), ("ed", "e"),
                      ("es", ""), ("s", ""), ("er", ""), ("est", ""), ("ly", ""), ("'s", "")):
         if w.endswith(suf) and len(w) > len(suf) + 1:
             base = w[: -len(suf)] + rep
@@ -213,7 +213,8 @@ def main() -> int:
                 if w in extra or any(c in extra for c in candidates(w)):
                     glossed.add(w)
                 used.update(candidates(w))
-                if w in allow or (tok[0].isupper() and (i > 0 or w in cast) and w != "i"):
+                starts = sent.lstrip(" \"'“(*-").startswith(tok)
+                if w in allow or (tok[0].isupper() and (i > 0 or w in cast or not starts) and w != "i"):
                     continue
                 if known is not None:
                     if not any(c in known for c in candidates(w)):

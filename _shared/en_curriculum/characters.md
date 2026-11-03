@@ -78,6 +78,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | A1 | cuối tháng 8, năm 1 | Ở Westview High có **International Club** (câu lạc bộ cho học sinh mới, học sinh nước ngoài) do cô Lydia Park phụ trách, sinh hoạt sau giờ học ở lớp của cô. Câu lạc bộ tranh biện (B2) vẫn là việc riêng của cô Lydia. | sách 56 · u01 |
 | A1 | tháng 9, năm 1 | Biscuit trốn ra ngoài, tới quán Harriet's; "you" nhắn tin cho Megan. **Thông tin cố định:** nhà Carter số 12, nhà Brooks số 15 Maple Street; di động Megan 619-555-0142, di động Leah 619-555-0187, email megan.carter@example.com; Biscuit 3 tuổi ở A1. | sách 56 · u02 |
 | A1 | tháng 9, năm 1 | Bà Harriet cho "you" xem album gia đình (Nathan 34, Helena 33, Amy 4; Harriet là bà nội của Amy). Leah nhắn tin cảm ơn vụ Biscuit, giới thiệu Chloe (24, phục vụ ở Harriet's, "lại có bạn trai mới"). Leah gọi Mitchell là chú, sống cùng nhà Carter. | sách 56 · u03 |
+| A1 | cuối tháng 11, năm 1 | Bà Harriet ốm nằm nhà; Nathan và Helena đi vắng, Helena để lời nhắn nhờ "you" sang nhà số 15 trông Amy (Helena về lúc 5 giờ). Amy hay giấu đồ, có cái gối màu hồng. Phố hư cấu **Pine Street** gần Maple Street (người lạ Gary Lawson cho thuê nhà). | sách 56 · u06 |
 
 ## Còn mở
 
