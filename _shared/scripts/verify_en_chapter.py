@@ -46,7 +46,7 @@ def num_of(s: str) -> int | None:
 def cast_ages(level: str) -> dict[str, int]:
     """Đọc tuổi ở cấp đầu (A1) từ characters.md: cột 'Tuổi ở A1 → C1' dạng '7 → 13'. Cấp sau cộng ~1,5 năm/cấp."""
     t = (ROOT / "_shared/en_curriculum/characters.md").read_text(encoding="utf-8")
-    step = {"A1": 0, "A2": 1.5, "B1": 3, "B2": 4.5, "C1": 6}[level]
+    step = {"A1": 0, "A2": 1.5, "B1": 3, "B2": 4.5, "C1": 6, "C2": 7.5}[level]
     ages = {}
     for m in re.finditer(r"^\|\s*\*\*([A-Z][a-z]+)[^|]*\|[^|]*\|\s*(\d+)\s*→\s*(\d+)", t, re.M):
         ages[m.group(1)] = int(m.group(2)) + step

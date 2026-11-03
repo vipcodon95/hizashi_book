@@ -30,7 +30,7 @@ BASE = Path(__file__).resolve().parent.parent
 DATA = BASE / "english_cefr"
 CURR = BASE / "en_curriculum"
 ORDER = ["A1", "A2", "B1", "B2", "C1", "C2"]
-LEVELS = ("a1", "a2", "b1", "b2", "c1")
+LEVELS = ("a1", "a2", "b1", "b2", "c1", "c2")
 
 CAST = ("Mitchell Megan Tracy Trevor Tina Biscuit Carter Carters Harriet Nathan Helena Amy Brooks Leah Ethan Hayes "
         "Chloe Bennett Lydia Park Maple Street San Diego Westview High Mr Mrs Ms Dr "
