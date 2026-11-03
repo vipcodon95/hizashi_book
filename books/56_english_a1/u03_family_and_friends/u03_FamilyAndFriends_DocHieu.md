@@ -12,25 +12,16 @@
 
 | Từ | Loại từ | Nghĩa | Phiếu |
 |---|---|---|---|
+| family | danh từ | gia đình | `a1.09` |
+| album | danh từ | an-bum | `a1.12` |
 | son | danh từ | con trai | `a1.09` |
-| wife | danh từ | vợ | `a1.09` |
-| daughter | danh từ | con gái | `a1.09` |
-| uncle | danh từ | chú; bác; cậu | `a1.11` |
-| cousin | danh từ | anh chị em họ | `a1.11` |
-| grandma | danh từ | bà | `a1.11` |
-| neighbor | danh từ | hàng xóm | `a1.10` |
-| kid | danh từ | đứa trẻ | `a1.11` |
 | funny | tính từ | vui tính; buồn cười | `a1.10` |
 | smart | tính từ | thông minh | `a1.10` |
+| wife | danh từ | vợ | `a1.09` |
 | shy | tính từ | nhút nhát | `a1.10` |
 | kind | tính từ | tốt bụng | `a1.10` |
 | clever | tính từ | thông minh; khéo | `a1.10` |
-| friendly | tính từ | thân thiện | `a1.10` |
-| best | tính từ | tốt nhất; thân nhất | `a1.12` |
-| album | danh từ | an-bum | `a1.12` |
-| together | trạng từ | cùng nhau | `a1.11` |
-| boyfriend | danh từ | bạn trai | `a1.10` |
-| family | danh từ | gia đình | `a1.09` |
+| daughter | danh từ | con gái | `a1.09` |
 
 **Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):
 

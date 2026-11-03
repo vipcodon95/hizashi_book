@@ -12,21 +12,16 @@
 
 | Từ | Loại từ | Nghĩa | Phiếu |
 |---|---|---|---|
-| old | tính từ | già; ... tuổi | `a1.05` |
 | young | tính từ | trẻ | `a1.05` |
-| three | number | ba | `a1.05` |
-| seven | number | bảy | `a1.05` |
-| eleven | number | mười một | `a1.05` |
-| sixteen | number | mười sáu | `a1.06` |
-| fifty | number | năm mươi | `a1.07` |
-| dollar | danh từ | đô la | `a1.07` |
-| number | danh từ | số | `a1.07` |
 | only | trạng từ | chỉ | `a1.07` |
+| three | number | ba | `a1.05` |
+| old | tính từ | già; ... tuổi | `a1.05` |
+| street | danh từ | đường phố | `a1.08` |
+| check | động từ | kiểm tra · Mỹ: check = hóa đơn ở nhà hàng (Anh: bill) | `a1.08` |
 | phone | danh từ | điện thoại | `a1.06` |
 | mobile | tính từ | di động (mobile phone — Anh; Mỹ: cell phone) | `a1.06` |
+| number | danh từ | số | `a1.07` |
 | address | danh từ | địa chỉ | `a1.08` |
-| street | danh từ | đường phố | `a1.08` |
-| email | danh từ | thư điện tử | `a1.08` |
 
 **Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):
 

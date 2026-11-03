@@ -12,29 +12,16 @@
 
 | Từ | Loại từ | Nghĩa | Phiếu |
 |---|---|---|---|
-| hello | thán từ | xin chào | `a1.01` |
 | name | danh từ | tên | `a1.02` |
 | live | động từ | sống | `a1.03` |
+| too | trạng từ | quá; cũng | `a1.04` |
+| very | trạng từ | rất | `a1.04` |
 | nice | tính từ | vui; tốt; dễ chịu | `a1.01` |
 | place | danh từ | nơi; chỗ | `a1.03` |
+| come | động từ | đến | `a1.03` |
 | say | động từ | nói | `a1.04` |
 | know | động từ | biết | `a1.03` |
 | people | danh từ | mọi người; người ta | `a1.02` |
-| friend | danh từ | bạn bè | `a1.02` |
-| girl | danh từ | cô bé; con gái | `a1.02` |
-| question | danh từ | câu hỏi | `a1.04` |
-| meet | động từ | gặp | `a1.01` |
-| see | động từ | nhìn thấy; gặp | `a1.01` |
-| student | danh từ | học sinh; sinh viên | `a1.02` |
-| foreign | tính từ | nước ngoài | `a1.03` |
-| language | danh từ | ngôn ngữ | `a1.03` |
-| world | danh từ | thế giới | `a1.03` |
-| introduce | động từ | giới thiệu | `a1.02` |
-| speak | động từ | nói (một thứ tiếng) | `a1.03` |
-| hometown | danh từ | quê hương | `a1.03` |
-| culture | danh từ | văn hóa | `a1.03` |
-| teacher | danh từ | giáo viên | `a1.02` |
-| please | thán từ | làm ơn; vui lòng | `a1.04` |
 
 **Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):
 

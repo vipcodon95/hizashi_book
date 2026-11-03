@@ -11,7 +11,8 @@ NGUỒN SỰ THẬT = file JSON. Mọi đoạn chữ là một BẢN ĐỒ NGÔN
   meta.story_time_i18n           {vi}
   meta.characters                ["Harriet Brooks", …]  (tên riêng, không dịch)
   lesson.practice_for_i18n / objective_i18n             {vi}
-  lesson.vocab                   ["word", …]  ← nghĩa lấy từ khoá (_shared/en_curriculum, trường <lang>)
+  lesson.vocab                   (bỏ trống = TỰ CHỌN: từ của unit có xuất hiện trong bài, theo thứ tự gặp, tối đa VOCAB_MAX;
+                                 hoặc ghi danh sách ["word", …] nếu muốn chọn tay). Nghĩa lấy từ khoá (_shared/en_curriculum)
   lesson.extra_words             [{word, i18n: {vi}}]   ← từ ngoài phạm vi, chú nghĩa
   lesson.phrases                 [{i18n: {en, vi}}]
   lesson.tips                    [{i18n: {vi}}]
@@ -37,6 +38,39 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 CURR = ROOT / "_shared" / "en_curriculum"
 LEGACY = "vi"  # ngôn ngữ dùng để sinh khoá cũ (question_vn, translation_vn…)
+VOCAB_MAX = 10
+
+def _forms(w: str) -> set[str]:
+    out = {w}
+    for suf, rep in (("ies", "y"), ("ied", "y"), ("ing", ""), ("ing", "e"), ("ed", ""), ("ed", "e"),
+                     ("es", ""), ("s", ""), ("'s", "")):
+        if w.endswith(suf) and len(w) > len(suf) + 1:
+            out.add(w[: -len(suf)] + rep)
+    return out
+
+def auto_vocab(d: dict, cw: dict) -> list[str]:
+    """Từ của unit có trong bài đọc, theo thứ tự xuất hiện. Bỏ từ quá cơ bản (số đếm, chào hỏi 1 chữ)."""
+    text = " ".join(s["i18n"]["en"] for p in d["reading_passages"] for s in p["segments"]
+                    if s.get("kind", "sentence") != "signature")
+    low = text.lower()
+    toks = re.findall(r"[a-zà-ÿ']+", low)
+    pos: dict[str, int] = {}
+    for w in cw:
+        wl = w.lower()
+        if " " in wl:
+            i = low.find(wl)
+            if i >= 0:
+                pos[w] = i
+            continue
+        for k, t in enumerate(toks):
+            if wl in _forms(t):
+                pos[w] = low.find(t) if k == 0 else len(" ".join(toks[:k]))
+                break
+    skip = {"num", "interj"}
+    picked = sorted((w for w in pos if cw[w]["pos"] not in skip), key=pos.get)
+    if len(picked) < VOCAB_MAX:  # thiếu thì bù số đếm/thán từ
+        picked += sorted((w for w in pos if cw[w]["pos"] in skip), key=pos.get)
+    return picked[:VOCAB_MAX]
 
 LABELS = {
     "vi": {
@@ -178,9 +212,9 @@ def render_md(d: dict, lg: str) -> str:
         L += [f"> **{T['characters']}:** {', '.join(meta['characters'])}" + (f" · {st}" if st else ""), ">"]
     L += [f"> **{T['objective']}:** {tr(lesson.get('objective_i18n'))}", "", "---", ""]
 
-    vocab = lesson.get("vocab") or []
+    cw = curriculum_words(meta.get("curriculum_sheets") or [])
+    vocab = lesson.get("vocab") or auto_vocab(d, cw)
     if vocab:
-        cw = curriculum_words(meta.get("curriculum_sheets") or [])
         L += [f"## {T['vocab']}", "", T["vocab_cols"], "|---|---|---|---|"]
         for w in vocab:
             if w not in cw:

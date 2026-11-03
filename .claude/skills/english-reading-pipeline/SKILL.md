@@ -44,7 +44,7 @@ Folder chương: `u<NN>_<slug>/` chứa đúng 2 file: `u<NN>_<Name>_BaiTap.json
 1. **Lấy dữ liệu unit:** từ, collocation, ngữ pháp của 4 phiếu; `reading_title` của app (không viết trùng).
 2. **Viết JSON nguồn.** Cách nhanh: viết một script Python sinh JSON trong scratchpad, theo mẫu chương đã duyệt.
    - `meta`: `curriculum_unit`, `curriculum_sheets`, `characters`, `story_time`.
-   - `lesson`: `practice_for`, `objective`, `vocab` (từ của unit, nghĩa lấy tự động từ khoá), `extra_words` (từ ngoài phạm vi, có nghĩa), `phrases_note`, `tips`.
+   - `lesson`: `practice_for_i18n`, `objective_i18n`, `extra_words` (từ ngoài phạm vi, có nghĩa), `phrases`, `tips`. **Không cần ghi `vocab`**: script tự chọn tối đa 10 từ của unit có trong bài, và lấy nghĩa từ khoá học.
    - **Mọi đoạn chữ là bản đồ ngôn ngữ `i18n {en, vi}`** (sau này thêm `ja`, `th`). Bảng trường ở mục 5 của kế hoạch. Nhãn mục không viết trong nội dung, vì script lấy từ `LABELS`.
    - `reading_passages[].segments`: mỗi phần tử `{n, para, kind, speaker, label, i18n}`. 1 segment = 1 câu; lượt thoại rất ngắn được để chung. `speaker` tách khỏi câu.
    - `questions[]`: `i18n`, 4 `choices[].i18n`, đúng 1 đáp án; `evidence_segments`; `explanation_i18n` có trích câu tiếng Anh trong ngoặc kép; đáp án rải đều A–D.

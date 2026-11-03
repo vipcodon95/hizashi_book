@@ -151,6 +151,7 @@ def main() -> int:
     ap.add_argument("--sheet", help="mã phiếu, vd a1.12 (mặc định: phiếu cuối trong meta.curriculum_sheets)")
     ap.add_argument("--allow", default="", help="tên riêng/từ cho phép, cách nhau dấu phẩy")
     ap.add_argument("--text")
+    ap.add_argument("-v", "--verbose", action="store_true", help="in cả danh sách từ của unit đã dùng / chưa dùng")
     ap.add_argument("files", nargs="*")
     a = ap.parse_args()
 
@@ -250,17 +251,19 @@ def main() -> int:
 
     if known is not None:
         print(f"Tổng {total} từ | vốn từ tới phiếu {sheet} (unit {cur['_unit']}: {cur['_unit_title']})")
-        print(f"NGOÀI PHẠM VI ({len(outside)}) — thay, hoặc thêm vào lesson.extra_words:", ", ".join(sorted(outside)) or "—")
-        print(f"ĐÃ CHÚ NGHĨA ({len(glossed)}):", ", ".join(sorted(glossed)) or "—")
+        if outside:
+            print(f"❌ NGOÀI PHẠM VI ({len(outside)}) — thay, hoặc thêm vào lesson.extra_words:", ", ".join(sorted(outside)))
         hit = sorted(w for w in unit_words if all(x in used for x in w.split()))
-        print(f"TỪ CỦA UNIT ĐÃ DÙNG {len(hit)}/{len(unit_words)}:", ", ".join(hit))
-        print("  chưa dùng:", ", ".join(sorted(unit_words - set(hit))) or "—")
+        print(f"Chú nghĩa {len(glossed)} từ | độ phủ từ unit {len(hit)}/{len(unit_words)}")
+        if a.verbose:
+            print("  đã dùng:", ", ".join(hit))
+            print("  chưa dùng:", ", ".join(sorted(unit_words - set(hit))) or "—")
         if gate_hits:
             print(f"⚠️  NGỮ PHÁP CHƯA HỌC ({len(gate_hits)} loại) — đọc lại từng câu:")
             for k, v in gate_hits.items():
                 print(f"   - {k}: {len(v)} câu, vd: {v[0]!r}")
-        else:
-            print("NGỮ PHÁP CHƯA HỌC: —")
+        if not outside and not gate_hits:
+            print("✅ vốn từ + ngữ pháp sạch")
         return 1 if outside else 0
     print(f"Tổng {total} từ | mục tiêu ≤ {a.level}")
     print(f"VƯỢT CẤP ({len(over)}):", ", ".join(f"{w}[{l}]" for w, l in sorted(over.items())) or "—")
