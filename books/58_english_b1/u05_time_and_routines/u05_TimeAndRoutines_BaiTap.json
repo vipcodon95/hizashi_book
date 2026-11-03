@@ -1,0 +1,2025 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 5 — Time and routines",
+      "vi": "Thời gian, thói quen"
+    },
+    "title": "Unit 5 — Time and routines",
+    "title_vn": "Thời gian, thói quen",
+    "module_code": "58_u05",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u05",
+    "curriculum_sheets": [
+      "b1.017",
+      "b1.018",
+      "b1.019",
+      "b1.020"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Megan Carter",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "Chủ nhật 26/10, năm 4 — Trevor năm nhất ở Westview High"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Ý chính, hạn nộp, cụm động từ, giọng điệu",
+    "description_vn": "Nhật ký của Trevor về chuyện trì hoãn và bài báo về kỹ thuật Pomodoro. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 5 khoá B1 · phiếu `b1.017` – `b1.020` (quản lý thời gian, việc làm ngay khi về nhà, ngày bận rộn, thói quen tốt và xấu)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một trang nhật ký và một bài báo phổ thông; nắm ý chính, nối đúng hạn nộp với từng việc, hiểu cụm động từ (put off) và giọng điệu của người nói (I'll believe it when I see it)."
+    },
+    "extra_words": [
+      {
+        "word": "procrastination",
+        "i18n": {
+          "vi": "tật trì hoãn"
+        }
+      },
+      {
+        "word": "timer",
+        "i18n": {
+          "vi": "đồng hồ hẹn giờ"
+        }
+      },
+      {
+        "word": "notification",
+        "i18n": {
+          "vi": "thông báo (trên điện thoại)"
+        }
+      },
+      {
+        "word": "project",
+        "i18n": {
+          "vi": "dự án, bài tập lớn"
+        }
+      },
+      {
+        "word": "prior to",
+        "i18n": {
+          "vi": "trước (một mốc thời gian)"
+        }
+      },
+      {
+        "word": "pomodoro",
+        "i18n": {
+          "vi": "(tiếng Ý) quả cà chua; một khoảng làm việc 25 phút"
+        }
+      },
+      {
+        "word": "ticking",
+        "i18n": {
+          "vi": "kêu tích tắc"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "put something off",
+          "vi": "trì hoãn việc gì"
+        }
+      },
+      {
+        "i18n": {
+          "en": "as soon as",
+          "vi": "ngay khi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take a break",
+          "vi": "nghỉ giải lao"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make a decision",
+          "vi": "ra quyết định"
+        }
+      },
+      {
+        "i18n": {
+          "en": "reward yourself",
+          "vi": "tự thưởng cho mình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "pay attention to",
+          "vi": "chú ý, tập trung vào"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu hỏi ý chính / tiêu đề: đọc câu đầu và câu cuối mỗi đoạn trước. Các phương án sai thường là một chi tiết nhỏ có trong bài (cà chua, điện thoại)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Nhiều mốc thời gian trong một câu (`by`, `prior to`, `within`): nối từng việc với từng mốc trước khi chọn."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi từ trong ngữ cảnh: tìm manh mối ngay cạnh từ đó (`until the last minute` giúp đoán `put off`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu NOT / EXCEPT: đánh dấu ba phương án CÓ trong bài; phương án còn lại là đáp án."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu nối hai bài: tìm ý giống nhau (khoảng làm việc ngắn + nghỉ) chứ không tìm từ giống nhau."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u05_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Nhật ký của Trevor"
+      },
+      "narrator": "Trevor",
+      "title": "Trevor's Diary: Too Many Deadlines",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor's Diary: Too Many Deadlines",
+            "vi": "Nhật ký của Trevor: Quá nhiều hạn nộp"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunday, October 26, 9:15 p.m.",
+            "vi": "Chủ nhật, 26 tháng 10, 9 giờ 15 tối"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "High school is not like middle school at all.",
+            "vi": "Cấp ba chẳng giống cấp hai chút nào."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In middle school, I could finish my homework on the bus, but now it takes me the entire evening.",
+            "vi": "Hồi cấp hai, mình làm bài ngay trên xe buýt là xong, giờ thì mất nguyên buổi tối."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every teacher gives us homework, and every piece of homework has a deadline.",
+            "vi": "Thầy cô nào cũng giao bài tập, và bài nào cũng có hạn nộp."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This week, my science report is due by Wednesday, Ms. Park wants a two-page essay prior to Friday's class, and I have to finish my history project within five days.",
+            "vi": "Tuần này, báo cáo môn khoa học phải nộp trước thứ Tư, cô Park muốn một bài luận hai trang trước buổi học thứ Sáu, còn dự án môn sử thì mình phải xong trong vòng năm ngày."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The history teacher is my dad, so there is no excuse!",
+            "vi": "Thầy dạy sử lại là bố mình, nên chẳng có lý do gì để thoái thác!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My soccer practice is on Tuesday and Thursday until six, and our game is on Saturday morning.",
+            "vi": "Mình tập bóng vào thứ Ba và thứ Năm tới sáu giờ, còn trận đấu thì vào sáng thứ Bảy."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I really want to join the school team in the spring, but the coach says that players need good grades first.",
+            "vi": "Mình rất muốn vào đội bóng của trường vào mùa xuân, nhưng thầy huấn luyện viên bảo cầu thủ phải có điểm tốt đã."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Saturday afternoons, I am usually so exhausted that I doze off on the sofa.",
+            "vi": "Chiều thứ Bảy, mình thường mệt rã rời tới mức ngủ gật trên ghế sofa."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My real problem is procrastination: I always put things off until the last minute.",
+            "vi": "Vấn đề thật sự của mình là tật trì hoãn: việc gì mình cũng để tới phút chót."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As soon as I get home, I switch on my phone \"for five minutes,\" and then the entire evening is gone.",
+            "vi": "Vừa về tới nhà là mình bật điện thoại \"năm phút thôi\", thế rồi cả buổi tối bay mất."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last year, I just shouted \"Tracy, help!\" on Sunday nights.",
+            "vi": "Năm ngoái, tối Chủ nhật mình chỉ việc hét \"Chị Tracy ơi, cứu em!\"."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But Tracy is in Washington now, so tonight I texted our neighbor instead.",
+            "vi": "Nhưng giờ chị Tracy ở Washington rồi, nên tối nay mình nhắn tin cho người hàng xóm."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The answer came immediately: \"Make a plan, take a break every half hour, and give me your phone at seven.\"",
+            "vi": "Câu trả lời tới ngay lập tức: \"Lập kế hoạch đi, cứ nửa tiếng nghỉ một lần, và bảy giờ thì đưa điện thoại cho tôi.\""
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So I made a decision: from tomorrow, I'm going to do my homework in short time slots, and I'll reward myself with ten minutes of soccer videos after each one.",
+            "vi": "Thế là mình quyết định: từ mai, mình sẽ làm bài theo từng khoảng thời gian ngắn, và sau mỗi khoảng sẽ tự thưởng mười phút xem video bóng đá."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom just smiled and said, \"I'll believe it when I see it.\"",
+            "vi": "Mẹ chỉ cười và nói: \"Thấy tận mắt rồi mẹ mới tin.\""
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We'll see who's right by Friday!",
+            "vi": "Tới thứ Sáu là biết ai đúng!"
+          }
+        }
+      ],
+      "content_ja": "Trevor's Diary: Too Many Deadlines\n\nSunday, October 26, 9:15 p.m.\n\nHigh school is not like middle school at all. In middle school, I could finish my homework on the bus, but now it takes me the entire evening. Every teacher gives us homework, and every piece of homework has a deadline. This week, my science report is due by Wednesday, Ms. Park wants a two-page essay prior to Friday's class, and I have to finish my history project within five days. The history teacher is my dad, so there is no excuse!\n\nMy soccer practice is on Tuesday and Thursday until six, and our game is on Saturday morning. I really want to join the school team in the spring, but the coach says that players need good grades first. On Saturday afternoons, I am usually so exhausted that I doze off on the sofa.\n\nMy real problem is procrastination: I always put things off until the last minute. As soon as I get home, I switch on my phone \"for five minutes,\" and then the entire evening is gone. Last year, I just shouted \"Tracy, help!\" on Sunday nights. But Tracy is in Washington now, so tonight I texted our neighbor instead.\n\nThe answer came immediately: \"Make a plan, take a break every half hour, and give me your phone at seven.\" So I made a decision: from tomorrow, I'm going to do my homework in short time slots, and I'll reward myself with ten minutes of soccer videos after each one. Mom just smiled and said, \"I'll believe it when I see it.\" We'll see who's right by Friday!",
+      "translation_vn": "(1) Nhật ký của Trevor: Quá nhiều hạn nộp\n(2) Chủ nhật, 26 tháng 10, 9 giờ 15 tối\n(3) Cấp ba chẳng giống cấp hai chút nào.\n(4) Hồi cấp hai, mình làm bài ngay trên xe buýt là xong, giờ thì mất nguyên buổi tối.\n(5) Thầy cô nào cũng giao bài tập, và bài nào cũng có hạn nộp.\n(6) Tuần này, báo cáo môn khoa học phải nộp trước thứ Tư, cô Park muốn một bài luận hai trang trước buổi học thứ Sáu, còn dự án môn sử thì mình phải xong trong vòng năm ngày.\n(7) Thầy dạy sử lại là bố mình, nên chẳng có lý do gì để thoái thác!\n(8) Mình tập bóng vào thứ Ba và thứ Năm tới sáu giờ, còn trận đấu thì vào sáng thứ Bảy.\n(9) Mình rất muốn vào đội bóng của trường vào mùa xuân, nhưng thầy huấn luyện viên bảo cầu thủ phải có điểm tốt đã.\n(10) Chiều thứ Bảy, mình thường mệt rã rời tới mức ngủ gật trên ghế sofa.\n(11) Vấn đề thật sự của mình là tật trì hoãn: việc gì mình cũng để tới phút chót.\n(12) Vừa về tới nhà là mình bật điện thoại \"năm phút thôi\", thế rồi cả buổi tối bay mất.\n(13) Năm ngoái, tối Chủ nhật mình chỉ việc hét \"Chị Tracy ơi, cứu em!\".\n(14) Nhưng giờ chị Tracy ở Washington rồi, nên tối nay mình nhắn tin cho người hàng xóm.\n(15) Câu trả lời tới ngay lập tức: \"Lập kế hoạch đi, cứ nửa tiếng nghỉ một lần, và bảy giờ thì đưa điện thoại cho tôi.\"\n(16) Thế là mình quyết định: từ mai, mình sẽ làm bài theo từng khoảng thời gian ngắn, và sau mỗi khoảng sẽ tự thưởng mười phút xem video bóng đá.\n(17) Mẹ chỉ cười và nói: \"Thấy tận mắt rồi mẹ mới tin.\"\n(18) Tới thứ Sáu là biết ai đúng!",
+      "word_count": 271,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020"
+      ]
+    },
+    {
+      "id": "passage_u05_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Kỹ thuật Pomodoro"
+      },
+      "narrator": "announcer",
+      "title": "Work in Tomatoes: The Pomodoro Technique",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Work in Tomatoes: The Pomodoro Technique",
+            "vi": "Làm việc theo \"quả cà chua\": Kỹ thuật Pomodoro"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do you sit down to study and then find yourself checking your phone twenty minutes later?",
+            "vi": "Bạn có hay ngồi vào học rồi hai mươi phút sau thấy mình đang lướt điện thoại không?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many students have the same problem, and a simple method from the late 1980s may help.",
+            "vi": "Nhiều học sinh gặp đúng vấn đề này, và một phương pháp đơn giản ra đời từ cuối những năm 1980 có thể giúp được."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was created by Francesco Cirillo, an Italian university student who had trouble paying attention to his books.",
+            "vi": "Phương pháp do Francesco Cirillo tạo ra, khi đó là một sinh viên đại học người Ý hay khó tập trung vào sách vở."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He used a kitchen timer in the shape of a tomato, and \"pomodoro\" is the Italian word for tomato.",
+            "vi": "Anh dùng một chiếc đồng hồ hẹn giờ nhà bếp hình quả cà chua, và \"pomodoro\" là từ tiếng Ý nghĩa là cà chua."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The method is easy.",
+            "vi": "Cách làm rất dễ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, choose one task, such as a reading or a set of math problems.",
+            "vi": "Trước tiên, chọn một việc, ví dụ một bài đọc hay một loạt bài toán."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then set a timer for twenty-five minutes and work on that task only.",
+            "vi": "Sau đó hẹn giờ hai mươi lăm phút và chỉ làm đúng việc đó."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When the timer rings, take a short break of about five minutes: stand up, drink some water or look out of the window.",
+            "vi": "Khi chuông reo, nghỉ ngắn khoảng năm phút: đứng dậy, uống chút nước hoặc nhìn ra cửa sổ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "During a pomodoro, turn off your notifications and keep your phone in another room.",
+            "vi": "Trong một pomodoro, hãy tắt thông báo và để điện thoại ở phòng khác."
+          }
+        },
+        {
+          "n": 11,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Each twenty-five-minute period is called a \"pomodoro.\"",
+            "vi": "Mỗi khoảng hai mươi lăm phút như vậy gọi là một \"pomodoro\"."
+          }
+        },
+        {
+          "n": 12,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After four pomodoros, you take a longer break of fifteen to thirty minutes.",
+            "vi": "Sau bốn pomodoro, bạn nghỉ dài hơn, từ mười lăm tới ba mươi phút."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why does it work?",
+            "vi": "Vì sao cách này hiệu quả?"
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A deadline that is only twenty-five minutes away feels immediate, so it is harder to put your work off.",
+            "vi": "Một hạn chót chỉ cách hai mươi lăm phút thì có cảm giác rất gần, nên khó mà trì hoãn công việc."
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Short, frequent breaks also stop you from getting exhausted, and many people say that they feel more productive by the end of the day.",
+            "vi": "Những lần nghỉ ngắn và thường xuyên cũng giúp bạn không bị kiệt sức, và nhiều người nói rằng tới cuối ngày họ thấy mình làm được nhiều việc hơn."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, the technique is not perfect for every job.",
+            "vi": "Tuy vậy, kỹ thuật này không hợp với mọi loại việc."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some tasks, such as writing a long story, need longer periods of deep thinking, and some people find the ticking timer stressful.",
+            "vi": "Có những việc, như viết một câu chuyện dài, cần những khoảng suy nghĩ sâu dài hơn, và có người thấy tiếng tích tắc của đồng hồ gây căng thẳng."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Others prefer to work in fifty-minute slots with ten-minute breaks.",
+            "vi": "Có người lại thích làm theo khoảng năm mươi phút, nghỉ mười phút."
+          }
+        },
+        {
+          "n": 19,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The best advice is to try it for a week and then decide if it suits you.",
+            "vi": "Lời khuyên tốt nhất là thử trong một tuần rồi hẵng quyết định nó có hợp với mình không."
+          }
+        }
+      ],
+      "content_ja": "Work in Tomatoes: The Pomodoro Technique\n\nDo you sit down to study and then find yourself checking your phone twenty minutes later? Many students have the same problem, and a simple method from the late 1980s may help. It was created by Francesco Cirillo, an Italian university student who had trouble paying attention to his books. He used a kitchen timer in the shape of a tomato, and \"pomodoro\" is the Italian word for tomato.\n\nThe method is easy. First, choose one task, such as a reading or a set of math problems. Then set a timer for twenty-five minutes and work on that task only. When the timer rings, take a short break of about five minutes: stand up, drink some water or look out of the window. During a pomodoro, turn off your notifications and keep your phone in another room. Each twenty-five-minute period is called a \"pomodoro.\" After four pomodoros, you take a longer break of fifteen to thirty minutes.\n\nWhy does it work? A deadline that is only twenty-five minutes away feels immediate, so it is harder to put your work off. Short, frequent breaks also stop you from getting exhausted, and many people say that they feel more productive by the end of the day.\n\nHowever, the technique is not perfect for every job. Some tasks, such as writing a long story, need longer periods of deep thinking, and some people find the ticking timer stressful. Others prefer to work in fifty-minute slots with ten-minute breaks. The best advice is to try it for a week and then decide if it suits you.",
+      "translation_vn": "(1) Làm việc theo \"quả cà chua\": Kỹ thuật Pomodoro\n(2) Bạn có hay ngồi vào học rồi hai mươi phút sau thấy mình đang lướt điện thoại không?\n(3) Nhiều học sinh gặp đúng vấn đề này, và một phương pháp đơn giản ra đời từ cuối những năm 1980 có thể giúp được.\n(4) Phương pháp do Francesco Cirillo tạo ra, khi đó là một sinh viên đại học người Ý hay khó tập trung vào sách vở.\n(5) Anh dùng một chiếc đồng hồ hẹn giờ nhà bếp hình quả cà chua, và \"pomodoro\" là từ tiếng Ý nghĩa là cà chua.\n(6) Cách làm rất dễ.\n(7) Trước tiên, chọn một việc, ví dụ một bài đọc hay một loạt bài toán.\n(8) Sau đó hẹn giờ hai mươi lăm phút và chỉ làm đúng việc đó.\n(9) Khi chuông reo, nghỉ ngắn khoảng năm phút: đứng dậy, uống chút nước hoặc nhìn ra cửa sổ.\n(10) Trong một pomodoro, hãy tắt thông báo và để điện thoại ở phòng khác.\n(11) Mỗi khoảng hai mươi lăm phút như vậy gọi là một \"pomodoro\".\n(12) Sau bốn pomodoro, bạn nghỉ dài hơn, từ mười lăm tới ba mươi phút.\n(13) Vì sao cách này hiệu quả?\n(14) Một hạn chót chỉ cách hai mươi lăm phút thì có cảm giác rất gần, nên khó mà trì hoãn công việc.\n(15) Những lần nghỉ ngắn và thường xuyên cũng giúp bạn không bị kiệt sức, và nhiều người nói rằng tới cuối ngày họ thấy mình làm được nhiều việc hơn.\n(16) Tuy vậy, kỹ thuật này không hợp với mọi loại việc.\n(17) Có những việc, như viết một câu chuyện dài, cần những khoảng suy nghĩ sâu dài hơn, và có người thấy tiếng tích tắc của đồng hồ gây căng thẳng.\n(18) Có người lại thích làm theo khoảng năm mươi phút, nghỉ mười phút.\n(19) Lời khuyên tốt nhất là thử trong một tuần rồi hẵng quyết định nó có hợp với mình không.",
+      "word_count": 274,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u05_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "What is the main problem in Trevor's diary?",
+        "vi": "Vấn đề chính trong nhật ký của Trevor là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He does not like his new teachers.",
+            "vi": "Cậu không thích các thầy cô mới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He does not like his new teachers.",
+          "text_translation": "Cậu không thích các thầy cô mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He has too much free time.",
+            "vi": "Cậu có quá nhiều thời gian rảnh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He has too much free time.",
+          "text_translation": "Cậu có quá nhiều thời gian rảnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He has trouble managing his time and deadlines.",
+            "vi": "Cậu khó xoay xở thời gian và các hạn nộp."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He has trouble managing his time and deadlines.",
+          "text_translation": "Cậu khó xoay xở thời gian và các hạn nộp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He has lost his phone.",
+            "vi": "Cậu bị mất điện thoại."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He has lost his phone.",
+          "text_translation": "Cậu bị mất điện thoại."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"My real problem is procrastination: I always put things off until the last minute.\" Cả bài xoay quanh chuyện quá nhiều hạn nộp và thói trì hoãn. Bài không chê thầy cô; Trevor không hề rảnh, và điện thoại vẫn còn."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main problem in Trevor's diary?",
+      "question_vn": "Vấn đề chính trong nhật ký của Trevor là gì?",
+      "explanation": "\"My real problem is procrastination: I always put things off until the last minute.\" Cả bài xoay quanh chuyện quá nhiều hạn nộp và thói trì hoãn. Bài không chê thầy cô; Trevor không hề rảnh, và điện thoại vẫn còn."
+    },
+    {
+      "id": "q_u05_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "When is Trevor's science report due?",
+        "vi": "Báo cáo môn khoa học của Trevor phải nộp khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by Monday",
+            "vi": "trước thứ Hai"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by Monday",
+          "text_translation": "trước thứ Hai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by Wednesday",
+            "vi": "trước thứ Tư"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "by Wednesday",
+          "text_translation": "trước thứ Tư"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "prior to Friday's class",
+            "vi": "trước buổi học thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "prior to Friday's class",
+          "text_translation": "trước buổi học thứ Sáu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "within five days",
+            "vi": "trong vòng năm ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "within five days",
+          "text_translation": "trong vòng năm ngày"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"my science report is due by Wednesday\". Hạn trước buổi học thứ Sáu là của bài luận cô Park giao; trong vòng năm ngày là của dự án môn sử."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu có nhiều hạn chót: gạch nối từng môn với từng mốc thời gian (by / prior to / within) trước khi chọn."
+      },
+      "question_jp": "When is Trevor's science report due?",
+      "question_vn": "Báo cáo môn khoa học của Trevor phải nộp khi nào?",
+      "explanation": "\"my science report is due by Wednesday\". Hạn trước buổi học thứ Sáu là của bài luận cô Park giao; trong vòng năm ngày là của dự án môn sử.",
+      "tip": "Câu có nhiều hạn chót: gạch nối từng môn với từng mốc thời gian (by / prior to / within) trước khi chọn."
+    },
+    {
+      "id": "q_u05_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "Why does Trevor say \"there is no excuse\" about his history project?",
+        "vi": "Vì sao Trevor nói \"chẳng có lý do gì để thoái thác\" với dự án môn sử?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The project is very easy.",
+            "vi": "Vì dự án rất dễ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The project is very easy.",
+          "text_translation": "Vì dự án rất dễ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He has already finished it.",
+            "vi": "Vì cậu đã làm xong rồi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He has already finished it.",
+          "text_translation": "Vì cậu đã làm xong rồi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The coach wants good grades.",
+            "vi": "Vì huấn luyện viên muốn điểm tốt."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The coach wants good grades.",
+          "text_translation": "Vì huấn luyện viên muốn điểm tốt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "His father is the teacher, so he cannot hide anything.",
+            "vi": "Vì bố cậu là thầy dạy môn đó, nên cậu chẳng giấu được gì."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "His father is the teacher, so he cannot hide anything.",
+          "text_translation": "Vì bố cậu là thầy dạy môn đó, nên cậu chẳng giấu được gì."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"The history teacher is my dad, so there is no excuse!\" Bố vừa là thầy vừa ở cùng nhà, nên Trevor không thể viện cớ nộp muộn."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor say \"there is no excuse\" about his history project?",
+      "question_vn": "Vì sao Trevor nói \"chẳng có lý do gì để thoái thác\" với dự án môn sử?",
+      "explanation": "\"The history teacher is my dad, so there is no excuse!\" Bố vừa là thầy vừa ở cùng nhà, nên Trevor không thể viện cớ nộp muộn."
+    },
+    {
+      "id": "q_u05_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "In \"I always put things off until the last minute\", what does \"put things off\" mean?",
+        "vi": "Trong câu \"I always put things off until the last minute\", \"put things off\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "delay doing things",
+            "vi": "trì hoãn, để việc lại sau"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "delay doing things",
+          "text_translation": "trì hoãn, để việc lại sau"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "finish things early",
+            "vi": "làm xong việc sớm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "finish things early",
+          "text_translation": "làm xong việc sớm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "forget things completely",
+            "vi": "quên hẳn việc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "forget things completely",
+          "text_translation": "quên hẳn việc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "do things carefully",
+            "vi": "làm việc cẩn thận"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "do things carefully",
+          "text_translation": "làm việc cẩn thận"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"I always put things off until the last minute.\" \"until the last minute\" (tới phút chót) cho thấy \"put off\" là để việc lại, trì hoãn. Đây cũng là nghĩa của procrastination ở ngay trước đó."
+      },
+      "audio_data": null,
+      "question_jp": "In \"I always put things off until the last minute\", what does \"put things off\" mean?",
+      "question_vn": "Trong câu \"I always put things off until the last minute\", \"put things off\" nghĩa là gì?",
+      "explanation": "\"I always put things off until the last minute.\" \"until the last minute\" (tới phút chót) cho thấy \"put off\" là để việc lại, trì hoãn. Đây cũng là nghĩa của procrastination ở ngay trước đó."
+    },
+    {
+      "id": "q_u05_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "In \"I'll reward myself with ten minutes of soccer videos after each one\", what does \"one\" refer to?",
+        "vi": "Trong câu \"... after each one\", \"one\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a soccer game",
+            "vi": "một trận bóng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a soccer game",
+          "text_translation": "một trận bóng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a short time slot of homework",
+            "vi": "một khoảng thời gian ngắn làm bài"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a short time slot of homework",
+          "text_translation": "một khoảng thời gian ngắn làm bài"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a text message",
+            "vi": "một tin nhắn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a text message",
+          "text_translation": "một tin nhắn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a school day",
+            "vi": "một ngày học"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a school day",
+          "text_translation": "một ngày học"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'm going to do my homework in short time slots, and I'll reward myself with ten minutes of soccer videos after each one.\" \"one\" thay cho \"time slot\" vừa nhắc ngay trước."
+      },
+      "audio_data": null,
+      "question_jp": "In \"I'll reward myself with ten minutes of soccer videos after each one\", what does \"one\" refer to?",
+      "question_vn": "Trong câu \"... after each one\", \"one\" chỉ cái gì?",
+      "explanation": "\"I'm going to do my homework in short time slots, and I'll reward myself with ten minutes of soccer videos after each one.\" \"one\" thay cho \"time slot\" vừa nhắc ngay trước."
+    },
+    {
+      "id": "q_u05_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "Why can't Trevor shout \"Tracy, help!\" this year?",
+        "vi": "Vì sao năm nay Trevor không thể hét \"Chị Tracy ơi, cứu em!\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy is too busy with soccer.",
+            "vi": "Vì Tracy quá bận đá bóng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy is too busy with soccer.",
+          "text_translation": "Vì Tracy quá bận đá bóng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "His mom does not allow it.",
+            "vi": "Vì mẹ không cho."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "His mom does not allow it.",
+          "text_translation": "Vì mẹ không cho."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He has stopped asking for help.",
+            "vi": "Vì cậu đã thôi nhờ giúp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He has stopped asking for help.",
+          "text_translation": "Vì cậu đã thôi nhờ giúp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy is studying in Washington now.",
+            "vi": "Vì giờ Tracy đang học ở Washington."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Tracy is studying in Washington now.",
+          "text_translation": "Vì giờ Tracy đang học ở Washington."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"But Tracy is in Washington now, so tonight I texted our neighbor instead.\" Tracy đi học đại học ở xa, nên Trevor phải nhờ người khác."
+      },
+      "audio_data": null,
+      "question_jp": "Why can't Trevor shout \"Tracy, help!\" this year?",
+      "question_vn": "Vì sao năm nay Trevor không thể hét \"Chị Tracy ơi, cứu em!\"?",
+      "explanation": "\"But Tracy is in Washington now, so tonight I texted our neighbor instead.\" Tracy đi học đại học ở xa, nên Trevor phải nhờ người khác."
+    },
+    {
+      "id": "q_u05_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "Who most probably answered Trevor's text?",
+        "vi": "Nhiều khả năng ai đã trả lời tin nhắn của Trevor?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy",
+            "vi": "Tracy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy",
+          "text_translation": "Tracy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the coach",
+            "vi": "thầy huấn luyện viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the coach",
+          "text_translation": "thầy huấn luyện viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the neighbor he texted, who often helps him",
+            "vi": "người hàng xóm cậu nhắn tin, người hay giúp cậu"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the neighbor he texted, who often helps him",
+          "text_translation": "người hàng xóm cậu nhắn tin, người hay giúp cậu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "his history teacher",
+            "vi": "thầy dạy sử"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "his history teacher",
+          "text_translation": "thầy dạy sử"
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"so tonight I texted our neighbor instead\" rồi ngay sau là \"The answer came immediately\". Người trả lời chính là người hàng xóm. Lời dặn \"give me your phone at seven\" cũng cho thấy người này ở gần và hay kèm Trevor."
+      },
+      "audio_data": null,
+      "question_jp": "Who most probably answered Trevor's text?",
+      "question_vn": "Nhiều khả năng ai đã trả lời tin nhắn của Trevor?",
+      "explanation": "Câu suy luận. \"so tonight I texted our neighbor instead\" rồi ngay sau là \"The answer came immediately\". Người trả lời chính là người hàng xóm. Lời dặn \"give me your phone at seven\" cũng cho thấy người này ở gần và hay kèm Trevor."
+    },
+    {
+      "id": "q_u05_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "Which of these is NOT part of Trevor's new plan?",
+        "vi": "Điều nào KHÔNG nằm trong kế hoạch mới của Trevor?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "stopping soccer practice",
+            "vi": "thôi tập bóng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "stopping soccer practice",
+          "text_translation": "thôi tập bóng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "doing homework in short time slots",
+            "vi": "làm bài theo từng khoảng ngắn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "doing homework in short time slots",
+          "text_translation": "làm bài theo từng khoảng ngắn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "rewarding himself with soccer videos",
+            "vi": "tự thưởng bằng video bóng đá"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "rewarding himself with soccer videos",
+          "text_translation": "tự thưởng bằng video bóng đá"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "starting his plan from tomorrow",
+            "vi": "bắt đầu kế hoạch từ ngày mai"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "starting his plan from tomorrow",
+          "text_translation": "bắt đầu kế hoạch từ ngày mai"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"from tomorrow, I'm going to do my homework in short time slots, and I'll reward myself with ten minutes of soccer videos\". Trevor không hề nói sẽ bỏ tập bóng; cậu còn muốn vào đội của trường."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT part of Trevor's new plan?",
+      "question_vn": "Điều nào KHÔNG nằm trong kế hoạch mới của Trevor?",
+      "explanation": "\"from tomorrow, I'm going to do my homework in short time slots, and I'll reward myself with ten minutes of soccer videos\". Trevor không hề nói sẽ bỏ tập bóng; cậu còn muốn vào đội của trường."
+    },
+    {
+      "id": "q_u05_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "What does Mom's answer \"I'll believe it when I see it\" show?",
+        "vi": "Câu \"Thấy tận mắt rồi mẹ mới tin\" của mẹ cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is angry with Trevor.",
+            "vi": "Mẹ đang giận Trevor."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is angry with Trevor.",
+          "text_translation": "Mẹ đang giận Trevor."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wants to watch soccer videos too.",
+            "vi": "Mẹ cũng muốn xem video bóng đá."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She wants to watch soccer videos too.",
+          "text_translation": "Mẹ cũng muốn xem video bóng đá."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She will check his homework every hour.",
+            "vi": "Mẹ sẽ kiểm tra bài cậu mỗi giờ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She will check his homework every hour.",
+          "text_translation": "Mẹ sẽ kiểm tra bài cậu mỗi giờ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is not sure that Trevor will really follow his plan.",
+            "vi": "Mẹ chưa tin Trevor sẽ làm đúng kế hoạch."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She is not sure that Trevor will really follow his plan.",
+          "text_translation": "Mẹ chưa tin Trevor sẽ làm đúng kế hoạch."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Mom just smiled and said, \"I'll believe it when I see it.\"\" Mẹ cười chứ không giận; câu này nghĩa là phải thấy kết quả thật mới tin. Chính Trevor cũng đáp \"We'll see who's right by Friday!\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Mom's answer \"I'll believe it when I see it\" show?",
+      "question_vn": "Câu \"Thấy tận mắt rồi mẹ mới tin\" của mẹ cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"Mom just smiled and said, \"I'll believe it when I see it.\"\" Mẹ cười chứ không giận; câu này nghĩa là phải thấy kết quả thật mới tin. Chính Trevor cũng đáp \"We'll see who's right by Friday!\"."
+    },
+    {
+      "id": "q_u05_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "In \"The answer came immediately\", what does \"immediately\" mean?",
+        "vi": "Trong câu \"The answer came immediately\", \"immediately\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "slowly",
+            "vi": "chậm chạp"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "slowly",
+          "text_translation": "chậm chạp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "very quickly",
+            "vi": "rất nhanh, ngay lập tức"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "very quickly",
+          "text_translation": "rất nhanh, ngay lập tức"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "politely",
+            "vi": "lịch sự"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "politely",
+          "text_translation": "lịch sự"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "late at night",
+            "vi": "lúc khuya"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "late at night",
+          "text_translation": "lúc khuya"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"The answer came immediately\". immediately = ngay lập tức. Các phương án khác không liên quan tới tốc độ, hoặc trái nghĩa."
+      },
+      "audio_data": null,
+      "question_jp": "In \"The answer came immediately\", what does \"immediately\" mean?",
+      "question_vn": "Trong câu \"The answer came immediately\", \"immediately\" nghĩa là gì?",
+      "explanation": "\"The answer came immediately\". immediately = ngay lập tức. Các phương án khác không liên quan tới tốc độ, hoặc trái nghĩa."
+    },
+    {
+      "id": "q_u05_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "What is the best title for the article?",
+        "vi": "Tiêu đề nào phù hợp nhất với bài báo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "A Simple Way to Focus on Your Work",
+            "vi": "Một cách đơn giản để tập trung vào công việc"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "A Simple Way to Focus on Your Work",
+          "text_translation": "Một cách đơn giản để tập trung vào công việc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The History of Italian Cooking",
+            "vi": "Lịch sử ẩm thực Ý"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The History of Italian Cooking",
+          "text_translation": "Lịch sử ẩm thực Ý"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Why Phones Are Bad for Students",
+            "vi": "Vì sao điện thoại có hại cho học sinh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Why Phones Are Bad for Students",
+          "text_translation": "Vì sao điện thoại có hại cho học sinh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "How to Write a Long Story",
+            "vi": "Cách viết một câu chuyện dài"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "How to Write a Long Story",
+          "text_translation": "Cách viết một câu chuyện dài"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many students have the same problem, and a simple method from the late 1980s may help.\" Cả bài giới thiệu một phương pháp tập trung. Cà chua chỉ là nguồn gốc cái tên; điện thoại và truyện dài chỉ là ví dụ nhỏ."
+      },
+      "audio_data": null,
+      "question_jp": "What is the best title for the article?",
+      "question_vn": "Tiêu đề nào phù hợp nhất với bài báo?",
+      "explanation": "\"Many students have the same problem, and a simple method from the late 1980s may help.\" Cả bài giới thiệu một phương pháp tập trung. Cà chua chỉ là nguồn gốc cái tên; điện thoại và truyện dài chỉ là ví dụ nhỏ."
+    },
+    {
+      "id": "q_u05_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "Who created the Pomodoro Technique?",
+        "vi": "Ai đã tạo ra kỹ thuật Pomodoro?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a kitchen designer",
+            "vi": "một nhà thiết kế bếp"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a kitchen designer",
+          "text_translation": "một nhà thiết kế bếp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a group of doctors",
+            "vi": "một nhóm bác sĩ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a group of doctors",
+          "text_translation": "một nhóm bác sĩ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "an Italian university student",
+            "vi": "một sinh viên đại học người Ý"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "an Italian university student",
+          "text_translation": "một sinh viên đại học người Ý"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a math teacher",
+            "vi": "một giáo viên toán"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a math teacher",
+          "text_translation": "một giáo viên toán"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was created by Francesco Cirillo, an Italian university student who had trouble paying attention to his books.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who created the Pomodoro Technique?",
+      "question_vn": "Ai đã tạo ra kỹ thuật Pomodoro?",
+      "explanation": "\"It was created by Francesco Cirillo, an Italian university student who had trouble paying attention to his books.\""
+    },
+    {
+      "id": "q_u05_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "Why is the method called \"Pomodoro\"?",
+        "vi": "Vì sao phương pháp có tên là \"Pomodoro\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Cirillo loved tomatoes.",
+            "vi": "Vì Cirillo thích cà chua."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Cirillo loved tomatoes.",
+          "text_translation": "Vì Cirillo thích cà chua."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was first used in a restaurant.",
+            "vi": "Vì lần đầu nó được dùng ở nhà hàng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was first used in a restaurant.",
+          "text_translation": "Vì lần đầu nó được dùng ở nhà hàng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Each break lasts as long as cooking a tomato.",
+            "vi": "Vì mỗi lần nghỉ dài bằng thời gian nấu cà chua."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Each break lasts as long as cooking a tomato.",
+          "text_translation": "Vì mỗi lần nghỉ dài bằng thời gian nấu cà chua."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Cirillo's timer looked like a tomato, and \"pomodoro\" means tomato in Italian.",
+            "vi": "Vì đồng hồ của Cirillo hình quả cà chua, và \"pomodoro\" nghĩa là cà chua trong tiếng Ý."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Cirillo's timer looked like a tomato, and \"pomodoro\" means tomato in Italian.",
+          "text_translation": "Vì đồng hồ của Cirillo hình quả cà chua, và \"pomodoro\" nghĩa là cà chua trong tiếng Ý."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"He used a kitchen timer in the shape of a tomato, and \"pomodoro\" is the Italian word for tomato.\" Bài không nói Cirillo thích cà chua hay dùng ở nhà hàng."
+      },
+      "audio_data": null,
+      "question_jp": "Why is the method called \"Pomodoro\"?",
+      "question_vn": "Vì sao phương pháp có tên là \"Pomodoro\"?",
+      "explanation": "\"He used a kitchen timer in the shape of a tomato, and \"pomodoro\" is the Italian word for tomato.\" Bài không nói Cirillo thích cà chua hay dùng ở nhà hàng."
+    },
+    {
+      "id": "q_u05_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "How long is one \"pomodoro\"?",
+        "vi": "Một \"pomodoro\" dài bao lâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "five minutes",
+            "vi": "năm phút"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "five minutes",
+          "text_translation": "năm phút"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "twenty-five minutes",
+            "vi": "hai mươi lăm phút"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "twenty-five minutes",
+          "text_translation": "hai mươi lăm phút"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "thirty minutes",
+            "vi": "ba mươi phút"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "thirty minutes",
+          "text_translation": "ba mươi phút"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "one hour",
+            "vi": "một tiếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "one hour",
+          "text_translation": "một tiếng"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Each twenty-five-minute period is called a \"pomodoro.\"\" Năm phút là thời gian nghỉ ngắn; ba mươi phút là mức tối đa của lần nghỉ dài."
+      },
+      "audio_data": null,
+      "question_jp": "How long is one \"pomodoro\"?",
+      "question_vn": "Một \"pomodoro\" dài bao lâu?",
+      "explanation": "\"Each twenty-five-minute period is called a \"pomodoro.\"\" Năm phút là thời gian nghỉ ngắn; ba mươi phút là mức tối đa của lần nghỉ dài."
+    },
+    {
+      "id": "q_u05_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "What should you do after four pomodoros?",
+        "vi": "Sau bốn pomodoro thì nên làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "take a break of fifteen to thirty minutes",
+            "vi": "nghỉ từ mười lăm tới ba mươi phút"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "take a break of fifteen to thirty minutes",
+          "text_translation": "nghỉ từ mười lăm tới ba mươi phút"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "start a new task without a break",
+            "vi": "làm việc mới ngay, không nghỉ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "start a new task without a break",
+          "text_translation": "làm việc mới ngay, không nghỉ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "stop working for the day",
+            "vi": "nghỉ hẳn trong ngày"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "stop working for the day",
+          "text_translation": "nghỉ hẳn trong ngày"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "set the timer for one hour",
+            "vi": "hẹn giờ một tiếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "set the timer for one hour",
+          "text_translation": "hẹn giờ một tiếng"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"After four pomodoros, you take a longer break of fifteen to thirty minutes.\""
+      },
+      "audio_data": null,
+      "question_jp": "What should you do after four pomodoros?",
+      "question_vn": "Sau bốn pomodoro thì nên làm gì?",
+      "explanation": "\"After four pomodoros, you take a longer break of fifteen to thirty minutes.\""
+    },
+    {
+      "id": "q_u05_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "In \"Short, frequent breaks also stop you from getting exhausted\", what does \"exhausted\" mean?",
+        "vi": "Trong câu \"... stop you from getting exhausted\", \"exhausted\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "bored",
+            "vi": "chán"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "bored",
+          "text_translation": "chán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "hungry",
+            "vi": "đói"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "hungry",
+          "text_translation": "đói"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "very tired",
+            "vi": "rất mệt, kiệt sức"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "very tired",
+          "text_translation": "rất mệt, kiệt sức"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "late",
+            "vi": "muộn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "late",
+          "text_translation": "muộn"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Short, frequent breaks also stop you from getting exhausted\". Nghỉ ngắn để khỏi mệt rã rời, nên exhausted = very tired."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Short, frequent breaks also stop you from getting exhausted\", what does \"exhausted\" mean?",
+      "question_vn": "Trong câu \"... stop you from getting exhausted\", \"exhausted\" nghĩa là gì?",
+      "explanation": "\"Short, frequent breaks also stop you from getting exhausted\". Nghỉ ngắn để khỏi mệt rã rời, nên exhausted = very tired."
+    },
+    {
+      "id": "q_u05_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "In \"try it for a week and then decide if it suits you\", what does \"it\" refer to?",
+        "vi": "Trong câu \"try it for a week…\", \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a long story",
+            "vi": "một câu chuyện dài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a long story",
+          "text_translation": "một câu chuyện dài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the kitchen timer",
+            "vi": "chiếc đồng hồ hẹn giờ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the kitchen timer",
+          "text_translation": "chiếc đồng hồ hẹn giờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a week",
+            "vi": "một tuần"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a week",
+          "text_translation": "một tuần"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the Pomodoro Technique",
+            "vi": "kỹ thuật Pomodoro"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the Pomodoro Technique",
+          "text_translation": "kỹ thuật Pomodoro"
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "\"The best advice is to try it for a week and then decide if it suits you.\" Cả đoạn cuối nói về \"the technique\", nên \"it\" là kỹ thuật Pomodoro."
+      },
+      "audio_data": null,
+      "question_jp": "In \"try it for a week and then decide if it suits you\", what does \"it\" refer to?",
+      "question_vn": "Trong câu \"try it for a week…\", \"it\" chỉ cái gì?",
+      "explanation": "\"The best advice is to try it for a week and then decide if it suits you.\" Cả đoạn cuối nói về \"the technique\", nên \"it\" là kỹ thuật Pomodoro."
+    },
+    {
+      "id": "q_u05_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "In the article, which is NOT a problem with the technique?",
+        "vi": "Trong bài báo, điều nào KHÔNG phải là nhược điểm của kỹ thuật này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Some tasks need longer periods of deep thinking.",
+            "vi": "Có việc cần những khoảng suy nghĩ sâu dài hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Some tasks need longer periods of deep thinking.",
+          "text_translation": "Có việc cần những khoảng suy nghĩ sâu dài hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The breaks are too long for most students.",
+            "vi": "Thời gian nghỉ quá dài với đa số học sinh."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The breaks are too long for most students.",
+          "text_translation": "Thời gian nghỉ quá dài với đa số học sinh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Some people find the ticking timer stressful.",
+            "vi": "Có người thấy tiếng tích tắc gây căng thẳng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Some people find the ticking timer stressful.",
+          "text_translation": "Có người thấy tiếng tích tắc gây căng thẳng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is not perfect for every job.",
+            "vi": "Nó không hợp với mọi loại việc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is not perfect for every job.",
+          "text_translation": "Nó không hợp với mọi loại việc."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"Some tasks, such as writing a long story, need longer periods of deep thinking, and some people find the ticking timer stressful.\" Bài không hề chê thời gian nghỉ quá dài; ngược lại, nghỉ ngắn được coi là ưu điểm."
+      },
+      "audio_data": null,
+      "question_jp": "In the article, which is NOT a problem with the technique?",
+      "question_vn": "Trong bài báo, điều nào KHÔNG phải là nhược điểm của kỹ thuật này?",
+      "explanation": "\"Some tasks, such as writing a long story, need longer periods of deep thinking, and some people find the ticking timer stressful.\" Bài không hề chê thời gian nghỉ quá dài; ngược lại, nghỉ ngắn được coi là ưu điểm."
+    },
+    {
+      "id": "q_u05_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "A student has to write a long story that needs deep thinking. What would the writer probably say?",
+        "vi": "Một học sinh phải viết một câu chuyện dài cần suy nghĩ sâu. Người viết nhiều khả năng sẽ nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Pomodoros may not be the best method for this task.",
+            "vi": "Pomodoro có thể không phải cách tốt nhất cho việc này."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Pomodoros may not be the best method for this task.",
+          "text_translation": "Pomodoro có thể không phải cách tốt nhất cho việc này."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Twenty-five minutes is always enough for any task.",
+            "vi": "Hai mươi lăm phút lúc nào cũng đủ cho mọi việc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Twenty-five minutes is always enough for any task.",
+          "text_translation": "Hai mươi lăm phút lúc nào cũng đủ cho mọi việc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The student should not take any breaks.",
+            "vi": "Học sinh đó không nên nghỉ chút nào."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The student should not take any breaks.",
+          "text_translation": "Học sinh đó không nên nghỉ chút nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The student should buy a tomato timer.",
+            "vi": "Học sinh đó nên mua đồng hồ hình cà chua."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The student should buy a tomato timer.",
+          "text_translation": "Học sinh đó nên mua đồng hồ hình cà chua."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Some tasks, such as writing a long story, need longer periods of deep thinking\". Với đúng loại việc này, người viết cho rằng kỹ thuật có thể không phù hợp."
+      },
+      "audio_data": null,
+      "question_jp": "A student has to write a long story that needs deep thinking. What would the writer probably say?",
+      "question_vn": "Một học sinh phải viết một câu chuyện dài cần suy nghĩ sâu. Người viết nhiều khả năng sẽ nói gì?",
+      "explanation": "Câu suy luận. \"Some tasks, such as writing a long story, need longer periods of deep thinking\". Với đúng loại việc này, người viết cho rằng kỹ thuật có thể không phù hợp."
+    },
+    {
+      "id": "q_u05_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "Use both texts. Which part of Trevor's plan is most like the Pomodoro Technique?",
+        "vi": "Dựa vào cả hai bài. Phần nào trong kế hoạch của Trevor giống kỹ thuật Pomodoro nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "joining the school soccer team",
+            "vi": "vào đội bóng của trường"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "joining the school soccer team",
+          "text_translation": "vào đội bóng của trường"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "shouting for help on Sunday nights",
+            "vi": "hét lên nhờ giúp tối Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "shouting for help on Sunday nights",
+          "text_translation": "hét lên nhờ giúp tối Chủ nhật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "working in short time slots with a reward after each one",
+            "vi": "làm bài theo từng khoảng ngắn, xong mỗi khoảng được thưởng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "working in short time slots with a reward after each one",
+          "text_translation": "làm bài theo từng khoảng ngắn, xong mỗi khoảng được thưởng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "finishing his history project within five days",
+            "vi": "làm xong dự án sử trong năm ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "finishing his history project within five days",
+          "text_translation": "làm xong dự án sử trong năm ngày"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. \"Then set a timer for twenty-five minutes and work on that task only.\" Kế hoạch của Trevor: \"do my homework in short time slots\", và người hàng xóm dặn \"take a break every half hour\". Cả hai đều chia việc thành khoảng ngắn xen nghỉ."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which part of Trevor's plan is most like the Pomodoro Technique?",
+      "question_vn": "Dựa vào cả hai bài. Phần nào trong kế hoạch của Trevor giống kỹ thuật Pomodoro nhất?",
+      "explanation": "Câu nối hai bài. \"Then set a timer for twenty-five minutes and work on that task only.\" Kế hoạch của Trevor: \"do my homework in short time slots\", và người hàng xóm dặn \"take a break every half hour\". Cả hai đều chia việc thành khoảng ngắn xen nghỉ."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u05_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Nhật ký của Trevor",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u05_01",
+      "question_ids": [
+        "q_u05_001",
+        "q_u05_002",
+        "q_u05_003",
+        "q_u05_004",
+        "q_u05_005",
+        "q_u05_006",
+        "q_u05_007",
+        "q_u05_008",
+        "q_u05_009",
+        "q_u05_010"
+      ]
+    },
+    {
+      "set_id": "set_u05_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Kỹ thuật Pomodoro",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u05_02",
+      "question_ids": [
+        "q_u05_011",
+        "q_u05_012",
+        "q_u05_013",
+        "q_u05_014",
+        "q_u05_015",
+        "q_u05_016",
+        "q_u05_017",
+        "q_u05_018",
+        "q_u05_019",
+        "q_u05_020"
+      ]
+    }
+  ]
+}
