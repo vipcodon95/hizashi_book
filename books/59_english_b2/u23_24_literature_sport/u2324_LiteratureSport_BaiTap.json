@@ -1,0 +1,2020 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 23–24 — Literature & Sport and competition",
+      "vi": "Văn học & Thể thao, thi đấu"
+    },
+    "title": "Units 23–24 — Literature & Sport and competition",
+    "title_vn": "Văn học & Thể thao, thi đấu",
+    "module_code": "59_u2324",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u23+u24",
+    "curriculum_sheets": [
+      "b2.089",
+      "b2.090",
+      "b2.091",
+      "b2.092",
+      "b2.093",
+      "b2.094",
+      "b2.095",
+      "b2.096"
+    ],
+    "characters": [
+      "Lydia Park",
+      "Harriet Brooks",
+      "Ethan Hayes",
+      "Nathan Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 1, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Mệnh đề phân từ, not + V-ing, always + V-ing, lập luận vòng tròn",
+    "description_vn": "Ghi chép của Lydia về buổi câu lạc bộ sách bàn Frankenstein, và bài báo vì sao thể thao nữ ngày càng nhiều người xem. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 23 + Unit 24 khoá B2 · phiếu `b2.089` – `b2.096` (mệnh đề phân từ, thể loại văn học, nhân vật, bàn luận về sách; not + V-ing, hiện tại tiếp diễn với always, sở hữu + V-ing, thể thao và thi đấu)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bản ghi chép câu lạc bộ sách và một bài báo thể thao; hiểu mệnh đề phân từ đầu câu (Written by…, Rejected by…), cụm danh từ + V-ing / V3 (the man sitting next to me, a story written…), `Not being…` làm chủ ngữ, `be always + V-ing` (thói quen gây khó chịu), `otherwise`, và lập luận vòng tròn."
+    },
+    "extra_words": [
+      {
+        "word": "born",
+        "i18n": {
+          "vi": "được sinh ra"
+        }
+      },
+      {
+        "word": "panicked",
+        "i18n": {
+          "vi": "đã hoảng loạn (quá khứ của panic)"
+        }
+      },
+      {
+        "word": "panicking",
+        "i18n": {
+          "vi": "việc hoảng loạn"
+        }
+      },
+      {
+        "word": "novel",
+        "i18n": {
+          "vi": "tiểu thuyết"
+        }
+      },
+      {
+        "word": "creature",
+        "i18n": {
+          "vi": "sinh vật"
+        }
+      },
+      {
+        "word": "ghost story",
+        "i18n": {
+          "vi": "truyện ma"
+        }
+      },
+      {
+        "word": "in horror",
+        "i18n": {
+          "vi": "trong kinh hãi"
+        }
+      },
+      {
+        "word": "panic",
+        "i18n": {
+          "vi": "hoảng loạn"
+        }
+      },
+      {
+        "word": "excuse",
+        "i18n": {
+          "vi": "lời biện hộ"
+        }
+      },
+      {
+        "word": "championship",
+        "i18n": {
+          "vi": "giải vô địch"
+        }
+      },
+      {
+        "word": "sponsor",
+        "i18n": {
+          "vi": "nhà tài trợ"
+        }
+      },
+      {
+        "word": "coverage",
+        "i18n": {
+          "vi": "sự đưa tin"
+        }
+      },
+      {
+        "word": "commentator",
+        "i18n": {
+          "vi": "bình luận viên"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "or rather",
+          "vi": "hay đúng hơn là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take responsibility",
+          "vi": "chịu trách nhiệm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "go in a circle",
+          "vi": "luẩn quẩn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "break the circle",
+          "vi": "phá vỡ vòng luẩn quẩn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "sell out",
+          "vi": "cháy vé"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a long way to go",
+          "vi": "còn một chặng đường dài"
+        }
+      },
+      {
+        "i18n": {
+          "en": "suggest otherwise",
+          "vi": "cho thấy điều ngược lại"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Mệnh đề phân từ đầu câu (`Written by…`, `Rejected by…`) bổ nghĩa cho chủ ngữ ngay sau dấu phẩy, và thường chỉ thời gian hoặc nguyên nhân."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài ghi chép thảo luận: ghi nhanh ai nói gì (Ethan, Harriet, Nathan). Câu hỏi quan điểm hay tráo ý giữa các người."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`be always + V-ing` cho thấy người viết khó chịu với thói quen đó. Câu ngay sau thường là lời phản bác."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Lập luận vòng tròn (A vì B, B vì A): câu hỏi \"why … in a circle?\" có đáp án nêu cả hai vế."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2324_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 23) — Câu lạc bộ sách bàn về Frankenstein"
+      },
+      "narrator": "Lydia",
+      "title": "Book Club Notes: Frankenstein, Two Hundred Years Later",
+      "category": "email",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Book Club Notes: Frankenstein, Two Hundred Years Later",
+            "vi": "Ghi chép câu lạc bộ sách: Frankenstein, hai trăm năm sau"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Lydia Park, for the book club at Harriet's",
+            "vi": "Người viết: Lydia Park, cho câu lạc bộ sách ở quán Harriet's"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear all, thank you for a wonderful evening. For those of you who missed it, here is what we talked about.",
+            "vi": "Gửi mọi người, cảm ơn vì một buổi tối tuyệt vời. Với những ai vắng mặt, đây là những gì chúng ta đã bàn."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of us had never read Frankenstein before, although all of us thought we knew the story.",
+            "vi": "Phần lớn chúng ta chưa từng đọc Frankenstein, dù ai cũng tưởng mình biết câu chuyện."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first surprise was the author. Written by Mary Shelley when she was only eighteen, the novel began as part of a competition between friends, who were staying near a lake in Switzerland one rainy summer and challenged each other to write a ghost story.",
+            "vi": "Bất ngờ đầu tiên là tác giả. Được Mary Shelley viết khi mới mười tám tuổi, cuốn tiểu thuyết khởi đầu từ một cuộc thi giữa những người bạn, khi họ ở gần một hồ nước tại Thuỵ Sĩ vào một mùa hè mưa dầm và thách nhau viết một truyện ma."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When the book first came out in 1818, her name did not appear on it.",
+            "vi": "Khi sách ra mắt lần đầu năm 1818, tên bà không hề xuất hiện trên đó."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The second surprise was the monster, or rather the creature, as the book calls him.",
+            "vi": "Bất ngờ thứ hai là con quái vật, hay đúng hơn là \"sinh vật\", như cách cuốn sách gọi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Frankenstein is not his name; it is the name of the young scientist who makes him and then runs away in horror.",
+            "vi": "Frankenstein không phải tên của nó; đó là tên của nhà khoa học trẻ đã tạo ra nó rồi khiếp sợ bỏ chạy."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The creature in the novel is nothing like the slow, silent figure in old films. He teaches himself to read, he speaks beautifully, and he is desperate to be loved.",
+            "vi": "Sinh vật trong tiểu thuyết chẳng giống chút nào hình ảnh chậm chạp, câm lặng trong phim cũ. Nó tự học đọc, nói năng hay, và khao khát được yêu thương."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Rejected by everyone he meets because of his appearance, he becomes cruel only after years of loneliness.",
+            "vi": "Bị mọi người nó gặp xua đuổi vì vẻ ngoài, nó chỉ trở nên tàn nhẫn sau nhiều năm cô độc."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This led to our liveliest discussion. Who is the real monster: the creature, or the man who created him and refused to take responsibility?",
+            "vi": "Điều này dẫn tới cuộc bàn luận sôi nổi nhất. Ai mới là quái vật thật: sinh vật, hay người đã tạo ra nó rồi chối bỏ trách nhiệm?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan argued that Victor Frankenstein was simply a young man who panicked. Harriet, sitting by the window with her third cup of tea, said that panicking is not an excuse when you have made a living person.",
+            "vi": "Ethan cho rằng Victor Frankenstein chỉ là một chàng trai trẻ hoảng loạn. Bà Harriet, ngồi bên cửa sổ với tách trà thứ ba, nói rằng hoảng loạn không phải là lời biện hộ khi người ta đã tạo ra một con người sống."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan pointed out that the questions in the book feel very modern: what do scientists owe to the things that they create?",
+            "vi": "Nathan chỉ ra rằng những câu hỏi trong sách rất hiện đại: nhà khoa học nợ gì với những thứ họ tạo ra?"
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not everyone loved it. Several people found the long letters at the beginning slow, and the man sitting next to me admitted that he had fallen asleep twice in the first chapter.",
+            "vi": "Không phải ai cũng mê. Vài người thấy những lá thư dài ở đầu truyện chậm, và người đàn ông ngồi cạnh tôi thừa nhận đã ngủ gật hai lần ngay chương một."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But almost all of us agreed that a story written two hundred years ago by a teenager had something important to say to us today.",
+            "vi": "Nhưng gần như tất cả đều đồng ý rằng một câu chuyện do một cô gái tuổi teen viết hai trăm năm trước vẫn có điều quan trọng muốn nói với chúng ta hôm nay."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next month: something lighter, I promise. Lydia",
+            "vi": "Tháng sau: một cuốn nhẹ nhàng hơn, tôi hứa. Lydia"
+          }
+        }
+      ],
+      "content_ja": "Book Club Notes: Frankenstein, Two Hundred Years Later\n\nWritten by: Lydia Park, for the book club at Harriet's\n\nDear all, thank you for a wonderful evening. For those of you who missed it, here is what we talked about. Most of us had never read Frankenstein before, although all of us thought we knew the story. The first surprise was the author. Written by Mary Shelley when she was only eighteen, the novel began as part of a competition between friends, who were staying near a lake in Switzerland one rainy summer and challenged each other to write a ghost story. When the book first came out in 1818, her name did not appear on it.\n\nThe second surprise was the monster, or rather the creature, as the book calls him. Frankenstein is not his name; it is the name of the young scientist who makes him and then runs away in horror. The creature in the novel is nothing like the slow, silent figure in old films. He teaches himself to read, he speaks beautifully, and he is desperate to be loved. Rejected by everyone he meets because of his appearance, he becomes cruel only after years of loneliness.\n\nThis led to our liveliest discussion. Who is the real monster: the creature, or the man who created him and refused to take responsibility? Ethan argued that Victor Frankenstein was simply a young man who panicked. Harriet, sitting by the window with her third cup of tea, said that panicking is not an excuse when you have made a living person. Nathan pointed out that the questions in the book feel very modern: what do scientists owe to the things that they create?\n\nNot everyone loved it. Several people found the long letters at the beginning slow, and the man sitting next to me admitted that he had fallen asleep twice in the first chapter. But almost all of us agreed that a story written two hundred years ago by a teenager had something important to say to us today.\n\nNext month: something lighter, I promise. Lydia",
+      "translation_vn": "(1) Ghi chép câu lạc bộ sách: Frankenstein, hai trăm năm sau\n(2) Người viết: Lydia Park, cho câu lạc bộ sách ở quán Harriet's\n(3) Gửi mọi người, cảm ơn vì một buổi tối tuyệt vời. Với những ai vắng mặt, đây là những gì chúng ta đã bàn.\n(4) Phần lớn chúng ta chưa từng đọc Frankenstein, dù ai cũng tưởng mình biết câu chuyện.\n(5) Bất ngờ đầu tiên là tác giả. Được Mary Shelley viết khi mới mười tám tuổi, cuốn tiểu thuyết khởi đầu từ một cuộc thi giữa những người bạn, khi họ ở gần một hồ nước tại Thuỵ Sĩ vào một mùa hè mưa dầm và thách nhau viết một truyện ma.\n(6) Khi sách ra mắt lần đầu năm 1818, tên bà không hề xuất hiện trên đó.\n(7) Bất ngờ thứ hai là con quái vật, hay đúng hơn là \"sinh vật\", như cách cuốn sách gọi.\n(8) Frankenstein không phải tên của nó; đó là tên của nhà khoa học trẻ đã tạo ra nó rồi khiếp sợ bỏ chạy.\n(9) Sinh vật trong tiểu thuyết chẳng giống chút nào hình ảnh chậm chạp, câm lặng trong phim cũ. Nó tự học đọc, nói năng hay, và khao khát được yêu thương.\n(10) Bị mọi người nó gặp xua đuổi vì vẻ ngoài, nó chỉ trở nên tàn nhẫn sau nhiều năm cô độc.\n(11) Điều này dẫn tới cuộc bàn luận sôi nổi nhất. Ai mới là quái vật thật: sinh vật, hay người đã tạo ra nó rồi chối bỏ trách nhiệm?\n(12) Ethan cho rằng Victor Frankenstein chỉ là một chàng trai trẻ hoảng loạn. Bà Harriet, ngồi bên cửa sổ với tách trà thứ ba, nói rằng hoảng loạn không phải là lời biện hộ khi người ta đã tạo ra một con người sống.\n(13) Nathan chỉ ra rằng những câu hỏi trong sách rất hiện đại: nhà khoa học nợ gì với những thứ họ tạo ra?\n(14) Không phải ai cũng mê. Vài người thấy những lá thư dài ở đầu truyện chậm, và người đàn ông ngồi cạnh tôi thừa nhận đã ngủ gật hai lần ngay chương một.\n(15) Nhưng gần như tất cả đều đồng ý rằng một câu chuyện do một cô gái tuổi teen viết hai trăm năm trước vẫn có điều quan trọng muốn nói với chúng ta hôm nay.\n(16) Tháng sau: một cuốn nhẹ nhàng hơn, tôi hứa. Lydia",
+      "word_count": 346,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.089",
+        "b2.090",
+        "b2.091",
+        "b2.092"
+      ]
+    },
+    {
+      "id": "passage_u2324_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 24) — Vì sao thể thao nữ ngày càng nhiều người xem"
+      },
+      "narrator": "announcer",
+      "title": "The Rise of Women's Sports: Why Fans Are Finally Watching",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Rise of Women's Sports: Why Fans Are Finally Watching",
+            "vi": "Thể thao nữ đi lên: vì sao cuối cùng người hâm mộ cũng đã xem"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In April 2024, something happened that would have seemed impossible a few years earlier.",
+            "vi": "Tháng 4 năm 2024, đã xảy ra một chuyện mà chỉ vài năm trước còn tưởng là không thể."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The final of the college women's basketball championship in the United States was watched by about 18.9 million people on television, more than the men's final that year.",
+            "vi": "Trận chung kết giải bóng rổ nữ đại học ở Mỹ có khoảng 18,9 triệu người xem trên truyền hình, nhiều hơn trận chung kết nam năm đó."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was the first time in history that this had happened.",
+            "vi": "Đó là lần đầu tiên trong lịch sử chuyện này xảy ra."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For decades, people who ran sports television argued that women's sports were not popular enough to show.",
+            "vi": "Suốt nhiều thập kỷ, những người điều hành truyền hình thể thao cho rằng thể thao nữ không đủ hấp dẫn để phát sóng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But many fans and researchers point out that the reasoning went in a circle: women's games were not shown because nobody watched them, and nobody watched them because they were not shown.",
+            "vi": "Nhưng nhiều người hâm mộ và nhà nghiên cứu chỉ ra rằng lập luận ấy luẩn quẩn: các trận đấu nữ không được phát vì không ai xem, và không ai xem vì chúng không được phát."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not being on television meant fewer fans, fewer sponsors and less money for the players.",
+            "vi": "Không được lên truyền hình nghĩa là ít người hâm mộ hơn, ít nhà tài trợ hơn và ít tiền hơn cho vận động viên."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Several things have helped to break that circle.",
+            "vi": "Vài điều đã giúp phá vỡ vòng luẩn quẩn đó."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "More games are now shown on television and online, at times when people can actually watch them.",
+            "vi": "Giờ nhiều trận được phát trên truyền hình và trực tuyến hơn, vào những giờ người ta thật sự xem được."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Star players have built huge followings on social media, so that fans feel that they know them personally.",
+            "vi": "Những ngôi sao đã xây dựng được lượng người theo dõi khổng lồ trên mạng xã hội, khiến người hâm mộ thấy như quen họ thật."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And many young fans, both girls and boys, simply do not share the idea that women's sports are less exciting.",
+            "vi": "Và nhiều người hâm mộ trẻ, cả nữ lẫn nam, đơn giản là không đồng tình với ý nghĩ rằng thể thao nữ kém hấp dẫn hơn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Attendance at women's professional basketball and soccer games has reached record levels in recent years, and many games now sell out.",
+            "vi": "Lượng khán giả tới sân xem bóng rổ và bóng đá nữ chuyên nghiệp đã đạt mức kỷ lục những năm gần đây, và nhiều trận giờ cháy vé."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is still a long way to go.",
+            "vi": "Vẫn còn một chặng đường dài."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Women's sports still receive a small share of sports coverage, and in most professional sports, the gap between what men and women are paid remains enormous.",
+            "vi": "Thể thao nữ vẫn chỉ chiếm một phần nhỏ trong các bản tin thể thao, và ở hầu hết các môn chuyên nghiệp, khoảng cách tiền lương giữa nam và nữ vẫn còn rất lớn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some commentators are always claiming that the new interest is just a fashion that will soon pass.",
+            "vi": "Một số bình luận viên cứ luôn miệng nói rằng sự quan tâm mới này chỉ là trào lưu sớm qua."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The numbers, so far, suggest otherwise: each new record has been followed by another.",
+            "vi": "Các con số tới giờ lại cho thấy điều ngược lại: kỷ lục mới nào cũng được nối tiếp bởi một kỷ lục khác."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The lesson may be a simple one. People cannot become fans of something that they never see. Give them the chance, and they will decide for themselves.",
+            "vi": "Bài học có lẽ rất đơn giản. Người ta không thể thành người hâm mộ một thứ mà họ chẳng bao giờ được thấy. Hãy cho họ cơ hội, và họ sẽ tự quyết định."
+          }
+        }
+      ],
+      "content_ja": "The Rise of Women's Sports: Why Fans Are Finally Watching\n\nIn April 2024, something happened that would have seemed impossible a few years earlier. The final of the college women's basketball championship in the United States was watched by about 18.9 million people on television, more than the men's final that year. It was the first time in history that this had happened.\n\nFor decades, people who ran sports television argued that women's sports were not popular enough to show. But many fans and researchers point out that the reasoning went in a circle: women's games were not shown because nobody watched them, and nobody watched them because they were not shown. Not being on television meant fewer fans, fewer sponsors and less money for the players.\n\nSeveral things have helped to break that circle. More games are now shown on television and online, at times when people can actually watch them. Star players have built huge followings on social media, so that fans feel that they know them personally. And many young fans, both girls and boys, simply do not share the idea that women's sports are less exciting. Attendance at women's professional basketball and soccer games has reached record levels in recent years, and many games now sell out.\n\nThere is still a long way to go. Women's sports still receive a small share of sports coverage, and in most professional sports, the gap between what men and women are paid remains enormous. Some commentators are always claiming that the new interest is just a fashion that will soon pass. The numbers, so far, suggest otherwise: each new record has been followed by another.\n\nThe lesson may be a simple one. People cannot become fans of something that they never see. Give them the chance, and they will decide for themselves.",
+      "translation_vn": "(1) Thể thao nữ đi lên: vì sao cuối cùng người hâm mộ cũng đã xem\n(2) Tháng 4 năm 2024, đã xảy ra một chuyện mà chỉ vài năm trước còn tưởng là không thể.\n(3) Trận chung kết giải bóng rổ nữ đại học ở Mỹ có khoảng 18,9 triệu người xem trên truyền hình, nhiều hơn trận chung kết nam năm đó.\n(4) Đó là lần đầu tiên trong lịch sử chuyện này xảy ra.\n(5) Suốt nhiều thập kỷ, những người điều hành truyền hình thể thao cho rằng thể thao nữ không đủ hấp dẫn để phát sóng.\n(6) Nhưng nhiều người hâm mộ và nhà nghiên cứu chỉ ra rằng lập luận ấy luẩn quẩn: các trận đấu nữ không được phát vì không ai xem, và không ai xem vì chúng không được phát.\n(7) Không được lên truyền hình nghĩa là ít người hâm mộ hơn, ít nhà tài trợ hơn và ít tiền hơn cho vận động viên.\n(8) Vài điều đã giúp phá vỡ vòng luẩn quẩn đó.\n(9) Giờ nhiều trận được phát trên truyền hình và trực tuyến hơn, vào những giờ người ta thật sự xem được.\n(10) Những ngôi sao đã xây dựng được lượng người theo dõi khổng lồ trên mạng xã hội, khiến người hâm mộ thấy như quen họ thật.\n(11) Và nhiều người hâm mộ trẻ, cả nữ lẫn nam, đơn giản là không đồng tình với ý nghĩ rằng thể thao nữ kém hấp dẫn hơn.\n(12) Lượng khán giả tới sân xem bóng rổ và bóng đá nữ chuyên nghiệp đã đạt mức kỷ lục những năm gần đây, và nhiều trận giờ cháy vé.\n(13) Vẫn còn một chặng đường dài.\n(14) Thể thao nữ vẫn chỉ chiếm một phần nhỏ trong các bản tin thể thao, và ở hầu hết các môn chuyên nghiệp, khoảng cách tiền lương giữa nam và nữ vẫn còn rất lớn.\n(15) Một số bình luận viên cứ luôn miệng nói rằng sự quan tâm mới này chỉ là trào lưu sớm qua.\n(16) Các con số tới giờ lại cho thấy điều ngược lại: kỷ lục mới nào cũng được nối tiếp bởi một kỷ lục khác.\n(17) Bài học có lẽ rất đơn giản. Người ta không thể thành người hâm mộ một thứ mà họ chẳng bao giờ được thấy. Hãy cho họ cơ hội, và họ sẽ tự quyết định.",
+      "word_count": 301,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.093",
+        "b2.094",
+        "b2.095",
+        "b2.096"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2324_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What is the main purpose of Lydia's notes?",
+        "vi": "Mục đích chính của bản ghi chép của Lydia là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sell copies of Frankenstein",
+            "vi": "để bán sách Frankenstein"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to sell copies of Frankenstein",
+          "text_translation": "để bán sách Frankenstein"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell club members what was discussed about Frankenstein",
+            "vi": "để kể cho thành viên câu lạc bộ những gì đã bàn về Frankenstein"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to tell club members what was discussed about Frankenstein",
+          "text_translation": "để kể cho thành viên câu lạc bộ những gì đã bàn về Frankenstein"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to review a Frankenstein film",
+            "vi": "để điểm một bộ phim Frankenstein"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to review a Frankenstein film",
+          "text_translation": "để điểm một bộ phim Frankenstein"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to invite people to Switzerland",
+            "vi": "để mời mọi người tới Thuỵ Sĩ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to invite people to Switzerland",
+          "text_translation": "để mời mọi người tới Thuỵ Sĩ"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"For those of you who missed it, here is what we talked about.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Lydia's notes?",
+      "question_vn": "Mục đích chính của bản ghi chép của Lydia là gì?",
+      "explanation": "\"For those of you who missed it, here is what we talked about.\""
+    },
+    {
+      "id": "q_u2324_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What does \"all of us thought we knew the story\" suggest?",
+        "vi": "Câu \"ai cũng tưởng mình biết câu chuyện\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Everyone had read the book many times.",
+            "vi": "Ai cũng đã đọc sách nhiều lần."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Everyone had read the book many times.",
+          "text_translation": "Ai cũng đã đọc sách nhiều lần."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nobody had heard of Frankenstein.",
+            "vi": "Chưa ai nghe tới Frankenstein."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nobody had heard of Frankenstein.",
+          "text_translation": "Chưa ai nghe tới Frankenstein."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Lydia had told them the story.",
+            "vi": "Lydia đã kể chuyện cho họ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Lydia had told them the story.",
+          "text_translation": "Lydia đã kể chuyện cho họ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People knew the story from films and popular ideas, which turned out to be different from the book.",
+            "vi": "Người ta biết câu chuyện qua phim và quan niệm phổ biến, mà hoá ra khác với sách."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "People knew the story from films and popular ideas, which turned out to be different from the book.",
+          "text_translation": "Người ta biết câu chuyện qua phim và quan niệm phổ biến, mà hoá ra khác với sách."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Phần sau kể hai điều bất ngờ: tác giả, và sinh vật \"nothing like the slow, silent figure in old films\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"all of us thought we knew the story\" suggest?",
+      "question_vn": "Câu \"ai cũng tưởng mình biết câu chuyện\" hàm ý gì?",
+      "explanation": "Câu suy luận. Phần sau kể hai điều bất ngờ: tác giả, và sinh vật \"nothing like the slow, silent figure in old films\"."
+    },
+    {
+      "id": "q_u2324_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What does \"Written by Mary Shelley when she was only eighteen\" describe?",
+        "vi": "Cụm \"Được Mary Shelley viết khi mới mười tám tuổi\" bổ nghĩa cho cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the novel",
+            "vi": "cuốn tiểu thuyết"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the novel",
+          "text_translation": "cuốn tiểu thuyết"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the lake",
+            "vi": "hồ nước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the lake",
+          "text_translation": "hồ nước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the competition",
+            "vi": "cuộc thi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the competition",
+          "text_translation": "cuộc thi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the friends",
+            "vi": "những người bạn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the friends",
+          "text_translation": "những người bạn"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Written by Mary Shelley when she was only eighteen, the novel began…\" Mệnh đề phân từ đầu câu bổ nghĩa cho chủ ngữ ngay sau dấu phẩy: the novel."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Written by Mary Shelley when she was only eighteen\" describe?",
+      "question_vn": "Cụm \"Được Mary Shelley viết khi mới mười tám tuổi\" bổ nghĩa cho cái gì?",
+      "explanation": "\"Written by Mary Shelley when she was only eighteen, the novel began…\" Mệnh đề phân từ đầu câu bổ nghĩa cho chủ ngữ ngay sau dấu phẩy: the novel."
+    },
+    {
+      "id": "q_u2324_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "How did the novel begin?",
+        "vi": "Cuốn tiểu thuyết đã ra đời thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as a school project",
+            "vi": "từ một bài tập ở trường"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "as a school project",
+          "text_translation": "từ một bài tập ở trường"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as a film script",
+            "vi": "từ một kịch bản phim"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "as a film script",
+          "text_translation": "từ một kịch bản phim"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as part of a ghost story competition between friends",
+            "vi": "từ một cuộc thi viết truyện ma giữa những người bạn"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "as part of a ghost story competition between friends",
+          "text_translation": "từ một cuộc thi viết truyện ma giữa những người bạn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "as a letter to a scientist",
+            "vi": "từ một lá thư gửi nhà khoa học"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "as a letter to a scientist",
+          "text_translation": "từ một lá thư gửi nhà khoa học"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"the novel began as part of a competition between friends\", những người thách nhau viết một truyện ma."
+      },
+      "audio_data": null,
+      "question_jp": "How did the novel begin?",
+      "question_vn": "Cuốn tiểu thuyết đã ra đời thế nào?",
+      "explanation": "\"the novel began as part of a competition between friends\", những người thách nhau viết một truyện ma."
+    },
+    {
+      "id": "q_u2324_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "Who is Frankenstein in the novel?",
+        "vi": "Trong tiểu thuyết, Frankenstein là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the creature",
+            "vi": "sinh vật"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the creature",
+          "text_translation": "sinh vật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the young scientist who makes the creature",
+            "vi": "nhà khoa học trẻ tạo ra sinh vật"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the young scientist who makes the creature",
+          "text_translation": "nhà khoa học trẻ tạo ra sinh vật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Mary Shelley's husband",
+            "vi": "chồng Mary Shelley"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Mary Shelley's husband",
+          "text_translation": "chồng Mary Shelley"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a friend at the lake",
+            "vi": "một người bạn ở hồ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a friend at the lake",
+          "text_translation": "một người bạn ở hồ"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Frankenstein is not his name; it is the name of the young scientist who makes him and then runs away in horror.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who is Frankenstein in the novel?",
+      "question_vn": "Trong tiểu thuyết, Frankenstein là ai?",
+      "explanation": "\"Frankenstein is not his name; it is the name of the young scientist who makes him and then runs away in horror.\""
+    },
+    {
+      "id": "q_u2324_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "How is the creature in the novel different from the one in old films?",
+        "vi": "Sinh vật trong tiểu thuyết khác với trong phim cũ thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He teaches himself to read, speaks beautifully and wants to be loved.",
+            "vi": "Nó tự học đọc, nói năng hay và muốn được yêu thương."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He teaches himself to read, speaks beautifully and wants to be loved.",
+          "text_translation": "Nó tự học đọc, nói năng hay và muốn được yêu thương."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He is slower and more silent.",
+            "vi": "Nó chậm chạp và lặng lẽ hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He is slower and more silent.",
+          "text_translation": "Nó chậm chạp và lặng lẽ hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is a scientist.",
+            "vi": "Nó là nhà khoa học."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He is a scientist.",
+          "text_translation": "Nó là nhà khoa học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He has a different name.",
+            "vi": "Nó có tên khác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He has a different name.",
+          "text_translation": "Nó có tên khác."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"He teaches himself to read, he speaks beautifully, and he is desperate to be loved.\""
+      },
+      "audio_data": null,
+      "question_jp": "How is the creature in the novel different from the one in old films?",
+      "question_vn": "Sinh vật trong tiểu thuyết khác với trong phim cũ thế nào?",
+      "explanation": "\"He teaches himself to read, he speaks beautifully, and he is desperate to be loved.\""
+    },
+    {
+      "id": "q_u2324_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "According to the novel, why does the creature become cruel?",
+        "vi": "Theo tiểu thuyết, vì sao sinh vật trở nên tàn nhẫn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He was born cruel.",
+            "vi": "Nó sinh ra đã tàn nhẫn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He was born cruel.",
+          "text_translation": "Nó sinh ra đã tàn nhẫn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He wanted to become famous.",
+            "vi": "Nó muốn nổi tiếng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He wanted to become famous.",
+          "text_translation": "Nó muốn nổi tiếng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He was angry with Mary Shelley.",
+            "vi": "Nó giận Mary Shelley."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He was angry with Mary Shelley.",
+          "text_translation": "Nó giận Mary Shelley."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He was rejected by everyone because of his appearance and lonely for years.",
+            "vi": "Nó bị mọi người xua đuổi vì vẻ ngoài và cô độc nhiều năm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He was rejected by everyone because of his appearance and lonely for years.",
+          "text_translation": "Nó bị mọi người xua đuổi vì vẻ ngoài và cô độc nhiều năm."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Rejected by everyone he meets because of his appearance, he becomes cruel only after years of loneliness.\" Rejected… là mệnh đề phân từ chỉ nguyên nhân."
+      },
+      "audio_data": null,
+      "question_jp": "According to the novel, why does the creature become cruel?",
+      "question_vn": "Theo tiểu thuyết, vì sao sinh vật trở nên tàn nhẫn?",
+      "explanation": "\"Rejected by everyone he meets because of his appearance, he becomes cruel only after years of loneliness.\" Rejected… là mệnh đề phân từ chỉ nguyên nhân."
+    },
+    {
+      "id": "q_u2324_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What was Harriet's view in the discussion?",
+        "vi": "Quan điểm của bà Harriet trong buổi bàn luận là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Victor Frankenstein was right to run away.",
+            "vi": "Victor Frankenstein bỏ chạy là đúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Victor Frankenstein was right to run away.",
+          "text_translation": "Victor Frankenstein bỏ chạy là đúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The creature is the real monster.",
+            "vi": "Sinh vật mới là quái vật thật."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The creature is the real monster.",
+          "text_translation": "Sinh vật mới là quái vật thật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Panicking is no excuse for not taking responsibility for a living person that you have made.",
+            "vi": "Hoảng loạn không phải lời biện hộ cho việc chối bỏ trách nhiệm với một con người sống mình tạo ra."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Panicking is no excuse for not taking responsibility for a living person that you have made.",
+          "text_translation": "Hoảng loạn không phải lời biện hộ cho việc chối bỏ trách nhiệm với một con người sống mình tạo ra."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The book is too long.",
+            "vi": "Cuốn sách quá dài."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The book is too long.",
+          "text_translation": "Cuốn sách quá dài."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"said that panicking is not an excuse when you have made a living person.\" Bà phản bác ý của Ethan."
+      },
+      "audio_data": null,
+      "question_jp": "What was Harriet's view in the discussion?",
+      "question_vn": "Quan điểm của bà Harriet trong buổi bàn luận là gì?",
+      "explanation": "\"said that panicking is not an excuse when you have made a living person.\" Bà phản bác ý của Ethan."
+    },
+    {
+      "id": "q_u2324_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "Why does Nathan say that the questions in the book feel very modern?",
+        "vi": "Vì sao Nathan nói những câu hỏi trong sách rất hiện đại?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the question of what scientists owe to their creations still matters today",
+            "vi": "vì câu hỏi nhà khoa học nợ gì với những thứ họ tạo ra vẫn còn ý nghĩa hôm nay"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because the question of what scientists owe to their creations still matters today",
+          "text_translation": "vì câu hỏi nhà khoa học nợ gì với những thứ họ tạo ra vẫn còn ý nghĩa hôm nay"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the book was written recently",
+            "vi": "vì sách mới được viết gần đây"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the book was written recently",
+          "text_translation": "vì sách mới được viết gần đây"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the book is about computers",
+            "vi": "vì sách viết về máy tính"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the book is about computers",
+          "text_translation": "vì sách viết về máy tính"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the language is modern",
+            "vi": "vì ngôn ngữ hiện đại"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the language is modern",
+          "text_translation": "vì ngôn ngữ hiện đại"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"what do scientists owe to the things that they create?\" Với một kỹ sư phần mềm như Nathan, câu hỏi này rất gần với công nghệ hôm nay."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Nathan say that the questions in the book feel very modern?",
+      "question_vn": "Vì sao Nathan nói những câu hỏi trong sách rất hiện đại?",
+      "explanation": "Câu suy luận. \"what do scientists owe to the things that they create?\" Với một kỹ sư phần mềm như Nathan, câu hỏi này rất gần với công nghệ hôm nay."
+    },
+    {
+      "id": "q_u2324_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What does Lydia's last line, \"Next month: something lighter, I promise\", suggest?",
+        "vi": "Câu cuối của Lydia \"Tháng sau: một cuốn nhẹ nhàng hơn, tôi hứa\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She didn't like Frankenstein.",
+            "vi": "Cô không thích Frankenstein."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She didn't like Frankenstein.",
+          "text_translation": "Cô không thích Frankenstein."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Frankenstein was the shortest book that they had read.",
+            "vi": "Frankenstein là cuốn ngắn nhất họ từng đọc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Frankenstein was the shortest book that they had read.",
+          "text_translation": "Frankenstein là cuốn ngắn nhất họ từng đọc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She knows that Frankenstein was quite heavy and dark for some members.",
+            "vi": "Cô biết Frankenstein khá nặng nề, u tối với vài thành viên."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She knows that Frankenstein was quite heavy and dark for some members.",
+          "text_translation": "Cô biết Frankenstein khá nặng nề, u tối với vài thành viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The club will stop meeting.",
+            "vi": "Câu lạc bộ sẽ ngừng họp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The club will stop meeting.",
+          "text_translation": "Câu lạc bộ sẽ ngừng họp."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Ngay trước đó cô kể vài người thấy đoạn đầu chậm, có người ngủ gật hai lần. Lời hứa có chút hài hước."
+      },
+      "audio_data": null,
+      "question_jp": "What does Lydia's last line, \"Next month: something lighter, I promise\", suggest?",
+      "question_vn": "Câu cuối của Lydia \"Tháng sau: một cuốn nhẹ nhàng hơn, tôi hứa\" hàm ý gì?",
+      "explanation": "Câu suy luận về giọng điệu. Ngay trước đó cô kể vài người thấy đoạn đầu chậm, có người ngủ gật hai lần. Lời hứa có chút hài hước."
+    },
+    {
+      "id": "q_u2324_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the rules of women's basketball",
+            "vi": "luật bóng rổ nữ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the rules of women's basketball",
+          "text_translation": "luật bóng rổ nữ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why men's sports are less popular",
+            "vi": "vì sao thể thao nam kém hấp dẫn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "why men's sports are less popular",
+          "text_translation": "vì sao thể thao nam kém hấp dẫn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why more people are watching women's sports, and what problems remain",
+            "vi": "vì sao ngày càng nhiều người xem thể thao nữ, và vấn đề nào còn tồn tại"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "why more people are watching women's sports, and what problems remain",
+          "text_translation": "vì sao ngày càng nhiều người xem thể thao nữ, và vấn đề nào còn tồn tại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how to become a professional athlete",
+            "vi": "cách trở thành vận động viên chuyên nghiệp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how to become a professional athlete",
+          "text_translation": "cách trở thành vận động viên chuyên nghiệp"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Bài nêu mốc năm 2024, vòng luẩn quẩn trước đây, \"Several things have helped to break that circle\", rồi \"There is still a long way to go.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "Bài nêu mốc năm 2024, vòng luẩn quẩn trước đây, \"Several things have helped to break that circle\", rồi \"There is still a long way to go.\""
+    },
+    {
+      "id": "q_u2324_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What happened in April 2024?",
+        "vi": "Tháng 4 năm 2024 đã xảy ra chuyện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The college women's basketball final had more TV viewers than the men's final.",
+            "vi": "Chung kết bóng rổ nữ đại học có nhiều người xem truyền hình hơn chung kết nam."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The college women's basketball final had more TV viewers than the men's final.",
+          "text_translation": "Chung kết bóng rổ nữ đại học có nhiều người xem truyền hình hơn chung kết nam."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Women's basketball was shown on TV for the first time.",
+            "vi": "Bóng rổ nữ lần đầu được lên truyền hình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Women's basketball was shown on TV for the first time.",
+          "text_translation": "Bóng rổ nữ lần đầu được lên truyền hình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The men's final was cancelled.",
+            "vi": "Chung kết nam bị huỷ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The men's final was cancelled.",
+          "text_translation": "Chung kết nam bị huỷ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A new women's league started.",
+            "vi": "Một giải nữ mới ra đời."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "A new women's league started.",
+          "text_translation": "Một giải nữ mới ra đời."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"watched by about 18.9 million people on television, more than the men's final that year.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened in April 2024?",
+      "question_vn": "Tháng 4 năm 2024 đã xảy ra chuyện gì?",
+      "explanation": "\"watched by about 18.9 million people on television, more than the men's final that year.\""
+    },
+    {
+      "id": "q_u2324_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "Why do fans and researchers say that the old reasoning \"went in a circle\"?",
+        "vi": "Vì sao người hâm mộ và nhà nghiên cứu nói lập luận cũ \"luẩn quẩn\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because games were shown too often",
+            "vi": "vì trận đấu được phát quá nhiều"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because games were shown too often",
+          "text_translation": "vì trận đấu được phát quá nhiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the players ran in circles",
+            "vi": "vì vận động viên chạy vòng tròn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the players ran in circles",
+          "text_translation": "vì vận động viên chạy vòng tròn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because nobody wanted to play",
+            "vi": "vì không ai muốn chơi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because nobody wanted to play",
+          "text_translation": "vì không ai muốn chơi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because games weren't shown since nobody watched, and nobody watched since they weren't shown",
+            "vi": "vì trận không được phát do không ai xem, và không ai xem do không được phát"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because games weren't shown since nobody watched, and nobody watched since they weren't shown",
+          "text_translation": "vì trận không được phát do không ai xem, và không ai xem do không được phát"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"women's games were not shown because nobody watched them, and nobody watched them because they were not shown.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why do fans and researchers say that the old reasoning \"went in a circle\"?",
+      "question_vn": "Vì sao người hâm mộ và nhà nghiên cứu nói lập luận cũ \"luẩn quẩn\"?",
+      "explanation": "\"women's games were not shown because nobody watched them, and nobody watched them because they were not shown.\""
+    },
+    {
+      "id": "q_u2324_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What does \"Not being on television meant fewer fans\" mean?",
+        "vi": "Câu \"Không được lên truyền hình nghĩa là ít người hâm mộ hơn\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Being on TV made fewer fans.",
+            "vi": "Lên truyền hình khiến ít người hâm mộ hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Being on TV made fewer fans.",
+          "text_translation": "Lên truyền hình khiến ít người hâm mộ hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The fact that women's sports weren't on TV led to fewer fans.",
+            "vi": "Việc thể thao nữ không được lên truyền hình dẫn tới ít người hâm mộ hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The fact that women's sports weren't on TV led to fewer fans.",
+          "text_translation": "Việc thể thao nữ không được lên truyền hình dẫn tới ít người hâm mộ hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Fans didn't have televisions.",
+            "vi": "Người hâm mộ không có ti vi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Fans didn't have televisions.",
+          "text_translation": "Người hâm mộ không có ti vi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Players didn't want to be on TV.",
+            "vi": "Vận động viên không muốn lên truyền hình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Players didn't want to be on TV.",
+          "text_translation": "Vận động viên không muốn lên truyền hình."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Not being on television meant fewer fans, fewer sponsors and less money for the players.\" Not + V-ing làm chủ ngữ."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Not being on television meant fewer fans\" mean?",
+      "question_vn": "Câu \"Không được lên truyền hình nghĩa là ít người hâm mộ hơn\" nghĩa là gì?",
+      "explanation": "\"Not being on television meant fewer fans, fewer sponsors and less money for the players.\" Not + V-ing làm chủ ngữ."
+    },
+    {
+      "id": "q_u2324_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "Which of these is NOT given as a reason why women's sports are more popular now?",
+        "vi": "Điều nào KHÔNG được nêu là lý do thể thao nữ giờ được yêu thích hơn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "More games are shown at times when people can watch.",
+            "vi": "Nhiều trận được phát vào giờ người ta xem được."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "More games are shown at times when people can watch.",
+          "text_translation": "Nhiều trận được phát vào giờ người ta xem được."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Star players have big followings on social media.",
+            "vi": "Ngôi sao có lượng người theo dõi lớn trên mạng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Star players have big followings on social media.",
+          "text_translation": "Ngôi sao có lượng người theo dõi lớn trên mạng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Women are now paid the same as men.",
+            "vi": "Nữ giờ được trả lương bằng nam."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Women are now paid the same as men.",
+          "text_translation": "Nữ giờ được trả lương bằng nam."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Many young fans don't think that women's sports are less exciting.",
+            "vi": "Nhiều người hâm mộ trẻ không nghĩ thể thao nữ kém hấp dẫn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Many young fans don't think that women's sports are less exciting.",
+          "text_translation": "Nhiều người hâm mộ trẻ không nghĩ thể thao nữ kém hấp dẫn."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Bài nói ngược lại: \"the gap between what men and women are paid remains enormous.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT given as a reason why women's sports are more popular now?",
+      "question_vn": "Điều nào KHÔNG được nêu là lý do thể thao nữ giờ được yêu thích hơn?",
+      "explanation": "Bài nói ngược lại: \"the gap between what men and women are paid remains enormous.\""
+    },
+    {
+      "id": "q_u2324_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What does the article say about attendance at women's professional games?",
+        "vi": "Bài nói gì về lượng khán giả tới sân xem các trận nữ chuyên nghiệp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has fallen.",
+            "vi": "Đã giảm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It has fallen.",
+          "text_translation": "Đã giảm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is the same as ten years ago.",
+            "vi": "Bằng mười năm trước."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is the same as ten years ago.",
+          "text_translation": "Bằng mười năm trước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is only high for basketball.",
+            "vi": "Chỉ cao ở môn bóng rổ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is only high for basketball.",
+          "text_translation": "Chỉ cao ở môn bóng rổ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It has reached record levels, and many games sell out.",
+            "vi": "Đạt mức kỷ lục, và nhiều trận cháy vé."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It has reached record levels, and many games sell out.",
+          "text_translation": "Đạt mức kỷ lục, và nhiều trận cháy vé."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Attendance at women's professional basketball and soccer games has reached record levels in recent years, and many games now sell out.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the article say about attendance at women's professional games?",
+      "question_vn": "Bài nói gì về lượng khán giả tới sân xem các trận nữ chuyên nghiệp?",
+      "explanation": "\"Attendance at women's professional basketball and soccer games has reached record levels in recent years, and many games now sell out.\""
+    },
+    {
+      "id": "q_u2324_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What does \"Some commentators are always claiming that the new interest is just a fashion\" show about the writer's attitude?",
+        "vi": "Câu \"Một số bình luận viên cứ luôn miệng nói rằng sự quan tâm mới này chỉ là trào lưu\" cho thấy thái độ gì của người viết?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The writer is a little annoyed by these comments and doesn't agree with them.",
+            "vi": "Người viết hơi bực với những lời này và không đồng tình."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The writer is a little annoyed by these comments and doesn't agree with them.",
+          "text_translation": "Người viết hơi bực với những lời này và không đồng tình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The writer agrees with them completely.",
+            "vi": "Người viết hoàn toàn đồng ý."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The writer agrees with them completely.",
+          "text_translation": "Người viết hoàn toàn đồng ý."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The writer thinks that fashion is important.",
+            "vi": "Người viết nghĩ trào lưu là quan trọng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The writer thinks that fashion is important.",
+          "text_translation": "Người viết nghĩ trào lưu là quan trọng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The writer has no opinion.",
+            "vi": "Người viết không có ý kiến."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The writer has no opinion.",
+          "text_translation": "Người viết không có ý kiến."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. Be always + V-ing diễn tả thói quen gây khó chịu. Câu sau phản bác: \"The numbers, so far, suggest otherwise\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Some commentators are always claiming that the new interest is just a fashion\" show about the writer's attitude?",
+      "question_vn": "Câu \"Một số bình luận viên cứ luôn miệng nói rằng sự quan tâm mới này chỉ là trào lưu\" cho thấy thái độ gì của người viết?",
+      "explanation": "Câu hỏi thái độ. Be always + V-ing diễn tả thói quen gây khó chịu. Câu sau phản bác: \"The numbers, so far, suggest otherwise\"."
+    },
+    {
+      "id": "q_u2324_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "In \"The numbers, so far, suggest otherwise\", what does \"otherwise\" mean?",
+        "vi": "Trong câu \"The numbers, so far, suggest otherwise\", \"otherwise\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in addition",
+            "vi": "thêm vào đó"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in addition",
+          "text_translation": "thêm vào đó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "something different, that the interest is not just a passing fashion",
+            "vi": "điều khác, rằng sự quan tâm không chỉ là trào lưu nhất thời"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "something different, that the interest is not just a passing fashion",
+          "text_translation": "điều khác, rằng sự quan tâm không chỉ là trào lưu nhất thời"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at the same time",
+            "vi": "cùng lúc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at the same time",
+          "text_translation": "cùng lúc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the same way",
+            "vi": "theo cùng cách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in the same way",
+          "text_translation": "theo cùng cách"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"suggest otherwise: each new record has been followed by another.\" Otherwise ở đây = điều ngược lại với ý vừa nêu."
+      },
+      "audio_data": null,
+      "question_jp": "In \"The numbers, so far, suggest otherwise\", what does \"otherwise\" mean?",
+      "question_vn": "Trong câu \"The numbers, so far, suggest otherwise\", \"otherwise\" nghĩa là gì?",
+      "explanation": "\"suggest otherwise: each new record has been followed by another.\" Otherwise ở đây = điều ngược lại với ý vừa nêu."
+    },
+    {
+      "id": "q_u2324_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What is the writer's main lesson at the end?",
+        "vi": "Bài học chính của người viết ở cuối bài là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People should only watch women's sports.",
+            "vi": "Người ta chỉ nên xem thể thao nữ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People should only watch women's sports.",
+          "text_translation": "Người ta chỉ nên xem thể thao nữ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Television is no longer important.",
+            "vi": "Truyền hình không còn quan trọng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Television is no longer important.",
+          "text_translation": "Truyền hình không còn quan trọng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Players should be paid less.",
+            "vi": "Vận động viên nên được trả ít hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Players should be paid less.",
+          "text_translation": "Vận động viên nên được trả ít hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People need a chance to see something before they can become fans of it.",
+            "vi": "Người ta cần có cơ hội nhìn thấy một thứ rồi mới thành người hâm mộ nó được."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "People need a chance to see something before they can become fans of it.",
+          "text_translation": "Người ta cần có cơ hội nhìn thấy một thứ rồi mới thành người hâm mộ nó được."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"People cannot become fans of something that they never see. Give them the chance, and they will decide for themselves.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's main lesson at the end?",
+      "question_vn": "Bài học chính của người viết ở cuối bài là gì?",
+      "explanation": "\"People cannot become fans of something that they never see. Give them the chance, and they will decide for themselves.\""
+    },
+    {
+      "id": "q_u2324_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "Use both texts. What do Mary Shelley's story and the history of women's sports have in common?",
+        "vi": "Dựa vào cả hai bài. Câu chuyện của Mary Shelley và lịch sử thể thao nữ có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them are about basketball.",
+            "vi": "Cả hai đều về bóng rổ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them are about basketball.",
+          "text_translation": "Cả hai đều về bóng rổ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "In both, women's work was not given full attention at first, but it proved its value.",
+            "vi": "Trong cả hai, công sức của phụ nữ ban đầu không được chú ý đúng mức, nhưng rồi đã chứng tỏ giá trị."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "In both, women's work was not given full attention at first, but it proved its value.",
+          "text_translation": "Trong cả hai, công sức của phụ nữ ban đầu không được chú ý đúng mức, nhưng rồi đã chứng tỏ giá trị."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them happened in Switzerland.",
+            "vi": "Cả hai đều xảy ra ở Thuỵ Sĩ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them happened in Switzerland.",
+          "text_translation": "Cả hai đều xảy ra ở Thuỵ Sĩ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them were on television in 1818.",
+            "vi": "Cả hai đều lên truyền hình năm 1818."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Both of them were on television in 1818.",
+          "text_translation": "Cả hai đều lên truyền hình năm 1818."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Thể thao nữ từng bị cho là \"not popular enough to show\". Bài 1: khi Frankenstein ra mắt, \"her name did not appear on it\", nhưng cuốn sách vẫn được đọc sau hai trăm năm."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Mary Shelley's story and the history of women's sports have in common?",
+      "question_vn": "Dựa vào cả hai bài. Câu chuyện của Mary Shelley và lịch sử thể thao nữ có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Thể thao nữ từng bị cho là \"not popular enough to show\". Bài 1: khi Frankenstein ra mắt, \"her name did not appear on it\", nhưng cuốn sách vẫn được đọc sau hai trăm năm."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2324_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 23) — Câu lạc bộ sách bàn về Frankenstein",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2324_01",
+      "question_ids": [
+        "q_u2324_001",
+        "q_u2324_002",
+        "q_u2324_003",
+        "q_u2324_004",
+        "q_u2324_005",
+        "q_u2324_006",
+        "q_u2324_007",
+        "q_u2324_008",
+        "q_u2324_009",
+        "q_u2324_010"
+      ]
+    },
+    {
+      "set_id": "set_u2324_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 24) — Vì sao thể thao nữ ngày càng nhiều người xem",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2324_02",
+      "question_ids": [
+        "q_u2324_011",
+        "q_u2324_012",
+        "q_u2324_013",
+        "q_u2324_014",
+        "q_u2324_015",
+        "q_u2324_016",
+        "q_u2324_017",
+        "q_u2324_018",
+        "q_u2324_019",
+        "q_u2324_020"
+      ]
+    }
+  ]
+}
