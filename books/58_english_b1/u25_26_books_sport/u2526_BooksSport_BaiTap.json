@@ -1,0 +1,2054 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 25–26 — Books and reading & Sport",
+      "vi": "Sách, đọc & Thể thao"
+    },
+    "title": "Units 25–26 — Books and reading & Sport",
+    "title_vn": "Sách, đọc & Thể thao",
+    "module_code": "58_u2526",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u25+u26",
+    "curriculum_sheets": [
+      "b1.097",
+      "b1.098",
+      "b1.099",
+      "b1.100",
+      "b1.101",
+      "b1.102",
+      "b1.103",
+      "b1.104"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Lydia Park",
+      "Nathan Brooks",
+      "Ethan Hayes",
+      "Tina Carter",
+      "Amy Brooks",
+      "Trevor Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 8, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "something + adj, get + V3, áp dụng quy tắc",
+    "description_vn": "Email câu lạc bộ sách của bà Harriet (tranh luận sách giấy và sách điện tử) và bài của phòng khám thể thao về chấn thương do tập quá sức, lấy ví dụ Trevor. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 25 + Unit 26 khoá B1 · phiếu `b1.097` – `b1.104` (sách đáng đọc, mong chờ, truyện và nhân vật, thói quen đọc; chấn thương, môn thể thao đồng đội, thi đấu, người hâm mộ)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một email câu lạc bộ sách và một bài tư vấn sức khoẻ thể thao; hiểu `something + tính từ`, cụm động từ ba phần (look forward to), `get + V3` (got picked, get hurt), so sánh ý kiến trái ngược với `while`, và áp dụng một quy tắc vào tình huống mới."
+    },
+    "extra_words": [
+      {
+        "word": "sail",
+        "i18n": {
+          "vi": "đi thuyền buồm"
+        }
+      },
+      {
+        "word": "biography",
+        "i18n": {
+          "vi": "tiểu sử"
+        }
+      },
+      {
+        "word": "margin",
+        "i18n": {
+          "vi": "lề giấy"
+        }
+      },
+      {
+        "word": "e-book",
+        "i18n": {
+          "vi": "sách điện tử"
+        }
+      },
+      {
+        "word": "fire station",
+        "i18n": {
+          "vi": "trạm cứu hoả"
+        }
+      },
+      {
+        "word": "overuse injury",
+        "i18n": {
+          "vi": "chấn thương do vận động quá mức"
+        }
+      },
+      {
+        "word": "clinic",
+        "i18n": {
+          "vi": "phòng khám"
+        }
+      },
+      {
+        "word": "bench",
+        "i18n": {
+          "vi": "ghế dự bị"
+        }
+      },
+      {
+        "word": "athlete",
+        "i18n": {
+          "vi": "vận động viên"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "show up",
+          "vi": "có mặt, tới"
+        }
+      },
+      {
+        "i18n": {
+          "en": "look through",
+          "vi": "xem lướt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "give it a chance",
+          "vi": "cho nó một cơ hội"
+        }
+      },
+      {
+        "i18n": {
+          "en": "look forward to + V-ing",
+          "vi": "mong chờ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "pull out of",
+          "vi": "rút khỏi (cuộc thi)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "play through pain",
+          "vi": "cố chơi dù đau"
+        }
+      },
+      {
+        "i18n": {
+          "en": "when in doubt, sit it out",
+          "vi": "còn nghi ngờ thì ngồi ngoài"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`A …, while B …` nối hai ý kiến trái ngược. Câu hỏi so sánh hai người hay lấy bằng chứng ở đây."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Phân biệt `read` (đọc) với `look through` (xem lướt) và `glance at` (liếc qua). Chúng cho biết người đó đọc kỹ tới đâu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`get + V3` thường mang nghĩa bị động: got picked = được chọn, got hurt = bị thương."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu áp dụng quy tắc: viết quy tắc ra (giờ tập ≤ số tuổi), thay số trong câu hỏi vào, rồi so."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2526_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 25) — Email câu lạc bộ sách của bà Harriet"
+      },
+      "narrator": "Harriet",
+      "title": "Subject: Book Club news, and something different for September",
+      "category": "email",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: Book Club news, and something different for September",
+            "vi": "Tiêu đề: Tin câu lạc bộ sách, và một điều mới mẻ cho tháng Chín"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear book lovers,",
+            "vi": "Các bạn yêu sách thân mến,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thank you to the fourteen of you who showed up on Tuesday, even in that heat! My little café has never been so full of opinions.",
+            "vi": "Cảm ơn mười bốn bạn đã tới hôm thứ Ba, dù trời nóng như thế! Quán nhỏ của tôi chưa bao giờ đầy ắp ý kiến tới vậy."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As you know, we read a biography of a young woman who sailed alone around the world, and I've rarely seen this group so divided.",
+            "vi": "Như mọi người biết, tháng này chúng ta đọc cuốn tiểu sử về một cô gái trẻ một mình đi thuyền vòng quanh thế giới, và hiếm khi tôi thấy nhóm mình chia rẽ đến thế."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Lydia found it informative and full of insight, while Nathan said that it was the most uninteresting book he had ever read, and that he had only looked through the last fifty pages.",
+            "vi": "Lydia thấy cuốn sách bổ ích và sâu sắc, còn Nathan bảo đó là cuốn chán nhất anh từng đọc, và anh chỉ lướt qua năm mươi trang cuối."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We also had a lively debate about paper books and e-books.",
+            "vi": "Chúng ta còn tranh luận sôi nổi về sách giấy và sách điện tử."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Lydia, who teaches English, prefers paper, because she likes to write notes in the margins and says that she remembers more that way.",
+            "vi": "Lydia, cô giáo dạy tiếng Anh, thích sách giấy vì cô thích ghi chú bên lề, và cô nói đọc như vậy nhớ được nhiều hơn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan, who reads on his phone during quiet nights at the fire station, said that e-books are lighter, cheaper and easier on the eyes, because you can make the letters bigger.",
+            "vi": "Ethan, người hay đọc trên điện thoại trong những đêm yên ắng ở trạm cứu hoả, nói sách điện tử nhẹ hơn, rẻ hơn và đỡ mỏi mắt hơn, vì có thể phóng chữ to lên."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My own eyesight isn't what it used to be, so I'm afraid I agree with Ethan!",
+            "vi": "Mắt tôi giờ không còn được như xưa, nên tôi e là mình đồng ý với Ethan!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the end, we decided that the best book is the one you actually finish.",
+            "vi": "Cuối cùng, cả nhóm thống nhất rằng cuốn sách hay nhất là cuốn bạn thật sự đọc xong."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For September, I'd like to try something different: a book of poetry.",
+            "vi": "Tháng Chín, tôi muốn thử một điều mới mẻ: một tập thơ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I know that some of you are not very enthusiastic about poems, but please give it a chance.",
+            "vi": "Tôi biết vài bạn không mặn mà lắm với thơ, nhưng hãy cho nó một cơ hội nhé."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Each of us will choose one poem and read it aloud. Nobody has to explain it, and you can choose something short and funny.",
+            "vi": "Mỗi người sẽ chọn một bài thơ và đọc to lên. Không ai phải giải thích bài thơ cả, và bạn có thể chọn bài nào đó ngắn và vui."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Also, our young readers' corner is growing: Tina and Amy have started their own club on Saturday mornings, where they retell fairy tales to the younger kids.",
+            "vi": "Thêm nữa, góc bạn đọc nhỏ của chúng ta đang lớn dần: Tina và Amy đã lập câu lạc bộ riêng vào sáng thứ Bảy, ở đó hai cô bé kể lại truyện cổ tích cho các em nhỏ hơn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last week, Amy told the story of a wizard in such a scary voice that two children hid under the table.",
+            "vi": "Tuần trước, Amy kể chuyện một ông phù thuỷ bằng giọng đáng sợ tới mức hai em nhỏ chui cả xuống gầm bàn."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm really looking forward to seeing you all on Tuesday, September 1, at 7 p.m. As always, the coffee is free and the cake is not!",
+            "vi": "Tôi rất mong được gặp mọi người lúc 7 giờ tối thứ Ba, ngày 1 tháng Chín. Như mọi lần, cà phê miễn phí còn bánh thì không nhé!"
+          }
+        },
+        {
+          "n": 17,
+          "para": 8,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Warmly, Harriet",
+            "vi": "Thân mến, Harriet"
+          }
+        }
+      ],
+      "content_ja": "Subject: Book Club news, and something different for September\n\nDear book lovers,\n\nThank you to the fourteen of you who showed up on Tuesday, even in that heat! My little café has never been so full of opinions. As you know, we read a biography of a young woman who sailed alone around the world, and I've rarely seen this group so divided. Lydia found it informative and full of insight, while Nathan said that it was the most uninteresting book he had ever read, and that he had only looked through the last fifty pages.\n\nWe also had a lively debate about paper books and e-books. Lydia, who teaches English, prefers paper, because she likes to write notes in the margins and says that she remembers more that way. Ethan, who reads on his phone during quiet nights at the fire station, said that e-books are lighter, cheaper and easier on the eyes, because you can make the letters bigger. My own eyesight isn't what it used to be, so I'm afraid I agree with Ethan! In the end, we decided that the best book is the one you actually finish.\n\nFor September, I'd like to try something different: a book of poetry. I know that some of you are not very enthusiastic about poems, but please give it a chance. Each of us will choose one poem and read it aloud. Nobody has to explain it, and you can choose something short and funny.\n\nAlso, our young readers' corner is growing: Tina and Amy have started their own club on Saturday mornings, where they retell fairy tales to the younger kids. Last week, Amy told the story of a wizard in such a scary voice that two children hid under the table.\n\nI'm really looking forward to seeing you all on Tuesday, September 1, at 7 p.m. As always, the coffee is free and the cake is not!\n\nWarmly, Harriet",
+      "translation_vn": "(1) Tiêu đề: Tin câu lạc bộ sách, và một điều mới mẻ cho tháng Chín\n(2) Các bạn yêu sách thân mến,\n(3) Cảm ơn mười bốn bạn đã tới hôm thứ Ba, dù trời nóng như thế! Quán nhỏ của tôi chưa bao giờ đầy ắp ý kiến tới vậy.\n(4) Như mọi người biết, tháng này chúng ta đọc cuốn tiểu sử về một cô gái trẻ một mình đi thuyền vòng quanh thế giới, và hiếm khi tôi thấy nhóm mình chia rẽ đến thế.\n(5) Lydia thấy cuốn sách bổ ích và sâu sắc, còn Nathan bảo đó là cuốn chán nhất anh từng đọc, và anh chỉ lướt qua năm mươi trang cuối.\n(6) Chúng ta còn tranh luận sôi nổi về sách giấy và sách điện tử.\n(7) Lydia, cô giáo dạy tiếng Anh, thích sách giấy vì cô thích ghi chú bên lề, và cô nói đọc như vậy nhớ được nhiều hơn.\n(8) Ethan, người hay đọc trên điện thoại trong những đêm yên ắng ở trạm cứu hoả, nói sách điện tử nhẹ hơn, rẻ hơn và đỡ mỏi mắt hơn, vì có thể phóng chữ to lên.\n(9) Mắt tôi giờ không còn được như xưa, nên tôi e là mình đồng ý với Ethan!\n(10) Cuối cùng, cả nhóm thống nhất rằng cuốn sách hay nhất là cuốn bạn thật sự đọc xong.\n(11) Tháng Chín, tôi muốn thử một điều mới mẻ: một tập thơ.\n(12) Tôi biết vài bạn không mặn mà lắm với thơ, nhưng hãy cho nó một cơ hội nhé.\n(13) Mỗi người sẽ chọn một bài thơ và đọc to lên. Không ai phải giải thích bài thơ cả, và bạn có thể chọn bài nào đó ngắn và vui.\n(14) Thêm nữa, góc bạn đọc nhỏ của chúng ta đang lớn dần: Tina và Amy đã lập câu lạc bộ riêng vào sáng thứ Bảy, ở đó hai cô bé kể lại truyện cổ tích cho các em nhỏ hơn.\n(15) Tuần trước, Amy kể chuyện một ông phù thuỷ bằng giọng đáng sợ tới mức hai em nhỏ chui cả xuống gầm bàn.\n(16) Tôi rất mong được gặp mọi người lúc 7 giờ tối thứ Ba, ngày 1 tháng Chín. Như mọi lần, cà phê miễn phí còn bánh thì không nhé!\n(17) Thân mến, Harriet",
+      "word_count": 323,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.097",
+        "b1.098",
+        "b1.099",
+        "b1.100"
+      ]
+    },
+    {
+      "id": "passage_u2526_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 26) — Chấn thương do tập quá sức ở vận động viên trẻ"
+      },
+      "narrator": "announcer",
+      "title": "Too Much of a Good Thing: Overuse Injuries in Young Athletes",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Too Much of a Good Thing: Overuse Injuries in Young Athletes",
+            "vi": "Tốt quá hoá dở: chấn thương do tập quá sức ở vận động viên trẻ"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Sunset Bay Hospital Sports Clinic",
+            "vi": "Người viết: Phòng khám Y học thể thao, Bệnh viện Sunset Bay"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In March, Trevor Carter got picked for his high school soccer team.",
+            "vi": "Hồi tháng Ba, Trevor Carter được chọn vào đội bóng của trường trung học."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By July, he was playing for two teams, training six days a week and running on the weekends to stay fit.",
+            "vi": "Tới tháng Bảy, cậu đá cho hai đội, tập sáu ngày một tuần và cuối tuần còn chạy bộ để giữ dáng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then, in the middle of a summer tournament, he felt a sharp pain in his heel and had to pull out of the final.",
+            "vi": "Rồi giữa một giải đấu mùa hè, cậu thấy đau nhói ở gót chân và phải rút khỏi trận chung kết."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He hadn't fallen or twisted anything, so at first he thought that it was a minor problem.",
+            "vi": "Cậu không hề ngã hay trẹo chỗ nào, nên lúc đầu cậu nghĩ đó chỉ là chuyện nhỏ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But when he was still limping a week later, his mother brought him to our clinic.",
+            "vi": "Nhưng một tuần sau cậu vẫn đi khập khiễng, nên mẹ đưa cậu tới phòng khám của chúng tôi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor had an overuse injury, which happens when the same part of the body is used again and again without enough time to recover.",
+            "vi": "Trevor bị chấn thương do vận động quá mức, loại chấn thương xảy ra khi một bộ phận cơ thể bị dùng đi dùng lại mà không có đủ thời gian hồi phục."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "These injuries are becoming more and more common among young athletes, especially those who play only one sport all year.",
+            "vi": "Loại chấn thương này ngày càng phổ biến ở vận động viên trẻ, nhất là những bạn chỉ chơi một môn suốt cả năm."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Because teenagers' bones are still growing, the areas near the ends of the bones are softer than in adults, and they can get hurt more easily.",
+            "vi": "Vì xương của tuổi teen vẫn đang phát triển, phần gần hai đầu xương mềm hơn ở người lớn và dễ bị tổn thương hơn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The good news is that most overuse injuries can be prevented.",
+            "vi": "Tin vui là phần lớn chấn thương do tập quá sức có thể phòng tránh được."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Doctors who work with young athletes recommend at least one or two days off from organized sports every week, and a few months off from the same sport during the year.",
+            "vi": "Các bác sĩ làm việc với vận động viên trẻ khuyên mỗi tuần nên nghỉ ít nhất một hai ngày không tập luyện có tổ chức, và mỗi năm nên nghỉ vài tháng khỏi cùng một môn."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One simple rule that some experts use: young athletes should not train more hours per week than their age in years.",
+            "vi": "Có một quy tắc đơn giản mà một số chuyên gia dùng: vận động viên trẻ không nên tập nhiều giờ mỗi tuần hơn số tuổi của mình."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A fifteen-year-old, for example, should do no more than fifteen hours a week.",
+            "vi": "Ví dụ, một bạn mười lăm tuổi không nên tập quá mười lăm giờ mỗi tuần."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Playing different sports in different seasons also helps, because it uses different muscles.",
+            "vi": "Chơi các môn khác nhau theo từng mùa cũng có ích, vì như vậy sẽ dùng tới những nhóm cơ khác nhau."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Pain is not something to play through.",
+            "vi": "Đau thì đừng cố chơi tiếp."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you feel pain that gets worse during exercise, or that is still there the next morning, stop and tell your coach and your parents.",
+            "vi": "Nếu bạn thấy đau tăng lên trong lúc tập, hoặc sáng hôm sau vẫn còn đau, hãy dừng lại và báo cho huấn luyện viên và bố mẹ."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And after any hit to the head, the rule is simple: when in doubt, sit it out.",
+            "vi": "Còn sau bất kỳ cú va đập nào vào đầu, quy tắc rất đơn giản: nếu còn nghi ngờ, hãy ngồi ngoài."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor rested for three weeks and did special exercises for his leg muscles.",
+            "vi": "Trevor nghỉ ba tuần và tập những bài riêng cho cơ chân."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He is now back on the field, but with a new schedule: one team, five days a week, and Sundays for doing nothing at all.",
+            "vi": "Giờ cậu đã trở lại sân, nhưng với lịch mới: một đội, năm ngày một tuần, và Chủ nhật thì chẳng làm gì cả."
+          }
+        },
+        {
+          "n": 21,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"It was hard to watch the final from the bench,\" he says. \"But I'd rather miss one game than a whole season.\"",
+            "vi": "\"Ngồi ghế dự bị xem trận chung kết khó chịu lắm,\" cậu nói. \"Nhưng thà lỡ một trận còn hơn lỡ cả mùa giải.\""
+          }
+        }
+      ],
+      "content_ja": "Too Much of a Good Thing: Overuse Injuries in Young Athletes\n\nWritten by: Sunset Bay Hospital Sports Clinic\n\nIn March, Trevor Carter got picked for his high school soccer team. By July, he was playing for two teams, training six days a week and running on the weekends to stay fit. Then, in the middle of a summer tournament, he felt a sharp pain in his heel and had to pull out of the final. He hadn't fallen or twisted anything, so at first he thought that it was a minor problem. But when he was still limping a week later, his mother brought him to our clinic.\n\nTrevor had an overuse injury, which happens when the same part of the body is used again and again without enough time to recover. These injuries are becoming more and more common among young athletes, especially those who play only one sport all year. Because teenagers' bones are still growing, the areas near the ends of the bones are softer than in adults, and they can get hurt more easily.\n\nThe good news is that most overuse injuries can be prevented. Doctors who work with young athletes recommend at least one or two days off from organized sports every week, and a few months off from the same sport during the year. One simple rule that some experts use: young athletes should not train more hours per week than their age in years. A fifteen-year-old, for example, should do no more than fifteen hours a week. Playing different sports in different seasons also helps, because it uses different muscles.\n\nPain is not something to play through. If you feel pain that gets worse during exercise, or that is still there the next morning, stop and tell your coach and your parents. And after any hit to the head, the rule is simple: when in doubt, sit it out.\n\nTrevor rested for three weeks and did special exercises for his leg muscles. He is now back on the field, but with a new schedule: one team, five days a week, and Sundays for doing nothing at all. \"It was hard to watch the final from the bench,\" he says. \"But I'd rather miss one game than a whole season.\"",
+      "translation_vn": "(1) Tốt quá hoá dở: chấn thương do tập quá sức ở vận động viên trẻ\n(2) Người viết: Phòng khám Y học thể thao, Bệnh viện Sunset Bay\n(3) Hồi tháng Ba, Trevor Carter được chọn vào đội bóng của trường trung học.\n(4) Tới tháng Bảy, cậu đá cho hai đội, tập sáu ngày một tuần và cuối tuần còn chạy bộ để giữ dáng.\n(5) Rồi giữa một giải đấu mùa hè, cậu thấy đau nhói ở gót chân và phải rút khỏi trận chung kết.\n(6) Cậu không hề ngã hay trẹo chỗ nào, nên lúc đầu cậu nghĩ đó chỉ là chuyện nhỏ.\n(7) Nhưng một tuần sau cậu vẫn đi khập khiễng, nên mẹ đưa cậu tới phòng khám của chúng tôi.\n(8) Trevor bị chấn thương do vận động quá mức, loại chấn thương xảy ra khi một bộ phận cơ thể bị dùng đi dùng lại mà không có đủ thời gian hồi phục.\n(9) Loại chấn thương này ngày càng phổ biến ở vận động viên trẻ, nhất là những bạn chỉ chơi một môn suốt cả năm.\n(10) Vì xương của tuổi teen vẫn đang phát triển, phần gần hai đầu xương mềm hơn ở người lớn và dễ bị tổn thương hơn.\n(11) Tin vui là phần lớn chấn thương do tập quá sức có thể phòng tránh được.\n(12) Các bác sĩ làm việc với vận động viên trẻ khuyên mỗi tuần nên nghỉ ít nhất một hai ngày không tập luyện có tổ chức, và mỗi năm nên nghỉ vài tháng khỏi cùng một môn.\n(13) Có một quy tắc đơn giản mà một số chuyên gia dùng: vận động viên trẻ không nên tập nhiều giờ mỗi tuần hơn số tuổi của mình.\n(14) Ví dụ, một bạn mười lăm tuổi không nên tập quá mười lăm giờ mỗi tuần.\n(15) Chơi các môn khác nhau theo từng mùa cũng có ích, vì như vậy sẽ dùng tới những nhóm cơ khác nhau.\n(16) Đau thì đừng cố chơi tiếp.\n(17) Nếu bạn thấy đau tăng lên trong lúc tập, hoặc sáng hôm sau vẫn còn đau, hãy dừng lại và báo cho huấn luyện viên và bố mẹ.\n(18) Còn sau bất kỳ cú va đập nào vào đầu, quy tắc rất đơn giản: nếu còn nghi ngờ, hãy ngồi ngoài.\n(19) Trevor nghỉ ba tuần và tập những bài riêng cho cơ chân.\n(20) Giờ cậu đã trở lại sân, nhưng với lịch mới: một đội, năm ngày một tuần, và Chủ nhật thì chẳng làm gì cả.\n(21) \"Ngồi ghế dự bị xem trận chung kết khó chịu lắm,\" cậu nói. \"Nhưng thà lỡ một trận còn hơn lỡ cả mùa giải.\"",
+      "word_count": 378,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.101",
+        "b1.102",
+        "b1.103",
+        "b1.104"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2526_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What is the main purpose of Harriet's email?",
+        "vi": "Mục đích chính của email bà Harriet là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sell cakes at her café",
+            "vi": "để bán bánh ở quán"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to sell cakes at her café",
+          "text_translation": "để bán bánh ở quán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain how to write a biography",
+            "vi": "để giải thích cách viết tiểu sử"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain how to write a biography",
+          "text_translation": "để giải thích cách viết tiểu sử"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain about Nathan",
+            "vi": "để phàn nàn về Nathan"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain about Nathan",
+          "text_translation": "để phàn nàn về Nathan"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell members about the last meeting and the plan for September",
+            "vi": "để kể cho thành viên về buổi họp vừa rồi và kế hoạch tháng Chín"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to tell members about the last meeting and the plan for September",
+          "text_translation": "để kể cho thành viên về buổi họp vừa rồi và kế hoạch tháng Chín"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Thank you to the fourteen of you who showed up on Tuesday\". Email kể lại buổi họp, rồi nói \"For September, I'd like to try something different\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Harriet's email?",
+      "question_vn": "Mục đích chính của email bà Harriet là gì?",
+      "explanation": "\"Thank you to the fourteen of you who showed up on Tuesday\". Email kể lại buổi họp, rồi nói \"For September, I'd like to try something different\"."
+    },
+    {
+      "id": "q_u2526_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "How did Lydia and Nathan feel about the biography?",
+        "vi": "Lydia và Nathan thấy cuốn tiểu sử thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them loved it.",
+            "vi": "Cả hai đều mê."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them loved it.",
+          "text_translation": "Cả hai đều mê."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Lydia found it useful and interesting, but Nathan found it boring.",
+            "vi": "Lydia thấy nó bổ ích và thú vị, còn Nathan thấy nó chán."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Lydia found it useful and interesting, but Nathan found it boring.",
+          "text_translation": "Lydia thấy nó bổ ích và thú vị, còn Nathan thấy nó chán."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them found it boring.",
+            "vi": "Cả hai đều thấy chán."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them found it boring.",
+          "text_translation": "Cả hai đều thấy chán."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nathan liked it more than Lydia.",
+            "vi": "Nathan thích nó hơn Lydia."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nathan liked it more than Lydia.",
+          "text_translation": "Nathan thích nó hơn Lydia."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Lydia found it informative and full of insight, while Nathan said that it was the most uninteresting book he had ever read\". While nối hai ý kiến trái ngược."
+      },
+      "audio_data": null,
+      "question_jp": "How did Lydia and Nathan feel about the biography?",
+      "question_vn": "Lydia và Nathan thấy cuốn tiểu sử thế nào?",
+      "explanation": "\"Lydia found it informative and full of insight, while Nathan said that it was the most uninteresting book he had ever read\". While nối hai ý kiến trái ngược."
+    },
+    {
+      "id": "q_u2526_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What does \"he had only looked through the last fifty pages\" suggest?",
+        "vi": "Câu \"anh chỉ lướt qua năm mươi trang cuối\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Nathan didn't read the end of the book carefully.",
+            "vi": "Nathan không đọc kỹ phần cuối cuốn sách."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Nathan didn't read the end of the book carefully.",
+          "text_translation": "Nathan không đọc kỹ phần cuối cuốn sách."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nathan read the book twice.",
+            "vi": "Nathan đọc cuốn sách hai lần."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nathan read the book twice.",
+          "text_translation": "Nathan đọc cuốn sách hai lần."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The book had only fifty pages.",
+            "vi": "Cuốn sách chỉ có năm mươi trang."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The book had only fifty pages.",
+          "text_translation": "Cuốn sách chỉ có năm mươi trang."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nathan wrote notes on every page.",
+            "vi": "Nathan ghi chú trên mọi trang."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nathan wrote notes on every page.",
+          "text_translation": "Nathan ghi chú trên mọi trang."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"he had only looked through the last fifty pages.\" Look through = xem lướt, nên anh không đọc kỹ đoạn cuối."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"he had only looked through the last fifty pages\" suggest?",
+      "question_vn": "Câu \"anh chỉ lướt qua năm mươi trang cuối\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"he had only looked through the last fifty pages.\" Look through = xem lướt, nên anh không đọc kỹ đoạn cuối."
+    },
+    {
+      "id": "q_u2526_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "Why does Lydia prefer paper books?",
+        "vi": "Vì sao Lydia thích sách giấy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are cheaper than e-books.",
+            "vi": "Vì chúng rẻ hơn sách điện tử."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are cheaper than e-books.",
+          "text_translation": "Vì chúng rẻ hơn sách điện tử."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She can make the letters bigger.",
+            "vi": "Vì cô có thể phóng chữ to."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She can make the letters bigger.",
+          "text_translation": "Vì cô có thể phóng chữ to."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She likes to write notes in the margins and remembers more.",
+            "vi": "Vì cô thích ghi chú bên lề và nhớ được nhiều hơn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She likes to write notes in the margins and remembers more.",
+          "text_translation": "Vì cô thích ghi chú bên lề và nhớ được nhiều hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her phone is too small.",
+            "vi": "Vì điện thoại của cô quá nhỏ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her phone is too small.",
+          "text_translation": "Vì điện thoại của cô quá nhỏ."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"she likes to write notes in the margins and says that she remembers more that way.\" Phóng chữ to và rẻ hơn là lý lẽ của Ethan."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Lydia prefer paper books?",
+      "question_vn": "Vì sao Lydia thích sách giấy?",
+      "explanation": "\"she likes to write notes in the margins and says that she remembers more that way.\" Phóng chữ to và rẻ hơn là lý lẽ của Ethan."
+    },
+    {
+      "id": "q_u2526_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "Why does Harriet agree with Ethan?",
+        "vi": "Vì sao bà Harriet đồng ý với Ethan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She reads at the fire station.",
+            "vi": "Vì bà đọc sách ở trạm cứu hoả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She reads at the fire station.",
+          "text_translation": "Vì bà đọc sách ở trạm cứu hoả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She doesn't like Lydia.",
+            "vi": "Vì bà không thích Lydia."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She doesn't like Lydia.",
+          "text_translation": "Vì bà không thích Lydia."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Paper books are too expensive for her.",
+            "vi": "Vì sách giấy quá đắt với bà."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Paper books are too expensive for her.",
+          "text_translation": "Vì sách giấy quá đắt với bà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her eyesight is not as good as before, and e-books can show bigger letters.",
+            "vi": "Vì mắt bà không còn tốt như trước, mà sách điện tử phóng chữ to được."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Her eyesight is not as good as before, and e-books can show bigger letters.",
+          "text_translation": "Vì mắt bà không còn tốt như trước, mà sách điện tử phóng chữ to được."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"My own eyesight isn't what it used to be, so I'm afraid I agree with Ethan!\" Ethan nói sách điện tử đỡ mỏi mắt \"because you can make the letters bigger\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet agree with Ethan?",
+      "question_vn": "Vì sao bà Harriet đồng ý với Ethan?",
+      "explanation": "Câu suy luận. \"My own eyesight isn't what it used to be, so I'm afraid I agree with Ethan!\" Ethan nói sách điện tử đỡ mỏi mắt \"because you can make the letters bigger\"."
+    },
+    {
+      "id": "q_u2526_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What does \"the best book is the one you actually finish\" mean?",
+        "vi": "Câu \"cuốn sách hay nhất là cuốn bạn thật sự đọc xong\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Reading the book matters more than whether it is paper or electronic.",
+            "vi": "Đọc được sách mới quan trọng, chứ không phải sách giấy hay điện tử."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Reading the book matters more than whether it is paper or electronic.",
+          "text_translation": "Đọc được sách mới quan trọng, chứ không phải sách giấy hay điện tử."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Short books are always better.",
+            "vi": "Sách ngắn lúc nào cũng hay hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Short books are always better.",
+          "text_translation": "Sách ngắn lúc nào cũng hay hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nobody finished the biography.",
+            "vi": "Không ai đọc xong cuốn tiểu sử."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nobody finished the biography.",
+          "text_translation": "Không ai đọc xong cuốn tiểu sử."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "E-books are better than paper books.",
+            "vi": "Sách điện tử hay hơn sách giấy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "E-books are better than paper books.",
+          "text_translation": "Sách điện tử hay hơn sách giấy."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"In the end, we decided that the best book is the one you actually finish.\" Câu này khép lại cuộc tranh luận sách giấy và sách điện tử: hình thức không quan trọng bằng việc đọc."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"the best book is the one you actually finish\" mean?",
+      "question_vn": "Câu \"cuốn sách hay nhất là cuốn bạn thật sự đọc xong\" nghĩa là gì?",
+      "explanation": "Câu suy luận. \"In the end, we decided that the best book is the one you actually finish.\" Câu này khép lại cuộc tranh luận sách giấy và sách điện tử: hình thức không quan trọng bằng việc đọc."
+    },
+    {
+      "id": "q_u2526_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What will members do at the September meeting?",
+        "vi": "Ở buổi họp tháng Chín, các thành viên sẽ làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "write their own poems",
+            "vi": "tự sáng tác thơ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "write their own poems",
+          "text_translation": "tự sáng tác thơ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "each choose a poem and read it aloud",
+            "vi": "mỗi người chọn một bài thơ và đọc to"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "each choose a poem and read it aloud",
+          "text_translation": "mỗi người chọn một bài thơ và đọc to"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "explain a long poem",
+            "vi": "giải thích một bài thơ dài"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "explain a long poem",
+          "text_translation": "giải thích một bài thơ dài"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "read a new biography",
+            "vi": "đọc một cuốn tiểu sử mới"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "read a new biography",
+          "text_translation": "đọc một cuốn tiểu sử mới"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Each of us will choose one poem and read it aloud. Nobody has to explain it\"."
+      },
+      "audio_data": null,
+      "question_jp": "What will members do at the September meeting?",
+      "question_vn": "Ở buổi họp tháng Chín, các thành viên sẽ làm gì?",
+      "explanation": "\"Each of us will choose one poem and read it aloud. Nobody has to explain it\"."
+    },
+    {
+      "id": "q_u2526_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "Why does Harriet say \"you can choose something short and funny\"?",
+        "vi": "Vì sao bà Harriet nói \"bạn có thể chọn bài nào đó ngắn và vui\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She doesn't like long poems.",
+            "vi": "Vì bà không thích thơ dài."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She doesn't like long poems.",
+          "text_translation": "Vì bà không thích thơ dài."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The meeting will be very short.",
+            "vi": "Vì buổi họp sẽ rất ngắn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The meeting will be very short.",
+          "text_translation": "Vì buổi họp sẽ rất ngắn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to make members who are not enthusiastic about poetry feel more comfortable",
+            "vi": "để những thành viên không mặn mà với thơ thấy thoải mái hơn"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to make members who are not enthusiastic about poetry feel more comfortable",
+          "text_translation": "để những thành viên không mặn mà với thơ thấy thoải mái hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only funny poems are allowed.",
+            "vi": "Vì chỉ được chọn thơ vui."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Only funny poems are allowed.",
+          "text_translation": "Vì chỉ được chọn thơ vui."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"I know that some of you are not very enthusiastic about poems, but please give it a chance.\" Lời gợi ý chọn bài ngắn, vui là để những người ngại thơ đỡ e dè."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet say \"you can choose something short and funny\"?",
+      "question_vn": "Vì sao bà Harriet nói \"bạn có thể chọn bài nào đó ngắn và vui\"?",
+      "explanation": "Câu suy luận về mục đích. \"I know that some of you are not very enthusiastic about poems, but please give it a chance.\" Lời gợi ý chọn bài ngắn, vui là để những người ngại thơ đỡ e dè."
+    },
+    {
+      "id": "q_u2526_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What do Tina and Amy do on Saturday mornings?",
+        "vi": "Sáng thứ Bảy Tina và Amy làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They retell fairy tales to the younger kids.",
+            "vi": "Kể lại truyện cổ tích cho các em nhỏ hơn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They retell fairy tales to the younger kids.",
+          "text_translation": "Kể lại truyện cổ tích cho các em nhỏ hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They work at the café.",
+            "vi": "Làm ở quán cà phê."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They work at the café.",
+          "text_translation": "Làm ở quán cà phê."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They read poems aloud to the adults.",
+            "vi": "Đọc thơ cho người lớn nghe."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They read poems aloud to the adults.",
+          "text_translation": "Đọc thơ cho người lớn nghe."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They write a biography.",
+            "vi": "Viết một cuốn tiểu sử."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They write a biography.",
+          "text_translation": "Viết một cuốn tiểu sử."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tina and Amy have started their own club on Saturday mornings, where they retell fairy tales to the younger kids.\""
+      },
+      "audio_data": null,
+      "question_jp": "What do Tina and Amy do on Saturday mornings?",
+      "question_vn": "Sáng thứ Bảy Tina và Amy làm gì?",
+      "explanation": "\"Tina and Amy have started their own club on Saturday mornings, where they retell fairy tales to the younger kids.\""
+    },
+    {
+      "id": "q_u2526_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What can we guess about the way Amy told the story of the wizard?",
+        "vi": "Có thể đoán gì về cách Amy kể chuyện ông phù thuỷ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was too quiet to hear.",
+            "vi": "Quá nhỏ, không nghe được."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It was too quiet to hear.",
+          "text_translation": "Quá nhỏ, không nghe được."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was very dramatic and exciting.",
+            "vi": "Rất kịch tính và cuốn hút."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It was very dramatic and exciting.",
+          "text_translation": "Rất kịch tính và cuốn hút."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was very short.",
+            "vi": "Rất ngắn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was very short.",
+          "text_translation": "Rất ngắn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was boring for the children.",
+            "vi": "Làm bọn trẻ chán."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was boring for the children.",
+          "text_translation": "Làm bọn trẻ chán."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Amy told the story of a wizard in such a scary voice that two children hid under the table.\" Such … that chỉ kết quả: giọng kể đáng sợ tới mức các em trốn xuống gầm bàn."
+      },
+      "audio_data": null,
+      "question_jp": "What can we guess about the way Amy told the story of the wizard?",
+      "question_vn": "Có thể đoán gì về cách Amy kể chuyện ông phù thuỷ?",
+      "explanation": "Câu suy luận. \"Amy told the story of a wizard in such a scary voice that two children hid under the table.\" Such … that chỉ kết quả: giọng kể đáng sợ tới mức các em trốn xuống gầm bàn."
+    },
+    {
+      "id": "q_u2526_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to win a soccer tournament",
+            "vi": "cách vô địch một giải bóng đá"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to win a soccer tournament",
+          "text_translation": "cách vô địch một giải bóng đá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why Trevor left his school team",
+            "vi": "vì sao Trevor rời đội trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "why Trevor left his school team",
+          "text_translation": "vì sao Trevor rời đội trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "overuse injuries in young athletes and how to prevent them",
+            "vi": "chấn thương do tập quá sức ở vận động viên trẻ và cách phòng tránh"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "overuse injuries in young athletes and how to prevent them",
+          "text_translation": "chấn thương do tập quá sức ở vận động viên trẻ và cách phòng tránh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the best exercises for leg muscles",
+            "vi": "những bài tập tốt nhất cho cơ chân"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the best exercises for leg muscles",
+          "text_translation": "những bài tập tốt nhất cho cơ chân"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"The good news is that most overuse injuries can be prevented.\" Câu chuyện của Trevor là ví dụ mở bài cho chủ đề này."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"The good news is that most overuse injuries can be prevented.\" Câu chuyện của Trevor là ví dụ mở bài cho chủ đề này."
+    },
+    {
+      "id": "q_u2526_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "Why did Trevor have to pull out of the final?",
+        "vi": "Vì sao Trevor phải rút khỏi trận chung kết?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He felt a sharp pain in his heel.",
+            "vi": "Vì cậu bị đau nhói ở gót chân."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He felt a sharp pain in his heel.",
+          "text_translation": "Vì cậu bị đau nhói ở gót chân."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He hit his head.",
+            "vi": "Vì cậu bị va đầu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He hit his head.",
+          "text_translation": "Vì cậu bị va đầu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "His team lost the game before the final.",
+            "vi": "Vì đội cậu thua trận trước chung kết."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "His team lost the game before the final.",
+          "text_translation": "Vì đội cậu thua trận trước chung kết."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He was too tired after running.",
+            "vi": "Vì cậu quá mệt sau khi chạy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He was too tired after running.",
+          "text_translation": "Vì cậu quá mệt sau khi chạy."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"in the middle of a summer tournament, he felt a sharp pain in his heel and had to pull out of the final.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Trevor have to pull out of the final?",
+      "question_vn": "Vì sao Trevor phải rút khỏi trận chung kết?",
+      "explanation": "\"in the middle of a summer tournament, he felt a sharp pain in his heel and had to pull out of the final.\""
+    },
+    {
+      "id": "q_u2526_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "Why did Trevor think at first that it was a minor problem?",
+        "vi": "Vì sao lúc đầu Trevor nghĩ đó chỉ là chuyện nhỏ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The pain went away the next day.",
+            "vi": "Vì hôm sau hết đau."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The pain went away the next day.",
+          "text_translation": "Vì hôm sau hết đau."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "His coach told him so.",
+            "vi": "Vì huấn luyện viên bảo vậy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "His coach told him so.",
+          "text_translation": "Vì huấn luyện viên bảo vậy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He had had the same pain before.",
+            "vi": "Vì cậu từng bị đau như thế."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He had had the same pain before.",
+          "text_translation": "Vì cậu từng bị đau như thế."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He hadn't fallen or twisted anything.",
+            "vi": "Vì cậu không hề ngã hay trẹo chỗ nào."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He hadn't fallen or twisted anything.",
+          "text_translation": "Vì cậu không hề ngã hay trẹo chỗ nào."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"He hadn't fallen or twisted anything, so at first he thought that it was a minor problem.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Trevor think at first that it was a minor problem?",
+      "question_vn": "Vì sao lúc đầu Trevor nghĩ đó chỉ là chuyện nhỏ?",
+      "explanation": "\"He hadn't fallen or twisted anything, so at first he thought that it was a minor problem.\""
+    },
+    {
+      "id": "q_u2526_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What is an overuse injury?",
+        "vi": "Chấn thương do vận động quá mức là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "an injury that happens when you fall",
+            "vi": "chấn thương do ngã"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "an injury that happens when you fall",
+          "text_translation": "chấn thương do ngã"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "an injury from using the same part of the body again and again without enough rest",
+            "vi": "chấn thương do dùng một bộ phận cơ thể lặp đi lặp lại mà không nghỉ đủ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "an injury from using the same part of the body again and again without enough rest",
+          "text_translation": "chấn thương do dùng một bộ phận cơ thể lặp đi lặp lại mà không nghỉ đủ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "an injury that only adults get",
+            "vi": "chấn thương chỉ người lớn mới bị"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "an injury that only adults get",
+          "text_translation": "chấn thương chỉ người lớn mới bị"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "an injury from a hit to the head",
+            "vi": "chấn thương do va đầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "an injury from a hit to the head",
+          "text_translation": "chấn thương do va đầu"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"an overuse injury, which happens when the same part of the body is used again and again without enough time to recover.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is an overuse injury?",
+      "question_vn": "Chấn thương do vận động quá mức là gì?",
+      "explanation": "\"an overuse injury, which happens when the same part of the body is used again and again without enough time to recover.\""
+    },
+    {
+      "id": "q_u2526_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "Why can teenagers get hurt more easily than adults?",
+        "vi": "Vì sao tuổi teen dễ bị chấn thương hơn người lớn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They don't drink enough water.",
+            "vi": "Vì không uống đủ nước."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They don't drink enough water.",
+          "text_translation": "Vì không uống đủ nước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They play only on weekends.",
+            "vi": "Vì chỉ chơi vào cuối tuần."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They play only on weekends.",
+          "text_translation": "Vì chỉ chơi vào cuối tuần."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Their bones are still growing, and the areas near the ends are softer.",
+            "vi": "Vì xương vẫn đang phát triển, và phần gần hai đầu xương mềm hơn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Their bones are still growing, and the areas near the ends are softer.",
+          "text_translation": "Vì xương vẫn đang phát triển, và phần gần hai đầu xương mềm hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They don't listen to their coaches.",
+            "vi": "Vì không nghe lời huấn luyện viên."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They don't listen to their coaches.",
+          "text_translation": "Vì không nghe lời huấn luyện viên."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Because teenagers' bones are still growing, the areas near the ends of the bones are softer than in adults, and they can get hurt more easily.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why can teenagers get hurt more easily than adults?",
+      "question_vn": "Vì sao tuổi teen dễ bị chấn thương hơn người lớn?",
+      "explanation": "\"Because teenagers' bones are still growing, the areas near the ends of the bones are softer than in adults, and they can get hurt more easily.\""
+    },
+    {
+      "id": "q_u2526_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "In \"Trevor Carter got picked for his high school soccer team\", what does \"got picked\" mean?",
+        "vi": "Trong câu \"Trevor Carter got picked for his high school soccer team\", \"got picked\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "got hurt",
+            "vi": "bị thương"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "got hurt",
+          "text_translation": "bị thương"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "left the team",
+            "vi": "rời đội"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "left the team",
+          "text_translation": "rời đội"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "bought new boots",
+            "vi": "mua giày mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "bought new boots",
+          "text_translation": "mua giày mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "was chosen",
+            "vi": "được chọn"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "was chosen",
+          "text_translation": "được chọn"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"In March, Trevor Carter got picked for his high school soccer team.\" Get + V3 mang nghĩa bị động: được (ai đó) chọn."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Trevor Carter got picked for his high school soccer team\", what does \"got picked\" mean?",
+      "question_vn": "Trong câu \"Trevor Carter got picked for his high school soccer team\", \"got picked\" nghĩa là gì?",
+      "explanation": "\"In March, Trevor Carter got picked for his high school soccer team.\" Get + V3 mang nghĩa bị động: được (ai đó) chọn."
+    },
+    {
+      "id": "q_u2526_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "A thirteen-year-old swimmer trains sixteen hours a week. What would the experts' rule say?",
+        "vi": "Một vận động viên bơi mười ba tuổi tập mười sáu giờ mỗi tuần. Theo quy tắc của các chuyên gia thì sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is training more than the rule recommends.",
+            "vi": "Bạn ấy đang tập nhiều hơn mức quy tắc khuyên."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She is training more than the rule recommends.",
+          "text_translation": "Bạn ấy đang tập nhiều hơn mức quy tắc khuyên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She should train twenty hours instead.",
+            "vi": "Bạn ấy nên tập hai mươi giờ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She should train twenty hours instead.",
+          "text_translation": "Bạn ấy nên tập hai mươi giờ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is training exactly the right amount.",
+            "vi": "Bạn ấy tập vừa đúng mức."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is training exactly the right amount.",
+          "text_translation": "Bạn ấy tập vừa đúng mức."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The rule is only for soccer players.",
+            "vi": "Quy tắc chỉ dành cho cầu thủ bóng đá."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The rule is only for soccer players.",
+          "text_translation": "Quy tắc chỉ dành cho cầu thủ bóng đá."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu áp dụng. \"young athletes should not train more hours per week than their age in years.\" Mười ba tuổi thì tối đa mười ba giờ, mà bạn này tập mười sáu giờ."
+      },
+      "audio_data": null,
+      "question_jp": "A thirteen-year-old swimmer trains sixteen hours a week. What would the experts' rule say?",
+      "question_vn": "Một vận động viên bơi mười ba tuổi tập mười sáu giờ mỗi tuần. Theo quy tắc của các chuyên gia thì sao?",
+      "explanation": "Câu áp dụng. \"young athletes should not train more hours per week than their age in years.\" Mười ba tuổi thì tối đa mười ba giờ, mà bạn này tập mười sáu giờ."
+    },
+    {
+      "id": "q_u2526_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "Which of these is NOT advice given in the article?",
+        "vi": "Lời khuyên nào KHÔNG có trong bài?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Take one or two days off from organized sports every week.",
+            "vi": "Mỗi tuần nghỉ một hai ngày không tập có tổ chức."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Take one or two days off from organized sports every week.",
+          "text_translation": "Mỗi tuần nghỉ một hai ngày không tập có tổ chức."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Play different sports in different seasons.",
+            "vi": "Chơi các môn khác nhau theo từng mùa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Play different sports in different seasons.",
+          "text_translation": "Chơi các môn khác nhau theo từng mùa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Keep playing when the pain gets worse, because it will go away.",
+            "vi": "Cứ chơi tiếp khi cơn đau tăng lên, vì nó sẽ tự hết."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Keep playing when the pain gets worse, because it will go away.",
+          "text_translation": "Cứ chơi tiếp khi cơn đau tăng lên, vì nó sẽ tự hết."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tell your coach and parents about pain that is still there the next morning.",
+            "vi": "Báo huấn luyện viên và bố mẹ nếu sáng hôm sau vẫn còn đau."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tell your coach and parents about pain that is still there the next morning.",
+          "text_translation": "Báo huấn luyện viên và bố mẹ nếu sáng hôm sau vẫn còn đau."
+        }
+      ],
+      "evidence_segments": [
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"Pain is not something to play through.\" Bài khuyên điều ngược lại: thấy đau tăng thì \"stop and tell your coach and your parents.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT advice given in the article?",
+      "question_vn": "Lời khuyên nào KHÔNG có trong bài?",
+      "explanation": "\"Pain is not something to play through.\" Bài khuyên điều ngược lại: thấy đau tăng thì \"stop and tell your coach and your parents.\""
+    },
+    {
+      "id": "q_u2526_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What does Trevor mean by \"I'd rather miss one game than a whole season\"?",
+        "vi": "Trevor muốn nói gì qua câu \"thà lỡ một trận còn hơn lỡ cả mùa giải\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He doesn't like playing in finals.",
+            "vi": "Cậu không thích đá chung kết."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He doesn't like playing in finals.",
+          "text_translation": "Cậu không thích đá chung kết."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Resting now is better than getting a worse injury later.",
+            "vi": "Nghỉ bây giờ còn hơn sau này bị chấn thương nặng hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Resting now is better than getting a worse injury later.",
+          "text_translation": "Nghỉ bây giờ còn hơn sau này bị chấn thương nặng hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He wants to change sports.",
+            "vi": "Cậu muốn đổi môn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He wants to change sports.",
+          "text_translation": "Cậu muốn đổi môn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "His team doesn't need him.",
+            "vi": "Đội không cần cậu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "His team doesn't need him.",
+          "text_translation": "Đội không cần cậu."
+        }
+      ],
+      "evidence_segments": [
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"But I'd rather miss one game than a whole season.\" Nếu cố đá tiếp, chấn thương có thể nặng hơn và cậu phải nghỉ lâu hơn nhiều."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor mean by \"I'd rather miss one game than a whole season\"?",
+      "question_vn": "Trevor muốn nói gì qua câu \"thà lỡ một trận còn hơn lỡ cả mùa giải\"?",
+      "explanation": "Câu suy luận. \"But I'd rather miss one game than a whole season.\" Nếu cố đá tiếp, chấn thương có thể nặng hơn và cậu phải nghỉ lâu hơn nhiều."
+    },
+    {
+      "id": "q_u2526_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "Use both texts. What is true about the Carter children this summer?",
+        "vi": "Dựa vào cả hai bài. Điều nào đúng về các con nhà Carter mùa hè này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor and Tina both play on the school soccer team.",
+            "vi": "Trevor và Tina đều ở đội bóng của trường."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Trevor and Tina both play on the school soccer team.",
+          "text_translation": "Trevor và Tina đều ở đội bóng của trường."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina has stopped reading because of Trevor's injury.",
+            "vi": "Tina thôi đọc sách vì Trevor bị chấn thương."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tina has stopped reading because of Trevor's injury.",
+          "text_translation": "Tina thôi đọc sách vì Trevor bị chấn thương."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor goes to Harriet's book club.",
+            "vi": "Trevor tham gia câu lạc bộ sách của bà Harriet."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor goes to Harriet's book club.",
+          "text_translation": "Trevor tham gia câu lạc bộ sách của bà Harriet."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor has been resting an injury, and Tina has started a reading club with Amy.",
+            "vi": "Trevor đã phải nghỉ để chữa chấn thương, còn Tina lập một câu lạc bộ đọc với Amy."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Trevor has been resting an injury, and Tina has started a reading club with Amy.",
+          "text_translation": "Trevor đã phải nghỉ để chữa chấn thương, còn Tina lập một câu lạc bộ đọc với Amy."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: \"Trevor rested for three weeks and did special exercises for his leg muscles.\" Bài 1: \"Tina and Amy have started their own club on Saturday mornings\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What is true about the Carter children this summer?",
+      "question_vn": "Dựa vào cả hai bài. Điều nào đúng về các con nhà Carter mùa hè này?",
+      "explanation": "Câu nối hai bài. Bài 2: \"Trevor rested for three weeks and did special exercises for his leg muscles.\" Bài 1: \"Tina and Amy have started their own club on Saturday mornings\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2526_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 25) — Email câu lạc bộ sách của bà Harriet",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2526_01",
+      "question_ids": [
+        "q_u2526_001",
+        "q_u2526_002",
+        "q_u2526_003",
+        "q_u2526_004",
+        "q_u2526_005",
+        "q_u2526_006",
+        "q_u2526_007",
+        "q_u2526_008",
+        "q_u2526_009",
+        "q_u2526_010"
+      ]
+    },
+    {
+      "set_id": "set_u2526_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 26) — Chấn thương do tập quá sức ở vận động viên trẻ",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2526_02",
+      "question_ids": [
+        "q_u2526_011",
+        "q_u2526_012",
+        "q_u2526_013",
+        "q_u2526_014",
+        "q_u2526_015",
+        "q_u2526_016",
+        "q_u2526_017",
+        "q_u2526_018",
+        "q_u2526_019",
+        "q_u2526_020"
+      ]
+    }
+  ]
+}
