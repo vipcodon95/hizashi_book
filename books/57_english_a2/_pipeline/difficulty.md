@@ -24,3 +24,4 @@ Mốc nối từ A1: u16 sách 56 = 154 / 154 từ, TB 12,4 từ/câu.
 | u18 | 256 / 253 | 14.5 / 15.4 | thiệp mời tiệc 70 tuổi + Tina thuật lại câu trả lời (câu tường thuật) + hướng dẫn trả lời lời mời; 4 câu suy luận (1 nối 2 bài) |
 | u20 | 265 / 265 | 16.0 / 16.7 | thư chia tay của Tracy + mẹo học/sống xa nhà (NSF, Harvard SITN); 4 câu suy luận (1 nối 2 bài). Main: Christmas → winter holidays, football → soccer |
 | u19 | 263 / 265 | 13.1 / 13.8 | báo khu phố "Harriet's 10 năm" (bị động) + bản tin cháy chảo dầu (USFA, Red Cross); 4 câu suy luận. Phiếu a2.73–74 nhiều từ vùng cấm → độ phủ thấp, đúng luật |
+| mock1 | 181 / 200 / 197 / 198 | 14.2 / 13.9 / 13.4 / 15.9 | đề thi thử 4 phần × 5 câu theo format VSTEP A2; 8 câu suy luận; đáp án 5/5/5/5 (NPS, NIOSH kiểm chứng) |
