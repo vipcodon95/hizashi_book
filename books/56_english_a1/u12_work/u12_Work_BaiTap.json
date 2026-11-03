@@ -1,0 +1,1307 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 12 — Work",
+      "vi": "Công việc"
+    },
+    "title": "Unit 12 — Work",
+    "title_vn": "Công việc",
+    "module_code": "56_u12",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u12",
+    "curriculum_sheets": [
+      "a1.45",
+      "a1.46",
+      "a1.47",
+      "a1.48"
+    ],
+    "characters": [
+      "Nathan Brooks",
+      "Helena Brooks",
+      "Amy Brooks",
+      "Harriet Brooks",
+      "Chloe Bennett",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 5, năm 2"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Nghề nghiệp, Why …? / because, and / but / or / so, đại từ bất định (no one, someone, anything, everything)",
+    "description_vn": "Tờ ghi lời nhắn điện thoại ở văn phòng Nathan và bảng tin tuyển dụng ở quán Harriet's. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 12 khoá A1 · phiếu `a1.45` – `a1.48` (nghề nghiệp, hỏi về công việc và lý do, một ngày ở văn phòng, nghe gọi điện và ghi lời nhắn)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một tờ ghi lời nhắn điện thoại và một bảng tin tuyển dụng; hiểu tên nghề (owner, team leader, coach, worker), câu hỏi Why …? và câu trả lời với because, từ nối and / but / or / so, đại từ bất định (no one, someone, anything, everything); tìm ai cần làm gì, liên hệ ai, vào giờ nào."
+    },
+    "extra_words": [],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "call him back",
+          "vi": "gọi lại cho ông ấy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "team leader",
+          "vi": "trưởng nhóm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on your way home",
+          "vi": "trên đường về nhà"
+        }
+      },
+      {
+        "i18n": {
+          "en": "No problem!",
+          "vi": "Không sao!"
+        }
+      },
+      {
+        "i18n": {
+          "en": "join our team",
+          "vi": "vào đội / nhóm của chúng tôi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "ask for (someone)",
+          "vi": "xin gặp (ai đó)"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Tờ ghi lời nhắn: mỗi lời nhắn có dòng đầu ghi **giờ gọi · tên · chức vụ**, bên dưới là **muốn gì** và **cần làm gì**. Đọc câu hỏi trước, rồi chỉ tìm đúng lời nhắn của người được hỏi."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **Why …?** hỏi lý do: tìm `because` hoặc `so`. Nhớ chiều của hai chữ này: `A because B` thì B là lý do; `A, so B` thì A là lý do, B là kết quả."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **Who …?** về liên hệ: bảng tuyển dụng có nhiều tin, mỗi tin một người liên hệ. Tìm đúng tiêu đề việc trước, rồi mới tìm tên ở dưới (`Call …`, `Ask for …`, `talk to …`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận về giờ giấc: ghi ra giờ hạn hoặc giờ làm của từng việc, rồi so sánh. Đáp án là việc sớm nhất, hoặc việc không trùng lịch với người trong câu hỏi."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u12_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Lời nhắn điện thoại trên bàn của Nathan"
+      },
+      "title": "Phone Messages for Nathan",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Phone Messages for Nathan",
+            "vi": "Lời nhắn điện thoại cho Nathan"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan, you are in the meeting room all morning, so I take your calls.",
+            "vi": "Nathan ơi, cả buổi sáng anh ngồi trong phòng họp, nên tôi nghe điện thoại giúp anh."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "9:15 a.m. · Daniel Ross",
+            "vi": "9 giờ 15 sáng · Daniel Ross"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mr. Ross is the owner of three bike shops.",
+            "vi": "Ông Ross là chủ ba cửa hàng xe đạp."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He wants a new computer program for his business.",
+            "vi": "Ông ấy muốn có một chương trình máy tính mới cho việc kinh doanh."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why? Because people want to buy his bikes on their phones.",
+            "vi": "Vì sao à? Vì khách muốn mua xe đạp của ông ấy ngay trên điện thoại."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please call him back before twelve at 619-555-0191.",
+            "vi": "Anh gọi lại cho ông ấy trước mười hai giờ, số 619-555-0191 nhé."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "10:40 a.m. · Laura Moore, team leader",
+            "vi": "10 giờ 40 sáng · Laura Moore, trưởng nhóm"
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She needs the design file for the program, but no one on her team can open it.",
+            "vi": "Chị ấy cần tập tin thiết kế của chương trình đó, nhưng trong nhóm chị ấy không ai mở được."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Can you email it to her again?",
+            "vi": "Anh gửi email lại cho chị ấy được không?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She wants to talk about it before the two o'clock meeting.",
+            "vi": "Chị ấy muốn bàn về nó trước cuộc họp lúc hai giờ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "11:50 a.m. · Helena",
+            "vi": "11 giờ 50 sáng · Helena"
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your wife says Amy needs an apron for her art class tomorrow.",
+            "vi": "Vợ anh nhắn là mai Amy cần một cái tạp dề cho giờ vẽ."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please buy a small one on your way home.",
+            "vi": "Trên đường về anh mua giúp một cái nhỏ nhé."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Don't call her back, because she is at work until six.",
+            "vi": "Anh đừng gọi lại, vì chị ấy làm tới sáu giờ."
+          }
+        },
+        {
+          "n": 16,
+          "para": 9,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thanks, Olivia",
+            "vi": "Cảm ơn anh, Olivia"
+          }
+        }
+      ],
+      "content_ja": "Phone Messages for Nathan\n\nNathan, you are in the meeting room all morning, so I take your calls.\n\n9:15 a.m. · Daniel Ross\n\nMr. Ross is the owner of three bike shops. He wants a new computer program for his business. Why? Because people want to buy his bikes on their phones. Please call him back before twelve at 619-555-0191.\n\n10:40 a.m. · Laura Moore, team leader\n\nShe needs the design file for the program, but no one on her team can open it. Can you email it to her again? She wants to talk about it before the two o'clock meeting.\n\n11:50 a.m. · Helena\n\nYour wife says Amy needs an apron for her art class tomorrow. Please buy a small one on your way home. Don't call her back, because she is at work until six.\n\nThanks, Olivia",
+      "translation_vn": "(1) Lời nhắn điện thoại cho Nathan\n(2) Nathan ơi, cả buổi sáng anh ngồi trong phòng họp, nên tôi nghe điện thoại giúp anh.\n(3) 9 giờ 15 sáng · Daniel Ross\n(4) Ông Ross là chủ ba cửa hàng xe đạp.\n(5) Ông ấy muốn có một chương trình máy tính mới cho việc kinh doanh.\n(6) Vì sao à? Vì khách muốn mua xe đạp của ông ấy ngay trên điện thoại.\n(7) Anh gọi lại cho ông ấy trước mười hai giờ, số 619-555-0191 nhé.\n(8) 10 giờ 40 sáng · Laura Moore, trưởng nhóm\n(9) Chị ấy cần tập tin thiết kế của chương trình đó, nhưng trong nhóm chị ấy không ai mở được.\n(10) Anh gửi email lại cho chị ấy được không?\n(11) Chị ấy muốn bàn về nó trước cuộc họp lúc hai giờ.\n(12) 11 giờ 50 sáng · Helena\n(13) Vợ anh nhắn là mai Amy cần một cái tạp dề cho giờ vẽ.\n(14) Trên đường về anh mua giúp một cái nhỏ nhé.\n(15) Anh đừng gọi lại, vì chị ấy làm tới sáu giờ.\n(16) Cảm ơn anh, Olivia",
+      "word_count": 136,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.45",
+        "a1.46",
+        "a1.47",
+        "a1.48"
+      ]
+    },
+    {
+      "id": "passage_u12_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bảng tuyển dụng dán ở quán Harriet's"
+      },
+      "title": "Jobs on Maple Street",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Jobs on Maple Street",
+            "vi": "Việc làm quanh Maple Street"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do you want a job near home?",
+            "vi": "Bạn muốn tìm việc gần nhà?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's: Sunday helper",
+            "vi": "Quán Harriet's: cần người phụ việc ngày Chủ nhật"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Chloe works here on Tuesday, Thursday and Saturday, but no one helps me on Sunday!",
+            "vi": "Chloe làm ở đây vào thứ Ba, thứ Năm và thứ Bảy, nhưng Chủ nhật thì chẳng có ai phụ tôi cả!"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I need someone from 8 a.m. to 1 p.m.",
+            "vi": "Tôi cần một người làm từ 8 giờ sáng đến 1 giờ chiều."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You need to be friendly and fast.",
+            "vi": "Bạn cần vui vẻ và nhanh nhẹn."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "No skills? No problem! I can teach you everything.",
+            "vi": "Chưa có kỹ năng? Không sao! Tôi sẽ dạy bạn mọi thứ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You get an apron and a free lunch.",
+            "vi": "Bạn được phát tạp dề và được ăn trưa miễn phí."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please talk to me or to Chloe.",
+            "vi": "Hãy nói chuyện với tôi hoặc với Chloe nhé."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street School: swimming coach",
+            "vi": "Trường Maple Street: cần huấn luyện viên bơi"
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We need a coach for kids, six to eight years old.",
+            "vi": "Trường cần một huấn luyện viên cho các bé từ sáu đến tám tuổi."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The class is every Friday from 3:30 to 5 p.m.",
+            "vi": "Lớp học vào mỗi thứ Sáu, từ 3 giờ 30 đến 5 giờ chiều."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Call Mr. Brian Hughes at 619-555-0175.",
+            "vi": "Hãy gọi cho thầy Brian Hughes theo số 619-555-0175."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Workers for Pine Street Builders",
+            "vi": "Đội xây dựng Pine Street: cần công nhân"
+          }
+        },
+        {
+          "n": 16,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Join our team and build houses!",
+            "vi": "Hãy vào đội của chúng tôi và cùng xây nhà!"
+          }
+        },
+        {
+          "n": 17,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We work Monday to Friday, 7 a.m. to 3 p.m.",
+            "vi": "Chúng tôi làm từ thứ Hai đến thứ Sáu, 7 giờ sáng đến 3 giờ chiều."
+          }
+        },
+        {
+          "n": 18,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please bring your own tools.",
+            "vi": "Bạn nhớ mang theo dụng cụ của riêng mình."
+          }
+        },
+        {
+          "n": 19,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ask for Mr. Joe Turner at 22 Pine Street.",
+            "vi": "Hãy hỏi gặp ông Joe Turner ở số 22 Pine Street."
+          }
+        }
+      ],
+      "content_ja": "Jobs on Maple Street\n\nDo you want a job near home?\n\nHarriet's: Sunday helper\n\nChloe works here on Tuesday, Thursday and Saturday, but no one helps me on Sunday! I need someone from 8 a.m. to 1 p.m. You need to be friendly and fast. No skills? No problem! I can teach you everything. You get an apron and a free lunch. Please talk to me or to Chloe.\n\nHarriet\n\nMaple Street School: swimming coach\n\nWe need a coach for kids, six to eight years old. The class is every Friday from 3:30 to 5 p.m. Call Mr. Brian Hughes at 619-555-0175.\n\nWorkers for Pine Street Builders\n\nJoin our team and build houses! We work Monday to Friday, 7 a.m. to 3 p.m. Please bring your own tools. Ask for Mr. Joe Turner at 22 Pine Street.",
+      "translation_vn": "(1) Việc làm quanh Maple Street\n(2) Bạn muốn tìm việc gần nhà?\n(3) Quán Harriet's: cần người phụ việc ngày Chủ nhật\n(4) Chloe làm ở đây vào thứ Ba, thứ Năm và thứ Bảy, nhưng Chủ nhật thì chẳng có ai phụ tôi cả!\n(5) Tôi cần một người làm từ 8 giờ sáng đến 1 giờ chiều.\n(6) Bạn cần vui vẻ và nhanh nhẹn.\n(7) Chưa có kỹ năng? Không sao! Tôi sẽ dạy bạn mọi thứ.\n(8) Bạn được phát tạp dề và được ăn trưa miễn phí.\n(9) Hãy nói chuyện với tôi hoặc với Chloe nhé.\n(10) Harriet\n(11) Trường Maple Street: cần huấn luyện viên bơi\n(12) Trường cần một huấn luyện viên cho các bé từ sáu đến tám tuổi.\n(13) Lớp học vào mỗi thứ Sáu, từ 3 giờ 30 đến 5 giờ chiều.\n(14) Hãy gọi cho thầy Brian Hughes theo số 619-555-0175.\n(15) Đội xây dựng Pine Street: cần công nhân\n(16) Hãy vào đội của chúng tôi và cùng xây nhà!\n(17) Chúng tôi làm từ thứ Hai đến thứ Sáu, 7 giờ sáng đến 3 giờ chiều.\n(18) Bạn nhớ mang theo dụng cụ của riêng mình.\n(19) Hãy hỏi gặp ông Joe Turner ở số 22 Pine Street.",
+      "word_count": 134,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.45",
+        "a1.46",
+        "a1.47",
+        "a1.48"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u12_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "Why does Mr. Ross want a new computer program?",
+        "vi": "Vì sao ông Ross muốn có một chương trình máy tính mới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "No one on his team can open the design file.",
+            "vi": "Không ai trong nhóm ông ấy mở được tập tin thiết kế."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "No one on his team can open the design file.",
+          "text_translation": "Không ai trong nhóm ông ấy mở được tập tin thiết kế."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He wants to talk about it before the two o'clock meeting.",
+            "vi": "Ông ấy muốn bàn về nó trước cuộc họp lúc hai giờ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He wants to talk about it before the two o'clock meeting.",
+          "text_translation": "Ông ấy muốn bàn về nó trước cuộc họp lúc hai giờ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People want to buy his bikes on their phones.",
+            "vi": "Khách muốn mua xe đạp của ông ấy trên điện thoại."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "People want to buy his bikes on their phones.",
+          "text_translation": "Khách muốn mua xe đạp của ông ấy trên điện thoại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is the owner of three bike shops.",
+            "vi": "Ông ấy là chủ ba cửa hàng xe đạp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He is the owner of three bike shops.",
+          "text_translation": "Ông ấy là chủ ba cửa hàng xe đạp."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"He wants a new computer program for his business.\" \"Why? Because people want to buy his bikes on their phones.\" Tập tin không mở được và cuộc họp lúc hai giờ là chuyện của Laura Moore. Việc ông Ross có ba cửa hàng là đúng, nhưng đó là thông tin về ông ấy, không phải lý do ông ấy cần chương trình mới."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why …? hỏi lý do. Tìm chữ because (vì) ở gần chỗ bài nhắc tới việc đó. Coi chừng phương án đúng với bài nhưng không trả lời đúng câu hỏi."
+      },
+      "question_jp": "Why does Mr. Ross want a new computer program?",
+      "question_vn": "Vì sao ông Ross muốn có một chương trình máy tính mới?",
+      "explanation": "\"He wants a new computer program for his business.\" \"Why? Because people want to buy his bikes on their phones.\" Tập tin không mở được và cuộc họp lúc hai giờ là chuyện của Laura Moore. Việc ông Ross có ba cửa hàng là đúng, nhưng đó là thông tin về ông ấy, không phải lý do ông ấy cần chương trình mới.",
+      "tip": "Câu hỏi Why …? hỏi lý do. Tìm chữ because (vì) ở gần chỗ bài nhắc tới việc đó. Coi chừng phương án đúng với bài nhưng không trả lời đúng câu hỏi."
+    },
+    {
+      "id": "q_u12_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "What is the problem with the design file?",
+        "vi": "Tập tin thiết kế có vấn đề gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "No one on Laura's team can open it.",
+            "vi": "Không ai trong nhóm của Laura mở được."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "No one on Laura's team can open it.",
+          "text_translation": "Không ai trong nhóm của Laura mở được."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Mr. Ross can't open it on his phone.",
+            "vi": "Ông Ross không mở được trên điện thoại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Mr. Ross can't open it on his phone.",
+          "text_translation": "Ông Ross không mở được trên điện thoại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is for Amy's art class.",
+            "vi": "Đó là tập tin cho giờ vẽ của Amy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is for Amy's art class.",
+          "text_translation": "Đó là tập tin cho giờ vẽ của Amy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The team leader needs it after the meeting.",
+            "vi": "Trưởng nhóm cần nó sau cuộc họp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The team leader needs it after the meeting.",
+          "text_translation": "Trưởng nhóm cần nó sau cuộc họp."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"She needs the design file for the program, but no one on her team can open it.\" Vì vậy Olivia nhờ Nathan: \"Can you email it to her again?\" Ông Ross chỉ nói khách muốn mua xe trên điện thoại. Giờ vẽ của Amy cần tạp dề, không cần tập tin. Laura cần nó trước cuộc họp (\"before the two o'clock meeting\"), không phải sau."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "no one = không ai cả (bằng nobody). Câu có no one là câu phủ định dù không có chữ not."
+      },
+      "question_jp": "What is the problem with the design file?",
+      "question_vn": "Tập tin thiết kế có vấn đề gì?",
+      "explanation": "\"She needs the design file for the program, but no one on her team can open it.\" Vì vậy Olivia nhờ Nathan: \"Can you email it to her again?\" Ông Ross chỉ nói khách muốn mua xe trên điện thoại. Giờ vẽ của Amy cần tạp dề, không cần tập tin. Laura cần nó trước cuộc họp (\"before the two o'clock meeting\"), không phải sau.",
+      "tip": "no one = không ai cả (bằng nobody). Câu có no one là câu phủ định dù không có chữ not."
+    },
+    {
+      "id": "q_u12_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "Who is Laura Moore?",
+        "vi": "Laura Moore là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Nathan's wife",
+            "vi": "vợ của Nathan"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Nathan's wife",
+          "text_translation": "vợ của Nathan"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the owner of three bike shops",
+            "vi": "chủ ba cửa hàng xe đạp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the owner of three bike shops",
+          "text_translation": "chủ ba cửa hàng xe đạp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Amy's art teacher",
+            "vi": "cô dạy vẽ của Amy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Amy's art teacher",
+          "text_translation": "cô dạy vẽ của Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a team leader",
+            "vi": "một trưởng nhóm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a team leader",
+          "text_translation": "một trưởng nhóm"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Dòng tiêu đề của lời nhắn thứ hai ghi \"Laura Moore, team leader\". Vợ Nathan là Helena (\"Your wife says…\"). Chủ ba cửa hàng xe đạp là ông Daniel Ross. Bài không nói ai dạy vẽ cho Amy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tờ ghi lời nhắn thường có dòng đầu: giờ gọi · tên người gọi · nghề hoặc chức vụ. Câu hỏi Who is …? hay lấy đáp án từ dòng này."
+      },
+      "question_jp": "Who is Laura Moore?",
+      "question_vn": "Laura Moore là ai?",
+      "explanation": "Dòng tiêu đề của lời nhắn thứ hai ghi \"Laura Moore, team leader\". Vợ Nathan là Helena (\"Your wife says…\"). Chủ ba cửa hàng xe đạp là ông Daniel Ross. Bài không nói ai dạy vẽ cho Amy.",
+      "tip": "Tờ ghi lời nhắn thường có dòng đầu: giờ gọi · tên người gọi · nghề hoặc chức vụ. Câu hỏi Who is …? hay lấy đáp án từ dòng này."
+    },
+    {
+      "id": "q_u12_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "Nathan reads these messages at 11:55. Which call does he need to make first?",
+        "vi": "11 giờ 55 Nathan đọc các lời nhắn này. Anh ấy cần gọi điện cho ai trước tiên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He needs to call Helena.",
+            "vi": "Anh ấy cần gọi cho Helena."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He needs to call Helena.",
+          "text_translation": "Anh ấy cần gọi cho Helena."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He needs to call Mr. Ross.",
+            "vi": "Anh ấy cần gọi cho ông Ross."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He needs to call Mr. Ross.",
+          "text_translation": "Anh ấy cần gọi cho ông Ross."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He needs to call Laura.",
+            "vi": "Anh ấy cần gọi cho Laura."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He needs to call Laura.",
+          "text_translation": "Anh ấy cần gọi cho Laura."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He needs to call Olivia.",
+            "vi": "Anh ấy cần gọi cho Olivia."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He needs to call Olivia.",
+          "text_translation": "Anh ấy cần gọi cho Olivia."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        10,
+        11,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Ông Ross cần được gọi lại sớm nhất: \"Please call him back before twelve.\" Với Laura, Nathan cần gửi email lại (\"Can you email it to her again?\") và còn tới trước hai giờ. Helena dặn rõ \"Don't call her back\". Olivia là người ghi lời nhắn, không cần gọi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi first (trước tiên) mà bài có nhiều mốc giờ: ghi từng việc với giờ hạn của nó (before twelve, before two), rồi chọn giờ sớm nhất. Gạch bỏ việc bài dặn Don't."
+      },
+      "question_jp": "Nathan reads these messages at 11:55. Which call does he need to make first?",
+      "question_vn": "11 giờ 55 Nathan đọc các lời nhắn này. Anh ấy cần gọi điện cho ai trước tiên?",
+      "explanation": "Câu suy luận. Ông Ross cần được gọi lại sớm nhất: \"Please call him back before twelve.\" Với Laura, Nathan cần gửi email lại (\"Can you email it to her again?\") và còn tới trước hai giờ. Helena dặn rõ \"Don't call her back\". Olivia là người ghi lời nhắn, không cần gọi.",
+      "tip": "Câu hỏi first (trước tiên) mà bài có nhiều mốc giờ: ghi từng việc với giờ hạn của nó (before twelve, before two), rồi chọn giờ sớm nhất. Gạch bỏ việc bài dặn Don't."
+    },
+    {
+      "id": "q_u12_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "What does Nathan need to buy on his way home?",
+        "vi": "Trên đường về, Nathan cần mua gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "an apron for Helena",
+            "vi": "một cái tạp dề cho Helena"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "an apron for Helena",
+          "text_translation": "một cái tạp dề cho Helena"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a computer for Laura's team",
+            "vi": "một cái máy tính cho nhóm của Laura"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a computer for Laura's team",
+          "text_translation": "một cái máy tính cho nhóm của Laura"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a small apron for Amy",
+            "vi": "một cái tạp dề nhỏ cho Amy"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a small apron for Amy",
+          "text_translation": "một cái tạp dề nhỏ cho Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a bike from Mr. Ross",
+            "vi": "một chiếc xe đạp của ông Ross"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a bike from Mr. Ross",
+          "text_translation": "một chiếc xe đạp của ông Ross"
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Your wife says Amy needs an apron for her art class tomorrow.\" \"Please buy a small one on your way home.\" Chữ one ở đây thay cho apron, và tạp dề là cho Amy, không phải cho Helena. Nhóm của Laura cần mở được tập tin, không cần máy tính mới. Xe đạp là hàng của cửa hàng ông Ross, không phải thứ Nathan cần mua."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "one thay cho danh từ vừa nói ở câu trước: a small one = a small apron. Đọc ngược lên một câu để biết one là gì."
+      },
+      "question_jp": "What does Nathan need to buy on his way home?",
+      "question_vn": "Trên đường về, Nathan cần mua gì?",
+      "explanation": "\"Your wife says Amy needs an apron for her art class tomorrow.\" \"Please buy a small one on your way home.\" Chữ one ở đây thay cho apron, và tạp dề là cho Amy, không phải cho Helena. Nhóm của Laura cần mở được tập tin, không cần máy tính mới. Xe đạp là hàng của cửa hàng ông Ross, không phải thứ Nathan cần mua.",
+      "tip": "one thay cho danh từ vừa nói ở câu trước: a small one = a small apron. Đọc ngược lên một câu để biết one là gì."
+    },
+    {
+      "id": "q_u12_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "Why does Harriet need a helper?",
+        "vi": "Vì sao bà Harriet cần người phụ việc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Chloe can't work on Saturday.",
+            "vi": "Chloe không làm được vào thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Chloe can't work on Saturday.",
+          "text_translation": "Chloe không làm được vào thứ Bảy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet's is closed on Sunday.",
+            "vi": "Chủ nhật quán đóng cửa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet's is closed on Sunday.",
+          "text_translation": "Chủ nhật quán đóng cửa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet can't teach new people.",
+            "vi": "Bà Harriet không dạy được người mới."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet can't teach new people.",
+          "text_translation": "Bà Harriet không dạy được người mới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "No one helps her on Sunday.",
+            "vi": "Chủ nhật không có ai phụ bà."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "No one helps her on Sunday.",
+          "text_translation": "Chủ nhật không có ai phụ bà."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Chloe works here on Tuesday, Thursday and Saturday, but no one helps me on Sunday!\" Chloe có làm vào thứ Bảy. Quán mở cửa Chủ nhật, vì bà Harriet cần người \"from 8 a.m. to 1 p.m.\". Bà Harriet còn nói \"I can teach you everything\", nên bà dạy được người mới."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trong câu có but, ý quan trọng thường nằm ở vế sau but. Ở đây vế sau but chính là lý do."
+      },
+      "question_jp": "Why does Harriet need a helper?",
+      "question_vn": "Vì sao bà Harriet cần người phụ việc?",
+      "explanation": "\"Chloe works here on Tuesday, Thursday and Saturday, but no one helps me on Sunday!\" Chloe có làm vào thứ Bảy. Quán mở cửa Chủ nhật, vì bà Harriet cần người \"from 8 a.m. to 1 p.m.\". Bà Harriet còn nói \"I can teach you everything\", nên bà dạy được người mới.",
+      "tip": "Trong câu có but, ý quan trọng thường nằm ở vế sau but. Ở đây vế sau but chính là lý do."
+    },
+    {
+      "id": "q_u12_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "The Sunday helper at Harriet's gets ______.",
+        "vi": "Người phụ việc ngày Chủ nhật ở quán Harriet's được ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "their own tools",
+            "vi": "dụng cụ riêng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "their own tools",
+          "text_translation": "dụng cụ riêng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "an apron and a free lunch",
+            "vi": "tạp dề và bữa trưa miễn phí"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "an apron and a free lunch",
+          "text_translation": "tạp dề và bữa trưa miễn phí"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a swimming class",
+            "vi": "một lớp học bơi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a swimming class",
+          "text_translation": "một lớp học bơi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a new house",
+            "vi": "một căn nhà mới"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a new house",
+          "text_translation": "một căn nhà mới"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"You get an apron and a free lunch.\" Dụng cụ riêng là thứ công nhân đội xây dựng phải tự mang theo (\"Please bring your own tools.\"). Lớp bơi là việc của huấn luyện viên ở trường Maple Street. Xây nhà là việc của đội Pine Street Builders."
+      },
+      "audio_data": null,
+      "question_jp": "The Sunday helper at Harriet's gets ______.",
+      "question_vn": "Người phụ việc ngày Chủ nhật ở quán Harriet's được ______.",
+      "explanation": "\"You get an apron and a free lunch.\" Dụng cụ riêng là thứ công nhân đội xây dựng phải tự mang theo (\"Please bring your own tools.\"). Lớp bơi là việc của huấn luyện viên ở trường Maple Street. Xây nhà là việc của đội Pine Street Builders."
+    },
+    {
+      "id": "q_u12_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "You want the swimming coach job. Who do you call?",
+        "vi": "Bạn muốn nhận việc huấn luyện viên bơi. Bạn gọi cho ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mr. Brian Hughes",
+            "vi": "thầy Brian Hughes"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Mr. Brian Hughes",
+          "text_translation": "thầy Brian Hughes"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Mr. Joe Turner",
+            "vi": "ông Joe Turner"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Mr. Joe Turner",
+          "text_translation": "ông Joe Turner"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe",
+            "vi": "Chloe"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Chloe",
+          "text_translation": "Chloe"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        14,
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Mục huấn luyện viên bơi ghi \"Call Mr. Brian Hughes at 619-555-0175.\" Ông Joe Turner là người liên hệ của đội xây dựng (\"Ask for Mr. Joe Turner\"). Bà Harriet và Chloe là người liên hệ cho việc ở quán Harriet's."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bảng có nhiều tin việc làm: tìm đúng tiêu đề của việc được hỏi trước, rồi mới tìm tên người liên hệ ngay bên dưới tiêu đề đó."
+      },
+      "question_jp": "You want the swimming coach job. Who do you call?",
+      "question_vn": "Bạn muốn nhận việc huấn luyện viên bơi. Bạn gọi cho ai?",
+      "explanation": "Mục huấn luyện viên bơi ghi \"Call Mr. Brian Hughes at 619-555-0175.\" Ông Joe Turner là người liên hệ của đội xây dựng (\"Ask for Mr. Joe Turner\"). Bà Harriet và Chloe là người liên hệ cho việc ở quán Harriet's.",
+      "tip": "Bảng có nhiều tin việc làm: tìm đúng tiêu đề của việc được hỏi trước, rồi mới tìm tên người liên hệ ngay bên dưới tiêu đề đó."
+    },
+    {
+      "id": "q_u12_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "You have classes from Monday to Friday until four o'clock. Which job can you do?",
+        "vi": "Bạn đi học từ thứ Hai đến thứ Sáu, tới bốn giờ chiều mới tan. Bạn có thể làm việc nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the swimming coach job",
+            "vi": "việc huấn luyện viên bơi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the swimming coach job",
+          "text_translation": "việc huấn luyện viên bơi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the job with Pine Street Builders",
+            "vi": "việc ở đội Pine Street Builders"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the job with Pine Street Builders",
+          "text_translation": "việc ở đội Pine Street Builders"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "no job",
+            "vi": "không làm được việc nào"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "no job",
+          "text_translation": "không làm được việc nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the Sunday job at Harriet's",
+            "vi": "việc ngày Chủ nhật ở quán Harriet's"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the Sunday job at Harriet's",
+          "text_translation": "việc ngày Chủ nhật ở quán Harriet's"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        13,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Lớp bơi \"is every Friday from 3:30 to 5 p.m.\", lúc đó bạn còn đang học. Đội xây dựng làm \"Monday to Friday, 7 a.m. to 3 p.m.\", cũng trùng giờ học. Chỉ việc ở quán Harriet's là vào Chủ nhật (\"I need someone from 8 a.m. to 1 p.m.\"), nên bạn làm được. Vì vậy phương án không làm được việc nào cũng sai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi tình huống về lịch: viết giờ bận của mình ra, rồi so với giờ làm của từng việc. Việc nào không trùng giờ là đáp án."
+      },
+      "question_jp": "You have classes from Monday to Friday until four o'clock. Which job can you do?",
+      "question_vn": "Bạn đi học từ thứ Hai đến thứ Sáu, tới bốn giờ chiều mới tan. Bạn có thể làm việc nào?",
+      "explanation": "Câu suy luận. Lớp bơi \"is every Friday from 3:30 to 5 p.m.\", lúc đó bạn còn đang học. Đội xây dựng làm \"Monday to Friday, 7 a.m. to 3 p.m.\", cũng trùng giờ học. Chỉ việc ở quán Harriet's là vào Chủ nhật (\"I need someone from 8 a.m. to 1 p.m.\"), nên bạn làm được. Vì vậy phương án không làm được việc nào cũng sai.",
+      "tip": "Câu hỏi tình huống về lịch: viết giờ bận của mình ra, rồi so với giờ làm của từng việc. Việc nào không trùng giờ là đáp án."
+    },
+    {
+      "id": "q_u12_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "What do workers at Pine Street Builders need to bring?",
+        "vi": "Công nhân ở đội Pine Street Builders cần mang theo gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "an apron",
+            "vi": "tạp dề"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "an apron",
+          "text_translation": "tạp dề"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "their own tools",
+            "vi": "dụng cụ riêng của mình"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "their own tools",
+          "text_translation": "dụng cụ riêng của mình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a free lunch",
+            "vi": "bữa trưa miễn phí"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a free lunch",
+          "text_translation": "bữa trưa miễn phí"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "nothing",
+            "vi": "không cần mang gì"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "nothing",
+          "text_translation": "không cần mang gì"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"Please bring your own tools.\" Tạp dề và bữa trưa miễn phí là thứ quán Harriet's cho người phụ việc, không phải thứ phải mang theo. Bài dặn rõ phải mang dụng cụ, nên phương án không cần mang gì cũng sai."
+      },
+      "audio_data": null,
+      "question_jp": "What do workers at Pine Street Builders need to bring?",
+      "question_vn": "Công nhân ở đội Pine Street Builders cần mang theo gì?",
+      "explanation": "\"Please bring your own tools.\" Tạp dề và bữa trưa miễn phí là thứ quán Harriet's cho người phụ việc, không phải thứ phải mang theo. Bài dặn rõ phải mang dụng cụ, nên phương án không cần mang gì cũng sai."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u12_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Lời nhắn điện thoại trên bàn của Nathan",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u12_01",
+      "question_ids": [
+        "q_u12_001",
+        "q_u12_002",
+        "q_u12_003",
+        "q_u12_004",
+        "q_u12_005"
+      ]
+    },
+    {
+      "set_id": "set_u12_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bảng tuyển dụng dán ở quán Harriet's",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u12_02",
+      "question_ids": [
+        "q_u12_006",
+        "q_u12_007",
+        "q_u12_008",
+        "q_u12_009",
+        "q_u12_010"
+      ]
+    }
+  ]
+}
