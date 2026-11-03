@@ -1,0 +1,4644 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "B1 Mock Test 2 (Final)",
+      "vi": "Đề thi thử B1 (cuối sách)"
+    },
+    "title": "B1 Mock Test 2 (Final)",
+    "title_vn": "Đề thi thử B1 (cuối sách)",
+    "module_code": "58_mock2",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.test",
+    "curriculum_sheets": [
+      "b1.001",
+      "b1.002",
+      "b1.003",
+      "b1.004",
+      "b1.005",
+      "b1.006",
+      "b1.007",
+      "b1.008",
+      "b1.009",
+      "b1.010",
+      "b1.011",
+      "b1.012",
+      "b1.013",
+      "b1.014",
+      "b1.015",
+      "b1.016",
+      "b1.017",
+      "b1.018",
+      "b1.019",
+      "b1.020",
+      "b1.021",
+      "b1.022",
+      "b1.023",
+      "b1.024",
+      "b1.025",
+      "b1.026",
+      "b1.027",
+      "b1.028",
+      "b1.029",
+      "b1.030",
+      "b1.031",
+      "b1.032",
+      "b1.033",
+      "b1.034",
+      "b1.035",
+      "b1.036",
+      "b1.037",
+      "b1.038",
+      "b1.039",
+      "b1.040",
+      "b1.041",
+      "b1.042",
+      "b1.043",
+      "b1.044",
+      "b1.045",
+      "b1.046",
+      "b1.047",
+      "b1.048",
+      "b1.049",
+      "b1.050",
+      "b1.051",
+      "b1.052",
+      "b1.053",
+      "b1.054",
+      "b1.055",
+      "b1.056",
+      "b1.057",
+      "b1.058",
+      "b1.059",
+      "b1.060",
+      "b1.061",
+      "b1.062",
+      "b1.063",
+      "b1.064",
+      "b1.065",
+      "b1.066",
+      "b1.067",
+      "b1.068",
+      "b1.069",
+      "b1.070",
+      "b1.071",
+      "b1.072",
+      "b1.073",
+      "b1.074",
+      "b1.075",
+      "b1.076",
+      "b1.077",
+      "b1.078",
+      "b1.079",
+      "b1.080",
+      "b1.081",
+      "b1.082",
+      "b1.083",
+      "b1.084",
+      "b1.085",
+      "b1.086",
+      "b1.087",
+      "b1.088",
+      "b1.089",
+      "b1.090",
+      "b1.091",
+      "b1.092",
+      "b1.093",
+      "b1.094",
+      "b1.095",
+      "b1.096",
+      "b1.097",
+      "b1.098",
+      "b1.099",
+      "b1.100",
+      "b1.101",
+      "b1.102",
+      "b1.103",
+      "b1.104",
+      "b1.105",
+      "b1.106",
+      "b1.107",
+      "b1.108",
+      "b1.109",
+      "b1.110",
+      "b1.111",
+      "b1.112",
+      "b1.113",
+      "b1.114",
+      "b1.115",
+      "b1.116",
+      "b1.117",
+      "b1.118",
+      "b1.119",
+      "b1.120",
+      "b1.121",
+      "b1.122",
+      "b1.123",
+      "b1.124",
+      "b1.125",
+      "b1.126",
+      "b1.127",
+      "b1.128",
+      "b1.129",
+      "b1.130",
+      "b1.131",
+      "b1.132",
+      "b1.133",
+      "b1.134",
+      "b1.135",
+      "b1.136",
+      "b1.137",
+      "b1.138",
+      "b1.139",
+      "b1.140",
+      "b1.141",
+      "b1.142",
+      "b1.143",
+      "b1.144",
+      "b1.145",
+      "b1.146",
+      "b1.147",
+      "b1.148",
+      "b1.149",
+      "b1.150",
+      "b1.151",
+      "b1.152",
+      "b1.153",
+      "b1.154",
+      "b1.155",
+      "b1.156",
+      "b1.157",
+      "b1.158",
+      "b1.159",
+      "b1.160"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Nathan Brooks",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 1, năm 6"
+    },
+    "total_passages": 4,
+    "total_questions": 40,
+    "focus": "Đề thi thử VSTEP bậc 3: 4 bài × 10 câu",
+    "description_vn": "Đề thi thử cuối sách: thông báo lớp học mùa đông ở thư viện Pine Street, blog của Leah về những tháng đầu làm bác sĩ, bài khoa học về bạch tuộc, bài nêu quan điểm về tuần làm việc bốn ngày. 4 bài × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Đề thi thử cuối sách · ôn toàn bộ khoá B1, phiếu `b1.001` – `b1.160` (40 unit)."
+    },
+    "objective_i18n": {
+      "vi": "Đề thi thử 40 câu, làm trong 60 phút (theo format đọc VSTEP bậc 3: 4 bài, 280–400 từ mỗi bài). Đề có 4 phần × 10 câu, khó dần: thông báo lớp học ở thư viện → blog của Leah về những tháng đầu làm bác sĩ → bài khoa học về bạch tuộc → bài nêu quan điểm về tuần làm việc bốn ngày. Đề kiểm tra ý chính và mục đích, thông tin cụ thể, câu NOT / TRUE, nghĩa của từ trong ngữ cảnh, thái độ và quan điểm của người viết, áp dụng thông tin vào tình huống, và khoảng 13 câu suy luận. Bài đọc dùng ngữ pháp của cả khoá B1: be to do, should have done, wish, so that, mệnh đề quan hệ, bị động với is believed to, although / despite."
+    },
+    "extra_words": [
+      {
+        "word": "alien",
+        "i18n": {
+          "vi": "người ngoài hành tinh"
+        }
+      },
+      {
+        "word": "aquarium",
+        "i18n": {
+          "vi": "thuỷ cung"
+        }
+      },
+      {
+        "word": "coconut",
+        "i18n": {
+          "vi": "quả dừa"
+        }
+      },
+      {
+        "word": "texture",
+        "i18n": {
+          "vi": "kết cấu bề mặt"
+        }
+      },
+      {
+        "word": "safer",
+        "i18n": {
+          "vi": "an toàn hơn (so sánh hơn của safe)"
+        }
+      },
+      {
+        "word": "workshop",
+        "i18n": {
+          "vi": "lớp học thực hành"
+        }
+      },
+      {
+        "word": "register",
+        "i18n": {
+          "vi": "đăng ký"
+        }
+      },
+      {
+        "word": "waiting list",
+        "i18n": {
+          "vi": "danh sách chờ"
+        }
+      },
+      {
+        "word": "resident",
+        "i18n": {
+          "vi": "bác sĩ nội trú"
+        }
+      },
+      {
+        "word": "pharmacist",
+        "i18n": {
+          "vi": "dược sĩ"
+        }
+      },
+      {
+        "word": "supervisor",
+        "i18n": {
+          "vi": "người hướng dẫn, người giám sát"
+        }
+      },
+      {
+        "word": "octopus",
+        "i18n": {
+          "vi": "bạch tuộc (số nhiều: octopuses)"
+        }
+      },
+      {
+        "word": "gills",
+        "i18n": {
+          "vi": "mang (cá)"
+        }
+      },
+      {
+        "word": "copper",
+        "i18n": {
+          "vi": "đồng (kim loại)"
+        }
+      },
+      {
+        "word": "nerve cell",
+        "i18n": {
+          "vi": "tế bào thần kinh"
+        }
+      },
+      {
+        "word": "coral",
+        "i18n": {
+          "vi": "san hô"
+        }
+      },
+      {
+        "word": "trial",
+        "i18n": {
+          "vi": "cuộc thử nghiệm"
+        }
+      },
+      {
+        "word": "critic",
+        "i18n": {
+          "vi": "người phản biện"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "places are limited",
+          "vi": "số chỗ có hạn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take someone aside",
+          "vi": "kéo ai ra một bên"
+        }
+      },
+      {
+        "i18n": {
+          "en": "admit a mistake",
+          "vi": "thừa nhận sai lầm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on its own",
+          "vi": "tự mình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "match the surroundings",
+          "vi": "hoà vào môi trường xung quanh"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take part in",
+          "vi": "tham gia"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in my view",
+          "vi": "theo tôi"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Quản lý thời gian:** 60 phút cho 4 bài. Phần 1 khoảng 10 phút, Phần 2 khoảng 14 phút, Phần 3 khoảng 17 phút, Phần 4 khoảng 19 phút."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Thông báo:** để ý các con số và điều kiện (`three days`, `24 hours`, `ages 8 – 12`). Câu hỏi hay đảo hai con số cho nhau."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Blog kể chuyện:** bài thường chia theo `The first lesson… The second lesson…`. Dùng các mốc này để tìm nhanh đoạn cần đọc."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài khoa học:** câu chủ đề đầu đoạn (`Octopuses are also famous for their intelligence.`) cho biết ví dụ phía sau minh hoạ cho điều gì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài nêu quan điểm:** tách ba phần: ý kiến ủng hộ (`Supporters say`), ý kiến phản đối (`Critics point out`), và ý kiến người viết (`In my view`). Câu hỏi \"writer's opinion\" chỉ lấy ở phần thứ ba."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_mock2_01",
+      "heading_i18n": {
+        "vi": "Phần 1 — Thông báo lớp học mùa đông ở thư viện"
+      },
+      "narrator": "announcer",
+      "title": "Winter Workshops at Pine Street Library",
+      "category": "notice",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Winter Workshops at Pine Street Library",
+            "vi": "Lớp học mùa đông ở thư viện Pine Street"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Learn something new this winter! All workshops are free, but places are limited, so you are to register online at least three days before each class.",
+            "vi": "Học điều mới trong mùa đông này! Mọi lớp đều miễn phí, nhưng số chỗ có hạn, nên bạn phải đăng ký trực tuyến ít nhất ba ngày trước mỗi buổi."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Fix Your Own Bike — Saturdays, 10:00 a.m. – 12:00 p.m.",
+            "vi": "Tự sửa xe đạp — thứ Bảy, 10:00 – 12:00 trưa"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bring your bike and learn how to fix a flat tire, adjust your brakes and choose a good lock. Tools are provided.",
+            "vi": "Mang xe tới để học cách vá lốp, chỉnh phanh và chọn khoá tốt. Có sẵn dụng cụ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Phone Photography for Beginners — Tuesdays, 6:00 – 7:30 p.m.",
+            "vi": "Chụp ảnh bằng điện thoại cho người mới — thứ Ba, 6:00 – 7:30 tối"
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our instructor, a local designer, will show you how to use natural light and take better photos of people and places.",
+            "vi": "Giảng viên, một nhà thiết kế ở địa phương, sẽ chỉ bạn cách dùng ánh sáng tự nhiên và chụp người, chụp cảnh đẹp hơn."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Memories of Maple Street — Thursdays, 2:00 – 3:30 p.m.",
+            "vi": "Ký ức Maple Street — thứ Năm, 2:00 – 3:30 chiều"
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet Brooks will help you write down your family's stories. Old photos and letters are welcome.",
+            "vi": "Bà Harriet Brooks sẽ giúp bạn ghi lại chuyện của gia đình mình. Hoan nghênh mang theo ảnh và thư cũ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Coding Club for Kids (ages 8 – 12) — Wednesdays, 4:00 – 5:00 p.m.",
+            "vi": "Câu lạc bộ lập trình cho trẻ em (8 – 12 tuổi) — thứ Tư, 4:00 – 5:00 chiều"
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Software engineer Nathan Brooks will teach children to make simple games. Laptops are provided.",
+            "vi": "Kỹ sư phần mềm Nathan Brooks sẽ dạy các em làm trò chơi đơn giản. Có sẵn máy tính xách tay."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please note:",
+            "vi": "Xin lưu ý:"
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Each workshop has fifteen places. When a class is full, you can join the waiting list, and we will contact you if someone cancels.",
+            "vi": "Mỗi lớp có mười lăm chỗ. Khi lớp đã đủ, bạn có thể ghi tên vào danh sách chờ, và chúng tôi sẽ liên hệ nếu có người huỷ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you can't come, please cancel at least 24 hours before the class so that someone else can take your place.",
+            "vi": "Nếu không tới được, xin huỷ ít nhất 24 giờ trước buổi học để người khác có thể thế chỗ bạn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Children under 13 are to be with an adult, except in the Coding Club, where parents can wait in the reading room.",
+            "vi": "Trẻ dưới 13 tuổi phải đi cùng người lớn, trừ câu lạc bộ lập trình, nơi phụ huynh có thể ngồi chờ ở phòng đọc."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Did you know? Our library was a fire station from 1925 until the 1990s. Ask at the front desk for a free history tour of the building.",
+            "vi": "Bạn có biết? Thư viện của chúng ta từng là trạm cứu hoả từ năm 1925 tới những năm 1990. Hãy hỏi ở quầy để được dẫn tham quan lịch sử toà nhà miễn phí."
+          }
+        }
+      ],
+      "content_ja": "Winter Workshops at Pine Street Library\n\nLearn something new this winter! All workshops are free, but places are limited, so you are to register online at least three days before each class.\n\nFix Your Own Bike — Saturdays, 10:00 a.m. – 12:00 p.m. Bring your bike and learn how to fix a flat tire, adjust your brakes and choose a good lock. Tools are provided.\n\nPhone Photography for Beginners — Tuesdays, 6:00 – 7:30 p.m. Our instructor, a local designer, will show you how to use natural light and take better photos of people and places.\n\nMemories of Maple Street — Thursdays, 2:00 – 3:30 p.m. Harriet Brooks will help you write down your family's stories. Old photos and letters are welcome.\n\nCoding Club for Kids (ages 8 – 12) — Wednesdays, 4:00 – 5:00 p.m. Software engineer Nathan Brooks will teach children to make simple games. Laptops are provided.\n\nPlease note:\n\nEach workshop has fifteen places. When a class is full, you can join the waiting list, and we will contact you if someone cancels. If you can't come, please cancel at least 24 hours before the class so that someone else can take your place. Children under 13 are to be with an adult, except in the Coding Club, where parents can wait in the reading room.\n\nDid you know? Our library was a fire station from 1925 until the 1990s. Ask at the front desk for a free history tour of the building.",
+      "translation_vn": "(1) Lớp học mùa đông ở thư viện Pine Street\n(2) Học điều mới trong mùa đông này! Mọi lớp đều miễn phí, nhưng số chỗ có hạn, nên bạn phải đăng ký trực tuyến ít nhất ba ngày trước mỗi buổi.\n(3) Tự sửa xe đạp — thứ Bảy, 10:00 – 12:00 trưa\n(4) Mang xe tới để học cách vá lốp, chỉnh phanh và chọn khoá tốt. Có sẵn dụng cụ.\n(5) Chụp ảnh bằng điện thoại cho người mới — thứ Ba, 6:00 – 7:30 tối\n(6) Giảng viên, một nhà thiết kế ở địa phương, sẽ chỉ bạn cách dùng ánh sáng tự nhiên và chụp người, chụp cảnh đẹp hơn.\n(7) Ký ức Maple Street — thứ Năm, 2:00 – 3:30 chiều\n(8) Bà Harriet Brooks sẽ giúp bạn ghi lại chuyện của gia đình mình. Hoan nghênh mang theo ảnh và thư cũ.\n(9) Câu lạc bộ lập trình cho trẻ em (8 – 12 tuổi) — thứ Tư, 4:00 – 5:00 chiều\n(10) Kỹ sư phần mềm Nathan Brooks sẽ dạy các em làm trò chơi đơn giản. Có sẵn máy tính xách tay.\n(11) Xin lưu ý:\n(12) Mỗi lớp có mười lăm chỗ. Khi lớp đã đủ, bạn có thể ghi tên vào danh sách chờ, và chúng tôi sẽ liên hệ nếu có người huỷ.\n(13) Nếu không tới được, xin huỷ ít nhất 24 giờ trước buổi học để người khác có thể thế chỗ bạn.\n(14) Trẻ dưới 13 tuổi phải đi cùng người lớn, trừ câu lạc bộ lập trình, nơi phụ huynh có thể ngồi chờ ở phòng đọc.\n(15) Bạn có biết? Thư viện của chúng ta từng là trạm cứu hoả từ năm 1925 tới những năm 1990. Hãy hỏi ở quầy để được dẫn tham quan lịch sử toà nhà miễn phí.",
+      "word_count": 229,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004",
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008",
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012",
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016",
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020",
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024",
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028",
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032",
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036",
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040",
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044",
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048",
+        "b1.049",
+        "b1.050",
+        "b1.051",
+        "b1.052",
+        "b1.053",
+        "b1.054",
+        "b1.055",
+        "b1.056",
+        "b1.057",
+        "b1.058",
+        "b1.059",
+        "b1.060",
+        "b1.061",
+        "b1.062",
+        "b1.063",
+        "b1.064",
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068",
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072",
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076",
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080",
+        "b1.081",
+        "b1.082",
+        "b1.083",
+        "b1.084",
+        "b1.085",
+        "b1.086",
+        "b1.087",
+        "b1.088",
+        "b1.089",
+        "b1.090",
+        "b1.091",
+        "b1.092",
+        "b1.093",
+        "b1.094",
+        "b1.095",
+        "b1.096",
+        "b1.097",
+        "b1.098",
+        "b1.099",
+        "b1.100",
+        "b1.101",
+        "b1.102",
+        "b1.103",
+        "b1.104",
+        "b1.105",
+        "b1.106",
+        "b1.107",
+        "b1.108",
+        "b1.109",
+        "b1.110",
+        "b1.111",
+        "b1.112",
+        "b1.113",
+        "b1.114",
+        "b1.115",
+        "b1.116",
+        "b1.117",
+        "b1.118",
+        "b1.119",
+        "b1.120",
+        "b1.121",
+        "b1.122",
+        "b1.123",
+        "b1.124",
+        "b1.125",
+        "b1.126",
+        "b1.127",
+        "b1.128",
+        "b1.129",
+        "b1.130",
+        "b1.131",
+        "b1.132",
+        "b1.133",
+        "b1.134",
+        "b1.135",
+        "b1.136",
+        "b1.137",
+        "b1.138",
+        "b1.139",
+        "b1.140",
+        "b1.141",
+        "b1.142",
+        "b1.143",
+        "b1.144",
+        "b1.145",
+        "b1.146",
+        "b1.147",
+        "b1.148",
+        "b1.149",
+        "b1.150",
+        "b1.151",
+        "b1.152",
+        "b1.153",
+        "b1.154",
+        "b1.155",
+        "b1.156",
+        "b1.157",
+        "b1.158",
+        "b1.159",
+        "b1.160"
+      ]
+    },
+    {
+      "id": "passage_mock2_02",
+      "heading_i18n": {
+        "vi": "Phần 2 — Blog của Leah về những tháng đầu làm bác sĩ"
+      },
+      "narrator": "Leah",
+      "title": "What My First Months as a Doctor Taught Me",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 200,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What My First Months as a Doctor Taught Me",
+            "vi": "Những tháng đầu làm bác sĩ đã dạy tôi điều gì"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Dr. Leah Carter, first-year resident",
+            "vi": "Người viết: bác sĩ Leah Carter, bác sĩ nội trú năm nhất"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I graduated from medical school, I thought that the hardest part was over. I was wrong.",
+            "vi": "Khi tốt nghiệp trường y, tôi cứ nghĩ phần khó nhất đã qua. Tôi đã nhầm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In medical school, you study diseases. In the hospital, you meet people, and people are much more complicated than books.",
+            "vi": "Ở trường y, bạn học về bệnh. Trong bệnh viện, bạn gặp con người, mà con người phức tạp hơn sách vở nhiều."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first lesson was about time.",
+            "vi": "Bài học đầu tiên là về thời gian."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "During my first night shift, I had twelve patients and only one pair of hands. I wanted to do everything perfectly, so I did everything slowly.",
+            "vi": "Ca đêm đầu tiên, tôi có mười hai bệnh nhân mà chỉ có một đôi tay. Tôi muốn làm mọi thứ hoàn hảo, nên làm việc gì cũng chậm."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An experienced nurse took me aside and said, \"Doctor, decide what can't wait, and do that first.\" I have used that advice every day since then.",
+            "vi": "Một chị y tá nhiều kinh nghiệm kéo tôi ra một bên và nói: \"Bác sĩ ơi, quyết định việc gì không thể chờ, rồi làm việc đó trước.\" Từ đó tới giờ ngày nào tôi cũng dùng lời khuyên ấy."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The second lesson was that nurses know a lot.",
+            "vi": "Bài học thứ hai là các y tá biết rất nhiều."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They spend more time with patients than doctors do, so they often notice small changes first.",
+            "vi": "Họ ở bên bệnh nhân nhiều hơn bác sĩ, nên thường là người đầu tiên nhận ra những thay đổi nhỏ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I grew up with a nurse in the family, so I should have known this already, but I had to learn it again in the hospital.",
+            "vi": "Tôi lớn lên trong một gia đình có người làm y tá, nên lẽ ra phải biết điều này từ lâu, nhưng tôi đã phải học lại nó trong bệnh viện."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The third lesson was the hardest: admitting mistakes.",
+            "vi": "Bài học thứ ba khó nhất: thừa nhận sai lầm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In my second month, I wrote the wrong amount on a patient's medicine order. A pharmacist noticed it before the patient took anything, and nobody was hurt.",
+            "vi": "Tháng thứ hai, tôi ghi nhầm liều trong một y lệnh thuốc của bệnh nhân. Một dược sĩ đã phát hiện ra trước khi bệnh nhân uống, và không ai bị ảnh hưởng gì."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I felt terribly embarrassed, and part of me wanted to say nothing. Instead, I told my supervisor.",
+            "vi": "Tôi xấu hổ vô cùng, và một phần trong tôi chỉ muốn im lặng. Nhưng tôi đã báo với bác sĩ hướng dẫn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She thanked me and explained that hospitals are safer when people report mistakes, because that is how everyone learns to prevent them.",
+            "vi": "Chị cảm ơn tôi và giải thích rằng bệnh viện an toàn hơn khi mọi người báo cáo sai sót, vì đó là cách để ai cũng học được cách phòng tránh."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am still tired most of the time, and I still drink too much coffee.",
+            "vi": "Tôi vẫn mệt gần như suốt ngày, và vẫn uống quá nhiều cà phê."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But when a patient who arrived frightened goes home smiling, I remember why I chose this job, and I wouldn't change it for anything.",
+            "vi": "Nhưng khi một bệnh nhân tới trong sợ hãi rồi ra về với nụ cười, tôi lại nhớ vì sao mình chọn nghề này, và tôi không đổi nó lấy bất cứ thứ gì."
+          }
+        }
+      ],
+      "content_ja": "What My First Months as a Doctor Taught Me\n\nWritten by: Dr. Leah Carter, first-year resident\n\nWhen I graduated from medical school, I thought that the hardest part was over. I was wrong. In medical school, you study diseases. In the hospital, you meet people, and people are much more complicated than books.\n\nThe first lesson was about time. During my first night shift, I had twelve patients and only one pair of hands. I wanted to do everything perfectly, so I did everything slowly. An experienced nurse took me aside and said, \"Doctor, decide what can't wait, and do that first.\" I have used that advice every day since then.\n\nThe second lesson was that nurses know a lot. They spend more time with patients than doctors do, so they often notice small changes first. I grew up with a nurse in the family, so I should have known this already, but I had to learn it again in the hospital.\n\nThe third lesson was the hardest: admitting mistakes. In my second month, I wrote the wrong amount on a patient's medicine order. A pharmacist noticed it before the patient took anything, and nobody was hurt. I felt terribly embarrassed, and part of me wanted to say nothing. Instead, I told my supervisor. She thanked me and explained that hospitals are safer when people report mistakes, because that is how everyone learns to prevent them.\n\nI am still tired most of the time, and I still drink too much coffee. But when a patient who arrived frightened goes home smiling, I remember why I chose this job, and I wouldn't change it for anything.",
+      "translation_vn": "(1) Những tháng đầu làm bác sĩ đã dạy tôi điều gì\n(2) Người viết: bác sĩ Leah Carter, bác sĩ nội trú năm nhất\n(3) Khi tốt nghiệp trường y, tôi cứ nghĩ phần khó nhất đã qua. Tôi đã nhầm.\n(4) Ở trường y, bạn học về bệnh. Trong bệnh viện, bạn gặp con người, mà con người phức tạp hơn sách vở nhiều.\n(5) Bài học đầu tiên là về thời gian.\n(6) Ca đêm đầu tiên, tôi có mười hai bệnh nhân mà chỉ có một đôi tay. Tôi muốn làm mọi thứ hoàn hảo, nên làm việc gì cũng chậm.\n(7) Một chị y tá nhiều kinh nghiệm kéo tôi ra một bên và nói: \"Bác sĩ ơi, quyết định việc gì không thể chờ, rồi làm việc đó trước.\" Từ đó tới giờ ngày nào tôi cũng dùng lời khuyên ấy.\n(8) Bài học thứ hai là các y tá biết rất nhiều.\n(9) Họ ở bên bệnh nhân nhiều hơn bác sĩ, nên thường là người đầu tiên nhận ra những thay đổi nhỏ.\n(10) Tôi lớn lên trong một gia đình có người làm y tá, nên lẽ ra phải biết điều này từ lâu, nhưng tôi đã phải học lại nó trong bệnh viện.\n(11) Bài học thứ ba khó nhất: thừa nhận sai lầm.\n(12) Tháng thứ hai, tôi ghi nhầm liều trong một y lệnh thuốc của bệnh nhân. Một dược sĩ đã phát hiện ra trước khi bệnh nhân uống, và không ai bị ảnh hưởng gì.\n(13) Tôi xấu hổ vô cùng, và một phần trong tôi chỉ muốn im lặng. Nhưng tôi đã báo với bác sĩ hướng dẫn.\n(14) Chị cảm ơn tôi và giải thích rằng bệnh viện an toàn hơn khi mọi người báo cáo sai sót, vì đó là cách để ai cũng học được cách phòng tránh.\n(15) Tôi vẫn mệt gần như suốt ngày, và vẫn uống quá nhiều cà phê.\n(16) Nhưng khi một bệnh nhân tới trong sợ hãi rồi ra về với nụ cười, tôi lại nhớ vì sao mình chọn nghề này, và tôi không đổi nó lấy bất cứ thứ gì.",
+      "word_count": 276,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004",
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008",
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012",
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016",
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020",
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024",
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028",
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032",
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036",
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040",
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044",
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048",
+        "b1.049",
+        "b1.050",
+        "b1.051",
+        "b1.052",
+        "b1.053",
+        "b1.054",
+        "b1.055",
+        "b1.056",
+        "b1.057",
+        "b1.058",
+        "b1.059",
+        "b1.060",
+        "b1.061",
+        "b1.062",
+        "b1.063",
+        "b1.064",
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068",
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072",
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076",
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080",
+        "b1.081",
+        "b1.082",
+        "b1.083",
+        "b1.084",
+        "b1.085",
+        "b1.086",
+        "b1.087",
+        "b1.088",
+        "b1.089",
+        "b1.090",
+        "b1.091",
+        "b1.092",
+        "b1.093",
+        "b1.094",
+        "b1.095",
+        "b1.096",
+        "b1.097",
+        "b1.098",
+        "b1.099",
+        "b1.100",
+        "b1.101",
+        "b1.102",
+        "b1.103",
+        "b1.104",
+        "b1.105",
+        "b1.106",
+        "b1.107",
+        "b1.108",
+        "b1.109",
+        "b1.110",
+        "b1.111",
+        "b1.112",
+        "b1.113",
+        "b1.114",
+        "b1.115",
+        "b1.116",
+        "b1.117",
+        "b1.118",
+        "b1.119",
+        "b1.120",
+        "b1.121",
+        "b1.122",
+        "b1.123",
+        "b1.124",
+        "b1.125",
+        "b1.126",
+        "b1.127",
+        "b1.128",
+        "b1.129",
+        "b1.130",
+        "b1.131",
+        "b1.132",
+        "b1.133",
+        "b1.134",
+        "b1.135",
+        "b1.136",
+        "b1.137",
+        "b1.138",
+        "b1.139",
+        "b1.140",
+        "b1.141",
+        "b1.142",
+        "b1.143",
+        "b1.144",
+        "b1.145",
+        "b1.146",
+        "b1.147",
+        "b1.148",
+        "b1.149",
+        "b1.150",
+        "b1.151",
+        "b1.152",
+        "b1.153",
+        "b1.154",
+        "b1.155",
+        "b1.156",
+        "b1.157",
+        "b1.158",
+        "b1.159",
+        "b1.160"
+      ]
+    },
+    {
+      "id": "passage_mock2_03",
+      "heading_i18n": {
+        "vi": "Phần 3 — Bài khoa học về bạch tuộc"
+      },
+      "narrator": "announcer",
+      "title": "The Octopus: An Alien in the Ocean?",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 210,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Octopus: An Alien in the Ocean?",
+            "vi": "Bạch tuộc: người ngoài hành tinh dưới đại dương?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If scientists ever wanted to design a creature that seemed to come from another planet, they could hardly do better than the octopus.",
+            "vi": "Nếu các nhà khoa học muốn thiết kế một sinh vật trông như tới từ hành tinh khác, khó có thể làm tốt hơn con bạch tuộc."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To begin with, an octopus has three hearts.",
+            "vi": "Trước hết, bạch tuộc có ba quả tim."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Two of them pump blood through its gills, where it takes oxygen from the water, and the third pumps blood around the rest of its body.",
+            "vi": "Hai quả bơm máu qua mang, nơi nó lấy oxy từ nước, còn quả thứ ba bơm máu đi khắp phần còn lại của cơ thể."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Its blood is blue, not red, because it uses copper instead of iron to carry oxygen.",
+            "vi": "Máu của nó màu xanh lam chứ không đỏ, vì nó dùng đồng thay cho sắt để vận chuyển oxy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Its brain is just as unusual.",
+            "vi": "Bộ não của nó cũng khác thường không kém."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An octopus has around 500 million nerve cells, which is similar to a dog, but about two-thirds of them are in its arms, not in its head.",
+            "vi": "Bạch tuộc có khoảng 500 triệu tế bào thần kinh, xấp xỉ một chú chó, nhưng khoảng hai phần ba số đó nằm ở các xúc tu chứ không ở đầu."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This means that each arm can touch, taste and even make simple decisions on its own.",
+            "vi": "Điều này có nghĩa là mỗi xúc tu có thể tự chạm, tự nếm, thậm chí tự đưa ra quyết định đơn giản."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Octopuses are also famous for their intelligence.",
+            "vi": "Bạch tuộc còn nổi tiếng thông minh."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In Indonesia, researchers have filmed octopuses carrying coconut shells across the sea floor and later using them as a shelter.",
+            "vi": "Ở Indonesia, các nhà nghiên cứu đã quay được cảnh bạch tuộc mang vỏ dừa đi khắp đáy biển rồi sau đó dùng làm chỗ trú."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In aquariums, some have learned to open jars, and a few have escaped from their tanks.",
+            "vi": "Trong các thuỷ cung, có con đã học được cách mở lọ, và vài con còn trốn khỏi bể."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some even seem to recognize individual people: workers at one aquarium reported that an octopus often shot water at the same worker, but never at anyone else.",
+            "vi": "Có con còn dường như nhận ra từng người: nhân viên ở một thuỷ cung kể rằng một con bạch tuộc hay phun nước vào đúng một nhân viên, nhưng chưa bao giờ phun vào ai khác."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One famous octopus in New Zealand is believed to have climbed out of its tank at night, crossed the floor and slipped down a pipe that led to the ocean.",
+            "vi": "Một con bạch tuộc nổi tiếng ở New Zealand được cho là đã trèo ra khỏi bể vào ban đêm, bò qua sàn rồi trượt xuống một đường ống dẫn ra biển."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Perhaps most amazing of all, an octopus can change the color and even the texture of its skin in less than a second, so that it looks exactly like a rock or a piece of coral.",
+            "vi": "Có lẽ đáng kinh ngạc nhất là bạch tuộc có thể đổi màu, thậm chí đổi cả bề mặt da trong chưa tới một giây, để trông y hệt một hòn đá hay một mẩu san hô."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Strangely, scientists believe that most octopuses cannot see colors in the way that we do, and they are still trying to understand how the animals match their surroundings so well.",
+            "vi": "Kỳ lạ là các nhà khoa học cho rằng phần lớn bạch tuộc không nhìn thấy màu sắc theo cách chúng ta nhìn, và họ vẫn đang tìm hiểu vì sao chúng hoà vào môi trường xung quanh giỏi đến vậy."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yet for all their intelligence, most octopuses live surprisingly short lives, often only one or two years.",
+            "vi": "Dù thông minh như vậy, phần lớn bạch tuộc sống ngắn một cách bất ngờ, thường chỉ một hai năm."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They are not aliens, of course. But they are a reminder that the most extraordinary creatures on Earth may be living right under the waves.",
+            "vi": "Tất nhiên chúng không phải người ngoài hành tinh. Nhưng chúng nhắc ta rằng những sinh vật phi thường nhất trên Trái Đất có thể đang sống ngay dưới những con sóng."
+          }
+        }
+      ],
+      "content_ja": "The Octopus: An Alien in the Ocean?\n\nIf scientists ever wanted to design a creature that seemed to come from another planet, they could hardly do better than the octopus.\n\nTo begin with, an octopus has three hearts. Two of them pump blood through its gills, where it takes oxygen from the water, and the third pumps blood around the rest of its body. Its blood is blue, not red, because it uses copper instead of iron to carry oxygen.\n\nIts brain is just as unusual. An octopus has around 500 million nerve cells, which is similar to a dog, but about two-thirds of them are in its arms, not in its head. This means that each arm can touch, taste and even make simple decisions on its own.\n\nOctopuses are also famous for their intelligence. In Indonesia, researchers have filmed octopuses carrying coconut shells across the sea floor and later using them as a shelter. In aquariums, some have learned to open jars, and a few have escaped from their tanks. Some even seem to recognize individual people: workers at one aquarium reported that an octopus often shot water at the same worker, but never at anyone else. One famous octopus in New Zealand is believed to have climbed out of its tank at night, crossed the floor and slipped down a pipe that led to the ocean.\n\nPerhaps most amazing of all, an octopus can change the color and even the texture of its skin in less than a second, so that it looks exactly like a rock or a piece of coral. Strangely, scientists believe that most octopuses cannot see colors in the way that we do, and they are still trying to understand how the animals match their surroundings so well.\n\nYet for all their intelligence, most octopuses live surprisingly short lives, often only one or two years. They are not aliens, of course. But they are a reminder that the most extraordinary creatures on Earth may be living right under the waves.",
+      "translation_vn": "(1) Bạch tuộc: người ngoài hành tinh dưới đại dương?\n(2) Nếu các nhà khoa học muốn thiết kế một sinh vật trông như tới từ hành tinh khác, khó có thể làm tốt hơn con bạch tuộc.\n(3) Trước hết, bạch tuộc có ba quả tim.\n(4) Hai quả bơm máu qua mang, nơi nó lấy oxy từ nước, còn quả thứ ba bơm máu đi khắp phần còn lại của cơ thể.\n(5) Máu của nó màu xanh lam chứ không đỏ, vì nó dùng đồng thay cho sắt để vận chuyển oxy.\n(6) Bộ não của nó cũng khác thường không kém.\n(7) Bạch tuộc có khoảng 500 triệu tế bào thần kinh, xấp xỉ một chú chó, nhưng khoảng hai phần ba số đó nằm ở các xúc tu chứ không ở đầu.\n(8) Điều này có nghĩa là mỗi xúc tu có thể tự chạm, tự nếm, thậm chí tự đưa ra quyết định đơn giản.\n(9) Bạch tuộc còn nổi tiếng thông minh.\n(10) Ở Indonesia, các nhà nghiên cứu đã quay được cảnh bạch tuộc mang vỏ dừa đi khắp đáy biển rồi sau đó dùng làm chỗ trú.\n(11) Trong các thuỷ cung, có con đã học được cách mở lọ, và vài con còn trốn khỏi bể.\n(12) Có con còn dường như nhận ra từng người: nhân viên ở một thuỷ cung kể rằng một con bạch tuộc hay phun nước vào đúng một nhân viên, nhưng chưa bao giờ phun vào ai khác.\n(13) Một con bạch tuộc nổi tiếng ở New Zealand được cho là đã trèo ra khỏi bể vào ban đêm, bò qua sàn rồi trượt xuống một đường ống dẫn ra biển.\n(14) Có lẽ đáng kinh ngạc nhất là bạch tuộc có thể đổi màu, thậm chí đổi cả bề mặt da trong chưa tới một giây, để trông y hệt một hòn đá hay một mẩu san hô.\n(15) Kỳ lạ là các nhà khoa học cho rằng phần lớn bạch tuộc không nhìn thấy màu sắc theo cách chúng ta nhìn, và họ vẫn đang tìm hiểu vì sao chúng hoà vào môi trường xung quanh giỏi đến vậy.\n(16) Dù thông minh như vậy, phần lớn bạch tuộc sống ngắn một cách bất ngờ, thường chỉ một hai năm.\n(17) Tất nhiên chúng không phải người ngoài hành tinh. Nhưng chúng nhắc ta rằng những sinh vật phi thường nhất trên Trái Đất có thể đang sống ngay dưới những con sóng.",
+      "word_count": 337,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004",
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008",
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012",
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016",
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020",
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024",
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028",
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032",
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036",
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040",
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044",
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048",
+        "b1.049",
+        "b1.050",
+        "b1.051",
+        "b1.052",
+        "b1.053",
+        "b1.054",
+        "b1.055",
+        "b1.056",
+        "b1.057",
+        "b1.058",
+        "b1.059",
+        "b1.060",
+        "b1.061",
+        "b1.062",
+        "b1.063",
+        "b1.064",
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068",
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072",
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076",
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080",
+        "b1.081",
+        "b1.082",
+        "b1.083",
+        "b1.084",
+        "b1.085",
+        "b1.086",
+        "b1.087",
+        "b1.088",
+        "b1.089",
+        "b1.090",
+        "b1.091",
+        "b1.092",
+        "b1.093",
+        "b1.094",
+        "b1.095",
+        "b1.096",
+        "b1.097",
+        "b1.098",
+        "b1.099",
+        "b1.100",
+        "b1.101",
+        "b1.102",
+        "b1.103",
+        "b1.104",
+        "b1.105",
+        "b1.106",
+        "b1.107",
+        "b1.108",
+        "b1.109",
+        "b1.110",
+        "b1.111",
+        "b1.112",
+        "b1.113",
+        "b1.114",
+        "b1.115",
+        "b1.116",
+        "b1.117",
+        "b1.118",
+        "b1.119",
+        "b1.120",
+        "b1.121",
+        "b1.122",
+        "b1.123",
+        "b1.124",
+        "b1.125",
+        "b1.126",
+        "b1.127",
+        "b1.128",
+        "b1.129",
+        "b1.130",
+        "b1.131",
+        "b1.132",
+        "b1.133",
+        "b1.134",
+        "b1.135",
+        "b1.136",
+        "b1.137",
+        "b1.138",
+        "b1.139",
+        "b1.140",
+        "b1.141",
+        "b1.142",
+        "b1.143",
+        "b1.144",
+        "b1.145",
+        "b1.146",
+        "b1.147",
+        "b1.148",
+        "b1.149",
+        "b1.150",
+        "b1.151",
+        "b1.152",
+        "b1.153",
+        "b1.154",
+        "b1.155",
+        "b1.156",
+        "b1.157",
+        "b1.158",
+        "b1.159",
+        "b1.160"
+      ]
+    },
+    {
+      "id": "passage_mock2_04",
+      "heading_i18n": {
+        "vi": "Phần 4 — Bài nêu quan điểm về tuần làm việc bốn ngày"
+      },
+      "narrator": "announcer",
+      "title": "The Four-Day Week: Work Less, Do More?",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 220,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Four-Day Week: Work Less, Do More?",
+            "vi": "Tuần làm việc bốn ngày: làm ít hơn, được việc hơn?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For most of the last hundred years, a normal working week has meant five days and around forty hours.",
+            "vi": "Gần suốt một trăm năm qua, một tuần làm việc bình thường nghĩa là năm ngày và khoảng bốn mươi giờ."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Recently, however, a growing number of companies have been testing a different idea: four days of work, with the same pay.",
+            "vi": "Tuy nhiên gần đây, ngày càng nhiều công ty thử nghiệm một ý tưởng khác: làm bốn ngày, lương giữ nguyên."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The biggest trial so far took place in the United Kingdom in 2022, when around sixty companies and nearly three thousand workers took part for six months.",
+            "vi": "Cuộc thử nghiệm lớn nhất tới nay diễn ra ở Vương quốc Anh năm 2022, với khoảng sáu mươi công ty và gần ba nghìn người lao động tham gia trong sáu tháng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the end, the great majority of the companies decided to continue with the shorter week.",
+            "vi": "Kết thúc thử nghiệm, phần lớn các công ty quyết định tiếp tục với tuần làm việc ngắn hơn."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most said that the amount of work done had stayed about the same, while workers reported less stress, better sleep and fewer sick days.",
+            "vi": "Phần lớn cho biết khối lượng công việc gần như không đổi, còn người lao động cho biết họ bớt căng thẳng, ngủ ngon hơn và ít ngày nghỉ ốm hơn."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Supporters say that the results are not surprising.",
+            "vi": "Những người ủng hộ nói kết quả này chẳng có gì lạ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When people know they have only four days, they waste less time in long meetings and focus on what really matters.",
+            "vi": "Khi biết mình chỉ có bốn ngày, người ta bớt phí thời gian vào những cuộc họp dài và tập trung vào việc thật sự quan trọng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A rested worker, they argue, is a better worker, and an extra day off gives people time for their families, their health and their hobbies.",
+            "vi": "Theo họ, người được nghỉ ngơi đầy đủ sẽ làm việc tốt hơn, và thêm một ngày nghỉ cho người ta thời gian dành cho gia đình, sức khoẻ và sở thích."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some companies also found that it became easier to hire new workers, because many people saw the shorter week as a great benefit.",
+            "vi": "Một số công ty còn thấy tuyển người mới dễ hơn, vì nhiều người coi tuần làm việc ngắn hơn là một quyền lợi lớn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not everyone is convinced.",
+            "vi": "Không phải ai cũng bị thuyết phục."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Critics point out that the companies in the trial chose to take part, so they were probably the ones most likely to succeed.",
+            "vi": "Những người phản biện chỉ ra rằng các công ty trong thử nghiệm là tự nguyện tham gia, nên có lẽ chính họ là những nơi dễ thành công nhất."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A four-day week may also be much harder for hospitals, schools and shops, which need people there every day.",
+            "vi": "Tuần bốn ngày cũng có thể khó hơn nhiều với bệnh viện, trường học và cửa hàng, những nơi ngày nào cũng cần người."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In some jobs, workers simply have to fit five days of work into four longer days, which can make them more tired, not less.",
+            "vi": "Ở một số công việc, người lao động đơn giản là phải dồn năm ngày việc vào bốn ngày dài hơn, điều có thể khiến họ mệt hơn chứ không đỡ hơn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So, is the four-day week the future?",
+            "vi": "Vậy tuần làm bốn ngày có phải là tương lai?"
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In my view, the honest answer is \"for some, but not for all\".",
+            "vi": "Theo tôi, câu trả lời thật lòng là \"với một số người, chứ không phải với tất cả\"."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The trials suggest that many office jobs could work this way without losing much, but a nurse or a bus driver cannot simply stop working on Fridays.",
+            "vi": "Các thử nghiệm cho thấy nhiều công việc văn phòng có thể làm theo cách này mà không mất mát bao nhiêu, nhưng một y tá hay một tài xế xe buýt thì không thể cứ thế nghỉ vào thứ Sáu."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Perhaps the most useful lesson of these experiments is not about the number of days, but about how much time we waste when we are at work.",
+            "vi": "Có lẽ bài học hữu ích nhất từ những thử nghiệm này không nằm ở số ngày làm việc, mà ở việc chúng ta đang lãng phí bao nhiêu thời gian khi làm việc."
+          }
+        }
+      ],
+      "content_ja": "The Four-Day Week: Work Less, Do More?\n\nFor most of the last hundred years, a normal working week has meant five days and around forty hours. Recently, however, a growing number of companies have been testing a different idea: four days of work, with the same pay.\n\nThe biggest trial so far took place in the United Kingdom in 2022, when around sixty companies and nearly three thousand workers took part for six months. At the end, the great majority of the companies decided to continue with the shorter week. Most said that the amount of work done had stayed about the same, while workers reported less stress, better sleep and fewer sick days.\n\nSupporters say that the results are not surprising. When people know they have only four days, they waste less time in long meetings and focus on what really matters. A rested worker, they argue, is a better worker, and an extra day off gives people time for their families, their health and their hobbies. Some companies also found that it became easier to hire new workers, because many people saw the shorter week as a great benefit.\n\nNot everyone is convinced. Critics point out that the companies in the trial chose to take part, so they were probably the ones most likely to succeed. A four-day week may also be much harder for hospitals, schools and shops, which need people there every day. In some jobs, workers simply have to fit five days of work into four longer days, which can make them more tired, not less.\n\nSo, is the four-day week the future? In my view, the honest answer is \"for some, but not for all\". The trials suggest that many office jobs could work this way without losing much, but a nurse or a bus driver cannot simply stop working on Fridays. Perhaps the most useful lesson of these experiments is not about the number of days, but about how much time we waste when we are at work.",
+      "translation_vn": "(1) Tuần làm việc bốn ngày: làm ít hơn, được việc hơn?\n(2) Gần suốt một trăm năm qua, một tuần làm việc bình thường nghĩa là năm ngày và khoảng bốn mươi giờ.\n(3) Tuy nhiên gần đây, ngày càng nhiều công ty thử nghiệm một ý tưởng khác: làm bốn ngày, lương giữ nguyên.\n(4) Cuộc thử nghiệm lớn nhất tới nay diễn ra ở Vương quốc Anh năm 2022, với khoảng sáu mươi công ty và gần ba nghìn người lao động tham gia trong sáu tháng.\n(5) Kết thúc thử nghiệm, phần lớn các công ty quyết định tiếp tục với tuần làm việc ngắn hơn.\n(6) Phần lớn cho biết khối lượng công việc gần như không đổi, còn người lao động cho biết họ bớt căng thẳng, ngủ ngon hơn và ít ngày nghỉ ốm hơn.\n(7) Những người ủng hộ nói kết quả này chẳng có gì lạ.\n(8) Khi biết mình chỉ có bốn ngày, người ta bớt phí thời gian vào những cuộc họp dài và tập trung vào việc thật sự quan trọng.\n(9) Theo họ, người được nghỉ ngơi đầy đủ sẽ làm việc tốt hơn, và thêm một ngày nghỉ cho người ta thời gian dành cho gia đình, sức khoẻ và sở thích.\n(10) Một số công ty còn thấy tuyển người mới dễ hơn, vì nhiều người coi tuần làm việc ngắn hơn là một quyền lợi lớn.\n(11) Không phải ai cũng bị thuyết phục.\n(12) Những người phản biện chỉ ra rằng các công ty trong thử nghiệm là tự nguyện tham gia, nên có lẽ chính họ là những nơi dễ thành công nhất.\n(13) Tuần bốn ngày cũng có thể khó hơn nhiều với bệnh viện, trường học và cửa hàng, những nơi ngày nào cũng cần người.\n(14) Ở một số công việc, người lao động đơn giản là phải dồn năm ngày việc vào bốn ngày dài hơn, điều có thể khiến họ mệt hơn chứ không đỡ hơn.\n(15) Vậy tuần làm bốn ngày có phải là tương lai?\n(16) Theo tôi, câu trả lời thật lòng là \"với một số người, chứ không phải với tất cả\".\n(17) Các thử nghiệm cho thấy nhiều công việc văn phòng có thể làm theo cách này mà không mất mát bao nhiêu, nhưng một y tá hay một tài xế xe buýt thì không thể cứ thế nghỉ vào thứ Sáu.\n(18) Có lẽ bài học hữu ích nhất từ những thử nghiệm này không nằm ở số ngày làm việc, mà ở việc chúng ta đang lãng phí bao nhiêu thời gian khi làm việc.",
+      "word_count": 337,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004",
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008",
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012",
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016",
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020",
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024",
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028",
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032",
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036",
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040",
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044",
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048",
+        "b1.049",
+        "b1.050",
+        "b1.051",
+        "b1.052",
+        "b1.053",
+        "b1.054",
+        "b1.055",
+        "b1.056",
+        "b1.057",
+        "b1.058",
+        "b1.059",
+        "b1.060",
+        "b1.061",
+        "b1.062",
+        "b1.063",
+        "b1.064",
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068",
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072",
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076",
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080",
+        "b1.081",
+        "b1.082",
+        "b1.083",
+        "b1.084",
+        "b1.085",
+        "b1.086",
+        "b1.087",
+        "b1.088",
+        "b1.089",
+        "b1.090",
+        "b1.091",
+        "b1.092",
+        "b1.093",
+        "b1.094",
+        "b1.095",
+        "b1.096",
+        "b1.097",
+        "b1.098",
+        "b1.099",
+        "b1.100",
+        "b1.101",
+        "b1.102",
+        "b1.103",
+        "b1.104",
+        "b1.105",
+        "b1.106",
+        "b1.107",
+        "b1.108",
+        "b1.109",
+        "b1.110",
+        "b1.111",
+        "b1.112",
+        "b1.113",
+        "b1.114",
+        "b1.115",
+        "b1.116",
+        "b1.117",
+        "b1.118",
+        "b1.119",
+        "b1.120",
+        "b1.121",
+        "b1.122",
+        "b1.123",
+        "b1.124",
+        "b1.125",
+        "b1.126",
+        "b1.127",
+        "b1.128",
+        "b1.129",
+        "b1.130",
+        "b1.131",
+        "b1.132",
+        "b1.133",
+        "b1.134",
+        "b1.135",
+        "b1.136",
+        "b1.137",
+        "b1.138",
+        "b1.139",
+        "b1.140",
+        "b1.141",
+        "b1.142",
+        "b1.143",
+        "b1.144",
+        "b1.145",
+        "b1.146",
+        "b1.147",
+        "b1.148",
+        "b1.149",
+        "b1.150",
+        "b1.151",
+        "b1.152",
+        "b1.153",
+        "b1.154",
+        "b1.155",
+        "b1.156",
+        "b1.157",
+        "b1.158",
+        "b1.159",
+        "b1.160"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mock2_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What is the main purpose of the notice?",
+        "vi": "Mục đích chính của thông báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to tell people about free winter workshops and how to join them",
+            "vi": "để báo cho mọi người về các lớp học mùa đông miễn phí và cách đăng ký"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to tell people about free winter workshops and how to join them",
+          "text_translation": "để báo cho mọi người về các lớp học mùa đông miễn phí và cách đăng ký"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to sell bikes and laptops",
+            "vi": "để bán xe đạp và máy tính xách tay"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to sell bikes and laptops",
+          "text_translation": "để bán xe đạp và máy tính xách tay"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain the history of the fire station",
+            "vi": "để giải thích lịch sử trạm cứu hoả"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain the history of the fire station",
+          "text_translation": "để giải thích lịch sử trạm cứu hoả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to ask for volunteers to teach",
+            "vi": "để tìm tình nguyện viên dạy học"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to ask for volunteers to teach",
+          "text_translation": "để tìm tình nguyện viên dạy học"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Learn something new this winter! All workshops are free\". Thông báo liệt kê bốn lớp và các quy định đăng ký."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the notice?",
+      "question_vn": "Mục đích chính của thông báo là gì?",
+      "explanation": "\"Learn something new this winter! All workshops are free\". Thông báo liệt kê bốn lớp và các quy định đăng ký."
+    },
+    {
+      "id": "q_mock2_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "When must people register for a workshop?",
+        "vi": "Phải đăng ký lớp học khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on the day of the class",
+            "vi": "ngay hôm có lớp"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "on the day of the class",
+          "text_translation": "ngay hôm có lớp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at least three days before each class",
+            "vi": "ít nhất ba ngày trước mỗi buổi"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "at least three days before each class",
+          "text_translation": "ít nhất ba ngày trước mỗi buổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "24 hours before the class",
+            "vi": "24 giờ trước buổi học"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "24 hours before the class",
+          "text_translation": "24 giờ trước buổi học"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "only in January",
+            "vi": "chỉ trong tháng Một"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "only in January",
+          "text_translation": "chỉ trong tháng Một"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"you are to register online at least three days before each class.\" 24 giờ là hạn chót để huỷ, không phải để đăng ký."
+      },
+      "audio_data": null,
+      "question_jp": "When must people register for a workshop?",
+      "question_vn": "Phải đăng ký lớp học khi nào?",
+      "explanation": "\"you are to register online at least three days before each class.\" 24 giờ là hạn chót để huỷ, không phải để đăng ký."
+    },
+    {
+      "id": "q_mock2_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "Which workshop would be best for someone who wants to take better pictures with a phone?",
+        "vi": "Lớp nào hợp nhất với người muốn chụp ảnh bằng điện thoại đẹp hơn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Fix Your Own Bike",
+            "vi": "Tự sửa xe đạp"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Fix Your Own Bike",
+          "text_translation": "Tự sửa xe đạp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Memories of Maple Street",
+            "vi": "Ký ức Maple Street"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Memories of Maple Street",
+          "text_translation": "Ký ức Maple Street"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Phone Photography for Beginners",
+            "vi": "Chụp ảnh bằng điện thoại cho người mới"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Phone Photography for Beginners",
+          "text_translation": "Chụp ảnh bằng điện thoại cho người mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Coding Club for Kids",
+            "vi": "Câu lạc bộ lập trình cho trẻ em"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Coding Club for Kids",
+          "text_translation": "Câu lạc bộ lập trình cho trẻ em"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our instructor, a local designer, will show you how to use natural light and take better photos of people and places.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which workshop would be best for someone who wants to take better pictures with a phone?",
+      "question_vn": "Lớp nào hợp nhất với người muốn chụp ảnh bằng điện thoại đẹp hơn?",
+      "explanation": "\"Our instructor, a local designer, will show you how to use natural light and take better photos of people and places.\""
+    },
+    {
+      "id": "q_mock2_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What should people bring to the \"Memories of Maple Street\" workshop?",
+        "vi": "Nên mang gì tới lớp \"Ký ức Maple Street\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a laptop",
+            "vi": "máy tính xách tay"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a laptop",
+          "text_translation": "máy tính xách tay"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "their bikes",
+            "vi": "xe đạp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "their bikes",
+          "text_translation": "xe đạp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a phone",
+            "vi": "điện thoại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a phone",
+          "text_translation": "điện thoại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "old photos and letters, if they have them",
+            "vi": "ảnh và thư cũ, nếu có"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "old photos and letters, if they have them",
+          "text_translation": "ảnh và thư cũ, nếu có"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Harriet Brooks will help you write down your family's stories. Old photos and letters are welcome.\""
+      },
+      "audio_data": null,
+      "question_jp": "What should people bring to the \"Memories of Maple Street\" workshop?",
+      "question_vn": "Nên mang gì tới lớp \"Ký ức Maple Street\"?",
+      "explanation": "\"Harriet Brooks will help you write down your family's stories. Old photos and letters are welcome.\""
+    },
+    {
+      "id": "q_mock2_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "A mother wants her six-year-old daughter to join the Coding Club. What does the notice say?",
+        "vi": "Một bà mẹ muốn cho con gái sáu tuổi vào câu lạc bộ lập trình. Thông báo nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The girl is too young, because the club is for ages 8 to 12.",
+            "vi": "Cô bé còn quá nhỏ, vì câu lạc bộ dành cho trẻ 8 tới 12 tuổi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The girl is too young, because the club is for ages 8 to 12.",
+          "text_translation": "Cô bé còn quá nhỏ, vì câu lạc bộ dành cho trẻ 8 tới 12 tuổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The girl can join if her mother stays with her.",
+            "vi": "Cô bé được tham gia nếu mẹ ở cùng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The girl can join if her mother stays with her.",
+          "text_translation": "Cô bé được tham gia nếu mẹ ở cùng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The girl must bring her own laptop.",
+            "vi": "Cô bé phải mang máy tính riêng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The girl must bring her own laptop.",
+          "text_translation": "Cô bé phải mang máy tính riêng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The girl can join on Saturdays.",
+            "vi": "Cô bé có thể học vào thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The girl can join on Saturdays.",
+          "text_translation": "Cô bé có thể học vào thứ Bảy."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu áp dụng. \"Coding Club for Kids (ages 8 – 12)\". Cô bé mới sáu tuổi, nên chưa đủ tuổi."
+      },
+      "audio_data": null,
+      "question_jp": "A mother wants her six-year-old daughter to join the Coding Club. What does the notice say?",
+      "question_vn": "Một bà mẹ muốn cho con gái sáu tuổi vào câu lạc bộ lập trình. Thông báo nói gì?",
+      "explanation": "Câu áp dụng. \"Coding Club for Kids (ages 8 – 12)\". Cô bé mới sáu tuổi, nên chưa đủ tuổi."
+    },
+    {
+      "id": "q_mock2_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "In \"places are limited\", what does \"limited\" mean?",
+        "vi": "Trong câu \"places are limited\", \"limited\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "very expensive",
+            "vi": "rất đắt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "very expensive",
+          "text_translation": "rất đắt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "far away",
+            "vi": "ở xa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "far away",
+          "text_translation": "ở xa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only a small number are available",
+            "vi": "chỉ có một số lượng nhỏ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "only a small number are available",
+          "text_translation": "chỉ có một số lượng nhỏ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "closed to children",
+            "vi": "không cho trẻ em"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "closed to children",
+          "text_translation": "không cho trẻ em"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"places are limited, so you are to register online\". Phần lưu ý nói rõ: \"Each workshop has fifteen places.\""
+      },
+      "audio_data": null,
+      "question_jp": "In \"places are limited\", what does \"limited\" mean?",
+      "question_vn": "Trong câu \"places are limited\", \"limited\" nghĩa là gì?",
+      "explanation": "\"places are limited, so you are to register online\". Phần lưu ý nói rõ: \"Each workshop has fifteen places.\""
+    },
+    {
+      "id": "q_mock2_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What happens if a class is already full?",
+        "vi": "Nếu lớp đã đủ người thì sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The library opens a second class.",
+            "vi": "Thư viện mở thêm lớp thứ hai."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The library opens a second class.",
+          "text_translation": "Thư viện mở thêm lớp thứ hai."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "You can join the waiting list.",
+            "vi": "Bạn có thể ghi tên vào danh sách chờ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "You can join the waiting list.",
+          "text_translation": "Bạn có thể ghi tên vào danh sách chờ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You have to pay for a place.",
+            "vi": "Bạn phải trả tiền để có chỗ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You have to pay for a place.",
+          "text_translation": "Bạn phải trả tiền để có chỗ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You can come without registering.",
+            "vi": "Bạn có thể tới mà không cần đăng ký."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "You can come without registering.",
+          "text_translation": "Bạn có thể tới mà không cần đăng ký."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"When a class is full, you can join the waiting list, and we will contact you if someone cancels.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happens if a class is already full?",
+      "question_vn": "Nếu lớp đã đủ người thì sao?",
+      "explanation": "\"When a class is full, you can join the waiting list, and we will contact you if someone cancels.\""
+    },
+    {
+      "id": "q_mock2_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "Why does the library ask people to cancel at least 24 hours before a class?",
+        "vi": "Vì sao thư viện đề nghị huỷ ít nhất 24 giờ trước buổi học?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to charge them a fee",
+            "vi": "để thu phí"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to charge them a fee",
+          "text_translation": "để thu phí"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "so that teachers can stay at home",
+            "vi": "để giáo viên được ở nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "so that teachers can stay at home",
+          "text_translation": "để giáo viên được ở nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the library closes early",
+            "vi": "vì thư viện đóng cửa sớm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the library closes early",
+          "text_translation": "vì thư viện đóng cửa sớm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that someone on the waiting list can take the place",
+            "vi": "để người trong danh sách chờ có thể thế chỗ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "so that someone on the waiting list can take the place",
+          "text_translation": "để người trong danh sách chờ có thể thế chỗ"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"please cancel at least 24 hours before the class so that someone else can take your place.\" Nối với câu trước: thư viện sẽ liên hệ người trong danh sách chờ."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the library ask people to cancel at least 24 hours before a class?",
+      "question_vn": "Vì sao thư viện đề nghị huỷ ít nhất 24 giờ trước buổi học?",
+      "explanation": "Câu suy luận. \"please cancel at least 24 hours before the class so that someone else can take your place.\" Nối với câu trước: thư viện sẽ liên hệ người trong danh sách chờ."
+    },
+    {
+      "id": "q_mock2_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "Where can parents wait during the Coding Club?",
+        "vi": "Phụ huynh có thể chờ ở đâu trong giờ câu lạc bộ lập trình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in the reading room",
+            "vi": "ở phòng đọc"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "in the reading room",
+          "text_translation": "ở phòng đọc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in the classroom",
+            "vi": "trong lớp học"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in the classroom",
+          "text_translation": "trong lớp học"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at the front desk",
+            "vi": "ở quầy lễ tân"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at the front desk",
+          "text_translation": "ở quầy lễ tân"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "outside the building",
+            "vi": "bên ngoài toà nhà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "outside the building",
+          "text_translation": "bên ngoài toà nhà"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"except in the Coding Club, where parents can wait in the reading room.\""
+      },
+      "audio_data": null,
+      "question_jp": "Where can parents wait during the Coding Club?",
+      "question_vn": "Phụ huynh có thể chờ ở đâu trong giờ câu lạc bộ lập trình?",
+      "explanation": "\"except in the Coding Club, where parents can wait in the reading room.\""
+    },
+    {
+      "id": "q_mock2_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What does the last part of the notice suggest about the library?",
+        "vi": "Phần cuối thông báo cho thấy điều gì về thư viện?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It will become a fire station again.",
+            "vi": "Nó sẽ lại thành trạm cứu hoả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It will become a fire station again.",
+          "text_translation": "Nó sẽ lại thành trạm cứu hoả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is a new building.",
+            "vi": "Nó là một toà nhà mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is a new building.",
+          "text_translation": "Nó là một toà nhà mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is proud of the building's history.",
+            "vi": "Nó tự hào về lịch sử của toà nhà."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is proud of the building's history.",
+          "text_translation": "Nó tự hào về lịch sử của toà nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It charges for history tours.",
+            "vi": "Nó thu tiền các chuyến tham quan lịch sử."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It charges for history tours.",
+          "text_translation": "Nó thu tiền các chuyến tham quan lịch sử."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Our library was a fire station from 1925 until the 1990s. Ask at the front desk for a free history tour of the building.\" Thư viện chủ động giới thiệu và mời tham quan miễn phí."
+      },
+      "audio_data": null,
+      "question_jp": "What does the last part of the notice suggest about the library?",
+      "question_vn": "Phần cuối thông báo cho thấy điều gì về thư viện?",
+      "explanation": "Câu suy luận. \"Our library was a fire station from 1925 until the 1990s. Ask at the front desk for a free history tour of the building.\" Thư viện chủ động giới thiệu và mời tham quan miễn phí."
+    },
+    {
+      "id": "q_mock2_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What is Leah's blog post mainly about?",
+        "vi": "Bài blog của Leah chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to get into medical school",
+            "vi": "cách vào trường y"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to get into medical school",
+          "text_translation": "cách vào trường y"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why coffee is bad for doctors",
+            "vi": "vì sao cà phê có hại cho bác sĩ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "why coffee is bad for doctors",
+          "text_translation": "vì sao cà phê có hại cho bác sĩ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "her family's history",
+            "vi": "lịch sử gia đình cô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "her family's history",
+          "text_translation": "lịch sử gia đình cô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the lessons that she has learned in her first months as a doctor",
+            "vi": "những bài học cô rút ra trong mấy tháng đầu làm bác sĩ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the lessons that she has learned in her first months as a doctor",
+          "text_translation": "những bài học cô rút ra trong mấy tháng đầu làm bác sĩ"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề \"What My First Months as a Doctor Taught Me\". Bài kể lần lượt \"The first lesson\", \"The second lesson\", \"The third lesson\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is Leah's blog post mainly about?",
+      "question_vn": "Bài blog của Leah chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề \"What My First Months as a Doctor Taught Me\". Bài kể lần lượt \"The first lesson\", \"The second lesson\", \"The third lesson\"."
+    },
+    {
+      "id": "q_mock2_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What did Leah think when she graduated from medical school?",
+        "vi": "Khi tốt nghiệp trường y, Leah đã nghĩ gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that the hardest part was over",
+            "vi": "rằng phần khó nhất đã qua"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "that the hardest part was over",
+          "text_translation": "rằng phần khó nhất đã qua"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that she wanted a different job",
+            "vi": "rằng cô muốn làm nghề khác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that she wanted a different job",
+          "text_translation": "rằng cô muốn làm nghề khác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that books are more complicated than people",
+            "vi": "rằng sách vở phức tạp hơn con người"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that books are more complicated than people",
+          "text_translation": "rằng sách vở phức tạp hơn con người"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that nurses know more than doctors",
+            "vi": "rằng y tá biết nhiều hơn bác sĩ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that nurses know more than doctors",
+          "text_translation": "rằng y tá biết nhiều hơn bác sĩ"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"When I graduated from medical school, I thought that the hardest part was over. I was wrong.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Leah think when she graduated from medical school?",
+      "question_vn": "Khi tốt nghiệp trường y, Leah đã nghĩ gì?",
+      "explanation": "\"When I graduated from medical school, I thought that the hardest part was over. I was wrong.\""
+    },
+    {
+      "id": "q_mock2_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What was Leah's problem during her first night shift?",
+        "vi": "Ca đêm đầu tiên Leah gặp khó khăn gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She didn't have any patients.",
+            "vi": "Cô không có bệnh nhân nào."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She didn't have any patients.",
+          "text_translation": "Cô không có bệnh nhân nào."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She worked too slowly because she wanted everything to be perfect.",
+            "vi": "Cô làm quá chậm vì muốn mọi thứ hoàn hảo."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She worked too slowly because she wanted everything to be perfect.",
+          "text_translation": "Cô làm quá chậm vì muốn mọi thứ hoàn hảo."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She forgot her coffee.",
+            "vi": "Cô quên cà phê."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She forgot her coffee.",
+          "text_translation": "Cô quên cà phê."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She argued with a nurse.",
+            "vi": "Cô cãi nhau với một y tá."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She argued with a nurse.",
+          "text_translation": "Cô cãi nhau với một y tá."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"I wanted to do everything perfectly, so I did everything slowly.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was Leah's problem during her first night shift?",
+      "question_vn": "Ca đêm đầu tiên Leah gặp khó khăn gì?",
+      "explanation": "\"I wanted to do everything perfectly, so I did everything slowly.\""
+    },
+    {
+      "id": "q_mock2_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What does the nurse's advice \"decide what can't wait, and do that first\" mean?",
+        "vi": "Lời khuyên của chị y tá \"quyết định việc gì không thể chờ, rồi làm việc đó trước\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Do the easiest jobs first.",
+            "vi": "Làm việc dễ nhất trước."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Do the easiest jobs first.",
+          "text_translation": "Làm việc dễ nhất trước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Wait until morning.",
+            "vi": "Chờ tới sáng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Wait until morning.",
+          "text_translation": "Chờ tới sáng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Deal with the most urgent things first.",
+            "vi": "Giải quyết việc gấp nhất trước."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Deal with the most urgent things first.",
+          "text_translation": "Giải quyết việc gấp nhất trước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Ask a doctor for help.",
+            "vi": "Nhờ bác sĩ giúp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Ask a doctor for help.",
+          "text_translation": "Nhờ bác sĩ giúp."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Doctor, decide what can't wait, and do that first.\" Việc \"không thể chờ\" chính là việc gấp nhất."
+      },
+      "audio_data": null,
+      "question_jp": "What does the nurse's advice \"decide what can't wait, and do that first\" mean?",
+      "question_vn": "Lời khuyên của chị y tá \"quyết định việc gì không thể chờ, rồi làm việc đó trước\" nghĩa là gì?",
+      "explanation": "\"Doctor, decide what can't wait, and do that first.\" Việc \"không thể chờ\" chính là việc gấp nhất."
+    },
+    {
+      "id": "q_mock2_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "Why do nurses often notice small changes in patients first?",
+        "vi": "Vì sao y tá thường là người đầu tiên nhận ra thay đổi nhỏ ở bệnh nhân?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are better trained than doctors.",
+            "vi": "Vì họ được đào tạo tốt hơn bác sĩ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are better trained than doctors.",
+          "text_translation": "Vì họ được đào tạo tốt hơn bác sĩ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They work only at night.",
+            "vi": "Vì họ chỉ làm ban đêm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They work only at night.",
+          "text_translation": "Vì họ chỉ làm ban đêm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Patients tell them everything.",
+            "vi": "Vì bệnh nhân kể mọi chuyện với họ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Patients tell them everything.",
+          "text_translation": "Vì bệnh nhân kể mọi chuyện với họ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They spend more time with patients than doctors do.",
+            "vi": "Vì họ ở bên bệnh nhân nhiều hơn bác sĩ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They spend more time with patients than doctors do.",
+          "text_translation": "Vì họ ở bên bệnh nhân nhiều hơn bác sĩ."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"They spend more time with patients than doctors do, so they often notice small changes first.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why do nurses often notice small changes in patients first?",
+      "question_vn": "Vì sao y tá thường là người đầu tiên nhận ra thay đổi nhỏ ở bệnh nhân?",
+      "explanation": "\"They spend more time with patients than doctors do, so they often notice small changes first.\""
+    },
+    {
+      "id": "q_mock2_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What does \"I grew up with a nurse in the family, so I should have known this already\" suggest?",
+        "vi": "Câu \"Tôi lớn lên trong một gia đình có người làm y tá, nên lẽ ra phải biết điều này từ lâu\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Leah's family doesn't like nurses.",
+            "vi": "Gia đình Leah không thích y tá."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Leah's family doesn't like nurses.",
+          "text_translation": "Gia đình Leah không thích y tá."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah had seen how much nurses know, but she only really understood it in the hospital.",
+            "vi": "Leah từng thấy y tá hiểu biết thế nào, nhưng chỉ tới khi vào viện cô mới thật sự hiểu."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Leah had seen how much nurses know, but she only really understood it in the hospital.",
+          "text_translation": "Leah từng thấy y tá hiểu biết thế nào, nhưng chỉ tới khi vào viện cô mới thật sự hiểu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leah wanted to be a nurse.",
+            "vi": "Leah muốn làm y tá."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Leah wanted to be a nurse.",
+          "text_translation": "Leah muốn làm y tá."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah's mother is a doctor.",
+            "vi": "Mẹ Leah là bác sĩ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah's mother is a doctor.",
+          "text_translation": "Mẹ Leah là bác sĩ."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Should have + V3 = lẽ ra đã phải. Leah sống ở nhà Carter, và Megan là y tá khoa cấp cứu. Cô biết điều đó từ lâu nhưng \"had to learn it again in the hospital\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I grew up with a nurse in the family, so I should have known this already\" suggest?",
+      "question_vn": "Câu \"Tôi lớn lên trong một gia đình có người làm y tá, nên lẽ ra phải biết điều này từ lâu\" hàm ý gì?",
+      "explanation": "Câu suy luận. Should have + V3 = lẽ ra đã phải. Leah sống ở nhà Carter, và Megan là y tá khoa cấp cứu. Cô biết điều đó từ lâu nhưng \"had to learn it again in the hospital\"."
+    },
+    {
+      "id": "q_mock2_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What happened in Leah's second month?",
+        "vi": "Tháng thứ hai của Leah đã xảy ra chuyện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wrote the wrong amount on a medicine order, but a pharmacist noticed it in time.",
+            "vi": "Cô ghi nhầm liều trong y lệnh, nhưng dược sĩ đã kịp phát hiện."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She wrote the wrong amount on a medicine order, but a pharmacist noticed it in time.",
+          "text_translation": "Cô ghi nhầm liều trong y lệnh, nhưng dược sĩ đã kịp phát hiện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A patient was badly hurt.",
+            "vi": "Một bệnh nhân bị ảnh hưởng nặng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "A patient was badly hurt.",
+          "text_translation": "Một bệnh nhân bị ảnh hưởng nặng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She lost her job.",
+            "vi": "Cô bị mất việc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She lost her job.",
+          "text_translation": "Cô bị mất việc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She became a supervisor.",
+            "vi": "Cô trở thành bác sĩ hướng dẫn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She became a supervisor.",
+          "text_translation": "Cô trở thành bác sĩ hướng dẫn."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"I wrote the wrong amount on a patient's medicine order. A pharmacist noticed it before the patient took anything, and nobody was hurt.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened in Leah's second month?",
+      "question_vn": "Tháng thứ hai của Leah đã xảy ra chuyện gì?",
+      "explanation": "\"I wrote the wrong amount on a patient's medicine order. A pharmacist noticed it before the patient took anything, and nobody was hurt.\""
+    },
+    {
+      "id": "q_mock2_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "According to Leah's supervisor, why are hospitals safer when people report mistakes?",
+        "vi": "Theo bác sĩ hướng dẫn, vì sao bệnh viện an toàn hơn khi mọi người báo cáo sai sót?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Because people who report mistakes are punished.",
+            "vi": "Vì người báo cáo sai sót sẽ bị phạt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Because people who report mistakes are punished.",
+          "text_translation": "Vì người báo cáo sai sót sẽ bị phạt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Because patients like it.",
+            "vi": "Vì bệnh nhân thích thế."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Because patients like it.",
+          "text_translation": "Vì bệnh nhân thích thế."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Because that is how everyone learns to prevent them.",
+            "vi": "Vì đó là cách để ai cũng học được cách phòng tránh."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Because that is how everyone learns to prevent them.",
+          "text_translation": "Vì đó là cách để ai cũng học được cách phòng tránh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Because doctors have more free time.",
+            "vi": "Vì bác sĩ có nhiều thời gian rảnh hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Because doctors have more free time.",
+          "text_translation": "Vì bác sĩ có nhiều thời gian rảnh hơn."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"hospitals are safer when people report mistakes, because that is how everyone learns to prevent them.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Leah's supervisor, why are hospitals safer when people report mistakes?",
+      "question_vn": "Theo bác sĩ hướng dẫn, vì sao bệnh viện an toàn hơn khi mọi người báo cáo sai sót?",
+      "explanation": "\"hospitals are safer when people report mistakes, because that is how everyone learns to prevent them.\""
+    },
+    {
+      "id": "q_mock2_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "How did Leah feel after her mistake?",
+        "vi": "Leah cảm thấy thế nào sau sai sót của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "proud",
+            "vi": "tự hào"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "proud",
+          "text_translation": "tự hào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "bored",
+            "vi": "chán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "bored",
+          "text_translation": "chán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "angry with the pharmacist",
+            "vi": "giận dược sĩ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "angry with the pharmacist",
+          "text_translation": "giận dược sĩ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "terribly embarrassed",
+            "vi": "xấu hổ vô cùng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "terribly embarrassed",
+          "text_translation": "xấu hổ vô cùng"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I felt terribly embarrassed, and part of me wanted to say nothing.\" Embarrassed (-ed) là cảm giác của người trong cuộc."
+      },
+      "audio_data": null,
+      "question_jp": "How did Leah feel after her mistake?",
+      "question_vn": "Leah cảm thấy thế nào sau sai sót của mình?",
+      "explanation": "\"I felt terribly embarrassed, and part of me wanted to say nothing.\" Embarrassed (-ed) là cảm giác của người trong cuộc."
+    },
+    {
+      "id": "q_mock2_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What does the last paragraph show about Leah's feelings toward her job?",
+        "vi": "Đoạn cuối cho thấy Leah cảm thấy thế nào về công việc của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wants to change jobs soon.",
+            "vi": "Cô muốn sớm đổi việc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wants to change jobs soon.",
+          "text_translation": "Cô muốn sớm đổi việc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Although it is tiring, she loves it and would not change it.",
+            "vi": "Dù mệt, cô yêu nghề và không muốn đổi."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Although it is tiring, she loves it and would not change it.",
+          "text_translation": "Dù mệt, cô yêu nghề và không muốn đổi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She thinks that it is too easy.",
+            "vi": "Cô thấy nó quá dễ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She thinks that it is too easy.",
+          "text_translation": "Cô thấy nó quá dễ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She doesn't care about her patients.",
+            "vi": "Cô không quan tâm tới bệnh nhân."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She doesn't care about her patients.",
+          "text_translation": "Cô không quan tâm tới bệnh nhân."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về thái độ. \"I remember why I chose this job, and I wouldn't change it for anything.\" Câu trước thừa nhận \"I am still tired most of the time\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the last paragraph show about Leah's feelings toward her job?",
+      "question_vn": "Đoạn cuối cho thấy Leah cảm thấy thế nào về công việc của mình?",
+      "explanation": "Câu suy luận về thái độ. \"I remember why I chose this job, and I wouldn't change it for anything.\" Câu trước thừa nhận \"I am still tired most of the time\"."
+    },
+    {
+      "id": "q_mock2_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Why does the writer compare the octopus to an alien?",
+        "vi": "Vì sao người viết so sánh bạch tuộc với người ngoài hành tinh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Octopuses came to Earth from another planet.",
+            "vi": "Vì bạch tuộc tới Trái Đất từ hành tinh khác."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Octopuses came to Earth from another planet.",
+          "text_translation": "Vì bạch tuộc tới Trái Đất từ hành tinh khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Scientists designed the octopus.",
+            "vi": "Vì các nhà khoa học đã thiết kế ra bạch tuộc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Scientists designed the octopus.",
+          "text_translation": "Vì các nhà khoa học đã thiết kế ra bạch tuộc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is so unusual that it seems to come from another planet.",
+            "vi": "Vì nó khác thường tới mức như đến từ hành tinh khác."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is so unusual that it seems to come from another planet.",
+          "text_translation": "Vì nó khác thường tới mức như đến từ hành tinh khác."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Octopuses can live in space.",
+            "vi": "Vì bạch tuộc sống được ngoài vũ trụ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Octopuses can live in space.",
+          "text_translation": "Vì bạch tuộc sống được ngoài vũ trụ."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"If scientists ever wanted to design a creature that seemed to come from another planet, they could hardly do better than the octopus.\" Cuối bài nói rõ: \"They are not aliens, of course.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer compare the octopus to an alien?",
+      "question_vn": "Vì sao người viết so sánh bạch tuộc với người ngoài hành tinh?",
+      "explanation": "\"If scientists ever wanted to design a creature that seemed to come from another planet, they could hardly do better than the octopus.\" Cuối bài nói rõ: \"They are not aliens, of course.\""
+    },
+    {
+      "id": "q_mock2_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What do two of the octopus's three hearts do?",
+        "vi": "Hai trong ba quả tim của bạch tuộc làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They pump blood around the whole body.",
+            "vi": "Bơm máu đi khắp cơ thể."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They pump blood around the whole body.",
+          "text_translation": "Bơm máu đi khắp cơ thể."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They change the color of its skin.",
+            "vi": "Đổi màu da."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They change the color of its skin.",
+          "text_translation": "Đổi màu da."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They control its arms.",
+            "vi": "Điều khiển các xúc tu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They control its arms.",
+          "text_translation": "Điều khiển các xúc tu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They pump blood through its gills.",
+            "vi": "Bơm máu qua mang."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They pump blood through its gills.",
+          "text_translation": "Bơm máu qua mang."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Two of them pump blood through its gills, where it takes oxygen from the water, and the third pumps blood around the rest of its body.\""
+      },
+      "audio_data": null,
+      "question_jp": "What do two of the octopus's three hearts do?",
+      "question_vn": "Hai trong ba quả tim của bạch tuộc làm gì?",
+      "explanation": "\"Two of them pump blood through its gills, where it takes oxygen from the water, and the third pumps blood around the rest of its body.\""
+    },
+    {
+      "id": "q_mock2_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Why is an octopus's blood blue?",
+        "vi": "Vì sao máu bạch tuộc màu xanh lam?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It uses copper instead of iron to carry oxygen.",
+            "vi": "Vì nó dùng đồng thay cho sắt để vận chuyển oxy."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It uses copper instead of iron to carry oxygen.",
+          "text_translation": "Vì nó dùng đồng thay cho sắt để vận chuyển oxy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It lives in blue water.",
+            "vi": "Vì nó sống trong nước xanh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It lives in blue water.",
+          "text_translation": "Vì nó sống trong nước xanh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It has three hearts.",
+            "vi": "Vì nó có ba quả tim."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It has three hearts.",
+          "text_translation": "Vì nó có ba quả tim."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It eats blue fish.",
+            "vi": "Vì nó ăn cá xanh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It eats blue fish.",
+          "text_translation": "Vì nó ăn cá xanh."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Its blood is blue, not red, because it uses copper instead of iron to carry oxygen.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why is an octopus's blood blue?",
+      "question_vn": "Vì sao máu bạch tuộc màu xanh lam?",
+      "explanation": "\"Its blood is blue, not red, because it uses copper instead of iron to carry oxygen.\""
+    },
+    {
+      "id": "q_mock2_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What is surprising about the octopus's nerve cells?",
+        "vi": "Điều gì đáng ngạc nhiên về tế bào thần kinh của bạch tuộc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has more of them than any other animal.",
+            "vi": "Nó có nhiều hơn mọi loài khác."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It has more of them than any other animal.",
+          "text_translation": "Nó có nhiều hơn mọi loài khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "About two-thirds of them are in its arms, not in its head.",
+            "vi": "Khoảng hai phần ba nằm ở xúc tu chứ không ở đầu."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "About two-thirds of them are in its arms, not in its head.",
+          "text_translation": "Khoảng hai phần ba nằm ở xúc tu chứ không ở đầu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It has none in its arms.",
+            "vi": "Xúc tu của nó không có tế bào thần kinh nào."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It has none in its arms.",
+          "text_translation": "Xúc tu của nó không có tế bào thần kinh nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are all in its hearts.",
+            "vi": "Tất cả đều nằm ở tim."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are all in its hearts.",
+          "text_translation": "Tất cả đều nằm ở tim."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"about two-thirds of them are in its arms, not in its head.\" Tổng số chỉ \"similar to a dog\", không phải nhiều nhất."
+      },
+      "audio_data": null,
+      "question_jp": "What is surprising about the octopus's nerve cells?",
+      "question_vn": "Điều gì đáng ngạc nhiên về tế bào thần kinh của bạch tuộc?",
+      "explanation": "\"about two-thirds of them are in its arms, not in its head.\" Tổng số chỉ \"similar to a dog\", không phải nhiều nhất."
+    },
+    {
+      "id": "q_mock2_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What does \"each arm can touch, taste and even make simple decisions on its own\" mean?",
+        "vi": "Câu \"mỗi xúc tu có thể tự chạm, tự nếm, thậm chí tự đưa ra quyết định đơn giản\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Each arm has its own heart.",
+            "vi": "Mỗi xúc tu có tim riêng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Each arm has its own heart.",
+          "text_translation": "Mỗi xúc tu có tim riêng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The arms cannot move without the head.",
+            "vi": "Xúc tu không cử động được nếu không có đầu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The arms cannot move without the head.",
+          "text_translation": "Xúc tu không cử động được nếu không có đầu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Each arm can do some things without help from the brain in the head.",
+            "vi": "Mỗi xúc tu có thể làm vài việc mà không cần bộ não ở đầu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Each arm can do some things without help from the brain in the head.",
+          "text_translation": "Mỗi xúc tu có thể làm vài việc mà không cần bộ não ở đầu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The arms can leave the body.",
+            "vi": "Xúc tu có thể rời khỏi cơ thể."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The arms can leave the body.",
+          "text_translation": "Xúc tu có thể rời khỏi cơ thể."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"each arm can touch, taste and even make simple decisions on its own.\" On its own = tự mình, không cần trợ giúp. Câu này giải thích hệ quả của việc tế bào thần kinh nằm ở xúc tu."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"each arm can touch, taste and even make simple decisions on its own\" mean?",
+      "question_vn": "Câu \"mỗi xúc tu có thể tự chạm, tự nếm, thậm chí tự đưa ra quyết định đơn giản\" nghĩa là gì?",
+      "explanation": "\"each arm can touch, taste and even make simple decisions on its own.\" On its own = tự mình, không cần trợ giúp. Câu này giải thích hệ quả của việc tế bào thần kinh nằm ở xúc tu."
+    },
+    {
+      "id": "q_mock2_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What have researchers in Indonesia filmed?",
+        "vi": "Các nhà nghiên cứu ở Indonesia đã quay được cảnh gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "octopuses carrying coconut shells and later using them as a shelter",
+            "vi": "bạch tuộc mang vỏ dừa rồi sau đó dùng làm chỗ trú"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "octopuses carrying coconut shells and later using them as a shelter",
+          "text_translation": "bạch tuộc mang vỏ dừa rồi sau đó dùng làm chỗ trú"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "octopuses opening jars",
+            "vi": "bạch tuộc mở lọ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "octopuses opening jars",
+          "text_translation": "bạch tuộc mở lọ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "an octopus escaping from a tank",
+            "vi": "một con bạch tuộc trốn khỏi bể"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "an octopus escaping from a tank",
+          "text_translation": "một con bạch tuộc trốn khỏi bể"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "octopuses eating coconuts",
+            "vi": "bạch tuộc ăn dừa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "octopuses eating coconuts",
+          "text_translation": "bạch tuộc ăn dừa"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"researchers have filmed octopuses carrying coconut shells across the sea floor and later using them as a shelter.\" Mở lọ và trốn khỏi bể là chuyện ở thuỷ cung."
+      },
+      "audio_data": null,
+      "question_jp": "What have researchers in Indonesia filmed?",
+      "question_vn": "Các nhà nghiên cứu ở Indonesia đã quay được cảnh gì?",
+      "explanation": "\"researchers have filmed octopuses carrying coconut shells across the sea floor and later using them as a shelter.\" Mở lọ và trốn khỏi bể là chuyện ở thuỷ cung."
+    },
+    {
+      "id": "q_mock2_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What does the story of the octopus in New Zealand show?",
+        "vi": "Câu chuyện con bạch tuộc ở New Zealand cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Octopuses don't like aquariums.",
+            "vi": "Bạch tuộc không thích thuỷ cung."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Octopuses don't like aquariums.",
+          "text_translation": "Bạch tuộc không thích thuỷ cung."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "New Zealand has the biggest octopuses.",
+            "vi": "New Zealand có bạch tuộc lớn nhất."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "New Zealand has the biggest octopuses.",
+          "text_translation": "New Zealand có bạch tuộc lớn nhất."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Octopuses can live without water for days.",
+            "vi": "Bạch tuộc sống được nhiều ngày không cần nước."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Octopuses can live without water for days.",
+          "text_translation": "Bạch tuộc sống được nhiều ngày không cần nước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Octopuses can find clever ways to escape.",
+            "vi": "Bạch tuộc có thể tìm ra những cách trốn thoát thông minh."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Octopuses can find clever ways to escape.",
+          "text_translation": "Bạch tuộc có thể tìm ra những cách trốn thoát thông minh."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Con bạch tuộc \"climbed out of its tank at night, crossed the floor and slipped down a pipe that led to the ocean\". Đây là ví dụ cho câu chủ đề \"Octopuses are also famous for their intelligence.\" Chữ is believed cho thấy đây là điều người ta tin, chưa chắc chắn hoàn toàn."
+      },
+      "audio_data": null,
+      "question_jp": "What does the story of the octopus in New Zealand show?",
+      "question_vn": "Câu chuyện con bạch tuộc ở New Zealand cho thấy điều gì?",
+      "explanation": "Câu suy luận. Con bạch tuộc \"climbed out of its tank at night, crossed the floor and slipped down a pipe that led to the ocean\". Đây là ví dụ cho câu chủ đề \"Octopuses are also famous for their intelligence.\" Chữ is believed cho thấy đây là điều người ta tin, chưa chắc chắn hoàn toàn."
+    },
+    {
+      "id": "q_mock2_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Why do scientists find the octopus's color changes strange?",
+        "vi": "Vì sao các nhà khoa học thấy việc đổi màu của bạch tuộc là lạ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Octopuses change color very slowly.",
+            "vi": "Vì bạch tuộc đổi màu rất chậm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Octopuses change color very slowly.",
+          "text_translation": "Vì bạch tuộc đổi màu rất chậm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Most octopuses probably cannot see colors in the way that we do.",
+            "vi": "Vì phần lớn bạch tuộc có lẽ không nhìn thấy màu sắc theo cách chúng ta nhìn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Most octopuses probably cannot see colors in the way that we do.",
+          "text_translation": "Vì phần lớn bạch tuộc có lẽ không nhìn thấy màu sắc theo cách chúng ta nhìn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Octopuses are always red.",
+            "vi": "Vì bạch tuộc lúc nào cũng màu đỏ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Octopuses are always red.",
+          "text_translation": "Vì bạch tuộc lúc nào cũng màu đỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Coral has no color.",
+            "vi": "Vì san hô không có màu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Coral has no color.",
+          "text_translation": "Vì san hô không có màu."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Strangely, scientists believe that most octopuses cannot see colors in the way that we do\". Không thấy màu mà vẫn hoà màu giỏi, nên mới lạ."
+      },
+      "audio_data": null,
+      "question_jp": "Why do scientists find the octopus's color changes strange?",
+      "question_vn": "Vì sao các nhà khoa học thấy việc đổi màu của bạch tuộc là lạ?",
+      "explanation": "\"Strangely, scientists believe that most octopuses cannot see colors in the way that we do\". Không thấy màu mà vẫn hoà màu giỏi, nên mới lạ."
+    },
+    {
+      "id": "q_mock2_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "In \"so that it looks exactly like a rock or a piece of coral\", what is the purpose of changing color?",
+        "vi": "Trong câu \"để trông y hệt một hòn đá hay một mẩu san hô\", việc đổi màu nhằm mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to attract other octopuses",
+            "vi": "để thu hút bạch tuộc khác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to attract other octopuses",
+          "text_translation": "để thu hút bạch tuộc khác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to keep warm",
+            "vi": "để giữ ấm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to keep warm",
+          "text_translation": "để giữ ấm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to hide by matching its surroundings",
+            "vi": "để ẩn mình bằng cách hoà vào môi trường xung quanh"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to hide by matching its surroundings",
+          "text_translation": "để ẩn mình bằng cách hoà vào môi trường xung quanh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that it is angry",
+            "vi": "để thể hiện nó đang tức giận"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to show that it is angry",
+          "text_translation": "để thể hiện nó đang tức giận"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"so that it looks exactly like a rock or a piece of coral.\" So that chỉ mục đích: trông giống đá, giống san hô để ẩn mình. Câu sau dùng cụm \"match their surroundings\"."
+      },
+      "audio_data": null,
+      "question_jp": "In \"so that it looks exactly like a rock or a piece of coral\", what is the purpose of changing color?",
+      "question_vn": "Trong câu \"để trông y hệt một hòn đá hay một mẩu san hô\", việc đổi màu nhằm mục đích gì?",
+      "explanation": "\"so that it looks exactly like a rock or a piece of coral.\" So that chỉ mục đích: trông giống đá, giống san hô để ẩn mình. Câu sau dùng cụm \"match their surroundings\"."
+    },
+    {
+      "id": "q_mock2_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Which of these is TRUE about most octopuses?",
+        "vi": "Điều nào ĐÚNG về phần lớn bạch tuộc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They live surprisingly short lives, often only one or two years.",
+            "vi": "Chúng sống ngắn một cách bất ngờ, thường chỉ một hai năm."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They live surprisingly short lives, often only one or two years.",
+          "text_translation": "Chúng sống ngắn một cách bất ngờ, thường chỉ một hai năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They live for more than fifty years.",
+            "vi": "Chúng sống hơn năm mươi năm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They live for more than fifty years.",
+          "text_translation": "Chúng sống hơn năm mươi năm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have red blood.",
+            "vi": "Chúng có máu đỏ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have red blood.",
+          "text_translation": "Chúng có máu đỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They have one heart.",
+            "vi": "Chúng có một quả tim."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They have one heart.",
+          "text_translation": "Chúng có một quả tim."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"most octopuses live surprisingly short lives, often only one or two years.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is TRUE about most octopuses?",
+      "question_vn": "Điều nào ĐÚNG về phần lớn bạch tuộc?",
+      "explanation": "\"most octopuses live surprisingly short lives, often only one or two years.\""
+    },
+    {
+      "id": "q_mock2_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to find a new job",
+            "vi": "cách tìm việc mới"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to find a new job",
+          "text_translation": "cách tìm việc mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the arguments for and against a four-day working week",
+            "vi": "những lý lẽ ủng hộ và phản đối tuần làm việc bốn ngày"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the arguments for and against a four-day working week",
+          "text_translation": "những lý lẽ ủng hộ và phản đối tuần làm việc bốn ngày"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the history of the United Kingdom",
+            "vi": "lịch sử Vương quốc Anh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the history of the United Kingdom",
+          "text_translation": "lịch sử Vương quốc Anh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "why nurses work on Fridays",
+            "vi": "vì sao y tá làm việc vào thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "why nurses work on Fridays",
+          "text_translation": "vì sao y tá làm việc vào thứ Sáu"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"a growing number of companies have been testing a different idea: four days of work, with the same pay.\" Bài nêu kết quả thử nghiệm, ý kiến ủng hộ (đoạn 4), ý kiến phản đối (đoạn 5), rồi quan điểm của người viết."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"a growing number of companies have been testing a different idea: four days of work, with the same pay.\" Bài nêu kết quả thử nghiệm, ý kiến ủng hộ (đoạn 4), ý kiến phản đối (đoạn 5), rồi quan điểm của người viết."
+    },
+    {
+      "id": "q_mock2_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What does the four-day week mean in this article?",
+        "vi": "Trong bài, tuần làm việc bốn ngày nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "working four days for less money",
+            "vi": "làm bốn ngày, lương thấp hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "working four days for less money",
+          "text_translation": "làm bốn ngày, lương thấp hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "working four hours a day",
+            "vi": "mỗi ngày làm bốn tiếng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "working four hours a day",
+          "text_translation": "mỗi ngày làm bốn tiếng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "four days of work, with the same pay",
+            "vi": "làm bốn ngày, lương giữ nguyên"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "four days of work, with the same pay",
+          "text_translation": "làm bốn ngày, lương giữ nguyên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "working only four weeks a year",
+            "vi": "mỗi năm chỉ làm bốn tuần"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "working only four weeks a year",
+          "text_translation": "mỗi năm chỉ làm bốn tuần"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"four days of work, with the same pay.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the four-day week mean in this article?",
+      "question_vn": "Trong bài, tuần làm việc bốn ngày nghĩa là gì?",
+      "explanation": "\"four days of work, with the same pay.\""
+    },
+    {
+      "id": "q_mock2_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What did most companies in the 2022 trial decide?",
+        "vi": "Phần lớn công ty trong thử nghiệm năm 2022 đã quyết định gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to go back to five days immediately",
+            "vi": "quay lại làm năm ngày ngay lập tức"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to go back to five days immediately",
+          "text_translation": "quay lại làm năm ngày ngay lập tức"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to pay workers less",
+            "vi": "trả lương thấp hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to pay workers less",
+          "text_translation": "trả lương thấp hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to close their offices",
+            "vi": "đóng cửa văn phòng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to close their offices",
+          "text_translation": "đóng cửa văn phòng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to continue with the shorter week",
+            "vi": "tiếp tục với tuần làm việc ngắn hơn"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to continue with the shorter week",
+          "text_translation": "tiếp tục với tuần làm việc ngắn hơn"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"At the end, the great majority of the companies decided to continue with the shorter week.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did most companies in the 2022 trial decide?",
+      "question_vn": "Phần lớn công ty trong thử nghiệm năm 2022 đã quyết định gì?",
+      "explanation": "\"At the end, the great majority of the companies decided to continue with the shorter week.\""
+    },
+    {
+      "id": "q_mock2_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Which of these is NOT given as a result for workers in the trial?",
+        "vi": "Điều nào KHÔNG được nêu là kết quả với người lao động trong thử nghiệm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "higher pay",
+            "vi": "lương cao hơn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "higher pay",
+          "text_translation": "lương cao hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "less stress",
+            "vi": "bớt căng thẳng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "less stress",
+          "text_translation": "bớt căng thẳng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "better sleep",
+            "vi": "ngủ ngon hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "better sleep",
+          "text_translation": "ngủ ngon hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "fewer sick days",
+            "vi": "ít ngày nghỉ ốm hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "fewer sick days",
+          "text_translation": "ít ngày nghỉ ốm hơn"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"workers reported less stress, better sleep and fewer sick days.\" Lương được giữ nguyên chứ không tăng."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT given as a result for workers in the trial?",
+      "question_vn": "Điều nào KHÔNG được nêu là kết quả với người lao động trong thử nghiệm?",
+      "explanation": "\"workers reported less stress, better sleep and fewer sick days.\" Lương được giữ nguyên chứ không tăng."
+    },
+    {
+      "id": "q_mock2_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "According to supporters, why do people work well in a four-day week?",
+        "vi": "Theo người ủng hộ, vì sao người ta làm việc tốt trong tuần bốn ngày?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They have more meetings.",
+            "vi": "Vì họ có nhiều cuộc họp hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They have more meetings.",
+          "text_translation": "Vì họ có nhiều cuộc họp hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They waste less time and focus on what really matters.",
+            "vi": "Vì họ bớt phí thời gian và tập trung vào việc thật sự quan trọng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They waste less time and focus on what really matters.",
+          "text_translation": "Vì họ bớt phí thời gian và tập trung vào việc thật sự quan trọng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They work twelve hours a day.",
+            "vi": "Vì họ làm mười hai tiếng mỗi ngày."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They work twelve hours a day.",
+          "text_translation": "Vì họ làm mười hai tiếng mỗi ngày."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Their managers watch them more closely.",
+            "vi": "Vì quản lý giám sát họ chặt hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Their managers watch them more closely.",
+          "text_translation": "Vì quản lý giám sát họ chặt hơn."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"they waste less time in long meetings and focus on what really matters.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to supporters, why do people work well in a four-day week?",
+      "question_vn": "Theo người ủng hộ, vì sao người ta làm việc tốt trong tuần bốn ngày?",
+      "explanation": "\"they waste less time in long meetings and focus on what really matters.\""
+    },
+    {
+      "id": "q_mock2_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Why do critics say that the trial results may not be fair?",
+        "vi": "Vì sao người phản biện cho rằng kết quả thử nghiệm có thể chưa khách quan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The trial was too long.",
+            "vi": "Vì thử nghiệm quá dài."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The trial was too long.",
+          "text_translation": "Vì thử nghiệm quá dài."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The workers were paid more.",
+            "vi": "Vì người lao động được trả nhiều hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The workers were paid more.",
+          "text_translation": "Vì người lao động được trả nhiều hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nobody reported the results.",
+            "vi": "Vì không ai công bố kết quả."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nobody reported the results.",
+          "text_translation": "Vì không ai công bố kết quả."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The companies chose to take part, so they were probably the most likely to succeed.",
+            "vi": "Vì các công ty tự nguyện tham gia, nên có lẽ là những nơi dễ thành công nhất."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The companies chose to take part, so they were probably the most likely to succeed.",
+          "text_translation": "Vì các công ty tự nguyện tham gia, nên có lẽ là những nơi dễ thành công nhất."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"the companies in the trial chose to take part, so they were probably the ones most likely to succeed.\" Nghĩa là kết quả có thể không đúng với mọi công ty."
+      },
+      "audio_data": null,
+      "question_jp": "Why do critics say that the trial results may not be fair?",
+      "question_vn": "Vì sao người phản biện cho rằng kết quả thử nghiệm có thể chưa khách quan?",
+      "explanation": "Câu suy luận. \"the companies in the trial chose to take part, so they were probably the ones most likely to succeed.\" Nghĩa là kết quả có thể không đúng với mọi công ty."
+    },
+    {
+      "id": "q_mock2_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Why might a four-day week be harder for hospitals, schools and shops?",
+        "vi": "Vì sao tuần bốn ngày có thể khó hơn với bệnh viện, trường học và cửa hàng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are too small.",
+            "vi": "Vì chúng quá nhỏ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are too small.",
+          "text_translation": "Vì chúng quá nhỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Their workers don't want it.",
+            "vi": "Vì nhân viên không muốn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Their workers don't want it.",
+          "text_translation": "Vì nhân viên không muốn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They need people there every day.",
+            "vi": "Vì ngày nào chúng cũng cần người."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They need people there every day.",
+          "text_translation": "Vì ngày nào chúng cũng cần người."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They already work four days.",
+            "vi": "Vì chúng vốn đã làm bốn ngày."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They already work four days.",
+          "text_translation": "Vì chúng vốn đã làm bốn ngày."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"A four-day week may also be much harder for hospitals, schools and shops, which need people there every day.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why might a four-day week be harder for hospitals, schools and shops?",
+      "question_vn": "Vì sao tuần bốn ngày có thể khó hơn với bệnh viện, trường học và cửa hàng?",
+      "explanation": "\"A four-day week may also be much harder for hospitals, schools and shops, which need people there every day.\""
+    },
+    {
+      "id": "q_mock2_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What does \"fit five days of work into four longer days\" suggest?",
+        "vi": "Cụm \"dồn năm ngày việc vào bốn ngày dài hơn\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The amount of work stays the same, so each working day becomes longer.",
+            "vi": "Khối lượng việc không đổi, nên mỗi ngày làm việc dài ra."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The amount of work stays the same, so each working day becomes longer.",
+          "text_translation": "Khối lượng việc không đổi, nên mỗi ngày làm việc dài ra."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Workers do less work.",
+            "vi": "Người lao động làm ít việc hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Workers do less work.",
+          "text_translation": "Người lao động làm ít việc hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Workers get an extra day of pay.",
+            "vi": "Người lao động được trả thêm một ngày lương."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Workers get an extra day of pay.",
+          "text_translation": "Người lao động được trả thêm một ngày lương."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The days themselves become longer than 24 hours.",
+            "vi": "Bản thân mỗi ngày dài hơn 24 tiếng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The days themselves become longer than 24 hours.",
+          "text_translation": "Bản thân mỗi ngày dài hơn 24 tiếng."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"workers simply have to fit five days of work into four longer days, which can make them more tired, not less.\" Việc không giảm, chỉ dồn lại, nên ngày làm việc dài hơn."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"fit five days of work into four longer days\" suggest?",
+      "question_vn": "Cụm \"dồn năm ngày việc vào bốn ngày dài hơn\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"workers simply have to fit five days of work into four longer days, which can make them more tired, not less.\" Việc không giảm, chỉ dồn lại, nên ngày làm việc dài hơn."
+    },
+    {
+      "id": "q_mock2_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What is the writer's opinion?",
+        "vi": "Quan điểm của người viết là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Every company should have a four-day week now.",
+            "vi": "Mọi công ty nên áp dụng tuần bốn ngày ngay."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Every company should have a four-day week now.",
+          "text_translation": "Mọi công ty nên áp dụng tuần bốn ngày ngay."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A four-day week can work for some jobs, but not for all.",
+            "vi": "Tuần bốn ngày hợp với một số công việc, nhưng không phải tất cả."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "A four-day week can work for some jobs, but not for all.",
+          "text_translation": "Tuần bốn ngày hợp với một số công việc, nhưng không phải tất cả."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The four-day week is a bad idea for everyone.",
+            "vi": "Tuần bốn ngày là ý tồi với tất cả mọi người."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The four-day week is a bad idea for everyone.",
+          "text_translation": "Tuần bốn ngày là ý tồi với tất cả mọi người."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nurses should work only four days.",
+            "vi": "Y tá chỉ nên làm bốn ngày."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nurses should work only four days.",
+          "text_translation": "Y tá chỉ nên làm bốn ngày."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"In my view, the honest answer is \"for some, but not for all\".\" In my view mở đầu quan điểm riêng của người viết."
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's opinion?",
+      "question_vn": "Quan điểm của người viết là gì?",
+      "explanation": "\"In my view, the honest answer is \"for some, but not for all\".\" In my view mở đầu quan điểm riêng của người viết."
+    },
+    {
+      "id": "q_mock2_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "According to the writer, what may be the most useful lesson of the experiments?",
+        "vi": "Theo người viết, bài học hữu ích nhất từ các thử nghiệm có lẽ là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Office workers are lazy.",
+            "vi": "Nhân viên văn phòng lười biếng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Office workers are lazy.",
+          "text_translation": "Nhân viên văn phòng lười biếng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Fridays are the least important day.",
+            "vi": "Thứ Sáu là ngày kém quan trọng nhất."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Fridays are the least important day.",
+          "text_translation": "Thứ Sáu là ngày kém quan trọng nhất."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Companies should pay more.",
+            "vi": "Công ty nên trả lương cao hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Companies should pay more.",
+          "text_translation": "Công ty nên trả lương cao hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "We waste a lot of time when we are at work.",
+            "vi": "Chúng ta lãng phí rất nhiều thời gian khi làm việc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "We waste a lot of time when we are at work.",
+          "text_translation": "Chúng ta lãng phí rất nhiều thời gian khi làm việc."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"the most useful lesson of these experiments is not about the number of days, but about how much time we waste when we are at work.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the writer, what may be the most useful lesson of the experiments?",
+      "question_vn": "Theo người viết, bài học hữu ích nhất từ các thử nghiệm có lẽ là gì?",
+      "explanation": "\"the most useful lesson of these experiments is not about the number of days, but about how much time we waste when we are at work.\""
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_mock2_reading_1",
+      "set_type": "reading",
+      "name": "Phần 1 — Thông báo lớp học mùa đông ở thư viện",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_mock2_01",
+      "question_ids": [
+        "q_mock2_001",
+        "q_mock2_002",
+        "q_mock2_003",
+        "q_mock2_004",
+        "q_mock2_005",
+        "q_mock2_006",
+        "q_mock2_007",
+        "q_mock2_008",
+        "q_mock2_009",
+        "q_mock2_010"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_2",
+      "set_type": "reading",
+      "name": "Phần 2 — Blog của Leah về những tháng đầu làm bác sĩ",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_mock2_02",
+      "question_ids": [
+        "q_mock2_011",
+        "q_mock2_012",
+        "q_mock2_013",
+        "q_mock2_014",
+        "q_mock2_015",
+        "q_mock2_016",
+        "q_mock2_017",
+        "q_mock2_018",
+        "q_mock2_019",
+        "q_mock2_020"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_3",
+      "set_type": "reading",
+      "name": "Phần 3 — Bài khoa học về bạch tuộc",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_mock2_03",
+      "question_ids": [
+        "q_mock2_021",
+        "q_mock2_022",
+        "q_mock2_023",
+        "q_mock2_024",
+        "q_mock2_025",
+        "q_mock2_026",
+        "q_mock2_027",
+        "q_mock2_028",
+        "q_mock2_029",
+        "q_mock2_030"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_4",
+      "set_type": "reading",
+      "name": "Phần 4 — Bài nêu quan điểm về tuần làm việc bốn ngày",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_mock2_04",
+      "question_ids": [
+        "q_mock2_031",
+        "q_mock2_032",
+        "q_mock2_033",
+        "q_mock2_034",
+        "q_mock2_035",
+        "q_mock2_036",
+        "q_mock2_037",
+        "q_mock2_038",
+        "q_mock2_039",
+        "q_mock2_040"
+      ]
+    }
+  ]
+}
