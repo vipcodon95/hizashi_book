@@ -1,0 +1,2087 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 3 — Childhood memories",
+      "vi": "Ký ức tuổi thơ"
+    },
+    "title": "Unit 3 — Childhood memories",
+    "title_vn": "Ký ức tuổi thơ",
+    "module_code": "58_u03",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u03",
+    "curriculum_sheets": [
+      "b1.009",
+      "b1.010",
+      "b1.011",
+      "b1.012"
+    ],
+    "characters": [
+      "Mitchell Carter",
+      "Trevor Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "đầu tháng 10, năm 4 (bài 1: tiết sử thứ Sáu 3/10 ở Westview High; lịch năm 4 theo mẫu năm 2025; Mitchell 47 tuổi, Trevor 14 tuổi học năm nhất và ngồi trong lớp của bố; bài 2: bài khoa học phổ thông về chứng quên tuổi thơ)"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "used to, sở hữu với of, between / among, hoà hợp chủ ngữ – động từ (each of, every, one of, the number of), hiện tại hoàn thành và quá khứ đơn; ý chính / tiêu đề, chi tiết, từ trong ngữ cảnh, quy chiếu, NOT, mục đích, thái độ, 4 câu suy luận (1 câu nối hai bài)",
+    "description_vn": "Bài 1: thầy Carter (Mitchell) mở dự án phỏng vấn người lớn tuổi ở lớp sử năm nhất bằng chính tuổi thơ của mình: lớn lên ở một thị trấn nhỏ phía đông San Diego, nhà năm người, bà nội dạy chữ cái, cùng em trai đuổi gà nhà hàng xóm, sợ hề và sợ bóng tối, đổ cả cốc muối vào súp của mẹ năm mười hai tuổi, lần đầu đi máy bay năm mười lăm tuổi; Trevor ngồi trong lớp và đã nghe hết. Bài 2: bài khoa học phổ thông vì sao ta không nhớ được trước ba bốn tuổi (nghiên cứu Emory, hồi hải mã, ngôn ngữ, ý thức về bản thân, ký ức đầu tiên \"không có thật\"). 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 3 khoá B1 · phiếu `b1.009` – `b1.012` (những việc hồi nhỏ từng làm, cuộc sống đã đổi thay thế nào, truyền thống gia đình, lớn lên)."
+    },
+    "objective_i18n": {
+      "vi": "đọc bài nói của thầy Carter kể tuổi thơ cho lớp sử trước khi học sinh đi phỏng vấn người lớn tuổi, và bài khoa học phổ thông về \"chứng quên tuổi thơ\"; luyện used to (thói quen đã qua), sở hữu với of (the arms of my seat, the beginning of my love of cooking), between / among, hoà hợp chủ ngữ – động từ (each of you needs, one of my favorite memories is, the number of houses has), hiện tại hoàn thành và quá khứ đơn; tìm chi tiết, ý chính và tiêu đề, đoán nghĩa từ trong ngữ cảnh, hiểu đại từ chỉ gì, câu NOT, mục đích và thái độ người viết, 4 câu suy luận (1 câu nối hai bài)."
+    },
+    "extra_words": [
+      {
+        "word": "clown",
+        "i18n": {
+          "vi": "chú hề"
+        }
+      },
+      {
+        "word": "hometown",
+        "i18n": {
+          "vi": "quê nhà, nơi mình lớn lên"
+        }
+      },
+      {
+        "word": "amnesia",
+        "i18n": {
+          "vi": "chứng quên, mất trí nhớ"
+        }
+      },
+      {
+        "word": "hippocampus",
+        "i18n": {
+          "vi": "hồi hải mã (bộ phận của não giúp lưu giữ ký ức)"
+        }
+      },
+      {
+        "word": "sense of self",
+        "i18n": {
+          "vi": "ý thức về bản thân"
+        }
+      },
+      {
+        "word": "survey",
+        "i18n": {
+          "vi": "cuộc khảo sát"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "get into mischief",
+          "vi": "bày trò nghịch ngợm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "among all the kids on our road",
+          "vi": "trong đám trẻ con trên đường nhà mình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I cherish those years.",
+          "vi": "Tôi trân trọng những năm tháng ấy."
+        }
+      },
+      {
+        "i18n": {
+          "en": "the person I am today",
+          "vi": "con người tôi hôm nay"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fade away",
+          "vi": "mờ dần rồi mất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "recognize someone's voice",
+          "vi": "nhận ra giọng ai đó"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**used to + động từ nguyên mẫu** = thói quen hoặc trạng thái ngày xưa, nay không còn (`I also used to be afraid of the deep darkness`). Câu hỏi về \"hồi nhỏ từng…\" thường lấy đáp án từ các câu có used to."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**between** dùng cho hai bên (`between our house and theirs`), **among** dùng cho cả một nhóm (`among all the kids on our road`). Đại từ sở hữu **theirs / mine / ours** thay cho \"của ai + danh từ vừa nói\": hãy tìm người được nhắc ngay trước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Hoà hợp chủ ngữ – động từ:** `each of you needs`, `one of my favorite memories is`, `the number of houses has grown` đều đi với động từ số ít. Nhận ra chủ ngữ thật (each, one, the number) giúp hiểu câu dài đúng hơn."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài khoa học có nhiều con số (ba bốn tuổi, sáu mươi phần trăm, bốn mươi phần trăm, năm 2018). Ghi bên cạnh mỗi con số là nói về ai, vì phương án nhiễu hay tráo số giữa các ý."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận (cảm xúc từ hành động, thay đổi \"hồi đó – bây giờ\", áp dụng vào tình huống mới, nối hai bài): bài không nói thẳng. Ghép hai câu trong bài lại, hoặc đặt tình huống mới cạnh quy luật bài đã nêu."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u03_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Thầy Carter kể chuyện tuổi thơ cho lớp sử"
+      },
+      "narrator": "Mitchell",
+      "title": "When I Was Your Age",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 140,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I Was Your Age",
+            "vi": "Hồi thầy bằng tuổi các em"
+          }
+        },
+        {
+          "n": 2,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Friday, October 3",
+            "vi": "Thứ Sáu, ngày 3 tháng 10"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Good morning! This month, each of you will interview an older person about their childhood, so I'll go first.",
+            "vi": "Chào cả lớp! Tháng này, mỗi em sẽ phỏng vấn một người lớn tuổi về tuổi thơ của họ, nên thầy kể trước."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor, please don't hide behind your book; I know you've heard these stories.",
+            "vi": "Trevor, đừng nấp sau cuốn sách nữa con; thầy biết con nghe mấy chuyện này rồi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I grew up in a small town east of San Diego, in a household of five: Mom, Dad, Grandma, my brother, and me.",
+            "vi": "Thầy lớn lên ở một thị trấn nhỏ phía đông San Diego, trong một nhà năm người: mẹ, bố, bà, em trai và thầy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Grandma taught me the alphabet at the kitchen table before I started preschool.",
+            "vi": "Bà dạy thầy bảng chữ cái bên bàn bếp, từ trước khi thầy đi học mầm non."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My brother and I used to get into mischief all the time.",
+            "vi": "Hồi đó thầy và em trai suốt ngày bày trò nghịch ngợm."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We used to chase the neighbors' chickens between our house and theirs and giggle until Mom called us inside.",
+            "vi": "Hai anh em hay đuổi bắt đám gà nhà hàng xóm ở khoảng giữa nhà mình và nhà họ, rồi cười khúc khích cho tới khi mẹ gọi vào nhà."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every summer, a circus came to town, and among all the kids on our road, only I was afraid of the clowns.",
+            "vi": "Hè nào cũng có một gánh xiếc tới thị trấn, và trong đám trẻ con trên đường nhà thầy, chỉ có mình thầy sợ mấy chú hề."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I also used to be afraid of the darkness, so Grandma left a small light on every night.",
+            "vi": "Thầy còn từng sợ bóng tối, nên đêm nào bà cũng để một ngọn đèn nhỏ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One of my favorite memories is about my mom's vegetable soup.",
+            "vi": "Một trong những kỷ niệm thầy thích nhất là về món súp rau của mẹ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At twelve, she asked me to add a little salt, and I poured in a whole cup!",
+            "vi": "Năm mười hai tuổi, mẹ bảo thầy cho thêm một chút muối, và thầy đổ vào nguyên một cốc!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She just laughed, and that was the beginning of my love of cooking.",
+            "vi": "Mẹ chỉ cười, và đó là khởi đầu cho niềm mê nấu ăn của thầy."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At fifteen, I took my first flight, to visit my aunt in New York, and held the arms of my seat the whole time.",
+            "vi": "Năm mười lăm tuổi, thầy đi máy bay lần đầu, để thăm dì ở New York, và suốt chuyến bay thầy cứ bám chặt tay vịn ghế."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since then, my hometown has changed completely: the farms are gone, and the number of houses has grown a lot.",
+            "vi": "Từ đó tới nay, quê thầy đã thay đổi hoàn toàn: các trang trại không còn nữa, và số nhà đã tăng lên rất nhiều."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Still, I cherish those years: they made me the person I am today.",
+            "vi": "Dù vậy, thầy vẫn trân trọng những năm tháng ấy: chính chúng đã làm nên con người thầy hôm nay."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This weekend, choose an older person to interview, and on Monday each of you needs to give me a name.",
+            "vi": "Cuối tuần này, các em hãy chọn một người lớn tuổi để phỏng vấn, và thứ Hai mỗi em phải nộp cho thầy một cái tên."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And Trevor, you can't choose me!",
+            "vi": "Còn Trevor, con không được chọn thầy đâu nhé!"
+          }
+        }
+      ],
+      "content_ja": "When I Was Your Age\n\nFriday, October 3\n\nGood morning! This month, each of you will interview an older person about their childhood, so I'll go first. Trevor, please don't hide behind your book; I know you've heard these stories.\n\nI grew up in a small town east of San Diego, in a household of five: Mom, Dad, Grandma, my brother, and me. Grandma taught me the alphabet at the kitchen table before I started preschool.\n\nMy brother and I used to get into mischief all the time. We used to chase the neighbors' chickens between our house and theirs and giggle until Mom called us inside. Every summer, a circus came to town, and among all the kids on our road, only I was afraid of the clowns. I also used to be afraid of the darkness, so Grandma left a small light on every night.\n\nOne of my favorite memories is about my mom's vegetable soup. At twelve, she asked me to add a little salt, and I poured in a whole cup! She just laughed, and that was the beginning of my love of cooking. At fifteen, I took my first flight, to visit my aunt in New York, and held the arms of my seat the whole time.\n\nSince then, my hometown has changed completely: the farms are gone, and the number of houses has grown a lot. Still, I cherish those years: they made me the person I am today.\n\nThis weekend, choose an older person to interview, and on Monday each of you needs to give me a name. And Trevor, you can't choose me!",
+      "translation_vn": "(1) Hồi thầy bằng tuổi các em\n(2) Thứ Sáu, ngày 3 tháng 10\n(3) Chào cả lớp! Tháng này, mỗi em sẽ phỏng vấn một người lớn tuổi về tuổi thơ của họ, nên thầy kể trước.\n(4) Trevor, đừng nấp sau cuốn sách nữa con; thầy biết con nghe mấy chuyện này rồi.\n(5) Thầy lớn lên ở một thị trấn nhỏ phía đông San Diego, trong một nhà năm người: mẹ, bố, bà, em trai và thầy.\n(6) Bà dạy thầy bảng chữ cái bên bàn bếp, từ trước khi thầy đi học mầm non.\n(7) Hồi đó thầy và em trai suốt ngày bày trò nghịch ngợm.\n(8) Hai anh em hay đuổi bắt đám gà nhà hàng xóm ở khoảng giữa nhà mình và nhà họ, rồi cười khúc khích cho tới khi mẹ gọi vào nhà.\n(9) Hè nào cũng có một gánh xiếc tới thị trấn, và trong đám trẻ con trên đường nhà thầy, chỉ có mình thầy sợ mấy chú hề.\n(10) Thầy còn từng sợ bóng tối, nên đêm nào bà cũng để một ngọn đèn nhỏ.\n(11) Một trong những kỷ niệm thầy thích nhất là về món súp rau của mẹ.\n(12) Năm mười hai tuổi, mẹ bảo thầy cho thêm một chút muối, và thầy đổ vào nguyên một cốc!\n(13) Mẹ chỉ cười, và đó là khởi đầu cho niềm mê nấu ăn của thầy.\n(14) Năm mười lăm tuổi, thầy đi máy bay lần đầu, để thăm dì ở New York, và suốt chuyến bay thầy cứ bám chặt tay vịn ghế.\n(15) Từ đó tới nay, quê thầy đã thay đổi hoàn toàn: các trang trại không còn nữa, và số nhà đã tăng lên rất nhiều.\n(16) Dù vậy, thầy vẫn trân trọng những năm tháng ấy: chính chúng đã làm nên con người thầy hôm nay.\n(17) Cuối tuần này, các em hãy chọn một người lớn tuổi để phỏng vấn, và thứ Hai mỗi em phải nộp cho thầy một cái tên.\n(18) Còn Trevor, con không được chọn thầy đâu nhé!",
+      "word_count": 270,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012"
+      ]
+    },
+    {
+      "id": "passage_u03_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Vì sao ta không nhớ được hồi còn bé xíu?"
+      },
+      "narrator": "announcer",
+      "title": "Why Can't We Remember Being Babies?",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 140,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why Can't We Remember Being Babies?",
+            "vi": "Vì sao chúng ta không nhớ được hồi còn là em bé?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most adults can't remember anything from before the age of three or four.",
+            "vi": "Đa số người lớn không nhớ được điều gì từ trước khi ba hoặc bốn tuổi."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Scientists call this \"childhood amnesia.\"",
+            "vi": "Các nhà khoa học gọi hiện tượng này là \"chứng quên tuổi thơ\"."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Strangely, babies are good at remembering: a newborn can already recognize its mother's voice, probably because it heard that voice for months before birth.",
+            "vi": "Điều lạ là em bé ghi nhớ khá giỏi: trẻ sơ sinh đã có thể nhận ra giọng mẹ, có lẽ vì bé đã nghe giọng ấy suốt mấy tháng trước khi chào đời."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Keeping those memories is the hard part, as a study at Emory University showed.",
+            "vi": "Giữ được những ký ức đó mới là phần khó, như một nghiên cứu ở Đại học Emory đã cho thấy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Researchers recorded mothers as they talked with their three-year-olds about events such as a trip to the zoo.",
+            "vi": "Các nhà nghiên cứu ghi âm lúc các bà mẹ trò chuyện với con ba tuổi của mình về những sự kiện như một chuyến đi sở thú."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Years later, the children were asked about the same events.",
+            "vi": "Nhiều năm sau, bọn trẻ được hỏi về chính những sự kiện đó."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At five to seven, they still remembered more than sixty percent of them, but at eight or nine, less than forty percent.",
+            "vi": "Ở tuổi năm tới bảy, các em vẫn nhớ hơn sáu mươi phần trăm số sự kiện, nhưng tới tám hoặc chín tuổi, thì chưa tới bốn mươi phần trăm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The memories did not disappear in one day; they slowly faded away.",
+            "vi": "Ký ức không biến mất trong một ngày; chúng mờ dần rồi mất."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One reason is that the hippocampus, the part of the brain that helps us store memories, is still developing in these early years.",
+            "vi": "Một lý do là hồi hải mã, bộ phận của não giúp chúng ta lưu giữ ký ức, vẫn đang phát triển trong những năm đầu đời này."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Another is that young children don't have many words yet, and memories are easier to keep when we can tell them as stories.",
+            "vi": "Lý do khác là trẻ nhỏ chưa biết nhiều từ, mà ký ức sẽ dễ giữ hơn khi ta kể được chúng thành chuyện."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Also, a child may need a clear sense of self, an idea of \"me,\" before memories about \"my life\" can last.",
+            "vi": "Ngoài ra, có thể một đứa trẻ cần có ý thức rõ ràng về bản thân, tức là ý niệm về \"tôi\", thì ký ức về \"cuộc đời tôi\" mới tồn tại lâu được."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Be careful with your own \"first memory,\" though.",
+            "vi": "Dù vậy, hãy cẩn thận với \"ký ức đầu tiên\" của chính bạn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In a 2018 survey of more than six thousand people, almost forty percent described a first memory from the age of two or younger.",
+            "vi": "Trong một cuộc khảo sát năm 2018 với hơn sáu nghìn người, gần bốn mươi phần trăm kể về một ký ức đầu tiên từ lúc hai tuổi hoặc nhỏ hơn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The researchers believe most of these memories never really happened.",
+            "vi": "Các nhà nghiên cứu cho rằng phần lớn những ký ức này chưa bao giờ thật sự xảy ra."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They were probably built later from family photos and stories told again and again.",
+            "vi": "Có lẽ chúng được dựng lên về sau từ ảnh gia đình và những câu chuyện được kể đi kể lại."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So enjoy your parents' stories about your first birthday, but don't expect to find that day in your own memory.",
+            "vi": "Vậy nên cứ thưởng thức những câu chuyện bố mẹ kể về sinh nhật đầu tiên của bạn, nhưng đừng mong tìm thấy ngày đó trong ký ức của chính mình."
+          }
+        }
+      ],
+      "content_ja": "Why Can't We Remember Being Babies?\n\nMost adults can't remember anything from before the age of three or four. Scientists call this \"childhood amnesia.\"\n\nStrangely, babies are good at remembering: a newborn can already recognize its mother's voice, probably because it heard that voice for months before birth. Keeping those memories is the hard part, as a study at Emory University showed.\n\nResearchers recorded mothers as they talked with their three-year-olds about events such as a trip to the zoo. Years later, the children were asked about the same events. At five to seven, they still remembered more than sixty percent of them, but at eight or nine, less than forty percent. The memories did not disappear in one day; they slowly faded away.\n\nOne reason is that the hippocampus, the part of the brain that helps us store memories, is still developing in these early years. Another is that young children don't have many words yet, and memories are easier to keep when we can tell them as stories. Also, a child may need a clear sense of self, an idea of \"me,\" before memories about \"my life\" can last.\n\nBe careful with your own \"first memory,\" though. In a 2018 survey of more than six thousand people, almost forty percent described a first memory from the age of two or younger. The researchers believe most of these memories never really happened. They were probably built later from family photos and stories told again and again.\n\nSo enjoy your parents' stories about your first birthday, but don't expect to find that day in your own memory.",
+      "translation_vn": "(1) Vì sao chúng ta không nhớ được hồi còn là em bé?\n(2) Đa số người lớn không nhớ được điều gì từ trước khi ba hoặc bốn tuổi.\n(3) Các nhà khoa học gọi hiện tượng này là \"chứng quên tuổi thơ\".\n(4) Điều lạ là em bé ghi nhớ khá giỏi: trẻ sơ sinh đã có thể nhận ra giọng mẹ, có lẽ vì bé đã nghe giọng ấy suốt mấy tháng trước khi chào đời.\n(5) Giữ được những ký ức đó mới là phần khó, như một nghiên cứu ở Đại học Emory đã cho thấy.\n(6) Các nhà nghiên cứu ghi âm lúc các bà mẹ trò chuyện với con ba tuổi của mình về những sự kiện như một chuyến đi sở thú.\n(7) Nhiều năm sau, bọn trẻ được hỏi về chính những sự kiện đó.\n(8) Ở tuổi năm tới bảy, các em vẫn nhớ hơn sáu mươi phần trăm số sự kiện, nhưng tới tám hoặc chín tuổi, thì chưa tới bốn mươi phần trăm.\n(9) Ký ức không biến mất trong một ngày; chúng mờ dần rồi mất.\n(10) Một lý do là hồi hải mã, bộ phận của não giúp chúng ta lưu giữ ký ức, vẫn đang phát triển trong những năm đầu đời này.\n(11) Lý do khác là trẻ nhỏ chưa biết nhiều từ, mà ký ức sẽ dễ giữ hơn khi ta kể được chúng thành chuyện.\n(12) Ngoài ra, có thể một đứa trẻ cần có ý thức rõ ràng về bản thân, tức là ý niệm về \"tôi\", thì ký ức về \"cuộc đời tôi\" mới tồn tại lâu được.\n(13) Dù vậy, hãy cẩn thận với \"ký ức đầu tiên\" của chính bạn.\n(14) Trong một cuộc khảo sát năm 2018 với hơn sáu nghìn người, gần bốn mươi phần trăm kể về một ký ức đầu tiên từ lúc hai tuổi hoặc nhỏ hơn.\n(15) Các nhà nghiên cứu cho rằng phần lớn những ký ức này chưa bao giờ thật sự xảy ra.\n(16) Có lẽ chúng được dựng lên về sau từ ảnh gia đình và những câu chuyện được kể đi kể lại.\n(17) Vậy nên cứ thưởng thức những câu chuyện bố mẹ kể về sinh nhật đầu tiên của bạn, nhưng đừng mong tìm thấy ngày đó trong ký ức của chính mình.",
+      "word_count": 268,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u03_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "Why does Mr. Carter tell the class about his childhood?",
+        "vi": "Vì sao thầy Carter kể cho cả lớp nghe về tuổi thơ của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that life was better in the past",
+            "vi": "để cho thấy ngày xưa cuộc sống tốt đẹp hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that life was better in the past",
+          "text_translation": "để cho thấy ngày xưa cuộc sống tốt đẹp hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to give an example before the students interview an older person",
+            "vi": "để làm mẫu trước khi học sinh đi phỏng vấn một người lớn tuổi"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to give an example before the students interview an older person",
+          "text_translation": "để làm mẫu trước khi học sinh đi phỏng vấn một người lớn tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain why Trevor is hiding behind his book",
+            "vi": "để giải thích vì sao Trevor nấp sau cuốn sách"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain why Trevor is hiding behind his book",
+          "text_translation": "để giải thích vì sao Trevor nấp sau cuốn sách"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to teach the class how to cook vegetable soup",
+            "vi": "để dạy cả lớp nấu súp rau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to teach the class how to cook vegetable soup",
+          "text_translation": "để dạy cả lớp nấu súp rau"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Thầy nói ngay đầu bài: \"each of you will interview an older person about their childhood, so I'll go first.\" và cuối bài nhắc lại \"choose an older person to interview\". Vậy thầy kể chuyện của mình để làm mẫu. Thầy không nói ngày xưa tốt hơn; thầy chỉ \"cherish those years\". Chuyện Trevor nấp sau sách chỉ là câu đùa. Súp rau là một kỷ niệm, không phải bài học nấu ăn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi mục đích: đọc kỹ câu mở đầu và câu kết. Chữ so (so I'll go first) thường dẫn ngay tới mục đích của người nói."
+      },
+      "question_jp": "Why does Mr. Carter tell the class about his childhood?",
+      "question_vn": "Vì sao thầy Carter kể cho cả lớp nghe về tuổi thơ của mình?",
+      "explanation": "Thầy nói ngay đầu bài: \"each of you will interview an older person about their childhood, so I'll go first.\" và cuối bài nhắc lại \"choose an older person to interview\". Vậy thầy kể chuyện của mình để làm mẫu. Thầy không nói ngày xưa tốt hơn; thầy chỉ \"cherish those years\". Chuyện Trevor nấp sau sách chỉ là câu đùa. Súp rau là một kỷ niệm, không phải bài học nấu ăn.",
+      "tip": "Câu hỏi mục đích: đọc kỹ câu mở đầu và câu kết. Chữ so (so I'll go first) thường dẫn ngay tới mục đích của người nói."
+    },
+    {
+      "id": "q_u03_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "Who taught Mr. Carter the alphabet?",
+        "vi": "Ai đã dạy thầy Carter bảng chữ cái?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "his mother",
+            "vi": "mẹ của thầy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "his mother",
+          "text_translation": "mẹ của thầy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a teacher at his preschool",
+            "vi": "một cô giáo ở trường mầm non"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a teacher at his preschool",
+          "text_translation": "một cô giáo ở trường mầm non"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "his brother",
+            "vi": "em trai của thầy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "his brother",
+          "text_translation": "em trai của thầy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "his grandmother",
+            "vi": "bà của thầy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "his grandmother",
+          "text_translation": "bà của thầy"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Grandma taught me the alphabet at the kitchen table before I started preschool.\" Vậy người dạy là bà, và việc này diễn ra trước khi thầy đi học mầm non, nên không phải cô giáo mầm non. Mẹ xuất hiện trong chuyện súp rau và chuyện gọi hai anh em vào nhà (\"until Mom called us inside\"). Em trai là bạn nghịch cùng thầy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phương án nhiễu thường là những người khác cũng có mặt trong bài. Tìm đúng động từ của câu hỏi (taught … the alphabet) rồi xem chủ ngữ của nó là ai."
+      },
+      "question_jp": "Who taught Mr. Carter the alphabet?",
+      "question_vn": "Ai đã dạy thầy Carter bảng chữ cái?",
+      "explanation": "\"Grandma taught me the alphabet at the kitchen table before I started preschool.\" Vậy người dạy là bà, và việc này diễn ra trước khi thầy đi học mầm non, nên không phải cô giáo mầm non. Mẹ xuất hiện trong chuyện súp rau và chuyện gọi hai anh em vào nhà (\"until Mom called us inside\"). Em trai là bạn nghịch cùng thầy.",
+      "tip": "Phương án nhiễu thường là những người khác cũng có mặt trong bài. Tìm đúng động từ của câu hỏi (taught … the alphabet) rồi xem chủ ngữ của nó là ai."
+    },
+    {
+      "id": "q_u03_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "What happened when Mr. Carter was twelve?",
+        "vi": "Chuyện gì đã xảy ra khi thầy Carter mười hai tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He put far too much salt in his mother's soup.",
+            "vi": "Thầy cho quá nhiều muối vào nồi súp của mẹ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He put far too much salt in his mother's soup.",
+          "text_translation": "Thầy cho quá nhiều muối vào nồi súp của mẹ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He took his first flight to New York.",
+            "vi": "Thầy đi máy bay lần đầu tới New York."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He took his first flight to New York.",
+          "text_translation": "Thầy đi máy bay lần đầu tới New York."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He started cooking for his whole class.",
+            "vi": "Thầy bắt đầu nấu ăn cho cả lớp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He started cooking for his whole class.",
+          "text_translation": "Thầy bắt đầu nấu ăn cho cả lớp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He was afraid of the clowns at the circus.",
+            "vi": "Thầy sợ mấy chú hề ở rạp xiếc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He was afraid of the clowns at the circus.",
+          "text_translation": "Thầy sợ mấy chú hề ở rạp xiếc."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"At twelve, she asked me to add a little salt, and I poured in a whole cup!\" Mẹ chỉ cần một chút muối, thầy lại đổ cả cốc, tức là quá nhiều. Chuyến bay đầu tiên là năm mười lăm tuổi (\"At fifteen, I took my first flight\"). Chuyện súp chỉ là \"the beginning of my love of cooking\", bài không nói thầy nấu cho cả lớp. Chuyện sợ hề là chuyện các mùa hè thơ ấu, bài không gắn với tuổi mười hai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có mốc tuổi: tìm đúng con số đó trong bài (twelve, fifteen). Các mốc khác chính là phương án nhiễu."
+      },
+      "question_jp": "What happened when Mr. Carter was twelve?",
+      "question_vn": "Chuyện gì đã xảy ra khi thầy Carter mười hai tuổi?",
+      "explanation": "\"At twelve, she asked me to add a little salt, and I poured in a whole cup!\" Mẹ chỉ cần một chút muối, thầy lại đổ cả cốc, tức là quá nhiều. Chuyến bay đầu tiên là năm mười lăm tuổi (\"At fifteen, I took my first flight\"). Chuyện súp chỉ là \"the beginning of my love of cooking\", bài không nói thầy nấu cho cả lớp. Chuyện sợ hề là chuyện các mùa hè thơ ấu, bài không gắn với tuổi mười hai.",
+      "tip": "Câu hỏi có mốc tuổi: tìm đúng con số đó trong bài (twelve, fifteen). Các mốc khác chính là phương án nhiễu."
+    },
+    {
+      "id": "q_u03_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "In \"My brother and I used to get into mischief all the time\", what does \"get into mischief\" mean?",
+        "vi": "Trong câu \"My brother and I used to get into mischief all the time\", \"get into mischief\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "work hard in the garden",
+            "vi": "chăm chỉ làm vườn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "work hard in the garden",
+          "text_translation": "chăm chỉ làm vườn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "get lost on the way home",
+            "vi": "bị lạc trên đường về nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "get lost on the way home",
+          "text_translation": "bị lạc trên đường về nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "do silly things that cause small trouble",
+            "vi": "bày những trò nghịch gây phiền phức nho nhỏ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "do silly things that cause small trouble",
+          "text_translation": "bày những trò nghịch gây phiền phức nho nhỏ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "help their neighbors",
+            "vi": "giúp đỡ hàng xóm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "help their neighbors",
+          "text_translation": "giúp đỡ hàng xóm"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu ngay sau đó đưa ví dụ: \"We used to chase the neighbors' chickens between our house and theirs and giggle until Mom called us inside.\" Đuổi gà nhà hàng xóm rồi cười khúc khích cho tới khi mẹ gọi vào chính là nghịch ngợm. Bài không nói hai anh em làm vườn hay bị lạc. Đuổi gà nhà hàng xóm cũng không phải giúp họ, mà còn làm phiền họ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đoán nghĩa từ trong ngữ cảnh: đọc câu ngay sau. Người viết thường đưa ví dụ cụ thể (chase the neighbors' chickens) để làm rõ một cụm chung chung."
+      },
+      "question_jp": "In \"My brother and I used to get into mischief all the time\", what does \"get into mischief\" mean?",
+      "question_vn": "Trong câu \"My brother and I used to get into mischief all the time\", \"get into mischief\" nghĩa là gì?",
+      "explanation": "Câu ngay sau đó đưa ví dụ: \"We used to chase the neighbors' chickens between our house and theirs and giggle until Mom called us inside.\" Đuổi gà nhà hàng xóm rồi cười khúc khích cho tới khi mẹ gọi vào chính là nghịch ngợm. Bài không nói hai anh em làm vườn hay bị lạc. Đuổi gà nhà hàng xóm cũng không phải giúp họ, mà còn làm phiền họ.",
+      "tip": "Đoán nghĩa từ trong ngữ cảnh: đọc câu ngay sau. Người viết thường đưa ví dụ cụ thể (chase the neighbors' chickens) để làm rõ một cụm chung chung."
+    },
+    {
+      "id": "q_u03_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "In \"between our house and theirs\", what does \"theirs\" refer to?",
+        "vi": "Trong cụm \"between our house and theirs\", \"theirs\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the neighbors' house",
+            "vi": "nhà của hàng xóm"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the neighbors' house",
+          "text_translation": "nhà của hàng xóm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the chickens' garden",
+            "vi": "khu vườn của đám gà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the chickens' garden",
+          "text_translation": "khu vườn của đám gà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the students' homes",
+            "vi": "nhà của các học sinh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the students' homes",
+          "text_translation": "nhà của các học sinh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the circus tents",
+            "vi": "lều của gánh xiếc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the circus tents",
+          "text_translation": "lều của gánh xiếc"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"We used to chase the neighbors' chickens between our house and theirs\". theirs = their house, và their ở đây là của the neighbors, người được nhắc ngay trước đó. Gà không có nhà hay vườn riêng. Học sinh và gánh xiếc không có trong câu này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đại từ sở hữu (mine, ours, theirs) thay cho \"của ai đó + danh từ vừa nói\". Ở đây theirs = their house; tìm xem their là của người nào được nhắc ngay trước."
+      },
+      "question_jp": "In \"between our house and theirs\", what does \"theirs\" refer to?",
+      "question_vn": "Trong cụm \"between our house and theirs\", \"theirs\" chỉ cái gì?",
+      "explanation": "Câu đầy đủ là \"We used to chase the neighbors' chickens between our house and theirs\". theirs = their house, và their ở đây là của the neighbors, người được nhắc ngay trước đó. Gà không có nhà hay vườn riêng. Học sinh và gánh xiếc không có trong câu này.",
+      "tip": "Đại từ sở hữu (mine, ours, theirs) thay cho \"của ai đó + danh từ vừa nói\". Ở đây theirs = their house; tìm xem their là của người nào được nhắc ngay trước."
+    },
+    {
+      "id": "q_u03_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "Which of these is NOT mentioned as something Mr. Carter did or felt as a child?",
+        "vi": "Điều nào sau đây KHÔNG được nhắc tới như một việc thầy Carter từng làm hoặc từng cảm thấy hồi nhỏ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He chased chickens with his brother.",
+            "vi": "Thầy cùng em trai đuổi gà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He chased chickens with his brother.",
+          "text_translation": "Thầy cùng em trai đuổi gà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He was afraid of the darkness.",
+            "vi": "Thầy sợ bóng tối."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He was afraid of the darkness.",
+          "text_translation": "Thầy sợ bóng tối."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He was afraid of the clowns at the circus.",
+            "vi": "Thầy sợ mấy chú hề ở rạp xiếc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He was afraid of the clowns at the circus.",
+          "text_translation": "Thầy sợ mấy chú hề ở rạp xiếc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He played football with his schoolmates every afternoon.",
+            "vi": "Chiều nào thầy cũng đá bóng với bạn cùng trường."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He played football with his schoolmates every afternoon.",
+          "text_translation": "Chiều nào thầy cũng đá bóng với bạn cùng trường."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Ba việc đầu đều có trong bài: \"We used to chase the neighbors' chickens\", \"I also used to be afraid of the darkness\", và \"only I was afraid of the clowns\". Bài không hề nhắc tới chuyện đá bóng với bạn cùng trường."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu NOT: lần lượt tìm từng phương án trong bài và gạch đi phương án nào có. Phương án còn lại, không tìm thấy, là đáp án."
+      },
+      "question_jp": "Which of these is NOT mentioned as something Mr. Carter did or felt as a child?",
+      "question_vn": "Điều nào sau đây KHÔNG được nhắc tới như một việc thầy Carter từng làm hoặc từng cảm thấy hồi nhỏ?",
+      "explanation": "Ba việc đầu đều có trong bài: \"We used to chase the neighbors' chickens\", \"I also used to be afraid of the darkness\", và \"only I was afraid of the clowns\". Bài không hề nhắc tới chuyện đá bóng với bạn cùng trường.",
+      "tip": "Câu NOT: lần lượt tìm từng phương án trong bài và gạch đi phương án nào có. Phương án còn lại, không tìm thấy, là đáp án."
+    },
+    {
+      "id": "q_u03_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "How many people lived in Mr. Carter's home when he was a child?",
+        "vi": "Hồi thầy Carter còn nhỏ, nhà thầy có bao nhiêu người?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "four",
+            "vi": "bốn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "four",
+          "text_translation": "bốn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "five",
+            "vi": "năm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "five",
+          "text_translation": "năm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "six",
+            "vi": "sáu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "six",
+          "text_translation": "sáu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "three",
+            "vi": "ba"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "three",
+          "text_translation": "ba"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"in a household of five: Mom, Dad, Grandma, my brother, and me.\" Đếm lại: mẹ, bố, bà, em trai và thầy là năm người. Bốn là con số dễ chọn nhầm nếu quên tính chính người kể (\"and me\"). Ba và sáu không khớp với danh sách."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "household = những người sống chung một nhà. Khi đếm người, nhớ tính cả \"me\" ở cuối danh sách."
+      },
+      "question_jp": "How many people lived in Mr. Carter's home when he was a child?",
+      "question_vn": "Hồi thầy Carter còn nhỏ, nhà thầy có bao nhiêu người?",
+      "explanation": "\"in a household of five: Mom, Dad, Grandma, my brother, and me.\" Đếm lại: mẹ, bố, bà, em trai và thầy là năm người. Bốn là con số dễ chọn nhầm nếu quên tính chính người kể (\"and me\"). Ba và sáu không khớp với danh sách.",
+      "tip": "household = những người sống chung một nhà. Khi đếm người, nhớ tính cả \"me\" ở cuối danh sách."
+    },
+    {
+      "id": "q_u03_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "How did Mr. Carter probably feel on his first flight?",
+        "vi": "Có lẽ thầy Carter cảm thấy thế nào trong chuyến bay đầu tiên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "bored",
+            "vi": "chán"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "bored",
+          "text_translation": "chán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "sleepy",
+            "vi": "buồn ngủ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "sleepy",
+          "text_translation": "buồn ngủ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "nervous",
+            "vi": "lo lắng, hồi hộp"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "nervous",
+          "text_translation": "lo lắng, hồi hộp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "angry",
+            "vi": "tức giận"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "angry",
+          "text_translation": "tức giận"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng cảm xúc, nhưng ta suy ra được từ hành động: \"held the arms of my seat the whole time.\" Người bám chặt tay vịn ghế suốt chuyến bay là người đang sợ, đang hồi hộp. Người chán hoặc buồn ngủ sẽ không làm vậy. Bài cũng không có chi tiết nào cho thấy thầy giận."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi cảm xúc mà bài không có tính từ: hãy nhìn hành động của nhân vật (held the arms of my seat) rồi tự hỏi người đang cảm thấy thế nào mới làm như vậy."
+      },
+      "question_jp": "How did Mr. Carter probably feel on his first flight?",
+      "question_vn": "Có lẽ thầy Carter cảm thấy thế nào trong chuyến bay đầu tiên?",
+      "explanation": "Bài không nói thẳng cảm xúc, nhưng ta suy ra được từ hành động: \"held the arms of my seat the whole time.\" Người bám chặt tay vịn ghế suốt chuyến bay là người đang sợ, đang hồi hộp. Người chán hoặc buồn ngủ sẽ không làm vậy. Bài cũng không có chi tiết nào cho thấy thầy giận.",
+      "tip": "Câu hỏi cảm xúc mà bài không có tính từ: hãy nhìn hành động của nhân vật (held the arms of my seat) rồi tự hỏi người đang cảm thấy thế nào mới làm như vậy."
+    },
+    {
+      "id": "q_u03_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "What does the talk suggest about Mr. Carter's hometown?",
+        "vi": "Bài nói cho thấy điều gì về quê của thầy Carter?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has more houses now than it had in his childhood.",
+            "vi": "Bây giờ ở đó có nhiều nhà hơn so với hồi thầy còn nhỏ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It has more houses now than it had in his childhood.",
+          "text_translation": "Bây giờ ở đó có nhiều nhà hơn so với hồi thầy còn nhỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is now a big city with many farms.",
+            "vi": "Bây giờ nó là một thành phố lớn với nhiều trang trại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is now a big city with many farms.",
+          "text_translation": "Bây giờ nó là một thành phố lớn với nhiều trang trại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is west of San Diego.",
+            "vi": "Nó nằm ở phía tây San Diego."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is west of San Diego.",
+          "text_translation": "Nó nằm ở phía tây San Diego."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nobody lives there anymore.",
+            "vi": "Không còn ai sống ở đó nữa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nobody lives there anymore.",
+          "text_translation": "Không còn ai sống ở đó nữa."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không so sánh trực tiếp, nhưng ta suy ra được. Thầy nói: \"my hometown has changed completely: the farms are gone, and the number of houses has grown a lot.\" Số nhà đã tăng nhiều, nên bây giờ nhiều nhà hơn hồi xưa. Trang trại \"are gone\", nên không thể nói ở đó có nhiều trang trại. Quê thầy ở \"a small town east of San Diego\", phía đông chứ không phải phía tây. Nhà tăng lên thì không thể là không còn ai ở."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận về thay đổi: so sánh \"hồi đó\" và \"bây giờ\". Cụm the number of houses has grown = số nhà đã tăng, nên trước đây ít nhà hơn."
+      },
+      "question_jp": "What does the talk suggest about Mr. Carter's hometown?",
+      "question_vn": "Bài nói cho thấy điều gì về quê của thầy Carter?",
+      "explanation": "Bài không so sánh trực tiếp, nhưng ta suy ra được. Thầy nói: \"my hometown has changed completely: the farms are gone, and the number of houses has grown a lot.\" Số nhà đã tăng nhiều, nên bây giờ nhiều nhà hơn hồi xưa. Trang trại \"are gone\", nên không thể nói ở đó có nhiều trang trại. Quê thầy ở \"a small town east of San Diego\", phía đông chứ không phải phía tây. Nhà tăng lên thì không thể là không còn ai ở.",
+      "tip": "Câu suy luận về thay đổi: so sánh \"hồi đó\" và \"bây giờ\". Cụm the number of houses has grown = số nhà đã tăng, nên trước đây ít nhà hơn."
+    },
+    {
+      "id": "q_u03_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "How does Mr. Carter feel about his childhood?",
+        "vi": "Thầy Carter cảm thấy thế nào về tuổi thơ của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is embarrassed by it and does not like to talk about it.",
+            "vi": "Thầy xấu hổ và không thích nói về nó."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is embarrassed by it and does not like to talk about it.",
+          "text_translation": "Thầy xấu hổ và không thích nói về nó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He thinks it was boring because there was nothing to do in a small town.",
+            "vi": "Thầy thấy nó nhàm chán vì ở thị trấn nhỏ chẳng có gì để làm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He thinks it was boring because there was nothing to do in a small town.",
+          "text_translation": "Thầy thấy nó nhàm chán vì ở thị trấn nhỏ chẳng có gì để làm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is sad that his hometown has changed.",
+            "vi": "Thầy buồn vì quê mình đã thay đổi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He is sad that his hometown has changed.",
+          "text_translation": "Thầy buồn vì quê mình đã thay đổi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He remembers it with love and thinks it shaped who he is.",
+            "vi": "Thầy nhớ về nó với tình cảm trìu mến và cho rằng nó làm nên con người thầy."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He remembers it with love and thinks it shaped who he is.",
+          "text_translation": "Thầy nhớ về nó với tình cảm trìu mến và cho rằng nó làm nên con người thầy."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Still, I cherish those years: they made me the person I am today.\" cherish = trân trọng, nâng niu; \"made me the person I am today\" = làm nên con người thầy. Thầy vui vẻ kể cả những chuyện buồn cười của mình, nên không hề xấu hổ. Thầy kể rất nhiều trò vui (đuổi gà, gánh xiếc), nên tuổi thơ không nhàm chán. Thầy kể quê đã thay đổi, nhưng không nói mình buồn vì điều đó."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu thái độ: tìm những từ thể hiện cảm xúc của người viết (cherish, favorite). Phương án thêm cảm xúc mà bài không nói (buồn vì quê thay đổi) là phương án suy diễn quá xa."
+      },
+      "question_jp": "How does Mr. Carter feel about his childhood?",
+      "question_vn": "Thầy Carter cảm thấy thế nào về tuổi thơ của mình?",
+      "explanation": "\"Still, I cherish those years: they made me the person I am today.\" cherish = trân trọng, nâng niu; \"made me the person I am today\" = làm nên con người thầy. Thầy vui vẻ kể cả những chuyện buồn cười của mình, nên không hề xấu hổ. Thầy kể rất nhiều trò vui (đuổi gà, gánh xiếc), nên tuổi thơ không nhàm chán. Thầy kể quê đã thay đổi, nhưng không nói mình buồn vì điều đó.",
+      "tip": "Câu thái độ: tìm những từ thể hiện cảm xúc của người viết (cherish, favorite). Phương án thêm cảm xúc mà bài không nói (buồn vì quê thay đổi) là phương án suy diễn quá xa."
+    },
+    {
+      "id": "q_u03_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Which is the best title for the passage?",
+        "vi": "Đâu là tiêu đề phù hợp nhất cho đoạn văn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "How to Improve Your Memory in One Week",
+            "vi": "Cách cải thiện trí nhớ trong một tuần"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "How to Improve Your Memory in One Week",
+          "text_translation": "Cách cải thiện trí nhớ trong một tuần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A Day at the Zoo with Three-Year-Olds",
+            "vi": "Một ngày ở sở thú với trẻ ba tuổi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "A Day at the Zoo with Three-Year-Olds",
+          "text_translation": "Một ngày ở sở thú với trẻ ba tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Why Our Earliest Memories Fade",
+            "vi": "Vì sao những ký ức sớm nhất của ta phai mờ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Why Our Earliest Memories Fade",
+          "text_translation": "Vì sao những ký ức sớm nhất của ta phai mờ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Newborn Babies and Their Mothers' Voices",
+            "vi": "Trẻ sơ sinh và giọng nói của mẹ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Newborn Babies and Their Mothers' Voices",
+          "text_translation": "Trẻ sơ sinh và giọng nói của mẹ"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Cả bài nói về \"childhood amnesia\": vì sao ta không nhớ được những năm đầu đời, nghiên cứu cho thấy ký ức \"slowly faded away\", và các lý do. Bài không dạy cách luyện trí nhớ. Chuyến đi sở thú chỉ là một ví dụ trong nghiên cứu ở Emory. Giọng mẹ chỉ được nhắc ở một câu để cho thấy em bé vẫn ghi nhớ được."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tiêu đề phù hợp phải bao được cả bài. Phương án chỉ lấy một ví dụ nhỏ (sở thú, giọng mẹ) là quá hẹp."
+      },
+      "question_jp": "Which is the best title for the passage?",
+      "question_vn": "Đâu là tiêu đề phù hợp nhất cho đoạn văn?",
+      "explanation": "Cả bài nói về \"childhood amnesia\": vì sao ta không nhớ được những năm đầu đời, nghiên cứu cho thấy ký ức \"slowly faded away\", và các lý do. Bài không dạy cách luyện trí nhớ. Chuyến đi sở thú chỉ là một ví dụ trong nghiên cứu ở Emory. Giọng mẹ chỉ được nhắc ở một câu để cho thấy em bé vẫn ghi nhớ được.",
+      "tip": "Tiêu đề phù hợp phải bao được cả bài. Phương án chỉ lấy một ví dụ nhỏ (sở thú, giọng mẹ) là quá hẹp."
+    },
+    {
+      "id": "q_u03_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "What does the passage say about most adults' memories?",
+        "vi": "Đoạn văn nói gì về ký ức của đa số người lớn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They start from before birth.",
+            "vi": "Chúng bắt đầu từ trước khi chào đời."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They start from before birth.",
+          "text_translation": "Chúng bắt đầu từ trước khi chào đời."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They go back to around the age of three or four, but not earlier.",
+            "vi": "Chúng chỉ quay lại được tới khoảng ba hoặc bốn tuổi, không sớm hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They go back to around the age of three or four, but not earlier.",
+          "text_translation": "Chúng chỉ quay lại được tới khoảng ba hoặc bốn tuổi, không sớm hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They go back to the age of two or younger.",
+            "vi": "Chúng quay lại được tới lúc hai tuổi hoặc nhỏ hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They go back to the age of two or younger.",
+          "text_translation": "Chúng quay lại được tới lúc hai tuổi hoặc nhỏ hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They start at the age of eight or nine.",
+            "vi": "Chúng bắt đầu từ tám hoặc chín tuổi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They start at the age of eight or nine.",
+          "text_translation": "Chúng bắt đầu từ tám hoặc chín tuổi."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Most adults can't remember anything from before the age of three or four.\" Hai tuổi hoặc nhỏ hơn là tuổi trong những \"first memory\" mà nhiều người kể ở cuộc khảo sát năm 2018, và các nhà nghiên cứu cho rằng phần lớn chúng không có thật. Tám hoặc chín tuổi là tuổi của bọn trẻ trong nghiên cứu ở Emory. Trước khi chào đời, em bé chỉ nghe được giọng mẹ; bài không nói người lớn còn nhớ gì từ lúc đó."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài khoa học có nhiều con số tuổi. Gạch chân từng con số và ghi bên cạnh nó nói về ai, để không chọn nhầm số của một ý khác."
+      },
+      "question_jp": "What does the passage say about most adults' memories?",
+      "question_vn": "Đoạn văn nói gì về ký ức của đa số người lớn?",
+      "explanation": "\"Most adults can't remember anything from before the age of three or four.\" Hai tuổi hoặc nhỏ hơn là tuổi trong những \"first memory\" mà nhiều người kể ở cuộc khảo sát năm 2018, và các nhà nghiên cứu cho rằng phần lớn chúng không có thật. Tám hoặc chín tuổi là tuổi của bọn trẻ trong nghiên cứu ở Emory. Trước khi chào đời, em bé chỉ nghe được giọng mẹ; bài không nói người lớn còn nhớ gì từ lúc đó.",
+      "tip": "Bài khoa học có nhiều con số tuổi. Gạch chân từng con số và ghi bên cạnh nó nói về ai, để không chọn nhầm số của một ý khác."
+    },
+    {
+      "id": "q_u03_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "In the Emory study, how much did the children remember at the age of five to seven?",
+        "vi": "Trong nghiên cứu ở Emory, bọn trẻ nhớ được bao nhiêu ở tuổi năm tới bảy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "less than forty percent of the events",
+            "vi": "chưa tới bốn mươi phần trăm số sự kiện"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "less than forty percent of the events",
+          "text_translation": "chưa tới bốn mươi phần trăm số sự kiện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "nothing about the zoo",
+            "vi": "không nhớ gì về sở thú"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "nothing about the zoo",
+          "text_translation": "không nhớ gì về sở thú"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "almost forty percent of their first birthdays",
+            "vi": "gần bốn mươi phần trăm số sinh nhật đầu tiên"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "almost forty percent of their first birthdays",
+          "text_translation": "gần bốn mươi phần trăm số sinh nhật đầu tiên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "more than sixty percent of the events",
+            "vi": "hơn sáu mươi phần trăm số sự kiện"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "more than sixty percent of the events",
+          "text_translation": "hơn sáu mươi phần trăm số sự kiện"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"At five to seven, they still remembered more than sixty percent of them\". \"less than forty percent\" là kết quả ở tuổi tám hoặc chín. \"almost forty percent\" là con số của cuộc khảo sát năm 2018, nói về những người kể ký ức từ lúc hai tuổi. Bài không nói bọn trẻ quên hết chuyện sở thú."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Hai con số trong cùng một câu (sixty / forty) thường bị tráo trong phương án. Nối đúng mỗi con số với nhóm tuổi đứng ngay trước nó."
+      },
+      "question_jp": "In the Emory study, how much did the children remember at the age of five to seven?",
+      "question_vn": "Trong nghiên cứu ở Emory, bọn trẻ nhớ được bao nhiêu ở tuổi năm tới bảy?",
+      "explanation": "\"At five to seven, they still remembered more than sixty percent of them\". \"less than forty percent\" là kết quả ở tuổi tám hoặc chín. \"almost forty percent\" là con số của cuộc khảo sát năm 2018, nói về những người kể ký ức từ lúc hai tuổi. Bài không nói bọn trẻ quên hết chuyện sở thú.",
+      "tip": "Hai con số trong cùng một câu (sixty / forty) thường bị tráo trong phương án. Nối đúng mỗi con số với nhóm tuổi đứng ngay trước nó."
+    },
+    {
+      "id": "q_u03_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "In \"they slowly faded away\", what does \"faded away\" mean?",
+        "vi": "Trong câu \"they slowly faded away\", \"faded away\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "became weaker until they were gone",
+            "vi": "yếu dần cho tới khi mất hẳn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "became weaker until they were gone",
+          "text_translation": "yếu dần cho tới khi mất hẳn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "became stronger and clearer",
+            "vi": "mạnh hơn và rõ hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "became stronger and clearer",
+          "text_translation": "mạnh hơn và rõ hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "were written down in a book",
+            "vi": "được ghi lại trong một cuốn sách"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "were written down in a book",
+          "text_translation": "được ghi lại trong một cuốn sách"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "disappeared in one day",
+            "vi": "biến mất trong một ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "disappeared in one day",
+          "text_translation": "biến mất trong một ngày"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"The memories did not disappear in one day; they slowly faded away.\" Vế đầu phủ định việc mất trong một ngày, vế sau nói ký ức mất đi \"slowly\", tức là mờ dần rồi mất. Vì vậy \"disappeared in one day\" là đáp án sai, đúng là điều câu văn bác bỏ. Ký ức không mạnh lên, và bài không nói ghi vào sách."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Dấu chấm phẩy (;) thường nối hai ý đối lập hoặc giải thích nhau. Vế bị phủ định (did not disappear in one day) giúp bạn loại nhanh một phương án."
+      },
+      "question_jp": "In \"they slowly faded away\", what does \"faded away\" mean?",
+      "question_vn": "Trong câu \"they slowly faded away\", \"faded away\" nghĩa là gì?",
+      "explanation": "Câu đầy đủ là \"The memories did not disappear in one day; they slowly faded away.\" Vế đầu phủ định việc mất trong một ngày, vế sau nói ký ức mất đi \"slowly\", tức là mờ dần rồi mất. Vì vậy \"disappeared in one day\" là đáp án sai, đúng là điều câu văn bác bỏ. Ký ức không mạnh lên, và bài không nói ghi vào sách.",
+      "tip": "Dấu chấm phẩy (;) thường nối hai ý đối lập hoặc giải thích nhau. Vế bị phủ định (did not disappear in one day) giúp bạn loại nhanh một phương án."
+    },
+    {
+      "id": "q_u03_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "In \"when we can tell them as stories\", what does \"them\" refer to?",
+        "vi": "Trong cụm \"when we can tell them as stories\", \"them\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "young children",
+            "vi": "trẻ nhỏ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "young children",
+          "text_translation": "trẻ nhỏ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "words",
+            "vi": "từ ngữ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "words",
+          "text_translation": "từ ngữ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "memories",
+            "vi": "ký ức"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "memories",
+          "text_translation": "ký ức"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "events at the zoo",
+            "vi": "những sự kiện ở sở thú"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "events at the zoo",
+          "text_translation": "những sự kiện ở sở thú"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"memories are easier to keep when we can tell them as stories.\" Thứ được kể thành chuyện chính là memories, chủ ngữ của vế này. Trẻ nhỏ và từ ngữ nằm ở vế trước (\"young children don't have many words yet\"), nhưng ta không kể trẻ nhỏ hay kể từ ngữ thành chuyện. Sự kiện ở sở thú thuộc đoạn nói về nghiên cứu, không nằm trong câu này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thử thay từng phương án vào chỗ them: \"tell memories as stories\" hợp lý, còn \"tell young children as stories\" thì vô nghĩa."
+      },
+      "question_jp": "In \"when we can tell them as stories\", what does \"them\" refer to?",
+      "question_vn": "Trong cụm \"when we can tell them as stories\", \"them\" chỉ cái gì?",
+      "explanation": "Câu đầy đủ là \"memories are easier to keep when we can tell them as stories.\" Thứ được kể thành chuyện chính là memories, chủ ngữ của vế này. Trẻ nhỏ và từ ngữ nằm ở vế trước (\"young children don't have many words yet\"), nhưng ta không kể trẻ nhỏ hay kể từ ngữ thành chuyện. Sự kiện ở sở thú thuộc đoạn nói về nghiên cứu, không nằm trong câu này.",
+      "tip": "Thử thay từng phương án vào chỗ them: \"tell memories as stories\" hợp lý, còn \"tell young children as stories\" thì vô nghĩa."
+    },
+    {
+      "id": "q_u03_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Which of the following is NOT given as a reason for childhood amnesia?",
+        "vi": "Điều nào sau đây KHÔNG được nêu là một lý do của chứng quên tuổi thơ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "A part of the brain is still developing.",
+            "vi": "Một bộ phận của não vẫn đang phát triển."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "A part of the brain is still developing.",
+          "text_translation": "Một bộ phận của não vẫn đang phát triển."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Babies can't hear their mothers well.",
+            "vi": "Em bé không nghe rõ giọng mẹ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Babies can't hear their mothers well.",
+          "text_translation": "Em bé không nghe rõ giọng mẹ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Young children don't know many words yet.",
+            "vi": "Trẻ nhỏ chưa biết nhiều từ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Young children don't know many words yet.",
+          "text_translation": "Trẻ nhỏ chưa biết nhiều từ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Young children may not have a clear sense of self yet.",
+            "vi": "Có thể trẻ nhỏ chưa có ý thức rõ ràng về bản thân."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Young children may not have a clear sense of self yet.",
+          "text_translation": "Có thể trẻ nhỏ chưa có ý thức rõ ràng về bản thân."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        10,
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Ba lý do có trong bài: \"the hippocampus, the part of the brain that helps us store memories, is still developing\", \"young children don't have many words yet\", và \"a child may need a clear sense of self\". Chuyện em bé không nghe rõ giọng mẹ thì ngược với bài: \"a newborn can already recognize its mother's voice\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu NOT trong bài có danh sách lý do (One reason, Another, Also): đánh dấu từng ý. Phương án nói NGƯỢC một câu khác trong bài là đáp án."
+      },
+      "question_jp": "Which of the following is NOT given as a reason for childhood amnesia?",
+      "question_vn": "Điều nào sau đây KHÔNG được nêu là một lý do của chứng quên tuổi thơ?",
+      "explanation": "Ba lý do có trong bài: \"the hippocampus, the part of the brain that helps us store memories, is still developing\", \"young children don't have many words yet\", và \"a child may need a clear sense of self\". Chuyện em bé không nghe rõ giọng mẹ thì ngược với bài: \"a newborn can already recognize its mother's voice\".",
+      "tip": "Câu NOT trong bài có danh sách lý do (One reason, Another, Also): đánh dấu từng ý. Phương án nói NGƯỢC một câu khác trong bài là đáp án."
+    },
+    {
+      "id": "q_u03_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Why can a newborn baby already recognize its mother's voice?",
+        "vi": "Vì sao em bé sơ sinh đã nhận ra được giọng mẹ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Its mother tells it stories about its first birthday.",
+            "vi": "Mẹ kể cho bé nghe chuyện sinh nhật đầu tiên."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Its mother tells it stories about its first birthday.",
+          "text_translation": "Mẹ kể cho bé nghe chuyện sinh nhật đầu tiên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Its hippocampus is fully developed.",
+            "vi": "Hồi hải mã của bé đã phát triển đầy đủ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Its hippocampus is fully developed.",
+          "text_translation": "Hồi hải mã của bé đã phát triển đầy đủ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It has seen family photos.",
+            "vi": "Bé đã xem ảnh gia đình."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It has seen family photos.",
+          "text_translation": "Bé đã xem ảnh gia đình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It probably heard that voice for months before birth.",
+            "vi": "Có lẽ bé đã nghe giọng ấy suốt mấy tháng trước khi chào đời."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It probably heard that voice for months before birth.",
+          "text_translation": "Có lẽ bé đã nghe giọng ấy suốt mấy tháng trước khi chào đời."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"a newborn can already recognize its mother's voice, probably because it heard that voice for months before birth.\" Hồi hải mã thì ngược lại, \"is still developing\" trong những năm đầu. Ảnh gia đình và chuyện sinh nhật là nguồn của những ký ức không có thật ở người lớn, không liên quan tới em bé sơ sinh."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why: tìm chữ because ngay trong câu chứa từ khoá (recognize its mother's voice)."
+      },
+      "question_jp": "Why can a newborn baby already recognize its mother's voice?",
+      "question_vn": "Vì sao em bé sơ sinh đã nhận ra được giọng mẹ?",
+      "explanation": "\"a newborn can already recognize its mother's voice, probably because it heard that voice for months before birth.\" Hồi hải mã thì ngược lại, \"is still developing\" trong những năm đầu. Ảnh gia đình và chuyện sinh nhật là nguồn của những ký ức không có thật ở người lớn, không liên quan tới em bé sơ sinh.",
+      "tip": "Câu hỏi Why: tìm chữ because ngay trong câu chứa từ khoá (recognize its mother's voice)."
+    },
+    {
+      "id": "q_u03_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "A friend says, \"I clearly remember my first birthday party.\" What would the writer probably think?",
+        "vi": "Một người bạn nói: \"Tớ nhớ rõ bữa tiệc sinh nhật đầu tiên của tớ.\" Có lẽ người viết sẽ nghĩ gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The memory probably comes from photos and family stories, not from the real day.",
+            "vi": "Ký ức đó có lẽ đến từ ảnh và chuyện gia đình kể, không phải từ chính ngày hôm ấy."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The memory probably comes from photos and family stories, not from the real day.",
+          "text_translation": "Ký ức đó có lẽ đến từ ảnh và chuyện gia đình kể, không phải từ chính ngày hôm ấy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The friend has an unusually strong hippocampus.",
+            "vi": "Người bạn có hồi hải mã khoẻ khác thường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The friend has an unusually strong hippocampus.",
+          "text_translation": "Người bạn có hồi hải mã khoẻ khác thường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The friend remembers more than sixty percent of the party.",
+            "vi": "Người bạn nhớ được hơn sáu mươi phần trăm bữa tiệc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The friend remembers more than sixty percent of the party.",
+          "text_translation": "Người bạn nhớ được hơn sáu mươi phần trăm bữa tiệc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Everyone can remember their first birthday clearly.",
+            "vi": "Ai cũng nhớ rõ sinh nhật đầu tiên của mình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Everyone can remember their first birthday clearly.",
+          "text_translation": "Ai cũng nhớ rõ sinh nhật đầu tiên của mình."
+        }
+      ],
+      "evidence_segments": [
+        2,
+        15,
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nhắc tới người bạn này, nên ta phải suy ra. Sinh nhật đầu tiên là lúc một tuổi, sớm hơn nhiều so với mốc \"before the age of three or four\". Người viết nói những ký ức sớm như vậy \"never really happened\" và \"were probably built later from family photos and stories told again and again\", rồi khuyên \"don't expect to find that day in your own memory\". Bài không nói ai có hồi hải mã khoẻ khác thường. \"sixty percent\" là kết quả của trẻ năm tới bảy tuổi trong nghiên cứu Emory. Ý \"ai cũng nhớ\" ngược với cả bài."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu áp dụng vào tình huống mới: so tình huống với ý chính của bài. Một tuổi nằm trong khoảng tuổi mà bài nói ký ức hầu như không còn."
+      },
+      "question_jp": "A friend says, \"I clearly remember my first birthday party.\" What would the writer probably think?",
+      "question_vn": "Một người bạn nói: \"Tớ nhớ rõ bữa tiệc sinh nhật đầu tiên của tớ.\" Có lẽ người viết sẽ nghĩ gì?",
+      "explanation": "Bài không nhắc tới người bạn này, nên ta phải suy ra. Sinh nhật đầu tiên là lúc một tuổi, sớm hơn nhiều so với mốc \"before the age of three or four\". Người viết nói những ký ức sớm như vậy \"never really happened\" và \"were probably built later from family photos and stories told again and again\", rồi khuyên \"don't expect to find that day in your own memory\". Bài không nói ai có hồi hải mã khoẻ khác thường. \"sixty percent\" là kết quả của trẻ năm tới bảy tuổi trong nghiên cứu Emory. Ý \"ai cũng nhớ\" ngược với cả bài.",
+      "tip": "Câu áp dụng vào tình huống mới: so tình huống với ý chính của bài. Một tuổi nằm trong khoảng tuổi mà bài nói ký ức hầu như không còn."
+    },
+    {
+      "id": "q_u03_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Why does the writer mention the 2018 survey?",
+        "vi": "Vì sao người viết nhắc tới cuộc khảo sát năm 2018?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that most people remember being two years old",
+            "vi": "để cho thấy đa số người nhớ được lúc hai tuổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that most people remember being two years old",
+          "text_translation": "để cho thấy đa số người nhớ được lúc hai tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to warn readers that some \"first memories\" may not be real",
+            "vi": "để cảnh báo người đọc rằng một số \"ký ức đầu tiên\" có thể không có thật"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to warn readers that some \"first memories\" may not be real",
+          "text_translation": "để cảnh báo người đọc rằng một số \"ký ức đầu tiên\" có thể không có thật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how the hippocampus stores memories",
+            "vi": "để giải thích hồi hải mã lưu giữ ký ức thế nào"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain how the hippocampus stores memories",
+          "text_translation": "để giải thích hồi hải mã lưu giữ ký ức thế nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell parents to take more family photos",
+            "vi": "để khuyên bố mẹ chụp nhiều ảnh gia đình hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell parents to take more family photos",
+          "text_translation": "để khuyên bố mẹ chụp nhiều ảnh gia đình hơn"
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Đoạn này mở đầu bằng lời nhắc \"Be careful with your own\" (hãy cẩn thận với \"ký ức đầu tiên\" của chính bạn), rồi đưa cuộc khảo sát ra làm bằng chứng: \"The researchers believe most of these memories never really happened.\" Vậy mục đích là cảnh báo. Cuộc khảo sát không cho thấy đa số nhớ được lúc hai tuổi: chỉ gần bốn mươi phần trăm người kể như vậy, và phần lớn những ký ức đó không có thật. Hồi hải mã nằm ở đoạn trước. Bài không khuyên chụp thêm ảnh."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi \"Why does the writer mention…?\": đọc câu mở đầu đoạn chứa chi tiết đó. Câu mở đoạn (Be careful… though) thường cho biết người viết dùng chi tiết để làm gì."
+      },
+      "question_jp": "Why does the writer mention the 2018 survey?",
+      "question_vn": "Vì sao người viết nhắc tới cuộc khảo sát năm 2018?",
+      "explanation": "Đoạn này mở đầu bằng lời nhắc \"Be careful with your own\" (hãy cẩn thận với \"ký ức đầu tiên\" của chính bạn), rồi đưa cuộc khảo sát ra làm bằng chứng: \"The researchers believe most of these memories never really happened.\" Vậy mục đích là cảnh báo. Cuộc khảo sát không cho thấy đa số nhớ được lúc hai tuổi: chỉ gần bốn mươi phần trăm người kể như vậy, và phần lớn những ký ức đó không có thật. Hồi hải mã nằm ở đoạn trước. Bài không khuyên chụp thêm ảnh.",
+      "tip": "Câu hỏi \"Why does the writer mention…?\": đọc câu mở đầu đoạn chứa chi tiết đó. Câu mở đoạn (Be careful… though) thường cho biết người viết dùng chi tiết để làm gì."
+    },
+    {
+      "id": "q_u03_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Based on both passages, why can Mr. Carter probably still remember the salt story so well?",
+        "vi": "Dựa vào cả hai bài, vì sao có lẽ thầy Carter vẫn nhớ rõ chuyện cốc muối?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it happened before he was three",
+            "vi": "vì chuyện đó xảy ra trước khi thầy ba tuổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it happened before he was three",
+          "text_translation": "vì chuyện đó xảy ra trước khi thầy ba tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because his mother recorded it, like the mothers in the Emory study",
+            "vi": "vì mẹ thầy đã ghi âm lại, giống các bà mẹ trong nghiên cứu ở Emory"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because his mother recorded it, like the mothers in the Emory study",
+          "text_translation": "vì mẹ thầy đã ghi âm lại, giống các bà mẹ trong nghiên cứu ở Emory"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because he was twelve, long after the age when early memories usually fade",
+            "vi": "vì lúc đó thầy đã mười hai tuổi, lớn hơn nhiều so với độ tuổi mà ký ức sớm thường phai mờ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because he was twelve, long after the age when early memories usually fade",
+          "text_translation": "vì lúc đó thầy đã mười hai tuổi, lớn hơn nhiều so với độ tuổi mà ký ức sớm thường phai mờ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he saw it in a family photo",
+            "vi": "vì thầy thấy chuyện đó trong một tấm ảnh gia đình"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because he saw it in a family photo",
+          "text_translation": "vì thầy thấy chuyện đó trong một tấm ảnh gia đình"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu này nối hai bài. Ở bài 1, thầy kể chuyện đổ cả cốc muối vào súp xảy ra năm thầy mười hai tuổi. Ở bài 2, người lớn hầu như không nhớ gì \"before the age of three or four\", và ký ức sớm mờ dần trong những năm đầu đi học: tới tám, chín tuổi bọn trẻ chỉ còn nhớ \"less than forty percent\" những chuyện hồi ba tuổi. Mười hai tuổi đã qua xa độ tuổi đó, nên chuyện này dễ nhớ hơn nhiều. Chuyện không xảy ra trước ba tuổi. Bài 1 không nói mẹ ghi âm hay có ảnh; ảnh gia đình là nguồn của những ký ức không có thật ở bài 2."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: lấy một chi tiết của bài 1 (tuổi mười hai) đặt vào quy luật của bài 2 (ký ức trước ba bốn tuổi thường mất)."
+      },
+      "question_jp": "Based on both passages, why can Mr. Carter probably still remember the salt story so well?",
+      "question_vn": "Dựa vào cả hai bài, vì sao có lẽ thầy Carter vẫn nhớ rõ chuyện cốc muối?",
+      "explanation": "Câu này nối hai bài. Ở bài 1, thầy kể chuyện đổ cả cốc muối vào súp xảy ra năm thầy mười hai tuổi. Ở bài 2, người lớn hầu như không nhớ gì \"before the age of three or four\", và ký ức sớm mờ dần trong những năm đầu đi học: tới tám, chín tuổi bọn trẻ chỉ còn nhớ \"less than forty percent\" những chuyện hồi ba tuổi. Mười hai tuổi đã qua xa độ tuổi đó, nên chuyện này dễ nhớ hơn nhiều. Chuyện không xảy ra trước ba tuổi. Bài 1 không nói mẹ ghi âm hay có ảnh; ảnh gia đình là nguồn của những ký ức không có thật ở bài 2.",
+      "tip": "Câu nối hai bài: lấy một chi tiết của bài 1 (tuổi mười hai) đặt vào quy luật của bài 2 (ký ức trước ba bốn tuổi thường mất)."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u03_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Thầy Carter kể chuyện tuổi thơ cho lớp sử",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u03_01",
+      "question_ids": [
+        "q_u03_001",
+        "q_u03_002",
+        "q_u03_003",
+        "q_u03_004",
+        "q_u03_005",
+        "q_u03_006",
+        "q_u03_007",
+        "q_u03_008",
+        "q_u03_009",
+        "q_u03_010"
+      ]
+    },
+    {
+      "set_id": "set_u03_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Vì sao ta không nhớ được hồi còn bé xíu?",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u03_02",
+      "question_ids": [
+        "q_u03_011",
+        "q_u03_012",
+        "q_u03_013",
+        "q_u03_014",
+        "q_u03_015",
+        "q_u03_016",
+        "q_u03_017",
+        "q_u03_018",
+        "q_u03_019",
+        "q_u03_020"
+      ]
+    }
+  ]
+}
