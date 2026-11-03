@@ -1,0 +1,2048 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 37–38 — Community & Opinions",
+      "vi": "Cộng đồng & Quan điểm"
+    },
+    "title": "Units 37–38 — Community & Opinions",
+    "title_vn": "Cộng đồng & Quan điểm",
+    "module_code": "58_u3738",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u37+u38",
+    "curriculum_sheets": [
+      "b1.145",
+      "b1.146",
+      "b1.147",
+      "b1.148",
+      "b1.149",
+      "b1.150",
+      "b1.151",
+      "b1.152"
+    ],
+    "characters": [
+      "Lydia Park",
+      "Harriet Brooks",
+      "Tina Carter",
+      "Amy Brooks",
+      "Trevor Carter",
+      "Nathan Brooks",
+      "Helena Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 12, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Here is/are, although/despite, phản bác lịch sự",
+    "description_vn": "Bản tin cảm ơn đợt quyên góp áo ấm của Maple Street và buổi đầu câu lạc bộ tranh biện của cô Park về việc cấm điện thoại trong lớp. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 37 + Unit 38 khoá B1 · phiếu `b1.145` – `b1.152` (tình nguyện, giúp đỡ người khác, dự án khu phố, từ thiện; đồng ý và phản đối, đưa ra lý do, thuyết phục, bàn hai mặt của vấn đề)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bản tin cộng đồng và một buổi tranh biện; hiểu `Here is / Here are`, `although / despite`, `because / because of`, cách phản bác lịch sự (I see your point, but…), và tách lý lẽ, bằng chứng, ví dụ trong lời của từng người."
+    },
+    "extra_words": [
+      {
+        "word": "newsletter",
+        "i18n": {
+          "vi": "bản tin"
+        }
+      },
+      {
+        "word": "project",
+        "i18n": {
+          "vi": "dự án"
+        }
+      },
+      {
+        "word": "distraction",
+        "i18n": {
+          "vi": "thứ gây phân tâm"
+        }
+      },
+      {
+        "word": "blanket",
+        "i18n": {
+          "vi": "chăn"
+        }
+      },
+      {
+        "word": "shelter",
+        "i18n": {
+          "vi": "nhà tạm trú"
+        }
+      },
+      {
+        "word": "collection point",
+        "i18n": {
+          "vi": "điểm nhận đồ"
+        }
+      },
+      {
+        "word": "sign language",
+        "i18n": {
+          "vi": "ngôn ngữ ký hiệu"
+        }
+      },
+      {
+        "word": "coat drive",
+        "i18n": {
+          "vi": "đợt quyên góp áo ấm"
+        }
+      },
+      {
+        "word": "debate",
+        "i18n": {
+          "vi": "tranh biện"
+        }
+      },
+      {
+        "word": "ban",
+        "i18n": {
+          "vi": "cấm, lệnh cấm"
+        }
+      },
+      {
+        "word": "calculator",
+        "i18n": {
+          "vi": "máy tính bỏ túi"
+        }
+      },
+      {
+        "word": "responsibly",
+        "i18n": {
+          "vi": "một cách có trách nhiệm"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "Here is how it worked",
+          "vi": "mọi việc đã diễn ra thế này"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get involved",
+          "vi": "tham gia"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put together a plan",
+          "vi": "lên kế hoạch"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I see your point",
+          "vi": "mình hiểu ý bạn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "generally speaking",
+          "vi": "nói chung"
+        }
+      },
+      {
+        "i18n": {
+          "en": "outweigh the disadvantages",
+          "vi": "lớn hơn bất lợi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "switch sides",
+          "vi": "đổi phe"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`Here is / Here are` mở ra thông tin sắp nêu. Câu hỏi \"What does … introduce?\" chỉ cần đọc ngay phần sau dấu hai chấm."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`although + mệnh đề` = `despite + danh từ` (dù). `because + mệnh đề` = `because of + danh từ` (vì)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài tranh biện: ghi lại cho mỗi người một lý lẽ chính + một bằng chứng hoặc ví dụ. Câu hỏi NOT hay hỏi vào danh sách ví dụ."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Phản bác lịch sự thường có hai bước: ghi nhận (`I see your point`, `I agree that…`) rồi mới nói `But…`."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3738_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 37) — Bản tin cảm ơn đợt quyên góp áo ấm"
+      },
+      "narrator": "announcer",
+      "title": "Warm Coats for Winter: Thank You, Maple Street!",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Warm Coats for Winter: Thank You, Maple Street!",
+            "vi": "Áo ấm cho mùa đông: cảm ơn Maple Street!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Neighbors Group · December newsletter",
+            "vi": "Nhóm hàng xóm Maple Street · bản tin tháng Mười hai"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Three weeks ago, we asked for old coats and blankets for people in our city who don't have a warm place to sleep. Your answer was amazing.",
+            "vi": "Ba tuần trước, chúng tôi kêu gọi quyên góp áo khoác và chăn cũ cho những người trong thành phố không có chỗ ngủ ấm. Câu trả lời của mọi người thật tuyệt vời."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here are the numbers: 412 coats, 156 blankets, 90 pairs of gloves and more than 200 warm hats.",
+            "vi": "Đây là các con số: 412 áo khoác, 156 tấm chăn, 90 đôi găng tay và hơn 200 chiếc mũ ấm."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Everything was sorted by size and given to the Harbor Street Shelter, which helps hundreds of homeless people every winter.",
+            "vi": "Tất cả được phân loại theo cỡ và trao cho nhà tạm trú Harbor Street, nơi giúp đỡ hàng trăm người vô gia cư mỗi mùa đông."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here is how it worked.",
+            "vi": "Mọi việc đã diễn ra thế này."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of the planning happened in the Maple Street Neighbors Chat, where people offered boxes, cars and free time.",
+            "vi": "Phần lớn việc lên kế hoạch diễn ra trong nhóm chat hàng xóm Maple Street, nơi mọi người góp thùng, góp xe và góp thời gian."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's café was our main collection point, and Harriet gave a free cookie to everyone who brought something.",
+            "vi": "Quán Harriet's là điểm nhận đồ chính, và bà Harriet tặng một chiếc bánh quy cho mỗi người mang đồ tới."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina Carter and Amy Brooks made posters and pinned them to every noticeboard on the street. Within two days, the boxes were full.",
+            "vi": "Tina Carter và Amy Brooks làm áp phích rồi ghim lên mọi bảng tin trên phố. Chỉ trong hai ngày, các thùng đã đầy."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On collection day, Trevor Carter and his friend Jake carried more than forty heavy boxes to Nathan Brooks's van, and they didn't complain once (well, maybe once).",
+            "vi": "Ngày đi gom đồ, Trevor Carter và cậu bạn Jake khuân hơn bốn mươi thùng nặng lên xe tải nhỏ của Nathan Brooks, và hai cậu không phàn nàn lần nào (à, có lẽ một lần)."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We also want to thank Mr. Alvarez, who has been deaf since birth.",
+            "vi": "Chúng tôi cũng xin cảm ơn ông Alvarez, người khiếm thính bẩm sinh."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He taught our volunteers a few words in sign language, so they could say \"hello\" and \"stay warm\" to deaf visitors at the shelter.",
+            "vi": "Ông đã dạy các tình nguyện viên vài từ bằng ngôn ngữ ký hiệu, để họ có thể nói \"xin chào\" và \"giữ ấm nhé\" với những vị khách khiếm thính ở nhà tạm trú."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Several visitors stopped to talk with them, and one man laughed and corrected their hands.",
+            "vi": "Nhiều vị khách đã dừng lại trò chuyện với họ, và một người đàn ông bật cười rồi chỉnh lại tay cho họ."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Volunteering does not have to take a lot of time.",
+            "vi": "Làm tình nguyện không nhất thiết phải tốn nhiều thời gian."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some of you gave one hour, and some of you gave one coat, and both were contributions that mattered.",
+            "vi": "Có người góp một giờ, có người góp một chiếc áo, và cả hai đều là những đóng góp có ý nghĩa."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your kindness reached people who will never know your names.",
+            "vi": "Lòng tốt của mọi người đã tới được với những người sẽ chẳng bao giờ biết tên mọi người."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What's next? In February, we are putting together a plan for a little free library at the corner of Maple Street and Pine Street.",
+            "vi": "Tiếp theo là gì? Tháng Hai, chúng tôi sẽ lên kế hoạch làm một tủ sách miễn phí nho nhỏ ở góc phố Maple và phố Pine."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you would like to get involved, here is the person to talk to: Helena Brooks, at our next meeting on January 12.",
+            "vi": "Nếu bạn muốn tham gia, đây là người cần gặp: Helena Brooks, ở buổi họp tới vào ngày 12 tháng Một."
+          }
+        }
+      ],
+      "content_ja": "Warm Coats for Winter: Thank You, Maple Street!\n\nMaple Street Neighbors Group · December newsletter\n\nThree weeks ago, we asked for old coats and blankets for people in our city who don't have a warm place to sleep. Your answer was amazing. Here are the numbers: 412 coats, 156 blankets, 90 pairs of gloves and more than 200 warm hats. Everything was sorted by size and given to the Harbor Street Shelter, which helps hundreds of homeless people every winter.\n\nHere is how it worked. Most of the planning happened in the Maple Street Neighbors Chat, where people offered boxes, cars and free time. Harriet's café was our main collection point, and Harriet gave a free cookie to everyone who brought something. Tina Carter and Amy Brooks made posters and pinned them to every noticeboard on the street. Within two days, the boxes were full. On collection day, Trevor Carter and his friend Jake carried more than forty heavy boxes to Nathan Brooks's van, and they didn't complain once (well, maybe once).\n\nWe also want to thank Mr. Alvarez, who has been deaf since birth. He taught our volunteers a few words in sign language, so they could say \"hello\" and \"stay warm\" to deaf visitors at the shelter. Several visitors stopped to talk with them, and one man laughed and corrected their hands.\n\nVolunteering does not have to take a lot of time. Some of you gave one hour, and some of you gave one coat, and both were contributions that mattered. Your kindness reached people who will never know your names.\n\nWhat's next? In February, we are putting together a plan for a little free library at the corner of Maple Street and Pine Street. If you would like to get involved, here is the person to talk to: Helena Brooks, at our next meeting on January 12.",
+      "translation_vn": "(1) Áo ấm cho mùa đông: cảm ơn Maple Street!\n(2) Nhóm hàng xóm Maple Street · bản tin tháng Mười hai\n(3) Ba tuần trước, chúng tôi kêu gọi quyên góp áo khoác và chăn cũ cho những người trong thành phố không có chỗ ngủ ấm. Câu trả lời của mọi người thật tuyệt vời.\n(4) Đây là các con số: 412 áo khoác, 156 tấm chăn, 90 đôi găng tay và hơn 200 chiếc mũ ấm.\n(5) Tất cả được phân loại theo cỡ và trao cho nhà tạm trú Harbor Street, nơi giúp đỡ hàng trăm người vô gia cư mỗi mùa đông.\n(6) Mọi việc đã diễn ra thế này.\n(7) Phần lớn việc lên kế hoạch diễn ra trong nhóm chat hàng xóm Maple Street, nơi mọi người góp thùng, góp xe và góp thời gian.\n(8) Quán Harriet's là điểm nhận đồ chính, và bà Harriet tặng một chiếc bánh quy cho mỗi người mang đồ tới.\n(9) Tina Carter và Amy Brooks làm áp phích rồi ghim lên mọi bảng tin trên phố. Chỉ trong hai ngày, các thùng đã đầy.\n(10) Ngày đi gom đồ, Trevor Carter và cậu bạn Jake khuân hơn bốn mươi thùng nặng lên xe tải nhỏ của Nathan Brooks, và hai cậu không phàn nàn lần nào (à, có lẽ một lần).\n(11) Chúng tôi cũng xin cảm ơn ông Alvarez, người khiếm thính bẩm sinh.\n(12) Ông đã dạy các tình nguyện viên vài từ bằng ngôn ngữ ký hiệu, để họ có thể nói \"xin chào\" và \"giữ ấm nhé\" với những vị khách khiếm thính ở nhà tạm trú.\n(13) Nhiều vị khách đã dừng lại trò chuyện với họ, và một người đàn ông bật cười rồi chỉnh lại tay cho họ.\n(14) Làm tình nguyện không nhất thiết phải tốn nhiều thời gian.\n(15) Có người góp một giờ, có người góp một chiếc áo, và cả hai đều là những đóng góp có ý nghĩa.\n(16) Lòng tốt của mọi người đã tới được với những người sẽ chẳng bao giờ biết tên mọi người.\n(17) Tiếp theo là gì? Tháng Hai, chúng tôi sẽ lên kế hoạch làm một tủ sách miễn phí nho nhỏ ở góc phố Maple và phố Pine.\n(18) Nếu bạn muốn tham gia, đây là người cần gặp: Helena Brooks, ở buổi họp tới vào ngày 12 tháng Một.",
+      "word_count": 304,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.145",
+        "b1.146",
+        "b1.147",
+        "b1.148"
+      ]
+    },
+    {
+      "id": "passage_u3738_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 38) — Buổi đầu của câu lạc bộ tranh biện"
+      },
+      "narrator": "announcer",
+      "title": "Debate Club, First Meeting: Should Phones Be Banned in Class?",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Debate Club, First Meeting: Should Phones Be Banned in Class?",
+            "vi": "Câu lạc bộ tranh biện, buổi đầu tiên: có nên cấm điện thoại trong lớp?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ms. Park started a new debate club at Westview High in December.",
+            "vi": "Tháng Mười hai, cô Park lập câu lạc bộ tranh biện mới ở trường Westview High."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the first meeting, two students practiced on a topic that everyone at school had an opinion about.",
+            "vi": "Ở buổi đầu tiên, hai học sinh tập tranh biện về một chủ đề mà cả trường ai cũng có ý kiến."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Lydia",
+          "label": null,
+          "i18n": {
+            "en": "Maddie, you're first. Remember: give reasons, not just feelings.",
+            "vi": "Maddie, em nói trước. Nhớ nhé: đưa ra lý lẽ, đừng chỉ nói cảm xúc."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "Thank you. I firmly believe that phones should be banned during class.",
+            "vi": "Em cảm ơn cô. Em tin chắc rằng nên cấm điện thoại trong giờ học."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "Although phones are useful, they are designed to grab our attention, and every message pulls us away from the lesson.",
+            "vi": "Dù điện thoại có ích, chúng được thiết kế để giành lấy sự chú ý của chúng ta, và mỗi tin nhắn lại kéo ta ra khỏi bài học."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "There is also some evidence. A study in England found that after schools banned phones, students' test scores went up, especially for students who were struggling.",
+            "vi": "Cũng có bằng chứng nữa. Một nghiên cứu ở Anh phát hiện sau khi các trường cấm điện thoại, điểm thi của học sinh tăng lên, nhất là với những bạn đang học đuối."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "Generally speaking, fewer distractions mean better learning.",
+            "vi": "Nói chung, ít bị phân tâm hơn thì học tốt hơn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Lydia",
+          "label": null,
+          "i18n": {
+            "en": "Thank you, Maddie. Noah?",
+            "vi": "Cảm ơn Maddie. Noah?"
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "I see your point, and I agree that phones can be a problem in class. But I don't think that a complete ban is the answer.",
+            "vi": "Mình hiểu ý bạn, và mình đồng ý là điện thoại có thể gây rắc rối trong lớp. Nhưng mình không nghĩ cấm hẳn là cách giải quyết."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "For instance, many students use their phones to check the meaning of a word, take a photo of the board or use a calculator.",
+            "vi": "Ví dụ, nhiều bạn dùng điện thoại để tra nghĩa một từ, chụp ảnh bảng hay dùng máy tính bỏ túi."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "Phones also help people work together outside school. Last month, our neighbors organized a whole coat drive through a group chat.",
+            "vi": "Điện thoại còn giúp mọi người cùng làm việc ngoài trường học. Tháng trước, hàng xóm khu mình tổ chức cả một đợt quyên góp áo ấm qua nhóm chat."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "Instead of banning phones, schools should teach students how to use them responsibly. Despite the risks, I think that the benefits outweigh the disadvantages.",
+            "vi": "Thay vì cấm điện thoại, nhà trường nên dạy học sinh cách dùng có trách nhiệm. Dù có rủi ro, mình nghĩ lợi ích vẫn lớn hơn bất lợi."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "With respect, schools have been trying that for years, and it hasn't worked. Teaching responsibility is great, but during a lesson, the phone should be in a bag.",
+            "vi": "Xin phép nói thẳng, các trường đã thử cách đó nhiều năm rồi mà không ăn thua. Dạy tinh thần trách nhiệm thì hay, nhưng trong giờ học, điện thoại nên nằm trong cặp."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "I suppose we could agree on that: phones away during the lesson, and out only when the teacher asks students to use them.",
+            "vi": "Mình nghĩ tụi mình có thể đồng ý điểm này: cất điện thoại trong giờ học, chỉ lấy ra khi giáo viên yêu cầu dùng."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Lydia",
+          "label": null,
+          "i18n": {
+            "en": "Interesting! You started on opposite sides and came to a partial agreement.",
+            "vi": "Thú vị đấy! Hai em bắt đầu từ hai phía đối lập và đi tới một phần đồng thuận."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Lydia",
+          "label": null,
+          "i18n": {
+            "en": "That isn't a weakness in a debate. In real life, that's often where the best solutions are.",
+            "vi": "Đó không phải điểm yếu trong tranh biện. Ngoài đời, các giải pháp tốt nhất thường nằm ở chính chỗ đó."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Lydia",
+          "label": null,
+          "i18n": {
+            "en": "Next week, you'll switch sides. Maddie will argue against the ban, and Noah will argue for it. Understanding the other viewpoint is the most useful skill that I can teach you.",
+            "vi": "Tuần sau, hai em đổi phe. Maddie sẽ phản đối lệnh cấm, còn Noah sẽ ủng hộ nó. Hiểu được quan điểm của phía bên kia là kỹ năng hữu ích nhất cô có thể dạy các em."
+          }
+        }
+      ],
+      "content_ja": "Debate Club, First Meeting: Should Phones Be Banned in Class?\n\nMs. Park started a new debate club at Westview High in December. At the first meeting, two students practiced on a topic that everyone at school had an opinion about.\n\nLydia: Maddie, you're first. Remember: give reasons, not just feelings.\n\nMaddie: Thank you. I firmly believe that phones should be banned during class. Although phones are useful, they are designed to grab our attention, and every message pulls us away from the lesson. There is also some evidence. A study in England found that after schools banned phones, students' test scores went up, especially for students who were struggling. Generally speaking, fewer distractions mean better learning.\n\nLydia: Thank you, Maddie. Noah?\n\nNoah: I see your point, and I agree that phones can be a problem in class. But I don't think that a complete ban is the answer. For instance, many students use their phones to check the meaning of a word, take a photo of the board or use a calculator. Phones also help people work together outside school. Last month, our neighbors organized a whole coat drive through a group chat. Instead of banning phones, schools should teach students how to use them responsibly. Despite the risks, I think that the benefits outweigh the disadvantages.\n\nMaddie: With respect, schools have been trying that for years, and it hasn't worked. Teaching responsibility is great, but during a lesson, the phone should be in a bag.\n\nNoah: I suppose we could agree on that: phones away during the lesson, and out only when the teacher asks students to use them.\n\nLydia: Interesting! You started on opposite sides and came to a partial agreement. That isn't a weakness in a debate. In real life, that's often where the best solutions are. Next week, you'll switch sides. Maddie will argue against the ban, and Noah will argue for it. Understanding the other viewpoint is the most useful skill that I can teach you.",
+      "translation_vn": "(1) Câu lạc bộ tranh biện, buổi đầu tiên: có nên cấm điện thoại trong lớp?\n(2) Tháng Mười hai, cô Park lập câu lạc bộ tranh biện mới ở trường Westview High.\n(3) Ở buổi đầu tiên, hai học sinh tập tranh biện về một chủ đề mà cả trường ai cũng có ý kiến.\n(4) Lydia: Maddie, em nói trước. Nhớ nhé: đưa ra lý lẽ, đừng chỉ nói cảm xúc.\n(5) Maddie: Em cảm ơn cô. Em tin chắc rằng nên cấm điện thoại trong giờ học.\n(6) Maddie: Dù điện thoại có ích, chúng được thiết kế để giành lấy sự chú ý của chúng ta, và mỗi tin nhắn lại kéo ta ra khỏi bài học.\n(7) Maddie: Cũng có bằng chứng nữa. Một nghiên cứu ở Anh phát hiện sau khi các trường cấm điện thoại, điểm thi của học sinh tăng lên, nhất là với những bạn đang học đuối.\n(8) Maddie: Nói chung, ít bị phân tâm hơn thì học tốt hơn.\n(9) Lydia: Cảm ơn Maddie. Noah?\n(10) Noah: Mình hiểu ý bạn, và mình đồng ý là điện thoại có thể gây rắc rối trong lớp. Nhưng mình không nghĩ cấm hẳn là cách giải quyết.\n(11) Noah: Ví dụ, nhiều bạn dùng điện thoại để tra nghĩa một từ, chụp ảnh bảng hay dùng máy tính bỏ túi.\n(12) Noah: Điện thoại còn giúp mọi người cùng làm việc ngoài trường học. Tháng trước, hàng xóm khu mình tổ chức cả một đợt quyên góp áo ấm qua nhóm chat.\n(13) Noah: Thay vì cấm điện thoại, nhà trường nên dạy học sinh cách dùng có trách nhiệm. Dù có rủi ro, mình nghĩ lợi ích vẫn lớn hơn bất lợi.\n(14) Maddie: Xin phép nói thẳng, các trường đã thử cách đó nhiều năm rồi mà không ăn thua. Dạy tinh thần trách nhiệm thì hay, nhưng trong giờ học, điện thoại nên nằm trong cặp.\n(15) Noah: Mình nghĩ tụi mình có thể đồng ý điểm này: cất điện thoại trong giờ học, chỉ lấy ra khi giáo viên yêu cầu dùng.\n(16) Lydia: Thú vị đấy! Hai em bắt đầu từ hai phía đối lập và đi tới một phần đồng thuận.\n(17) Lydia: Đó không phải điểm yếu trong tranh biện. Ngoài đời, các giải pháp tốt nhất thường nằm ở chính chỗ đó.\n(18) Lydia: Tuần sau, hai em đổi phe. Maddie sẽ phản đối lệnh cấm, còn Noah sẽ ủng hộ nó. Hiểu được quan điểm của phía bên kia là kỹ năng hữu ích nhất cô có thể dạy các em.",
+      "word_count": 324,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.149",
+        "b1.150",
+        "b1.151",
+        "b1.152"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3738_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "What is the main purpose of the newsletter?",
+        "vi": "Mục đích chính của bản tin là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask for more coats",
+            "vi": "để kêu gọi thêm áo khoác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask for more coats",
+          "text_translation": "để kêu gọi thêm áo khoác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to sell books for the free library",
+            "vi": "để bán sách cho tủ sách miễn phí"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to sell books for the free library",
+          "text_translation": "để bán sách cho tủ sách miễn phí"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to thank neighbors and report the results of the coat drive",
+            "vi": "để cảm ơn hàng xóm và báo kết quả đợt quyên góp áo ấm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to thank neighbors and report the results of the coat drive",
+          "text_translation": "để cảm ơn hàng xóm và báo kết quả đợt quyên góp áo ấm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how to learn sign language",
+            "vi": "để giải thích cách học ngôn ngữ ký hiệu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how to learn sign language",
+          "text_translation": "để giải thích cách học ngôn ngữ ký hiệu"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề \"Warm Coats for Winter: Thank You, Maple Street!\" Bản tin nêu con số, kể ai đã giúp gì, rồi giới thiệu dự án sau."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the newsletter?",
+      "question_vn": "Mục đích chính của bản tin là gì?",
+      "explanation": "Tiêu đề \"Warm Coats for Winter: Thank You, Maple Street!\" Bản tin nêu con số, kể ai đã giúp gì, rồi giới thiệu dự án sau."
+    },
+    {
+      "id": "q_u3738_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "What does \"Here are the numbers\" introduce?",
+        "vi": "Câu \"Here are the numbers\" mở đầu cho điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a list of how many things were collected",
+            "vi": "danh sách số lượng đồ đã thu được"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a list of how many things were collected",
+          "text_translation": "danh sách số lượng đồ đã thu được"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the phone numbers of the volunteers",
+            "vi": "số điện thoại của các tình nguyện viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the phone numbers of the volunteers",
+          "text_translation": "số điện thoại của các tình nguyện viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the cost of the coats",
+            "vi": "giá của áo khoác"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the cost of the coats",
+          "text_translation": "giá của áo khoác"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the number of people at the shelter",
+            "vi": "số người ở nhà tạm trú"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the number of people at the shelter",
+          "text_translation": "số người ở nhà tạm trú"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Here are the numbers: 412 coats, 156 blankets, 90 pairs of gloves and more than 200 warm hats.\" Here is / Here are dùng để giới thiệu điều sắp nói."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Here are the numbers\" introduce?",
+      "question_vn": "Câu \"Here are the numbers\" mở đầu cho điều gì?",
+      "explanation": "\"Here are the numbers: 412 coats, 156 blankets, 90 pairs of gloves and more than 200 warm hats.\" Here is / Here are dùng để giới thiệu điều sắp nói."
+    },
+    {
+      "id": "q_u3738_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "Where did the coats and blankets go?",
+        "vi": "Áo khoác và chăn được chuyển tới đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to Westview High",
+            "vi": "tới trường Westview High"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to Westview High",
+          "text_translation": "tới trường Westview High"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to Harriet's café",
+            "vi": "tới quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to Harriet's café",
+          "text_translation": "tới quán Harriet's"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to the public library",
+            "vi": "tới thư viện công cộng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to the public library",
+          "text_translation": "tới thư viện công cộng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to the Harbor Street Shelter",
+            "vi": "tới nhà tạm trú Harbor Street"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to the Harbor Street Shelter",
+          "text_translation": "tới nhà tạm trú Harbor Street"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Everything was sorted by size and given to the Harbor Street Shelter\". Quán Harriet's chỉ là điểm nhận đồ."
+      },
+      "audio_data": null,
+      "question_jp": "Where did the coats and blankets go?",
+      "question_vn": "Áo khoác và chăn được chuyển tới đâu?",
+      "explanation": "\"Everything was sorted by size and given to the Harbor Street Shelter\". Quán Harriet's chỉ là điểm nhận đồ."
+    },
+    {
+      "id": "q_u3738_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "What was Harriet's part in the coat drive?",
+        "vi": "Bà Harriet góp phần gì trong đợt quyên góp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She drove the van.",
+            "vi": "Bà lái xe tải nhỏ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She drove the van.",
+          "text_translation": "Bà lái xe tải nhỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Her café was the main collection point, and she gave free cookies.",
+            "vi": "Quán của bà là điểm nhận đồ chính, và bà tặng bánh quy miễn phí."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Her café was the main collection point, and she gave free cookies.",
+          "text_translation": "Quán của bà là điểm nhận đồ chính, và bà tặng bánh quy miễn phí."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She made the posters.",
+            "vi": "Bà làm áp phích."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She made the posters.",
+          "text_translation": "Bà làm áp phích."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She taught sign language.",
+            "vi": "Bà dạy ngôn ngữ ký hiệu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She taught sign language.",
+          "text_translation": "Bà dạy ngôn ngữ ký hiệu."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Harriet's café was our main collection point, and Harriet gave a free cookie to everyone who brought something.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was Harriet's part in the coat drive?",
+      "question_vn": "Bà Harriet góp phần gì trong đợt quyên góp?",
+      "explanation": "\"Harriet's café was our main collection point, and Harriet gave a free cookie to everyone who brought something.\""
+    },
+    {
+      "id": "q_u3738_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "How did Tina and Amy help?",
+        "vi": "Tina và Amy giúp bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They carried heavy boxes.",
+            "vi": "Khuân thùng nặng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They carried heavy boxes.",
+          "text_translation": "Khuân thùng nặng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They sorted the coats by size.",
+            "vi": "Phân loại áo theo cỡ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They sorted the coats by size.",
+          "text_translation": "Phân loại áo theo cỡ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They made posters and pinned them to noticeboards.",
+            "vi": "Làm áp phích và ghim lên bảng tin."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They made posters and pinned them to noticeboards.",
+          "text_translation": "Làm áp phích và ghim lên bảng tin."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They gave out cookies.",
+            "vi": "Phát bánh quy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They gave out cookies.",
+          "text_translation": "Phát bánh quy."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tina Carter and Amy Brooks made posters and pinned them to every noticeboard on the street.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did Tina and Amy help?",
+      "question_vn": "Tina và Amy giúp bằng cách nào?",
+      "explanation": "\"Tina Carter and Amy Brooks made posters and pinned them to every noticeboard on the street.\""
+    },
+    {
+      "id": "q_u3738_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "What does \"(well, maybe once)\" suggest?",
+        "vi": "Cụm \"(à, có lẽ một lần)\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The writer is joking that the boys did complain a little.",
+            "vi": "Người viết đùa rằng hai cậu cũng có than vãn chút ít."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The writer is joking that the boys did complain a little.",
+          "text_translation": "Người viết đùa rằng hai cậu cũng có than vãn chút ít."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The boys refused to help.",
+            "vi": "Hai cậu từ chối giúp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The boys refused to help.",
+          "text_translation": "Hai cậu từ chối giúp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The boys carried only one box.",
+            "vi": "Hai cậu chỉ khuân một thùng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The boys carried only one box.",
+          "text_translation": "Hai cậu chỉ khuân một thùng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The writer is angry with the boys.",
+            "vi": "Người viết giận hai cậu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The writer is angry with the boys.",
+          "text_translation": "Người viết giận hai cậu."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"they didn't complain once (well, maybe once).\" Phần trong ngoặc tự sửa lời mình một cách hài hước, giọng thân mật của bản tin khu phố."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"(well, maybe once)\" suggest?",
+      "question_vn": "Cụm \"(à, có lẽ một lần)\" cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"they didn't complain once (well, maybe once).\" Phần trong ngoặc tự sửa lời mình một cách hài hước, giọng thân mật của bản tin khu phố."
+    },
+    {
+      "id": "q_u3738_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "What did Mr. Alvarez do for the coat drive?",
+        "vi": "Ông Alvarez đã làm gì cho đợt quyên góp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He gave 412 coats.",
+            "vi": "Ông góp 412 áo khoác."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He gave 412 coats.",
+          "text_translation": "Ông góp 412 áo khoác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He taught the volunteers a few words in sign language.",
+            "vi": "Ông dạy tình nguyện viên vài từ bằng ngôn ngữ ký hiệu."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He taught the volunteers a few words in sign language.",
+          "text_translation": "Ông dạy tình nguyện viên vài từ bằng ngôn ngữ ký hiệu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He drove the boxes to the shelter.",
+            "vi": "Ông chở thùng đồ tới nhà tạm trú."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He drove the boxes to the shelter.",
+          "text_translation": "Ông chở thùng đồ tới nhà tạm trú."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He planned the free library.",
+            "vi": "Ông lên kế hoạch tủ sách miễn phí."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He planned the free library.",
+          "text_translation": "Ông lên kế hoạch tủ sách miễn phí."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"He taught our volunteers a few words in sign language, so they could say \"hello\" and \"stay warm\" to deaf visitors at the shelter.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Mr. Alvarez do for the coat drive?",
+      "question_vn": "Ông Alvarez đã làm gì cho đợt quyên góp?",
+      "explanation": "\"He taught our volunteers a few words in sign language, so they could say \"hello\" and \"stay warm\" to deaf visitors at the shelter.\""
+    },
+    {
+      "id": "q_u3738_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "Which of these is NOT mentioned as something that was collected?",
+        "vi": "Thứ nào KHÔNG được nhắc tới trong số đồ đã thu được?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "coats",
+            "vi": "áo khoác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "coats",
+          "text_translation": "áo khoác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "blankets",
+            "vi": "chăn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "blankets",
+          "text_translation": "chăn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "gloves",
+            "vi": "găng tay"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "gloves",
+          "text_translation": "găng tay"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "toys",
+            "vi": "đồ chơi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "toys",
+          "text_translation": "đồ chơi"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"412 coats, 156 blankets, 90 pairs of gloves and more than 200 warm hats.\" Không có đồ chơi."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT mentioned as something that was collected?",
+      "question_vn": "Thứ nào KHÔNG được nhắc tới trong số đồ đã thu được?",
+      "explanation": "\"412 coats, 156 blankets, 90 pairs of gloves and more than 200 warm hats.\" Không có đồ chơi."
+    },
+    {
+      "id": "q_u3738_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "What does \"Some of you gave one hour, and some of you gave one coat, and both were contributions that mattered\" mean?",
+        "vi": "Câu \"Có người góp một giờ, có người góp một chiếc áo, và cả hai đều là những đóng góp có ý nghĩa\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Every kind of help, big or small, was important.",
+            "vi": "Mọi sự giúp đỡ, dù lớn hay nhỏ, đều quan trọng."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Every kind of help, big or small, was important.",
+          "text_translation": "Mọi sự giúp đỡ, dù lớn hay nhỏ, đều quan trọng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Giving time is better than giving coats.",
+            "vi": "Góp thời gian tốt hơn góp áo."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Giving time is better than giving coats.",
+          "text_translation": "Góp thời gian tốt hơn góp áo."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Everyone should give exactly one hour.",
+            "vi": "Ai cũng nên góp đúng một giờ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Everyone should give exactly one hour.",
+          "text_translation": "Ai cũng nên góp đúng một giờ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only coats were really useful.",
+            "vi": "Chỉ có áo khoác là thật sự có ích."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Only coats were really useful.",
+          "text_translation": "Chỉ có áo khoác là thật sự có ích."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"both were contributions that mattered.\" Câu trước đó: \"Volunteering does not have to take a lot of time.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Some of you gave one hour, and some of you gave one coat, and both were contributions that mattered\" mean?",
+      "question_vn": "Câu \"Có người góp một giờ, có người góp một chiếc áo, và cả hai đều là những đóng góp có ý nghĩa\" nghĩa là gì?",
+      "explanation": "Câu suy luận. \"both were contributions that mattered.\" Câu trước đó: \"Volunteering does not have to take a lot of time.\""
+    },
+    {
+      "id": "q_u3738_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_01",
+      "i18n": {
+        "en": "What is the group's next project?",
+        "vi": "Dự án tiếp theo của nhóm là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "another coat drive in January",
+            "vi": "một đợt quyên góp áo ấm nữa vào tháng Một"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "another coat drive in January",
+          "text_translation": "một đợt quyên góp áo ấm nữa vào tháng Một"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a new café on Pine Street",
+            "vi": "một quán cà phê mới ở phố Pine"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a new café on Pine Street",
+          "text_translation": "một quán cà phê mới ở phố Pine"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a little free library at the corner of Maple Street and Pine Street",
+            "vi": "một tủ sách miễn phí nho nhỏ ở góc phố Maple và phố Pine"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a little free library at the corner of Maple Street and Pine Street",
+          "text_translation": "một tủ sách miễn phí nho nhỏ ở góc phố Maple và phố Pine"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a sign language class at the shelter",
+            "vi": "một lớp ngôn ngữ ký hiệu ở nhà tạm trú"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a sign language class at the shelter",
+          "text_translation": "một lớp ngôn ngữ ký hiệu ở nhà tạm trú"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"In February, we are putting together a plan for a little free library at the corner of Maple Street and Pine Street.\" Ngày 12 tháng Một là buổi họp để gặp Helena."
+      },
+      "audio_data": null,
+      "question_jp": "What is the group's next project?",
+      "question_vn": "Dự án tiếp theo của nhóm là gì?",
+      "explanation": "\"In February, we are putting together a plan for a little free library at the corner of Maple Street and Pine Street.\" Ngày 12 tháng Một là buổi họp để gặp Helena."
+    },
+    {
+      "id": "q_u3738_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "What happened at the first meeting of the debate club?",
+        "vi": "Ở buổi đầu của câu lạc bộ tranh biện đã diễn ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ms. Park banned phones at Westview High.",
+            "vi": "Cô Park cấm điện thoại ở trường Westview High."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ms. Park banned phones at Westview High.",
+          "text_translation": "Cô Park cấm điện thoại ở trường Westview High."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Two students practiced debating whether phones should be banned in class.",
+            "vi": "Hai học sinh tập tranh biện về việc có nên cấm điện thoại trong lớp."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Two students practiced debating whether phones should be banned in class.",
+          "text_translation": "Hai học sinh tập tranh biện về việc có nên cấm điện thoại trong lớp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The students wrote a new school rule.",
+            "vi": "Học sinh viết một nội quy mới."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The students wrote a new school rule.",
+          "text_translation": "Học sinh viết một nội quy mới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Maddie and Noah had a fight.",
+            "vi": "Maddie và Noah cãi nhau to."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Maddie and Noah had a fight.",
+          "text_translation": "Maddie và Noah cãi nhau to."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"At the first meeting, two students practiced on a topic that everyone at school had an opinion about.\" Đây là buổi tập, không phải để ra quy định."
+      },
+      "audio_data": null,
+      "question_jp": "What happened at the first meeting of the debate club?",
+      "question_vn": "Ở buổi đầu của câu lạc bộ tranh biện đã diễn ra điều gì?",
+      "explanation": "\"At the first meeting, two students practiced on a topic that everyone at school had an opinion about.\" Đây là buổi tập, không phải để ra quy định."
+    },
+    {
+      "id": "q_u3738_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "What advice does Ms. Park give Maddie before she starts?",
+        "vi": "Trước khi Maddie bắt đầu, cô Park dặn gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Speak as fast as possible.",
+            "vi": "Nói càng nhanh càng tốt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Speak as fast as possible.",
+          "text_translation": "Nói càng nhanh càng tốt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Agree with Noah.",
+            "vi": "Đồng ý với Noah."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Agree with Noah.",
+          "text_translation": "Đồng ý với Noah."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Use your phone to find facts.",
+            "vi": "Dùng điện thoại tìm dữ kiện."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Use your phone to find facts.",
+          "text_translation": "Dùng điện thoại tìm dữ kiện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Give reasons, not just feelings.",
+            "vi": "Đưa ra lý lẽ, đừng chỉ nói cảm xúc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Give reasons, not just feelings.",
+          "text_translation": "Đưa ra lý lẽ, đừng chỉ nói cảm xúc."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Remember: give reasons, not just feelings.\""
+      },
+      "audio_data": null,
+      "question_jp": "What advice does Ms. Park give Maddie before she starts?",
+      "question_vn": "Trước khi Maddie bắt đầu, cô Park dặn gì?",
+      "explanation": "\"Remember: give reasons, not just feelings.\""
+    },
+    {
+      "id": "q_u3738_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "What is Maddie's main reason for banning phones in class?",
+        "vi": "Lý do chính Maddie muốn cấm điện thoại trong lớp là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Phones are designed to grab attention and pull students away from the lesson.",
+            "vi": "Điện thoại được thiết kế để giành sự chú ý và kéo học sinh ra khỏi bài học."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Phones are designed to grab attention and pull students away from the lesson.",
+          "text_translation": "Điện thoại được thiết kế để giành sự chú ý và kéo học sinh ra khỏi bài học."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Phones are too expensive for students.",
+            "vi": "Điện thoại quá đắt với học sinh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Phones are too expensive for students.",
+          "text_translation": "Điện thoại quá đắt với học sinh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Phones break easily.",
+            "vi": "Điện thoại dễ hỏng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Phones break easily.",
+          "text_translation": "Điện thoại dễ hỏng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Teachers don't like phones.",
+            "vi": "Giáo viên không thích điện thoại."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Teachers don't like phones.",
+          "text_translation": "Giáo viên không thích điện thoại."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Although phones are useful, they are designed to grab our attention, and every message pulls us away from the lesson.\" Although + mệnh đề: dù … (vẫn)."
+      },
+      "audio_data": null,
+      "question_jp": "What is Maddie's main reason for banning phones in class?",
+      "question_vn": "Lý do chính Maddie muốn cấm điện thoại trong lớp là gì?",
+      "explanation": "\"Although phones are useful, they are designed to grab our attention, and every message pulls us away from the lesson.\" Although + mệnh đề: dù … (vẫn)."
+    },
+    {
+      "id": "q_u3738_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "What did the study in England find?",
+        "vi": "Nghiên cứu ở Anh phát hiện điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Students learned better with more phones.",
+            "vi": "Học sinh học tốt hơn khi dùng nhiều điện thoại hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Students learned better with more phones.",
+          "text_translation": "Học sinh học tốt hơn khi dùng nhiều điện thoại hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Test scores went down after the ban.",
+            "vi": "Điểm thi giảm sau lệnh cấm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Test scores went down after the ban.",
+          "text_translation": "Điểm thi giảm sau lệnh cấm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Test scores went up after the ban, especially for students who were struggling.",
+            "vi": "Điểm thi tăng sau lệnh cấm, nhất là với những bạn đang học đuối."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Test scores went up after the ban, especially for students who were struggling.",
+          "text_translation": "Điểm thi tăng sau lệnh cấm, nhất là với những bạn đang học đuối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Phones had no effect at all.",
+            "vi": "Điện thoại hoàn toàn không ảnh hưởng gì."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Phones had no effect at all.",
+          "text_translation": "Điện thoại hoàn toàn không ảnh hưởng gì."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"after schools banned phones, students' test scores went up, especially for students who were struggling.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the study in England find?",
+      "question_vn": "Nghiên cứu ở Anh phát hiện điều gì?",
+      "explanation": "\"after schools banned phones, students' test scores went up, especially for students who were struggling.\""
+    },
+    {
+      "id": "q_u3738_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "How does Noah begin his answer to Maddie?",
+        "vi": "Noah mở đầu phần đáp lại Maddie thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He says that Maddie is talking nonsense.",
+            "vi": "Cậu nói Maddie nói nhảm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He says that Maddie is talking nonsense.",
+          "text_translation": "Cậu nói Maddie nói nhảm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He agrees with part of her point before he disagrees politely.",
+            "vi": "Cậu đồng ý một phần ý của bạn trước khi lịch sự phản bác."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He agrees with part of her point before he disagrees politely.",
+          "text_translation": "Cậu đồng ý một phần ý của bạn trước khi lịch sự phản bác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He refuses to answer.",
+            "vi": "Cậu từ chối trả lời."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He refuses to answer.",
+          "text_translation": "Cậu từ chối trả lời."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He agrees with everything she said.",
+            "vi": "Cậu đồng ý với mọi điều bạn nói."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He agrees with everything she said.",
+          "text_translation": "Cậu đồng ý với mọi điều bạn nói."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"I see your point, and I agree that phones can be a problem in class. But I don't think that a complete ban is the answer.\" Đây là cách phản bác lịch sự: ghi nhận trước, rồi mới nói \"But…\"."
+      },
+      "audio_data": null,
+      "question_jp": "How does Noah begin his answer to Maddie?",
+      "question_vn": "Noah mở đầu phần đáp lại Maddie thế nào?",
+      "explanation": "\"I see your point, and I agree that phones can be a problem in class. But I don't think that a complete ban is the answer.\" Đây là cách phản bác lịch sự: ghi nhận trước, rồi mới nói \"But…\"."
+    },
+    {
+      "id": "q_u3738_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "Which of these is NOT one of Noah's examples of using phones well?",
+        "vi": "Điều nào KHÔNG nằm trong các ví dụ của Noah về việc dùng điện thoại đúng cách?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "checking the meaning of a word",
+            "vi": "tra nghĩa một từ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "checking the meaning of a word",
+          "text_translation": "tra nghĩa một từ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "taking a photo of the board",
+            "vi": "chụp ảnh bảng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "taking a photo of the board",
+          "text_translation": "chụp ảnh bảng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "using a calculator",
+            "vi": "dùng máy tính bỏ túi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "using a calculator",
+          "text_translation": "dùng máy tính bỏ túi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "playing games during the break",
+            "vi": "chơi trò chơi giờ ra chơi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "playing games during the break",
+          "text_translation": "chơi trò chơi giờ ra chơi"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"many students use their phones to check the meaning of a word, take a photo of the board or use a calculator.\" Không có chơi trò chơi."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT one of Noah's examples of using phones well?",
+      "question_vn": "Điều nào KHÔNG nằm trong các ví dụ của Noah về việc dùng điện thoại đúng cách?",
+      "explanation": "\"many students use their phones to check the meaning of a word, take a photo of the board or use a calculator.\" Không có chơi trò chơi."
+    },
+    {
+      "id": "q_u3738_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "In \"Despite the risks, I think that the benefits outweigh the disadvantages\", what does \"Despite the risks\" mean?",
+        "vi": "Trong câu \"Despite the risks, I think that the benefits outweigh the disadvantages\", \"Despite the risks\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "although there are risks",
+            "vi": "dù có rủi ro"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "although there are risks",
+          "text_translation": "dù có rủi ro"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because there are risks",
+            "vi": "vì có rủi ro"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because there are risks",
+          "text_translation": "vì có rủi ro"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "there are no risks",
+            "vi": "không có rủi ro nào"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "there are no risks",
+          "text_translation": "không có rủi ro nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "during the risks",
+            "vi": "trong lúc có rủi ro"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "during the risks",
+          "text_translation": "trong lúc có rủi ro"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Despite the risks, I think that the benefits outweigh the disadvantages.\" Despite + danh từ = although + mệnh đề: dù, mặc dù."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Despite the risks, I think that the benefits outweigh the disadvantages\", what does \"Despite the risks\" mean?",
+      "question_vn": "Trong câu \"Despite the risks, I think that the benefits outweigh the disadvantages\", \"Despite the risks\" nghĩa là gì?",
+      "explanation": "\"Despite the risks, I think that the benefits outweigh the disadvantages.\" Despite + danh từ = although + mệnh đề: dù, mặc dù."
+    },
+    {
+      "id": "q_u3738_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "What do Maddie and Noah finally agree on?",
+        "vi": "Cuối cùng Maddie và Noah đồng ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Phones should be banned from school completely.",
+            "vi": "Nên cấm hẳn điện thoại khỏi trường."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Phones should be banned from school completely.",
+          "text_translation": "Nên cấm hẳn điện thoại khỏi trường."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Students can use phones whenever they want.",
+            "vi": "Học sinh được dùng điện thoại bất cứ lúc nào."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Students can use phones whenever they want.",
+          "text_translation": "Học sinh được dùng điện thoại bất cứ lúc nào."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Phones should be away during the lesson and out only when the teacher asks.",
+            "vi": "Cất điện thoại trong giờ học, chỉ lấy ra khi giáo viên yêu cầu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Phones should be away during the lesson and out only when the teacher asks.",
+          "text_translation": "Cất điện thoại trong giờ học, chỉ lấy ra khi giáo viên yêu cầu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Debate clubs should not talk about phones.",
+            "vi": "Câu lạc bộ tranh biện không nên bàn chuyện điện thoại."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Debate clubs should not talk about phones.",
+          "text_translation": "Câu lạc bộ tranh biện không nên bàn chuyện điện thoại."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"phones away during the lesson, and out only when the teacher asks students to use them.\" Cô Park gọi đây là \"a partial agreement\"."
+      },
+      "audio_data": null,
+      "question_jp": "What do Maddie and Noah finally agree on?",
+      "question_vn": "Cuối cùng Maddie và Noah đồng ý điều gì?",
+      "explanation": "\"phones away during the lesson, and out only when the teacher asks students to use them.\" Cô Park gọi đây là \"a partial agreement\"."
+    },
+    {
+      "id": "q_u3738_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "Why does Ms. Park ask Maddie and Noah to switch sides next week?",
+        "vi": "Vì sao cô Park bảo Maddie và Noah tuần sau đổi phe?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She thinks that they both argued badly.",
+            "vi": "Vì cô nghĩ cả hai tranh biện kém."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She thinks that they both argued badly.",
+          "text_translation": "Vì cô nghĩ cả hai tranh biện kém."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wants them to learn to understand the other viewpoint.",
+            "vi": "Vì cô muốn hai em học cách hiểu quan điểm của phía bên kia."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She wants them to learn to understand the other viewpoint.",
+          "text_translation": "Vì cô muốn hai em học cách hiểu quan điểm của phía bên kia."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wants Maddie to win.",
+            "vi": "Vì cô muốn Maddie thắng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wants Maddie to win.",
+          "text_translation": "Vì cô muốn Maddie thắng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The rules of the club say so.",
+            "vi": "Vì nội quy câu lạc bộ quy định vậy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The rules of the club say so.",
+          "text_translation": "Vì nội quy câu lạc bộ quy định vậy."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Understanding the other viewpoint is the most useful skill that I can teach you.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ms. Park ask Maddie and Noah to switch sides next week?",
+      "question_vn": "Vì sao cô Park bảo Maddie và Noah tuần sau đổi phe?",
+      "explanation": "Câu suy luận. \"Understanding the other viewpoint is the most useful skill that I can teach you.\""
+    },
+    {
+      "id": "q_u3738_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3738_02",
+      "i18n": {
+        "en": "Use both texts. Which event from the newsletter does Noah use as an example?",
+        "vi": "Dựa vào cả hai bài. Noah lấy sự kiện nào trong bản tin làm ví dụ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the free library",
+            "vi": "tủ sách miễn phí"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the free library",
+          "text_translation": "tủ sách miễn phí"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet's free cookies",
+            "vi": "bánh quy miễn phí của bà Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet's free cookies",
+          "text_translation": "bánh quy miễn phí của bà Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the sign language lesson",
+            "vi": "buổi học ngôn ngữ ký hiệu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the sign language lesson",
+          "text_translation": "buổi học ngôn ngữ ký hiệu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the coat drive that was planned in the neighbors' group chat",
+            "vi": "đợt quyên góp áo ấm được lên kế hoạch trong nhóm chat hàng xóm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the coat drive that was planned in the neighbors' group chat",
+          "text_translation": "đợt quyên góp áo ấm được lên kế hoạch trong nhóm chat hàng xóm"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Noah: \"Last month, our neighbors organized a whole coat drive through a group chat.\" Bản tin: \"Most of the planning happened in the Maple Street Neighbors Chat\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which event from the newsletter does Noah use as an example?",
+      "question_vn": "Dựa vào cả hai bài. Noah lấy sự kiện nào trong bản tin làm ví dụ?",
+      "explanation": "Câu nối hai bài. Noah: \"Last month, our neighbors organized a whole coat drive through a group chat.\" Bản tin: \"Most of the planning happened in the Maple Street Neighbors Chat\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3738_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 37) — Bản tin cảm ơn đợt quyên góp áo ấm",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3738_01",
+      "question_ids": [
+        "q_u3738_001",
+        "q_u3738_002",
+        "q_u3738_003",
+        "q_u3738_004",
+        "q_u3738_005",
+        "q_u3738_006",
+        "q_u3738_007",
+        "q_u3738_008",
+        "q_u3738_009",
+        "q_u3738_010"
+      ]
+    },
+    {
+      "set_id": "set_u3738_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 38) — Buổi đầu của câu lạc bộ tranh biện",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3738_02",
+      "question_ids": [
+        "q_u3738_011",
+        "q_u3738_012",
+        "q_u3738_013",
+        "q_u3738_014",
+        "q_u3738_015",
+        "q_u3738_016",
+        "q_u3738_017",
+        "q_u3738_018",
+        "q_u3738_019",
+        "q_u3738_020"
+      ]
+    }
+  ]
+}
