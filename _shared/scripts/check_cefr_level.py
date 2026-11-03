@@ -118,7 +118,7 @@ def candidates(w: str):
     yield w
     if w in IRREG:
         yield IRREG[w]
-    for suf, rep in (("th", ""), ("ves", "f"), ("ves", "fe"), ("ies", "y"), ("ied", "y"), ("ing", ""), ("ing", "e"), ("ed", ""), ("ed", "e"),
+    for suf, rep in (("iest", "y"), ("ier", "y"), ("th", ""), ("ves", "f"), ("ves", "fe"), ("ies", "y"), ("ied", "y"), ("ing", ""), ("ing", "e"), ("ed", ""), ("ed", "e"),
                      ("es", ""), ("s", ""), ("er", ""), ("est", ""), ("ly", ""), ("'s", "")):
         if w.endswith(suf) and len(w) > len(suf) + 1:
             base = w[: -len(suf)] + rep
