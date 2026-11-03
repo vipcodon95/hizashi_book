@@ -157,6 +157,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | B2 | tháng 2, năm 7 | **Ethan chạy siêu marathon 50 km đầu tiên** (đường mòn vùng núi phía đông San Diego), về đích 7 giờ 12 phút; tập 5 tháng; Leah đổi ca để chờ ở vạch đích, cầm biển "I'm so proud of you (and also: why?)". Từ mùa đông khó khăn năm 6, hai người giữ một buổi tối mỗi tuần cho nhau | 59 · u2526 |
 | B2 | tháng 3, năm 7 | **Megan (y tá cấp cứu ~20 năm ở Sunset Bay) học tiếng Tây Ban Nha** từ năm 6 (ứng dụng + lớp buổi tối ở trường cao đẳng cộng đồng) sau một đêm phải nhờ cậu bé 10 tuổi dịch cho bà mình; đồng nghiệp **Marisol** (người lạ) thúc chị nói. Được lên mục "People of the Month" trên bản tin nhân viên bệnh viện | 59 · u2728 |
 | B2 | tháng 4, năm 7 | **Bà Harriet suýt bị lừa qua điện thoại**: kẻ giả cảnh sát nói Nathan bị bắt sau tai nạn, đòi 3.000 đô bằng thẻ quà tặng; bà lấy cớ tìm kính, cúp máy, gọi Helena (Nathan đang ở nhà xem phim). **Cảnh sát Grant** (người lạ, nữ, Sở Cảnh sát San Diego) khuyên. Nhà Brooks thống nhất **mật khẩu gia đình** | 59 · u2930 |
+| B2 | tháng 4, năm 7 | **Tina (lớp 7) làm dự án hội chợ khoa học**: hoa bản địa ở vườn trường tiểu học cũ thu hút ~2,5 lần lượt thụ phấn (412 so với 168), ong bản địa nhỏ là nhóm đông nhất; giám khảo khen cô bé "very calm" dù cô sợ giọng mình run | 59 · u3334 |
 
 ## Còn mở
 

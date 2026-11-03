@@ -19,3 +19,4 @@
 | u2728 | [325, 302] từ, TB [24.3, 21.1] | bài phỏng vấn Megan học tiếng Tây Ban Nha (dare, How dare you đùa) + bài xã hội Mỹ già đi (there have been, the elderly); 6 câu suy luận/chức năng (1 nối 2 bài) |
 | u2930 | [337, 317] từ, TB [23.3, 22.2] | bản tin lừa đảo qua điện thoại (bị động với modal) + bài cách bất đồng văn minh (đảo ngữ phủ định; KHÔNG chính trị); 7 câu suy luận/chức năng (1 nối 2 bài) |
 | u3132 | [317, 340] từ, TB [25.6, 25.2] | bài Cape Town "Day Zero" 2018 (for + sb + to V) + lịch sử Hotel del Coronado (bị động với người nhận; 1888, 1977); 6 câu suy luận/chức năng (1 nối 2 bài) |
+| u3334 | [302, 328] từ, TB [19.5, 22.9] | báo cáo hội chợ khoa học của Tina (định nghĩa, phân loại, bị động hoàn thành nguyên mẫu) + bài hiệu ứng ánh đèn sân khấu (wish; nghiên cứu áo phông 2000); 7 câu suy luận/thái độ (1 nối 2 bài) |
