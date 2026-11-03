@@ -1,0 +1,1204 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 5 — Feelings and health",
+      "vi": "Cảm xúc, sức khoẻ"
+    },
+    "title": "Unit 5 — Feelings and health",
+    "title_vn": "Cảm xúc, sức khoẻ",
+    "module_code": "56_u05",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u05",
+    "curriculum_sheets": [
+      "a1.17",
+      "a1.18",
+      "a1.19",
+      "a1.20"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Megan Carter",
+      "Biscuit",
+      "Amy Brooks",
+      "Nurse Wilson (y tá trường Tina, người lạ)"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 11, năm 1 — một buổi sáng Tina bị ốm, nghỉ học ở nhà"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Cảm xúc, triệu chứng, lời khuyên dạng mệnh lệnh, tin vui / tin buồn",
+    "description_vn": "Hội thoại Megan chăm Tina bị ốm và áp phích phòng y tế trường \"Feeling sick?\". 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 5 khoá A1 · phiếu `a1.17` – `a1.20` (cảm xúc, đi khám bệnh, nghỉ ốm ở nhà, tin vui và tin buồn)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một đoạn hội thoại và một áp phích; hiểu cảm xúc (sad, tired of, better), triệu chứng (headache, fever, cough), lời khuyên đơn giản dạng câu mệnh lệnh, và tin vui / tin buồn."
+    },
+    "extra_words": [
+      {
+        "word": "today",
+        "i18n": {
+          "vi": "hôm nay"
+        }
+      },
+      {
+        "word": "wash",
+        "i18n": {
+          "vi": "rửa"
+        }
+      },
+      {
+        "word": "soap",
+        "i18n": {
+          "vi": "xà phòng"
+        }
+      },
+      {
+        "word": "into",
+        "i18n": {
+          "vi": "vào (trong)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "What's the matter?",
+          "vi": "Có chuyện gì thế? / Bạn bị làm sao?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I feel sick.",
+          "vi": "Tôi thấy mệt, không khoẻ."
+        }
+      },
+      {
+        "i18n": {
+          "en": "have a bad cough",
+          "vi": "ho nhiều"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stay in bed",
+          "vi": "nằm nghỉ trên giường"
+        }
+      },
+      {
+        "i18n": {
+          "en": "drink a lot of water",
+          "vi": "uống nhiều nước"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I feel a little better.",
+          "vi": "Tôi thấy đỡ hơn một chút."
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Hỏi \"What's the matter?\" là hỏi triệu chứng: tìm câu có **hurt**, **sore**, **have a … (fever / cough / headache)**."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi về cảm xúc: để ý **thời điểm**. Nhân vật có thể buồn ở giữa bài nhưng vui hoặc đỡ hơn ở cuối bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Áp phích, thông báo: lời khuyên thường là **câu mệnh lệnh** (`Stay…`, `Drink…`, `Do come…`). Cẩn thận chữ **not** và **Don't**, vì phương án nhiễu hay lấy đúng phần bị phủ định."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Tin vui / tin buồn: tìm cụm **good news** / **bad news**, nội dung tin thường đứng ngay sau dấu hai chấm."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u05_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tina bị ốm"
+      },
+      "title": "A Sick Morning",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Good morning. You are still in bed. What's the matter?",
+            "vi": "Chào buổi sáng con. Con vẫn còn nằm trên giường à. Con sao thế?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Mom, I feel sick. My head hurts, and I have a bad cough.",
+            "vi": "Mẹ ơi, con thấy mệt trong người. Con đau đầu, mà còn ho nhiều nữa."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "You have a little fever, too, but don't worry.",
+            "vi": "Con còn hơi sốt nữa, nhưng đừng lo."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "I have bad news: no school today.",
+            "vi": "Mẹ có tin buồn: hôm nay con nghỉ học nhé."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Why? I like school!",
+            "vi": "Sao vậy ạ? Con thích đi học mà!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "You can make other kids sick, so stay in bed and drink a lot of water.",
+            "vi": "Con có thể lây ốm cho các bạn khác, nên con nằm nghỉ trên giường và uống thật nhiều nước nhé."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Can I see Amy after school?",
+            "vi": "Chiều tan học con sang chơi với Amy được không ạ?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Not today. She can get sick, too.",
+            "vi": "Hôm nay thì không được. Em ấy cũng có thể bị lây ốm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "I am sad. I am tired of my bed!",
+            "vi": "Con buồn lắm. Con chán nằm giường lắm rồi!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "I have good news, too: Biscuit can stay in bed with you!",
+            "vi": "Mẹ cũng có tin vui đây: Biscuit được nằm trên giường với con!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "That is wonderful! I feel a little better.",
+            "vi": "Tuyệt quá! Con thấy đỡ hơn một chút rồi."
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "What a big smile! But do drink your water!",
+            "vi": "Cười tươi chưa kìa! Nhưng nhớ uống nước đấy nhé!"
+          }
+        }
+      ],
+      "content_ja": "Megan: Good morning. You are still in bed. What's the matter?\n\nTina: Mom, I feel sick. My head hurts, and I have a bad cough.\n\nMegan: You have a little fever, too, but don't worry. I have bad news: no school today.\n\nTina: Why? I like school!\n\nMegan: You can make other kids sick, so stay in bed and drink a lot of water.\n\nTina: Can I see Amy after school?\n\nMegan: Not today. She can get sick, too.\n\nTina: I am sad. I am tired of my bed!\n\nMegan: I have good news, too: Biscuit can stay in bed with you!\n\nTina: That is wonderful! I feel a little better.\n\nMegan: What a big smile! But do drink your water!",
+      "translation_vn": "(1) Megan: Chào buổi sáng con. Con vẫn còn nằm trên giường à. Con sao thế?\n(2) Tina: Mẹ ơi, con thấy mệt trong người. Con đau đầu, mà còn ho nhiều nữa.\n(3) Megan: Con còn hơi sốt nữa, nhưng đừng lo.\n(4) Megan: Mẹ có tin buồn: hôm nay con nghỉ học nhé.\n(5) Tina: Sao vậy ạ? Con thích đi học mà!\n(6) Megan: Con có thể lây ốm cho các bạn khác, nên con nằm nghỉ trên giường và uống thật nhiều nước nhé.\n(7) Tina: Chiều tan học con sang chơi với Amy được không ạ?\n(8) Megan: Hôm nay thì không được. Em ấy cũng có thể bị lây ốm.\n(9) Tina: Con buồn lắm. Con chán nằm giường lắm rồi!\n(10) Megan: Mẹ cũng có tin vui đây: Biscuit được nằm trên giường với con!\n(11) Tina: Tuyệt quá! Con thấy đỡ hơn một chút rồi.\n(12) Megan: Cười tươi chưa kìa! Nhưng nhớ uống nước đấy nhé!",
+      "word_count": 110,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.17",
+        "a1.18",
+        "a1.19",
+        "a1.20"
+      ]
+    },
+    {
+      "id": "passage_u05_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Áp phích phòng y tế trường"
+      },
+      "title": "Feeling Sick?",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Feeling sick?",
+            "vi": "Thấy không khoẻ?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do you have a headache, a fever or a bad cough?",
+            "vi": "Em bị đau đầu, sốt, hay ho nhiều?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please ask your teacher for help, and come to my office in Room five.",
+            "vi": "Hãy nhờ thầy cô giúp, rồi đến phòng y tế của cô ở Phòng số năm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cough into your arm, not into your hand.",
+            "vi": "Ho vào khuỷu tay, đừng ho vào bàn tay."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Blow your nose, and wash your hands with soap and water.",
+            "vi": "Xì mũi xong thì rửa tay bằng xà phòng và nước."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Drink a lot of water, and have healthy food.",
+            "vi": "Uống nhiều nước, và ăn đồ ăn lành mạnh."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do you have a fever in the morning? Please stay at home in bed.",
+            "vi": "Buổi sáng thức dậy bị sốt? Em hãy ở nhà nằm nghỉ nhé."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Very sick? I can check your fever and phone your mom or dad.",
+            "vi": "Ốm nặng? Cô sẽ đo nhiệt độ cho em và gọi điện cho bố hoặc mẹ em."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They can come and take you home.",
+            "vi": "Bố mẹ có thể đến đón em về nhà."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sad or scared? Do come and see me, too.",
+            "vi": "Thấy buồn hay sợ? Em cứ đến gặp cô nhé."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I can listen and help.",
+            "vi": "Cô sẽ lắng nghe và giúp em."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Good health is good news!",
+            "vi": "Sức khoẻ tốt là tin vui!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nurse Wilson",
+            "vi": "Cô y tá Wilson"
+          }
+        }
+      ],
+      "content_ja": "Feeling sick?\n\nDo you have a headache, a fever or a bad cough? Please ask your teacher for help, and come to my office in Room five.\n\nCough into your arm, not into your hand. Blow your nose, and wash your hands with soap and water. Drink a lot of water, and have healthy food. Do you have a fever in the morning? Please stay at home in bed.\n\nVery sick? I can check your fever and phone your mom or dad. They can come and take you home.\n\nSad or scared? Do come and see me, too. I can listen and help.\n\nGood health is good news!\n\nNurse Wilson",
+      "translation_vn": "(1) Thấy không khoẻ?\n(2) Em bị đau đầu, sốt, hay ho nhiều?\n(3) Hãy nhờ thầy cô giúp, rồi đến phòng y tế của cô ở Phòng số năm.\n(4) Ho vào khuỷu tay, đừng ho vào bàn tay.\n(5) Xì mũi xong thì rửa tay bằng xà phòng và nước.\n(6) Uống nhiều nước, và ăn đồ ăn lành mạnh.\n(7) Buổi sáng thức dậy bị sốt? Em hãy ở nhà nằm nghỉ nhé.\n(8) Ốm nặng? Cô sẽ đo nhiệt độ cho em và gọi điện cho bố hoặc mẹ em.\n(9) Bố mẹ có thể đến đón em về nhà.\n(10) Thấy buồn hay sợ? Em cứ đến gặp cô nhé.\n(11) Cô sẽ lắng nghe và giúp em.\n(12) Sức khoẻ tốt là tin vui!\n(13) Cô y tá Wilson",
+      "word_count": 110,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.17",
+        "a1.18",
+        "a1.19",
+        "a1.20"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u05_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "What's the matter with Tina?",
+        "vi": "Tina bị làm sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her knee hurts.",
+            "vi": "Em bị đau đầu gối."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Her knee hurts.",
+          "text_translation": "Em bị đau đầu gối."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Her head hurts, and she has a bad cough.",
+            "vi": "Em đau đầu và ho nhiều."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Her head hurts, and she has a bad cough.",
+          "text_translation": "Em đau đầu và ho nhiều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is tired of school.",
+            "vi": "Em chán đi học."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is tired of school.",
+          "text_translation": "Em chán đi học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has a sore tooth.",
+            "vi": "Em bị đau răng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has a sore tooth.",
+          "text_translation": "Em bị đau răng."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"My head hurts, and I have a bad cough.\" Tina không nói gì về đầu gối hay răng. Tina còn nói \"I like school!\" nên không phải chán đi học; thứ Tina chán là cái giường (\"tired of my bed\")."
+      },
+      "audio_data": null,
+      "question_jp": "What's the matter with Tina?",
+      "question_vn": "Tina bị làm sao?",
+      "explanation": "\"My head hurts, and I have a bad cough.\" Tina không nói gì về đầu gối hay răng. Tina còn nói \"I like school!\" nên không phải chán đi học; thứ Tina chán là cái giường (\"tired of my bed\")."
+    },
+    {
+      "id": "q_u05_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "Why can't Tina see Amy after school?",
+        "vi": "Vì sao chiều nay Tina không được sang chơi với Amy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Amy is at the doctor's.",
+            "vi": "Amy đang ở chỗ bác sĩ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Amy is at the doctor's.",
+          "text_translation": "Amy đang ở chỗ bác sĩ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Amy is afraid of Biscuit.",
+            "vi": "Amy sợ Biscuit."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Amy is afraid of Biscuit.",
+          "text_translation": "Amy sợ Biscuit."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Amy is very sick.",
+            "vi": "Amy đang ốm nặng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Amy is very sick.",
+          "text_translation": "Amy đang ốm nặng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Amy can get sick, too.",
+            "vi": "Amy cũng có thể bị lây ốm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Amy can get sick, too.",
+          "text_translation": "Amy cũng có thể bị lây ốm."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Not today. She can get sick, too.\" \"She\" là Amy, người được nhắc tới ở câu ngay trước. Người đang ốm là Tina, không phải Amy. Bài không nói Amy đi bác sĩ hay sợ Biscuit."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "\"get sick\" = bị ốm, bị lây ốm. \"too\" ở cuối câu: Amy cũng có thể bị ốm giống Tina."
+      },
+      "question_jp": "Why can't Tina see Amy after school?",
+      "question_vn": "Vì sao chiều nay Tina không được sang chơi với Amy?",
+      "explanation": "\"Not today. She can get sick, too.\" \"She\" là Amy, người được nhắc tới ở câu ngay trước. Người đang ốm là Tina, không phải Amy. Bài không nói Amy đi bác sĩ hay sợ Biscuit.",
+      "tip": "\"get sick\" = bị ốm, bị lây ốm. \"too\" ở cuối câu: Amy cũng có thể bị ốm giống Tina."
+    },
+    {
+      "id": "q_u05_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "What is the bad news for Tina?",
+        "vi": "Tin buồn với Tina là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "No school for her today.",
+            "vi": "Hôm nay em phải nghỉ học."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "No school for her today.",
+          "text_translation": "Hôm nay em phải nghỉ học."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Amy is sick.",
+            "vi": "Amy bị ốm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Amy is sick.",
+          "text_translation": "Amy bị ốm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Biscuit is out.",
+            "vi": "Biscuit trốn ra ngoài."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Biscuit is out.",
+          "text_translation": "Biscuit trốn ra ngoài."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has a high fever.",
+            "vi": "Em sốt cao."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has a high fever.",
+          "text_translation": "Em sốt cao."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have bad news: no school today.\" Tina chỉ \"a little fever\" (hơi sốt), không phải sốt cao. Amy không ốm, và Biscuit đang ở nhà với Tina."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Dấu hai chấm sau \"bad news\" / \"good news\" báo nội dung của tin đứng ngay sau đó."
+      },
+      "question_jp": "What is the bad news for Tina?",
+      "question_vn": "Tin buồn với Tina là gì?",
+      "explanation": "\"I have bad news: no school today.\" Tina chỉ \"a little fever\" (hơi sốt), không phải sốt cao. Amy không ốm, và Biscuit đang ở nhà với Tina.",
+      "tip": "Dấu hai chấm sau \"bad news\" / \"good news\" báo nội dung của tin đứng ngay sau đó."
+    },
+    {
+      "id": "q_u05_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "What does Megan say to Tina?",
+        "vi": "Megan dặn Tina điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Take medicine and see a doctor.",
+            "vi": "Uống thuốc và đi khám bác sĩ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Take medicine and see a doctor.",
+          "text_translation": "Uống thuốc và đi khám bác sĩ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Stay awake and read a book.",
+            "vi": "Thức và đọc sách."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Stay awake and read a book.",
+          "text_translation": "Thức và đọc sách."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Stay in bed, and drink a lot of water.",
+            "vi": "Nằm nghỉ trên giường và uống nhiều nước."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Stay in bed, and drink a lot of water.",
+          "text_translation": "Nằm nghỉ trên giường và uống nhiều nước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Do exercise with Biscuit.",
+            "vi": "Tập thể dục với Biscuit."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Do exercise with Biscuit.",
+          "text_translation": "Tập thể dục với Biscuit."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"You can make other kids sick, so stay in bed and drink a lot of water.\" Megan không nói đến thuốc hay bác sĩ. Biscuit chỉ được nằm trên giường với Tina, không phải tập thể dục. Câu cuối \"do drink your water\" nhắc lại lời dặn uống nước."
+      },
+      "audio_data": null,
+      "question_jp": "What does Megan say to Tina?",
+      "question_vn": "Megan dặn Tina điều gì?",
+      "explanation": "\"You can make other kids sick, so stay in bed and drink a lot of water.\" Megan không nói đến thuốc hay bác sĩ. Biscuit chỉ được nằm trên giường với Tina, không phải tập thể dục. Câu cuối \"do drink your water\" nhắc lại lời dặn uống nước."
+    },
+    {
+      "id": "q_u05_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "How does Tina feel after the good news?",
+        "vi": "Nghe tin vui xong, Tina cảm thấy thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sad and tired",
+            "vi": "buồn và chán"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "sad and tired",
+          "text_translation": "buồn và chán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a little better",
+            "vi": "đỡ hơn một chút"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a little better",
+          "text_translation": "đỡ hơn một chút"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "angry with her mom",
+            "vi": "giận mẹ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "angry with her mom",
+          "text_translation": "giận mẹ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "very sick",
+            "vi": "ốm nặng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "very sick",
+          "text_translation": "ốm nặng"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"That is wonderful! I feel a little better.\" Tina buồn và chán ở câu 9 (\"I am sad\", \"tired of my bed\"), tức là TRƯỚC tin vui về Biscuit. Tina không giận mẹ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cảm xúc của nhân vật có thể đổi giữa bài. Để ý câu hỏi nói về lúc nào: trước hay sau tin vui."
+      },
+      "question_jp": "How does Tina feel after the good news?",
+      "question_vn": "Nghe tin vui xong, Tina cảm thấy thế nào?",
+      "explanation": "\"That is wonderful! I feel a little better.\" Tina buồn và chán ở câu 9 (\"I am sad\", \"tired of my bed\"), tức là TRƯỚC tin vui về Biscuit. Tina không giận mẹ.",
+      "tip": "Cảm xúc của nhân vật có thể đổi giữa bài. Để ý câu hỏi nói về lúc nào: trước hay sau tin vui."
+    },
+    {
+      "id": "q_u05_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "Who writes this poster?",
+        "vi": "Ai viết áp phích này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Nurse Wilson",
+            "vi": "cô y tá Wilson"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Nurse Wilson",
+          "text_translation": "cô y tá Wilson"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a teacher",
+            "vi": "một thầy cô giáo"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a teacher",
+          "text_translation": "một thầy cô giáo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a doctor",
+            "vi": "một bác sĩ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a doctor",
+          "text_translation": "một bác sĩ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a student's mom",
+            "vi": "mẹ của một học sinh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a student's mom",
+          "text_translation": "mẹ của một học sinh"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Áp phích ký tên \"Nurse Wilson\" ở cuối, và \"come to my office\" là lời của cô y tá. Thầy cô giáo chỉ là người em nhờ giúp (\"ask your teacher for help\")."
+      },
+      "audio_data": null,
+      "question_jp": "Who writes this poster?",
+      "question_vn": "Ai viết áp phích này?",
+      "explanation": "Áp phích ký tên \"Nurse Wilson\" ở cuối, và \"come to my office\" là lời của cô y tá. Thầy cô giáo chỉ là người em nhờ giúp (\"ask your teacher for help\")."
+    },
+    {
+      "id": "q_u05_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "What can you do with a cough?",
+        "vi": "Bị ho thì em làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Cough into your hand.",
+            "vi": "Ho vào bàn tay."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Cough into your hand.",
+          "text_translation": "Ho vào bàn tay."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Take medicine.",
+            "vi": "Uống thuốc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Take medicine.",
+          "text_translation": "Uống thuốc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Cough into your arm.",
+            "vi": "Ho vào khuỷu tay."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Cough into your arm.",
+          "text_translation": "Ho vào khuỷu tay."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Stay awake.",
+            "vi": "Thức, không ngủ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Stay awake.",
+          "text_translation": "Thức, không ngủ."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Cough into your arm, not into your hand.\" Áp phích nói rõ là KHÔNG ho vào bàn tay. Áp phích không nói đến thuốc, cũng không bảo thức."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cẩn thận với \"not\": phương án nhiễu hay lấy đúng phần đứng sau chữ \"not\"."
+      },
+      "question_jp": "What can you do with a cough?",
+      "question_vn": "Bị ho thì em làm gì?",
+      "explanation": "\"Cough into your arm, not into your hand.\" Áp phích nói rõ là KHÔNG ho vào bàn tay. Áp phích không nói đến thuốc, cũng không bảo thức.",
+      "tip": "Cẩn thận với \"not\": phương án nhiễu hay lấy đúng phần đứng sau chữ \"not\"."
+    },
+    {
+      "id": "q_u05_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "What does the poster say about a fever in the morning?",
+        "vi": "Áp phích nói gì về việc bị sốt vào buổi sáng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Come to Room five.",
+            "vi": "Đến Phòng số năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Come to Room five.",
+          "text_translation": "Đến Phòng số năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Ask your teacher for help.",
+            "vi": "Nhờ thầy cô giúp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Ask your teacher for help.",
+          "text_translation": "Nhờ thầy cô giúp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Drink water and come to school.",
+            "vi": "Uống nước rồi đến trường."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Drink water and come to school.",
+          "text_translation": "Uống nước rồi đến trường."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Stay at home in bed.",
+            "vi": "Ở nhà nằm nghỉ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Stay at home in bed.",
+          "text_translation": "Ở nhà nằm nghỉ."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Do you have a fever in the morning? Please stay at home in bed.\" \"Come to Room five\" và \"ask your teacher\" là lời dặn khi em thấy ốm lúc đang ở trường. Uống nước là lời khuyên đúng, nhưng đang sốt thì không đến trường."
+      },
+      "audio_data": null,
+      "question_jp": "What does the poster say about a fever in the morning?",
+      "question_vn": "Áp phích nói gì về việc bị sốt vào buổi sáng?",
+      "explanation": "\"Do you have a fever in the morning? Please stay at home in bed.\" \"Come to Room five\" và \"ask your teacher\" là lời dặn khi em thấy ốm lúc đang ở trường. Uống nước là lời khuyên đúng, nhưng đang sốt thì không đến trường."
+    },
+    {
+      "id": "q_u05_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "Who can phone your mom or dad?",
+        "vi": "Ai có thể gọi điện cho bố mẹ em?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "your teacher",
+            "vi": "thầy cô của em"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "your teacher",
+          "text_translation": "thầy cô của em"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the school nurse",
+            "vi": "cô y tá trường"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the school nurse",
+          "text_translation": "cô y tá trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "your friends",
+            "vi": "bạn bè em"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "your friends",
+          "text_translation": "bạn bè em"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a doctor",
+            "vi": "một bác sĩ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a doctor",
+          "text_translation": "một bác sĩ"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Very sick? I can check your fever and phone your mom or dad.\" \"I\" ở đây là người viết áp phích: Nurse Wilson, cô y tá của trường."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Gặp \"I\" / \"me\" / \"my\" trên áp phích hay thông báo: nhìn chữ ký ở cuối để biết đó là ai."
+      },
+      "question_jp": "Who can phone your mom or dad?",
+      "question_vn": "Ai có thể gọi điện cho bố mẹ em?",
+      "explanation": "\"Very sick? I can check your fever and phone your mom or dad.\" \"I\" ở đây là người viết áp phích: Nurse Wilson, cô y tá của trường.",
+      "tip": "Gặp \"I\" / \"me\" / \"my\" trên áp phích hay thông báo: nhìn chữ ký ở cuối để biết đó là ai."
+    },
+    {
+      "id": "q_u05_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "Sad or scared? What can you do?",
+        "vi": "Thấy buồn hay sợ thì em có thể làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Come and see the nurse.",
+            "vi": "Đến gặp cô y tá."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Come and see the nurse.",
+          "text_translation": "Đến gặp cô y tá."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Phone your mom.",
+            "vi": "Gọi điện cho mẹ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Phone your mom.",
+          "text_translation": "Gọi điện cho mẹ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Stay at home in bed.",
+            "vi": "Ở nhà nằm nghỉ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Stay at home in bed.",
+          "text_translation": "Ở nhà nằm nghỉ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Drink a lot of water.",
+            "vi": "Uống nhiều nước."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Drink a lot of water.",
+          "text_translation": "Uống nhiều nước."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Sad or scared? Do come and see me, too. I can listen and help.\" \"me\" là cô y tá. Ở nhà nằm nghỉ là lời dặn khi bị sốt; uống nhiều nước là lời khuyên khi ốm; còn gọi điện cho bố mẹ là việc cô y tá làm khi em ốm nặng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "\"Do come\" mạnh và ấm áp hơn \"Come\": ý là \"em cứ đến nhé, đừng ngại\"."
+      },
+      "question_jp": "Sad or scared? What can you do?",
+      "question_vn": "Thấy buồn hay sợ thì em có thể làm gì?",
+      "explanation": "\"Sad or scared? Do come and see me, too. I can listen and help.\" \"me\" là cô y tá. Ở nhà nằm nghỉ là lời dặn khi bị sốt; uống nhiều nước là lời khuyên khi ốm; còn gọi điện cho bố mẹ là việc cô y tá làm khi em ốm nặng.",
+      "tip": "\"Do come\" mạnh và ấm áp hơn \"Come\": ý là \"em cứ đến nhé, đừng ngại\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u05_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tina bị ốm",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u05_01",
+      "question_ids": [
+        "q_u05_001",
+        "q_u05_002",
+        "q_u05_003",
+        "q_u05_004",
+        "q_u05_005"
+      ]
+    },
+    {
+      "set_id": "set_u05_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Áp phích phòng y tế trường",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u05_02",
+      "question_ids": [
+        "q_u05_006",
+        "q_u05_007",
+        "q_u05_008",
+        "q_u05_009",
+        "q_u05_010"
+      ]
+    }
+  ]
+}
