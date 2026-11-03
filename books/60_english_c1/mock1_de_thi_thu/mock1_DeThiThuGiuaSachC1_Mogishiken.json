@@ -1,0 +1,3767 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "C1 Mock Test 1 (Mid-book)",
+      "vi": "Đề thi thử C1 (giữa sách)"
+    },
+    "title": "C1 Mock Test 1 (Mid-book)",
+    "title_vn": "Đề thi thử C1 (giữa sách)",
+    "module_code": "60_mock1",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C1",
+    "curriculum_unit": "c1.u01-u06",
+    "curriculum_sheets": [
+      "c1.001",
+      "c1.002",
+      "c1.003",
+      "c1.004",
+      "c1.005",
+      "c1.006",
+      "c1.007",
+      "c1.008",
+      "c1.009",
+      "c1.010",
+      "c1.011",
+      "c1.012",
+      "c1.013",
+      "c1.014",
+      "c1.015",
+      "c1.016",
+      "c1.017",
+      "c1.018",
+      "c1.019",
+      "c1.020",
+      "c1.021",
+      "c1.022",
+      "c1.023",
+      "c1.024"
+    ],
+    "characters": [
+      "Chloe Bennett",
+      "Tracy Carter",
+      "Lydia Park"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 5, năm 8"
+    },
+    "total_passages": 4,
+    "total_questions": 40,
+    "focus": "Đề thi thử VSTEP bậc 5: 4 bài × 10 câu",
+    "description_vn": "Đề thi thử giữa sách C1: thông báo khai trương Bennett Studio, bài khoa học về quạ nhớ mặt người, truyện Tracy tự báo lỗi tính toán với người hướng dẫn, bài quan điểm của cô Lydia về tuần không điện thoại. 4 bài × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Đề thi thử giữa sách · ôn Unit 1–6 khoá C1, phiếu `c1.001` – `c1.024`."
+    },
+    "objective_i18n": {
+      "vi": "Đề thi thử 40 câu, làm trong 60 phút (theo format đọc VSTEP bậc 5: 4 bài, 320–380 từ mỗi bài). Đề có 4 phần × 10 câu, khó dần: thông báo khai trương studio của Chloe → bài khoa học về quạ nhớ mặt người → truyện Tracy tự phát hiện lỗi của mình → bài quan điểm của cô Lydia về tuần không điện thoại. Câu hỏi hàm ý, giọng điệu, chức năng ví dụ và cấu trúc lập luận chiếm khoảng một nửa."
+    },
+    "extra_words": [
+      {
+        "word": "open house",
+        "i18n": {
+          "vi": "ngày mở cửa đón khách"
+        }
+      },
+      {
+        "word": "illustrator",
+        "i18n": {
+          "vi": "hoạ sĩ minh hoạ"
+        }
+      },
+      {
+        "word": "accompany",
+        "i18n": {
+          "vi": "đi cùng"
+        }
+      },
+      {
+        "word": "elevator",
+        "i18n": {
+          "vi": "thang máy"
+        }
+      },
+      {
+        "word": "cave man",
+        "i18n": {
+          "vi": "người tiền sử"
+        }
+      },
+      {
+        "word": "band",
+        "i18n": {
+          "vi": "vòng đeo (chân chim)"
+        }
+      },
+      {
+        "word": "dive",
+        "i18n": {
+          "vi": "lao xuống"
+        }
+      },
+      {
+        "word": "outnumber",
+        "i18n": {
+          "vi": "đông hơn"
+        }
+      },
+      {
+        "word": "railing",
+        "i18n": {
+          "vi": "lan can"
+        }
+      },
+      {
+        "word": "beam",
+        "i18n": {
+          "vi": "dầm"
+        }
+      },
+      {
+        "word": "pedestrian",
+        "i18n": {
+          "vi": "người đi bộ"
+        }
+      },
+      {
+        "word": "revised",
+        "i18n": {
+          "vi": "được sửa đổi"
+        }
+      },
+      {
+        "word": "sticky note",
+        "i18n": {
+          "vi": "giấy nhớ dán"
+        }
+      },
+      {
+        "word": "pouch",
+        "i18n": {
+          "vi": "túi nhỏ"
+        }
+      },
+      {
+        "word": "prison sentence",
+        "i18n": {
+          "vi": "bản án tù"
+        }
+      },
+      {
+        "word": "distracted",
+        "i18n": {
+          "vi": "mất tập trung"
+        }
+      },
+      {
+        "word": "distraction",
+        "i18n": {
+          "vi": "thứ gây xao nhãng"
+        }
+      },
+      {
+        "word": "permanent",
+        "i18n": {
+          "vi": "vĩnh viễn"
+        }
+      },
+      {
+        "word": "freelancer",
+        "i18n": {
+          "vi": "người làm tự do"
+        }
+      },
+      {
+        "word": "freelancers",
+        "i18n": {
+          "vi": "những người làm tự do"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "drop in",
+          "vi": "ghé qua"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in advance",
+          "vi": "trước"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on good terms with",
+          "vi": "giữ quan hệ tốt với"
+        }
+      },
+      {
+        "i18n": {
+          "en": "sign off on",
+          "vi": "ký duyệt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "check over",
+          "vi": "kiểm tra lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "for good",
+          "vi": "mãi mãi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in the first place",
+          "vi": "ngay từ đầu"
+        }
+      },
+      {
+        "i18n": {
+          "en": "not just for them",
+          "vi": "chứ không chỉ cho họ"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Quản lý thời gian:** 60 phút cho 4 bài. Phần 1 khoảng 12 phút, Phần 2 khoảng 15 phút, Phần 3 khoảng 15 phút, Phần 4 khoảng 18 phút."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Thông báo:** câu áp dụng luôn có một điều kiện (`under 10`, `must be booked`). So con số trong câu hỏi với con số trong bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài khoa học:** tách **điều quan sát được** (lũ quạ mắng mặt nạ) với **cách giải thích** (`The most plausible explanation`, `it seems`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Truyện:** câu hỏi về tính cách lấy từ hành động và câu nói đầu tiên của nhân vật (`Is anyone in danger?`). Chi tiết cuối truyện (tờ giấy nhớ) thường hỏi điều nhân vật rút ra."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài quan điểm C1:** người viết hay **đặt lại câu hỏi** (`this is the wrong question`) trước khi nêu đề xuất. Câu cuối thường là bằng chứng cho đề xuất."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_mock1_01",
+      "heading_i18n": {
+        "vi": "Phần 1 — Thông báo khai trương studio của Chloe"
+      },
+      "narrator": "announcer",
+      "title": "Bennett Studio Opens Its Doors",
+      "category": "notice",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 240,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bennett Studio Opens Its Doors",
+            "vi": "Bennett Studio mở cửa"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Design · Workshops · Advice for freelancers. Upstairs at 210 Ocean Avenue, above the bike shop",
+            "vi": "Thiết kế · Lớp học · Tư vấn cho người làm tự do. Tầng trên, số 210 đại lộ Ocean, phía trên cửa hàng xe đạp"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After three and a half years of working from her kitchen table and a corner of Harriet's café, designer Chloe Bennett is opening a studio of her own, with a small team, a large window and, she promises, much better coffee than she used to make at home.",
+            "vi": "Sau ba năm rưỡi làm việc trên bàn bếp và ở một góc quán cà phê Harriet's, nhà thiết kế Chloe Bennett mở một studio của riêng mình, với một nhóm nhỏ, một ô cửa sổ lớn và, như cô hứa, cà phê ngon hơn nhiều so với hồi cô tự pha ở nhà."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To celebrate, the studio is holding an opening week from Saturday, May 19, to Friday, May 25. Everyone is welcome; some events must be booked in advance.",
+            "vi": "Để ăn mừng, studio tổ chức tuần khai trương từ thứ Bảy 19 tháng Năm tới thứ Sáu 25 tháng Năm. Mọi người đều được chào đón; một số sự kiện phải đăng ký trước."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Open House, Saturday, May 19, 10 a.m. to 4 p.m. Drop in, look at our work, and meet the team, namely Chloe, designer Ruby, and our newest member, illustrator Sam. No booking needed.",
+            "vi": "Ngày mở cửa đón khách, thứ Bảy 19 tháng Năm, 10 giờ sáng tới 4 giờ chiều. Cứ ghé qua, xem các sản phẩm của chúng tôi, và gặp cả nhóm, cụ thể là Chloe, nhà thiết kế Ruby, và thành viên mới nhất, hoạ sĩ minh hoạ Sam. Không cần đăng ký."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Draw Your Street\", Sunday, May 20, 2 to 4 p.m. A free drawing afternoon for children aged 8 to 12, led by Sam. Children under 10 must be accompanied by an adult. All materials are provided, and the best drawings will be displayed in our window for the summer.",
+            "vi": "\"Vẽ con phố của em\", Chủ nhật 20 tháng Năm, 2 tới 4 giờ chiều. Buổi chiều vẽ miễn phí cho trẻ từ 8 tới 12 tuổi, do Sam hướng dẫn. Trẻ dưới 10 tuổi phải có người lớn đi cùng. Có sẵn mọi dụng cụ, và những bức vẽ đẹp nhất sẽ được trưng ở cửa sổ studio suốt mùa hè."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Portfolio Reviews, Tuesday and Thursday, 5 to 8 p.m. Students and recent graduates can book a free twenty-minute session in which a member of the team will give honest feedback on their portfolio. Places are limited to twelve per evening, and you must bring your work printed or on a laptop.",
+            "vi": "Góp ý hồ sơ năng lực, thứ Ba và thứ Năm, 5 tới 8 giờ tối. Sinh viên và người mới tốt nghiệp có thể đăng ký một buổi miễn phí hai mươi phút, trong đó một thành viên của nhóm sẽ góp ý thẳng thắn về hồ sơ của họ. Mỗi tối chỉ nhận mười hai người, và bạn phải mang bài in sẵn hoặc trên máy tính xách tay."
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"What Should I Charge?\", Wednesday, May 23, 7 p.m. A talk for freelancers of any kind, from designers to dog walkers. Chloe will talk honestly about contracts, late payments and the mistakes she made in her first year, when she was, in her words, \"too grateful to ask for a fair price\". Tickets are $10, and all of the money will go to the youth art program at Pine Street Library.",
+            "vi": "\"Tôi nên lấy giá bao nhiêu?\", thứ Tư 23 tháng Năm, 7 giờ tối. Buổi nói chuyện cho mọi kiểu người làm tự do, từ nhà thiết kế tới người dắt chó đi dạo thuê. Chloe sẽ nói thật về hợp đồng, chuyện trả tiền chậm và những sai lầm cô mắc phải trong năm đầu, khi cô, theo lời cô, \"biết ơn quá nên không dám đòi một mức giá công bằng\". Vé 10 đô, và toàn bộ tiền sẽ dành cho chương trình nghệ thuật thiếu nhi của thư viện Pine Street."
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please note: the studio is on the second floor, and there is no elevator. If you need help with the stairs, call us on 619-555-0131 before your visit and we will come down to meet you.",
+            "vi": "Xin lưu ý: studio ở tầng hai và không có thang máy. Nếu bạn cần giúp lên cầu thang, hãy gọi cho chúng tôi số 619-555-0131 trước khi tới, chúng tôi sẽ xuống đón bạn."
+          }
+        }
+      ],
+      "content_ja": "Bennett Studio Opens Its Doors\n\nDesign · Workshops · Advice for freelancers. Upstairs at 210 Ocean Avenue, above the bike shop\n\nAfter three and a half years of working from her kitchen table and a corner of Harriet's café, designer Chloe Bennett is opening a studio of her own, with a small team, a large window and, she promises, much better coffee than she used to make at home. To celebrate, the studio is holding an opening week from Saturday, May 19, to Friday, May 25. Everyone is welcome; some events must be booked in advance.\n\nOpen House, Saturday, May 19, 10 a.m. to 4 p.m. Drop in, look at our work, and meet the team, namely Chloe, designer Ruby, and our newest member, illustrator Sam. No booking needed.\n\n\"Draw Your Street\", Sunday, May 20, 2 to 4 p.m. A free drawing afternoon for children aged 8 to 12, led by Sam. Children under 10 must be accompanied by an adult. All materials are provided, and the best drawings will be displayed in our window for the summer.\n\nPortfolio Reviews, Tuesday and Thursday, 5 to 8 p.m. Students and recent graduates can book a free twenty-minute session in which a member of the team will give honest feedback on their portfolio. Places are limited to twelve per evening, and you must bring your work printed or on a laptop.\n\n\"What Should I Charge?\", Wednesday, May 23, 7 p.m. A talk for freelancers of any kind, from designers to dog walkers. Chloe will talk honestly about contracts, late payments and the mistakes she made in her first year, when she was, in her words, \"too grateful to ask for a fair price\". Tickets are $10, and all of the money will go to the youth art program at Pine Street Library.\n\nPlease note: the studio is on the second floor, and there is no elevator. If you need help with the stairs, call us on 619-555-0131 before your visit and we will come down to meet you.",
+      "translation_vn": "(1) Bennett Studio mở cửa\n(2) Thiết kế · Lớp học · Tư vấn cho người làm tự do. Tầng trên, số 210 đại lộ Ocean, phía trên cửa hàng xe đạp\n(3) Sau ba năm rưỡi làm việc trên bàn bếp và ở một góc quán cà phê Harriet's, nhà thiết kế Chloe Bennett mở một studio của riêng mình, với một nhóm nhỏ, một ô cửa sổ lớn và, như cô hứa, cà phê ngon hơn nhiều so với hồi cô tự pha ở nhà.\n(4) Để ăn mừng, studio tổ chức tuần khai trương từ thứ Bảy 19 tháng Năm tới thứ Sáu 25 tháng Năm. Mọi người đều được chào đón; một số sự kiện phải đăng ký trước.\n(5) Ngày mở cửa đón khách, thứ Bảy 19 tháng Năm, 10 giờ sáng tới 4 giờ chiều. Cứ ghé qua, xem các sản phẩm của chúng tôi, và gặp cả nhóm, cụ thể là Chloe, nhà thiết kế Ruby, và thành viên mới nhất, hoạ sĩ minh hoạ Sam. Không cần đăng ký.\n(6) \"Vẽ con phố của em\", Chủ nhật 20 tháng Năm, 2 tới 4 giờ chiều. Buổi chiều vẽ miễn phí cho trẻ từ 8 tới 12 tuổi, do Sam hướng dẫn. Trẻ dưới 10 tuổi phải có người lớn đi cùng. Có sẵn mọi dụng cụ, và những bức vẽ đẹp nhất sẽ được trưng ở cửa sổ studio suốt mùa hè.\n(7) Góp ý hồ sơ năng lực, thứ Ba và thứ Năm, 5 tới 8 giờ tối. Sinh viên và người mới tốt nghiệp có thể đăng ký một buổi miễn phí hai mươi phút, trong đó một thành viên của nhóm sẽ góp ý thẳng thắn về hồ sơ của họ. Mỗi tối chỉ nhận mười hai người, và bạn phải mang bài in sẵn hoặc trên máy tính xách tay.\n(8) \"Tôi nên lấy giá bao nhiêu?\", thứ Tư 23 tháng Năm, 7 giờ tối. Buổi nói chuyện cho mọi kiểu người làm tự do, từ nhà thiết kế tới người dắt chó đi dạo thuê. Chloe sẽ nói thật về hợp đồng, chuyện trả tiền chậm và những sai lầm cô mắc phải trong năm đầu, khi cô, theo lời cô, \"biết ơn quá nên không dám đòi một mức giá công bằng\". Vé 10 đô, và toàn bộ tiền sẽ dành cho chương trình nghệ thuật thiếu nhi của thư viện Pine Street.\n(9) Xin lưu ý: studio ở tầng hai và không có thang máy. Nếu bạn cần giúp lên cầu thang, hãy gọi cho chúng tôi số 619-555-0131 trước khi tới, chúng tôi sẽ xuống đón bạn.",
+      "word_count": 322,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004",
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008",
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012",
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016",
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020",
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024"
+      ]
+    },
+    {
+      "id": "passage_mock1_02",
+      "heading_i18n": {
+        "vi": "Phần 2 — Bài khoa học: quạ nhớ mặt người"
+      },
+      "narrator": "announcer",
+      "title": "The Birds Who Never Forget a Face",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 250,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Birds Who Never Forget a Face",
+            "vi": "Loài chim không bao giờ quên một khuôn mặt"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2006, a group of researchers at the University of Washington in Seattle walked across their own campus wearing rubber masks. One mask showed the face of a cave man; the other showed an ordinary face that the researchers used for comparison.",
+            "vi": "Năm 2006, một nhóm nhà nghiên cứu ở Đại học Washington tại Seattle đi ngang khuôn viên trường mình, đeo mặt nạ cao su. Một chiếc có mặt một người tiền sử; chiếc kia là một khuôn mặt bình thường mà các nhà nghiên cứu dùng để so sánh."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "While wearing the cave-man mask, they caught seven wild crows, put small identification bands on their legs, and let them go. The birds were not hurt, but they were clearly not pleased.",
+            "vi": "Khi đeo mặt nạ người tiền sử, họ bắt bảy con quạ hoang, đeo vòng nhận dạng nhỏ vào chân chúng rồi thả ra. Lũ chim không bị đau, nhưng rõ ràng chẳng vui vẻ gì."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What happened next turned out to be far more interesting than the banding itself. Whenever a researcher walked across campus in the cave-man mask, crows would gather in the trees and \"scold\" the person, making loud, angry calls and sometimes diving towards them.",
+            "vi": "Chuyện xảy ra sau đó hoá ra thú vị hơn nhiều so với việc đeo vòng. Mỗi khi một nhà nghiên cứu đi qua khuôn viên trường với mặt nạ người tiền sử, lũ quạ lại tụ trên cây và \"mắng\" người đó, kêu to, giận dữ, đôi khi còn lao xuống phía họ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The ordinary mask produced almost no reaction. The crows recognized the dangerous face even when it was partly hidden under a hat or worn upside down.",
+            "vi": "Chiếc mặt nạ bình thường gần như không gây phản ứng gì. Lũ quạ nhận ra khuôn mặt nguy hiểm ngay cả khi nó bị che một phần dưới mũ hay đeo ngược."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Even more startling, crows that had never been caught joined in. Over the following years, the share of local crows that scolded the mask rose sharply, until the birds who reacted far outnumbered the seven that had actually been banded.",
+            "vi": "Đáng kinh ngạc hơn nữa, những con quạ chưa từng bị bắt cũng hùa theo. Trong những năm sau đó, tỉ lệ quạ trong vùng mắng chiếc mặt nạ tăng mạnh, tới mức số chim phản ứng đông hơn hẳn bảy con thực sự bị đeo vòng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The most plausible explanation is that crows learn from one another. A young bird that sees adults scolding a particular face will, it seems, learn to treat that face as a threat without ever having been harmed by it.",
+            "vi": "Cách giải thích hợp lý nhất là quạ học lẫn nhau. Một con chim non thấy chim trưởng thành mắng một khuôn mặt nào đó, có vẻ như, sẽ học được cách coi khuôn mặt ấy là mối đe doạ mà chưa từng bị nó làm hại."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why would a bird need such a skill? Crows live for many years, often in the same area, and they share that area with humans who may feed them, ignore them or chase them away. For a crow, knowing which humans to be wary of is a matter of survival.",
+            "vi": "Vì sao một con chim lại cần kỹ năng như vậy? Quạ sống nhiều năm, thường ở cùng một khu vực, và chúng chia sẻ khu vực đó với con người, những người có thể cho chúng ăn, phớt lờ chúng hoặc đuổi chúng đi. Với một con quạ, biết phải dè chừng người nào là chuyện sống còn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sharing that knowledge with the group is an efficient way to protect everyone, including birds that were not there when the danger first appeared.",
+            "vi": "Chia sẻ hiểu biết đó với cả đàn là một cách hiệu quả để bảo vệ tất cả, kể cả những con không có mặt khi mối nguy lần đầu xuất hiện."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The study has changed how many scientists think about animal intelligence, which used to be measured mainly by what a single animal could do alone. Crows suggest that intelligence can also be social: a kind of memory that belongs not to one bird but to the whole community.",
+            "vi": "Nghiên cứu này đã thay đổi cách nhiều nhà khoa học nghĩ về trí thông minh của động vật, thứ trước đây chủ yếu được đo bằng những gì một con vật làm được một mình. Lũ quạ gợi ý rằng trí thông minh cũng có thể mang tính xã hội: một kiểu trí nhớ không thuộc về một con chim mà thuộc về cả cộng đồng."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The lesson for humans is simple. If you live near crows, it may be wise to stay on good terms with them.",
+            "vi": "Bài học cho con người thật đơn giản. Nếu bạn sống gần lũ quạ, có lẽ nên giữ quan hệ tốt với chúng."
+          }
+        }
+      ],
+      "content_ja": "The Birds Who Never Forget a Face\n\nIn 2006, a group of researchers at the University of Washington in Seattle walked across their own campus wearing rubber masks. One mask showed the face of a cave man; the other showed an ordinary face that the researchers used for comparison. While wearing the cave-man mask, they caught seven wild crows, put small identification bands on their legs, and let them go. The birds were not hurt, but they were clearly not pleased.\n\nWhat happened next turned out to be far more interesting than the banding itself. Whenever a researcher walked across campus in the cave-man mask, crows would gather in the trees and \"scold\" the person, making loud, angry calls and sometimes diving towards them. The ordinary mask produced almost no reaction. The crows recognized the dangerous face even when it was partly hidden under a hat or worn upside down.\n\nEven more startling, crows that had never been caught joined in. Over the following years, the share of local crows that scolded the mask rose sharply, until the birds who reacted far outnumbered the seven that had actually been banded. The most plausible explanation is that crows learn from one another. A young bird that sees adults scolding a particular face will, it seems, learn to treat that face as a threat without ever having been harmed by it.\n\nWhy would a bird need such a skill? Crows live for many years, often in the same area, and they share that area with humans who may feed them, ignore them or chase them away. For a crow, knowing which humans to be wary of is a matter of survival. Sharing that knowledge with the group is an efficient way to protect everyone, including birds that were not there when the danger first appeared.\n\nThe study has changed how many scientists think about animal intelligence, which used to be measured mainly by what a single animal could do alone. Crows suggest that intelligence can also be social: a kind of memory that belongs not to one bird but to the whole community. The lesson for humans is simple. If you live near crows, it may be wise to stay on good terms with them.",
+      "translation_vn": "(1) Loài chim không bao giờ quên một khuôn mặt\n(2) Năm 2006, một nhóm nhà nghiên cứu ở Đại học Washington tại Seattle đi ngang khuôn viên trường mình, đeo mặt nạ cao su. Một chiếc có mặt một người tiền sử; chiếc kia là một khuôn mặt bình thường mà các nhà nghiên cứu dùng để so sánh.\n(3) Khi đeo mặt nạ người tiền sử, họ bắt bảy con quạ hoang, đeo vòng nhận dạng nhỏ vào chân chúng rồi thả ra. Lũ chim không bị đau, nhưng rõ ràng chẳng vui vẻ gì.\n(4) Chuyện xảy ra sau đó hoá ra thú vị hơn nhiều so với việc đeo vòng. Mỗi khi một nhà nghiên cứu đi qua khuôn viên trường với mặt nạ người tiền sử, lũ quạ lại tụ trên cây và \"mắng\" người đó, kêu to, giận dữ, đôi khi còn lao xuống phía họ.\n(5) Chiếc mặt nạ bình thường gần như không gây phản ứng gì. Lũ quạ nhận ra khuôn mặt nguy hiểm ngay cả khi nó bị che một phần dưới mũ hay đeo ngược.\n(6) Đáng kinh ngạc hơn nữa, những con quạ chưa từng bị bắt cũng hùa theo. Trong những năm sau đó, tỉ lệ quạ trong vùng mắng chiếc mặt nạ tăng mạnh, tới mức số chim phản ứng đông hơn hẳn bảy con thực sự bị đeo vòng.\n(7) Cách giải thích hợp lý nhất là quạ học lẫn nhau. Một con chim non thấy chim trưởng thành mắng một khuôn mặt nào đó, có vẻ như, sẽ học được cách coi khuôn mặt ấy là mối đe doạ mà chưa từng bị nó làm hại.\n(8) Vì sao một con chim lại cần kỹ năng như vậy? Quạ sống nhiều năm, thường ở cùng một khu vực, và chúng chia sẻ khu vực đó với con người, những người có thể cho chúng ăn, phớt lờ chúng hoặc đuổi chúng đi. Với một con quạ, biết phải dè chừng người nào là chuyện sống còn.\n(9) Chia sẻ hiểu biết đó với cả đàn là một cách hiệu quả để bảo vệ tất cả, kể cả những con không có mặt khi mối nguy lần đầu xuất hiện.\n(10) Nghiên cứu này đã thay đổi cách nhiều nhà khoa học nghĩ về trí thông minh của động vật, thứ trước đây chủ yếu được đo bằng những gì một con vật làm được một mình. Lũ quạ gợi ý rằng trí thông minh cũng có thể mang tính xã hội: một kiểu trí nhớ không thuộc về một con chim mà thuộc về cả cộng đồng.\n(11) Bài học cho con người thật đơn giản. Nếu bạn sống gần lũ quạ, có lẽ nên giữ quan hệ tốt với chúng.",
+      "word_count": 374,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004",
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008",
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012",
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016",
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020",
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024"
+      ]
+    },
+    {
+      "id": "passage_mock1_03",
+      "heading_i18n": {
+        "vi": "Phần 3 — Truyện: Tracy phát hiện lỗi của chính mình"
+      },
+      "narrator": "announcer",
+      "title": "The Number on Page Fourteen",
+      "category": "story",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 250,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Number on Page Fourteen",
+            "vi": "Con số ở trang mười bốn"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was a quarter to six on a Friday, and most of the office at Brandt & Lowe had already gone home, when Tracy found the mistake. It was in her own calculation, on page fourteen of a report about a small pedestrian bridge, and the report had been sent to the client on Wednesday.",
+            "vi": "Lúc đó là sáu giờ kém mười lăm chiều thứ Sáu, phần lớn văn phòng Brandt & Lowe đã về hết, thì Tracy tìm ra lỗi. Nó nằm trong chính phép tính của cô, ở trang mười bốn một bản báo cáo về một cây cầu nhỏ cho người đi bộ, và bản báo cáo đã được gửi cho khách hàng từ thứ Tư."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She had used the wrong figure for the weight of the railings. The bridge would not fall down; she checked three times to make sure of that. But one of the beams was thinner than the rules required, and it would have to be changed.",
+            "vi": "Cô đã dùng sai con số cho khối lượng lan can. Cây cầu sẽ không sập; cô đã kiểm ba lần để chắc chắn điều đó. Nhưng một trong các dầm mỏng hơn mức quy định yêu cầu, và sẽ phải thay đổi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a few minutes, she simply sat there. Nobody else had noticed. The client would not start building for another two months, and she could quietly correct the drawings next week and say nothing.",
+            "vi": "Trong vài phút, cô chỉ ngồi đó. Không ai khác nhận ra. Khách hàng hai tháng nữa mới bắt đầu xây, và cô có thể lặng lẽ sửa bản vẽ vào tuần sau mà không nói gì."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then she thought about Dana Okafor, who had signed off on the report because she trusted Tracy's numbers. She picked up the phone.",
+            "vi": "Rồi cô nghĩ tới Dana Okafor, người đã ký duyệt bản báo cáo vì tin vào các con số của Tracy. Cô nhấc điện thoại."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Dana, I'm sorry to call so late. I've found a mistake in the bridge report, and it's mine.",
+            "vi": "Chị Dana, em xin lỗi vì gọi muộn thế này. Em vừa tìm ra một lỗi trong báo cáo cây cầu, và đó là lỗi của em."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There was a short silence.",
+            "vi": "Có một khoảng lặng ngắn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Dana",
+          "label": null,
+          "i18n": {
+            "en": "Is anyone in danger?",
+            "vi": "Có ai gặp nguy hiểm không?"
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "No. Construction doesn't start until July. But one beam needs to be bigger, and the client has already got the report.",
+            "vi": "Không ạ. Tháng Bảy mới khởi công. Nhưng có một dầm cần to hơn, mà khách hàng đã nhận báo cáo rồi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Dana",
+          "label": null,
+          "i18n": {
+            "en": "Then here is what we'll do. Send me your corrected calculation tonight, if you can, and I'll check it over the weekend. On Monday, you and I will call the client together, explain what happened and send a revised report.",
+            "vi": "Vậy thì mình sẽ làm thế này. Tối nay nếu được thì em gửi chị phép tính đã sửa, chị sẽ kiểm tra cuối tuần. Thứ Hai, em và chị sẽ cùng gọi cho khách hàng, giải thích chuyện đã xảy ra và gửi bản báo cáo sửa đổi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "I really am sorry.",
+            "vi": "Em thật sự xin lỗi."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Dana",
+          "label": null,
+          "i18n": {
+            "en": "I know. Tracy, listen. Everyone in this profession makes mistakes. The ones I worry about are the people who hide them. The mistake was yours, but so was the decision to call me, and that is the part I will remember.",
+            "vi": "Chị biết. Tracy, nghe này. Ai làm nghề này cũng mắc lỗi. Những người chị lo là những người giấu lỗi. Lỗi là của em, nhưng quyết định gọi cho chị cũng là của em, và đó mới là phần chị sẽ nhớ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Monday, the call with the client took eleven minutes. The client thanked them for being open, and the revised report went out that afternoon.",
+            "vi": "Thứ Hai, cuộc gọi với khách hàng kéo dài mười một phút. Khách hàng cảm ơn họ vì đã thẳng thắn, và bản báo cáo sửa đổi được gửi đi ngay chiều hôm đó."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That evening, Tracy wrote a single line on a sticky note and put it on her screen, where it stayed for the rest of the year: \"Check the railings.\"",
+            "vi": "Tối hôm đó, Tracy viết đúng một dòng lên tờ giấy nhớ và dán lên màn hình, nơi nó ở lại suốt phần còn lại của năm: \"Kiểm tra lan can.\""
+          }
+        }
+      ],
+      "content_ja": "The Number on Page Fourteen\n\nIt was a quarter to six on a Friday, and most of the office at Brandt & Lowe had already gone home, when Tracy found the mistake. It was in her own calculation, on page fourteen of a report about a small pedestrian bridge, and the report had been sent to the client on Wednesday. She had used the wrong figure for the weight of the railings. The bridge would not fall down; she checked three times to make sure of that. But one of the beams was thinner than the rules required, and it would have to be changed.\n\nFor a few minutes, she simply sat there. Nobody else had noticed. The client would not start building for another two months, and she could quietly correct the drawings next week and say nothing. Then she thought about Dana Okafor, who had signed off on the report because she trusted Tracy's numbers. She picked up the phone.\n\nTracy: Dana, I'm sorry to call so late. I've found a mistake in the bridge report, and it's mine.\n\nThere was a short silence.\n\nDana: Is anyone in danger?\n\nTracy: No. Construction doesn't start until July. But one beam needs to be bigger, and the client has already got the report.\n\nDana: Then here is what we'll do. Send me your corrected calculation tonight, if you can, and I'll check it over the weekend. On Monday, you and I will call the client together, explain what happened and send a revised report.\n\nTracy: I really am sorry.\n\nDana: I know. Tracy, listen. Everyone in this profession makes mistakes. The ones I worry about are the people who hide them. The mistake was yours, but so was the decision to call me, and that is the part I will remember.\n\nOn Monday, the call with the client took eleven minutes. The client thanked them for being open, and the revised report went out that afternoon. That evening, Tracy wrote a single line on a sticky note and put it on her screen, where it stayed for the rest of the year: \"Check the railings.\"",
+      "translation_vn": "(1) Con số ở trang mười bốn\n(2) Lúc đó là sáu giờ kém mười lăm chiều thứ Sáu, phần lớn văn phòng Brandt & Lowe đã về hết, thì Tracy tìm ra lỗi. Nó nằm trong chính phép tính của cô, ở trang mười bốn một bản báo cáo về một cây cầu nhỏ cho người đi bộ, và bản báo cáo đã được gửi cho khách hàng từ thứ Tư.\n(3) Cô đã dùng sai con số cho khối lượng lan can. Cây cầu sẽ không sập; cô đã kiểm ba lần để chắc chắn điều đó. Nhưng một trong các dầm mỏng hơn mức quy định yêu cầu, và sẽ phải thay đổi.\n(4) Trong vài phút, cô chỉ ngồi đó. Không ai khác nhận ra. Khách hàng hai tháng nữa mới bắt đầu xây, và cô có thể lặng lẽ sửa bản vẽ vào tuần sau mà không nói gì.\n(5) Rồi cô nghĩ tới Dana Okafor, người đã ký duyệt bản báo cáo vì tin vào các con số của Tracy. Cô nhấc điện thoại.\n(6) Tracy: Chị Dana, em xin lỗi vì gọi muộn thế này. Em vừa tìm ra một lỗi trong báo cáo cây cầu, và đó là lỗi của em.\n(7) Có một khoảng lặng ngắn.\n(8) Dana: Có ai gặp nguy hiểm không?\n(9) Tracy: Không ạ. Tháng Bảy mới khởi công. Nhưng có một dầm cần to hơn, mà khách hàng đã nhận báo cáo rồi.\n(10) Dana: Vậy thì mình sẽ làm thế này. Tối nay nếu được thì em gửi chị phép tính đã sửa, chị sẽ kiểm tra cuối tuần. Thứ Hai, em và chị sẽ cùng gọi cho khách hàng, giải thích chuyện đã xảy ra và gửi bản báo cáo sửa đổi.\n(11) Tracy: Em thật sự xin lỗi.\n(12) Dana: Chị biết. Tracy, nghe này. Ai làm nghề này cũng mắc lỗi. Những người chị lo là những người giấu lỗi. Lỗi là của em, nhưng quyết định gọi cho chị cũng là của em, và đó mới là phần chị sẽ nhớ.\n(13) Thứ Hai, cuộc gọi với khách hàng kéo dài mười một phút. Khách hàng cảm ơn họ vì đã thẳng thắn, và bản báo cáo sửa đổi được gửi đi ngay chiều hôm đó.\n(14) Tối hôm đó, Tracy viết đúng một dòng lên tờ giấy nhớ và dán lên màn hình, nơi nó ở lại suốt phần còn lại của năm: \"Kiểm tra lan can.\"",
+      "word_count": 348,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004",
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008",
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012",
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016",
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020",
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024"
+      ]
+    },
+    {
+      "id": "passage_mock1_04",
+      "heading_i18n": {
+        "vi": "Phần 4 — Bài quan điểm của cô Lydia Park về tuần không điện thoại"
+      },
+      "narrator": "Lydia",
+      "title": "One Week Without Phones: What My Classroom Taught Me",
+      "category": "essay",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 250,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One Week Without Phones: What My Classroom Taught Me",
+            "vi": "Một tuần không điện thoại: Lớp học của tôi đã dạy tôi điều gì"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Lydia Park, English teacher, Westview High School",
+            "vi": "Lydia Park, giáo viên tiếng Anh, trường Westview High"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In April, our school tried an experiment. For one week, every student placed their phone in a locked pouch at the start of the day and got it back at the final bell. The idea came from a group of students themselves, which is, I think, the most interesting part of the story.",
+            "vi": "Tháng Tư, trường chúng tôi thử một cuộc thử nghiệm. Trong một tuần, mọi học sinh cho điện thoại vào một túi có khoá lúc đầu ngày và nhận lại khi chuông cuối giờ reo. Ý tưởng này đến từ chính một nhóm học sinh, và theo tôi, đó là phần thú vị nhất của câu chuyện."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I expected anger. On Monday, I got it: two students told me, candidly, that the week was \"basically a prison sentence\". By Wednesday, however, something had changed.",
+            "vi": "Tôi đã đoán sẽ có giận dữ. Thứ Hai, tôi gặp đúng thế: hai học sinh nói thẳng với tôi rằng cả tuần \"chẳng khác gì một bản án tù\". Tuy nhiên tới thứ Tư, có điều gì đó đã thay đổi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The lunch tables were louder. Students who usually sat in silence, each looking at a screen, were arguing about films, playing cards, and in one memorable case, holding a debate about whether a hot dog is a sandwich.",
+            "vi": "Các bàn ăn trưa ồn ào hơn. Những học sinh thường ngồi im lặng, mỗi người dán mắt vào một màn hình, giờ tranh luận về phim, chơi bài, và có một trường hợp đáng nhớ là tổ chức tranh biện xem bánh mì kẹp xúc xích có phải là bánh sandwich hay không."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In my own classes, the change was smaller than I had hoped but still real. Students who are easily distracted finished their reading more often, and fewer of them asked to leave the room.",
+            "vi": "Trong các lớp của tôi, thay đổi nhỏ hơn tôi mong nhưng vẫn có thật. Những học sinh dễ mất tập trung hoàn thành bài đọc thường xuyên hơn, và ít em xin ra khỏi lớp hơn."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It would be dishonest, however, to pretend that the experiment had no costs. Several parents were worried that they could not reach their children in an emergency, and one student, who looks after a younger brother with a medical condition, found the week genuinely stressful.",
+            "vi": "Tuy nhiên, sẽ là không trung thực nếu giả vờ rằng thử nghiệm không có cái giá nào. Một số phụ huynh lo không liên lạc được với con khi có chuyện khẩn cấp, và một học sinh, em đang chăm một người em trai có bệnh, thấy cả tuần thật sự căng thẳng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For her, the phone was not a distraction but a responsibility.",
+            "vi": "Với em ấy, điện thoại không phải là thứ gây xao nhãng mà là một trách nhiệm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So, should we lock phones away for good? I would argue that this is the wrong question. A permanent ban treats every student and every phone in the same way, as if a game and a message from a worried parent were the same thing.",
+            "vi": "Vậy có nên khoá điện thoại lại mãi mãi? Tôi cho rằng đó là câu hỏi sai. Một lệnh cấm vĩnh viễn đối xử với mọi học sinh và mọi chiếc điện thoại như nhau, như thể một trò chơi và một tin nhắn của phụ huynh đang lo lắng là cùng một thứ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What the week showed me is that most students are perfectly able to live without their phones for a few hours; what they find hard is being the only one who does it.",
+            "vi": "Điều tuần đó cho tôi thấy là phần lớn học sinh hoàn toàn có thể sống thiếu điện thoại vài tiếng; điều các em thấy khó là trở thành người duy nhất làm thế."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My proposal is modest: phone-free classrooms, phones allowed at lunch, and a simple way for families to reach the office in an emergency. Most importantly, the rules should be written with students, not just for them.",
+            "vi": "Đề xuất của tôi khiêm tốn thôi: lớp học không điện thoại, giờ ăn trưa được dùng, và một cách đơn giản để gia đình liên lạc với văn phòng khi khẩn cấp. Quan trọng nhất, nội quy nên được viết cùng học sinh, chứ không chỉ viết cho học sinh."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After all, it was students who suggested the experiment in the first place.",
+            "vi": "Xét cho cùng, chính học sinh là người đề xuất thử nghiệm ngay từ đầu."
+          }
+        }
+      ],
+      "content_ja": "One Week Without Phones: What My Classroom Taught Me\n\nLydia Park, English teacher, Westview High School\n\nIn April, our school tried an experiment. For one week, every student placed their phone in a locked pouch at the start of the day and got it back at the final bell. The idea came from a group of students themselves, which is, I think, the most interesting part of the story.\n\nI expected anger. On Monday, I got it: two students told me, candidly, that the week was \"basically a prison sentence\". By Wednesday, however, something had changed. The lunch tables were louder. Students who usually sat in silence, each looking at a screen, were arguing about films, playing cards, and in one memorable case, holding a debate about whether a hot dog is a sandwich.\n\nIn my own classes, the change was smaller than I had hoped but still real. Students who are easily distracted finished their reading more often, and fewer of them asked to leave the room. It would be dishonest, however, to pretend that the experiment had no costs. Several parents were worried that they could not reach their children in an emergency, and one student, who looks after a younger brother with a medical condition, found the week genuinely stressful. For her, the phone was not a distraction but a responsibility.\n\nSo, should we lock phones away for good? I would argue that this is the wrong question. A permanent ban treats every student and every phone in the same way, as if a game and a message from a worried parent were the same thing. What the week showed me is that most students are perfectly able to live without their phones for a few hours; what they find hard is being the only one who does it.\n\nMy proposal is modest: phone-free classrooms, phones allowed at lunch, and a simple way for families to reach the office in an emergency. Most importantly, the rules should be written with students, not just for them. After all, it was students who suggested the experiment in the first place.",
+      "translation_vn": "(1) Một tuần không điện thoại: Lớp học của tôi đã dạy tôi điều gì\n(2) Lydia Park, giáo viên tiếng Anh, trường Westview High\n(3) Tháng Tư, trường chúng tôi thử một cuộc thử nghiệm. Trong một tuần, mọi học sinh cho điện thoại vào một túi có khoá lúc đầu ngày và nhận lại khi chuông cuối giờ reo. Ý tưởng này đến từ chính một nhóm học sinh, và theo tôi, đó là phần thú vị nhất của câu chuyện.\n(4) Tôi đã đoán sẽ có giận dữ. Thứ Hai, tôi gặp đúng thế: hai học sinh nói thẳng với tôi rằng cả tuần \"chẳng khác gì một bản án tù\". Tuy nhiên tới thứ Tư, có điều gì đó đã thay đổi.\n(5) Các bàn ăn trưa ồn ào hơn. Những học sinh thường ngồi im lặng, mỗi người dán mắt vào một màn hình, giờ tranh luận về phim, chơi bài, và có một trường hợp đáng nhớ là tổ chức tranh biện xem bánh mì kẹp xúc xích có phải là bánh sandwich hay không.\n(6) Trong các lớp của tôi, thay đổi nhỏ hơn tôi mong nhưng vẫn có thật. Những học sinh dễ mất tập trung hoàn thành bài đọc thường xuyên hơn, và ít em xin ra khỏi lớp hơn.\n(7) Tuy nhiên, sẽ là không trung thực nếu giả vờ rằng thử nghiệm không có cái giá nào. Một số phụ huynh lo không liên lạc được với con khi có chuyện khẩn cấp, và một học sinh, em đang chăm một người em trai có bệnh, thấy cả tuần thật sự căng thẳng.\n(8) Với em ấy, điện thoại không phải là thứ gây xao nhãng mà là một trách nhiệm.\n(9) Vậy có nên khoá điện thoại lại mãi mãi? Tôi cho rằng đó là câu hỏi sai. Một lệnh cấm vĩnh viễn đối xử với mọi học sinh và mọi chiếc điện thoại như nhau, như thể một trò chơi và một tin nhắn của phụ huynh đang lo lắng là cùng một thứ.\n(10) Điều tuần đó cho tôi thấy là phần lớn học sinh hoàn toàn có thể sống thiếu điện thoại vài tiếng; điều các em thấy khó là trở thành người duy nhất làm thế.\n(11) Đề xuất của tôi khiêm tốn thôi: lớp học không điện thoại, giờ ăn trưa được dùng, và một cách đơn giản để gia đình liên lạc với văn phòng khi khẩn cấp. Quan trọng nhất, nội quy nên được viết cùng học sinh, chứ không chỉ viết cho học sinh.\n(12) Xét cho cùng, chính học sinh là người đề xuất thử nghiệm ngay từ đầu.",
+      "word_count": 352,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004",
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008",
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012",
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016",
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020",
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mock1_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What is the main purpose of the notice?",
+        "vi": "Mục đích chính của thông báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to announce the opening of a studio and invite people to its events",
+            "vi": "thông báo khai trương một studio và mời mọi người tới các sự kiện"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to announce the opening of a studio and invite people to its events",
+          "text_translation": "thông báo khai trương một studio và mời mọi người tới các sự kiện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to advertise jobs at the studio",
+            "vi": "quảng cáo tuyển người ở studio"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to advertise jobs at the studio",
+          "text_translation": "quảng cáo tuyển người ở studio"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to sell bikes",
+            "vi": "bán xe đạp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to sell bikes",
+          "text_translation": "bán xe đạp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to announce that Harriet's is closing",
+            "vi": "thông báo quán Harriet's đóng cửa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to announce that Harriet's is closing",
+          "text_translation": "thông báo quán Harriet's đóng cửa"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"To celebrate, the studio is holding an opening week from Saturday, May 19, to Friday, May 25. Everyone is welcome\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the notice?",
+      "question_vn": "Mục đích chính của thông báo là gì?",
+      "explanation": "\"To celebrate, the studio is holding an opening week from Saturday, May 19, to Friday, May 25. Everyone is welcome\"."
+    },
+    {
+      "id": "q_mock1_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Where did Chloe work before opening the studio?",
+        "vi": "Trước khi mở studio, Chloe làm việc ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in the bike shop",
+            "vi": "trong cửa hàng xe đạp"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in the bike shop",
+          "text_translation": "trong cửa hàng xe đạp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at a large design company",
+            "vi": "ở một công ty thiết kế lớn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at a large design company",
+          "text_translation": "ở một công ty thiết kế lớn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at her kitchen table and in a corner of Harriet's café",
+            "vi": "trên bàn bếp và ở một góc quán Harriet's"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "at her kitchen table and in a corner of Harriet's café",
+          "text_translation": "trên bàn bếp và ở một góc quán Harriet's"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at Pine Street Library",
+            "vi": "ở thư viện Pine Street"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at Pine Street Library",
+          "text_translation": "ở thư viện Pine Street"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"After three and a half years of working from her kitchen table and a corner of Harriet's café\"."
+      },
+      "audio_data": null,
+      "question_jp": "Where did Chloe work before opening the studio?",
+      "question_vn": "Trước khi mở studio, Chloe làm việc ở đâu?",
+      "explanation": "\"After three and a half years of working from her kitchen table and a corner of Harriet's café\"."
+    },
+    {
+      "id": "q_mock1_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Which event does NOT need to be booked?",
+        "vi": "Sự kiện nào KHÔNG cần đăng ký?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the portfolio reviews",
+            "vi": "góp ý hồ sơ năng lực"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the portfolio reviews",
+          "text_translation": "góp ý hồ sơ năng lực"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the Open House",
+            "vi": "ngày mở cửa đón khách"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the Open House",
+          "text_translation": "ngày mở cửa đón khách"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a twenty-minute session",
+            "vi": "một buổi hai mươi phút"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a twenty-minute session",
+          "text_translation": "một buổi hai mươi phút"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a place on Thursday evening",
+            "vi": "một chỗ tối thứ Năm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a place on Thursday evening",
+          "text_translation": "một chỗ tối thứ Năm"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Open House\" và \"No booking needed.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which event does NOT need to be booked?",
+      "question_vn": "Sự kiện nào KHÔNG cần đăng ký?",
+      "explanation": "\"Open House\" và \"No booking needed.\""
+    },
+    {
+      "id": "q_mock1_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "A 9-year-old wants to join \"Draw Your Street\". What must happen?",
+        "vi": "Một em 9 tuổi muốn tham gia \"Vẽ con phố của em\". Điều gì bắt buộc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The child must pay $10.",
+            "vi": "Em phải trả 10 đô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The child must pay $10.",
+          "text_translation": "Em phải trả 10 đô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The child must bring their own materials.",
+            "vi": "Em phải tự mang dụng cụ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The child must bring their own materials.",
+          "text_translation": "Em phải tự mang dụng cụ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The child must book a portfolio review.",
+            "vi": "Em phải đăng ký góp ý hồ sơ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The child must book a portfolio review.",
+          "text_translation": "Em phải đăng ký góp ý hồ sơ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "An adult must come with the child.",
+            "vi": "Phải có người lớn đi cùng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "An adult must come with the child.",
+          "text_translation": "Phải có người lớn đi cùng."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu áp dụng điều kiện. \"Children under 10 must be accompanied by an adult.\" Em 9 tuổi là dưới 10."
+      },
+      "audio_data": null,
+      "question_jp": "A 9-year-old wants to join \"Draw Your Street\". What must happen?",
+      "question_vn": "Một em 9 tuổi muốn tham gia \"Vẽ con phố của em\". Điều gì bắt buộc?",
+      "explanation": "Câu áp dụng điều kiện. \"Children under 10 must be accompanied by an adult.\" Em 9 tuổi là dưới 10."
+    },
+    {
+      "id": "q_mock1_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Who can book a portfolio review?",
+        "vi": "Ai được đăng ký góp ý hồ sơ năng lực?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "students and recent graduates",
+            "vi": "sinh viên và người mới tốt nghiệp"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "students and recent graduates",
+          "text_translation": "sinh viên và người mới tốt nghiệp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "children aged 8 to 12",
+            "vi": "trẻ 8 tới 12 tuổi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "children aged 8 to 12",
+          "text_translation": "trẻ 8 tới 12 tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only freelancers",
+            "vi": "chỉ người làm tự do"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "only freelancers",
+          "text_translation": "chỉ người làm tự do"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "anyone who buys a ticket",
+            "vi": "bất kỳ ai mua vé"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "anyone who buys a ticket",
+          "text_translation": "bất kỳ ai mua vé"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Students and recent graduates can book a free twenty-minute session\"."
+      },
+      "audio_data": null,
+      "question_jp": "Who can book a portfolio review?",
+      "question_vn": "Ai được đăng ký góp ý hồ sơ năng lực?",
+      "explanation": "\"Students and recent graduates can book a free twenty-minute session\"."
+    },
+    {
+      "id": "q_mock1_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What can be inferred from Chloe's words \"too grateful to ask for a fair price\"?",
+        "vi": "Có thể suy ra gì từ lời Chloe \"biết ơn quá nên không dám đòi một mức giá công bằng\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her clients refused to pay her.",
+            "vi": "Khách không chịu trả tiền cho cô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Her clients refused to pay her.",
+          "text_translation": "Khách không chịu trả tiền cho cô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "In her first year, she charged less than her work was worth because she was thankful just to have clients.",
+            "vi": "Năm đầu, cô lấy giá thấp hơn giá trị công việc vì biết ơn chỉ riêng việc có khách."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "In her first year, she charged less than her work was worth because she was thankful just to have clients.",
+          "text_translation": "Năm đầu, cô lấy giá thấp hơn giá trị công việc vì biết ơn chỉ riêng việc có khách."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She has stopped working as a freelancer.",
+            "vi": "Cô đã thôi làm tự do."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She has stopped working as a freelancer.",
+          "text_translation": "Cô đã thôi làm tự do."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She now charges too much.",
+            "vi": "Giờ cô lấy giá quá cao."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She now charges too much.",
+          "text_translation": "Giờ cô lấy giá quá cao."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Một trong \"the mistakes she made in her first year\" là không dám đòi giá công bằng vì quá biết ơn khách."
+      },
+      "audio_data": null,
+      "question_jp": "What can be inferred from Chloe's words \"too grateful to ask for a fair price\"?",
+      "question_vn": "Có thể suy ra gì từ lời Chloe \"biết ơn quá nên không dám đòi một mức giá công bằng\"?",
+      "explanation": "Câu suy luận. Một trong \"the mistakes she made in her first year\" là không dám đòi giá công bằng vì quá biết ơn khách."
+    },
+    {
+      "id": "q_mock1_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What will happen to the money from the Wednesday talk?",
+        "vi": "Tiền từ buổi nói chuyện thứ Tư sẽ được dùng thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It will pay for the new studio.",
+            "vi": "Trả cho studio mới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It will pay for the new studio.",
+          "text_translation": "Trả cho studio mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It will go to Ruby and Sam.",
+            "vi": "Trả cho Ruby và Sam."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It will go to Ruby and Sam.",
+          "text_translation": "Trả cho Ruby và Sam."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It will go to the youth art program at Pine Street Library.",
+            "vi": "Dành cho chương trình nghệ thuật thiếu nhi ở thư viện Pine Street."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It will go to the youth art program at Pine Street Library.",
+          "text_translation": "Dành cho chương trình nghệ thuật thiếu nhi ở thư viện Pine Street."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It will buy drawing materials.",
+            "vi": "Mua dụng cụ vẽ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It will buy drawing materials.",
+          "text_translation": "Mua dụng cụ vẽ."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"all of the money will go to the youth art program at Pine Street Library.\""
+      },
+      "audio_data": null,
+      "question_jp": "What will happen to the money from the Wednesday talk?",
+      "question_vn": "Tiền từ buổi nói chuyện thứ Tư sẽ được dùng thế nào?",
+      "explanation": "\"all of the money will go to the youth art program at Pine Street Library.\""
+    },
+    {
+      "id": "q_mock1_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Why does the notice give a phone number at the end?",
+        "vi": "Vì sao cuối thông báo có ghi số điện thoại?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "so that people can book the Open House",
+            "vi": "để người ta đăng ký ngày mở cửa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "so that people can book the Open House",
+          "text_translation": "để người ta đăng ký ngày mở cửa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "so that people can order coffee",
+            "vi": "để người ta gọi cà phê"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "so that people can order coffee",
+          "text_translation": "để người ta gọi cà phê"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that people can complain",
+            "vi": "để người ta phàn nàn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "so that people can complain",
+          "text_translation": "để người ta phàn nàn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that visitors who need help with the stairs can arrange for someone to meet them",
+            "vi": "để khách cần giúp lên cầu thang có thể hẹn người xuống đón"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "so that visitors who need help with the stairs can arrange for someone to meet them",
+          "text_translation": "để khách cần giúp lên cầu thang có thể hẹn người xuống đón"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you need help with the stairs, call us on 619-555-0131 before your visit and we will come down to meet you.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does the notice give a phone number at the end?",
+      "question_vn": "Vì sao cuối thông báo có ghi số điện thoại?",
+      "explanation": "\"If you need help with the stairs, call us on 619-555-0131 before your visit and we will come down to meet you.\""
+    },
+    {
+      "id": "q_mock1_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Which word best describes the tone of the notice?",
+        "vi": "Từ nào mô tả đúng nhất giọng của thông báo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "warm and welcoming, with a little humor",
+            "vi": "ấm áp, niềm nở, có chút hài hước"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "warm and welcoming, with a little humor",
+          "text_translation": "ấm áp, niềm nở, có chút hài hước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "formal and strict",
+            "vi": "trang trọng và nghiêm khắc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "formal and strict",
+          "text_translation": "trang trọng và nghiêm khắc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "worried",
+            "vi": "lo lắng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "worried",
+          "text_translation": "lo lắng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "sad",
+            "vi": "buồn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "sad",
+          "text_translation": "buồn"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. Lời hứa \"much better coffee than she used to make at home\", \"Everyone is welcome\", và lời đề nghị xuống đón khách cho thấy giọng ấm áp."
+      },
+      "audio_data": null,
+      "question_jp": "Which word best describes the tone of the notice?",
+      "question_vn": "Từ nào mô tả đúng nhất giọng của thông báo?",
+      "explanation": "Câu hỏi giọng điệu. Lời hứa \"much better coffee than she used to make at home\", \"Everyone is welcome\", và lời đề nghị xuống đón khách cho thấy giọng ấm áp."
+    },
+    {
+      "id": "q_mock1_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What can be inferred about the talk \"What Should I Charge?\"",
+        "vi": "Có thể suy ra gì về buổi nói chuyện \"Tôi nên lấy giá bao nhiêu?\""
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is only for designers.",
+            "vi": "Chỉ dành cho nhà thiết kế."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is only for designers.",
+          "text_translation": "Chỉ dành cho nhà thiết kế."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is free.",
+            "vi": "Miễn phí."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is free.",
+          "text_translation": "Miễn phí."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is meant to be useful to anyone who works for themselves, not only people in Chloe's field.",
+            "vi": "Nó nhằm giúp ích cho bất kỳ ai tự làm cho mình, không chỉ người cùng ngành với Chloe."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is meant to be useful to anyone who works for themselves, not only people in Chloe's field.",
+          "text_translation": "Nó nhằm giúp ích cho bất kỳ ai tự làm cho mình, không chỉ người cùng ngành với Chloe."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It takes place on Saturday.",
+            "vi": "Diễn ra thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It takes place on Saturday.",
+          "text_translation": "Diễn ra thứ Bảy."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"A talk for freelancers of any kind, from designers to dog walkers.\" Vé 10 đô, tối thứ Tư."
+      },
+      "audio_data": null,
+      "question_jp": "What can be inferred about the talk \"What Should I Charge?\"",
+      "question_vn": "Có thể suy ra gì về buổi nói chuyện \"Tôi nên lấy giá bao nhiêu?\"",
+      "explanation": "Câu suy luận. \"A talk for freelancers of any kind, from designers to dog walkers.\" Vé 10 đô, tối thứ Tư."
+    },
+    {
+      "id": "q_mock1_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What did the researchers do while wearing the cave-man mask?",
+        "vi": "Các nhà nghiên cứu làm gì khi đeo mặt nạ người tiền sử?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They fed the crows.",
+            "vi": "Họ cho quạ ăn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They fed the crows.",
+          "text_translation": "Họ cho quạ ăn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They caught seven crows, put bands on their legs and released them.",
+            "vi": "Họ bắt bảy con quạ, đeo vòng vào chân rồi thả ra."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They caught seven crows, put bands on their legs and released them.",
+          "text_translation": "Họ bắt bảy con quạ, đeo vòng vào chân rồi thả ra."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They took photos of the crows.",
+            "vi": "Họ chụp ảnh quạ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They took photos of the crows.",
+          "text_translation": "Họ chụp ảnh quạ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They hurt the crows.",
+            "vi": "Họ làm quạ bị thương."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They hurt the crows.",
+          "text_translation": "Họ làm quạ bị thương."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"they caught seven wild crows, put small identification bands on their legs, and let them go.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the researchers do while wearing the cave-man mask?",
+      "question_vn": "Các nhà nghiên cứu làm gì khi đeo mặt nạ người tiền sử?",
+      "explanation": "\"they caught seven wild crows, put small identification bands on their legs, and let them go.\""
+    },
+    {
+      "id": "q_mock1_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why did the researchers also use an ordinary mask?",
+        "vi": "Vì sao các nhà nghiên cứu còn dùng một chiếc mặt nạ bình thường?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the cave-man mask broke",
+            "vi": "vì mặt nạ người tiền sử bị hỏng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the cave-man mask broke",
+          "text_translation": "vì mặt nạ người tiền sử bị hỏng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to frighten the crows more",
+            "vi": "để doạ quạ nhiều hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to frighten the crows more",
+          "text_translation": "để doạ quạ nhiều hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to hide from students",
+            "vi": "để trốn sinh viên"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to hide from students",
+          "text_translation": "để trốn sinh viên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to compare the crows' reactions to a face that had not been linked to danger",
+            "vi": "để so sánh phản ứng của quạ với một khuôn mặt không gắn với mối nguy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to compare the crows' reactions to a face that had not been linked to danger",
+          "text_translation": "để so sánh phản ứng của quạ với một khuôn mặt không gắn với mối nguy"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. Đó là \"an ordinary face that the researchers used for comparison\". Mặt nạ này \"produced almost no reaction\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the researchers also use an ordinary mask?",
+      "question_vn": "Vì sao các nhà nghiên cứu còn dùng một chiếc mặt nạ bình thường?",
+      "explanation": "Câu suy luận về mục đích. Đó là \"an ordinary face that the researchers used for comparison\". Mặt nạ này \"produced almost no reaction\"."
+    },
+    {
+      "id": "q_mock1_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What does \"scold\" mean in the article?",
+        "vi": "Trong bài, \"scold\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to make loud, angry calls at someone",
+            "vi": "kêu to, giận dữ vào ai đó"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to make loud, angry calls at someone",
+          "text_translation": "kêu to, giận dữ vào ai đó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to fly away quickly",
+            "vi": "bay đi thật nhanh"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to fly away quickly",
+          "text_translation": "bay đi thật nhanh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to hide in the trees",
+            "vi": "trốn trên cây"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to hide in the trees",
+          "text_translation": "trốn trên cây"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to follow someone quietly",
+            "vi": "lặng lẽ đi theo ai đó"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to follow someone quietly",
+          "text_translation": "lặng lẽ đi theo ai đó"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Từ trong ngữ cảnh. \"making loud, angry calls and sometimes diving towards them.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does \"scold\" mean in the article?",
+      "question_vn": "Trong bài, \"scold\" nghĩa là gì?",
+      "explanation": "Từ trong ngữ cảnh. \"making loud, angry calls and sometimes diving towards them.\""
+    },
+    {
+      "id": "q_mock1_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What shows that the crows really recognized the face, not just the mask's shape?",
+        "vi": "Điều gì cho thấy quạ thật sự nhận ra khuôn mặt chứ không chỉ hình dáng mặt nạ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They ignored the cave-man mask.",
+            "vi": "Chúng phớt lờ mặt nạ người tiền sử."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They ignored the cave-man mask.",
+          "text_translation": "Chúng phớt lờ mặt nạ người tiền sử."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They only reacted on campus.",
+            "vi": "Chúng chỉ phản ứng trong khuôn viên trường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They only reacted on campus.",
+          "text_translation": "Chúng chỉ phản ứng trong khuôn viên trường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They reacted even when it was partly hidden under a hat or worn upside down.",
+            "vi": "Chúng phản ứng cả khi nó bị che một phần dưới mũ hay đeo ngược."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They reacted even when it was partly hidden under a hat or worn upside down.",
+          "text_translation": "Chúng phản ứng cả khi nó bị che một phần dưới mũ hay đeo ngược."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They reacted to the ordinary mask too.",
+            "vi": "Chúng cũng phản ứng với mặt nạ bình thường."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They reacted to the ordinary mask too.",
+          "text_translation": "Chúng cũng phản ứng với mặt nạ bình thường."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"The crows recognized the dangerous face even when it was partly hidden under a hat or worn upside down.\""
+      },
+      "audio_data": null,
+      "question_jp": "What shows that the crows really recognized the face, not just the mask's shape?",
+      "question_vn": "Điều gì cho thấy quạ thật sự nhận ra khuôn mặt chứ không chỉ hình dáng mặt nạ?",
+      "explanation": "\"The crows recognized the dangerous face even when it was partly hidden under a hat or worn upside down.\""
+    },
+    {
+      "id": "q_mock1_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why does the writer describe the next finding as \"Even more startling\"?",
+        "vi": "Vì sao người viết gọi phát hiện tiếp theo là \"Đáng kinh ngạc hơn nữa\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the researchers were attacked",
+            "vi": "vì các nhà nghiên cứu bị tấn công"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the researchers were attacked",
+          "text_translation": "vì các nhà nghiên cứu bị tấn công"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because crows that had never been caught also learned to scold the mask",
+            "vi": "vì cả những con quạ chưa từng bị bắt cũng học cách mắng chiếc mặt nạ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because crows that had never been caught also learned to scold the mask",
+          "text_translation": "vì cả những con quạ chưa từng bị bắt cũng học cách mắng chiếc mặt nạ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the crows forgot the face",
+            "vi": "vì quạ quên khuôn mặt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the crows forgot the face",
+          "text_translation": "vì quạ quên khuôn mặt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the crows left the campus",
+            "vi": "vì quạ bỏ khuôn viên trường"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the crows left the campus",
+          "text_translation": "vì quạ bỏ khuôn viên trường"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"crows that had never been caught joined in.\" Chúng chưa từng bị hại mà vẫn biết khuôn mặt đó."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer describe the next finding as \"Even more startling\"?",
+      "question_vn": "Vì sao người viết gọi phát hiện tiếp theo là \"Đáng kinh ngạc hơn nữa\"?",
+      "explanation": "\"crows that had never been caught joined in.\" Chúng chưa từng bị hại mà vẫn biết khuôn mặt đó."
+    },
+    {
+      "id": "q_mock1_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "According to the article, how did the crows that were never caught probably learn about the mask?",
+        "vi": "Theo bài, những con quạ chưa bị bắt có lẽ đã biết về chiếc mặt nạ bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by being banded later",
+            "vi": "bằng cách bị đeo vòng sau đó"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by being banded later",
+          "text_translation": "bằng cách bị đeo vòng sau đó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by watching humans",
+            "vi": "bằng cách quan sát người"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "by watching humans",
+          "text_translation": "bằng cách quan sát người"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by watching television",
+            "vi": "bằng cách xem ti vi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by watching television",
+          "text_translation": "bằng cách xem ti vi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by seeing other crows scold it",
+            "vi": "bằng cách thấy những con quạ khác mắng nó"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "by seeing other crows scold it",
+          "text_translation": "bằng cách thấy những con quạ khác mắng nó"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"A young bird that sees adults scolding a particular face will, it seems, learn to treat that face as a threat\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, how did the crows that were never caught probably learn about the mask?",
+      "question_vn": "Theo bài, những con quạ chưa bị bắt có lẽ đã biết về chiếc mặt nạ bằng cách nào?",
+      "explanation": "\"A young bird that sees adults scolding a particular face will, it seems, learn to treat that face as a threat\"."
+    },
+    {
+      "id": "q_mock1_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Which phrases show that the writer is presenting an explanation rather than a certain fact?",
+        "vi": "Những cụm nào cho thấy người viết đang đưa ra cách giải thích chứ không phải sự thật chắc chắn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "\"In 2006\" and \"seven wild crows\"",
+            "vi": "\"In 2006\" và \"seven wild crows\""
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "\"In 2006\" and \"seven wild crows\"",
+          "text_translation": "\"In 2006\" và \"seven wild crows\""
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "\"rose sharply\" and \"far outnumbered\"",
+            "vi": "\"rose sharply\" và \"far outnumbered\""
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "\"rose sharply\" and \"far outnumbered\"",
+          "text_translation": "\"rose sharply\" và \"far outnumbered\""
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "\"The most plausible explanation\" and \"it seems\"",
+            "vi": "\"The most plausible explanation\" và \"it seems\""
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "\"The most plausible explanation\" and \"it seems\"",
+          "text_translation": "\"The most plausible explanation\" và \"it seems\""
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "\"loud, angry calls\"",
+            "vi": "\"loud, angry calls\""
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "\"loud, angry calls\"",
+          "text_translation": "\"loud, angry calls\""
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi về ngôn ngữ rào đón. \"plausible\" (hợp lý, có thể đúng) và \"it seems\" (có vẻ như) cho thấy đây là giả thuyết."
+      },
+      "audio_data": null,
+      "question_jp": "Which phrases show that the writer is presenting an explanation rather than a certain fact?",
+      "question_vn": "Những cụm nào cho thấy người viết đang đưa ra cách giải thích chứ không phải sự thật chắc chắn?",
+      "explanation": "Câu hỏi về ngôn ngữ rào đón. \"plausible\" (hợp lý, có thể đúng) và \"it seems\" (có vẻ như) cho thấy đây là giả thuyết."
+    },
+    {
+      "id": "q_mock1_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why, according to the article, is recognizing faces useful for crows?",
+        "vi": "Theo bài, vì sao nhận ra khuôn mặt có ích cho quạ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They live a long time in the same area as humans, so knowing which people to be careful of helps them survive.",
+            "vi": "Chúng sống lâu ở cùng khu vực với người, nên biết người nào cần dè chừng giúp chúng sống sót."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They live a long time in the same area as humans, so knowing which people to be careful of helps them survive.",
+          "text_translation": "Chúng sống lâu ở cùng khu vực với người, nên biết người nào cần dè chừng giúp chúng sống sót."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It helps them find food in shops.",
+            "vi": "Nó giúp chúng tìm thức ăn trong cửa hàng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It helps them find food in shops.",
+          "text_translation": "Nó giúp chúng tìm thức ăn trong cửa hàng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It helps them choose a partner.",
+            "vi": "Nó giúp chúng chọn bạn đời."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It helps them choose a partner.",
+          "text_translation": "Nó giúp chúng chọn bạn đời."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It helps them migrate.",
+            "vi": "Nó giúp chúng di cư."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It helps them migrate.",
+          "text_translation": "Nó giúp chúng di cư."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"For a crow, knowing which humans to be wary of is a matter of survival.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why, according to the article, is recognizing faces useful for crows?",
+      "question_vn": "Theo bài, vì sao nhận ra khuôn mặt có ích cho quạ?",
+      "explanation": "\"For a crow, knowing which humans to be wary of is a matter of survival.\""
+    },
+    {
+      "id": "q_mock1_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "How has the study changed the way some scientists think about animal intelligence?",
+        "vi": "Nghiên cứu đã thay đổi cách một số nhà khoa học nghĩ về trí thông minh động vật thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They now believe crows are smarter than humans.",
+            "vi": "Giờ họ tin quạ thông minh hơn người."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They now believe crows are smarter than humans.",
+          "text_translation": "Giờ họ tin quạ thông minh hơn người."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They now measure intelligence only in laboratories.",
+            "vi": "Giờ họ chỉ đo trí thông minh trong phòng thí nghiệm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They now measure intelligence only in laboratories.",
+          "text_translation": "Giờ họ chỉ đo trí thông minh trong phòng thí nghiệm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have stopped studying birds.",
+            "vi": "Họ đã ngừng nghiên cứu chim."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have stopped studying birds.",
+          "text_translation": "Họ đã ngừng nghiên cứu chim."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They see that intelligence can be shared by a group, not only shown by one animal alone.",
+            "vi": "Họ thấy trí thông minh có thể được cả nhóm chia sẻ, không chỉ thể hiện ở một con vật đơn lẻ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They see that intelligence can be shared by a group, not only shown by one animal alone.",
+          "text_translation": "Họ thấy trí thông minh có thể được cả nhóm chia sẻ, không chỉ thể hiện ở một con vật đơn lẻ."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"intelligence can also be social: a kind of memory that belongs not to one bird but to the whole community.\""
+      },
+      "audio_data": null,
+      "question_jp": "How has the study changed the way some scientists think about animal intelligence?",
+      "question_vn": "Nghiên cứu đã thay đổi cách một số nhà khoa học nghĩ về trí thông minh động vật thế nào?",
+      "explanation": "\"intelligence can also be social: a kind of memory that belongs not to one bird but to the whole community.\""
+    },
+    {
+      "id": "q_mock1_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What is the tone of the final paragraph?",
+        "vi": "Đoạn cuối có giọng điệu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "angry",
+            "vi": "giận dữ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "angry",
+          "text_translation": "giận dữ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "lightly humorous",
+            "vi": "hài hước nhẹ nhàng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "lightly humorous",
+          "text_translation": "hài hước nhẹ nhàng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "scientific and technical",
+            "vi": "khoa học, kỹ thuật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "scientific and technical",
+          "text_translation": "khoa học, kỹ thuật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "sad",
+            "vi": "buồn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "sad",
+          "text_translation": "buồn"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. \"it may be wise to stay on good terms with them\" là lời khuyên nửa đùa nửa thật."
+      },
+      "audio_data": null,
+      "question_jp": "What is the tone of the final paragraph?",
+      "question_vn": "Đoạn cuối có giọng điệu thế nào?",
+      "explanation": "Câu hỏi giọng điệu. \"it may be wise to stay on good terms with them\" là lời khuyên nửa đùa nửa thật."
+    },
+    {
+      "id": "q_mock1_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "When did Tracy find the mistake?",
+        "vi": "Tracy tìm ra lỗi khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on Wednesday morning",
+            "vi": "sáng thứ Tư"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "on Wednesday morning",
+          "text_translation": "sáng thứ Tư"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on Monday, during the call",
+            "vi": "thứ Hai, trong cuộc gọi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on Monday, during the call",
+          "text_translation": "thứ Hai, trong cuộc gọi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "late on Friday afternoon, after the report had been sent",
+            "vi": "chiều muộn thứ Sáu, sau khi báo cáo đã được gửi"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "late on Friday afternoon, after the report had been sent",
+          "text_translation": "chiều muộn thứ Sáu, sau khi báo cáo đã được gửi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in July",
+            "vi": "tháng Bảy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in July",
+          "text_translation": "tháng Bảy"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was a quarter to six on a Friday\" và \"the report had been sent to the client on Wednesday.\""
+      },
+      "audio_data": null,
+      "question_jp": "When did Tracy find the mistake?",
+      "question_vn": "Tracy tìm ra lỗi khi nào?",
+      "explanation": "\"It was a quarter to six on a Friday\" và \"the report had been sent to the client on Wednesday.\""
+    },
+    {
+      "id": "q_mock1_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "How serious was the mistake?",
+        "vi": "Lỗi đó nghiêm trọng tới mức nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The bridge was safe, but one beam did not meet the rules and had to be changed.",
+            "vi": "Cây cầu an toàn, nhưng một dầm không đạt quy định và phải thay."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The bridge was safe, but one beam did not meet the rules and had to be changed.",
+          "text_translation": "Cây cầu an toàn, nhưng một dầm không đạt quy định và phải thay."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The bridge would fall down.",
+            "vi": "Cây cầu sẽ sập."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The bridge would fall down.",
+          "text_translation": "Cây cầu sẽ sập."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was only a spelling mistake.",
+            "vi": "Chỉ là lỗi chính tả."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was only a spelling mistake.",
+          "text_translation": "Chỉ là lỗi chính tả."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The client had already built the bridge.",
+            "vi": "Khách hàng đã xây xong cầu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The client had already built the bridge.",
+          "text_translation": "Khách hàng đã xây xong cầu."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"The bridge would not fall down\" nhưng \"one of the beams was thinner than the rules required, and it would have to be changed.\""
+      },
+      "audio_data": null,
+      "question_jp": "How serious was the mistake?",
+      "question_vn": "Lỗi đó nghiêm trọng tới mức nào?",
+      "explanation": "\"The bridge would not fall down\" nhưng \"one of the beams was thinner than the rules required, and it would have to be changed.\""
+    },
+    {
+      "id": "q_mock1_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What temptation did Tracy face?",
+        "vi": "Tracy đã đứng trước cám dỗ nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to blame Dana",
+            "vi": "đổ lỗi cho Dana"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to blame Dana",
+          "text_translation": "đổ lỗi cho Dana"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to quit her job",
+            "vi": "bỏ việc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to quit her job",
+          "text_translation": "bỏ việc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to call the client directly",
+            "vi": "gọi thẳng cho khách hàng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to call the client directly",
+          "text_translation": "gọi thẳng cho khách hàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to correct the drawings quietly and tell nobody",
+            "vi": "lặng lẽ sửa bản vẽ và không nói với ai"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to correct the drawings quietly and tell nobody",
+          "text_translation": "lặng lẽ sửa bản vẽ và không nói với ai"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"she could quietly correct the drawings next week and say nothing.\""
+      },
+      "audio_data": null,
+      "question_jp": "What temptation did Tracy face?",
+      "question_vn": "Tracy đã đứng trước cám dỗ nào?",
+      "explanation": "\"she could quietly correct the drawings next week and say nothing.\""
+    },
+    {
+      "id": "q_mock1_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What made Tracy decide to call?",
+        "vi": "Điều gì khiến Tracy quyết định gọi điện?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She was afraid that the bridge would fall.",
+            "vi": "Cô sợ cầu sập."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She was afraid that the bridge would fall.",
+          "text_translation": "Cô sợ cầu sập."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thought about Dana, who had trusted her numbers when signing the report.",
+            "vi": "Cô nghĩ tới Dana, người đã tin các con số của cô khi ký báo cáo."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She thought about Dana, who had trusted her numbers when signing the report.",
+          "text_translation": "Cô nghĩ tới Dana, người đã tin các con số của cô khi ký báo cáo."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The client called her first.",
+            "vi": "Khách hàng gọi cô trước."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The client called her first.",
+          "text_translation": "Khách hàng gọi cô trước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A colleague saw the mistake.",
+            "vi": "Một đồng nghiệp thấy lỗi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "A colleague saw the mistake.",
+          "text_translation": "Một đồng nghiệp thấy lỗi."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Dana Okafor, who had signed off on the report because she trusted Tracy's numbers. She picked up the phone.\""
+      },
+      "audio_data": null,
+      "question_jp": "What made Tracy decide to call?",
+      "question_vn": "Điều gì khiến Tracy quyết định gọi điện?",
+      "explanation": "\"Dana Okafor, who had signed off on the report because she trusted Tracy's numbers. She picked up the phone.\""
+    },
+    {
+      "id": "q_mock1_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What does Dana's first question, \"Is anyone in danger?\", show about her?",
+        "vi": "Câu hỏi đầu tiên của Dana, \"Có ai gặp nguy hiểm không?\", cho thấy điều gì về chị?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is angry with Tracy.",
+            "vi": "Chị giận Tracy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is angry with Tracy.",
+          "text_translation": "Chị giận Tracy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She does not trust Tracy.",
+            "vi": "Chị không tin Tracy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She does not trust Tracy.",
+          "text_translation": "Chị không tin Tracy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She thinks first about safety, which is the most important issue, rather than blame.",
+            "vi": "Chị nghĩ trước tiên tới an toàn, vấn đề quan trọng nhất, chứ không phải đổ lỗi."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She thinks first about safety, which is the most important issue, rather than blame.",
+          "text_translation": "Chị nghĩ trước tiên tới an toàn, vấn đề quan trọng nhất, chứ không phải đổ lỗi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants to end the call quickly.",
+            "vi": "Chị muốn kết thúc cuộc gọi nhanh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants to end the call quickly.",
+          "text_translation": "Chị muốn kết thúc cuộc gọi nhanh."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về tính cách. Chị không hỏi ai sai mà hỏi \"Is anyone in danger?\", rồi lập tức đưa ra kế hoạch."
+      },
+      "audio_data": null,
+      "question_jp": "What does Dana's first question, \"Is anyone in danger?\", show about her?",
+      "question_vn": "Câu hỏi đầu tiên của Dana, \"Có ai gặp nguy hiểm không?\", cho thấy điều gì về chị?",
+      "explanation": "Câu suy luận về tính cách. Chị không hỏi ai sai mà hỏi \"Is anyone in danger?\", rồi lập tức đưa ra kế hoạch."
+    },
+    {
+      "id": "q_mock1_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What is Dana's plan?",
+        "vi": "Kế hoạch của Dana là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to keep the mistake secret",
+            "vi": "giữ bí mật lỗi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to keep the mistake secret",
+          "text_translation": "giữ bí mật lỗi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to give the project to another engineer",
+            "vi": "giao dự án cho kỹ sư khác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to give the project to another engineer",
+          "text_translation": "giao dự án cho kỹ sư khác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to wait until July",
+            "vi": "chờ tới tháng Bảy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to wait until July",
+          "text_translation": "chờ tới tháng Bảy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to check Tracy's correction, then call the client together on Monday and send a revised report",
+            "vi": "kiểm tra phép tính đã sửa, rồi thứ Hai cùng gọi khách hàng và gửi báo cáo sửa đổi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to check Tracy's correction, then call the client together on Monday and send a revised report",
+          "text_translation": "kiểm tra phép tính đã sửa, rồi thứ Hai cùng gọi khách hàng và gửi báo cáo sửa đổi"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"On Monday, you and I will call the client together, explain what happened and send a revised report.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Dana's plan?",
+      "question_vn": "Kế hoạch của Dana là gì?",
+      "explanation": "\"On Monday, you and I will call the client together, explain what happened and send a revised report.\""
+    },
+    {
+      "id": "q_mock1_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What does Dana mean when she says \"that is the part I will remember\"?",
+        "vi": "Dana muốn nói gì khi bảo \"đó mới là phần chị sẽ nhớ\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She values Tracy's honesty more than she worries about the mistake.",
+            "vi": "Chị trân trọng sự trung thực của Tracy hơn là lo về lỗi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She values Tracy's honesty more than she worries about the mistake.",
+          "text_translation": "Chị trân trọng sự trung thực của Tracy hơn là lo về lỗi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She will remember the mistake forever.",
+            "vi": "Chị sẽ nhớ mãi cái lỗi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She will remember the mistake forever.",
+          "text_translation": "Chị sẽ nhớ mãi cái lỗi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She will report Tracy to the director.",
+            "vi": "Chị sẽ báo Tracy lên giám đốc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She will report Tracy to the director.",
+          "text_translation": "Chị sẽ báo Tracy lên giám đốc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She will check every report herself.",
+            "vi": "Chị sẽ tự kiểm mọi báo cáo."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She will check every report herself.",
+          "text_translation": "Chị sẽ tự kiểm mọi báo cáo."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"The ones I worry about are the people who hide them.\" Phần chị nhớ là \"the decision to call me\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Dana mean when she says \"that is the part I will remember\"?",
+      "question_vn": "Dana muốn nói gì khi bảo \"đó mới là phần chị sẽ nhớ\"?",
+      "explanation": "Câu hàm ý. \"The ones I worry about are the people who hide them.\" Phần chị nhớ là \"the decision to call me\"."
+    },
+    {
+      "id": "q_mock1_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "How did the client react?",
+        "vi": "Khách hàng phản ứng thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They cancelled the project.",
+            "vi": "Họ huỷ dự án."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They cancelled the project.",
+          "text_translation": "Họ huỷ dự án."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They thanked Tracy and Dana for being open.",
+            "vi": "Họ cảm ơn Tracy và Dana vì đã thẳng thắn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They thanked Tracy and Dana for being open.",
+          "text_translation": "Họ cảm ơn Tracy và Dana vì đã thẳng thắn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They asked for a new engineer.",
+            "vi": "Họ đòi kỹ sư khác."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They asked for a new engineer.",
+          "text_translation": "Họ đòi kỹ sư khác."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They did not answer the phone.",
+            "vi": "Họ không nghe máy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They did not answer the phone.",
+          "text_translation": "Họ không nghe máy."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"The client thanked them for being open, and the revised report went out that afternoon.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did the client react?",
+      "question_vn": "Khách hàng phản ứng thế nào?",
+      "explanation": "\"The client thanked them for being open, and the revised report went out that afternoon.\""
+    },
+    {
+      "id": "q_mock1_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What does the sticky note on Tracy's screen suggest?",
+        "vi": "Tờ giấy nhớ trên màn hình Tracy gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She was ordered to put it there.",
+            "vi": "Cô bị yêu cầu dán nó."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She was ordered to put it there.",
+          "text_translation": "Cô bị yêu cầu dán nó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is afraid of Dana.",
+            "vi": "Cô sợ Dana."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is afraid of Dana.",
+          "text_translation": "Cô sợ Dana."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She has learned from the mistake and wants to avoid repeating it.",
+            "vi": "Cô đã rút kinh nghiệm từ lỗi và muốn tránh lặp lại."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She has learned from the mistake and wants to avoid repeating it.",
+          "text_translation": "Cô đã rút kinh nghiệm từ lỗi và muốn tránh lặp lại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is working on another railing project.",
+            "vi": "Cô đang làm một dự án lan can khác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is working on another railing project.",
+          "text_translation": "Cô đang làm một dự án lan can khác."
+        }
+      ],
+      "evidence_segments": [
+        3,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Lỗi của cô là \"the wrong figure for the weight of the railings\"; tờ giấy nhắc \"Check the railings.\" suốt cả năm."
+      },
+      "audio_data": null,
+      "question_jp": "What does the sticky note on Tracy's screen suggest?",
+      "question_vn": "Tờ giấy nhớ trên màn hình Tracy gợi ý điều gì?",
+      "explanation": "Câu suy luận. Lỗi của cô là \"the wrong figure for the weight of the railings\"; tờ giấy nhắc \"Check the railings.\" suốt cả năm."
+    },
+    {
+      "id": "q_mock1_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Which statement best describes the main message of the story?",
+        "vi": "Câu nào mô tả đúng nhất thông điệp chính của câu chuyện?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Admitting a mistake quickly and honestly is part of being a professional.",
+            "vi": "Nhận lỗi nhanh và trung thực là một phần của tính chuyên nghiệp."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Admitting a mistake quickly and honestly is part of being a professional.",
+          "text_translation": "Nhận lỗi nhanh và trung thực là một phần của tính chuyên nghiệp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Engineers never make mistakes.",
+            "vi": "Kỹ sư không bao giờ mắc lỗi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Engineers never make mistakes.",
+          "text_translation": "Kỹ sư không bao giờ mắc lỗi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Clients should check every report.",
+            "vi": "Khách hàng nên tự kiểm mọi báo cáo."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Clients should check every report.",
+          "text_translation": "Khách hàng nên tự kiểm mọi báo cáo."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is better to work late on Fridays.",
+            "vi": "Tốt hơn là làm muộn vào thứ Sáu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is better to work late on Fridays.",
+          "text_translation": "Tốt hơn là làm muộn vào thứ Sáu."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi ý chính. \"Everyone in this profession makes mistakes. The ones I worry about are the people who hide them.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which statement best describes the main message of the story?",
+      "question_vn": "Câu nào mô tả đúng nhất thông điệp chính của câu chuyện?",
+      "explanation": "Câu hỏi ý chính. \"Everyone in this profession makes mistakes. The ones I worry about are the people who hide them.\""
+    },
+    {
+      "id": "q_mock1_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What does Lydia think is the most interesting part of the story?",
+        "vi": "Lydia cho rằng phần thú vị nhất của câu chuyện là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that phones were locked in pouches",
+            "vi": "rằng điện thoại bị khoá trong túi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that phones were locked in pouches",
+          "text_translation": "rằng điện thoại bị khoá trong túi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that the experiment lasted a week",
+            "vi": "rằng thử nghiệm kéo dài một tuần"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that the experiment lasted a week",
+          "text_translation": "rằng thử nghiệm kéo dài một tuần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that parents were worried",
+            "vi": "rằng phụ huynh lo lắng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that parents were worried",
+          "text_translation": "rằng phụ huynh lo lắng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the idea came from students",
+            "vi": "rằng ý tưởng đến từ học sinh"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "that the idea came from students",
+          "text_translation": "rằng ý tưởng đến từ học sinh"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"The idea came from a group of students themselves, which is, I think, the most interesting part of the story.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Lydia think is the most interesting part of the story?",
+      "question_vn": "Lydia cho rằng phần thú vị nhất của câu chuyện là gì?",
+      "explanation": "\"The idea came from a group of students themselves, which is, I think, the most interesting part of the story.\""
+    },
+    {
+      "id": "q_mock1_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "How did some students feel on Monday?",
+        "vi": "Thứ Hai, một số học sinh cảm thấy thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "excited",
+            "vi": "hào hứng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "excited",
+          "text_translation": "hào hứng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "angry, comparing the week to a prison sentence",
+            "vi": "giận dữ, ví cả tuần như bản án tù"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "angry, comparing the week to a prison sentence",
+          "text_translation": "giận dữ, ví cả tuần như bản án tù"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "bored",
+            "vi": "chán"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "bored",
+          "text_translation": "chán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "relieved",
+            "vi": "nhẹ nhõm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "relieved",
+          "text_translation": "nhẹ nhõm"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Hai học sinh nói thẳng rằng cả tuần là \"basically a prison sentence\"."
+      },
+      "audio_data": null,
+      "question_jp": "How did some students feel on Monday?",
+      "question_vn": "Thứ Hai, một số học sinh cảm thấy thế nào?",
+      "explanation": "Hai học sinh nói thẳng rằng cả tuần là \"basically a prison sentence\"."
+    },
+    {
+      "id": "q_mock1_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What does the example of the hot dog debate show?",
+        "vi": "Ví dụ cuộc tranh biện về bánh mì kẹp xúc xích cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Students were hungry at lunch.",
+            "vi": "Học sinh đói giờ ăn trưa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Students were hungry at lunch.",
+          "text_translation": "Học sinh đói giờ ăn trưa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The debate club needs new topics.",
+            "vi": "Câu lạc bộ tranh biện cần chủ đề mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The debate club needs new topics.",
+          "text_translation": "Câu lạc bộ tranh biện cần chủ đề mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Without phones, students talked and played together more.",
+            "vi": "Không có điện thoại, học sinh trò chuyện và chơi với nhau nhiều hơn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Without phones, students talked and played together more.",
+          "text_translation": "Không có điện thoại, học sinh trò chuyện và chơi với nhau nhiều hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Students argued more angrily.",
+            "vi": "Học sinh cãi nhau gay gắt hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Students argued more angrily.",
+          "text_translation": "Học sinh cãi nhau gay gắt hơn."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng ví dụ. Học sinh vốn \"sat in silence, each looking at a screen\" giờ \"arguing about films, playing cards\". Ví dụ vui này minh hoạ không khí mới."
+      },
+      "audio_data": null,
+      "question_jp": "What does the example of the hot dog debate show?",
+      "question_vn": "Ví dụ cuộc tranh biện về bánh mì kẹp xúc xích cho thấy điều gì?",
+      "explanation": "Câu suy luận về chức năng ví dụ. Học sinh vốn \"sat in silence, each looking at a screen\" giờ \"arguing about films, playing cards\". Ví dụ vui này minh hoạ không khí mới."
+    },
+    {
+      "id": "q_mock1_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "How does Lydia describe the change in her own classes?",
+        "vi": "Lydia mô tả thay đổi trong lớp của cô thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "smaller than she hoped, but real",
+            "vi": "nhỏ hơn cô mong, nhưng có thật"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "smaller than she hoped, but real",
+          "text_translation": "nhỏ hơn cô mong, nhưng có thật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "huge and immediate",
+            "vi": "rất lớn và ngay lập tức"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "huge and immediate",
+          "text_translation": "rất lớn và ngay lập tức"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "none at all",
+            "vi": "không có gì"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "none at all",
+          "text_translation": "không có gì"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "negative",
+            "vi": "tiêu cực"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "negative",
+          "text_translation": "tiêu cực"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"the change was smaller than I had hoped but still real.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does Lydia describe the change in her own classes?",
+      "question_vn": "Lydia mô tả thay đổi trong lớp của cô thế nào?",
+      "explanation": "\"the change was smaller than I had hoped but still real.\""
+    },
+    {
+      "id": "q_mock1_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Why does Lydia mention the student who looks after a younger brother?",
+        "vi": "Vì sao Lydia nhắc tới học sinh chăm em trai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that the experiment was a complete failure",
+            "vi": "để cho thấy thử nghiệm thất bại hoàn toàn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that the experiment was a complete failure",
+          "text_translation": "để cho thấy thử nghiệm thất bại hoàn toàn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to criticize the student's family",
+            "vi": "để chỉ trích gia đình em"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to criticize the student's family",
+          "text_translation": "để chỉ trích gia đình em"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to suggest that only some students need phones",
+            "vi": "để gợi ý chỉ một số học sinh cần điện thoại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to suggest that only some students need phones",
+          "text_translation": "để gợi ý chỉ một số học sinh cần điện thoại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that for some students a phone is a real responsibility, so one rule for everyone has costs",
+            "vi": "để cho thấy với một số học sinh, điện thoại là trách nhiệm thật, nên một luật chung cho mọi người có cái giá của nó"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that for some students a phone is a real responsibility, so one rule for everyone has costs",
+          "text_translation": "để cho thấy với một số học sinh, điện thoại là trách nhiệm thật, nên một luật chung cho mọi người có cái giá của nó"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng. Đây là ví dụ cho \"the experiment had no costs\" là sai: \"For her, the phone was not a distraction but a responsibility.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Lydia mention the student who looks after a younger brother?",
+      "question_vn": "Vì sao Lydia nhắc tới học sinh chăm em trai?",
+      "explanation": "Câu hỏi chức năng. Đây là ví dụ cho \"the experiment had no costs\" là sai: \"For her, the phone was not a distraction but a responsibility.\""
+    },
+    {
+      "id": "q_mock1_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Why does Lydia say that \"should we lock phones away for good?\" is \"the wrong question\"?",
+        "vi": "Vì sao Lydia nói câu \"có nên khoá điện thoại mãi mãi?\" là \"câu hỏi sai\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because a permanent ban treats every phone use as the same, which it is not",
+            "vi": "vì lệnh cấm vĩnh viễn coi mọi cách dùng điện thoại như nhau, mà thực tế không phải vậy"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because a permanent ban treats every phone use as the same, which it is not",
+          "text_translation": "vì lệnh cấm vĩnh viễn coi mọi cách dùng điện thoại như nhau, mà thực tế không phải vậy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the school has already decided",
+            "vi": "vì trường đã quyết rồi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the school has already decided",
+          "text_translation": "vì trường đã quyết rồi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because phones will soon disappear",
+            "vi": "vì điện thoại sắp biến mất"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because phones will soon disappear",
+          "text_translation": "vì điện thoại sắp biến mất"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because students should decide alone",
+            "vi": "vì học sinh nên tự quyết một mình"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because students should decide alone",
+          "text_translation": "vì học sinh nên tự quyết một mình"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"A permanent ban treats every student and every phone in the same way, as if a game and a message from a worried parent were the same thing.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Lydia say that \"should we lock phones away for good?\" is \"the wrong question\"?",
+      "question_vn": "Vì sao Lydia nói câu \"có nên khoá điện thoại mãi mãi?\" là \"câu hỏi sai\"?",
+      "explanation": "\"A permanent ban treats every student and every phone in the same way, as if a game and a message from a worried parent were the same thing.\""
+    },
+    {
+      "id": "q_mock1_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "According to Lydia, what do students find hard?",
+        "vi": "Theo Lydia, học sinh thấy điều gì khó?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "living without phones for a few hours",
+            "vi": "sống thiếu điện thoại vài tiếng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "living without phones for a few hours",
+          "text_translation": "sống thiếu điện thoại vài tiếng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "being the only one without a phone",
+            "vi": "là người duy nhất không có điện thoại"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "being the only one without a phone",
+          "text_translation": "là người duy nhất không có điện thoại"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "finishing their reading",
+            "vi": "đọc xong bài"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "finishing their reading",
+          "text_translation": "đọc xong bài"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "eating lunch",
+            "vi": "ăn trưa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "eating lunch",
+          "text_translation": "ăn trưa"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"most students are perfectly able to live without their phones for a few hours; what they find hard is being the only one who does it.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Lydia, what do students find hard?",
+      "question_vn": "Theo Lydia, học sinh thấy điều gì khó?",
+      "explanation": "\"most students are perfectly able to live without their phones for a few hours; what they find hard is being the only one who does it.\""
+    },
+    {
+      "id": "q_mock1_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Which of these is NOT part of Lydia's proposal?",
+        "vi": "Điều nào KHÔNG nằm trong đề xuất của Lydia?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "phone-free classrooms",
+            "vi": "lớp học không điện thoại"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "phone-free classrooms",
+          "text_translation": "lớp học không điện thoại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "phones allowed at lunch",
+            "vi": "giờ ăn trưa được dùng điện thoại"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "phones allowed at lunch",
+          "text_translation": "giờ ăn trưa được dùng điện thoại"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a way for families to reach the office in an emergency",
+            "vi": "một cách để gia đình liên lạc với văn phòng khi khẩn cấp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a way for families to reach the office in an emergency",
+          "text_translation": "một cách để gia đình liên lạc với văn phòng khi khẩn cấp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "locking phones away all day, every day",
+            "vi": "khoá điện thoại cả ngày, mọi ngày"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "locking phones away all day, every day",
+          "text_translation": "khoá điện thoại cả ngày, mọi ngày"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Đề xuất là \"phone-free classrooms, phones allowed at lunch, and a simple way for families to reach the office\". Cô phản đối lệnh cấm cả ngày."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT part of Lydia's proposal?",
+      "question_vn": "Điều nào KHÔNG nằm trong đề xuất của Lydia?",
+      "explanation": "Đề xuất là \"phone-free classrooms, phones allowed at lunch, and a simple way for families to reach the office\". Cô phản đối lệnh cấm cả ngày."
+    },
+    {
+      "id": "q_mock1_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What does the final sentence, \"it was students who suggested the experiment in the first place\", support?",
+        "vi": "Câu cuối \"chính học sinh là người đề xuất thử nghiệm ngay từ đầu\" củng cố ý nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Students should not have phones.",
+            "vi": "Học sinh không nên có điện thoại."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Students should not have phones.",
+          "text_translation": "Học sinh không nên có điện thoại."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Teachers should make all the rules.",
+            "vi": "Giáo viên nên đặt mọi nội quy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Teachers should make all the rules.",
+          "text_translation": "Giáo viên nên đặt mọi nội quy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Students can be trusted to help write the rules.",
+            "vi": "Có thể tin học sinh cùng viết nội quy."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Students can be trusted to help write the rules.",
+          "text_translation": "Có thể tin học sinh cùng viết nội quy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The experiment should be repeated every month.",
+            "vi": "Thử nghiệm nên lặp lại mỗi tháng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The experiment should be repeated every month.",
+          "text_translation": "Thử nghiệm nên lặp lại mỗi tháng."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc lập luận. Câu cuối là bằng chứng cho \"the rules should be written with students, not just for them.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the final sentence, \"it was students who suggested the experiment in the first place\", support?",
+      "question_vn": "Câu cuối \"chính học sinh là người đề xuất thử nghiệm ngay từ đầu\" củng cố ý nào?",
+      "explanation": "Câu hỏi cấu trúc lập luận. Câu cuối là bằng chứng cho \"the rules should be written with students, not just for them.\""
+    },
+    {
+      "id": "q_mock1_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "How is Lydia's essay organized?",
+        "vi": "Bài của Lydia được tổ chức thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a list of rules followed by punishments",
+            "vi": "danh sách nội quy rồi tới hình phạt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a list of rules followed by punishments",
+          "text_translation": "danh sách nội quy rồi tới hình phạt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "an experience, its benefits and costs, a question asked in a new way, and a proposal",
+            "vi": "một trải nghiệm, lợi ích và cái giá, một câu hỏi được đặt lại, rồi một đề xuất"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "an experience, its benefits and costs, a question asked in a new way, and a proposal",
+          "text_translation": "một trải nghiệm, lợi ích và cái giá, một câu hỏi được đặt lại, rồi một đề xuất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a story told only from a student's point of view",
+            "vi": "một câu chuyện chỉ kể từ góc nhìn học sinh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a story told only from a student's point of view",
+          "text_translation": "một câu chuyện chỉ kể từ góc nhìn học sinh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a comparison of two schools",
+            "vi": "so sánh hai trường"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a comparison of two schools",
+          "text_translation": "so sánh hai trường"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        7,
+        9,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc. Thử nghiệm → lợi ích → \"It would be dishonest, however\" → \"the wrong question\" → \"My proposal is modest\"."
+      },
+      "audio_data": null,
+      "question_jp": "How is Lydia's essay organized?",
+      "question_vn": "Bài của Lydia được tổ chức thế nào?",
+      "explanation": "Câu hỏi cấu trúc. Thử nghiệm → lợi ích → \"It would be dishonest, however\" → \"the wrong question\" → \"My proposal is modest\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_mock1_reading_1",
+      "set_type": "reading",
+      "name": "Phần 1 — Thông báo khai trương studio của Chloe",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_mock1_01",
+      "question_ids": [
+        "q_mock1_001",
+        "q_mock1_002",
+        "q_mock1_003",
+        "q_mock1_004",
+        "q_mock1_005",
+        "q_mock1_006",
+        "q_mock1_007",
+        "q_mock1_008",
+        "q_mock1_009",
+        "q_mock1_010"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_2",
+      "set_type": "reading",
+      "name": "Phần 2 — Bài khoa học: quạ nhớ mặt người",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_mock1_02",
+      "question_ids": [
+        "q_mock1_011",
+        "q_mock1_012",
+        "q_mock1_013",
+        "q_mock1_014",
+        "q_mock1_015",
+        "q_mock1_016",
+        "q_mock1_017",
+        "q_mock1_018",
+        "q_mock1_019",
+        "q_mock1_020"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_3",
+      "set_type": "reading",
+      "name": "Phần 3 — Truyện: Tracy phát hiện lỗi của chính mình",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_mock1_03",
+      "question_ids": [
+        "q_mock1_021",
+        "q_mock1_022",
+        "q_mock1_023",
+        "q_mock1_024",
+        "q_mock1_025",
+        "q_mock1_026",
+        "q_mock1_027",
+        "q_mock1_028",
+        "q_mock1_029",
+        "q_mock1_030"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_4",
+      "set_type": "reading",
+      "name": "Phần 4 — Bài quan điểm của cô Lydia Park về tuần không điện thoại",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_mock1_04",
+      "question_ids": [
+        "q_mock1_031",
+        "q_mock1_032",
+        "q_mock1_033",
+        "q_mock1_034",
+        "q_mock1_035",
+        "q_mock1_036",
+        "q_mock1_037",
+        "q_mock1_038",
+        "q_mock1_039",
+        "q_mock1_040"
+      ]
+    }
+  ]
+}
