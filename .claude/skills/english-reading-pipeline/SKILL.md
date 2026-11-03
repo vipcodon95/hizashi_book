@@ -48,6 +48,7 @@ Folder chương: `u<NN>_<slug>/` chứa đúng 2 file: `u<NN>_<Name>_BaiTap.json
    - **Mọi đoạn chữ là bản đồ ngôn ngữ `i18n {en, vi}`** (sau này thêm `ja`, `th`). Bảng trường ở mục 5 của kế hoạch. Nhãn mục không viết trong nội dung, vì script lấy từ `LABELS`.
    - `reading_passages[].narrator`: tên nhân vật viết bài, hoặc `"announcer"`. Đây là giọng TTS cho các câu không có speaker. Bắt buộc phải có.
    - `reading_passages[].segments`: mỗi phần tử `{n, para, kind, speaker, label, i18n}`. 1 segment = 1 câu; lượt thoại rất ngắn được để chung. `speaker` tách khỏi câu.
+   - Câu hỏi **không trỏ số câu** ("In sentence 5…"), vì app không đánh số câu. Hãy trích nguyên văn câu cần hỏi.
    - `questions[]`: `i18n`, 4 `choices[].i18n`, đúng 1 đáp án; `evidence_segments`; `explanation_i18n` có trích câu tiếng Anh trong ngoặc kép; đáp án rải đều A–D.
 3. **Chạy 3 lệnh, lặp tới khi sạch:**
    ```bash

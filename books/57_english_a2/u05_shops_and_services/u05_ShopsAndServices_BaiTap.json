@@ -1,0 +1,1288 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 5 — Shops and services",
+      "vi": "Cửa hàng và dịch vụ"
+    },
+    "title": "Unit 5 — Shops and services",
+    "title_vn": "Cửa hàng và dịch vụ",
+    "module_code": "57_u05",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u05",
+    "curriculum_sheets": [
+      "a2.17",
+      "a2.18",
+      "a2.19",
+      "a2.20"
+    ],
+    "characters": [
+      "Megan Carter",
+      "Tina Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 12, năm 2 (mùa lễ cuối năm)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "too / enough, too much / too many, much / a little / a few, Could you / Could I / Would you / Will you; thông tin cụ thể, từ trong ngữ cảnh, quy chiếu, suy luận tính cách, tính giờ mở cửa",
+    "description_vn": "Megan và Tina đổi chiếc áo len quà dịp lễ bị quá rộng ở một cửa hàng quần áo (hội thoại với người bán Marcus), và thông báo giờ mở cửa dịp lễ của Bưu điện Thành phố và Ngân hàng Maple Street. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 5 khoá A2 · phiếu `a2.17` – `a2.20` (quá rộng / không đủ rộng, đổi trả hàng, ở ngân hàng và bưu điện, nhờ vả lịch sự)."
+    },
+    "objective_i18n": {
+      "vi": "đọc đoạn hội thoại Megan và Tina đổi chiếc áo len quà dịp lễ ở cửa hàng, và thông báo giờ mở cửa dịp lễ của bưu điện và ngân hàng khu Maple Street; hiểu too + tính từ / not + tính từ + enough, too much / too many, much / a little / a few, câu nhờ vả và xin phép lịch sự Could you…? / Could I…? / Would you…? / Will you…?; tìm thông tin cụ thể, hiểu từ trong ngữ cảnh, quy chiếu (that little piece of paper, it), suy ra tính cách nhân vật và tính được giờ mở cửa."
+    },
+    "extra_words": [
+      {
+        "word": "sleeve",
+        "i18n": {
+          "vi": "tay áo"
+        }
+      },
+      {
+        "word": "medium",
+        "i18n": {
+          "vi": "cỡ vừa (size M)"
+        }
+      },
+      {
+        "word": "honey / sweetie",
+        "i18n": {
+          "vi": "con yêu, cưng (cách gọi thân mật)"
+        }
+      },
+      {
+        "word": "growing",
+        "i18n": {
+          "vi": "đang lớn"
+        }
+      },
+      {
+        "word": "package",
+        "i18n": {
+          "vi": "bưu kiện, gói hàng"
+        }
+      },
+      {
+        "word": "corner",
+        "i18n": {
+          "vi": "góc (phong bì, phố)"
+        }
+      },
+      {
+        "word": "foreign money",
+        "i18n": {
+          "vi": "ngoại tệ"
+        }
+      },
+      {
+        "word": "safer",
+        "i18n": {
+          "vi": "an toàn hơn (so sánh hơn của safe)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "just look around",
+          "vi": "chỉ xem qua thôi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "too big for …",
+          "vi": "quá rộng so với …"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take something back",
+          "vi": "mang đồ đến trả lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "exchange A for B",
+          "vi": "đổi A lấy B"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the same price",
+          "vi": "cùng giá"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take out cash",
+          "vi": "rút tiền mặt"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**too + tính từ** = quá, vượt mức cần (`too big`, `much too long`); **not + tính từ + enough** = chưa đủ (`isn't big enough` = quá chật). `a little long` = hơi dài một chút, nhẹ hơn nhiều so với `much too long`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**too many** + danh từ đếm được số nhiều (`too many gloves`), **too much** + danh từ không đếm được (`too much money`); **a few** + số nhiều (`a few mediums`, `a few days`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Nhờ vả và xin phép: `Could you …?` = nhờ người khác làm (lịch sự); `Could I …?` = xin phép mình làm; `Would you like …?` = mời; `Will you …?` = nhờ thẳng, thân mật (Tina nói với mẹ)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Thông báo nhiều nơi, nhiều mốc giờ: kẻ nhanh bảng *nơi → giờ thường → giờ dịp lễ → ngày đóng cửa*. Phương án nhiễu hay lấy giờ của nơi kia hoặc giờ thường ngày."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Hội thoại: câu hỏi \"vì sao\" thường có đáp án ở lượt thoại ngay sau, mở đầu bằng `Because …` hoặc ngay sau lời từ chối (`Not today, …`)."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u05_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Megan và Tina đổi áo len ở cửa hàng quần áo"
+      },
+      "narrator": "announcer",
+      "title": "Too Big for the Holidays",
+      "category": "dialogue",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Too Big for the Holidays",
+            "vi": "Quá rộng cho dịp lễ"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Marcus",
+          "label": null,
+          "i18n": {
+            "en": "Good morning! Are you just looking around, or can I help you?",
+            "vi": "Chào buổi sáng! Chị chỉ xem qua thôi, hay tôi giúp gì được ạ?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Good morning. I bought this sweater here as a holiday gift, but it's too big for my daughter.",
+            "vi": "Chào anh. Tôi mua chiếc áo len này ở đây làm quà dịp lễ, nhưng nó quá rộng so với con gái tôi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Marcus",
+          "label": null,
+          "i18n": {
+            "en": "I'm sorry to hear that. Could I see the receipt, please?",
+            "vi": "Tiếc quá. Tôi xem hoá đơn được không ạ?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Why, Mom? Why does he need that little piece of paper?",
+            "vi": "Sao thế mẹ? Sao chú ấy cần mẩu giấy nhỏ đó ạ?"
+          }
+        },
+        {
+          "n": 6,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Because shops usually ask for it when you take something back, sweetie.",
+            "vi": "Vì các cửa hàng thường hỏi nó khi mình mang đồ đến trả, con yêu."
+          }
+        },
+        {
+          "n": 7,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Marcus",
+          "label": null,
+          "i18n": {
+            "en": "That's right. This one is a large, and the sleeves are much too long.",
+            "vi": "Đúng vậy. Chiếc này là cỡ lớn, và tay áo dài quá nhiều."
+          }
+        },
+        {
+          "n": 8,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Marcus",
+          "label": null,
+          "i18n": {
+            "en": "A small isn't big enough for a growing girl, so would you like to try a medium?",
+            "vi": "Cỡ nhỏ thì không đủ rộng cho một cô bé đang lớn, nên cháu có muốn thử cỡ vừa không?"
+          }
+        },
+        {
+          "n": 9,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Yes, please, but in red! Blue is my brother's color, not mine.",
+            "vi": "Có ạ, nhưng màu đỏ nhé! Màu xanh dương là màu của anh cháu, không phải của cháu."
+          }
+        },
+        {
+          "n": 10,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Marcus",
+          "label": null,
+          "i18n": {
+            "en": "We have only a few mediums left in red, but here's one.",
+            "vi": "Cỡ vừa màu đỏ chỉ còn vài chiếc thôi, nhưng đây có một chiếc."
+          }
+        },
+        {
+          "n": 11,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Look, Mom! The sleeves are a little long, but it's really warm.",
+            "vi": "Mẹ nhìn này! Tay áo hơi dài một chút, nhưng áo ấm lắm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "It's perfect. Could I exchange the large for this one, then?",
+            "vi": "Vừa đẹp. Vậy tôi đổi chiếc cỡ lớn lấy chiếc này được không?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": "Marcus",
+          "label": null,
+          "i18n": {
+            "en": "Of course. They're the same price, so you don't have to pay any more.",
+            "vi": "Tất nhiên rồi. Hai chiếc cùng giá, nên chị không phải trả thêm gì."
+          }
+        },
+        {
+          "n": 14,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Mom, will you buy me these wool gloves, too? They're so soft!",
+            "vi": "Mẹ ơi, mẹ mua cho con đôi găng tay len này nữa nhé? Mềm quá!"
+          }
+        },
+        {
+          "n": 15,
+          "para": 15,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Not today, honey. You have too many gloves already, and we spent too much money this month.",
+            "vi": "Hôm nay thì không, con yêu. Con có quá nhiều găng tay rồi, và tháng này nhà mình tiêu quá nhiều tiền rồi."
+          }
+        }
+      ],
+      "content_ja": "Too Big for the Holidays\n\nMarcus: Good morning! Are you just looking around, or can I help you?\n\nMegan: Good morning. I bought this sweater here as a holiday gift, but it's too big for my daughter.\n\nMarcus: I'm sorry to hear that. Could I see the receipt, please?\n\nTina: Why, Mom? Why does he need that little piece of paper?\n\nMegan: Because shops usually ask for it when you take something back, sweetie.\n\nMarcus: That's right. This one is a large, and the sleeves are much too long.\n\nMarcus: A small isn't big enough for a growing girl, so would you like to try a medium?\n\nTina: Yes, please, but in red! Blue is my brother's color, not mine.\n\nMarcus: We have only a few mediums left in red, but here's one.\n\nTina: Look, Mom! The sleeves are a little long, but it's really warm.\n\nMegan: It's perfect. Could I exchange the large for this one, then?\n\nMarcus: Of course. They're the same price, so you don't have to pay any more.\n\nTina: Mom, will you buy me these wool gloves, too? They're so soft!\n\nMegan: Not today, honey. You have too many gloves already, and we spent too much money this month.",
+      "translation_vn": "(1) Quá rộng cho dịp lễ\n(2) Marcus: Chào buổi sáng! Chị chỉ xem qua thôi, hay tôi giúp gì được ạ?\n(3) Megan: Chào anh. Tôi mua chiếc áo len này ở đây làm quà dịp lễ, nhưng nó quá rộng so với con gái tôi.\n(4) Marcus: Tiếc quá. Tôi xem hoá đơn được không ạ?\n(5) Tina: Sao thế mẹ? Sao chú ấy cần mẩu giấy nhỏ đó ạ?\n(6) Megan: Vì các cửa hàng thường hỏi nó khi mình mang đồ đến trả, con yêu.\n(7) Marcus: Đúng vậy. Chiếc này là cỡ lớn, và tay áo dài quá nhiều.\n(8) Marcus: Cỡ nhỏ thì không đủ rộng cho một cô bé đang lớn, nên cháu có muốn thử cỡ vừa không?\n(9) Tina: Có ạ, nhưng màu đỏ nhé! Màu xanh dương là màu của anh cháu, không phải của cháu.\n(10) Marcus: Cỡ vừa màu đỏ chỉ còn vài chiếc thôi, nhưng đây có một chiếc.\n(11) Tina: Mẹ nhìn này! Tay áo hơi dài một chút, nhưng áo ấm lắm.\n(12) Megan: Vừa đẹp. Vậy tôi đổi chiếc cỡ lớn lấy chiếc này được không?\n(13) Marcus: Tất nhiên rồi. Hai chiếc cùng giá, nên chị không phải trả thêm gì.\n(14) Tina: Mẹ ơi, mẹ mua cho con đôi găng tay len này nữa nhé? Mềm quá!\n(15) Megan: Hôm nay thì không, con yêu. Con có quá nhiều găng tay rồi, và tháng này nhà mình tiêu quá nhiều tiền rồi.",
+      "word_count": 190,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.17",
+        "a2.18",
+        "a2.19",
+        "a2.20"
+      ]
+    },
+    {
+      "id": "passage_u05_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Thông báo giờ mở cửa dịp lễ của bưu điện và ngân hàng"
+      },
+      "narrator": "announcer",
+      "title": "Holiday Hours on Maple Street",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Holiday Hours on Maple Street",
+            "vi": "Giờ mở cửa dịp lễ ở khu Maple Street"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The City Post Office next to the library usually closes at five on weekdays and at one on Saturdays.",
+            "vi": "Bưu điện Thành phố cạnh thư viện thường đóng cửa lúc năm giờ vào các ngày trong tuần và lúc một giờ vào thứ Bảy."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From Monday, December eleventh, to Saturday, December twenty-third, it will stay open until seven in the evening.",
+            "vi": "Từ thứ Hai, ngày mười một tháng Mười Hai, đến thứ Bảy, ngày hai mươi ba tháng Mười Hai, bưu điện sẽ mở cửa đến bảy giờ tối."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It will be closed on Monday, December twenty-fifth, and on Monday, January first.",
+            "vi": "Bưu điện sẽ đóng cửa vào thứ Hai, ngày hai mươi lăm tháng Mười Hai, và thứ Hai, ngày một tháng Một."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please send gifts early, because the lines are longest in the week before the holidays.",
+            "vi": "Xin hãy gửi quà sớm, vì hàng người xếp dài nhất vào tuần trước kỳ nghỉ lễ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Could you also write the address clearly and put your own address in the top left corner?",
+            "vi": "Bạn cũng vui lòng viết địa chỉ thật rõ và ghi địa chỉ của chính mình ở góc trên bên trái nhé?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please do not send cash in an envelope, because a check is much safer.",
+            "vi": "Xin đừng gửi tiền mặt trong phong bì, vì séc an toàn hơn nhiều."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Bank, on the corner near Harriet's, keeps its usual hours: nine to five on weekdays and nine to noon on Saturdays.",
+            "vi": "Ngân hàng Maple Street, ở góc phố gần quán Harriet's, vẫn giữ giờ thường lệ: chín giờ đến năm giờ vào các ngày trong tuần và chín giờ đến trưa vào thứ Bảy."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, it will close at two o'clock on Friday, December twenty-ninth.",
+            "vi": "Tuy nhiên, ngân hàng sẽ đóng cửa lúc hai giờ chiều thứ Sáu, ngày hai mươi chín tháng Mười Hai."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Like the post office, it will be closed on December twenty-fifth and January first.",
+            "vi": "Giống bưu điện, ngân hàng sẽ đóng cửa vào ngày hai mươi lăm tháng Mười Hai và ngày một tháng Một."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can take out cash at the machine outside twenty-four hours a day.",
+            "vi": "Bạn có thể rút tiền mặt ở máy bên ngoài suốt hai mươi bốn giờ mỗi ngày."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Foreign money takes a few days, so could you order it three days before your trip?",
+            "vi": "Ngoại tệ cần vài ngày mới có, nên bạn vui lòng đặt trước chuyến đi ba ngày nhé?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Happy holidays from the post office and the bank!",
+            "vi": "Bưu điện và ngân hàng chúc bạn kỳ nghỉ lễ vui vẻ!"
+          }
+        }
+      ],
+      "content_ja": "Holiday Hours on Maple Street\n\nThe City Post Office next to the library usually closes at five on weekdays and at one on Saturdays. From Monday, December eleventh, to Saturday, December twenty-third, it will stay open until seven in the evening. It will be closed on Monday, December twenty-fifth, and on Monday, January first.\n\nPlease send gifts early, because the lines are longest in the week before the holidays. Could you also write the address clearly and put your own address in the top left corner? Please do not send cash in an envelope, because a check is much safer.\n\nMaple Street Bank, on the corner near Harriet's, keeps its usual hours: nine to five on weekdays and nine to noon on Saturdays. However, it will close at two o'clock on Friday, December twenty-ninth. Like the post office, it will be closed on December twenty-fifth and January first.\n\nYou can take out cash at the machine outside twenty-four hours a day. Foreign money takes a few days, so could you order it three days before your trip?\n\nHappy holidays from the post office and the bank!",
+      "translation_vn": "(1) Giờ mở cửa dịp lễ ở khu Maple Street\n(2) Bưu điện Thành phố cạnh thư viện thường đóng cửa lúc năm giờ vào các ngày trong tuần và lúc một giờ vào thứ Bảy.\n(3) Từ thứ Hai, ngày mười một tháng Mười Hai, đến thứ Bảy, ngày hai mươi ba tháng Mười Hai, bưu điện sẽ mở cửa đến bảy giờ tối.\n(4) Bưu điện sẽ đóng cửa vào thứ Hai, ngày hai mươi lăm tháng Mười Hai, và thứ Hai, ngày một tháng Một.\n(5) Xin hãy gửi quà sớm, vì hàng người xếp dài nhất vào tuần trước kỳ nghỉ lễ.\n(6) Bạn cũng vui lòng viết địa chỉ thật rõ và ghi địa chỉ của chính mình ở góc trên bên trái nhé?\n(7) Xin đừng gửi tiền mặt trong phong bì, vì séc an toàn hơn nhiều.\n(8) Ngân hàng Maple Street, ở góc phố gần quán Harriet's, vẫn giữ giờ thường lệ: chín giờ đến năm giờ vào các ngày trong tuần và chín giờ đến trưa vào thứ Bảy.\n(9) Tuy nhiên, ngân hàng sẽ đóng cửa lúc hai giờ chiều thứ Sáu, ngày hai mươi chín tháng Mười Hai.\n(10) Giống bưu điện, ngân hàng sẽ đóng cửa vào ngày hai mươi lăm tháng Mười Hai và ngày một tháng Một.\n(11) Bạn có thể rút tiền mặt ở máy bên ngoài suốt hai mươi bốn giờ mỗi ngày.\n(12) Ngoại tệ cần vài ngày mới có, nên bạn vui lòng đặt trước chuyến đi ba ngày nhé?\n(13) Bưu điện và ngân hàng chúc bạn kỳ nghỉ lễ vui vẻ!",
+      "word_count": 191,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.17",
+        "a2.18",
+        "a2.19",
+        "a2.20"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u05_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "What is the problem with the sweater?",
+        "vi": "Chiếc áo len có vấn đề gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is the wrong color.",
+            "vi": "Nó sai màu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is the wrong color.",
+          "text_translation": "Nó sai màu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is too big for Tina.",
+            "vi": "Nó quá rộng so với Tina."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It is too big for Tina.",
+          "text_translation": "Nó quá rộng so với Tina."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is not big enough for Tina.",
+            "vi": "Nó không đủ rộng cho Tina."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is not big enough for Tina.",
+          "text_translation": "Nó không đủ rộng cho Tina."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is not warm enough.",
+            "vi": "Nó không đủ ấm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is not warm enough.",
+          "text_translation": "Nó không đủ ấm."
+        }
+      ],
+      "evidence_segments": [
+        3,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"I bought this sweater here as a holiday gift, but it's too big for my daughter.\" Người bán cũng thấy \"the sleeves are much too long\". \"Not big enough\" là điều người bán nói về cỡ nhỏ (câu 8), không phải chiếc áo Megan mang đến. Tina chỉ nói về màu khi chọn chiếc mới, và chính Tina khen \"it's really warm\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "too + tính từ = quá (vượt mức cần); not + tính từ + enough = chưa đủ. Hai cấu trúc ngược nghĩa nhau, phương án nhiễu hay tráo hai cái này."
+      },
+      "question_jp": "What is the problem with the sweater?",
+      "question_vn": "Chiếc áo len có vấn đề gì?",
+      "explanation": "\"I bought this sweater here as a holiday gift, but it's too big for my daughter.\" Người bán cũng thấy \"the sleeves are much too long\". \"Not big enough\" là điều người bán nói về cỡ nhỏ (câu 8), không phải chiếc áo Megan mang đến. Tina chỉ nói về màu khi chọn chiếc mới, và chính Tina khen \"it's really warm\".",
+      "tip": "too + tính từ = quá (vượt mức cần); not + tính từ + enough = chưa đủ. Hai cấu trúc ngược nghĩa nhau, phương án nhiễu hay tráo hai cái này."
+    },
+    {
+      "id": "q_u05_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "In \"Why does he need that little piece of paper?\", what is \"that little piece of paper\"?",
+        "vi": "Trong câu \"Why does he need that little piece of paper?\", \"that little piece of paper\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the sweater",
+            "vi": "chiếc áo len"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the sweater",
+          "text_translation": "chiếc áo len"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a holiday card",
+            "vi": "một tấm thiệp mừng lễ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a holiday card",
+          "text_translation": "một tấm thiệp mừng lễ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the receipt",
+            "vi": "tờ hoá đơn"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the receipt",
+          "text_translation": "tờ hoá đơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the price",
+            "vi": "giá tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the price",
+          "text_translation": "giá tiền"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Ngay trước đó người bán hỏi \"Could I see the receipt, please?\". Tina thắc mắc \"Why does he need that little piece of paper?\", và Megan giải thích \"shops usually ask for it when you take something back\". Mẩu giấy đó là hoá đơn. Áo len không phải mẩu giấy; bài không nhắc tới thiệp; giá tiền chỉ được nói ở câu 13."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cụm chỉ định (that + danh từ) thường thay cho thứ vừa nhắc ở câu ngay trước. Tìm danh từ ở câu trước hợp với \"piece of paper\"."
+      },
+      "question_jp": "In \"Why does he need that little piece of paper?\", what is \"that little piece of paper\"?",
+      "question_vn": "Trong câu \"Why does he need that little piece of paper?\", \"that little piece of paper\" là gì?",
+      "explanation": "Ngay trước đó người bán hỏi \"Could I see the receipt, please?\". Tina thắc mắc \"Why does he need that little piece of paper?\", và Megan giải thích \"shops usually ask for it when you take something back\". Mẩu giấy đó là hoá đơn. Áo len không phải mẩu giấy; bài không nhắc tới thiệp; giá tiền chỉ được nói ở câu 13.",
+      "tip": "Cụm chỉ định (that + danh từ) thường thay cho thứ vừa nhắc ở câu ngay trước. Tìm danh từ ở câu trước hợp với \"piece of paper\"."
+    },
+    {
+      "id": "q_u05_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "Marcus says, \"A small isn't big enough for a growing girl.\" This means that a small …",
+        "vi": "Marcus nói: \"A small isn't big enough for a growing girl.\" Câu này nghĩa là cỡ nhỏ …"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "would be too small for Tina",
+            "vi": "sẽ quá chật với Tina"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "would be too small for Tina",
+          "text_translation": "sẽ quá chật với Tina"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "would be too long for Tina",
+            "vi": "sẽ quá dài với Tina"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "would be too long for Tina",
+          "text_translation": "sẽ quá dài với Tina"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "would be the same as a large",
+            "vi": "sẽ giống cỡ lớn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "would be the same as a large",
+          "text_translation": "sẽ giống cỡ lớn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "would cost too much money",
+            "vi": "sẽ tốn quá nhiều tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "would cost too much money",
+          "text_translation": "sẽ tốn quá nhiều tiền"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"A small isn't big enough for a growing girl, so would you like to try a medium?\" Not big enough = chưa đủ rộng, tức là quá chật, nhất là khi Tina còn đang lớn. \"Too long\" là chuyện tay áo của cỡ lớn (câu 7). Cỡ nhỏ không thể giống cỡ lớn. Chuyện \"too much money\" là lời Megan nói về đôi găng tay (câu 15)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "not big enough = too small; not warm enough = too cold. Đổi enough sang too + tính từ ngược nghĩa để kiểm tra."
+      },
+      "question_jp": "Marcus says, \"A small isn't big enough for a growing girl.\" This means that a small …",
+      "question_vn": "Marcus nói: \"A small isn't big enough for a growing girl.\" Câu này nghĩa là cỡ nhỏ …",
+      "explanation": "\"A small isn't big enough for a growing girl, so would you like to try a medium?\" Not big enough = chưa đủ rộng, tức là quá chật, nhất là khi Tina còn đang lớn. \"Too long\" là chuyện tay áo của cỡ lớn (câu 7). Cỡ nhỏ không thể giống cỡ lớn. Chuyện \"too much money\" là lời Megan nói về đôi găng tay (câu 15).",
+      "tip": "not big enough = too small; not warm enough = too cold. Đổi enough sang too + tính từ ngược nghĩa để kiểm tra."
+    },
+    {
+      "id": "q_u05_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "What can we guess about Tina from the conversation?",
+        "vi": "Từ cuộc hội thoại, ta đoán được gì về Tina?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wants a blue sweater like her brother's.",
+            "vi": "Cô bé muốn một chiếc áo len xanh dương giống của anh trai."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wants a blue sweater like her brother's.",
+          "text_translation": "Cô bé muốn một chiếc áo len xanh dương giống của anh trai."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks the medium is too small.",
+            "vi": "Cô bé nghĩ cỡ vừa quá chật."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She thinks the medium is too small.",
+          "text_translation": "Cô bé nghĩ cỡ vừa quá chật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She doesn't like wool clothes.",
+            "vi": "Cô bé không thích đồ len."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She doesn't like wool clothes.",
+          "text_translation": "Cô bé không thích đồ len."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She cares about the color of her clothes.",
+            "vi": "Cô bé để ý tới màu sắc quần áo của mình."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She cares about the color of her clothes.",
+          "text_translation": "Cô bé để ý tới màu sắc quần áo của mình."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        11,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được: khi được mời thử cỡ vừa, Tina nói ngay \"Yes, please, but in red! Blue is my brother's color, not mine.\" Cô bé chỉ muốn màu đỏ, không muốn màu xanh của anh. Tina khen cỡ vừa \"it's really warm\", chỉ hơi dài tay, nên không thấy chật. Tina còn xin mua \"these wool gloves\" vì \"They're so soft!\", nên không phải không thích len."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận về tính cách: tìm câu nhân vật tự đặt điều kiện (but in red!) hoặc từ chối một thứ (not mine)."
+      },
+      "question_jp": "What can we guess about Tina from the conversation?",
+      "question_vn": "Từ cuộc hội thoại, ta đoán được gì về Tina?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được: khi được mời thử cỡ vừa, Tina nói ngay \"Yes, please, but in red! Blue is my brother's color, not mine.\" Cô bé chỉ muốn màu đỏ, không muốn màu xanh của anh. Tina khen cỡ vừa \"it's really warm\", chỉ hơi dài tay, nên không thấy chật. Tina còn xin mua \"these wool gloves\" vì \"They're so soft!\", nên không phải không thích len.",
+      "tip": "Câu suy luận về tính cách: tìm câu nhân vật tự đặt điều kiện (but in red!) hoặc từ chối một thứ (not mine)."
+    },
+    {
+      "id": "q_u05_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_01",
+      "i18n": {
+        "en": "Why does Megan say no to the gloves?",
+        "vi": "Vì sao Megan không mua đôi găng tay?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are not soft enough.",
+            "vi": "Chúng không đủ mềm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are not soft enough.",
+          "text_translation": "Chúng không đủ mềm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina has too many gloves, and they spent too much money.",
+            "vi": "Tina có quá nhiều găng tay rồi, và nhà đã tiêu quá nhiều tiền."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Tina has too many gloves, and they spent too much money.",
+          "text_translation": "Tina có quá nhiều găng tay rồi, và nhà đã tiêu quá nhiều tiền."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The shop has only a few in red.",
+            "vi": "Cửa hàng chỉ còn vài đôi màu đỏ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The shop has only a few in red.",
+          "text_translation": "Cửa hàng chỉ còn vài đôi màu đỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has to pay more for the sweater.",
+            "vi": "Cô ấy phải trả thêm tiền cho chiếc áo len."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has to pay more for the sweater.",
+          "text_translation": "Cô ấy phải trả thêm tiền cho chiếc áo len."
+        }
+      ],
+      "evidence_segments": [
+        13,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Not today, honey. You have too many gloves already, and we spent too much money this month.\" Tina khen găng tay \"so soft\", nên không phải vì không đủ mềm. \"Only a few … in red\" là chuyện áo cỡ vừa (câu 10). Đổi áo không tốn thêm: \"They're the same price, so you don't have to pay any more.\""
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "too many + danh từ đếm được số nhiều (gloves); too much + danh từ không đếm được (money). Megan nói thẳng lý do ngay sau \"Not today\"."
+      },
+      "question_jp": "Why does Megan say no to the gloves?",
+      "question_vn": "Vì sao Megan không mua đôi găng tay?",
+      "explanation": "\"Not today, honey. You have too many gloves already, and we spent too much money this month.\" Tina khen găng tay \"so soft\", nên không phải vì không đủ mềm. \"Only a few … in red\" là chuyện áo cỡ vừa (câu 10). Đổi áo không tốn thêm: \"They're the same price, so you don't have to pay any more.\"",
+      "tip": "too many + danh từ đếm được số nhiều (gloves); too much + danh từ không đếm được (money). Megan nói thẳng lý do ngay sau \"Not today\"."
+    },
+    {
+      "id": "q_u05_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "What is the notice mainly about?",
+        "vi": "Thông báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "holiday opening hours and advice for the post office and the bank",
+            "vi": "giờ mở cửa dịp lễ và lời khuyên của bưu điện và ngân hàng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "holiday opening hours and advice for the post office and the bank",
+          "text_translation": "giờ mở cửa dịp lễ và lời khuyên của bưu điện và ngân hàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a big sale for holiday gifts",
+            "vi": "đợt giảm giá lớn cho quà dịp lễ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a big sale for holiday gifts",
+          "text_translation": "đợt giảm giá lớn cho quà dịp lễ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to open a bank account",
+            "vi": "cách mở tài khoản ngân hàng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to open a bank account",
+          "text_translation": "cách mở tài khoản ngân hàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the new library next to the post office",
+            "vi": "thư viện mới cạnh bưu điện"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the new library next to the post office",
+          "text_translation": "thư viện mới cạnh bưu điện"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        2,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề là \"Holiday Hours on Maple Street\". Đoạn đầu nói giờ của \"The City Post Office\", đoạn sau nói giờ của \"Maple Street Bank\", kèm lời nhắn gửi quà sớm, ghi địa chỉ, đặt ngoại tệ trước. Bài không có giảm giá, không hướng dẫn mở tài khoản; thư viện chỉ được nhắc để chỉ chỗ bưu điện (\"next to the library\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Ý chính: đọc tiêu đề và câu đầu mỗi đoạn. Một chi tiết chỉ xuất hiện một lần (library) thường là phương án nhiễu."
+      },
+      "question_jp": "What is the notice mainly about?",
+      "question_vn": "Thông báo chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề là \"Holiday Hours on Maple Street\". Đoạn đầu nói giờ của \"The City Post Office\", đoạn sau nói giờ của \"Maple Street Bank\", kèm lời nhắn gửi quà sớm, ghi địa chỉ, đặt ngoại tệ trước. Bài không có giảm giá, không hướng dẫn mở tài khoản; thư viện chỉ được nhắc để chỉ chỗ bưu điện (\"next to the library\").",
+      "tip": "Ý chính: đọc tiêu đề và câu đầu mỗi đoạn. Một chi tiết chỉ xuất hiện một lần (library) thường là phương án nhiễu."
+    },
+    {
+      "id": "q_u05_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "When will the bank close early?",
+        "vi": "Khi nào ngân hàng đóng cửa sớm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at seven on Saturday, December twenty-third",
+            "vi": "lúc bảy giờ thứ Bảy, ngày 23 tháng 12"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at seven on Saturday, December twenty-third",
+          "text_translation": "lúc bảy giờ thứ Bảy, ngày 23 tháng 12"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at one on Saturdays",
+            "vi": "lúc một giờ các ngày thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at one on Saturdays",
+          "text_translation": "lúc một giờ các ngày thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at two on Friday, December twenty-ninth",
+            "vi": "lúc hai giờ thứ Sáu, ngày 29 tháng 12"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "at two on Friday, December twenty-ninth",
+          "text_translation": "lúc hai giờ thứ Sáu, ngày 29 tháng 12"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on Monday, January first",
+            "vi": "vào thứ Hai, ngày 1 tháng 1"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "on Monday, January first",
+          "text_translation": "vào thứ Hai, ngày 1 tháng 1"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"However, it will close at two o'clock on Friday, December twenty-ninth.\" \"It\" là Maple Street Bank ở câu trước. Bảy giờ tối đến ngày 23 và một giờ thứ Bảy là giờ của bưu điện (câu 2, 3). Ngày 1 tháng 1 ngân hàng không mở cửa chút nào (\"it will be closed\"), không phải đóng sớm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thông báo hai nơi: gạch tên từng nơi rồi ghi giờ ngay bên cạnh, để không lấy nhầm giờ của nơi kia."
+      },
+      "question_jp": "When will the bank close early?",
+      "question_vn": "Khi nào ngân hàng đóng cửa sớm?",
+      "explanation": "\"However, it will close at two o'clock on Friday, December twenty-ninth.\" \"It\" là Maple Street Bank ở câu trước. Bảy giờ tối đến ngày 23 và một giờ thứ Bảy là giờ của bưu điện (câu 2, 3). Ngày 1 tháng 1 ngân hàng không mở cửa chút nào (\"it will be closed\"), không phải đóng sớm.",
+      "tip": "Thông báo hai nơi: gạch tên từng nơi rồi ghi giờ ngay bên cạnh, để không lấy nhầm giờ của nơi kia."
+    },
+    {
+      "id": "q_u05_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "Tracy wants to mail a package at six thirty in the evening on Thursday, December fourteenth. What is true?",
+        "vi": "Tracy muốn gửi một bưu kiện lúc sáu giờ rưỡi tối thứ Năm, ngày 14 tháng 12. Điều nào đúng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She can't, because the post office closes at five on weekdays.",
+            "vi": "Không được, vì bưu điện đóng cửa lúc năm giờ các ngày trong tuần."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She can't, because the post office closes at five on weekdays.",
+          "text_translation": "Không được, vì bưu điện đóng cửa lúc năm giờ các ngày trong tuần."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She can't, because the post office is closed that day.",
+            "vi": "Không được, vì hôm đó bưu điện đóng cửa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She can't, because the post office is closed that day.",
+          "text_translation": "Không được, vì hôm đó bưu điện đóng cửa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She has to wait until December twenty-third.",
+            "vi": "Cô ấy phải đợi đến ngày 23 tháng 12."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She has to wait until December twenty-third.",
+          "text_translation": "Cô ấy phải đợi đến ngày 23 tháng 12."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She can, because the post office is open until seven that week.",
+            "vi": "Được, vì tuần đó bưu điện mở đến bảy giờ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She can, because the post office is open until seven that week.",
+          "text_translation": "Được, vì tuần đó bưu điện mở đến bảy giờ."
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nhắc tới Tracy hay ngày 14, nhưng suy ra được: \"From Monday, December eleventh, to Saturday, December twenty-third, it will stay open until seven in the evening.\" Ngày 14 nằm trong khoảng đó, và 6:30 trước 7 giờ. Đóng lúc năm giờ là giờ thường ngày (\"usually\"), không áp dụng tuần này. Bưu điện chỉ đóng cả ngày vào 25/12 và 1/1. Ngày 23 chỉ là ngày cuối của đợt mở muộn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi tính giờ: tìm khoảng ngày (From … to …) trước, xem ngày đề hỏi có nằm trong đó không, rồi mới so giờ."
+      },
+      "question_jp": "Tracy wants to mail a package at six thirty in the evening on Thursday, December fourteenth. What is true?",
+      "question_vn": "Tracy muốn gửi một bưu kiện lúc sáu giờ rưỡi tối thứ Năm, ngày 14 tháng 12. Điều nào đúng?",
+      "explanation": "Bài không nhắc tới Tracy hay ngày 14, nhưng suy ra được: \"From Monday, December eleventh, to Saturday, December twenty-third, it will stay open until seven in the evening.\" Ngày 14 nằm trong khoảng đó, và 6:30 trước 7 giờ. Đóng lúc năm giờ là giờ thường ngày (\"usually\"), không áp dụng tuần này. Bưu điện chỉ đóng cả ngày vào 25/12 và 1/1. Ngày 23 chỉ là ngày cuối của đợt mở muộn.",
+      "tip": "Câu hỏi tính giờ: tìm khoảng ngày (From … to …) trước, xem ngày đề hỏi có nằm trong đó không, rồi mới so giờ."
+    },
+    {
+      "id": "q_u05_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "In \"could you order it three days before your trip?\", what does \"it\" mean?",
+        "vi": "Trong câu \"could you order it three days before your trip?\", \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the machine outside",
+            "vi": "cái máy bên ngoài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the machine outside",
+          "text_translation": "cái máy bên ngoài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "foreign money",
+            "vi": "ngoại tệ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "foreign money",
+          "text_translation": "ngoại tệ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "your trip",
+            "vi": "chuyến đi của bạn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "your trip",
+          "text_translation": "chuyến đi của bạn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "cash",
+            "vi": "tiền mặt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "cash",
+          "text_translation": "tiền mặt"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Foreign money takes a few days, so could you order it three days before your trip?\" Thứ cần đặt trước vì \"takes a few days\" là ngoại tệ. Chuyến đi thì không \"order\" ở ngân hàng; cái máy và tiền mặt là chuyện câu 11 (\"take out cash at the machine outside\"), có thể rút bất cứ lúc nào, không cần đặt."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thử thay từng phương án vào chỗ it: \"order foreign money\" hợp nghĩa, \"order your trip\" thì không."
+      },
+      "question_jp": "In \"could you order it three days before your trip?\", what does \"it\" mean?",
+      "question_vn": "Trong câu \"could you order it three days before your trip?\", \"it\" chỉ cái gì?",
+      "explanation": "\"Foreign money takes a few days, so could you order it three days before your trip?\" Thứ cần đặt trước vì \"takes a few days\" là ngoại tệ. Chuyến đi thì không \"order\" ở ngân hàng; cái máy và tiền mặt là chuyện câu 11 (\"take out cash at the machine outside\"), có thể rút bất cứ lúc nào, không cần đặt.",
+      "tip": "Thử thay từng phương án vào chỗ it: \"order foreign money\" hợp nghĩa, \"order your trip\" thì không."
+    },
+    {
+      "id": "q_u05_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u05_02",
+      "i18n": {
+        "en": "What does the notice say about sending money?",
+        "vi": "Thông báo nói gì về chuyện gửi tiền?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "A check is safer than cash in an envelope.",
+            "vi": "Séc an toàn hơn tiền mặt bỏ trong phong bì."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "A check is safer than cash in an envelope.",
+          "text_translation": "Séc an toàn hơn tiền mặt bỏ trong phong bì."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "You can send cash from the machine outside.",
+            "vi": "Bạn có thể gửi tiền mặt từ cái máy bên ngoài."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "You can send cash from the machine outside.",
+          "text_translation": "Bạn có thể gửi tiền mặt từ cái máy bên ngoài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You have to order it three days before.",
+            "vi": "Bạn phải đặt trước ba ngày."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You have to order it three days before.",
+          "text_translation": "Bạn phải đặt trước ba ngày."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Put the money in the top left corner.",
+            "vi": "Hãy đặt tiền ở góc trên bên trái."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Put the money in the top left corner.",
+          "text_translation": "Hãy đặt tiền ở góc trên bên trái."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Please do not send cash in an envelope, because a check is much safer.\" Cái máy bên ngoài là để rút tiền (\"take out cash\"), không phải để gửi. \"Three days before\" là chuyện đặt ngoại tệ. Góc trên bên trái là chỗ ghi địa chỉ của chính mình, không phải chỗ để tiền."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "much + so sánh hơn = hơn nhiều (much safer). Lời khuyên trong thông báo thường đi với Please / Please do not."
+      },
+      "question_jp": "What does the notice say about sending money?",
+      "question_vn": "Thông báo nói gì về chuyện gửi tiền?",
+      "explanation": "\"Please do not send cash in an envelope, because a check is much safer.\" Cái máy bên ngoài là để rút tiền (\"take out cash\"), không phải để gửi. \"Three days before\" là chuyện đặt ngoại tệ. Góc trên bên trái là chỗ ghi địa chỉ của chính mình, không phải chỗ để tiền.",
+      "tip": "much + so sánh hơn = hơn nhiều (much safer). Lời khuyên trong thông báo thường đi với Please / Please do not."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u05_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Megan và Tina đổi áo len ở cửa hàng quần áo",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u05_01",
+      "question_ids": [
+        "q_u05_001",
+        "q_u05_002",
+        "q_u05_003",
+        "q_u05_004",
+        "q_u05_005"
+      ]
+    },
+    {
+      "set_id": "set_u05_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Thông báo giờ mở cửa dịp lễ của bưu điện và ngân hàng",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u05_02",
+      "question_ids": [
+        "q_u05_006",
+        "q_u05_007",
+        "q_u05_008",
+        "q_u05_009",
+        "q_u05_010"
+      ]
+    }
+  ]
+}

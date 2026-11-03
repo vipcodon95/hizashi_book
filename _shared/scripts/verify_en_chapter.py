@@ -81,6 +81,9 @@ def main(folder: Path) -> int:
     if d != d2:
         bad.append("build không idempotent (chạy 2 lần ra 2 kết quả khác nhau)")
 
+    for q in d["questions"]:  # app không đánh số câu trong bài đọc → câu hỏi phải trích nguyên văn, không trỏ "sentence 5"
+        if re.search(r"\b(sentence|line|paragraph) \d+", q["i18n"]["en"], re.I):
+            bad.append(f"{q['id']}: câu hỏi trỏ số câu (\"{q['i18n']['en'][:40]}…\") — app không hiển thị số câu, hãy trích nguyên văn")
     ans = Counter(next(c["id"] for c in q["choices"] if c["is_correct"]) for q in d["questions"])
     lim = max(3, round(len(d["questions"]) * 0.3 + 0.49))
     print(f"[đáp án] {dict(sorted(ans.items()))} (tối đa {lim}/chữ)")

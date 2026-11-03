@@ -98,8 +98,8 @@
 - C. It is twenty minutes from Maple Street. *(Nó cách phố Maple hai mươi phút.)*
 - D. It is smaller and quieter than Sunset Bay. *(Nó nhỏ hơn và yên tĩnh hơn Sunset Bay.)*
 
-**3. In sentence 10, "the hardest part" means …**
-*(Ở câu 10, "the hardest part" có nghĩa là …)*
+**3. In "The weather is the hardest part.", "the hardest part" means …**
+*(Trong câu "The weather is the hardest part.", "the hardest part" có nghĩa là …)*
 
 - A. the most difficult thing in her choice *(điều khó nhất trong lựa chọn của cô ấy)*
 - B. the coldest month of the year *(tháng lạnh nhất trong năm)*
@@ -174,8 +174,8 @@
 - C. near Mission Beach *(gần Mission Beach)*
 - D. on the rocks *(trên các tảng đá)*
 
-**8. In sentence 6, who or what does "them" mean?**
-*(Ở câu 6, "them" chỉ ai hoặc cái gì?)*
+**8. In "You can also watch sea lions on the rocks, but stay away from them.", who or what does "them" mean?**
+*(Trong câu "You can also watch sea lions on the rocks, but stay away from them.", "them" chỉ ai hoặc cái gì?)*
 
 - A. the rocks *(các tảng đá)*
 - B. the people on the beach *(những người trên bãi biển)*
