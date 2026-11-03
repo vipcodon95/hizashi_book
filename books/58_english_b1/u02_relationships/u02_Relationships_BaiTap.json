@@ -1,0 +1,2111 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 2 — Relationships",
+      "vi": "Các mối quan hệ"
+    },
+    "title": "Unit 2 — Relationships",
+    "title_vn": "Các mối quan hệ",
+    "module_code": "58_u02",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u02",
+    "curriculum_sheets": [
+      "b1.005",
+      "b1.006",
+      "b1.007",
+      "b1.008"
+    ],
+    "characters": [
+      "Leah Carter",
+      "Chloe Bennett",
+      "Ethan Hayes",
+      "Dustin",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "giữa tháng 9, năm 4 (bài 1: tin nhắn tối thứ Bảy 13/9, 11:48 tối; lịch năm 4 theo mẫu năm 2025; Leah 26 tuổi, bác sĩ nội trú năm đầu ở Sunset Bay Hospital, Chủ nhật vào ca 7 giờ sáng; Leah và Ethan quen nhau từ tháng 3 năm 3 và tối nay chính thức hẹn hò; bài 2: bài báo phổ thông về tình bạn thời mạng xã hội)"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "each other / one another, mệnh đề quan hệ who / that / whom làm tân ngữ, fall out / make up / reach a compromise / rely on / a strong bond; ý chính, chi tiết và con số, từ trong ngữ cảnh, quy chiếu (hers, this), NOT / TRUE, cảm xúc nhân vật, mục đích, thái độ người viết, 4 câu suy luận (1 câu nối hai bài)",
+    "description_vn": "Tin nhắn đêm khuya: Leah kể với Chloe chuyện Ethan nấu bữa tối (mì cháy, chuông báo khói kêu), đọc tấm thiệp, hỏi nhầm \"emergency contact\" rồi sửa thành \"girlfriend\"; chiếc bánh trái tim Ethan đặt ở chỗ Chloe sáng hôm đó; Chloe kể chuyện ghen nhầm với chị gái Dustin, làm lành bên bát súp thứ Tư ở quán Harriet's. Bài 2: bài báo về tình bạn thời mạng xã hội (nghiên cứu của Robin Dunbar 2016 về số bạn dựa vào được, nghiên cứu của Jeffrey Hall về số giờ để thành bạn, chất lượng hơn số lượng). 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 2 khoá B1 · phiếu `b1.005` – `b1.008` (tình bạn, cách hoà hợp với mọi người, những người mình quen, giận nhau và làm lành)."
+    },
+    "objective_i18n": {
+      "vi": "đọc đoạn tin nhắn đêm khuya Leah kể với Chloe chuyện Ethan ngỏ lời làm bạn gái, cùng chuyện Chloe giận rồi làm lành với Dustin, và một bài báo về tình bạn thời mạng xã hội; hiểu each other / one another, mệnh đề quan hệ who / that / whom làm tân ngữ (the firefighter who you talk to, the pasta that he made, the person whom I trust most), các cụm fall out, make up, reach a compromise, rely on, a strong bond; tìm chi tiết và con số, nắm ý chính, đoán nghĩa từ trong ngữ cảnh, hiểu hers / this chỉ gì, nhận ra cảm xúc nhân vật, thái độ người viết, và suy ra điều bài không nói thẳng, kể cả khi nối hai bài."
+    },
+    "extra_words": [
+      {
+        "word": "emergency contact",
+        "i18n": {
+          "vi": "người liên hệ khẩn cấp (người được gọi khi mình gặp chuyện)"
+        }
+      },
+      {
+        "word": "smoke alarm",
+        "i18n": {
+          "vi": "chuông báo khói"
+        }
+      },
+      {
+        "word": "follower",
+        "i18n": {
+          "vi": "người theo dõi (trên mạng xã hội)"
+        }
+      },
+      {
+        "word": "social media",
+        "i18n": {
+          "vi": "mạng xã hội"
+        }
+      },
+      {
+        "word": "casual friend",
+        "i18n": {
+          "vi": "bạn xã giao, bạn bình thường"
+        }
+      },
+      {
+        "word": "real-life",
+        "i18n": {
+          "vi": "ngoài đời thật"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "the person whom I trust most",
+          "vi": "người mà anh tin tưởng nhất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fall out (with someone)",
+          "vi": "giận nhau, cãi nhau (với ai)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make up",
+          "vi": "làm lành"
+        }
+      },
+      {
+        "i18n": {
+          "en": "reach a compromise",
+          "vi": "đạt được thoả hiệp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "rely on someone",
+          "vi": "dựa vào, trông cậy vào ai"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be good for each other",
+          "vi": "hợp với nhau, tốt cho nhau"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Mệnh đề quan hệ làm tân ngữ**: `the firefighter who you talk to`, `the pasta that he made`, `the person whom I trust most`. Chủ ngữ của mệnh đề (you, he, I) cho biết AI làm việc đó. Câu hỏi chi tiết hay đánh tráo người làm, nên đọc kỹ chủ ngữ này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**each other / one another** = nhau: hai bên cùng làm một việc cho người kia (`stop seeing each other`, `meet one another`). Khi gặp hai từ này, hãy xác định rõ \"hai bên\" là ai."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Đọc tin nhắn có nhiều người nói: để ý ai nhắn câu nào. Phương án nhiễu hay gán lời của Chloe cho Leah, hoặc gán cảm xúc của chuyện này (jealous) sang chuyện khác."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài báo nhiều con số (150, bốn, mười bốn, 50 / 90 / 200 giờ): gạch chân từ khoá của câu hỏi rồi tìm con số đứng cạnh đúng từ khoá đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận và thái độ: bài không nói thẳng. Để ý các câu có but / however, và tiêu đề mục: chúng thường cho thấy người viết nghĩ gì."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u02_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tin nhắn đêm khuya: Leah kể với Chloe chuyện Ethan ngỏ lời"
+      },
+      "narrator": "Leah",
+      "title": "Late-Night Messages",
+      "category": "dialogue",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday, September 13, 11:48 p.m.",
+            "vi": "Thứ Bảy, ngày 13 tháng 9, 11 giờ 48 tối"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Chloe, are you awake? I start at seven tomorrow, but this news can't wait!",
+            "vi": "Chloe ơi, cậu còn thức không? Mai tớ vào ca lúc bảy giờ, nhưng tin này không đợi được!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Is this about the firefighter who you talk to for hours every night?",
+            "vi": "Có phải chuyện về anh lính cứu hoả mà tối nào cậu cũng nói chuyện hàng giờ liền không?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Yes! Ethan cooked dinner for me, even though his fire station still won't let him near the kitchen.",
+            "vi": "Đúng rồi! Ethan nấu bữa tối cho tớ, dù cả trạm cứu hoả của anh ấy vẫn không cho anh ấy lại gần bếp."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "The pasta that he made was burned, and his own smoke alarm went off in the middle of dinner.",
+            "vi": "Món mì Ý anh ấy nấu bị cháy, và chuông báo khói nhà anh ấy kêu inh ỏi ngay giữa bữa tối."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Then he read from a little card with shaking hands: \"Leah, you are the person whom I trust most.\"",
+            "vi": "Rồi anh ấy run run cầm một tấm thiệp nhỏ đọc: \"Leah, em là người anh tin tưởng nhất.\""
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "He got nervous and asked, \"Will you be my emergency contact?\"",
+            "vi": "Anh ấy cuống lên và hỏi: \"Em có đồng ý làm người liên hệ khẩn cấp của anh không?\""
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "I laughed so hard that he checked the card and said, \"Sorry, I mean my girlfriend.\"",
+            "vi": "Tớ cười nhiều tới mức anh ấy phải xem lại tấm thiệp rồi nói: \"Xin lỗi, ý anh là bạn gái của anh.\""
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "He can carry people out of burning buildings, but he can't say three sweet words without a card!",
+            "vi": "Anh ấy có thể bế người ra khỏi những toà nhà đang cháy, nhưng không nói nổi ba chữ ngọt ngào nếu không có tấm thiệp!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "That's so sweet, and so very Ethan. What did you say?",
+            "vi": "Dễ thương quá, mà đúng kiểu Ethan luôn. Thế cậu trả lời sao?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Yes to both, of course! Then we shared the chocolate cake that he brought for dessert.",
+            "vi": "Đồng ý cả hai, tất nhiên rồi! Sau đó bọn tớ cùng ăn chiếc bánh sô-cô-la anh ấy mang tới làm món tráng miệng."
+          }
+        },
+        {
+          "n": 12,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "With a red heart on top? He ordered it from me this morning and made me promise to keep it secret!",
+            "vi": "Cái bánh có trái tim đỏ ở trên phải không? Sáng nay anh ấy đặt nó ở chỗ tớ và bắt tớ hứa giữ bí mật đấy!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Enough about me. Are you and Dustin talking again after last weekend's disagreement?",
+            "vi": "Thôi, nói về tớ thế đủ rồi. Cậu với Dustin đã nói chuyện lại với nhau sau vụ bất đồng cuối tuần trước chưa?"
+          }
+        },
+        {
+          "n": 14,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Yes! We fell out again because I was jealous of a woman who he walks dogs with every morning.",
+            "vi": "Rồi! Bọn tớ lại giận nhau vì tớ ghen với một người phụ nữ sáng nào anh ấy cũng dắt chó đi dạo cùng."
+          }
+        },
+        {
+          "n": 15,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "It turned out that she's his older sister and half of the dogs are hers, so I felt really silly.",
+            "vi": "Hoá ra cô ấy là chị gái anh ấy, và một nửa số chó là của chị ấy, nên tớ thấy mình ngốc thật."
+          }
+        },
+        {
+          "n": 16,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "We made up over his usual Wednesday soup at Harriet's and reached a compromise: he tells me more, and I ask before I guess.",
+            "vi": "Bọn tớ làm lành bên bát súp thứ Tư quen thuộc của anh ấy ở quán Harriet's và đã thoả hiệp được: anh ấy kể cho tớ nhiều hơn, còn tớ hỏi trước khi tự đoán."
+          }
+        },
+        {
+          "n": 17,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Real progress! I think you two are good for each other.",
+            "vi": "Tiến bộ thật sự đấy! Tớ nghĩ hai cậu hợp với nhau."
+          }
+        }
+      ],
+      "content_ja": "Saturday, September 13, 11:48 p.m.\n\nLeah: Chloe, are you awake? I start at seven tomorrow, but this news can't wait!\n\nChloe: Is this about the firefighter who you talk to for hours every night?\n\nLeah: Yes! Ethan cooked dinner for me, even though his fire station still won't let him near the kitchen. The pasta that he made was burned, and his own smoke alarm went off in the middle of dinner.\n\nLeah: Then he read from a little card with shaking hands: \"Leah, you are the person whom I trust most.\" He got nervous and asked, \"Will you be my emergency contact?\" I laughed so hard that he checked the card and said, \"Sorry, I mean my girlfriend.\"\n\nLeah: He can carry people out of burning buildings, but he can't say three sweet words without a card!\n\nChloe: That's so sweet, and so very Ethan. What did you say?\n\nLeah: Yes to both, of course! Then we shared the chocolate cake that he brought for dessert.\n\nChloe: With a red heart on top? He ordered it from me this morning and made me promise to keep it secret!\n\nLeah: Enough about me. Are you and Dustin talking again after last weekend's disagreement?\n\nChloe: Yes! We fell out again because I was jealous of a woman who he walks dogs with every morning. It turned out that she's his older sister and half of the dogs are hers, so I felt really silly. We made up over his usual Wednesday soup at Harriet's and reached a compromise: he tells me more, and I ask before I guess.\n\nLeah: Real progress! I think you two are good for each other.",
+      "translation_vn": "(1) Thứ Bảy, ngày 13 tháng 9, 11 giờ 48 tối\n(2) Leah: Chloe ơi, cậu còn thức không? Mai tớ vào ca lúc bảy giờ, nhưng tin này không đợi được!\n(3) Chloe: Có phải chuyện về anh lính cứu hoả mà tối nào cậu cũng nói chuyện hàng giờ liền không?\n(4) Leah: Đúng rồi! Ethan nấu bữa tối cho tớ, dù cả trạm cứu hoả của anh ấy vẫn không cho anh ấy lại gần bếp.\n(5) Leah: Món mì Ý anh ấy nấu bị cháy, và chuông báo khói nhà anh ấy kêu inh ỏi ngay giữa bữa tối.\n(6) Leah: Rồi anh ấy run run cầm một tấm thiệp nhỏ đọc: \"Leah, em là người anh tin tưởng nhất.\"\n(7) Leah: Anh ấy cuống lên và hỏi: \"Em có đồng ý làm người liên hệ khẩn cấp của anh không?\"\n(8) Leah: Tớ cười nhiều tới mức anh ấy phải xem lại tấm thiệp rồi nói: \"Xin lỗi, ý anh là bạn gái của anh.\"\n(9) Leah: Anh ấy có thể bế người ra khỏi những toà nhà đang cháy, nhưng không nói nổi ba chữ ngọt ngào nếu không có tấm thiệp!\n(10) Chloe: Dễ thương quá, mà đúng kiểu Ethan luôn. Thế cậu trả lời sao?\n(11) Leah: Đồng ý cả hai, tất nhiên rồi! Sau đó bọn tớ cùng ăn chiếc bánh sô-cô-la anh ấy mang tới làm món tráng miệng.\n(12) Chloe: Cái bánh có trái tim đỏ ở trên phải không? Sáng nay anh ấy đặt nó ở chỗ tớ và bắt tớ hứa giữ bí mật đấy!\n(13) Leah: Thôi, nói về tớ thế đủ rồi. Cậu với Dustin đã nói chuyện lại với nhau sau vụ bất đồng cuối tuần trước chưa?\n(14) Chloe: Rồi! Bọn tớ lại giận nhau vì tớ ghen với một người phụ nữ sáng nào anh ấy cũng dắt chó đi dạo cùng.\n(15) Chloe: Hoá ra cô ấy là chị gái anh ấy, và một nửa số chó là của chị ấy, nên tớ thấy mình ngốc thật.\n(16) Chloe: Bọn tớ làm lành bên bát súp thứ Tư quen thuộc của anh ấy ở quán Harriet's và đã thoả hiệp được: anh ấy kể cho tớ nhiều hơn, còn tớ hỏi trước khi tự đoán.\n(17) Leah: Tiến bộ thật sự đấy! Tớ nghĩ hai cậu hợp với nhau.",
+      "word_count": 267,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008"
+      ]
+    },
+    {
+      "id": "passage_u02_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài báo: tình bạn thật trong thế giới mạng xã hội"
+      },
+      "narrator": "announcer",
+      "title": "Real Friends in a Busy Online World",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Real Friends in a Busy Online World",
+            "vi": "Bạn thật trong một thế giới mạng bận rộn"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of us have hundreds of online friends and followers, but how many of them could we call at two in the morning?",
+            "vi": "Đa số chúng ta có hàng trăm bạn bè và người theo dõi trên mạng, nhưng có bao nhiêu người trong số đó ta có thể gọi lúc hai giờ sáng?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Researchers say the answer is usually very small.",
+            "vi": "Các nhà nghiên cứu nói rằng câu trả lời thường là rất ít."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The friends we can rely on",
+            "vi": "Những người bạn ta có thể dựa vào"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2016, Robin Dunbar of the University of Oxford asked more than 3,300 adults about their Facebook friends.",
+            "vi": "Năm 2016, Robin Dunbar ở Đại học Oxford đã hỏi hơn 3.300 người trưởng thành về bạn bè trên Facebook của họ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On average, they had over 150 online friends but could rely on only about four in a crisis.",
+            "vi": "Trung bình, họ có hơn 150 bạn trên mạng nhưng chỉ có thể dựa vào khoảng bốn người khi gặp chuyện khó khăn."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "About fourteen would show sympathy, which is similar to the numbers in real-life friendship groups.",
+            "vi": "Khoảng mười bốn người sẽ bày tỏ sự cảm thông, con số gần giống các nhóm bạn ngoài đời thật."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Time makes a friend",
+            "vi": "Thời gian làm nên tình bạn"
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Professor Hall at the University of Kansas found that it takes about fifty hours together to turn an acquaintance into a casual friend.",
+            "vi": "Giáo sư Hall ở Đại học Kansas phát hiện ra rằng cần khoảng năm mươi giờ ở bên nhau để biến một người quen thành một người bạn xã giao."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Becoming real friends takes about ninety hours, and a strong bond takes more than two hundred.",
+            "vi": "Để trở thành bạn thật sự cần khoảng chín mươi giờ, còn một mối gắn kết bền chặt cần hơn hai trăm giờ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Joking, talking and having fun count much more than working side by side.",
+            "vi": "Đùa vui, trò chuyện và chơi cùng nhau có giá trị hơn nhiều so với làm việc cạnh nhau."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What social media is good for",
+            "vi": "Mạng xã hội có ích ở chỗ nào"
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dunbar believes friendships slowly fade when people stop seeing each other, and social media can slow this down.",
+            "vi": "Dunbar tin rằng tình bạn phai nhạt dần khi người ta không còn gặp nhau nữa, và mạng xã hội có thể làm chậm quá trình này lại."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A quick message can keep a bond alive with a friend who you no longer see every day.",
+            "vi": "Một tin nhắn ngắn có thể giữ cho mối gắn kết còn sống với một người bạn mà bạn không còn gặp hằng ngày."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But online contact alone is probably not enough: friends need to meet one another face to face from time to time.",
+            "vi": "Nhưng chỉ liên lạc trên mạng thì có lẽ chưa đủ: thỉnh thoảng bạn bè cần gặp mặt nhau trực tiếp."
+          }
+        },
+        {
+          "n": 16,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Quality, not quantity",
+            "vi": "Chất lượng, không phải số lượng"
+          }
+        },
+        {
+          "n": 17,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So don't worry if your classmates have more followers than you.",
+            "vi": "Vì vậy, đừng lo nếu bạn cùng lớp có nhiều người theo dõi hơn bạn."
+          }
+        },
+        {
+          "n": 18,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Instead, give your time to the few people whom you trust most.",
+            "vi": "Thay vào đó, hãy dành thời gian cho số ít người mà bạn tin tưởng nhất."
+          }
+        },
+        {
+          "n": 19,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Call a friend who you have been ignoring, or answer the message that you forgot about.",
+            "vi": "Hãy gọi cho một người bạn mà bạn đang lờ đi, hoặc trả lời tin nhắn mà bạn đã quên mất."
+          }
+        },
+        {
+          "n": 20,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your phone can help a friendship grow, but it can't do the work for you.",
+            "vi": "Điện thoại có thể giúp tình bạn lớn lên, nhưng nó không thể làm thay bạn."
+          }
+        }
+      ],
+      "content_ja": "Real Friends in a Busy Online World\n\nMost of us have hundreds of online friends and followers, but how many of them could we call at two in the morning? Researchers say the answer is usually very small.\n\nThe friends we can rely on\n\nIn 2016, Robin Dunbar of the University of Oxford asked more than 3,300 adults about their Facebook friends. On average, they had over 150 online friends but could rely on only about four in a crisis. About fourteen would show sympathy, which is similar to the numbers in real-life friendship groups.\n\nTime makes a friend\n\nProfessor Hall at the University of Kansas found that it takes about fifty hours together to turn an acquaintance into a casual friend. Becoming real friends takes about ninety hours, and a strong bond takes more than two hundred. Joking, talking and having fun count much more than working side by side.\n\nWhat social media is good for\n\nDunbar believes friendships slowly fade when people stop seeing each other, and social media can slow this down. A quick message can keep a bond alive with a friend who you no longer see every day. But online contact alone is probably not enough: friends need to meet one another face to face from time to time.\n\nQuality, not quantity\n\nSo don't worry if your classmates have more followers than you. Instead, give your time to the few people whom you trust most. Call a friend who you have been ignoring, or answer the message that you forgot about. Your phone can help a friendship grow, but it can't do the work for you.",
+      "translation_vn": "(1) Bạn thật trong một thế giới mạng bận rộn\n(2) Đa số chúng ta có hàng trăm bạn bè và người theo dõi trên mạng, nhưng có bao nhiêu người trong số đó ta có thể gọi lúc hai giờ sáng?\n(3) Các nhà nghiên cứu nói rằng câu trả lời thường là rất ít.\n(4) Những người bạn ta có thể dựa vào\n(5) Năm 2016, Robin Dunbar ở Đại học Oxford đã hỏi hơn 3.300 người trưởng thành về bạn bè trên Facebook của họ.\n(6) Trung bình, họ có hơn 150 bạn trên mạng nhưng chỉ có thể dựa vào khoảng bốn người khi gặp chuyện khó khăn.\n(7) Khoảng mười bốn người sẽ bày tỏ sự cảm thông, con số gần giống các nhóm bạn ngoài đời thật.\n(8) Thời gian làm nên tình bạn\n(9) Giáo sư Hall ở Đại học Kansas phát hiện ra rằng cần khoảng năm mươi giờ ở bên nhau để biến một người quen thành một người bạn xã giao.\n(10) Để trở thành bạn thật sự cần khoảng chín mươi giờ, còn một mối gắn kết bền chặt cần hơn hai trăm giờ.\n(11) Đùa vui, trò chuyện và chơi cùng nhau có giá trị hơn nhiều so với làm việc cạnh nhau.\n(12) Mạng xã hội có ích ở chỗ nào\n(13) Dunbar tin rằng tình bạn phai nhạt dần khi người ta không còn gặp nhau nữa, và mạng xã hội có thể làm chậm quá trình này lại.\n(14) Một tin nhắn ngắn có thể giữ cho mối gắn kết còn sống với một người bạn mà bạn không còn gặp hằng ngày.\n(15) Nhưng chỉ liên lạc trên mạng thì có lẽ chưa đủ: thỉnh thoảng bạn bè cần gặp mặt nhau trực tiếp.\n(16) Chất lượng, không phải số lượng\n(17) Vì vậy, đừng lo nếu bạn cùng lớp có nhiều người theo dõi hơn bạn.\n(18) Thay vào đó, hãy dành thời gian cho số ít người mà bạn tin tưởng nhất.\n(19) Hãy gọi cho một người bạn mà bạn đang lờ đi, hoặc trả lời tin nhắn mà bạn đã quên mất.\n(20) Điện thoại có thể giúp tình bạn lớn lên, nhưng nó không thể làm thay bạn.",
+      "word_count": 269,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u02_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "Why does Leah send messages to Chloe so late at night?",
+        "vi": "Vì sao Leah nhắn tin cho Chloe vào lúc khuya như vậy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She can't sleep before her shift at seven.",
+            "vi": "Cô không ngủ được trước ca làm lúc bảy giờ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She can't sleep before her shift at seven.",
+          "text_translation": "Cô không ngủ được trước ca làm lúc bảy giờ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wants to share the news that she and Ethan are now a couple.",
+            "vi": "Cô muốn kể tin cô và Ethan giờ đã thành một cặp."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She wants to share the news that she and Ethan are now a couple.",
+          "text_translation": "Cô muốn kể tin cô và Ethan giờ đã thành một cặp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wants to ask Chloe where Ethan bought the cake.",
+            "vi": "Cô muốn hỏi Chloe Ethan mua bánh ở đâu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wants to ask Chloe where Ethan bought the cake.",
+          "text_translation": "Cô muốn hỏi Chloe Ethan mua bánh ở đâu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She needs Chloe's advice about Ethan's cooking.",
+            "vi": "Cô cần Chloe cho lời khuyên về chuyện nấu ăn của Ethan."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She needs Chloe's advice about Ethan's cooking.",
+          "text_translation": "Cô cần Chloe cho lời khuyên về chuyện nấu ăn của Ethan."
+        }
+      ],
+      "evidence_segments": [
+        2,
+        8,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Leah mở đầu: \"I start at seven tomorrow, but this news can't wait!\" Tin đó là Ethan hỏi cô làm bạn gái (\"Sorry, I mean my girlfriend.\") và cô trả lời \"Yes to both, of course!\". Ca bảy giờ chỉ là lý do lẽ ra cô nên đi ngủ, không phải lý do cô nhắn. Chloe là người tự kể chuyện chiếc bánh, Leah không hỏi. Leah không xin lời khuyên về chuyện nấu ăn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi về mục đích cả cuộc trò chuyện: đọc tin nhắn đầu tiên (this news can't wait) rồi tìm xem \"tin\" đó là gì. Phương án chỉ nói về một chi tiết nhỏ thường là phương án sai."
+      },
+      "question_jp": "Why does Leah send messages to Chloe so late at night?",
+      "question_vn": "Vì sao Leah nhắn tin cho Chloe vào lúc khuya như vậy?",
+      "explanation": "Leah mở đầu: \"I start at seven tomorrow, but this news can't wait!\" Tin đó là Ethan hỏi cô làm bạn gái (\"Sorry, I mean my girlfriend.\") và cô trả lời \"Yes to both, of course!\". Ca bảy giờ chỉ là lý do lẽ ra cô nên đi ngủ, không phải lý do cô nhắn. Chloe là người tự kể chuyện chiếc bánh, Leah không hỏi. Leah không xin lời khuyên về chuyện nấu ăn.",
+      "tip": "Câu hỏi về mục đích cả cuộc trò chuyện: đọc tin nhắn đầu tiên (this news can't wait) rồi tìm xem \"tin\" đó là gì. Phương án chỉ nói về một chi tiết nhỏ thường là phương án sai."
+    },
+    {
+      "id": "q_u02_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "What happened while Ethan and Leah were having dinner?",
+        "vi": "Chuyện gì đã xảy ra khi Ethan và Leah đang ăn tối?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ethan's fire station called him.",
+            "vi": "Trạm cứu hoả gọi cho Ethan."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ethan's fire station called him.",
+          "text_translation": "Trạm cứu hoả gọi cho Ethan."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah burned the pasta.",
+            "vi": "Leah làm cháy món mì Ý."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leah burned the pasta.",
+          "text_translation": "Leah làm cháy món mì Ý."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ethan's smoke alarm went off.",
+            "vi": "Chuông báo khói nhà Ethan kêu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Ethan's smoke alarm went off.",
+          "text_translation": "Chuông báo khói nhà Ethan kêu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Chloe brought them a cake.",
+            "vi": "Chloe mang bánh tới cho họ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Chloe brought them a cake.",
+          "text_translation": "Chloe mang bánh tới cho họ."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Leah viết: \"The pasta that he made was burned, and his own smoke alarm went off in the middle of dinner.\" Người nấu và làm cháy mì là Ethan (\"that he made\"), không phải Leah. Trạm cứu hoả chỉ được nhắc tới vì không cho anh lại gần bếp, không gọi điện cho anh. Bánh là Ethan đặt ở chỗ Chloe rồi tự mang tới (\"the chocolate cake that he brought\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Mệnh đề quan hệ that he made cho biết AI làm món mì. Đọc kỹ chủ ngữ trong mệnh đề để không nhầm người làm."
+      },
+      "question_jp": "What happened while Ethan and Leah were having dinner?",
+      "question_vn": "Chuyện gì đã xảy ra khi Ethan và Leah đang ăn tối?",
+      "explanation": "Leah viết: \"The pasta that he made was burned, and his own smoke alarm went off in the middle of dinner.\" Người nấu và làm cháy mì là Ethan (\"that he made\"), không phải Leah. Trạm cứu hoả chỉ được nhắc tới vì không cho anh lại gần bếp, không gọi điện cho anh. Bánh là Ethan đặt ở chỗ Chloe rồi tự mang tới (\"the chocolate cake that he brought\").",
+      "tip": "Mệnh đề quan hệ that he made cho biết AI làm món mì. Đọc kỹ chủ ngữ trong mệnh đề để không nhầm người làm."
+    },
+    {
+      "id": "q_u02_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "What did Ethan ask Leah by mistake?",
+        "vi": "Ethan đã hỏi nhầm Leah điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "if she would be his emergency contact",
+            "vi": "cô có đồng ý làm người liên hệ khẩn cấp của anh không"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "if she would be his emergency contact",
+          "text_translation": "cô có đồng ý làm người liên hệ khẩn cấp của anh không"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "if she trusted him most",
+            "vi": "cô có tin anh nhất không"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "if she trusted him most",
+          "text_translation": "cô có tin anh nhất không"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "if she wanted chocolate cake for dessert",
+            "vi": "cô có muốn ăn bánh sô-cô-la tráng miệng không"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "if she wanted chocolate cake for dessert",
+          "text_translation": "cô có muốn ăn bánh sô-cô-la tráng miệng không"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "if she could read his card",
+            "vi": "cô có đọc được tấm thiệp của anh không"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "if she could read his card",
+          "text_translation": "cô có đọc được tấm thiệp của anh không"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Leah kể Ethan cuống lên và hỏi: \"Will you be my emergency contact?\" Ngay sau đó anh sửa lại: \"Sorry, I mean my girlfriend.\" Câu \"you are the person whom I trust most\" là điều Ethan nói về Leah, không phải câu hỏi. Bài không nói anh hỏi cô có muốn ăn bánh hay có đọc được thiệp không."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Từ by mistake (do nhầm) ứng với lời xin lỗi Sorry, I mean… trong bài: thứ đứng TRƯỚC lời xin lỗi là câu nói nhầm."
+      },
+      "question_jp": "What did Ethan ask Leah by mistake?",
+      "question_vn": "Ethan đã hỏi nhầm Leah điều gì?",
+      "explanation": "Leah kể Ethan cuống lên và hỏi: \"Will you be my emergency contact?\" Ngay sau đó anh sửa lại: \"Sorry, I mean my girlfriend.\" Câu \"you are the person whom I trust most\" là điều Ethan nói về Leah, không phải câu hỏi. Bài không nói anh hỏi cô có muốn ăn bánh hay có đọc được thiệp không.",
+      "tip": "Từ by mistake (do nhầm) ứng với lời xin lỗi Sorry, I mean… trong bài: thứ đứng TRƯỚC lời xin lỗi là câu nói nhầm."
+    },
+    {
+      "id": "q_u02_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "In \"reached a compromise: he tells me more, and I ask before I guess\", what does \"reached a compromise\" mean?",
+        "vi": "Trong câu \"reached a compromise: he tells me more, and I ask before I guess\", \"reached a compromise\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "decided to break up for a short time",
+            "vi": "quyết định chia tay một thời gian ngắn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "decided to break up for a short time",
+          "text_translation": "quyết định chia tay một thời gian ngắn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "had another disagreement",
+            "vi": "lại có một bất đồng khác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "had another disagreement",
+          "text_translation": "lại có một bất đồng khác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "agreed to eat soup together every Wednesday",
+            "vi": "đồng ý ăn súp cùng nhau mỗi thứ Tư"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "agreed to eat soup together every Wednesday",
+          "text_translation": "đồng ý ăn súp cùng nhau mỗi thứ Tư"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "agreed on a plan in which both of them change a little",
+            "vi": "thống nhất một cách mà cả hai đều thay đổi một chút"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "agreed on a plan in which both of them change a little",
+          "text_translation": "thống nhất một cách mà cả hai đều thay đổi một chút"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Sau dấu hai chấm, Chloe giải thích thoả thuận: \"he tells me more, and I ask before I guess.\" Mỗi người đều nhường một bước: Dustin kể nhiều hơn, Chloe hỏi trước khi đoán. Reach a compromise = đạt được thoả hiệp. Hai người vừa làm lành (\"We made up\"), nên không phải chia tay hay lại bất đồng. Bát súp thứ Tư là nơi họ làm lành, không phải nội dung thoả thuận."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Dấu hai chấm (:) thường mở ra lời giải thích cho cụm đứng trước nó. Đọc phần sau dấu hai chấm để đoán nghĩa."
+      },
+      "question_jp": "In \"reached a compromise: he tells me more, and I ask before I guess\", what does \"reached a compromise\" mean?",
+      "question_vn": "Trong câu \"reached a compromise: he tells me more, and I ask before I guess\", \"reached a compromise\" nghĩa là gì?",
+      "explanation": "Sau dấu hai chấm, Chloe giải thích thoả thuận: \"he tells me more, and I ask before I guess.\" Mỗi người đều nhường một bước: Dustin kể nhiều hơn, Chloe hỏi trước khi đoán. Reach a compromise = đạt được thoả hiệp. Hai người vừa làm lành (\"We made up\"), nên không phải chia tay hay lại bất đồng. Bát súp thứ Tư là nơi họ làm lành, không phải nội dung thoả thuận.",
+      "tip": "Dấu hai chấm (:) thường mở ra lời giải thích cho cụm đứng trước nó. Đọc phần sau dấu hai chấm để đoán nghĩa."
+    },
+    {
+      "id": "q_u02_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "In \"half of the dogs are hers\", who does \"hers\" refer to?",
+        "vi": "Trong câu \"half of the dogs are hers\", \"hers\" chỉ ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Chloe",
+            "vi": "Chloe"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Chloe",
+          "text_translation": "Chloe"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Dustin's older sister",
+            "vi": "chị gái của Dustin"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Dustin's older sister",
+          "text_translation": "chị gái của Dustin"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leah",
+            "vi": "Leah"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Leah",
+          "text_translation": "Leah"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"It turned out that she's his older sister and half of the dogs are hers, so I felt really silly.\" \"she\" và \"hers\" cùng chỉ người phụ nữ mà Chloe ghen (\"a woman who he walks dogs with every morning\"), tức chị gái của Dustin. Chloe là người kể, nên nếu nói về mình cô sẽ dùng \"mine\". Leah và bà Harriet không liên quan tới đàn chó."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "hers = của cô ấy. Tìm danh từ chỉ người nữ gần nhất phía trước (his older sister), rồi thử thay vào: half of the dogs are his sister's."
+      },
+      "question_jp": "In \"half of the dogs are hers\", who does \"hers\" refer to?",
+      "question_vn": "Trong câu \"half of the dogs are hers\", \"hers\" chỉ ai?",
+      "explanation": "Câu đầy đủ là \"It turned out that she's his older sister and half of the dogs are hers, so I felt really silly.\" \"she\" và \"hers\" cùng chỉ người phụ nữ mà Chloe ghen (\"a woman who he walks dogs with every morning\"), tức chị gái của Dustin. Chloe là người kể, nên nếu nói về mình cô sẽ dùng \"mine\". Leah và bà Harriet không liên quan tới đàn chó.",
+      "tip": "hers = của cô ấy. Tìm danh từ chỉ người nữ gần nhất phía trước (his older sister), rồi thử thay vào: half of the dogs are his sister's."
+    },
+    {
+      "id": "q_u02_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "Which of the following is NOT true about Ethan's evening with Leah?",
+        "vi": "Điều nào sau đây KHÔNG đúng về buổi tối của Ethan với Leah?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He read from a little card.",
+            "vi": "Anh đọc từ một tấm thiệp nhỏ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He read from a little card.",
+          "text_translation": "Anh đọc từ một tấm thiệp nhỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The pasta that he cooked was burned.",
+            "vi": "Món mì Ý anh nấu bị cháy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The pasta that he cooked was burned.",
+          "text_translation": "Món mì Ý anh nấu bị cháy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He was nervous when he asked his question.",
+            "vi": "Anh hồi hộp khi đặt câu hỏi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He was nervous when he asked his question.",
+          "text_translation": "Anh hồi hộp khi đặt câu hỏi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He made the chocolate cake himself.",
+            "vi": "Anh tự làm chiếc bánh sô-cô-la."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He made the chocolate cake himself.",
+          "text_translation": "Anh tự làm chiếc bánh sô-cô-la."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6,
+        7,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Chloe viết về chiếc bánh: \"He ordered it from me this morning and made me promise to keep it secret!\" Vậy Ethan đặt bánh ở quán Harriet's chỗ Chloe làm, không tự làm. Ba phương án kia đều đúng: \"he read from a little card with shaking hands\", \"The pasta that he made was burned\", \"He got nervous and asked\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu NOT: kiểm từng phương án với bài, đánh dấu cái nào có bằng chứng. Phương án còn lại, hoặc nói ngược với bài, là đáp án."
+      },
+      "question_jp": "Which of the following is NOT true about Ethan's evening with Leah?",
+      "question_vn": "Điều nào sau đây KHÔNG đúng về buổi tối của Ethan với Leah?",
+      "explanation": "Chloe viết về chiếc bánh: \"He ordered it from me this morning and made me promise to keep it secret!\" Vậy Ethan đặt bánh ở quán Harriet's chỗ Chloe làm, không tự làm. Ba phương án kia đều đúng: \"he read from a little card with shaking hands\", \"The pasta that he made was burned\", \"He got nervous and asked\".",
+      "tip": "Câu NOT: kiểm từng phương án với bài, đánh dấu cái nào có bằng chứng. Phương án còn lại, hoặc nói ngược với bài, là đáp án."
+    },
+    {
+      "id": "q_u02_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "What can we learn from Chloe's message \"He ordered it from me this morning and made me promise to keep it secret!\"?",
+        "vi": "Có thể suy ra điều gì từ tin nhắn của Chloe \"He ordered it from me this morning and made me promise to keep it secret!\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ethan planned the evening before dinner and wanted it to be a surprise.",
+            "vi": "Ethan đã lên kế hoạch cho buổi tối từ trước và muốn đó là một bất ngờ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Ethan planned the evening before dinner and wanted it to be a surprise.",
+          "text_translation": "Ethan đã lên kế hoạch cho buổi tối từ trước và muốn đó là một bất ngờ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Chloe told Leah about the cake in the morning.",
+            "vi": "Chloe đã kể với Leah về chiếc bánh từ sáng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Chloe told Leah about the cake in the morning.",
+          "text_translation": "Chloe đã kể với Leah về chiếc bánh từ sáng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ethan forgot to pay for the cake.",
+            "vi": "Ethan quên trả tiền chiếc bánh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ethan forgot to pay for the cake.",
+          "text_translation": "Ethan quên trả tiền chiếc bánh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah ordered the cake for Ethan.",
+            "vi": "Leah đặt chiếc bánh cho Ethan."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah ordered the cake for Ethan.",
+          "text_translation": "Leah đặt chiếc bánh cho Ethan."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Ethan đặt chiếc bánh có trái tim đỏ từ sáng (\"He ordered it from me this morning\") và bắt Chloe giữ bí mật, nên anh đã chuẩn bị trước cho lời ngỏ buổi tối và muốn Leah bất ngờ. Chloe giữ bí mật, nên không thể đã kể cho Leah. Bài không nói Ethan quên trả tiền. Người đặt bánh là \"he\" (Ethan), không phải Leah."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: hỏi \"vì sao người này phải làm vậy?\". Đặt bánh từ sáng + giữ bí mật = có kế hoạch từ trước và muốn gây bất ngờ."
+      },
+      "question_jp": "What can we learn from Chloe's message \"He ordered it from me this morning and made me promise to keep it secret!\"?",
+      "question_vn": "Có thể suy ra điều gì từ tin nhắn của Chloe \"He ordered it from me this morning and made me promise to keep it secret!\"?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Ethan đặt chiếc bánh có trái tim đỏ từ sáng (\"He ordered it from me this morning\") và bắt Chloe giữ bí mật, nên anh đã chuẩn bị trước cho lời ngỏ buổi tối và muốn Leah bất ngờ. Chloe giữ bí mật, nên không thể đã kể cho Leah. Bài không nói Ethan quên trả tiền. Người đặt bánh là \"he\" (Ethan), không phải Leah.",
+      "tip": "Câu suy luận: hỏi \"vì sao người này phải làm vậy?\". Đặt bánh từ sáng + giữ bí mật = có kế hoạch từ trước và muốn gây bất ngờ."
+    },
+    {
+      "id": "q_u02_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "How does Chloe feel about the way Ethan asked Leah?",
+        "vi": "Chloe thấy thế nào về cách Ethan ngỏ lời với Leah?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She thinks he should practice more.",
+            "vi": "Cô nghĩ anh nên tập nói thêm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She thinks he should practice more.",
+          "text_translation": "Cô nghĩ anh nên tập nói thêm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is jealous of Leah.",
+            "vi": "Cô ghen tị với Leah."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is jealous of Leah.",
+          "text_translation": "Cô ghen tị với Leah."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She thinks it was sweet and typical of him.",
+            "vi": "Cô thấy cách đó dễ thương và đúng kiểu của anh."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She thinks it was sweet and typical of him.",
+          "text_translation": "Cô thấy cách đó dễ thương và đúng kiểu của anh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is annoyed that he kept a secret from her.",
+            "vi": "Cô bực mình vì anh giấu cô một bí mật."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is annoyed that he kept a secret from her.",
+          "text_translation": "Cô bực mình vì anh giấu cô một bí mật."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Chloe trả lời: \"That's so sweet, and so very Ethan.\" \"so very Ethan\" nghĩa là rất đúng kiểu Ethan. Chữ \"jealous\" trong bài là chuyện Chloe ghen với người phụ nữ đi cùng Dustin, không phải với Leah. Ethan không giấu Chloe điều gì, ngược lại còn nhờ cô giữ bí mật. Chloe không chê anh cần tập thêm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi cảm xúc: tìm tính từ trong lời nhân vật (sweet). Một từ cảm xúc xuất hiện ở chỗ khác trong bài (jealous) là bẫy hay gặp."
+      },
+      "question_jp": "How does Chloe feel about the way Ethan asked Leah?",
+      "question_vn": "Chloe thấy thế nào về cách Ethan ngỏ lời với Leah?",
+      "explanation": "Chloe trả lời: \"That's so sweet, and so very Ethan.\" \"so very Ethan\" nghĩa là rất đúng kiểu Ethan. Chữ \"jealous\" trong bài là chuyện Chloe ghen với người phụ nữ đi cùng Dustin, không phải với Leah. Ethan không giấu Chloe điều gì, ngược lại còn nhờ cô giữ bí mật. Chloe không chê anh cần tập thêm.",
+      "tip": "Câu hỏi cảm xúc: tìm tính từ trong lời nhân vật (sweet). Một từ cảm xúc xuất hiện ở chỗ khác trong bài (jealous) là bẫy hay gặp."
+    },
+    {
+      "id": "q_u02_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "What does Leah mean by \"He can carry people out of burning buildings, but he can't say three sweet words without a card!\"?",
+        "vi": "Leah muốn nói gì qua câu \"He can carry people out of burning buildings, but he can't say three sweet words without a card!\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ethan wants to stop working as a firefighter.",
+            "vi": "Ethan muốn thôi làm lính cứu hoả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ethan wants to stop working as a firefighter.",
+          "text_translation": "Ethan muốn thôi làm lính cứu hoả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Ethan is brave at work but shy when he talks about his feelings.",
+            "vi": "Ethan can đảm trong công việc nhưng lại ngại ngùng khi nói về tình cảm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Ethan is brave at work but shy when he talks about his feelings.",
+          "text_translation": "Ethan can đảm trong công việc nhưng lại ngại ngùng khi nói về tình cảm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ethan was hurt in a fire at work.",
+            "vi": "Ethan bị thương trong một vụ cháy khi làm việc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ethan was hurt in a fire at work.",
+          "text_translation": "Ethan bị thương trong một vụ cháy khi làm việc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Ethan needs a card to remember Leah's name.",
+            "vi": "Ethan cần tấm thiệp để nhớ tên Leah."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Ethan needs a card to remember Leah's name.",
+          "text_translation": "Ethan cần tấm thiệp để nhớ tên Leah."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. \"carry people out of burning buildings\" cho thấy Ethan dũng cảm trong nghề cứu hoả, còn \"can't say three sweet words without a card\" cho thấy anh lúng túng khi nói lời yêu thương. Chữ but nối hai mặt trái ngược ấy. Bài không nói anh muốn bỏ nghề hay bị thương. Anh dùng tấm thiệp để nói lời ngỏ, không phải để nhớ tên cô."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu có cấu trúc He can…, but he can't… thường so sánh hai mặt trái ngược của một người. Hãy tìm xem mỗi vế nói về mặt nào."
+      },
+      "question_jp": "What does Leah mean by \"He can carry people out of burning buildings, but he can't say three sweet words without a card!\"?",
+      "question_vn": "Leah muốn nói gì qua câu \"He can carry people out of burning buildings, but he can't say three sweet words without a card!\"?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. \"carry people out of burning buildings\" cho thấy Ethan dũng cảm trong nghề cứu hoả, còn \"can't say three sweet words without a card\" cho thấy anh lúng túng khi nói lời yêu thương. Chữ but nối hai mặt trái ngược ấy. Bài không nói anh muốn bỏ nghề hay bị thương. Anh dùng tấm thiệp để nói lời ngỏ, không phải để nhớ tên cô.",
+      "tip": "Câu có cấu trúc He can…, but he can't… thường so sánh hai mặt trái ngược của một người. Hãy tìm xem mỗi vế nói về mặt nào."
+    },
+    {
+      "id": "q_u02_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "Why did Chloe feel silly?",
+        "vi": "Vì sao Chloe thấy mình ngốc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She forgot about Dustin's Wednesday soup.",
+            "vi": "Cô quên bát súp thứ Tư của Dustin."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She forgot about Dustin's Wednesday soup.",
+          "text_translation": "Cô quên bát súp thứ Tư của Dustin."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She told Leah about Ethan's secret.",
+            "vi": "Cô kể bí mật của Ethan cho Leah."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She told Leah about Ethan's secret.",
+          "text_translation": "Cô kể bí mật của Ethan cho Leah."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She and Dustin broke up by message.",
+            "vi": "Cô và Dustin chia tay qua tin nhắn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She and Dustin broke up by message.",
+          "text_translation": "Cô và Dustin chia tay qua tin nhắn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The woman she was jealous of was Dustin's sister.",
+            "vi": "Người phụ nữ cô ghen hoá ra là chị gái của Dustin."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The woman she was jealous of was Dustin's sister.",
+          "text_translation": "Người phụ nữ cô ghen hoá ra là chị gái của Dustin."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Chloe viết: \"It turned out that she's his older sister and half of the dogs are hers, so I felt really silly.\" Chữ so nối nguyên nhân với kết quả: cô ghen nhầm với chính chị gái của Dustin. Bát súp thứ Tư là nơi hai người làm lành, cô không quên nó. Chloe chỉ nhắc tới chiếc bánh khi Leah đã kể xong. Bài nói hai người giận nhau (\"We fell out again\"), không nói chia tay qua tin nhắn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tìm cụm cảm xúc trong câu hỏi (felt really silly) trong bài, rồi đọc phần đứng trước chữ so: đó là lý do."
+      },
+      "question_jp": "Why did Chloe feel silly?",
+      "question_vn": "Vì sao Chloe thấy mình ngốc?",
+      "explanation": "Chloe viết: \"It turned out that she's his older sister and half of the dogs are hers, so I felt really silly.\" Chữ so nối nguyên nhân với kết quả: cô ghen nhầm với chính chị gái của Dustin. Bát súp thứ Tư là nơi hai người làm lành, cô không quên nó. Chloe chỉ nhắc tới chiếc bánh khi Leah đã kể xong. Bài nói hai người giận nhau (\"We fell out again\"), không nói chia tay qua tin nhắn.",
+      "tip": "Tìm cụm cảm xúc trong câu hỏi (felt really silly) trong bài, rồi đọc phần đứng trước chữ so: đó là lý do."
+    },
+    {
+      "id": "q_u02_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Which is the best title for the article?",
+        "vi": "Đâu là tiêu đề phù hợp nhất cho bài báo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Many Online Friends, but Close Friends Need Time and Care",
+            "vi": "Nhiều bạn trên mạng, nhưng bạn thân cần thời gian và sự quan tâm"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Many Online Friends, but Close Friends Need Time and Care",
+          "text_translation": "Nhiều bạn trên mạng, nhưng bạn thân cần thời gian và sự quan tâm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "How to Get More Followers Than Your Classmates",
+            "vi": "Cách có nhiều người theo dõi hơn bạn cùng lớp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "How to Get More Followers Than Your Classmates",
+          "text_translation": "Cách có nhiều người theo dõi hơn bạn cùng lớp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Why Students Should Stop Using Social Media",
+            "vi": "Vì sao học sinh nên ngừng dùng mạng xã hội"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Why Students Should Stop Using Social Media",
+          "text_translation": "Vì sao học sinh nên ngừng dùng mạng xã hội"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Working Side by Side Makes the Best Friends",
+            "vi": "Làm việc cạnh nhau tạo nên những người bạn tốt nhất"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Working Side by Side Makes the Best Friends",
+          "text_translation": "Làm việc cạnh nhau tạo nên những người bạn tốt nhất"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3,
+        11,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Bài mở đầu bằng câu hỏi \"how many of them could we call at two in the morning?\", rồi nêu nghiên cứu về số bạn ta dựa vào được, số giờ cần để thành bạn, và kết bằng \"Your phone can help a friendship grow, but it can't do the work for you.\" Bài khuyên đừng lo về số người theo dõi (\"don't worry if your classmates have more followers than you\"), không khuyên bỏ mạng xã hội. Hall thấy làm việc cạnh nhau có giá trị ÍT hơn đùa vui, trò chuyện."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi tiêu đề: phương án phải bao được cả bài. Phương án nói ngược ý bài (more followers, working side by side) là bẫy."
+      },
+      "question_jp": "Which is the best title for the article?",
+      "question_vn": "Đâu là tiêu đề phù hợp nhất cho bài báo?",
+      "explanation": "Bài mở đầu bằng câu hỏi \"how many of them could we call at two in the morning?\", rồi nêu nghiên cứu về số bạn ta dựa vào được, số giờ cần để thành bạn, và kết bằng \"Your phone can help a friendship grow, but it can't do the work for you.\" Bài khuyên đừng lo về số người theo dõi (\"don't worry if your classmates have more followers than you\"), không khuyên bỏ mạng xã hội. Hall thấy làm việc cạnh nhau có giá trị ÍT hơn đùa vui, trò chuyện.",
+      "tip": "Câu hỏi tiêu đề: phương án phải bao được cả bài. Phương án nói ngược ý bài (more followers, working side by side) là bẫy."
+    },
+    {
+      "id": "q_u02_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "In Dunbar's study, how many of their online friends could people rely on in a crisis, on average?",
+        "vi": "Trong nghiên cứu của Dunbar, trung bình người ta có thể dựa vào bao nhiêu người bạn trên mạng khi gặp chuyện khó khăn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "more than 150",
+            "vi": "hơn 150"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "more than 150",
+          "text_translation": "hơn 150"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about fourteen",
+            "vi": "khoảng mười bốn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "about fourteen",
+          "text_translation": "khoảng mười bốn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "about four",
+            "vi": "khoảng bốn"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "about four",
+          "text_translation": "khoảng bốn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "about fifty",
+            "vi": "khoảng năm mươi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "about fifty",
+          "text_translation": "khoảng năm mươi"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"On average, they had over 150 online friends but could rely on only about four in a crisis.\" Hơn 150 là tổng số bạn trên mạng. Mười bốn là số người \"would show sympathy\" (bày tỏ cảm thông). Năm mươi là số giờ trong nghiên cứu của Hall."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài báo có nhiều con số. Gạch chân từ khoá của câu hỏi (rely on, crisis) rồi tìm con số đứng cạnh đúng từ khoá đó."
+      },
+      "question_jp": "In Dunbar's study, how many of their online friends could people rely on in a crisis, on average?",
+      "question_vn": "Trong nghiên cứu của Dunbar, trung bình người ta có thể dựa vào bao nhiêu người bạn trên mạng khi gặp chuyện khó khăn?",
+      "explanation": "\"On average, they had over 150 online friends but could rely on only about four in a crisis.\" Hơn 150 là tổng số bạn trên mạng. Mười bốn là số người \"would show sympathy\" (bày tỏ cảm thông). Năm mươi là số giờ trong nghiên cứu của Hall.",
+      "tip": "Bài báo có nhiều con số. Gạch chân từ khoá của câu hỏi (rely on, crisis) rồi tìm con số đứng cạnh đúng từ khoá đó."
+    },
+    {
+      "id": "q_u02_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "In Hall's study, how long does it take to turn an acquaintance into a casual friend?",
+        "vi": "Theo Hall, cần bao lâu để biến một người quen thành một người bạn xã giao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about ninety hours",
+            "vi": "khoảng chín mươi giờ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "about ninety hours",
+          "text_translation": "khoảng chín mươi giờ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about fifty hours",
+            "vi": "khoảng năm mươi giờ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "about fifty hours",
+          "text_translation": "khoảng năm mươi giờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "more than two hundred hours",
+            "vi": "hơn hai trăm giờ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "more than two hundred hours",
+          "text_translation": "hơn hai trăm giờ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "about fourteen hours",
+            "vi": "khoảng mười bốn giờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "about fourteen hours",
+          "text_translation": "khoảng mười bốn giờ"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"it takes about fifty hours together to turn an acquaintance into a casual friend.\" Chín mươi giờ là để trở thành bạn thật sự (\"Becoming real friends takes about ninety hours\"), hơn hai trăm giờ là để có \"a strong bond\". Mười bốn là số người trong nghiên cứu của Dunbar, không phải số giờ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cấu trúc it takes + thời gian + to do: thời gian đứng ngay sau takes. Ba mốc 50 / 90 / 200 giờ đi theo ba bậc của tình bạn, đừng lẫn bậc."
+      },
+      "question_jp": "In Hall's study, how long does it take to turn an acquaintance into a casual friend?",
+      "question_vn": "Theo Hall, cần bao lâu để biến một người quen thành một người bạn xã giao?",
+      "explanation": "\"it takes about fifty hours together to turn an acquaintance into a casual friend.\" Chín mươi giờ là để trở thành bạn thật sự (\"Becoming real friends takes about ninety hours\"), hơn hai trăm giờ là để có \"a strong bond\". Mười bốn là số người trong nghiên cứu của Dunbar, không phải số giờ.",
+      "tip": "Cấu trúc it takes + thời gian + to do: thời gian đứng ngay sau takes. Ba mốc 50 / 90 / 200 giờ đi theo ba bậc của tình bạn, đừng lẫn bậc."
+    },
+    {
+      "id": "q_u02_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "In \"friendships slowly fade when people stop seeing each other\", what does \"fade\" mean?",
+        "vi": "Trong câu \"friendships slowly fade when people stop seeing each other\", \"fade\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "become weaker little by little",
+            "vi": "yếu dần đi từng chút một"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "become weaker little by little",
+          "text_translation": "yếu dần đi từng chút một"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "grow stronger",
+            "vi": "mạnh lên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "grow stronger",
+          "text_translation": "mạnh lên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "end suddenly",
+            "vi": "kết thúc đột ngột"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "end suddenly",
+          "text_translation": "kết thúc đột ngột"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "move online",
+            "vi": "chuyển lên mạng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "move online",
+          "text_translation": "chuyển lên mạng"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Dunbar believes friendships slowly fade when people stop seeing each other, and social media can slow this down.\" Chữ slowly và việc mạng xã hội \"slow this down\" cho thấy fade là phai nhạt dần, yếu đi từng chút. Vì có slowly nên không thể là \"kết thúc đột ngột\". Ngừng gặp nhau thì tình bạn không mạnh lên. \"move online\" là cách làm chậm quá trình đó, không phải nghĩa của fade."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Từ đi kèm (slowly) và câu đứng sau (slow this down) là manh mối đoán nghĩa. Loại phương án mâu thuẫn với các từ đi kèm đó."
+      },
+      "question_jp": "In \"friendships slowly fade when people stop seeing each other\", what does \"fade\" mean?",
+      "question_vn": "Trong câu \"friendships slowly fade when people stop seeing each other\", \"fade\" nghĩa là gì?",
+      "explanation": "\"Dunbar believes friendships slowly fade when people stop seeing each other, and social media can slow this down.\" Chữ slowly và việc mạng xã hội \"slow this down\" cho thấy fade là phai nhạt dần, yếu đi từng chút. Vì có slowly nên không thể là \"kết thúc đột ngột\". Ngừng gặp nhau thì tình bạn không mạnh lên. \"move online\" là cách làm chậm quá trình đó, không phải nghĩa của fade.",
+      "tip": "Từ đi kèm (slowly) và câu đứng sau (slow this down) là manh mối đoán nghĩa. Loại phương án mâu thuẫn với các từ đi kèm đó."
+    },
+    {
+      "id": "q_u02_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "In \"social media can slow this down\", what does \"this\" refer to?",
+        "vi": "Trong câu \"social media can slow this down\", \"this\" chỉ điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a quick message",
+            "vi": "một tin nhắn ngắn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a quick message",
+          "text_translation": "một tin nhắn ngắn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Hall's study",
+            "vi": "nghiên cứu của Hall"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Hall's study",
+          "text_translation": "nghiên cứu của Hall"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "meeting face to face",
+            "vi": "việc gặp mặt trực tiếp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "meeting face to face",
+          "text_translation": "việc gặp mặt trực tiếp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "friendships becoming weaker when friends stop seeing each other",
+            "vi": "việc tình bạn yếu dần khi bạn bè không gặp nhau nữa"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "friendships becoming weaker when friends stop seeing each other",
+          "text_translation": "việc tình bạn yếu dần khi bạn bè không gặp nhau nữa"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ: \"Dunbar believes friendships slowly fade when people stop seeing each other, and social media can slow this down.\" \"this\" chỉ cả ý ở vế trước: tình bạn phai nhạt dần khi không gặp nhau. Tin nhắn ngắn là công cụ giúp làm chậm việc đó, nằm ở câu sau. Nghiên cứu của Hall ở mục trước. Gặp mặt trực tiếp là điều bài khuyên nên làm, không phải thứ cần làm chậm lại."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "this có thể chỉ cả một ý, không chỉ một danh từ. Thử thay ý ở vế trước vào chỗ this: social media can slow [friendships fading] down."
+      },
+      "question_jp": "In \"social media can slow this down\", what does \"this\" refer to?",
+      "question_vn": "Trong câu \"social media can slow this down\", \"this\" chỉ điều gì?",
+      "explanation": "Câu đầy đủ: \"Dunbar believes friendships slowly fade when people stop seeing each other, and social media can slow this down.\" \"this\" chỉ cả ý ở vế trước: tình bạn phai nhạt dần khi không gặp nhau. Tin nhắn ngắn là công cụ giúp làm chậm việc đó, nằm ở câu sau. Nghiên cứu của Hall ở mục trước. Gặp mặt trực tiếp là điều bài khuyên nên làm, không phải thứ cần làm chậm lại.",
+      "tip": "this có thể chỉ cả một ý, không chỉ một danh từ. Thử thay ý ở vế trước vào chỗ this: social media can slow [friendships fading] down."
+    },
+    {
+      "id": "q_u02_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Which statement is TRUE, based on the article?",
+        "vi": "Theo bài báo, câu nào ĐÚNG?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Online contact alone is enough to keep a friendship.",
+            "vi": "Chỉ liên lạc trên mạng là đủ để giữ một tình bạn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Online contact alone is enough to keep a friendship.",
+          "text_translation": "Chỉ liên lạc trên mạng là đủ để giữ một tình bạn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Most people can rely on all of their online friends.",
+            "vi": "Đa số mọi người có thể dựa vào tất cả bạn bè trên mạng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Most people can rely on all of their online friends.",
+          "text_translation": "Đa số mọi người có thể dựa vào tất cả bạn bè trên mạng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Joking and talking together count more than working side by side.",
+            "vi": "Đùa vui và trò chuyện cùng nhau có giá trị hơn làm việc cạnh nhau."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Joking and talking together count more than working side by side.",
+          "text_translation": "Đùa vui và trò chuyện cùng nhau có giá trị hơn làm việc cạnh nhau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dunbar asked 150 adults about their Facebook friends.",
+            "vi": "Dunbar đã hỏi 150 người trưởng thành về bạn bè trên Facebook."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Dunbar asked 150 adults about their Facebook friends.",
+          "text_translation": "Dunbar đã hỏi 150 người trưởng thành về bạn bè trên Facebook."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Joking, talking and having fun count much more than working side by side.\" Ba phương án kia sai: bài viết \"online contact alone is probably not enough\"; người ta chỉ dựa được vào \"only about four\"; Dunbar hỏi \"more than 3,300 adults\", còn 150 là số bạn trên mạng trung bình."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu TRUE: phương án sai thường đổi một con số (150 thay cho 3,300) hoặc bỏ mất một chữ quan trọng (not enough → enough)."
+      },
+      "question_jp": "Which statement is TRUE, based on the article?",
+      "question_vn": "Theo bài báo, câu nào ĐÚNG?",
+      "explanation": "\"Joking, talking and having fun count much more than working side by side.\" Ba phương án kia sai: bài viết \"online contact alone is probably not enough\"; người ta chỉ dựa được vào \"only about four\"; Dunbar hỏi \"more than 3,300 adults\", còn 150 là số bạn trên mạng trung bình.",
+      "tip": "Câu TRUE: phương án sai thường đổi một con số (150 thay cho 3,300) hoặc bỏ mất một chữ quan trọng (not enough → enough)."
+    },
+    {
+      "id": "q_u02_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "What can keep a bond alive, as the article says?",
+        "vi": "Theo bài báo, điều gì có thể giữ cho một mối gắn kết còn sống?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a quick message to a friend who you no longer see every day",
+            "vi": "một tin nhắn ngắn gửi người bạn mà bạn không còn gặp hằng ngày"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a quick message to a friend who you no longer see every day",
+          "text_translation": "một tin nhắn ngắn gửi người bạn mà bạn không còn gặp hằng ngày"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "having more followers than your classmates",
+            "vi": "có nhiều người theo dõi hơn bạn cùng lớp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "having more followers than your classmates",
+          "text_translation": "có nhiều người theo dõi hơn bạn cùng lớp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "working side by side",
+            "vi": "làm việc cạnh nhau"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "working side by side",
+          "text_translation": "làm việc cạnh nhau"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "asking 3,300 adults about friendship",
+            "vi": "hỏi 3.300 người trưởng thành về tình bạn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "asking 3,300 adults about friendship",
+          "text_translation": "hỏi 3.300 người trưởng thành về tình bạn"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"A quick message can keep a bond alive with a friend who you no longer see every day.\" Số người theo dõi là thứ bài bảo đừng lo (\"don't worry\"). Làm việc cạnh nhau có giá trị ít hơn đùa vui, trò chuyện. 3.300 người là những người tham gia nghiên cứu của Dunbar."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi lặp lại gần nguyên cụm trong bài (keep a bond alive). Tìm đúng cụm đó rồi đọc chủ ngữ của câu."
+      },
+      "question_jp": "What can keep a bond alive, as the article says?",
+      "question_vn": "Theo bài báo, điều gì có thể giữ cho một mối gắn kết còn sống?",
+      "explanation": "\"A quick message can keep a bond alive with a friend who you no longer see every day.\" Số người theo dõi là thứ bài bảo đừng lo (\"don't worry\"). Làm việc cạnh nhau có giá trị ít hơn đùa vui, trò chuyện. 3.300 người là những người tham gia nghiên cứu của Dunbar.",
+      "tip": "Câu hỏi lặp lại gần nguyên cụm trong bài (keep a bond alive). Tìm đúng cụm đó rồi đọc chủ ngữ của câu."
+    },
+    {
+      "id": "q_u02_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "What is the writer's attitude toward social media?",
+        "vi": "Thái độ của người viết đối với mạng xã hội là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is the best way to make close friends.",
+            "vi": "Đó là cách tốt nhất để có bạn thân."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is the best way to make close friends.",
+          "text_translation": "Đó là cách tốt nhất để có bạn thân."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is dangerous, and people should stop using it.",
+            "vi": "Nó nguy hiểm, và mọi người nên ngừng dùng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is dangerous, and people should stop using it.",
+          "text_translation": "Nó nguy hiểm, và mọi người nên ngừng dùng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The writer doesn't have an opinion about it.",
+            "vi": "Người viết không có ý kiến gì về nó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The writer doesn't have an opinion about it.",
+          "text_translation": "Người viết không có ý kiến gì về nó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It can help friendships, but it can't take the place of time together.",
+            "vi": "Nó có thể giúp tình bạn, nhưng không thay được thời gian ở bên nhau."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It can help friendships, but it can't take the place of time together.",
+          "text_translation": "Nó có thể giúp tình bạn, nhưng không thay được thời gian ở bên nhau."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng thái độ, nhưng ta suy ra được từ cách người viết cân nhắc hai mặt: \"But online contact alone is probably not enough: friends need to meet one another face to face from time to time.\" và câu kết \"Your phone can help a friendship grow, but it can't do the work for you.\" Người viết thấy mạng xã hội có ích nhưng không đủ. Bài không nói đó là cách tốt nhất, cũng không bảo ngừng dùng. Người viết có ý kiến rõ ràng, nên phương án \"không có ý kiến\" sai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu thái độ: tìm các câu có but / however ở cuối bài. Người viết thường nêu mặt tốt trước but, rồi nêu giới hạn sau but."
+      },
+      "question_jp": "What is the writer's attitude toward social media?",
+      "question_vn": "Thái độ của người viết đối với mạng xã hội là gì?",
+      "explanation": "Bài không nói thẳng thái độ, nhưng ta suy ra được từ cách người viết cân nhắc hai mặt: \"But online contact alone is probably not enough: friends need to meet one another face to face from time to time.\" và câu kết \"Your phone can help a friendship grow, but it can't do the work for you.\" Người viết thấy mạng xã hội có ích nhưng không đủ. Bài không nói đó là cách tốt nhất, cũng không bảo ngừng dùng. Người viết có ý kiến rõ ràng, nên phương án \"không có ý kiến\" sai.",
+      "tip": "Câu thái độ: tìm các câu có but / however ở cuối bài. Người viết thường nêu mặt tốt trước but, rồi nêu giới hạn sau but."
+    },
+    {
+      "id": "q_u02_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Why does the writer mention calling \"a friend who you have been ignoring\"?",
+        "vi": "Vì sao người viết nhắc tới việc gọi cho \"a friend who you have been ignoring\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that phones are bad for friendships",
+            "vi": "để cho thấy điện thoại có hại cho tình bạn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that phones are bad for friendships",
+          "text_translation": "để cho thấy điện thoại có hại cho tình bạn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to give a practical example of choosing quality over quantity",
+            "vi": "để đưa ra một ví dụ thực tế về việc chọn chất lượng hơn số lượng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to give a practical example of choosing quality over quantity",
+          "text_translation": "để đưa ra một ví dụ thực tế về việc chọn chất lượng hơn số lượng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how Hall did his study",
+            "vi": "để giải thích Hall đã làm nghiên cứu thế nào"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain how Hall did his study",
+          "text_translation": "để giải thích Hall đã làm nghiên cứu thế nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell readers to get more followers",
+            "vi": "để bảo người đọc có thêm người theo dõi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell readers to get more followers",
+          "text_translation": "để bảo người đọc có thêm người theo dõi"
+        }
+      ],
+      "evidence_segments": [
+        16,
+        18,
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Câu này nằm trong mục \"Quality, not quantity\", ngay sau lời khuyên \"give your time to the few people whom you trust most\". Gọi cho người bạn đang bị lờ đi là một việc cụ thể, làm được ngay, để chăm sóc số ít bạn quan trọng. Người viết không chê điện thoại (\"Your phone can help a friendship grow\"). Nghiên cứu của Hall ở mục khác. Bài bảo đừng lo về số người theo dõi, chứ không bảo có thêm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu mục đích: xem chi tiết đó nằm dưới tiêu đề mục nào. Tiêu đề mục (Quality, not quantity) thường nói lên mục đích của các ví dụ bên dưới."
+      },
+      "question_jp": "Why does the writer mention calling \"a friend who you have been ignoring\"?",
+      "question_vn": "Vì sao người viết nhắc tới việc gọi cho \"a friend who you have been ignoring\"?",
+      "explanation": "Câu này nằm trong mục \"Quality, not quantity\", ngay sau lời khuyên \"give your time to the few people whom you trust most\". Gọi cho người bạn đang bị lờ đi là một việc cụ thể, làm được ngay, để chăm sóc số ít bạn quan trọng. Người viết không chê điện thoại (\"Your phone can help a friendship grow\"). Nghiên cứu của Hall ở mục khác. Bài bảo đừng lo về số người theo dõi, chứ không bảo có thêm.",
+      "tip": "Câu mục đích: xem chi tiết đó nằm dưới tiêu đề mục nào. Tiêu đề mục (Quality, not quantity) thường nói lên mục đích của các ví dụ bên dưới."
+    },
+    {
+      "id": "q_u02_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Based on Hall's study, which best explains why Leah and Ethan already had a strong bond before they started dating?",
+        "vi": "Dựa vào nghiên cứu của Hall, điều gì giải thích hợp lý nhất vì sao Leah và Ethan đã gắn bó với nhau từ trước khi bắt đầu hẹn hò?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They work side by side at the same fire station.",
+            "vi": "Họ làm việc cạnh nhau ở cùng một trạm cứu hoả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They work side by side at the same fire station.",
+          "text_translation": "Họ làm việc cạnh nhau ở cùng một trạm cứu hoả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Ethan often sends her quick comments on photos.",
+            "vi": "Ethan hay gửi cô những bình luận ngắn về ảnh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Ethan often sends her quick comments on photos.",
+          "text_translation": "Ethan hay gửi cô những bình luận ngắn về ảnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have spent many hours talking, and talking counts a lot.",
+            "vi": "Họ đã dành rất nhiều giờ trò chuyện, mà trò chuyện có giá trị rất lớn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They have spent many hours talking, and talking counts a lot.",
+          "text_translation": "Họ đã dành rất nhiều giờ trò chuyện, mà trò chuyện có giá trị rất lớn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They have many followers in common online.",
+            "vi": "Họ có nhiều người theo dõi chung trên mạng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They have many followers in common online.",
+          "text_translation": "Họ có nhiều người theo dõi chung trên mạng."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu này nối hai bài đọc. Bài 2 viết \"a strong bond takes more than two hundred\" giờ, và \"Joking, talking and having fun count much more than working side by side.\" Ở bài 1, Chloe nhắc tới \"the firefighter who you talk to for hours every night\". Nói chuyện hàng giờ mỗi tối thì sẽ có rất nhiều giờ trò chuyện, đúng loại thời gian giúp gắn kết. Leah là bác sĩ, không làm ở trạm cứu hoả. Bài 1 không nói tới bình luận ảnh hay người theo dõi chung."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: lấy quy luật ở bài kiến thức (50 / 90 / 200 giờ, trò chuyện có giá trị hơn) rồi áp vào chi tiết của nhân vật ở bài kia (talk for hours every night)."
+      },
+      "question_jp": "Based on Hall's study, which best explains why Leah and Ethan already had a strong bond before they started dating?",
+      "question_vn": "Dựa vào nghiên cứu của Hall, điều gì giải thích hợp lý nhất vì sao Leah và Ethan đã gắn bó với nhau từ trước khi bắt đầu hẹn hò?",
+      "explanation": "Câu này nối hai bài đọc. Bài 2 viết \"a strong bond takes more than two hundred\" giờ, và \"Joking, talking and having fun count much more than working side by side.\" Ở bài 1, Chloe nhắc tới \"the firefighter who you talk to for hours every night\". Nói chuyện hàng giờ mỗi tối thì sẽ có rất nhiều giờ trò chuyện, đúng loại thời gian giúp gắn kết. Leah là bác sĩ, không làm ở trạm cứu hoả. Bài 1 không nói tới bình luận ảnh hay người theo dõi chung.",
+      "tip": "Câu nối hai bài: lấy quy luật ở bài kiến thức (50 / 90 / 200 giờ, trò chuyện có giá trị hơn) rồi áp vào chi tiết của nhân vật ở bài kia (talk for hours every night)."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u02_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tin nhắn đêm khuya: Leah kể với Chloe chuyện Ethan ngỏ lời",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u02_01",
+      "question_ids": [
+        "q_u02_001",
+        "q_u02_002",
+        "q_u02_003",
+        "q_u02_004",
+        "q_u02_005",
+        "q_u02_006",
+        "q_u02_007",
+        "q_u02_008",
+        "q_u02_009",
+        "q_u02_010"
+      ]
+    },
+    {
+      "set_id": "set_u02_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài báo: tình bạn thật trong thế giới mạng xã hội",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u02_02",
+      "question_ids": [
+        "q_u02_011",
+        "q_u02_012",
+        "q_u02_013",
+        "q_u02_014",
+        "q_u02_015",
+        "q_u02_016",
+        "q_u02_017",
+        "q_u02_018",
+        "q_u02_019",
+        "q_u02_020"
+      ]
+    }
+  ]
+}
