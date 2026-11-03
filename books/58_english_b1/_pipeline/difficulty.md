@@ -25,3 +25,4 @@ Mốc nối từ A2: u20 sách 57 = 265 / 265 từ, TB 16,0 / 16,7 từ/câu.
 | u2930 | 328 / 336 | 18.7 / 17.2 | email Tracy về bạn cùng phòng Camila (make/let/have, What if, khoanh vùng văn hoá) + bài học ngoại ngữ ở các độ tuổi (nghiên cứu 2018); 6 câu suy luận (1 nối 2 bài) |
 | u3132 | 333 / 341 | 17.0 / 18.4 | nhóm chat hàng xóm tìm xe đạp bị trộm (be supposed to, not to do) + lịch sử vắc-xin từ Jenner (there must be, be likely to); 6 câu suy luận (1 nối 2 bài) |
 | u3334 | 342 / 318 | 18.4 / 19.6 | báo cáo phỏng vấn bà Harriet về Maple Street những năm 1970 (do/did nhấn mạnh; tránh hết từ vựng chiến tranh của phiếu b1.129–130) + thành phố năm 2050 (will have done, should have done); 6 câu suy luận (1 nối 2 bài) |
+| u3536 | 320 / 343 | 16.1 / 21.1 | email khiếu nại của Harriet + thư trả lời (as if, explain/suggest to) + cuộc gọi Tracy–Leah trước kỳ thi (wish, V-ing chủ ngữ); 6 câu suy luận/giọng điệu (1 nối 2 bài) |

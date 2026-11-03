@@ -1,0 +1,2049 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 35–36 — Problems and complaints & Feelings and stress",
+      "vi": "Phàn nàn, giải quyết vấn đề & Cảm xúc, áp lực"
+    },
+    "title": "Units 35–36 — Problems and complaints & Feelings and stress",
+    "title_vn": "Phàn nàn, giải quyết vấn đề & Cảm xúc, áp lực",
+    "module_code": "58_u3536",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u35+u36",
+    "curriculum_sheets": [
+      "b1.137",
+      "b1.138",
+      "b1.139",
+      "b1.140",
+      "b1.141",
+      "b1.142",
+      "b1.143",
+      "b1.144"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Tracy Carter",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 11–12, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "As if, explain/suggest to, wish, giọng điệu",
+    "description_vn": "Email khiếu nại của bà Harriet gửi nhà cung cấp cà phê kèm thư trả lời, và cuộc gọi đêm khuya của Tracy cho Leah trước kỳ thi cuối kỳ. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 35 + Unit 36 khoá B1 · phiếu `b1.137` – `b1.144` (as if / as though, viết khiếu nại, xin lỗi, giải quyết vấn đề; ước muốn với wish, căng thẳng và thư giãn, tâm trạng, an ủi bạn bè)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một email khiếu nại kèm thư trả lời và một cuộc gọi điện thoại; hiểu `as if + quá khứ hoàn thành`, `explain / suggest to + người`, `wish + quá khứ / quá khứ hoàn thành`, cụm V-ing làm chủ ngữ, nhận ra giọng điệu và mục đích của từng phần thư."
+    },
+    "extra_words": [
+      {
+        "word": "sincere",
+        "i18n": {
+          "vi": "chân thành (Yours sincerely = trân trọng)"
+        }
+      },
+      {
+        "word": "inconvenience",
+        "i18n": {
+          "vi": "sự phiền toái"
+        }
+      },
+      {
+        "word": "delivery",
+        "i18n": {
+          "vi": "lần giao hàng"
+        }
+      },
+      {
+        "word": "supplier",
+        "i18n": {
+          "vi": "nhà cung cấp"
+        }
+      },
+      {
+        "word": "warehouse",
+        "i18n": {
+          "vi": "nhà kho"
+        }
+      },
+      {
+        "word": "refund",
+        "i18n": {
+          "vi": "hoàn tiền"
+        }
+      },
+      {
+        "word": "loyal",
+        "i18n": {
+          "vi": "trung thành"
+        }
+      },
+      {
+        "word": "finals",
+        "i18n": {
+          "vi": "kỳ thi cuối kỳ"
+        }
+      },
+      {
+        "word": "exhausted",
+        "i18n": {
+          "vi": "kiệt sức"
+        }
+      },
+      {
+        "word": "chest",
+        "i18n": {
+          "vi": "ngực"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "sort this out",
+          "vi": "giải quyết việc này"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make up for",
+          "vi": "bù đắp cho"
+        }
+      },
+      {
+        "i18n": {
+          "en": "accept our apology",
+          "vi": "nhận lời xin lỗi của chúng tôi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fall behind",
+          "vi": "tụt lại phía sau"
+        }
+      },
+      {
+        "i18n": {
+          "en": "check on someone",
+          "vi": "hỏi thăm ai"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take care of yourself",
+          "vi": "chăm sóc bản thân"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Thư khiếu nại tốt có 3 phần: nêu sự việc (ngày, chi tiết) → hậu quả → đề xuất. Câu hỏi mục đích hay hỏi đúng cấu trúc này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`as if + quá khứ hoàn thành` là so sánh tưởng tượng, không phải sự thật. Loại phương án hiểu theo nghĩa đen."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`I wish I had + V3` = tiếc về quá khứ; `I wish you were here` = ước điều không có thật ở hiện tại."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi giọng điệu: tìm các cụm như `please accept our sincere apology`, `You are completely right`."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3536_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 35) — Email khiếu nại của bà Harriet và thư trả lời"
+      },
+      "narrator": "Harriet",
+      "title": "Subject: Problems with our last two deliveries",
+      "category": "email",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: Problems with our last two deliveries",
+            "vi": "Tiêu đề: Sự cố với hai lần giao hàng gần đây"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From: Harriet Brooks, Harriet's Café",
+            "vi": "Từ: Harriet Brooks, quán cà phê Harriet's"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To: Customer Care, Coastline Coffee Company",
+            "vi": "Tới: Bộ phận Chăm sóc khách hàng, Công ty cà phê Coastline"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear Customer Care team,",
+            "vi": "Kính gửi bộ phận Chăm sóc khách hàng,"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have bought coffee from your company for almost ten years, and this is the first time that I have had to write to you like this.",
+            "vi": "Tôi mua cà phê của quý công ty đã gần mười năm, và đây là lần đầu tiên tôi phải viết thư như thế này."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Unfortunately, the last two deliveries have had problems.",
+            "vi": "Không may là hai lần giao hàng gần đây đều có sự cố."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On November 3 and November 17, the boxes arrived two days late, several bags were torn, and the beans inside were damp.",
+            "vi": "Ngày 3 và ngày 17 tháng Mười một, các thùng hàng tới muộn hai ngày, nhiều túi bị rách, và hạt cà phê bên trong bị ẩm."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Worse, the coffee tasted strange, as if it had been left in a hot car for a week.",
+            "vi": "Tệ hơn nữa, cà phê có vị lạ, như thể bị bỏ quên trong một chiếc xe nóng suốt một tuần."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My regular customers noticed immediately. One gentleman, who has had the same coffee every morning for years, pushed his cup away and asked me if I had changed suppliers.",
+            "vi": "Khách quen của tôi nhận ra ngay. Một quý ông sáng nào cũng uống đúng loại cà phê ấy nhiều năm nay đã đẩy tách ra và hỏi tôi có đổi nhà cung cấp không."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have explained to my staff that this is not their fault, but I cannot keep serving coffee like this.",
+            "vi": "Tôi đã giải thích với nhân viên rằng đây không phải lỗi của các cháu, nhưng tôi không thể tiếp tục phục vụ thứ cà phê như vậy."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Could you please explain to me what has happened?",
+            "vi": "Xin quý công ty giải thích cho tôi chuyện gì đã xảy ra?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I would also like to suggest a solution: please replace the damaged bags, and check the next delivery carefully before it leaves your warehouse.",
+            "vi": "Tôi cũng xin đề xuất một cách giải quyết: hãy đổi những túi bị hỏng, và kiểm tra kỹ lần giao tới trước khi hàng rời kho."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I hope that we can sort this out quickly. Yours sincerely, Harriet Brooks",
+            "vi": "Mong chúng ta sớm giải quyết được việc này. Trân trọng, Harriet Brooks"
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: RE: Problems with our last two deliveries",
+            "vi": "Tiêu đề: TRẢ LỜI: Sự cố với hai lần giao hàng gần đây"
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear Mrs. Brooks,",
+            "vi": "Kính gửi bà Brooks,"
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thank you for writing to us, and please accept our sincere apology.",
+            "vi": "Cảm ơn bà đã viết thư cho chúng tôi, và xin bà nhận lời xin lỗi chân thành của chúng tôi."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You are completely right. In early November, the cooling system in one of our delivery trucks broke down, and we did not notice it soon enough. Your boxes were in that truck.",
+            "vi": "Bà hoàn toàn đúng. Đầu tháng Mười một, hệ thống làm mát trên một xe giao hàng của chúng tôi bị hỏng, và chúng tôi đã không phát hiện kịp. Thùng hàng của bà nằm trên xe đó."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We have repaired the truck, and from now on, every box will be checked by two people before it leaves.",
+            "vi": "Chúng tôi đã sửa xe, và từ nay mỗi thùng hàng sẽ được hai người kiểm tra trước khi xuất đi."
+          }
+        },
+        {
+          "n": 19,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To make up for the inconvenience, we will refund the full cost of both deliveries and send you two free bags of our new winter coffee.",
+            "vi": "Để bù cho sự phiền toái này, chúng tôi sẽ hoàn lại toàn bộ tiền của cả hai lần giao hàng và gửi tặng bà hai túi cà phê mùa đông mới."
+          }
+        },
+        {
+          "n": 20,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Loyal customers like you are the reason why we are still in business. If anything else goes wrong, please call me directly.",
+            "vi": "Những khách hàng trung thành như bà là lý do chúng tôi vẫn còn kinh doanh được. Nếu có gì trục trặc nữa, xin bà gọi thẳng cho tôi."
+          }
+        },
+        {
+          "n": 21,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Best regards, Rob Daniels, Customer Care Manager",
+            "vi": "Trân trọng, Rob Daniels, Trưởng bộ phận Chăm sóc khách hàng"
+          }
+        }
+      ],
+      "content_ja": "Subject: Problems with our last two deliveries\n\nFrom: Harriet Brooks, Harriet's Café\n\nTo: Customer Care, Coastline Coffee Company\n\nDear Customer Care team,\n\nI have bought coffee from your company for almost ten years, and this is the first time that I have had to write to you like this. Unfortunately, the last two deliveries have had problems. On November 3 and November 17, the boxes arrived two days late, several bags were torn, and the beans inside were damp. Worse, the coffee tasted strange, as if it had been left in a hot car for a week. My regular customers noticed immediately. One gentleman, who has had the same coffee every morning for years, pushed his cup away and asked me if I had changed suppliers.\n\nI have explained to my staff that this is not their fault, but I cannot keep serving coffee like this. Could you please explain to me what has happened? I would also like to suggest a solution: please replace the damaged bags, and check the next delivery carefully before it leaves your warehouse.\n\nI hope that we can sort this out quickly. Yours sincerely, Harriet Brooks\n\nSubject: RE: Problems with our last two deliveries\n\nDear Mrs. Brooks,\n\nThank you for writing to us, and please accept our sincere apology. You are completely right. In early November, the cooling system in one of our delivery trucks broke down, and we did not notice it soon enough. Your boxes were in that truck. We have repaired the truck, and from now on, every box will be checked by two people before it leaves. To make up for the inconvenience, we will refund the full cost of both deliveries and send you two free bags of our new winter coffee. Loyal customers like you are the reason why we are still in business. If anything else goes wrong, please call me directly.\n\nBest regards, Rob Daniels, Customer Care Manager",
+      "translation_vn": "(1) Tiêu đề: Sự cố với hai lần giao hàng gần đây\n(2) Từ: Harriet Brooks, quán cà phê Harriet's\n(3) Tới: Bộ phận Chăm sóc khách hàng, Công ty cà phê Coastline\n(4) Kính gửi bộ phận Chăm sóc khách hàng,\n(5) Tôi mua cà phê của quý công ty đã gần mười năm, và đây là lần đầu tiên tôi phải viết thư như thế này.\n(6) Không may là hai lần giao hàng gần đây đều có sự cố.\n(7) Ngày 3 và ngày 17 tháng Mười một, các thùng hàng tới muộn hai ngày, nhiều túi bị rách, và hạt cà phê bên trong bị ẩm.\n(8) Tệ hơn nữa, cà phê có vị lạ, như thể bị bỏ quên trong một chiếc xe nóng suốt một tuần.\n(9) Khách quen của tôi nhận ra ngay. Một quý ông sáng nào cũng uống đúng loại cà phê ấy nhiều năm nay đã đẩy tách ra và hỏi tôi có đổi nhà cung cấp không.\n(10) Tôi đã giải thích với nhân viên rằng đây không phải lỗi của các cháu, nhưng tôi không thể tiếp tục phục vụ thứ cà phê như vậy.\n(11) Xin quý công ty giải thích cho tôi chuyện gì đã xảy ra?\n(12) Tôi cũng xin đề xuất một cách giải quyết: hãy đổi những túi bị hỏng, và kiểm tra kỹ lần giao tới trước khi hàng rời kho.\n(13) Mong chúng ta sớm giải quyết được việc này. Trân trọng, Harriet Brooks\n(14) Tiêu đề: TRẢ LỜI: Sự cố với hai lần giao hàng gần đây\n(15) Kính gửi bà Brooks,\n(16) Cảm ơn bà đã viết thư cho chúng tôi, và xin bà nhận lời xin lỗi chân thành của chúng tôi.\n(17) Bà hoàn toàn đúng. Đầu tháng Mười một, hệ thống làm mát trên một xe giao hàng của chúng tôi bị hỏng, và chúng tôi đã không phát hiện kịp. Thùng hàng của bà nằm trên xe đó.\n(18) Chúng tôi đã sửa xe, và từ nay mỗi thùng hàng sẽ được hai người kiểm tra trước khi xuất đi.\n(19) Để bù cho sự phiền toái này, chúng tôi sẽ hoàn lại toàn bộ tiền của cả hai lần giao hàng và gửi tặng bà hai túi cà phê mùa đông mới.\n(20) Những khách hàng trung thành như bà là lý do chúng tôi vẫn còn kinh doanh được. Nếu có gì trục trặc nữa, xin bà gọi thẳng cho tôi.\n(21) Trân trọng, Rob Daniels, Trưởng bộ phận Chăm sóc khách hàng",
+      "word_count": 320,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.137",
+        "b1.138",
+        "b1.139",
+        "b1.140"
+      ]
+    },
+    {
+      "id": "passage_u3536_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 36) — Cuộc gọi đêm khuya trước kỳ thi"
+      },
+      "narrator": "announcer",
+      "title": "A Late-Night Call Before Finals",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Late-Night Call Before Finals",
+            "vi": "Cuộc gọi đêm khuya trước kỳ thi cuối kỳ"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was 11:40 p.m. in Washington and 8:40 p.m. in San Diego when Tracy called her cousin.",
+            "vi": "Lúc đó là 11:40 đêm ở Washington và 8:40 tối ở San Diego khi Tracy gọi cho chị họ."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Sorry, I know it's late. I just need to talk to someone. I have three exams next week, and I feel completely overwhelmed.",
+            "vi": "Em xin lỗi, em biết là muộn rồi. Em chỉ cần nói chuyện với ai đó thôi. Tuần sau em có ba bài thi, và em thấy ngợp hoàn toàn."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Don't be sorry. I'm glad you called. What's going on?",
+            "vi": "Đừng xin lỗi. Chị mừng là em gọi. Có chuyện gì thế?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "I wish I had started studying earlier. I keep reading the same page again and again, and nothing stays in my head. And I haven't slept properly for days.",
+            "vi": "Giá mà em bắt đầu ôn sớm hơn. Em cứ đọc đi đọc lại một trang mà chẳng có gì vào đầu. Mà mấy hôm nay em chẳng ngủ được ra hồn."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "OK. First, I'm not surprised that you're exhausted. When you're stressed and tired, your brain can't store new information well.",
+            "vi": "Được rồi. Trước hết, chị không ngạc nhiên khi em kiệt sức. Khi căng thẳng và mệt, não không lưu được thông tin mới tốt đâu."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Sleep isn't a waste of study time. It's part of studying.",
+            "vi": "Ngủ không phải là phí thời gian học. Nó là một phần của việc học."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "But if I sleep, I'll fall even further behind.",
+            "vi": "Nhưng nếu đi ngủ, em sẽ còn tụt lại xa hơn nữa."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Try this. Make a plan for tomorrow with short blocks: forty-five minutes of studying, then a ten-minute break when you walk around or get some fresh air.",
+            "vi": "Thử thế này. Lên kế hoạch cho ngày mai thành từng khối ngắn: học bốn mươi lăm phút, rồi nghỉ mười phút để đi lại hay hít thở không khí trong lành."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Breaking a big job into small pieces makes it much less frightening.",
+            "vi": "Chia một việc lớn thành những phần nhỏ sẽ khiến nó bớt đáng sợ hơn nhiều."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "And when you feel your chest getting tight, try slow breathing: breathe in for four seconds, hold for four, and breathe out for four. It sounds too simple, but it really does calm your body.",
+            "vi": "Còn khi thấy ngực thắt lại, hãy thử thở chậm: hít vào bốn giây, giữ bốn giây, thở ra bốn giây. Nghe thì đơn giản quá, nhưng nó thật sự làm cơ thể dịu lại."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Camila said the same thing. She's been bringing me tea and making me laugh, but I still feel as if I'm the only one who doesn't understand anything.",
+            "vi": "Camila cũng nói y như vậy. Mấy hôm nay cậu ấy cứ mang trà cho em và chọc em cười, nhưng em vẫn thấy như thể mình là đứa duy nhất chẳng hiểu gì."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "I can promise you that you're not. Half of your class probably feels exactly the same. I felt like that before every exam in medical school.",
+            "vi": "Chị hứa với em là không phải đâu. Chắc nửa lớp em cũng thấy y hệt. Hồi học trường y, kỳ thi nào chị cũng thấy thế."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "One more thing: talk to people. Your school has a counseling center, and it's free for students. Going there doesn't mean that you're weak. It means that you're taking care of yourself.",
+            "vi": "Một điều nữa: hãy tâm sự với mọi người. Trường em có trung tâm tư vấn, sinh viên được dùng miễn phí. Tới đó không có nghĩa là em yếu đuối. Nó có nghĩa là em đang chăm sóc bản thân."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Thanks, Leah. I wish you were here.",
+            "vi": "Cảm ơn chị Leah. Ước gì chị ở đây."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Me too. But I'll call you tomorrow night to check on you. Now close the book and go to bed. That's a doctor's order!",
+            "vi": "Chị cũng vậy. Nhưng tối mai chị sẽ gọi hỏi thăm em. Giờ thì gấp sách lại và đi ngủ đi. Lệnh của bác sĩ đấy!"
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy slept for eight hours that night. On Friday, she sent a message to the family chat: \"Two exams done. I think they went OK!\"",
+            "vi": "Đêm đó Tracy ngủ được tám tiếng. Thứ Sáu, cô nhắn vào nhóm chat gia đình: \"Xong hai bài thi rồi. Em nghĩ là ổn cả!\""
+          }
+        }
+      ],
+      "content_ja": "A Late-Night Call Before Finals\n\nIt was 11:40 p.m. in Washington and 8:40 p.m. in San Diego when Tracy called her cousin.\n\nTracy: Sorry, I know it's late. I just need to talk to someone. I have three exams next week, and I feel completely overwhelmed.\n\nLeah: Don't be sorry. I'm glad you called. What's going on?\n\nTracy: I wish I had started studying earlier. I keep reading the same page again and again, and nothing stays in my head. And I haven't slept properly for days.\n\nLeah: OK. First, I'm not surprised that you're exhausted. When you're stressed and tired, your brain can't store new information well. Sleep isn't a waste of study time. It's part of studying.\n\nTracy: But if I sleep, I'll fall even further behind.\n\nLeah: Try this. Make a plan for tomorrow with short blocks: forty-five minutes of studying, then a ten-minute break when you walk around or get some fresh air. Breaking a big job into small pieces makes it much less frightening. And when you feel your chest getting tight, try slow breathing: breathe in for four seconds, hold for four, and breathe out for four. It sounds too simple, but it really does calm your body.\n\nTracy: Camila said the same thing. She's been bringing me tea and making me laugh, but I still feel as if I'm the only one who doesn't understand anything.\n\nLeah: I can promise you that you're not. Half of your class probably feels exactly the same. I felt like that before every exam in medical school. One more thing: talk to people. Your school has a counseling center, and it's free for students. Going there doesn't mean that you're weak. It means that you're taking care of yourself.\n\nTracy: Thanks, Leah. I wish you were here.\n\nLeah: Me too. But I'll call you tomorrow night to check on you. Now close the book and go to bed. That's a doctor's order!\n\nTracy slept for eight hours that night. On Friday, she sent a message to the family chat: \"Two exams done. I think they went OK!\"",
+      "translation_vn": "(1) Cuộc gọi đêm khuya trước kỳ thi cuối kỳ\n(2) Lúc đó là 11:40 đêm ở Washington và 8:40 tối ở San Diego khi Tracy gọi cho chị họ.\n(3) Tracy: Em xin lỗi, em biết là muộn rồi. Em chỉ cần nói chuyện với ai đó thôi. Tuần sau em có ba bài thi, và em thấy ngợp hoàn toàn.\n(4) Leah: Đừng xin lỗi. Chị mừng là em gọi. Có chuyện gì thế?\n(5) Tracy: Giá mà em bắt đầu ôn sớm hơn. Em cứ đọc đi đọc lại một trang mà chẳng có gì vào đầu. Mà mấy hôm nay em chẳng ngủ được ra hồn.\n(6) Leah: Được rồi. Trước hết, chị không ngạc nhiên khi em kiệt sức. Khi căng thẳng và mệt, não không lưu được thông tin mới tốt đâu.\n(7) Leah: Ngủ không phải là phí thời gian học. Nó là một phần của việc học.\n(8) Tracy: Nhưng nếu đi ngủ, em sẽ còn tụt lại xa hơn nữa.\n(9) Leah: Thử thế này. Lên kế hoạch cho ngày mai thành từng khối ngắn: học bốn mươi lăm phút, rồi nghỉ mười phút để đi lại hay hít thở không khí trong lành.\n(10) Leah: Chia một việc lớn thành những phần nhỏ sẽ khiến nó bớt đáng sợ hơn nhiều.\n(11) Leah: Còn khi thấy ngực thắt lại, hãy thử thở chậm: hít vào bốn giây, giữ bốn giây, thở ra bốn giây. Nghe thì đơn giản quá, nhưng nó thật sự làm cơ thể dịu lại.\n(12) Tracy: Camila cũng nói y như vậy. Mấy hôm nay cậu ấy cứ mang trà cho em và chọc em cười, nhưng em vẫn thấy như thể mình là đứa duy nhất chẳng hiểu gì.\n(13) Leah: Chị hứa với em là không phải đâu. Chắc nửa lớp em cũng thấy y hệt. Hồi học trường y, kỳ thi nào chị cũng thấy thế.\n(14) Leah: Một điều nữa: hãy tâm sự với mọi người. Trường em có trung tâm tư vấn, sinh viên được dùng miễn phí. Tới đó không có nghĩa là em yếu đuối. Nó có nghĩa là em đang chăm sóc bản thân.\n(15) Tracy: Cảm ơn chị Leah. Ước gì chị ở đây.\n(16) Leah: Chị cũng vậy. Nhưng tối mai chị sẽ gọi hỏi thăm em. Giờ thì gấp sách lại và đi ngủ đi. Lệnh của bác sĩ đấy!\n(17) Đêm đó Tracy ngủ được tám tiếng. Thứ Sáu, cô nhắn vào nhóm chat gia đình: \"Xong hai bài thi rồi. Em nghĩ là ổn cả!\"",
+      "word_count": 343,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.141",
+        "b1.142",
+        "b1.143",
+        "b1.144"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3536_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "Why did Harriet write her email?",
+        "vi": "Bà Harriet viết email để làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to complain about problems with two deliveries and ask for a solution",
+            "vi": "để khiếu nại về sự cố của hai lần giao hàng và đề nghị cách giải quyết"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to complain about problems with two deliveries and ask for a solution",
+          "text_translation": "để khiếu nại về sự cố của hai lần giao hàng và đề nghị cách giải quyết"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to order a new kind of coffee",
+            "vi": "để đặt một loại cà phê mới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to order a new kind of coffee",
+          "text_translation": "để đặt một loại cà phê mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to thank the company for ten years of good service",
+            "vi": "để cảm ơn công ty vì mười năm phục vụ tốt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to thank the company for ten years of good service",
+          "text_translation": "để cảm ơn công ty vì mười năm phục vụ tốt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell the company that she is closing her café",
+            "vi": "để báo công ty rằng bà sắp đóng quán"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell the company that she is closing her café",
+          "text_translation": "để báo công ty rằng bà sắp đóng quán"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Unfortunately, the last two deliveries have had problems.\" Cuối thư bà đề xuất \"a solution\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Harriet write her email?",
+      "question_vn": "Bà Harriet viết email để làm gì?",
+      "explanation": "\"Unfortunately, the last two deliveries have had problems.\" Cuối thư bà đề xuất \"a solution\"."
+    },
+    {
+      "id": "q_u3536_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "How long has Harriet bought coffee from the company?",
+        "vi": "Bà Harriet mua cà phê của công ty bao lâu rồi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "two days",
+            "vi": "hai ngày"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "two days",
+          "text_translation": "hai ngày"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "since November 3",
+            "vi": "từ ngày 3 tháng Mười một"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "since November 3",
+          "text_translation": "từ ngày 3 tháng Mười một"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "almost ten years",
+            "vi": "gần mười năm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "almost ten years",
+          "text_translation": "gần mười năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "this is the first time",
+            "vi": "đây là lần đầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "this is the first time",
+          "text_translation": "đây là lần đầu"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have bought coffee from your company for almost ten years\". \"The first time\" là lần đầu bà phải viết thư khiếu nại, không phải lần đầu mua."
+      },
+      "audio_data": null,
+      "question_jp": "How long has Harriet bought coffee from the company?",
+      "question_vn": "Bà Harriet mua cà phê của công ty bao lâu rồi?",
+      "explanation": "\"I have bought coffee from your company for almost ten years\". \"The first time\" là lần đầu bà phải viết thư khiếu nại, không phải lần đầu mua."
+    },
+    {
+      "id": "q_u3536_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What was wrong with the deliveries?",
+        "vi": "Hai lần giao hàng có vấn đề gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The boxes were sent to the wrong café.",
+            "vi": "Thùng hàng bị giao nhầm quán."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The boxes were sent to the wrong café.",
+          "text_translation": "Thùng hàng bị giao nhầm quán."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The coffee was too expensive.",
+            "vi": "Cà phê quá đắt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The coffee was too expensive.",
+          "text_translation": "Cà phê quá đắt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The delivery driver was rude.",
+            "vi": "Người giao hàng bất lịch sự."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The delivery driver was rude.",
+          "text_translation": "Người giao hàng bất lịch sự."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They were late, some bags were torn, and the beans were damp.",
+            "vi": "Giao muộn, vài túi bị rách, và hạt cà phê bị ẩm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They were late, some bags were torn, and the beans were damp.",
+          "text_translation": "Giao muộn, vài túi bị rách, và hạt cà phê bị ẩm."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"the boxes arrived two days late, several bags were torn, and the beans inside were damp.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was wrong with the deliveries?",
+      "question_vn": "Hai lần giao hàng có vấn đề gì?",
+      "explanation": "\"the boxes arrived two days late, several bags were torn, and the beans inside were damp.\""
+    },
+    {
+      "id": "q_u3536_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What does \"as if it had been left in a hot car for a week\" mean?",
+        "vi": "Cụm \"như thể bị bỏ quên trong một chiếc xe nóng suốt một tuần\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The coffee was really left in Harriet's car.",
+            "vi": "Cà phê thật sự bị để trong xe của bà Harriet."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The coffee was really left in Harriet's car.",
+          "text_translation": "Cà phê thật sự bị để trong xe của bà Harriet."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The coffee tasted old and spoiled, although Harriet doesn't know what happened to it.",
+            "vi": "Cà phê có vị cũ và hỏng, dù bà Harriet không biết chuyện gì đã xảy ra với nó."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The coffee tasted old and spoiled, although Harriet doesn't know what happened to it.",
+          "text_translation": "Cà phê có vị cũ và hỏng, dù bà Harriet không biết chuyện gì đã xảy ra với nó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The coffee was too hot to drink.",
+            "vi": "Cà phê quá nóng, không uống được."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The coffee was too hot to drink.",
+          "text_translation": "Cà phê quá nóng, không uống được."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The coffee was delivered by car.",
+            "vi": "Cà phê được giao bằng ô tô."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The coffee was delivered by car.",
+          "text_translation": "Cà phê được giao bằng ô tô."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"the coffee tasted strange, as if it had been left in a hot car for a week.\" As if + quá khứ hoàn thành = như thể, một phép so sánh chứ không phải sự thật. Bà còn hỏi \"what has happened?\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"as if it had been left in a hot car for a week\" mean?",
+      "question_vn": "Cụm \"như thể bị bỏ quên trong một chiếc xe nóng suốt một tuần\" nghĩa là gì?",
+      "explanation": "\"the coffee tasted strange, as if it had been left in a hot car for a week.\" As if + quá khứ hoàn thành = như thể, một phép so sánh chứ không phải sự thật. Bà còn hỏi \"what has happened?\"."
+    },
+    {
+      "id": "q_u3536_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "Why does Harriet mention the gentleman who pushed his cup away?",
+        "vi": "Vì sao bà Harriet kể chuyện quý ông đẩy tách cà phê ra?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that the problem was serious enough for customers to notice",
+            "vi": "để cho thấy vấn đề nghiêm trọng tới mức khách cũng nhận ra"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that the problem was serious enough for customers to notice",
+          "text_translation": "để cho thấy vấn đề nghiêm trọng tới mức khách cũng nhận ra"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to complain about a rude customer",
+            "vi": "để phàn nàn về một vị khách bất lịch sự"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to complain about a rude customer",
+          "text_translation": "để phàn nàn về một vị khách bất lịch sự"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to say that she has changed suppliers",
+            "vi": "để nói bà đã đổi nhà cung cấp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to say that she has changed suppliers",
+          "text_translation": "để nói bà đã đổi nhà cung cấp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to ask the company to call him",
+            "vi": "để nhờ công ty gọi cho ông ấy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to ask the company to call him",
+          "text_translation": "để nhờ công ty gọi cho ông ấy"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"My regular customers noticed immediately.\" Một người uống cùng loại cà phê nhiều năm còn nhận ra, nên vấn đề rõ ràng là có thật."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet mention the gentleman who pushed his cup away?",
+      "question_vn": "Vì sao bà Harriet kể chuyện quý ông đẩy tách cà phê ra?",
+      "explanation": "Câu suy luận về mục đích. \"My regular customers noticed immediately.\" Một người uống cùng loại cà phê nhiều năm còn nhận ra, nên vấn đề rõ ràng là có thật."
+    },
+    {
+      "id": "q_u3536_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "In \"I have explained to my staff that this is not their fault\", what has Harriet done?",
+        "vi": "Trong câu \"I have explained to my staff that this is not their fault\", bà Harriet đã làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She has told her staff to make better coffee.",
+            "vi": "Bà bảo nhân viên pha cà phê ngon hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She has told her staff to make better coffee.",
+          "text_translation": "Bà bảo nhân viên pha cà phê ngon hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has asked her staff to write the email.",
+            "vi": "Bà nhờ nhân viên viết email."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has asked her staff to write the email.",
+          "text_translation": "Bà nhờ nhân viên viết email."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She has told her staff that they are not to blame.",
+            "vi": "Bà nói với nhân viên rằng họ không có lỗi."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She has told her staff that they are not to blame.",
+          "text_translation": "Bà nói với nhân viên rằng họ không có lỗi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has changed her staff.",
+            "vi": "Bà đã đổi nhân viên."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has changed her staff.",
+          "text_translation": "Bà đã đổi nhân viên."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have explained to my staff that this is not their fault\". Explain to + người (không nói \"explain my staff\")."
+      },
+      "audio_data": null,
+      "question_jp": "In \"I have explained to my staff that this is not their fault\", what has Harriet done?",
+      "question_vn": "Trong câu \"I have explained to my staff that this is not their fault\", bà Harriet đã làm gì?",
+      "explanation": "\"I have explained to my staff that this is not their fault\". Explain to + người (không nói \"explain my staff\")."
+    },
+    {
+      "id": "q_u3536_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What solution does Harriet suggest?",
+        "vi": "Bà Harriet đề xuất cách giải quyết nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "closing the warehouse",
+            "vi": "đóng cửa nhà kho"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "closing the warehouse",
+          "text_translation": "đóng cửa nhà kho"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "sending a new delivery driver",
+            "vi": "cử người giao hàng mới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "sending a new delivery driver",
+          "text_translation": "cử người giao hàng mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "making the price lower",
+            "vi": "giảm giá"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "making the price lower",
+          "text_translation": "giảm giá"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "replacing the damaged bags and checking the next delivery carefully",
+            "vi": "đổi những túi hỏng và kiểm tra kỹ lần giao tới"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "replacing the damaged bags and checking the next delivery carefully",
+          "text_translation": "đổi những túi hỏng và kiểm tra kỹ lần giao tới"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"please replace the damaged bags, and check the next delivery carefully before it leaves your warehouse.\""
+      },
+      "audio_data": null,
+      "question_jp": "What solution does Harriet suggest?",
+      "question_vn": "Bà Harriet đề xuất cách giải quyết nào?",
+      "explanation": "\"please replace the damaged bags, and check the next delivery carefully before it leaves your warehouse.\""
+    },
+    {
+      "id": "q_u3536_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "According to Rob Daniels, what caused the problems?",
+        "vi": "Theo Rob Daniels, điều gì gây ra sự cố?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's staff stored the coffee badly.",
+            "vi": "Nhân viên quán bà Harriet bảo quản cà phê không tốt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet's staff stored the coffee badly.",
+          "text_translation": "Nhân viên quán bà Harriet bảo quản cà phê không tốt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The cooling system in a delivery truck broke down.",
+            "vi": "Hệ thống làm mát trên một xe giao hàng bị hỏng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The cooling system in a delivery truck broke down.",
+          "text_translation": "Hệ thống làm mát trên một xe giao hàng bị hỏng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The coffee farm had a bad year.",
+            "vi": "Trang trại cà phê mất mùa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The coffee farm had a bad year.",
+          "text_translation": "Trang trại cà phê mất mùa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The boxes were too small.",
+            "vi": "Thùng hàng quá nhỏ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The boxes were too small.",
+          "text_translation": "Thùng hàng quá nhỏ."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"the cooling system in one of our delivery trucks broke down, and we did not notice it soon enough.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Rob Daniels, what caused the problems?",
+      "question_vn": "Theo Rob Daniels, điều gì gây ra sự cố?",
+      "explanation": "\"the cooling system in one of our delivery trucks broke down, and we did not notice it soon enough.\""
+    },
+    {
+      "id": "q_u3536_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "How will the company make up for the problem?",
+        "vi": "Công ty sẽ bù đắp thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It will refund both deliveries and send two free bags of coffee.",
+            "vi": "Hoàn tiền cả hai lần giao và tặng hai túi cà phê."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It will refund both deliveries and send two free bags of coffee.",
+          "text_translation": "Hoàn tiền cả hai lần giao và tặng hai túi cà phê."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It will give Harriet a new truck.",
+            "vi": "Tặng bà Harriet một chiếc xe tải."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It will give Harriet a new truck.",
+          "text_translation": "Tặng bà Harriet một chiếc xe tải."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It will send someone to work at the café.",
+            "vi": "Cử người tới làm ở quán."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It will send someone to work at the café.",
+          "text_translation": "Cử người tới làm ở quán."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It will refund only one delivery.",
+            "vi": "Chỉ hoàn tiền một lần giao."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It will refund only one delivery.",
+          "text_translation": "Chỉ hoàn tiền một lần giao."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "\"we will refund the full cost of both deliveries and send you two free bags of our new winter coffee.\""
+      },
+      "audio_data": null,
+      "question_jp": "How will the company make up for the problem?",
+      "question_vn": "Công ty sẽ bù đắp thế nào?",
+      "explanation": "\"we will refund the full cost of both deliveries and send you two free bags of our new winter coffee.\""
+    },
+    {
+      "id": "q_u3536_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What is the tone of Rob Daniels's reply?",
+        "vi": "Thư trả lời của Rob Daniels mang giọng điệu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "angry, and it blames Harriet",
+            "vi": "giận dữ và đổ lỗi cho bà Harriet"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "angry, and it blames Harriet",
+          "text_translation": "giận dữ và đổ lỗi cho bà Harriet"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "cold and very short",
+            "vi": "lạnh lùng và cộc lốc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "cold and very short",
+          "text_translation": "lạnh lùng và cộc lốc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "sorry and polite, and it accepts responsibility",
+            "vi": "hối lỗi, lịch sự và nhận trách nhiệm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "sorry and polite, and it accepts responsibility",
+          "text_translation": "hối lỗi, lịch sự và nhận trách nhiệm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "funny and casual",
+            "vi": "hài hước và xuề xoà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "funny and casual",
+          "text_translation": "hài hước và xuề xoà"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. \"You are completely right.\" Rob xin lỗi, giải thích nguyên nhân, nêu cách sửa, bù đắp, và cảm ơn \"Loyal customers like you\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the tone of Rob Daniels's reply?",
+      "question_vn": "Thư trả lời của Rob Daniels mang giọng điệu thế nào?",
+      "explanation": "Câu hỏi giọng điệu. \"You are completely right.\" Rob xin lỗi, giải thích nguyên nhân, nêu cách sửa, bù đắp, và cảm ơn \"Loyal customers like you\"."
+    },
+    {
+      "id": "q_u3536_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "Why did Tracy call Leah?",
+        "vi": "Vì sao Tracy gọi cho Leah?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask for money",
+            "vi": "để xin tiền"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask for money",
+          "text_translation": "để xin tiền"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She felt overwhelmed before her exams.",
+            "vi": "Vì cô thấy ngợp trước kỳ thi."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She felt overwhelmed before her exams.",
+          "text_translation": "Vì cô thấy ngợp trước kỳ thi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to tell her about Camila's birthday",
+            "vi": "để kể về sinh nhật Camila"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to tell her about Camila's birthday",
+          "text_translation": "để kể về sinh nhật Camila"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to ask about plans for the winter break",
+            "vi": "để hỏi kế hoạch kỳ nghỉ đông"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to ask about plans for the winter break",
+          "text_translation": "để hỏi kế hoạch kỳ nghỉ đông"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have three exams next week, and I feel completely overwhelmed.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Tracy call Leah?",
+      "question_vn": "Vì sao Tracy gọi cho Leah?",
+      "explanation": "\"I have three exams next week, and I feel completely overwhelmed.\""
+    },
+    {
+      "id": "q_u3536_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What does Tracy mean by \"I wish I had started studying earlier\"?",
+        "vi": "Tracy muốn nói gì qua câu \"Giá mà em bắt đầu ôn sớm hơn\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She started studying very early.",
+            "vi": "Cô bắt đầu ôn rất sớm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She started studying very early.",
+          "text_translation": "Cô bắt đầu ôn rất sớm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She will start studying tomorrow.",
+            "vi": "Mai cô mới bắt đầu ôn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She will start studying tomorrow.",
+          "text_translation": "Mai cô mới bắt đầu ôn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She doesn't want to study.",
+            "vi": "Cô không muốn học."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She doesn't want to study.",
+          "text_translation": "Cô không muốn học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She regrets that she didn't start earlier.",
+            "vi": "Cô tiếc vì đã không bắt đầu sớm hơn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She regrets that she didn't start earlier.",
+          "text_translation": "Cô tiếc vì đã không bắt đầu sớm hơn."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I wish I had started studying earlier.\" Wish + quá khứ hoàn thành = tiếc về một việc đã không làm trong quá khứ."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy mean by \"I wish I had started studying earlier\"?",
+      "question_vn": "Tracy muốn nói gì qua câu \"Giá mà em bắt đầu ôn sớm hơn\"?",
+      "explanation": "\"I wish I had started studying earlier.\" Wish + quá khứ hoàn thành = tiếc về một việc đã không làm trong quá khứ."
+    },
+    {
+      "id": "q_u3536_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "Why does Leah say that sleep is part of studying?",
+        "vi": "Vì sao Leah nói ngủ là một phần của việc học?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "When you are stressed and tired, your brain can't store new information well.",
+            "vi": "Vì khi căng thẳng và mệt, não không lưu được thông tin mới tốt."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "When you are stressed and tired, your brain can't store new information well.",
+          "text_translation": "Vì khi căng thẳng và mệt, não không lưu được thông tin mới tốt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Doctors need more sleep than students.",
+            "vi": "Vì bác sĩ cần ngủ nhiều hơn sinh viên."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Doctors need more sleep than students.",
+          "text_translation": "Vì bác sĩ cần ngủ nhiều hơn sinh viên."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Exams are always in the morning.",
+            "vi": "Vì các bài thi luôn vào buổi sáng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Exams are always in the morning.",
+          "text_translation": "Vì các bài thi luôn vào buổi sáng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy can study in her dreams.",
+            "vi": "Vì Tracy có thể học trong mơ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tracy can study in her dreams.",
+          "text_translation": "Vì Tracy có thể học trong mơ."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"When you're stressed and tired, your brain can't store new information well.\" Vì vậy \"Sleep isn't a waste of study time.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah say that sleep is part of studying?",
+      "question_vn": "Vì sao Leah nói ngủ là một phần của việc học?",
+      "explanation": "\"When you're stressed and tired, your brain can't store new information well.\" Vì vậy \"Sleep isn't a waste of study time.\""
+    },
+    {
+      "id": "q_u3536_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What study plan does Leah suggest?",
+        "vi": "Leah gợi ý kế hoạch học nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "studying all night before each exam",
+            "vi": "thức trắng đêm trước mỗi bài thi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "studying all night before each exam",
+          "text_translation": "thức trắng đêm trước mỗi bài thi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "studying with Camila every evening",
+            "vi": "tối nào cũng học cùng Camila"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "studying with Camila every evening",
+          "text_translation": "tối nào cũng học cùng Camila"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "forty-five minutes of studying, then a ten-minute break",
+            "vi": "học bốn mươi lăm phút, rồi nghỉ mười phút"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "forty-five minutes of studying, then a ten-minute break",
+          "text_translation": "học bốn mươi lăm phút, rồi nghỉ mười phút"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "one long block of ten hours",
+            "vi": "một khối dài mười tiếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "one long block of ten hours",
+          "text_translation": "một khối dài mười tiếng"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Make a plan for tomorrow with short blocks: forty-five minutes of studying, then a ten-minute break\"."
+      },
+      "audio_data": null,
+      "question_jp": "What study plan does Leah suggest?",
+      "question_vn": "Leah gợi ý kế hoạch học nào?",
+      "explanation": "\"Make a plan for tomorrow with short blocks: forty-five minutes of studying, then a ten-minute break\"."
+    },
+    {
+      "id": "q_u3536_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "Why does breaking a big job into small pieces help, according to Leah?",
+        "vi": "Theo Leah, vì sao chia việc lớn thành phần nhỏ lại có ích?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It makes the exams shorter.",
+            "vi": "Vì nó làm bài thi ngắn lại."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It makes the exams shorter.",
+          "text_translation": "Vì nó làm bài thi ngắn lại."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It makes the job much less frightening.",
+            "vi": "Vì nó làm công việc bớt đáng sợ hơn nhiều."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It makes the job much less frightening.",
+          "text_translation": "Vì nó làm công việc bớt đáng sợ hơn nhiều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It means that you don't need to sleep.",
+            "vi": "Vì như vậy khỏi cần ngủ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It means that you don't need to sleep.",
+          "text_translation": "Vì như vậy khỏi cần ngủ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Teachers prefer it.",
+            "vi": "Vì giáo viên thích thế."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Teachers prefer it.",
+          "text_translation": "Vì giáo viên thích thế."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Breaking a big job into small pieces makes it much less frightening.\" Chủ ngữ là cụm V-ing (Breaking …)."
+      },
+      "audio_data": null,
+      "question_jp": "Why does breaking a big job into small pieces help, according to Leah?",
+      "question_vn": "Theo Leah, vì sao chia việc lớn thành phần nhỏ lại có ích?",
+      "explanation": "\"Breaking a big job into small pieces makes it much less frightening.\" Chủ ngữ là cụm V-ing (Breaking …)."
+    },
+    {
+      "id": "q_u3536_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "How do you do the slow breathing that Leah describes?",
+        "vi": "Cách thở chậm mà Leah mô tả làm thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Breathe in quickly ten times.",
+            "vi": "Hít vào nhanh mười lần."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Breathe in quickly ten times.",
+          "text_translation": "Hít vào nhanh mười lần."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Hold your breath for one minute.",
+            "vi": "Nín thở một phút."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Hold your breath for one minute.",
+          "text_translation": "Nín thở một phút."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Breathe out for ten seconds only.",
+            "vi": "Chỉ thở ra mười giây."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Breathe out for ten seconds only.",
+          "text_translation": "Chỉ thở ra mười giây."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Breathe in for four seconds, hold for four, and breathe out for four.",
+            "vi": "Hít vào bốn giây, giữ bốn giây, thở ra bốn giây."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Breathe in for four seconds, hold for four, and breathe out for four.",
+          "text_translation": "Hít vào bốn giây, giữ bốn giây, thở ra bốn giây."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"breathe in for four seconds, hold for four, and breathe out for four.\""
+      },
+      "audio_data": null,
+      "question_jp": "How do you do the slow breathing that Leah describes?",
+      "question_vn": "Cách thở chậm mà Leah mô tả làm thế nào?",
+      "explanation": "\"breathe in for four seconds, hold for four, and breathe out for four.\""
+    },
+    {
+      "id": "q_u3536_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What does Tracy mean by \"I still feel as if I'm the only one who doesn't understand anything\"?",
+        "vi": "Tracy muốn nói gì qua câu \"em vẫn thấy như thể mình là đứa duy nhất chẳng hiểu gì\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She feels alone in her worries, although this is probably not true.",
+            "vi": "Cô thấy chỉ mình mình lo lắng, dù điều đó nhiều khả năng không đúng."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She feels alone in her worries, although this is probably not true.",
+          "text_translation": "Cô thấy chỉ mình mình lo lắng, dù điều đó nhiều khả năng không đúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She really is the only student who doesn't understand.",
+            "vi": "Cô thật sự là sinh viên duy nhất không hiểu bài."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She really is the only student who doesn't understand.",
+          "text_translation": "Cô thật sự là sinh viên duy nhất không hiểu bài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wants to change her classes.",
+            "vi": "Cô muốn đổi lớp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wants to change her classes.",
+          "text_translation": "Cô muốn đổi lớp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Camila doesn't understand anything either.",
+            "vi": "Camila cũng chẳng hiểu gì."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Camila doesn't understand anything either.",
+          "text_translation": "Camila cũng chẳng hiểu gì."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. As if = như thể, chỉ là cảm giác. Leah đáp ngay: \"Half of your class probably feels exactly the same.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy mean by \"I still feel as if I'm the only one who doesn't understand anything\"?",
+      "question_vn": "Tracy muốn nói gì qua câu \"em vẫn thấy như thể mình là đứa duy nhất chẳng hiểu gì\"?",
+      "explanation": "Câu suy luận. As if = như thể, chỉ là cảm giác. Leah đáp ngay: \"Half of your class probably feels exactly the same.\""
+    },
+    {
+      "id": "q_u3536_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What does Leah say about the counseling center?",
+        "vi": "Leah nói gì về trung tâm tư vấn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is only for weak students.",
+            "vi": "Nó chỉ dành cho sinh viên yếu kém."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is only for weak students.",
+          "text_translation": "Nó chỉ dành cho sinh viên yếu kém."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is very expensive.",
+            "vi": "Nó rất đắt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is very expensive.",
+          "text_translation": "Nó rất đắt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is free for students, and going there means that you are taking care of yourself.",
+            "vi": "Sinh viên dùng miễn phí, và tới đó nghĩa là đang chăm sóc bản thân."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is free for students, and going there means that you are taking care of yourself.",
+          "text_translation": "Sinh viên dùng miễn phí, và tới đó nghĩa là đang chăm sóc bản thân."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is closed during exams.",
+            "vi": "Nó đóng cửa trong mùa thi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is closed during exams.",
+          "text_translation": "Nó đóng cửa trong mùa thi."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Your school has a counseling center, and it's free for students. Going there doesn't mean that you're weak. It means that you're taking care of yourself.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Leah say about the counseling center?",
+      "question_vn": "Leah nói gì về trung tâm tư vấn?",
+      "explanation": "\"Your school has a counseling center, and it's free for students. Going there doesn't mean that you're weak. It means that you're taking care of yourself.\""
+    },
+    {
+      "id": "q_u3536_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What does Leah mean by \"That's a doctor's order!\"?",
+        "vi": "Leah muốn nói gì qua câu \"Lệnh của bác sĩ đấy!\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is writing Tracy a prescription.",
+            "vi": "Cô đang kê đơn thuốc cho Tracy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is writing Tracy a prescription.",
+          "text_translation": "Cô đang kê đơn thuốc cho Tracy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is joking, but she is also serious that Tracy should sleep now.",
+            "vi": "Cô nói đùa, nhưng cũng nghiêm túc muốn Tracy đi ngủ ngay."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She is joking, but she is also serious that Tracy should sleep now.",
+          "text_translation": "Cô nói đùa, nhưng cũng nghiêm túc muốn Tracy đi ngủ ngay."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is angry with Tracy.",
+            "vi": "Cô giận Tracy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is angry with Tracy.",
+          "text_translation": "Cô giận Tracy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has to go to work.",
+            "vi": "Cô phải đi làm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has to go to work.",
+          "text_translation": "Cô phải đi làm."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Now close the book and go to bed. That's a doctor's order!\" Leah là bác sĩ thật, nên câu đùa này vừa vui vừa có trọng lượng. Kết quả: \"Tracy slept for eight hours that night.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Leah mean by \"That's a doctor's order!\"?",
+      "question_vn": "Leah muốn nói gì qua câu \"Lệnh của bác sĩ đấy!\"?",
+      "explanation": "Câu suy luận. \"Now close the book and go to bed. That's a doctor's order!\" Leah là bác sĩ thật, nên câu đùa này vừa vui vừa có trọng lượng. Kết quả: \"Tracy slept for eight hours that night.\""
+    },
+    {
+      "id": "q_u3536_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "Use both texts. What do Rob Daniels and Leah have in common?",
+        "vi": "Dựa vào cả hai bài. Rob Daniels và Leah có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them work in a hospital.",
+            "vi": "Cả hai đều làm ở bệnh viện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them work in a hospital.",
+          "text_translation": "Cả hai đều làm ở bệnh viện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them are angry.",
+            "vi": "Cả hai đều đang giận."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them are angry.",
+          "text_translation": "Cả hai đều đang giận."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them refuse to help.",
+            "vi": "Cả hai đều từ chối giúp đỡ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them refuse to help.",
+          "text_translation": "Cả hai đều từ chối giúp đỡ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them listen to the problem and offer practical steps to deal with it.",
+            "vi": "Cả hai đều lắng nghe vấn đề và đưa ra các bước cụ thể để giải quyết."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both of them listen to the problem and offer practical steps to deal with it.",
+          "text_translation": "Cả hai đều lắng nghe vấn đề và đưa ra các bước cụ thể để giải quyết."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Leah: \"Try this. Make a plan for tomorrow with short blocks\". Rob ở bài 1 cũng đưa ra việc cụ thể: sửa xe, kiểm tra mỗi thùng hàng, hoàn tiền."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Rob Daniels and Leah have in common?",
+      "question_vn": "Dựa vào cả hai bài. Rob Daniels và Leah có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Leah: \"Try this. Make a plan for tomorrow with short blocks\". Rob ở bài 1 cũng đưa ra việc cụ thể: sửa xe, kiểm tra mỗi thùng hàng, hoàn tiền."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3536_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 35) — Email khiếu nại của bà Harriet và thư trả lời",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3536_01",
+      "question_ids": [
+        "q_u3536_001",
+        "q_u3536_002",
+        "q_u3536_003",
+        "q_u3536_004",
+        "q_u3536_005",
+        "q_u3536_006",
+        "q_u3536_007",
+        "q_u3536_008",
+        "q_u3536_009",
+        "q_u3536_010"
+      ]
+    },
+    {
+      "set_id": "set_u3536_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 36) — Cuộc gọi đêm khuya trước kỳ thi",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3536_02",
+      "question_ids": [
+        "q_u3536_011",
+        "q_u3536_012",
+        "q_u3536_013",
+        "q_u3536_014",
+        "q_u3536_015",
+        "q_u3536_016",
+        "q_u3536_017",
+        "q_u3536_018",
+        "q_u3536_019",
+        "q_u3536_020"
+      ]
+    }
+  ]
+}
