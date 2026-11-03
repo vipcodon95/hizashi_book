@@ -1,115 +1,113 @@
-# Kế hoạch series sách đọc hiểu tiếng Anh A1 → C2 (luyện VSTEP)
+# Kế hoạch series sách đọc hiểu tiếng Anh A1 → C1 (bám khoá Hizashi, luyện VSTEP)
 
-> Bản nháp 03/11/2026, chờ chủ nhà duyệt. Bài mẫu thử: `books/56_english_a1/_mau_thu/t01_my_family/`.
+> Bản nháp 2, 03/11/2026, chờ chủ nhà duyệt.
+>
+> Bài mẫu thử: `books/56_english_a1/_mau_thu/u03_family_friends/`.
+>
+> **Nguyên liệu chính:** `_shared/en_curriculum/` (danh sách phiếu của khoá tiếng Anh trên app).
 
-## 1. Phạm vi
+## 1. Nguyên tắc gốc (chốt với chủ nhà 03/11/2026)
 
-| Sách | Folder | course_id | Cấp | Khung đề |
-|---|---|---|---|---|
-| 56 | `56_english_a1` | 8056 | A1 (bậc 1) | VSTEP không có đề bậc 1, nên dùng dạng bài ngắn theo mô tả CEFR A1 |
-| 57 | `57_english_a2` | 8057 | A2 (bậc 2) | Đề VSTEP A2 có cấu trúc riêng, khác B1–C1. Stage 1 phải tìm đề mẫu chính thức để chốt |
-| 58 | `58_english_b1` | 8058 | B1 (bậc 3) | VSTEP.3-5 |
-| 59 | `59_english_b2` | 8059 | B2 (bậc 4) | VSTEP.3-5 |
-| 60 | `60_english_c1` | 8060 | C1 (bậc 5) | VSTEP.3-5 |
-| 61 | `61_english_c2` | 8061 | C2 (bậc 6) | VSTEP.3-5 chỉ đánh giá tới bậc 5, nên C2 bám mô tả CEFR C2 |
+- **1 chương sách = 1 unit của khoá học.** Mỗi unit có 4 phiếu, mỗi phiếu khoảng 15 từ.
+- **Vốn từ lấy từ khoá học, không tự nghĩ.** Từ vựng trước khi đọc và nghĩa tiếng Việt lấy nguyên từ `en_curriculum`.
+- **Văn phải tự nhiên.** Thêm vài từ ngoài phạm vi cũng được nếu nó giúp câu văn tự nhiên, miễn các thành phần chính nằm trong vốn từ. Từ ngoài phạm vi phải có chú nghĩa tiếng Việt.
+- **Mỗi bài đọc ghi mã unit và mã phiếu** nó luyện, để sau này nhập ngược vào app.
+- **Không viết trùng bài đọc app đã có.** Mỗi unit trên app đã có một bài đọc ở phiếu cuối (`reading_title`). Sách phải chọn loại văn bản và tình huống khác.
 
-**Phần Reading của VSTEP.3-5** (theo trang chính thức của ĐHQG HN): 60 phút, 4 bài đọc, 40 câu trắc nghiệm 4 lựa chọn (mỗi bài 10 câu). Tổng khoảng 2.000 từ, độ khó tăng dần từ bậc 3 lên bậc 5.
+## 2. Phạm vi
 
-## 2. Thông số từng cấp (đề xuất)
+Khoá học hiện có **A1–C1** (chưa có C2):
 
-| Cấp | Độ dài 1 bài đọc | Loại văn bản | Dạng câu hỏi chính |
+| Sách | Folder | Cấp | Unit nội dung | Unit kiểm tra cuối cấp | Khung đề |
+|---|---|---|---|---|---|
+| 56 | `56_english_a1` | A1 | 16 | không có | dạng bài ngắn theo CEFR A1 (VSTEP không có bậc 1) |
+| 57 | `57_english_a2` | A2 | 20 | không có | VSTEP A2 có cấu trúc riêng; stage 1 phải tìm đề mẫu chính thức để chốt |
+| 58 | `58_english_b1` | B1 | 40 | `b1.test` | VSTEP.3-5 |
+| 59 | `59_english_b2` | B2 | 45 | `b2.test` | VSTEP.3-5 |
+| 60 | `60_english_c1` | C1 | 12 | `c1.test` | VSTEP.3-5 |
+
+**Phần Reading của VSTEP.3-5:**
+
+- 60 phút, 4 bài đọc, 40 câu trắc nghiệm 4 lựa chọn (mỗi bài 10 câu).
+- Tổng khoảng 2.000 từ, độ khó tăng dần từ bậc 3 lên bậc 5.
+- Unit kiểm tra cuối cấp của B1, B2, C1 sẽ thành **chương đề thi thử** đúng format này.
+
+## 3. Kiểm soát vốn từ
+
+Script: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối unit> --allow "<tên riêng>" <file.md> <file.json>`
+
+**Vốn từ được phép tới phiếu X** (theo `en_curriculum/README.md`):
+
+- mọi từ, `grammar_words`, collocation, phrasal verb của các phiếu từ `a1.01` tới X (cộng dồn qua các cấp);
+- cộng thêm từ thông dụng ở cấp dưới: từ B1 trở đi, script tính thêm từ CEFR-J của các cấp thấp hơn (nằm ở `_shared/english_cefr/`).
+
+**Script báo hai thứ:**
+
+1. **Từ ngoài phạm vi.** Thay bằng từ khác, hoặc giữ lại và chú nghĩa.
+2. **Độ phủ từ của unit**, tức đã dùng bao nhiêu từ trong 4 phiếu. Bài mẫu Unit 3 dùng 35/61 từ. Mục tiêu đề xuất: ≥ 50%, và có câu hỏi kiểm tra trực tiếp vài từ trọng tâm.
+
+## 4. Cấu trúc một chương
+
+**File `u<NN>_<Ten>_DocHieu.md`**, theo thứ tự:
+
+1. Luyện cho unit và phiếu nào; mục tiêu.
+2. Từ vựng trước khi đọc, kèm mã phiếu của từng từ.
+3. 2 bài đọc (A1–A2) hoặc 2–4 bài đọc (B1+), mỗi bài một loại văn bản khác nhau.
+4. **Dịch từng câu** (bảng đánh số).
+5. Câu hỏi **có dịch** (câu hỏi và từng phương án).
+6. Mẹo làm bài.
+7. Đáp án và **giải thích chỉ rõ câu số mấy trong bài**.
+
+**File `u<NN>_<Ten>_BaiTap.json`**: cùng nội dung, sinh từ cùng một nguồn với file md để không lệch. File phải pass `validate_json.py`.
+
+**Thông số theo cấp (đề xuất):**
+
+| Cấp | Độ dài bài | Số câu hỏi/chương | Dạng câu hỏi chính |
 |---|---|---|---|
-| A1 | 40–120 từ | biển báo, lời nhắn, email ngắn, đoạn tả | tìm thông tin cụ thể, mục đích đơn giản |
-| A2 | 100–200 từ | email, quảng cáo, thông báo, đoạn kể | thông tin cụ thể, ý chính, từ thay thế (it/they) |
-| B1 | 250–350 từ | bài báo ngắn, thư, bài giới thiệu | ý chính, chi tiết, từ trong ngữ cảnh, quy chiếu, NOT/EXCEPT |
-| B2 | 350–450 từ | bài báo, bài khoa học phổ thông | thêm: suy luận, mục đích đoạn, thái độ tác giả |
-| C1 | 450–550 từ | bài học thuật, bình luận | thêm: hàm ý, cấu trúc lập luận, tóm tắt |
-| C2 | 550–700 từ | học thuật, văn chính luận, văn chương | hàm ý tinh tế, giọng điệu, so sánh quan điểm |
-
-## 3. Kiểm soát độ khó từ vựng
-
-- Danh sách: **CEFR-J Wordlist 1.5** (A1–B2, 7.799 mục) và **Octanove C1/C2** (2.136 mục). Lưu ở `_shared/english_cefr/`, dùng thương mại được nhưng phải ghi nguồn (xem README).
-- Script: `python3 _shared/scripts/check_cefr_level.py --level <cấp> --allow "<tên riêng>" <file.json|file.md>`. Script soát bài đọc, câu hỏi và các phương án.
-- Quy tắc:
-  - **A1–A2:** 0 từ vượt cấp.
-  - **B1 trở lên:** tối đa ~3% từ vượt cấp. Từ vượt cấp phải nằm trong bảng từ vựng của bài, hoặc đoán được từ ngữ cảnh (đó chính là dạng câu hỏi "từ trong ngữ cảnh").
-- Ngữ pháp: CEFR-J Grammar Profile (A1–B2), dùng làm tham chiếu khi viết bài.
-
-## 4. Cấu trúc mỗi cuốn
-
-**9 chương/cuốn.** Lý do: ID theo NEW format chỉ có **1 chữ số cho topic**, nên một cuốn tối đa 9 chương.
-
-- Chương 1–8: theo chủ đề. Mỗi chương có 2–4 bài đọc với 10 câu (A1–A2) hoặc 20 câu (B1+).
-- Chương 9: đề thi thử full format.
-
-Gợi ý chủ đề A1:
-
-| # | Chủ đề |
-|---|---|
-| 1 | Gia đình & bản thân |
-| 2 | Nhà cửa & sinh hoạt hằng ngày |
-| 3 | Trường học & công việc |
-| 4 | Ăn uống |
-| 5 | Mua sắm & giá cả |
-| 6 | Thời gian & thời tiết |
-| 7 | Sở thích & cuối tuần |
-| 8 | Thành phố & đi lại |
-| 9 | Đề thi thử |
-
-**Mỗi chương gồm 2 file:**
-
-- `t0N_<Ten>_DocHieu.md`, theo thứ tự:
-  1. mục tiêu
-  2. từ vựng trước khi đọc
-  3. bài đọc
-  4. **dịch từng câu**
-  5. câu hỏi **có dịch** (câu hỏi + từng phương án)
-  6. mẹo làm bài
-  7. đáp án + **giải thích ngắn chỉ rõ câu nào trong bài**
-- `t0N_<Ten>_BaiTap.json`: cùng nội dung, theo schema chung (pass `validate_json.py`). Chương thi thử thì đặt tên `_Mogishiken.json`.
+| A1 | 40–120 từ | 10 | thông tin cụ thể, he/she/they chỉ ai, mục đích đơn giản |
+| A2 | 100–200 từ | 10 | thêm: ý chính, từ thay thế |
+| B1 | 250–350 từ | 20 | ý chính, chi tiết, từ trong ngữ cảnh, quy chiếu, NOT/EXCEPT |
+| B2 | 350–450 từ | 20 | thêm: suy luận, mục đích đoạn, thái độ tác giả |
+| C1 | 450–550 từ | 20 | thêm: hàm ý, cấu trúc lập luận |
 
 ## 5. JSON: giữ nguyên schema chung
 
-| Khoá | Chứa gì (sách tiếng Anh) |
+| Khoá | Chứa gì |
 |---|---|
 | `reading_passages[].content_ja` | bài đọc **tiếng Anh** |
 | `reading_passages[].translation_vn` | dịch từng câu, đánh số `(1) … (2) …` khớp bảng trong md |
+| `reading_passages[].curriculum_sheets` | **mới:** mã phiếu bài đọc luyện |
 | `questions[].question_jp` / `question_vn` | câu hỏi tiếng Anh / dịch |
 | `choices[].text` / `text_translation` | phương án tiếng Anh / dịch |
 | `explanation`, `tip` | giải thích tiếng Việt |
-| `level`, `jlpt_level` | `"A1"` … `"C2"` |
-| `skill_category` | `"dokkai"` |
-| `meta.language`, `meta.cefr_level` | `"en"`, `"A1"`: khoá mới, để app phân biệt ngôn ngữ |
+| `level`, `jlpt_level` | `"A1"` … `"C1"` |
+| `meta.language`, `meta.cefr_level` | `"en"`, `"A1"` |
+| `meta.curriculum_unit`, `meta.curriculum_sheets` | `"a1.u03"`, `["a1.09", …]` |
 
-ID theo NEW format, ví dụ câu 1 chương 1 sách A1 = `80561001`.
-
-## 6. Pipeline (sẽ lập skill riêng sau khi bài mẫu được duyệt)
-
-Gốc là pipeline LITE, thêm phần JSON, thay phần soát tiếng Nhật bằng soát tiếng Anh:
+## 6. Pipeline (lập skill riêng sau khi bài mẫu được duyệt)
 
 | # | Stage | Ai làm |
 |---|---|---|
-| 1 | Research: format đề từng cấp, chủ đề, dạng câu hỏi | subagent `book-researcher` |
-| 2 | Outline 9 chương | main Claude |
-| 3 | Draft: mỗi chương có bài đọc gì, câu hỏi dạng gì | main Claude |
-| 4 | Viết md + JSON từng chương. **Commit + push sau mỗi chương** | main Claude |
-| 5 | Soát cấp độ bằng script + review tiếng Anh / tiếng Việt | script + subagent |
-| 6 | Nhất quán giữa các chương | `consistency-reviewer` |
+| 1 | Research: format đề A2 và VSTEP, liệt kê `reading_title` của app để tránh trùng | subagent |
+| 2 | Outline: mỗi unit chọn 2 loại văn bản và tình huống | main Claude |
+| 3 | Draft: mỗi chương bài đọc gì, câu hỏi dạng gì, từ trọng tâm nào | main Claude |
+| 4 | Viết md + JSON từng chương, chạy script vốn từ. **Commit + push sau mỗi chương** | main Claude |
+| 5 | Review tiếng Anh tự nhiên + tiếng Việt | subagent |
+| 6 | Nhất quán giữa các chương (nhân vật, độ khó tăng dần) | subagent |
 | 7 | Hội đồng: ngôn ngữ học tiếng Anh, sư phạm, chuyên gia luyện thi VSTEP | 3 subagent song song |
-| 8 | Hoàn thiện + build SQL | main Claude |
-
-Các subagent hiện có được viết cho tiếng Nhật. Khi tạo skill sẽ viết lại prompt cho tiếng Anh.
+| 8 | Hoàn thiện | main Claude |
 
 ## 7. Nguyên tắc nội dung
 
-- **Bài đọc và câu hỏi tự viết mới**, đúng format và độ khó. Không chép đề thật (Cambridge, IELTS, đề VSTEP đã công bố) vì vướng bản quyền.
-- **Phương án nhiễu** lấy từ chính bài đọc (số/tên/nơi chốn của người khác, giới từ gần nghĩa). Đáp án đúng rải đều A–D.
-- **Luật số một của dự án** vẫn áp dụng: văn dạy học không viết "người Việt thường…" / "người Anh hay…".
-- Không box-drawing, bảng markdown chuẩn, ô bảng ≤ 200 ký tự.
+- **Bài đọc và câu hỏi tự viết mới.** Không chép đề thật (Cambridge, IELTS, đề VSTEP đã công bố).
+- **Phương án nhiễu lấy từ chính bài:** số, tên, tính từ nói về người khác. Đáp án đúng rải đều A–D.
+- **Luật số một của dự án vẫn áp dụng:** văn dạy học không viết "người Việt thường…" / "người Anh hay…".
+- **Ngữ pháp mẫu phải chuẩn:** bài mẫu đã bắt được `This is my grandpa and my grandma`, phải là `These are`.
+- **Định dạng:** không box-drawing, bảng markdown chuẩn.
 
 ## 8. Cần chủ nhà chốt
 
-1. Format bài mẫu A1 (md + JSON) đã ổn chưa?
-2. Tên folder `5N_english_<cấp>` và số chương 9/cuốn?
-3. `translation_vn` dịch từng câu có đánh số: app hiển thị như vậy được không?
-4. Tiếng Anh nằm trong khoá `content_ja` / `question_jp` (giữ nguyên schema): có chấp nhận được không, hay app mới sẽ đổi tên khoá?
+1. **ID số cho app.** Quy ước NEW chỉ có 1 chữ số cho topic, tức tối đa 9 chương/cuốn. A1 có 16 unit, B2 có 45 unit. Đề xuất: JSON chỉ dùng ID dạng chữ (`q_u03_001`) kèm mã unit và mã phiếu; ID số do bước nhập vào app mới sinh ra.
+2. **Sách B1 (40 unit) và B2 (45 unit)** để mỗi cấp một cuốn, hay tách mỗi cấp thành 2 tập?
+3. **Format bài mẫu Unit 3** đã ổn chưa?
+4. **Khoá `content_ja` / `question_jp` chứa tiếng Anh** (giữ nguyên schema chung): app mới chấp nhận vậy không?

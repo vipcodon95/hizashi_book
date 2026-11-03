@@ -2,6 +2,7 @@
 """Kiểm tra từ vựng trong văn bản tiếng Anh có vượt cấp CEFR mục tiêu không.
 
 Usage:
+    python3 _shared/scripts/check_cefr_level.py --sheet a1.12 file1.json [file2.md ...]   ← theo khoá Hizashi
     python3 _shared/scripts/check_cefr_level.py --level A1 file1.json [file2.md ...]
     python3 _shared/scripts/check_cefr_level.py --level A1 --text "Some English text"
 
@@ -9,6 +10,9 @@ Usage:
   question_jp và text của choices (tiếng Anh nằm ở các khoá này).
 - File .md: chỉ soát dòng '> ' nằm ngay dưới heading '## Bài đọc …' (trước '### ').
 - Báo: từ VƯỢT CẤP (có trong list nhưng cao hơn) và từ KHÔNG CÓ trong list (cần người xem).
+- --sheet <mã phiếu>: vốn từ = mọi từ + grammar_words + collocations của các phiếu từ a1.01
+  tới phiếu đó (cộng dồn, _shared/en_curriculum/), cộng từ CEFR-J của các cấp DƯỚI cấp hiện tại.
+  Báo thêm: từ mới của unit chứa phiếu đó đã được dùng bao nhiêu.
 - Tên riêng: từ viết hoa không đứng đầu câu bỏ qua; thêm --allow "Mai,Nam,Tom" để chắc.
 """
 from __future__ import annotations
@@ -47,6 +51,25 @@ def load() -> dict[str, str]:
                     lv[hw] = r["CEFR"]
     return lv
 
+CURR = Path(__file__).resolve().parent.parent / "en_curriculum"
+
+def load_curriculum(sheet: str):
+    """Trả (known_words, unit_words, unit_title) cho mã phiếu, ví dụ 'a1.12'."""
+    known: set[str] = set()
+    for lvl in ("a1", "a2", "b1", "b2", "c1"):
+        for u in json.load(open(CURR / f"{lvl}.json", encoding="utf-8"))["units"]:
+            ids = [s["id"] for s in u["sheets"]]
+            for s in u["sheets"]:
+                for w in s["words"]:
+                    known.update(x.lower() for x in re.findall(r"[A-Za-z']+", w["word"]))
+                known.update(x.lower() for g in s["grammar_words"] + s.get("collocations", []) + s.get("phrasal", [])
+                             for x in re.findall(r"[A-Za-z']+", g))
+                if s["id"] == sheet:
+                    unit_words = {w["word"].lower() for x in u["sheets"] if ids.index(x["id"]) <= ids.index(sheet)
+                                  for w in x["words"]}
+                    return known, unit_words, u["title"]["en"]
+    sys.exit(f"Không tìm thấy phiếu {sheet}")
+
 def candidates(w: str):
     yield w
     if w in IRREG:
@@ -83,16 +106,27 @@ def texts_from(path: Path) -> list[str]:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--level", required=True, choices=ORDER)
+    ap.add_argument("--level", choices=ORDER)
+    ap.add_argument("--sheet", help="mã phiếu khoá Hizashi, vd a1.12")
     ap.add_argument("--allow", default="", help="tên riêng/từ cho phép, cách nhau dấu phẩy")
     ap.add_argument("--text")
     ap.add_argument("files", nargs="*")
     a = ap.parse_args()
+    if not (a.level or a.sheet):
+        ap.error("cần --level hoặc --sheet")
     lv = load()
+    known: set[str] | None = None
+    if a.sheet:
+        known, unit_words, unit_title = load_curriculum(a.sheet.lower())
+        a.level = a.sheet[:2].upper()
+        lower = ORDER[: ORDER.index(a.level)]
+        known |= {w for w, l in lv.items() if l in lower}
     allow = {x.strip().lower() for x in a.allow.split(",") if x.strip()}
     texts = [a.text] if a.text else [t for f in a.files for t in texts_from(Path(f))]
     target = ORDER.index(a.level)
     over: dict[str, str] = {}
+    outside: set[str] = set()
+    used: set[str] = set()
     unknown: set[str] = set()
     total = 0
     for t in texts:
@@ -105,11 +139,24 @@ def main() -> int:
                     w = w[:-2]
                 if w in allow or (tok[0].isupper() and i > 0 and w != "i"):
                     continue
+                if known is not None:
+                    if not any(c in known for c in candidates(w)):
+                        outside.add(w)
+                    used.update(candidates(w))
+                    continue
                 l = word_level(w, lv)
                 if l is None:
                     unknown.add(w)
                 elif ORDER.index(l) > target:
                     over[w] = l
+    if known is not None:
+        print(f"Tổng {total} từ | vốn từ tới phiếu {a.sheet} (unit: {unit_title})")
+        print(f"NGOÀI PHẠM VI ({len(outside)}) — cần chú nghĩa hoặc thay:", ", ".join(sorted(outside)) or "—")
+        hit = sorted(w for w in unit_words if all(x in used for x in w.split()))
+        miss = sorted(unit_words - set(hit))
+        print(f"TỪ CỦA UNIT ĐÃ DÙNG {len(hit)}/{len(unit_words)}:", ", ".join(hit))
+        print("  chưa dùng:", ", ".join(miss) or "—")
+        return 0
     print(f"Tổng {total} từ | mục tiêu ≤ {a.level}")
     print(f"VƯỢT CẤP ({len(over)}):", ", ".join(f"{w}[{l}]" for w, l in sorted(over.items())) or "—")
     print(f"KHÔNG CÓ TRONG LIST ({len(unknown)}):", ", ".join(sorted(unknown)) or "—")

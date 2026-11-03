@@ -1,0 +1,521 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "BÀI MẪU THỬ — sách đọc hiểu tiếng Anh A1, bám Unit 3 khoá Hizashi. Giữ khoá schema chung: tiếng Anh ở content_ja / question_jp / text; tiếng Việt ở translation_vn / question_vn / text_translation.",
+  "meta": {
+    "title": "Unit 3 — Family and friends",
+    "title_vn": "Gia đình, bạn bè",
+    "module_code": "56_u03",
+    "language": "en",
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u03",
+    "curriculum_sheets": [
+      "a1.09",
+      "a1.10",
+      "a1.11",
+      "a1.12"
+    ],
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Tìm người được nói tới (he/she/they) + số dễ nhầm",
+    "description_vn": "Đọc trang album ảnh và đoạn tin nhắn về gia đình, bạn bè. 2 bài đọc × 5 câu."
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u03_01",
+      "title": "My New Album",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "word_count": 117,
+      "estimated_reading_time": 60,
+      "content_ja": "My New Album\n\nThis is my new album. Here are my family and my friends.\n\n1. These are my grandpa and my grandma. They live in Hue. I miss them!\n\n2. These are my mom and dad. My dad is a teacher. He is kind, but he is very strict at school.\n\n3. This is my little sister, Mai. She is seven years old. She is shy, but she is very smart.\n\n4. These are my aunt and her twin sons. They are four. They are funny kids!\n\n5. This is Hoa, my best friend. She is my classmate and my neighbor. We are in a book club together. We share books and we ride bikes.\n\nLinh",
+      "translation_vn": "(1) Album mới của mình\n(2) Đây là album mới của mình.\n(3) Đây là gia đình và bạn bè của mình.\n(4) Đây là ông và bà của mình.\n(5) Ông bà sống ở Huế.\n(6) Mình nhớ ông bà lắm!\n(7) Đây là mẹ và bố mình.\n(8) Bố mình là giáo viên.\n(9) Bố hiền, nhưng ở trường thì bố rất nghiêm.\n(10) Đây là em gái mình, Mai.\n(11) Em ấy 7 tuổi.\n(12) Em ấy nhút nhát, nhưng rất thông minh.\n(13) Đây là cô mình và hai con trai sinh đôi của cô.\n(14) Hai bạn ấy 4 tuổi.\n(15) Hai đứa nhóc vui tính lắm!\n(16) Đây là Hoa, bạn thân nhất của mình.\n(17) Hoa là bạn cùng lớp và cũng là hàng xóm của mình.\n(18) Bọn mình cùng ở một câu lạc bộ sách.\n(19) Bọn mình cho nhau mượn sách và cùng đạp xe.\n(20) Linh",
+      "curriculum_sheets": [
+        "a1.09",
+        "a1.10",
+        "a1.11",
+        "a1.12"
+      ],
+      "audio_url": null,
+      "image_url": null
+    },
+    {
+      "id": "passage_u03_02",
+      "title": "A chat with Ken",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "word_count": 95,
+      "estimated_reading_time": 90,
+      "content_ja": "Ken: Hi Linh! Is this your family in your album?\n\nLinh: Yes! That's my mom, my dad and my little sister.\n\nKen: Nice! Do you have a brother?\n\nLinh: No, I don't. But I have two cousins. They're twins! What about you?\n\nKen: I'm an only child. I live with my parents and my grandfather.\n\nLinh: Is your grandfather funny?\n\nKen: Yes, he is very funny! He's eighty years old, but he rides a bike!\n\nLinh: That's nice! Come to my book club. You can meet my best friend, Hoa.\n\nKen: Thanks! See you later.",
+      "translation_vn": "(1) Ken: Chào Linh! Đây là gia đình cậu trong album à?\n(2) Linh: Ừ! Đó là mẹ, bố và em gái mình.\n(3) Ken: Hay quá! Cậu có anh trai hay em trai không?\n(4) Linh: Không có.\n(5) Linh: Nhưng mình có hai em họ.\n(6) Linh: Hai đứa là sinh đôi đấy!\n(7) Linh: Còn cậu thì sao?\n(8) Ken: Mình là con một.\n(9) Ken: Mình sống với bố mẹ và ông.\n(10) Linh: Ông cậu có vui tính không?\n(11) Ken: Có, ông vui tính lắm!\n(12) Ken: Ông 80 tuổi rồi mà vẫn đạp xe đấy!\n(13) Linh: Hay thật!\n(14) Linh: Đến câu lạc bộ sách của mình nhé.\n(15) Linh: Cậu sẽ được gặp Hoa, bạn thân nhất của mình.\n(16) Ken: Cảm ơn nhé! Lát gặp lại.",
+      "curriculum_sheets": [
+        "a1.09",
+        "a1.10",
+        "a1.11",
+        "a1.12"
+      ],
+      "audio_url": null,
+      "image_url": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u03_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "question_jp": "Where do Linh's grandparents live?",
+      "question_vn": "Ông bà của Linh sống ở đâu?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "with Linh",
+          "text_translation": "cùng nhà với Linh",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "at school",
+          "text_translation": "ở trường",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "in Hue",
+          "text_translation": "ở Huế",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "in a club",
+          "text_translation": "ở câu lạc bộ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 4–5: \"These are my grandpa and my grandma. They live in Hue.\" \"They\" là ông bà.",
+      "audio_data": null
+    },
+    {
+      "id": "q_u03_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "question_jp": "Who is a teacher?",
+      "question_vn": "Ai là giáo viên?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Linh's dad",
+          "text_translation": "bố của Linh",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Linh's mom",
+          "text_translation": "mẹ của Linh",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Linh's aunt",
+          "text_translation": "cô của Linh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Hoa",
+          "text_translation": "Hoa",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 8: \"My dad is a teacher.\" Bài không nói mẹ hay cô của Linh làm gì.",
+      "audio_data": null
+    },
+    {
+      "id": "q_u03_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "question_jp": "How does Linh describe Mai?",
+      "question_vn": "Linh miêu tả Mai như thế nào?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "funny and kind",
+          "text_translation": "vui tính và tốt bụng",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "strict and good",
+          "text_translation": "nghiêm khắc và giỏi",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "friendly and funny",
+          "text_translation": "thân thiện và vui tính",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "shy and smart",
+          "text_translation": "nhút nhát và thông minh",
+          "is_correct": true,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 12: \"She is shy, but she is very smart.\" \"kind\" và \"strict\" là nói về bố; \"funny\" là nói về hai em sinh đôi.",
+      "audio_data": null,
+      "tip": "Câu hỏi \"How does … describe …?\" thường cài các tính từ có trong bài nhưng nói về NGƯỜI KHÁC — xem kỹ \"she/he/they\" chỉ ai."
+    },
+    {
+      "id": "q_u03_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "question_jp": "Who are the twins?",
+      "question_vn": "Cặp sinh đôi là ai?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Linh's brothers",
+          "text_translation": "anh em trai của Linh",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Linh's aunt's sons",
+          "text_translation": "hai con trai của cô Linh",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Hoa's sons",
+          "text_translation": "hai con trai của Hoa",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Linh's classmates",
+          "text_translation": "bạn cùng lớp của Linh",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 13: \"These are my aunt and her twin sons.\" \"her\" là của cô. Ở bài đọc 2, Linh còn nói mình không có anh em trai.",
+      "audio_data": null
+    },
+    {
+      "id": "q_u03_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "question_jp": "Who is Hoa?",
+      "question_vn": "Hoa là ai?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Linh's sister",
+          "text_translation": "em gái của Linh",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Linh's best friend",
+          "text_translation": "bạn thân nhất của Linh",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Linh's teacher",
+          "text_translation": "cô giáo của Linh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Linh's aunt",
+          "text_translation": "cô của Linh",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 16: \"This is Hoa, my best friend.\" Em gái của Linh tên là Mai.",
+      "audio_data": null
+    },
+    {
+      "id": "q_u03_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "question_jp": "Does Linh have a brother?",
+      "question_vn": "Linh có anh trai hay em trai không?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Yes, she has one.",
+          "text_translation": "Có, Linh có một người.",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Yes, she has two.",
+          "text_translation": "Có, Linh có hai người.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "No, she doesn't.",
+          "text_translation": "Không, Linh không có.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Yes, she has a twin brother.",
+          "text_translation": "Có, Linh có một anh em sinh đôi.",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 4: \"No, I don't.\" Bẫy: \"two\" và \"twins\" là nói về hai em họ (cousins), không phải anh em trai.",
+      "audio_data": null
+    },
+    {
+      "id": "q_u03_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "question_jp": "Who does Ken live with?",
+      "question_vn": "Ken sống với ai?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "his parents and his grandfather",
+          "text_translation": "bố mẹ và ông",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "his mom and his sister",
+          "text_translation": "mẹ và chị/em gái",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "his aunt and his cousins",
+          "text_translation": "cô và các anh chị em họ",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "his grandma",
+          "text_translation": "bà",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 9: \"I live with my parents and my grandfather.\" \"parents\" = bố mẹ.",
+      "audio_data": null
+    },
+    {
+      "id": "q_u03_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "question_jp": "How old is Ken's grandfather?",
+      "question_vn": "Ông của Ken bao nhiêu tuổi?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "eighteen",
+          "text_translation": "18 tuổi",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "eight",
+          "text_translation": "8 tuổi",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "forty",
+          "text_translation": "40 tuổi",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "eighty",
+          "text_translation": "80 tuổi",
+          "is_correct": true,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 12: \"He's eighty years old\". Cẩn thận: eighty (80) khác eighteen (18) và eight (8).",
+      "audio_data": null,
+      "tip": "Số đếm dễ nhầm: eight (8) / eighteen (18) / eighty (80). Đuôi -teen là 13–19, đuôi -ty là hàng chục."
+    },
+    {
+      "id": "q_u03_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "question_jp": "What does Linh ask Ken to do?",
+      "question_vn": "Linh rủ Ken làm gì?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ride a bike with her",
+          "text_translation": "đạp xe cùng Linh",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "meet her grandpa",
+          "text_translation": "gặp ông của Linh",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "come to her book club",
+          "text_translation": "đến câu lạc bộ sách của Linh",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "share her album",
+          "text_translation": "xem chung album của Linh",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 14: \"Come to my book club.\" Người đạp xe là ông của Ken, không phải Linh rủ đạp xe.",
+      "audio_data": null
+    },
+    {
+      "id": "q_u03_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "question_jp": "Ken is ______.",
+      "question_vn": "Ken là ______.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an only child",
+          "text_translation": "con một",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "a twin",
+          "text_translation": "một người sinh đôi",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Linh's cousin",
+          "text_translation": "em họ của Linh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "a teacher",
+          "text_translation": "giáo viên",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 8: \"I'm an only child.\" (only child = con một: không có anh chị em).",
+      "audio_data": null
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u03_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Trang album ảnh của Linh",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u03_01",
+      "question_ids": [
+        "q_u03_001",
+        "q_u03_002",
+        "q_u03_003",
+        "q_u03_004",
+        "q_u03_005"
+      ]
+    },
+    {
+      "set_id": "set_u03_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Tin nhắn giữa Ken và Linh",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u03_02",
+      "question_ids": [
+        "q_u03_006",
+        "q_u03_007",
+        "q_u03_008",
+        "q_u03_009",
+        "q_u03_010"
+      ]
+    }
+  ]
+}
