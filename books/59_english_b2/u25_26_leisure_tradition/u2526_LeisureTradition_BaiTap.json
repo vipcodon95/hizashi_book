@@ -1,0 +1,1963 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 25–26 — Leisure & Culture and tradition",
+      "vi": "Thời gian rảnh & Văn hoá, truyền thống"
+    },
+    "title": "Units 25–26 — Leisure & Culture and tradition",
+    "title_vn": "Thời gian rảnh & Văn hoá, truyền thống",
+    "module_code": "59_u2526",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u25+u26",
+    "curriculum_sheets": [
+      "b2.097",
+      "b2.098",
+      "b2.099",
+      "b2.100",
+      "b2.101",
+      "b2.102",
+      "b2.103",
+      "b2.104"
+    ],
+    "characters": [
+      "Ethan Hayes",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 2, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "mind/regret + V-ing, would quá khứ, So do I, khoanh vùng phong tục",
+    "description_vn": "Ethan kể cuộc chạy 50 km đầu tiên (Leah chờ ở vạch đích), và bài kiến thức về việc truyền thống thay đổi theo thời gian và theo từng nhà. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 25 + Unit 26 khoá B2 · phiếu `b2.097` – `b2.104` (động từ + tân ngữ + V-ing, regret not + V-ing, sở thích, thời gian rảnh; So do I / Neither do I, would và used to, văn hoá, truyền thống)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài kể trải nghiệm và một bài kiến thức xã hội; hiểu `mind + O + V-ing`, `regret not + V-ing`, `can't imagine + O + not + V-ing`, câu chẻ với What, `would` chỉ thói quen quá khứ, `So do I`, và nhận ra cách nói về phong tục theo từng gia đình, không gán cho cả dân tộc."
+    },
+    "extra_words": [
+      {
+        "word": "tamale",
+        "i18n": {
+          "vi": "bánh tamale (bột ngô gói lá)"
+        }
+      },
+      {
+        "word": "ultramarathon",
+        "i18n": {
+          "vi": "siêu marathon"
+        }
+      },
+      {
+        "word": "trail",
+        "i18n": {
+          "vi": "đường mòn"
+        }
+      },
+      {
+        "word": "aid station",
+        "i18n": {
+          "vi": "trạm tiếp tế"
+        }
+      },
+      {
+        "word": "finish line",
+        "i18n": {
+          "vi": "vạch đích"
+        }
+      },
+      {
+        "word": "sore",
+        "i18n": {
+          "vi": "đau nhức"
+        }
+      },
+      {
+        "word": "harvest",
+        "i18n": {
+          "vi": "mùa gặt"
+        }
+      },
+      {
+        "word": "sweet potato",
+        "i18n": {
+          "vi": "khoai lang"
+        }
+      },
+      {
+        "word": "roommate",
+        "i18n": {
+          "vi": "bạn cùng phòng"
+        }
+      },
+      {
+        "word": "exhaustion",
+        "i18n": {
+          "vi": "sự kiệt sức"
+        }
+      },
+      {
+        "word": "custom",
+        "i18n": {
+          "vi": "phong tục"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "keep someone going",
+          "vi": "giúp ai đi tiếp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "near the back of the field",
+          "vi": "ở gần cuối đoàn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a fair question",
+          "vi": "câu hỏi chính đáng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "marry into",
+          "vi": "kết hôn vào (gia đình)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "depending on",
+          "vi": "tuỳ theo"
+        }
+      },
+      {
+        "i18n": {
+          "en": "hardly known",
+          "vi": "gần như không ai biết"
+        }
+      },
+      {
+        "i18n": {
+          "en": "so do I",
+          "vi": "tôi cũng vậy"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`I don't mind them passing me` = không bận tâm việc họ vượt; `I regret not training` = tiếc vì đã không tập. Câu hỏi nghĩa hay tráo ai làm, làm hay không làm."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`would + V` trong lời kể về quá khứ = thói quen lặp lại, giống `used to`. Đừng nhầm với câu điều kiện."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`So do I` đồng ý với câu khẳng định; `Neither do I` đồng ý với câu phủ định."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài về phong tục: chú ý các cụm khoanh vùng (`in some families`, `depending on where grandparents grew up`). Đáp án đúng không bao giờ quy chụp cả một nước."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2526_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 25) — Ethan kể về cuộc chạy 50 km đầu tiên"
+      },
+      "narrator": "Ethan",
+      "title": "My First 50K: What Thirty-One Miles Taught Me",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My First 50K: What Thirty-One Miles Taught Me",
+            "vi": "Cuộc chạy 50 km đầu tiên: ba mươi mốt dặm đã dạy tôi điều gì"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Ethan Hayes",
+            "vi": "Người viết: Ethan Hayes"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Any race that is longer than a marathon is called an ultramarathon. Mine was a 50-kilometer trail race in the mountains east of San Diego, which is about thirty-one miles of dirt, rocks and hills.",
+            "vi": "Bất kỳ cuộc chạy nào dài hơn marathon đều gọi là siêu marathon. Cuộc của tôi là đường mòn 50 km trên vùng núi phía đông San Diego, tức chừng ba mươi mốt dặm đất, đá và đồi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I had been training for five months, mostly early in the morning before my shifts at the fire station.",
+            "vi": "Tôi đã tập năm tháng, chủ yếu vào sáng sớm trước ca trực ở trạm cứu hoả."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first ten miles felt easy, which, as experienced runners will tell you, is a dangerous feeling.",
+            "vi": "Mười dặm đầu thấy dễ, mà như những người chạy lâu năm sẽ bảo bạn, đó là một cảm giác nguy hiểm."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I started too fast, and by mile fifteen, my legs were already complaining.",
+            "vi": "Tôi xuất phát quá nhanh, và tới dặm thứ mười lăm, chân đã bắt đầu kêu ca."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On the long climb in the middle of the race, dozens of runners passed me. I didn't mind them passing me; I minded my own body refusing to go any faster.",
+            "vi": "Ở con dốc dài giữa chặng, hàng chục người vượt qua tôi. Tôi không bận tâm chuyện họ vượt; tôi bận tâm chuyện chính cơ thể mình không chịu chạy nhanh hơn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I regret not training on more hills. Running on the flat streets near the beach was pleasant, but it did not prepare me for climbing for two hours.",
+            "vi": "Tôi tiếc vì đã không tập leo dốc nhiều hơn. Chạy trên những con phố bằng phẳng gần biển thì dễ chịu thật, nhưng chẳng chuẩn bị gì cho việc leo dốc suốt hai tiếng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the aid station at mile twenty, a volunteer handed me a cup of soup and a boiled potato covered in salt, and I have never eaten anything so delicious in my life.",
+            "vi": "Ở trạm tiếp tế dặm thứ hai mươi, một tình nguyện viên đưa tôi một cốc súp và một củ khoai tây luộc rắc muối, và cả đời tôi chưa từng ăn thứ gì ngon đến thế."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The last eleven miles were a mixture of walking, running and talking to myself.",
+            "vi": "Mười một dặm cuối là hỗn hợp của đi bộ, chạy và tự nói chuyện với chính mình."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What kept me going was the thought of the finish line, where Leah had promised to be waiting.",
+            "vi": "Điều giúp tôi đi tiếp là ý nghĩ về vạch đích, nơi Leah đã hứa sẽ đứng chờ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since our difficult winter last year, we have kept one evening a week that belongs only to us, and somehow she had moved her shift so that she could be there.",
+            "vi": "Từ mùa đông khó khăn năm ngoái, chúng tôi giữ một buổi tối mỗi tuần chỉ dành cho hai người, và chẳng hiểu bằng cách nào cô ấy đã đổi được ca để có mặt."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I finished in seven hours and twelve minutes, near the back of the field.",
+            "vi": "Tôi về đích sau bảy tiếng mười hai phút, ở gần cuối đoàn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I can't imagine Leah not being there. She was holding a sign that said \"I'm so proud of you (and also: why?)\".",
+            "vi": "Tôi không thể hình dung nếu Leah không có mặt ở đó. Cô ấy cầm tấm biển ghi \"Em tự hào về anh lắm (nhưng mà: để làm gì vậy?)\"."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It's a fair question. I think the answer is that, for one long day, nothing else mattered except the next step. Will I do it again? Ask me when my legs work again.",
+            "vi": "Câu hỏi chính đáng. Tôi nghĩ câu trả lời là, trong một ngày dài ấy, chẳng có gì quan trọng ngoài bước chân tiếp theo. Tôi có chạy lần nữa không? Hỏi lại khi nào chân tôi đi lại được nhé."
+          }
+        }
+      ],
+      "content_ja": "My First 50K: What Thirty-One Miles Taught Me\n\nWritten by: Ethan Hayes\n\nAny race that is longer than a marathon is called an ultramarathon. Mine was a 50-kilometer trail race in the mountains east of San Diego, which is about thirty-one miles of dirt, rocks and hills. I had been training for five months, mostly early in the morning before my shifts at the fire station.\n\nThe first ten miles felt easy, which, as experienced runners will tell you, is a dangerous feeling. I started too fast, and by mile fifteen, my legs were already complaining. On the long climb in the middle of the race, dozens of runners passed me. I didn't mind them passing me; I minded my own body refusing to go any faster. I regret not training on more hills. Running on the flat streets near the beach was pleasant, but it did not prepare me for climbing for two hours.\n\nAt the aid station at mile twenty, a volunteer handed me a cup of soup and a boiled potato covered in salt, and I have never eaten anything so delicious in my life. The last eleven miles were a mixture of walking, running and talking to myself. What kept me going was the thought of the finish line, where Leah had promised to be waiting. Since our difficult winter last year, we have kept one evening a week that belongs only to us, and somehow she had moved her shift so that she could be there.\n\nI finished in seven hours and twelve minutes, near the back of the field. I can't imagine Leah not being there. She was holding a sign that said \"I'm so proud of you (and also: why?)\". It's a fair question. I think the answer is that, for one long day, nothing else mattered except the next step. Will I do it again? Ask me when my legs work again.",
+      "translation_vn": "(1) Cuộc chạy 50 km đầu tiên: ba mươi mốt dặm đã dạy tôi điều gì\n(2) Người viết: Ethan Hayes\n(3) Bất kỳ cuộc chạy nào dài hơn marathon đều gọi là siêu marathon. Cuộc của tôi là đường mòn 50 km trên vùng núi phía đông San Diego, tức chừng ba mươi mốt dặm đất, đá và đồi.\n(4) Tôi đã tập năm tháng, chủ yếu vào sáng sớm trước ca trực ở trạm cứu hoả.\n(5) Mười dặm đầu thấy dễ, mà như những người chạy lâu năm sẽ bảo bạn, đó là một cảm giác nguy hiểm.\n(6) Tôi xuất phát quá nhanh, và tới dặm thứ mười lăm, chân đã bắt đầu kêu ca.\n(7) Ở con dốc dài giữa chặng, hàng chục người vượt qua tôi. Tôi không bận tâm chuyện họ vượt; tôi bận tâm chuyện chính cơ thể mình không chịu chạy nhanh hơn.\n(8) Tôi tiếc vì đã không tập leo dốc nhiều hơn. Chạy trên những con phố bằng phẳng gần biển thì dễ chịu thật, nhưng chẳng chuẩn bị gì cho việc leo dốc suốt hai tiếng.\n(9) Ở trạm tiếp tế dặm thứ hai mươi, một tình nguyện viên đưa tôi một cốc súp và một củ khoai tây luộc rắc muối, và cả đời tôi chưa từng ăn thứ gì ngon đến thế.\n(10) Mười một dặm cuối là hỗn hợp của đi bộ, chạy và tự nói chuyện với chính mình.\n(11) Điều giúp tôi đi tiếp là ý nghĩ về vạch đích, nơi Leah đã hứa sẽ đứng chờ.\n(12) Từ mùa đông khó khăn năm ngoái, chúng tôi giữ một buổi tối mỗi tuần chỉ dành cho hai người, và chẳng hiểu bằng cách nào cô ấy đã đổi được ca để có mặt.\n(13) Tôi về đích sau bảy tiếng mười hai phút, ở gần cuối đoàn.\n(14) Tôi không thể hình dung nếu Leah không có mặt ở đó. Cô ấy cầm tấm biển ghi \"Em tự hào về anh lắm (nhưng mà: để làm gì vậy?)\".\n(15) Câu hỏi chính đáng. Tôi nghĩ câu trả lời là, trong một ngày dài ấy, chẳng có gì quan trọng ngoài bước chân tiếp theo. Tôi có chạy lần nữa không? Hỏi lại khi nào chân tôi đi lại được nhé.",
+      "word_count": 322,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.097",
+        "b2.098",
+        "b2.099",
+        "b2.100"
+      ]
+    },
+    {
+      "id": "passage_u2526_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 26) — Truyền thống thay đổi theo thời gian và theo từng nhà"
+      },
+      "narrator": "announcer",
+      "title": "Traditions Are Younger Than You Think",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Traditions Are Younger Than You Think",
+            "vi": "Truyền thống trẻ hơn bạn tưởng"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many families believe that their holiday traditions have stayed the same for hundreds of years. In fact, traditions change all the time, often faster than we notice.",
+            "vi": "Nhiều gia đình tin rằng truyền thống ngày lễ của họ giữ nguyên hàng trăm năm. Thực ra, truyền thống thay đổi liên tục, thường nhanh hơn ta nhận ra."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Take the American Thanksgiving meal.",
+            "vi": "Lấy ví dụ bữa ăn Lễ Tạ ơn ở Mỹ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most people imagine that the famous harvest meal in Plymouth in 1621 looked much like a modern one. But the only written description of it mentions deer and wild birds, and historians are not sure that turkey was served at all.",
+            "vi": "Phần lớn mọi người hình dung bữa tiệc mùa gặt nổi tiếng ở Plymouth năm 1621 trông giống bữa ăn ngày nay. Nhưng bản ghi chép duy nhất về nó chỉ nhắc tới thịt hươu và chim hoang, và các nhà sử học không chắc là có món gà tây hay không."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many of the dishes that families now consider \"traditional\" became common only in the last century or so.",
+            "vi": "Nhiều món mà các gia đình giờ coi là \"truyền thống\" chỉ mới phổ biến trong khoảng một thế kỷ gần đây."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Traditions also differ widely from family to family.",
+            "vi": "Truyền thống cũng khác nhau rất nhiều giữa các nhà."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In some families, the meal would not be complete without sweet potato pie; in others, there are tamales, rice dishes or noodles next to the turkey, depending on where grandparents grew up.",
+            "vi": "Ở một số nhà, bữa ăn sẽ không trọn vẹn nếu thiếu bánh khoai lang; ở nhà khác, cạnh gà tây có tamale, các món cơm hay mì, tuỳ theo nơi ông bà lớn lên."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"My grandmother would make twelve dishes, and nobody was allowed to help,\" one woman in her sixties told us. \"Now we each bring one. It is less perfect, but nobody falls asleep from exhaustion.\"",
+            "vi": "\"Bà tôi ngày xưa thường nấu mười hai món, và không ai được phụ,\" một phụ nữ ngoài sáu mươi kể với chúng tôi. \"Giờ mỗi người mang một món. Kém hoàn hảo hơn, nhưng chẳng ai ngủ gục vì kiệt sức.\""
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some changes are completely new.",
+            "vi": "Có những thay đổi hoàn toàn mới."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Friendsgiving\", a meal shared with friends instead of family, was hardly known before the 2000s, but many young people now celebrate it, especially those who live far from home.",
+            "vi": "\"Friendsgiving\", bữa ăn chung với bạn bè thay vì gia đình, gần như chưa ai biết tới trước những năm 2000, nhưng giờ nhiều người trẻ tổ chức, nhất là những người sống xa nhà."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When we asked two college roommates about it, one said, \"I miss my family's dinner.\" \"So do I,\" said the other, \"but I wouldn't miss this one either.\"",
+            "vi": "Khi chúng tôi hỏi hai bạn cùng phòng ký túc xá, một bạn nói: \"Mình nhớ bữa tối ở nhà.\" \"Mình cũng vậy,\" bạn kia đáp, \"nhưng mình cũng không muốn bỏ bữa này.\""
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why do traditions change? Usually for practical reasons: families move, people marry into other families with their own customs, and new members bring new dishes.",
+            "vi": "Vì sao truyền thống thay đổi? Thường vì lý do thực tế: gia đình chuyển nhà, người ta kết hôn với những gia đình có phong tục riêng, và thành viên mới mang tới món mới."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some older people feel that something is being lost. Others see it differently: a tradition that never changed, they say, would be one that nobody needed any more.",
+            "vi": "Một số người lớn tuổi thấy như có điều gì đang mất đi. Người khác lại nhìn khác: họ nói một truyền thống không bao giờ thay đổi sẽ là truyền thống chẳng còn ai cần nữa."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Perhaps what really stays the same is not the food on the table, but the people who sit around it.",
+            "vi": "Có lẽ điều thật sự giữ nguyên không phải là đồ ăn trên bàn, mà là những người ngồi quanh nó."
+          }
+        }
+      ],
+      "content_ja": "Traditions Are Younger Than You Think\n\nMany families believe that their holiday traditions have stayed the same for hundreds of years. In fact, traditions change all the time, often faster than we notice.\n\nTake the American Thanksgiving meal. Most people imagine that the famous harvest meal in Plymouth in 1621 looked much like a modern one. But the only written description of it mentions deer and wild birds, and historians are not sure that turkey was served at all. Many of the dishes that families now consider \"traditional\" became common only in the last century or so.\n\nTraditions also differ widely from family to family. In some families, the meal would not be complete without sweet potato pie; in others, there are tamales, rice dishes or noodles next to the turkey, depending on where grandparents grew up. \"My grandmother would make twelve dishes, and nobody was allowed to help,\" one woman in her sixties told us. \"Now we each bring one. It is less perfect, but nobody falls asleep from exhaustion.\"\n\nSome changes are completely new. \"Friendsgiving\", a meal shared with friends instead of family, was hardly known before the 2000s, but many young people now celebrate it, especially those who live far from home. When we asked two college roommates about it, one said, \"I miss my family's dinner.\" \"So do I,\" said the other, \"but I wouldn't miss this one either.\"\n\nWhy do traditions change? Usually for practical reasons: families move, people marry into other families with their own customs, and new members bring new dishes. Some older people feel that something is being lost. Others see it differently: a tradition that never changed, they say, would be one that nobody needed any more. Perhaps what really stays the same is not the food on the table, but the people who sit around it.",
+      "translation_vn": "(1) Truyền thống trẻ hơn bạn tưởng\n(2) Nhiều gia đình tin rằng truyền thống ngày lễ của họ giữ nguyên hàng trăm năm. Thực ra, truyền thống thay đổi liên tục, thường nhanh hơn ta nhận ra.\n(3) Lấy ví dụ bữa ăn Lễ Tạ ơn ở Mỹ.\n(4) Phần lớn mọi người hình dung bữa tiệc mùa gặt nổi tiếng ở Plymouth năm 1621 trông giống bữa ăn ngày nay. Nhưng bản ghi chép duy nhất về nó chỉ nhắc tới thịt hươu và chim hoang, và các nhà sử học không chắc là có món gà tây hay không.\n(5) Nhiều món mà các gia đình giờ coi là \"truyền thống\" chỉ mới phổ biến trong khoảng một thế kỷ gần đây.\n(6) Truyền thống cũng khác nhau rất nhiều giữa các nhà.\n(7) Ở một số nhà, bữa ăn sẽ không trọn vẹn nếu thiếu bánh khoai lang; ở nhà khác, cạnh gà tây có tamale, các món cơm hay mì, tuỳ theo nơi ông bà lớn lên.\n(8) \"Bà tôi ngày xưa thường nấu mười hai món, và không ai được phụ,\" một phụ nữ ngoài sáu mươi kể với chúng tôi. \"Giờ mỗi người mang một món. Kém hoàn hảo hơn, nhưng chẳng ai ngủ gục vì kiệt sức.\"\n(9) Có những thay đổi hoàn toàn mới.\n(10) \"Friendsgiving\", bữa ăn chung với bạn bè thay vì gia đình, gần như chưa ai biết tới trước những năm 2000, nhưng giờ nhiều người trẻ tổ chức, nhất là những người sống xa nhà.\n(11) Khi chúng tôi hỏi hai bạn cùng phòng ký túc xá, một bạn nói: \"Mình nhớ bữa tối ở nhà.\" \"Mình cũng vậy,\" bạn kia đáp, \"nhưng mình cũng không muốn bỏ bữa này.\"\n(12) Vì sao truyền thống thay đổi? Thường vì lý do thực tế: gia đình chuyển nhà, người ta kết hôn với những gia đình có phong tục riêng, và thành viên mới mang tới món mới.\n(13) Một số người lớn tuổi thấy như có điều gì đang mất đi. Người khác lại nhìn khác: họ nói một truyền thống không bao giờ thay đổi sẽ là truyền thống chẳng còn ai cần nữa.\n(14) Có lẽ điều thật sự giữ nguyên không phải là đồ ăn trên bàn, mà là những người ngồi quanh nó.",
+      "word_count": 305,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.101",
+        "b2.102",
+        "b2.103",
+        "b2.104"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2526_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What is Ethan's article mainly about?",
+        "vi": "Bài viết của Ethan chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to become a firefighter",
+            "vi": "cách trở thành lính cứu hoả"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to become a firefighter",
+          "text_translation": "cách trở thành lính cứu hoả"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the best food for runners",
+            "vi": "đồ ăn tốt nhất cho người chạy bộ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the best food for runners",
+          "text_translation": "đồ ăn tốt nhất cho người chạy bộ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "his experience of running his first 50-kilometer race",
+            "vi": "trải nghiệm chạy cuộc đua 50 km đầu tiên của anh"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "his experience of running his first 50-kilometer race",
+          "text_translation": "trải nghiệm chạy cuộc đua 50 km đầu tiên của anh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah's work at the hospital",
+            "vi": "công việc của Leah ở bệnh viện"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah's work at the hospital",
+          "text_translation": "công việc của Leah ở bệnh viện"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Mine was a 50-kilometer trail race in the mountains east of San Diego\". Bài kể từ lúc tập luyện tới vạch đích."
+      },
+      "audio_data": null,
+      "question_jp": "What is Ethan's article mainly about?",
+      "question_vn": "Bài viết của Ethan chủ yếu nói về điều gì?",
+      "explanation": "\"Mine was a 50-kilometer trail race in the mountains east of San Diego\". Bài kể từ lúc tập luyện tới vạch đích."
+    },
+    {
+      "id": "q_u2526_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What is an ultramarathon?",
+        "vi": "Siêu marathon là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "any race that is longer than a marathon",
+            "vi": "bất kỳ cuộc chạy nào dài hơn marathon"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "any race that is longer than a marathon",
+          "text_translation": "bất kỳ cuộc chạy nào dài hơn marathon"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a race in the mountains",
+            "vi": "một cuộc chạy trên núi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a race in the mountains",
+          "text_translation": "một cuộc chạy trên núi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a race for firefighters",
+            "vi": "một cuộc chạy cho lính cứu hoả"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a race for firefighters",
+          "text_translation": "một cuộc chạy cho lính cứu hoả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a race of exactly thirty-one miles",
+            "vi": "một cuộc chạy đúng ba mươi mốt dặm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a race of exactly thirty-one miles",
+          "text_translation": "một cuộc chạy đúng ba mươi mốt dặm"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Any race that is longer than a marathon is called an ultramarathon.\" Ba mươi mốt dặm chỉ là độ dài cuộc chạy của Ethan."
+      },
+      "audio_data": null,
+      "question_jp": "What is an ultramarathon?",
+      "question_vn": "Siêu marathon là gì?",
+      "explanation": "\"Any race that is longer than a marathon is called an ultramarathon.\" Ba mươi mốt dặm chỉ là độ dài cuộc chạy của Ethan."
+    },
+    {
+      "id": "q_u2526_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "Why does Ethan say that feeling easy in the first ten miles is \"a dangerous feeling\"?",
+        "vi": "Vì sao Ethan nói cảm giác dễ dàng ở mười dặm đầu là \"cảm giác nguy hiểm\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he fell",
+            "vi": "vì anh bị ngã"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because he fell",
+          "text_translation": "vì anh bị ngã"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the trail was dangerous",
+            "vi": "vì đường mòn nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the trail was dangerous",
+          "text_translation": "vì đường mòn nguy hiểm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because other runners were angry",
+            "vi": "vì người khác giận"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because other runners were angry",
+          "text_translation": "vì người khác giận"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it made him start too fast, and he was tired too early",
+            "vi": "vì nó khiến anh chạy quá nhanh từ đầu và đuối sức quá sớm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because it made him start too fast, and he was tired too early",
+          "text_translation": "vì nó khiến anh chạy quá nhanh từ đầu và đuối sức quá sớm"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I started too fast, and by mile fifteen, my legs were already complaining.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ethan say that feeling easy in the first ten miles is \"a dangerous feeling\"?",
+      "question_vn": "Vì sao Ethan nói cảm giác dễ dàng ở mười dặm đầu là \"cảm giác nguy hiểm\"?",
+      "explanation": "Câu suy luận. \"I started too fast, and by mile fifteen, my legs were already complaining.\""
+    },
+    {
+      "id": "q_u2526_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What does \"I didn't mind them passing me\" mean?",
+        "vi": "Câu \"I didn't mind them passing me\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ethan passed many runners.",
+            "vi": "Ethan vượt nhiều người."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ethan passed many runners.",
+          "text_translation": "Ethan vượt nhiều người."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Ethan wasn't bothered by other runners passing him.",
+            "vi": "Ethan không bận tâm việc người khác vượt mình."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Ethan wasn't bothered by other runners passing him.",
+          "text_translation": "Ethan không bận tâm việc người khác vượt mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ethan asked them to pass.",
+            "vi": "Ethan bảo họ vượt."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ethan asked them to pass.",
+          "text_translation": "Ethan bảo họ vượt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Ethan was angry with the runners.",
+            "vi": "Ethan giận những người chạy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Ethan was angry with the runners.",
+          "text_translation": "Ethan giận những người chạy."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"I didn't mind them passing me\". Mind + tân ngữ + V-ing = bận tâm việc ai đó làm gì. Điều anh bực là \"my own body refusing to go any faster\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I didn't mind them passing me\" mean?",
+      "question_vn": "Câu \"I didn't mind them passing me\" nghĩa là gì?",
+      "explanation": "\"I didn't mind them passing me\". Mind + tân ngữ + V-ing = bận tâm việc ai đó làm gì. Điều anh bực là \"my own body refusing to go any faster\"."
+    },
+    {
+      "id": "q_u2526_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What does Ethan regret?",
+        "vi": "Ethan tiếc điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "not training on more hills",
+            "vi": "không tập leo dốc nhiều hơn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "not training on more hills",
+          "text_translation": "không tập leo dốc nhiều hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "running the race at all",
+            "vi": "đã tham gia cuộc chạy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "running the race at all",
+          "text_translation": "đã tham gia cuộc chạy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "eating the potato",
+            "vi": "ăn củ khoai tây"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "eating the potato",
+          "text_translation": "ăn củ khoai tây"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "asking Leah to come",
+            "vi": "nhờ Leah tới"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "asking Leah to come",
+          "text_translation": "nhờ Leah tới"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"I regret not training on more hills.\" Regret not + V-ing = tiếc vì đã không làm."
+      },
+      "audio_data": null,
+      "question_jp": "What does Ethan regret?",
+      "question_vn": "Ethan tiếc điều gì?",
+      "explanation": "\"I regret not training on more hills.\" Regret not + V-ing = tiếc vì đã không làm."
+    },
+    {
+      "id": "q_u2526_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "Why does Ethan describe the boiled potato as the most delicious thing he had ever eaten?",
+        "vi": "Vì sao Ethan tả củ khoai luộc là món ngon nhất đời?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it was cooked by a famous chef",
+            "vi": "vì do đầu bếp nổi tiếng nấu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it was cooked by a famous chef",
+          "text_translation": "vì do đầu bếp nổi tiếng nấu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he had never eaten a potato before",
+            "vi": "vì anh chưa từng ăn khoai"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he had never eaten a potato before",
+          "text_translation": "vì anh chưa từng ăn khoai"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because he was so tired and hungry at that point in the race",
+            "vi": "vì lúc đó trong cuộc đua anh quá mệt và đói"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because he was so tired and hungry at that point in the race",
+          "text_translation": "vì lúc đó trong cuộc đua anh quá mệt và đói"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it was free",
+            "vi": "vì nó miễn phí"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it was free",
+          "text_translation": "vì nó miễn phí"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Ở dặm thứ hai mươi, sau khi \"my legs were already complaining\", món ăn đơn giản nhất cũng thành tuyệt vời."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ethan describe the boiled potato as the most delicious thing he had ever eaten?",
+      "question_vn": "Vì sao Ethan tả củ khoai luộc là món ngon nhất đời?",
+      "explanation": "Câu suy luận. Ở dặm thứ hai mươi, sau khi \"my legs were already complaining\", món ăn đơn giản nhất cũng thành tuyệt vời."
+    },
+    {
+      "id": "q_u2526_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What kept Ethan going in the last eleven miles?",
+        "vi": "Điều gì giúp Ethan đi tiếp ở mười một dặm cuối?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the volunteers' soup",
+            "vi": "súp của tình nguyện viên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the volunteers' soup",
+          "text_translation": "súp của tình nguyện viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the other runners",
+            "vi": "những người chạy khác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the other runners",
+          "text_translation": "những người chạy khác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "music on his phone",
+            "vi": "nhạc trên điện thoại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "music on his phone",
+          "text_translation": "nhạc trên điện thoại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the thought of Leah waiting at the finish line",
+            "vi": "ý nghĩ Leah đang chờ ở vạch đích"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the thought of Leah waiting at the finish line",
+          "text_translation": "ý nghĩ Leah đang chờ ở vạch đích"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"What kept me going was the thought of the finish line, where Leah had promised to be waiting.\" Câu chẻ What … was … nhấn mạnh điều đó."
+      },
+      "audio_data": null,
+      "question_jp": "What kept Ethan going in the last eleven miles?",
+      "question_vn": "Điều gì giúp Ethan đi tiếp ở mười một dặm cuối?",
+      "explanation": "\"What kept me going was the thought of the finish line, where Leah had promised to be waiting.\" Câu chẻ What … was … nhấn mạnh điều đó."
+    },
+    {
+      "id": "q_u2526_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What does the article tell us about Leah and Ethan's relationship now?",
+        "vi": "Bài viết cho biết gì về mối quan hệ hiện nay của Leah và Ethan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They have broken up.",
+            "vi": "Hai người đã chia tay."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They have broken up.",
+          "text_translation": "Hai người đã chia tay."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Since a difficult winter, they have kept one evening a week for themselves, and Leah supports him.",
+            "vi": "Từ một mùa đông khó khăn, họ giữ một buổi tối mỗi tuần cho nhau, và Leah ủng hộ anh."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Since a difficult winter, they have kept one evening a week for themselves, and Leah supports him.",
+          "text_translation": "Từ một mùa đông khó khăn, họ giữ một buổi tối mỗi tuần cho nhau, và Leah ủng hộ anh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They never see each other.",
+            "vi": "Họ không bao giờ gặp nhau."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They never see each other.",
+          "text_translation": "Họ không bao giờ gặp nhau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah didn't come to the race.",
+            "vi": "Leah không tới cuộc đua."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah didn't come to the race.",
+          "text_translation": "Leah không tới cuộc đua."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"we have kept one evening a week that belongs only to us, and somehow she had moved her shift so that she could be there.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the article tell us about Leah and Ethan's relationship now?",
+      "question_vn": "Bài viết cho biết gì về mối quan hệ hiện nay của Leah và Ethan?",
+      "explanation": "\"we have kept one evening a week that belongs only to us, and somehow she had moved her shift so that she could be there.\""
+    },
+    {
+      "id": "q_u2526_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What does Leah's sign \"I'm so proud of you (and also: why?)\" show?",
+        "vi": "Tấm biển \"Em tự hào về anh lắm (nhưng mà: để làm gì vậy?)\" của Leah cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is proud of him but also teasing him about why anyone would run so far.",
+            "vi": "Cô tự hào về anh nhưng cũng trêu chuyện sao lại có người chạy xa đến thế."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She is proud of him but also teasing him about why anyone would run so far.",
+          "text_translation": "Cô tự hào về anh nhưng cũng trêu chuyện sao lại có người chạy xa đến thế."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is angry that he ran.",
+            "vi": "Cô giận vì anh chạy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is angry that he ran.",
+          "text_translation": "Cô giận vì anh chạy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She didn't understand the race.",
+            "vi": "Cô không hiểu cuộc đua."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She didn't understand the race.",
+          "text_translation": "Cô không hiểu cuộc đua."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants him to stop running.",
+            "vi": "Cô muốn anh thôi chạy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants him to stop running.",
+          "text_translation": "Cô muốn anh thôi chạy."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Vừa khen thật lòng, vừa đùa trong ngoặc. Ethan còn đáp: \"It's a fair question.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Leah's sign \"I'm so proud of you (and also: why?)\" show?",
+      "question_vn": "Tấm biển \"Em tự hào về anh lắm (nhưng mà: để làm gì vậy?)\" của Leah cho thấy điều gì?",
+      "explanation": "Câu suy luận về giọng điệu. Vừa khen thật lòng, vừa đùa trong ngoặc. Ethan còn đáp: \"It's a fair question.\""
+    },
+    {
+      "id": "q_u2526_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_01",
+      "i18n": {
+        "en": "What does Ethan mean by \"Ask me when my legs work again\"?",
+        "vi": "Ethan muốn nói gì qua câu \"Hỏi lại khi nào chân tôi đi lại được nhé\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He has hurt his legs badly and must see a doctor.",
+            "vi": "Anh bị thương chân nặng và phải đi khám."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He has hurt his legs badly and must see a doctor.",
+          "text_translation": "Anh bị thương chân nặng và phải đi khám."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He will never run again.",
+            "vi": "Anh sẽ không bao giờ chạy nữa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He will never run again.",
+          "text_translation": "Anh sẽ không bao giờ chạy nữa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is too tired to decide now, and he is joking about how sore he is.",
+            "vi": "Anh quá mệt để quyết định lúc này, và đang đùa về việc mình đau nhức."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He is too tired to decide now, and he is joking about how sore he is.",
+          "text_translation": "Anh quá mệt để quyết định lúc này, và đang đùa về việc mình đau nhức."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He wants someone to carry him.",
+            "vi": "Anh muốn có người cõng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He wants someone to carry him.",
+          "text_translation": "Anh muốn có người cõng."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Đây là cách nói đùa: chân đau nhức tới mức chưa nghĩ được chuyện chạy lại."
+      },
+      "audio_data": null,
+      "question_jp": "What does Ethan mean by \"Ask me when my legs work again\"?",
+      "question_vn": "Ethan muốn nói gì qua câu \"Hỏi lại khi nào chân tôi đi lại được nhé\"?",
+      "explanation": "Câu suy luận về giọng điệu. Đây là cách nói đùa: chân đau nhức tới mức chưa nghĩ được chuyện chạy lại."
+    },
+    {
+      "id": "q_u2526_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Thanksgiving is the oldest holiday in the world.",
+            "vi": "Lễ Tạ ơn là ngày lễ lâu đời nhất thế giới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Thanksgiving is the oldest holiday in the world.",
+          "text_translation": "Lễ Tạ ơn là ngày lễ lâu đời nhất thế giới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Traditions change over time and differ from family to family.",
+            "vi": "Truyền thống thay đổi theo thời gian và khác nhau giữa các nhà."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Traditions change over time and differ from family to family.",
+          "text_translation": "Truyền thống thay đổi theo thời gian và khác nhau giữa các nhà."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Everyone should eat turkey.",
+            "vi": "Ai cũng nên ăn gà tây."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Everyone should eat turkey.",
+          "text_translation": "Ai cũng nên ăn gà tây."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Young people don't like traditions.",
+            "vi": "Người trẻ không thích truyền thống."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Young people don't like traditions.",
+          "text_translation": "Người trẻ không thích truyền thống."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"In fact, traditions change all the time, often faster than we notice.\" Bài còn có đoạn \"Traditions also differ widely from family to family.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"In fact, traditions change all the time, often faster than we notice.\" Bài còn có đoạn \"Traditions also differ widely from family to family.\""
+    },
+    {
+      "id": "q_u2526_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What does the only written description of the 1621 meal mention?",
+        "vi": "Bản ghi chép duy nhất về bữa ăn năm 1621 nhắc tới gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "turkey and sweet potato pie",
+            "vi": "gà tây và bánh khoai lang"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "turkey and sweet potato pie",
+          "text_translation": "gà tây và bánh khoai lang"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "rice and noodles",
+            "vi": "cơm và mì"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "rice and noodles",
+          "text_translation": "cơm và mì"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "twelve dishes",
+            "vi": "mười hai món"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "twelve dishes",
+          "text_translation": "mười hai món"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "deer and wild birds",
+            "vi": "thịt hươu và chim hoang"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "deer and wild birds",
+          "text_translation": "thịt hươu và chim hoang"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"the only written description of it mentions deer and wild birds, and historians are not sure that turkey was served at all.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the only written description of the 1621 meal mention?",
+      "question_vn": "Bản ghi chép duy nhất về bữa ăn năm 1621 nhắc tới gì?",
+      "explanation": "\"the only written description of it mentions deer and wild birds, and historians are not sure that turkey was served at all.\""
+    },
+    {
+      "id": "q_u2526_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "Why does the writer mention the 1621 meal?",
+        "vi": "Vì sao người viết nhắc tới bữa ăn năm 1621?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that a tradition people think is very old has actually changed a lot",
+            "vi": "để cho thấy một truyền thống tưởng rất cổ thực ra đã thay đổi nhiều"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that a tradition people think is very old has actually changed a lot",
+          "text_translation": "để cho thấy một truyền thống tưởng rất cổ thực ra đã thay đổi nhiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to give a recipe",
+            "vi": "để đưa công thức nấu ăn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to give a recipe",
+          "text_translation": "để đưa công thức nấu ăn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to say that turkey is unhealthy",
+            "vi": "để nói gà tây không tốt cho sức khoẻ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to say that turkey is unhealthy",
+          "text_translation": "để nói gà tây không tốt cho sức khoẻ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell the history of Plymouth",
+            "vi": "để kể lịch sử Plymouth"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell the history of Plymouth",
+          "text_translation": "để kể lịch sử Plymouth"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng. Ví dụ này minh hoạ cho ý ở đoạn đầu: truyền thống thay đổi nhiều hơn ta nghĩ."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention the 1621 meal?",
+      "question_vn": "Vì sao người viết nhắc tới bữa ăn năm 1621?",
+      "explanation": "Câu suy luận về chức năng. Ví dụ này minh hoạ cho ý ở đoạn đầu: truyền thống thay đổi nhiều hơn ta nghĩ."
+    },
+    {
+      "id": "q_u2526_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "According to the article, what decides which dishes some families serve next to the turkey?",
+        "vi": "Theo bài, điều gì quyết định món nào được bày cạnh gà tây ở một số nhà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the price of food",
+            "vi": "giá đồ ăn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the price of food",
+          "text_translation": "giá đồ ăn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the weather",
+            "vi": "thời tiết"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the weather",
+          "text_translation": "thời tiết"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "where grandparents grew up",
+            "vi": "nơi ông bà lớn lên"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "where grandparents grew up",
+          "text_translation": "nơi ông bà lớn lên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the advice of chefs",
+            "vi": "lời khuyên của đầu bếp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the advice of chefs",
+          "text_translation": "lời khuyên của đầu bếp"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"tamales, rice dishes or noodles next to the turkey, depending on where grandparents grew up.\" Bài nói theo từng nhà, không gán cho cả nước."
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, what decides which dishes some families serve next to the turkey?",
+      "question_vn": "Theo bài, điều gì quyết định món nào được bày cạnh gà tây ở một số nhà?",
+      "explanation": "\"tamales, rice dishes or noodles next to the turkey, depending on where grandparents grew up.\" Bài nói theo từng nhà, không gán cho cả nước."
+    },
+    {
+      "id": "q_u2526_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "In \"My grandmother would make twelve dishes\", what does \"would\" show?",
+        "vi": "Trong câu \"My grandmother would make twelve dishes\", \"would\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a future plan",
+            "vi": "một kế hoạch tương lai"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a future plan",
+          "text_translation": "một kế hoạch tương lai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a repeated habit in the past",
+            "vi": "một thói quen lặp lại trong quá khứ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a repeated habit in the past",
+          "text_translation": "một thói quen lặp lại trong quá khứ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a polite request",
+            "vi": "một lời nhờ lịch sự"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a polite request",
+          "text_translation": "một lời nhờ lịch sự"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "an imaginary situation",
+            "vi": "một tình huống tưởng tượng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "an imaginary situation",
+          "text_translation": "một tình huống tưởng tượng"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"My grandmother would make twelve dishes, and nobody was allowed to help\". Would + V nguyên mẫu = thói quen lặp lại trong quá khứ (giống used to)."
+      },
+      "audio_data": null,
+      "question_jp": "In \"My grandmother would make twelve dishes\", what does \"would\" show?",
+      "question_vn": "Trong câu \"My grandmother would make twelve dishes\", \"would\" cho thấy điều gì?",
+      "explanation": "\"My grandmother would make twelve dishes, and nobody was allowed to help\". Would + V nguyên mẫu = thói quen lặp lại trong quá khứ (giống used to)."
+    },
+    {
+      "id": "q_u2526_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What does the woman mean by \"It is less perfect, but nobody falls asleep from exhaustion\"?",
+        "vi": "Người phụ nữ muốn nói gì qua câu \"Kém hoàn hảo hơn, nhưng chẳng ai ngủ gục vì kiệt sức\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The food is not as good now.",
+            "vi": "Đồ ăn giờ không ngon bằng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The food is not as good now.",
+          "text_translation": "Đồ ăn giờ không ngon bằng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Everyone sleeps during the meal.",
+            "vi": "Ai cũng ngủ trong bữa ăn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Everyone sleeps during the meal.",
+          "text_translation": "Ai cũng ngủ trong bữa ăn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her grandmother was lazy.",
+            "vi": "Bà cô lười."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Her grandmother was lazy.",
+          "text_translation": "Bà cô lười."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Sharing the cooking is better, even if the meal is not perfect.",
+            "vi": "Chia nhau nấu thì tốt hơn, dù bữa ăn không hoàn hảo."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Sharing the cooking is better, even if the meal is not perfect.",
+          "text_translation": "Chia nhau nấu thì tốt hơn, dù bữa ăn không hoàn hảo."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Ngày xưa một người nấu hết nên kiệt sức; giờ \"we each bring one\". Bà chấp nhận kém hoàn hảo để mọi người cùng vui."
+      },
+      "audio_data": null,
+      "question_jp": "What does the woman mean by \"It is less perfect, but nobody falls asleep from exhaustion\"?",
+      "question_vn": "Người phụ nữ muốn nói gì qua câu \"Kém hoàn hảo hơn, nhưng chẳng ai ngủ gục vì kiệt sức\"?",
+      "explanation": "Câu suy luận. Ngày xưa một người nấu hết nên kiệt sức; giờ \"we each bring one\". Bà chấp nhận kém hoàn hảo để mọi người cùng vui."
+    },
+    {
+      "id": "q_u2526_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What is \"Friendsgiving\"?",
+        "vi": "\"Friendsgiving\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a meal shared with friends instead of family",
+            "vi": "bữa ăn chung với bạn bè thay vì gia đình"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a meal shared with friends instead of family",
+          "text_translation": "bữa ăn chung với bạn bè thay vì gia đình"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a very old tradition",
+            "vi": "một truyền thống rất cổ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a very old tradition",
+          "text_translation": "một truyền thống rất cổ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a kind of pie",
+            "vi": "một loại bánh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a kind of pie",
+          "text_translation": "một loại bánh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a holiday in the 1600s",
+            "vi": "một ngày lễ thế kỷ 17"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a holiday in the 1600s",
+          "text_translation": "một ngày lễ thế kỷ 17"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"a meal shared with friends instead of family, was hardly known before the 2000s\". Hardly known = gần như không ai biết."
+      },
+      "audio_data": null,
+      "question_jp": "What is \"Friendsgiving\"?",
+      "question_vn": "\"Friendsgiving\" là gì?",
+      "explanation": "\"a meal shared with friends instead of family, was hardly known before the 2000s\". Hardly known = gần như không ai biết."
+    },
+    {
+      "id": "q_u2526_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What does \"So do I\" mean in the roommates' conversation?",
+        "vi": "Trong đoạn hội thoại của hai bạn cùng phòng, \"So do I\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "I don't miss my family.",
+            "vi": "Mình không nhớ nhà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "I don't miss my family.",
+          "text_translation": "Mình không nhớ nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "I will cook dinner.",
+            "vi": "Mình sẽ nấu bữa tối."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "I will cook dinner.",
+          "text_translation": "Mình sẽ nấu bữa tối."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "I also miss my family's dinner.",
+            "vi": "Mình cũng nhớ bữa tối ở nhà."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "I also miss my family's dinner.",
+          "text_translation": "Mình cũng nhớ bữa tối ở nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "I want to go home now.",
+            "vi": "Mình muốn về nhà ngay."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "I want to go home now.",
+          "text_translation": "Mình muốn về nhà ngay."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"I miss my family's dinner.\" \"So do I\". So + trợ động từ + chủ ngữ = tôi cũng vậy (đồng ý với câu khẳng định)."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"So do I\" mean in the roommates' conversation?",
+      "question_vn": "Trong đoạn hội thoại của hai bạn cùng phòng, \"So do I\" nghĩa là gì?",
+      "explanation": "\"I miss my family's dinner.\" \"So do I\". So + trợ động từ + chủ ngữ = tôi cũng vậy (đồng ý với câu khẳng định)."
+    },
+    {
+      "id": "q_u2526_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "What do some people mean by \"a tradition that never changed would be one that nobody needed any more\"?",
+        "vi": "Một số người muốn nói gì qua câu \"một truyền thống không bao giờ thay đổi sẽ là truyền thống chẳng còn ai cần nữa\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Traditions should be stopped.",
+            "vi": "Nên bỏ hết truyền thống."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Traditions should be stopped.",
+          "text_translation": "Nên bỏ hết truyền thống."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Traditions stay alive because they change to fit people's lives.",
+            "vi": "Truyền thống sống được vì nó thay đổi cho hợp với cuộc sống của con người."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Traditions stay alive because they change to fit people's lives.",
+          "text_translation": "Truyền thống sống được vì nó thay đổi cho hợp với cuộc sống của con người."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Old people don't need traditions.",
+            "vi": "Người già không cần truyền thống."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Old people don't need traditions.",
+          "text_translation": "Người già không cần truyền thống."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Traditions never change.",
+            "vi": "Truyền thống không bao giờ thay đổi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Traditions never change.",
+          "text_translation": "Truyền thống không bao giờ thay đổi."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Nếu không thay đổi theo đời sống, truyền thống sẽ không còn hợp với ai, và sẽ mất đi."
+      },
+      "audio_data": null,
+      "question_jp": "What do some people mean by \"a tradition that never changed would be one that nobody needed any more\"?",
+      "question_vn": "Một số người muốn nói gì qua câu \"một truyền thống không bao giờ thay đổi sẽ là truyền thống chẳng còn ai cần nữa\"?",
+      "explanation": "Câu suy luận. Nếu không thay đổi theo đời sống, truyền thống sẽ không còn hợp với ai, và sẽ mất đi."
+    },
+    {
+      "id": "q_u2526_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2526_02",
+      "i18n": {
+        "en": "Use both texts. What do Ethan's race and the changing traditions have in common?",
+        "vi": "Dựa vào cả hai bài. Cuộc chạy của Ethan và những truyền thống đổi thay có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them happened in 1621.",
+            "vi": "Cả hai đều xảy ra năm 1621."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them happened in 1621.",
+          "text_translation": "Cả hai đều xảy ra năm 1621."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them are about turkey.",
+            "vi": "Cả hai đều về gà tây."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them are about turkey.",
+          "text_translation": "Cả hai đều về gà tây."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them show that people never change.",
+            "vi": "Cả hai cho thấy con người không bao giờ thay đổi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them show that people never change.",
+          "text_translation": "Cả hai cho thấy con người không bao giờ thay đổi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "In both, what matters most is the people who share the experience.",
+            "vi": "Trong cả hai, điều quan trọng nhất là những người cùng chia sẻ trải nghiệm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "In both, what matters most is the people who share the experience.",
+          "text_translation": "Trong cả hai, điều quan trọng nhất là những người cùng chia sẻ trải nghiệm."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: \"what really stays the same is not the food on the table, but the people who sit around it.\" Bài 1: điều giữ Ethan chạy tiếp là Leah chờ ở vạch đích."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Ethan's race and the changing traditions have in common?",
+      "question_vn": "Dựa vào cả hai bài. Cuộc chạy của Ethan và những truyền thống đổi thay có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Bài 2: \"what really stays the same is not the food on the table, but the people who sit around it.\" Bài 1: điều giữ Ethan chạy tiếp là Leah chờ ở vạch đích."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2526_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 25) — Ethan kể về cuộc chạy 50 km đầu tiên",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2526_01",
+      "question_ids": [
+        "q_u2526_001",
+        "q_u2526_002",
+        "q_u2526_003",
+        "q_u2526_004",
+        "q_u2526_005",
+        "q_u2526_006",
+        "q_u2526_007",
+        "q_u2526_008",
+        "q_u2526_009",
+        "q_u2526_010"
+      ]
+    },
+    {
+      "set_id": "set_u2526_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 26) — Truyền thống thay đổi theo thời gian và theo từng nhà",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2526_02",
+      "question_ids": [
+        "q_u2526_011",
+        "q_u2526_012",
+        "q_u2526_013",
+        "q_u2526_014",
+        "q_u2526_015",
+        "q_u2526_016",
+        "q_u2526_017",
+        "q_u2526_018",
+        "q_u2526_019",
+        "q_u2526_020"
+      ]
+    }
+  ]
+}

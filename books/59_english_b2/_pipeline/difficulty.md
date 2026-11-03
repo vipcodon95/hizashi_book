@@ -15,3 +15,4 @@
 | u2122 | [330, 341] từ, TB [21.4, 23.7] | bài điểm kịch sân sau (such/so/too + a + adj + N) + bài phục chế tranh (as quan hệ; Night Watch, Rijksmuseum); 6 câu suy luận/mục đích/giọng điệu (1 nối 2 bài) |
 | mock1 | [282, 313, 323, 340] từ, TB [19.7, 27.2, 21.3, 20.9] | đề giữa sách B2 4 bài × 10 câu: thông báo tình nguyện bệnh viện → thư Harriet gửi Amy → khoa học cái ngáp → quan điểm về việc đọc; ~14 câu suy luận; đáp án 11/10/11/8 |
 | u2324 | [346, 301] từ, TB [22.5, 18.2] | ghi chép câu lạc bộ sách bàn Frankenstein (mệnh đề phân từ) + bài thể thao nữ (not + V-ing, always + V-ing; chung kết bóng rổ nữ đại học 2024); 7 câu suy luận/thái độ (1 nối 2 bài) |
+| u2526 | [322, 305] từ, TB [22.4, 23.0] | bài Ethan chạy 50 km (mind/regret + V-ing) + bài truyền thống thay đổi (would quá khứ, So do I; khoanh vùng theo từng nhà); 7 câu suy luận/giọng điệu (1 nối 2 bài) |
