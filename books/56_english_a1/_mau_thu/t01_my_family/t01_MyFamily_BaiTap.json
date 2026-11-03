@@ -1,0 +1,502 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "BÀI MẪU THỬ — sách đọc hiểu tiếng Anh A1. Giữ nguyên khoá schema chung: tiếng Anh nằm ở content_ja / question_jp / text; tiếng Việt ở translation_vn / question_vn / text_translation.",
+  "meta": {
+    "title": "My Family",
+    "title_vn": "Gia đình tôi",
+    "module_code": "56_t01",
+    "language": "en",
+    "cefr_level": "A1",
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Tìm thông tin cụ thể + mục đích bài viết",
+    "description_vn": "Đọc email giới thiệu gia đình và lời nhắn ngắn. 2 bài đọc × 5 câu."
+  },
+  "reading_passages": [
+    {
+      "id": "passage_t01_01",
+      "title": "Hello from Da Nang!",
+      "category": "email",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "word_count": 105,
+      "estimated_reading_time": 90,
+      "content_ja": "Subject: Hello from Da Nang!\n\nHi Tom,\n\nMy name is Mai. I am nineteen years old and I am a student. I live in Da Nang with my family. There are five people in my family: my father, my mother, my grandmother, my brother and me.\n\nMy father is a doctor. He works in a big hospital. My mother is a teacher. She teaches English at a small school. My grandmother is seventy. She cooks very well. My brother Nam is ten. He likes cats and football.\n\nOn Sundays, we go to the beach together. I love my family!\n\nPlease write to me soon.\n\nMai",
+      "translation_vn": "(1) Xin chào từ Đà Nẵng!\n(2) Chào Tom,\n(3) Mình tên là Mai.\n(4) Mình 19 tuổi và mình là sinh viên.\n(5) Mình sống ở Đà Nẵng cùng gia đình.\n(6) Nhà mình có năm người: bố, mẹ, bà, em trai và mình.\n(7) Bố mình là bác sĩ.\n(8) Bố làm việc ở một bệnh viện lớn.\n(9) Mẹ mình là giáo viên.\n(10) Mẹ dạy tiếng Anh ở một trường học nhỏ.\n(11) Bà mình 70 tuổi.\n(12) Bà nấu ăn rất ngon.\n(13) Em trai mình, Nam, 10 tuổi.\n(14) Em ấy thích mèo và bóng đá.\n(15) Chủ nhật nào cả nhà mình cũng đi biển cùng nhau.\n(16) Mình yêu gia đình mình lắm!\n(17) Bạn viết thư lại cho mình sớm nhé.",
+      "audio_url": null,
+      "image_url": null
+    },
+    {
+      "id": "passage_t01_02",
+      "title": "A note on the fridge",
+      "category": "memo",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "word_count": 44,
+      "estimated_reading_time": 45,
+      "content_ja": "Nam,\n\nI am at the supermarket with Grandma. We are back at six o'clock. Your dinner is in the kitchen. Please give the cat some food. Her food is under the table. Do your homework first, then you can play computer games!\n\nLove,\nMum",
+      "translation_vn": "(1) Nam ơi,\n(2) Mẹ đang ở siêu thị với bà.\n(3) Sáu giờ mẹ với bà về.\n(4) Cơm tối của con để trong bếp.\n(5) Con cho mèo ăn nhé.\n(6) Thức ăn của nó để dưới gầm bàn.\n(7) Làm bài tập về nhà trước, rồi mới được chơi điện tử!\n(8) Thương con, Mẹ",
+      "audio_url": null,
+      "image_url": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_t01_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_01",
+      "question_jp": "How old is Mai?",
+      "question_vn": "Mai bao nhiêu tuổi?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ten",
+          "text_translation": "10 tuổi",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "nineteen",
+          "text_translation": "19 tuổi",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "seventeen",
+          "text_translation": "17 tuổi",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "seventy",
+          "text_translation": "70 tuổi",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 4: \"I am nineteen years old\". \"ten\" là tuổi của Nam, \"seventy\" là tuổi của bà.",
+      "audio_data": null,
+      "tip": "Bẫy hay gặp ở A1: số có trong bài nhưng là tuổi của người khác."
+    },
+    {
+      "id": "q_t01_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_01",
+      "question_jp": "What is Mai's father's job?",
+      "question_vn": "Bố của Mai làm nghề gì?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He is a doctor.",
+          "text_translation": "Ông là bác sĩ.",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "He is a teacher.",
+          "text_translation": "Ông là giáo viên.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "He is a cook.",
+          "text_translation": "Ông là đầu bếp.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "He is a student.",
+          "text_translation": "Ông là sinh viên.",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 7: \"My father is a doctor.\" Người dạy học là mẹ; \"cooks\" (nấu ăn) là nói về bà.",
+      "audio_data": null
+    },
+    {
+      "id": "q_t01_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_01",
+      "question_jp": "Who teaches English?",
+      "question_vn": "Ai dạy tiếng Anh?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mai",
+          "text_translation": "Mai",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Nam",
+          "text_translation": "Nam",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Mai's grandmother",
+          "text_translation": "bà của Mai",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Mai's mother",
+          "text_translation": "mẹ của Mai",
+          "is_correct": true,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 9-10: \"My mother is a teacher. She teaches English…\". \"She\" ở đây là mẹ.",
+      "audio_data": null
+    },
+    {
+      "id": "q_t01_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_01",
+      "question_jp": "What does Mai's family do on Sundays?",
+      "question_vn": "Chủ nhật gia đình Mai làm gì?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "They play football.",
+          "text_translation": "Họ chơi bóng đá.",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "They cook dinner.",
+          "text_translation": "Họ nấu bữa tối.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "They go to the beach.",
+          "text_translation": "Họ đi biển.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "They go to the hospital.",
+          "text_translation": "Họ đến bệnh viện.",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 15: \"On Sundays, we go to the beach together.\" Bóng đá chỉ là sở thích của Nam.",
+      "audio_data": null
+    },
+    {
+      "id": "q_t01_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_01",
+      "question_jp": "Why does Mai write this email?",
+      "question_vn": "Mai viết email này để làm gì?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To ask Tom for help.",
+          "text_translation": "Để nhờ Tom giúp đỡ.",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "To tell Tom about her family.",
+          "text_translation": "Để kể cho Tom về gia đình mình.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "To ask Tom to come to her house.",
+          "text_translation": "Để mời Tom đến nhà mình.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "To say sorry to Tom.",
+          "text_translation": "Để xin lỗi Tom.",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cả email giới thiệu từng người trong nhà, nên mục đích là kể về gia đình. Bài không có lời mời hay lời xin lỗi nào.",
+      "audio_data": null
+    },
+    {
+      "id": "q_t01_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_02",
+      "question_jp": "Who wrote this note?",
+      "question_vn": "Ai viết lời nhắn này?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mai",
+          "text_translation": "Mai",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Nam",
+          "text_translation": "Nam",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Nam's mother",
+          "text_translation": "mẹ của Nam",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Nam's grandmother",
+          "text_translation": "bà của Nam",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cuối lời nhắn ký \"Mum\" (mẹ). Lời nhắn viết cho Nam.",
+      "audio_data": null
+    },
+    {
+      "id": "q_t01_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_02",
+      "question_jp": "Where is Mum now?",
+      "question_vn": "Bây giờ mẹ đang ở đâu?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "at home",
+          "text_translation": "ở nhà",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "at school",
+          "text_translation": "ở trường",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "in the kitchen",
+          "text_translation": "trong bếp",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "at the supermarket",
+          "text_translation": "ở siêu thị",
+          "is_correct": true,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 2: \"I am at the supermarket with Grandma.\"",
+      "audio_data": null
+    },
+    {
+      "id": "q_t01_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_02",
+      "question_jp": "What time are Mum and Grandma back?",
+      "question_vn": "Mấy giờ mẹ và bà về?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "at six o'clock",
+          "text_translation": "lúc 6 giờ",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "at seven o'clock",
+          "text_translation": "lúc 7 giờ",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "at eight o'clock",
+          "text_translation": "lúc 8 giờ",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "at ten o'clock",
+          "text_translation": "lúc 10 giờ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 3: \"We are back at six o'clock.\"",
+      "audio_data": null
+    },
+    {
+      "id": "q_t01_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_02",
+      "question_jp": "Where is the cat's food?",
+      "question_vn": "Thức ăn của mèo ở đâu?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "on the table",
+          "text_translation": "trên bàn",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "under the table",
+          "text_translation": "dưới gầm bàn",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "in the kitchen",
+          "text_translation": "trong bếp",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "at the supermarket",
+          "text_translation": "ở siêu thị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 6: \"Her food is under the table.\" Thứ để trong bếp là cơm tối của Nam, không phải đồ ăn của mèo.",
+      "audio_data": null,
+      "tip": "Phân biệt giới từ vị trí: on (trên) / under (dưới) / in (trong)."
+    },
+    {
+      "id": "q_t01_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_t01_02",
+      "question_jp": "What must Nam do before he plays computer games?",
+      "question_vn": "Nam phải làm gì trước khi chơi điện tử?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "eat dinner",
+          "text_translation": "ăn tối",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "go to bed",
+          "text_translation": "đi ngủ",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "do his homework",
+          "text_translation": "làm bài tập về nhà",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "go to the supermarket",
+          "text_translation": "đi siêu thị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu 7: \"Do your homework first, then you can play computer games.\" \"first\" = làm trước.",
+      "audio_data": null
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_t01_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Email gửi bạn qua thư",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_t01_01",
+      "question_ids": [
+        "q_t01_001",
+        "q_t01_002",
+        "q_t01_003",
+        "q_t01_004",
+        "q_t01_005"
+      ]
+    },
+    {
+      "set_id": "set_t01_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Lời nhắn trên tủ lạnh",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_t01_02",
+      "question_ids": [
+        "q_t01_006",
+        "q_t01_007",
+        "q_t01_008",
+        "q_t01_009",
+        "q_t01_010"
+      ]
+    }
+  ]
+}
