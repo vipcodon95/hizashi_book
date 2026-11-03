@@ -57,7 +57,7 @@
 >
 > In February, we planted tomatoes, herbs and native flowers that need very little water. The cafeteria cooks have promised to use our herbs in their soups this spring.
 >
-> To be honest, I only joined the club because my friend Jake did. Since I made the school soccer team last month, I can only come to meetings on Wednesdays, but I still check the barrels every morning before class. If you want to get your hands dirty, the Green Club meets in Room 14 on Wednesdays at 3:15. Bring old clothes!
+> To be honest, I only joined the club because my friend Jake did. Since I made the school soccer team at the start of March, I can only come to meetings on Wednesdays, but I still check the barrels every morning before class. If you want to get your hands dirty, the Green Club meets in Room 14 on Wednesdays at 3:15. Bring old clothes!
 
 ### Dịch từng câu
 
@@ -79,7 +79,7 @@
 | 14 | In February, we planted tomatoes, herbs and native flowers that need very little water. | Tháng Hai, bọn mình trồng cà chua, rau thơm và hoa bản địa cần rất ít nước. |
 | 15 | The cafeteria cooks have promised to use our herbs in their soups this spring. | Các cô chú nấu bếp ở căng tin đã hứa mùa xuân này sẽ dùng rau thơm của bọn mình để nấu súp. |
 | 16 | To be honest, I only joined the club because my friend Jake did. | Nói thật, mình vào câu lạc bộ chỉ vì cậu bạn Jake cũng vào. |
-| 17 | Since I made the school soccer team last month, I can only come to meetings on Wednesdays, but I still check the barrels every morning before class. | Từ khi được vào đội bóng của trường tháng trước, mình chỉ dự họp được vào thứ Tư, nhưng sáng nào trước giờ học mình cũng vẫn đi kiểm tra các thùng nước. |
+| 17 | Since I made the school soccer team at the start of March, I can only come to meetings on Wednesdays, but I still check the barrels every morning before class. | Từ khi được vào đội bóng của trường hồi đầu tháng Ba, mình chỉ dự họp được vào thứ Tư, nhưng sáng nào trước giờ học mình cũng vẫn đi kiểm tra các thùng nước. |
 | 18 | If you want to get your hands dirty, the Green Club meets in Room 14 on Wednesdays at 3:15. Bring old clothes! | Nếu bạn muốn xắn tay áo làm, câu lạc bộ Xanh họp ở phòng 14 lúc 3 giờ 15 chiều thứ Tư. Nhớ mang quần áo cũ nhé! |
 
 ### Câu hỏi
