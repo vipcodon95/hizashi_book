@@ -1,0 +1,2154 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 5–6 — Literature & Contested science",
+      "vi": "Văn học & Khoa học còn tranh cãi"
+    },
+    "title": "Units 5–6 — Literature & Contested science",
+    "title_vn": "Văn học & Khoa học còn tranh cãi",
+    "module_code": "61_u0506",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C2",
+    "curriculum_unit": "c2.u05+u06",
+    "curriculum_sheets": [
+      "c2.017",
+      "c2.018",
+      "c2.019",
+      "c2.020",
+      "c2.021",
+      "c2.022",
+      "c2.023",
+      "c2.024"
+    ],
+    "characters": [
+      "Lydia Park",
+      "Harriet Brooks",
+      "Ethan Hayes",
+      "Nathan Brooks",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 6 – 8, năm 9"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Người kể không đáng tin, trớ trêu, ngụ ngôn; giả thuyết vs sự thật, tương quan vs nhân quả",
+    "description_vn": "Câu lạc bộ sách ở Harriet's tranh luận xem có tin được người kể chuyện của The Great Gatsby không, còn Leah viết về khủng hoảng tái lập trong tâm lý học và chuyện \"tư thế quyền lực\". 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 5 + Unit 6 khoá C2 · phiếu `c2.017` – `c2.024` (câu chuyện mang ý nghĩa, tả nhân vật, bối cảnh tiểu thuyết; kiểm định một khẳng định, vật lý, cơ thể và y học)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một biên bản câu lạc bộ sách bàn về người kể chuyện không đáng tin và một bài phân tích khủng hoảng tái lập trong khoa học; nhận ra cách nhiều ý kiến được đặt cạnh nhau, sự trớ trêu (người hứa không phán xét lại phán xét nhiều nhất), ngụ ngôn, giọng hài nhẹ trong biên bản, cách phân biệt giả thuyết với sự thật, tương quan với nhân quả, và các cấu trúc C2: Only afterwards did…, less X than Y, be bound to, if not always."
+    },
+    "extra_words": [
+      {
+        "word": "public domain",
+        "i18n": {
+          "vi": "phạm vi công cộng (hết bản quyền)"
+        }
+      },
+      {
+        "word": "lavish",
+        "i18n": {
+          "vi": "xa hoa"
+        }
+      },
+      {
+        "word": "mysterious",
+        "i18n": {
+          "vi": "bí ẩn"
+        }
+      },
+      {
+        "word": "dock",
+        "i18n": {
+          "vi": "cầu tàu"
+        }
+      },
+      {
+        "word": "bay",
+        "i18n": {
+          "vi": "vịnh"
+        }
+      },
+      {
+        "word": "cousin",
+        "i18n": {
+          "vi": "anh/chị em họ"
+        }
+      },
+      {
+        "word": "narrator",
+        "i18n": {
+          "vi": "người kể chuyện"
+        }
+      },
+      {
+        "word": "inclined",
+        "i18n": {
+          "vi": "có xu hướng"
+        }
+      },
+      {
+        "word": "astonished",
+        "i18n": {
+          "vi": "sửng sốt"
+        }
+      },
+      {
+        "word": "tragic",
+        "i18n": {
+          "vi": "bi kịch"
+        }
+      },
+      {
+        "word": "current",
+        "i18n": {
+          "vi": "dòng nước"
+        }
+      },
+      {
+        "word": "borne",
+        "i18n": {
+          "vi": "bị đẩy, được mang đi"
+        }
+      },
+      {
+        "word": "ceaselessly",
+        "i18n": {
+          "vi": "không ngừng"
+        }
+      },
+      {
+        "word": "disappointingly",
+        "i18n": {
+          "vi": "đáng thất vọng"
+        }
+      },
+      {
+        "word": "collaboration",
+        "i18n": {
+          "vi": "sự hợp tác"
+        }
+      },
+      {
+        "word": "statistically significant",
+        "i18n": {
+          "vi": "có ý nghĩa thống kê"
+        }
+      },
+      {
+        "word": "casualties",
+        "i18n": {
+          "vi": "nạn nhân, thứ bị loại"
+        }
+      },
+      {
+        "word": "expansive",
+        "i18n": {
+          "vi": "dang rộng, phô trương"
+        }
+      },
+      {
+        "word": "hormone",
+        "i18n": {
+          "vi": "hoóc-môn"
+        }
+      },
+      {
+        "word": "hormonal",
+        "i18n": {
+          "vi": "thuộc hoóc-môn"
+        }
+      },
+      {
+        "word": "dramatic",
+        "i18n": {
+          "vi": "gây sốc, kịch tính"
+        }
+      },
+      {
+        "word": "immune",
+        "i18n": {
+          "vi": "miễn nhiễm"
+        }
+      },
+      {
+        "word": "liveliest",
+        "i18n": {
+          "vi": "sôi nổi nhất"
+        }
+      },
+      {
+        "word": "harshest",
+        "i18n": {
+          "vi": "khắt khe nhất"
+        }
+      },
+      {
+        "word": "unrepeated",
+        "i18n": {
+          "vi": "chưa được lặp lại"
+        }
+      },
+      {
+        "word": "bystander",
+        "i18n": {
+          "vi": "người ngoài cuộc"
+        }
+      },
+      {
+        "word": "hypotheses",
+        "i18n": {
+          "vi": "các giả thuyết"
+        }
+      },
+      {
+        "word": "mistaken",
+        "i18n": {
+          "vi": "sai lầm"
+        }
+      },
+      {
+        "word": "newsletter",
+        "i18n": {
+          "vi": "bản tin"
+        }
+      },
+      {
+        "word": "rereading",
+        "i18n": {
+          "vi": "việc đọc lại"
+        }
+      },
+      {
+        "word": "unmeasured",
+        "i18n": {
+          "vi": "không được đo"
+        }
+      },
+      {
+        "word": "larger",
+        "i18n": {
+          "vi": "lớn hơn"
+        }
+      },
+      {
+        "word": "champagne",
+        "i18n": {
+          "vi": "rượu sâm-panh"
+        }
+      },
+      {
+        "word": "villain",
+        "i18n": {
+          "vi": "kẻ xấu"
+        }
+      },
+      {
+        "word": "loneliness",
+        "i18n": {
+          "vi": "nỗi cô đơn"
+        }
+      },
+      {
+        "word": "confounding",
+        "i18n": {
+          "vi": "gây nhiễu"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "for anyone who skipped the reading",
+          "vi": "cho ai chưa kịp đọc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "reserve all judgments",
+          "vi": "giữ lại mọi phán xét"
+        }
+      },
+      {
+        "i18n": {
+          "en": "to general laughter",
+          "vi": "khiến cả nhóm bật cười"
+        }
+      },
+      {
+        "i18n": {
+          "en": "less a story about X than a parable about Y",
+          "vi": "không hẳn là truyện về X mà là ngụ ngôn về Y"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be bound to",
+          "vi": "hẳn phải, chắc chắn sẽ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Only afterwards did…",
+          "vi": "Chỉ sau đó mới…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "as closely as possible",
+          "vi": "sát nhất có thể"
+        }
+      },
+      {
+        "i18n": {
+          "en": "more admiration, not less",
+          "vi": "đáng ngưỡng mộ hơn chứ không kém"
+        }
+      },
+      {
+        "i18n": {
+          "en": "may well be explained by",
+          "vi": "rất có thể được giải thích bởi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "simple, if not always easy",
+          "vi": "đơn giản, dù không phải lúc nào cũng dễ"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Biên bản nhiều người nói: ghi chú **ai nghĩ gì** (Ethan, Nathan, Harriet). Câu hỏi so sánh ý kiến hay bẫy bằng cách gán ý người này cho người kia."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Sự trớ trêu (irony) C2 thường có dạng: điều nhân vật tuyên bố ↔ điều nhân vật làm. Tìm hai câu đối nhau trong bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài khoa học: phân biệt `hypothesis` (giả thuyết, cần lặp lại) với `fact`, và `correlation` (tương quan) với nguyên nhân. Ví dụ \"third factor\" là chỗ hay hỏi chức năng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Người viết C2 hay **chặn kết luận cực đoan** (`It would be easy to conclude… wholly mistaken`). Phương án \"science cannot be trusted\" là bẫy."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0506_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 5) — Ghi chép câu lạc bộ sách: The Great Gatsby"
+      },
+      "narrator": "Lydia",
+      "title": "Book Club Notes: Can We Trust Nick Carraway?",
+      "category": "report",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 310,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Book Club Notes: Can We Trust Nick Carraway?",
+            "vi": "Ghi chép câu lạc bộ sách: Ta có tin được Nick Carraway không?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's Book Club, first Tuesday of July. Book: The Great Gatsby (1925), by Fitzgerald. Notes by Lydia Park.",
+            "vi": "Câu lạc bộ sách Harriet's, thứ Ba đầu tháng Bảy. Sách: The Great Gatsby (1925) của F. Scott Fitzgerald. Lydia Park ghi chép."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We chose this novel partly because it is short and partly because, since 2021, it has been free for anyone to read, having entered the public domain in the United States. Few of us had read it since high school, and several members admitted that they remembered the parties far better than the plot.",
+            "vi": "Chúng tôi chọn cuốn tiểu thuyết này một phần vì nó ngắn và một phần vì từ năm 2021, ai cũng được đọc miễn phí, do nó đã thuộc phạm vi công cộng ở Mỹ. Ít người trong chúng tôi đọc lại nó kể từ thời trung học, và vài thành viên thú nhận họ nhớ các bữa tiệc rõ hơn nhiều so với cốt truyện."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A reminder of the story, for anyone who skipped the reading. The hero, Jay Gatsby, a mysterious and extremely rich man, throws lavish parties at his house on Long Island in the hope that Daisy, the woman he loved five years earlier, will one day walk through the door.",
+            "vi": "Tóm tắt câu chuyện cho ai chưa kịp đọc. Jay Gatsby, một người đàn ông bí ẩn và cực kỳ giàu có, mở những bữa tiệc xa hoa ở dinh thự trên đảo Long Island với hy vọng Daisy, người phụ nữ ông yêu năm năm trước, một ngày nào đó sẽ bước qua cửa."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Daisy is now married to a haughty, contemptuous man named Tom. Every night Gatsby stares across the bay at a green light at the end of her dock.",
+            "vi": "Daisy nay đã lấy một người đàn ông kiêu căng, khinh người tên là Tom. Đêm nào Gatsby cũng nhìn qua vịnh về phía một ngọn đèn xanh ở cuối cầu tàu nhà cô."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Fitzgerald's prose is ornate in places, and his portraits of the guests, who drink Gatsby's champagne while spreading lurid stories about where his money came from, are close to farcical.",
+            "vi": "Văn của Fitzgerald có chỗ khá cầu kỳ, và những bức chân dung khách khứa của ông, những người vừa uống rượu sâm-panh của Gatsby vừa tung tin đồn giật gân về nguồn gốc tiền của ông ta, gần như hài hước lố bịch."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The story is told by Nick Carraway, Daisy's cousin, who rents the small house next door.",
+            "vi": "Câu chuyện do Nick Carraway, anh họ của Daisy, người thuê căn nhà nhỏ bên cạnh, kể lại."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our liveliest argument was about Nick. On the very first page, he tells us that he is \"inclined to reserve all judgments\". Later he describes himself as one of the few honest people he has ever known.",
+            "vi": "Cuộc tranh luận sôi nổi nhất của chúng tôi là về Nick. Ngay trang đầu, anh nói với ta rằng anh \"có xu hướng giữ lại mọi phán xét\". Về sau anh lại tự tả mình là một trong số ít người trung thực mà anh từng biết."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan pointed out, to general laughter, that anyone who announces his own honesty is usually about to lie. Nathan went further: Nick judges everyone constantly, and the person he judges least is Gatsby, whom he plainly admires.",
+            "vi": "Ethan chỉ ra, khiến cả nhóm bật cười, rằng ai tự tuyên bố mình trung thực thì thường sắp nói dối. Nathan đi xa hơn: Nick phán xét mọi người liên tục, và người anh phán xét ít nhất là Gatsby, người mà anh rõ ràng ngưỡng mộ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In other words, the narrator who promises not to judge is, in fact, the novel's harshest judge, and its least reliable one.",
+            "vi": "Nói cách khác, người kể chuyện hứa sẽ không phán xét lại chính là người phán xét khắt khe nhất trong tiểu thuyết, và cũng là người kém đáng tin nhất."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet disagreed. To her, the book is less a story about one man than a parable about believing that you can rebuild your life exactly as it was. When Nick warns Gatsby that the past cannot be repeated, Gatsby is astonished: \"Why of course you can!\"",
+            "vi": "Bà Harriet không đồng ý. Với bà, cuốn sách không hẳn là câu chuyện về một người đàn ông mà là một ngụ ngôn về niềm tin rằng ta có thể dựng lại cuộc đời mình y như cũ. Khi Nick cảnh báo Gatsby rằng quá khứ không thể lặp lại, Gatsby sửng sốt: \"Ồ dĩ nhiên là được chứ!\""
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I have spent this year arguing that you cannot get back the old version of anything,\" she said, \"so I am bound to find him tragic rather than foolish.\"",
+            "vi": "\"Cả năm nay tôi toàn tranh luận rằng ta không thể lấy lại phiên bản cũ của bất cứ thứ gì,\" bà nói, \"nên tôi hẳn phải thấy ông ta bi kịch chứ không phải ngốc nghếch.\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan, who had spent much of the evening quietly defending Gatsby, added that a man who stands alone at the end of his dock every night, staring at a light, is less a villain than a portrait of loneliness.",
+            "vi": "Ethan, người suốt buổi tối lặng lẽ bênh Gatsby, nói thêm rằng một người đàn ông đêm nào cũng đứng một mình ở cuối cầu tàu nhìn một ngọn đèn thì không hẳn là kẻ xấu mà là một bức chân dung của nỗi cô đơn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We ended, as most readers do, with the famous last line: \"So we beat on, boats against the current, borne back ceaselessly into the past.\" Several of us found it lyrical and moving; Nathan found it beautiful but suspicious, \"the kind of sentence you write when you want the reader to stop asking questions\".",
+            "vi": "Chúng tôi kết thúc, như phần lớn người đọc, bằng câu cuối nổi tiếng: \"Và thế là ta cứ chèo tiếp, những con thuyền ngược dòng, không ngừng bị đẩy lùi về quá khứ.\" Vài người trong chúng tôi thấy nó trữ tình và cảm động; Nathan thấy nó đẹp nhưng đáng ngờ, \"kiểu câu người ta viết khi muốn người đọc thôi đặt câu hỏi\"."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A final irony that delighted the group: the book sold disappointingly when it first appeared, and Fitzgerald died in 1940 believing that it had failed. Only afterwards did it become one of the most widely read novels in America. Gatsby could not repeat the past; his author never saw the future.",
+            "vi": "Một điều trớ trêu cuối cùng khiến cả nhóm thích thú: lúc mới ra, cuốn sách bán kém đáng thất vọng, và Fitzgerald qua đời năm 1940 trong niềm tin rằng nó đã thất bại. Chỉ sau đó nó mới trở thành một trong những cuốn tiểu thuyết được đọc nhiều nhất ở Mỹ. Gatsby không lặp lại được quá khứ; còn tác giả của ông chẳng bao giờ thấy được tương lai."
+          }
+        },
+        {
+          "n": 16,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next month: something lighter, as several members requested in writing.",
+            "vi": "Tháng sau: một cuốn nhẹ nhàng hơn, theo yêu cầu bằng văn bản của vài thành viên."
+          }
+        }
+      ],
+      "content_ja": "Book Club Notes: Can We Trust Nick Carraway?\n\nHarriet's Book Club, first Tuesday of July. Book: The Great Gatsby (1925), by Fitzgerald. Notes by Lydia Park.\n\nWe chose this novel partly because it is short and partly because, since 2021, it has been free for anyone to read, having entered the public domain in the United States. Few of us had read it since high school, and several members admitted that they remembered the parties far better than the plot.\n\nA reminder of the story, for anyone who skipped the reading. The hero, Jay Gatsby, a mysterious and extremely rich man, throws lavish parties at his house on Long Island in the hope that Daisy, the woman he loved five years earlier, will one day walk through the door. Daisy is now married to a haughty, contemptuous man named Tom. Every night Gatsby stares across the bay at a green light at the end of her dock. Fitzgerald's prose is ornate in places, and his portraits of the guests, who drink Gatsby's champagne while spreading lurid stories about where his money came from, are close to farcical. The story is told by Nick Carraway, Daisy's cousin, who rents the small house next door.\n\nOur liveliest argument was about Nick. On the very first page, he tells us that he is \"inclined to reserve all judgments\". Later he describes himself as one of the few honest people he has ever known. Ethan pointed out, to general laughter, that anyone who announces his own honesty is usually about to lie. Nathan went further: Nick judges everyone constantly, and the person he judges least is Gatsby, whom he plainly admires. In other words, the narrator who promises not to judge is, in fact, the novel's harshest judge, and its least reliable one.\n\nHarriet disagreed. To her, the book is less a story about one man than a parable about believing that you can rebuild your life exactly as it was. When Nick warns Gatsby that the past cannot be repeated, Gatsby is astonished: \"Why of course you can!\" \"I have spent this year arguing that you cannot get back the old version of anything,\" she said, \"so I am bound to find him tragic rather than foolish.\" Ethan, who had spent much of the evening quietly defending Gatsby, added that a man who stands alone at the end of his dock every night, staring at a light, is less a villain than a portrait of loneliness.\n\nWe ended, as most readers do, with the famous last line: \"So we beat on, boats against the current, borne back ceaselessly into the past.\" Several of us found it lyrical and moving; Nathan found it beautiful but suspicious, \"the kind of sentence you write when you want the reader to stop asking questions\".\n\nA final irony that delighted the group: the book sold disappointingly when it first appeared, and Fitzgerald died in 1940 believing that it had failed. Only afterwards did it become one of the most widely read novels in America. Gatsby could not repeat the past; his author never saw the future.\n\nNext month: something lighter, as several members requested in writing.",
+      "translation_vn": "(1) Ghi chép câu lạc bộ sách: Ta có tin được Nick Carraway không?\n(2) Câu lạc bộ sách Harriet's, thứ Ba đầu tháng Bảy. Sách: The Great Gatsby (1925) của F. Scott Fitzgerald. Lydia Park ghi chép.\n(3) Chúng tôi chọn cuốn tiểu thuyết này một phần vì nó ngắn và một phần vì từ năm 2021, ai cũng được đọc miễn phí, do nó đã thuộc phạm vi công cộng ở Mỹ. Ít người trong chúng tôi đọc lại nó kể từ thời trung học, và vài thành viên thú nhận họ nhớ các bữa tiệc rõ hơn nhiều so với cốt truyện.\n(4) Tóm tắt câu chuyện cho ai chưa kịp đọc. Jay Gatsby, một người đàn ông bí ẩn và cực kỳ giàu có, mở những bữa tiệc xa hoa ở dinh thự trên đảo Long Island với hy vọng Daisy, người phụ nữ ông yêu năm năm trước, một ngày nào đó sẽ bước qua cửa.\n(5) Daisy nay đã lấy một người đàn ông kiêu căng, khinh người tên là Tom. Đêm nào Gatsby cũng nhìn qua vịnh về phía một ngọn đèn xanh ở cuối cầu tàu nhà cô.\n(6) Văn của Fitzgerald có chỗ khá cầu kỳ, và những bức chân dung khách khứa của ông, những người vừa uống rượu sâm-panh của Gatsby vừa tung tin đồn giật gân về nguồn gốc tiền của ông ta, gần như hài hước lố bịch.\n(7) Câu chuyện do Nick Carraway, anh họ của Daisy, người thuê căn nhà nhỏ bên cạnh, kể lại.\n(8) Cuộc tranh luận sôi nổi nhất của chúng tôi là về Nick. Ngay trang đầu, anh nói với ta rằng anh \"có xu hướng giữ lại mọi phán xét\". Về sau anh lại tự tả mình là một trong số ít người trung thực mà anh từng biết.\n(9) Ethan chỉ ra, khiến cả nhóm bật cười, rằng ai tự tuyên bố mình trung thực thì thường sắp nói dối. Nathan đi xa hơn: Nick phán xét mọi người liên tục, và người anh phán xét ít nhất là Gatsby, người mà anh rõ ràng ngưỡng mộ.\n(10) Nói cách khác, người kể chuyện hứa sẽ không phán xét lại chính là người phán xét khắt khe nhất trong tiểu thuyết, và cũng là người kém đáng tin nhất.\n(11) Bà Harriet không đồng ý. Với bà, cuốn sách không hẳn là câu chuyện về một người đàn ông mà là một ngụ ngôn về niềm tin rằng ta có thể dựng lại cuộc đời mình y như cũ. Khi Nick cảnh báo Gatsby rằng quá khứ không thể lặp lại, Gatsby sửng sốt: \"Ồ dĩ nhiên là được chứ!\"\n(12) \"Cả năm nay tôi toàn tranh luận rằng ta không thể lấy lại phiên bản cũ của bất cứ thứ gì,\" bà nói, \"nên tôi hẳn phải thấy ông ta bi kịch chứ không phải ngốc nghếch.\"\n(13) Ethan, người suốt buổi tối lặng lẽ bênh Gatsby, nói thêm rằng một người đàn ông đêm nào cũng đứng một mình ở cuối cầu tàu nhìn một ngọn đèn thì không hẳn là kẻ xấu mà là một bức chân dung của nỗi cô đơn.\n(14) Chúng tôi kết thúc, như phần lớn người đọc, bằng câu cuối nổi tiếng: \"Và thế là ta cứ chèo tiếp, những con thuyền ngược dòng, không ngừng bị đẩy lùi về quá khứ.\" Vài người trong chúng tôi thấy nó trữ tình và cảm động; Nathan thấy nó đẹp nhưng đáng ngờ, \"kiểu câu người ta viết khi muốn người đọc thôi đặt câu hỏi\".\n(15) Một điều trớ trêu cuối cùng khiến cả nhóm thích thú: lúc mới ra, cuốn sách bán kém đáng thất vọng, và Fitzgerald qua đời năm 1940 trong niềm tin rằng nó đã thất bại. Chỉ sau đó nó mới trở thành một trong những cuốn tiểu thuyết được đọc nhiều nhất ở Mỹ. Gatsby không lặp lại được quá khứ; còn tác giả của ông chẳng bao giờ thấy được tương lai.\n(16) Tháng sau: một cuốn nhẹ nhàng hơn, theo yêu cầu bằng văn bản của vài thành viên.",
+      "word_count": 525,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.017",
+        "c2.018",
+        "c2.019",
+        "c2.020"
+      ]
+    },
+    {
+      "id": "passage_u0506_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 6) — Bài Leah: khi khoa học tự kiểm tra lại mình"
+      },
+      "narrator": "Leah",
+      "title": "When Science Checks Its Own Work",
+      "category": "article",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 300,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When Science Checks Its Own Work",
+            "vi": "Khi khoa học tự kiểm tra lại mình"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dr. Leah Carter, for the Sunset Bay Hospital staff newsletter",
+            "vi": "Bác sĩ Leah Carter, viết cho bản tin nhân viên Bệnh viện Sunset Bay"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A few years ago, I wrote in this newsletter about a famous idea in psychology, the bystander effect, and how a newer study had complicated it. Several readers asked me afterwards how often this happens. The honest answer is: more often than most of us were taught.",
+            "vi": "Vài năm trước, tôi viết trên bản tin này về một ý tưởng nổi tiếng trong tâm lý học, hiệu ứng người ngoài cuộc, và việc một nghiên cứu mới hơn khiến nó trở nên phức tạp. Sau đó vài bạn đọc hỏi tôi chuyện này hay xảy ra tới mức nào. Câu trả lời thành thật là: thường hơn mức phần lớn chúng ta được dạy."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2015, a group of around 270 researchers, working together as the Open Science Collaboration, published the results of an extraordinary project in the journal Science. They had tried to repeat one hundred psychology studies that had been published in three respected journals, following the original methodology as closely as possible.",
+            "vi": "Năm 2015, một nhóm khoảng 270 nhà nghiên cứu, cùng làm việc dưới tên Open Science Collaboration, công bố trên tạp chí Science kết quả của một dự án phi thường. Họ đã cố lặp lại một trăm nghiên cứu tâm lý học đăng trên ba tạp chí uy tín, theo sát phương pháp ban đầu nhiều nhất có thể."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Of the original studies, 97 percent had reported a statistically significant result. Of the repeated versions, only 36 percent did, and the effects they found were, on average, about half as large.",
+            "vi": "Trong các nghiên cứu gốc, 97 phần trăm từng báo cáo kết quả có ý nghĩa thống kê. Trong các bản lặp lại, chỉ 36 phần trăm làm được vậy, và hiệu ứng họ tìm thấy trung bình chỉ lớn khoảng một nửa."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is important to be precise about what this does and does not mean. A failed replication does not prove that the original finding was false; the second study might simply have been unlucky, or the people tested might have differed in some relevant way.",
+            "vi": "Cần nói thật chính xác điều này có nghĩa và không có nghĩa gì. Một lần lặp lại thất bại không chứng minh phát hiện gốc là sai; nghiên cứu thứ hai có thể chỉ là không may, hoặc những người được kiểm tra có thể khác nhau ở một điểm liên quan nào đó."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What the aggregate result does show is that a published finding, on its own, was far less certain than many readers had assumed.",
+            "vi": "Điều kết quả tổng hợp thật sự cho thấy là một phát hiện đã công bố, nếu chỉ đứng riêng, kém chắc chắn hơn nhiều so với điều nhiều người đọc vẫn mặc định."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One of the best-known casualties was \"power posing\". A 2010 study had reported that standing in a confident, expansive position for two minutes changed people's hormone levels and made them more willing to take risks. The idea spread rapidly, helped by an enormously popular online talk.",
+            "vi": "Một trong những \"nạn nhân\" nổi tiếng nhất là \"tư thế quyền lực\". Một nghiên cứu năm 2010 từng báo cáo rằng đứng trong một tư thế tự tin, dang rộng người trong hai phút làm thay đổi nồng độ hoóc-môn và khiến người ta sẵn sàng chấp nhận rủi ro hơn. Ý tưởng này lan nhanh, nhờ một bài nói chuyện trên mạng cực kỳ được ưa chuộng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Later and larger studies failed to find the hormonal effect, and in 2016 one of the original authors stated publicly that she no longer believed the effects were real.",
+            "vi": "Những nghiên cứu sau và lớn hơn không tìm thấy tác động lên hoóc-môn, và năm 2016 một trong các tác giả ban đầu tuyên bố công khai rằng bà không còn tin các hiệu ứng đó là thật."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It would be easy to conclude from all this that psychology, or science in general, cannot be trusted. I think that conclusion is wholly mistaken. A field that spends years testing its own most celebrated findings, and then publishes the disappointing results in its leading journal, is not failing. It is doing exactly what science is supposed to do.",
+            "vi": "Từ tất cả những điều này, rất dễ kết luận rằng không thể tin tâm lý học, hay khoa học nói chung. Tôi nghĩ kết luận đó hoàn toàn sai. Một ngành dành nhiều năm kiểm tra lại chính những phát hiện được ca tụng nhất của mình, rồi đăng những kết quả đáng thất vọng lên tạp chí hàng đầu, thì không phải là đang thất bại. Nó đang làm đúng điều khoa học phải làm."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The scientist who announced that she had changed her mind deserves more admiration, not less, than the many who never did.",
+            "vi": "Nhà khoa học công khai rằng mình đã đổi ý đáng được ngưỡng mộ hơn, chứ không kém, so với rất nhiều người chưa bao giờ làm vậy."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What the project does teach us is how to read a single study. Small samples produce dramatic results more easily than large ones. A surprising finding that has never been repeated is a hypothesis, not a fact.",
+            "vi": "Điều dự án thật sự dạy ta là cách đọc một nghiên cứu đơn lẻ. Mẫu nhỏ dễ cho ra kết quả gây sốc hơn mẫu lớn. Một phát hiện bất ngờ chưa từng được lặp lại là một giả thuyết, chưa phải sự thật."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And a correlation reported in the news, such as a link between a food and a disease, may well be explained by a third factor that nobody measured; people who eat more vegetables, for instance, also tend to exercise more, sleep more and smoke less.",
+            "vi": "Và một mối tương quan được đưa tin, như liên hệ giữa một loại thực phẩm với một bệnh, có thể được giải thích bởi một yếu tố thứ ba không ai đo; chẳng hạn, người ăn nhiều rau thường cũng tập thể dục nhiều hơn, ngủ nhiều hơn và hút thuốc ít hơn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In epidemiology, where researchers often cannot run experiments and must instead observe large groups over long periods, such confounding factors are the first thing a careful practitioner looks for.",
+            "vi": "Trong dịch tễ học, nơi các nhà nghiên cứu thường không thể làm thí nghiệm mà phải quan sát những nhóm lớn trong thời gian dài, những yếu tố gây nhiễu như vậy là thứ đầu tiên một người làm nghề cẩn thận tìm kiếm."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Medicine is not immune to any of this, and neither are we. The habit I try to keep is simple, if not always easy: when a study tells me exactly what I hoped to hear, that is the moment to read it most carefully.",
+            "vi": "Y học không miễn nhiễm với bất kỳ điều nào trong số này, và chúng ta cũng vậy. Thói quen tôi cố giữ thì đơn giản, dù không phải lúc nào cũng dễ: khi một nghiên cứu nói đúng điều tôi mong được nghe, đó là lúc cần đọc nó kỹ nhất."
+          }
+        }
+      ],
+      "content_ja": "When Science Checks Its Own Work\n\nDr. Leah Carter, for the Sunset Bay Hospital staff newsletter\n\nA few years ago, I wrote in this newsletter about a famous idea in psychology, the bystander effect, and how a newer study had complicated it. Several readers asked me afterwards how often this happens. The honest answer is: more often than most of us were taught.\n\nIn 2015, a group of around 270 researchers, working together as the Open Science Collaboration, published the results of an extraordinary project in the journal Science. They had tried to repeat one hundred psychology studies that had been published in three respected journals, following the original methodology as closely as possible. Of the original studies, 97 percent had reported a statistically significant result. Of the repeated versions, only 36 percent did, and the effects they found were, on average, about half as large. It is important to be precise about what this does and does not mean. A failed replication does not prove that the original finding was false; the second study might simply have been unlucky, or the people tested might have differed in some relevant way. What the aggregate result does show is that a published finding, on its own, was far less certain than many readers had assumed.\n\nOne of the best-known casualties was \"power posing\". A 2010 study had reported that standing in a confident, expansive position for two minutes changed people's hormone levels and made them more willing to take risks. The idea spread rapidly, helped by an enormously popular online talk. Later and larger studies failed to find the hormonal effect, and in 2016 one of the original authors stated publicly that she no longer believed the effects were real.\n\nIt would be easy to conclude from all this that psychology, or science in general, cannot be trusted. I think that conclusion is wholly mistaken. A field that spends years testing its own most celebrated findings, and then publishes the disappointing results in its leading journal, is not failing. It is doing exactly what science is supposed to do. The scientist who announced that she had changed her mind deserves more admiration, not less, than the many who never did.\n\nWhat the project does teach us is how to read a single study. Small samples produce dramatic results more easily than large ones. A surprising finding that has never been repeated is a hypothesis, not a fact. And a correlation reported in the news, such as a link between a food and a disease, may well be explained by a third factor that nobody measured; people who eat more vegetables, for instance, also tend to exercise more, sleep more and smoke less. In epidemiology, where researchers often cannot run experiments and must instead observe large groups over long periods, such confounding factors are the first thing a careful practitioner looks for.\n\nMedicine is not immune to any of this, and neither are we. The habit I try to keep is simple, if not always easy: when a study tells me exactly what I hoped to hear, that is the moment to read it most carefully.",
+      "translation_vn": "(1) Khi khoa học tự kiểm tra lại mình\n(2) Bác sĩ Leah Carter, viết cho bản tin nhân viên Bệnh viện Sunset Bay\n(3) Vài năm trước, tôi viết trên bản tin này về một ý tưởng nổi tiếng trong tâm lý học, hiệu ứng người ngoài cuộc, và việc một nghiên cứu mới hơn khiến nó trở nên phức tạp. Sau đó vài bạn đọc hỏi tôi chuyện này hay xảy ra tới mức nào. Câu trả lời thành thật là: thường hơn mức phần lớn chúng ta được dạy.\n(4) Năm 2015, một nhóm khoảng 270 nhà nghiên cứu, cùng làm việc dưới tên Open Science Collaboration, công bố trên tạp chí Science kết quả của một dự án phi thường. Họ đã cố lặp lại một trăm nghiên cứu tâm lý học đăng trên ba tạp chí uy tín, theo sát phương pháp ban đầu nhiều nhất có thể.\n(5) Trong các nghiên cứu gốc, 97 phần trăm từng báo cáo kết quả có ý nghĩa thống kê. Trong các bản lặp lại, chỉ 36 phần trăm làm được vậy, và hiệu ứng họ tìm thấy trung bình chỉ lớn khoảng một nửa.\n(6) Cần nói thật chính xác điều này có nghĩa và không có nghĩa gì. Một lần lặp lại thất bại không chứng minh phát hiện gốc là sai; nghiên cứu thứ hai có thể chỉ là không may, hoặc những người được kiểm tra có thể khác nhau ở một điểm liên quan nào đó.\n(7) Điều kết quả tổng hợp thật sự cho thấy là một phát hiện đã công bố, nếu chỉ đứng riêng, kém chắc chắn hơn nhiều so với điều nhiều người đọc vẫn mặc định.\n(8) Một trong những \"nạn nhân\" nổi tiếng nhất là \"tư thế quyền lực\". Một nghiên cứu năm 2010 từng báo cáo rằng đứng trong một tư thế tự tin, dang rộng người trong hai phút làm thay đổi nồng độ hoóc-môn và khiến người ta sẵn sàng chấp nhận rủi ro hơn. Ý tưởng này lan nhanh, nhờ một bài nói chuyện trên mạng cực kỳ được ưa chuộng.\n(9) Những nghiên cứu sau và lớn hơn không tìm thấy tác động lên hoóc-môn, và năm 2016 một trong các tác giả ban đầu tuyên bố công khai rằng bà không còn tin các hiệu ứng đó là thật.\n(10) Từ tất cả những điều này, rất dễ kết luận rằng không thể tin tâm lý học, hay khoa học nói chung. Tôi nghĩ kết luận đó hoàn toàn sai. Một ngành dành nhiều năm kiểm tra lại chính những phát hiện được ca tụng nhất của mình, rồi đăng những kết quả đáng thất vọng lên tạp chí hàng đầu, thì không phải là đang thất bại. Nó đang làm đúng điều khoa học phải làm.\n(11) Nhà khoa học công khai rằng mình đã đổi ý đáng được ngưỡng mộ hơn, chứ không kém, so với rất nhiều người chưa bao giờ làm vậy.\n(12) Điều dự án thật sự dạy ta là cách đọc một nghiên cứu đơn lẻ. Mẫu nhỏ dễ cho ra kết quả gây sốc hơn mẫu lớn. Một phát hiện bất ngờ chưa từng được lặp lại là một giả thuyết, chưa phải sự thật.\n(13) Và một mối tương quan được đưa tin, như liên hệ giữa một loại thực phẩm với một bệnh, có thể được giải thích bởi một yếu tố thứ ba không ai đo; chẳng hạn, người ăn nhiều rau thường cũng tập thể dục nhiều hơn, ngủ nhiều hơn và hút thuốc ít hơn.\n(14) Trong dịch tễ học, nơi các nhà nghiên cứu thường không thể làm thí nghiệm mà phải quan sát những nhóm lớn trong thời gian dài, những yếu tố gây nhiễu như vậy là thứ đầu tiên một người làm nghề cẩn thận tìm kiếm.\n(15) Y học không miễn nhiễm với bất kỳ điều nào trong số này, và chúng ta cũng vậy. Thói quen tôi cố giữ thì đơn giản, dù không phải lúc nào cũng dễ: khi một nghiên cứu nói đúng điều tôi mong được nghe, đó là lúc cần đọc nó kỹ nhất.",
+      "word_count": 519,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.021",
+        "c2.022",
+        "c2.023",
+        "c2.024"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0506_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why did the book club choose The Great Gatsby?",
+        "vi": "Vì sao câu lạc bộ sách chọn The Great Gatsby?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it was a new novel",
+            "vi": "vì đó là tiểu thuyết mới"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it was a new novel",
+          "text_translation": "vì đó là tiểu thuyết mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Harriet had never read it",
+            "vi": "vì bà Harriet chưa đọc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because Harriet had never read it",
+          "text_translation": "vì bà Harriet chưa đọc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it is short and, being in the public domain, free for anyone to read",
+            "vi": "vì nó ngắn và, do thuộc phạm vi công cộng, ai cũng đọc miễn phí được"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because it is short and, being in the public domain, free for anyone to read",
+          "text_translation": "vì nó ngắn và, do thuộc phạm vi công cộng, ai cũng đọc miễn phí được"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it is about San Diego",
+            "vi": "vì nó về San Diego"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it is about San Diego",
+          "text_translation": "vì nó về San Diego"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"partly because it is short and partly because, since 2021, it has been free for anyone to read, having entered the public domain\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the book club choose The Great Gatsby?",
+      "question_vn": "Vì sao câu lạc bộ sách chọn The Great Gatsby?",
+      "explanation": "\"partly because it is short and partly because, since 2021, it has been free for anyone to read, having entered the public domain\"."
+    },
+    {
+      "id": "q_u0506_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What does the remark that members \"remembered the parties far better than the plot\" suggest?",
+        "vi": "Lời nhận xét các thành viên \"nhớ các bữa tiệc rõ hơn nhiều so với cốt truyện\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The novel has no plot.",
+            "vi": "Tiểu thuyết không có cốt truyện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The novel has no plot.",
+          "text_translation": "Tiểu thuyết không có cốt truyện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The members went to many parties.",
+            "vi": "Các thành viên đi dự nhiều tiệc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The members went to many parties.",
+          "text_translation": "Các thành viên đi dự nhiều tiệc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The parties are the most important part of the story.",
+            "vi": "Các bữa tiệc là phần quan trọng nhất của truyện."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The parties are the most important part of the story.",
+          "text_translation": "Các bữa tiệc là phần quan trọng nhất của truyện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The book's vivid surface is more memorable than its deeper story, which is why rereading was useful.",
+            "vi": "Bề mặt sống động của cuốn sách dễ nhớ hơn câu chuyện sâu bên dưới, nên đọc lại là có ích."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The book's vivid surface is more memorable than its deeper story, which is why rereading was useful.",
+          "text_translation": "Bề mặt sống động của cuốn sách dễ nhớ hơn câu chuyện sâu bên dưới, nên đọc lại là có ích."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý, giọng hài. Ấn tượng bề ngoài (tiệc tùng) ở lại, còn cốt truyện bị quên; câu này giải thích vì sao cả nhóm cần đọc lại."
+      },
+      "audio_data": null,
+      "question_jp": "What does the remark that members \"remembered the parties far better than the plot\" suggest?",
+      "question_vn": "Lời nhận xét các thành viên \"nhớ các bữa tiệc rõ hơn nhiều so với cốt truyện\" gợi ý điều gì?",
+      "explanation": "Câu hàm ý, giọng hài. Ấn tượng bề ngoài (tiệc tùng) ở lại, còn cốt truyện bị quên; câu này giải thích vì sao cả nhóm cần đọc lại."
+    },
+    {
+      "id": "q_u0506_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Gatsby throw his parties?",
+        "vi": "Vì sao Gatsby mở tiệc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in the hope that Daisy will come",
+            "vi": "với hy vọng Daisy sẽ tới"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "in the hope that Daisy will come",
+          "text_translation": "với hy vọng Daisy sẽ tới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to make money",
+            "vi": "để kiếm tiền"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to make money",
+          "text_translation": "để kiếm tiền"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to impress Nick",
+            "vi": "để gây ấn tượng với Nick"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to impress Nick",
+          "text_translation": "để gây ấn tượng với Nick"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Tom asked him to",
+            "vi": "vì Tom nhờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Tom asked him to",
+          "text_translation": "vì Tom nhờ"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"in the hope that Daisy, the woman he loved five years earlier, will one day walk through the door.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Gatsby throw his parties?",
+      "question_vn": "Vì sao Gatsby mở tiệc?",
+      "explanation": "\"in the hope that Daisy, the woman he loved five years earlier, will one day walk through the door.\""
+    },
+    {
+      "id": "q_u0506_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Ethan's comment cause \"general laughter\"?",
+        "vi": "Vì sao lời Ethan khiến cả nhóm bật cười?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because Ethan told a joke about Daisy",
+            "vi": "vì Ethan kể chuyện cười về Daisy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because Ethan told a joke about Daisy",
+          "text_translation": "vì Ethan kể chuyện cười về Daisy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Ethan had not read the book",
+            "vi": "vì Ethan chưa đọc sách"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because Ethan had not read the book",
+          "text_translation": "vì Ethan chưa đọc sách"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because his observation about self-declared honesty is funny but true",
+            "vi": "vì nhận xét của anh về việc tự nhận mình trung thực vừa buồn cười vừa đúng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because his observation about self-declared honesty is funny but true",
+          "text_translation": "vì nhận xét của anh về việc tự nhận mình trung thực vừa buồn cười vừa đúng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Nathan disagreed",
+            "vi": "vì Nathan không đồng ý"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Nathan disagreed",
+          "text_translation": "vì Nathan không đồng ý"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"anyone who announces his own honesty is usually about to lie\" là một nhận xét đời thường dí dỏm áp vào Nick."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ethan's comment cause \"general laughter\"?",
+      "question_vn": "Vì sao lời Ethan khiến cả nhóm bật cười?",
+      "explanation": "Câu suy luận. \"anyone who announces his own honesty is usually about to lie\" là một nhận xét đời thường dí dỏm áp vào Nick."
+    },
+    {
+      "id": "q_u0506_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "According to Nathan, what is ironic about Nick as a narrator?",
+        "vi": "Theo Nathan, điều trớ trêu ở Nick với vai trò người kể chuyện là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He knows nothing about Gatsby.",
+            "vi": "Anh không biết gì về Gatsby."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He knows nothing about Gatsby.",
+          "text_translation": "Anh không biết gì về Gatsby."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He promises not to judge, yet he judges everyone constantly and favors Gatsby.",
+            "vi": "Anh hứa không phán xét, vậy mà phán xét mọi người liên tục và thiên vị Gatsby."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He promises not to judge, yet he judges everyone constantly and favors Gatsby.",
+          "text_translation": "Anh hứa không phán xét, vậy mà phán xét mọi người liên tục và thiên vị Gatsby."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is Daisy's husband.",
+            "vi": "Anh là chồng Daisy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He is Daisy's husband.",
+          "text_translation": "Anh là chồng Daisy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He never speaks.",
+            "vi": "Anh không bao giờ lên tiếng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He never speaks.",
+          "text_translation": "Anh không bao giờ lên tiếng."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Nick judges everyone constantly, and the person he judges least is Gatsby\" và \"the narrator who promises not to judge is, in fact, the novel's harshest judge\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to Nathan, what is ironic about Nick as a narrator?",
+      "question_vn": "Theo Nathan, điều trớ trêu ở Nick với vai trò người kể chuyện là gì?",
+      "explanation": "\"Nick judges everyone constantly, and the person he judges least is Gatsby\" và \"the narrator who promises not to judge is, in fact, the novel's harshest judge\"."
+    },
+    {
+      "id": "q_u0506_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "How does Harriet read the novel?",
+        "vi": "Bà Harriet đọc cuốn tiểu thuyết theo cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as a parable about believing you can rebuild the past exactly as it was",
+            "vi": "như một ngụ ngôn về niềm tin rằng ta có thể dựng lại quá khứ y như cũ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "as a parable about believing you can rebuild the past exactly as it was",
+          "text_translation": "như một ngụ ngôn về niềm tin rằng ta có thể dựng lại quá khứ y như cũ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as a story about parties",
+            "vi": "như truyện về tiệc tùng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "as a story about parties",
+          "text_translation": "như truyện về tiệc tùng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as a comedy",
+            "vi": "như một vở hài kịch"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "as a comedy",
+          "text_translation": "như một vở hài kịch"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "as a true story",
+            "vi": "như một chuyện có thật"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "as a true story",
+          "text_translation": "như một chuyện có thật"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"less a story about one man than a parable about believing that you can rebuild your life exactly as it was.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does Harriet read the novel?",
+      "question_vn": "Bà Harriet đọc cuốn tiểu thuyết theo cách nào?",
+      "explanation": "\"less a story about one man than a parable about believing that you can rebuild your life exactly as it was.\""
+    },
+    {
+      "id": "q_u0506_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Harriet say she is \"bound to find him tragic rather than foolish\"?",
+        "vi": "Vì sao bà Harriet nói bà \"hẳn phải thấy ông ta bi kịch chứ không phải ngốc nghếch\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she knew Fitzgerald",
+            "vi": "vì bà quen Fitzgerald"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she knew Fitzgerald",
+          "text_translation": "vì bà quen Fitzgerald"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she dislikes Tom",
+            "vi": "vì bà ghét Tom"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because she dislikes Tom",
+          "text_translation": "vì bà ghét Tom"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because she was asked to defend Gatsby",
+            "vi": "vì bà được giao bênh Gatsby"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because she was asked to defend Gatsby",
+          "text_translation": "vì bà được giao bênh Gatsby"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because her own experience of change this year makes her sympathize with the wish to get the past back",
+            "vi": "vì trải nghiệm thay đổi của chính bà năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because her own experience of change this year makes her sympathize with the wish to get the past back",
+          "text_translation": "vì trải nghiệm thay đổi của chính bà năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận liên chương. Bà vừa viết bài về quán (con tàu Theseus): \"you cannot get back the old version of anything\", nên bà thấy Gatsby đáng thương."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet say she is \"bound to find him tragic rather than foolish\"?",
+      "question_vn": "Vì sao bà Harriet nói bà \"hẳn phải thấy ông ta bi kịch chứ không phải ngốc nghếch\"?",
+      "explanation": "Câu suy luận liên chương. Bà vừa viết bài về quán (con tàu Theseus): \"you cannot get back the old version of anything\", nên bà thấy Gatsby đáng thương."
+    },
+    {
+      "id": "q_u0506_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "How does Nathan's view of the famous last line differ from others'?",
+        "vi": "Cách Nathan nhìn câu cuối nổi tiếng khác người khác thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He thinks it is badly written.",
+            "vi": "Anh nghĩ nó viết dở."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He thinks it is badly written.",
+          "text_translation": "Anh nghĩ nó viết dở."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He has never heard it.",
+            "vi": "Anh chưa từng nghe."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He has never heard it.",
+          "text_translation": "Anh chưa từng nghe."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He finds it beautiful but suspects it is designed to stop readers from questioning the story.",
+            "vi": "Anh thấy nó đẹp nhưng ngờ rằng nó được viết để người đọc thôi chất vấn câu chuyện."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He finds it beautiful but suspects it is designed to stop readers from questioning the story.",
+          "text_translation": "Anh thấy nó đẹp nhưng ngờ rằng nó được viết để người đọc thôi chất vấn câu chuyện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He thinks it is about sailing.",
+            "vi": "Anh nghĩ nó nói về chèo thuyền."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He thinks it is about sailing.",
+          "text_translation": "Anh nghĩ nó nói về chèo thuyền."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Nathan found it beautiful but suspicious\", \"the kind of sentence you write when you want the reader to stop asking questions\"."
+      },
+      "audio_data": null,
+      "question_jp": "How does Nathan's view of the famous last line differ from others'?",
+      "question_vn": "Cách Nathan nhìn câu cuối nổi tiếng khác người khác thế nào?",
+      "explanation": "\"Nathan found it beautiful but suspicious\", \"the kind of sentence you write when you want the reader to stop asking questions\"."
+    },
+    {
+      "id": "q_u0506_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What is the \"final irony\" that delighted the group?",
+        "vi": "\"Điều trớ trêu cuối cùng\" khiến cả nhóm thích thú là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The novel's author died thinking it had failed, but it later became extremely widely read.",
+            "vi": "Tác giả qua đời tưởng cuốn sách thất bại, nhưng sau đó nó được đọc cực kỳ rộng rãi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The novel's author died thinking it had failed, but it later became extremely widely read.",
+          "text_translation": "Tác giả qua đời tưởng cuốn sách thất bại, nhưng sau đó nó được đọc cực kỳ rộng rãi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Gatsby was a real person.",
+            "vi": "Gatsby là người có thật."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Gatsby was a real person.",
+          "text_translation": "Gatsby là người có thật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The book was banned.",
+            "vi": "Cuốn sách bị cấm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The book was banned.",
+          "text_translation": "Cuốn sách bị cấm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Fitzgerald never finished it.",
+            "vi": "Fitzgerald chưa viết xong."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Fitzgerald never finished it.",
+          "text_translation": "Fitzgerald chưa viết xong."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Fitzgerald died in 1940 believing that it had failed. Only afterwards did it become one of the most widely read novels in America.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the \"final irony\" that delighted the group?",
+      "question_vn": "\"Điều trớ trêu cuối cùng\" khiến cả nhóm thích thú là gì?",
+      "explanation": "\"Fitzgerald died in 1940 believing that it had failed. Only afterwards did it become one of the most widely read novels in America.\""
+    },
+    {
+      "id": "q_u0506_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What does the final line of the notes, about \"something lighter\", suggest?",
+        "vi": "Dòng cuối của bản ghi chép, về \"một cuốn nhẹ nhàng hơn\", gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The club is closing.",
+            "vi": "Câu lạc bộ sắp giải tán."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The club is closing.",
+          "text_translation": "Câu lạc bộ sắp giải tán."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Lydia disliked the novel.",
+            "vi": "Lydia ghét cuốn sách."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Lydia disliked the novel.",
+          "text_translation": "Lydia ghét cuốn sách."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nobody came to the meeting.",
+            "vi": "Không ai tới buổi họp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nobody came to the meeting.",
+          "text_translation": "Không ai tới buổi họp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Some members found the novel heavy and asked, half seriously, for an easier book next time.",
+            "vi": "Một số thành viên thấy cuốn sách nặng nề và nửa đùa nửa thật xin cuốn dễ hơn cho lần sau."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Some members found the novel heavy and asked, half seriously, for an easier book next time.",
+          "text_translation": "Một số thành viên thấy cuốn sách nặng nề và nửa đùa nửa thật xin cuốn dễ hơn cho lần sau."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. \"as several members requested in writing\" là chi tiết dí dỏm: có người đã yêu cầu hẳn bằng văn bản."
+      },
+      "audio_data": null,
+      "question_jp": "What does the final line of the notes, about \"something lighter\", suggest?",
+      "question_vn": "Dòng cuối của bản ghi chép, về \"một cuốn nhẹ nhàng hơn\", gợi ý điều gì?",
+      "explanation": "Câu hỏi giọng điệu. \"as several members requested in writing\" là chi tiết dí dỏm: có người đã yêu cầu hẳn bằng văn bản."
+    },
+    {
+      "id": "q_u0506_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Why did Leah decide to write this article?",
+        "vi": "Vì sao Leah viết bài này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she was asked to review a new drug",
+            "vi": "vì được nhờ đánh giá một loại thuốc mới"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she was asked to review a new drug",
+          "text_translation": "vì được nhờ đánh giá một loại thuốc mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because readers of her earlier article asked how often famous findings are challenged",
+            "vi": "vì bạn đọc bài trước hỏi các phát hiện nổi tiếng hay bị thách thức tới mức nào"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because readers of her earlier article asked how often famous findings are challenged",
+          "text_translation": "vì bạn đọc bài trước hỏi các phát hiện nổi tiếng hay bị thách thức tới mức nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because she had joined the Open Science Collaboration",
+            "vi": "vì cô tham gia Open Science Collaboration"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because she had joined the Open Science Collaboration",
+          "text_translation": "vì cô tham gia Open Science Collaboration"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because a study about her was wrong",
+            "vi": "vì một nghiên cứu về cô bị sai"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because a study about her was wrong",
+          "text_translation": "vì một nghiên cứu về cô bị sai"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Several readers asked me afterwards how often this happens.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Leah decide to write this article?",
+      "question_vn": "Vì sao Leah viết bài này?",
+      "explanation": "\"Several readers asked me afterwards how often this happens.\""
+    },
+    {
+      "id": "q_u0506_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What did the Open Science Collaboration try to do?",
+        "vi": "Open Science Collaboration đã cố làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "repeat one hundred published psychology studies using the original methods",
+            "vi": "lặp lại một trăm nghiên cứu tâm lý học đã công bố bằng phương pháp ban đầu"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "repeat one hundred published psychology studies using the original methods",
+          "text_translation": "lặp lại một trăm nghiên cứu tâm lý học đã công bố bằng phương pháp ban đầu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "write a new psychology textbook",
+            "vi": "viết một giáo trình tâm lý học mới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "write a new psychology textbook",
+          "text_translation": "viết một giáo trình tâm lý học mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "close three journals",
+            "vi": "đóng cửa ba tạp chí"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "close three journals",
+          "text_translation": "đóng cửa ba tạp chí"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "test new medicines",
+            "vi": "thử thuốc mới"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "test new medicines",
+          "text_translation": "thử thuốc mới"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"They had tried to repeat one hundred psychology studies\" và \"following the original methodology as closely as possible.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the Open Science Collaboration try to do?",
+      "question_vn": "Open Science Collaboration đã cố làm gì?",
+      "explanation": "\"They had tried to repeat one hundred psychology studies\" và \"following the original methodology as closely as possible.\""
+    },
+    {
+      "id": "q_u0506_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What did the repeated studies find?",
+        "vi": "Các nghiên cứu lặp lại tìm thấy gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The same results in 97 percent of cases.",
+            "vi": "Kết quả giống hệt ở 97 phần trăm trường hợp."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The same results in 97 percent of cases.",
+          "text_translation": "Kết quả giống hệt ở 97 phần trăm trường hợp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Larger effects than the originals.",
+            "vi": "Hiệu ứng lớn hơn bản gốc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Larger effects than the originals.",
+          "text_translation": "Hiệu ứng lớn hơn bản gốc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "No results at all.",
+            "vi": "Không có kết quả gì."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "No results at all.",
+          "text_translation": "Không có kết quả gì."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only about a third reached a significant result, and effects were about half as large.",
+            "vi": "Chỉ khoảng một phần ba đạt kết quả có ý nghĩa, và hiệu ứng chỉ lớn khoảng một nửa."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Only about a third reached a significant result, and effects were about half as large.",
+          "text_translation": "Chỉ khoảng một phần ba đạt kết quả có ý nghĩa, và hiệu ứng chỉ lớn khoảng một nửa."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Of the repeated versions, only 36 percent did, and the effects they found were, on average, about half as large.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the repeated studies find?",
+      "question_vn": "Các nghiên cứu lặp lại tìm thấy gì?",
+      "explanation": "\"Of the repeated versions, only 36 percent did, and the effects they found were, on average, about half as large.\""
+    },
+    {
+      "id": "q_u0506_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Why does Leah put the word \"casualties\" in the description of power posing?",
+        "vi": "Vì sao Leah dùng chữ \"nạn nhân\" khi nói về tư thế quyền lực?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because people were hurt by power posing",
+            "vi": "vì có người bị thương do tư thế quyền lực"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because people were hurt by power posing",
+          "text_translation": "vì có người bị thương do tư thế quyền lực"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it was a famous finding that did not survive being tested again",
+            "vi": "vì đó là một phát hiện nổi tiếng không trụ được khi bị kiểm tra lại"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because it was a famous finding that did not survive being tested again",
+          "text_translation": "vì đó là một phát hiện nổi tiếng không trụ được khi bị kiểm tra lại"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the researchers lost their jobs",
+            "vi": "vì các nhà nghiên cứu mất việc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the researchers lost their jobs",
+          "text_translation": "vì các nhà nghiên cứu mất việc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the talk was removed",
+            "vi": "vì bài nói bị gỡ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the talk was removed",
+          "text_translation": "vì bài nói bị gỡ"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Từ trong ngữ cảnh (ẩn dụ). Phát hiện này \"spread rapidly\" nhưng các nghiên cứu sau \"failed to find the hormonal effect\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah put the word \"casualties\" in the description of power posing?",
+      "question_vn": "Vì sao Leah dùng chữ \"nạn nhân\" khi nói về tư thế quyền lực?",
+      "explanation": "Từ trong ngữ cảnh (ẩn dụ). Phát hiện này \"spread rapidly\" nhưng các nghiên cứu sau \"failed to find the hormonal effect\"."
+    },
+    {
+      "id": "q_u0506_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What happened in 2016?",
+        "vi": "Chuyện gì xảy ra năm 2016?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Power posing was proved correct.",
+            "vi": "Tư thế quyền lực được chứng minh là đúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Power posing was proved correct.",
+          "text_translation": "Tư thế quyền lực được chứng minh là đúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The online talk was given for the first time.",
+            "vi": "Bài nói trên mạng lần đầu được trình bày."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The online talk was given for the first time.",
+          "text_translation": "Bài nói trên mạng lần đầu được trình bày."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "One of the original authors said publicly that she no longer believed the effects were real.",
+            "vi": "Một tác giả ban đầu công khai nói bà không còn tin các hiệu ứng là thật."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "One of the original authors said publicly that she no longer believed the effects were real.",
+          "text_translation": "Một tác giả ban đầu công khai nói bà không còn tin các hiệu ứng là thật."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The journal Science was founded.",
+            "vi": "Tạp chí Science được thành lập."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The journal Science was founded.",
+          "text_translation": "Tạp chí Science được thành lập."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"in 2016 one of the original authors stated publicly that she no longer believed the effects were real.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened in 2016?",
+      "question_vn": "Chuyện gì xảy ra năm 2016?",
+      "explanation": "\"in 2016 one of the original authors stated publicly that she no longer believed the effects were real.\""
+    },
+    {
+      "id": "q_u0506_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What is Leah's view of the replication results?",
+        "vi": "Leah nhìn nhận kết quả các nghiên cứu lặp lại thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They prove that science cannot be trusted.",
+            "vi": "Chúng chứng minh không thể tin khoa học."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They prove that science cannot be trusted.",
+          "text_translation": "Chúng chứng minh không thể tin khoa học."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They show science correcting itself, which is what it is supposed to do.",
+            "vi": "Chúng cho thấy khoa học tự sửa mình, đúng điều nó phải làm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They show science correcting itself, which is what it is supposed to do.",
+          "text_translation": "Chúng cho thấy khoa học tự sửa mình, đúng điều nó phải làm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They should not have been published.",
+            "vi": "Lẽ ra không nên công bố."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They should not have been published.",
+          "text_translation": "Lẽ ra không nên công bố."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They only matter to psychologists.",
+            "vi": "Chúng chỉ quan trọng với nhà tâm lý học."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They only matter to psychologists.",
+          "text_translation": "Chúng chỉ quan trọng với nhà tâm lý học."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"I think that conclusion is wholly mistaken.\" và \"It is doing exactly what science is supposed to do.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Leah's view of the replication results?",
+      "question_vn": "Leah nhìn nhận kết quả các nghiên cứu lặp lại thế nào?",
+      "explanation": "\"I think that conclusion is wholly mistaken.\" và \"It is doing exactly what science is supposed to do.\""
+    },
+    {
+      "id": "q_u0506_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Why does Leah say the scientist who changed her mind deserves \"more admiration, not less\"?",
+        "vi": "Vì sao Leah nói nhà khoa học đổi ý đáng được ngưỡng mộ \"hơn, chứ không kém\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because publicly admitting you were wrong is rare and shows honesty",
+            "vi": "vì công khai thừa nhận mình sai là hiếm và cho thấy sự trung thực"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because publicly admitting you were wrong is rare and shows honesty",
+          "text_translation": "vì công khai thừa nhận mình sai là hiếm và cho thấy sự trung thực"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she became famous",
+            "vi": "vì bà trở nên nổi tiếng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because she became famous",
+          "text_translation": "vì bà trở nên nổi tiếng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because her original study was correct",
+            "vi": "vì nghiên cứu gốc của bà đúng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because her original study was correct",
+          "text_translation": "vì nghiên cứu gốc của bà đúng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she gave the online talk",
+            "vi": "vì bà trình bày bài nói trên mạng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because she gave the online talk",
+          "text_translation": "vì bà trình bày bài nói trên mạng"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. So sánh với \"the many who never did\": thừa nhận sai sót là điều hiếm, nên đáng quý."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah say the scientist who changed her mind deserves \"more admiration, not less\"?",
+      "question_vn": "Vì sao Leah nói nhà khoa học đổi ý đáng được ngưỡng mộ \"hơn, chứ không kém\"?",
+      "explanation": "Câu suy luận. So sánh với \"the many who never did\": thừa nhận sai sót là điều hiếm, nên đáng quý."
+    },
+    {
+      "id": "q_u0506_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What does Leah mean by \"A surprising finding that has never been repeated is a hypothesis, not a fact\"?",
+        "vi": "Leah muốn nói gì qua câu \"Một phát hiện bất ngờ chưa từng được lặp lại là một giả thuyết, chưa phải sự thật\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Surprising findings are always false.",
+            "vi": "Phát hiện bất ngờ luôn sai."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Surprising findings are always false.",
+          "text_translation": "Phát hiện bất ngờ luôn sai."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Only facts should be published.",
+            "vi": "Chỉ nên đăng sự thật."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Only facts should be published.",
+          "text_translation": "Chỉ nên đăng sự thật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Hypotheses are useless.",
+            "vi": "Giả thuyết vô dụng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Hypotheses are useless.",
+          "text_translation": "Giả thuyết vô dụng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A single unrepeated result should be treated as something still to be tested.",
+            "vi": "Một kết quả đơn lẻ chưa được lặp lại nên được coi là điều còn phải kiểm chứng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A single unrepeated result should be treated as something still to be tested.",
+          "text_translation": "Một kết quả đơn lẻ chưa được lặp lại nên được coi là điều còn phải kiểm chứng."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"hypothesis\" = điều cần kiểm chứng tiếp, không phải điều đã biết chắc. Không có nghĩa là nó sai."
+      },
+      "audio_data": null,
+      "question_jp": "What does Leah mean by \"A surprising finding that has never been repeated is a hypothesis, not a fact\"?",
+      "question_vn": "Leah muốn nói gì qua câu \"Một phát hiện bất ngờ chưa từng được lặp lại là một giả thuyết, chưa phải sự thật\"?",
+      "explanation": "Câu hàm ý. \"hypothesis\" = điều cần kiểm chứng tiếp, không phải điều đã biết chắc. Không có nghĩa là nó sai."
+    },
+    {
+      "id": "q_u0506_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Why does Leah mention people who eat more vegetables?",
+        "vi": "Vì sao Leah nhắc tới những người ăn nhiều rau?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to recommend a vegetarian diet",
+            "vi": "để khuyên ăn chay"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to recommend a vegetarian diet",
+          "text_translation": "để khuyên ăn chay"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to give an example of how a third, unmeasured factor can explain a correlation",
+            "vi": "để ví dụ cách một yếu tố thứ ba không được đo có thể giải thích một mối tương quan"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to give an example of how a third, unmeasured factor can explain a correlation",
+          "text_translation": "để ví dụ cách một yếu tố thứ ba không được đo có thể giải thích một mối tương quan"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to criticize news reports about food",
+            "vi": "để chê tin tức về thực phẩm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to criticize news reports about food",
+          "text_translation": "để chê tin tức về thực phẩm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to describe a study she did",
+            "vi": "để tả một nghiên cứu cô làm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to describe a study she did",
+          "text_translation": "để tả một nghiên cứu cô làm"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng ví dụ. Họ \"also tend to exercise more, sleep more and smoke less\", nên lợi ích chưa chắc là do rau."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah mention people who eat more vegetables?",
+      "question_vn": "Vì sao Leah nhắc tới những người ăn nhiều rau?",
+      "explanation": "Câu hỏi chức năng ví dụ. Họ \"also tend to exercise more, sleep more and smoke less\", nên lợi ích chưa chắc là do rau."
+    },
+    {
+      "id": "q_u0506_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Use both texts. What do the book club's reading of Nick and Leah's advice have in common?",
+        "vi": "Dựa vào cả hai bài. Cách câu lạc bộ đọc Nick và lời khuyên của Leah có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them say that stories are more reliable than science.",
+            "vi": "Cả hai nói truyện đáng tin hơn khoa học."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them say that stories are more reliable than science.",
+          "text_translation": "Cả hai nói truyện đáng tin hơn khoa học."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them are about hospitals.",
+            "vi": "Cả hai đều về bệnh viện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them are about hospitals.",
+          "text_translation": "Cả hai đều về bệnh viện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them warn readers to be most careful when a source tells them what they want to believe.",
+            "vi": "Cả hai cảnh báo người đọc phải cẩn thận nhất khi một nguồn nói điều họ muốn tin."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Both of them warn readers to be most careful when a source tells them what they want to believe.",
+          "text_translation": "Cả hai cảnh báo người đọc phải cẩn thận nhất khi một nguồn nói điều họ muốn tin."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them praise Fitzgerald.",
+            "vi": "Cả hai khen Fitzgerald."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Both of them praise Fitzgerald.",
+          "text_translation": "Cả hai khen Fitzgerald."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Nick tự nhận mình trung thực nên dễ được tin; Nathan nghi câu văn đẹp làm ta thôi đặt câu hỏi; Leah: \"when a study tells me exactly what I hoped to hear, that is the moment to read it most carefully.\""
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do the book club's reading of Nick and Leah's advice have in common?",
+      "question_vn": "Dựa vào cả hai bài. Cách câu lạc bộ đọc Nick và lời khuyên của Leah có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Nick tự nhận mình trung thực nên dễ được tin; Nathan nghi câu văn đẹp làm ta thôi đặt câu hỏi; Leah: \"when a study tells me exactly what I hoped to hear, that is the moment to read it most carefully.\""
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0506_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 5) — Ghi chép câu lạc bộ sách: The Great Gatsby",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0506_01",
+      "question_ids": [
+        "q_u0506_001",
+        "q_u0506_002",
+        "q_u0506_003",
+        "q_u0506_004",
+        "q_u0506_005",
+        "q_u0506_006",
+        "q_u0506_007",
+        "q_u0506_008",
+        "q_u0506_009",
+        "q_u0506_010"
+      ]
+    },
+    {
+      "set_id": "set_u0506_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 6) — Bài Leah: khi khoa học tự kiểm tra lại mình",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0506_02",
+      "question_ids": [
+        "q_u0506_011",
+        "q_u0506_012",
+        "q_u0506_013",
+        "q_u0506_014",
+        "q_u0506_015",
+        "q_u0506_016",
+        "q_u0506_017",
+        "q_u0506_018",
+        "q_u0506_019",
+        "q_u0506_020"
+      ]
+    }
+  ]
+}
