@@ -9,3 +9,4 @@
 | u07 | 110 / 81 | 8.2 / 6.3 | bài kể (Tracy) + bảng giờ mở cửa; câu suy luận "once a week" (agent viết, main kiểm chứng) |
 | u04 | 101 / 96 | 8.8 / 9.9 | Tina tả ảnh tiệc + thư thông báo trường; câu đại từ them/him (agent viết, main kiểm chứng) |
 | u05 | 110 / 110 | 9.2 / 9.6 | hội thoại Megan–Tina + áp phích y tá trường; lời khuyên an toàn, không thuốc (agent viết, main kiểm chứng) |
+| u08 | 120 / 99 | 9.7 / 7.9 | hội thoại gọi món + thực đơn; 2 câu suy luận (lý do, cộng tiền) (agent viết, main kiểm chứng) |
