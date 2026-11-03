@@ -184,6 +184,7 @@ def main() -> int:
     if sheet:
         sheet = sheet.lower()
         order = sheet_order()
+        gtitles = {g["id"]: re.sub(r"\(.*?\)", "", g["title"]) for g in json.load(open(CURR / "grammar.json", encoding="utf-8"))}
         idx = next((i for i, s in enumerate(order) if s["id"] == sheet), None)
         if idx is None:
             sys.exit(f"Không tìm thấy phiếu {sheet}")
@@ -193,6 +194,9 @@ def main() -> int:
                 known.update(tokens_of(w["word"]))
             for g in s["grammar_words"] + s.get("collocations", []) + s.get("phrasal", []):
                 known.update(tokens_of(g))
+            for gid in s["grammar"]:  # từ trong tên điểm ngữ pháp: "For, since, during, while and ago"
+                if gid in gtitles:
+                    known.update(tokens_of(gtitles[gid]))
         lvl = sheet.split(".")[0].upper()
         # SÁCH ÔN (KE_HOACH mục 7b): học viên đã học khá nhiều → tính cả từ thông dụng CEFR-J của CHÍNH cấp này.
         # Script chỉ còn báo từ VƯỢT cấp. Ngữ pháp chưa học vẫn cảnh báo theo phiếu.
@@ -207,6 +211,11 @@ def main() -> int:
         a.level = lvl
 
     total, over, outside, used, glossed = 0, {}, set(), set(), set()
+    proper = set()
+    for t in texts:
+        for sent in re.split(r"(?<=[.!?])\s+|\n+", t):
+            toks = re.findall(r"[A-Za-zÀ-ÿ]+", sent)
+            proper.update(x.lower() for x in toks[1:] if x[0].isupper() and x.lower() != "i")
     gate_hits: dict[str, list[str]] = {}
     for t in texts:
         t = re.sub(r"\S+@\S+|https?://\S+|www\.\S+", " ", t)  # bỏ email / URL
@@ -221,7 +230,7 @@ def main() -> int:
                     glossed.add(w)
                 used.update(candidates(w))
                 starts = sent.lstrip(" \"'“(*-").startswith(tok)
-                if w in allow or any(c in allow for c in candidates(w)) or (tok[0].isupper() and (i > 0 or w in cast or not starts) and w != "i"):
+                if w in allow or any(c in allow for c in candidates(w)) or (tok[0].isupper() and (i > 0 or w in cast or w in proper or not starts) and w != "i"):
                     continue
                 if known is not None:
                     if not any(c in known for c in candidates(w)):
