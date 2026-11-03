@@ -20,3 +20,4 @@ Mốc nối từ A1: u16 sách 56 = 154 / 154 từ, TB 12,4 từ/câu.
 | u15 | 240 / 240 | 13.8 / 15.6 | movie night nhà Brooks + bài mạng xã hội lành mạnh cho teen (CDC/AASM); 4 câu suy luận |
 | u14 | 232 / 235 | 14.1 / 15.6 | Trevor kể chung kết giải hè + lớp thể dục ở Pine Street Park (Mayo Clinic, CDC nắng nóng); 3 câu suy luận |
 | u16 | 248 / 246 | 13.6 / 19.0 | bà Harriet gọi xe qua app + thông báo đóng đường diễu hành (CA Vehicle Code §21212 mũ bảo hiểm); 4 câu suy luận (1 nối 2 bài) |
+| u17 | 247 / 252 | 11.6 / 13.8 | họp chia việc nhà (hội thoại nhiều lượt ngắn nên TB câu thấp, số từ vẫn tăng) + danh sách vào ký túc xá (Sleep Foundation, quy định ký túc xá); 4 câu suy luận |

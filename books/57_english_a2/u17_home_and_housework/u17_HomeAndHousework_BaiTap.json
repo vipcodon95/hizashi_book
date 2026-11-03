@@ -1,0 +1,1464 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 17 — Home and housework",
+      "vi": "Nhà cửa, việc nhà"
+    },
+    "title": "Unit 17 — Home and housework",
+    "title_vn": "Nhà cửa, việc nhà",
+    "module_code": "57_u17",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u17",
+    "curriculum_sheets": [
+      "a2.65",
+      "a2.66",
+      "a2.67",
+      "a2.68"
+    ],
+    "characters": [
+      "Megan Carter",
+      "Mitchell Carter",
+      "Tracy Carter",
+      "Trevor Carter",
+      "Tina Carter",
+      "Biscuit",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 7, năm 3 (tối Chủ nhật; Tracy 17 tuổi sẽ bay đi Washington thứ Bảy 24/8; Leah đã bắt đầu nội trú ở Sunset Bay Hospital từ tháng 7, đang làm ca đêm, ngủ ban ngày ở phòng tầng dưới; Trevor 12, Tina 8)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "have got to, would rather A than B, câu hỏi đuôi, từ vựng việc nhà; thông tin cụ thể, cụm từ trong ngữ cảnh, quy chiếu (it), mục đích văn bản, 4 câu suy luận (lý do, ý định người nói, hệ quả, 1 câu nối hai bài)",
+    "description_vn": "Nhà Carter họp chia lại việc nhà vì Tracy sắp đi Washington (Trevor nhận đổ rác, hút bụi và học giặt đồ, Tina cho Biscuit ăn, Biscuit cướp tờ danh sách), và danh sách chuẩn bị chuyển vào ký túc xá của phòng quản lý ký túc xá một trường đại học (nên mang gì, nên để ở nhà, sống chung phòng, giữ phòng sạch). 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 17 khoá A2 · phiếu `a2.65` – `a2.68` (việc nhà, chuyển nhà, sự cố trong nhà, hàng xóm)."
+    },
+    "objective_i18n": {
+      "vi": "đọc cuộc họp gia đình nhà Carter chia lại việc nhà trước khi Tracy đi Washington, và danh sách chuẩn bị vào ký túc xá cho sinh viên năm nhất; hiểu have got to (phải, thân mật), would rather A than B, câu hỏi đuôi (…, isn't it? / …, did you? / …, aren't I?), từ vựng việc nhà (do the dishes, do the laundry, take out the trash, vacuum); tìm chi tiết, hiểu it chỉ gì, nắm mục đích văn bản và suy ra điều bài không nói thẳng, kể cả khi phải nối thông tin của hai bài."
+    },
+    "extra_words": [
+      {
+        "word": "laundry",
+        "i18n": {
+          "vi": "đồ giặt; việc giặt đồ (do the laundry: giặt đồ)"
+        }
+      },
+      {
+        "word": "trash",
+        "i18n": {
+          "vi": "rác (Mỹ; take out the trash: đi đổ rác)"
+        }
+      },
+      {
+        "word": "vacuum",
+        "i18n": {
+          "vi": "hút bụi (bằng máy)"
+        }
+      },
+      {
+        "word": "dorm",
+        "i18n": {
+          "vi": "ký túc xá"
+        }
+      },
+      {
+        "word": "roommate",
+        "i18n": {
+          "vi": "bạn cùng phòng"
+        }
+      },
+      {
+        "word": "sheet",
+        "i18n": {
+          "vi": "ga trải giường"
+        }
+      },
+      {
+        "word": "candle",
+        "i18n": {
+          "vi": "cây nến"
+        }
+      },
+      {
+        "word": "heater",
+        "i18n": {
+          "vi": "máy sưởi"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "We've got to…",
+          "vi": "Chúng ta phải… (thân mật)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I would rather A than B.",
+          "vi": "Tôi thà A còn hơn B."
+        }
+      },
+      {
+        "i18n": {
+          "en": "…, isn't it? / …, aren't you?",
+          "vi": "…, phải không? (câu hỏi đuôi)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take out the trash / do the dishes",
+          "vi": "đi đổ rác / rửa bát"
+        }
+      },
+      {
+        "i18n": {
+          "en": "keep it tidy",
+          "vi": "giữ cho gọn gàng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "have a chat about…",
+          "vi": "nói chuyện về…"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**have got to + V** = have to + V, nhưng thân mật hơn, hay dùng khi nói: `we've got to share her jobs`, `you've got to keep it tidy`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**would rather A than B**: việc đứng ngay sau rather là việc được chọn. `He would rather eat the list than go for a walk` = nó thà ăn tờ danh sách còn hơn đi dạo."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Câu hỏi đuôi**: câu khẳng định đi với đuôi phủ định (`That's a lot of work, isn't it?`), câu phủ định đi với đuôi khẳng định (`you never said thank you, did you?`). Với I am thì đuôi là `aren't I?`. Người nói thường đã có ý kiến và chờ người kia đồng ý."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Văn bản có tiêu đề nhỏ (What to bring / What to leave at home…): đọc câu hỏi rồi khoanh đúng mục, đừng lấy chi tiết ở mục khác."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận: ghép hai chi tiết đứng gần nhau (làm đêm + phòng ngay bên dưới), hoặc nối một thông tin về nhân vật ở bài 1 với lời khuyên ở bài 2."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u17_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Họp gia đình: chia lại việc nhà"
+      },
+      "narrator": "announcer",
+      "title": "The New Job Chart",
+      "category": "dialogue",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The New Job Chart",
+            "vi": "Bảng phân việc mới"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On a Sunday evening in late July, the Carters had a family meeting in the kitchen.",
+            "vi": "Một tối Chủ nhật cuối tháng 7, nhà Carter họp gia đình trong bếp."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Tracy is leaving for Washington in four weeks, so we've got to share her jobs.",
+            "vi": "Bốn tuần nữa Tracy đi Washington rồi, nên cả nhà phải chia nhau việc của con bé."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "She does the laundry and the dishes, and she walks Biscuit every morning.",
+            "vi": "Con bé giặt đồ, rửa bát, và sáng nào cũng dắt Biscuit đi dạo."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "That's a lot of work, isn't it?",
+            "vi": "Thế là nhiều việc lắm, phải không?"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "It is. And you never said thank you, did you?",
+            "vi": "Nhiều thật. Mà em chưa bao giờ cảm ơn chị, đúng không?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "I want to walk Biscuit! He's my best friend.",
+            "vi": "Em muốn dắt Biscuit! Nó là bạn thân nhất của em."
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "No way. Last time, he pulled you into Grandma Harriet's garden!",
+            "vi": "Còn lâu. Lần trước nó lôi em tuột vào vườn nhà bà Harriet đấy thôi!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Tina can walk him with me. I'll do all the cooking.",
+            "vi": "Tina dắt nó đi cùng bố là được. Còn bố sẽ lo hết việc nấu nướng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Only the cooking? You always leave a pile of pans!",
+            "vi": "Chỉ nấu thôi à? Lần nào anh cũng để lại cả đống xoong chảo!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Then I'll take out the trash and vacuum. I would rather do that than the dishes.",
+            "vi": "Thế thì con đi đổ rác và hút bụi. Con thà làm mấy việc đó còn hơn rửa bát."
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "OK, but no vacuuming before noon. Leah works nights now, and her room is downstairs, right under the sitting room.",
+            "vi": "Được, nhưng không được hút bụi trước buổi trưa. Giờ Leah làm ca đêm, mà phòng chị ấy ở tầng dưới, ngay bên dưới phòng khách."
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "And the laundry is easy, isn't it? The washing machine does all the work.",
+            "vi": "Còn giặt đồ thì dễ, phải không? Máy giặt làm hết mà."
+          }
+        },
+        {
+          "n": 14,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Really? Last year, Dad washed my white shirt with your red socks, and now it's pink.",
+            "vi": "Thật không? Năm ngoái bố giặt cái áo trắng của chị chung với đôi tất đỏ của em, giờ nó thành màu hồng luôn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "I still say pink looks good on you.",
+            "vi": "Bố vẫn bảo là con mặc màu hồng đẹp mà."
+          }
+        },
+        {
+          "n": 16,
+          "para": 15,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Fine, teach me. But I'm getting your room, aren't I?",
+            "vi": "Thôi được, chị dạy em nhé. Nhưng em được lấy phòng chị, phải không?"
+          }
+        },
+        {
+          "n": 17,
+          "para": 16,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Yes, but you've got to keep it tidy.",
+            "vi": "Ừ, nhưng em phải giữ nó gọn gàng đấy."
+          }
+        },
+        {
+          "n": 18,
+          "para": 18,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Tina, you can feed Biscuit and empty the small trash cans.",
+            "vi": "Còn Tina, con cho Biscuit ăn và đổ mấy thùng rác nhỏ nhé."
+          }
+        },
+        {
+          "n": 19,
+          "para": 19,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Just then, Biscuit took the list and ran outside.",
+            "vi": "Đúng lúc đó, Biscuit ngoạm tờ danh sách rồi chạy ra ngoài."
+          }
+        },
+        {
+          "n": 20,
+          "para": 20,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "He would rather eat the list than go for a walk with Tina!",
+            "vi": "Nó thà ăn tờ danh sách còn hơn đi dạo với Tina!"
+          }
+        },
+        {
+          "n": 21,
+          "para": 21,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Don't worry, I've got a photo of it.",
+            "vi": "Đừng lo, mẹ chụp ảnh nó rồi."
+          }
+        },
+        {
+          "n": 22,
+          "para": 22,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "You're all going to miss me, aren't you?",
+            "vi": "Cả nhà sẽ nhớ con lắm, phải không?"
+          }
+        }
+      ],
+      "content_ja": "The New Job Chart\n\nOn a Sunday evening in late July, the Carters had a family meeting in the kitchen.\n\nMegan: Tracy is leaving for Washington in four weeks, so we've got to share her jobs. She does the laundry and the dishes, and she walks Biscuit every morning.\n\nTrevor: That's a lot of work, isn't it?\n\nTracy: It is. And you never said thank you, did you?\n\nTina: I want to walk Biscuit! He's my best friend.\n\nTrevor: No way. Last time, he pulled you into Grandma Harriet's garden!\n\nMitchell: Tina can walk him with me. I'll do all the cooking.\n\nMegan: Only the cooking? You always leave a pile of pans!\n\nTrevor: Then I'll take out the trash and vacuum. I would rather do that than the dishes.\n\nMegan: OK, but no vacuuming before noon. Leah works nights now, and her room is downstairs, right under the sitting room.\n\nTrevor: And the laundry is easy, isn't it? The washing machine does all the work.\n\nTracy: Really? Last year, Dad washed my white shirt with your red socks, and now it's pink.\n\nMitchell: I still say pink looks good on you.\n\nTrevor: Fine, teach me. But I'm getting your room, aren't I?\n\nTracy: Yes, but you've got to keep it tidy.\n\nMegan: Tina, you can feed Biscuit and empty the small trash cans.\n\nJust then, Biscuit took the list and ran outside.\n\nTrevor: He would rather eat the list than go for a walk with Tina!\n\nMegan: Don't worry, I've got a photo of it.\n\nTracy: You're all going to miss me, aren't you?",
+      "translation_vn": "(1) Bảng phân việc mới\n(2) Một tối Chủ nhật cuối tháng 7, nhà Carter họp gia đình trong bếp.\n(3) Megan: Bốn tuần nữa Tracy đi Washington rồi, nên cả nhà phải chia nhau việc của con bé.\n(4) Megan: Con bé giặt đồ, rửa bát, và sáng nào cũng dắt Biscuit đi dạo.\n(5) Trevor: Thế là nhiều việc lắm, phải không?\n(6) Tracy: Nhiều thật. Mà em chưa bao giờ cảm ơn chị, đúng không?\n(7) Tina: Em muốn dắt Biscuit! Nó là bạn thân nhất của em.\n(8) Trevor: Còn lâu. Lần trước nó lôi em tuột vào vườn nhà bà Harriet đấy thôi!\n(9) Mitchell: Tina dắt nó đi cùng bố là được. Còn bố sẽ lo hết việc nấu nướng.\n(10) Megan: Chỉ nấu thôi à? Lần nào anh cũng để lại cả đống xoong chảo!\n(11) Trevor: Thế thì con đi đổ rác và hút bụi. Con thà làm mấy việc đó còn hơn rửa bát.\n(12) Megan: Được, nhưng không được hút bụi trước buổi trưa. Giờ Leah làm ca đêm, mà phòng chị ấy ở tầng dưới, ngay bên dưới phòng khách.\n(13) Trevor: Còn giặt đồ thì dễ, phải không? Máy giặt làm hết mà.\n(14) Tracy: Thật không? Năm ngoái bố giặt cái áo trắng của chị chung với đôi tất đỏ của em, giờ nó thành màu hồng luôn.\n(15) Mitchell: Bố vẫn bảo là con mặc màu hồng đẹp mà.\n(16) Trevor: Thôi được, chị dạy em nhé. Nhưng em được lấy phòng chị, phải không?\n(17) Tracy: Ừ, nhưng em phải giữ nó gọn gàng đấy.\n(18) Megan: Còn Tina, con cho Biscuit ăn và đổ mấy thùng rác nhỏ nhé.\n(19) Đúng lúc đó, Biscuit ngoạm tờ danh sách rồi chạy ra ngoài.\n(20) Trevor: Nó thà ăn tờ danh sách còn hơn đi dạo với Tina!\n(21) Megan: Đừng lo, mẹ chụp ảnh nó rồi.\n(22) Tracy: Cả nhà sẽ nhớ con lắm, phải không?",
+      "word_count": 247,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.65",
+        "a2.66",
+        "a2.67",
+        "a2.68"
+      ]
+    },
+    {
+      "id": "passage_u17_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Danh sách chuẩn bị vào ký túc xá cho sinh viên năm nhất"
+      },
+      "narrator": "announcer",
+      "title": "Moving Into Your Dorm: What First-Year Students Need to Know",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Moving Into Your Dorm: What First-Year Students Need to Know",
+            "vi": "Chuyển vào ký túc xá: những điều sinh viên năm nhất cần biết"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Moving in is exciting, but it can also be difficult.",
+            "vi": "Chuyển vào ở thì háo hức, nhưng cũng có thể vất vả."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your room will be small, and you will probably share it with someone you have never met.",
+            "vi": "Phòng của bạn sẽ nhỏ, và nhiều khả năng bạn sẽ ở chung với một người bạn chưa từng gặp."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What to bring",
+            "vi": "Nên mang gì"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sheets and a warm blanket. Our beds are \"twin XL,\" which means they are longer than a normal single bed, so check the size before you buy.",
+            "vi": "Ga trải giường và một cái chăn ấm. Giường của chúng tôi là loại \"twin XL\", tức là dài hơn giường đơn bình thường, nên hãy kiểm tra kích cỡ trước khi mua."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Towels, soap, a toothbrush and shower shoes for the shared bathroom.",
+            "vi": "Khăn tắm, xà phòng, bàn chải đánh răng và dép đi tắm cho phòng tắm chung."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A laundry bag. There are washing machines on every floor, so learn to do your own laundry before you arrive.",
+            "vi": "Một túi đựng đồ giặt. Tầng nào cũng có máy giặt, nên hãy học tự giặt đồ trước khi tới."
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Photos in frames, and plastic containers that fit under your bed.",
+            "vi": "Ảnh lồng khung, và mấy cái hộp nhựa vừa gầm giường."
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What to leave at home",
+            "vi": "Nên để ở nhà"
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Candles, small heaters and cooking machines are not allowed, because they can start a fire.",
+            "vi": "Nến, máy sưởi nhỏ và các loại máy nấu ăn không được phép mang vào, vì chúng có thể gây cháy."
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Big furniture. Each student already has a bed, a desk, a chair and a bookshelf.",
+            "vi": "Đồ nội thất to. Mỗi sinh viên đã có sẵn giường, bàn học, ghế và giá sách."
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Living with a roommate",
+            "vi": "Sống chung với bạn cùng phòng"
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Have a chat in your first week about sleep times, visitors and noise.",
+            "vi": "Trong tuần đầu tiên, hãy nói chuyện với nhau về giờ ngủ, khách tới chơi và tiếng ồn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Small problems are much easier to fix before they become big ones.",
+            "vi": "Chuyện nhỏ thì dễ giải quyết hơn nhiều khi nó chưa thành chuyện lớn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 13,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Keeping your room clean",
+            "vi": "Giữ phòng sạch sẽ"
+          }
+        },
+        {
+          "n": 16,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Take out the trash often, and never leave a pile of dirty dishes. Old food brings bugs and an unpleasant smell.",
+            "vi": "Đổ rác thường xuyên, và đừng bao giờ để cả đống bát đĩa bẩn. Đồ ăn cũ kéo theo côn trùng và mùi khó chịu."
+          }
+        },
+        {
+          "n": 17,
+          "para": 15,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If something breaks, for example a light bulb, don't try to fix it yourself.",
+            "vi": "Nếu có thứ gì hỏng, ví dụ một bóng đèn, đừng tự sửa."
+          }
+        },
+        {
+          "n": 18,
+          "para": 15,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Send a repair request online, and we will fix the problem.",
+            "vi": "Hãy gửi yêu cầu sửa chữa qua mạng, và chúng tôi sẽ xử lý."
+          }
+        },
+        {
+          "n": 19,
+          "para": 15,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And never cover the smoke alarm.",
+            "vi": "Và đừng bao giờ che chuông báo khói."
+          }
+        },
+        {
+          "n": 20,
+          "para": 16,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your roommate doesn't have to be your best friend, but you need to trust each other.",
+            "vi": "Bạn cùng phòng không nhất thiết phải là bạn thân nhất của bạn, nhưng hai bạn cần tin tưởng nhau."
+          }
+        },
+        {
+          "n": 21,
+          "para": 16,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Welcome home!",
+            "vi": "Chào mừng bạn về nhà!"
+          }
+        },
+        {
+          "n": 22,
+          "para": 17,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The University Housing Office",
+            "vi": "Phòng Quản lý Ký túc xá của trường"
+          }
+        }
+      ],
+      "content_ja": "Moving Into Your Dorm: What First-Year Students Need to Know\n\nMoving in is exciting, but it can also be difficult. Your room will be small, and you will probably share it with someone you have never met.\n\nWhat to bring\n\nSheets and a warm blanket. Our beds are \"twin XL,\" which means they are longer than a normal single bed, so check the size before you buy.\n\nTowels, soap, a toothbrush and shower shoes for the shared bathroom.\n\nA laundry bag. There are washing machines on every floor, so learn to do your own laundry before you arrive.\n\nPhotos in frames, and plastic containers that fit under your bed.\n\nWhat to leave at home\n\nCandles, small heaters and cooking machines are not allowed, because they can start a fire.\n\nBig furniture. Each student already has a bed, a desk, a chair and a bookshelf.\n\nLiving with a roommate\n\nHave a chat in your first week about sleep times, visitors and noise. Small problems are much easier to fix before they become big ones.\n\nKeeping your room clean\n\nTake out the trash often, and never leave a pile of dirty dishes. Old food brings bugs and an unpleasant smell.\n\nIf something breaks, for example a light bulb, don't try to fix it yourself. Send a repair request online, and we will fix the problem. And never cover the smoke alarm.\n\nYour roommate doesn't have to be your best friend, but you need to trust each other. Welcome home!\n\nThe University Housing Office",
+      "translation_vn": "(1) Chuyển vào ký túc xá: những điều sinh viên năm nhất cần biết\n(2) Chuyển vào ở thì háo hức, nhưng cũng có thể vất vả.\n(3) Phòng của bạn sẽ nhỏ, và nhiều khả năng bạn sẽ ở chung với một người bạn chưa từng gặp.\n(4) Nên mang gì\n(5) Ga trải giường và một cái chăn ấm. Giường của chúng tôi là loại \"twin XL\", tức là dài hơn giường đơn bình thường, nên hãy kiểm tra kích cỡ trước khi mua.\n(6) Khăn tắm, xà phòng, bàn chải đánh răng và dép đi tắm cho phòng tắm chung.\n(7) Một túi đựng đồ giặt. Tầng nào cũng có máy giặt, nên hãy học tự giặt đồ trước khi tới.\n(8) Ảnh lồng khung, và mấy cái hộp nhựa vừa gầm giường.\n(9) Nên để ở nhà\n(10) Nến, máy sưởi nhỏ và các loại máy nấu ăn không được phép mang vào, vì chúng có thể gây cháy.\n(11) Đồ nội thất to. Mỗi sinh viên đã có sẵn giường, bàn học, ghế và giá sách.\n(12) Sống chung với bạn cùng phòng\n(13) Trong tuần đầu tiên, hãy nói chuyện với nhau về giờ ngủ, khách tới chơi và tiếng ồn.\n(14) Chuyện nhỏ thì dễ giải quyết hơn nhiều khi nó chưa thành chuyện lớn.\n(15) Giữ phòng sạch sẽ\n(16) Đổ rác thường xuyên, và đừng bao giờ để cả đống bát đĩa bẩn. Đồ ăn cũ kéo theo côn trùng và mùi khó chịu.\n(17) Nếu có thứ gì hỏng, ví dụ một bóng đèn, đừng tự sửa.\n(18) Hãy gửi yêu cầu sửa chữa qua mạng, và chúng tôi sẽ xử lý.\n(19) Và đừng bao giờ che chuông báo khói.\n(20) Bạn cùng phòng không nhất thiết phải là bạn thân nhất của bạn, nhưng hai bạn cần tin tưởng nhau.\n(21) Chào mừng bạn về nhà!\n(22) Phòng Quản lý Ký túc xá của trường",
+      "word_count": 252,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.65",
+        "a2.66",
+        "a2.67",
+        "a2.68"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u17_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_01",
+      "i18n": {
+        "en": "Why does the Carter family have to share Tracy's jobs?",
+        "vi": "Vì sao nhà Carter phải chia nhau việc của Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy has got a new job at the hospital.",
+            "vi": "Tracy có việc mới ở bệnh viện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy has got a new job at the hospital.",
+          "text_translation": "Tracy có việc mới ở bệnh viện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy is moving into the room downstairs.",
+            "vi": "Tracy chuyển xuống phòng ở tầng dưới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tracy is moving into the room downstairs.",
+          "text_translation": "Tracy chuyển xuống phòng ở tầng dưới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tracy is leaving for Washington soon.",
+            "vi": "Tracy sắp đi Washington."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Tracy is leaving for Washington soon.",
+          "text_translation": "Tracy sắp đi Washington."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy hates jobs at home.",
+            "vi": "Tracy ghét làm việc nhà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tracy hates jobs at home.",
+          "text_translation": "Tracy ghét làm việc nhà."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tracy is leaving for Washington in four weeks, so we've got to share her jobs.\" Chữ so nối lý do (Tracy sắp đi Washington) với kết quả (phải chia việc). Người làm ở bệnh viện là Leah (\"Leah works nights now\"). Phòng ở tầng dưới là phòng của Leah, còn phòng của Tracy thì Trevor xin lấy. Bài không nói Tracy ghét việc nhà: cô vẫn làm cả giặt đồ, rửa bát, dắt chó."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why…? thì tìm chữ so hoặc because. Ở đây phần đứng trước so là lý do."
+      },
+      "question_jp": "Why does the Carter family have to share Tracy's jobs?",
+      "question_vn": "Vì sao nhà Carter phải chia nhau việc của Tracy?",
+      "explanation": "\"Tracy is leaving for Washington in four weeks, so we've got to share her jobs.\" Chữ so nối lý do (Tracy sắp đi Washington) với kết quả (phải chia việc). Người làm ở bệnh viện là Leah (\"Leah works nights now\"). Phòng ở tầng dưới là phòng của Leah, còn phòng của Tracy thì Trevor xin lấy. Bài không nói Tracy ghét việc nhà: cô vẫn làm cả giặt đồ, rửa bát, dắt chó.",
+      "tip": "Câu hỏi Why…? thì tìm chữ so hoặc because. Ở đây phần đứng trước so là lý do."
+    },
+    {
+      "id": "q_u17_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_01",
+      "i18n": {
+        "en": "Why does Megan say \"no vacuuming before noon\"?",
+        "vi": "Vì sao Megan dặn \"no vacuuming before noon\" (không hút bụi trước buổi trưa)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Leah sleeps in the morning after working at night, and the noise can wake her up.",
+            "vi": "Leah ngủ buổi sáng sau khi làm đêm, và tiếng ồn có thể đánh thức cô."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Leah sleeps in the morning after working at night, and the noise can wake her up.",
+          "text_translation": "Leah ngủ buổi sáng sau khi làm đêm, và tiếng ồn có thể đánh thức cô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor sleeps until noon on Sundays.",
+            "vi": "Chủ nhật Trevor ngủ tới trưa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor sleeps until noon on Sundays.",
+          "text_translation": "Chủ nhật Trevor ngủ tới trưa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leah wants to vacuum the sitting room herself.",
+            "vi": "Leah muốn tự hút bụi phòng khách."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Leah wants to vacuum the sitting room herself.",
+          "text_translation": "Leah muốn tự hút bụi phòng khách."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The family meeting is always in the morning.",
+            "vi": "Buổi họp gia đình lúc nào cũng diễn ra vào buổi sáng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The family meeting is always in the morning.",
+          "text_translation": "Buổi họp gia đình lúc nào cũng diễn ra vào buổi sáng."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Megan giải thích ngay sau đó: \"Leah works nights now, and her room is downstairs, right under the sitting room.\" Làm ca đêm thì buổi sáng Leah phải ngủ, mà phòng cô lại ngay dưới phòng khách, nên tiếng máy hút bụi sẽ làm cô thức giấc. Bài không nhắc chuyện Trevor ngủ tới trưa. Leah không xin tự hút bụi. Buổi họp diễn ra \"on a Sunday evening\" (buổi tối), không phải buổi sáng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận lý do: đọc câu ngay sau lời dặn. Ghép hai chi tiết lại (làm đêm + phòng ngay bên dưới) để ra lý do bài không nói thẳng."
+      },
+      "question_jp": "Why does Megan say \"no vacuuming before noon\"?",
+      "question_vn": "Vì sao Megan dặn \"no vacuuming before noon\" (không hút bụi trước buổi trưa)?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Megan giải thích ngay sau đó: \"Leah works nights now, and her room is downstairs, right under the sitting room.\" Làm ca đêm thì buổi sáng Leah phải ngủ, mà phòng cô lại ngay dưới phòng khách, nên tiếng máy hút bụi sẽ làm cô thức giấc. Bài không nhắc chuyện Trevor ngủ tới trưa. Leah không xin tự hút bụi. Buổi họp diễn ra \"on a Sunday evening\" (buổi tối), không phải buổi sáng.",
+      "tip": "Câu suy luận lý do: đọc câu ngay sau lời dặn. Ghép hai chi tiết lại (làm đêm + phòng ngay bên dưới) để ra lý do bài không nói thẳng."
+    },
+    {
+      "id": "q_u17_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_01",
+      "i18n": {
+        "en": "In \"I would rather do that than the dishes\", what does Trevor mean?",
+        "vi": "Trong câu \"I would rather do that than the dishes\", Trevor muốn nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He wants to do the dishes after he vacuums.",
+            "vi": "Cậu muốn rửa bát sau khi hút bụi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He wants to do the dishes after he vacuums.",
+          "text_translation": "Cậu muốn rửa bát sau khi hút bụi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He wants his dad to take out the trash.",
+            "vi": "Cậu muốn bố đi đổ rác."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He wants his dad to take out the trash.",
+          "text_translation": "Cậu muốn bố đi đổ rác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He would like to do all of the jobs.",
+            "vi": "Cậu muốn làm hết mọi việc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He would like to do all of the jobs.",
+          "text_translation": "Cậu muốn làm hết mọi việc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He prefers taking out the trash and vacuuming to doing the dishes.",
+            "vi": "Cậu thích đổ rác và hút bụi hơn là rửa bát."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He prefers taking out the trash and vacuuming to doing the dishes.",
+          "text_translation": "Cậu thích đổ rác và hút bụi hơn là rửa bát."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Then I'll take out the trash and vacuum. I would rather do that than the dishes.\" Would rather A than B = thà làm A còn hơn làm B, tức thích A hơn. \"that\" chỉ việc vừa nói: đổ rác và hút bụi. Cậu không định rửa bát, cũng không nhờ bố đổ rác (bố lo nấu ăn: \"I'll do all the cooking\"). Cậu chỉ chọn hai việc, không phải tất cả."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Would rather A than B: việc đứng NGAY SAU rather là việc được chọn, việc đứng sau than là việc bị từ chối."
+      },
+      "question_jp": "In \"I would rather do that than the dishes\", what does Trevor mean?",
+      "question_vn": "Trong câu \"I would rather do that than the dishes\", Trevor muốn nói gì?",
+      "explanation": "\"Then I'll take out the trash and vacuum. I would rather do that than the dishes.\" Would rather A than B = thà làm A còn hơn làm B, tức thích A hơn. \"that\" chỉ việc vừa nói: đổ rác và hút bụi. Cậu không định rửa bát, cũng không nhờ bố đổ rác (bố lo nấu ăn: \"I'll do all the cooking\"). Cậu chỉ chọn hai việc, không phải tất cả.",
+      "tip": "Would rather A than B: việc đứng NGAY SAU rather là việc được chọn, việc đứng sau than là việc bị từ chối."
+    },
+    {
+      "id": "q_u17_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_01",
+      "i18n": {
+        "en": "In \"And the laundry is easy, isn't it?\", what does Trevor want?",
+        "vi": "Trong câu \"And the laundry is easy, isn't it?\", Trevor muốn gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He wants Tracy to do the laundry before she goes.",
+            "vi": "Cậu muốn Tracy giặt hết đồ trước khi đi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He wants Tracy to do the laundry before she goes.",
+          "text_translation": "Cậu muốn Tracy giặt hết đồ trước khi đi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He wants the others to agree that the laundry is easy.",
+            "vi": "Cậu muốn mọi người đồng ý rằng giặt đồ là dễ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He wants the others to agree that the laundry is easy.",
+          "text_translation": "Cậu muốn mọi người đồng ý rằng giặt đồ là dễ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He thinks that the laundry is very difficult.",
+            "vi": "Cậu nghĩ giặt đồ rất khó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He thinks that the laundry is very difficult.",
+          "text_translation": "Cậu nghĩ giặt đồ rất khó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is asking how to use the washing machine.",
+            "vi": "Cậu đang hỏi cách dùng máy giặt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He is asking how to use the washing machine.",
+          "text_translation": "Cậu đang hỏi cách dùng máy giặt."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"And the laundry is easy, isn't it? The washing machine does all the work.\" Câu hỏi đuôi isn't it? gắn sau một câu khẳng định là để mong người nghe đồng ý. Câu tiếp theo cho thấy Trevor tin là dễ thật (máy làm hết), nên không phải cậu thấy khó. Cậu không hỏi cách dùng máy, mà còn tự tin là máy làm hết. Nhờ Tracy dạy (\"teach me\") là chuyện sau, không phải nhờ Tracy giặt hộ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi đuôi (…, isn't it? / …, did you?) thường không phải câu hỏi thật: người nói đã có ý kiến và chờ người kia nói \"Yes\"."
+      },
+      "question_jp": "In \"And the laundry is easy, isn't it?\", what does Trevor want?",
+      "question_vn": "Trong câu \"And the laundry is easy, isn't it?\", Trevor muốn gì?",
+      "explanation": "\"And the laundry is easy, isn't it? The washing machine does all the work.\" Câu hỏi đuôi isn't it? gắn sau một câu khẳng định là để mong người nghe đồng ý. Câu tiếp theo cho thấy Trevor tin là dễ thật (máy làm hết), nên không phải cậu thấy khó. Cậu không hỏi cách dùng máy, mà còn tự tin là máy làm hết. Nhờ Tracy dạy (\"teach me\") là chuyện sau, không phải nhờ Tracy giặt hộ.",
+      "tip": "Câu hỏi đuôi (…, isn't it? / …, did you?) thường không phải câu hỏi thật: người nói đã có ý kiến và chờ người kia nói \"Yes\"."
+    },
+    {
+      "id": "q_u17_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_01",
+      "i18n": {
+        "en": "Why does Tracy tell the story about her white shirt?",
+        "vi": "Vì sao Tracy kể chuyện cái áo trắng của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that doing the laundry is not as easy as Trevor thinks",
+            "vi": "để cho thấy giặt đồ không dễ như Trevor nghĩ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that doing the laundry is not as easy as Trevor thinks",
+          "text_translation": "để cho thấy giặt đồ không dễ như Trevor nghĩ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to say that she likes pink clothes",
+            "vi": "để nói rằng cô thích quần áo màu hồng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to say that she likes pink clothes",
+          "text_translation": "để nói rằng cô thích quần áo màu hồng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask Trevor to buy her a new shirt",
+            "vi": "để đòi Trevor mua áo mới cho mình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask Trevor to buy her a new shirt",
+          "text_translation": "để đòi Trevor mua áo mới cho mình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to say that her dad is a bad cook",
+            "vi": "để nói rằng bố cô nấu ăn dở"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to say that her dad is a bad cook",
+          "text_translation": "để nói rằng bố cô nấu ăn dở"
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Trevor vừa nói \"The washing machine does all the work\", Tracy đáp \"Really?\" rồi kể: bố giặt áo trắng chung với tất đỏ, \"and now it's pink\". Ngay cả người lớn cũng làm hỏng đồ, nghĩa là giặt đồ cần biết cách (tách đồ trắng, đồ màu), không phải máy làm hết. Câu \"pink looks good on you\" là lời đùa của bố, không phải Tracy nói mình thích màu hồng. Cô không đòi áo mới, và câu chuyện nói về giặt đồ, không phải nấu ăn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "\"Really?\" đứng trước một câu chuyện thường là dấu hiệu người nói KHÔNG đồng ý. Hãy hỏi: câu chuyện đó chứng minh điều gì ngược với ý người kia?"
+      },
+      "question_jp": "Why does Tracy tell the story about her white shirt?",
+      "question_vn": "Vì sao Tracy kể chuyện cái áo trắng của mình?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Trevor vừa nói \"The washing machine does all the work\", Tracy đáp \"Really?\" rồi kể: bố giặt áo trắng chung với tất đỏ, \"and now it's pink\". Ngay cả người lớn cũng làm hỏng đồ, nghĩa là giặt đồ cần biết cách (tách đồ trắng, đồ màu), không phải máy làm hết. Câu \"pink looks good on you\" là lời đùa của bố, không phải Tracy nói mình thích màu hồng. Cô không đòi áo mới, và câu chuyện nói về giặt đồ, không phải nấu ăn.",
+      "tip": "\"Really?\" đứng trước một câu chuyện thường là dấu hiệu người nói KHÔNG đồng ý. Hãy hỏi: câu chuyện đó chứng minh điều gì ngược với ý người kia?"
+    },
+    {
+      "id": "q_u17_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_02",
+      "i18n": {
+        "en": "What is the main purpose of the text?",
+        "vi": "Mục đích chính của văn bản này là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sell beds and furniture to students",
+            "vi": "để bán giường và đồ nội thất cho sinh viên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to sell beds and furniture to students",
+          "text_translation": "để bán giường và đồ nội thất cho sinh viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to help new students get ready to move in and live in a dorm",
+            "vi": "để giúp sinh viên mới chuẩn bị chuyển vào và sống ở ký túc xá"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to help new students get ready to move in and live in a dorm",
+          "text_translation": "để giúp sinh viên mới chuẩn bị chuyển vào và sống ở ký túc xá"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how to fix a light bulb",
+            "vi": "để hướng dẫn cách sửa bóng đèn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain how to fix a light bulb",
+          "text_translation": "để hướng dẫn cách sửa bóng đèn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to help students find a good roommate",
+            "vi": "để giúp sinh viên tìm bạn cùng phòng tốt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to help students find a good roommate",
+          "text_translation": "để giúp sinh viên tìm bạn cùng phòng tốt"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        4,
+        9,
+        12,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề là \"Moving Into Your Dorm: What First-Year Students Need to Know\", và các tiêu đề nhỏ đi lần lượt: nên mang gì, nên để ở nhà, sống chung với bạn cùng phòng, giữ phòng sạch sẽ. Bài không bán gì; ngược lại, nó khuyên để đồ nội thất to ở nhà. Bài còn dặn \"don't try to fix it yourself\", nên không dạy sửa bóng đèn. Bạn cùng phòng là người \"you have never met\", tức là trường xếp, không phải bài giúp tìm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi mục đích: đọc tiêu đề và các tiêu đề nhỏ. Phương án chỉ khớp một chi tiết nhỏ (bóng đèn, bạn cùng phòng) thường là phương án nhiễu."
+      },
+      "question_jp": "What is the main purpose of the text?",
+      "question_vn": "Mục đích chính của văn bản này là gì?",
+      "explanation": "Tiêu đề là \"Moving Into Your Dorm: What First-Year Students Need to Know\", và các tiêu đề nhỏ đi lần lượt: nên mang gì, nên để ở nhà, sống chung với bạn cùng phòng, giữ phòng sạch sẽ. Bài không bán gì; ngược lại, nó khuyên để đồ nội thất to ở nhà. Bài còn dặn \"don't try to fix it yourself\", nên không dạy sửa bóng đèn. Bạn cùng phòng là người \"you have never met\", tức là trường xếp, không phải bài giúp tìm.",
+      "tip": "Câu hỏi mục đích: đọc tiêu đề và các tiêu đề nhỏ. Phương án chỉ khớp một chi tiết nhỏ (bóng đèn, bạn cùng phòng) thường là phương án nhiễu."
+    },
+    {
+      "id": "q_u17_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_02",
+      "i18n": {
+        "en": "Which of these should a new student leave at home?",
+        "vi": "Theo bài, sinh viên nên để thứ nào dưới đây ở nhà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "shower shoes",
+            "vi": "dép đi tắm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "shower shoes",
+          "text_translation": "dép đi tắm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "plastic containers",
+            "vi": "hộp nhựa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "plastic containers",
+          "text_translation": "hộp nhựa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "photos in frames",
+            "vi": "ảnh lồng khung"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "photos in frames",
+          "text_translation": "ảnh lồng khung"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a small heater",
+            "vi": "một cái máy sưởi nhỏ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a small heater",
+          "text_translation": "một cái máy sưởi nhỏ"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Dưới tiêu đề \"What to leave at home\": \"Candles, small heaters and hot plates are not allowed, because they can start a fire.\" Dép đi tắm, hộp nhựa và ảnh lồng khung đều nằm ở mục \"What to bring\" (nên mang)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài có tiêu đề nhỏ thì dùng nó để khoanh vùng: câu hỏi \"leave at home\" chỉ cần tìm dưới mục \"What to leave at home\"."
+      },
+      "question_jp": "Which of these should a new student leave at home?",
+      "question_vn": "Theo bài, sinh viên nên để thứ nào dưới đây ở nhà?",
+      "explanation": "Dưới tiêu đề \"What to leave at home\": \"Candles, small heaters and hot plates are not allowed, because they can start a fire.\" Dép đi tắm, hộp nhựa và ảnh lồng khung đều nằm ở mục \"What to bring\" (nên mang).",
+      "tip": "Bài có tiêu đề nhỏ thì dùng nó để khoanh vùng: câu hỏi \"leave at home\" chỉ cần tìm dưới mục \"What to leave at home\"."
+    },
+    {
+      "id": "q_u17_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_02",
+      "i18n": {
+        "en": "In \"If something breaks, for example a light bulb, don't try to fix it yourself\", what does \"it\" refer to?",
+        "vi": "Trong câu \"If something breaks, for example a light bulb, don't try to fix it yourself\", \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the repair request",
+            "vi": "yêu cầu sửa chữa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the repair request",
+          "text_translation": "yêu cầu sửa chữa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the smoke alarm",
+            "vi": "chuông báo khói"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the smoke alarm",
+          "text_translation": "chuông báo khói"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the thing that breaks in the room",
+            "vi": "thứ bị hỏng trong phòng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the thing that breaks in the room",
+          "text_translation": "thứ bị hỏng trong phòng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the pile of dirty dishes",
+            "vi": "đống bát đĩa bẩn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the pile of dirty dishes",
+          "text_translation": "đống bát đĩa bẩn"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"If something breaks, for example a light bulb, don't try to fix it yourself.\" Chữ it chỉ something ở đầu câu, tức thứ bị hỏng, như bóng đèn. Yêu cầu sửa chữa (\"a repair request\") và chuông báo khói nằm ở các câu SAU câu này. Đống bát đĩa bẩn ở mục trước, không liên quan đến việc sửa."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đại từ it thường chỉ danh từ đứng trước nó trong cùng câu. Đừng chọn thứ chỉ xuất hiện ở câu sau."
+      },
+      "question_jp": "In \"If something breaks, for example a light bulb, don't try to fix it yourself\", what does \"it\" refer to?",
+      "question_vn": "Trong câu \"If something breaks, for example a light bulb, don't try to fix it yourself\", \"it\" chỉ cái gì?",
+      "explanation": "\"If something breaks, for example a light bulb, don't try to fix it yourself.\" Chữ it chỉ something ở đầu câu, tức thứ bị hỏng, như bóng đèn. Yêu cầu sửa chữa (\"a repair request\") và chuông báo khói nằm ở các câu SAU câu này. Đống bát đĩa bẩn ở mục trước, không liên quan đến việc sửa.",
+      "tip": "Đại từ it thường chỉ danh từ đứng trước nó trong cùng câu. Đừng chọn thứ chỉ xuất hiện ở câu sau."
+    },
+    {
+      "id": "q_u17_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_02",
+      "i18n": {
+        "en": "What might happen if a student buys sheets for a normal single bed?",
+        "vi": "Chuyện gì có thể xảy ra nếu sinh viên mua ga cho giường đơn bình thường?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The sheets might be too short for the dorm bed.",
+            "vi": "Ga có thể bị ngắn so với giường ký túc xá."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The sheets might be too short for the dorm bed.",
+          "text_translation": "Ga có thể bị ngắn so với giường ký túc xá."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The sheets might be too long for the dorm bed.",
+            "vi": "Ga có thể bị dài so với giường ký túc xá."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The sheets might be too long for the dorm bed.",
+          "text_translation": "Ga có thể bị dài so với giường ký túc xá."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The roommate might want to use them.",
+            "vi": "Bạn cùng phòng có thể muốn dùng chúng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The roommate might want to use them.",
+          "text_translation": "Bạn cùng phòng có thể muốn dùng chúng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The housing office might send them back.",
+            "vi": "Phòng quản lý ký túc xá có thể gửi trả chúng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The housing office might send them back.",
+          "text_translation": "Phòng quản lý ký túc xá có thể gửi trả chúng."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. \"which means they are longer than a normal single bed, so check the size before you buy\": giường twin XL của ký túc xá DÀI hơn giường đơn bình thường, nên ga của giường đơn bình thường sẽ bị ngắn, không trùm hết giường. Vì thế mới phải kiểm tra kích cỡ. \"Too long\" là ngược lại. Bài không nói gì về chuyện bạn cùng phòng dùng ga, hay phòng quản lý gửi trả đồ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận kiểu \"What might happen if…?\": tìm câu so sánh (longer than…) rồi tự hỏi điều ngược lại sẽ ra sao."
+      },
+      "question_jp": "What might happen if a student buys sheets for a normal single bed?",
+      "question_vn": "Chuyện gì có thể xảy ra nếu sinh viên mua ga cho giường đơn bình thường?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. \"which means they are longer than a normal single bed, so check the size before you buy\": giường twin XL của ký túc xá DÀI hơn giường đơn bình thường, nên ga của giường đơn bình thường sẽ bị ngắn, không trùm hết giường. Vì thế mới phải kiểm tra kích cỡ. \"Too long\" là ngược lại. Bài không nói gì về chuyện bạn cùng phòng dùng ga, hay phòng quản lý gửi trả đồ.",
+      "tip": "Câu suy luận kiểu \"What might happen if…?\": tìm câu so sánh (longer than…) rồi tự hỏi điều ngược lại sẽ ra sao."
+    },
+    {
+      "id": "q_u17_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u17_02",
+      "i18n": {
+        "en": "Which advice in the text will probably be easy for Tracy?",
+        "vi": "Lời khuyên nào trong danh sách có lẽ sẽ dễ với Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "bringing big furniture from her room",
+            "vi": "mang đồ nội thất to từ phòng mình đi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "bringing big furniture from her room",
+          "text_translation": "mang đồ nội thất to từ phòng mình đi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "having a chat with her roommate, because she already knows her",
+            "vi": "nói chuyện với bạn cùng phòng, vì cô đã quen người đó rồi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "having a chat with her roommate, because she already knows her",
+          "text_translation": "nói chuyện với bạn cùng phòng, vì cô đã quen người đó rồi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "fixing broken things herself, because she is going to study engineering",
+            "vi": "tự sửa đồ hỏng, vì cô sắp học kỹ thuật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "fixing broken things herself, because she is going to study engineering",
+          "text_translation": "tự sửa đồ hỏng, vì cô sắp học kỹ thuật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "doing her own laundry, because she already does the family laundry",
+            "vi": "tự giặt đồ, vì cô vốn đã giặt đồ cho cả nhà"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "doing her own laundry, because she already does the family laundry",
+          "text_translation": "tự giặt đồ, vì cô vốn đã giặt đồ cho cả nhà"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu này nối hai bài. Bài 2 khuyên \"learn to do your own laundry before you arrive\". Ở bài 1, Megan nói về Tracy: \"She does the laundry and the dishes, and she walks Biscuit every morning.\" Tracy đã quen giặt đồ cho cả nhà, nên việc này sẽ dễ với cô. Đồ nội thất to thì bài 2 bảo để ở nhà. Bài 2 nói bạn cùng phòng thường là \"someone you have never met\", và không bài nào nói Tracy đã quen ai. Bài 2 cũng dặn \"don't try to fix it yourself\", dù cô có học kỹ thuật."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: lấy một thông tin về nhân vật ở bài 1 (Tracy làm việc gì ở nhà), rồi tìm lời khuyên ở bài 2 khớp với thông tin đó."
+      },
+      "question_jp": "Which advice in the text will probably be easy for Tracy?",
+      "question_vn": "Lời khuyên nào trong danh sách có lẽ sẽ dễ với Tracy?",
+      "explanation": "Câu này nối hai bài. Bài 2 khuyên \"learn to do your own laundry before you arrive\". Ở bài 1, Megan nói về Tracy: \"She does the laundry and the dishes, and she walks Biscuit every morning.\" Tracy đã quen giặt đồ cho cả nhà, nên việc này sẽ dễ với cô. Đồ nội thất to thì bài 2 bảo để ở nhà. Bài 2 nói bạn cùng phòng thường là \"someone you have never met\", và không bài nào nói Tracy đã quen ai. Bài 2 cũng dặn \"don't try to fix it yourself\", dù cô có học kỹ thuật.",
+      "tip": "Câu nối hai bài: lấy một thông tin về nhân vật ở bài 1 (Tracy làm việc gì ở nhà), rồi tìm lời khuyên ở bài 2 khớp với thông tin đó."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u17_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Họp gia đình: chia lại việc nhà",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u17_01",
+      "question_ids": [
+        "q_u17_001",
+        "q_u17_002",
+        "q_u17_003",
+        "q_u17_004",
+        "q_u17_005"
+      ]
+    },
+    {
+      "set_id": "set_u17_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Danh sách chuẩn bị vào ký túc xá cho sinh viên năm nhất",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u17_02",
+      "question_ids": [
+        "q_u17_006",
+        "q_u17_007",
+        "q_u17_008",
+        "q_u17_009",
+        "q_u17_010"
+      ]
+    }
+  ]
+}
