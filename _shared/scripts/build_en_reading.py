@@ -39,6 +39,8 @@ ROOT = Path(__file__).resolve().parents[2]
 CURR = ROOT / "_shared" / "en_curriculum"
 LEGACY = "vi"  # ngôn ngữ dùng để sinh khoá cũ (question_vn, translation_vn…)
 VOCAB_MAX = 10
+NAMES = ("Mitchell Megan Tracy Trevor Tina Biscuit Carter Carters Harriet Nathan Helena Amy Brooks Leah Ethan Hayes "
+         "Chloe Bennett Lydia Park Westview").split()
 
 def _forms(w: str) -> set[str]:
     out = {w}
@@ -52,6 +54,8 @@ def auto_vocab(d: dict, cw: dict) -> list[str]:
     """Từ của unit có trong bài đọc, theo thứ tự xuất hiện. Bỏ từ quá cơ bản (số đếm, chào hỏi 1 chữ)."""
     text = " ".join(s["i18n"]["en"] for p in d["reading_passages"] for s in p["segments"]
                     if s.get("kind", "sentence") != "signature")
+    # bỏ tên riêng của dàn nhân vật (Biscuit = tên chó, Park = họ cô Lydia…) để không bị lấy nhầm thành từ thường
+    text = re.sub(r"\b(" + "|".join(NAMES) + r")('s)?\b", " ", text)
     low = text.lower()
     toks = re.findall(r"[a-zà-ÿ']+", low)
     pos: dict[str, int] = {}

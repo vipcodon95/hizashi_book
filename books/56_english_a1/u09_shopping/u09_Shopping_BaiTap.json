@@ -1,0 +1,1227 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 9 — Shopping",
+      "vi": "Mua sắm"
+    },
+    "title": "Unit 9 — Shopping",
+    "title_vn": "Mua sắm",
+    "module_code": "56_u09",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u09",
+    "curriculum_sheets": [
+      "a1.33",
+      "a1.34",
+      "a1.35",
+      "a1.36"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Tina Carter",
+      "Harriet Brooks",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 2, năm 2"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Giá, size, trả tiền, đại từ sở hữu (mine / yours), Can I …?, give someone something",
+    "description_vn": "Tracy, Tina và \"you\" mua áo phông cảm ơn bà Harriet; quảng cáo giảm giá cửa hàng Sunny Days. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 9 khoá A1 · phiếu `a1.33` – `a1.36` (hỏi giá, mua quần áo và size, trả tiền, mua quà)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một đoạn hội thoại ở cửa hàng quà tặng và một tờ quảng cáo giảm giá; hiểu giá (on sale, $10 off), size (small, large, too tight), cách trả tiền (pay by credit card), câu xin phép Can I …?, đại từ sở hữu (mine, yours) và cấu trúc give someone something."
+    },
+    "vocab": [
+      "gift",
+      "size",
+      "try",
+      "tight",
+      "same",
+      "sale",
+      "pay",
+      "credit card",
+      "pocket",
+      "free"
+    ],
+    "extra_words": [
+      {
+        "word": "dog",
+        "i18n": {
+          "vi": "con chó"
+        }
+      },
+      {
+        "word": "medium",
+        "i18n": {
+          "vi": "size vừa (cỡ M)"
+        }
+      },
+      {
+        "word": "before",
+        "i18n": {
+          "vi": "trước khi"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "Can I help you?",
+          "vi": "Tôi có thể giúp gì cho bạn? (câu người bán hàng hay hỏi)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "try on",
+          "vi": "mặc thử"
+        }
+      },
+      {
+        "i18n": {
+          "en": "too tight",
+          "vi": "chật quá"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on sale",
+          "vi": "đang giảm giá"
+        }
+      },
+      {
+        "i18n": {
+          "en": "pay by credit card",
+          "vi": "trả bằng thẻ tín dụng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "$10 off",
+          "vi": "giảm 10 đô"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu hỏi **How much …?** hỏi giá. Bài thường có giá cũ và giá mới: tìm `on sale`, `now`, `off` để biết giá phải trả thật sự."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **Whose …?** hỏi \"của ai\". Gặp `mine / yours / hers` thì xem ai đang nói với ai: `yours` trong lời Tracy nói với Tina là của Tina."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **Who pays …?** hay có bẫy: nhiều người cùng có tiền trong bài. Đọc đến câu cuối của đoạn trả tiền, xem tiền của ai được dùng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Quảng cáo: đọc theo từng dòng. Mỗi dòng là một món hàng kèm giá, hoặc một thông tin (miễn phí gì, trả tiền thế nào, giờ mở cửa)."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u09_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Mua quà cảm ơn bà Harriet"
+      },
+      "title": "A Thank-You Gift for Harriet",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 80,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Thank-You Gift for Harriet",
+            "vi": "Món quà cảm ơn bà Harriet"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy, Tina and you are at Sunny Days Gift Shop.",
+            "vi": "Tracy, Tina và bạn đang ở cửa hàng quà tặng Sunny Days."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Harriet helps Tina and Trevor with their homework every Saturday, so we want to give her a thank-you gift.",
+            "vi": "Thứ Bảy nào bà Harriet cũng kèm Tina với Trevor làm bài tập, nên tụi mình muốn tặng bà một món quà cảm ơn."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Rachel",
+          "label": null,
+          "i18n": {
+            "en": "Hello! Can I help you?",
+            "vi": "Xin chào! Tôi giúp gì được cho các bạn?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Look at this T-shirt!",
+            "vi": "Nhìn cái áo phông này nè!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "The dog on it is just like Biscuit, and Harriet loves Biscuit.",
+            "vi": "Con chó in trên áo giống hệt Biscuit, mà bà Harriet thì rất quý Biscuit."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Good idea, Tina. But what size is Harriet?",
+            "vi": "Ý hay đấy, Tina. Nhưng bà Harriet mặc size nào nhỉ?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "I think she is the same size as you.",
+            "vi": "Mình nghĩ bà mặc cùng size với cậu đấy."
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Can I try on the small one? No, it's too tight!",
+            "vi": "Em mặc thử cái size nhỏ được không ạ? Ôi không, chật quá!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Rachel",
+          "label": null,
+          "i18n": {
+            "en": "Here is a large one. It's eighteen dollars, but it's on sale today, so it's only twelve.",
+            "vi": "Đây là size lớn. Giá mười tám đô, nhưng hôm nay đang giảm giá, nên chỉ còn mười hai đô thôi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Great! Can I pay by credit card?",
+            "vi": "Tuyệt quá! Em trả bằng thẻ tín dụng được không ạ?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Wait! I have two dollars in my pocket.",
+            "vi": "Khoan đã! Em có hai đô trong túi nè."
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Keep your money, Tina. The idea is yours, and the money is mine!",
+            "vi": "Em cất tiền đi, Tina. Ý tưởng là của em, còn tiền là của chị!"
+          }
+        }
+      ],
+      "content_ja": "A Thank-You Gift for Harriet\n\nTracy, Tina and you are at Sunny Days Gift Shop.\n\nTracy: Harriet helps Tina and Trevor with their homework every Saturday, so we want to give her a thank-you gift.\n\nRachel: Hello! Can I help you?\n\nTina: Look at this T-shirt! The dog on it is just like Biscuit, and Harriet loves Biscuit.\n\nTracy: Good idea, Tina. But what size is Harriet?\n\nYou: I think she is the same size as you.\n\nTracy: Can I try on the small one? No, it's too tight!\n\nRachel: Here is a large one. It's eighteen dollars, but it's on sale today, so it's only twelve.\n\nTracy: Great! Can I pay by credit card?\n\nTina: Wait! I have two dollars in my pocket.\n\nTracy: Keep your money, Tina. The idea is yours, and the money is mine!",
+      "translation_vn": "(1) Món quà cảm ơn bà Harriet\n(2) Tracy, Tina và bạn đang ở cửa hàng quà tặng Sunny Days.\n(3) Tracy: Thứ Bảy nào bà Harriet cũng kèm Tina với Trevor làm bài tập, nên tụi mình muốn tặng bà một món quà cảm ơn.\n(4) Rachel: Xin chào! Tôi giúp gì được cho các bạn?\n(5) Tina: Nhìn cái áo phông này nè!\n(6) Tina: Con chó in trên áo giống hệt Biscuit, mà bà Harriet thì rất quý Biscuit.\n(7) Tracy: Ý hay đấy, Tina. Nhưng bà Harriet mặc size nào nhỉ?\n(8) You: Mình nghĩ bà mặc cùng size với cậu đấy.\n(9) Tracy: Em mặc thử cái size nhỏ được không ạ? Ôi không, chật quá!\n(10) Rachel: Đây là size lớn. Giá mười tám đô, nhưng hôm nay đang giảm giá, nên chỉ còn mười hai đô thôi.\n(11) Tracy: Tuyệt quá! Em trả bằng thẻ tín dụng được không ạ?\n(12) Tina: Khoan đã! Em có hai đô trong túi nè.\n(13) Tracy: Em cất tiền đi, Tina. Ý tưởng là của em, còn tiền là của chị!",
+      "word_count": 131,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.33",
+        "a1.34",
+        "a1.35",
+        "a1.36"
+      ]
+    },
+    {
+      "id": "passage_u09_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Quảng cáo cửa hàng Sunny Days"
+      },
+      "title": "Big February Sale at Sunny Days Gift Shop!",
+      "category": "advertisement",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 80,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Big February Sale at Sunny Days Gift Shop!",
+            "vi": "Đại hạ giá tháng Hai ở cửa hàng quà tặng Sunny Days!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do you need a special gift for a friend?",
+            "vi": "Bạn cần một món quà đặc biệt cho bạn bè?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Come and choose from our clothes, toys and jewelry.",
+            "vi": "Hãy đến chọn quần áo, đồ chơi và trang sức của chúng tôi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "T-shirts in small, medium and large: $18, now only $12!",
+            "vi": "Áo phông size nhỏ, vừa và lớn: 18 đô, nay chỉ còn 12 đô!"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Jeans: $40 a pair. This week, every pair is $10 off.",
+            "vi": "Quần jean: 40 đô một chiếc. Tuần này, chiếc nào cũng được giảm 10 đô."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kites and dolls for kids: $8.",
+            "vi": "Diều và búp bê cho trẻ em: 8 đô."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every gift comes with a free card and a free ribbon.",
+            "vi": "Món quà nào cũng kèm một tấm thiệp và một dải ruy băng miễn phí."
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Can I try on the clothes before I buy them? Yes, you can!",
+            "vi": "Tôi có được mặc thử quần áo trước khi mua không? Có, bạn được thử!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can pay with money or by credit card.",
+            "vi": "Bạn có thể trả bằng tiền mặt hoặc thẻ tín dụng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Opening hours: Monday to Friday, 10 a.m. to 7 p.m.",
+            "vi": "Giờ mở cửa: thứ Hai đến thứ Sáu, 10 giờ sáng đến 7 giờ tối"
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday: 9 a.m. to 6 p.m.",
+            "vi": "Thứ Bảy: 9 giờ sáng đến 6 giờ chiều"
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunday: closed",
+            "vi": "Chủ nhật: đóng cửa"
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Find us on Pine Street, near Maple Street.",
+            "vi": "Cửa hàng ở phố Pine, gần phố Maple."
+          }
+        },
+        {
+          "n": 14,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The sale is for February only, so come early!",
+            "vi": "Đợt giảm giá chỉ có trong tháng Hai, nên hãy đến sớm nhé!"
+          }
+        }
+      ],
+      "content_ja": "Big February Sale at Sunny Days Gift Shop!\n\nDo you need a special gift for a friend? Come and choose from our clothes, toys and jewelry.\n\nT-shirts in small, medium and large: $18, now only $12!\n\nJeans: $40 a pair. This week, every pair is $10 off.\n\nKites and dolls for kids: $8.\n\nEvery gift comes with a free card and a free ribbon.\n\nCan I try on the clothes before I buy them? Yes, you can!\n\nYou can pay with money or by credit card.\n\nOpening hours: Monday to Friday, 10 a.m. to 7 p.m.\n\nSaturday: 9 a.m. to 6 p.m.\n\nSunday: closed\n\nFind us on Pine Street, near Maple Street. The sale is for February only, so come early!",
+      "translation_vn": "(1) Đại hạ giá tháng Hai ở cửa hàng quà tặng Sunny Days!\n(2) Bạn cần một món quà đặc biệt cho bạn bè?\n(3) Hãy đến chọn quần áo, đồ chơi và trang sức của chúng tôi.\n(4) Áo phông size nhỏ, vừa và lớn: 18 đô, nay chỉ còn 12 đô!\n(5) Quần jean: 40 đô một chiếc. Tuần này, chiếc nào cũng được giảm 10 đô.\n(6) Diều và búp bê cho trẻ em: 8 đô.\n(7) Món quà nào cũng kèm một tấm thiệp và một dải ruy băng miễn phí.\n(8) Tôi có được mặc thử quần áo trước khi mua không? Có, bạn được thử!\n(9) Bạn có thể trả bằng tiền mặt hoặc thẻ tín dụng.\n(10) Giờ mở cửa: thứ Hai đến thứ Sáu, 10 giờ sáng đến 7 giờ tối\n(11) Thứ Bảy: 9 giờ sáng đến 6 giờ chiều\n(12) Chủ nhật: đóng cửa\n(13) Cửa hàng ở phố Pine, gần phố Maple.\n(14) Đợt giảm giá chỉ có trong tháng Hai, nên hãy đến sớm nhé!",
+      "word_count": 117,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.33",
+        "a1.34",
+        "a1.35",
+        "a1.36"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u09_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "Whose idea is the T-shirt with a dog on it?",
+        "vi": "Cái áo phông có hình con chó là ý tưởng của ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is Tracy's.",
+            "vi": "Của Tracy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is Tracy's.",
+          "text_translation": "Của Tracy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is Tina's.",
+            "vi": "Của Tina."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It is Tina's.",
+          "text_translation": "Của Tina."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is yours.",
+            "vi": "Của bạn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is yours.",
+          "text_translation": "Của bạn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is Rachel's.",
+            "vi": "Của Rachel."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is Rachel's.",
+          "text_translation": "Của Rachel."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Tina là người nói \"Look at this T-shirt!\" rồi kể về con chó in trên áo, và Tracy nói với Tina: \"The idea is yours, and the money is mine!\" Ở đây \"yours\" là của Tina. Tracy chỉ khen ý hay và trả tiền. Bạn (you) chỉ nói về size. Rachel là người bán hàng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Whose …? hỏi \"của ai\". Đại từ sở hữu thay cho cả cụm: yours = your idea, mine = my money. Phải xem ai đang nói với ai thì mới biết \"yours\" là của người nào."
+      },
+      "question_jp": "Whose idea is the T-shirt with a dog on it?",
+      "question_vn": "Cái áo phông có hình con chó là ý tưởng của ai?",
+      "explanation": "Tina là người nói \"Look at this T-shirt!\" rồi kể về con chó in trên áo, và Tracy nói với Tina: \"The idea is yours, and the money is mine!\" Ở đây \"yours\" là của Tina. Tracy chỉ khen ý hay và trả tiền. Bạn (you) chỉ nói về size. Rachel là người bán hàng.",
+      "tip": "Whose …? hỏi \"của ai\". Đại từ sở hữu thay cho cả cụm: yours = your idea, mine = my money. Phải xem ai đang nói với ai thì mới biết \"yours\" là của người nào."
+    },
+    {
+      "id": "q_u09_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "Why do they choose the T-shirt with a dog on it?",
+        "vi": "Vì sao họ chọn cái áo phông có hình con chó?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is only two dollars.",
+            "vi": "Vì nó chỉ có hai đô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is only two dollars.",
+          "text_translation": "Vì nó chỉ có hai đô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet has a dog.",
+            "vi": "Vì bà Harriet có nuôi chó."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet has a dog.",
+          "text_translation": "Vì bà Harriet có nuôi chó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is too tight.",
+            "vi": "Vì nó chật."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is too tight.",
+          "text_translation": "Vì nó chật."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The dog on it is like Biscuit, and Harriet loves Biscuit.",
+            "vi": "Vì con chó trên áo giống Biscuit, mà bà Harriet rất quý Biscuit."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The dog on it is like Biscuit, and Harriet loves Biscuit.",
+          "text_translation": "Vì con chó trên áo giống Biscuit, mà bà Harriet rất quý Biscuit."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"The dog on it is just like Biscuit, and Harriet loves Biscuit.\" Bà Harriet quý Biscuit, nên cái áo có hình giống Biscuit chắc sẽ làm bà vui. Bài không nói bà Harriet nuôi chó: Biscuit là chó nhà Carter. Cái áo giá 12 đô, còn hai đô là tiền trong túi Tina. \"too tight\" là cái size nhỏ Tracy mặc thử, nên không mua."
+      },
+      "audio_data": null,
+      "question_jp": "Why do they choose the T-shirt with a dog on it?",
+      "question_vn": "Vì sao họ chọn cái áo phông có hình con chó?",
+      "explanation": "\"The dog on it is just like Biscuit, and Harriet loves Biscuit.\" Bà Harriet quý Biscuit, nên cái áo có hình giống Biscuit chắc sẽ làm bà vui. Bài không nói bà Harriet nuôi chó: Biscuit là chó nhà Carter. Cái áo giá 12 đô, còn hai đô là tiền trong túi Tina. \"too tight\" là cái size nhỏ Tracy mặc thử, nên không mua."
+    },
+    {
+      "id": "q_u09_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "What size do they buy?",
+        "vi": "Họ mua áo size nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "large",
+            "vi": "lớn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "large",
+          "text_translation": "lớn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "small",
+            "vi": "nhỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "small",
+          "text_translation": "nhỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "medium",
+            "vi": "vừa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "medium",
+          "text_translation": "vừa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina's size",
+            "vi": "size của Tina"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina's size",
+          "text_translation": "size của Tina"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Tracy mặc thử size nhỏ và kêu \"No, it's too tight!\" Rachel đưa size khác: \"Here is a large one.\", rồi Tracy nói \"Great!\" và trả tiền. Bài 1 không nhắc size vừa (medium). Bạn nói bà Harriet cùng size với Tracy, không phải với Tina."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "too tight = chật quá, nên không mua. Câu hỏi về món đồ được mua: xem món nào người nói đồng ý (Great!, OK) rồi trả tiền."
+      },
+      "question_jp": "What size do they buy?",
+      "question_vn": "Họ mua áo size nào?",
+      "explanation": "Tracy mặc thử size nhỏ và kêu \"No, it's too tight!\" Rachel đưa size khác: \"Here is a large one.\", rồi Tracy nói \"Great!\" và trả tiền. Bài 1 không nhắc size vừa (medium). Bạn nói bà Harriet cùng size với Tracy, không phải với Tina.",
+      "tip": "too tight = chật quá, nên không mua. Câu hỏi về món đồ được mua: xem món nào người nói đồng ý (Great!, OK) rồi trả tiền."
+    },
+    {
+      "id": "q_u09_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "How much do they pay for the T-shirt?",
+        "vi": "Họ trả bao nhiêu tiền cho cái áo phông?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$18",
+            "vi": "18 đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "$18",
+          "text_translation": "18 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$2",
+            "vi": "2 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$2",
+          "text_translation": "2 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$12",
+            "vi": "12 đô"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "$12",
+          "text_translation": "12 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$8",
+            "vi": "8 đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "$8",
+          "text_translation": "8 đô"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"It's eighteen dollars, but it's on sale today, so it's only twelve.\" 18 đô là giá cũ, trước khi giảm. 2 đô là tiền Tina có trong túi, nhưng Tracy bảo Tina cất đi. 8 đô là giá diều và búp bê ở Bài đọc 2."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "on sale = đang giảm giá. Gặp but … on sale thì giá đúng là con số đứng SAU, không phải giá đầu tiên."
+      },
+      "question_jp": "How much do they pay for the T-shirt?",
+      "question_vn": "Họ trả bao nhiêu tiền cho cái áo phông?",
+      "explanation": "\"It's eighteen dollars, but it's on sale today, so it's only twelve.\" 18 đô là giá cũ, trước khi giảm. 2 đô là tiền Tina có trong túi, nhưng Tracy bảo Tina cất đi. 8 đô là giá diều và búp bê ở Bài đọc 2.",
+      "tip": "on sale = đang giảm giá. Gặp but … on sale thì giá đúng là con số đứng SAU, không phải giá đầu tiên."
+    },
+    {
+      "id": "q_u09_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "Who pays for the T-shirt?",
+        "vi": "Ai trả tiền cái áo phông?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina",
+          "text_translation": "Tina"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy",
+            "vi": "Tracy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Tracy",
+          "text_translation": "Tracy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "you",
+            "vi": "bạn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "you",
+          "text_translation": "bạn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Tracy hỏi \"Can I pay by credit card?\", rồi nói với Tina \"Keep your money, Tina. The idea is yours, and the money is mine!\" Vậy tiền là của Tracy. Tina có 2 đô nhưng không phải trả. Bạn chỉ nói về size. Bà Harriet là người được nhận quà."
+      },
+      "audio_data": null,
+      "question_jp": "Who pays for the T-shirt?",
+      "question_vn": "Ai trả tiền cái áo phông?",
+      "explanation": "Tracy hỏi \"Can I pay by credit card?\", rồi nói với Tina \"Keep your money, Tina. The idea is yours, and the money is mine!\" Vậy tiền là của Tracy. Tina có 2 đô nhưng không phải trả. Bạn chỉ nói về size. Bà Harriet là người được nhận quà."
+    },
+    {
+      "id": "q_u09_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "The shop is closed on ______.",
+        "vi": "Cửa hàng đóng cửa vào ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Monday",
+            "vi": "thứ Hai"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Monday",
+          "text_translation": "thứ Hai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Saturday",
+            "vi": "thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Saturday",
+          "text_translation": "thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Sunday",
+            "vi": "Chủ nhật"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Sunday",
+          "text_translation": "Chủ nhật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Friday",
+            "vi": "thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Friday",
+          "text_translation": "thứ Sáu"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Sunday: closed\". Thứ Hai và thứ Sáu cửa hàng mở từ 10 giờ sáng đến 7 giờ tối, thứ Bảy mở từ 9 giờ sáng đến 6 giờ chiều."
+      },
+      "audio_data": null,
+      "question_jp": "The shop is closed on ______.",
+      "question_vn": "Cửa hàng đóng cửa vào ______.",
+      "explanation": "\"Sunday: closed\". Thứ Hai và thứ Sáu cửa hàng mở từ 10 giờ sáng đến 7 giờ tối, thứ Bảy mở từ 9 giờ sáng đến 6 giờ chiều."
+    },
+    {
+      "id": "q_u09_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "What time does the shop open on Saturday?",
+        "vi": "Thứ Bảy cửa hàng mở cửa lúc mấy giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at 9 a.m.",
+            "vi": "lúc 9 giờ sáng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "at 9 a.m.",
+          "text_translation": "lúc 9 giờ sáng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at 10 a.m.",
+            "vi": "lúc 10 giờ sáng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at 10 a.m.",
+          "text_translation": "lúc 10 giờ sáng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at 6 p.m.",
+            "vi": "lúc 6 giờ chiều"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at 6 p.m.",
+          "text_translation": "lúc 6 giờ chiều"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at 7 p.m.",
+            "vi": "lúc 7 giờ tối"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at 7 p.m.",
+          "text_translation": "lúc 7 giờ tối"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Saturday: 9 a.m. to 6 p.m.\" 10 giờ sáng là giờ mở cửa từ thứ Hai đến thứ Sáu, 7 giờ tối là giờ đóng cửa những ngày đó, còn 6 giờ chiều là giờ đóng cửa thứ Bảy."
+      },
+      "audio_data": null,
+      "question_jp": "What time does the shop open on Saturday?",
+      "question_vn": "Thứ Bảy cửa hàng mở cửa lúc mấy giờ?",
+      "explanation": "\"Saturday: 9 a.m. to 6 p.m.\" 10 giờ sáng là giờ mở cửa từ thứ Hai đến thứ Sáu, 7 giờ tối là giờ đóng cửa những ngày đó, còn 6 giờ chiều là giờ đóng cửa thứ Bảy."
+    },
+    {
+      "id": "q_u09_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "How much is a pair of jeans this week?",
+        "vi": "Tuần này một chiếc quần jean giá bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$40",
+            "vi": "40 đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "$40",
+          "text_translation": "40 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$10",
+            "vi": "10 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$10",
+          "text_translation": "10 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$12",
+            "vi": "12 đô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "$12",
+          "text_translation": "12 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$30",
+            "vi": "30 đô"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "$30",
+          "text_translation": "30 đô"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Jeans: $40 a pair. This week, every pair is $10 off.\" Giá gốc 40 đô, được giảm 10 đô, nên tuần này còn 40 − 10 = 30 đô. 40 đô là giá trước khi giảm, 10 đô là số tiền được giảm, còn 12 đô là giá áo phông."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "$10 off = được bớt 10 đô. Giá phải trả = giá gốc trừ số tiền off. Đề hay đặt cả giá gốc lẫn số tiền giảm vào phương án để bẫy."
+      },
+      "question_jp": "How much is a pair of jeans this week?",
+      "question_vn": "Tuần này một chiếc quần jean giá bao nhiêu?",
+      "explanation": "\"Jeans: $40 a pair. This week, every pair is $10 off.\" Giá gốc 40 đô, được giảm 10 đô, nên tuần này còn 40 − 10 = 30 đô. 40 đô là giá trước khi giảm, 10 đô là số tiền được giảm, còn 12 đô là giá áo phông.",
+      "tip": "$10 off = được bớt 10 đô. Giá phải trả = giá gốc trừ số tiền off. Đề hay đặt cả giá gốc lẫn số tiền giảm vào phương án để bẫy."
+    },
+    {
+      "id": "q_u09_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "What do you get free with every gift?",
+        "vi": "Mua món quà nào cũng được tặng miễn phí cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a kite and a doll",
+            "vi": "một con diều và một con búp bê"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a kite and a doll",
+          "text_translation": "một con diều và một con búp bê"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a card and a ribbon",
+            "vi": "một tấm thiệp và một dải ruy băng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a card and a ribbon",
+          "text_translation": "một tấm thiệp và một dải ruy băng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a T-shirt",
+            "vi": "một cái áo phông"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a T-shirt",
+          "text_translation": "một cái áo phông"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$10",
+            "vi": "10 đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "$10",
+          "text_translation": "10 đô"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every gift comes with a free card and a free ribbon.\" Diều và búp bê bán 8 đô, áo phông bán 12 đô, nên không miễn phí. 10 đô là số tiền được giảm khi mua quần jean."
+      },
+      "audio_data": null,
+      "question_jp": "What do you get free with every gift?",
+      "question_vn": "Mua món quà nào cũng được tặng miễn phí cái gì?",
+      "explanation": "\"Every gift comes with a free card and a free ribbon.\" Diều và búp bê bán 8 đô, áo phông bán 12 đô, nên không miễn phí. 10 đô là số tiền được giảm khi mua quần jean."
+    },
+    {
+      "id": "q_u09_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "What is TRUE about Sunny Days Gift Shop?",
+        "vi": "Điều nào ĐÚNG về cửa hàng Sunny Days?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "You can only pay by credit card.",
+            "vi": "Chỉ được trả bằng thẻ tín dụng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "You can only pay by credit card.",
+          "text_translation": "Chỉ được trả bằng thẻ tín dụng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The shop is open every day.",
+            "vi": "Cửa hàng mở cửa tất cả các ngày."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The shop is open every day.",
+          "text_translation": "Cửa hàng mở cửa tất cả các ngày."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You can try on the clothes.",
+            "vi": "Bạn được mặc thử quần áo."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "You can try on the clothes.",
+          "text_translation": "Bạn được mặc thử quần áo."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The T-shirts are only in large.",
+            "vi": "Áo phông chỉ có size lớn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The T-shirts are only in large.",
+          "text_translation": "Áo phông chỉ có size lớn."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Can I try on the clothes before I buy them? Yes, you can!\" Bạn trả được bằng tiền mặt hoặc thẻ (\"with money or by credit card\"), không chỉ bằng thẻ. Cửa hàng không mở cửa mỗi ngày: \"Sunday: closed\". Áo phông có ba size: small, medium và large."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi TRUE / NOT TRUE: thử từng phương án với bài. Chữ only trong phương án hay là bẫy: kiểm xem bài có thật sự nói \"chỉ\" không."
+      },
+      "question_jp": "What is TRUE about Sunny Days Gift Shop?",
+      "question_vn": "Điều nào ĐÚNG về cửa hàng Sunny Days?",
+      "explanation": "\"Can I try on the clothes before I buy them? Yes, you can!\" Bạn trả được bằng tiền mặt hoặc thẻ (\"with money or by credit card\"), không chỉ bằng thẻ. Cửa hàng không mở cửa mỗi ngày: \"Sunday: closed\". Áo phông có ba size: small, medium và large.",
+      "tip": "Câu hỏi TRUE / NOT TRUE: thử từng phương án với bài. Chữ only trong phương án hay là bẫy: kiểm xem bài có thật sự nói \"chỉ\" không."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u09_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Mua quà cảm ơn bà Harriet",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u09_01",
+      "question_ids": [
+        "q_u09_001",
+        "q_u09_002",
+        "q_u09_003",
+        "q_u09_004",
+        "q_u09_005"
+      ]
+    },
+    {
+      "set_id": "set_u09_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Quảng cáo cửa hàng Sunny Days",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u09_02",
+      "question_ids": [
+        "q_u09_006",
+        "q_u09_007",
+        "q_u09_008",
+        "q_u09_009",
+        "q_u09_010"
+      ]
+    }
+  ]
+}
