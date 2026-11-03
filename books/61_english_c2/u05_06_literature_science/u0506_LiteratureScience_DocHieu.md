@@ -84,7 +84,7 @@
 >
 > We ended, as most readers do, with the famous last line: "So we beat on, boats against the current, borne back ceaselessly into the past." Several of us found it lyrical and moving; Nathan found it beautiful but suspicious, "the kind of sentence you write when you want the reader to stop asking questions".
 >
-> A final irony that delighted the group: the book sold disappointingly when it first appeared, and Fitzgerald died in 1940 believing that it had failed. Only afterwards did it become one of the most widely read novels in America. Gatsby could not repeat the past; his author never saw the future.
+> A final irony that delighted the group: the book sold disappointingly when it first appeared, and Fitzgerald died in 1940 convinced, by most accounts, that it had failed. Only afterwards did it become one of the most widely read novels in America. Gatsby could not repeat the past; his author never saw the future.
 >
 > Next month: something lighter, as several members requested in writing.
 
@@ -106,7 +106,7 @@
 | 12 | "I have spent this year arguing that you cannot get back the old version of anything," she said, "so I am bound to find him tragic rather than foolish." | "Cả năm nay tôi toàn tranh luận rằng ta không thể lấy lại phiên bản cũ của bất cứ thứ gì," bà nói, "nên tôi hẳn phải thấy ông ta bi kịch chứ không phải ngốc nghếch." |
 | 13 | Ethan, who had spent much of the evening quietly defending Gatsby, added that a man who stands alone at the end of his dock every night, staring at a light, is less a villain than a portrait of loneliness. | Ethan, người suốt buổi tối lặng lẽ bênh Gatsby, nói thêm rằng một người đàn ông đêm nào cũng đứng một mình ở cuối cầu tàu nhìn một ngọn đèn thì không hẳn là kẻ xấu mà là một bức chân dung của nỗi cô đơn. |
 | 14 | We ended, as most readers do, with the famous last line: "So we beat on, boats against the current, borne back ceaselessly into the past." Several of us found it lyrical and moving; Nathan found it beautiful but suspicious, "the kind of sentence you write when you want the reader to stop asking questions". | Chúng tôi kết thúc, như phần lớn người đọc, bằng câu cuối nổi tiếng: "Và thế là ta cứ chèo tiếp, những con thuyền ngược dòng, không ngừng bị đẩy lùi về quá khứ." Vài người trong chúng tôi thấy nó trữ tình và cảm động; Nathan thấy nó đẹp nhưng đáng ngờ, "kiểu câu người ta viết khi muốn người đọc thôi đặt câu hỏi". |
-| 15 | A final irony that delighted the group: the book sold disappointingly when it first appeared, and Fitzgerald died in 1940 believing that it had failed. Only afterwards did it become one of the most widely read novels in America. Gatsby could not repeat the past; his author never saw the future. | Một điều trớ trêu cuối cùng khiến cả nhóm thích thú: lúc mới ra, cuốn sách bán kém đáng thất vọng, và Fitzgerald qua đời năm 1940 trong niềm tin rằng nó đã thất bại. Chỉ sau đó nó mới trở thành một trong những cuốn tiểu thuyết được đọc nhiều nhất ở Mỹ. Gatsby không lặp lại được quá khứ; còn tác giả của ông chẳng bao giờ thấy được tương lai. |
+| 15 | A final irony that delighted the group: the book sold disappointingly when it first appeared, and Fitzgerald died in 1940 convinced, by most accounts, that it had failed. Only afterwards did it become one of the most widely read novels in America. Gatsby could not repeat the past; his author never saw the future. | Một điều trớ trêu cuối cùng khiến cả nhóm thích thú: lúc mới ra, cuốn sách bán kém đáng thất vọng, và theo phần lớn các nguồn, Fitzgerald qua đời năm 1940 trong niềm tin rằng nó đã thất bại. Chỉ sau đó nó mới trở thành một trong những cuốn tiểu thuyết được đọc nhiều nhất ở Mỹ. Gatsby không lặp lại được quá khứ; còn tác giả của ông chẳng bao giờ thấy được tương lai. |
 | 16 | Next month: something lighter, as several members requested in writing. | Tháng sau: một cuốn nhẹ nhàng hơn, theo yêu cầu bằng văn bản của vài thành viên. |
 
 ### Câu hỏi
@@ -125,7 +125,7 @@
 - A. The novel has no plot. *(Tiểu thuyết không có cốt truyện.)*
 - B. The members went to many parties. *(Các thành viên đi dự nhiều tiệc.)*
 - C. The parties are the most important part of the story. *(Các bữa tiệc là phần quan trọng nhất của truyện.)*
-- D. The book's vivid surface is more memorable than its deeper story, which is why rereading was useful. *(Bề mặt sống động của cuốn sách dễ nhớ hơn câu chuyện sâu bên dưới, nên đọc lại là có ích.)*
+- D. The book's vivid surface is more memorable than its deeper story. *(Bề mặt sống động của cuốn sách dễ nhớ hơn câu chuyện sâu bên dưới.)*
 
 **3. Why does Gatsby throw his parties?**
 *(Vì sao Gatsby mở tiệc?)*
@@ -189,7 +189,7 @@
 - A. The club is closing. *(Câu lạc bộ sắp giải tán.)*
 - B. Lydia disliked the novel. *(Lydia ghét cuốn sách.)*
 - C. Nobody came to the meeting. *(Không ai tới buổi họp.)*
-- D. Some members found the novel heavy and asked, half seriously, for an easier book next time. *(Một số thành viên thấy cuốn sách nặng nề và nửa đùa nửa thật xin cuốn dễ hơn cho lần sau.)*
+- D. Some members would like a more cheerful book next time and asked for it, half seriously. *(Một số thành viên muốn lần sau đọc cuốn vui hơn và nửa đùa nửa thật đã đề nghị như vậy.)*
 
 ---
 
@@ -329,14 +329,14 @@
 | Câu | Đáp án | Giải thích |
 |---|---|---|
 | 1 | **C** | Câu 3: "partly because it is short and partly because, since 2021, it has been free for anyone to read, having entered the public domain". |
-| 2 | **D** | Câu 3: Câu hàm ý, giọng hài. Ấn tượng bề ngoài (tiệc tùng) ở lại, còn cốt truyện bị quên; câu này giải thích vì sao cả nhóm cần đọc lại. |
+| 2 | **D** | Câu 3: Câu hàm ý, giọng hài. Ấn tượng bề ngoài (tiệc tùng) ở lại, còn cốt truyện bị quên. |
 | 3 | **A** | Câu 4: "in the hope that Daisy, the woman he loved five years earlier, will one day walk through the door." |
 | 4 | **C** | Câu 9: Câu suy luận. "anyone who announces his own honesty is usually about to lie" là một nhận xét đời thường dí dỏm áp vào Nick. |
 | 5 | **B** | Câu 9–10: "Nick judges everyone constantly, and the person he judges least is Gatsby" và "the narrator who promises not to judge is, in fact, the novel's harshest judge". |
 | 6 | **A** | Câu 11: "less a story about one man than a parable about believing that you can rebuild your life exactly as it was." |
 | 7 | **D** | Câu 12: Câu suy luận liên chương. Bà vừa viết bài về quán (con tàu Theseus): "you cannot get back the old version of anything", nên bà thấy Gatsby đáng thương. |
 | 8 | **C** | Câu 14: "Nathan found it beautiful but suspicious", "the kind of sentence you write when you want the reader to stop asking questions". |
-| 9 | **A** | Câu 15: "Fitzgerald died in 1940 believing that it had failed. Only afterwards did it become one of the most widely read novels in America." |
+| 9 | **A** | Câu 15: "Fitzgerald died in 1940 convinced, by most accounts, that it had failed. Only afterwards did it become one of the most widely read novels in America." |
 | 10 | **D** | Câu 16: Câu hỏi giọng điệu. "as several members requested in writing" là chi tiết dí dỏm: có người đã yêu cầu hẳn bằng văn bản. |
 | 11 | **B** | Câu 3: "Several readers asked me afterwards how often this happens." |
 | 12 | **A** | Câu 4: "They had tried to repeat one hundred psychology studies" và "following the original methodology as closely as possible." |
