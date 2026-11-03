@@ -60,7 +60,7 @@ IRREG = {
     "twelfth": "twelve", "twentieth": "twenty", "thirtieth": "thirty",
     "won't": "will", "what's": "what", "where's": "where", "who's": "who", "here's": "here",
     "there's": "there", "haven't": "have", "hasn't": "have", "you've": "you", "we've": "we",
-    "they've": "they", "i'll": "i", "you'll": "you", "o'clock": "o'clock",
+    "they've": "they", "i'll": "i", "you'll": "you", "we'll": "we", "they'll": "they", "he'll": "he", "she'll": "she", "it'll": "it", "we'd": "we", "i'd": "i", "you'd": "you", "they'd": "they", "o'clock": "o'clock",
 }
 PAST_IRR = {k for k, v in IRREG.items() if k in (
     "went saw did had came got made took gave ate wrote bought thought told said left felt met ran sat stood "

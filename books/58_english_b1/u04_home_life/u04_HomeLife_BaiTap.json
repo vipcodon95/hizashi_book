@@ -1,0 +1,2130 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 4 — Home life",
+      "vi": "Cuộc sống gia đình"
+    },
+    "title": "Unit 4 — Home life",
+    "title_vn": "Cuộc sống gia đình",
+    "module_code": "58_u04",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u04",
+    "curriculum_sheets": [
+      "b1.013",
+      "b1.014",
+      "b1.015",
+      "b1.016"
+    ],
+    "characters": [
+      "Megan Carter",
+      "Tracy Carter",
+      "Trevor Carter",
+      "Mitchell Carter",
+      "Leah Carter",
+      "Tina Carter",
+      "Biscuit",
+      "Harriet Brooks",
+      "Nathan Brooks",
+      "Helena Brooks",
+      "Amy Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "giữa tháng 10, năm 4 (bài 1: email Megan viết thứ Tư 15/10 cho Tracy ở Washington; ống nước rò tối thứ Hai 13/10, thợ tới sáng thứ Ba 14/10; lịch năm 4 theo mẫu năm 2025; Trevor 14 tuổi đang dùng phòng cũ của Tracy; bài 2: bài báo về gia đình nhiều thế hệ, lấy nhà Brooks ở số 15 làm ví dụ)"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "have / get something done, câu mệnh lệnh + and / or + kết quả, câu hỏi đáp lại, hoà hợp chủ ngữ với as well as, look over / put in / put up with; mục đích, ý chính, chi tiết, từ trong ngữ cảnh, quy chiếu, NOT, thái độ người viết, 4 câu suy luận",
+    "description_vn": "Email Megan gửi Tracy kể vụ ống nước dưới bồn rửa phòng tắm trên lầu bị rò làm ướt thảm phòng Trevor (phòng cũ của Tracy): Mitchell tự sửa làm hỏng thêm, thợ Vince Ortiz tới thay ống, phải làm khẽ vì Leah ngủ sau ca đêm, Biscuit giấu găng tay của thợ; nhà đang cho giặt thảm và tháng sau kiểm tra mái nhà. Bài 2: bài báo về gia đình nhiều thế hệ sống chung (số liệu Pew Research), lợi ích, khó khăn và mẹo, lấy nhà Brooks làm ví dụ. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 4 khoá B1 · phiếu `b1.013` – `b1.016` (sửa chữa trong nhà, việc nhà và chia việc, cải tạo nhà cửa, sống chung với người khác)."
+    },
+    "objective_i18n": {
+      "vi": "đọc email Megan kể cho Tracy chuyện ống nước bị rò ở nhà Carter, và bài báo về gia đình nhiều thế hệ sống chung một nhà; hiểu cấu trúc have / get something done (we had the whole thing looked over, we're getting the carpet cleaned, had a handrail put in), câu mệnh lệnh + and / or + kết quả, câu hỏi đáp lại (Is it? Would you?), hoà hợp chủ ngữ với as well as, cụm động từ look over, put in, put up with; tìm chi tiết, nắm ý chính và mục đích, đoán nghĩa từ, hiểu đại từ chỉ gì, câu NOT, thái độ người viết và 4 câu suy luận."
+    },
+    "extra_words": [
+      {
+        "word": "plumber",
+        "i18n": {
+          "vi": "thợ sửa ống nước"
+        }
+      },
+      {
+        "word": "leak",
+        "i18n": {
+          "vi": "rò, rỉ (nước)"
+        }
+      },
+      {
+        "word": "sink",
+        "i18n": {
+          "vi": "bồn rửa"
+        }
+      },
+      {
+        "word": "shift",
+        "i18n": {
+          "vi": "ca làm việc"
+        }
+      },
+      {
+        "word": "handrail",
+        "i18n": {
+          "vi": "tay vịn (cầu thang)"
+        }
+      },
+      {
+        "word": "generation",
+        "i18n": {
+          "vi": "thế hệ"
+        }
+      },
+      {
+        "word": "glove",
+        "i18n": {
+          "vi": "găng tay"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "have something looked over",
+          "vi": "nhờ người kiểm tra kỹ cái gì"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get the carpet cleaned",
+          "vi": "cho người giặt thảm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Don't bang anything, or you'll…",
+          "vi": "Đừng gõ đập gì mạnh, không thì…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Keep your room tidy and I'll think about it.",
+          "vi": "Giữ phòng gọn đi rồi mẹ sẽ suy nghĩ."
+        }
+      },
+      {
+        "i18n": {
+          "en": "share the housework evenly",
+          "vi": "chia việc nhà cho đều"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put up with small things",
+          "vi": "chịu đựng những chuyện nhỏ"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**have / get + vật + V3**: người nói không tự làm mà nhờ hoặc thuê người khác. `we had the whole thing looked over by a plumber` = thợ kiểm tra, không phải nhà Carter. Khi câu hỏi hỏi ai làm việc gì, đừng nhầm người nhờ với người làm."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Câu mệnh lệnh + and / or**: `… and you'll save a lot of money` = làm thì được lợi; `… or you'll wake up a very tired doctor` = không làm thì gặp hậu quả. Phần sau and / or thường là đáp án cho câu hỏi Why hoặc câu hỏi về lời khuyên."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Câu hỏi đáp lại** (Is it? Would you? Did he?) chỉ để tỏ ra đang nghe, không phải câu hỏi thật. Ý thật của người nói nằm ở câu ngay sau đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**A, as well as B, + động từ số ít**: `Amy, as well as her grandmother, uses it` — động từ theo A, nhưng về nghĩa cả hai người cùng làm."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài báo có nhiều con số (18 percent, more than half, a quarter): ghi chú mỗi số đi với thông tin gì. Phương án nhiễu hay ghép đúng số với sai thông tin."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u04_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Email của Megan kể cho Tracy vụ vỡ ống nước"
+      },
+      "narrator": "Megan",
+      "title": "The Great Bathroom Flood",
+      "category": "email",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: The Great Bathroom Flood",
+            "vi": "Tiêu đề: Trận lụt phòng tắm vĩ đại"
+          }
+        },
+        {
+          "n": 2,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Wednesday, October 15",
+            "vi": "Thứ Tư, ngày 15 tháng 10"
+          }
+        },
+        {
+          "n": 3,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi Tracy,",
+            "vi": "Tracy thân yêu,"
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You wanted news, so here it is: on Monday night, a pipe under the upstairs bathroom sink started leaking.",
+            "vi": "Con muốn nghe tin ở nhà, thì đây: tối thứ Hai, một ống nước dưới bồn rửa ở phòng tắm trên lầu bắt đầu rò."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By the time Trevor noticed, the carpet in his room (your old room) was wet.",
+            "vi": "Tới lúc Trevor phát hiện ra thì tấm thảm trong phòng em ấy (phòng cũ của con đấy) đã ướt sũng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I told him, \"The pipe is leaking,\" he said, \"Is it? I thought Biscuit knocked over his water bowl again!\"",
+            "vi": "Khi mẹ bảo em: \"Ống nước bị rò rồi\", em nói: \"Thế ạ? Con cứ tưởng Biscuit lại làm đổ bát nước của nó!\""
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your dad tried to tighten the pipe himself, but that only made it worse.",
+            "vi": "Bố con thử tự vặn chặt cái ống, nhưng làm vậy chỉ khiến nó tệ hơn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So on Tuesday morning, we had the whole thing looked over by a plumber named Vince Ortiz.",
+            "vi": "Vậy là sáng thứ Ba, nhà mình nhờ một thợ sửa ống nước tên là Vince Ortiz kiểm tra toàn bộ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leah was asleep downstairs after a night shift, so I told Vince, \"Don't bang anything, or you'll wake a very tired doctor.\"",
+            "vi": "Leah đang ngủ ở tầng dưới sau một ca đêm, nên mẹ dặn Vince: \"Anh đừng gõ đập gì mạnh nhé, không thì anh sẽ đánh thức một bác sĩ đang rất mệt đấy.\""
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He was kind and even whispered, but there were still a few loud thumps when he moved the cupboard.",
+            "vi": "Anh ấy rất dễ chịu, còn nói thầm nữa, nhưng vẫn có vài tiếng thình thịch to khi anh ấy dời cái tủ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Biscuit, of course, made everything harder: he stole one of Vince's gloves and hid it under Trevor's bed.",
+            "vi": "Biscuit thì tất nhiên làm mọi chuyện rắc rối thêm: nó lấy trộm một chiếc găng tay của Vince và giấu dưới gầm giường của Trevor."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Vince found it next to three of Trevor's socks and laughed, \"Every house has a helper like this.\"",
+            "vi": "Vince tìm thấy nó nằm cạnh ba chiếc tất của Trevor và chỉ cười: \"Nhà nào cũng có một trợ thủ như thế này.\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The old pipe was bent, so he took it out and put in a new one.",
+            "vi": "Cái ống cũ đã bị cong, nên anh ấy tháo nó ra và lắp một cái mới."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He also checked the other pipes and gave us some advice: \"Have them looked at once a year and you'll save money.\"",
+            "vi": "Anh ấy còn kiểm tra các ống khác và cho nhà mình một lời khuyên: \"Mỗi năm nhờ người xem chúng một lần, rồi chị sẽ tiết kiệm được tiền.\""
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now we're getting the carpet cleaned, and next month we're having the roof checked before the winter rain.",
+            "vi": "Giờ nhà mình đang cho người giặt tấm thảm, và tháng sau sẽ nhờ người kiểm tra mái nhà trước mùa mưa đông."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor told me, \"I'd love a new carpet with a football field on it!\"",
+            "vi": "Trevor bảo mẹ: \"Con thích một tấm thảm mới có hình sân bóng lắm!\""
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I said, \"Would you? Keep your room tidy for a month and I'll think about it.\"",
+            "vi": "Mẹ nói: \"Thế à? Giữ phòng gọn gàng trong một tháng đi rồi mẹ sẽ suy nghĩ.\""
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Call on Sunday, and Tina will tell you the whole story again, with more drama.",
+            "vi": "Chủ nhật con gọi về nhé, rồi Tina sẽ kể lại cho con nghe cả câu chuyện, kịch tính hơn nữa."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Love, Mom",
+            "vi": "Thương con, Mẹ"
+          }
+        }
+      ],
+      "content_ja": "Subject: The Great Bathroom Flood\n\nWednesday, October 15\n\nHi Tracy,\n\nYou wanted news, so here it is: on Monday night, a pipe under the upstairs bathroom sink started leaking. By the time Trevor noticed, the carpet in his room (your old room) was wet. When I told him, \"The pipe is leaking,\" he said, \"Is it? I thought Biscuit knocked over his water bowl again!\"\n\nYour dad tried to tighten the pipe himself, but that only made it worse. So on Tuesday morning, we had the whole thing looked over by a plumber named Vince Ortiz. Leah was asleep downstairs after a night shift, so I told Vince, \"Don't bang anything, or you'll wake a very tired doctor.\" He was kind and even whispered, but there were still a few loud thumps when he moved the cupboard.\n\nBiscuit, of course, made everything harder: he stole one of Vince's gloves and hid it under Trevor's bed. Vince found it next to three of Trevor's socks and laughed, \"Every house has a helper like this.\"\n\nThe old pipe was bent, so he took it out and put in a new one. He also checked the other pipes and gave us some advice: \"Have them looked at once a year and you'll save money.\" Now we're getting the carpet cleaned, and next month we're having the roof checked before the winter rain.\n\nTrevor told me, \"I'd love a new carpet with a football field on it!\" I said, \"Would you? Keep your room tidy for a month and I'll think about it.\" Call on Sunday, and Tina will tell you the whole story again, with more drama.\n\nLove, Mom",
+      "translation_vn": "(1) Tiêu đề: Trận lụt phòng tắm vĩ đại\n(2) Thứ Tư, ngày 15 tháng 10\n(3) Tracy thân yêu,\n(4) Con muốn nghe tin ở nhà, thì đây: tối thứ Hai, một ống nước dưới bồn rửa ở phòng tắm trên lầu bắt đầu rò.\n(5) Tới lúc Trevor phát hiện ra thì tấm thảm trong phòng em ấy (phòng cũ của con đấy) đã ướt sũng.\n(6) Khi mẹ bảo em: \"Ống nước bị rò rồi\", em nói: \"Thế ạ? Con cứ tưởng Biscuit lại làm đổ bát nước của nó!\"\n(7) Bố con thử tự vặn chặt cái ống, nhưng làm vậy chỉ khiến nó tệ hơn.\n(8) Vậy là sáng thứ Ba, nhà mình nhờ một thợ sửa ống nước tên là Vince Ortiz kiểm tra toàn bộ.\n(9) Leah đang ngủ ở tầng dưới sau một ca đêm, nên mẹ dặn Vince: \"Anh đừng gõ đập gì mạnh nhé, không thì anh sẽ đánh thức một bác sĩ đang rất mệt đấy.\"\n(10) Anh ấy rất dễ chịu, còn nói thầm nữa, nhưng vẫn có vài tiếng thình thịch to khi anh ấy dời cái tủ.\n(11) Biscuit thì tất nhiên làm mọi chuyện rắc rối thêm: nó lấy trộm một chiếc găng tay của Vince và giấu dưới gầm giường của Trevor.\n(12) Vince tìm thấy nó nằm cạnh ba chiếc tất của Trevor và chỉ cười: \"Nhà nào cũng có một trợ thủ như thế này.\"\n(13) Cái ống cũ đã bị cong, nên anh ấy tháo nó ra và lắp một cái mới.\n(14) Anh ấy còn kiểm tra các ống khác và cho nhà mình một lời khuyên: \"Mỗi năm nhờ người xem chúng một lần, rồi chị sẽ tiết kiệm được tiền.\"\n(15) Giờ nhà mình đang cho người giặt tấm thảm, và tháng sau sẽ nhờ người kiểm tra mái nhà trước mùa mưa đông.\n(16) Trevor bảo mẹ: \"Con thích một tấm thảm mới có hình sân bóng lắm!\"\n(17) Mẹ nói: \"Thế à? Giữ phòng gọn gàng trong một tháng đi rồi mẹ sẽ suy nghĩ.\"\n(18) Chủ nhật con gọi về nhé, rồi Tina sẽ kể lại cho con nghe cả câu chuyện, kịch tính hơn nữa.\n(19) Thương con, Mẹ",
+      "word_count": 275,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016"
+      ]
+    },
+    {
+      "id": "passage_u04_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài báo về gia đình nhiều thế hệ sống chung một nhà"
+      },
+      "narrator": "announcer",
+      "title": "Three Generations, One Roof",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Three Generations, One Roof",
+            "vi": "Ba thế hệ, một mái nhà"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the United States, more and more grandparents, parents and children share one home: the Pew Research Center found about 18 percent of Americans lived in a home with several generations in 2021, four times as many people as in 1971.",
+            "vi": "Ở Mỹ, ngày càng nhiều ông bà, cha mẹ và con cái sống chung một nhà: Trung tâm Nghiên cứu Pew cho biết năm 2021 có khoảng 18 phần trăm người Mỹ sống trong một ngôi nhà có nhiều thế hệ, đông gấp bốn lần số người như vậy vào năm 1971."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Money is the most common reason, but caring for an older parent or a young child also matters.",
+            "vi": "Tiền bạc là lý do phổ biến nhất, nhưng việc chăm sóc cha mẹ già hay con nhỏ cũng quan trọng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why it works",
+            "vi": "Vì sao cách sống này hiệu quả"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At 15 Maple Street, Harriet Brooks, 71, lives with her son Nathan, his wife Helena and their seven-year-old daughter Amy.",
+            "vi": "Ở nhà số 15 phố Maple, bà Harriet Brooks, 71 tuổi, sống cùng con trai Nathan, con dâu Helena và cô cháu gái Amy bảy tuổi."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet still runs her café, and in the evenings she reads to Amy while Nathan and Helena finish work.",
+            "vi": "Bà Harriet vẫn tự điều hành quán cà phê của mình, và buổi tối bà đọc truyện cho Amy nghe trong lúc Nathan và Helena làm nốt việc."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"People think I live with my son's family,\" she laughs. \"Actually, they live with me!\"",
+            "vi": "\"Người ta cứ nghĩ tôi sống với gia đình con trai,\" bà cười. \"Thật ra là chúng nó sống với tôi đấy!\""
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Families like the Brooks share bills, cooking and housework, and children grow up close to their grandparents.",
+            "vi": "Những gia đình như nhà Brooks cùng chia tiền hoá đơn, việc nấu ăn và việc nhà, còn bọn trẻ lớn lên gần gũi với ông bà."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In a Pew survey, more than half of adults in these homes said living together was usually convenient.",
+            "vi": "Trong một cuộc khảo sát của Pew, hơn một nửa số người lớn trong những ngôi nhà này nói rằng sống chung thường là tiện lợi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What can go wrong",
+            "vi": "Những gì có thể trục trặc"
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Still, about a quarter said it was usually stressful.",
+            "vi": "Dù vậy, khoảng một phần tư nói rằng sống chung thường căng thẳng."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One person wants loud music while another wants to sleep, storage space disappears, and a small mess can turn into a big argument.",
+            "vi": "Người này muốn bật nhạc to trong khi người kia muốn ngủ, chỗ cất đồ biến mất, và một chút bừa bộn cũng có thể thành một trận cãi nhau to."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"We all had different ideas about an orderly kitchen,\" Helena admits.",
+            "vi": "\"Mỗi người chúng tôi có một ý riêng về thế nào là một căn bếp ngăn nắp,\" Helena thừa nhận."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tips for sharing a home",
+            "vi": "Mẹo để sống chung một nhà"
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Talk about money early, and decide together who pays for what.",
+            "vi": "Hãy nói chuyện tiền bạc từ sớm, và cùng nhau quyết định ai trả khoản nào."
+          }
+        },
+        {
+          "n": 16,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Share the housework evenly, or one person will end up doing everything.",
+            "vi": "Hãy chia việc nhà cho đều, không thì rốt cuộc một người sẽ phải làm hết mọi thứ."
+          }
+        },
+        {
+          "n": 17,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Change the house to fit the people in it: the Brooks family had a handrail put in on the stairs, and Amy, as well as her grandmother, uses it every day.",
+            "vi": "Hãy thay đổi ngôi nhà cho hợp với những người sống trong đó: nhà Brooks đã thuê người lắp tay vịn ở cầu thang, và Amy cũng như bà nội ngày nào cũng dùng nó."
+          }
+        },
+        {
+          "n": 18,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As Nathan says, \"You learn to put up with small things, and you get a lot back.\"",
+            "vi": "Như Nathan nói: \"Mình học cách chịu đựng những chuyện nhỏ, và mình nhận lại được rất nhiều.\""
+          }
+        }
+      ],
+      "content_ja": "Three Generations, One Roof\n\nIn the United States, more and more grandparents, parents and children share one home: the Pew Research Center found about 18 percent of Americans lived in a home with several generations in 2021, four times as many people as in 1971. Money is the most common reason, but caring for an older parent or a young child also matters.\n\nWhy it works\n\nAt 15 Maple Street, Harriet Brooks, 71, lives with her son Nathan, his wife Helena and their seven-year-old daughter Amy. Harriet still runs her café, and in the evenings she reads to Amy while Nathan and Helena finish work. \"People think I live with my son's family,\" she laughs. \"Actually, they live with me!\" Families like the Brooks share bills, cooking and housework, and children grow up close to their grandparents. In a Pew survey, more than half of adults in these homes said living together was usually convenient.\n\nWhat can go wrong\n\nStill, about a quarter said it was usually stressful. One person wants loud music while another wants to sleep, storage space disappears, and a small mess can turn into a big argument. \"We all had different ideas about an orderly kitchen,\" Helena admits.\n\nTips for sharing a home\n\nTalk about money early, and decide together who pays for what. Share the housework evenly, or one person will end up doing everything. Change the house to fit the people in it: the Brooks family had a handrail put in on the stairs, and Amy, as well as her grandmother, uses it every day. As Nathan says, \"You learn to put up with small things, and you get a lot back.\"",
+      "translation_vn": "(1) Ba thế hệ, một mái nhà\n(2) Ở Mỹ, ngày càng nhiều ông bà, cha mẹ và con cái sống chung một nhà: Trung tâm Nghiên cứu Pew cho biết năm 2021 có khoảng 18 phần trăm người Mỹ sống trong một ngôi nhà có nhiều thế hệ, đông gấp bốn lần số người như vậy vào năm 1971.\n(3) Tiền bạc là lý do phổ biến nhất, nhưng việc chăm sóc cha mẹ già hay con nhỏ cũng quan trọng.\n(4) Vì sao cách sống này hiệu quả\n(5) Ở nhà số 15 phố Maple, bà Harriet Brooks, 71 tuổi, sống cùng con trai Nathan, con dâu Helena và cô cháu gái Amy bảy tuổi.\n(6) Bà Harriet vẫn tự điều hành quán cà phê của mình, và buổi tối bà đọc truyện cho Amy nghe trong lúc Nathan và Helena làm nốt việc.\n(7) \"Người ta cứ nghĩ tôi sống với gia đình con trai,\" bà cười. \"Thật ra là chúng nó sống với tôi đấy!\"\n(8) Những gia đình như nhà Brooks cùng chia tiền hoá đơn, việc nấu ăn và việc nhà, còn bọn trẻ lớn lên gần gũi với ông bà.\n(9) Trong một cuộc khảo sát của Pew, hơn một nửa số người lớn trong những ngôi nhà này nói rằng sống chung thường là tiện lợi.\n(10) Những gì có thể trục trặc\n(11) Dù vậy, khoảng một phần tư nói rằng sống chung thường căng thẳng.\n(12) Người này muốn bật nhạc to trong khi người kia muốn ngủ, chỗ cất đồ biến mất, và một chút bừa bộn cũng có thể thành một trận cãi nhau to.\n(13) \"Mỗi người chúng tôi có một ý riêng về thế nào là một căn bếp ngăn nắp,\" Helena thừa nhận.\n(14) Mẹo để sống chung một nhà\n(15) Hãy nói chuyện tiền bạc từ sớm, và cùng nhau quyết định ai trả khoản nào.\n(16) Hãy chia việc nhà cho đều, không thì rốt cuộc một người sẽ phải làm hết mọi thứ.\n(17) Hãy thay đổi ngôi nhà cho hợp với những người sống trong đó: nhà Brooks đã thuê người lắp tay vịn ở cầu thang, và Amy cũng như bà nội ngày nào cũng dùng nó.\n(18) Như Nathan nói: \"Mình học cách chịu đựng những chuyện nhỏ, và mình nhận lại được rất nhiều.\"",
+      "word_count": 275,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u04_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "What is the main purpose of Megan's email?",
+        "vi": "Mục đích chính của email Megan viết là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask Tracy to help pay for a new carpet",
+            "vi": "nhờ Tracy góp tiền mua thảm mới"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask Tracy to help pay for a new carpet",
+          "text_translation": "nhờ Tracy góp tiền mua thảm mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell Tracy, in a funny way, about a leaking pipe and the repairs at home",
+            "vi": "kể cho Tracy, một cách hài hước, về vụ rò ống nước và chuyện sửa chữa ở nhà"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to tell Tracy, in a funny way, about a leaking pipe and the repairs at home",
+          "text_translation": "kể cho Tracy, một cách hài hước, về vụ rò ống nước và chuyện sửa chữa ở nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain to the plumber about the noise he made",
+            "vi": "phàn nàn với người thợ về tiếng ồn anh ấy gây ra"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain to the plumber about the noise he made",
+          "text_translation": "phàn nàn với người thợ về tiếng ồn anh ấy gây ra"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell Tracy that Trevor's room is messy again",
+            "vi": "báo cho Tracy biết phòng của Trevor lại bừa bộn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell Tracy that Trevor's room is messy again",
+          "text_translation": "báo cho Tracy biết phòng của Trevor lại bừa bộn"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Megan mở đầu: \"You wanted news, so here it is\", rồi kể từ lúc ống nước rò tới lúc sửa xong, với nhiều chi tiết vui (Biscuit giấu găng tay, \"with more drama\"). Megan không nhờ Tracy trả tiền thảm. Bức thư gửi cho Tracy, không phải cho người thợ, và Megan còn khen anh \"very kind\". Chuyện phòng Trevor chỉ là một chi tiết nhỏ ở cuối thư."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi mục đích: đọc câu mở đầu (vì sao người viết viết thư) và cả giọng văn. Phương án chỉ đúng với một chi tiết nhỏ thì không phải mục đích chính."
+      },
+      "question_jp": "What is the main purpose of Megan's email?",
+      "question_vn": "Mục đích chính của email Megan viết là gì?",
+      "explanation": "Megan mở đầu: \"You wanted news, so here it is\", rồi kể từ lúc ống nước rò tới lúc sửa xong, với nhiều chi tiết vui (Biscuit giấu găng tay, \"with more drama\"). Megan không nhờ Tracy trả tiền thảm. Bức thư gửi cho Tracy, không phải cho người thợ, và Megan còn khen anh \"very kind\". Chuyện phòng Trevor chỉ là một chi tiết nhỏ ở cuối thư.",
+      "tip": "Câu hỏi mục đích: đọc câu mở đầu (vì sao người viết viết thư) và cả giọng văn. Phương án chỉ đúng với một chi tiết nhỏ thì không phải mục đích chính."
+    },
+    {
+      "id": "q_u04_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "Why did Megan ask Vince not to bang anything?",
+        "vi": "Vì sao Megan dặn Vince đừng gõ đập gì mạnh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Leah was sleeping downstairs after a night shift.",
+            "vi": "Leah đang ngủ ở tầng dưới sau ca đêm."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Leah was sleeping downstairs after a night shift.",
+          "text_translation": "Leah đang ngủ ở tầng dưới sau ca đêm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor was doing his homework in his room.",
+            "vi": "Trevor đang làm bài tập trong phòng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor was doing his homework in his room.",
+          "text_translation": "Trevor đang làm bài tập trong phòng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Biscuit is afraid of loud noises.",
+            "vi": "Biscuit sợ tiếng động lớn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Biscuit is afraid of loud noises.",
+          "text_translation": "Biscuit sợ tiếng động lớn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The pipe was old and could break easily.",
+            "vi": "Cái ống đã cũ và dễ vỡ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The pipe was old and could break easily.",
+          "text_translation": "Cái ống đã cũ và dễ vỡ."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Megan viết: \"Leah was asleep downstairs after a night shift, so I told Vince\" rồi dặn anh đừng gõ đập, \"or you'll wake a very tired doctor\". Người bác sĩ mệt mỏi đó chính là Leah. Bài không nói Trevor đang làm bài hay Biscuit sợ tiếng ồn. Cái ống cũ và cong (\"the old pipe was bent\") là chuyện khác, không phải lý do phải làm khẽ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Chữ so nối lý do và kết quả: câu đứng trước so là lý do. Cấu trúc câu mệnh lệnh + or (Don't bang anything, or you'll…) cho biết hậu quả nếu không làm theo."
+      },
+      "question_jp": "Why did Megan ask Vince not to bang anything?",
+      "question_vn": "Vì sao Megan dặn Vince đừng gõ đập gì mạnh?",
+      "explanation": "Megan viết: \"Leah was asleep downstairs after a night shift, so I told Vince\" rồi dặn anh đừng gõ đập, \"or you'll wake a very tired doctor\". Người bác sĩ mệt mỏi đó chính là Leah. Bài không nói Trevor đang làm bài hay Biscuit sợ tiếng ồn. Cái ống cũ và cong (\"the old pipe was bent\") là chuyện khác, không phải lý do phải làm khẽ.",
+      "tip": "Chữ so nối lý do và kết quả: câu đứng trước so là lý do. Cấu trúc câu mệnh lệnh + or (Don't bang anything, or you'll…) cho biết hậu quả nếu không làm theo."
+    },
+    {
+      "id": "q_u04_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "Where did Vince find his glove?",
+        "vi": "Vince tìm thấy chiếc găng tay của mình ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "under the bathroom sink",
+            "vi": "dưới bồn rửa trong phòng tắm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "under the bathroom sink",
+          "text_translation": "dưới bồn rửa trong phòng tắm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in Biscuit's water bowl",
+            "vi": "trong bát nước của Biscuit"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in Biscuit's water bowl",
+          "text_translation": "trong bát nước của Biscuit"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "behind the cupboard that he moved",
+            "vi": "sau cái tủ anh ấy đã dời"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "behind the cupboard that he moved",
+          "text_translation": "sau cái tủ anh ấy đã dời"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "under Trevor's bed, next to some socks",
+            "vi": "dưới gầm giường của Trevor, cạnh mấy chiếc tất"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "under Trevor's bed, next to some socks",
+          "text_translation": "dưới gầm giường của Trevor, cạnh mấy chiếc tất"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài viết: \"he stole one of Vince's gloves and hid it under Trevor's bed\", và \"Vince found it next to three of Trevor's socks\". Bồn rửa là nơi ống nước bị rò. Bát nước là thứ Trevor tưởng Biscuit làm đổ. Cái tủ là thứ Vince dời khi làm việc, không phải nơi giấu găng tay."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Where: tìm giới từ chỉ nơi chốn (under, next to, behind). Phương án nhiễu thường là những nơi khác có trong bài."
+      },
+      "question_jp": "Where did Vince find his glove?",
+      "question_vn": "Vince tìm thấy chiếc găng tay của mình ở đâu?",
+      "explanation": "Bài viết: \"he stole one of Vince's gloves and hid it under Trevor's bed\", và \"Vince found it next to three of Trevor's socks\". Bồn rửa là nơi ống nước bị rò. Bát nước là thứ Trevor tưởng Biscuit làm đổ. Cái tủ là thứ Vince dời khi làm việc, không phải nơi giấu găng tay.",
+      "tip": "Câu hỏi Where: tìm giới từ chỉ nơi chốn (under, next to, behind). Phương án nhiễu thường là những nơi khác có trong bài."
+    },
+    {
+      "id": "q_u04_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "In \"we had the whole thing looked over by a plumber\", what does \"looked over\" mean?",
+        "vi": "Trong câu \"we had the whole thing looked over by a plumber\", \"looked over\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "cleaned very quickly",
+            "vi": "lau chùi thật nhanh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "cleaned very quickly",
+          "text_translation": "lau chùi thật nhanh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "taken out of the house",
+            "vi": "mang ra khỏi nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "taken out of the house",
+          "text_translation": "mang ra khỏi nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "checked carefully to find problems",
+            "vi": "kiểm tra kỹ để tìm chỗ hỏng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "checked carefully to find problems",
+          "text_translation": "kiểm tra kỹ để tìm chỗ hỏng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "made bigger",
+            "vi": "làm to ra"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "made bigger",
+          "text_translation": "làm to ra"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"So on Tuesday morning, we had the whole thing looked over by a plumber named Vince Ortiz.\" Sau đó Vince tìm ra cái ống bị cong và \"also checked the other pipes\". Chữ also cho thấy trước đó anh ấy cũng đã kiểm tra. Look over = xem xét kỹ, kiểm tra. Việc giặt là việc làm với tấm thảm. Vince có tháo cái ống cũ ra (\"take it out\") nhưng đó là việc làm sau khi kiểm tra."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đoán nghĩa cụm động từ: xem người đó làm gì ngay sau đó. Chữ also (cũng) trong câu sau là manh mối cho câu trước."
+      },
+      "question_jp": "In \"we had the whole thing looked over by a plumber\", what does \"looked over\" mean?",
+      "question_vn": "Trong câu \"we had the whole thing looked over by a plumber\", \"looked over\" nghĩa là gì?",
+      "explanation": "Câu đầy đủ là \"So on Tuesday morning, we had the whole thing looked over by a plumber named Vince Ortiz.\" Sau đó Vince tìm ra cái ống bị cong và \"also checked the other pipes\". Chữ also cho thấy trước đó anh ấy cũng đã kiểm tra. Look over = xem xét kỹ, kiểm tra. Việc giặt là việc làm với tấm thảm. Vince có tháo cái ống cũ ra (\"take it out\") nhưng đó là việc làm sau khi kiểm tra.",
+      "tip": "Đoán nghĩa cụm động từ: xem người đó làm gì ngay sau đó. Chữ also (cũng) trong câu sau là manh mối cho câu trước."
+    },
+    {
+      "id": "q_u04_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "In \"he stole one of Vince's gloves and hid it under Trevor's bed\", what does \"it\" refer to?",
+        "vi": "Trong câu \"he stole one of Vince's gloves and hid it under Trevor's bed\", \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "one of Vince's gloves",
+            "vi": "một chiếc găng tay của Vince"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "one of Vince's gloves",
+          "text_translation": "một chiếc găng tay của Vince"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the old pipe",
+            "vi": "cái ống cũ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the old pipe",
+          "text_translation": "cái ống cũ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor's sock",
+            "vi": "chiếc tất của Trevor"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor's sock",
+          "text_translation": "chiếc tất của Trevor"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the water bowl",
+            "vi": "bát nước"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the water bowl",
+          "text_translation": "bát nước"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"it\" chỉ thứ Biscuit lấy trộm ở vế trước: \"one of Vince's gloves\". Câu sau xác nhận: \"Vince found it next to three of Trevor's socks\". Tất của Trevor nằm cạnh chiếc găng, không phải thứ bị giấu. Cái ống cũ và bát nước ở các câu khác."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Với it trong vế sau của câu có and, nhìn danh từ làm tân ngữ ở vế trước. Thay thử vào chỗ it xem câu có hợp lý không."
+      },
+      "question_jp": "In \"he stole one of Vince's gloves and hid it under Trevor's bed\", what does \"it\" refer to?",
+      "question_vn": "Trong câu \"he stole one of Vince's gloves and hid it under Trevor's bed\", \"it\" chỉ cái gì?",
+      "explanation": "\"it\" chỉ thứ Biscuit lấy trộm ở vế trước: \"one of Vince's gloves\". Câu sau xác nhận: \"Vince found it next to three of Trevor's socks\". Tất của Trevor nằm cạnh chiếc găng, không phải thứ bị giấu. Cái ống cũ và bát nước ở các câu khác.",
+      "tip": "Với it trong vế sau của câu có and, nhìn danh từ làm tân ngữ ở vế trước. Thay thử vào chỗ it xem câu có hợp lý không."
+    },
+    {
+      "id": "q_u04_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "Which of these is NOT a job that the Carters had done or are having done?",
+        "vi": "Việc nào dưới đây KHÔNG phải là việc nhà Carter đã nhờ người làm hoặc đang nhờ người làm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "putting in a new pipe",
+            "vi": "lắp ống nước mới"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "putting in a new pipe",
+          "text_translation": "lắp ống nước mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "cleaning the carpet",
+            "vi": "giặt tấm thảm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "cleaning the carpet",
+          "text_translation": "giặt tấm thảm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "checking the roof",
+            "vi": "kiểm tra mái nhà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "checking the roof",
+          "text_translation": "kiểm tra mái nhà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "putting in a carpet with a football field on it",
+            "vi": "lắp tấm thảm có hình sân bóng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "putting in a carpet with a football field on it",
+          "text_translation": "lắp tấm thảm có hình sân bóng"
+        }
+      ],
+      "evidence_segments": [
+        13,
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Ba việc có trong thư: \"he took it out and put in a new one\" (lắp ống mới), \"we're getting the carpet cleaned\" và \"we're having the roof checked\". Tấm thảm hình sân bóng chỉ là mong muốn của Trevor (\"I'd love a new carpet with a football field on it!\"), và Megan chưa đồng ý."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu NOT: đánh dấu từng phương án tìm thấy trong bài. Cẩn thận với điều nhân vật chỉ MUỐN (I'd love…) nhưng chưa xảy ra."
+      },
+      "question_jp": "Which of these is NOT a job that the Carters had done or are having done?",
+      "question_vn": "Việc nào dưới đây KHÔNG phải là việc nhà Carter đã nhờ người làm hoặc đang nhờ người làm?",
+      "explanation": "Ba việc có trong thư: \"he took it out and put in a new one\" (lắp ống mới), \"we're getting the carpet cleaned\" và \"we're having the roof checked\". Tấm thảm hình sân bóng chỉ là mong muốn của Trevor (\"I'd love a new carpet with a football field on it!\"), và Megan chưa đồng ý.",
+      "tip": "Câu NOT: đánh dấu từng phương án tìm thấy trong bài. Cẩn thận với điều nhân vật chỉ MUỐN (I'd love…) nhưng chưa xảy ra."
+    },
+    {
+      "id": "q_u04_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "What advice did Vince give the family?",
+        "vi": "Vince đã khuyên gia đình điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Get a new carpet before the winter rain.",
+            "vi": "Mua thảm mới trước mùa mưa đông."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Get a new carpet before the winter rain.",
+          "text_translation": "Mua thảm mới trước mùa mưa đông."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Have the pipes looked at once a year.",
+            "vi": "Mỗi năm nhờ người xem các ống nước một lần."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Have the pipes looked at once a year.",
+          "text_translation": "Mỗi năm nhờ người xem các ống nước một lần."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Keep the dog out of the bathroom.",
+            "vi": "Không cho chó vào phòng tắm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Keep the dog out of the bathroom.",
+          "text_translation": "Không cho chó vào phòng tắm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Never try to tighten a pipe yourself.",
+            "vi": "Đừng bao giờ tự vặn chặt ống nước."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Never try to tighten a pipe yourself.",
+          "text_translation": "Đừng bao giờ tự vặn chặt ống nước."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Vince nói: \"Have them looked at once a year and you'll save money.\" \"them\" là \"the other pipes\". Mùa mưa đông gắn với việc kiểm tra mái nhà, không phải thảm. Bài không nói Vince khuyên nhốt chó, cũng không nói anh cấm tự vặn ống, dù bố của Tracy đã làm hỏng thêm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cấu trúc câu mệnh lệnh + and + kết quả (Have them looked at once a year and you'll save…) thường là một lời khuyên. Phần sau and cho biết lợi ích."
+      },
+      "question_jp": "What advice did Vince give the family?",
+      "question_vn": "Vince đã khuyên gia đình điều gì?",
+      "explanation": "Vince nói: \"Have them looked at once a year and you'll save money.\" \"them\" là \"the other pipes\". Mùa mưa đông gắn với việc kiểm tra mái nhà, không phải thảm. Bài không nói Vince khuyên nhốt chó, cũng không nói anh cấm tự vặn ống, dù bố của Tracy đã làm hỏng thêm.",
+      "tip": "Cấu trúc câu mệnh lệnh + and + kết quả (Have them looked at once a year and you'll save…) thường là một lời khuyên. Phần sau and cho biết lợi ích."
+    },
+    {
+      "id": "q_u04_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "What does the email suggest about Tracy's dad and the pipe?",
+        "vi": "Bức email gợi ý điều gì về bố của Tracy và cái ống nước?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He fixed it before the plumber arrived.",
+            "vi": "Ông sửa được nó trước khi thợ tới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He fixed it before the plumber arrived.",
+          "text_translation": "Ông sửa được nó trước khi thợ tới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He knows more about pipes than Vince.",
+            "vi": "Ông hiểu về ống nước hơn cả Vince."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He knows more about pipes than Vince.",
+          "text_translation": "Ông hiểu về ống nước hơn cả Vince."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He couldn't fix it, so the family needed a professional.",
+            "vi": "Ông không sửa được, nên cả nhà cần tới thợ chuyên nghiệp."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He couldn't fix it, so the family needed a professional.",
+          "text_translation": "Ông không sửa được, nên cả nhà cần tới thợ chuyên nghiệp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He wanted to put in a new pipe himself.",
+            "vi": "Ông muốn tự lắp ống mới."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He wanted to put in a new pipe himself.",
+          "text_translation": "Ông muốn tự lắp ống mới."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. \"Your dad tried to tighten the pipe himself, but that only made it worse\", rồi câu sau bắt đầu bằng So: \"we had the whole thing looked over by a plumber\". Ông không sửa được, nên cả nhà phải gọi thợ. Ông không sửa xong trước khi thợ tới, và không có chi tiết nào cho thấy ông giỏi hơn Vince. Người lắp ống mới là Vince (\"he took it out and put in a new one\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: nối hai câu liền nhau. Chữ but (nhưng) cho biết kết quả không như mong muốn, chữ So ở câu sau cho biết việc phải làm tiếp."
+      },
+      "question_jp": "What does the email suggest about Tracy's dad and the pipe?",
+      "question_vn": "Bức email gợi ý điều gì về bố của Tracy và cái ống nước?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. \"Your dad tried to tighten the pipe himself, but that only made it worse\", rồi câu sau bắt đầu bằng So: \"we had the whole thing looked over by a plumber\". Ông không sửa được, nên cả nhà phải gọi thợ. Ông không sửa xong trước khi thợ tới, và không có chi tiết nào cho thấy ông giỏi hơn Vince. Người lắp ống mới là Vince (\"he took it out and put in a new one\").",
+      "tip": "Câu suy luận: nối hai câu liền nhau. Chữ but (nhưng) cho biết kết quả không như mong muốn, chữ So ở câu sau cho biết việc phải làm tiếp."
+    },
+    {
+      "id": "q_u04_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "When Megan answers \"Would you? Keep your room tidy for a month and I'll think about it\", what does she mean?",
+        "vi": "Khi Megan đáp \"Would you? Keep your room tidy for a month and I'll think about it\", ý bà là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She may think about a new carpet only if Trevor keeps his room tidy first.",
+            "vi": "Bà có thể tính chuyện thảm mới, nhưng chỉ khi Trevor giữ phòng gọn gàng trước đã."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She may think about a new carpet only if Trevor keeps his room tidy first.",
+          "text_translation": "Bà có thể tính chuyện thảm mới, nhưng chỉ khi Trevor giữ phòng gọn gàng trước đã."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has already bought the football carpet for him.",
+            "vi": "Bà đã mua tấm thảm hình sân bóng cho em rồi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has already bought the football carpet for him.",
+          "text_translation": "Bà đã mua tấm thảm hình sân bóng cho em rồi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She doesn't believe that Trevor likes football.",
+            "vi": "Bà không tin là Trevor thích bóng đá."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She doesn't believe that Trevor likes football.",
+          "text_translation": "Bà không tin là Trevor thích bóng đá."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants Trevor to clean the carpet himself.",
+            "vi": "Bà muốn Trevor tự giặt tấm thảm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants Trevor to clean the carpet himself.",
+          "text_translation": "Bà muốn Trevor tự giặt tấm thảm."
+        }
+      ],
+      "evidence_segments": [
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. \"Would you?\" là câu hỏi đáp lại, cho thấy bà nghe và để ý tới mong muốn của Trevor, chứ không phải câu hỏi thật. Sau đó là câu mệnh lệnh + and: \"Keep your room tidy for a month and I'll think about it.\" Nghĩa là: làm được việc đó trước thì bà mới tính tới chuyện thảm. Bà chưa mua thảm, vì nhà đang \"getting the carpet cleaned\". Bà không nghi chuyện Trevor thích bóng đá, cũng không bảo em tự giặt thảm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi đáp lại (Would you? Is it? Did he?) chỉ để tỏ ra mình đang nghe, không cần trả lời. Ý thật của người nói nằm ở câu ngay sau đó."
+      },
+      "question_jp": "When Megan answers \"Would you? Keep your room tidy for a month and I'll think about it\", what does she mean?",
+      "question_vn": "Khi Megan đáp \"Would you? Keep your room tidy for a month and I'll think about it\", ý bà là gì?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. \"Would you?\" là câu hỏi đáp lại, cho thấy bà nghe và để ý tới mong muốn của Trevor, chứ không phải câu hỏi thật. Sau đó là câu mệnh lệnh + and: \"Keep your room tidy for a month and I'll think about it.\" Nghĩa là: làm được việc đó trước thì bà mới tính tới chuyện thảm. Bà chưa mua thảm, vì nhà đang \"getting the carpet cleaned\". Bà không nghi chuyện Trevor thích bóng đá, cũng không bảo em tự giặt thảm.",
+      "tip": "Câu hỏi đáp lại (Would you? Is it? Did he?) chỉ để tỏ ra mình đang nghe, không cần trả lời. Ý thật của người nói nằm ở câu ngay sau đó."
+    },
+    {
+      "id": "q_u04_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "What did Trevor think when he first saw the wet carpet?",
+        "vi": "Lúc đầu thấy tấm thảm ướt, Trevor nghĩ gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that the roof was leaking",
+            "vi": "rằng mái nhà bị dột"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that the roof was leaking",
+          "text_translation": "rằng mái nhà bị dột"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that Leah had spilled some water",
+            "vi": "rằng Leah đã làm đổ nước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that Leah had spilled some water",
+          "text_translation": "rằng Leah đã làm đổ nước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that his dad had broken the pipe",
+            "vi": "rằng bố em đã làm vỡ ống nước"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that his dad had broken the pipe",
+          "text_translation": "rằng bố em đã làm vỡ ống nước"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that Biscuit had knocked over his water bowl",
+            "vi": "rằng Biscuit đã làm đổ bát nước của nó"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "that Biscuit had knocked over his water bowl",
+          "text_translation": "rằng Biscuit đã làm đổ bát nước của nó"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Khi Megan nói ống nước bị rò, Trevor đáp: \"Is it? I thought Biscuit knocked over his water bowl again!\" Vậy lúc đầu em nghĩ do Biscuit. Mái nhà chỉ được nói tới ở việc kiểm tra tháng sau. Leah đang ngủ ở tầng dưới. Bố em chui xuống sửa SAU khi đã biết ống bị rò."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "I thought… (tôi cứ tưởng…) cho biết điều nhân vật nghĩ lúc đầu, thường là điều sai. Đừng nhầm với điều thật sự đã xảy ra."
+      },
+      "question_jp": "What did Trevor think when he first saw the wet carpet?",
+      "question_vn": "Lúc đầu thấy tấm thảm ướt, Trevor nghĩ gì?",
+      "explanation": "Khi Megan nói ống nước bị rò, Trevor đáp: \"Is it? I thought Biscuit knocked over his water bowl again!\" Vậy lúc đầu em nghĩ do Biscuit. Mái nhà chỉ được nói tới ở việc kiểm tra tháng sau. Leah đang ngủ ở tầng dưới. Bố em chui xuống sửa SAU khi đã biết ống bị rò.",
+      "tip": "I thought… (tôi cứ tưởng…) cho biết điều nhân vật nghĩ lúc đầu, thường là điều sai. Đừng nhầm với điều thật sự đã xảy ra."
+    },
+    {
+      "id": "q_u04_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "why older people should move into care homes",
+            "vi": "vì sao người già nên chuyển vào viện dưỡng lão"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "why older people should move into care homes",
+          "text_translation": "vì sao người già nên chuyển vào viện dưỡng lão"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to share the housework in a small apartment",
+            "vi": "cách chia việc nhà trong một căn hộ nhỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to share the housework in a small apartment",
+          "text_translation": "cách chia việc nhà trong một căn hộ nhỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the good points, the problems and some tips for families with several generations in one home",
+            "vi": "mặt tốt, khó khăn và vài mẹo cho những gia đình có nhiều thế hệ sống chung một nhà"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the good points, the problems and some tips for families with several generations in one home",
+          "text_translation": "mặt tốt, khó khăn và vài mẹo cho những gia đình có nhiều thế hệ sống chung một nhà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the history of the Brooks family on Maple Street",
+            "vi": "lịch sử của nhà Brooks ở phố Maple"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the history of the Brooks family on Maple Street",
+          "text_translation": "lịch sử của nhà Brooks ở phố Maple"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        4,
+        10,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề \"Three Generations, One Roof\" và ba tiêu đề mục \"Why it works\", \"What can go wrong\", \"Tips for sharing a home\" cho thấy bài nói về lợi ích, khó khăn và mẹo khi nhiều thế hệ sống chung. Bài không bàn chuyện viện dưỡng lão. Chia việc nhà chỉ là một mẹo nhỏ. Nhà Brooks chỉ là ví dụ minh hoạ, bài không kể lịch sử gia đình họ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi ý chính của bài báo: đọc tiêu đề lớn và tiêu đề các mục. Phương án chỉ nói về một ví dụ hoặc một mẹo là quá hẹp."
+      },
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề \"Three Generations, One Roof\" và ba tiêu đề mục \"Why it works\", \"What can go wrong\", \"Tips for sharing a home\" cho thấy bài nói về lợi ích, khó khăn và mẹo khi nhiều thế hệ sống chung. Bài không bàn chuyện viện dưỡng lão. Chia việc nhà chỉ là một mẹo nhỏ. Nhà Brooks chỉ là ví dụ minh hoạ, bài không kể lịch sử gia đình họ.",
+      "tip": "Câu hỏi ý chính của bài báo: đọc tiêu đề lớn và tiêu đề các mục. Phương án chỉ nói về một ví dụ hoặc một mẹo là quá hẹp."
+    },
+    {
+      "id": "q_u04_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "In the article, what is the most common reason for living with several generations in one home?",
+        "vi": "Theo bài báo, lý do phổ biến nhất để nhiều thế hệ sống chung một nhà là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "caring for a young child",
+            "vi": "chăm sóc con nhỏ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "caring for a young child",
+          "text_translation": "chăm sóc con nhỏ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "money",
+            "vi": "tiền bạc"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "money",
+          "text_translation": "tiền bạc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "having more storage space",
+            "vi": "có thêm chỗ cất đồ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "having more storage space",
+          "text_translation": "có thêm chỗ cất đồ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "growing up close to grandparents",
+            "vi": "lớn lên gần gũi với ông bà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "growing up close to grandparents",
+          "text_translation": "lớn lên gần gũi với ông bà"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Bài viết: \"Money is the most common reason, but caring for an older parent or a young child also matters.\" \"the most common reason\" = lý do phổ biến nhất, nên đáp án là tiền bạc. Chăm con nhỏ đứng sau but và chỉ được nói là \"also matters\". Chỗ cất đồ là một khó khăn (\"storage space disappears\"), không phải lý do. Gần gũi ông bà là một lợi ích được nêu ở mục sau."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi \"lý do phổ biến nhất\": tìm từ so sánh nhất như the most common, the main reason. Phương án nhiễu thường đứng ngay sau but trong cùng câu."
+      },
+      "question_jp": "In the article, what is the most common reason for living with several generations in one home?",
+      "question_vn": "Theo bài báo, lý do phổ biến nhất để nhiều thế hệ sống chung một nhà là gì?",
+      "explanation": "Bài viết: \"Money is the most common reason, but caring for an older parent or a young child also matters.\" \"the most common reason\" = lý do phổ biến nhất, nên đáp án là tiền bạc. Chăm con nhỏ đứng sau but và chỉ được nói là \"also matters\". Chỗ cất đồ là một khó khăn (\"storage space disappears\"), không phải lý do. Gần gũi ông bà là một lợi ích được nêu ở mục sau.",
+      "tip": "Câu hỏi \"lý do phổ biến nhất\": tìm từ so sánh nhất như the most common, the main reason. Phương án nhiễu thường đứng ngay sau but trong cùng câu."
+    },
+    {
+      "id": "q_u04_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "What did the Pew survey find about adults in homes with several generations?",
+        "vi": "Cuộc khảo sát của Pew cho thấy điều gì về những người lớn sống trong nhà nhiều thế hệ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "More than half said living together was usually convenient.",
+            "vi": "Hơn một nửa nói rằng sống chung thường là tiện lợi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "More than half said living together was usually convenient.",
+          "text_translation": "Hơn một nửa nói rằng sống chung thường là tiện lợi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Most of them said it was usually stressful.",
+            "vi": "Đa số nói rằng sống chung thường căng thẳng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Most of them said it was usually stressful.",
+          "text_translation": "Đa số nói rằng sống chung thường căng thẳng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "About 18 percent of them wanted to move out.",
+            "vi": "Khoảng 18 phần trăm trong số họ muốn dọn ra ở riêng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "About 18 percent of them wanted to move out.",
+          "text_translation": "Khoảng 18 phần trăm trong số họ muốn dọn ra ở riêng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A quarter of them said money was not important.",
+            "vi": "Một phần tư trong số họ nói tiền bạc không quan trọng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "A quarter of them said money was not important.",
+          "text_translation": "Một phần tư trong số họ nói tiền bạc không quan trọng."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Bài viết: \"more than half of adults in these homes said living together was usually convenient.\" Người thấy căng thẳng chỉ là \"about a quarter\" (khoảng một phần tư), không phải đa số. Con số 18 phần trăm là tỉ lệ người Mỹ sống trong nhà nhiều thế hệ, không phải số người muốn dọn đi. Bài không nói ai cho rằng tiền bạc không quan trọng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài có nhiều con số và tỉ lệ (18 percent, more than half, a quarter): ghi chú mỗi con số đi với điều gì. Phương án nhiễu hay gắn đúng con số vào sai thông tin."
+      },
+      "question_jp": "What did the Pew survey find about adults in homes with several generations?",
+      "question_vn": "Cuộc khảo sát của Pew cho thấy điều gì về những người lớn sống trong nhà nhiều thế hệ?",
+      "explanation": "Bài viết: \"more than half of adults in these homes said living together was usually convenient.\" Người thấy căng thẳng chỉ là \"about a quarter\" (khoảng một phần tư), không phải đa số. Con số 18 phần trăm là tỉ lệ người Mỹ sống trong nhà nhiều thế hệ, không phải số người muốn dọn đi. Bài không nói ai cho rằng tiền bạc không quan trọng.",
+      "tip": "Bài có nhiều con số và tỉ lệ (18 percent, more than half, a quarter): ghi chú mỗi con số đi với điều gì. Phương án nhiễu hay gắn đúng con số vào sai thông tin."
+    },
+    {
+      "id": "q_u04_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "In \"You learn to put up with small things\", what does \"put up with\" mean?",
+        "vi": "Trong câu \"You learn to put up with small things\", \"put up with\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to build",
+            "vi": "xây dựng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to build",
+          "text_translation": "xây dựng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to get rid of",
+            "vi": "loại bỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to get rid of",
+          "text_translation": "loại bỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to write down",
+            "vi": "ghi lại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to write down",
+          "text_translation": "ghi lại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to accept something annoying without getting angry",
+            "vi": "chấp nhận một điều khó chịu mà không nổi giận"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to accept something annoying without getting angry",
+          "text_translation": "chấp nhận một điều khó chịu mà không nổi giận"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Nathan nói: \"You learn to put up with small things, and you get a lot back.\" \"small things\" là những phiền toái nhỏ trong mục \"What can go wrong\" như nhạc to, bừa bộn trong bếp. Học cách chịu đựng chúng thì nhận lại được nhiều. Put up with = chịu đựng, chấp nhận điều khó chịu. \"get rid of\" (loại bỏ) có nghĩa gần như ngược lại. Xây dựng và ghi lại không hợp với ngữ cảnh."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cụm động từ ba chữ (put up with, get rid of) có nghĩa khác hẳn từng chữ cộng lại. Hãy dựa vào ngữ cảnh: những \"small things\" ở đây là gì?"
+      },
+      "question_jp": "In \"You learn to put up with small things\", what does \"put up with\" mean?",
+      "question_vn": "Trong câu \"You learn to put up with small things\", \"put up with\" nghĩa là gì?",
+      "explanation": "Nathan nói: \"You learn to put up with small things, and you get a lot back.\" \"small things\" là những phiền toái nhỏ trong mục \"What can go wrong\" như nhạc to, bừa bộn trong bếp. Học cách chịu đựng chúng thì nhận lại được nhiều. Put up with = chịu đựng, chấp nhận điều khó chịu. \"get rid of\" (loại bỏ) có nghĩa gần như ngược lại. Xây dựng và ghi lại không hợp với ngữ cảnh.",
+      "tip": "Cụm động từ ba chữ (put up with, get rid of) có nghĩa khác hẳn từng chữ cộng lại. Hãy dựa vào ngữ cảnh: những \"small things\" ở đây là gì?"
+    },
+    {
+      "id": "q_u04_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "In \"Actually, they live with me!\", who does \"they\" refer to?",
+        "vi": "Trong câu \"Actually, they live with me!\", \"they\" chỉ ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the readers of the article",
+            "vi": "những người đọc bài báo"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the readers of the article",
+          "text_translation": "những người đọc bài báo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nathan, Helena and Amy",
+            "vi": "Nathan, Helena và Amy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Nathan, Helena and Amy",
+          "text_translation": "Nathan, Helena và Amy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the people at Harriet's café",
+            "vi": "những người ở quán cà phê của bà Harriet"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the people at Harriet's café",
+          "text_translation": "những người ở quán cà phê của bà Harriet"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the people in the Pew survey",
+            "vi": "những người trong cuộc khảo sát của Pew"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the people in the Pew survey",
+          "text_translation": "những người trong cuộc khảo sát của Pew"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Harriet nói: \"People think I live with my son's family\", rồi \"Actually, they live with me!\" \"they\" là \"my son's family\", tức Nathan, con dâu Helena và cháu Amy, như câu \"Harriet Brooks, 71, lives with her son Nathan, his wife Helena and their seven-year-old daughter Amy\". Người đọc, khách quán và người trong khảo sát không sống cùng bà."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đại từ they trong lời trích thường chỉ nhóm người vừa được nhắc ngay trước đó trong cùng lời nói (my son's family)."
+      },
+      "question_jp": "In \"Actually, they live with me!\", who does \"they\" refer to?",
+      "question_vn": "Trong câu \"Actually, they live with me!\", \"they\" chỉ ai?",
+      "explanation": "Harriet nói: \"People think I live with my son's family\", rồi \"Actually, they live with me!\" \"they\" là \"my son's family\", tức Nathan, con dâu Helena và cháu Amy, như câu \"Harriet Brooks, 71, lives with her son Nathan, his wife Helena and their seven-year-old daughter Amy\". Người đọc, khách quán và người trong khảo sát không sống cùng bà.",
+      "tip": "Đại từ they trong lời trích thường chỉ nhóm người vừa được nhắc ngay trước đó trong cùng lời nói (my son's family)."
+    },
+    {
+      "id": "q_u04_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "Which of the following is NOT one of the article's tips?",
+        "vi": "Điều nào sau đây KHÔNG phải là một mẹo trong bài báo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Talk about money early.",
+            "vi": "Nói chuyện tiền bạc từ sớm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Talk about money early.",
+          "text_translation": "Nói chuyện tiền bạc từ sớm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Share the housework evenly.",
+            "vi": "Chia việc nhà cho đều."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Share the housework evenly.",
+          "text_translation": "Chia việc nhà cho đều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Give the oldest person the biggest bedroom.",
+            "vi": "Dành phòng ngủ lớn nhất cho người lớn tuổi nhất."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Give the oldest person the biggest bedroom.",
+          "text_translation": "Dành phòng ngủ lớn nhất cho người lớn tuổi nhất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Change the house to fit the people in it.",
+            "vi": "Thay đổi ngôi nhà cho hợp với những người sống trong đó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Change the house to fit the people in it.",
+          "text_translation": "Thay đổi ngôi nhà cho hợp với những người sống trong đó."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Mục \"Tips for sharing a home\" có: \"Talk about money early\", \"Share the housework evenly\" và \"Change the house to fit the people in it\" (ví dụ lắp tay vịn). Bài không nói gì về chuyện dành phòng lớn nhất cho người già nhất."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu NOT: dò từng phương án trong mục liên quan. Phương án nghe hợp lý nhưng không có trong bài chính là đáp án."
+      },
+      "question_jp": "Which of the following is NOT one of the article's tips?",
+      "question_vn": "Điều nào sau đây KHÔNG phải là một mẹo trong bài báo?",
+      "explanation": "Mục \"Tips for sharing a home\" có: \"Talk about money early\", \"Share the housework evenly\" và \"Change the house to fit the people in it\" (ví dụ lắp tay vịn). Bài không nói gì về chuyện dành phòng lớn nhất cho người già nhất.",
+      "tip": "Câu NOT: dò từng phương án trong mục liên quan. Phương án nghe hợp lý nhưng không có trong bài chính là đáp án."
+    },
+    {
+      "id": "q_u04_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "Who uses the handrail on the stairs every day?",
+        "vi": "Theo bài báo, ai dùng tay vịn cầu thang mỗi ngày?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "both Amy and her grandmother",
+            "vi": "cả Amy lẫn bà nội của em"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "both Amy and her grandmother",
+          "text_translation": "cả Amy lẫn bà nội của em"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "only Harriet",
+            "vi": "chỉ bà Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "only Harriet",
+          "text_translation": "chỉ bà Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only Amy",
+            "vi": "chỉ Amy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "only Amy",
+          "text_translation": "chỉ Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nathan and Helena",
+            "vi": "Nathan và Helena"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nathan and Helena",
+          "text_translation": "Nathan và Helena"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Bài viết: \"Amy, as well as her grandmother, uses it every day.\" \"as well as\" = cũng như, nên cả Amy và bà nội đều dùng. Động từ uses ở số ít vì chủ ngữ chính là Amy, nhưng ý nghĩa vẫn gồm cả hai người. Vì vậy \"chỉ Harriet\" hay \"chỉ Amy\" đều sai. Bài không nói Nathan và Helena dùng tay vịn hằng ngày."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "A, as well as B, + động từ số ít: động từ hoà hợp với A, nhưng về nghĩa thì cả A và B đều làm việc đó. Đừng để động từ số ít đánh lừa."
+      },
+      "question_jp": "Who uses the handrail on the stairs every day?",
+      "question_vn": "Theo bài báo, ai dùng tay vịn cầu thang mỗi ngày?",
+      "explanation": "Bài viết: \"Amy, as well as her grandmother, uses it every day.\" \"as well as\" = cũng như, nên cả Amy và bà nội đều dùng. Động từ uses ở số ít vì chủ ngữ chính là Amy, nhưng ý nghĩa vẫn gồm cả hai người. Vì vậy \"chỉ Harriet\" hay \"chỉ Amy\" đều sai. Bài không nói Nathan và Helena dùng tay vịn hằng ngày.",
+      "tip": "A, as well as B, + động từ số ít: động từ hoà hợp với A, nhưng về nghĩa thì cả A và B đều làm việc đó. Đừng để động từ số ít đánh lừa."
+    },
+    {
+      "id": "q_u04_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "What does Harriet's joke \"Actually, they live with me!\" suggest about her?",
+        "vi": "Câu đùa \"Actually, they live with me!\" của bà Harriet gợi ý điều gì về bà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She would like to live alone.",
+            "vi": "Bà muốn sống một mình."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She would like to live alone.",
+          "text_translation": "Bà muốn sống một mình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is unhappy that people talk about her family.",
+            "vi": "Bà buồn vì người ta bàn tán về gia đình bà."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is unhappy that people talk about her family.",
+          "text_translation": "Bà buồn vì người ta bàn tán về gia đình bà."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is planning to sell the house.",
+            "vi": "Bà đang định bán ngôi nhà."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is planning to sell the house.",
+          "text_translation": "Bà đang định bán ngôi nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is still active and doesn't see herself as someone who needs looking after.",
+            "vi": "Bà vẫn năng động và không coi mình là người cần được chăm sóc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She is still active and doesn't see herself as someone who needs looking after.",
+          "text_translation": "Bà vẫn năng động và không coi mình là người cần được chăm sóc."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Ngay trước câu đùa, bài viết \"Harriet still runs her café, and in the evenings she reads to Amy\". Bà vẫn làm việc và còn chăm cháu. Khi bảo \"they live with me\", bà vui vẻ cho thấy mình không phải người già sống nhờ con. Bà nói điều này lúc đang cười (\"she laughs\"), nên không phải bà muốn sống một mình hay đang buồn. Bài không nhắc chuyện bán nhà."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Suy luận về tính cách: đặt câu nói của nhân vật cạnh việc nhân vật làm (vẫn mở quán, đọc truyện cho cháu) và cách họ nói (she laughs)."
+      },
+      "question_jp": "What does Harriet's joke \"Actually, they live with me!\" suggest about her?",
+      "question_vn": "Câu đùa \"Actually, they live with me!\" của bà Harriet gợi ý điều gì về bà?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Ngay trước câu đùa, bài viết \"Harriet still runs her café, and in the evenings she reads to Amy\". Bà vẫn làm việc và còn chăm cháu. Khi bảo \"they live with me\", bà vui vẻ cho thấy mình không phải người già sống nhờ con. Bà nói điều này lúc đang cười (\"she laughs\"), nên không phải bà muốn sống một mình hay đang buồn. Bài không nhắc chuyện bán nhà.",
+      "tip": "Suy luận về tính cách: đặt câu nói của nhân vật cạnh việc nhân vật làm (vẫn mở quán, đọc truyện cho cháu) và cách họ nói (she laughs)."
+    },
+    {
+      "id": "q_u04_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "What do Helena's words \"We all had different ideas about an orderly kitchen\" suggest?",
+        "vi": "Lời Helena \"We all had different ideas about an orderly kitchen\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Helena does all the cooking in the Brooks home.",
+            "vi": "Helena nấu hết các bữa ở nhà Brooks."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Helena does all the cooking in the Brooks home.",
+          "text_translation": "Helena nấu hết các bữa ở nhà Brooks."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The Brooks family wants to build a second kitchen.",
+            "vi": "Nhà Brooks muốn làm thêm một gian bếp nữa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The Brooks family wants to build a second kitchen.",
+          "text_translation": "Nhà Brooks muốn làm thêm một gian bếp nữa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Sharing a home has not always been easy for the Brooks family either.",
+            "vi": "Sống chung một nhà cũng không phải lúc nào cũng dễ với nhà Brooks."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Sharing a home has not always been easy for the Brooks family either.",
+          "text_translation": "Sống chung một nhà cũng không phải lúc nào cũng dễ với nhà Brooks."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet never cleans the kitchen.",
+            "vi": "Bà Harriet không bao giờ dọn bếp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet never cleans the kitchen.",
+          "text_translation": "Bà Harriet không bao giờ dọn bếp."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Câu của Helena nằm trong mục \"What can go wrong\", ngay sau ví dụ \"a small mess can turn into a big argument\". Chữ admits (thừa nhận) cho thấy cô đang nói thật về một khó khăn của chính nhà mình. Bài lại nói nhà Brooks \"share bills, cooking and housework\", nên Helena không nấu hết. Bài không nhắc bếp thứ hai, cũng không đổ lỗi cho riêng bà Harriet."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Vị trí của một lời trích trong bài (nó nằm dưới tiêu đề mục nào) và động từ dẫn lời (admits, laughs) là manh mối mạnh cho câu suy luận."
+      },
+      "question_jp": "What do Helena's words \"We all had different ideas about an orderly kitchen\" suggest?",
+      "question_vn": "Lời Helena \"We all had different ideas about an orderly kitchen\" gợi ý điều gì?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Câu của Helena nằm trong mục \"What can go wrong\", ngay sau ví dụ \"a small mess can turn into a big argument\". Chữ admits (thừa nhận) cho thấy cô đang nói thật về một khó khăn của chính nhà mình. Bài lại nói nhà Brooks \"share bills, cooking and housework\", nên Helena không nấu hết. Bài không nhắc bếp thứ hai, cũng không đổ lỗi cho riêng bà Harriet.",
+      "tip": "Vị trí của một lời trích trong bài (nó nằm dưới tiêu đề mục nào) và động từ dẫn lời (admits, laughs) là manh mối mạnh cho câu suy luận."
+    },
+    {
+      "id": "q_u04_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "What is the writer's attitude toward several generations sharing a home?",
+        "vi": "Thái độ của người viết đối với việc nhiều thế hệ sống chung một nhà là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "completely negative: it causes too many arguments",
+            "vi": "hoàn toàn tiêu cực: nó gây ra quá nhiều cãi vã"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "completely negative: it causes too many arguments",
+          "text_translation": "hoàn toàn tiêu cực: nó gây ra quá nhiều cãi vã"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "generally positive, but honest about the problems",
+            "vi": "nhìn chung tích cực, nhưng nói thẳng về những khó khăn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "generally positive, but honest about the problems",
+          "text_translation": "nhìn chung tích cực, nhưng nói thẳng về những khó khăn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "not interested: the writer only gives numbers",
+            "vi": "không quan tâm: người viết chỉ đưa ra con số"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "not interested: the writer only gives numbers",
+          "text_translation": "không quan tâm: người viết chỉ đưa ra con số"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "worried: everyone should stop living this way",
+            "vi": "lo lắng: ai cũng nên thôi sống như vậy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "worried: everyone should stop living this way",
+          "text_translation": "lo lắng: ai cũng nên thôi sống như vậy"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        11,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Người viết nêu cả mặt tốt (\"more than half of adults in these homes said living together was usually convenient\") lẫn mặt khó (\"Still, about a quarter said it was usually stressful\"), rồi đưa ra mẹo và kết bằng câu tích cực của Nathan: \"you get a lot back\". Vậy thái độ là tích cực nhưng thực tế. Bài không hoàn toàn tiêu cực, không khuyên mọi người thôi sống chung, và có nhiều hơn con số: có ví dụ, lời trích và mẹo."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu thái độ: xem bài có cả hai mặt không, và đọc kỹ câu kết (người viết thường để quan điểm của mình ở cuối bài)."
+      },
+      "question_jp": "What is the writer's attitude toward several generations sharing a home?",
+      "question_vn": "Thái độ của người viết đối với việc nhiều thế hệ sống chung một nhà là gì?",
+      "explanation": "Người viết nêu cả mặt tốt (\"more than half of adults in these homes said living together was usually convenient\") lẫn mặt khó (\"Still, about a quarter said it was usually stressful\"), rồi đưa ra mẹo và kết bằng câu tích cực của Nathan: \"you get a lot back\". Vậy thái độ là tích cực nhưng thực tế. Bài không hoàn toàn tiêu cực, không khuyên mọi người thôi sống chung, và có nhiều hơn con số: có ví dụ, lời trích và mẹo.",
+      "tip": "Câu thái độ: xem bài có cả hai mặt không, và đọc kỹ câu kết (người viết thường để quan điểm của mình ở cuối bài)."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u04_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Email của Megan kể cho Tracy vụ vỡ ống nước",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u04_01",
+      "question_ids": [
+        "q_u04_001",
+        "q_u04_002",
+        "q_u04_003",
+        "q_u04_004",
+        "q_u04_005",
+        "q_u04_006",
+        "q_u04_007",
+        "q_u04_008",
+        "q_u04_009",
+        "q_u04_010"
+      ]
+    },
+    {
+      "set_id": "set_u04_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài báo về gia đình nhiều thế hệ sống chung một nhà",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u04_02",
+      "question_ids": [
+        "q_u04_011",
+        "q_u04_012",
+        "q_u04_013",
+        "q_u04_014",
+        "q_u04_015",
+        "q_u04_016",
+        "q_u04_017",
+        "q_u04_018",
+        "q_u04_019",
+        "q_u04_020"
+      ]
+    }
+  ]
+}
