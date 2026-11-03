@@ -1,0 +1,1339 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 9 — Plans and the future",
+      "vi": "Kế hoạch và tương lai"
+    },
+    "title": "Unit 9 — Plans and the future",
+    "title_vn": "Kế hoạch và tương lai",
+    "module_code": "57_u09",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u09",
+    "curriculum_sheets": [
+      "a2.33",
+      "a2.34",
+      "a2.35",
+      "a2.36"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Tina Carter",
+      "Trevor Carter",
+      "Megan Carter",
+      "Mitchell Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 3, năm 3 (tối thứ Sáu 29/3; Tracy 17 tuổi, lớp 12, nhận email báo đỗ ngành kỹ thuật ở trường đại học tại Washington mà cô và bố tới thăm hồi tháng 10 năm 2)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Hiện tại tiếp diễn chỉ kế hoạch, might / may, Shall I…?, lời hứa, ngày tháng, số lớn, phần trăm, phân số; thông tin cụ thể, mục đích văn bản, từ trong ngữ cảnh, quy chiếu, suy luận ý định và tính cách, nối hai bài",
+    "description_vn": "Trang nhật ký Tracy viết tối nhận tin đỗ đại học ở Washington (phản ứng của cả nhà và kế hoạch: tốt nghiệp, việc hè, ngày bay), và lịch sự kiện mùa xuân của trung tâm cộng đồng Maple Street. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 9 khoá A2 · phiếu `a2.33` – `a2.36` (kế hoạch năm tới, sắp xếp lịch hẹn, dự đoán với will / might, lời hứa và lời đề nghị)."
+    },
+    "objective_i18n": {
+      "vi": "đọc trang nhật ký Tracy viết tối nhận email báo đỗ ngành kỹ thuật ở Washington, và lịch sự kiện mùa xuân của trung tâm cộng đồng Maple Street; hiểu hiện tại tiếp diễn chỉ kế hoạch đã sắp xếp (I'm flying on…), might / may, Shall I…?, lời hứa, cách đọc ngày tháng, số lớn, phần trăm và phân số; tìm thông tin cụ thể, mục đích văn bản, từ trong ngữ cảnh, quy chiếu, và suy luận ý định, tính cách, nối thông tin giữa hai bài."
+    },
+    "extra_words": [
+      {
+        "word": "proud (of)",
+        "i18n": {
+          "vi": "tự hào (về)"
+        }
+      },
+      {
+        "word": "engineering",
+        "i18n": {
+          "vi": "ngành kỹ thuật"
+        }
+      },
+      {
+        "word": "mile",
+        "i18n": {
+          "vi": "dặm (khoảng 1,6 km)"
+        }
+      },
+      {
+        "word": "community center",
+        "i18n": {
+          "vi": "trung tâm cộng đồng (nhà sinh hoạt chung của khu phố)"
+        }
+      },
+      {
+        "word": "percent",
+        "i18n": {
+          "vi": "phần trăm"
+        }
+      },
+      {
+        "word": "app",
+        "i18n": {
+          "vi": "ứng dụng (trên điện thoại)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "Congratulations!",
+          "vi": "Chúc mừng!"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Shall I …?",
+          "vi": "Tôi … nhé? / Để tôi … nhé?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "keep a promise",
+          "vi": "giữ lời hứa"
+        }
+      },
+      {
+        "i18n": {
+          "en": "help out",
+          "vi": "phụ giúp một tay"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fifty percent off",
+          "vi": "giảm năm mươi phần trăm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "book early",
+          "vi": "đặt chỗ sớm"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Hiện tại tiếp diễn + mốc tương lai = **kế hoạch đã chốt**: `I'm graduating on Friday, June fourteenth`, `Dad is flying with me`. Câu hỏi When…? thường bẫy bằng nhiều mốc ngày trong cùng một câu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**might / may** = có thể (chưa chắc): `I might help out at the summer camp, or I may work at Harriet's`. Phương án nào biến \"có thể\" thành \"chắc chắn\" thì cẩn thận."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Shall I …?** = để tôi … nhé? (đề nghị, xin làm gì); **Promise you'll …** = lời hứa. Muốn biết vì sao người ta nói câu đó, xem câu được nói lúc nào, ngay sau chuyện gì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Số và phân số: `one thousand two hundred` = 1.200; `fifty percent off` = giảm một nửa; `three-quarters` = 3/4 = phần lớn; `under ten` = dưới mười tuổi. Câu hỏi tính tiền thì tính riêng từng người rồi cộng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu nối hai bài: chép các mốc ngày của cả hai bài ra nháp, xếp theo thứ tự thời gian rồi so."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u09_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Nhật ký của Tracy: ngày nhận thư báo đỗ đại học"
+      },
+      "narrator": "Tracy",
+      "title": "I'm Going to Washington!",
+      "category": "story",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm Going to Washington!",
+            "vi": "Mình sắp đi Washington!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Friday, March twenty-ninth",
+            "vi": "Thứ Sáu, ngày 29 tháng Ba"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tonight I got an email from the university in Washington. Dad and I visited it in October.",
+            "vi": "Tối nay mình nhận được email của trường đại học ở Washington. Hồi tháng Mười, bố và mình đã tới thăm trường."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My hands were shaking, but I read the first line: \"Congratulations! You have a place in our engineering program for the fall semester.\"",
+            "vi": "Tay mình run bần bật, nhưng mình vẫn đọc dòng đầu tiên: \"Chúc mừng em! Em đã có một suất trong chương trình kỹ thuật của trường, bắt đầu từ học kỳ mùa thu.\""
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was possibly the best moment of my whole life.",
+            "vi": "Có lẽ đó là khoảnh khắc tuyệt nhất trong cả cuộc đời mình."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I screamed, and Tina ran in: \"Why are you screaming?\"",
+            "vi": "Mình hét toáng lên, và Tina chạy ào vào: \"Sao chị hét thế?\""
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor was right behind her: \"So shall I move into your room in August?\"",
+            "vi": "Trevor đứng ngay sau con bé: \"Vậy tháng Tám em chuyển sang phòng chị nhé?\""
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom called from the hospital: \"I'm truly proud of you! Now start a list.\"",
+            "vi": "Mẹ gọi từ bệnh viện về: \"Mẹ thật sự tự hào về con! Giờ thì bắt đầu lập danh sách đi.\""
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I didn't tell her about my list. It already has forty things on it.",
+            "vi": "Mình không kể với mẹ về cái danh sách của mình. Nó đã có bốn mươi thứ rồi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad just smiled, and his eyes were wet.",
+            "vi": "Bố chỉ mỉm cười, mắt bố ướt nhoè."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm graduating on Friday, June fourteenth, and I'm flying to Washington on Saturday, August twenty-fourth.",
+            "vi": "Mình sẽ tốt nghiệp vào thứ Sáu, ngày 14 tháng Sáu, và mình sẽ bay đi Washington vào thứ Bảy, ngày 24 tháng Tám."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad is flying with me. He has already found the cheapest tickets.",
+            "vi": "Bố sẽ bay cùng mình. Bố đã tìm được vé rẻ nhất rồi."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This summer, I might help out at the community center's summer camp, or I may work at Harriet's on Sundays.",
+            "vi": "Hè này, có thể mình sẽ phụ giúp ở trại hè của trung tâm cộng đồng, hoặc có khi mình sẽ làm ở quán Harriet's vào các ngày Chủ nhật."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Basically, I'm happy, but I'm a little scared.",
+            "vi": "Về cơ bản là mình vui, nhưng mình hơi sợ."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I've never lived away from my family, and Washington is more than two thousand miles away.",
+            "vi": "Mình chưa bao giờ sống xa gia đình, mà Washington lại cách đây hơn hai nghìn dặm."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before bed, Tina said, \"Promise you'll call me every Sunday.\"",
+            "vi": "Trước giờ đi ngủ, Tina nói: \"Chị hứa là Chủ nhật nào cũng gọi cho em nhé.\""
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I promised, and I'm going to keep that promise.",
+            "vi": "Mình đã hứa, và mình sẽ giữ lời hứa đó."
+          }
+        }
+      ],
+      "content_ja": "I'm Going to Washington!\n\nFriday, March twenty-ninth\n\nTonight I got an email from the university in Washington. Dad and I visited it in October. My hands were shaking, but I read the first line: \"Congratulations! You have a place in our engineering program for the fall semester.\" It was possibly the best moment of my whole life.\n\nI screamed, and Tina ran in: \"Why are you screaming?\" Trevor was right behind her: \"So shall I move into your room in August?\" Mom called from the hospital: \"I'm truly proud of you! Now start a list.\" I didn't tell her about my list. It already has forty things on it. Dad just smiled, and his eyes were wet.\n\nI'm graduating on Friday, June fourteenth, and I'm flying to Washington on Saturday, August twenty-fourth. Dad is flying with me. He has already found the cheapest tickets. This summer, I might help out at the community center's summer camp, or I may work at Harriet's on Sundays.\n\nBasically, I'm happy, but I'm a little scared. I've never lived away from my family, and Washington is more than two thousand miles away.\n\nBefore bed, Tina said, \"Promise you'll call me every Sunday.\" I promised, and I'm going to keep that promise.",
+      "translation_vn": "(1) Mình sắp đi Washington!\n(2) Thứ Sáu, ngày 29 tháng Ba\n(3) Tối nay mình nhận được email của trường đại học ở Washington. Hồi tháng Mười, bố và mình đã tới thăm trường.\n(4) Tay mình run bần bật, nhưng mình vẫn đọc dòng đầu tiên: \"Chúc mừng em! Em đã có một suất trong chương trình kỹ thuật của trường, bắt đầu từ học kỳ mùa thu.\"\n(5) Có lẽ đó là khoảnh khắc tuyệt nhất trong cả cuộc đời mình.\n(6) Mình hét toáng lên, và Tina chạy ào vào: \"Sao chị hét thế?\"\n(7) Trevor đứng ngay sau con bé: \"Vậy tháng Tám em chuyển sang phòng chị nhé?\"\n(8) Mẹ gọi từ bệnh viện về: \"Mẹ thật sự tự hào về con! Giờ thì bắt đầu lập danh sách đi.\"\n(9) Mình không kể với mẹ về cái danh sách của mình. Nó đã có bốn mươi thứ rồi.\n(10) Bố chỉ mỉm cười, mắt bố ướt nhoè.\n(11) Mình sẽ tốt nghiệp vào thứ Sáu, ngày 14 tháng Sáu, và mình sẽ bay đi Washington vào thứ Bảy, ngày 24 tháng Tám.\n(12) Bố sẽ bay cùng mình. Bố đã tìm được vé rẻ nhất rồi.\n(13) Hè này, có thể mình sẽ phụ giúp ở trại hè của trung tâm cộng đồng, hoặc có khi mình sẽ làm ở quán Harriet's vào các ngày Chủ nhật.\n(14) Về cơ bản là mình vui, nhưng mình hơi sợ.\n(15) Mình chưa bao giờ sống xa gia đình, mà Washington lại cách đây hơn hai nghìn dặm.\n(16) Trước giờ đi ngủ, Tina nói: \"Chị hứa là Chủ nhật nào cũng gọi cho em nhé.\"\n(17) Mình đã hứa, và mình sẽ giữ lời hứa đó.",
+      "word_count": 209,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.33",
+        "a2.34",
+        "a2.35",
+        "a2.36"
+      ]
+    },
+    {
+      "id": "passage_u09_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Lịch sự kiện mùa xuân của trung tâm cộng đồng Maple Street"
+      },
+      "narrator": "announcer",
+      "title": "Maple Street Community Center: Spring Events",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Community Center: Spring Events",
+            "vi": "Trung tâm cộng đồng Maple Street: các sự kiện mùa xuân"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Spring is here, with events for the whole family!",
+            "vi": "Mùa xuân đã tới, cùng nhiều sự kiện cho cả gia đình!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last year, roughly one thousand two hundred people came to our events, so please book early.",
+            "vi": "Năm ngoái, khoảng một nghìn hai trăm người đã tới các sự kiện của chúng tôi, vì vậy xin hãy đặt chỗ sớm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "1. Family Movie Night",
+            "vi": "1. Đêm chiếu phim gia đình"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Friday, April twenty-sixth, at seven p.m., suitable for all ages.",
+            "vi": "Thứ Sáu, ngày 26 tháng Tư, lúc bảy giờ tối, phù hợp với mọi lứa tuổi."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tickets cost four dollars, and children under ten get fifty percent off.",
+            "vi": "Vé giá bốn đô, trẻ em dưới mười tuổi được giảm năm mươi phần trăm."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There are only one hundred and twenty seats, and last year they were gone in two days.",
+            "vi": "Chỉ có một trăm hai mươi ghế, và năm ngoái chỉ sau hai ngày là hết sạch."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "2. Artificial Intelligence for Beginners",
+            "vi": "2. Trí tuệ nhân tạo cho người mới bắt đầu"
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A weekly class for adults: Wednesdays, May first to May twenty-second, at six p.m.",
+            "vi": "Lớp học hằng tuần cho người lớn: các thứ Tư, từ ngày 1 tới ngày 22 tháng Năm, lúc sáu giờ tối."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Learn what AI apps can do and why they sometimes give wrong answers, all in four classes for twenty dollars.",
+            "vi": "Hãy tìm hiểu các ứng dụng AI làm được gì và vì sao đôi khi chúng trả lời sai, tất cả trong bốn buổi học với giá hai mươi đô."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "3. Spring Fair",
+            "vi": "3. Hội chợ mùa xuân"
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunday, May nineteenth, ten a.m. to four p.m.: games, music and food from local shops.",
+            "vi": "Chủ nhật, ngày 19 tháng Năm, từ mười giờ sáng tới bốn giờ chiều: trò chơi, âm nhạc và món ngon của các cửa hàng trong vùng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last year the fair raised four thousand five hundred dollars, and three-quarters of it went to new children's books at the City Library.",
+            "vi": "Năm ngoái hội chợ quyên được bốn nghìn năm trăm đô, và ba phần tư số tiền đó được dùng mua sách thiếu nhi mới cho thư viện thành phố."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Summer Camp Jobs",
+            "vi": "Việc làm ở trại hè"
+          }
+        },
+        {
+          "n": 15,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We need twenty young people, sixteen or older, to help out at our summer camp from Monday, June twenty-fourth, to Friday, August second.",
+            "vi": "Chúng tôi cần hai mươi bạn trẻ, từ mười sáu tuổi trở lên, phụ giúp ở trại hè từ thứ Hai, ngày 24 tháng Sáu, tới thứ Sáu, ngày 2 tháng Tám."
+          }
+        },
+        {
+          "n": 16,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is a paid job, five days a week. Send us your details by Friday, May tenth.",
+            "vi": "Đây là việc có trả lương, năm ngày một tuần. Hãy gửi thông tin của bạn cho chúng tôi trước thứ Sáu, ngày 10 tháng Năm."
+          }
+        },
+        {
+          "n": 17,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To book, visit the front desk or call 619-555-0158.",
+            "vi": "Muốn đặt chỗ, hãy tới quầy lễ tân hoặc gọi số 619-555-0158."
+          }
+        }
+      ],
+      "content_ja": "Maple Street Community Center: Spring Events\n\nSpring is here, with events for the whole family! Last year, roughly one thousand two hundred people came to our events, so please book early.\n\n1. Family Movie Night\n\nFriday, April twenty-sixth, at seven p.m., suitable for all ages. Tickets cost four dollars, and children under ten get fifty percent off. There are only one hundred and twenty seats, and last year they were gone in two days.\n\n2. Artificial Intelligence for Beginners\n\nA weekly class for adults: Wednesdays, May first to May twenty-second, at six p.m. Learn what AI apps can do and why they sometimes give wrong answers, all in four classes for twenty dollars.\n\n3. Spring Fair\n\nSunday, May nineteenth, ten a.m. to four p.m.: games, music and food from local shops. Last year the fair raised four thousand five hundred dollars, and three-quarters of it went to new children's books at the City Library.\n\nSummer Camp Jobs\n\nWe need twenty young people, sixteen or older, to help out at our summer camp from Monday, June twenty-fourth, to Friday, August second. It is a paid job, five days a week. Send us your details by Friday, May tenth.\n\nTo book, visit the front desk or call 619-555-0158.",
+      "translation_vn": "(1) Trung tâm cộng đồng Maple Street: các sự kiện mùa xuân\n(2) Mùa xuân đã tới, cùng nhiều sự kiện cho cả gia đình!\n(3) Năm ngoái, khoảng một nghìn hai trăm người đã tới các sự kiện của chúng tôi, vì vậy xin hãy đặt chỗ sớm.\n(4) 1. Đêm chiếu phim gia đình\n(5) Thứ Sáu, ngày 26 tháng Tư, lúc bảy giờ tối, phù hợp với mọi lứa tuổi.\n(6) Vé giá bốn đô, trẻ em dưới mười tuổi được giảm năm mươi phần trăm.\n(7) Chỉ có một trăm hai mươi ghế, và năm ngoái chỉ sau hai ngày là hết sạch.\n(8) 2. Trí tuệ nhân tạo cho người mới bắt đầu\n(9) Lớp học hằng tuần cho người lớn: các thứ Tư, từ ngày 1 tới ngày 22 tháng Năm, lúc sáu giờ tối.\n(10) Hãy tìm hiểu các ứng dụng AI làm được gì và vì sao đôi khi chúng trả lời sai, tất cả trong bốn buổi học với giá hai mươi đô.\n(11) 3. Hội chợ mùa xuân\n(12) Chủ nhật, ngày 19 tháng Năm, từ mười giờ sáng tới bốn giờ chiều: trò chơi, âm nhạc và món ngon của các cửa hàng trong vùng.\n(13) Năm ngoái hội chợ quyên được bốn nghìn năm trăm đô, và ba phần tư số tiền đó được dùng mua sách thiếu nhi mới cho thư viện thành phố.\n(14) Việc làm ở trại hè\n(15) Chúng tôi cần hai mươi bạn trẻ, từ mười sáu tuổi trở lên, phụ giúp ở trại hè từ thứ Hai, ngày 24 tháng Sáu, tới thứ Sáu, ngày 2 tháng Tám.\n(16) Đây là việc có trả lương, năm ngày một tuần. Hãy gửi thông tin của bạn cho chúng tôi trước thứ Sáu, ngày 10 tháng Năm.\n(17) Muốn đặt chỗ, hãy tới quầy lễ tân hoặc gọi số 619-555-0158.",
+      "word_count": 210,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.33",
+        "a2.34",
+        "a2.35",
+        "a2.36"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u09_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "What did the email from the university say?",
+        "vi": "Email của trường đại học nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy and her dad can visit the university in October.",
+            "vi": "Tracy và bố có thể tới thăm trường vào tháng Mười."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy and her dad can visit the university in October.",
+          "text_translation": "Tracy và bố có thể tới thăm trường vào tháng Mười."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy must send more details before the fall semester.",
+            "vi": "Tracy phải gửi thêm thông tin trước học kỳ mùa thu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tracy must send more details before the fall semester.",
+          "text_translation": "Tracy phải gửi thêm thông tin trước học kỳ mùa thu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tracy has a place in the engineering program.",
+            "vi": "Tracy đã có một suất trong chương trình kỹ thuật."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Tracy has a place in the engineering program.",
+          "text_translation": "Tracy đã có một suất trong chương trình kỹ thuật."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy's dad has found cheap tickets to Washington.",
+            "vi": "Bố Tracy đã tìm được vé rẻ đi Washington."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tracy's dad has found cheap tickets to Washington.",
+          "text_translation": "Bố Tracy đã tìm được vé rẻ đi Washington."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Congratulations! You have a place in our engineering program for the fall semester.\" Đây là dòng đầu của email: Tracy đã đỗ. Chuyến thăm trường tháng Mười đã xảy ra rồi (\"Dad and I visited it in October\"), không phải nội dung email. Email không yêu cầu gửi thêm thông tin; \"Send us your details\" là chuyện việc làm ở trại hè trong bài đọc 2. Vé rẻ là việc bố Tracy tự làm (\"He has already found the cheapest tickets\"), không do email báo."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Nội dung một bức thư hay email thường nằm trong ngoặc kép sau dấu hai chấm. Phương án nhiễu hay lấy chi tiết thật trong bài nhưng không thuộc bức thư."
+      },
+      "question_jp": "What did the email from the university say?",
+      "question_vn": "Email của trường đại học nói gì?",
+      "explanation": "\"Congratulations! You have a place in our engineering program for the fall semester.\" Đây là dòng đầu của email: Tracy đã đỗ. Chuyến thăm trường tháng Mười đã xảy ra rồi (\"Dad and I visited it in October\"), không phải nội dung email. Email không yêu cầu gửi thêm thông tin; \"Send us your details\" là chuyện việc làm ở trại hè trong bài đọc 2. Vé rẻ là việc bố Tracy tự làm (\"He has already found the cheapest tickets\"), không do email báo.",
+      "tip": "Nội dung một bức thư hay email thường nằm trong ngoặc kép sau dấu hai chấm. Phương án nhiễu hay lấy chi tiết thật trong bài nhưng không thuộc bức thư."
+    },
+    {
+      "id": "q_u09_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "Why does Trevor ask \"So shall I move into your room in August?\"",
+        "vi": "Vì sao Trevor hỏi \"So shall I move into your room in August?\" (Vậy tháng Tám em chuyển sang phòng chị nhé?)"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is joking: Tracy is leaving, so he wants her room.",
+            "vi": "Cậu đang đùa: chị Tracy sắp đi, nên cậu muốn lấy phòng của chị."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He is joking: Tracy is leaving, so he wants her room.",
+          "text_translation": "Cậu đang đùa: chị Tracy sắp đi, nên cậu muốn lấy phòng của chị."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He is offering to help Tracy with her list.",
+            "vi": "Cậu đang đề nghị giúp chị Tracy lập danh sách."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He is offering to help Tracy with her list.",
+          "text_translation": "Cậu đang đề nghị giúp chị Tracy lập danh sách."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is going to Washington with Tracy.",
+            "vi": "Cậu sẽ đi Washington cùng chị Tracy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He is going to Washington with Tracy.",
+          "text_translation": "Cậu sẽ đi Washington cùng chị Tracy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is angry because Tracy screamed.",
+            "vi": "Cậu bực vì chị Tracy hét lên."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He is angry because Tracy screamed.",
+          "text_translation": "Cậu bực vì chị Tracy hét lên."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Trevor hỏi ngay khi nghe tin Tracy đỗ, và nhắc tới \"August\", đúng tháng Tracy bay đi Washington. Chị đi rồi thì phòng trống, nên cậu \"xin\" chuyển sang: một câu đùa đúng kiểu cậu em vui tính. \"Shall I…?\" ở đây là hỏi xem mình làm thế được không, chứ không phải đề nghị giúp lập danh sách. Người bay cùng Tracy là bố (\"Dad is flying with me\"), không phải Trevor. Bài không có dấu hiệu nào cho thấy Trevor bực."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Shall I …? = Tôi … nhé? / Để tôi … nhé? Muốn hiểu vì sao một người nói câu đó, hãy xem câu được nói lúc nào và nhắc tới mốc thời gian nào trong bài."
+      },
+      "question_jp": "Why does Trevor ask \"So shall I move into your room in August?\"",
+      "question_vn": "Vì sao Trevor hỏi \"So shall I move into your room in August?\" (Vậy tháng Tám em chuyển sang phòng chị nhé?)",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Trevor hỏi ngay khi nghe tin Tracy đỗ, và nhắc tới \"August\", đúng tháng Tracy bay đi Washington. Chị đi rồi thì phòng trống, nên cậu \"xin\" chuyển sang: một câu đùa đúng kiểu cậu em vui tính. \"Shall I…?\" ở đây là hỏi xem mình làm thế được không, chứ không phải đề nghị giúp lập danh sách. Người bay cùng Tracy là bố (\"Dad is flying with me\"), không phải Trevor. Bài không có dấu hiệu nào cho thấy Trevor bực.",
+      "tip": "Shall I …? = Tôi … nhé? / Để tôi … nhé? Muốn hiểu vì sao một người nói câu đó, hãy xem câu được nói lúc nào và nhắc tới mốc thời gian nào trong bài."
+    },
+    {
+      "id": "q_u09_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "When is Tracy leaving for Washington?",
+        "vi": "Khi nào Tracy đi Washington?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on Friday, March twenty-ninth",
+            "vi": "thứ Sáu, ngày 29 tháng Ba"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "on Friday, March twenty-ninth",
+          "text_translation": "thứ Sáu, ngày 29 tháng Ba"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on Friday, June fourteenth",
+            "vi": "thứ Sáu, ngày 14 tháng Sáu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on Friday, June fourteenth",
+          "text_translation": "thứ Sáu, ngày 14 tháng Sáu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in October, with her dad",
+            "vi": "vào tháng Mười, cùng bố"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in October, with her dad",
+          "text_translation": "vào tháng Mười, cùng bố"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on Saturday, August twenty-fourth",
+            "vi": "thứ Bảy, ngày 24 tháng Tám"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "on Saturday, August twenty-fourth",
+          "text_translation": "thứ Bảy, ngày 24 tháng Tám"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'm graduating on Friday, June fourteenth, and I'm flying to Washington on Saturday, August twenty-fourth.\" Thì hiện tại tiếp diễn \"I'm flying\" ở đây nói về kế hoạch đã sắp xếp xong. Ngày 29 tháng Ba là ngày Tracy viết nhật ký và nhận email. Ngày 14 tháng Sáu là ngày tốt nghiệp. Tháng Mười là lúc hai bố con đi thăm trường."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Hiện tại tiếp diễn kèm mốc thời gian tương lai (I'm flying … on Saturday) = kế hoạch đã chốt. Câu có hai mốc ngày thì xem kỹ mốc nào đi với động từ nào."
+      },
+      "question_jp": "When is Tracy leaving for Washington?",
+      "question_vn": "Khi nào Tracy đi Washington?",
+      "explanation": "\"I'm graduating on Friday, June fourteenth, and I'm flying to Washington on Saturday, August twenty-fourth.\" Thì hiện tại tiếp diễn \"I'm flying\" ở đây nói về kế hoạch đã sắp xếp xong. Ngày 29 tháng Ba là ngày Tracy viết nhật ký và nhận email. Ngày 14 tháng Sáu là ngày tốt nghiệp. Tháng Mười là lúc hai bố con đi thăm trường.",
+      "tip": "Hiện tại tiếp diễn kèm mốc thời gian tương lai (I'm flying … on Saturday) = kế hoạch đã chốt. Câu có hai mốc ngày thì xem kỹ mốc nào đi với động từ nào."
+    },
+    {
+      "id": "q_u09_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "\"I didn't tell her about my list. It already has forty things on it.\" What does this show about Tracy?",
+        "vi": "\"I didn't tell her about my list. It already has forty things on it.\" Câu này cho thấy điều gì về Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She doesn't like Mom's ideas.",
+            "vi": "Cô không thích ý kiến của mẹ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She doesn't like Mom's ideas.",
+          "text_translation": "Cô không thích ý kiến của mẹ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She plans things carefully and early.",
+            "vi": "Cô lên kế hoạch kỹ lưỡng và rất sớm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She plans things carefully and early.",
+          "text_translation": "Cô lên kế hoạch kỹ lưỡng và rất sớm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She often forgets things.",
+            "vi": "Cô hay quên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She often forgets things.",
+          "text_translation": "Cô hay quên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has lost her list.",
+            "vi": "Cô làm mất danh sách của mình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has lost her list.",
+          "text_translation": "Cô làm mất danh sách của mình."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Mẹ vừa dặn \"Now start a list\", mà danh sách của Tracy \"already has forty things on it\": email mới tới tối nay mà cô đã ghi sẵn bốn mươi việc, tức là cô chuẩn bị rất kỹ, rất sớm. Tracy không kể vì không cần, chứ bài không nói cô không thích ý của mẹ. Người lập danh sách bốn mươi việc thì khó là người hay quên. Danh sách vẫn còn, không bị mất."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "already = đã … rồi, sớm hơn người khác nghĩ. Khi người khác khuyên làm việc gì mà nhân vật đã làm xong từ trước, đó là dấu hiệu về tính cách."
+      },
+      "question_jp": "\"I didn't tell her about my list. It already has forty things on it.\" What does this show about Tracy?",
+      "question_vn": "\"I didn't tell her about my list. It already has forty things on it.\" Câu này cho thấy điều gì về Tracy?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Mẹ vừa dặn \"Now start a list\", mà danh sách của Tracy \"already has forty things on it\": email mới tới tối nay mà cô đã ghi sẵn bốn mươi việc, tức là cô chuẩn bị rất kỹ, rất sớm. Tracy không kể vì không cần, chứ bài không nói cô không thích ý của mẹ. Người lập danh sách bốn mươi việc thì khó là người hay quên. Danh sách vẫn còn, không bị mất.",
+      "tip": "already = đã … rồi, sớm hơn người khác nghĩ. Khi người khác khuyên làm việc gì mà nhân vật đã làm xong từ trước, đó là dấu hiệu về tính cách."
+    },
+    {
+      "id": "q_u09_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_01",
+      "i18n": {
+        "en": "What does \"that promise\" mean in \"I'm going to keep that promise\"?",
+        "vi": "Trong câu \"I'm going to keep that promise\", \"that promise\" (lời hứa đó) là lời hứa gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to start a list",
+            "vi": "bắt đầu lập danh sách"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to start a list",
+          "text_translation": "bắt đầu lập danh sách"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to work at Harriet's on Sundays",
+            "vi": "làm ở quán Harriet's vào Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to work at Harriet's on Sundays",
+          "text_translation": "làm ở quán Harriet's vào Chủ nhật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to call Tina every Sunday",
+            "vi": "Chủ nhật nào cũng gọi cho Tina"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to call Tina every Sunday",
+          "text_translation": "Chủ nhật nào cũng gọi cho Tina"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to fly to Washington with Dad",
+            "vi": "bay đi Washington cùng bố"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to fly to Washington with Dad",
+          "text_translation": "bay đi Washington cùng bố"
+        }
+      ],
+      "evidence_segments": [
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Tina nói \"Promise you'll call me every Sunday.\", rồi Tracy viết \"I promised, and I'm going to keep that promise.\" Vậy lời hứa là Chủ nhật nào cũng gọi cho Tina. Lập danh sách là lời dặn của mẹ. Làm ở Harriet's vào Chủ nhật chỉ là một khả năng (\"I may work at Harriet's on Sundays\"). Bay cùng bố là kế hoạch, không phải lời hứa với Tina."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "that / this + danh từ thường chỉ điều vừa nhắc ngay trước. Tìm câu gần nhất có chữ promise."
+      },
+      "question_jp": "What does \"that promise\" mean in \"I'm going to keep that promise\"?",
+      "question_vn": "Trong câu \"I'm going to keep that promise\", \"that promise\" (lời hứa đó) là lời hứa gì?",
+      "explanation": "Tina nói \"Promise you'll call me every Sunday.\", rồi Tracy viết \"I promised, and I'm going to keep that promise.\" Vậy lời hứa là Chủ nhật nào cũng gọi cho Tina. Lập danh sách là lời dặn của mẹ. Làm ở Harriet's vào Chủ nhật chỉ là một khả năng (\"I may work at Harriet's on Sundays\"). Bay cùng bố là kế hoạch, không phải lời hứa với Tina.",
+      "tip": "that / this + danh từ thường chỉ điều vừa nhắc ngay trước. Tìm câu gần nhất có chữ promise."
+    },
+    {
+      "id": "q_u09_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "What is the main purpose of the text?",
+        "vi": "Mục đích chính của văn bản là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to tell people about spring events and how to book",
+            "vi": "báo cho mọi người về các sự kiện mùa xuân và cách đặt chỗ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to tell people about spring events and how to book",
+          "text_translation": "báo cho mọi người về các sự kiện mùa xuân và cách đặt chỗ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain how artificial intelligence works",
+            "vi": "giải thích trí tuệ nhân tạo hoạt động thế nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain how artificial intelligence works",
+          "text_translation": "giải thích trí tuệ nhân tạo hoạt động thế nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to say thank you to the people at last year's fair",
+            "vi": "cảm ơn những người đã tới hội chợ năm ngoái"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to say thank you to the people at last year's fair",
+          "text_translation": "cảm ơn những người đã tới hội chợ năm ngoái"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to ask young people to work at the City Library",
+            "vi": "kêu gọi các bạn trẻ tới làm ở thư viện thành phố"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to ask young people to work at the City Library",
+          "text_translation": "kêu gọi các bạn trẻ tới làm ở thư viện thành phố"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Văn bản mở đầu bằng \"Spring is here, with events for the whole family!\", rồi liệt kê từng sự kiện có ngày, giờ, giá, và kết thúc bằng \"To book, visit the front desk or call 619-555-0158.\" Vậy đây là lịch sự kiện kèm cách đặt chỗ. Trí tuệ nhân tạo chỉ là một lớp học trong lịch. Hội chợ năm ngoái chỉ được nhắc để nói số tiền quyên được. Việc làm cho bạn trẻ là ở trại hè, còn thư viện thành phố chỉ là nơi nhận sách mới."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi mục đích (main purpose): đọc câu mở và câu kết. Phương án chỉ nói về một mục nhỏ trong bài là phương án nhiễu."
+      },
+      "question_jp": "What is the main purpose of the text?",
+      "question_vn": "Mục đích chính của văn bản là gì?",
+      "explanation": "Văn bản mở đầu bằng \"Spring is here, with events for the whole family!\", rồi liệt kê từng sự kiện có ngày, giờ, giá, và kết thúc bằng \"To book, visit the front desk or call 619-555-0158.\" Vậy đây là lịch sự kiện kèm cách đặt chỗ. Trí tuệ nhân tạo chỉ là một lớp học trong lịch. Hội chợ năm ngoái chỉ được nhắc để nói số tiền quyên được. Việc làm cho bạn trẻ là ở trại hè, còn thư viện thành phố chỉ là nơi nhận sách mới.",
+      "tip": "Câu hỏi mục đích (main purpose): đọc câu mở và câu kết. Phương án chỉ nói về một mục nhỏ trong bài là phương án nhiễu."
+    },
+    {
+      "id": "q_u09_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "A mother takes her two children, ages six and eleven, to Family Movie Night. How much do the three tickets cost?",
+        "vi": "Một bà mẹ đưa hai con, sáu tuổi và mười một tuổi, đi Đêm chiếu phim gia đình. Ba vé hết bao nhiêu tiền?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "six dollars",
+            "vi": "sáu đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "six dollars",
+          "text_translation": "sáu đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "eight dollars",
+            "vi": "tám đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "eight dollars",
+          "text_translation": "tám đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "twelve dollars",
+            "vi": "mười hai đô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "twelve dollars",
+          "text_translation": "mười hai đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "ten dollars",
+            "vi": "mười đô"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "ten dollars",
+          "text_translation": "mười đô"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tickets cost four dollars, and children under ten get fifty percent off.\" Mẹ trả 4 đô. Bé sáu tuổi dưới mười tuổi nên được giảm một nửa, còn 2 đô. Bé mười một tuổi không \"under ten\" nên trả đủ 4 đô. Tổng: 4 + 2 + 4 = 10 đô. Tám đô là tính nhầm cả hai bé được giảm giá; mười hai đô là quên phần giảm giá; sáu đô là quên vé của bé mười một tuổi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "fifty percent off = giảm 50% = giảm một nửa. under ten = dưới mười tuổi (chưa tới mười). Câu hỏi tính tiền thì tính riêng từng người rồi mới cộng."
+      },
+      "question_jp": "A mother takes her two children, ages six and eleven, to Family Movie Night. How much do the three tickets cost?",
+      "question_vn": "Một bà mẹ đưa hai con, sáu tuổi và mười một tuổi, đi Đêm chiếu phim gia đình. Ba vé hết bao nhiêu tiền?",
+      "explanation": "\"Tickets cost four dollars, and children under ten get fifty percent off.\" Mẹ trả 4 đô. Bé sáu tuổi dưới mười tuổi nên được giảm một nửa, còn 2 đô. Bé mười một tuổi không \"under ten\" nên trả đủ 4 đô. Tổng: 4 + 2 + 4 = 10 đô. Tám đô là tính nhầm cả hai bé được giảm giá; mười hai đô là quên phần giảm giá; sáu đô là quên vé của bé mười một tuổi.",
+      "tip": "fifty percent off = giảm 50% = giảm một nửa. under ten = dưới mười tuổi (chưa tới mười). Câu hỏi tính tiền thì tính riêng từng người rồi mới cộng."
+    },
+    {
+      "id": "q_u09_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "What does \"roughly\" mean in \"roughly one thousand two hundred people came to our events\"?",
+        "vi": "Trong câu \"roughly one thousand two hundred people came to our events\", \"roughly\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "exactly",
+            "vi": "chính xác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "exactly",
+          "text_translation": "chính xác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about",
+            "vi": "khoảng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "about",
+          "text_translation": "khoảng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only",
+            "vi": "chỉ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "only",
+          "text_translation": "chỉ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "more than",
+            "vi": "hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "more than",
+          "text_translation": "hơn"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Last year, roughly one thousand two hundred people came to our events, so please book early.\" Roughly = khoảng, xấp xỉ: con số được làm tròn, không phải con số chính xác. Không chọn \"only\" vì vế sau \"so please book early\" cho thấy người viết muốn nói là rất đông, không phải \"chỉ có\". \"More than\" (hơn) là nghĩa khác: roughly có thể hơn hoặc kém một chút."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "roughly / about / around = khoảng. Thay từng phương án vào câu, rồi xem vế sau (so please book early) có còn hợp nghĩa không."
+      },
+      "question_jp": "What does \"roughly\" mean in \"roughly one thousand two hundred people came to our events\"?",
+      "question_vn": "Trong câu \"roughly one thousand two hundred people came to our events\", \"roughly\" nghĩa là gì?",
+      "explanation": "\"Last year, roughly one thousand two hundred people came to our events, so please book early.\" Roughly = khoảng, xấp xỉ: con số được làm tròn, không phải con số chính xác. Không chọn \"only\" vì vế sau \"so please book early\" cho thấy người viết muốn nói là rất đông, không phải \"chỉ có\". \"More than\" (hơn) là nghĩa khác: roughly có thể hơn hoặc kém một chút.",
+      "tip": "roughly / about / around = khoảng. Thay từng phương án vào câu, rồi xem vế sau (so please book early) có còn hợp nghĩa không."
+    },
+    {
+      "id": "q_u09_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "What happened to most of the money from last year's Spring Fair?",
+        "vi": "Phần lớn số tiền hội chợ mùa xuân năm ngoái quyên được đã đi đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It paid for the AI class.",
+            "vi": "Nó trả cho lớp học về AI."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It paid for the AI class.",
+          "text_translation": "Nó trả cho lớp học về AI."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It went to the local shops.",
+            "vi": "Nó về tay các cửa hàng trong vùng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It went to the local shops.",
+          "text_translation": "Nó về tay các cửa hàng trong vùng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It bought new children's books for the City Library.",
+            "vi": "Nó được dùng mua sách thiếu nhi mới cho thư viện thành phố."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It bought new children's books for the City Library.",
+          "text_translation": "Nó được dùng mua sách thiếu nhi mới cho thư viện thành phố."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It paid the young people at the summer camp.",
+            "vi": "Nó trả lương cho các bạn trẻ ở trại hè."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It paid the young people at the summer camp.",
+          "text_translation": "Nó trả lương cho các bạn trẻ ở trại hè."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Last year the fair raised four thousand five hundred dollars, and three-quarters of it went to new children's books at the City Library.\" Ba phần tư (three-quarters) là phần lớn số tiền. Các cửa hàng trong vùng chỉ bán đồ ăn ở hội chợ (\"food from local shops\"). Lớp AI có học phí riêng (\"four classes for twenty dollars\"), và bài không nói tiền hội chợ trả lương ở trại hè."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phân số: a half = 1/2, a quarter = 1/4, three-quarters = 3/4. Câu hỏi most of (phần lớn) thì tìm phân số lớn hơn một nửa."
+      },
+      "question_jp": "What happened to most of the money from last year's Spring Fair?",
+      "question_vn": "Phần lớn số tiền hội chợ mùa xuân năm ngoái quyên được đã đi đâu?",
+      "explanation": "\"Last year the fair raised four thousand five hundred dollars, and three-quarters of it went to new children's books at the City Library.\" Ba phần tư (three-quarters) là phần lớn số tiền. Các cửa hàng trong vùng chỉ bán đồ ăn ở hội chợ (\"food from local shops\"). Lớp AI có học phí riêng (\"four classes for twenty dollars\"), và bài không nói tiền hội chợ trả lương ở trại hè.",
+      "tip": "Phân số: a half = 1/2, a quarter = 1/4, three-quarters = 3/4. Câu hỏi most of (phần lớn) thì tìm phân số lớn hơn một nửa."
+    },
+    {
+      "id": "q_u09_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u09_02",
+      "i18n": {
+        "en": "Tracy might help out at the community center's summer camp. Why do the camp dates fit her plans?",
+        "vi": "Có thể Tracy sẽ phụ giúp ở trại hè của trung tâm cộng đồng. Vì sao thời gian của trại hè hợp với kế hoạch của cô?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The camp is only on Sundays, so she can also work at Harriet's.",
+            "vi": "Trại hè chỉ mở vào Chủ nhật, nên cô vẫn làm được ở quán Harriet's."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The camp is only on Sundays, so she can also work at Harriet's.",
+          "text_translation": "Trại hè chỉ mở vào Chủ nhật, nên cô vẫn làm được ở quán Harriet's."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The camp starts before she graduates.",
+            "vi": "Trại hè bắt đầu trước khi cô tốt nghiệp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The camp starts before she graduates.",
+          "text_translation": "Trại hè bắt đầu trước khi cô tốt nghiệp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The camp is in Washington, near her university.",
+            "vi": "Trại hè ở Washington, gần trường đại học của cô."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The camp is in Washington, near her university.",
+          "text_translation": "Trại hè ở Washington, gần trường đại học của cô."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The camp starts after she graduates and ends before she flies to Washington.",
+            "vi": "Trại hè bắt đầu sau khi cô tốt nghiệp và kết thúc trước khi cô bay đi Washington."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The camp starts after she graduates and ends before she flies to Washington.",
+          "text_translation": "Trại hè bắt đầu sau khi cô tốt nghiệp và kết thúc trước khi cô bay đi Washington."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu này nối hai bài đọc. Bài 2: trại hè kéo dài \"from Monday, June twenty-fourth, to Friday, August second\". Bài 1: Tracy tốt nghiệp ngày 14 tháng Sáu và bay đi ngày 24 tháng Tám. Vậy trại bắt đầu sau lễ tốt nghiệp mười ngày và kết thúc ba tuần trước chuyến bay. Trại làm \"five days a week\", không phải chỉ Chủ nhật. Trại bắt đầu sau, không phải trước, ngày tốt nghiệp. Trại ở trung tâm cộng đồng Maple Street, không phải ở Washington."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi nối hai bài: ghi các mốc ngày của cả hai bài ra nháp rồi xếp theo thứ tự thời gian. Dựa vào đó mà loại phương án sai."
+      },
+      "question_jp": "Tracy might help out at the community center's summer camp. Why do the camp dates fit her plans?",
+      "question_vn": "Có thể Tracy sẽ phụ giúp ở trại hè của trung tâm cộng đồng. Vì sao thời gian của trại hè hợp với kế hoạch của cô?",
+      "explanation": "Câu này nối hai bài đọc. Bài 2: trại hè kéo dài \"from Monday, June twenty-fourth, to Friday, August second\". Bài 1: Tracy tốt nghiệp ngày 14 tháng Sáu và bay đi ngày 24 tháng Tám. Vậy trại bắt đầu sau lễ tốt nghiệp mười ngày và kết thúc ba tuần trước chuyến bay. Trại làm \"five days a week\", không phải chỉ Chủ nhật. Trại bắt đầu sau, không phải trước, ngày tốt nghiệp. Trại ở trung tâm cộng đồng Maple Street, không phải ở Washington.",
+      "tip": "Câu hỏi nối hai bài: ghi các mốc ngày của cả hai bài ra nháp rồi xếp theo thứ tự thời gian. Dựa vào đó mà loại phương án sai."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u09_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Nhật ký của Tracy: ngày nhận thư báo đỗ đại học",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u09_01",
+      "question_ids": [
+        "q_u09_001",
+        "q_u09_002",
+        "q_u09_003",
+        "q_u09_004",
+        "q_u09_005"
+      ]
+    },
+    {
+      "set_id": "set_u09_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Lịch sự kiện mùa xuân của trung tâm cộng đồng Maple Street",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u09_02",
+      "question_ids": [
+        "q_u09_006",
+        "q_u09_007",
+        "q_u09_008",
+        "q_u09_009",
+        "q_u09_010"
+      ]
+    }
+  ]
+}

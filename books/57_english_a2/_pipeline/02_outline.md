@@ -10,6 +10,8 @@
 
 **Tránh trùng bài app** (xem 01_research.md mục 4).
 
+> ⚠️ **Mốc chốt ở u09:** Tracy tốt nghiệp thứ Sáu 14/6; bay đi Washington thứ Bảy 24/8. Vì vậy u18 (tiệc 70 tuổi bà Harriet) và u20 (thư chia tay) phải diễn ra TRƯỚC 24/8.
+
 | Ch. | Unit (phiếu) | Thời điểm | Nhân vật chính | Bài 1 (dàn nhân vật) | Bài 2 (chức năng / kiến thức) |
 |---|---|---|---|---|---|
 | u01 | Life stories (a2.01–04) | tháng 9, năm 2 | Tina, Harriet | Tina làm bài tập "Phỏng vấn một người lớn tuổi": bà Harriet kể tuổi thơ ở **thành phố Philadelphia** (KHÔNG ở nông thôn), hồi làm cô giáo | Tiểu sử ngắn **Jane Goodall** (nhà nghiên cứu tinh tinh). Sự thật phải đúng, WebSearch kiểm chứng |
