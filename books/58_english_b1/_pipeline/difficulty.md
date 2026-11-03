@@ -21,3 +21,4 @@ Mốc nối từ A2: u20 sách 57 = 265 / 265 từ, TB 16,0 / 16,7 từ/câu.
 | u2122 | 291 / 316 | 14.1 / 18.1 | blog Chloe 6 tháng làm tự do (HTHT tiếp diễn, lược bớt trong chat) + bản tin cứu chó Pepper và tin đồn sai (mệnh đề phân từ); 6 câu suy luận (1 nối 2 bài) |
 | u2324 | 274 / 349 | 13.4 / 20.0 | hội thoại nhà Brooks chọn phim (where/when không xác định; bài 1 là hội thoại nên câu ngắn) + khoa học âm nhạc và não bộ; 7 câu suy luận (1 nối 2 bài) |
 | u2526 | 323 / 378 | 20.8 / 18.4 | email câu lạc bộ sách của Harriet (sách giấy vs sách điện tử) + bài phòng khám thể thao về chấn thương do tập quá sức (ví dụ Trevor, quy tắc giờ tập ≤ tuổi); 7 câu suy luận/áp dụng (1 nối 2 bài) |
+| u2728 | 317 / 309 | 14.3 / 16.1 | nhật ký học ukulele của Megan (V-ing / to V) + thông báo hội chợ mùa thu với quy định (be to do); 6 câu suy luận/áp dụng (1 nối 2 bài) |
