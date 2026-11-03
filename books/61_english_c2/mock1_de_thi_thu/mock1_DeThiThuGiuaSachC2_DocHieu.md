@@ -95,81 +95,81 @@
 *(Mục đích chính của thông báo là gì?)*
 
 - A. to announce the opening of a room where people can listen to recorded local memories *(thông báo mở một phòng để mọi người nghe các ký ức địa phương đã được ghi âm)*
-- B. to sell headphones *(bán tai nghe)*
-- C. to announce that the library is closing *(thông báo thư viện đóng cửa)*
-- D. to report on the 1980 flood *(đưa tin về trận lụt năm 1980)*
+- B. to advertise a sale of used headphones and recorded books at the library *(để quảng cáo đợt bán tai nghe và sách nói cũ tại thư viện)*
+- C. to announce that the library's second floor will close for repairs on May 18 *(để thông báo tầng hai của thư viện sẽ đóng cửa sửa chữa vào ngày 18 tháng 5)*
+- D. to report on the great flood of 1980 and the damage it caused *(để đưa tin về trận lụt lớn năm 1980 và thiệt hại nó gây ra)*
 
 **2. How long may a visitor use a listening booth at a busy time?**
 *(Vào giờ đông, khách được dùng buồng nghe bao lâu?)*
 
-- A. up to two hours *(tối đa hai giờ)*
-- B. as long as they like *(bao lâu tuỳ ý)*
-- C. about thirty minutes *(khoảng ba mươi phút)*
-- D. forty-five minutes *(bốn mươi lăm phút)*
+- A. up to two hours, because booths are normally booked by the day *(tối đa hai giờ, vì các buồng thường được đặt theo ngày)*
+- B. as long as they like, once they have asked at the front desk *(bao lâu tùy ý, một khi họ đã hỏi ở quầy lễ tân)*
+- C. about thirty minutes, if others are waiting for a turn *(khoảng ba mươi phút, nếu còn người khác đang chờ đến lượt)*
+- D. forty-five minutes, the same as a recording session *(bốn mươi lăm phút, bằng một buổi thu âm)*
 
 **3. Why might some recordings be available in the library but not online?**
 *(Vì sao có bản ghi nghe được ở thư viện mà chưa nghe được trên mạng?)*
 
-- A. because the internet connection is slow *(vì mạng chậm)*
+- A. because the library's internet connection is too slow to play long recordings *(vì kết nối internet của thư viện quá chậm để phát các bản ghi âm dài)*
 - B. because written permission from the speaker or their family has not yet been given *(vì người kể hoặc gia đình họ chưa đồng ý bằng văn bản)*
-- C. because they are too long *(vì chúng quá dài)*
-- D. because they are in Spanish *(vì chúng bằng tiếng Tây Ban Nha)*
+- C. because they are too long to be stored on the library's computers *(vì chúng quá dài nên không lưu được trên máy tính của thư viện)*
+- D. because the speakers used Spanish, Vietnamese or Tagalog and nobody can translate them *(vì người kể dùng tiếng Tây Ban Nha, tiếng Việt hoặc tiếng Tagalog và không ai dịch được)*
 
 **4. A 15-year-old wants to record her story. What must happen?**
 *(Một em 15 tuổi muốn ghi âm câu chuyện của mình. Điều gì bắt buộc?)*
 
-- A. She must pay for the session. *(Em phải trả tiền buổi ghi âm.)*
-- B. She must write her story first. *(Em phải viết câu chuyện trước.)*
-- C. She must be interviewed in Spanish. *(Em phải được phỏng vấn bằng tiếng Tây Ban Nha.)*
+- A. She must pay a small fee for the forty-five-minute session. *(Em phải trả một khoản phí nhỏ cho buổi thu âm bốn mươi lăm phút.)*
+- B. She must first write out her whole story for a volunteer. *(Em phải viết trọn câu chuyện của mình trước cho một tình nguyện viên.)*
+- C. She must agree to be interviewed in Spanish, Vietnamese or Tagalog. *(Em phải đồng ý được phỏng vấn bằng tiếng Tây Ban Nha, tiếng Việt hoặc tiếng Tagalog.)*
 - D. A parent or guardian must come with her. *(Phải có cha mẹ hoặc người giám hộ đi cùng.)*
 
 **5. What can speakers do after recording their story?**
 *(Sau khi ghi âm, người kể có thể làm gì?)*
 
 - A. ask for the recording to be withdrawn at any time without giving a reason *(yêu cầu rút bản ghi bất cứ lúc nào mà không cần lý do)*
-- B. sell their recording *(bán bản ghi)*
-- C. edit other people's recordings *(sửa bản ghi của người khác)*
-- D. delete the documented facts *(xoá dữ kiện đã ghi nhận)*
+- B. sell a copy of their recording to other visitors and keep the money *(bán một bản sao bản ghi âm của mình cho khách khác và giữ lại tiền)*
+- C. correct the recordings of other speakers before they are published online *(sửa các bản ghi âm của người kể khác trước khi chúng được đăng trực tuyến)*
+- D. delete the short note that the library added beside the recording *(xóa ghi chú ngắn mà thư viện đã thêm bên cạnh bản ghi âm)*
 
 **6. How does the library handle a memory that differs from the written record?**
 *(Thư viện xử lý thế nào khi một ký ức khác hồ sơ viết?)*
 
-- A. It deletes the recording. *(Xoá bản ghi.)*
-- B. It asks the speaker to record again. *(Đề nghị người kể ghi lại.)*
+- A. It deletes the recording and replaces it with the version found in the local newspapers. *(Thư viện xóa bản ghi âm và thay bằng phiên bản có trong các tờ báo địa phương.)*
+- B. It asks the speaker to record the story again using only documented facts. *(Thư viện yêu cầu người kể ghi âm lại câu chuyện, chỉ dùng những sự kiện có tài liệu.)*
 - C. It keeps the recording unchanged and adds a short note with the documented facts. *(Giữ nguyên bản ghi và thêm ghi chú ngắn nêu dữ kiện đã ghi nhận.)*
-- D. It corrects the speaker's words. *(Sửa lời người kể.)*
+- D. It corrects the speaker's words and publishes only the corrected version online. *(Thư viện sửa lời người kể và chỉ đăng phiên bản đã sửa lên mạng.)*
 
 **7. What can be inferred from "These are memories, not documents"?**
 *(Có thể suy ra gì từ câu "Đây là ký ức, không phải tài liệu"?)*
 
-- A. The recordings are worthless. *(Các bản ghi vô giá trị.)*
-- B. The library does not trust its speakers. *(Thư viện không tin người kể.)*
-- C. Documents are always wrong. *(Tài liệu luôn sai.)*
-- D. Listeners should expect some details to differ from the facts, without dismissing the recordings. *(Người nghe nên lường trước có chi tiết lệch dữ kiện, nhưng không vì thế mà gạt bỏ bản ghi.)*
+- A. The recordings are worthless, because memories always contain mistakes that cannot be corrected. *(Các bản ghi âm vô giá trị, vì ký ức luôn chứa lỗi không thể sửa được.)*
+- B. The library does not trust its speakers, so it checks every sentence before publishing it online. *(Thư viện không tin người kể, nên kiểm tra từng câu trước khi đăng lên mạng.)*
+- C. Documents are always more reliable than memories, so the recordings are only for entertainment. *(Tài liệu luôn đáng tin hơn ký ức, nên các bản ghi âm chỉ để giải trí.)*
+- D. Listeners should expect some details to differ from the facts, yet the recordings still matter. *(Người nghe nên chờ đợi một số chi tiết khác với sự thật, nhưng các bản ghi âm vẫn có giá trị.)*
 
 **8. Which phrase in the notice repeats an idea from the oral-history interviews?**
 *(Cụm nào trong thông báo lặp lại ý từ các buổi phỏng vấn lịch sử truyền miệng?)*
 
-- A. "six quiet booths" *("sáu buồng nghe yên tĩnh")*
+- A. "six quiet booths with headphones" *("sáu buồng yên tĩnh có tai nghe")*
 - B. "both have something to teach us" *("cả hai đều có điều để dạy chúng ta")*
-- C. "a good pair of ears" *("một đôi tai tốt")*
-- D. "the front desk" *("quầy lễ tân")*
+- C. "only patience and a good pair of ears" *("chỉ cần sự kiên nhẫn và một đôi tai tốt")*
+- D. "ask at the front desk or call 619-555-0176" *("hỏi ở quầy lễ tân hoặc gọi 619-555-0176")*
 
 **9. What kind of volunteers does the library need?**
 *(Thư viện cần tình nguyện viên kiểu nào?)*
 
 - A. people to transcribe recordings and to interview speakers in other languages *(người chép lại bản ghi và người phỏng vấn bằng các ngôn ngữ khác)*
-- B. professional historians only *(chỉ nhà sử học chuyên nghiệp)*
-- C. people to repair headphones *(người sửa tai nghe)*
-- D. people to write newspaper articles *(người viết báo)*
+- B. professional historians who have written books about the flood of 1980 *(các nhà sử học chuyên nghiệp đã viết sách về trận lụt năm 1980)*
+- C. people who can repair the headphones and fix the six listening booths *(những người có thể sửa tai nghe và sửa sáu buồng nghe)*
+- D. people to write newspaper articles about the recordings and sell them *(những người viết bài báo về các bản ghi âm và đem bán)*
 
 **10. What does "only patience and a good pair of ears" suggest about the volunteer work?**
 *(Cụm "chỉ cần kiên nhẫn và một đôi tai tốt" gợi ý gì về việc tình nguyện?)*
 
-- A. It requires special equipment. *(Cần thiết bị đặc biệt.)*
-- B. It is very well paid. *(Được trả lương cao.)*
+- A. It requires special recording equipment that volunteers must bring themselves. *(Công việc đòi hỏi thiết bị ghi âm đặc biệt mà tình nguyện viên phải tự mang theo.)*
+- B. It is well paid, so only trained people are chosen for it. *(Công việc được trả lương cao, nên chỉ chọn người đã được đào tạo.)*
 - C. Listening carefully matters more than formal experience. *(Lắng nghe cẩn thận quan trọng hơn kinh nghiệm chính thức.)*
-- D. Volunteers must have medical training. *(Tình nguyện viên phải được đào tạo y tế.)*
+- D. Volunteers must have medical training and several years of experience with recordings. *(Tình nguyện viên phải được đào tạo y khoa và có nhiều năm kinh nghiệm với việc ghi âm.)*
 
 ---
 
@@ -210,81 +210,81 @@
 **11. What is the "small paradox" in the first paragraph?**
 *("Nghịch lý nhỏ" ở đoạn đầu là gì?)*
 
-- A. Feet are more ticklish than hands. *(Bàn chân nhột hơn bàn tay.)*
+- A. Feet are far more ticklish than hands, even when the touch is very light. *(Bàn chân nhột hơn bàn tay rất nhiều, ngay cả khi chạm rất nhẹ.)*
 - B. The same touch tickles when someone else does it but not when we do it ourselves. *(Cùng cái chạm ấy làm nhột khi người khác làm nhưng không nhột khi ta tự làm.)*
-- C. Laughing is bad for the brain. *(Cười có hại cho não.)*
-- D. Some people cannot laugh. *(Có người không cười được.)*
+- C. Laughing too much is bad for the brain, so the brain refuses to be tickled by the body. *(Cười quá nhiều có hại cho não, nên não từ chối bị chính cơ thể mình cù.)*
+- D. Some people never laugh when tickled, even when another person touches them lightly. *(Có người không bao giờ cười khi bị cù, kể cả khi người khác chạm nhẹ vào họ.)*
 
 **12. According to Blakemore's explanation, what does the cerebellum do?**
 *(Theo lời giải thích của Blakemore, tiểu não làm gì?)*
 
-- A. It sends movement commands to the feet. *(Gửi lệnh cử động xuống chân.)*
-- B. It produces laughter. *(Tạo ra tiếng cười.)*
-- C. It stores memories of being tickled. *(Lưu ký ức bị cù.)*
-- D. It uses a copy of the movement command to predict what the movement will feel like. *(Dùng bản sao lệnh cử động để dự đoán cử động sẽ tạo cảm giác gì.)*
+- A. It sends movement commands to the hands and feet so that they move smoothly. *(Nó gửi lệnh vận động đến tay và chân để chúng cử động trơn tru.)*
+- B. It produces laughter whenever the skin is touched by anyone or anything. *(Nó tạo ra tiếng cười mỗi khi da bị bất cứ ai hay vật gì chạm vào.)*
+- C. It decides when the skin should send a message of pain to the body. *(Nó quyết định khi nào da phải gửi tín hiệu đau tới cơ thể.)*
+- D. It uses a copy of the movement command to predict what the movement will feel like. *(Nó dùng bản sao của lệnh vận động để dự đoán cử động sẽ mang lại cảm giác thế nào.)*
 
 **13. Why is a touch from someone else felt more strongly?**
 *(Vì sao cái chạm từ người khác được cảm nhận mạnh hơn?)*
 
 - A. because it cannot be predicted, so it arrives as a surprise *(vì không thể dự đoán, nên nó tới như một bất ngờ)*
-- B. because other people press harder *(vì người khác ấn mạnh hơn)*
-- C. because the skin is warmer *(vì da ấm hơn)*
-- D. because we trust other people less *(vì ta ít tin người khác hơn)*
+- B. because other people usually press harder than we do ourselves *(vì người khác thường ấn mạnh hơn chính chúng ta)*
+- C. because the skin on our body becomes warmer when someone touches us *(vì da trên cơ thể ấm lên khi có người chạm vào ta)*
+- D. because we trust other people less, so the brain pays more attention to their hands *(vì ta tin người khác ít hơn, nên não chú ý nhiều hơn đến tay họ)*
 
 **14. What happened when a short delay was added to the robot's touch?**
 *(Chuyện gì xảy ra khi thêm khoảng trễ ngắn vào cái chạm của rô-bốt?)*
 
-- A. The volunteers felt nothing. *(Tình nguyện viên không cảm thấy gì.)*
-- B. The robot stopped working. *(Rô-bốt ngừng hoạt động.)*
+- A. The volunteers felt nothing at all, because the delay made the robot stop touching their palm. *(Các tình nguyện viên hoàn toàn không cảm thấy gì, vì độ trễ làm robot ngừng chạm vào lòng bàn tay họ.)*
+- B. The robot stopped working, and the researchers had to start the test again. *(Robot ngừng hoạt động, và các nhà nghiên cứu phải bắt đầu lại bài thử.)*
 - C. The touch felt more ticklish, because it no longer matched the prediction. *(Cái chạm thấy nhột hơn, vì nó không còn khớp với dự đoán.)*
-- D. The volunteers became angry. *(Tình nguyện viên tức giận.)*
+- D. The touch felt even duller, because the brain had more time to predict it. *(Cái chạm càng cảm thấy tù hơn, vì não có thêm thời gian để dự đoán nó.)*
 
 **15. Why does the writer call the robot experiment "ingenious"?**
 *(Vì sao người viết gọi thí nghiệm rô-bốt là "khéo léo"?)*
 
-- A. because the robot was very expensive *(vì rô-bốt rất đắt)*
-- B. because it allowed researchers to change the timing of a self-caused touch and test the prediction idea directly *(vì nó cho phép thay đổi thời điểm của cái chạm do chính mình gây ra để kiểm tra trực tiếp ý tưởng dự đoán)*
-- C. because the volunteers enjoyed it *(vì tình nguyện viên thích)*
-- D. because it was done quickly *(vì nó được làm nhanh)*
+- A. because the robot was so advanced that it could copy any human hand perfectly *(vì robot tiên tiến đến mức có thể bắt chước hoàn hảo mọi bàn tay người)*
+- B. because it let researchers change the timing of a self-caused touch to test the prediction idea *(vì nó cho các nhà nghiên cứu thay đổi thời điểm của một cái chạm do chính mình gây ra để kiểm tra ý tưởng về dự đoán)*
+- C. because the volunteers enjoyed the experiment and gave very honest answers afterwards *(vì các tình nguyện viên thích thí nghiệm và trả lời rất thật thà sau đó)*
+- D. because it was done quickly and needed no volunteers to move their hands *(vì nó làm rất nhanh và không cần tình nguyện viên nào phải cử động tay)*
 
 **16. According to the article, why does the brain cancel out self-caused sensations?**
 *(Theo bài, vì sao bộ não triệt tiêu những cảm giác do chính mình gây ra?)*
 
 - A. so that it is not overwhelmed and can notice unexpected sensations that matter *(để không bị quá tải và nhận ra được những cảm giác bất ngờ quan trọng)*
-- B. to save energy for sleep *(để dành năng lượng cho giấc ngủ)*
-- C. to make us laugh less *(để ta bớt cười)*
-- D. because it cannot feel anything *(vì nó không cảm nhận được gì)*
+- B. to save energy for sleep, because paying attention to every touch would tire the muscles *(để dành năng lượng cho giấc ngủ, vì chú ý đến mọi cái chạm sẽ làm cơ bắp mệt)*
+- C. to keep the skin from becoming sore after thousands of touches every day *(để da không bị đau rát sau hàng nghìn cái chạm mỗi ngày)*
+- D. because it cannot feel anything that it causes, since the nerves are switched off *(vì nó không thể cảm nhận bất cứ điều gì do nó gây ra, vì các dây thần kinh bị tắt)*
 
 **17. Why does the writer mention an insect landing on your arm?**
 *(Vì sao người viết nhắc tới con côn trùng đậu lên tay?)*
 
-- A. to warn readers about insects *(để cảnh báo về côn trùng)*
-- B. to describe another experiment *(để tả thí nghiệm khác)*
-- C. to show that insects are ticklish *(để cho thấy côn trùng gây nhột)*
+- A. to warn readers that insects can be dangerous when they land on the skin *(để cảnh báo người đọc rằng côn trùng có thể nguy hiểm khi đậu lên da)*
+- B. to describe another experiment using insects on volunteers' arms *(để mô tả một thí nghiệm khác dùng côn trùng trên cánh tay tình nguyện viên)*
+- C. to show that insects are more ticklish than other animals and people *(để cho thấy côn trùng nhột hơn các loài vật khác và con người)*
 - D. to give an example of an unexpected sensation the brain needs to notice *(để ví dụ một cảm giác bất ngờ mà não cần nhận ra)*
 
 **18. How does the writer present the possible link with hearing voices?**
 *(Người viết trình bày mối liên hệ với chứng nghe thấy giọng nói thế nào?)*
 
-- A. as a proven fact *(như một sự thật đã chứng minh)*
-- B. as a joke *(như chuyện đùa)*
-- C. as an interesting but uncertain idea *(như một ý tưởng thú vị nhưng chưa chắc chắn)*
-- D. as the main finding of Blakemore's study *(như phát hiện chính của nghiên cứu Blakemore)*
+- A. as a proven fact confirmed by many large studies *(như một sự thật đã được chứng minh bởi nhiều nghiên cứu lớn)*
+- B. as a joke meant to make the reader smile *(như một câu đùa nhằm làm người đọc mỉm cười)*
+- C. as an interesting idea that is still far from proven *(như một ý tưởng thú vị nhưng còn xa mới được chứng minh)*
+- D. as the main conclusion of Blakemore's own experiment *(như kết luận chính của chính thí nghiệm của Blakemore)*
 
 **19. What does the final paragraph argue?**
 *(Đoạn cuối lập luận gì?)*
 
-- A. The brain often fails. *(Não thường thất bại.)*
+- A. The brain often fails at simple tasks, which is why we cannot tickle ourselves. *(Não thường thất bại ở những việc đơn giản, đó là lý do ta không thể tự cù mình.)*
 - B. Not being able to tickle yourself shows the brain is working well. *(Không tự cù được mình cho thấy não đang hoạt động tốt.)*
-- C. Everyone should try to tickle themselves. *(Ai cũng nên thử tự cù mình.)*
-- D. Robots can replace the cerebellum. *(Rô-bốt có thể thay tiểu não.)*
+- C. Everyone should try to tickle themselves every day, because it keeps the cerebellum healthy. *(Ai cũng nên thử tự cù mình mỗi ngày, vì điều đó giữ cho tiểu não khỏe mạnh.)*
+- D. Robots could replace the cerebellum in people whose brains do not predict touch. *(Robot có thể thay thế tiểu não ở những người mà não không dự đoán được cái chạm.)*
 
 **20. Which word best describes the article's overall approach?**
 *(Từ nào mô tả đúng nhất cách tiếp cận chung của bài?)*
 
-- A. angry *(giận dữ)*
-- B. doubtful of all science *(nghi ngờ mọi khoa học)*
-- C. purely humorous *(thuần tuý hài hước)*
+- A. angry, criticizing scientists who have not solved the puzzle of tickling *(giận dữ, chỉ trích các nhà khoa học chưa giải được câu đố về cái nhột)*
+- B. doubtful of all science, suggesting that no explanation can be trusted *(hoài nghi mọi khoa học, ngụ ý rằng không lời giải thích nào đáng tin)*
+- C. purely humorous, using the puzzle of tickling only to make the reader laugh *(thuần hài hước, chỉ dùng câu đố về cái nhột để làm người đọc cười)*
 - D. explanatory, moving from an everyday puzzle to evidence and a careful wider claim *(giải thích, đi từ một câu đố đời thường tới bằng chứng và một nhận định rộng hơn có cân nhắc)*
 
 ---
@@ -348,82 +348,82 @@
 **21. Why was the hotel chain important to Bennett Studio?**
 *(Vì sao chuỗi khách sạn quan trọng với Bennett Studio?)*
 
-- A. It was a friend's company. *(Đó là công ty của bạn.)*
-- B. It was in Portland. *(Nó ở Portland.)*
+- A. It was owned by a friend of Ruby, so the studio wanted to help. *(Công ty đó của một người bạn của Ruby, nên studio muốn giúp.)*
+- B. It was based in Portland, where the studio hoped to open a second office. *(Công ty đặt ở Portland, nơi studio hy vọng mở văn phòng thứ hai.)*
 - C. It was the largest account the studio had ever been offered. *(Đó là hợp đồng lớn nhất studio từng được mời.)*
-- D. It paid in advance. *(Nó trả tiền trước.)*
+- D. It paid the whole fee in advance, which solved the studio's money problems. *(Công ty trả trước toàn bộ phí, giúp giải quyết chuyện tiền bạc của studio.)*
 
 **22. What does Mr. Hale really mean by "Not the same, obviously. Just like it"?**
 *(Ông Hale thật ra muốn nói gì qua câu "Tất nhiên là không giống hệt. Chỉ là y như thế"?)*
 
 - A. He wants a design that copies the competitor's closely without being identical. *(Ông muốn một thiết kế chép sát của đối thủ mà không giống hệt.)*
-- B. He wants something completely original. *(Ông muốn một thứ hoàn toàn độc đáo.)*
-- C. He wants the competitor's logo itself. *(Ông muốn chính logo của đối thủ.)*
-- D. He does not care about the design. *(Ông không quan tâm thiết kế.)*
+- B. He wants something completely original that looks nothing like the competitor's logo. *(Ông ấy muốn một thiết kế hoàn toàn độc đáo, không giống chút nào logo của đối thủ.)*
+- C. He wants the competitor's own logo, with the name of his hotels added to it. *(Ông ấy muốn chính logo của đối thủ, chỉ thêm tên các khách sạn của mình.)*
+- D. He does not care about the design as long as the price is lower than the competitor's. *(Ông ấy không quan tâm thiết kế miễn là giá thấp hơn giá của đối thủ.)*
 
 **23. Why does Chloe ask Mr. Hale what he likes about the competitor's logo?**
 *(Vì sao Chloe hỏi ông Hale ông thích điểm gì ở logo của đối thủ?)*
 
-- A. to delay the meeting *(để kéo dài cuộc họp)*
-- B. to criticize the other studio *(để chê studio kia)*
-- C. to find out the price *(để biết giá)*
+- A. to delay the meeting so that she could talk to Ruby in private *(để trì hoãn cuộc họp nhằm nói chuyện riêng với Ruby)*
+- B. to criticize the Portland studio and show Mr. Hale that his taste in design was poor *(để chê studio ở Portland và cho ông Hale thấy gu thiết kế của ông kém)*
+- C. to find out the price Mr. Hale was ready to pay for a copy of the logo *(để biết mức giá ông Hale sẵn sàng trả cho một bản sao của logo)*
 - D. to turn his request for a copy into a design goal she can meet honestly *(để biến yêu cầu chép thành một mục tiêu thiết kế mà cô có thể đáp ứng một cách trung thực)*
 
 **24. What is Chloe's business argument against copying?**
 *(Lý lẽ kinh doanh của Chloe để không sao chép là gì?)*
 
-- A. Copying is too expensive. *(Sao chép quá tốn kém.)*
+- A. Copying would cost more than an original design and take much longer to finish. *(Sao chép sẽ tốn hơn một thiết kế gốc và mất nhiều thời gian hoàn thành hơn.)*
 - B. Guests would be reminded of the competitor every time they saw the hotel's logo. *(Khách sẽ nghĩ tới đối thủ mỗi lần nhìn logo của khách sạn.)*
-- C. The competitor would sue the hotel. *(Đối thủ sẽ kiện khách sạn.)*
-- D. Copying takes too long. *(Sao chép mất quá nhiều thời gian.)*
+- C. The competitor would sue the hotel chain and the studio for copying its design. *(Đối thủ sẽ kiện cả chuỗi khách sạn lẫn studio vì chép thiết kế của họ.)*
+- D. The competitor's logo had won awards, so no other hotel could afford to use a similar one. *(Logo của đối thủ đã đoạt giải, nên không khách sạn nào khác đủ tiền dùng một logo tương tự.)*
 
 **25. How does Chloe interpret Mr. Hale's words "he would think about it"?**
 *(Chloe hiểu câu ông Hale "sẽ suy nghĩ" thế nào?)*
 
-- A. He has accepted her idea. *(Ông đã chấp nhận ý cô.)*
-- B. He will call her back the next day. *(Hôm sau ông sẽ gọi lại.)*
+- A. He has accepted her idea and will send the signed contract to the studio by Friday. *(Ông ấy đã chấp nhận ý tưởng của cô và sẽ gửi hợp đồng đã ký tới studio trước thứ Sáu.)*
+- B. He will call her back the next day with a more detailed brief for the design. *(Ông ấy sẽ gọi lại cho cô vào hôm sau với bản yêu cầu thiết kế chi tiết hơn.)*
 - C. He is politely saying that he will look for another studio. *(Ông đang lịch sự nói rằng ông sẽ tìm studio khác.)*
-- D. He wants a lower price. *(Ông muốn giá thấp hơn.)*
+- D. He wants a lower price and will return after talking to his accountant. *(Ông ấy muốn giá thấp hơn và sẽ quay lại sau khi nói chuyện với kế toán.)*
 
 **26. Why does Ruby say "That was our rent for a year walking out of the door"?**
 *(Vì sao Ruby nói "Tiền thuê nhà một năm của chúng ta vừa đi ra khỏi cửa đấy"?)*
 
-- A. because Mr. Hale took their money *(vì ông Hale lấy tiền của họ)*
+- A. because Mr. Hale took their money before he left the meeting *(vì ông Hale đã lấy tiền của họ trước khi rời buổi họp)*
 - B. because she believes they have lost a very valuable client *(vì cô tin họ vừa mất một khách hàng rất giá trị)*
-- C. because the rent is due *(vì tới hạn trả tiền thuê)*
-- D. because she wants to move *(vì cô muốn chuyển đi)*
+- C. because the rent is due tomorrow and she is afraid they will not be able to pay it *(vì ngày mai đến hạn trả tiền thuê và cô sợ họ không trả nổi)*
+- D. because she wants to move the studio to a cheaper building *(vì cô muốn chuyển studio sang một tòa nhà rẻ hơn)*
 
 **27. What does Chloe mean by "the people in Portland would have known. And so would we"?**
 *(Chloe muốn nói gì qua câu "mấy người ở Portland sẽ biết. Và chúng ta cũng biết"?)*
 
-- A. Even if it were legal, copying would be wrong, because they would know they had taken another studio's idea. *(Dù hợp pháp, sao chép vẫn sai, vì họ biết mình đã lấy ý tưởng của studio khác.)*
-- B. The Portland studio would sue them. *(Studio Portland sẽ kiện họ.)*
-- C. Everyone in Portland reads design magazines. *(Ai ở Portland cũng đọc tạp chí thiết kế.)*
-- D. They should move to Portland. *(Họ nên chuyển tới Portland.)*
+- A. Even if copying were legal, it would still be wrong, because they would know the idea was not theirs. *(Dù sao chép có hợp pháp, nó vẫn là sai, vì họ sẽ biết ý tưởng đó không phải của mình.)*
+- B. The Portland studio would sue them and ask for the money from the hotel contract. *(Studio ở Portland sẽ kiện họ và đòi khoản tiền từ hợp đồng khách sạn.)*
+- C. Everyone in Portland reads the same design magazines, so the copy would soon be found out by the hotel's guests. *(Ai ở Portland cũng đọc cùng các tạp chí thiết kế, nên khách của khách sạn sẽ sớm phát hiện ra bản sao.)*
+- D. They should move the studio to Portland, where designers would respect their original work. *(Họ nên chuyển studio tới Portland, nơi các nhà thiết kế sẽ tôn trọng tác phẩm gốc của họ.)*
 
 **28. Why does Chloe send the sketches with only "In case you are still thinking about it"?**
 *(Vì sao Chloe gửi các bản phác chỉ kèm câu "Phòng khi ông vẫn còn đang suy nghĩ"?)*
 
-- A. to apologize *(để xin lỗi)*
-- B. to ask for more money *(để đòi thêm tiền)*
-- C. to complain about him *(để phàn nàn về ông)*
+- A. to apologize for refusing his request and ask him for another chance *(để xin lỗi vì đã từ chối yêu cầu của ông và xin ông một cơ hội khác)*
+- B. to ask for more money, because the three sketches had taken her the whole weekend to finish *(để xin thêm tiền, vì ba bản phác thảo đã mất của cô cả cuối tuần để hoàn thành)*
+- C. to complain that he had ignored her advice during the meeting *(để phàn nàn rằng ông đã phớt lờ lời khuyên của cô trong buổi họp)*
 - D. to show him original work without pressure, with a hint of wit, using his own words *(để cho ông xem tác phẩm độc đáo mà không ép buộc, kèm chút dí dỏm, dùng lại chính lời ông)*
 
 **29. What does the ending suggest?**
 *(Kết truyện gợi ý điều gì?)*
 
-- A. Mr. Hale chose another studio. *(Ông Hale chọn studio khác.)*
-- B. Mr. Hale was angry. *(Ông Hale tức giận.)*
+- A. Mr. Hale chose another studio and called only to tell Chloe that he was no longer interested. *(Ông Hale chọn studio khác và gọi chỉ để báo với Chloe rằng ông không còn quan tâm nữa.)*
+- B. Mr. Hale was angry and called to complain about the three sketches. *(Ông Hale tức giận và gọi để phàn nàn về ba bản phác thảo.)*
 - C. Mr. Hale accepted one of Chloe's original designs, although he did not say so directly. *(Ông Hale đã chấp nhận một bản thiết kế độc đáo của Chloe, dù không nói thẳng.)*
-- D. Chloe changed the design to copy the competitor. *(Chloe sửa thiết kế để chép đối thủ.)*
+- D. Chloe changed her design to copy the competitor's after nine days without any reply. *(Chloe đổi thiết kế để chép theo đối thủ sau chín ngày không có hồi âm.)*
 
 **30. Which phrase best describes Chloe's approach?**
 *(Cụm nào mô tả đúng nhất cách làm của Chloe?)*
 
-- A. refusing politely, then offering something better *(từ chối lịch sự, rồi đưa ra một thứ tốt hơn)*
-- B. agreeing to everything the client wanted *(đồng ý mọi điều khách muốn)*
-- C. arguing angrily with the client *(cãi nhau giận dữ với khách)*
-- D. giving up the client immediately *(bỏ khách ngay lập tức)*
+- A. refusing politely, then offering something better in its place *(từ chối lịch sự, rồi đưa ra thứ tốt hơn để thay thế)*
+- B. agreeing to everything the client wanted, then changing the price *(đồng ý với mọi điều khách muốn, rồi thay đổi giá)*
+- C. arguing angrily with the client until he changed his mind *(tranh cãi giận dữ với khách cho đến khi ông đổi ý)*
+- D. giving up the client immediately and looking for a smaller one *(bỏ khách ngay lập tức và đi tìm một khách nhỏ hơn)*
 
 ---
 
@@ -465,82 +465,82 @@
 **31. What did the 2014 study ask volunteers to do?**
 *(Nghiên cứu năm 2014 đề nghị tình nguyện viên làm gì?)*
 
-- A. give each other electric shocks *(sốc điện lẫn nhau)*
-- B. read for fifteen minutes *(đọc sách mười lăm phút)*
-- C. use their phones in an empty room *(dùng điện thoại trong phòng trống)*
+- A. give each other mild electric shocks in a room with a phone *(cho nhau những cú sốc điện nhẹ trong một căn phòng có điện thoại)*
+- B. read quietly for fifteen minutes and then describe what they had read to the others *(đọc yên lặng mười lăm phút rồi kể lại cho những người khác nghe điều mình đã đọc)*
+- C. use their phones in an empty room and then write about the experience *(dùng điện thoại trong một căn phòng trống rồi viết về trải nghiệm đó)*
 - D. sit alone without a phone or anything to read and simply think *(ngồi một mình không điện thoại, không gì để đọc, và chỉ suy nghĩ)*
 
 **32. What is surprising about the electric shock result?**
 *(Kết quả về sốc điện có gì đáng ngạc nhiên?)*
 
-- A. Nobody pressed the button. *(Không ai bấm nút.)*
+- A. Nobody pressed the button, even though the volunteers had been left alone for an hour. *(Không ai bấm nút, dù các tình nguyện viên bị để một mình cả giờ.)*
 - B. Many people gave themselves a shock that they had earlier said they would pay to avoid. *(Nhiều người tự sốc điện dù trước đó đã nói sẵn sàng trả tiền để tránh.)*
-- C. Only women pressed the button. *(Chỉ phụ nữ bấm nút.)*
-- D. The shock was very painful. *(Cú sốc rất đau.)*
+- C. Only women pressed the button, even though the shock was painful. *(Chỉ phụ nữ bấm nút, dù cú sốc gây đau.)*
+- D. The shock was very painful, yet most people pressed it several times a minute. *(Cú sốc rất đau, vậy mà đa số người bấm nó nhiều lần mỗi phút.)*
 
 **33. How does Lydia respond to the idea that the study proves "we cannot bear our own company"?**
 *(Lydia đáp lại thế nào với ý cho rằng nghiên cứu chứng minh "ta không chịu nổi việc ở một mình"?)*
 
-- A. She fully agrees. *(Cô hoàn toàn đồng ý.)*
-- B. She says the study was fake. *(Cô nói nghiên cứu là giả.)*
+- A. She fully agrees, because two-thirds of the men and a quarter of the women pressed the button. *(Cô hoàn toàn đồng ý, vì hai phần ba số nam và một phần tư số nữ đã bấm nút.)*
+- B. She says the study was fake and that the volunteers were paid to act. *(Cô nói nghiên cứu là giả và các tình nguyện viên được trả tiền để diễn.)*
 - C. She is more cautious, citing critics' points about the study. *(Cô thận trọng hơn, dẫn các ý phê bình về nghiên cứu.)*
-- D. She ignores it. *(Cô phớt lờ.)*
+- D. She ignores it and moves on to talk about her own school. *(Cô bỏ qua nó và chuyển sang nói về trường của mình.)*
 
 **34. What does "Suffice it to say" introduce?**
 *(Cụm "Suffice it to say" dẫn vào điều gì?)*
 
 - A. Lydia's limited, careful conclusion about what the study shows *(kết luận có giới hạn, thận trọng của Lydia về điều nghiên cứu cho thấy)*
-- B. a new experiment *(một thí nghiệm mới)*
-- C. a joke *(một câu đùa)*
-- D. a criticism of the critics *(lời phê bình những người phê bình)*
+- B. a new experiment that shows what happens when students are left without phones *(một thí nghiệm mới cho thấy điều gì xảy ra khi học sinh bị để không có điện thoại)*
+- C. a joke that lightens the mood after the study *(một câu đùa làm dịu không khí sau nghiên cứu)*
+- D. a strong criticism of the critics who doubted the study *(một lời chỉ trích mạnh với những người đã nghi ngờ nghiên cứu)*
 
 **35. Why does Lydia compare boredom to hunger?**
 *(Vì sao Lydia so sánh buồn chán với cơn đói?)*
 
-- A. Both are dangerous. *(Cả hai đều nguy hiểm.)*
-- B. Both happen after lunch. *(Cả hai xảy ra sau bữa trưa.)*
-- C. Both can be cured with phones. *(Cả hai chữa được bằng điện thoại.)*
+- A. Both are dangerous, and both can harm the body if they are ignored for too long. *(Cả hai đều nguy hiểm, và cả hai có thể làm hại cơ thể nếu bị bỏ qua quá lâu.)*
+- B. Both appear mostly after lunch, when people feel tired. *(Cả hai chủ yếu xuất hiện sau bữa trưa, khi người ta thấy mệt.)*
+- C. Both can be cured at once with a phone in the pocket. *(Cả hai có thể được chữa ngay bằng một chiếc điện thoại trong túi.)*
 - D. Both are signals that something is needed, not harms in themselves. *(Cả hai là tín hiệu báo cần một điều gì đó, chứ bản thân không phải là tổn hại.)*
 
 **36. What is the "fourth answer in our pockets"?**
 *("Cách thứ tư trong túi" là gì?)*
 
-- A. a notebook *(một cuốn sổ)*
-- B. a mobile phone *(điện thoại di động)*
-- C. a snack *(đồ ăn vặt)*
-- D. money *(tiền)*
+- A. a notebook for writing down ideas *(một cuốn sổ để ghi lại ý tưởng)*
+- B. a mobile phone, always within reach *(một chiếc điện thoại di động, luôn nằm trong tầm tay)*
+- C. a snack to eat when we feel bored *(một món ăn vặt để ăn khi thấy chán)*
+- D. money to spend on something new *(tiền để tiêu vào thứ gì đó mới)*
 
 **37. What does Lydia's example from the phone-free experiment show?**
 *(Ví dụ từ đợt thử nghiệm không điện thoại cho thấy điều gì?)*
 
-- A. Students hated every day of the experiment. *(Học sinh ghét mọi ngày của thử nghiệm.)*
-- B. Phones help students write poems. *(Điện thoại giúp học sinh làm thơ.)*
+- A. Students hated every day of the experiment and asked to stop it. *(Học sinh ghét mọi ngày của thí nghiệm và xin dừng lại.)*
+- B. Phones help students become more creative, because they can write poems and invent games. *(Điện thoại giúp học sinh sáng tạo hơn, vì các em có thể làm thơ và nghĩ ra trò chơi.)*
 - C. Once boredom was allowed to last, some students became creative. *(Khi buồn chán được để yên, một số học sinh trở nên sáng tạo.)*
-- D. The classroom clock was broken. *(Đồng hồ trong lớp bị hỏng.)*
+- D. The classroom clock was broken, so students had nothing to do. *(Đồng hồ lớp học bị hỏng nên học sinh không có việc gì để làm.)*
 
 **38. What grammatical structure appears in "had the boredom been switched off"?**
 *(Cụm "had the boredom been switched off" dùng cấu trúc ngữ pháp nào?)*
 
-- A. a passive future *(bị động tương lai)*
+- A. a passive future referring to something that will be switched off tomorrow *(một dạng bị động ở tương lai nói về điều sẽ được tắt vào ngày mai)*
 - B. an inverted past condition meaning "if the boredom had been switched off" *(điều kiện quá khứ đảo ngữ, nghĩa là "nếu nỗi buồn chán đã bị tắt")*
-- C. a question *(một câu hỏi)*
-- D. a reported command *(một mệnh lệnh gián tiếp)*
+- C. a question asking whether the boredom had been switched off at the first sign *(một câu hỏi xem sự buồn chán đã bị tắt ngay từ dấu hiệu đầu tiên hay chưa)*
+- D. a reported command telling someone to switch the boredom off *(một mệnh lệnh gián tiếp bảo ai đó tắt sự buồn chán đi)*
 
 **39. What is Lydia's main argument?**
 *(Lập luận chính của Lydia là gì?)*
 
-- A. Boredom is pleasant and we should seek it. *(Buồn chán dễ chịu và ta nên tìm nó.)*
-- B. Phones should be banned everywhere. *(Nên cấm điện thoại ở mọi nơi.)*
-- C. The 2014 study was wrong. *(Nghiên cứu năm 2014 sai.)*
+- A. Boredom is pleasant, so we should seek it out whenever we have a free moment in the day. *(Chán là dễ chịu, nên ta nên tìm đến nó mỗi khi có chút thời gian rảnh trong ngày.)*
+- B. Phones should be banned in every school, because they take away the time for imagination. *(Điện thoại nên bị cấm ở mọi trường học, vì chúng lấy mất thời gian dành cho trí tưởng tượng.)*
+- C. The 2014 study was wrong, and its results should not be trusted. *(Nghiên cứu năm 2014 là sai, và không nên tin kết quả của nó.)*
 - D. We should stop treating boredom as an emergency, because imagination grows in that space. *(Ta nên thôi coi buồn chán là tình huống khẩn cấp, vì trí tưởng tượng nảy nở trong khoảng trống đó.)*
 
 **40. How does Lydia make her position clear in the last paragraph?**
 *(Ở đoạn cuối, Lydia làm rõ quan điểm của mình bằng cách nào?)*
 
 - A. by first saying what she is not arguing, then what she is *(bằng cách nói trước điều cô không cho là đúng, rồi mới nói điều cô cho là đúng)*
-- B. by asking readers to decide *(bằng cách mời người đọc tự quyết)*
-- C. by telling a joke *(bằng cách kể chuyện đùa)*
-- D. by quoting the critics again *(bằng cách trích lại những người phê bình)*
+- B. by asking readers to decide for themselves whether the study proves anything at all *(bằng cách đề nghị người đọc tự quyết xem nghiên cứu có chứng minh được gì không)*
+- C. by telling a joke about her students and the classroom clock *(bằng cách kể một câu đùa về học sinh và chiếc đồng hồ lớp học)*
+- D. by quoting the critics again and then agreeing with them *(bằng cách trích lại các nhà phê bình rồi đồng ý với họ)*
 
 ---
 

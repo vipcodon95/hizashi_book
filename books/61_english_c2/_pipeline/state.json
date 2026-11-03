@@ -6,7 +6,7 @@
   "topic": "Sách bài tập đọc hiểu C2 (sách ôn) bám khoá tiếng Anh Hizashi, dàn nhân vật Maple Street; kiểu đề đọc C2 quốc tế",
   "target_audience": "Người Việt ôn khoá C2 trên app Hizashi",
   "domain_expert_role": "Giáo viên luyện thi C2",
-  "current_stage": 5,
+  "current_stage": 6,
   "stages": {
     "01_research": {
       "status": "done",
@@ -35,7 +35,10 @@
       ]
     },
     "05_review": {
-      "status": "pending"
+      "status": "done",
+      "output": "_pipeline/05_factcheck.md",
+      "completed_at": "2026-11-04T01:00:00",
+      "note": "Sonnet rà sự thật/câu hỏi/vùng cấm/cốt truyện + cân độ dài phương án; main kiểm chứng"
     },
     "06_consistency": {
       "status": "pending"

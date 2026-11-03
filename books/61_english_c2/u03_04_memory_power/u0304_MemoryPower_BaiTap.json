@@ -760,24 +760,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It was cancelled.",
-            "vi": "Nó bị huỷ."
+            "en": "It was cancelled because Harriet was too busy to continue.",
+            "vi": "Buổi phỏng vấn bị hủy vì Harriet quá bận để tiếp tục."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It was cancelled.",
-          "text_translation": "Nó bị huỷ."
+          "text": "It was cancelled because Harriet was too busy to continue.",
+          "text_translation": "Buổi phỏng vấn bị hủy vì Harriet quá bận để tiếp tục."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It took exactly one hour.",
-            "vi": "Nó mất đúng một giờ."
+            "en": "It took exactly one hour, as Harriet had promised him.",
+            "vi": "Nó kéo dài đúng một giờ, như Harriet đã hứa với ông."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It took exactly one hour.",
-          "text_translation": "Nó mất đúng một giờ."
+          "text": "It took exactly one hour, as Harriet had promised him.",
+          "text_translation": "Nó kéo dài đúng một giờ, như Harriet đã hứa với ông."
         },
         {
           "id": "C",
@@ -793,13 +793,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Harriet refused to be interviewed.",
-            "vi": "Bà Harriet từ chối phỏng vấn."
+            "en": "Harriet refused to be interviewed after the first afternoon.",
+            "vi": "Harriet từ chối được phỏng vấn sau buổi chiều đầu tiên."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Harriet refused to be interviewed.",
-          "text_translation": "Bà Harriet từ chối phỏng vấn."
+          "text": "Harriet refused to be interviewed after the first afternoon.",
+          "text_translation": "Harriet từ chối được phỏng vấn sau buổi chiều đầu tiên."
         }
       ],
       "evidence_segments": [
@@ -839,35 +839,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "There was never a flood.",
-            "vi": "Chưa từng có trận lụt nào."
+            "en": "There was never a flood on Pine Street, only a heavy storm that nobody remembers well.",
+            "vi": "Chưa từng có lũ ở phố Pine, chỉ có một cơn bão lớn mà không ai nhớ rõ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "There was never a flood.",
-          "text_translation": "Chưa từng có trận lụt nào."
+          "text": "There was never a flood on Pine Street, only a heavy storm that nobody remembers well.",
+          "text_translation": "Chưa từng có lũ ở phố Pine, chỉ có một cơn bão lớn mà không ai nhớ rõ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The fire station did not exist.",
-            "vi": "Trạm cứu hoả không tồn tại."
+            "en": "The fire station did not exist yet when she arrived on Maple Street.",
+            "vi": "Trạm cứu hỏa chưa tồn tại khi bà đến phố Maple."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The fire station did not exist.",
-          "text_translation": "Trạm cứu hoả không tồn tại."
+          "text": "The fire station did not exist yet when she arrived on Maple Street.",
+          "text_translation": "Trạm cứu hỏa chưa tồn tại khi bà đến phố Maple."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She arrived in 1980.",
-            "vi": "Bà tới năm 1980."
+            "en": "She arrived in 1980, two years later than she remembers.",
+            "vi": "Bà đến vào năm 1980, muộn hơn hai năm so với bà nhớ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She arrived in 1980.",
-          "text_translation": "Bà tới năm 1980."
+          "text": "She arrived in 1980, two years later than she remembers.",
+          "text_translation": "Bà đến vào năm 1980, muộn hơn hai năm so với bà nhớ."
         }
       ],
       "evidence_segments": [
@@ -896,46 +896,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because he had lost the photograph",
-            "vi": "vì ông làm mất bức ảnh"
+            "en": "because he had lost the photograph of the boat that Harriet had asked to see again",
+            "vi": "vì ông đã làm mất tấm ảnh chiếc thuyền mà Harriet muốn xem lại"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because he had lost the photograph",
-          "text_translation": "vì ông làm mất bức ảnh"
+          "text": "because he had lost the photograph of the boat that Harriet had asked to see again",
+          "text_translation": "vì ông đã làm mất tấm ảnh chiếc thuyền mà Harriet muốn xem lại"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because he had been rude to Harriet",
-            "vi": "vì ông đã thô lỗ với bà Harriet"
+            "en": "because he had been rude to Harriet when she told him the story of the storm",
+            "vi": "vì ông đã thô lỗ với Harriet khi bà kể câu chuyện về cơn bão"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because he had been rude to Harriet",
-          "text_translation": "vì ông đã thô lỗ với bà Harriet"
+          "text": "because he had been rude to Harriet when she told him the story of the storm",
+          "text_translation": "vì ông đã thô lỗ với Harriet khi bà kể câu chuyện về cơn bão"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because he had made the mistake himself",
-            "vi": "vì chính ông mắc lỗi"
+            "en": "because he had made the same mistake himself in the interview with Harriet",
+            "vi": "vì chính ông đã mắc cùng lỗi đó trong buổi phỏng vấn Harriet"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because he had made the mistake himself",
-          "text_translation": "vì chính ông mắc lỗi"
+          "text": "because he had made the same mistake himself in the interview with Harriet",
+          "text_translation": "vì chính ông đã mắc cùng lỗi đó trong buổi phỏng vấn Harriet"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because he had felt pleased at catching his neighbor in an error, rather than asking why it happened",
-            "vi": "vì ông đã thấy thích thú khi bắt được lỗi của hàng xóm, thay vì hỏi vì sao lỗi xảy ra"
+            "en": "because he felt pleased at catching his neighbor in an error instead of asking why it happened",
+            "vi": "vì ông thấy thích thú khi bắt lỗi người hàng xóm thay vì hỏi vì sao lỗi xảy ra"
           },
           "is_correct": true,
           "order": 3,
-          "text": "because he had felt pleased at catching his neighbor in an error, rather than asking why it happened",
-          "text_translation": "vì ông đã thấy thích thú khi bắt được lỗi của hàng xóm, thay vì hỏi vì sao lỗi xảy ra"
+          "text": "because he felt pleased at catching his neighbor in an error instead of asking why it happened",
+          "text_translation": "vì ông thấy thích thú khi bắt lỗi người hàng xóm thay vì hỏi vì sao lỗi xảy ra"
         }
       ],
       "evidence_segments": [
@@ -964,46 +964,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Most students remembered perfectly.",
-            "vi": "Phần lớn sinh viên nhớ hoàn hảo."
+            "en": "Most students remembered the news perfectly after more than two years.",
+            "vi": "Hầu hết sinh viên nhớ tin đó hoàn hảo sau hơn hai năm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Most students remembered perfectly.",
-          "text_translation": "Phần lớn sinh viên nhớ hoàn hảo."
+          "text": "Most students remembered the news perfectly after more than two years.",
+          "text_translation": "Hầu hết sinh viên nhớ tin đó hoàn hảo sau hơn hai năm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Many accounts had changed, but the students were confident, and confidence did not predict accuracy.",
-            "vi": "Nhiều lời kể đã thay đổi, nhưng sinh viên vẫn tự tin, và độ tự tin không cho biết độ chính xác."
+            "en": "Many accounts had changed, but confident students were not more accurate.",
+            "vi": "Nhiều lời kể đã thay đổi, nhưng sinh viên tự tin không chính xác hơn."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Many accounts had changed, but the students were confident, and confidence did not predict accuracy.",
-          "text_translation": "Nhiều lời kể đã thay đổi, nhưng sinh viên vẫn tự tin, và độ tự tin không cho biết độ chính xác."
+          "text": "Many accounts had changed, but confident students were not more accurate.",
+          "text_translation": "Nhiều lời kể đã thay đổi, nhưng sinh viên tự tin không chính xác hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The students refused to answer.",
-            "vi": "Sinh viên từ chối trả lời."
+            "en": "The students refused to answer because they had forgotten the event.",
+            "vi": "Sinh viên từ chối trả lời vì họ đã quên sự kiện."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The students refused to answer.",
-          "text_translation": "Sinh viên từ chối trả lời."
+          "text": "The students refused to answer because they had forgotten the event.",
+          "text_translation": "Sinh viên từ chối trả lời vì họ đã quên sự kiện."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Only confident students made mistakes.",
-            "vi": "Chỉ sinh viên tự tin mới sai."
+            "en": "Only confident students made mistakes, while the careful ones remembered well.",
+            "vi": "Chỉ sinh viên tự tin mới sai, còn người cẩn thận nhớ tốt."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Only confident students made mistakes.",
-          "text_translation": "Chỉ sinh viên tự tin mới sai."
+          "text": "Only confident students made mistakes, while the careful ones remembered well.",
+          "text_translation": "Chỉ sinh viên tự tin mới sai, còn người cẩn thận nhớ tốt."
         }
       ],
       "evidence_segments": [
@@ -1032,24 +1032,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They could not read their handwriting.",
-            "vi": "Họ không đọc được chữ mình."
+            "en": "They could not read their own handwriting, so they asked the researchers to read it.",
+            "vi": "Họ không đọc được chữ viết tay của chính mình nên nhờ các nhà nghiên cứu đọc hộ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They could not read their handwriting.",
-          "text_translation": "Họ không đọc được chữ mình."
+          "text": "They could not read their own handwriting, so they asked the researchers to read it.",
+          "text_translation": "Họ không đọc được chữ viết tay của chính mình nên nhờ các nhà nghiên cứu đọc hộ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They thanked the researchers.",
-            "vi": "Họ cảm ơn các nhà nghiên cứu."
+            "en": "They thanked the researchers for showing them the old pages.",
+            "vi": "Họ cảm ơn các nhà nghiên cứu đã cho xem những trang cũ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They thanked the researchers.",
-          "text_translation": "Họ cảm ơn các nhà nghiên cứu."
+          "text": "They thanked the researchers for showing them the old pages.",
+          "text_translation": "Họ cảm ơn các nhà nghiên cứu đã cho xem những trang cũ."
         },
         {
           "id": "C",
@@ -1065,13 +1065,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "They all corrected their stories.",
-            "vi": "Tất cả đều sửa lại lời kể."
+            "en": "They all corrected their stories as soon as they saw the pages.",
+            "vi": "Tất cả họ sửa lại lời kể ngay khi thấy các trang giấy."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They all corrected their stories.",
-          "text_translation": "Tất cả đều sửa lại lời kể."
+          "text": "They all corrected their stories as soon as they saw the pages.",
+          "text_translation": "Tất cả họ sửa lại lời kể ngay khi thấy các trang giấy."
         }
       ],
       "evidence_segments": [
@@ -1100,46 +1100,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that Harriet's kind of error is common and does not mean she is careless or dishonest",
-            "vi": "để cho thấy kiểu lỗi của bà Harriet là phổ biến, không có nghĩa bà cẩu thả hay không trung thực"
+            "en": "to show that Harriet's kind of error is common and does not mean she is careless",
+            "vi": "để cho thấy lỗi như của Harriet là phổ biến và không có nghĩa bà cẩu thả"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to show that Harriet's kind of error is common and does not mean she is careless or dishonest",
-          "text_translation": "để cho thấy kiểu lỗi của bà Harriet là phổ biến, không có nghĩa bà cẩu thả hay không trung thực"
+          "text": "to show that Harriet's kind of error is common and does not mean she is careless",
+          "text_translation": "để cho thấy lỗi như của Harriet là phổ biến và không có nghĩa bà cẩu thả"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to prove that the archive is always wrong",
-            "vi": "để chứng minh kho lưu trữ luôn sai"
+            "en": "to prove that the archive is always wrong when it disagrees with people who remember",
+            "vi": "để chứng minh kho lưu trữ luôn sai khi nó mâu thuẫn với người còn nhớ sự việc"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to prove that the archive is always wrong",
-          "text_translation": "để chứng minh kho lưu trữ luôn sai"
+          "text": "to prove that the archive is always wrong when it disagrees with people who remember",
+          "text_translation": "để chứng minh kho lưu trữ luôn sai khi nó mâu thuẫn với người còn nhớ sự việc"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to explain space travel",
-            "vi": "để giải thích du hành vũ trụ"
+            "en": "to explain space travel and how students heard about the Challenger launch",
+            "vi": "để giải thích du hành vũ trụ và cách sinh viên biết về vụ phóng Challenger"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to explain space travel",
-          "text_translation": "để giải thích du hành vũ trụ"
+          "text": "to explain space travel and how students heard about the Challenger launch",
+          "text_translation": "để giải thích du hành vũ trụ và cách sinh viên biết về vụ phóng Challenger"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to criticize university students",
-            "vi": "để chê sinh viên đại học"
+            "en": "to criticize university students for forgetting something so important",
+            "vi": "để chê sinh viên đại học vì quên một chuyện quan trọng đến vậy"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to criticize university students",
-          "text_translation": "để chê sinh viên đại học"
+          "text": "to criticize university students for forgetting something so important",
+          "text_translation": "để chê sinh viên đại học vì quên một chuyện quan trọng đến vậy"
         }
       ],
       "evidence_segments": [
@@ -1169,35 +1169,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because she was confused about the years",
-            "vi": "vì bà lẫn lộn năm tháng"
+            "en": "because she was simply confused about the years and had never checked them",
+            "vi": "vì bà chỉ đơn giản nhầm các năm và chưa bao giờ kiểm tra lại"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because she was confused about the years",
-          "text_translation": "vì bà lẫn lộn năm tháng"
+          "text": "because she was simply confused about the years and had never checked them",
+          "text_translation": "vì bà chỉ đơn giản nhầm các năm và chưa bao giờ kiểm tra lại"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because a newspaper had reported it wrongly",
-            "vi": "vì một tờ báo đưa tin sai"
+            "en": "because a newspaper had reported the date wrongly at the time",
+            "vi": "vì một tờ báo đã đưa sai ngày vào thời điểm đó"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because a newspaper had reported it wrongly",
-          "text_translation": "vì một tờ báo đưa tin sai"
+          "text": "because a newspaper had reported the date wrongly at the time",
+          "text_translation": "vì một tờ báo đã đưa sai ngày vào thời điểm đó"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because she wanted to impress Mitchell",
-            "vi": "vì bà muốn gây ấn tượng với Mitchell"
+            "en": "because she wanted to impress Mitchell and the library with a more dramatic story of arriving",
+            "vi": "vì bà muốn gây ấn tượng với Mitchell và thư viện bằng một câu chuyện đến phố kịch tính hơn"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because she wanted to impress Mitchell",
-          "text_translation": "vì bà muốn gây ấn tượng với Mitchell"
+          "text": "because she wanted to impress Mitchell and the library with a more dramatic story of arriving",
+          "text_translation": "vì bà muốn gây ấn tượng với Mitchell và thư viện bằng một câu chuyện đến phố kịch tính hơn"
         },
         {
           "id": "D",
@@ -1237,46 +1237,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The flood should be moved in the archive.",
-            "vi": "Nên dời trận lụt trong kho lưu trữ."
+            "en": "The flood should be moved to a different year in the library's archive.",
+            "vi": "Trận lũ nên được chuyển sang một năm khác trong kho lưu trữ của thư viện."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The flood should be moved in the archive.",
-          "text_translation": "Nên dời trận lụt trong kho lưu trữ."
+          "text": "The flood should be moved to a different year in the library's archive.",
+          "text_translation": "Trận lũ nên được chuyển sang một năm khác trong kho lưu trữ của thư viện."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "In her feelings the flood belonged to her arrival, even though the dates were different.",
-            "vi": "Trong cảm xúc của bà, trận lụt gắn với ngày bà tới, dù ngày tháng khác nhau."
+            "en": "In her feelings the flood belonged to her arrival, although the dates differ.",
+            "vi": "Trong cảm xúc của bà, trận lũ thuộc về lúc bà đến, dù ngày tháng khác nhau."
           },
           "is_correct": true,
           "order": 1,
-          "text": "In her feelings the flood belonged to her arrival, even though the dates were different.",
-          "text_translation": "Trong cảm xúc của bà, trận lụt gắn với ngày bà tới, dù ngày tháng khác nhau."
+          "text": "In her feelings the flood belonged to her arrival, although the dates differ.",
+          "text_translation": "Trong cảm xúc của bà, trận lũ thuộc về lúc bà đến, dù ngày tháng khác nhau."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The flood happened twice.",
-            "vi": "Trận lụt xảy ra hai lần."
+            "en": "The flood happened twice, once for her feelings and once in the archive.",
+            "vi": "Trận lũ xảy ra hai lần, một lần trong cảm xúc của bà và một lần trong kho lưu trữ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The flood happened twice.",
-          "text_translation": "Trận lụt xảy ra hai lần."
+          "text": "The flood happened twice, once for her feelings and once in the archive.",
+          "text_translation": "Trận lũ xảy ra hai lần, một lần trong cảm xúc của bà và một lần trong kho lưu trữ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Her emotions were wrong.",
-            "vi": "Cảm xúc của bà sai."
+            "en": "Her emotions were wrong, so her memory of the dates could not be trusted.",
+            "vi": "Cảm xúc của bà sai, nên không thể tin trí nhớ của bà về ngày tháng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Her emotions were wrong.",
-          "text_translation": "Cảm xúc của bà sai."
+          "text": "Her emotions were wrong, so her memory of the dates could not be trusted.",
+          "text_translation": "Cảm xúc của bà sai, nên không thể tin trí nhớ của bà về ngày tháng."
         }
       ],
       "evidence_segments": [
@@ -1316,35 +1316,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "only the newspaper version",
-            "vi": "chỉ bản của tờ báo"
+            "en": "only the newspaper version, because dates matter more than memories do",
+            "vi": "chỉ bản của tờ báo, vì ngày tháng quan trọng hơn ký ức"
           },
           "is_correct": false,
           "order": 1,
-          "text": "only the newspaper version",
-          "text_translation": "chỉ bản của tờ báo"
+          "text": "only the newspaper version, because dates matter more than memories do",
+          "text_translation": "chỉ bản của tờ báo, vì ngày tháng quan trọng hơn ký ức"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "only Harriet's version",
-            "vi": "chỉ bản của bà Harriet"
+            "en": "only Harriet's version, because her memory has the deeper meaning",
+            "vi": "chỉ bản của Harriet, vì ký ức của bà có ý nghĩa sâu hơn"
           },
           "is_correct": false,
           "order": 2,
-          "text": "only Harriet's version",
-          "text_translation": "chỉ bản của bà Harriet"
+          "text": "only Harriet's version, because her memory has the deeper meaning",
+          "text_translation": "chỉ bản của Harriet, vì ký ức của bà có ý nghĩa sâu hơn"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "a corrected version of Harriet's story",
-            "vi": "bản đã sửa của câu chuyện bà Harriet"
+            "en": "a corrected version of Harriet's story, with the right date in place",
+            "vi": "một bản đã sửa của câu chuyện Harriet, với ngày đúng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "a corrected version of Harriet's story",
-          "text_translation": "bản đã sửa của câu chuyện bà Harriet"
+          "text": "a corrected version of Harriet's story, with the right date in place",
+          "text_translation": "một bản đã sửa của câu chuyện Harriet, với ngày đúng"
         }
       ],
       "evidence_segments": [
@@ -1373,24 +1373,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She still insists the archive is wrong.",
-            "vi": "Bà vẫn khăng khăng kho lưu trữ sai."
+            "en": "She still insists the archive is wrong and that she remembers everything correctly.",
+            "vi": "Bà vẫn khăng khăng kho lưu trữ sai và bà nhớ mọi thứ đúng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She still insists the archive is wrong.",
-          "text_translation": "Bà vẫn khăng khăng kho lưu trữ sai."
+          "text": "She still insists the archive is wrong and that she remembers everything correctly.",
+          "text_translation": "Bà vẫn khăng khăng kho lưu trữ sai và bà nhớ mọi thứ đúng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She is angry with Mitchell.",
-            "vi": "Bà giận Mitchell."
+            "en": "She is angry with Mitchell for showing her the old photograph.",
+            "vi": "Bà giận Mitchell vì đã cho bà xem tấm ảnh cũ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She is angry with Mitchell.",
-          "text_translation": "Bà giận Mitchell."
+          "text": "She is angry with Mitchell for showing her the old photograph.",
+          "text_translation": "Bà giận Mitchell vì đã cho bà xem tấm ảnh cũ."
         },
         {
           "id": "C",
@@ -1406,13 +1406,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "She has forgotten the flood.",
-            "vi": "Bà đã quên trận lụt."
+            "en": "She has forgotten the flood and now believes it never happened.",
+            "vi": "Bà đã quên trận lũ và giờ tin rằng nó chưa từng xảy ra."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She has forgotten the flood.",
-          "text_translation": "Bà đã quên trận lụt."
+          "text": "She has forgotten the flood and now believes it never happened.",
+          "text_translation": "Bà đã quên trận lũ và giờ tin rằng nó chưa từng xảy ra."
         }
       ],
       "evidence_segments": [
@@ -1441,13 +1441,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to buy the park",
-            "vi": "mua lại công viên"
+            "en": "to buy the park and the land around it, and name it after his family",
+            "vi": "mua công viên và khu đất quanh đó, rồi đặt tên theo gia đình ông"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to buy the park",
-          "text_translation": "mua lại công viên"
+          "text": "to buy the park and the land around it, and name it after his family",
+          "text_translation": "mua công viên và khu đất quanh đó, rồi đặt tên theo gia đình ông"
         },
         {
           "id": "B",
@@ -1463,24 +1463,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "free skateboards",
-            "vi": "ván trượt miễn phí"
+            "en": "free skateboards for the teenagers, if they kept the park clean",
+            "vi": "ván trượt miễn phí cho thanh thiếu niên, nếu họ giữ công viên sạch"
           },
           "is_correct": false,
           "order": 2,
-          "text": "free skateboards",
-          "text_translation": "ván trượt miễn phí"
+          "text": "free skateboards for the teenagers, if they kept the park clean",
+          "text_translation": "ván trượt miễn phí cho thanh thiếu niên, nếu họ giữ công viên sạch"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "a job for Helena",
-            "vi": "một việc làm cho Helena"
+            "en": "a job for Helena in his company, if she gave up the park",
+            "vi": "một việc làm cho Helena ở công ty ông, nếu cô từ bỏ công viên"
           },
           "is_correct": false,
           "order": 3,
-          "text": "a job for Helena",
-          "text_translation": "một việc làm cho Helena"
+          "text": "a job for Helena in his company, if she gave up the park",
+          "text_translation": "một việc làm cho Helena ở công ty ông, nếu cô từ bỏ công viên"
         }
       ],
       "evidence_segments": [
@@ -1509,46 +1509,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "renaming the park after him",
-            "vi": "đổi tên công viên theo tên ông"
+            "en": "calling the park Pell Park",
+            "vi": "gọi công viên là Pell Park"
           },
           "is_correct": false,
           "order": 0,
-          "text": "renaming the park after him",
-          "text_translation": "đổi tên công viên theo tên ông"
+          "text": "calling the park Pell Park",
+          "text_translation": "gọi công viên là Pell Park"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "banning skateboards",
-            "vi": "cấm ván trượt"
+            "en": "banning skateboards in the park",
+            "vi": "cấm ván trượt trong công viên"
           },
           "is_correct": false,
           "order": 1,
-          "text": "banning skateboards",
-          "text_translation": "cấm ván trượt"
+          "text": "banning skateboards in the park",
+          "text_translation": "cấm ván trượt trong công viên"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "closing the gates at six",
+            "en": "closing the gates at six o'clock",
             "vi": "đóng cổng lúc sáu giờ"
           },
           "is_correct": false,
           "order": 2,
-          "text": "closing the gates at six",
+          "text": "closing the gates at six o'clock",
           "text_translation": "đóng cổng lúc sáu giờ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "removing the committee",
-            "vi": "giải tán hội đồng"
+            "en": "removing the committee from the park",
+            "vi": "loại ủy ban khỏi công viên"
           },
           "is_correct": true,
           "order": 3,
-          "text": "removing the committee",
-          "text_translation": "giải tán hội đồng"
+          "text": "removing the committee from the park",
+          "text_translation": "loại ủy ban khỏi công viên"
         }
       ],
       "evidence_segments": [
@@ -1588,35 +1588,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "that the money is not enough",
-            "vi": "rằng số tiền không đủ"
+            "en": "that the money is not enough to build a playground and a fountain",
+            "vi": "rằng số tiền không đủ để xây sân chơi và đài phun nước"
           },
           "is_correct": false,
           "order": 1,
-          "text": "that the money is not enough",
-          "text_translation": "rằng số tiền không đủ"
+          "text": "that the money is not enough to build a playground and a fountain",
+          "text_translation": "rằng số tiền không đủ để xây sân chơi và đài phun nước"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "that Mr. Pell is dishonest",
-            "vi": "rằng ông Pell không trung thực"
+            "en": "that Mr. Pell is dishonest and may not really pay the money",
+            "vi": "rằng ông Pell không trung thực và có thể không thật sự trả tiền"
           },
           "is_correct": false,
           "order": 2,
-          "text": "that Mr. Pell is dishonest",
-          "text_translation": "rằng ông Pell không trung thực"
+          "text": "that Mr. Pell is dishonest and may not really pay the money",
+          "text_translation": "rằng ông Pell không trung thực và có thể không thật sự trả tiền"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "that the fountain will break",
-            "vi": "rằng vòi nước sẽ hỏng"
+            "en": "that the fountain will break because it is cheaply made",
+            "vi": "rằng đài phun nước sẽ hỏng vì làm rẻ tiền"
           },
           "is_correct": false,
           "order": 3,
-          "text": "that the fountain will break",
-          "text_translation": "rằng vòi nước sẽ hỏng"
+          "text": "that the fountain will break because it is cheaply made",
+          "text_translation": "rằng đài phun nước sẽ hỏng vì làm rẻ tiền"
         }
       ],
       "evidence_segments": [
@@ -1645,24 +1645,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Mr. Pell wants a written agreement.",
-            "vi": "Ông Pell muốn có văn bản thoả thuận."
+            "en": "Mr. Pell wants a written agreement signed by the whole committee.",
+            "vi": "Ông Pell muốn một thỏa thuận bằng văn bản do cả ủy ban ký."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Mr. Pell wants a written agreement.",
-          "text_translation": "Ông Pell muốn có văn bản thoả thuận."
+          "text": "Mr. Pell wants a written agreement signed by the whole committee.",
+          "text_translation": "Ông Pell muốn một thỏa thuận bằng văn bản do cả ủy ban ký."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Gifts should always be refused.",
-            "vi": "Luôn nên từ chối quà."
+            "en": "Gifts should always be refused, because they bring problems.",
+            "vi": "Quà tặng luôn nên bị từ chối, vì chúng mang rắc rối."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Gifts should always be refused.",
-          "text_translation": "Luôn nên từ chối quà."
+          "text": "Gifts should always be refused, because they bring problems.",
+          "text_translation": "Quà tặng luôn nên bị từ chối, vì chúng mang rắc rối."
         },
         {
           "id": "C",
@@ -1678,13 +1678,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Walt is not generous.",
-            "vi": "Walt không hào phóng."
+            "en": "Walt is not generous, and he would rather sign a contract.",
+            "vi": "Walt không hào phóng, và ông thà ký một hợp đồng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Walt is not generous.",
-          "text_translation": "Walt không hào phóng."
+          "text": "Walt is not generous, and he would rather sign a contract.",
+          "text_translation": "Walt không hào phóng, và ông thà ký một hợp đồng."
         }
       ],
       "evidence_segments": [
@@ -1713,13 +1713,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Skateboarding is dangerous.",
-            "vi": "Trượt ván nguy hiểm."
+            "en": "Skateboarding is dangerous, so the committee should add a safe area.",
+            "vi": "Trượt ván nguy hiểm, nên ủy ban cần thêm một khu an toàn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Skateboarding is dangerous.",
-          "text_translation": "Trượt ván nguy hiểm."
+          "text": "Skateboarding is dangerous, so the committee should add a safe area.",
+          "text_translation": "Trượt ván nguy hiểm, nên ủy ban cần thêm một khu an toàn."
         },
         {
           "id": "B",
@@ -1735,24 +1735,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "The park should close earlier.",
-            "vi": "Công viên nên đóng cửa sớm hơn."
+            "en": "The park should close earlier, so that parents can take children home.",
+            "vi": "Công viên nên đóng sớm hơn, để cha mẹ đưa con về."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The park should close earlier.",
-          "text_translation": "Công viên nên đóng cửa sớm hơn."
+          "text": "The park should close earlier, so that parents can take children home.",
+          "text_translation": "Công viên nên đóng sớm hơn, để cha mẹ đưa con về."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Teenagers should build their own park.",
-            "vi": "Thiếu niên nên tự xây công viên."
+            "en": "Teenagers should build their own park far away from the little children.",
+            "vi": "Thanh thiếu niên nên tự xây công viên riêng, xa trẻ nhỏ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Teenagers should build their own park.",
-          "text_translation": "Thiếu niên nên tự xây công viên."
+          "text": "Teenagers should build their own park far away from the little children.",
+          "text_translation": "Thanh thiếu niên nên tự xây công viên riêng, xa trẻ nhỏ."
         }
       ],
       "evidence_segments": [
@@ -1781,35 +1781,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She makes quick decisions alone.",
-            "vi": "Chị tự quyết nhanh một mình."
+            "en": "She makes quick decisions alone and then tells the others what the committee has decided.",
+            "vi": "Chị tự quyết nhanh rồi báo cho người khác biết ủy ban đã quyết gì."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She makes quick decisions alone.",
-          "text_translation": "Chị tự quyết nhanh một mình."
+          "text": "She makes quick decisions alone and then tells the others what the committee has decided.",
+          "text_translation": "Chị tự quyết nhanh rồi báo cho người khác biết ủy ban đã quyết gì."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She avoids difficult questions.",
-            "vi": "Chị né câu hỏi khó."
+            "en": "She avoids difficult questions by changing the subject quickly.",
+            "vi": "Chị né những câu hỏi khó bằng cách nhanh chóng đổi chủ đề."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She avoids difficult questions.",
-          "text_translation": "Chị né câu hỏi khó."
+          "text": "She avoids difficult questions by changing the subject quickly.",
+          "text_translation": "Chị né những câu hỏi khó bằng cách nhanh chóng đổi chủ đề."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She agrees with whoever speaks last.",
-            "vi": "Chị đồng ý với người nói sau cùng."
+            "en": "She agrees with whoever speaks last, so that nobody is unhappy.",
+            "vi": "Chị đồng ý với ai nói sau cùng, để không ai phật lòng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She agrees with whoever speaks last.",
-          "text_translation": "Chị đồng ý với người nói sau cùng."
+          "text": "She agrees with whoever speaks last, so that nobody is unhappy.",
+          "text_translation": "Chị đồng ý với ai nói sau cùng, để không ai phật lòng."
         },
         {
           "id": "D",
@@ -1849,46 +1849,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "accepting the money with a plaque naming his family, while the neighbors keep the park's name and rules",
-            "vi": "nhận tiền kèm tấm biển ghi tên gia đình ông, còn hàng xóm giữ tên và nội quy công viên"
+            "en": "taking the money for the playground, with a plaque naming his family, but keeping the name and rules",
+            "vi": "nhận tiền cho sân chơi, kèm tấm biển ghi tên gia đình ông, nhưng giữ nguyên tên và quy tắc"
           },
           "is_correct": true,
           "order": 0,
-          "text": "accepting the money with a plaque naming his family, while the neighbors keep the park's name and rules",
-          "text_translation": "nhận tiền kèm tấm biển ghi tên gia đình ông, còn hàng xóm giữ tên và nội quy công viên"
+          "text": "taking the money for the playground, with a plaque naming his family, but keeping the name and rules",
+          "text_translation": "nhận tiền cho sân chơi, kèm tấm biển ghi tên gia đình ông, nhưng giữ nguyên tên và quy tắc"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "renaming the park but allowing skateboards",
-            "vi": "đổi tên công viên nhưng cho trượt ván"
+            "en": "calling the park by his family's name but allowing skateboards, with the gates open until dark",
+            "vi": "gọi công viên bằng tên gia đình ông nhưng cho phép ván trượt, với cổng mở đến tối"
           },
           "is_correct": false,
           "order": 1,
-          "text": "renaming the park but allowing skateboards",
-          "text_translation": "đổi tên công viên nhưng cho trượt ván"
+          "text": "calling the park by his family's name but allowing skateboards, with the gates open until dark",
+          "text_translation": "gọi công viên bằng tên gia đình ông nhưng cho phép ván trượt, với cổng mở đến tối"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "returning the money",
-            "vi": "trả lại tiền"
+            "en": "returning the money, and asking him for a smaller gift next year",
+            "vi": "trả lại tiền và xin ông một món quà nhỏ hơn vào năm sau"
           },
           "is_correct": false,
           "order": 2,
-          "text": "returning the money",
-          "text_translation": "trả lại tiền"
+          "text": "returning the money, and asking him for a smaller gift next year",
+          "text_translation": "trả lại tiền và xin ông một món quà nhỏ hơn vào năm sau"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "letting Mr. Pell join the committee",
-            "vi": "mời ông Pell vào hội đồng"
+            "en": "letting Mr. Pell join the committee, so that he could choose the rules himself",
+            "vi": "để ông Pell vào ủy ban, để ông tự chọn các quy tắc"
           },
           "is_correct": false,
           "order": 3,
-          "text": "letting Mr. Pell join the committee",
-          "text_translation": "mời ông Pell vào hội đồng"
+          "text": "letting Mr. Pell join the committee, so that he could choose the rules himself",
+          "text_translation": "để ông Pell vào ủy ban, để ông tự chọn các quy tắc"
         }
       ],
       "evidence_segments": [
@@ -1917,46 +1917,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She wrote an angry reply.",
-            "vi": "Chị viết thư trả lời giận dữ."
+            "en": "She wrote an angry reply defending the committee and refusing to apologize.",
+            "vi": "Chị viết thư đáp giận dữ bênh ủy ban và từ chối xin lỗi."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She wrote an angry reply.",
-          "text_translation": "Chị viết thư trả lời giận dữ."
+          "text": "She wrote an angry reply defending the committee and refusing to apologize.",
+          "text_translation": "Chị viết thư đáp giận dữ bênh ủy ban và từ chối xin lỗi."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She resigned from the committee.",
-            "vi": "Chị rút khỏi hội đồng."
+            "en": "She resigned from the committee because Mr. Pell had hurt her feelings.",
+            "vi": "Chị rời ủy ban vì ông Pell làm chị tổn thương."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She resigned from the committee.",
-          "text_translation": "Chị rút khỏi hội đồng."
+          "text": "She resigned from the committee because Mr. Pell had hurt her feelings.",
+          "text_translation": "Chị rời ủy ban vì ông Pell làm chị tổn thương."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She thought it was partly fair and responded by involving the whole neighborhood.",
-            "vi": "Chị thấy lời đó có phần đúng và đáp lại bằng cách kéo cả khu phố tham gia."
+            "en": "She thought it was partly fair and involved the whole neighborhood.",
+            "vi": "Chị thấy nó đúng một phần và đưa cả khu phố vào cuộc."
           },
           "is_correct": true,
           "order": 2,
-          "text": "She thought it was partly fair and responded by involving the whole neighborhood.",
-          "text_translation": "Chị thấy lời đó có phần đúng và đáp lại bằng cách kéo cả khu phố tham gia."
+          "text": "She thought it was partly fair and involved the whole neighborhood.",
+          "text_translation": "Chị thấy nó đúng một phần và đưa cả khu phố vào cuộc."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She ignored it completely.",
-            "vi": "Chị hoàn toàn phớt lờ."
+            "en": "She ignored it completely and did not tell the other committee members.",
+            "vi": "Chị hoàn toàn phớt lờ và không nói với các thành viên khác."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She ignored it completely.",
-          "text_translation": "Chị hoàn toàn phớt lờ."
+          "text": "She ignored it completely and did not tell the other committee members.",
+          "text_translation": "Chị hoàn toàn phớt lờ và không nói với các thành viên khác."
         }
       ],
       "evidence_segments": [
@@ -1985,46 +1985,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It thanks Mr. Pell.",
-            "vi": "Nó cảm ơn ông Pell."
+            "en": "It thanks Mr. Pell for the fountain and invites visitors to read about his family.",
+            "vi": "Nó cảm ơn ông Pell vì đài phun nước và mời khách đọc về gia đình ông."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It thanks Mr. Pell.",
-          "text_translation": "Nó cảm ơn ông Pell."
+          "text": "It thanks Mr. Pell for the fountain and invites visitors to read about his family.",
+          "text_translation": "Nó cảm ơn ông Pell vì đài phun nước và mời khách đọc về gia đình ông."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It lists the park's rules.",
-            "vi": "Nó liệt kê nội quy."
+            "en": "It lists the park's rules, including the hours set by the committee.",
+            "vi": "Nó liệt kê quy tắc của công viên, gồm giờ do ủy ban đặt."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It lists the park's rules.",
-          "text_translation": "Nó liệt kê nội quy."
+          "text": "It lists the park's rules, including the hours set by the committee.",
+          "text_translation": "Nó liệt kê quy tắc của công viên, gồm giờ do ủy ban đặt."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It advertises the lemonade sale.",
-            "vi": "Nó quảng cáo việc bán nước chanh."
+            "en": "It advertises the lemonade sale that paid for part of the playground.",
+            "vi": "Nó quảng cáo buổi bán nước chanh đã trả một phần cho sân chơi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It advertises the lemonade sale.",
-          "text_translation": "Nó quảng cáo việc bán nước chanh."
+          "text": "It advertises the lemonade sale that paid for part of the playground.",
+          "text_translation": "Nó quảng cáo buổi bán nước chanh đã trả một phần cho sân chơi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It shows that the park belongs to the community and keeps the neighbors' rules, not Mr. Pell's.",
-            "vi": "Nó cho thấy công viên thuộc về cộng đồng và giữ nội quy của hàng xóm, chứ không phải của ông Pell."
+            "en": "It shows that the park belongs to the neighbors and follows their rules, not Mr. Pell's.",
+            "vi": "Nó cho thấy công viên thuộc về hàng xóm và theo quy tắc của họ, không phải của ông Pell."
           },
           "is_correct": true,
           "order": 3,
-          "text": "It shows that the park belongs to the community and keeps the neighbors' rules, not Mr. Pell's.",
-          "text_translation": "Nó cho thấy công viên thuộc về cộng đồng và giữ nội quy của hàng xóm, chứ không phải của ông Pell."
+          "text": "It shows that the park belongs to the neighbors and follows their rules, not Mr. Pell's.",
+          "text_translation": "Nó cho thấy công viên thuộc về hàng xóm và theo quy tắc của họ, không phải của ông Pell."
         }
       ],
       "evidence_segments": [
@@ -2053,13 +2053,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them refuse to change their minds.",
-            "vi": "Cả hai đều không chịu đổi ý."
+            "en": "Both of them refuse to change their minds, whatever the evidence says.",
+            "vi": "Cả hai đều không chịu đổi ý, bất kể bằng chứng nói gì."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them refuse to change their minds.",
-          "text_translation": "Cả hai đều không chịu đổi ý."
+          "text": "Both of them refuse to change their minds, whatever the evidence says.",
+          "text_translation": "Cả hai đều không chịu đổi ý, bất kể bằng chứng nói gì."
         },
         {
           "id": "B",
@@ -2075,24 +2075,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them work for the library.",
-            "vi": "Cả hai đều làm cho thư viện."
+            "en": "Both of them work for the library and help to keep its records.",
+            "vi": "Cả hai đều làm cho thư viện và giúp giữ hồ sơ của nó."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them work for the library.",
-          "text_translation": "Cả hai đều làm cho thư viện."
+          "text": "Both of them work for the library and help to keep its records.",
+          "text_translation": "Cả hai đều làm cho thư viện và giúp giữ hồ sơ của nó."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them dislike rich people.",
-            "vi": "Cả hai đều ghét người giàu."
+            "en": "Both of them dislike rich people and want to keep them out.",
+            "vi": "Cả hai đều không ưa người giàu và muốn ngăn họ ra ngoài."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Both of them dislike rich people.",
-          "text_translation": "Cả hai đều ghét người giàu."
+          "text": "Both of them dislike rich people and want to keep them out.",
+          "text_translation": "Cả hai đều không ưa người giàu và muốn ngăn họ ra ngoài."
         }
       ],
       "evidence_segments": [

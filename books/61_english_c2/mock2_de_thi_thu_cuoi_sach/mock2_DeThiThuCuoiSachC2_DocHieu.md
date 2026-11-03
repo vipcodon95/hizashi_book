@@ -47,82 +47,82 @@
 **1. What is the main purpose of the notice?**
 *(Mục đích chính của thông báo là gì?)*
 
-- A. to announce that the kitchen is closing *(thông báo bếp đóng cửa)*
+- A. to announce that the kitchen is closing after a year because too few cooks had booked it *(để thông báo bếp sẽ đóng cửa sau một năm vì có quá ít đầu bếp đặt lịch)*
 - B. to celebrate the kitchen's first year and invite people to a tasting fair *(mừng một năm của căn bếp và mời mọi người tới hội chợ nếm thử)*
-- C. to sell scones *(bán bánh scone)*
-- D. to hire new cooks *(tuyển người nấu mới)*
+- C. to ask the neighbors for money to repair the two old ovens *(để xin hàng xóm tiền sửa hai chiếc lò cũ)*
+- D. to hire new cooks for the food truck and the market stall *(để tuyển đầu bếp mới cho xe bán đồ ăn và quầy chợ)*
 
 **2. How has the kitchen performed compared with its target?**
 *(Căn bếp hoạt động thế nào so với mục tiêu?)*
 
-- A. It has been booked for less than four hours a day. *(Được đặt dưới bốn tiếng mỗi ngày.)*
-- B. It has lost money. *(Nó bị lỗ.)*
-- C. It has closed twice. *(Nó đã đóng cửa hai lần.)*
+- A. It has been booked for less than four hours a day, so it has not covered its costs. *(Bếp được đặt chưa tới bốn giờ mỗi ngày, nên chưa đủ bù chi phí.)*
+- B. It has lost money, even though thirty-one cooks use it regularly. *(Bếp bị lỗ, dù ba mươi mốt đầu bếp dùng nó thường xuyên.)*
+- C. It has barely reached its target, with bookings of exactly four hours a day. *(Bếp vừa đủ chạm mục tiêu, với lịch đặt đúng bốn giờ mỗi ngày.)*
 - D. It has been booked for over five hours a day, well above the four hours needed. *(Được đặt hơn năm tiếng mỗi ngày, vượt xa bốn tiếng cần thiết.)*
 
 **3. Why is the notice proud of the small bakery two blocks away?**
 *(Vì sao thông báo tự hào về tiệm bánh nhỏ cách hai dãy nhà?)*
 
 - A. because a cook who used the shared kitchen went on to open it *(vì một người từng dùng bếp chung đã mở được nó)*
-- B. because Harriet owns it *(vì bà Harriet làm chủ nó)*
-- C. because it replaced Harriet's *(vì nó thay thế Harriet's)*
-- D. because it sells cheaper scones *(vì nó bán scone rẻ hơn)*
+- B. because Harriet opened it herself to compete with the shared kitchen *(vì chính Harriet mở nó để cạnh tranh với bếp chung)*
+- C. because it took the place of Harriet's café, which closed last year *(vì nó thay chỗ quán cà phê của Harriet, vốn đã đóng cửa năm ngoái)*
+- D. because it sells scones that are cheaper than the ones at Harriet's *(vì nó bán bánh scone rẻ hơn bánh ở quán của Harriet)*
 
 **4. A family brings two children aged 8 and 10 and their own reusable boxes. How many free tokens can each child get?**
 *(Một gia đình mang hai con 8 và 10 tuổi cùng hộp đựng dùng lại được. Mỗi em được bao nhiêu phiếu miễn phí?)*
 
-- A. one *(một)*
-- B. two *(hai)*
-- C. three *(ba)*
-- D. none *(không phiếu nào)*
+- A. only one free token *(chỉ một xu ăn thử miễn phí)*
+- B. two free tokens *(hai xu ăn thử miễn phí)*
+- C. three free tokens *(ba xu ăn thử miễn phí)*
+- D. no free tokens *(không có xu ăn thử miễn phí nào)*
 
 **5. What happens to the money from token sales?**
 *(Tiền bán phiếu được dùng thế nào?)*
 
 - A. Most goes to the cooks, and ten percent funds a free cooking course for teenagers. *(Phần lớn cho người nấu, mười phần trăm cho khoá nấu ăn miễn phí của thanh thiếu niên.)*
-- B. All of it goes to Harriet's. *(Toàn bộ cho Harriet's.)*
-- C. It pays for paper plates. *(Trả tiền đĩa giấy.)*
-- D. It goes to the library. *(Cho thư viện.)*
+- B. All of it goes to Harriet's café, to pay for the new ovens and the rent of the old bakery. *(Toàn bộ số tiền đưa cho quán của Harriet, để trả cho lò mới và tiền thuê tiệm bánh cũ.)*
+- C. It pays for the paper plates, and the rest is kept for the kitchen's costs. *(Nó trả cho đĩa giấy, phần còn lại giữ để bù chi phí của bếp.)*
+- D. Half goes to the library, and half is used to print the neighborhood cookbook. *(Một nửa đưa cho thư viện, một nửa dùng để in cuốn sách nấu ăn của khu phố.)*
 
 **6. Why does the notice say the allergy cards are "a guide, not a guarantee"?**
 *(Vì sao thông báo nói thẻ dị ứng "chỉ để tham khảo, không phải sự bảo đảm"?)*
 
-- A. because the cooks do not know their ingredients *(vì người nấu không biết nguyên liệu)*
-- B. because the cards are written in many languages *(vì thẻ viết bằng nhiều thứ tiếng)*
-- C. because allergies are rare *(vì dị ứng hiếm gặp)*
+- A. because the cooks do not always know exactly which ingredients their dishes contain *(vì các đầu bếp không phải lúc nào cũng biết chính xác món mình có những nguyên liệu nào)*
+- B. because the cards are written in many languages and some may be translated badly *(vì các thẻ được viết bằng nhiều thứ tiếng và có thể có bản dịch chưa tốt)*
+- C. because serious allergies are rare, so the kitchen does not check the cards *(vì dị ứng nặng hiếm gặp, nên nhà bếp không kiểm tra các thẻ)*
 - D. because all the dishes are made in one kitchen, so traces of allergens may be present *(vì mọi món làm trong cùng một bếp, nên có thể lẫn chất gây dị ứng)*
 
 **7. What is the aim of the "bring your own container" offer?**
 *(Ưu đãi "mang hộp đựng của riêng bạn" nhằm mục đích gì?)*
 
-- A. to sell more tokens *(bán thêm phiếu)*
-- B. to reduce the waste produced by paper plates *(giảm rác thải từ đĩa giấy)*
-- C. to save washing up *(đỡ rửa bát)*
-- D. to help the cooks carry food *(giúp người nấu mang đồ ăn)*
+- A. to sell more tokens before the fair ends *(để bán thêm xu ăn thử trước khi hội chợ kết thúc)*
+- B. to reduce the waste produced by paper plates at the fair *(để giảm rác thải do đĩa giấy tại hội chợ)*
+- C. to save the cooks from washing up after the fair *(để các đầu bếp khỏi phải rửa bát sau hội chợ)*
+- D. to help the cooks carry food to the tables outside *(để giúp các đầu bếp mang đồ ăn ra các bàn bên ngoài)*
 
 **8. What can be inferred about the neighborhood cookbook?**
 *(Có thể suy ra gì về cuốn sách nấu ăn của khu phố?)*
 
-- A. Only English recipes will be included. *(Chỉ có công thức tiếng Anh.)*
-- B. Families must pay to be included. *(Gia đình phải trả tiền để góp.)*
+- A. Only English recipes will be included, so that every family can read them. *(Chỉ các công thức tiếng Anh được đưa vào, để gia đình nào cũng đọc được.)*
+- B. Families must pay a small fee to have their recipe printed in the cookbook. *(Các gia đình phải trả một khoản phí nhỏ để công thức của mình được in trong sách.)*
 - C. It will reflect many families and languages, and families may choose not to be named. *(Nó sẽ phản ánh nhiều gia đình, nhiều ngôn ngữ, và gia đình có thể chọn không ghi tên.)*
-- D. Harriet will write all the recipes herself. *(Bà Harriet tự viết mọi công thức.)*
+- D. Harriet will write all the recipes herself, using stories collected from the families. *(Harriet sẽ tự viết mọi công thức, dựa trên những câu chuyện thu thập từ các gia đình.)*
 
 **9. What does Harriet's comment "Some things are still my business" suggest?**
 *(Lời bà Harriet "Có những thứ vẫn là chuyện làm ăn của tôi" gợi ý điều gì?)*
 
 - A. She proudly and humorously keeps her scones as her own business, separate from the fair. *(Bà tự hào và dí dỏm giữ bánh scone là việc kinh doanh riêng của mình, tách khỏi hội chợ.)*
-- B. She is angry with the cooks. *(Bà giận những người nấu.)*
-- C. She plans to close the kitchen. *(Bà định đóng cửa bếp.)*
-- D. She has stopped baking. *(Bà đã thôi nướng bánh.)*
+- B. She is angry with the cooks, who have taken over her ovens and refuse to share the tokens with her. *(Bà giận các đầu bếp, những người đã chiếm lò của bà và không chịu chia xu cho bà.)*
+- C. She plans to close the kitchen once the fair is over and the money is counted. *(Bà định đóng bếp khi hội chợ kết thúc và tiền được đếm xong.)*
+- D. She has stopped baking and wants the cooks to make the scones for the fair. *(Bà đã thôi nướng bánh và muốn các đầu bếp làm bánh scone cho hội chợ.)*
 
 **10. Which word best describes the tone of the notice?**
 *(Từ nào mô tả đúng nhất giọng của thông báo?)*
 
-- A. strict *(nghiêm khắc)*
-- B. worried *(lo lắng)*
+- A. strict, with a long list of rules *(nghiêm khắc, với một danh sách dài các quy định)*
+- B. worried and uncertain about whether the fair will succeed *(lo lắng và không chắc hội chợ có thành công không)*
 - C. warm and proud, with touches of humor *(ấm áp và tự hào, có chút hài hước)*
-- D. sad *(buồn)*
+- D. sad about the end of the year *(buồn vì một năm đã kết thúc)*
 
 ---
 
@@ -162,82 +162,82 @@
 **11. What is the writer's point in the opening paragraph?**
 *(Người viết muốn nói gì ở đoạn mở đầu?)*
 
-- A. Yawning is dangerous. *(Ngáp nguy hiểm.)*
-- B. The article is boring. *(Bài viết nhàm chán.)*
+- A. Yawning is dangerous when people are driving or working with machines. *(Ngáp nguy hiểm khi người ta đang lái xe hoặc vận hành máy móc.)*
+- B. The article is boring, so the reader will probably yawn. *(Bài viết nhàm chán, nên người đọc có lẽ sẽ ngáp.)*
 - C. Contagious yawning is easy to observe but hard to explain. *(Ngáp lây dễ quan sát nhưng khó giải thích.)*
-- D. Scientists have explained yawning completely. *(Các nhà khoa học đã giải thích trọn vẹn chuyện ngáp.)*
+- D. Scientists have explained yawning completely, but ordinary people still doubt them. *(Các nhà khoa học đã giải thích việc ngáp trọn vẹn, nhưng người thường vẫn nghi ngờ họ.)*
 
 **12. According to the empathy theory, who should catch yawns most easily?**
 *(Theo giả thuyết đồng cảm, ai phải dễ ngáp lây nhất?)*
 
 - A. more empathetic people, especially from friends and family *(người giàu đồng cảm hơn, nhất là với bạn bè và người thân)*
-- B. older people *(người lớn tuổi)*
-- C. strangers *(người lạ)*
-- D. people who sleep less *(người ngủ ít)*
+- B. older people, especially those who sleep less than their friends *(người lớn tuổi, nhất là những người ngủ ít hơn bạn bè mình)*
+- C. strangers, especially those who yawn loudly in public places *(người lạ, nhất là những người ngáp to ở nơi công cộng)*
+- D. people who sleep less, especially when they are tired in a warm room *(người ngủ ít, nhất là khi họ mệt trong một căn phòng ấm)*
 
 **13. What does "something close to accepted wisdom" imply about the empathy theory?**
 *(Cụm "gần như trở thành điều ai cũng chấp nhận" hàm ý gì về giả thuyết đồng cảm?)*
 
-- A. It had been proved beyond doubt. *(Nó đã được chứng minh chắc chắn.)*
-- B. Nobody believed it. *(Không ai tin nó.)*
-- C. It was invented by journalists. *(Báo chí bịa ra nó.)*
+- A. It had been proved beyond doubt by a large number of careful experiments. *(Nó đã được chứng minh không còn nghi ngờ bằng rất nhiều thí nghiệm cẩn thận.)*
+- B. Hardly anyone believed it, even though some early studies supported it. *(Hầu như không ai tin nó, dù một số nghiên cứu ban đầu ủng hộ.)*
+- C. It was invented by journalists who wanted an interesting story. *(Nó do các nhà báo bịa ra vì muốn có một câu chuyện thú vị.)*
 - D. It became widely believed before it had been tested very thoroughly. *(Nó được tin rộng rãi trước khi được kiểm chứng thật kỹ.)*
 
 **14. Why does the writer describe the 2008 dog study as making the picture "more complicated"?**
 *(Vì sao người viết nói nghiên cứu chó năm 2008 làm bức tranh "phức tạp hơn"?)*
 
-- A. because it proved dogs have no feelings *(vì nó chứng minh chó không có cảm xúc)*
-- B. because its striking result was widely reported, but later attempts to repeat it gave mixed results *(vì kết quả gây chú ý của nó được đưa tin rộng rãi, nhưng các lần lặp lại sau cho kết quả lẫn lộn)*
-- C. because the dogs were not healthy *(vì lũ chó không khoẻ)*
-- D. because it was done in London *(vì nó làm ở London)*
+- A. because it proved that dogs have no feelings at all and so cannot catch a yawn from humans *(vì nó chứng minh rằng chó hoàn toàn không có cảm xúc nên không thể lây cái ngáp từ người)*
+- B. because its striking result was widely reported, yet repeat attempts gave mixed results *(vì kết quả nổi bật của nó được đưa tin rộng rãi, nhưng các lần lặp lại cho kết quả không đồng nhất)*
+- C. because the dogs were not healthy and some of them could not be tested *(vì những con chó không khỏe và một số con không thể thử nghiệm)*
+- D. because it was done in London and nobody else could reach the researchers *(vì nó được làm ở London và không ai khác liên lạc được với các nhà nghiên cứu)*
 
 **15. What alternative explanation for the dogs' yawning is mentioned?**
 *(Cách giải thích khác nào cho việc chó ngáp được nhắc tới?)*
 
-- A. The dogs were tired. *(Lũ chó mệt.)*
-- B. The dogs were hungry. *(Lũ chó đói.)*
+- A. The dogs were tired after a long walk *(Những con chó mệt sau một chuyến đi bộ dài)*
+- B. The dogs were hungry before the test *(Những con chó đói trước buổi thử nghiệm)*
 - C. The dogs might simply have been mildly stressed. *(Lũ chó có thể chỉ hơi căng thẳng.)*
-- D. The dogs were copying each other. *(Lũ chó bắt chước nhau.)*
+- D. The dogs were copying one another *(Những con chó bắt chước lẫn nhau)*
 
 **16. What did the 2014 Duke study find about individuals?**
 *(Nghiên cứu Duke năm 2014 phát hiện gì về từng cá nhân?)*
 
-- A. Everyone yawned the same number of times. *(Ai cũng ngáp số lần như nhau.)*
-- B. Nobody yawned. *(Không ai ngáp.)*
-- C. Individuals varied enormously, but each person's tendency was stable over repeated sessions. *(Mỗi người rất khác nhau, nhưng xu hướng của từng người ổn định qua nhiều lần thử.)*
-- D. Only young people yawned. *(Chỉ người trẻ ngáp.)*
+- A. Everyone yawned about the same number of times, whatever their age or sleep that night. *(Ai cũng ngáp số lần gần như nhau, bất kể tuổi hay giấc ngủ đêm trước.)*
+- B. Hardly anyone yawned, because the video was too short to have an effect. *(Hầu như không ai ngáp, vì đoạn phim quá ngắn nên không có tác dụng.)*
+- C. Individuals varied enormously, but each person's tendency was stable across sessions. *(Mỗi người khác nhau rất nhiều, nhưng xu hướng của từng người ổn định qua các buổi.)*
+- D. Only young people yawned, and they did so more often in each new session. *(Chỉ người trẻ ngáp, và họ ngáp nhiều hơn ở mỗi buổi mới.)*
 
 **17. What does the writer say about age in the Duke study?**
 *(Người viết nói gì về tuổi trong nghiên cứu Duke?)*
 
-- A. It explained almost all of the differences. *(Nó giải thích gần hết khác biệt.)*
-- B. It was the only independent factor, but it explained only about eight percent of the differences. *(Nó là yếu tố độc lập duy nhất, nhưng chỉ giải thích khoảng tám phần trăm khác biệt.)*
-- C. Older people yawned more. *(Người lớn tuổi ngáp nhiều hơn.)*
-- D. It was not measured. *(Không đo tuổi.)*
+- A. It explained almost all of the differences, which made the empathy theory unnecessary. *(Nó giải thích gần hết sự khác biệt, khiến thuyết đồng cảm trở nên không cần thiết.)*
+- B. It mattered independently, but explained only about eight percent of the differences. *(Nó có tác động độc lập, nhưng chỉ giải thích khoảng tám phần trăm sự khác biệt.)*
+- C. Older people yawned more, which supports the idea that tired people yawn often. *(Người lớn tuổi ngáp nhiều hơn, ủng hộ ý rằng người mệt thường ngáp.)*
+- D. It was not measured, because the volunteers were all of a similar age. *(Nó không được đo, vì các tình nguyện viên đều có tuổi gần nhau.)*
 
 **18. How does the writer interpret the Duke results?**
 *(Người viết diễn giải kết quả nghiên cứu Duke thế nào?)*
 
 - A. Empathy may play some role, but much smaller than the popular story claims. *(Sự đồng cảm có thể có vai trò, nhưng nhỏ hơn nhiều so với câu chuyện phổ biến.)*
-- B. Empathy has been proved to play no role. *(Đã chứng minh đồng cảm không có vai trò gì.)*
-- C. The study was a failure. *(Nghiên cứu thất bại.)*
-- D. Yawning is fully understood. *(Chuyện ngáp đã được hiểu trọn vẹn.)*
+- B. Empathy has been proved to play no role at all, so the popular story is entirely false. *(Đã chứng minh đồng cảm không có vai trò gì, nên câu chuyện phổ biến hoàn toàn sai.)*
+- C. The study was a failure, because individuals varied too much to compare. *(Nghiên cứu thất bại, vì mỗi người khác nhau quá nhiều để so sánh.)*
+- D. Yawning is now fully understood, and the popular story is simply true. *(Việc ngáp nay đã được hiểu trọn vẹn, và câu chuyện phổ biến đơn giản là đúng.)*
 
 **19. Why does the writer return to the reader's own yawn at the end?**
 *(Vì sao cuối bài người viết quay lại cái ngáp của chính người đọc?)*
 
-- A. to apologize for a boring article *(để xin lỗi vì bài viết chán)*
-- B. to prove that the reader is kind *(để chứng minh người đọc tốt bụng)*
-- C. to sell a product *(để bán sản phẩm)*
-- D. to link back to the opening and humorously warn against the popular empathy explanation *(để nối lại với đoạn mở đầu và hài hước cảnh báo về lối giải thích đồng cảm phổ biến)*
+- A. to apologize to the reader for writing such a boring article *(để xin lỗi người đọc vì đã viết một bài chán như vậy)*
+- B. to prove that the reader is kind, exactly as the empathy theory predicts *(để chứng minh người đọc tốt bụng, đúng như thuyết đồng cảm dự đoán)*
+- C. to sell a product that helps tired students stay awake in class *(để bán một sản phẩm giúp học sinh mệt không buồn ngủ trong lớp)*
+- D. to return to the opening and warn, with humor, against the empathy explanation *(để quay lại phần mở đầu và cảnh báo, bằng sự hài hước, về lời giải thích dựa trên đồng cảm)*
 
 **20. Which phrase best describes the structure of the article?**
 *(Cụm nào mô tả đúng nhất cấu trúc bài báo?)*
 
-- A. a list of tips for staying awake *(danh sách mẹo chống buồn ngủ)*
+- A. a list of tips for staying awake in a warm classroom, followed by a short quiz *(một danh sách mẹo để tỉnh táo trong lớp học ấm, tiếp theo là bài kiểm tra ngắn)*
 - B. a popular theory, evidence that complicates it, a careful test, and a cautious conclusion *(một giả thuyết phổ biến, bằng chứng làm nó phức tạp, một phép thử cẩn thận, và một kết luận thận trọng)*
-- C. a story about a dog *(chuyện về một con chó)*
-- D. a comparison of two universities *(so sánh hai trường đại học)*
+- C. a story about a dog that yawned, followed by advice for dog owners *(một câu chuyện về chú chó ngáp, tiếp theo là lời khuyên cho chủ chó)*
+- D. a comparison of two universities and the methods they use for tests *(một so sánh hai trường đại học và các phương pháp thử nghiệm của họ)*
 
 ---
 
@@ -300,80 +300,80 @@
 *(Vì sao Lễ Tạ ơn này đặc biệt với nhà Carter?)*
 
 - A. It was the first in seven years with all three children at the table. *(Đó là lần đầu sau bảy năm có đủ ba đứa con quanh bàn.)*
-- B. Mitchell cooked for the first time. *(Mitchell nấu ăn lần đầu.)*
-- C. It was held at Harriet's. *(Nó tổ chức ở Harriet's.)*
-- D. Leah was hosting it. *(Leah làm chủ nhà.)*
+- B. Mitchell cooked for the first time, and nobody knew what to expect. *(Mitchell lần đầu nấu ăn, và không ai biết nên chờ đợi điều gì.)*
+- C. It was held at Harriet's café instead of at the Carters' home. *(Bữa tiệc diễn ra ở quán của Harriet chứ không ở nhà nhà Carter.)*
+- D. Leah was hosting it for the first time in her new house. *(Leah lần đầu đứng ra tổ chức ở ngôi nhà mới của cô.)*
 
 **22. What made Megan suspect the news before Ethan spoke?**
 *(Điều gì khiến Megan đoán ra tin trước khi Ethan nói?)*
 
-- A. Leah told her at work. *(Leah kể ở chỗ làm.)*
-- B. The cake had a message on it. *(Chiếc bánh có ghi chữ.)*
+- A. Leah told her about it in secret during a night shift. *(Leah bí mật kể cho bà nghe trong một ca đêm.)*
+- B. The cake had a message written on it. *(Chiếc bánh có viết một lời nhắn trên đó.)*
 - C. Leah refused coffee, which Megan had never seen her do. *(Leah từ chối cà phê, điều Megan chưa từng thấy.)*
-- D. Ethan was nervous. *(Ethan run.)*
+- D. Ethan was so nervous that he dropped a glass. *(Ethan hồi hộp đến mức làm rơi một chiếc ly.)*
 
 **23. What does Ethan's line "I've practiced this, so please don't interrupt" suggest?**
 *(Câu Ethan "anh đã tập trước rồi, nên làm ơn đừng ngắt lời" gợi ý gì?)*
 
-- A. He is confident and relaxed. *(Anh tự tin và thoải mái.)*
+- A. He is confident and relaxed, and enjoys speaking in front of people. *(Anh tự tin và thoải mái, và thích nói trước mọi người.)*
 - B. He is nervous about expressing his feelings, as usual. *(Như mọi khi, anh run khi bày tỏ cảm xúc.)*
-- C. He is angry with the family. *(Anh giận cả nhà.)*
-- D. He wants to leave early. *(Anh muốn về sớm.)*
+- C. He is angry with the family, who have not listened to him before. *(Anh giận gia đình, những người trước giờ chưa từng lắng nghe anh.)*
+- D. He wants to leave early, and so wants to finish quickly. *(Anh muốn về sớm, nên muốn nói cho nhanh xong.)*
 
 **24. Why does Trevor ask "Are you hiring someone?"**
 *(Vì sao Trevor hỏi "Anh định thuê ai à?")*
 
-- A. because he wants a job *(vì cậu muốn xin việc)*
-- B. because he is joking *(vì cậu đùa)*
-- C. because Ethan works at a restaurant *(vì Ethan làm ở nhà hàng)*
+- A. because he wants a job and thinks Ethan is the person who can hire him *(vì anh muốn có việc và nghĩ Ethan là người có thể thuê anh)*
+- B. because he is joking, trying to make the others laugh at Ethan *(vì anh đang đùa, cố làm mọi người cười Ethan)*
+- C. because Ethan works at a restaurant that needs new people *(vì Ethan làm ở một nhà hàng đang cần thêm người)*
 - D. because he misunderstands Ethan's indirect way of announcing the baby *(vì cậu hiểu nhầm cách Ethan báo tin em bé một cách vòng vo)*
 
 **25. What does Megan's remark "I knew it at the water. I'm a nurse" show?**
 *(Câu Megan "Thím biết từ lúc cháu xin nước lọc rồi. Thím là y tá mà" cho thấy gì?)*
 
-- A. She had noticed the small clue and understood its meaning before anyone said anything. *(Bà đã để ý chi tiết nhỏ và hiểu ý nghĩa của nó trước khi ai nói gì.)*
-- B. She is angry that nobody told her. *(Bà giận vì không ai báo bà.)*
-- C. She wanted a drink of water. *(Bà muốn uống nước.)*
-- D. She dislikes surprises. *(Bà ghét bất ngờ.)*
+- A. She had noticed a small clue and understood it before anyone said anything. *(Bà đã để ý một manh mối nhỏ và hiểu ra trước khi ai nói gì.)*
+- B. She is angry that nobody told her the news before the dinner began. *(Bà giận vì không ai báo tin cho bà trước khi bữa tối bắt đầu.)*
+- C. She wanted a drink of water and was making a joke about the meal. *(Bà muốn uống nước và đang đùa về bữa ăn.)*
+- D. She dislikes surprises and wants the others to know she is not fooled. *(Bà ghét những bất ngờ và muốn người khác biết bà không bị lừa.)*
 
 **26. What is humorous about Mitchell going "to find a camera that turned out to be his phone"?**
 *(Chi tiết Mitchell "đi tìm máy ảnh mà hoá ra là cái điện thoại của ông" buồn cười ở chỗ nào?)*
 
-- A. He lost his phone. *(Ông làm mất điện thoại.)*
-- B. He broke the camera. *(Ông làm hỏng máy ảnh.)*
-- C. In his excitement he looked for a camera, forgetting that the phone in his hand is one. *(Trong lúc phấn khích ông đi tìm máy ảnh, quên rằng cái điện thoại trong tay chính là máy ảnh.)*
-- D. He does not know how to use a phone. *(Ông không biết dùng điện thoại.)*
+- A. He lost his phone and had to look for it under the table. *(Ông làm mất điện thoại và phải tìm nó dưới gầm bàn.)*
+- B. He broke the camera by dropping it while he was running. *(Ông làm hỏng máy ảnh vì đánh rơi khi đang chạy.)*
+- C. In his excitement he looked for a camera, forgetting that his phone was one. *(Vì quá phấn khích, ông đi tìm máy ảnh, quên rằng điện thoại cũng là một chiếc.)*
+- D. He does not know how to use a phone, so he asked Tina to help him take pictures. *(Ông không biết dùng điện thoại, nên nhờ Tina giúp chụp ảnh.)*
 
 **27. Why does Tina wonder whether she would really be "Aunt Tina"?**
 *(Vì sao Tina băn khoăn liệu mình có thật sự là "dì Tina" không?)*
 
-- A. because she does not like the baby *(vì em không thích em bé)*
-- B. because Leah is her cousin, not her sister, so the correct family term is less obvious *(vì Leah là chị họ chứ không phải chị ruột, nên cách gọi đúng trong gia đình không hiển nhiên)*
-- C. because Ethan has a sister called Tina *(vì Ethan có một người em gái tên Tina)*
-- D. because she is too young to be an aunt *(vì em còn quá nhỏ để làm dì)*
+- A. because she does not like the baby and does not want to be called an aunt *(vì cô không thích em bé và không muốn bị gọi là dì)*
+- B. because Leah is her cousin, not her sister, so the family term is less obvious *(vì Leah là chị họ chứ không phải chị ruột của cô, nên cách gọi trong gia đình kém rõ ràng hơn)*
+- C. because Ethan has a sister called Tina who might be called aunt instead *(vì Ethan có một chị em tên Tina có thể được gọi là dì thay cô)*
+- D. because she is too young to be an aunt and would rather be called by name *(vì cô còn quá trẻ để làm dì và muốn được gọi bằng tên hơn)*
 
 **28. Why does Leah say she is "terrified"?**
 *(Vì sao Leah nói cô "sợ chết khiếp"?)*
 
-- A. because she is ill *(vì cô bị ốm)*
-- B. because she is calm with patients' bad news but feels she has no idea how to be a parent *(vì cô bình tĩnh khi báo tin xấu cho bệnh nhân, nhưng thấy mình không biết làm mẹ thế nào)*
-- C. because Ethan is leaving *(vì Ethan sắp đi)*
-- D. because she has lost her job *(vì cô mất việc)*
+- A. because she is ill and has not yet told her family about it *(vì cô bị bệnh và chưa nói với gia đình về chuyện đó)*
+- B. because she is calm with patients' bad news but has no idea how to be a parent *(vì cô bình tĩnh khi báo tin xấu cho bệnh nhân nhưng không biết làm cha mẹ ra sao)*
+- C. because Ethan is leaving the country soon and she will be alone *(vì Ethan sắp rời đất nước và cô sẽ một mình)*
+- D. because she has lost her job and does not know how to pay for a baby *(vì cô mất việc và không biết lấy gì nuôi em bé)*
 
 **29. What is the effect of Tracy quoting Leah's own advice back to her?**
 *(Việc Tracy nhắc lại lời khuyên của chính Leah cho Leah có tác dụng gì?)*
 
-- A. It shows that the roles have reversed: Tracy now comforts Leah with the wisdom Leah once gave her. *(Nó cho thấy vai trò đã đổi: giờ Tracy an ủi Leah bằng chính sự khôn ngoan Leah từng trao cho cô.)*
-- B. It makes Leah angry. *(Nó làm Leah giận.)*
-- C. It proves that Leah was wrong. *(Nó chứng minh Leah sai.)*
-- D. It ends their friendship. *(Nó chấm dứt tình bạn của họ.)*
+- A. It shows that the roles have reversed: Tracy now comforts Leah with Leah's own wisdom. *(Nó cho thấy vai trò đã đảo ngược: nay Tracy an ủi Leah bằng chính sự khôn ngoan của Leah.)*
+- B. It makes Leah angry, because she thinks Tracy is laughing at her fears. *(Nó làm Leah giận, vì cô nghĩ Tracy đang cười nỗi sợ của mình.)*
+- C. It proves that Leah was wrong, because she is now afraid of the baby. *(Nó chứng tỏ Leah đã sai, vì giờ cô sợ em bé.)*
+- D. It shows that Tracy no longer trusts Leah's advice about babies. *(Nó cho thấy Tracy không còn tin lời khuyên của Leah về em bé.)*
 
 **30. What does the final sentence suggest about Ethan?**
 *(Câu cuối gợi ý gì về Ethan?)*
 
-- A. He is upset with the family. *(Anh buồn với cả nhà.)*
-- B. He has fallen asleep. *(Anh ngủ quên.)*
-- C. He is leaving the party. *(Anh rời bữa tiệc.)*
+- A. He is upset with the family for interrupting him and refuses to say anything more. *(Anh bực gia đình vì đã ngắt lời mình và không chịu nói thêm gì nữa.)*
+- B. He has fallen asleep on the sofa after the long dinner. *(Anh đã ngủ gục trên ghế sofa sau bữa tối dài.)*
+- C. He is leaving the party because he feels embarrassed. *(Anh rời bữa tiệc vì thấy xấu hổ.)*
 - D. He is too happy and proud to give up on the speech that was interrupted. *(Anh quá vui và tự hào nên không chịu bỏ dở bài phát biểu bị ngắt lời.)*
 
 ---
@@ -415,26 +415,26 @@
 **31. Why is Harriet writing this letter?**
 *(Vì sao bà Harriet viết lá thư này?)*
 
-- A. to complain about a neighbor *(để phàn nàn về một hàng xóm)*
-- B. to invite the reader to a wedding *(để mời người đọc dự đám cưới)*
-- C. because the library asked her to describe someone who changed the street, and she chose the reader *(vì thư viện nhờ bà tả một người đã làm thay đổi con phố, và bà chọn người đọc)*
-- D. to say goodbye before moving away *(để từ biệt trước khi chuyển đi)*
+- A. to complain about a neighbor who has been leaving his dog in the street all day *(để phàn nàn về một người hàng xóm cứ để chó ngoài đường cả ngày)*
+- B. to invite the reader to a wedding that will be held in the café *(để mời người đọc đến một đám cưới tổ chức ở quán cà phê)*
+- C. because the library asked for a description of someone who changed the street *(vì thư viện yêu cầu một bản mô tả về người đã làm thay đổi con phố)*
+- D. to say goodbye before moving away to a quiet town far from the street *(để chào tạm biệt trước khi chuyển tới một thị trấn yên tĩnh xa con phố)*
 
 **32. What does the detail "apologized three times for a mistake that I did not notice" show about the reader at first?**
 *(Chi tiết "xin lỗi ba lần vì một lỗi mà tôi chẳng hề để ý" cho thấy người đọc lúc đầu thế nào?)*
 
-- A. The reader was rude. *(Người đọc thô lỗ.)*
+- A. The reader was rude and kept interrupting Harriet during the order. *(Người đó thô lỗ và liên tục ngắt lời Harriet khi gọi món.)*
 - B. The reader was very anxious about making mistakes in English. *(Người đọc rất lo mắc lỗi tiếng Anh.)*
-- C. The reader spoke English perfectly. *(Người đọc nói tiếng Anh hoàn hảo.)*
-- D. The reader did not like coffee. *(Người đọc không thích cà phê.)*
+- C. The reader spoke English perfectly but wanted to seem polite. *(Người đó nói tiếng Anh hoàn hảo nhưng muốn tỏ ra lịch sự.)*
+- D. The reader did not like coffee but was too shy to say so. *(Người đó không thích cà phê nhưng quá ngại nên không nói.)*
 
 **33. Why does Harriet say the reader "never seemed to realize how much you were noticing"?**
 *(Vì sao bà Harriet nói người đọc "dường như chưa bao giờ nhận ra mình đã để ý tới nhiều thứ đến nhường nào"?)*
 
-- A. because, as a newcomer, the reader observed things that long-time residents had stopped seeing *(vì là người mới, người đọc quan sát được những điều cư dân lâu năm đã thôi để ý)*
-- B. because the reader was forgetful *(vì người đọc hay quên)*
-- C. because the reader never spoke *(vì người đọc không bao giờ nói)*
-- D. because the reader worked at the library *(vì người đọc làm ở thư viện)*
+- A. because, as a newcomer, the reader noticed things that long-time residents no longer saw *(vì là người mới đến, người đó nhận ra những điều mà cư dân lâu năm không còn thấy)*
+- B. because the reader was forgetful and often lost things, then found them again by chance *(vì người đó hay quên, thường làm mất đồ rồi tình cờ tìm lại được)*
+- C. because the reader never spoke and listened to everyone's conversation *(vì người đó không bao giờ nói và chỉ nghe chuyện của mọi người)*
+- D. because the reader worked at the library and kept careful notes of the street *(vì người đó làm ở thư viện và ghi chép cẩn thận về con phố)*
 
 **34. Who is "a teenager who is now an engineer"?**
 *("Cô bé tuổi mới lớn nay đã là kỹ sư" là ai?)*
@@ -447,50 +447,50 @@
 **35. How does Harriet challenge the idea that learning a language means learning to think like its speakers?**
 *(Bà Harriet thách thức ý "học ngôn ngữ là học cách nghĩ như người nói nó" thế nào?)*
 
-- A. by saying that English is easy *(bằng cách nói tiếng Anh dễ)*
+- A. by saying that English is easy, so there is no need for special thinking *(bằng cách nói tiếng Anh dễ, nên không cần một lối nghĩ đặc biệt nào)*
 - B. by pointing out that people on the street do not think alike at all *(bằng cách chỉ ra rằng người trên con phố này chẳng ai nghĩ giống ai)*
-- C. by saying the reader thinks like her *(bằng cách nói người đọc nghĩ giống bà)*
-- D. by quoting a famous writer *(bằng cách trích một nhà văn nổi tiếng)*
+- C. by saying the reader thinks exactly like her, in spite of speaking differently *(bằng cách nói người đó nghĩ y hệt bà, dù nói khác bà)*
+- D. by quoting a famous writer who says that language and thought are separate *(bằng cách trích một nhà văn nổi tiếng nói rằng ngôn ngữ và tư duy tách rời nhau)*
 
 **36. According to Harriet, what has the reader really learned?**
 *(Theo bà Harriet, người đọc thực sự đã học được gì?)*
 
-- A. perfect grammar *(ngữ pháp hoàn hảo)*
-- B. how to cook soup *(cách nấu súp)*
-- C. the history of the street *(lịch sử con phố)*
+- A. perfect grammar, which she says no one on the street has *(ngữ pháp hoàn hảo, thứ bà nói không ai trên phố có)*
+- B. how to cook soup well enough to please the whole street *(cách nấu súp đủ ngon để làm cả con phố hài lòng)*
+- C. the history of the street, including every flood and festival *(lịch sử con phố, gồm mọi trận lụt và lễ hội)*
 - D. the subtle meanings behind words, including when silence is kindest *(những nghĩa tinh tế sau lời nói, kể cả khi nào im lặng là tử tế nhất)*
 
 **37. Why does Harriet mention her own mistake about the flood?**
 *(Vì sao bà Harriet nhắc tới lỗi của chính bà về trận lụt?)*
 
 - A. to show that even native speakers make confident mistakes, so the reader need not fear them *(để cho thấy ngay cả người bản ngữ cũng tự tin mà vẫn sai, nên người đọc không cần sợ lỗi)*
-- B. to correct the library's archive *(để sửa kho lưu trữ của thư viện)*
-- C. to complain about Mitchell *(để phàn nàn về Mitchell)*
-- D. to describe the flood *(để tả trận lụt)*
+- B. to ask the reader to check the dates in the library's archive for her *(để nhờ người đọc kiểm tra các mốc thời gian trong kho lưu trữ của thư viện giúp bà)*
+- C. to complain about Mitchell, who told her the wrong date for the flood *(để phàn nàn về Mitchell, người đã nói sai ngày trận lụt cho bà)*
+- D. to describe the flood and the damage it caused to the old bakery *(để mô tả trận lụt và thiệt hại nó gây ra cho tiệm bánh cũ)*
 
 **38. How does Harriet define fluency?**
 *(Bà Harriet định nghĩa sự trôi chảy thế nào?)*
 
-- A. never making mistakes *(không bao giờ mắc lỗi)*
-- B. speaking very fast *(nói rất nhanh)*
+- A. never making mistakes, because careful speakers do not need to laugh *(không bao giờ mắc lỗi, vì người nói cẩn thận không cần phải cười)*
+- B. speaking very fast without stopping to think about each word *(nói rất nhanh mà không dừng lại nghĩ từng từ)*
 - C. the ability to keep talking after a mistake and to laugh about it with others *(khả năng tiếp tục nói sau khi mắc lỗi và cùng người khác cười về nó)*
-- D. knowing many words *(biết nhiều từ)*
+- D. knowing many words, including the rare ones used in books *(biết nhiều từ, kể cả những từ hiếm dùng trong sách)*
 
 **39. What is Harriet's main request in the letter?**
 *(Lời đề nghị chính của bà Harriet trong thư là gì?)*
 
-- A. that the reader write a cookbook *(người đọc viết một cuốn sách nấu ăn)*
-- B. that the reader teach English at the library *(người đọc dạy tiếng Anh ở thư viện)*
-- C. that the reader visit the café every day *(người đọc tới quán mỗi ngày)*
+- A. that the reader write a cookbook of the street's family recipes and sell it at the café *(rằng người đó viết một cuốn sách công thức gia đình của con phố và bán ở quán cà phê)*
+- B. that the reader teach English at the library on Saturday mornings *(rằng người đó dạy tiếng Anh ở thư viện vào các sáng thứ Bảy)*
+- C. that the reader visit the café every day to taste the new soups *(rằng người đó ghé quán mỗi ngày để nếm các món súp mới)*
 - D. that the reader agree to record their own story for the library *(người đọc đồng ý ghi âm câu chuyện của chính mình cho thư viện)*
 
 **40. What does Harriet mean by "it is high time it heard a voice that learned to speak to it from the outside"?**
 *(Bà Harriet muốn nói gì qua câu "đã đến lúc nó được nghe một giọng nói học cách trò chuyện với nó từ bên ngoài"?)*
 
-- A. The street needs more noise. *(Con phố cần thêm tiếng ồn.)*
-- B. The reader should move away. *(Người đọc nên chuyển đi.)*
-- C. Outsiders speak better than residents. *(Người ngoài nói hay hơn cư dân.)*
-- D. The archive should include the perspective of someone who came from elsewhere, not only long-time residents. *(Kho lưu trữ nên có góc nhìn của người từ nơi khác tới, chứ không chỉ cư dân lâu năm.)*
+- A. The street needs more noise, so newcomers should speak more loudly. *(Con phố cần ồn ào hơn, nên người mới đến cần nói to hơn.)*
+- B. The reader should move away from the street, because the residents prefer to listen to themselves. *(Người đọc nên rời con phố, vì cư dân thích tự lắng nghe mình hơn.)*
+- C. Outsiders speak the language better than the residents who have lived there for years. *(Người ngoài nói ngôn ngữ giỏi hơn những cư dân đã sống ở đó nhiều năm.)*
+- D. The archive should include the view of someone who came from elsewhere, not only long-time residents. *(Kho lưu trữ nên có góc nhìn của người từ nơi khác đến, không chỉ của cư dân lâu năm.)*
 
 ---
 

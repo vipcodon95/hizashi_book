@@ -114,82 +114,82 @@
 **1. Why did the book club choose The Great Gatsby?**
 *(Vì sao câu lạc bộ sách chọn The Great Gatsby?)*
 
-- A. because it was a new novel *(vì đó là tiểu thuyết mới)*
-- B. because Harriet had never read it *(vì bà Harriet chưa đọc)*
+- A. because it was a new novel that had just come out and all the members were eager to read it *(vì đó là một tiểu thuyết mới ra mắt và mọi thành viên đều háo hức đọc)*
+- B. because Harriet had never read it and wanted to discuss it with others *(vì Harriet chưa từng đọc và muốn thảo luận với mọi người)*
 - C. because it is short and, being in the public domain, free for anyone to read *(vì nó ngắn và, do thuộc phạm vi công cộng, ai cũng đọc miễn phí được)*
-- D. because it is about San Diego *(vì nó về San Diego)*
+- D. because it is about San Diego and the people who live near Maple Street *(vì nó viết về San Diego và những người sống gần phố Maple)*
 
 **2. What does the remark that members "remembered the parties far better than the plot" suggest?**
 *(Lời nhận xét các thành viên "nhớ các bữa tiệc rõ hơn nhiều so với cốt truyện" gợi ý điều gì?)*
 
-- A. The novel has no plot. *(Tiểu thuyết không có cốt truyện.)*
-- B. The members went to many parties. *(Các thành viên đi dự nhiều tiệc.)*
-- C. The parties are the most important part of the story. *(Các bữa tiệc là phần quan trọng nhất của truyện.)*
+- A. The novel has no plot, so the members remembered only the parties. *(Cuốn tiểu thuyết không có cốt truyện, nên các thành viên chỉ nhớ các bữa tiệc.)*
+- B. The members went to many parties when they were at school together. *(Các thành viên đã dự nhiều bữa tiệc khi cùng học ở trường.)*
+- C. The parties are the most important part of the story, so they remember them. *(Các bữa tiệc là phần quan trọng nhất của câu chuyện, nên họ nhớ chúng.)*
 - D. The book's vivid surface is more memorable than its deeper story. *(Bề mặt sống động của cuốn sách dễ nhớ hơn câu chuyện sâu bên dưới.)*
 
 **3. Why does Gatsby throw his parties?**
 *(Vì sao Gatsby mở tiệc?)*
 
-- A. in the hope that Daisy will come *(với hy vọng Daisy sẽ tới)*
-- B. to make money *(để kiếm tiền)*
-- C. to impress Nick *(để gây ấn tượng với Nick)*
-- D. because Tom asked him to *(vì Tom nhờ)*
+- A. in the hope that Daisy will one day walk through the door *(với hy vọng một ngày Daisy sẽ bước qua cửa)*
+- B. to make money from the guests who drink his champagne *(để kiếm tiền từ những vị khách uống sâm panh của anh)*
+- C. to impress Nick, who has just rented the house next door *(để gây ấn tượng với Nick, người vừa thuê căn nhà bên cạnh)*
+- D. because Tom asked him to entertain the guests from the bay *(vì Tom nhờ anh tiếp đãi những vị khách từ vịnh)*
 
 **4. Why does Ethan's comment cause "general laughter"?**
 *(Vì sao lời Ethan khiến cả nhóm bật cười?)*
 
-- A. because Ethan told a joke about Daisy *(vì Ethan kể chuyện cười về Daisy)*
-- B. because Ethan had not read the book *(vì Ethan chưa đọc sách)*
+- A. because Ethan told a joke about Daisy and her husband *(vì Ethan kể một câu đùa về Daisy và chồng cô)*
+- B. because Ethan had not read the book and mixed up the narrator with Gatsby *(vì Ethan chưa đọc sách và nhầm người kể chuyện với Gatsby)*
 - C. because his observation about self-declared honesty is funny but true *(vì nhận xét của anh về việc tự nhận mình trung thực vừa buồn cười vừa đúng)*
-- D. because Nathan disagreed *(vì Nathan không đồng ý)*
+- D. because Nathan disagreed with him in a loud and funny voice *(vì Nathan phản đối anh bằng giọng to và hài hước)*
 
 **5. According to Nathan, what is ironic about Nick as a narrator?**
 *(Theo Nathan, điều trớ trêu ở Nick với vai trò người kể chuyện là gì?)*
 
-- A. He knows nothing about Gatsby. *(Anh không biết gì về Gatsby.)*
+- A. He knows nothing about Gatsby and has never spoken to him *(Anh chẳng biết gì về Gatsby và chưa từng nói chuyện với ông)*
 - B. He promises not to judge, yet he judges everyone constantly and favors Gatsby. *(Anh hứa không phán xét, vậy mà phán xét mọi người liên tục và thiên vị Gatsby.)*
-- C. He is Daisy's husband. *(Anh là chồng Daisy.)*
-- D. He never speaks. *(Anh không bao giờ lên tiếng.)*
+- C. He is Daisy's husband, yet he tells the story as if he were a stranger to her. *(Anh là chồng Daisy, vậy mà kể chuyện như thể là người lạ với cô.)*
+- D. He never speaks, so the reader must guess what he thinks *(Anh không bao giờ lên tiếng, nên người đọc phải đoán anh nghĩ gì)*
 
 **6. How does Harriet read the novel?**
 *(Bà Harriet đọc cuốn tiểu thuyết theo cách nào?)*
 
 - A. as a parable about believing you can rebuild the past exactly as it was *(như một ngụ ngôn về niềm tin rằng ta có thể dựng lại quá khứ y như cũ)*
-- B. as a story about parties *(như truyện về tiệc tùng)*
-- C. as a comedy *(như một vở hài kịch)*
-- D. as a true story *(như một chuyện có thật)*
+- B. as a story about parties and champagne, told by someone who enjoys them *(như một câu chuyện về tiệc tùng và sâm panh, do người thích chúng kể lại)*
+- C. as a comedy that makes fun of rich people on Long Island *(như một vở hài chế giễu người giàu ở Long Island)*
+- D. as a true story about a man whom Fitzgerald once knew *(như một câu chuyện có thật về người mà Fitzgerald từng quen)*
 
 **7. Why does Harriet say she is "bound to find him tragic rather than foolish"?**
 *(Vì sao bà Harriet nói bà "hẳn phải thấy ông ta bi kịch chứ không phải ngốc nghếch"?)*
 
-- A. because she knew Fitzgerald *(vì bà quen Fitzgerald)*
-- B. because she dislikes Tom *(vì bà ghét Tom)*
-- C. because she was asked to defend Gatsby *(vì bà được giao bênh Gatsby)*
-- D. because her own experience of change this year makes her sympathize with the wish to get the past back *(vì trải nghiệm thay đổi của chính bà năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ)*
+- A. because she knew Fitzgerald personally and heard him explain what Gatsby meant *(vì bà quen biết Fitzgerald và nghe ông giải thích Gatsby có ý nghĩa gì)*
+- B. because she dislikes Tom and thinks Gatsby is better than he is *(vì bà không ưa Tom và nghĩ Gatsby tốt hơn ông ta)*
+- C. because she was asked by the book club to defend Gatsby in the debate *(vì câu lạc bộ sách nhờ bà bênh vực Gatsby trong cuộc tranh luận)*
+- D. because this year's change makes her sympathize with the wish to get the past back *(vì sự thay đổi năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ)*
 
 **8. How does Nathan's view of the famous last line differ from others'?**
 *(Cách Nathan nhìn câu cuối nổi tiếng khác người khác thế nào?)*
 
-- A. He thinks it is badly written. *(Anh nghĩ nó viết dở.)*
-- B. He has never heard it. *(Anh chưa từng nghe.)*
-- C. He finds it beautiful but suspects it is designed to stop readers from questioning the story. *(Anh thấy nó đẹp nhưng ngờ rằng nó được viết để người đọc thôi chất vấn câu chuyện.)*
-- D. He thinks it is about sailing. *(Anh nghĩ nó nói về chèo thuyền.)*
+- A. He thinks it is badly written and says that Fitzgerald should have ended the book earlier. *(Anh cho rằng nó viết dở và nói Fitzgerald lẽ ra nên kết thúc sách sớm hơn.)*
+- B. He has never heard it and asks the others to explain what it means. *(Anh chưa từng nghe nó và nhờ mọi người giải thích nghĩa.)*
+- C. He finds it beautiful but suspects it is meant to stop readers from asking questions. *(Anh thấy nó đẹp nhưng ngờ rằng nó nhằm ngăn người đọc đặt câu hỏi.)*
+- D. He thinks it is about sailing and wonders why the story ends on boats. *(Anh nghĩ nó nói về đi thuyền và thắc mắc sao truyện kết thúc bằng những con thuyền.)*
 
 **9. What is the "final irony" that delighted the group?**
 *("Điều trớ trêu cuối cùng" khiến cả nhóm thích thú là gì?)*
 
 - A. The novel's author died thinking it had failed, but it later became extremely widely read. *(Tác giả qua đời tưởng cuốn sách thất bại, nhưng sau đó nó được đọc cực kỳ rộng rãi.)*
-- B. Gatsby was a real person. *(Gatsby là người có thật.)*
-- C. The book was banned. *(Cuốn sách bị cấm.)*
-- D. Fitzgerald never finished it. *(Fitzgerald chưa viết xong.)*
+- B. Gatsby was a real person who lived on Long Island in the 1920s. *(Gatsby là một người có thật từng sống ở Long Island những năm 1920.)*
+- C. The book was banned in the author's lifetime and then became popular. *(Cuốn sách bị cấm khi tác giả còn sống rồi sau đó trở nên nổi tiếng.)*
+- D. Fitzgerald never finished it, so another writer completed the last pages. *(Fitzgerald chưa viết xong nên một tác giả khác hoàn thành những trang cuối.)*
 
 **10. What does the final line of the notes, about "something lighter", suggest?**
 *(Dòng cuối của bản ghi chép, về "một cuốn nhẹ nhàng hơn", gợi ý điều gì?)*
 
-- A. The club is closing. *(Câu lạc bộ sắp giải tán.)*
-- B. Lydia disliked the novel. *(Lydia ghét cuốn sách.)*
-- C. Nobody came to the meeting. *(Không ai tới buổi họp.)*
-- D. Some members would like a more cheerful book next time and asked for it, half seriously. *(Một số thành viên muốn lần sau đọc cuốn vui hơn và nửa đùa nửa thật đã đề nghị như vậy.)*
+- A. The club is closing because the members did not enjoy this book. *(Câu lạc bộ sắp đóng vì các thành viên không thích cuốn này.)*
+- B. Lydia disliked the novel and wants to read a shorter, easier book next time. *(Lydia không thích cuốn tiểu thuyết và muốn lần sau đọc cuốn ngắn, dễ hơn.)*
+- C. Nobody came to the meeting, so the notes are about the book only. *(Không ai đến buổi họp, nên ghi chú chỉ nói về cuốn sách.)*
+- D. Some members want a more cheerful book next time and asked for it, half seriously. *(Vài thành viên muốn lần sau một cuốn vui hơn và đã đề nghị, nửa đùa nửa thật.)*
 
 ---
 
@@ -236,82 +236,82 @@
 **11. Why did Leah decide to write this article?**
 *(Vì sao Leah viết bài này?)*
 
-- A. because she was asked to review a new drug *(vì được nhờ đánh giá một loại thuốc mới)*
+- A. because she was asked to review a new drug before it reaches patients in the hospital *(vì bà được nhờ đánh giá một loại thuốc mới trước khi đến tay bệnh nhân trong bệnh viện)*
 - B. because readers of her earlier article asked how often famous findings are challenged *(vì bạn đọc bài trước hỏi các phát hiện nổi tiếng hay bị thách thức tới mức nào)*
-- C. because she had joined the Open Science Collaboration *(vì cô tham gia Open Science Collaboration)*
-- D. because a study about her was wrong *(vì một nghiên cứu về cô bị sai)*
+- C. because she had joined the Open Science Collaboration last year *(vì bà đã tham gia Open Science Collaboration năm ngoái)*
+- D. because a study about her department turned out to be wrong *(vì một nghiên cứu về khoa của bà hóa ra sai)*
 
 **12. What did the Open Science Collaboration try to do?**
 *(Open Science Collaboration đã cố làm gì?)*
 
 - A. repeat one hundred published psychology studies using the original methods *(lặp lại một trăm nghiên cứu tâm lý học đã công bố bằng phương pháp ban đầu)*
-- B. write a new psychology textbook *(viết một giáo trình tâm lý học mới)*
-- C. close three journals *(đóng cửa ba tạp chí)*
-- D. test new medicines *(thử thuốc mới)*
+- B. write a new psychology textbook using only the very best published studies *(viết một giáo trình tâm lý học mới chỉ dùng những nghiên cứu đã công bố tốt nhất)*
+- C. close three journals that had published studies of poor quality *(đóng cửa ba tạp chí đã đăng những nghiên cứu kém chất lượng)*
+- D. test new medicines on a hundred patients in three hospitals *(thử thuốc mới trên một trăm bệnh nhân ở ba bệnh viện)*
 
 **13. What did the repeated studies find?**
 *(Các nghiên cứu lặp lại tìm thấy gì?)*
 
-- A. The same results in 97 percent of cases. *(Kết quả giống hệt ở 97 phần trăm trường hợp.)*
-- B. Larger effects than the originals. *(Hiệu ứng lớn hơn bản gốc.)*
-- C. No results at all. *(Không có kết quả gì.)*
-- D. Only about a third reached a significant result, and effects were about half as large. *(Chỉ khoảng một phần ba đạt kết quả có ý nghĩa, và hiệu ứng chỉ lớn khoảng một nửa.)*
+- A. The same results in 97 percent of cases, which confirmed the original findings. *(Cùng kết quả ở 97 phần trăm trường hợp, xác nhận các phát hiện ban đầu.)*
+- B. Larger effects than the originals, but fewer studies reached significance. *(Hiệu ứng lớn hơn bản gốc, nhưng ít nghiên cứu đạt ý nghĩa hơn.)*
+- C. No results at all, because the researchers could not follow the methods. *(Không có kết quả nào, vì các nhà nghiên cứu không thể theo đúng phương pháp.)*
+- D. About a third reached a significant result, with effects about half as large. *(Khoảng một phần ba đạt kết quả có ý nghĩa, với hiệu ứng nhỏ bằng khoảng một nửa.)*
 
 **14. Why does Leah put the word "casualties" in the description of power posing?**
 *(Vì sao Leah dùng chữ "nạn nhân" khi nói về tư thế quyền lực?)*
 
-- A. because people were hurt by power posing *(vì có người bị thương do tư thế quyền lực)*
+- A. because many people were hurt when they tried power posing at work *(vì nhiều người bị thương khi thử tư thế quyền lực ở nơi làm việc)*
 - B. because it was a famous finding that did not survive being tested again *(vì đó là một phát hiện nổi tiếng không trụ được khi bị kiểm tra lại)*
-- C. because the researchers lost their jobs *(vì các nhà nghiên cứu mất việc)*
-- D. because the talk was removed *(vì bài nói bị gỡ)*
+- C. because the researchers lost their jobs after the results were published *(vì các nhà nghiên cứu mất việc sau khi kết quả được công bố)*
+- D. because the online talk was removed after the authors complained *(vì bài nói trực tuyến bị gỡ sau khi các tác giả phàn nàn)*
 
 **15. What happened in 2016?**
 *(Chuyện gì xảy ra năm 2016?)*
 
-- A. Power posing was proved correct. *(Tư thế quyền lực được chứng minh là đúng.)*
-- B. The online talk was given for the first time. *(Bài nói trên mạng lần đầu được trình bày.)*
-- C. One of the original authors said publicly that she no longer believed the effects were real. *(Một tác giả ban đầu công khai nói bà không còn tin các hiệu ứng là thật.)*
-- D. The journal Science was founded. *(Tạp chí Science được thành lập.)*
+- A. Power posing was proved correct by a much larger study of hormones and risk-taking. *(Tư thế quyền lực được chứng minh là đúng bởi một nghiên cứu lớn hơn nhiều về hormone và chấp nhận rủi ro.)*
+- B. The online talk was given for the first time to a very large audience. *(Bài nói trực tuyến được trình bày lần đầu cho một lượng khán giả rất lớn.)*
+- C. One of the original authors said publicly that she no longer believed the effects. *(Một trong các tác giả gốc nói công khai rằng bà không còn tin vào các hiệu ứng đó.)*
+- D. The journal Science was founded to publish repeated studies like these. *(Tạp chí Science được thành lập để đăng những nghiên cứu lặp lại như thế này.)*
 
 **16. What is Leah's view of the replication results?**
 *(Leah nhìn nhận kết quả các nghiên cứu lặp lại thế nào?)*
 
-- A. They prove that science cannot be trusted. *(Chúng chứng minh không thể tin khoa học.)*
+- A. They prove that science cannot be trusted, so readers should ignore new studies. *(Chúng chứng minh khoa học không đáng tin, nên người đọc hãy bỏ qua các nghiên cứu mới.)*
 - B. They show science correcting itself, which is what it is supposed to do. *(Chúng cho thấy khoa học tự sửa mình, đúng điều nó phải làm.)*
-- C. They should not have been published. *(Lẽ ra không nên công bố.)*
-- D. They only matter to psychologists. *(Chúng chỉ quan trọng với nhà tâm lý học.)*
+- C. They should not have been published, because they upset the public. *(Chúng không nên được công bố, vì làm công chúng khó chịu.)*
+- D. They only matter to psychologists, and doctors can safely ignore them. *(Chúng chỉ quan trọng với nhà tâm lý học, còn bác sĩ có thể yên tâm bỏ qua.)*
 
 **17. Why does Leah say the scientist who changed her mind deserves "more admiration, not less"?**
 *(Vì sao Leah nói nhà khoa học đổi ý đáng được ngưỡng mộ "hơn, chứ không kém"?)*
 
 - A. because publicly admitting you were wrong is rare and shows honesty *(vì công khai thừa nhận mình sai là hiếm và cho thấy sự trung thực)*
-- B. because she became famous *(vì bà trở nên nổi tiếng)*
-- C. because her original study was correct *(vì nghiên cứu gốc của bà đúng)*
-- D. because she gave the online talk *(vì bà trình bày bài nói trên mạng)*
+- B. because she became famous after she changed her mind in public *(vì bà trở nên nổi tiếng sau khi công khai đổi ý)*
+- C. because her original study was correct and she had the courage to defend it *(vì nghiên cứu gốc của bà đúng và bà đủ can đảm để bảo vệ nó)*
+- D. because she gave the online talk that made the idea popular *(vì bà đã trình bày bài nói trực tuyến khiến ý tưởng lan rộng)*
 
 **18. What does Leah mean by "A surprising finding that has never been repeated is a hypothesis, not a fact"?**
 *(Leah muốn nói gì qua câu "Một phát hiện bất ngờ chưa từng được lặp lại là một giả thuyết, chưa phải sự thật"?)*
 
-- A. Surprising findings are always false. *(Phát hiện bất ngờ luôn sai.)*
-- B. Only facts should be published. *(Chỉ nên đăng sự thật.)*
-- C. Hypotheses are useless. *(Giả thuyết vô dụng.)*
+- A. Surprising findings are always false, so they should never be published. *(Phát hiện gây ngạc nhiên luôn sai, nên không bao giờ nên công bố.)*
+- B. Only facts should be published, and a hypothesis belongs in private notes. *(Chỉ sự thật mới nên được công bố, còn giả thuyết thuộc về ghi chép riêng.)*
+- C. Hypotheses are useless, because only repeated results can teach us anything. *(Giả thuyết vô dụng, vì chỉ kết quả lặp lại mới dạy ta được điều gì.)*
 - D. A single unrepeated result should be treated as something still to be tested. *(Một kết quả đơn lẻ chưa được lặp lại nên được coi là điều còn phải kiểm chứng.)*
 
 **19. Why does Leah mention people who eat more vegetables?**
 *(Vì sao Leah nhắc tới những người ăn nhiều rau?)*
 
-- A. to recommend a vegetarian diet *(để khuyên ăn chay)*
+- A. to recommend a vegetarian diet to readers who want to avoid disease *(để khuyên người đọc ăn chay nếu muốn tránh bệnh tật)*
 - B. to give an example of how a third, unmeasured factor can explain a correlation *(để ví dụ cách một yếu tố thứ ba không được đo có thể giải thích một mối tương quan)*
-- C. to criticize news reports about food *(để chê tin tức về thực phẩm)*
-- D. to describe a study she did *(để tả một nghiên cứu cô làm)*
+- C. to criticize news reports about food, which she says are almost never accurate or useful *(để chê các bản tin về thực phẩm mà bà nói gần như không bao giờ chính xác hay hữu ích)*
+- D. to describe a study she did herself on vegetables and smoking *(để mô tả một nghiên cứu bà tự làm về rau củ và hút thuốc)*
 
 **20. Use both texts. What do the book club's reading of Nick and Leah's advice have in common?**
 *(Dựa vào cả hai bài. Cách câu lạc bộ đọc Nick và lời khuyên của Leah có điểm gì chung?)*
 
-- A. Both of them say that stories are more reliable than science. *(Cả hai nói truyện đáng tin hơn khoa học.)*
-- B. Both of them are about hospitals. *(Cả hai đều về bệnh viện.)*
-- C. Both of them warn readers to be most careful when a source tells them what they want to believe. *(Cả hai cảnh báo người đọc phải cẩn thận nhất khi một nguồn nói điều họ muốn tin.)*
-- D. Both of them praise Fitzgerald. *(Cả hai khen Fitzgerald.)*
+- A. Both of them say that a narrator is more reliable than a scientific study. *(Cả hai đều nói người kể chuyện đáng tin hơn một nghiên cứu khoa học.)*
+- B. Both of them are about hospitals and the nurses who work in them. *(Cả hai đều nói về bệnh viện và các y tá làm việc ở đó.)*
+- C. Both of them warn readers to be most careful when a source tells them what they want to hear. *(Cả hai đều cảnh báo người đọc phải thận trọng nhất khi một nguồn nói đúng điều họ muốn nghe.)*
+- D. Both of them praise Fitzgerald and the clear writing of his prose. *(Cả hai đều khen Fitzgerald và lối viết rõ ràng của ông.)*
 
 ---
 

@@ -651,13 +651,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The daughter was offended and left.",
-            "vi": "Cô con gái phật ý và bỏ đi."
+            "en": "The daughter was offended by the word she used and asked another nurse to help instead.",
+            "vi": "Cô con gái phật ý vì từ Megan dùng và nhờ một y tá khác giúp thay thế."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The daughter was offended and left.",
-          "text_translation": "Cô con gái phật ý và bỏ đi."
+          "text": "The daughter was offended by the word she used and asked another nurse to help instead.",
+          "text_translation": "Cô con gái phật ý vì từ Megan dùng và nhờ một y tá khác giúp thay thế."
         },
         {
           "id": "B",
@@ -673,24 +673,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Her teacher corrected her.",
-            "vi": "Cô giáo sửa lỗi cho cô."
+            "en": "Her teacher corrected her in front of the whole class the next day.",
+            "vi": "Cô giáo sửa lỗi cho cô trước cả lớp vào hôm sau."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Her teacher corrected her.",
-          "text_translation": "Cô giáo sửa lỗi cho cô."
+          "text": "Her teacher corrected her in front of the whole class the next day.",
+          "text_translation": "Cô giáo sửa lỗi cho cô trước cả lớp vào hôm sau."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The patient could not understand her accent.",
-            "vi": "Bệnh nhân không hiểu giọng cô."
+            "en": "The patient could not understand her accent and asked her to write the word down.",
+            "vi": "Bệnh nhân không hiểu giọng của cô và đề nghị cô viết từ đó ra."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The patient could not understand her accent.",
-          "text_translation": "Bệnh nhân không hiểu giọng cô."
+          "text": "The patient could not understand her accent and asked her to write the word down.",
+          "text_translation": "Bệnh nhân không hiểu giọng của cô và đề nghị cô viết từ đó ra."
         }
       ],
       "evidence_segments": [
@@ -720,46 +720,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because there are very few of them",
-            "vi": "vì chúng rất ít"
+            "en": "because there are very few of them and every learner knows them already",
+            "vi": "vì chúng rất ít và người học nào cũng đã biết rồi"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because there are very few of them",
-          "text_translation": "vì chúng rất ít"
+          "text": "because there are very few of them and every learner knows them already",
+          "text_translation": "vì chúng rất ít và người học nào cũng đã biết rồi"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because teachers explain them in the first class",
-            "vi": "vì giáo viên giảng chúng ngay buổi đầu"
+            "en": "because teachers explain them all in the first class, before any mistakes are made",
+            "vi": "vì giáo viên giải thích hết chúng ngay buổi đầu, trước khi ai mắc lỗi"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because teachers explain them in the first class",
-          "text_translation": "vì giáo viên giảng chúng ngay buổi đầu"
+          "text": "because teachers explain them all in the first class, before any mistakes are made",
+          "text_translation": "vì giáo viên giải thích hết chúng ngay buổi đầu, trước khi ai mắc lỗi"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because they only exist in Spanish",
-            "vi": "vì chúng chỉ có trong tiếng Tây Ban Nha"
+            "en": "because they only exist in Spanish, so nurses seldom meet them at work",
+            "vi": "vì chúng chỉ có trong tiếng Tây Ban Nha, nên y tá hiếm khi gặp ở nơi làm việc"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because they only exist in Spanish",
-          "text_translation": "vì chúng chỉ có trong tiếng Tây Ban Nha"
+          "text": "because they only exist in Spanish, so nurses seldom meet them at work",
+          "text_translation": "vì chúng chỉ có trong tiếng Tây Ban Nha, nên y tá hiếm khi gặp ở nơi làm việc"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because the mistake soon becomes obvious, while misleading connotations may never be noticed",
-            "vi": "vì lỗi sớm lộ ra, còn sắc thái gây hiểu lầm có thể không bao giờ bị phát hiện"
+            "en": "because the mistake soon becomes obvious, while misleading connotations may be missed",
+            "vi": "vì lỗi sớm muộn cũng lộ ra, còn sắc thái gây hiểu lầm có thể bị bỏ sót"
           },
           "is_correct": true,
           "order": 3,
-          "text": "because the mistake soon becomes obvious, while misleading connotations may never be noticed",
-          "text_translation": "vì lỗi sớm lộ ra, còn sắc thái gây hiểu lầm có thể không bao giờ bị phát hiện"
+          "text": "because the mistake soon becomes obvious, while misleading connotations may be missed",
+          "text_translation": "vì lỗi sớm muộn cũng lộ ra, còn sắc thái gây hiểu lầm có thể bị bỏ sót"
         }
       ],
       "evidence_segments": [
@@ -800,35 +800,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "They are medically wrong.",
-            "vi": "Chúng sai về y học."
+            "en": "They are medically wrong, and families are right to complain about them.",
+            "vi": "Chúng sai về mặt y khoa, và các gia đình có lý khi phàn nàn về chúng."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They are medically wrong.",
-          "text_translation": "Chúng sai về y học."
+          "text": "They are medically wrong, and families are right to complain about them.",
+          "text_translation": "Chúng sai về mặt y khoa, và các gia đình có lý khi phàn nàn về chúng."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They should be translated into Spanish.",
-            "vi": "Nên dịch chúng sang tiếng Tây Ban Nha."
+            "en": "They should be translated into Spanish so that every patient can understand them.",
+            "vi": "Chúng nên được dịch sang tiếng Tây Ban Nha để bệnh nhân nào cũng hiểu."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They should be translated into Spanish.",
-          "text_translation": "Nên dịch chúng sang tiếng Tây Ban Nha."
+          "text": "They should be translated into Spanish so that every patient can understand them.",
+          "text_translation": "Chúng nên được dịch sang tiếng Tây Ban Nha để bệnh nhân nào cũng hiểu."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Doctors use them to save time.",
-            "vi": "Bác sĩ dùng chúng để tiết kiệm thời gian."
+            "en": "Doctors use them to save time, even though families would prefer longer explanations.",
+            "vi": "Bác sĩ dùng chúng để tiết kiệm thời gian, dù gia đình thích giải thích dài hơn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Doctors use them to save time.",
-          "text_translation": "Bác sĩ dùng chúng để tiết kiệm thời gian."
+          "text": "Doctors use them to save time, even though families would prefer longer explanations.",
+          "text_translation": "Bác sĩ dùng chúng để tiết kiệm thời gian, dù gia đình thích giải thích dài hơn."
         }
       ],
       "evidence_segments": [
@@ -858,46 +858,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Speakers are often in danger.",
-            "vi": "Người nói thường gặp nguy hiểm."
+            "en": "Speakers are often in danger, so they choose their words carefully for safety.",
+            "vi": "Người nói thường gặp nguy hiểm, nên chọn lời cẩn thận để an toàn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Speakers are often in danger.",
-          "text_translation": "Người nói thường gặp nguy hiểm."
+          "text": "Speakers are often in danger, so they choose their words carefully for safety.",
+          "text_translation": "Người nói thường gặp nguy hiểm, nên chọn lời cẩn thận để an toàn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Euphemisms are required by hospital rules.",
-            "vi": "Quy định bệnh viện bắt dùng lời nói giảm."
+            "en": "Euphemisms are required by hospital rules, and senior nurses check that staff use them.",
+            "vi": "Nói giảm là quy định của bệnh viện, và các y tá trưởng kiểm tra nhân viên có dùng không."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Euphemisms are required by hospital rules.",
-          "text_translation": "Quy định bệnh viện bắt dùng lời nói giảm."
+          "text": "Euphemisms are required by hospital rules, and senior nurses check that staff use them.",
+          "text_translation": "Nói giảm là quy định của bệnh viện, và các y tá trưởng kiểm tra nhân viên có dùng không."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Soft phrases also spare staff from the discomfort of saying something painful directly.",
-            "vi": "Lời nói nhẹ cũng giúp nhân viên khỏi khó chịu khi phải nói thẳng điều đau lòng."
+            "en": "Soft phrases also spare staff the discomfort of saying something painful directly.",
+            "vi": "Những cụm nói giảm cũng giúp nhân viên tránh nỗi khó chịu khi phải nói thẳng điều đau lòng."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Soft phrases also spare staff from the discomfort of saying something painful directly.",
-          "text_translation": "Lời nói nhẹ cũng giúp nhân viên khỏi khó chịu khi phải nói thẳng điều đau lòng."
+          "text": "Soft phrases also spare staff the discomfort of saying something painful directly.",
+          "text_translation": "Những cụm nói giảm cũng giúp nhân viên tránh nỗi khó chịu khi phải nói thẳng điều đau lòng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Listeners prefer direct words.",
-            "vi": "Người nghe thích lời nói thẳng."
+            "en": "Listeners prefer direct words, and speakers protect them by avoiding euphemisms.",
+            "vi": "Người nghe thích lời nói thẳng, và người nói bảo vệ họ bằng cách tránh nói giảm."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Listeners prefer direct words.",
-          "text_translation": "Người nghe thích lời nói thẳng."
+          "text": "Listeners prefer direct words, and speakers protect them by avoiding euphemisms.",
+          "text_translation": "Người nghe thích lời nói thẳng, và người nói bảo vệ họ bằng cách tránh nói giảm."
         }
       ],
       "evidence_segments": [
@@ -937,35 +937,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "His father was a history teacher.",
-            "vi": "Bố anh là giáo viên lịch sử."
+            "en": "His father was a history teacher and expected the report to be kinder.",
+            "vi": "Cha anh là giáo viên lịch sử và mong bản báo cáo tử tế hơn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "His father was a history teacher.",
-          "text_translation": "Bố anh là giáo viên lịch sử."
+          "text": "His father was a history teacher and expected the report to be kinder.",
+          "text_translation": "Cha anh là giáo viên lịch sử và mong bản báo cáo tử tế hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The doctor had insulted him in person.",
-            "vi": "Bác sĩ đã xúc phạm trực tiếp anh."
+            "en": "The doctor had insulted him in person, and the report repeated the insult in writing.",
+            "vi": "Bác sĩ đã xúc phạm anh trực tiếp, và bản báo cáo lặp lại lời xúc phạm bằng chữ viết."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The doctor had insulted him in person.",
-          "text_translation": "Bác sĩ đã xúc phạm trực tiếp anh."
+          "text": "The doctor had insulted him in person, and the report repeated the insult in writing.",
+          "text_translation": "Bác sĩ đã xúc phạm anh trực tiếp, và bản báo cáo lặp lại lời xúc phạm bằng chữ viết."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The report contained false information.",
-            "vi": "Báo cáo có thông tin sai."
+            "en": "The report contained false information about his father's illness and age.",
+            "vi": "Bản báo cáo chứa thông tin sai về bệnh và tuổi của cha anh."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The report contained false information.",
-          "text_translation": "Báo cáo có thông tin sai."
+          "text": "The report contained false information about his father's illness and age.",
+          "text_translation": "Bản báo cáo chứa thông tin sai về bệnh và tuổi của cha anh."
         }
       ],
       "evidence_segments": [
@@ -994,13 +994,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Never talk about death with families.",
-            "vi": "Đừng bao giờ nói về cái chết với gia đình."
+            "en": "Never talk about death with families, because it only makes them more afraid.",
+            "vi": "Đừng bao giờ nói về cái chết với gia đình, vì điều đó chỉ làm họ sợ hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Never talk about death with families.",
-          "text_translation": "Đừng bao giờ nói về cái chết với gia đình."
+          "text": "Never talk about death with families, because it only makes them more afraid.",
+          "text_translation": "Đừng bao giờ nói về cái chết với gia đình, vì điều đó chỉ làm họ sợ hơn."
         },
         {
           "id": "B",
@@ -1016,24 +1016,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Always use medical words.",
-            "vi": "Luôn dùng từ y khoa."
+            "en": "Always use medical words, so that families do not misunderstand the doctors.",
+            "vi": "Luôn dùng từ y khoa, để gia đình không hiểu nhầm các bác sĩ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Always use medical words.",
-          "text_translation": "Luôn dùng từ y khoa."
+          "text": "Always use medical words, so that families do not misunderstand the doctors.",
+          "text_translation": "Luôn dùng từ y khoa, để gia đình không hiểu nhầm các bác sĩ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Let doctors speak instead of nurses.",
-            "vi": "Để bác sĩ nói thay điều dưỡng."
+            "en": "Let doctors speak instead of nurses, because families trust them more.",
+            "vi": "Để bác sĩ nói thay y tá, vì gia đình tin họ hơn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Let doctors speak instead of nurses.",
-          "text_translation": "Để bác sĩ nói thay điều dưỡng."
+          "text": "Let doctors speak instead of nurses, because families trust them more.",
+          "text_translation": "Để bác sĩ nói thay y tá, vì gia đình tin họ hơn."
         }
       ],
       "evidence_segments": [
@@ -1062,35 +1062,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Hospitals should keep their doors open.",
-            "vi": "Bệnh viện nên mở cửa."
+            "en": "Hospitals should keep their doors open at all hours so that families can visit at any time.",
+            "vi": "Bệnh viện nên mở cửa mọi giờ để gia đình có thể thăm bất cứ lúc nào."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Hospitals should keep their doors open.",
-          "text_translation": "Bệnh viện nên mở cửa."
+          "text": "Hospitals should keep their doors open at all hours so that families can visit at any time.",
+          "text_translation": "Bệnh viện nên mở cửa mọi giờ để gia đình có thể thăm bất cứ lúc nào."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Families should not enter patients' rooms.",
-            "vi": "Gia đình không nên vào phòng bệnh nhân."
+            "en": "Families should not enter patients' rooms because they only make things harder.",
+            "vi": "Người nhà không nên vào phòng bệnh vì họ chỉ làm mọi việc khó hơn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Families should not enter patients' rooms.",
-          "text_translation": "Gia đình không nên vào phòng bệnh nhân."
+          "text": "Families should not enter patients' rooms because they only make things harder.",
+          "text_translation": "Người nhà không nên vào phòng bệnh vì họ chỉ làm mọi việc khó hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Gentle words are always cruel.",
-            "vi": "Lời nói nhẹ luôn tàn nhẫn."
+            "en": "Gentle words are always cruel, because they hide the truth from the patient.",
+            "vi": "Lời nhẹ nhàng luôn tàn nhẫn, vì chúng giấu sự thật khỏi bệnh nhân."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Gentle words are always cruel.",
-          "text_translation": "Lời nói nhẹ luôn tàn nhẫn."
+          "text": "Gentle words are always cruel, because they hide the truth from the patient.",
+          "text_translation": "Lời nhẹ nhàng luôn tàn nhẫn, vì chúng giấu sự thật khỏi bệnh nhân."
         },
         {
           "id": "D",
@@ -1130,24 +1130,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She agrees and has stopped using it.",
-            "vi": "Cô đồng ý và đã bỏ quy tắc."
+            "en": "She agrees with them and has stopped using the rule in her own work.",
+            "vi": "Cô đồng ý với họ và đã thôi áp dụng quy tắc đó trong công việc."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She agrees and has stopped using it.",
-          "text_translation": "Cô đồng ý và đã bỏ quy tắc."
+          "text": "She agrees with them and has stopped using the rule in her own work.",
+          "text_translation": "Cô đồng ý với họ và đã thôi áp dụng quy tắc đó trong công việc."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She says they are not real nurses.",
-            "vi": "Cô nói họ không phải điều dưỡng thật."
+            "en": "She says they are not real nurses and refuses to talk to them about it.",
+            "vi": "Cô nói họ không phải y tá thật sự và từ chối bàn với họ về chuyện đó."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She says they are not real nurses.",
-          "text_translation": "Cô nói họ không phải điều dưỡng thật."
+          "text": "She says they are not real nurses and refuses to talk to them about it.",
+          "text_translation": "Cô nói họ không phải y tá thật sự và từ chối bàn với họ về chuyện đó."
         },
         {
           "id": "C",
@@ -1163,13 +1163,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "She asks the hospital to change its rules.",
-            "vi": "Cô xin bệnh viện đổi quy định."
+            "en": "She asks the hospital to change its rules so that nobody has to say it.",
+            "vi": "Cô đề nghị bệnh viện đổi quy định để không ai phải nói ra điều đó."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She asks the hospital to change its rules.",
-          "text_translation": "Cô xin bệnh viện đổi quy định."
+          "text": "She asks the hospital to change its rules so that nobody has to say it.",
+          "text_translation": "Cô đề nghị bệnh viện đổi quy định để không ai phải nói ra điều đó."
         }
       ],
       "evidence_segments": [
@@ -1198,46 +1198,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "self-mocking and humorous",
-            "vi": "tự giễu và hài hước"
+            "en": "gently self-mocking and humorous",
+            "vi": "nhẹ nhàng tự giễu và hài hước"
           },
           "is_correct": true,
           "order": 0,
-          "text": "self-mocking and humorous",
-          "text_translation": "tự giễu và hài hước"
+          "text": "gently self-mocking and humorous",
+          "text_translation": "nhẹ nhàng tự giễu và hài hước"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "angry with her teacher",
-            "vi": "giận cô giáo"
+            "en": "bitter and angry about how her teacher judged her",
+            "vi": "cay đắng và giận về cách cô giáo đánh giá mình"
           },
           "is_correct": false,
           "order": 1,
-          "text": "angry with her teacher",
-          "text_translation": "giận cô giáo"
+          "text": "bitter and angry about how her teacher judged her",
+          "text_translation": "cay đắng và giận về cách cô giáo đánh giá mình"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "proud of her fluency",
-            "vi": "tự hào vì nói trôi chảy"
+            "en": "proud of how fluent she has become",
+            "vi": "tự hào vì mình đã trở nên lưu loát"
           },
           "is_correct": false,
           "order": 2,
-          "text": "proud of her fluency",
-          "text_translation": "tự hào vì nói trôi chảy"
+          "text": "proud of how fluent she has become",
+          "text_translation": "tự hào vì mình đã trở nên lưu loát"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "bitter about her classes",
-            "vi": "cay đắng về lớp học"
+            "en": "bitter about the cost of her classes",
+            "vi": "cay đắng về học phí các lớp của cô"
           },
           "is_correct": false,
           "order": 3,
-          "text": "bitter about her classes",
-          "text_translation": "cay đắng về lớp học"
+          "text": "bitter about the cost of her classes",
+          "text_translation": "cay đắng về học phí các lớp của cô"
         }
       ],
       "evidence_segments": [
@@ -1266,46 +1266,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Spanish is harder to learn than English.",
-            "vi": "Tiếng Tây Ban Nha khó học hơn tiếng Anh."
+            "en": "Spanish is harder to learn than English, even for people who work with patients.",
+            "vi": "Tiếng Tây Ban Nha khó học hơn tiếng Anh, kể cả với người làm việc với bệnh nhân."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Spanish is harder to learn than English.",
-          "text_translation": "Tiếng Tây Ban Nha khó học hơn tiếng Anh."
+          "text": "Spanish is harder to learn than English, even for people who work with patients.",
+          "text_translation": "Tiếng Tây Ban Nha khó học hơn tiếng Anh, kể cả với người làm việc với bệnh nhân."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Nurses should learn several languages.",
-            "vi": "Điều dưỡng nên học nhiều ngôn ngữ."
+            "en": "Nurses should learn several languages, so that they never use a false friend.",
+            "vi": "Y tá nên học nhiều ngôn ngữ để không bao giờ dùng nhầm từ giả bạn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Nurses should learn several languages.",
-          "text_translation": "Điều dưỡng nên học nhiều ngôn ngữ."
+          "text": "Nurses should learn several languages, so that they never use a false friend.",
+          "text_translation": "Y tá nên học nhiều ngôn ngữ để không bao giờ dùng nhầm từ giả bạn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Medical jargon should be banned.",
-            "vi": "Nên cấm thuật ngữ y khoa."
+            "en": "Medical jargon should be banned from hospitals because it frightens every family.",
+            "vi": "Thuật ngữ y khoa nên bị cấm trong bệnh viện vì nó làm mọi gia đình sợ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Medical jargon should be banned.",
-          "text_translation": "Nên cấm thuật ngữ y khoa."
+          "text": "Medical jargon should be banned from hospitals because it frightens every family.",
+          "text_translation": "Thuật ngữ y khoa nên bị cấm trong bệnh viện vì nó làm mọi gia đình sợ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Learning a language taught her to notice the gap between what words say and what they lead people to believe.",
-            "vi": "Học ngoại ngữ dạy cô nhận ra khoảng cách giữa điều lời nói ra và điều nó khiến người ta tin."
+            "en": "Learning a language taught her to notice the gap between words and what they make people believe.",
+            "vi": "Học một ngôn ngữ dạy cô để ý khoảng cách giữa lời nói và điều chúng khiến người ta tin."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Learning a language taught her to notice the gap between what words say and what they lead people to believe.",
-          "text_translation": "Học ngoại ngữ dạy cô nhận ra khoảng cách giữa điều lời nói ra và điều nó khiến người ta tin."
+          "text": "Learning a language taught her to notice the gap between words and what they make people believe.",
+          "text_translation": "Học một ngôn ngữ dạy cô để ý khoảng cách giữa lời nói và điều chúng khiến người ta tin."
         }
       ],
       "evidence_segments": [
@@ -1334,24 +1334,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because the customer stopped coming",
-            "vi": "vì vị khách thôi không đến"
+            "en": "because the customer stopped coming to the café after the changes",
+            "vi": "vì vị khách đã thôi đến quán sau những thay đổi"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because the customer stopped coming",
-          "text_translation": "vì vị khách thôi không đến"
+          "text": "because the customer stopped coming to the café after the changes",
+          "text_translation": "vì vị khách đã thôi đến quán sau những thay đổi"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because the remark made her angry",
-            "vi": "vì câu nói làm bà giận"
+            "en": "because the remark made her angry and she wants to answer it in print",
+            "vi": "vì lời nhận xét làm bà giận và bà muốn đáp lại bằng bài viết"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because the remark made her angry",
-          "text_translation": "vì câu nói làm bà giận"
+          "text": "because the remark made her angry and she wants to answer it in print",
+          "text_translation": "vì lời nhận xét làm bà giận và bà muốn đáp lại bằng bài viết"
         },
         {
           "id": "C",
@@ -1367,13 +1367,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "because she wants to close the café",
-            "vi": "vì bà muốn đóng quán"
+            "en": "because she wants to close the café and needs a good reason to do so",
+            "vi": "vì bà muốn đóng quán và cần một lý do chính đáng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because she wants to close the café",
-          "text_translation": "vì bà muốn đóng quán"
+          "text": "because she wants to close the café and needs a good reason to do so",
+          "text_translation": "vì bà muốn đóng quán và cần một lý do chính đáng"
         }
       ],
       "evidence_segments": [
@@ -1402,46 +1402,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show how much of the original café has been replaced, so the customer's feeling is understandable",
-            "vi": "để cho thấy quán cũ đã bị thay bao nhiêu phần, nên cảm giác của vị khách là dễ hiểu"
+            "en": "to show how much of the original café has changed, so the customer's feeling makes sense",
+            "vi": "để cho thấy quán ban đầu đã thay đổi nhiều thế nào, nên cảm giác của vị khách có lý"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to show how much of the original café has been replaced, so the customer's feeling is understandable",
-          "text_translation": "để cho thấy quán cũ đã bị thay bao nhiêu phần, nên cảm giác của vị khách là dễ hiểu"
+          "text": "to show how much of the original café has changed, so the customer's feeling makes sense",
+          "text_translation": "để cho thấy quán ban đầu đã thay đổi nhiều thế nào, nên cảm giác của vị khách có lý"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to advertise the café's improvements",
-            "vi": "để quảng cáo những cải tiến của quán"
+            "en": "to advertise the café's improvements and persuade the customer to come back more often",
+            "vi": "để quảng cáo những cải tiến của quán và thuyết phục vị khách quay lại thường xuyên hơn"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to advertise the café's improvements",
-          "text_translation": "để quảng cáo những cải tiến của quán"
+          "text": "to advertise the café's improvements and persuade the customer to come back more often",
+          "text_translation": "để quảng cáo những cải tiến của quán và thuyết phục vị khách quay lại thường xuyên hơn"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to complain about prices",
-            "vi": "để phàn nàn về giá"
+            "en": "to complain about prices and the tablet that takes payments",
+            "vi": "để phàn nàn về giá cả và chiếc máy tính bảng nhận thanh toán"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to complain about prices",
-          "text_translation": "để phàn nàn về giá"
+          "text": "to complain about prices and the tablet that takes payments",
+          "text_translation": "để phàn nàn về giá cả và chiếc máy tính bảng nhận thanh toán"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to thank her son",
-            "vi": "để cảm ơn con trai"
+            "en": "to thank her son and the waitress for everything they did for the café",
+            "vi": "để cảm ơn con trai và cô phục vụ vì tất cả những gì họ làm cho quán"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to thank her son",
-          "text_translation": "để cảm ơn con trai"
+          "text": "to thank her son and the waitress for everything they did for the café",
+          "text_translation": "để cảm ơn con trai và cô phục vụ vì tất cả những gì họ làm cho quán"
         }
       ],
       "evidence_segments": [
@@ -1470,46 +1470,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "the waitress who designed the sign",
-            "vi": "cô phục vụ thiết kế tấm biển"
+            "en": "the waitress who designed the heart-shaped sign",
+            "vi": "cô phục vụ đã thiết kế biển hình trái tim"
           },
           "is_correct": false,
           "order": 0,
-          "text": "the waitress who designed the sign",
-          "text_translation": "cô phục vụ thiết kế tấm biển"
+          "text": "the waitress who designed the heart-shaped sign",
+          "text_translation": "cô phục vụ đã thiết kế biển hình trái tim"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Harriet's son",
-            "vi": "con trai bà Harriet"
+            "en": "Harriet's son, who painted the walls yellow",
+            "vi": "con trai Harriet, người đã sơn tường màu vàng"
           },
           "is_correct": false,
           "order": 1,
-          "text": "Harriet's son",
-          "text_translation": "con trai bà Harriet"
+          "text": "Harriet's son, who painted the walls yellow",
+          "text_translation": "con trai Harriet, người đã sơn tường màu vàng"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "the nurse from the night shift",
-            "vi": "cô y tá ca đêm"
+            "en": "the nurse who comes in after the night shift",
+            "vi": "y tá đến quán sau ca đêm"
           },
           "is_correct": false,
           "order": 2,
-          "text": "the nurse from the night shift",
-          "text_translation": "cô y tá ca đêm"
+          "text": "the nurse who comes in after the night shift",
+          "text_translation": "y tá đến quán sau ca đêm"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Harriet herself",
-            "vi": "chính bà Harriet"
+            "en": "Harriet herself, who now needs a stool behind the counter",
+            "vi": "chính Harriet, người giờ cần một chiếc ghế đẩu sau quầy"
           },
           "is_correct": true,
           "order": 3,
-          "text": "Harriet herself",
-          "text_translation": "chính bà Harriet"
+          "text": "Harriet herself, who now needs a stool behind the counter",
+          "text_translation": "chính Harriet, người giờ cần một chiếc ghế đẩu sau quầy"
         }
       ],
       "evidence_segments": [
@@ -1538,13 +1538,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Who had built the first ship?",
-            "vi": "Ai đóng con tàu đầu tiên?"
+            "en": "Who had built the first ship, and why had the people of Athens kept it?",
+            "vi": "Ai đã đóng con tàu đầu tiên, và vì sao người Athens giữ nó?"
           },
           "is_correct": false,
           "order": 0,
-          "text": "Who had built the first ship?",
-          "text_translation": "Ai đóng con tàu đầu tiên?"
+          "text": "Who had built the first ship, and why had the people of Athens kept it?",
+          "text_translation": "Ai đã đóng con tàu đầu tiên, và vì sao người Athens giữ nó?"
         },
         {
           "id": "B",
@@ -1560,24 +1560,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Why did the planks rot?",
-            "vi": "Vì sao ván bị mục?"
+            "en": "Why did the planks rot, and could the new ones last longer?",
+            "vi": "Vì sao những tấm ván mục, và ván mới có bền hơn không?"
           },
           "is_correct": false,
           "order": 2,
-          "text": "Why did the planks rot?",
-          "text_translation": "Vì sao ván bị mục?"
+          "text": "Why did the planks rot, and could the new ones last longer?",
+          "text_translation": "Vì sao những tấm ván mục, và ván mới có bền hơn không?"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Should the ship be kept at all?",
-            "vi": "Có nên giữ con tàu không?"
+            "en": "Should the ship be kept at all, or should the people of Athens build another?",
+            "vi": "Có nên giữ con tàu không, hay người Athens nên đóng một chiếc khác?"
           },
           "is_correct": false,
           "order": 3,
-          "text": "Should the ship be kept at all?",
-          "text_translation": "Có nên giữ con tàu không?"
+          "text": "Should the ship be kept at all, or should the people of Athens build another?",
+          "text_translation": "Có nên giữ con tàu không, hay người Athens nên đóng một chiếc khác?"
         }
       ],
       "evidence_segments": [
@@ -1606,46 +1606,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She plans to rebuild the old café.",
-            "vi": "Bà định dựng lại quán cũ."
+            "en": "She plans to rebuild the old café from the chairs and the sign, plank by plank.",
+            "vi": "Bà định dựng lại quán cũ từ những chiếc ghế và biển, từng tấm ván một."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She plans to rebuild the old café.",
-          "text_translation": "Bà định dựng lại quán cũ."
+          "text": "She plans to rebuild the old café from the chairs and the sign, plank by plank.",
+          "text_translation": "Bà định dựng lại quán cũ từ những chiếc ghế và biển, từng tấm ván một."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She sells the old chairs.",
-            "vi": "Bà bán ghế cũ."
+            "en": "She sells the old chairs to pay for the new ones and the heart-shaped sign.",
+            "vi": "Bà bán những chiếc ghế cũ để trả tiền cho ghế mới và biển hình trái tim."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She sells the old chairs.",
-          "text_translation": "Bà bán ghế cũ."
+          "text": "She sells the old chairs to pay for the new ones and the heart-shaped sign.",
+          "text_translation": "Bà bán những chiếc ghế cũ để trả tiền cho ghế mới và biển hình trái tim."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She imagines putting the old chairs and sign in an empty room and concludes that would not be Harriet's.",
-            "vi": "Bà hình dung gom ghế cũ và biển cũ vào một phòng trống và kết luận đó không phải Harriet's."
+            "en": "She pictures the old chairs and sign in an empty room and decides that is not Harriet's.",
+            "vi": "Bà hình dung những chiếc ghế và biển cũ trong một căn phòng trống và kết luận đó không phải Harriet's."
           },
           "is_correct": true,
           "order": 2,
-          "text": "She imagines putting the old chairs and sign in an empty room and concludes that would not be Harriet's.",
-          "text_translation": "Bà hình dung gom ghế cũ và biển cũ vào một phòng trống và kết luận đó không phải Harriet's."
+          "text": "She pictures the old chairs and sign in an empty room and decides that is not Harriet's.",
+          "text_translation": "Bà hình dung những chiếc ghế và biển cũ trong một căn phòng trống và kết luận đó không phải Harriet's."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She asks her son to return the sign.",
-            "vi": "Bà nhờ con trai trả lại tấm biển."
+            "en": "She asks her son to return the sign so that she can hang it in the café again.",
+            "vi": "Bà nhờ con trai trả lại biển để treo lại trong quán."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She asks her son to return the sign.",
-          "text_translation": "Bà nhờ con trai trả lại tấm biển."
+          "text": "She asks her son to return the sign so that she can hang it in the café again.",
+          "text_translation": "Bà nhờ con trai trả lại biển để treo lại trong quán."
         }
       ],
       "evidence_segments": [
@@ -1685,35 +1685,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "its old furniture",
-            "vi": "đồ đạc cũ"
+            "en": "its old furniture, especially the chairs that are now in the kitchen",
+            "vi": "đồ đạc cũ, nhất là những chiếc ghế hiện ở trong bếp chung"
           },
           "is_correct": false,
           "order": 1,
-          "text": "its old furniture",
-          "text_translation": "đồ đạc cũ"
+          "text": "its old furniture, especially the chairs that are now in the kitchen",
+          "text_translation": "đồ đạc cũ, nhất là những chiếc ghế hiện ở trong bếp chung"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "its location on Maple Street",
-            "vi": "vị trí trên phố Maple"
+            "en": "its location on Maple Street, next to the shared kitchen",
+            "vi": "vị trí trên phố Maple, cạnh bếp chung"
           },
           "is_correct": false,
           "order": 2,
-          "text": "its location on Maple Street",
-          "text_translation": "vị trí trên phố Maple"
+          "text": "its location on Maple Street, next to the shared kitchen",
+          "text_translation": "vị trí trên phố Maple, cạnh bếp chung"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "its low prices",
-            "vi": "giá rẻ"
+            "en": "its low prices and the fast payment system on the tablet",
+            "vi": "giá rẻ và hệ thống thanh toán nhanh trên máy tính bảng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "its low prices",
-          "text_translation": "giá rẻ"
+          "text": "its low prices and the fast payment system on the tablet",
+          "text_translation": "giá rẻ và hệ thống thanh toán nhanh trên máy tính bảng"
         }
       ],
       "evidence_segments": [
@@ -1742,13 +1742,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The customer has never been to the café.",
-            "vi": "Vị khách chưa từng đến quán."
+            "en": "The customer has never been to the café and only knows it from stories.",
+            "vi": "Vị khách chưa từng đến quán và chỉ biết quán qua những câu chuyện."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The customer has never been to the café.",
-          "text_translation": "Vị khách chưa từng đến quán."
+          "text": "The customer has never been to the café and only knows it from stories.",
+          "text_translation": "Vị khách chưa từng đến quán và chỉ biết quán qua những câu chuyện."
         },
         {
           "id": "B",
@@ -1764,24 +1764,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "The café was always expensive.",
-            "vi": "Quán luôn đắt."
+            "en": "The café was always expensive, so the customer's complaint is not new.",
+            "vi": "Quán lúc nào cũng đắt, nên lời phàn nàn của khách không phải chuyện mới."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The café was always expensive.",
-          "text_translation": "Quán luôn đắt."
+          "text": "The café was always expensive, so the customer's complaint is not new.",
+          "text_translation": "Quán lúc nào cũng đắt, nên lời phàn nàn của khách không phải chuyện mới."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The customer is too young to remember.",
-            "vi": "Vị khách còn quá trẻ để nhớ."
+            "en": "The customer is too young to remember how the café was in the beginning.",
+            "vi": "Vị khách còn quá trẻ để nhớ quán ban đầu thế nào."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The customer is too young to remember.",
-          "text_translation": "Vị khách còn quá trẻ để nhớ."
+          "text": "The customer is too young to remember how the café was in the beginning.",
+          "text_translation": "Vị khách còn quá trẻ để nhớ quán ban đầu thế nào."
         }
       ],
       "evidence_segments": [
@@ -1810,46 +1810,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The changes caused the café to close.",
-            "vi": "Những thay đổi khiến quán đóng cửa."
+            "en": "The changes caused the café to close, as they did the bakery next door.",
+            "vi": "Những thay đổi khiến quán đóng cửa, như với tiệm bánh bên cạnh."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The changes caused the café to close.",
-          "text_translation": "Những thay đổi khiến quán đóng cửa."
+          "text": "The changes caused the café to close, as they did the bakery next door.",
+          "text_translation": "Những thay đổi khiến quán đóng cửa, như với tiệm bánh bên cạnh."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The customer caused the changes.",
-            "vi": "Vị khách gây ra thay đổi."
+            "en": "The customer caused the changes by complaining about the old café.",
+            "vi": "Vị khách gây ra những thay đổi bằng cách phàn nàn về quán cũ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The customer caused the changes.",
-          "text_translation": "Vị khách gây ra thay đổi."
+          "text": "The customer caused the changes by complaining about the old café.",
+          "text_translation": "Vị khách gây ra những thay đổi bằng cách phàn nàn về quán cũ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The bakery copied the café.",
-            "vi": "Tiệm bánh bắt chước quán."
+            "en": "The bakery copied the café, and so the bakery closed first.",
+            "vi": "Tiệm bánh bắt chước quán, nên tiệm bánh đóng cửa trước."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The bakery copied the café.",
-          "text_translation": "Tiệm bánh bắt chước quán."
+          "text": "The bakery copied the café, and so the bakery closed first.",
+          "text_translation": "Tiệm bánh bắt chước quán, nên tiệm bánh đóng cửa trước."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The café survived only because it changed.",
-            "vi": "Quán tồn tại được chính vì nó đã thay đổi."
+            "en": "The café survived only because it kept changing over the years.",
+            "vi": "Quán còn tồn tại chỉ vì nó liên tục thay đổi qua các năm."
           },
           "is_correct": true,
           "order": 3,
-          "text": "The café survived only because it changed.",
-          "text_translation": "Quán tồn tại được chính vì nó đã thay đổi."
+          "text": "The café survived only because it kept changing over the years.",
+          "text_translation": "Quán còn tồn tại chỉ vì nó liên tục thay đổi qua các năm."
         }
       ],
       "evidence_segments": [
@@ -1878,46 +1878,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She is angry that others will change the café.",
-            "vi": "Bà giận vì người khác sẽ thay đổi quán."
+            "en": "She is angry that others will change the café, and she wants to stop them from doing it.",
+            "vi": "Bà giận vì người khác sẽ thay đổi quán, và bà muốn ngăn họ làm vậy."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She is angry that others will change the café.",
-          "text_translation": "Bà giận vì người khác sẽ thay đổi quán."
+          "text": "She is angry that others will change the café, and she wants to stop them from doing it.",
+          "text_translation": "Bà giận vì người khác sẽ thay đổi quán, và bà muốn ngăn họ làm vậy."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She has decided to sell the café next year.",
-            "vi": "Bà quyết bán quán năm sau."
+            "en": "She has decided to sell the café next year to someone with fresh ideas.",
+            "vi": "Bà đã quyết định bán quán vào năm sau cho người có ý tưởng mới."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She has decided to sell the café next year.",
-          "text_translation": "Bà quyết bán quán năm sau."
+          "text": "She has decided to sell the café next year to someone with fresh ideas.",
+          "text_translation": "Bà đã quyết định bán quán vào năm sau cho người có ý tưởng mới."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She calmly accepts future changes, as long as the café's way of caring for people continues.",
-            "vi": "Bà bình thản chấp nhận thay đổi sau này, miễn là cách quán quan tâm tới con người vẫn còn."
+            "en": "She calmly accepts future changes, as long as the café still cares for people.",
+            "vi": "Bà bình thản chấp nhận những thay đổi sau này, miễn là quán vẫn quan tâm đến mọi người."
           },
           "is_correct": true,
           "order": 2,
-          "text": "She calmly accepts future changes, as long as the café's way of caring for people continues.",
-          "text_translation": "Bà bình thản chấp nhận thay đổi sau này, miễn là cách quán quan tâm tới con người vẫn còn."
+          "text": "She calmly accepts future changes, as long as the café still cares for people.",
+          "text_translation": "Bà bình thản chấp nhận những thay đổi sau này, miễn là quán vẫn quan tâm đến mọi người."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She refuses to think about it.",
-            "vi": "Bà từ chối nghĩ tới chuyện đó."
+            "en": "She refuses to think about it, because she does not trust anyone else.",
+            "vi": "Bà không chịu nghĩ về chuyện đó, vì bà không tin ai khác."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She refuses to think about it.",
-          "text_translation": "Bà từ chối nghĩ tới chuyện đó."
+          "text": "She refuses to think about it, because she does not trust anyone else.",
+          "text_translation": "Bà không chịu nghĩ về chuyện đó, vì bà không tin ai khác."
         }
       ],
       "evidence_segments": [
@@ -1946,46 +1946,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Old things are always better than new ones.",
-            "vi": "Đồ cũ luôn tốt hơn đồ mới."
+            "en": "Old things are always better than new ones, and people are right to long for the past.",
+            "vi": "Đồ cũ luôn tốt hơn đồ mới, và người ta có lý khi nhớ về quá khứ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Old things are always better than new ones.",
-          "text_translation": "Đồ cũ luôn tốt hơn đồ mới."
+          "text": "Old things are always better than new ones, and people are right to long for the past.",
+          "text_translation": "Đồ cũ luôn tốt hơn đồ mới, và người ta có lý khi nhớ về quá khứ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "What matters lies beneath the surface: the real effect of words, and the real habits of a place.",
-            "vi": "Điều quan trọng nằm dưới bề mặt: tác động thật của lời nói, và thói quen thật của một nơi chốn."
+            "en": "What matters lies beneath the surface: the effect of words, and the habits of a place.",
+            "vi": "Điều quan trọng nằm bên dưới bề mặt: tác động của lời nói và thói quen của một nơi chốn."
           },
           "is_correct": true,
           "order": 1,
-          "text": "What matters lies beneath the surface: the real effect of words, and the real habits of a place.",
-          "text_translation": "Điều quan trọng nằm dưới bề mặt: tác động thật của lời nói, và thói quen thật của một nơi chốn."
+          "text": "What matters lies beneath the surface: the effect of words, and the habits of a place.",
+          "text_translation": "Điều quan trọng nằm bên dưới bề mặt: tác động của lời nói và thói quen của một nơi chốn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Language learning is a waste of time.",
-            "vi": "Học ngoại ngữ là phí thời gian."
+            "en": "Language learning is a waste of time, since words are only a surface.",
+            "vi": "Học ngoại ngữ là phí thời gian, vì từ ngữ chỉ là bề mặt."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Language learning is a waste of time.",
-          "text_translation": "Học ngoại ngữ là phí thời gian."
+          "text": "Language learning is a waste of time, since words are only a surface.",
+          "text_translation": "Học ngoại ngữ là phí thời gian, vì từ ngữ chỉ là bề mặt."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Customers should not complain.",
-            "vi": "Khách không nên phàn nàn."
+            "en": "Customers should not complain, because only the staff understand the place.",
+            "vi": "Khách không nên phàn nàn, vì chỉ nhân viên mới hiểu nơi đó."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Customers should not complain.",
-          "text_translation": "Khách không nên phàn nàn."
+          "text": "Customers should not complain, because only the staff understand the place.",
+          "text_translation": "Khách không nên phàn nàn, vì chỉ nhân viên mới hiểu nơi đó."
         }
       ],
       "evidence_segments": [

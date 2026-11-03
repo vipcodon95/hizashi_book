@@ -103,82 +103,82 @@
 **1. What does Mitchell mean when he says the interview "was to have taken an hour"?**
 *(Mitchell muốn nói gì khi bảo cuộc phỏng vấn "lẽ ra chỉ mất một giờ"?)*
 
-- A. It was cancelled. *(Nó bị huỷ.)*
-- B. It took exactly one hour. *(Nó mất đúng một giờ.)*
+- A. It was cancelled because Harriet was too busy to continue. *(Buổi phỏng vấn bị hủy vì Harriet quá bận để tiếp tục.)*
+- B. It took exactly one hour, as Harriet had promised him. *(Nó kéo dài đúng một giờ, như Harriet đã hứa với ông.)*
 - C. It had been planned to last an hour but took much longer. *(Nó được dự định kéo dài một giờ nhưng thực tế lâu hơn nhiều.)*
-- D. Harriet refused to be interviewed. *(Bà Harriet từ chối phỏng vấn.)*
+- D. Harriet refused to be interviewed after the first afternoon. *(Harriet từ chối được phỏng vấn sau buổi chiều đầu tiên.)*
 
 **2. According to the archive, what was wrong with Harriet's story?**
 *(Theo kho lưu trữ, câu chuyện của bà Harriet sai ở đâu?)*
 
 - A. The flood happened two years after she arrived, not in the week she arrived. *(Trận lụt xảy ra hai năm sau khi bà tới, không phải đúng tuần bà tới.)*
-- B. There was never a flood. *(Chưa từng có trận lụt nào.)*
-- C. The fire station did not exist. *(Trạm cứu hoả không tồn tại.)*
-- D. She arrived in 1980. *(Bà tới năm 1980.)*
+- B. There was never a flood on Pine Street, only a heavy storm that nobody remembers well. *(Chưa từng có lũ ở phố Pine, chỉ có một cơn bão lớn mà không ai nhớ rõ.)*
+- C. The fire station did not exist yet when she arrived on Maple Street. *(Trạm cứu hỏa chưa tồn tại khi bà đến phố Maple.)*
+- D. She arrived in 1980, two years later than she remembers. *(Bà đến vào năm 1980, muộn hơn hai năm so với bà nhớ.)*
 
 **3. Why does Mitchell say he is "ashamed" of his first reaction?**
 *(Vì sao Mitchell nói ông "xấu hổ" về phản ứng đầu tiên?)*
 
-- A. because he had lost the photograph *(vì ông làm mất bức ảnh)*
-- B. because he had been rude to Harriet *(vì ông đã thô lỗ với bà Harriet)*
-- C. because he had made the mistake himself *(vì chính ông mắc lỗi)*
-- D. because he had felt pleased at catching his neighbor in an error, rather than asking why it happened *(vì ông đã thấy thích thú khi bắt được lỗi của hàng xóm, thay vì hỏi vì sao lỗi xảy ra)*
+- A. because he had lost the photograph of the boat that Harriet had asked to see again *(vì ông đã làm mất tấm ảnh chiếc thuyền mà Harriet muốn xem lại)*
+- B. because he had been rude to Harriet when she told him the story of the storm *(vì ông đã thô lỗ với Harriet khi bà kể câu chuyện về cơn bão)*
+- C. because he had made the same mistake himself in the interview with Harriet *(vì chính ông đã mắc cùng lỗi đó trong buổi phỏng vấn Harriet)*
+- D. because he felt pleased at catching his neighbor in an error instead of asking why it happened *(vì ông thấy thích thú khi bắt lỗi người hàng xóm thay vì hỏi vì sao lỗi xảy ra)*
 
 **4. What did Neisser and Harsch find when they asked the students again?**
 *(Neisser và Harsch phát hiện gì khi hỏi lại các sinh viên?)*
 
-- A. Most students remembered perfectly. *(Phần lớn sinh viên nhớ hoàn hảo.)*
-- B. Many accounts had changed, but the students were confident, and confidence did not predict accuracy. *(Nhiều lời kể đã thay đổi, nhưng sinh viên vẫn tự tin, và độ tự tin không cho biết độ chính xác.)*
-- C. The students refused to answer. *(Sinh viên từ chối trả lời.)*
-- D. Only confident students made mistakes. *(Chỉ sinh viên tự tin mới sai.)*
+- A. Most students remembered the news perfectly after more than two years. *(Hầu hết sinh viên nhớ tin đó hoàn hảo sau hơn hai năm.)*
+- B. Many accounts had changed, but confident students were not more accurate. *(Nhiều lời kể đã thay đổi, nhưng sinh viên tự tin không chính xác hơn.)*
+- C. The students refused to answer because they had forgotten the event. *(Sinh viên từ chối trả lời vì họ đã quên sự kiện.)*
+- D. Only confident students made mistakes, while the careful ones remembered well. *(Chỉ sinh viên tự tin mới sai, còn người cẩn thận nhớ tốt.)*
 
 **5. What is most surprising about the students who were shown their own handwriting?**
 *(Điều đáng ngạc nhiên nhất về những sinh viên được xem chữ viết tay của chính mình là gì?)*
 
-- A. They could not read their handwriting. *(Họ không đọc được chữ mình.)*
-- B. They thanked the researchers. *(Họ cảm ơn các nhà nghiên cứu.)*
+- A. They could not read their own handwriting, so they asked the researchers to read it. *(Họ không đọc được chữ viết tay của chính mình nên nhờ các nhà nghiên cứu đọc hộ.)*
+- B. They thanked the researchers for showing them the old pages. *(Họ cảm ơn các nhà nghiên cứu đã cho xem những trang cũ.)*
 - C. Some trusted their later memory more than their own written record. *(Có người tin ký ức về sau hơn cả bản ghi chính tay mình viết.)*
-- D. They all corrected their stories. *(Tất cả đều sửa lại lời kể.)*
+- D. They all corrected their stories as soon as they saw the pages. *(Tất cả họ sửa lại lời kể ngay khi thấy các trang giấy.)*
 
 **6. Why does Mitchell describe the study of the Challenger memories?**
 *(Vì sao Mitchell kể về nghiên cứu ký ức vụ Challenger?)*
 
-- A. to show that Harriet's kind of error is common and does not mean she is careless or dishonest *(để cho thấy kiểu lỗi của bà Harriet là phổ biến, không có nghĩa bà cẩu thả hay không trung thực)*
-- B. to prove that the archive is always wrong *(để chứng minh kho lưu trữ luôn sai)*
-- C. to explain space travel *(để giải thích du hành vũ trụ)*
-- D. to criticize university students *(để chê sinh viên đại học)*
+- A. to show that Harriet's kind of error is common and does not mean she is careless *(để cho thấy lỗi như của Harriet là phổ biến và không có nghĩa bà cẩu thả)*
+- B. to prove that the archive is always wrong when it disagrees with people who remember *(để chứng minh kho lưu trữ luôn sai khi nó mâu thuẫn với người còn nhớ sự việc)*
+- C. to explain space travel and how students heard about the Challenger launch *(để giải thích du hành vũ trụ và cách sinh viên biết về vụ phóng Challenger)*
+- D. to criticize university students for forgetting something so important *(để chê sinh viên đại học vì quên một chuyện quan trọng đến vậy)*
 
 **7. According to Mitchell, why did Harriet's memory move the flood closer to her arrival?**
 *(Theo Mitchell, vì sao ký ức của bà Harriet dời trận lụt lại gần ngày bà tới?)*
 
-- A. because she was confused about the years *(vì bà lẫn lộn năm tháng)*
-- B. because a newspaper had reported it wrongly *(vì một tờ báo đưa tin sai)*
-- C. because she wanted to impress Mitchell *(vì bà muốn gây ấn tượng với Mitchell)*
+- A. because she was simply confused about the years and had never checked them *(vì bà chỉ đơn giản nhầm các năm và chưa bao giờ kiểm tra lại)*
+- B. because a newspaper had reported the date wrongly at the time *(vì một tờ báo đã đưa sai ngày vào thời điểm đó)*
+- C. because she wanted to impress Mitchell and the library with a more dramatic story of arriving *(vì bà muốn gây ấn tượng với Mitchell và thư viện bằng một câu chuyện đến phố kịch tính hơn)*
 - D. because both events meant the same thing to her: becoming part of the neighborhood *(vì với bà, cả hai sự kiện cùng mang một ý nghĩa: trở thành một phần của khu phố)*
 
 **8. What does "where it belonged emotionally if not chronologically" mean?**
 *(Cụm "nơi nó thuộc về về mặt cảm xúc dù không phải về mặt niên đại" nghĩa là gì?)*
 
-- A. The flood should be moved in the archive. *(Nên dời trận lụt trong kho lưu trữ.)*
-- B. In her feelings the flood belonged to her arrival, even though the dates were different. *(Trong cảm xúc của bà, trận lụt gắn với ngày bà tới, dù ngày tháng khác nhau.)*
-- C. The flood happened twice. *(Trận lụt xảy ra hai lần.)*
-- D. Her emotions were wrong. *(Cảm xúc của bà sai.)*
+- A. The flood should be moved to a different year in the library's archive. *(Trận lũ nên được chuyển sang một năm khác trong kho lưu trữ của thư viện.)*
+- B. In her feelings the flood belonged to her arrival, although the dates differ. *(Trong cảm xúc của bà, trận lũ thuộc về lúc bà đến, dù ngày tháng khác nhau.)*
+- C. The flood happened twice, once for her feelings and once in the archive. *(Trận lũ xảy ra hai lần, một lần trong cảm xúc của bà và một lần trong kho lưu trữ.)*
+- D. Her emotions were wrong, so her memory of the dates could not be trusted. *(Cảm xúc của bà sai, nên không thể tin trí nhớ của bà về ngày tháng.)*
 
 **9. Which version does Mitchell think the archive should keep?**
 *(Mitchell nghĩ kho lưu trữ nên giữ phiên bản nào?)*
 
 - A. both, side by side, because the date and its meaning are both valuable *(cả hai, đặt cạnh nhau, vì cả ngày tháng lẫn ý nghĩa đều có giá trị)*
-- B. only the newspaper version *(chỉ bản của tờ báo)*
-- C. only Harriet's version *(chỉ bản của bà Harriet)*
-- D. a corrected version of Harriet's story *(bản đã sửa của câu chuyện bà Harriet)*
+- B. only the newspaper version, because dates matter more than memories do *(chỉ bản của tờ báo, vì ngày tháng quan trọng hơn ký ức)*
+- C. only Harriet's version, because her memory has the deeper meaning *(chỉ bản của Harriet, vì ký ức của bà có ý nghĩa sâu hơn)*
+- D. a corrected version of Harriet's story, with the right date in place *(một bản đã sửa của câu chuyện Harriet, với ngày đúng)*
 
 **10. What does Harriet's final remark, "I suppose, in a way, I was", suggest?**
 *(Câu cuối của bà Harriet "Mà tôi đoán, theo một nghĩa nào đó, tôi đã có mặt" gợi ý điều gì?)*
 
-- A. She still insists the archive is wrong. *(Bà vẫn khăng khăng kho lưu trữ sai.)*
-- B. She is angry with Mitchell. *(Bà giận Mitchell.)*
+- A. She still insists the archive is wrong and that she remembers everything correctly. *(Bà vẫn khăng khăng kho lưu trữ sai và bà nhớ mọi thứ đúng.)*
+- B. She is angry with Mitchell for showing her the old photograph. *(Bà giận Mitchell vì đã cho bà xem tấm ảnh cũ.)*
 - C. She accepts the facts while keeping the flood as part of her own story of arriving. *(Bà chấp nhận sự thật nhưng vẫn giữ trận lụt như một phần câu chuyện ngày bà tới.)*
-- D. She has forgotten the flood. *(Bà đã quên trận lụt.)*
+- D. She has forgotten the flood and now believes it never happened. *(Bà đã quên trận lũ và giờ tin rằng nó chưa từng xảy ra.)*
 
 ---
 
@@ -244,82 +244,82 @@
 **11. What did Mr. Pell offer the committee?**
 *(Ông Pell đề nghị gì với hội đồng?)*
 
-- A. to buy the park *(mua lại công viên)*
+- A. to buy the park and the land around it, and name it after his family *(mua công viên và khu đất quanh đó, rồi đặt tên theo gia đình ông)*
 - B. $250,000 for a playground and a water fountain, with conditions *(250.000 đô cho sân chơi và vòi nước uống, kèm điều kiện)*
-- C. free skateboards *(ván trượt miễn phí)*
-- D. a job for Helena *(một việc làm cho Helena)*
+- C. free skateboards for the teenagers, if they kept the park clean *(ván trượt miễn phí cho thanh thiếu niên, nếu họ giữ công viên sạch)*
+- D. a job for Helena in his company, if she gave up the park *(một việc làm cho Helena ở công ty ông, nếu cô từ bỏ công viên)*
 
 **12. Which of these was NOT one of Mr. Pell's conditions?**
 *(Điều nào KHÔNG nằm trong điều kiện của ông Pell?)*
 
-- A. renaming the park after him *(đổi tên công viên theo tên ông)*
-- B. banning skateboards *(cấm ván trượt)*
-- C. closing the gates at six *(đóng cổng lúc sáu giờ)*
-- D. removing the committee *(giải tán hội đồng)*
+- A. calling the park Pell Park *(gọi công viên là Pell Park)*
+- B. banning skateboards in the park *(cấm ván trượt trong công viên)*
+- C. closing the gates at six o'clock *(đóng cổng lúc sáu giờ)*
+- D. removing the committee from the park *(loại ủy ban khỏi công viên)*
 
 **13. What is Priya's main concern?**
 *(Mối lo chính của Priya là gì?)*
 
 - A. who has the power to decide what happens in the park *(ai có quyền quyết định chuyện gì diễn ra trong công viên)*
-- B. that the money is not enough *(rằng số tiền không đủ)*
-- C. that Mr. Pell is dishonest *(rằng ông Pell không trung thực)*
-- D. that the fountain will break *(rằng vòi nước sẽ hỏng)*
+- B. that the money is not enough to build a playground and a fountain *(rằng số tiền không đủ để xây sân chơi và đài phun nước)*
+- C. that Mr. Pell is dishonest and may not really pay the money *(rằng ông Pell không trung thực và có thể không thật sự trả tiền)*
+- D. that the fountain will break because it is cheaply made *(rằng đài phun nước sẽ hỏng vì làm rẻ tiền)*
 
 **14. What does Priya mean by "Generosity with conditions isn't a gift. It's a contract"?**
 *(Priya muốn nói gì qua câu "Hào phóng mà kèm điều kiện thì không phải là quà. Đó là hợp đồng"?)*
 
-- A. Mr. Pell wants a written agreement. *(Ông Pell muốn có văn bản thoả thuận.)*
-- B. Gifts should always be refused. *(Luôn nên từ chối quà.)*
+- A. Mr. Pell wants a written agreement signed by the whole committee. *(Ông Pell muốn một thỏa thuận bằng văn bản do cả ủy ban ký.)*
+- B. Gifts should always be refused, because they bring problems. *(Quà tặng luôn nên bị từ chối, vì chúng mang rắc rối.)*
 - C. Accepting the money would mean giving Mr. Pell control in exchange. *(Nhận tiền nghĩa là đổi lại trao cho ông Pell quyền kiểm soát.)*
-- D. Walt is not generous. *(Walt không hào phóng.)*
+- D. Walt is not generous, and he would rather sign a contract. *(Walt không hào phóng, và ông thà ký một hợp đồng.)*
 
 **15. What point does Tina make?**
 *(Tina nêu ý gì?)*
 
-- A. Skateboarding is dangerous. *(Trượt ván nguy hiểm.)*
+- A. Skateboarding is dangerous, so the committee should add a safe area. *(Trượt ván nguy hiểm, nên ủy ban cần thêm một khu an toàn.)*
 - B. Banning skateboards would push out the teenagers who actually use the park. *(Cấm ván trượt sẽ đẩy những thiếu niên thật sự dùng công viên ra ngoài.)*
-- C. The park should close earlier. *(Công viên nên đóng cửa sớm hơn.)*
-- D. Teenagers should build their own park. *(Thiếu niên nên tự xây công viên.)*
+- C. The park should close earlier, so that parents can take children home. *(Công viên nên đóng sớm hơn, để cha mẹ đưa con về.)*
+- D. Teenagers should build their own park far away from the little children. *(Thanh thiếu niên nên tự xây công viên riêng, xa trẻ nhỏ.)*
 
 **16. What does the narrator suggest about Helena's style of leadership?**
 *(Người kể gợi ý gì về cách lãnh đạo của Helena?)*
 
-- A. She makes quick decisions alone. *(Chị tự quyết nhanh một mình.)*
-- B. She avoids difficult questions. *(Chị né câu hỏi khó.)*
-- C. She agrees with whoever speaks last. *(Chị đồng ý với người nói sau cùng.)*
+- A. She makes quick decisions alone and then tells the others what the committee has decided. *(Chị tự quyết nhanh rồi báo cho người khác biết ủy ban đã quyết gì.)*
+- B. She avoids difficult questions by changing the subject quickly. *(Chị né những câu hỏi khó bằng cách nhanh chóng đổi chủ đề.)*
+- C. She agrees with whoever speaks last, so that nobody is unhappy. *(Chị đồng ý với ai nói sau cùng, để không ai phật lòng.)*
 - D. She leads patiently, by listening, and speaks only after others have finished. *(Chị lãnh đạo kiên nhẫn, bằng cách lắng nghe, và chỉ lên tiếng sau khi người khác nói xong.)*
 
 **17. What did Helena propose to Mr. Pell?**
 *(Helena đề xuất gì với ông Pell?)*
 
-- A. accepting the money with a plaque naming his family, while the neighbors keep the park's name and rules *(nhận tiền kèm tấm biển ghi tên gia đình ông, còn hàng xóm giữ tên và nội quy công viên)*
-- B. renaming the park but allowing skateboards *(đổi tên công viên nhưng cho trượt ván)*
-- C. returning the money *(trả lại tiền)*
-- D. letting Mr. Pell join the committee *(mời ông Pell vào hội đồng)*
+- A. taking the money for the playground, with a plaque naming his family, but keeping the name and rules *(nhận tiền cho sân chơi, kèm tấm biển ghi tên gia đình ông, nhưng giữ nguyên tên và quy tắc)*
+- B. calling the park by his family's name but allowing skateboards, with the gates open until dark *(gọi công viên bằng tên gia đình ông nhưng cho phép ván trượt, với cổng mở đến tối)*
+- C. returning the money, and asking him for a smaller gift next year *(trả lại tiền và xin ông một món quà nhỏ hơn vào năm sau)*
+- D. letting Mr. Pell join the committee, so that he could choose the rules himself *(để ông Pell vào ủy ban, để ông tự chọn các quy tắc)*
 
 **18. How did Helena react to being called "parochial"?**
 *(Helena phản ứng thế nào khi bị gọi là "hẹp hòi"?)*
 
-- A. She wrote an angry reply. *(Chị viết thư trả lời giận dữ.)*
-- B. She resigned from the committee. *(Chị rút khỏi hội đồng.)*
-- C. She thought it was partly fair and responded by involving the whole neighborhood. *(Chị thấy lời đó có phần đúng và đáp lại bằng cách kéo cả khu phố tham gia.)*
-- D. She ignored it completely. *(Chị hoàn toàn phớt lờ.)*
+- A. She wrote an angry reply defending the committee and refusing to apologize. *(Chị viết thư đáp giận dữ bênh ủy ban và từ chối xin lỗi.)*
+- B. She resigned from the committee because Mr. Pell had hurt her feelings. *(Chị rời ủy ban vì ông Pell làm chị tổn thương.)*
+- C. She thought it was partly fair and involved the whole neighborhood. *(Chị thấy nó đúng một phần và đưa cả khu phố vào cuộc.)*
+- D. She ignored it completely and did not tell the other committee members. *(Chị hoàn toàn phớt lờ và không nói với các thành viên khác.)*
 
 **19. What is the significance of the sign on the gate?**
 *(Tấm biển trên cổng có ý nghĩa gì?)*
 
-- A. It thanks Mr. Pell. *(Nó cảm ơn ông Pell.)*
-- B. It lists the park's rules. *(Nó liệt kê nội quy.)*
-- C. It advertises the lemonade sale. *(Nó quảng cáo việc bán nước chanh.)*
-- D. It shows that the park belongs to the community and keeps the neighbors' rules, not Mr. Pell's. *(Nó cho thấy công viên thuộc về cộng đồng và giữ nội quy của hàng xóm, chứ không phải của ông Pell.)*
+- A. It thanks Mr. Pell for the fountain and invites visitors to read about his family. *(Nó cảm ơn ông Pell vì đài phun nước và mời khách đọc về gia đình ông.)*
+- B. It lists the park's rules, including the hours set by the committee. *(Nó liệt kê quy tắc của công viên, gồm giờ do ủy ban đặt.)*
+- C. It advertises the lemonade sale that paid for part of the playground. *(Nó quảng cáo buổi bán nước chanh đã trả một phần cho sân chơi.)*
+- D. It shows that the park belongs to the neighbors and follows their rules, not Mr. Pell's. *(Nó cho thấy công viên thuộc về hàng xóm và theo quy tắc của họ, không phải của ông Pell.)*
 
 **20. Use both texts. What do Mitchell and Helena have in common?**
 *(Dựa vào cả hai bài. Mitchell và Helena có điểm gì chung?)*
 
-- A. Both of them refuse to change their minds. *(Cả hai đều không chịu đổi ý.)*
+- A. Both of them refuse to change their minds, whatever the evidence says. *(Cả hai đều không chịu đổi ý, bất kể bằng chứng nói gì.)*
 - B. Both of them consider an unwelcome challenge fairly and learn something from it. *(Cả hai đều cân nhắc công bằng một thách thức khó chịu và học được điều gì đó từ nó.)*
-- C. Both of them work for the library. *(Cả hai đều làm cho thư viện.)*
-- D. Both of them dislike rich people. *(Cả hai đều ghét người giàu.)*
+- C. Both of them work for the library and help to keep its records. *(Cả hai đều làm cho thư viện và giúp giữ hồ sơ của nó.)*
+- D. Both of them dislike rich people and want to keep them out. *(Cả hai đều không ưa người giàu và muốn ngăn họ ra ngoài.)*
 
 ---
 

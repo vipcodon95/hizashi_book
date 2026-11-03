@@ -99,82 +99,82 @@
 **1. What happened when Megan tried to apologize in Spanish?**
 *(Chuyện gì xảy ra khi Megan cố xin lỗi bằng tiếng Tây Ban Nha?)*
 
-- A. The daughter was offended and left. *(Cô con gái phật ý và bỏ đi.)*
+- A. The daughter was offended by the word she used and asked another nurse to help instead. *(Cô con gái phật ý vì từ Megan dùng và nhờ một y tá khác giúp thay thế.)*
 - B. She used a word that means "pregnant" instead of "embarrassed", and the daughter laughed. *(Cô dùng một từ nghĩa là "có thai" thay vì "ngượng", và cô con gái bật cười.)*
-- C. Her teacher corrected her. *(Cô giáo sửa lỗi cho cô.)*
-- D. The patient could not understand her accent. *(Bệnh nhân không hiểu giọng cô.)*
+- C. Her teacher corrected her in front of the whole class the next day. *(Cô giáo sửa lỗi cho cô trước cả lớp vào hôm sau.)*
+- D. The patient could not understand her accent and asked her to write the word down. *(Bệnh nhân không hiểu giọng của cô và đề nghị cô viết từ đó ra.)*
 
 **2. Why does Megan say that false friends are "the easy part"?**
 *(Vì sao Megan nói "bạn giả" là "phần dễ"?)*
 
-- A. because there are very few of them *(vì chúng rất ít)*
-- B. because teachers explain them in the first class *(vì giáo viên giảng chúng ngay buổi đầu)*
-- C. because they only exist in Spanish *(vì chúng chỉ có trong tiếng Tây Ban Nha)*
-- D. because the mistake soon becomes obvious, while misleading connotations may never be noticed *(vì lỗi sớm lộ ra, còn sắc thái gây hiểu lầm có thể không bao giờ bị phát hiện)*
+- A. because there are very few of them and every learner knows them already *(vì chúng rất ít và người học nào cũng đã biết rồi)*
+- B. because teachers explain them all in the first class, before any mistakes are made *(vì giáo viên giải thích hết chúng ngay buổi đầu, trước khi ai mắc lỗi)*
+- C. because they only exist in Spanish, so nurses seldom meet them at work *(vì chúng chỉ có trong tiếng Tây Ban Nha, nên y tá hiếm khi gặp ở nơi làm việc)*
+- D. because the mistake soon becomes obvious, while misleading connotations may be missed *(vì lỗi sớm muộn cũng lộ ra, còn sắc thái gây hiểu lầm có thể bị bỏ sót)*
 
 **3. What point does Megan make about hospital phrases like "comfort care"?**
 *(Megan nêu ý gì về những cụm như "comfort care" trong bệnh viện?)*
 
 - A. They are accurate and kind, but frightened families may hear hope that was never offered. *(Chúng chính xác và tử tế, nhưng gia đình đang sợ hãi có thể nghe ra hy vọng chưa từng được hứa.)*
-- B. They are medically wrong. *(Chúng sai về y học.)*
-- C. They should be translated into Spanish. *(Nên dịch chúng sang tiếng Tây Ban Nha.)*
-- D. Doctors use them to save time. *(Bác sĩ dùng chúng để tiết kiệm thời gian.)*
+- B. They are medically wrong, and families are right to complain about them. *(Chúng sai về mặt y khoa, và các gia đình có lý khi phàn nàn về chúng.)*
+- C. They should be translated into Spanish so that every patient can understand them. *(Chúng nên được dịch sang tiếng Tây Ban Nha để bệnh nhân nào cũng hiểu.)*
+- D. Doctors use them to save time, even though families would prefer longer explanations. *(Bác sĩ dùng chúng để tiết kiệm thời gian, dù gia đình thích giải thích dài hơn.)*
 
 **4. What does Megan imply by "The euphemism protects the speaker at least as much as the listener"?**
 *(Megan hàm ý gì qua câu "Lời nói giảm bảo vệ người nói ít nhất cũng nhiều như bảo vệ người nghe"?)*
 
-- A. Speakers are often in danger. *(Người nói thường gặp nguy hiểm.)*
-- B. Euphemisms are required by hospital rules. *(Quy định bệnh viện bắt dùng lời nói giảm.)*
-- C. Soft phrases also spare staff from the discomfort of saying something painful directly. *(Lời nói nhẹ cũng giúp nhân viên khỏi khó chịu khi phải nói thẳng điều đau lòng.)*
-- D. Listeners prefer direct words. *(Người nghe thích lời nói thẳng.)*
+- A. Speakers are often in danger, so they choose their words carefully for safety. *(Người nói thường gặp nguy hiểm, nên chọn lời cẩn thận để an toàn.)*
+- B. Euphemisms are required by hospital rules, and senior nurses check that staff use them. *(Nói giảm là quy định của bệnh viện, và các y tá trưởng kiểm tra nhân viên có dùng không.)*
+- C. Soft phrases also spare staff the discomfort of saying something painful directly. *(Những cụm nói giảm cũng giúp nhân viên tránh nỗi khó chịu khi phải nói thẳng điều đau lòng.)*
+- D. Listeners prefer direct words, and speakers protect them by avoiding euphemisms. *(Người nghe thích lời nói thẳng, và người nói bảo vệ họ bằng cách tránh nói giảm.)*
 
 **5. Why was the patient's son hurt by the phrase "a poor historian"?**
 *(Vì sao con trai bệnh nhân bị tổn thương bởi cụm "a poor historian"?)*
 
 - A. He misunderstood medical jargon as a judgment of his father's intelligence. *(Anh hiểu nhầm thuật ngữ y khoa thành lời đánh giá trí tuệ của bố mình.)*
-- B. His father was a history teacher. *(Bố anh là giáo viên lịch sử.)*
-- C. The doctor had insulted him in person. *(Bác sĩ đã xúc phạm trực tiếp anh.)*
-- D. The report contained false information. *(Báo cáo có thông tin sai.)*
+- B. His father was a history teacher and expected the report to be kinder. *(Cha anh là giáo viên lịch sử và mong bản báo cáo tử tế hơn.)*
+- C. The doctor had insulted him in person, and the report repeated the insult in writing. *(Bác sĩ đã xúc phạm anh trực tiếp, và bản báo cáo lặp lại lời xúc phạm bằng chữ viết.)*
+- D. The report contained false information about his father's illness and age. *(Bản báo cáo chứa thông tin sai về bệnh và tuổi của cha anh.)*
 
 **6. What is the meaning of the rule Megan learned from a senior nurse?**
 *(Quy tắc Megan học từ điều dưỡng lâu năm có nghĩa gì?)*
 
-- A. Never talk about death with families. *(Đừng bao giờ nói về cái chết với gia đình.)*
+- A. Never talk about death with families, because it only makes them more afraid. *(Đừng bao giờ nói về cái chết với gia đình, vì điều đó chỉ làm họ sợ hơn.)*
 - B. State the hard truth plainly once, then offer as much gentleness as needed. *(Nói rõ sự thật khó nghe một lần, rồi dịu dàng bao nhiêu cũng được.)*
-- C. Always use medical words. *(Luôn dùng từ y khoa.)*
-- D. Let doctors speak instead of nurses. *(Để bác sĩ nói thay điều dưỡng.)*
+- C. Always use medical words, so that families do not misunderstand the doctors. *(Luôn dùng từ y khoa, để gia đình không hiểu nhầm các bác sĩ.)*
+- D. Let doctors speak instead of nurses, because families trust them more. *(Để bác sĩ nói thay y tá, vì gia đình tin họ hơn.)*
 
 **7. What does the comparison with "a locked door" suggest?**
 *(Phép so sánh với "một cánh cửa khoá" gợi ý điều gì?)*
 
-- A. Hospitals should keep their doors open. *(Bệnh viện nên mở cửa.)*
-- B. Families should not enter patients' rooms. *(Gia đình không nên vào phòng bệnh nhân.)*
-- C. Gentle words are always cruel. *(Lời nói nhẹ luôn tàn nhẫn.)*
+- A. Hospitals should keep their doors open at all hours so that families can visit at any time. *(Bệnh viện nên mở cửa mọi giờ để gia đình có thể thăm bất cứ lúc nào.)*
+- B. Families should not enter patients' rooms because they only make things harder. *(Người nhà không nên vào phòng bệnh vì họ chỉ làm mọi việc khó hơn.)*
+- C. Gentle words are always cruel, because they hide the truth from the patient. *(Lời nhẹ nhàng luôn tàn nhẫn, vì chúng giấu sự thật khỏi bệnh nhân.)*
 - D. A gentle phrase is not truly kind if it stops the listener from reaching the truth. *(Một câu nói nhẹ không thật sự tử tế nếu nó khiến người nghe không chạm được tới sự thật.)*
 
 **8. How does Megan respond to colleagues who find her rule harsh?**
 *(Megan đáp lại thế nào với đồng nghiệp thấy quy tắc của cô khắc nghiệt?)*
 
-- A. She agrees and has stopped using it. *(Cô đồng ý và đã bỏ quy tắc.)*
-- B. She says they are not real nurses. *(Cô nói họ không phải điều dưỡng thật.)*
+- A. She agrees with them and has stopped using the rule in her own work. *(Cô đồng ý với họ và đã thôi áp dụng quy tắc đó trong công việc.)*
+- B. She says they are not real nurses and refuses to talk to them about it. *(Cô nói họ không phải y tá thật sự và từ chối bàn với họ về chuyện đó.)*
 - C. She accepts their feeling but points to families' gratitude for the truth. *(Cô chấp nhận cảm giác của họ nhưng chỉ ra rằng các gia đình biết ơn sự thật.)*
-- D. She asks the hospital to change its rules. *(Cô xin bệnh viện đổi quy định.)*
+- D. She asks the hospital to change its rules so that nobody has to say it. *(Cô đề nghị bệnh viện đổi quy định để không ai phải nói ra điều đó.)*
 
 **9. What is the tone of Megan's remark that her teacher would call her grammar "creative"?**
 *(Câu Megan nói cô giáo sẽ gọi ngữ pháp của cô là "sáng tạo" có giọng điệu thế nào?)*
 
-- A. self-mocking and humorous *(tự giễu và hài hước)*
-- B. angry with her teacher *(giận cô giáo)*
-- C. proud of her fluency *(tự hào vì nói trôi chảy)*
-- D. bitter about her classes *(cay đắng về lớp học)*
+- A. gently self-mocking and humorous *(nhẹ nhàng tự giễu và hài hước)*
+- B. bitter and angry about how her teacher judged her *(cay đắng và giận về cách cô giáo đánh giá mình)*
+- C. proud of how fluent she has become *(tự hào vì mình đã trở nên lưu loát)*
+- D. bitter about the cost of her classes *(cay đắng về học phí các lớp của cô)*
 
 **10. Which statement best expresses the main idea of the essay?**
 *(Câu nào diễn đạt đúng nhất ý chính của bài luận?)*
 
-- A. Spanish is harder to learn than English. *(Tiếng Tây Ban Nha khó học hơn tiếng Anh.)*
-- B. Nurses should learn several languages. *(Điều dưỡng nên học nhiều ngôn ngữ.)*
-- C. Medical jargon should be banned. *(Nên cấm thuật ngữ y khoa.)*
-- D. Learning a language taught her to notice the gap between what words say and what they lead people to believe. *(Học ngoại ngữ dạy cô nhận ra khoảng cách giữa điều lời nói ra và điều nó khiến người ta tin.)*
+- A. Spanish is harder to learn than English, even for people who work with patients. *(Tiếng Tây Ban Nha khó học hơn tiếng Anh, kể cả với người làm việc với bệnh nhân.)*
+- B. Nurses should learn several languages, so that they never use a false friend. *(Y tá nên học nhiều ngôn ngữ để không bao giờ dùng nhầm từ giả bạn.)*
+- C. Medical jargon should be banned from hospitals because it frightens every family. *(Thuật ngữ y khoa nên bị cấm trong bệnh viện vì nó làm mọi gia đình sợ.)*
+- D. Learning a language taught her to notice the gap between words and what they make people believe. *(Học một ngôn ngữ dạy cô để ý khoảng cách giữa lời nói và điều chúng khiến người ta tin.)*
 
 ---
 
@@ -222,82 +222,82 @@
 **11. Why has Harriet been thinking about her customer's remark?**
 *(Vì sao bà Harriet cứ nghĩ mãi về câu nói của vị khách?)*
 
-- A. because the customer stopped coming *(vì vị khách thôi không đến)*
-- B. because the remark made her angry *(vì câu nói làm bà giận)*
+- A. because the customer stopped coming to the café after the changes *(vì vị khách đã thôi đến quán sau những thay đổi)*
+- B. because the remark made her angry and she wants to answer it in print *(vì lời nhận xét làm bà giận và bà muốn đáp lại bằng bài viết)*
 - C. because the remark is partly right and partly wrong *(vì câu nói vừa đúng một phần vừa sai một phần)*
-- D. because she wants to close the café *(vì bà muốn đóng quán)*
+- D. because she wants to close the café and needs a good reason to do so *(vì bà muốn đóng quán và cần một lý do chính đáng)*
 
 **12. What is the purpose of the list of changes in the paragraph beginning "Consider what has changed"?**
 *(Danh sách thay đổi trong đoạn bắt đầu bằng "Consider what has changed" nhằm mục đích gì?)*
 
-- A. to show how much of the original café has been replaced, so the customer's feeling is understandable *(để cho thấy quán cũ đã bị thay bao nhiêu phần, nên cảm giác của vị khách là dễ hiểu)*
-- B. to advertise the café's improvements *(để quảng cáo những cải tiến của quán)*
-- C. to complain about prices *(để phàn nàn về giá)*
-- D. to thank her son *(để cảm ơn con trai)*
+- A. to show how much of the original café has changed, so the customer's feeling makes sense *(để cho thấy quán ban đầu đã thay đổi nhiều thế nào, nên cảm giác của vị khách có lý)*
+- B. to advertise the café's improvements and persuade the customer to come back more often *(để quảng cáo những cải tiến của quán và thuyết phục vị khách quay lại thường xuyên hơn)*
+- C. to complain about prices and the tablet that takes payments *(để phàn nàn về giá cả và chiếc máy tính bảng nhận thanh toán)*
+- D. to thank her son and the waitress for everything they did for the café *(để cảm ơn con trai và cô phục vụ vì tất cả những gì họ làm cho quán)*
 
 **13. Who is "only one" of the original staff who is still there?**
 *("Chỉ còn một người" trong số nhân viên đầu tiên là ai?)*
 
-- A. the waitress who designed the sign *(cô phục vụ thiết kế tấm biển)*
-- B. Harriet's son *(con trai bà Harriet)*
-- C. the nurse from the night shift *(cô y tá ca đêm)*
-- D. Harriet herself *(chính bà Harriet)*
+- A. the waitress who designed the heart-shaped sign *(cô phục vụ đã thiết kế biển hình trái tim)*
+- B. Harriet's son, who painted the walls yellow *(con trai Harriet, người đã sơn tường màu vàng)*
+- C. the nurse who comes in after the night shift *(y tá đến quán sau ca đêm)*
+- D. Harriet herself, who now needs a stool behind the counter *(chính Harriet, người giờ cần một chiếc ghế đẩu sau quầy)*
 
 **14. What extra question did Thomas Hobbes add to the puzzle of Theseus's ship?**
 *(Thomas Hobbes thêm câu hỏi nào vào câu đố con tàu Theseus?)*
 
-- A. Who had built the first ship? *(Ai đóng con tàu đầu tiên?)*
+- A. Who had built the first ship, and why had the people of Athens kept it? *(Ai đã đóng con tàu đầu tiên, và vì sao người Athens giữ nó?)*
 - B. If the old planks were rebuilt into a second ship, which one would be the real ship? *(Nếu ván cũ được đóng thành tàu thứ hai, chiếc nào là tàu thật?)*
-- C. Why did the planks rot? *(Vì sao ván bị mục?)*
-- D. Should the ship be kept at all? *(Có nên giữ con tàu không?)*
+- C. Why did the planks rot, and could the new ones last longer? *(Vì sao những tấm ván mục, và ván mới có bền hơn không?)*
+- D. Should the ship be kept at all, or should the people of Athens build another? *(Có nên giữ con tàu không, hay người Athens nên đóng một chiếc khác?)*
 
 **15. How does Harriet apply Hobbes's question to her café?**
 *(Bà Harriet áp câu hỏi của Hobbes vào quán mình thế nào?)*
 
-- A. She plans to rebuild the old café. *(Bà định dựng lại quán cũ.)*
-- B. She sells the old chairs. *(Bà bán ghế cũ.)*
-- C. She imagines putting the old chairs and sign in an empty room and concludes that would not be Harriet's. *(Bà hình dung gom ghế cũ và biển cũ vào một phòng trống và kết luận đó không phải Harriet's.)*
-- D. She asks her son to return the sign. *(Bà nhờ con trai trả lại tấm biển.)*
+- A. She plans to rebuild the old café from the chairs and the sign, plank by plank. *(Bà định dựng lại quán cũ từ những chiếc ghế và biển, từng tấm ván một.)*
+- B. She sells the old chairs to pay for the new ones and the heart-shaped sign. *(Bà bán những chiếc ghế cũ để trả tiền cho ghế mới và biển hình trái tim.)*
+- C. She pictures the old chairs and sign in an empty room and decides that is not Harriet's. *(Bà hình dung những chiếc ghế và biển cũ trong một căn phòng trống và kết luận đó không phải Harriet's.)*
+- D. She asks her son to return the sign so that she can hang it in the café again. *(Bà nhờ con trai trả lại biển để treo lại trong quán.)*
 
 **16. According to Harriet, what really makes the café itself?**
 *(Theo bà Harriet, điều gì thực sự làm nên chính quán?)*
 
 - A. its habits and the way people treat one another there *(thói quen của nó và cách mọi người đối xử với nhau ở đó)*
-- B. its old furniture *(đồ đạc cũ)*
-- C. its location on Maple Street *(vị trí trên phố Maple)*
-- D. its low prices *(giá rẻ)*
+- B. its old furniture, especially the chairs that are now in the kitchen *(đồ đạc cũ, nhất là những chiếc ghế hiện ở trong bếp chung)*
+- C. its location on Maple Street, next to the shared kitchen *(vị trí trên phố Maple, cạnh bếp chung)*
+- D. its low prices and the fast payment system on the tablet *(giá rẻ và hệ thống thanh toán nhanh trên máy tính bảng)*
 
 **17. What "small fallacy" does Harriet find in her customer's sadness?**
 *(Bà Harriet thấy "ngộ nhận nho nhỏ" nào trong nỗi buồn của vị khách?)*
 
-- A. The customer has never been to the café. *(Vị khách chưa từng đến quán.)*
+- A. The customer has never been to the café and only knows it from stories. *(Vị khách chưa từng đến quán và chỉ biết quán qua những câu chuyện.)*
 - B. People remember the past as it felt, forgetting its problems. *(Người ta nhớ quá khứ theo cảm giác, quên đi những vấn đề của nó.)*
-- C. The café was always expensive. *(Quán luôn đắt.)*
-- D. The customer is too young to remember. *(Vị khách còn quá trẻ để nhớ.)*
+- C. The café was always expensive, so the customer's complaint is not new. *(Quán lúc nào cũng đắt, nên lời phàn nàn của khách không phải chuyện mới.)*
+- D. The customer is too young to remember how the café was in the beginning. *(Vị khách còn quá trẻ để nhớ quán ban đầu thế nào.)*
 
 **18. What does the sentence beginning "Were it not for the changes" mean?**
 *(Câu bắt đầu bằng "Were it not for the changes" có nghĩa gì?)*
 
-- A. The changes caused the café to close. *(Những thay đổi khiến quán đóng cửa.)*
-- B. The customer caused the changes. *(Vị khách gây ra thay đổi.)*
-- C. The bakery copied the café. *(Tiệm bánh bắt chước quán.)*
-- D. The café survived only because it changed. *(Quán tồn tại được chính vì nó đã thay đổi.)*
+- A. The changes caused the café to close, as they did the bakery next door. *(Những thay đổi khiến quán đóng cửa, như với tiệm bánh bên cạnh.)*
+- B. The customer caused the changes by complaining about the old café. *(Vị khách gây ra những thay đổi bằng cách phàn nàn về quán cũ.)*
+- C. The bakery copied the café, and so the bakery closed first. *(Tiệm bánh bắt chước quán, nên tiệm bánh đóng cửa trước.)*
+- D. The café survived only because it kept changing over the years. *(Quán còn tồn tại chỉ vì nó liên tục thay đổi qua các năm.)*
 
 **19. What does Harriet's "So be it" show about her attitude to the future?**
 *(Câu "Thì cứ thế" của bà Harriet cho thấy thái độ gì về tương lai?)*
 
-- A. She is angry that others will change the café. *(Bà giận vì người khác sẽ thay đổi quán.)*
-- B. She has decided to sell the café next year. *(Bà quyết bán quán năm sau.)*
-- C. She calmly accepts future changes, as long as the café's way of caring for people continues. *(Bà bình thản chấp nhận thay đổi sau này, miễn là cách quán quan tâm tới con người vẫn còn.)*
-- D. She refuses to think about it. *(Bà từ chối nghĩ tới chuyện đó.)*
+- A. She is angry that others will change the café, and she wants to stop them from doing it. *(Bà giận vì người khác sẽ thay đổi quán, và bà muốn ngăn họ làm vậy.)*
+- B. She has decided to sell the café next year to someone with fresh ideas. *(Bà đã quyết định bán quán vào năm sau cho người có ý tưởng mới.)*
+- C. She calmly accepts future changes, as long as the café still cares for people. *(Bà bình thản chấp nhận những thay đổi sau này, miễn là quán vẫn quan tâm đến mọi người.)*
+- D. She refuses to think about it, because she does not trust anyone else. *(Bà không chịu nghĩ về chuyện đó, vì bà không tin ai khác.)*
 
 **20. Use both texts. What do Megan and Harriet both suggest?**
 *(Dựa vào cả hai bài. Megan và bà Harriet đều gợi ý điều gì?)*
 
-- A. Old things are always better than new ones. *(Đồ cũ luôn tốt hơn đồ mới.)*
-- B. What matters lies beneath the surface: the real effect of words, and the real habits of a place. *(Điều quan trọng nằm dưới bề mặt: tác động thật của lời nói, và thói quen thật của một nơi chốn.)*
-- C. Language learning is a waste of time. *(Học ngoại ngữ là phí thời gian.)*
-- D. Customers should not complain. *(Khách không nên phàn nàn.)*
+- A. Old things are always better than new ones, and people are right to long for the past. *(Đồ cũ luôn tốt hơn đồ mới, và người ta có lý khi nhớ về quá khứ.)*
+- B. What matters lies beneath the surface: the effect of words, and the habits of a place. *(Điều quan trọng nằm bên dưới bề mặt: tác động của lời nói và thói quen của một nơi chốn.)*
+- C. Language learning is a waste of time, since words are only a surface. *(Học ngoại ngữ là phí thời gian, vì từ ngữ chỉ là bề mặt.)*
+- D. Customers should not complain, because only the staff understand the place. *(Khách không nên phàn nàn, vì chỉ nhân viên mới hiểu nơi đó.)*
 
 ---
 

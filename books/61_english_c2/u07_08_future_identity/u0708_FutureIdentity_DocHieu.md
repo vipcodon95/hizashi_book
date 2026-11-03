@@ -92,82 +92,82 @@
 **1. Why did Chloe read the results of the 2022 trial "with some suspicion"?**
 *(Vì sao Chloe đọc kết quả thử nghiệm năm 2022 "với chút nghi ngờ"?)*
 
-- A. because the companies had volunteered and most figures were reported by the companies themselves *(vì các công ty tự nguyện tham gia và phần lớn số liệu do chính họ báo cáo)*
-- B. because the trial was very small *(vì đợt thử rất nhỏ)*
-- C. because Ruby had invented the article *(vì Ruby bịa ra bài báo)*
-- D. because the companies had reduced pay *(vì các công ty đã giảm lương)*
+- A. because the companies had volunteered and most figures came from the companies themselves *(vì các công ty tự nguyện tham gia và phần lớn số liệu do chính họ báo cáo)*
+- B. because the trial was very small, with only a few companies, and lasted just a few weeks *(vì cuộc thử nghiệm rất nhỏ, chỉ có vài công ty, và chỉ kéo dài vài tuần)*
+- C. because Ruby had invented the article to persuade Chloe to try it *(vì Ruby bịa ra bài báo để thuyết phục Chloe thử)*
+- D. because the companies had reduced pay, so the staff did not like the change *(vì các công ty đã giảm lương nên nhân viên không thích sự thay đổi)*
 
 **2. What happened at the end of the UK trial?**
 *(Cuối đợt thử nghiệm ở Anh, chuyện gì xảy ra?)*
 
-- A. All companies stopped. *(Mọi công ty dừng lại.)*
-- B. Pay was reduced. *(Lương bị cắt.)*
+- A. All companies stopped the trial and returned to a five-day week. *(Mọi công ty dừng thử nghiệm và quay lại tuần năm ngày.)*
+- B. Pay was reduced, but most companies kept the shorter week. *(Lương bị giảm, nhưng đa số công ty vẫn giữ tuần ngắn hơn.)*
 - C. Most companies continued, and 18 made the change permanent. *(Phần lớn công ty tiếp tục, và 18 công ty làm vĩnh viễn.)*
-- D. Only five companies took part. *(Chỉ năm công ty tham gia.)*
+- D. Only five companies took part and all of them continued. *(Chỉ năm công ty tham gia và tất cả đều tiếp tục.)*
 
 **3. What principle did the studio follow during the trial?**
 *(Studio theo nguyên tắc nào trong đợt thử?)*
 
-- A. Clients pay for hours worked. *(Khách trả tiền theo giờ làm.)*
-- B. Meetings are the most important work. *(Họp là việc quan trọng nhất.)*
-- C. Fridays are for clients only. *(Thứ Sáu chỉ dành cho khách.)*
-- D. Clients pay for the work, not the hours. *(Khách trả tiền cho công việc, không phải cho số giờ.)*
+- A. Clients pay for the hours worked, so fewer hours cost less. *(Khách hàng trả tiền theo số giờ làm, nên ít giờ hơn thì rẻ hơn.)*
+- B. Meetings are the most important work a studio does. *(Các cuộc họp là công việc quan trọng nhất của một studio.)*
+- C. Fridays are kept free for clients only, by phone. *(Thứ Sáu chỉ dành cho khách hàng, qua điện thoại.)*
+- D. Clients pay for the work done, not for the hours spent. *(Khách hàng trả tiền cho công việc đã làm, không phải cho số giờ bỏ ra.)*
 
 **4. How did the studio make the shorter week possible?**
 *(Studio làm thế nào để tuần ngắn hơn khả thi?)*
 
-- A. by hiring more staff *(thuê thêm người)*
+- A. by hiring more staff and giving each person fewer tasks to finish *(bằng cách thuê thêm người và giao mỗi người ít việc hơn để hoàn thành)*
 - B. by cutting internal meetings and using AI tools for tedious tasks *(cắt họp nội bộ và dùng công cụ AI cho việc nhàm chán)*
-- C. by refusing new clients *(từ chối khách mới)*
-- D. by working on weekends *(làm cuối tuần)*
+- C. by refusing new clients and sending small jobs to freelancers *(bằng cách từ chối khách mới và giao việc nhỏ cho người làm tự do)*
+- D. by asking everyone to work on weekends when a deadline was near *(bằng cách yêu cầu mọi người làm cuối tuần khi sắp đến hạn)*
 
 **5. Why does Chloe admit that she "would probably have missed" the two deadlines anyway?**
 *(Vì sao Chloe thừa nhận rằng hai lần trễ hạn "có lẽ đằng nào cũng trễ"?)*
 
 - A. to be fair: the shorter week was probably not the cause of those delays *(để công bằng: tuần ngắn hơn có lẽ không phải nguyên nhân của hai lần trễ đó)*
-- B. to blame her team *(để đổ lỗi cho nhóm)*
-- C. to criticize the clients *(để chê khách hàng)*
-- D. to show that deadlines do not matter *(để cho thấy hạn chót không quan trọng)*
+- B. to blame her team for the delays while protecting the reputation of the studio *(để đổ lỗi cho nhóm về sự chậm trễ trong khi bảo vệ danh tiếng của studio)*
+- C. to criticize the clients, who changed their minds so often *(để chê khách hàng, những người hay đổi ý quá)*
+- D. to show that deadlines do not matter in a creative studio *(để cho thấy hạn chót không quan trọng ở một studio sáng tạo)*
 
 **6. Which result does Chloe find "most striking of all"?**
 *(Kết quả nào Chloe thấy "đáng chú ý nhất"?)*
 
-- A. Income rose sharply. *(Thu nhập tăng mạnh.)*
-- B. Clients stopped calling. *(Khách thôi gọi.)*
-- C. Sick days rose. *(Ngày nghỉ ốm tăng.)*
+- A. Income rose sharply, even though the team worked one day less. *(Thu nhập tăng mạnh, dù nhóm làm ít hơn một ngày.)*
+- B. Clients stopped calling, so the team could work in peace. *(Khách hàng thôi gọi, nên nhóm làm việc yên ổn.)*
+- C. Sick days rose, because everyone worked longer on Thursdays. *(Số ngày nghỉ ốm tăng, vì ai cũng làm lâu hơn vào thứ Năm.)*
 - D. Nobody applied for another job, which is unusual in her field. *(Không ai nộp đơn đi chỗ khác, điều hiếm thấy trong ngành của cô.)*
 
 **7. What problem did Sam's experience reveal?**
 *(Trải nghiệm của Sam cho thấy vấn đề gì?)*
 
-- A. He wanted to leave the studio. *(Cậu muốn rời studio.)*
+- A. He wanted to leave the studio and had already applied for a job in a bigger firm. *(Anh muốn rời studio và đã nộp đơn xin việc ở một công ty lớn hơn.)*
 - B. A rule meant to give freedom could become a constraint for someone who works differently. *(Một quy định nhằm cho tự do lại có thể thành ràng buộc với người làm việc theo cách khác.)*
-- C. He could not use AI tools. *(Cậu không dùng được công cụ AI.)*
-- D. He worked too slowly to meet deadlines. *(Cậu làm quá chậm nên trễ hạn.)*
+- C. He could not use AI tools, so he needed extra help from the others. *(Anh không dùng được công cụ AI nên cần người khác giúp thêm.)*
+- D. He worked too slowly to meet deadlines, so the others finished his tasks. *(Anh làm quá chậm để kịp hạn, nên người khác hoàn thành việc của anh.)*
 
 **8. What are the two changes the studio has decided to make?**
 *(Hai thay đổi studio quyết định thực hiện là gì?)*
 
-- A. returning to a five-day week and hiring a manager *(quay lại tuần năm ngày và thuê quản lý)*
-- B. cutting pay and closing on Thursdays *(giảm lương và nghỉ thứ Năm)*
-- C. letting each person choose four longer or five shorter days, and starting no new work on Thursday afternoons *(cho mỗi người chọn bốn ngày dài hoặc năm ngày ngắn, và không bắt đầu việc mới vào chiều thứ Năm)*
-- D. working only with two clients *(chỉ làm với hai khách)*
+- A. returning to a five-day week for everyone and hiring a manager to check who is working *(quay lại tuần năm ngày cho mọi người và thuê một quản lý để kiểm tra ai đang làm việc)*
+- B. cutting pay by ten percent and closing the studio completely on Thursdays *(giảm lương mười phần trăm và đóng hẳn studio vào thứ Năm)*
+- C. letting people choose four longer or five shorter days, and no new work on Thursday afternoons *(cho mỗi người chọn bốn ngày dài hoặc năm ngày ngắn, và không nhận việc mới chiều thứ Năm)*
+- D. working only with two clients and moving to a smaller office *(chỉ làm việc với hai khách hàng và chuyển sang văn phòng nhỏ hơn)*
 
 **9. What can be inferred from "provided that the total is the same and that clients always know who to call"?**
 *(Có thể suy ra gì từ câu "miễn tổng số giờ như nhau và khách hàng luôn biết phải gọi ai"?)*
 
 - A. Flexibility is allowed only if it does not reduce the work or make the studio harder to reach. *(Linh hoạt chỉ được phép nếu không làm giảm công việc hay khiến studio khó liên lạc hơn.)*
-- B. Clients will choose the staff's hours. *(Khách sẽ chọn giờ làm cho nhân viên.)*
-- C. Nobody will work on Fridays. *(Không ai làm thứ Sáu.)*
-- D. The studio will hire a receptionist. *(Studio sẽ thuê lễ tân.)*
+- B. Clients will choose the staff's hours, since they know who to call. *(Khách hàng sẽ chọn giờ làm của nhân viên, vì họ biết gọi cho ai.)*
+- C. Nobody will work on Fridays any more, because clients already know the studio is closed. *(Sẽ không ai làm thứ Sáu nữa, vì khách đã biết studio đóng cửa.)*
+- D. The studio will hire a receptionist to answer calls on Thursdays. *(Studio sẽ thuê một lễ tân để trả lời điện thoại vào thứ Năm.)*
 
 **10. What is Chloe's final position?**
 *(Quan điểm cuối cùng của Chloe là gì?)*
 
-- A. Every business should adopt a four-day week. *(Mọi doanh nghiệp nên làm bốn ngày một tuần.)*
-- B. The experiment was a failure. *(Thử nghiệm thất bại.)*
-- C. The real lesson is narrower: people rarely ask which of their hours actually produce anything. *(Bài học thật hẹp hơn: người ta hiếm khi tự hỏi giờ nào của mình thật sự tạo ra kết quả.)*
-- D. AI will replace designers. *(AI sẽ thay thế nhà thiết kế.)*
+- A. Every business should adopt a four-day week, since it improved the studio's income. *(Mọi doanh nghiệp nên áp dụng tuần bốn ngày, vì nó cải thiện thu nhập của studio.)*
+- B. The experiment was a failure, and the studio will return to five days. *(Cuộc thử nghiệm thất bại, và studio sẽ quay lại năm ngày.)*
+- C. The real lesson is narrower: few people ask which of their hours produce anything. *(Bài học thật hẹp hơn: ít người hỏi giờ nào của mình thật sự tạo ra thứ gì.)*
+- D. AI will soon replace designers, so studios must reduce their hours. *(AI sẽ sớm thay thế nhà thiết kế, nên các studio phải giảm giờ làm.)*
 
 ---
 
@@ -214,82 +214,82 @@
 **11. How did Tracy first imagine coming home?**
 *(Ban đầu Tracy hình dung việc về nhà ra sao?)*
 
-- A. as a holiday *(như một kỳ nghỉ)*
-- B. as a temporary job *(như một việc tạm thời)*
-- C. as a problem to avoid *(như một rắc rối cần tránh)*
+- A. as a holiday after six years of work and university *(như một kỳ nghỉ sau sáu năm đi làm và đi học)*
+- B. as a short stay before moving to another city *(như một chuyến ở ngắn trước khi chuyển sang thành phố khác)*
+- C. as a problem to avoid, since she had been away for six years *(như một vấn đề cần tránh, vì cô đã đi xa sáu năm)*
 - D. as a return to the person she had been when she left *(như việc quay lại làm con người cô từng là khi ra đi)*
 
 **12. What does "a room for guests, which is to say, for me" suggest?**
 *(Cụm "phòng cho khách, tức là, cho tôi" gợi ý điều gì?)*
 
-- A. Tracy is happy to be a guest. *(Tracy vui khi làm khách.)*
-- B. Tracy realizes, with some sadness and humor, that she is now treated as a visitor in her own home. *(Tracy nhận ra, buồn mà buồn cười, rằng giờ cô được đối xử như khách ngay trong nhà mình.)*
-- C. The house has many guests. *(Nhà có nhiều khách.)*
-- D. Her brother has moved back. *(Em trai cô đã chuyển về.)*
+- A. Tracy is happy to be treated as a guest, because it means that her family respects her. *(Tracy vui khi được đối xử như khách, vì điều đó nghĩa là gia đình tôn trọng cô.)*
+- B. Tracy realizes, sadly and humorously, that she is now a visitor in her own home. *(Tracy nhận ra, vừa buồn vừa buồn cười, rằng giờ mình là khách trong chính nhà mình.)*
+- C. The house has many guests, so Tracy must share her room with them. *(Nhà có nhiều khách, nên Tracy phải chia phòng với họ.)*
+- D. Her brother has moved back, so Tracy must sleep in the guest room. *(Em trai cô đã dọn về, nên Tracy phải ngủ ở phòng khách.)*
 
 **13. How has Tracy's younger sister changed?**
 *(Em gái Tracy đã thay đổi thế nào?)*
 
-- A. She has grown taller than Tracy and asks harder questions, mostly about why Tracy left. *(Em cao hơn Tracy và hỏi những câu khó hơn, chủ yếu là vì sao Tracy bỏ đi.)*
-- B. She has moved across town. *(Em chuyển sang bên kia thành phố.)*
-- C. She no longer talks to Tracy. *(Em không nói chuyện với Tracy nữa.)*
-- D. She has become a nurse. *(Em đã thành y tá.)*
+- A. She is taller than Tracy now and asks harder questions, mostly about why Tracy left. *(Em giờ cao hơn Tracy và hỏi những câu khó hơn, chủ yếu về lý do Tracy ra đi.)*
+- B. She has moved across town to live with Leah and her husband. *(Em đã chuyển qua bên kia thành phố sống với Leah và chồng cô.)*
+- C. She no longer talks to Tracy, who has not written to her in years. *(Em không còn nói chuyện với Tracy, người đã nhiều năm không viết thư cho em.)*
+- D. She has become a nurse and asks Tracy hard questions about health. *(Em đã thành y tá và hỏi Tracy những câu khó về sức khỏe.)*
 
 **14. What does Tracy recognize "with some horror" at Harriet's?**
 *(Ở Harriet's, Tracy "kinh hoàng" nhận ra điều gì?)*
 
-- A. that the café has closed *(rằng quán đã đóng cửa)*
-- B. that Harriet does not remember her *(rằng bà Harriet không nhớ cô)*
-- C. that she is complaining in exactly the way old customers complain that the place is not the same *(rằng cô đang than phiền đúng kiểu khách cũ than quán không còn như xưa)*
-- D. that she cannot afford coffee *(rằng cô không đủ tiền uống cà phê)*
+- A. that the café has closed and been replaced by a shared kitchen *(rằng quán đã đóng cửa và được thay bằng một bếp chung)*
+- B. that Harriet does not remember her and treats her like a visitor *(rằng Harriet không nhớ cô và đối xử với cô như khách)*
+- C. that she is complaining just as old customers complain that the place is not the same *(rằng cô đang phàn nàn y như những khách cũ phàn nàn rằng quán không còn như xưa)*
+- D. that she cannot afford coffee any more, now that prices have risen *(rằng cô không còn đủ tiền mua cà phê khi giá đã tăng)*
 
 **15. Why did Tracy feel "disparaging towards both versions of myself"?**
 *(Vì sao Tracy "coi thường cả hai phiên bản của chính mình"?)*
 
-- A. because she disliked her job *(vì cô ghét công việc)*
-- B. because her family criticized her *(vì gia đình chỉ trích cô)*
-- C. because she had failed at university *(vì cô học đại học không thành)*
-- D. because she blamed her younger self for leaving so eagerly and her present self for expecting nothing to change *(vì cô trách mình trước đây đã quá nôn nóng ra đi và trách mình hiện tại vì mong mọi thứ đứng yên)*
+- A. because she disliked her new job and thought her younger self should never have left home *(vì cô không thích việc mới và nghĩ bản thân trẻ hơn lẽ ra không nên rời nhà)*
+- B. because her family criticized her and said she should have stayed *(vì gia đình chỉ trích cô và nói cô lẽ ra nên ở lại)*
+- C. because she had failed at university and was ashamed to tell anyone *(vì cô đã trượt đại học và xấu hổ không dám nói với ai)*
+- D. because she blamed her younger self for leaving eagerly and her present self for expecting no change *(vì cô trách bản thân trẻ hơn vì ra đi quá háo hức và bản thân hiện tại vì mong mọi thứ không đổi)*
 
 **16. What does the phrase "of all things" suggest about the recording?**
 *(Cụm "lạ thay" (of all things) gợi ý gì về bản ghi âm?)*
 
-- A. It was broken. *(Nó bị hỏng.)*
+- A. It was broken, so she could not listen to it *(Nó bị hỏng nên cô không nghe được)*
 - B. It was an unexpected thing to change her mind. *(Đó là một thứ không ngờ lại làm cô đổi ý.)*
-- C. It was very long. *(Nó rất dài.)*
-- D. It was recorded by Tracy. *(Nó do Tracy ghi.)*
+- C. It was very long, so she listened over several days *(Nó rất dài nên cô nghe trong nhiều ngày)*
+- D. It was recorded by Tracy herself as a child *(Nó do chính Tracy ghi âm khi còn nhỏ)*
 
 **17. Which detail from Harriet's recording matters most to Tracy?**
 *(Chi tiết nào trong bản ghi của bà Harriet có ý nghĩa nhất với Tracy?)*
 
-- A. Harriet arrived with two suitcases. *(Bà Harriet tới với hai chiếc vali.)*
-- B. Harriet was a teacher. *(Bà Harriet là giáo viên.)*
-- C. Harriet became a neighbor not when she arrived but when she joined others in a shared effort. *(Bà Harriet thành hàng xóm không phải lúc tới mà lúc cùng mọi người góp sức.)*
-- D. The flood happened in 1978. *(Trận lụt xảy ra năm 1978.)*
+- A. Harriet arrived with two suitcases and no friends on the street. *(Harriet đến với hai chiếc va li và không có bạn nào trên phố.)*
+- B. Harriet was a teacher, so she understood how to teach newcomers. *(Harriet là giáo viên, nên bà biết cách dạy người mới đến.)*
+- C. Harriet became a neighbor when she joined others in a shared effort, not on arrival. *(Harriet trở thành hàng xóm khi cùng mọi người làm một việc chung, chứ không phải lúc đến.)*
+- D. The flood happened in 1978, exactly as Harriet remembered it. *(Trận lũ xảy ra năm 1978, đúng như Harriet nhớ.)*
 
 **18. How does Tracy's idea of belonging change?**
 *(Ý niệm về sự thuộc về của Tracy thay đổi thế nào?)*
 
-- A. from something you keep or lose, like a key, to something you build like a habit by showing up for others *(từ thứ ta giữ hoặc mất như chìa khoá, thành thứ ta xây như thói quen bằng cách có mặt vì người khác)*
-- B. from something you build to something you inherit *(từ thứ ta xây thành thứ ta thừa hưởng)*
-- C. from a habit to a place *(từ thói quen thành một nơi chốn)*
-- D. It does not change. *(Nó không thay đổi.)*
+- A. from something you keep or lose, like a key, to something you build like a habit *(từ thứ ta giữ hay mất, như chiếc chìa khóa, thành thứ ta xây như một thói quen)*
+- B. from something you build over time to something you inherit from your family and street *(từ thứ ta xây dần theo thời gian thành thứ ta thừa hưởng từ gia đình và con phố)*
+- C. from a habit to a place that you can lose when you leave *(từ một thói quen thành một nơi ta có thể mất khi rời đi)*
+- D. It does not change, because she still thinks of it as a key. *(Nó không đổi, vì cô vẫn nghĩ về nó như một chiếc chìa khóa.)*
 
 **19. How does Tracy put her new idea into practice?**
 *(Tracy đưa ý mới vào thực tế bằng cách nào?)*
 
-- A. by moving back to Washington *(chuyển lại Washington)*
+- A. by moving back to the city where she studied and visiting her family on Saturdays *(bằng cách dọn về thành phố nơi cô từng học và thăm gia đình vào các thứ Bảy)*
 - B. by joining the park committee, helping her sister and interviewing neighbors for the library *(vào hội đồng công viên, giúp em gái và phỏng vấn hàng xóm cho thư viện)*
-- C. by buying a house *(mua nhà)*
-- D. by opening a café *(mở quán cà phê)*
+- C. by buying a house on the street and moving her parents into it *(bằng cách mua một căn nhà trên phố và đưa bố mẹ vào ở)*
+- D. by opening a café next to Harriet's, where neighbors can meet *(bằng cách mở một quán cà phê cạnh quán Harriet's, nơi hàng xóm gặp nhau)*
 
 **20. Use both texts. What do Chloe's report and Tracy's essay have in common?**
 *(Dựa vào cả hai bài. Báo cáo của Chloe và bài luận của Tracy có điểm gì chung?)*
 
-- A. Both of them describe moving to a new city. *(Cả hai tả việc chuyển tới thành phố mới.)*
-- B. Both of them reject any kind of change. *(Cả hai bác bỏ mọi thay đổi.)*
-- C. Both of them are about a park. *(Cả hai đều về công viên.)*
-- D. Both of them question an assumption and replace it with a more careful, personal answer. *(Cả hai chất vấn một điều mặc định và thay bằng một câu trả lời cẩn trọng, gắn với bản thân hơn.)*
+- A. Both of them describe moving to a new city and starting a new job there. *(Cả hai đều kể chuyện chuyển đến một thành phố mới và bắt đầu công việc mới ở đó.)*
+- B. Both of them reject any kind of change in the way people work. *(Cả hai đều bác bỏ mọi thay đổi trong cách người ta làm việc.)*
+- C. Both of them are about a park that was built by the neighbors. *(Cả hai đều nói về một công viên do hàng xóm xây nên.)*
+- D. Both of them question an assumption and reach a more careful, personal answer. *(Cả hai đều chất vấn một giả định và đi đến câu trả lời cẩn trọng, cá nhân hơn.)*
 
 ---
 

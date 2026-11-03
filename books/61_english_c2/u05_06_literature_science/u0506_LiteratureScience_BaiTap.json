@@ -760,24 +760,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because it was a new novel",
-            "vi": "vì đó là tiểu thuyết mới"
+            "en": "because it was a new novel that had just come out and all the members were eager to read it",
+            "vi": "vì đó là một tiểu thuyết mới ra mắt và mọi thành viên đều háo hức đọc"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because it was a new novel",
-          "text_translation": "vì đó là tiểu thuyết mới"
+          "text": "because it was a new novel that had just come out and all the members were eager to read it",
+          "text_translation": "vì đó là một tiểu thuyết mới ra mắt và mọi thành viên đều háo hức đọc"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because Harriet had never read it",
-            "vi": "vì bà Harriet chưa đọc"
+            "en": "because Harriet had never read it and wanted to discuss it with others",
+            "vi": "vì Harriet chưa từng đọc và muốn thảo luận với mọi người"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because Harriet had never read it",
-          "text_translation": "vì bà Harriet chưa đọc"
+          "text": "because Harriet had never read it and wanted to discuss it with others",
+          "text_translation": "vì Harriet chưa từng đọc và muốn thảo luận với mọi người"
         },
         {
           "id": "C",
@@ -793,13 +793,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "because it is about San Diego",
-            "vi": "vì nó về San Diego"
+            "en": "because it is about San Diego and the people who live near Maple Street",
+            "vi": "vì nó viết về San Diego và những người sống gần phố Maple"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because it is about San Diego",
-          "text_translation": "vì nó về San Diego"
+          "text": "because it is about San Diego and the people who live near Maple Street",
+          "text_translation": "vì nó viết về San Diego và những người sống gần phố Maple"
         }
       ],
       "evidence_segments": [
@@ -828,35 +828,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The novel has no plot.",
-            "vi": "Tiểu thuyết không có cốt truyện."
+            "en": "The novel has no plot, so the members remembered only the parties.",
+            "vi": "Cuốn tiểu thuyết không có cốt truyện, nên các thành viên chỉ nhớ các bữa tiệc."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The novel has no plot.",
-          "text_translation": "Tiểu thuyết không có cốt truyện."
+          "text": "The novel has no plot, so the members remembered only the parties.",
+          "text_translation": "Cuốn tiểu thuyết không có cốt truyện, nên các thành viên chỉ nhớ các bữa tiệc."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The members went to many parties.",
-            "vi": "Các thành viên đi dự nhiều tiệc."
+            "en": "The members went to many parties when they were at school together.",
+            "vi": "Các thành viên đã dự nhiều bữa tiệc khi cùng học ở trường."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The members went to many parties.",
-          "text_translation": "Các thành viên đi dự nhiều tiệc."
+          "text": "The members went to many parties when they were at school together.",
+          "text_translation": "Các thành viên đã dự nhiều bữa tiệc khi cùng học ở trường."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The parties are the most important part of the story.",
-            "vi": "Các bữa tiệc là phần quan trọng nhất của truyện."
+            "en": "The parties are the most important part of the story, so they remember them.",
+            "vi": "Các bữa tiệc là phần quan trọng nhất của câu chuyện, nên họ nhớ chúng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The parties are the most important part of the story.",
-          "text_translation": "Các bữa tiệc là phần quan trọng nhất của truyện."
+          "text": "The parties are the most important part of the story, so they remember them.",
+          "text_translation": "Các bữa tiệc là phần quan trọng nhất của câu chuyện, nên họ nhớ chúng."
         },
         {
           "id": "D",
@@ -896,46 +896,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "in the hope that Daisy will come",
-            "vi": "với hy vọng Daisy sẽ tới"
+            "en": "in the hope that Daisy will one day walk through the door",
+            "vi": "với hy vọng một ngày Daisy sẽ bước qua cửa"
           },
           "is_correct": true,
           "order": 0,
-          "text": "in the hope that Daisy will come",
-          "text_translation": "với hy vọng Daisy sẽ tới"
+          "text": "in the hope that Daisy will one day walk through the door",
+          "text_translation": "với hy vọng một ngày Daisy sẽ bước qua cửa"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to make money",
-            "vi": "để kiếm tiền"
+            "en": "to make money from the guests who drink his champagne",
+            "vi": "để kiếm tiền từ những vị khách uống sâm panh của anh"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to make money",
-          "text_translation": "để kiếm tiền"
+          "text": "to make money from the guests who drink his champagne",
+          "text_translation": "để kiếm tiền từ những vị khách uống sâm panh của anh"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to impress Nick",
-            "vi": "để gây ấn tượng với Nick"
+            "en": "to impress Nick, who has just rented the house next door",
+            "vi": "để gây ấn tượng với Nick, người vừa thuê căn nhà bên cạnh"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to impress Nick",
-          "text_translation": "để gây ấn tượng với Nick"
+          "text": "to impress Nick, who has just rented the house next door",
+          "text_translation": "để gây ấn tượng với Nick, người vừa thuê căn nhà bên cạnh"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because Tom asked him to",
-            "vi": "vì Tom nhờ"
+            "en": "because Tom asked him to entertain the guests from the bay",
+            "vi": "vì Tom nhờ anh tiếp đãi những vị khách từ vịnh"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because Tom asked him to",
-          "text_translation": "vì Tom nhờ"
+          "text": "because Tom asked him to entertain the guests from the bay",
+          "text_translation": "vì Tom nhờ anh tiếp đãi những vị khách từ vịnh"
         }
       ],
       "evidence_segments": [
@@ -964,24 +964,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because Ethan told a joke about Daisy",
-            "vi": "vì Ethan kể chuyện cười về Daisy"
+            "en": "because Ethan told a joke about Daisy and her husband",
+            "vi": "vì Ethan kể một câu đùa về Daisy và chồng cô"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because Ethan told a joke about Daisy",
-          "text_translation": "vì Ethan kể chuyện cười về Daisy"
+          "text": "because Ethan told a joke about Daisy and her husband",
+          "text_translation": "vì Ethan kể một câu đùa về Daisy và chồng cô"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because Ethan had not read the book",
-            "vi": "vì Ethan chưa đọc sách"
+            "en": "because Ethan had not read the book and mixed up the narrator with Gatsby",
+            "vi": "vì Ethan chưa đọc sách và nhầm người kể chuyện với Gatsby"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because Ethan had not read the book",
-          "text_translation": "vì Ethan chưa đọc sách"
+          "text": "because Ethan had not read the book and mixed up the narrator with Gatsby",
+          "text_translation": "vì Ethan chưa đọc sách và nhầm người kể chuyện với Gatsby"
         },
         {
           "id": "C",
@@ -997,13 +997,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "because Nathan disagreed",
-            "vi": "vì Nathan không đồng ý"
+            "en": "because Nathan disagreed with him in a loud and funny voice",
+            "vi": "vì Nathan phản đối anh bằng giọng to và hài hước"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because Nathan disagreed",
-          "text_translation": "vì Nathan không đồng ý"
+          "text": "because Nathan disagreed with him in a loud and funny voice",
+          "text_translation": "vì Nathan phản đối anh bằng giọng to và hài hước"
         }
       ],
       "evidence_segments": [
@@ -1032,13 +1032,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He knows nothing about Gatsby.",
-            "vi": "Anh không biết gì về Gatsby."
+            "en": "He knows nothing about Gatsby and has never spoken to him",
+            "vi": "Anh chẳng biết gì về Gatsby và chưa từng nói chuyện với ông"
           },
           "is_correct": false,
           "order": 0,
-          "text": "He knows nothing about Gatsby.",
-          "text_translation": "Anh không biết gì về Gatsby."
+          "text": "He knows nothing about Gatsby and has never spoken to him",
+          "text_translation": "Anh chẳng biết gì về Gatsby và chưa từng nói chuyện với ông"
         },
         {
           "id": "B",
@@ -1054,24 +1054,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "He is Daisy's husband.",
-            "vi": "Anh là chồng Daisy."
+            "en": "He is Daisy's husband, yet he tells the story as if he were a stranger to her.",
+            "vi": "Anh là chồng Daisy, vậy mà kể chuyện như thể là người lạ với cô."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He is Daisy's husband.",
-          "text_translation": "Anh là chồng Daisy."
+          "text": "He is Daisy's husband, yet he tells the story as if he were a stranger to her.",
+          "text_translation": "Anh là chồng Daisy, vậy mà kể chuyện như thể là người lạ với cô."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He never speaks.",
-            "vi": "Anh không bao giờ lên tiếng."
+            "en": "He never speaks, so the reader must guess what he thinks",
+            "vi": "Anh không bao giờ lên tiếng, nên người đọc phải đoán anh nghĩ gì"
           },
           "is_correct": false,
           "order": 3,
-          "text": "He never speaks.",
-          "text_translation": "Anh không bao giờ lên tiếng."
+          "text": "He never speaks, so the reader must guess what he thinks",
+          "text_translation": "Anh không bao giờ lên tiếng, nên người đọc phải đoán anh nghĩ gì"
         }
       ],
       "evidence_segments": [
@@ -1112,35 +1112,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "as a story about parties",
-            "vi": "như truyện về tiệc tùng"
+            "en": "as a story about parties and champagne, told by someone who enjoys them",
+            "vi": "như một câu chuyện về tiệc tùng và sâm panh, do người thích chúng kể lại"
           },
           "is_correct": false,
           "order": 1,
-          "text": "as a story about parties",
-          "text_translation": "như truyện về tiệc tùng"
+          "text": "as a story about parties and champagne, told by someone who enjoys them",
+          "text_translation": "như một câu chuyện về tiệc tùng và sâm panh, do người thích chúng kể lại"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "as a comedy",
-            "vi": "như một vở hài kịch"
+            "en": "as a comedy that makes fun of rich people on Long Island",
+            "vi": "như một vở hài chế giễu người giàu ở Long Island"
           },
           "is_correct": false,
           "order": 2,
-          "text": "as a comedy",
-          "text_translation": "như một vở hài kịch"
+          "text": "as a comedy that makes fun of rich people on Long Island",
+          "text_translation": "như một vở hài chế giễu người giàu ở Long Island"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "as a true story",
-            "vi": "như một chuyện có thật"
+            "en": "as a true story about a man whom Fitzgerald once knew",
+            "vi": "như một câu chuyện có thật về người mà Fitzgerald từng quen"
           },
           "is_correct": false,
           "order": 3,
-          "text": "as a true story",
-          "text_translation": "như một chuyện có thật"
+          "text": "as a true story about a man whom Fitzgerald once knew",
+          "text_translation": "như một câu chuyện có thật về người mà Fitzgerald từng quen"
         }
       ],
       "evidence_segments": [
@@ -1169,46 +1169,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because she knew Fitzgerald",
-            "vi": "vì bà quen Fitzgerald"
+            "en": "because she knew Fitzgerald personally and heard him explain what Gatsby meant",
+            "vi": "vì bà quen biết Fitzgerald và nghe ông giải thích Gatsby có ý nghĩa gì"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because she knew Fitzgerald",
-          "text_translation": "vì bà quen Fitzgerald"
+          "text": "because she knew Fitzgerald personally and heard him explain what Gatsby meant",
+          "text_translation": "vì bà quen biết Fitzgerald và nghe ông giải thích Gatsby có ý nghĩa gì"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because she dislikes Tom",
-            "vi": "vì bà ghét Tom"
+            "en": "because she dislikes Tom and thinks Gatsby is better than he is",
+            "vi": "vì bà không ưa Tom và nghĩ Gatsby tốt hơn ông ta"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because she dislikes Tom",
-          "text_translation": "vì bà ghét Tom"
+          "text": "because she dislikes Tom and thinks Gatsby is better than he is",
+          "text_translation": "vì bà không ưa Tom và nghĩ Gatsby tốt hơn ông ta"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because she was asked to defend Gatsby",
-            "vi": "vì bà được giao bênh Gatsby"
+            "en": "because she was asked by the book club to defend Gatsby in the debate",
+            "vi": "vì câu lạc bộ sách nhờ bà bênh vực Gatsby trong cuộc tranh luận"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because she was asked to defend Gatsby",
-          "text_translation": "vì bà được giao bênh Gatsby"
+          "text": "because she was asked by the book club to defend Gatsby in the debate",
+          "text_translation": "vì câu lạc bộ sách nhờ bà bênh vực Gatsby trong cuộc tranh luận"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because her own experience of change this year makes her sympathize with the wish to get the past back",
-            "vi": "vì trải nghiệm thay đổi của chính bà năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ"
+            "en": "because this year's change makes her sympathize with the wish to get the past back",
+            "vi": "vì sự thay đổi năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ"
           },
           "is_correct": true,
           "order": 3,
-          "text": "because her own experience of change this year makes her sympathize with the wish to get the past back",
-          "text_translation": "vì trải nghiệm thay đổi của chính bà năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ"
+          "text": "because this year's change makes her sympathize with the wish to get the past back",
+          "text_translation": "vì sự thay đổi năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ"
         }
       ],
       "evidence_segments": [
@@ -1237,46 +1237,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He thinks it is badly written.",
-            "vi": "Anh nghĩ nó viết dở."
+            "en": "He thinks it is badly written and says that Fitzgerald should have ended the book earlier.",
+            "vi": "Anh cho rằng nó viết dở và nói Fitzgerald lẽ ra nên kết thúc sách sớm hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He thinks it is badly written.",
-          "text_translation": "Anh nghĩ nó viết dở."
+          "text": "He thinks it is badly written and says that Fitzgerald should have ended the book earlier.",
+          "text_translation": "Anh cho rằng nó viết dở và nói Fitzgerald lẽ ra nên kết thúc sách sớm hơn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He has never heard it.",
-            "vi": "Anh chưa từng nghe."
+            "en": "He has never heard it and asks the others to explain what it means.",
+            "vi": "Anh chưa từng nghe nó và nhờ mọi người giải thích nghĩa."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He has never heard it.",
-          "text_translation": "Anh chưa từng nghe."
+          "text": "He has never heard it and asks the others to explain what it means.",
+          "text_translation": "Anh chưa từng nghe nó và nhờ mọi người giải thích nghĩa."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He finds it beautiful but suspects it is designed to stop readers from questioning the story.",
-            "vi": "Anh thấy nó đẹp nhưng ngờ rằng nó được viết để người đọc thôi chất vấn câu chuyện."
+            "en": "He finds it beautiful but suspects it is meant to stop readers from asking questions.",
+            "vi": "Anh thấy nó đẹp nhưng ngờ rằng nó nhằm ngăn người đọc đặt câu hỏi."
           },
           "is_correct": true,
           "order": 2,
-          "text": "He finds it beautiful but suspects it is designed to stop readers from questioning the story.",
-          "text_translation": "Anh thấy nó đẹp nhưng ngờ rằng nó được viết để người đọc thôi chất vấn câu chuyện."
+          "text": "He finds it beautiful but suspects it is meant to stop readers from asking questions.",
+          "text_translation": "Anh thấy nó đẹp nhưng ngờ rằng nó nhằm ngăn người đọc đặt câu hỏi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He thinks it is about sailing.",
-            "vi": "Anh nghĩ nó nói về chèo thuyền."
+            "en": "He thinks it is about sailing and wonders why the story ends on boats.",
+            "vi": "Anh nghĩ nó nói về đi thuyền và thắc mắc sao truyện kết thúc bằng những con thuyền."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He thinks it is about sailing.",
-          "text_translation": "Anh nghĩ nó nói về chèo thuyền."
+          "text": "He thinks it is about sailing and wonders why the story ends on boats.",
+          "text_translation": "Anh nghĩ nó nói về đi thuyền và thắc mắc sao truyện kết thúc bằng những con thuyền."
         }
       ],
       "evidence_segments": [
@@ -1316,35 +1316,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Gatsby was a real person.",
-            "vi": "Gatsby là người có thật."
+            "en": "Gatsby was a real person who lived on Long Island in the 1920s.",
+            "vi": "Gatsby là một người có thật từng sống ở Long Island những năm 1920."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Gatsby was a real person.",
-          "text_translation": "Gatsby là người có thật."
+          "text": "Gatsby was a real person who lived on Long Island in the 1920s.",
+          "text_translation": "Gatsby là một người có thật từng sống ở Long Island những năm 1920."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The book was banned.",
-            "vi": "Cuốn sách bị cấm."
+            "en": "The book was banned in the author's lifetime and then became popular.",
+            "vi": "Cuốn sách bị cấm khi tác giả còn sống rồi sau đó trở nên nổi tiếng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The book was banned.",
-          "text_translation": "Cuốn sách bị cấm."
+          "text": "The book was banned in the author's lifetime and then became popular.",
+          "text_translation": "Cuốn sách bị cấm khi tác giả còn sống rồi sau đó trở nên nổi tiếng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Fitzgerald never finished it.",
-            "vi": "Fitzgerald chưa viết xong."
+            "en": "Fitzgerald never finished it, so another writer completed the last pages.",
+            "vi": "Fitzgerald chưa viết xong nên một tác giả khác hoàn thành những trang cuối."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Fitzgerald never finished it.",
-          "text_translation": "Fitzgerald chưa viết xong."
+          "text": "Fitzgerald never finished it, so another writer completed the last pages.",
+          "text_translation": "Fitzgerald chưa viết xong nên một tác giả khác hoàn thành những trang cuối."
         }
       ],
       "evidence_segments": [
@@ -1373,46 +1373,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The club is closing.",
-            "vi": "Câu lạc bộ sắp giải tán."
+            "en": "The club is closing because the members did not enjoy this book.",
+            "vi": "Câu lạc bộ sắp đóng vì các thành viên không thích cuốn này."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The club is closing.",
-          "text_translation": "Câu lạc bộ sắp giải tán."
+          "text": "The club is closing because the members did not enjoy this book.",
+          "text_translation": "Câu lạc bộ sắp đóng vì các thành viên không thích cuốn này."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Lydia disliked the novel.",
-            "vi": "Lydia ghét cuốn sách."
+            "en": "Lydia disliked the novel and wants to read a shorter, easier book next time.",
+            "vi": "Lydia không thích cuốn tiểu thuyết và muốn lần sau đọc cuốn ngắn, dễ hơn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Lydia disliked the novel.",
-          "text_translation": "Lydia ghét cuốn sách."
+          "text": "Lydia disliked the novel and wants to read a shorter, easier book next time.",
+          "text_translation": "Lydia không thích cuốn tiểu thuyết và muốn lần sau đọc cuốn ngắn, dễ hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Nobody came to the meeting.",
-            "vi": "Không ai tới buổi họp."
+            "en": "Nobody came to the meeting, so the notes are about the book only.",
+            "vi": "Không ai đến buổi họp, nên ghi chú chỉ nói về cuốn sách."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Nobody came to the meeting.",
-          "text_translation": "Không ai tới buổi họp."
+          "text": "Nobody came to the meeting, so the notes are about the book only.",
+          "text_translation": "Không ai đến buổi họp, nên ghi chú chỉ nói về cuốn sách."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Some members would like a more cheerful book next time and asked for it, half seriously.",
-            "vi": "Một số thành viên muốn lần sau đọc cuốn vui hơn và nửa đùa nửa thật đã đề nghị như vậy."
+            "en": "Some members want a more cheerful book next time and asked for it, half seriously.",
+            "vi": "Vài thành viên muốn lần sau một cuốn vui hơn và đã đề nghị, nửa đùa nửa thật."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Some members would like a more cheerful book next time and asked for it, half seriously.",
-          "text_translation": "Một số thành viên muốn lần sau đọc cuốn vui hơn và nửa đùa nửa thật đã đề nghị như vậy."
+          "text": "Some members want a more cheerful book next time and asked for it, half seriously.",
+          "text_translation": "Vài thành viên muốn lần sau một cuốn vui hơn và đã đề nghị, nửa đùa nửa thật."
         }
       ],
       "evidence_segments": [
@@ -1441,13 +1441,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because she was asked to review a new drug",
-            "vi": "vì được nhờ đánh giá một loại thuốc mới"
+            "en": "because she was asked to review a new drug before it reaches patients in the hospital",
+            "vi": "vì bà được nhờ đánh giá một loại thuốc mới trước khi đến tay bệnh nhân trong bệnh viện"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because she was asked to review a new drug",
-          "text_translation": "vì được nhờ đánh giá một loại thuốc mới"
+          "text": "because she was asked to review a new drug before it reaches patients in the hospital",
+          "text_translation": "vì bà được nhờ đánh giá một loại thuốc mới trước khi đến tay bệnh nhân trong bệnh viện"
         },
         {
           "id": "B",
@@ -1463,24 +1463,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "because she had joined the Open Science Collaboration",
-            "vi": "vì cô tham gia Open Science Collaboration"
+            "en": "because she had joined the Open Science Collaboration last year",
+            "vi": "vì bà đã tham gia Open Science Collaboration năm ngoái"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because she had joined the Open Science Collaboration",
-          "text_translation": "vì cô tham gia Open Science Collaboration"
+          "text": "because she had joined the Open Science Collaboration last year",
+          "text_translation": "vì bà đã tham gia Open Science Collaboration năm ngoái"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because a study about her was wrong",
-            "vi": "vì một nghiên cứu về cô bị sai"
+            "en": "because a study about her department turned out to be wrong",
+            "vi": "vì một nghiên cứu về khoa của bà hóa ra sai"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because a study about her was wrong",
-          "text_translation": "vì một nghiên cứu về cô bị sai"
+          "text": "because a study about her department turned out to be wrong",
+          "text_translation": "vì một nghiên cứu về khoa của bà hóa ra sai"
         }
       ],
       "evidence_segments": [
@@ -1520,35 +1520,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "write a new psychology textbook",
-            "vi": "viết một giáo trình tâm lý học mới"
+            "en": "write a new psychology textbook using only the very best published studies",
+            "vi": "viết một giáo trình tâm lý học mới chỉ dùng những nghiên cứu đã công bố tốt nhất"
           },
           "is_correct": false,
           "order": 1,
-          "text": "write a new psychology textbook",
-          "text_translation": "viết một giáo trình tâm lý học mới"
+          "text": "write a new psychology textbook using only the very best published studies",
+          "text_translation": "viết một giáo trình tâm lý học mới chỉ dùng những nghiên cứu đã công bố tốt nhất"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "close three journals",
-            "vi": "đóng cửa ba tạp chí"
+            "en": "close three journals that had published studies of poor quality",
+            "vi": "đóng cửa ba tạp chí đã đăng những nghiên cứu kém chất lượng"
           },
           "is_correct": false,
           "order": 2,
-          "text": "close three journals",
-          "text_translation": "đóng cửa ba tạp chí"
+          "text": "close three journals that had published studies of poor quality",
+          "text_translation": "đóng cửa ba tạp chí đã đăng những nghiên cứu kém chất lượng"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "test new medicines",
-            "vi": "thử thuốc mới"
+            "en": "test new medicines on a hundred patients in three hospitals",
+            "vi": "thử thuốc mới trên một trăm bệnh nhân ở ba bệnh viện"
           },
           "is_correct": false,
           "order": 3,
-          "text": "test new medicines",
-          "text_translation": "thử thuốc mới"
+          "text": "test new medicines on a hundred patients in three hospitals",
+          "text_translation": "thử thuốc mới trên một trăm bệnh nhân ở ba bệnh viện"
         }
       ],
       "evidence_segments": [
@@ -1577,46 +1577,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The same results in 97 percent of cases.",
-            "vi": "Kết quả giống hệt ở 97 phần trăm trường hợp."
+            "en": "The same results in 97 percent of cases, which confirmed the original findings.",
+            "vi": "Cùng kết quả ở 97 phần trăm trường hợp, xác nhận các phát hiện ban đầu."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The same results in 97 percent of cases.",
-          "text_translation": "Kết quả giống hệt ở 97 phần trăm trường hợp."
+          "text": "The same results in 97 percent of cases, which confirmed the original findings.",
+          "text_translation": "Cùng kết quả ở 97 phần trăm trường hợp, xác nhận các phát hiện ban đầu."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Larger effects than the originals.",
-            "vi": "Hiệu ứng lớn hơn bản gốc."
+            "en": "Larger effects than the originals, but fewer studies reached significance.",
+            "vi": "Hiệu ứng lớn hơn bản gốc, nhưng ít nghiên cứu đạt ý nghĩa hơn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Larger effects than the originals.",
-          "text_translation": "Hiệu ứng lớn hơn bản gốc."
+          "text": "Larger effects than the originals, but fewer studies reached significance.",
+          "text_translation": "Hiệu ứng lớn hơn bản gốc, nhưng ít nghiên cứu đạt ý nghĩa hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "No results at all.",
-            "vi": "Không có kết quả gì."
+            "en": "No results at all, because the researchers could not follow the methods.",
+            "vi": "Không có kết quả nào, vì các nhà nghiên cứu không thể theo đúng phương pháp."
           },
           "is_correct": false,
           "order": 2,
-          "text": "No results at all.",
-          "text_translation": "Không có kết quả gì."
+          "text": "No results at all, because the researchers could not follow the methods.",
+          "text_translation": "Không có kết quả nào, vì các nhà nghiên cứu không thể theo đúng phương pháp."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Only about a third reached a significant result, and effects were about half as large.",
-            "vi": "Chỉ khoảng một phần ba đạt kết quả có ý nghĩa, và hiệu ứng chỉ lớn khoảng một nửa."
+            "en": "About a third reached a significant result, with effects about half as large.",
+            "vi": "Khoảng một phần ba đạt kết quả có ý nghĩa, với hiệu ứng nhỏ bằng khoảng một nửa."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Only about a third reached a significant result, and effects were about half as large.",
-          "text_translation": "Chỉ khoảng một phần ba đạt kết quả có ý nghĩa, và hiệu ứng chỉ lớn khoảng một nửa."
+          "text": "About a third reached a significant result, with effects about half as large.",
+          "text_translation": "Khoảng một phần ba đạt kết quả có ý nghĩa, với hiệu ứng nhỏ bằng khoảng một nửa."
         }
       ],
       "evidence_segments": [
@@ -1645,13 +1645,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because people were hurt by power posing",
-            "vi": "vì có người bị thương do tư thế quyền lực"
+            "en": "because many people were hurt when they tried power posing at work",
+            "vi": "vì nhiều người bị thương khi thử tư thế quyền lực ở nơi làm việc"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because people were hurt by power posing",
-          "text_translation": "vì có người bị thương do tư thế quyền lực"
+          "text": "because many people were hurt when they tried power posing at work",
+          "text_translation": "vì nhiều người bị thương khi thử tư thế quyền lực ở nơi làm việc"
         },
         {
           "id": "B",
@@ -1667,24 +1667,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "because the researchers lost their jobs",
-            "vi": "vì các nhà nghiên cứu mất việc"
+            "en": "because the researchers lost their jobs after the results were published",
+            "vi": "vì các nhà nghiên cứu mất việc sau khi kết quả được công bố"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because the researchers lost their jobs",
-          "text_translation": "vì các nhà nghiên cứu mất việc"
+          "text": "because the researchers lost their jobs after the results were published",
+          "text_translation": "vì các nhà nghiên cứu mất việc sau khi kết quả được công bố"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because the talk was removed",
-            "vi": "vì bài nói bị gỡ"
+            "en": "because the online talk was removed after the authors complained",
+            "vi": "vì bài nói trực tuyến bị gỡ sau khi các tác giả phàn nàn"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because the talk was removed",
-          "text_translation": "vì bài nói bị gỡ"
+          "text": "because the online talk was removed after the authors complained",
+          "text_translation": "vì bài nói trực tuyến bị gỡ sau khi các tác giả phàn nàn"
         }
       ],
       "evidence_segments": [
@@ -1713,46 +1713,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Power posing was proved correct.",
-            "vi": "Tư thế quyền lực được chứng minh là đúng."
+            "en": "Power posing was proved correct by a much larger study of hormones and risk-taking.",
+            "vi": "Tư thế quyền lực được chứng minh là đúng bởi một nghiên cứu lớn hơn nhiều về hormone và chấp nhận rủi ro."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Power posing was proved correct.",
-          "text_translation": "Tư thế quyền lực được chứng minh là đúng."
+          "text": "Power posing was proved correct by a much larger study of hormones and risk-taking.",
+          "text_translation": "Tư thế quyền lực được chứng minh là đúng bởi một nghiên cứu lớn hơn nhiều về hormone và chấp nhận rủi ro."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The online talk was given for the first time.",
-            "vi": "Bài nói trên mạng lần đầu được trình bày."
+            "en": "The online talk was given for the first time to a very large audience.",
+            "vi": "Bài nói trực tuyến được trình bày lần đầu cho một lượng khán giả rất lớn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The online talk was given for the first time.",
-          "text_translation": "Bài nói trên mạng lần đầu được trình bày."
+          "text": "The online talk was given for the first time to a very large audience.",
+          "text_translation": "Bài nói trực tuyến được trình bày lần đầu cho một lượng khán giả rất lớn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "One of the original authors said publicly that she no longer believed the effects were real.",
-            "vi": "Một tác giả ban đầu công khai nói bà không còn tin các hiệu ứng là thật."
+            "en": "One of the original authors said publicly that she no longer believed the effects.",
+            "vi": "Một trong các tác giả gốc nói công khai rằng bà không còn tin vào các hiệu ứng đó."
           },
           "is_correct": true,
           "order": 2,
-          "text": "One of the original authors said publicly that she no longer believed the effects were real.",
-          "text_translation": "Một tác giả ban đầu công khai nói bà không còn tin các hiệu ứng là thật."
+          "text": "One of the original authors said publicly that she no longer believed the effects.",
+          "text_translation": "Một trong các tác giả gốc nói công khai rằng bà không còn tin vào các hiệu ứng đó."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The journal Science was founded.",
-            "vi": "Tạp chí Science được thành lập."
+            "en": "The journal Science was founded to publish repeated studies like these.",
+            "vi": "Tạp chí Science được thành lập để đăng những nghiên cứu lặp lại như thế này."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The journal Science was founded.",
-          "text_translation": "Tạp chí Science được thành lập."
+          "text": "The journal Science was founded to publish repeated studies like these.",
+          "text_translation": "Tạp chí Science được thành lập để đăng những nghiên cứu lặp lại như thế này."
         }
       ],
       "evidence_segments": [
@@ -1781,13 +1781,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They prove that science cannot be trusted.",
-            "vi": "Chúng chứng minh không thể tin khoa học."
+            "en": "They prove that science cannot be trusted, so readers should ignore new studies.",
+            "vi": "Chúng chứng minh khoa học không đáng tin, nên người đọc hãy bỏ qua các nghiên cứu mới."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They prove that science cannot be trusted.",
-          "text_translation": "Chúng chứng minh không thể tin khoa học."
+          "text": "They prove that science cannot be trusted, so readers should ignore new studies.",
+          "text_translation": "Chúng chứng minh khoa học không đáng tin, nên người đọc hãy bỏ qua các nghiên cứu mới."
         },
         {
           "id": "B",
@@ -1803,24 +1803,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "They should not have been published.",
-            "vi": "Lẽ ra không nên công bố."
+            "en": "They should not have been published, because they upset the public.",
+            "vi": "Chúng không nên được công bố, vì làm công chúng khó chịu."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They should not have been published.",
-          "text_translation": "Lẽ ra không nên công bố."
+          "text": "They should not have been published, because they upset the public.",
+          "text_translation": "Chúng không nên được công bố, vì làm công chúng khó chịu."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They only matter to psychologists.",
-            "vi": "Chúng chỉ quan trọng với nhà tâm lý học."
+            "en": "They only matter to psychologists, and doctors can safely ignore them.",
+            "vi": "Chúng chỉ quan trọng với nhà tâm lý học, còn bác sĩ có thể yên tâm bỏ qua."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They only matter to psychologists.",
-          "text_translation": "Chúng chỉ quan trọng với nhà tâm lý học."
+          "text": "They only matter to psychologists, and doctors can safely ignore them.",
+          "text_translation": "Chúng chỉ quan trọng với nhà tâm lý học, còn bác sĩ có thể yên tâm bỏ qua."
         }
       ],
       "evidence_segments": [
@@ -1860,35 +1860,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "because she became famous",
-            "vi": "vì bà trở nên nổi tiếng"
+            "en": "because she became famous after she changed her mind in public",
+            "vi": "vì bà trở nên nổi tiếng sau khi công khai đổi ý"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because she became famous",
-          "text_translation": "vì bà trở nên nổi tiếng"
+          "text": "because she became famous after she changed her mind in public",
+          "text_translation": "vì bà trở nên nổi tiếng sau khi công khai đổi ý"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because her original study was correct",
-            "vi": "vì nghiên cứu gốc của bà đúng"
+            "en": "because her original study was correct and she had the courage to defend it",
+            "vi": "vì nghiên cứu gốc của bà đúng và bà đủ can đảm để bảo vệ nó"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because her original study was correct",
-          "text_translation": "vì nghiên cứu gốc của bà đúng"
+          "text": "because her original study was correct and she had the courage to defend it",
+          "text_translation": "vì nghiên cứu gốc của bà đúng và bà đủ can đảm để bảo vệ nó"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because she gave the online talk",
-            "vi": "vì bà trình bày bài nói trên mạng"
+            "en": "because she gave the online talk that made the idea popular",
+            "vi": "vì bà đã trình bày bài nói trực tuyến khiến ý tưởng lan rộng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because she gave the online talk",
-          "text_translation": "vì bà trình bày bài nói trên mạng"
+          "text": "because she gave the online talk that made the idea popular",
+          "text_translation": "vì bà đã trình bày bài nói trực tuyến khiến ý tưởng lan rộng"
         }
       ],
       "evidence_segments": [
@@ -1917,35 +1917,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Surprising findings are always false.",
-            "vi": "Phát hiện bất ngờ luôn sai."
+            "en": "Surprising findings are always false, so they should never be published.",
+            "vi": "Phát hiện gây ngạc nhiên luôn sai, nên không bao giờ nên công bố."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Surprising findings are always false.",
-          "text_translation": "Phát hiện bất ngờ luôn sai."
+          "text": "Surprising findings are always false, so they should never be published.",
+          "text_translation": "Phát hiện gây ngạc nhiên luôn sai, nên không bao giờ nên công bố."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Only facts should be published.",
-            "vi": "Chỉ nên đăng sự thật."
+            "en": "Only facts should be published, and a hypothesis belongs in private notes.",
+            "vi": "Chỉ sự thật mới nên được công bố, còn giả thuyết thuộc về ghi chép riêng."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Only facts should be published.",
-          "text_translation": "Chỉ nên đăng sự thật."
+          "text": "Only facts should be published, and a hypothesis belongs in private notes.",
+          "text_translation": "Chỉ sự thật mới nên được công bố, còn giả thuyết thuộc về ghi chép riêng."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Hypotheses are useless.",
-            "vi": "Giả thuyết vô dụng."
+            "en": "Hypotheses are useless, because only repeated results can teach us anything.",
+            "vi": "Giả thuyết vô dụng, vì chỉ kết quả lặp lại mới dạy ta được điều gì."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Hypotheses are useless.",
-          "text_translation": "Giả thuyết vô dụng."
+          "text": "Hypotheses are useless, because only repeated results can teach us anything.",
+          "text_translation": "Giả thuyết vô dụng, vì chỉ kết quả lặp lại mới dạy ta được điều gì."
         },
         {
           "id": "D",
@@ -1985,13 +1985,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to recommend a vegetarian diet",
-            "vi": "để khuyên ăn chay"
+            "en": "to recommend a vegetarian diet to readers who want to avoid disease",
+            "vi": "để khuyên người đọc ăn chay nếu muốn tránh bệnh tật"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to recommend a vegetarian diet",
-          "text_translation": "để khuyên ăn chay"
+          "text": "to recommend a vegetarian diet to readers who want to avoid disease",
+          "text_translation": "để khuyên người đọc ăn chay nếu muốn tránh bệnh tật"
         },
         {
           "id": "B",
@@ -2007,24 +2007,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to criticize news reports about food",
-            "vi": "để chê tin tức về thực phẩm"
+            "en": "to criticize news reports about food, which she says are almost never accurate or useful",
+            "vi": "để chê các bản tin về thực phẩm mà bà nói gần như không bao giờ chính xác hay hữu ích"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to criticize news reports about food",
-          "text_translation": "để chê tin tức về thực phẩm"
+          "text": "to criticize news reports about food, which she says are almost never accurate or useful",
+          "text_translation": "để chê các bản tin về thực phẩm mà bà nói gần như không bao giờ chính xác hay hữu ích"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to describe a study she did",
-            "vi": "để tả một nghiên cứu cô làm"
+            "en": "to describe a study she did herself on vegetables and smoking",
+            "vi": "để mô tả một nghiên cứu bà tự làm về rau củ và hút thuốc"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to describe a study she did",
-          "text_translation": "để tả một nghiên cứu cô làm"
+          "text": "to describe a study she did herself on vegetables and smoking",
+          "text_translation": "để mô tả một nghiên cứu bà tự làm về rau củ và hút thuốc"
         }
       ],
       "evidence_segments": [
@@ -2053,46 +2053,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them say that stories are more reliable than science.",
-            "vi": "Cả hai nói truyện đáng tin hơn khoa học."
+            "en": "Both of them say that a narrator is more reliable than a scientific study.",
+            "vi": "Cả hai đều nói người kể chuyện đáng tin hơn một nghiên cứu khoa học."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them say that stories are more reliable than science.",
-          "text_translation": "Cả hai nói truyện đáng tin hơn khoa học."
+          "text": "Both of them say that a narrator is more reliable than a scientific study.",
+          "text_translation": "Cả hai đều nói người kể chuyện đáng tin hơn một nghiên cứu khoa học."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Both of them are about hospitals.",
-            "vi": "Cả hai đều về bệnh viện."
+            "en": "Both of them are about hospitals and the nurses who work in them.",
+            "vi": "Cả hai đều nói về bệnh viện và các y tá làm việc ở đó."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Both of them are about hospitals.",
-          "text_translation": "Cả hai đều về bệnh viện."
+          "text": "Both of them are about hospitals and the nurses who work in them.",
+          "text_translation": "Cả hai đều nói về bệnh viện và các y tá làm việc ở đó."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them warn readers to be most careful when a source tells them what they want to believe.",
-            "vi": "Cả hai cảnh báo người đọc phải cẩn thận nhất khi một nguồn nói điều họ muốn tin."
+            "en": "Both of them warn readers to be most careful when a source tells them what they want to hear.",
+            "vi": "Cả hai đều cảnh báo người đọc phải thận trọng nhất khi một nguồn nói đúng điều họ muốn nghe."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Both of them warn readers to be most careful when a source tells them what they want to believe.",
-          "text_translation": "Cả hai cảnh báo người đọc phải cẩn thận nhất khi một nguồn nói điều họ muốn tin."
+          "text": "Both of them warn readers to be most careful when a source tells them what they want to hear.",
+          "text_translation": "Cả hai đều cảnh báo người đọc phải thận trọng nhất khi một nguồn nói đúng điều họ muốn nghe."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them praise Fitzgerald.",
-            "vi": "Cả hai khen Fitzgerald."
+            "en": "Both of them praise Fitzgerald and the clear writing of his prose.",
+            "vi": "Cả hai đều khen Fitzgerald và lối viết rõ ràng của ông."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Both of them praise Fitzgerald.",
-          "text_translation": "Cả hai khen Fitzgerald."
+          "text": "Both of them praise Fitzgerald and the clear writing of his prose.",
+          "text_translation": "Cả hai đều khen Fitzgerald và lối viết rõ ràng của ông."
         }
       ],
       "evidence_segments": [

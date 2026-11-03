@@ -146,3 +146,25 @@ Các chỗ dịch tốt, đừng sửa: "Be that as it may" → "Dù vậy"; "ch
 - **Cách nói rào đón đúng chuẩn khoa học (giữ nguyên):** "A failed replication does not prove that the original finding was false" (u0506 seg 6); "although it is far from proven" (mock1 seg 10); "This does not prove that empathy plays no role" (mock2 seg 10); Chloe: "I do not believe that a four-day week is the answer for every business".
 - **Nhận định đời sống tự giới hạn, không khái quát dân tộc:** mock2 seg 6 ("Nobody on this street thinks alike").
 - **Phần "dogs might simply have been mildly stressed"** (mock2 seg 7 nửa sau): có cơ sở trong nghiên cứu gốc; chỉ sửa vế "later attempts… none at all".
+
+---
+
+## Kiểm chứng và xử lý của main Claude (03/11/2026)
+
+**Lỗi nội dung (commit 1d2767b):** đã mở tận nơi, các mục chắc đều đúng và đã sửa EN + VI + câu hỏi liên quan:
+- Lặp lại nghiên cứu chó ngáp: đổi thành "mixed results" (q_mock2_014 sửa theo).
+- Megan nói với Leah: "Thím… cháu".
+- Mốc thời gian: dự án ghi âm "Since February… more than sixty"; tuần không điện thoại "last year"; Tracy nghe bản ghi "earlier that year"; ghi chú thư viện về năm trận lụt.
+- Phương án nói quá ý bài: q_u0506_002 bỏ vế "rereading", q_u0506_010 bỏ "heavy", q_u0304_019 bỏ ý "giờ mở cửa dài hơn".
+- Rào đón: Fitzgerald "by most accounts"; Challenger "it has been reported".
+- Dịch: "parochial" = "hẹp hòi"; súp của Harriet "bao năm tôi nấu" thay "ba mươi năm".
+- **Giữ** q_mock2_034: chỉ dựa vào bài vẫn loại được Helena (đã là kỹ sư từ trước), Tina, Amy. Đã sửa lời giải thích cho rõ.
+
+**Lỗi độ dài đáp án (mục 1, nghiêm trọng):** Sonnet viết lại phương án sai. Main đo lại và so với HEAD:
+- Trước: đáp án đúng dài nhất 156/160, dài ≥1,5× phương án nhì 141.
+- Sau: dài nhất 67/160 (42%, tính cả câu hoà), ≥1,5× là 0.
+- 0 câu đổi đáp án, câu hỏi hay evidence; 0 bài đọc bị đổi.
+- Đọc kiểm 10 câu mẫu (q_mock1_015/028/036, q_mock2_014/029/036, q_u0708_007/015, q_u0102_007/013): phương án sai vẫn rõ ràng sai theo bài.
+- Verify 6/6 ĐẠT.
+
+⚠️ **Lỗi này có ở cả các sách trước** (đo 03/11/2026, tỉ lệ đáp án đúng là phương án dài nhất): A1 46%, A2 61%, B1 81% (233 câu ≥1,5×), B2 94% (390), C1 93% (155). Chờ chủ nhà quyết có sửa không.
