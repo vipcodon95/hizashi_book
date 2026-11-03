@@ -11,3 +11,4 @@ Mốc nối từ A1: u16 sách 56 = 154 / 154 từ, TB 12,4 từ/câu.
 | u05 | 190 / 191 | 13.2 / 15.5 | hội thoại đổi áo + giờ lễ bưu điện/ngân hàng (USPS kiểm chứng); 2 câu suy luận. Main sửa 3 câu hỏi trỏ "sentence N" |
 | u06 | 197 / 193 | 13.7 / 15.3 | hội thoại nấu súp (an toàn bếp kiểm chứng) + review nhà hàng; 2 câu suy luận + 1 câu thái độ |
 | u07 | 210 / 216 | 14.4 / 15.4 | chat gia đình (Trevor trẹo chân) + tờ hướng dẫn RICE của hiệu thuốc (Mayo Clinic, CDC); 2 câu suy luận (1 nối 2 bài). Main viết lại câu né "if" bằng mệnh đề when |
+| u08 | 204 / 202 | 13.4 / 15.8 | tin nhắn Leah–Chloe (gặp Ethan) + 5 trải nghiệm ở San Diego (sdnhm, NPS kiểm chứng); 3 câu suy luận |
