@@ -23,3 +23,4 @@
 | u3536 | [316, 321] từ, TB [19.5, 22.5] | nhật ký Leah cãi nhau và làm lành (đảo ngữ Were I…, tính từ tuyệt đối) + bài sự thật quy tắc 10.000 giờ (may well; Ericsson 1993, tổng quan 2014); 7 câu suy luận (1 nối 2 bài) |
 | u3738 | [309, 339] từ, TB [18.9, 25.6] | biên bản họp xe chạy nhanh (in order not to, so as not to) + bài đạo đức dùng AI viết bài luận (as trạng ngữ); 6 câu suy luận/chức năng (1 nối 2 bài) |
 | u3940 | [338, 297] từ, TB [23.4, 19.5] | hướng dẫn túi đi ngay của Ethan (nothing to V, mệnh lệnh với be) + truyện Harriet cân nhắc mở rộng quán (must/might be + V-ing, kết thúc mở); 6 câu suy luận/giọng điệu (1 nối 2 bài) |
+| u4142 | [323, 294] từ, TB [22.2, 20.1] | email trưởng nhóm của Nathan (although/whereas, danh từ hoá) + tranh biện bằng đại học (giới từ + wh-, How + adj!, câu tu từ); 6 câu suy luận/chức năng (1 nối 2 bài) |
