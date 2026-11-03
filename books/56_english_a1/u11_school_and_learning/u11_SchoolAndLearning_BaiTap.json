@@ -1,0 +1,1255 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 11 — School and learning",
+      "vi": "Trường lớp"
+    },
+    "title": "Unit 11 — School and learning",
+    "title_vn": "Trường lớp",
+    "module_code": "56_u11",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u11",
+    "curriculum_sheets": [
+      "a1.41",
+      "a1.42",
+      "a1.43",
+      "a1.44"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Lydia Park",
+      "Mitchell Carter",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 4, năm 2"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Môn học, thứ tự tiết học, can / can't, in / on / at, When …?, ngày tháng, nội quy",
+    "description_vn": "Tracy nhắn kể về ngày thứ Ba ở Westview High và nội quy, sự kiện của International Club do cô Park viết. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 11 khoá A1 · phiếu `a1.41` – `a1.44` (môn học, lớp học và đồ dùng, nhờ thầy cô giúp và ôn thi, thời khoá biểu và ngày tháng)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một lời nhắn kể về thời khoá biểu và một bản nội quy câu lạc bộ; hiểu tên môn học, thứ tự các tiết, can / can't (làm được, được phép), giới từ thời gian in / on / at, câu hỏi When …? và ngày tháng."
+    },
+    "extra_words": [
+      {
+        "word": "international",
+        "i18n": {
+          "vi": "quốc tế"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "my favorite subject",
+          "vi": "môn mình thích nhất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take a break",
+          "vi": "nghỉ giải lao"
+        }
+      },
+      {
+        "i18n": {
+          "en": "solve math problems",
+          "vi": "giải toán"
+        }
+      },
+      {
+        "i18n": {
+          "en": "look up words in a dictionary",
+          "vi": "tra từ trong từ điển"
+        }
+      },
+      {
+        "i18n": {
+          "en": "come on time",
+          "vi": "đến đúng giờ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "give a speech",
+          "vi": "nói, trình bày một bài nói"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Thời khoá biểu kể bằng lời: gạch chân các chữ chỉ thứ tự (`first`, `after`, `then`, `the last class`) và ghi số thứ tự bên cạnh từng môn. Câu hỏi \"môn nào học ngay sau …\" sẽ dễ hơn nhiều."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **When …?** có thể hỏi giờ, thứ hay ngày tháng. Một bài thường có nhiều ngày: ghi bên cạnh mỗi ngày việc gì xảy ra (ngày kiểm tra, ngày nghỉ, ngày sự kiện), vì phương án nhiễu hay lấy ngày của việc khác."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Nội quy: `You can …` = được phép; `You can't …`, `Don't …` = không được. Khi đề hỏi một tình huống (một bạn mang bánh mì), hãy xếp tình huống vào đúng điều trong nội quy rồi mới chọn."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Một người có thể có hai cách gọi: `Mr. Carter` ở trường, `Dad` ở nhà. Đọc kỹ câu giới thiệu người để nối hai tên lại với nhau."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u11_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Lời nhắn của Tracy: thứ Ba ở trường"
+      },
+      "title": "Tracy's Tuesday",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 60,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy's Tuesday",
+            "vi": "Thứ Ba của Tracy"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi! Here is my Tuesday at Westview High.",
+            "vi": "Chào bạn! Đây là lịch ngày thứ Ba của mình ở trường Westview High."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My first class is math, at eight in the morning.",
+            "vi": "Tiết đầu tiên của mình là toán, lúc tám giờ sáng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After math, I have English with Ms. Park in Room twelve.",
+            "vi": "Học toán xong, mình học tiếng Anh với cô Park ở phòng mười hai."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then we take a break for twenty minutes.",
+            "vi": "Sau đó tụi mình được nghỉ giải lao hai mươi phút."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After the break, I have science, my favorite subject.",
+            "vi": "Giải lao xong là môn khoa học, môn mình thích nhất."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "History is right after lunch, and the teacher is Mr. Carter, my dad!",
+            "vi": "Môn lịch sử học ngay sau bữa trưa, và thầy dạy là thầy Carter, chính là bố mình!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In class, I call him Mr. Carter, not Dad.",
+            "vi": "Trong lớp, mình gọi bố là thầy Carter, không gọi là bố."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Art is the last period, and it is difficult for me.",
+            "vi": "Mỹ thuật là tiết cuối, và môn này khó với mình."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I can solve math problems quickly, but I can't draw.",
+            "vi": "Mình giải toán nhanh, nhưng vẽ thì chịu."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We have a big math test on Friday, April 21.",
+            "vi": "Thứ Sáu, ngày 21 tháng 4, tụi mình có một bài kiểm tra toán lớn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Can you help me review after school on Thursday?",
+            "vi": "Chiều thứ Năm tan học, bạn giúp mình ôn bài được không?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can ask me questions from my notebook.",
+            "vi": "Bạn chỉ cần hỏi mình các câu hỏi trong vở của mình thôi."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And I can help you with your English on Saturday at Harriet's!",
+            "vi": "Đổi lại, thứ Bảy mình giúp bạn học tiếng Anh ở quán Harriet's nhé!"
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy",
+            "vi": "Tracy"
+          }
+        }
+      ],
+      "content_ja": "Tracy's Tuesday\n\nHi! Here is my Tuesday at Westview High.\n\nMy first class is math, at eight in the morning. After math, I have English with Ms. Park in Room twelve. Then we take a break for twenty minutes. After the break, I have science, my favorite subject.\n\nHistory is right after lunch, and the teacher is Mr. Carter, my dad! In class, I call him Mr. Carter, not Dad.\n\nArt is the last period, and it is difficult for me. I can solve math problems quickly, but I can't draw.\n\nWe have a big math test on Friday, April 21. Can you help me review after school on Thursday? You can ask me questions from my notebook.\n\nAnd I can help you with your English on Saturday at Harriet's!\n\nTracy",
+      "translation_vn": "(1) Thứ Ba của Tracy\n(2) Chào bạn! Đây là lịch ngày thứ Ba của mình ở trường Westview High.\n(3) Tiết đầu tiên của mình là toán, lúc tám giờ sáng.\n(4) Học toán xong, mình học tiếng Anh với cô Park ở phòng mười hai.\n(5) Sau đó tụi mình được nghỉ giải lao hai mươi phút.\n(6) Giải lao xong là môn khoa học, môn mình thích nhất.\n(7) Môn lịch sử học ngay sau bữa trưa, và thầy dạy là thầy Carter, chính là bố mình!\n(8) Trong lớp, mình gọi bố là thầy Carter, không gọi là bố.\n(9) Mỹ thuật là tiết cuối, và môn này khó với mình.\n(10) Mình giải toán nhanh, nhưng vẽ thì chịu.\n(11) Thứ Sáu, ngày 21 tháng 4, tụi mình có một bài kiểm tra toán lớn.\n(12) Chiều thứ Năm tan học, bạn giúp mình ôn bài được không?\n(13) Bạn chỉ cần hỏi mình các câu hỏi trong vở của mình thôi.\n(14) Đổi lại, thứ Bảy mình giúp bạn học tiếng Anh ở quán Harriet's nhé!\n(15) Tracy",
+      "word_count": 130,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.41",
+        "a1.42",
+        "a1.43",
+        "a1.44"
+      ]
+    },
+    {
+      "id": "passage_u11_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Nội quy và sự kiện của International Club"
+      },
+      "title": "International Club: Rules and Events",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "International Club: Rules and Events",
+            "vi": "International Club: Nội quy và sự kiện"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We meet every Wednesday after school, from 3:15 to 4:30.",
+            "vi": "Câu lạc bộ sinh hoạt vào mỗi thứ Tư sau giờ học, từ 3 giờ 15 đến 4 giờ 30."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our room is Room twelve, my English classroom.",
+            "vi": "Phòng sinh hoạt là phòng mười hai, lớp tiếng Anh của cô."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Club rules",
+            "vi": "Nội quy câu lạc bộ"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "1.",
+          "i18n": {
+            "en": "Please speak English in the club, and don't worry about grammar.",
+            "vi": "Trong câu lạc bộ, các em hãy nói tiếng Anh, và đừng lo về ngữ pháp."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "2.",
+          "i18n": {
+            "en": "You can look up words in a dictionary, but you can't use your phone.",
+            "vi": "Các em được tra từ trong từ điển, nhưng không được dùng điện thoại."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "3.",
+          "i18n": {
+            "en": "Come with a notebook and a pen.",
+            "vi": "Nhớ mang theo vở và bút mực."
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "4.",
+          "i18n": {
+            "en": "Water is OK, but please don't eat in the classroom.",
+            "vi": "Uống nước thì được, nhưng đừng ăn trong lớp."
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "5.",
+          "i18n": {
+            "en": "Please come on time: the door closes at 3:20.",
+            "vi": "Hãy đến đúng giờ: cửa lớp đóng lúc 3 giờ 20."
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Events",
+            "vi": "Sự kiện"
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is no club on Wednesday, April 12, a school holiday.",
+            "vi": "Thứ Tư, ngày 12 tháng 4, trường nghỉ lễ nên câu lạc bộ không sinh hoạt."
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our big event is International Day on Friday, April 28, in the school library.",
+            "vi": "Sự kiện lớn của chúng ta là Ngày Quốc tế, vào thứ Sáu, ngày 28 tháng 4, ở thư viện trường."
+          }
+        },
+        {
+          "n": 13,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Each student gives a short speech about his or her hometown.",
+            "vi": "Mỗi em sẽ có một bài nói ngắn về quê nhà của mình."
+          }
+        },
+        {
+          "n": 14,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We need students for the posters.",
+            "vi": "Cô cần vài em làm áp phích."
+          }
+        },
+        {
+          "n": 15,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Can you draw? Please speak to Tracy Carter, our club helper.",
+            "vi": "Em nào vẽ được thì gặp Tracy Carter, bạn phụ giúp câu lạc bộ, nhé."
+          }
+        },
+        {
+          "n": 16,
+          "para": 12,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ms. Lydia Park, English teacher",
+            "vi": "Cô Lydia Park, giáo viên tiếng Anh"
+          }
+        }
+      ],
+      "content_ja": "International Club: Rules and Events\n\nWe meet every Wednesday after school, from 3:15 to 4:30. Our room is Room twelve, my English classroom.\n\nClub rules\n\n1. Please speak English in the club, and don't worry about grammar.\n\n2. You can look up words in a dictionary, but you can't use your phone.\n\n3. Come with a notebook and a pen.\n\n4. Water is OK, but please don't eat in the classroom.\n\n5. Please come on time: the door closes at 3:20.\n\nEvents\n\nThere is no club on Wednesday, April 12, a school holiday.\n\nOur big event is International Day on Friday, April 28, in the school library. Each student gives a short speech about his or her hometown. We need students for the posters. Can you draw? Please speak to Tracy Carter, our club helper.\n\nMs. Lydia Park, English teacher",
+      "translation_vn": "(1) International Club: Nội quy và sự kiện\n(2) Câu lạc bộ sinh hoạt vào mỗi thứ Tư sau giờ học, từ 3 giờ 15 đến 4 giờ 30.\n(3) Phòng sinh hoạt là phòng mười hai, lớp tiếng Anh của cô.\n(4) Nội quy câu lạc bộ\n(5) Trong câu lạc bộ, các em hãy nói tiếng Anh, và đừng lo về ngữ pháp.\n(6) Các em được tra từ trong từ điển, nhưng không được dùng điện thoại.\n(7) Nhớ mang theo vở và bút mực.\n(8) Uống nước thì được, nhưng đừng ăn trong lớp.\n(9) Hãy đến đúng giờ: cửa lớp đóng lúc 3 giờ 20.\n(10) Sự kiện\n(11) Thứ Tư, ngày 12 tháng 4, trường nghỉ lễ nên câu lạc bộ không sinh hoạt.\n(12) Sự kiện lớn của chúng ta là Ngày Quốc tế, vào thứ Sáu, ngày 28 tháng 4, ở thư viện trường.\n(13) Mỗi em sẽ có một bài nói ngắn về quê nhà của mình.\n(14) Cô cần vài em làm áp phích.\n(15) Em nào vẽ được thì gặp Tracy Carter, bạn phụ giúp câu lạc bộ, nhé.\n(16) Cô Lydia Park, giáo viên tiếng Anh",
+      "word_count": 130,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.41",
+        "a1.42",
+        "a1.43",
+        "a1.44"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u11_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "What class does Tracy have right after the break?",
+        "vi": "Ngay sau giờ giải lao, Tracy học môn gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "English",
+            "vi": "tiếng Anh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "English",
+          "text_translation": "tiếng Anh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "science",
+            "vi": "khoa học"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "science",
+          "text_translation": "khoa học"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "history",
+            "vi": "lịch sử"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "history",
+          "text_translation": "lịch sử"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "math",
+            "vi": "toán"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "math",
+          "text_translation": "toán"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Then we take a break for twenty minutes.\" và ngay sau đó: \"After the break, I have science, my favorite subject.\" Toán là tiết đầu, tiếng Anh học trước giờ giải lao, còn lịch sử học sau bữa trưa."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi về thứ tự (right after / before) thì tìm đúng mốc trong bài (the break), rồi đọc câu ngay sau mốc đó. Các chữ After, Then cho biết việc nào đến tiếp theo."
+      },
+      "question_jp": "What class does Tracy have right after the break?",
+      "question_vn": "Ngay sau giờ giải lao, Tracy học môn gì?",
+      "explanation": "\"Then we take a break for twenty minutes.\" và ngay sau đó: \"After the break, I have science, my favorite subject.\" Toán là tiết đầu, tiếng Anh học trước giờ giải lao, còn lịch sử học sau bữa trưa.",
+      "tip": "Câu hỏi về thứ tự (right after / before) thì tìm đúng mốc trong bài (the break), rồi đọc câu ngay sau mốc đó. Các chữ After, Then cho biết việc nào đến tiếp theo."
+    },
+    {
+      "id": "q_u11_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "Who is Tracy's history teacher?",
+        "vi": "Ai dạy Tracy môn lịch sử?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ms. Park",
+            "vi": "cô Park"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ms. Park",
+          "text_translation": "cô Park"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "her mom",
+            "vi": "mẹ của Tracy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "her mom",
+          "text_translation": "mẹ của Tracy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "her dad",
+            "vi": "bố của Tracy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "her dad",
+          "text_translation": "bố của Tracy"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"History is right after lunch, and the teacher is Mr. Carter, my dad!\" Ở lớp Tracy gọi là Mr. Carter, nhưng đó chính là bố Tracy. Cô Park dạy Tracy tiếng Anh. Quán Harriet's chỉ là chỗ hẹn gặp vào thứ Bảy, bà Harriet không dạy ở trường. Bài không nhắc tới mẹ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Một người có thể được gọi bằng hai tên: Mr. Carter (ở trường) và Dad (ở nhà). Đề hay hỏi bằng tên này, còn đáp án dùng tên kia."
+      },
+      "question_jp": "Who is Tracy's history teacher?",
+      "question_vn": "Ai dạy Tracy môn lịch sử?",
+      "explanation": "\"History is right after lunch, and the teacher is Mr. Carter, my dad!\" Ở lớp Tracy gọi là Mr. Carter, nhưng đó chính là bố Tracy. Cô Park dạy Tracy tiếng Anh. Quán Harriet's chỉ là chỗ hẹn gặp vào thứ Bảy, bà Harriet không dạy ở trường. Bài không nhắc tới mẹ.",
+      "tip": "Một người có thể được gọi bằng hai tên: Mr. Carter (ở trường) và Dad (ở nhà). Đề hay hỏi bằng tên này, còn đáp án dùng tên kia."
+    },
+    {
+      "id": "q_u11_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "What can't Tracy do well?",
+        "vi": "Tracy không giỏi việc gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "draw pictures",
+            "vi": "vẽ tranh"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "draw pictures",
+          "text_translation": "vẽ tranh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "solve math problems",
+            "vi": "giải toán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "solve math problems",
+          "text_translation": "giải toán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "come to Harriet's on Saturday",
+            "vi": "tới quán Harriet's vào thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "come to Harriet's on Saturday",
+          "text_translation": "tới quán Harriet's vào thứ Bảy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "help you with English",
+            "vi": "giúp bạn học tiếng Anh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "help you with English",
+          "text_translation": "giúp bạn học tiếng Anh"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Art is the last period, and it is difficult for me.\" \"I can solve math problems quickly, but I can't draw.\" Giải toán là việc Tracy làm được, và làm nhanh. Tới quán Harriet's vào thứ Bảy và giúp bạn học tiếng Anh là hai việc Tracy hẹn sẽ làm (\"And I can help you with your English on Saturday at Harriet's!\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "can + động từ = làm được; can't + động từ = không làm được. Trong một câu có but, hai vế thường ngược nhau: vế trước can, vế sau can't."
+      },
+      "question_jp": "What can't Tracy do well?",
+      "question_vn": "Tracy không giỏi việc gì?",
+      "explanation": "\"Art is the last period, and it is difficult for me.\" \"I can solve math problems quickly, but I can't draw.\" Giải toán là việc Tracy làm được, và làm nhanh. Tới quán Harriet's vào thứ Bảy và giúp bạn học tiếng Anh là hai việc Tracy hẹn sẽ làm (\"And I can help you with your English on Saturday at Harriet's!\").",
+      "tip": "can + động từ = làm được; can't + động từ = không làm được. Trong một câu có but, hai vế thường ngược nhau: vế trước can, vế sau can't."
+    },
+    {
+      "id": "q_u11_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "When is Tracy's math test?",
+        "vi": "Bài kiểm tra toán của Tracy là khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on Thursday after school",
+            "vi": "chiều thứ Năm sau giờ học"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "on Thursday after school",
+          "text_translation": "chiều thứ Năm sau giờ học"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on Saturday at Harriet's",
+            "vi": "thứ Bảy ở quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on Saturday at Harriet's",
+          "text_translation": "thứ Bảy ở quán Harriet's"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on Friday, April 21",
+            "vi": "thứ Sáu, ngày 21 tháng 4"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "on Friday, April 21",
+          "text_translation": "thứ Sáu, ngày 21 tháng 4"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on Tuesday at eight",
+            "vi": "thứ Ba lúc tám giờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "on Tuesday at eight",
+          "text_translation": "thứ Ba lúc tám giờ"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"We have a big math test on Friday, April 21.\" Chiều thứ Năm là lúc Tracy nhờ bạn giúp ôn bài. Thứ Bảy ở quán Harriet's là buổi Tracy giúp bạn học tiếng Anh. Tám giờ sáng thứ Ba là tiết toán bình thường, không phải bài kiểm tra."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi When …? có thể hỏi giờ, thứ hoặc ngày tháng. Nhớ: on + thứ / ngày tháng (on Friday, on April 21), at + giờ (at eight), in + buổi (in the morning)."
+      },
+      "question_jp": "When is Tracy's math test?",
+      "question_vn": "Bài kiểm tra toán của Tracy là khi nào?",
+      "explanation": "\"We have a big math test on Friday, April 21.\" Chiều thứ Năm là lúc Tracy nhờ bạn giúp ôn bài. Thứ Bảy ở quán Harriet's là buổi Tracy giúp bạn học tiếng Anh. Tám giờ sáng thứ Ba là tiết toán bình thường, không phải bài kiểm tra.",
+      "tip": "Câu hỏi When …? có thể hỏi giờ, thứ hoặc ngày tháng. Nhớ: on + thứ / ngày tháng (on Friday, on April 21), at + giờ (at eight), in + buổi (in the morning)."
+    },
+    {
+      "id": "q_u11_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_01",
+      "i18n": {
+        "en": "What does Tracy want to do for you on Saturday?",
+        "vi": "Thứ Bảy Tracy muốn làm gì cho bạn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "ask you questions from her notebook",
+            "vi": "hỏi bạn các câu trong vở của Tracy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "ask you questions from her notebook",
+          "text_translation": "hỏi bạn các câu trong vở của Tracy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "help you with your English",
+            "vi": "giúp bạn học tiếng Anh"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "help you with your English",
+          "text_translation": "giúp bạn học tiếng Anh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "take a math test",
+            "vi": "làm bài kiểm tra toán"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "take a math test",
+          "text_translation": "làm bài kiểm tra toán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "draw a picture for you",
+            "vi": "vẽ cho bạn một bức tranh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "draw a picture for you",
+          "text_translation": "vẽ cho bạn một bức tranh"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"And I can help you with your English on Saturday at Harriet's!\" Việc hỏi câu trong vở là Tracy nhờ BẠN làm giúp Tracy, vào chiều thứ Năm. Bài kiểm tra toán là vào thứ Sáu. Còn vẽ thì Tracy tự nói \"I can't draw\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy want to do for you on Saturday?",
+      "question_vn": "Thứ Bảy Tracy muốn làm gì cho bạn?",
+      "explanation": "\"And I can help you with your English on Saturday at Harriet's!\" Việc hỏi câu trong vở là Tracy nhờ BẠN làm giúp Tracy, vào chiều thứ Năm. Bài kiểm tra toán là vào thứ Sáu. Còn vẽ thì Tracy tự nói \"I can't draw\"."
+    },
+    {
+      "id": "q_u11_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "When does the International Club meet?",
+        "vi": "International Club sinh hoạt khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "every Wednesday after school",
+            "vi": "mỗi thứ Tư sau giờ học"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "every Wednesday after school",
+          "text_translation": "mỗi thứ Tư sau giờ học"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "every Friday in the library",
+            "vi": "mỗi thứ Sáu ở thư viện"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "every Friday in the library",
+          "text_translation": "mỗi thứ Sáu ở thư viện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on Wednesday, April 12",
+            "vi": "thứ Tư, ngày 12 tháng 4"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on Wednesday, April 12",
+          "text_translation": "thứ Tư, ngày 12 tháng 4"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "every Tuesday in Room twelve",
+            "vi": "mỗi thứ Ba ở phòng mười hai"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "every Tuesday in Room twelve",
+          "text_translation": "mỗi thứ Ba ở phòng mười hai"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"We meet every Wednesday after school, from 3:15 to 4:30.\" Thứ Tư ngày 12 tháng 4 lại là ngày câu lạc bộ NGHỈ vì trường nghỉ lễ. Thư viện là nơi tổ chức Ngày Quốc tế, chỉ một lần vào một ngày thứ Sáu. Thứ Ba ở phòng mười hai là giờ tiếng Anh của Tracy ở Bài đọc 1."
+      },
+      "audio_data": null,
+      "question_jp": "When does the International Club meet?",
+      "question_vn": "International Club sinh hoạt khi nào?",
+      "explanation": "\"We meet every Wednesday after school, from 3:15 to 4:30.\" Thứ Tư ngày 12 tháng 4 lại là ngày câu lạc bộ NGHỈ vì trường nghỉ lễ. Thư viện là nơi tổ chức Ngày Quốc tế, chỉ một lần vào một ngày thứ Sáu. Thứ Ba ở phòng mười hai là giờ tiếng Anh của Tracy ở Bài đọc 1."
+    },
+    {
+      "id": "q_u11_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "In the club, students can ______.",
+        "vi": "Trong câu lạc bộ, học sinh được ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "use their phones",
+            "vi": "dùng điện thoại"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "use their phones",
+          "text_translation": "dùng điện thoại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "eat in the classroom",
+            "vi": "ăn trong lớp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "eat in the classroom",
+          "text_translation": "ăn trong lớp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "use a dictionary",
+            "vi": "dùng từ điển"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "use a dictionary",
+          "text_translation": "dùng từ điển"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "come in at 3:30",
+            "vi": "vào lớp lúc 3 giờ 30"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "come in at 3:30",
+          "text_translation": "vào lớp lúc 3 giờ 30"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"You can look up words in a dictionary, but you can't use your phone.\" Điện thoại thì không được dùng. Nội quy cũng ghi \"please don't eat in the classroom\". Cửa lớp đóng lúc 3 giờ 20 (\"the door closes at 3:20\"), nên 3 giờ 30 là đã muộn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trong nội quy: you can … = được phép; you can't … / don't … = không được. Đọc cả vế sau but, vì vế đó thường là điều cấm."
+      },
+      "question_jp": "In the club, students can ______.",
+      "question_vn": "Trong câu lạc bộ, học sinh được ______.",
+      "explanation": "\"You can look up words in a dictionary, but you can't use your phone.\" Điện thoại thì không được dùng. Nội quy cũng ghi \"please don't eat in the classroom\". Cửa lớp đóng lúc 3 giờ 20 (\"the door closes at 3:20\"), nên 3 giờ 30 là đã muộn.",
+      "tip": "Trong nội quy: you can … = được phép; you can't … / don't … = không được. Đọc cả vế sau but, vì vế đó thường là điều cấm."
+    },
+    {
+      "id": "q_u11_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "A student has a sandwich and some water. In the club, he can have ______.",
+        "vi": "Một học sinh mang theo một cái bánh mì kẹp và một ít nước. Trong câu lạc bộ, bạn ấy được dùng ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the sandwich and the water",
+            "vi": "cả bánh mì lẫn nước"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the sandwich and the water",
+          "text_translation": "cả bánh mì lẫn nước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "only the sandwich",
+            "vi": "chỉ bánh mì"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "only the sandwich",
+          "text_translation": "chỉ bánh mì"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "no food or water",
+            "vi": "không được ăn, cũng không được uống"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "no food or water",
+          "text_translation": "không được ăn, cũng không được uống"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "only the water",
+            "vi": "chỉ nước"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "only the water",
+          "text_translation": "chỉ nước"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Nội quy số 4: \"Water is OK, but please don't eat in the classroom.\" Nước thì được, còn bánh mì là đồ ăn nên không được ăn trong lớp. Vì vậy không phải cả hai, không phải chỉ bánh mì, và cũng không phải là cấm cả ăn lẫn uống."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi tình huống: bài không nhắc chữ sandwich. Hãy hỏi \"bánh mì kẹp thuộc nhóm nào?\" (đồ ăn = eat), rồi áp đúng quy định cho nhóm đó."
+      },
+      "question_jp": "A student has a sandwich and some water. In the club, he can have ______.",
+      "question_vn": "Một học sinh mang theo một cái bánh mì kẹp và một ít nước. Trong câu lạc bộ, bạn ấy được dùng ______.",
+      "explanation": "Nội quy số 4: \"Water is OK, but please don't eat in the classroom.\" Nước thì được, còn bánh mì là đồ ăn nên không được ăn trong lớp. Vì vậy không phải cả hai, không phải chỉ bánh mì, và cũng không phải là cấm cả ăn lẫn uống.",
+      "tip": "Câu hỏi tình huống: bài không nhắc chữ sandwich. Hãy hỏi \"bánh mì kẹp thuộc nhóm nào?\" (đồ ăn = eat), rồi áp đúng quy định cho nhóm đó."
+    },
+    {
+      "id": "q_u11_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "When is International Day?",
+        "vi": "Ngày Quốc tế là khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Wednesday, April 12",
+            "vi": "thứ Tư, ngày 12 tháng 4"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Wednesday, April 12",
+          "text_translation": "thứ Tư, ngày 12 tháng 4"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Friday, April 28",
+            "vi": "thứ Sáu, ngày 28 tháng 4"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Friday, April 28",
+          "text_translation": "thứ Sáu, ngày 28 tháng 4"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Friday, April 21",
+            "vi": "thứ Sáu, ngày 21 tháng 4"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Friday, April 21",
+          "text_translation": "thứ Sáu, ngày 21 tháng 4"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "every Wednesday",
+            "vi": "mỗi thứ Tư"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "every Wednesday",
+          "text_translation": "mỗi thứ Tư"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our big event is International Day on Friday, April 28, in the school library.\" Ngày 12 tháng 4 là ngày câu lạc bộ nghỉ. Thứ Sáu ngày 21 tháng 4 là ngày Tracy kiểm tra toán ở Bài đọc 1. \"Every Wednesday\" là lịch sinh hoạt thường ngày của câu lạc bộ."
+      },
+      "audio_data": null,
+      "question_jp": "When is International Day?",
+      "question_vn": "Ngày Quốc tế là khi nào?",
+      "explanation": "\"Our big event is International Day on Friday, April 28, in the school library.\" Ngày 12 tháng 4 là ngày câu lạc bộ nghỉ. Thứ Sáu ngày 21 tháng 4 là ngày Tracy kiểm tra toán ở Bài đọc 1. \"Every Wednesday\" là lịch sinh hoạt thường ngày của câu lạc bộ."
+    },
+    {
+      "id": "q_u11_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u11_02",
+      "i18n": {
+        "en": "A new student can draw very well. Ms. Park asks him to speak to ______.",
+        "vi": "Một bạn học sinh mới vẽ rất đẹp. Cô Park dặn bạn ấy gặp ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mr. Carter",
+            "vi": "thầy Carter"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Mr. Carter",
+          "text_translation": "thầy Carter"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor Carter",
+            "vi": "Trevor Carter"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor Carter",
+          "text_translation": "Trevor Carter"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the school library",
+            "vi": "thư viện trường"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the school library",
+          "text_translation": "thư viện trường"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy Carter",
+            "vi": "Tracy Carter"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Tracy Carter",
+          "text_translation": "Tracy Carter"
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"We need students for the posters.\" \"Can you draw? Please speak to Tracy Carter, our club helper.\" Bạn ấy vẽ được, nên bạn ấy gặp Tracy. Thầy Carter là thầy dạy lịch sử ở Bài đọc 1, không lo việc áp phích. Bài không nhắc tới Trevor. Thư viện chỉ là nơi tổ chức sự kiện, không phải người."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thú vị: ở Bài đọc 1 Tracy nói \"I can't draw\". Có lẽ vì vậy mà Tracy cần tìm bạn biết vẽ!"
+      },
+      "question_jp": "A new student can draw very well. Ms. Park asks him to speak to ______.",
+      "question_vn": "Một bạn học sinh mới vẽ rất đẹp. Cô Park dặn bạn ấy gặp ______.",
+      "explanation": "\"We need students for the posters.\" \"Can you draw? Please speak to Tracy Carter, our club helper.\" Bạn ấy vẽ được, nên bạn ấy gặp Tracy. Thầy Carter là thầy dạy lịch sử ở Bài đọc 1, không lo việc áp phích. Bài không nhắc tới Trevor. Thư viện chỉ là nơi tổ chức sự kiện, không phải người.",
+      "tip": "Thú vị: ở Bài đọc 1 Tracy nói \"I can't draw\". Có lẽ vì vậy mà Tracy cần tìm bạn biết vẽ!"
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u11_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Lời nhắn của Tracy: thứ Ba ở trường",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u11_01",
+      "question_ids": [
+        "q_u11_001",
+        "q_u11_002",
+        "q_u11_003",
+        "q_u11_004",
+        "q_u11_005"
+      ]
+    },
+    {
+      "set_id": "set_u11_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Nội quy và sự kiện của International Club",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u11_02",
+      "question_ids": [
+        "q_u11_006",
+        "q_u11_007",
+        "q_u11_008",
+        "q_u11_009",
+        "q_u11_010"
+      ]
+    }
+  ]
+}

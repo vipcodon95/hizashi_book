@@ -53,6 +53,8 @@ IRREG = {
     "lives": "live", "wives": "wife", "knives": "knife", "i'm": "i", "it's": "it", "don't": "do",
     "doesn't": "do", "can't": "can", "i've": "i", "you're": "you", "we're": "we", "they're": "they",
     "he's": "he", "she's": "she", "that's": "that", "let's": "let", "isn't": "be", "aren't": "be",
+    "first": "one", "second": "two", "third": "three", "fifth": "five", "eighth": "eight", "ninth": "nine",
+    "twelfth": "twelve", "twentieth": "twenty", "thirtieth": "thirty",
     "won't": "will", "what's": "what", "where's": "where", "who's": "who", "here's": "here",
     "there's": "there", "haven't": "have", "hasn't": "have", "you've": "you", "we've": "we",
     "they've": "they", "i'll": "i", "you'll": "you", "o'clock": "o'clock",
@@ -78,7 +80,7 @@ GATES = [
     (r"\bmust\b|\bmustn't\b", "135", "must"),
     (r"\bshould\b", "139", "should"),
     (r"\b(has|have|'ve|hasn't|haven't)\s+(not\s+)?(been|PP)\b", "62", "hiện tại hoàn thành"),
-    (r"\b(may|might)\b", "132", "may / might"),
+    (r"MAY", "132", "may / might"),
     (r"\bif\b", "156", "câu điều kiện if"),
     (r"\bused to\b", "140", "used to"),
 ]
@@ -116,7 +118,7 @@ def candidates(w: str):
     yield w
     if w in IRREG:
         yield IRREG[w]
-    for suf, rep in (("ves", "f"), ("ves", "fe"), ("ies", "y"), ("ied", "y"), ("ing", ""), ("ing", "e"), ("ed", ""), ("ed", "e"),
+    for suf, rep in (("th", ""), ("ves", "f"), ("ves", "fe"), ("ies", "y"), ("ied", "y"), ("ing", ""), ("ing", "e"), ("ed", ""), ("ed", "e"),
                      ("es", ""), ("s", ""), ("er", ""), ("est", ""), ("ly", ""), ("'s", "")):
         if w.endswith(suf) and len(w) > len(suf) + 1:
             base = w[: -len(suf)] + rep
@@ -232,7 +234,9 @@ def main() -> int:
                 if gid not in first_sheet or first_sheet[gid] <= idx:
                     continue
                 hit = False
-                if rx == "PAST":
+                if rx == "MAY":  # bỏ qua tháng May (viết hoa giữa câu / trước số)
+                    hit = re.search(r"\bmight\b|\bmay\b|^May\s+(I|we|you)\b", sent.strip()) is not None
+                elif rx == "PAST":
                     for w in re.findall(r"[a-z']+", low):
                         if w in extra:
                             continue

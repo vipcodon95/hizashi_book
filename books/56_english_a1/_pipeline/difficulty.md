@@ -12,3 +12,4 @@
 | u08 | 120 / 99 | 9.7 / 7.9 | hội thoại gọi món + thực đơn; 2 câu suy luận (lý do, cộng tiền) (agent viết, main kiểm chứng) |
 | u09 | 131 / 117 | 10.4 / 8.4 | hội thoại cửa hàng + quảng cáo giảm giá; câu TRUE, tính giá sau giảm (agent viết, main kiểm chứng) |
 | u10 | 127 / 127 | 8.6 / 7.1 | chỉ đường + bảng vé xe; 3 câu suy luận (bước tiếp theo, tính tiền cả nhà, chọn vé rẻ) (agent viết, main kiểm chứng) |
+| u11 | 130 / 130 | 9.8 / 9.8 | lời kể Tracy + nội quy câu lạc bộ; 3 câu suy luận (thứ tự tiết, áp dụng nội quy). Độ phủ 23/65 vì unit 65 từ (agent viết, main kiểm chứng) |
