@@ -1,0 +1,2069 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 1 — Personality",
+      "vi": "Tính cách"
+    },
+    "title": "Unit 1 — Personality",
+    "title_vn": "Tính cách",
+    "module_code": "58_u01",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u01",
+    "curriculum_sheets": [
+      "b1.001",
+      "b1.002",
+      "b1.003",
+      "b1.004"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Harriet Brooks",
+      "Mitchell Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "đầu tháng 9, năm 4 (lịch năm 4 theo mẫu năm 2025; bài 1: Tina 10 tuổi, tuần đầu ở trường cấp hai Westview, viết bài luận cho lớp về bà Harriet 71 tuổi; tiệc bất ngờ mừng 70 tuổi là tháng 8 năm ngoái; bài 2: bài khoa học phổ thông về hướng nội, hướng ngoại)"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "mệnh đề quan hệ who / which làm chủ ngữ, look up to / lose your temper (cụm động từ và động từ + giới từ), hiện tại tiếp diễn chỉ sự thay đổi (getting slower), quite / pretty / a bit, từ vựng tính cách; ý chính, chi tiết, từ trong ngữ cảnh, quy chiếu, NOT, thái độ và mục đích người viết, 4 câu suy luận (1 câu nối hai bài)",
+    "description_vn": "Bài 1: Tina (10 tuổi, vừa vào trường cấp hai Westview) viết bài luận \"A Person I Admire\" về bà Harriet: ngày đầu đi học bà đợi với cốc sô-cô-la nóng; bà dạy lớp hai gần 40 năm rồi mở quán; nói nhiều nhưng thật thà; tiệc bất ngờ 70 tuổi khó giữ bí mật; kèm bài sáng thứ Bảy rất kiên nhẫn; súp rau và quy tắc nêm muối; hơi cứng đầu với công nghệ, vẫn giữ hộp tiền gỗ. Bài 2: hướng nội và hướng ngoại là một dải liên tục (Carl Jung, 1921), nhút nhát khác hướng nội, một từ không mô tả được một con người, không có nhóm người nào đơn giản chỉ trầm hay sôi nổi. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 1 khoá B1 · phiếu `b1.001` – `b1.004` (tả tính cách, người truyền cảm hứng, điểm mạnh và điểm yếu, so sánh tính cách)."
+    },
+    "objective_i18n": {
+      "vi": "đọc bài luận Tina viết về bà Harriet, người em ngưỡng mộ, và bài khoa học phổ thông về hướng nội, hướng ngoại; hiểu mệnh đề quan hệ who / which làm chủ ngữ (the neighbor who lives across the street, a café which is now the heart of Maple Street), cụm động từ look up to và lose your temper, hiện tại tiếp diễn chỉ sự thay đổi (her hands are getting slower), trạng từ mức độ quite / pretty / a bit, và từ vựng tả tính cách; nắm ý chính, tìm chi tiết, đoán nghĩa từ trong ngữ cảnh, hiểu which / that chỉ gì, làm câu NOT, nhận ra thái độ và mục đích người viết, và suy ra điều bài không nói thẳng, kể cả khi nối hai bài."
+    },
+    "extra_words": [
+      {
+        "word": "introvert",
+        "i18n": {
+          "vi": "người hướng nội"
+        }
+      },
+      {
+        "word": "extrovert",
+        "i18n": {
+          "vi": "người hướng ngoại"
+        }
+      },
+      {
+        "word": "shyness",
+        "i18n": {
+          "vi": "sự nhút nhát"
+        }
+      },
+      {
+        "word": "spectrum",
+        "i18n": {
+          "vi": "dải, phổ liên tục (từ đầu này tới đầu kia)"
+        }
+      },
+      {
+        "word": "Carl Jung",
+        "i18n": {
+          "vi": "Carl Jung (1875–1961), bác sĩ tâm thần người Thuỵ Sĩ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "the person I look up to most",
+          "vi": "người em kính trọng nhất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "lose your temper",
+          "vi": "nổi nóng, mất bình tĩnh"
+        }
+      },
+      {
+        "i18n": {
+          "en": "just in case",
+          "vi": "phòng khi cần, để phòng hờ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be stubborn about…",
+          "vi": "cứng đầu, khăng khăng về chuyện…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get energy from…",
+          "vi": "được nạp năng lượng từ…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "see personality as a spectrum",
+          "vi": "xem tính cách là một dải liên tục"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**who / which** chỉ danh từ đứng ngay trước nó: `the neighbor who lives across the street` (who = người), `a café which is now the heart of Maple Street` (which = vật). Câu hỏi quy chiếu hay đặt phương án nhiễu là một danh từ khác trong cùng câu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Cụm động từ** (look up to = kính trọng) mang nghĩa mới, không đoán được từ từng chữ. **Động từ + giới từ** (get energy **from**, think **of**) vẫn giữ nghĩa gốc. Gặp cụm lạ, hãy đọc câu trước và chữ but / so để đoán nghĩa."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**be getting + so sánh hơn** (getting slower, getting easier) = ngày càng… Câu hỏi \"what is changing…?\" lấy đáp án từ cấu trúc này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**quite / pretty / a bit** làm nhẹ tính từ: `pretty talkative` = khá nói nhiều, `a bit stubborn` = hơi cứng đầu. Phương án nhiễu hay phóng đại (too talkative, very stubborn) để đánh lừa."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận và câu áp dụng: bài không nói thẳng. Ghép hai câu đứng cạnh nhau, hoặc đặt từng phương án cạnh định nghĩa trong bài, rồi loại phương án làm NGƯỢC hay mô tả một khái niệm khác (shy ≠ introvert)."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u01_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Bài luận của Tina: người em ngưỡng mộ"
+      },
+      "narrator": "Tina",
+      "title": "A Person I Admire",
+      "category": "essay",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Person I Admire",
+            "vi": "Người em ngưỡng mộ"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On my first day at Westview Middle School, I was quite nervous because I didn't know anyone.",
+            "vi": "Vào ngày đầu tiên ở trường cấp hai Westview, em khá hồi hộp vì chẳng quen ai."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I got home, Harriet Brooks was waiting outside with hot chocolate and said, \"Tell me everything!\"",
+            "vi": "Khi em về tới nhà, bà Harriet Brooks đang đợi sẵn ngoài cửa với cốc sô-cô-la nóng và nói: \"Kể bà nghe hết đi nào!\""
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She is the neighbor who lives across the street, and at seventy-one, she is more cheerful and hard-working than anyone I know.",
+            "vi": "Bà là người hàng xóm sống ở bên kia đường, và ở tuổi bảy mươi mốt, bà vui vẻ và chăm chỉ hơn bất kỳ ai em biết."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She taught second grade for almost forty years and then opened Harriet's, a café which is now the heart of Maple Street.",
+            "vi": "Bà dạy lớp hai gần bốn mươi năm, rồi mở Harriet's, một quán cà phê mà giờ đây là trái tim của phố Maple."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She is pretty talkative and knows everybody's news, but she is also honest, so people trust her with their problems.",
+            "vi": "Bà khá nói nhiều và biết hết chuyện của mọi người, nhưng bà cũng thật thà, nên ai cũng tin tưởng kể cho bà nghe chuyện khó khăn của mình."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When she turned seventy, her family planned a surprise party, and keeping it secret from her was hard!",
+            "vi": "Khi bà tròn bảy mươi tuổi, gia đình bà lên kế hoạch tổ chức một bữa tiệc bất ngờ, và giữ bí mật với bà thật là khó!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Saturday mornings, she helps kids with homework at the café, and her patience is remarkable.",
+            "vi": "Các sáng thứ Bảy, bà kèm bọn trẻ làm bài tập ở quán, và sự kiên nhẫn của bà thật đáng nể."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Once I got a math problem wrong five times, but she never lost her temper.",
+            "vi": "Có lần em làm sai một bài toán tới năm lần, nhưng bà không hề nổi nóng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She believes curious people ask the best questions, so she never gets tired of my \"Why?\"",
+            "vi": "Bà tin rằng người tò mò sẽ hỏi những câu hay nhất, nên bà không bao giờ thấy mệt với những câu \"Tại sao?\" của em."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My dad learned to make her vegetable soup, and he loves her salt rule: \"You can add more later, but you can never take it out.\"",
+            "vi": "Bố em đã học được cách nấu món súp rau của bà, và bố rất thích quy tắc nêm muối của bà: \"Thiếu thì thêm sau được, nhưng thừa thì không bao giờ bớt ra được.\""
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She has weaknesses, too: she is a bit stubborn about technology, so next to the café's tablet she still keeps her old wooden money box \"just in case.\"",
+            "vi": "Bà cũng có điểm yếu: bà hơi cứng đầu với công nghệ, nên cạnh chiếc máy tính bảng của quán, bà vẫn giữ cái hộp đựng tiền bằng gỗ cũ \"phòng khi cần\"."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Her hands are getting slower, but her laugh is getting louder.",
+            "vi": "Tay bà ngày càng chậm hơn, nhưng tiếng cười của bà thì ngày càng to hơn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Middle school is getting easier, too, because I remember her advice: be brave, be kind, and ask questions.",
+            "vi": "Trường cấp hai cũng đang dễ dần với em, vì em luôn nhớ lời khuyên của bà: hãy dũng cảm, hãy tử tế, và hãy đặt câu hỏi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I really look up to her, and I hope I resemble her a little when I am old.",
+            "vi": "Em thật sự kính trọng bà, và em mong khi về già mình sẽ giống bà một chút."
+          }
+        }
+      ],
+      "content_ja": "A Person I Admire\n\nOn my first day at Westview Middle School, I was quite nervous because I didn't know anyone. When I got home, Harriet Brooks was waiting outside with hot chocolate and said, \"Tell me everything!\"\n\nShe is the neighbor who lives across the street, and at seventy-one, she is more cheerful and hard-working than anyone I know. She taught second grade for almost forty years and then opened Harriet's, a café which is now the heart of Maple Street. She is pretty talkative and knows everybody's news, but she is also honest, so people trust her with their problems. When she turned seventy, her family planned a surprise party, and keeping it secret from her was hard!\n\nOn Saturday mornings, she helps kids with homework at the café, and her patience is remarkable. Once I got a math problem wrong five times, but she never lost her temper. She believes curious people ask the best questions, so she never gets tired of my \"Why?\" My dad learned to make her vegetable soup, and he loves her salt rule: \"You can add more later, but you can never take it out.\"\n\nShe has weaknesses, too: she is a bit stubborn about technology, so next to the café's tablet she still keeps her old wooden money box \"just in case.\"\n\nHer hands are getting slower, but her laugh is getting louder. Middle school is getting easier, too, because I remember her advice: be brave, be kind, and ask questions. I really look up to her, and I hope I resemble her a little when I am old.",
+      "translation_vn": "(1) Người em ngưỡng mộ\n(2) Vào ngày đầu tiên ở trường cấp hai Westview, em khá hồi hộp vì chẳng quen ai.\n(3) Khi em về tới nhà, bà Harriet Brooks đang đợi sẵn ngoài cửa với cốc sô-cô-la nóng và nói: \"Kể bà nghe hết đi nào!\"\n(4) Bà là người hàng xóm sống ở bên kia đường, và ở tuổi bảy mươi mốt, bà vui vẻ và chăm chỉ hơn bất kỳ ai em biết.\n(5) Bà dạy lớp hai gần bốn mươi năm, rồi mở Harriet's, một quán cà phê mà giờ đây là trái tim của phố Maple.\n(6) Bà khá nói nhiều và biết hết chuyện của mọi người, nhưng bà cũng thật thà, nên ai cũng tin tưởng kể cho bà nghe chuyện khó khăn của mình.\n(7) Khi bà tròn bảy mươi tuổi, gia đình bà lên kế hoạch tổ chức một bữa tiệc bất ngờ, và giữ bí mật với bà thật là khó!\n(8) Các sáng thứ Bảy, bà kèm bọn trẻ làm bài tập ở quán, và sự kiên nhẫn của bà thật đáng nể.\n(9) Có lần em làm sai một bài toán tới năm lần, nhưng bà không hề nổi nóng.\n(10) Bà tin rằng người tò mò sẽ hỏi những câu hay nhất, nên bà không bao giờ thấy mệt với những câu \"Tại sao?\" của em.\n(11) Bố em đã học được cách nấu món súp rau của bà, và bố rất thích quy tắc nêm muối của bà: \"Thiếu thì thêm sau được, nhưng thừa thì không bao giờ bớt ra được.\"\n(12) Bà cũng có điểm yếu: bà hơi cứng đầu với công nghệ, nên cạnh chiếc máy tính bảng của quán, bà vẫn giữ cái hộp đựng tiền bằng gỗ cũ \"phòng khi cần\".\n(13) Tay bà ngày càng chậm hơn, nhưng tiếng cười của bà thì ngày càng to hơn.\n(14) Trường cấp hai cũng đang dễ dần với em, vì em luôn nhớ lời khuyên của bà: hãy dũng cảm, hãy tử tế, và hãy đặt câu hỏi.\n(15) Em thật sự kính trọng bà, và em mong khi về già mình sẽ giống bà một chút.",
+      "word_count": 270,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004"
+      ]
+    },
+    {
+      "id": "passage_u01_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Hướng nội, hướng ngoại và tất cả những người ở giữa"
+      },
+      "narrator": "announcer",
+      "title": "Introverts, Extroverts, and Everyone in Between",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Introverts, Extroverts, and Everyone in Between",
+            "vi": "Người hướng nội, người hướng ngoại và tất cả những người ở giữa"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do you love big parties, or do you prefer a quiet evening with one friend?",
+            "vi": "Bạn mê những bữa tiệc lớn, hay thích một buổi tối yên tĩnh bên một người bạn?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Psychologists use two words for this difference: introvert and extrovert.",
+            "vi": "Các nhà tâm lý học dùng hai từ cho sự khác biệt này: hướng nội và hướng ngoại."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Carl Jung, a Swiss doctor who studied the human mind, made these words famous in a 1921 book.",
+            "vi": "Carl Jung, một bác sĩ người Thuỵ Sĩ nghiên cứu về tâm trí con người, đã làm cho hai từ này trở nên nổi tiếng trong một cuốn sách năm 1921."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Where does your energy come from?",
+            "vi": "Năng lượng của bạn đến từ đâu?"
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Extroverts get energy from other people and can feel bored when they are alone for too long.",
+            "vi": "Người hướng ngoại được nạp năng lượng từ người khác và có thể thấy chán khi phải ở một mình quá lâu."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Introverts can enjoy a party, too, but afterwards they usually need quiet time to rest.",
+            "vi": "Người hướng nội cũng có thể vui ở một bữa tiệc, nhưng sau đó họ thường cần thời gian yên tĩnh để nghỉ ngơi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many people think introverts are always shy, but shyness is a fear of what others think of you, and that is different.",
+            "vi": "Nhiều người nghĩ người hướng nội lúc nào cũng nhút nhát, nhưng nhút nhát là nỗi sợ người khác nghĩ gì về mình, và đó là chuyện khác."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An introvert can be confident in class but still prefer lunch with one friend.",
+            "vi": "Một người hướng nội có thể tự tin trong lớp nhưng vẫn thích ăn trưa với chỉ một người bạn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A line, not two boxes",
+            "vi": "Một đường thẳng, không phải hai cái hộp"
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today, most psychologists see personality as a spectrum: a long line with very quiet people at one end and very social people at the other.",
+            "vi": "Ngày nay, đa số nhà tâm lý học xem tính cách là một dải liên tục: một đường thẳng dài với những người rất trầm ở một đầu và những người rất thích giao du ở đầu kia."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of us are somewhere in the middle.",
+            "vi": "Phần lớn chúng ta ở đâu đó quãng giữa."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your place on the line can differ, too: someone talkative at home may be silent at a new school.",
+            "vi": "Vị trí của bạn trên đường thẳng đó cũng có thể khác đi: một người nói nhiều ở nhà có thể im lặng ở một trường mới."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One word is not enough",
+            "vi": "Một từ là không đủ"
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Online personality quizzes can be fun, but a single word can't characterize a whole person.",
+            "vi": "Các bài trắc nghiệm tính cách trên mạng có thể vui, nhưng một từ duy nhất không thể mô tả trọn vẹn một con người."
+          }
+        },
+        {
+          "n": 16,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A teacher who calls a child \"the quiet one\" may stop that child from trying new things.",
+            "vi": "Một thầy cô gọi một đứa trẻ là \"đứa ít nói\" có thể khiến đứa trẻ đó không dám thử những điều mới."
+          }
+        },
+        {
+          "n": 17,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your family, friends, and experiences all shape you, so no group of people is simply quiet or loud.",
+            "vi": "Gia đình, bạn bè và những trải nghiệm đều góp phần tạo nên bạn, nên không có nhóm người nào đơn giản chỉ là trầm hay sôi nổi."
+          }
+        },
+        {
+          "n": 18,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Similarly, neither type is better: the world needs people who listen and people who speak up.",
+            "vi": "Tương tự, không kiểu nào tốt hơn kiểu nào: thế giới cần cả những người biết lắng nghe lẫn những người dám lên tiếng."
+          }
+        },
+        {
+          "n": 19,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So you are never just an introvert: you are also curious, kind, funny, and more.",
+            "vi": "Vậy nên bạn không bao giờ chỉ là một người hướng nội: bạn còn là người tò mò, tử tế, hài hước, và nhiều hơn thế nữa."
+          }
+        }
+      ],
+      "content_ja": "Introverts, Extroverts, and Everyone in Between\n\nDo you love big parties, or do you prefer a quiet evening with one friend? Psychologists use two words for this difference: introvert and extrovert. Carl Jung, a Swiss doctor who studied the human mind, made these words famous in a 1921 book.\n\nWhere does your energy come from?\n\nExtroverts get energy from other people and can feel bored when they are alone for too long. Introverts can enjoy a party, too, but afterwards they usually need quiet time to rest. Many people think introverts are always shy, but shyness is a fear of what others think of you, and that is different. An introvert can be confident in class but still prefer lunch with one friend.\n\nA line, not two boxes\n\nToday, most psychologists see personality as a spectrum: a long line with very quiet people at one end and very social people at the other. Most of us are somewhere in the middle. Your place on the line can differ, too: someone talkative at home may be silent at a new school.\n\nOne word is not enough\n\nOnline personality quizzes can be fun, but a single word can't characterize a whole person. A teacher who calls a child \"the quiet one\" may stop that child from trying new things. Your family, friends, and experiences all shape you, so no group of people is simply quiet or loud. Similarly, neither type is better: the world needs people who listen and people who speak up. So you are never just an introvert: you are also curious, kind, funny, and more.",
+      "translation_vn": "(1) Người hướng nội, người hướng ngoại và tất cả những người ở giữa\n(2) Bạn mê những bữa tiệc lớn, hay thích một buổi tối yên tĩnh bên một người bạn?\n(3) Các nhà tâm lý học dùng hai từ cho sự khác biệt này: hướng nội và hướng ngoại.\n(4) Carl Jung, một bác sĩ người Thuỵ Sĩ nghiên cứu về tâm trí con người, đã làm cho hai từ này trở nên nổi tiếng trong một cuốn sách năm 1921.\n(5) Năng lượng của bạn đến từ đâu?\n(6) Người hướng ngoại được nạp năng lượng từ người khác và có thể thấy chán khi phải ở một mình quá lâu.\n(7) Người hướng nội cũng có thể vui ở một bữa tiệc, nhưng sau đó họ thường cần thời gian yên tĩnh để nghỉ ngơi.\n(8) Nhiều người nghĩ người hướng nội lúc nào cũng nhút nhát, nhưng nhút nhát là nỗi sợ người khác nghĩ gì về mình, và đó là chuyện khác.\n(9) Một người hướng nội có thể tự tin trong lớp nhưng vẫn thích ăn trưa với chỉ một người bạn.\n(10) Một đường thẳng, không phải hai cái hộp\n(11) Ngày nay, đa số nhà tâm lý học xem tính cách là một dải liên tục: một đường thẳng dài với những người rất trầm ở một đầu và những người rất thích giao du ở đầu kia.\n(12) Phần lớn chúng ta ở đâu đó quãng giữa.\n(13) Vị trí của bạn trên đường thẳng đó cũng có thể khác đi: một người nói nhiều ở nhà có thể im lặng ở một trường mới.\n(14) Một từ là không đủ\n(15) Các bài trắc nghiệm tính cách trên mạng có thể vui, nhưng một từ duy nhất không thể mô tả trọn vẹn một con người.\n(16) Một thầy cô gọi một đứa trẻ là \"đứa ít nói\" có thể khiến đứa trẻ đó không dám thử những điều mới.\n(17) Gia đình, bạn bè và những trải nghiệm đều góp phần tạo nên bạn, nên không có nhóm người nào đơn giản chỉ là trầm hay sôi nổi.\n(18) Tương tự, không kiểu nào tốt hơn kiểu nào: thế giới cần cả những người biết lắng nghe lẫn những người dám lên tiếng.\n(19) Vậy nên bạn không bao giờ chỉ là một người hướng nội: bạn còn là người tò mò, tử tế, hài hước, và nhiều hơn thế nữa.",
+      "word_count": 265,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u01_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "What is Tina's essay mainly about?",
+        "vi": "Bài luận của Tina chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "her first day at Westview Middle School",
+            "vi": "ngày đầu tiên của cô bé ở trường cấp hai Westview"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "her first day at Westview Middle School",
+          "text_translation": "ngày đầu tiên của cô bé ở trường cấp hai Westview"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why she admires her neighbor Harriet",
+            "vi": "vì sao cô bé ngưỡng mộ bà Harriet, người hàng xóm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "why she admires her neighbor Harriet",
+          "text_translation": "vì sao cô bé ngưỡng mộ bà Harriet, người hàng xóm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how Harriet opened her café",
+            "vi": "bà Harriet đã mở quán cà phê như thế nào"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how Harriet opened her café",
+          "text_translation": "bà Harriet đã mở quán cà phê như thế nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a surprise party for Harriet's birthday",
+            "vi": "bữa tiệc bất ngờ mừng sinh nhật bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a surprise party for Harriet's birthday",
+          "text_translation": "bữa tiệc bất ngờ mừng sinh nhật bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        4,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề là \"A Person I Admire\", Tina giới thiệu bà Harriet là \"the person I look up to most\" và kết bài bằng \"I really look up to her\". Cả bài tả tính cách, điểm mạnh, điểm yếu của bà. Ngày đầu đi học chỉ là câu mở bài. Chuyện mở quán (\"then opened Harriet's\") và bữa tiệc bất ngờ chỉ là hai chi tiết nhỏ trong bài."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi ý chính: đọc tiêu đề, câu mở và câu kết. Phương án chỉ nói về một chi tiết nhỏ (một ngày, một bữa tiệc) thường là phương án sai."
+      },
+      "question_jp": "What is Tina's essay mainly about?",
+      "question_vn": "Bài luận của Tina chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề là \"A Person I Admire\", Tina giới thiệu bà Harriet là \"the person I look up to most\" và kết bài bằng \"I really look up to her\". Cả bài tả tính cách, điểm mạnh, điểm yếu của bà. Ngày đầu đi học chỉ là câu mở bài. Chuyện mở quán (\"then opened Harriet's\") và bữa tiệc bất ngờ chỉ là hai chi tiết nhỏ trong bài.",
+      "tip": "Câu hỏi ý chính: đọc tiêu đề, câu mở và câu kết. Phương án chỉ nói về một chi tiết nhỏ (một ngày, một bữa tiệc) thường là phương án sai."
+    },
+    {
+      "id": "q_u01_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "How did Tina feel on her first day at Westview Middle School?",
+        "vi": "Tina cảm thấy thế nào vào ngày đầu tiên ở trường cấp hai Westview?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "nervous, because she didn't know anyone",
+            "vi": "hồi hộp, vì không quen ai"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "nervous, because she didn't know anyone",
+          "text_translation": "hồi hộp, vì không quen ai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "cheerful, because Harriet was waiting for her at school",
+            "vi": "vui vẻ, vì bà Harriet đợi cô bé ở trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "cheerful, because Harriet was waiting for her at school",
+          "text_translation": "vui vẻ, vì bà Harriet đợi cô bé ở trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "curious, because the school had many animals",
+            "vi": "tò mò, vì trường có nhiều con vật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "curious, because the school had many animals",
+          "text_translation": "tò mò, vì trường có nhiều con vật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "tired, because she got a math problem wrong five times",
+            "vi": "mệt, vì làm sai một bài toán tới năm lần"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "tired, because she got a math problem wrong five times",
+          "text_translation": "mệt, vì làm sai một bài toán tới năm lần"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "Tina viết: \"I was quite nervous because I didn't know anyone.\" Bà Harriet đợi Tina ở nhà, không phải ở trường (\"When I got home, Harriet Brooks was waiting outside\"). Bài không nói trường có con vật. Chuyện làm sai bài toán năm lần là một lần khác, ở quán Harriet's."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi cảm xúc: tìm tính từ chỉ cảm xúc (nervous) và chữ because đứng ngay sau nó để biết lý do."
+      },
+      "question_jp": "How did Tina feel on her first day at Westview Middle School?",
+      "question_vn": "Tina cảm thấy thế nào vào ngày đầu tiên ở trường cấp hai Westview?",
+      "explanation": "Tina viết: \"I was quite nervous because I didn't know anyone.\" Bà Harriet đợi Tina ở nhà, không phải ở trường (\"When I got home, Harriet Brooks was waiting outside\"). Bài không nói trường có con vật. Chuyện làm sai bài toán năm lần là một lần khác, ở quán Harriet's.",
+      "tip": "Câu hỏi cảm xúc: tìm tính từ chỉ cảm xúc (nervous) và chữ because đứng ngay sau nó để biết lý do."
+    },
+    {
+      "id": "q_u01_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "What did Harriet do for almost forty years?",
+        "vi": "Bà Harriet đã làm gì trong gần bốn mươi năm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She ran a café on Maple Street.",
+            "vi": "Bà mở quán cà phê ở phố Maple."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She ran a café on Maple Street.",
+          "text_translation": "Bà mở quán cà phê ở phố Maple."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She helped kids with homework on Saturday mornings.",
+            "vi": "Bà kèm trẻ con làm bài tập vào các sáng thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She helped kids with homework on Saturday mornings.",
+          "text_translation": "Bà kèm trẻ con làm bài tập vào các sáng thứ Bảy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She taught second grade.",
+            "vi": "Bà dạy lớp hai."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She taught second grade.",
+          "text_translation": "Bà dạy lớp hai."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She taught Tina's dad to cook.",
+            "vi": "Bà dạy bố của Tina nấu ăn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She taught Tina's dad to cook.",
+          "text_translation": "Bà dạy bố của Tina nấu ăn."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Tina viết: \"She taught second grade for almost forty years and then opened Harriet's\". Bà mở quán SAU khi thôi dạy (\"and then\"), nên quán không phải là việc bà làm suốt bốn mươi năm. Kèm bài sáng thứ Bảy là việc bà làm bây giờ ở quán. Bố của Tina học món súp của bà, nhưng bài không nói chuyện đó kéo dài bao lâu."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Chữ and then cho biết thứ tự: việc trước, rồi mới tới việc sau. Đừng gộp hai việc thành một."
+      },
+      "question_jp": "What did Harriet do for almost forty years?",
+      "question_vn": "Bà Harriet đã làm gì trong gần bốn mươi năm?",
+      "explanation": "Tina viết: \"She taught second grade for almost forty years and then opened Harriet's\". Bà mở quán SAU khi thôi dạy (\"and then\"), nên quán không phải là việc bà làm suốt bốn mươi năm. Kèm bài sáng thứ Bảy là việc bà làm bây giờ ở quán. Bố của Tina học món súp của bà, nhưng bài không nói chuyện đó kéo dài bao lâu.",
+      "tip": "Chữ and then cho biết thứ tự: việc trước, rồi mới tới việc sau. Đừng gộp hai việc thành một."
+    },
+    {
+      "id": "q_u01_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "In \"she never lost her temper\", what does \"lost her temper\" mean?",
+        "vi": "Trong câu \"she never lost her temper\", \"lost her temper\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "forgot the answer",
+            "vi": "quên mất đáp án"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "forgot the answer",
+          "text_translation": "quên mất đáp án"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "became tired",
+            "vi": "trở nên mệt mỏi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "became tired",
+          "text_translation": "trở nên mệt mỏi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "stopped helping",
+            "vi": "thôi không giúp nữa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "stopped helping",
+          "text_translation": "thôi không giúp nữa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "became angry",
+            "vi": "nổi giận"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "became angry",
+          "text_translation": "nổi giận"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu trước nói \"her patience is remarkable\", rồi Tina kể: \"Once I got a math problem wrong five times, but she never lost her temper.\" Chữ but cho thấy lẽ ra người ta dễ nổi nóng khi học trò sai tới năm lần, nhưng bà vẫn kiên nhẫn. Lose your temper = nổi giận. Bài không nói bà quên đáp án hay thôi giúp. \"tired\" xuất hiện ở câu khác (\"she never gets tired of my Why?\"), không phải nghĩa của cụm này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đoán nghĩa cụm từ: nhìn chữ but và câu đứng trước. Ở đây patience (kiên nhẫn) là điều ngược với lose your temper."
+      },
+      "question_jp": "In \"she never lost her temper\", what does \"lost her temper\" mean?",
+      "question_vn": "Trong câu \"she never lost her temper\", \"lost her temper\" nghĩa là gì?",
+      "explanation": "Câu trước nói \"her patience is remarkable\", rồi Tina kể: \"Once I got a math problem wrong five times, but she never lost her temper.\" Chữ but cho thấy lẽ ra người ta dễ nổi nóng khi học trò sai tới năm lần, nhưng bà vẫn kiên nhẫn. Lose your temper = nổi giận. Bài không nói bà quên đáp án hay thôi giúp. \"tired\" xuất hiện ở câu khác (\"she never gets tired of my Why?\"), không phải nghĩa của cụm này.",
+      "tip": "Đoán nghĩa cụm từ: nhìn chữ but và câu đứng trước. Ở đây patience (kiên nhẫn) là điều ngược với lose your temper."
+    },
+    {
+      "id": "q_u01_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "In \"a café which is now the heart of Maple Street\", what does \"which\" refer to?",
+        "vi": "Trong cụm \"a café which is now the heart of Maple Street\", \"which\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's",
+            "vi": "quán Harriet's"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Harriet's",
+          "text_translation": "quán Harriet's"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "second grade",
+            "vi": "lớp hai"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "second grade",
+          "text_translation": "lớp hai"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Maple Street",
+            "vi": "phố Maple"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Maple Street",
+          "text_translation": "phố Maple"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet's house",
+            "vi": "nhà của bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet's house",
+          "text_translation": "nhà của bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"She taught second grade for almost forty years and then opened Harriet's, a café which is now the heart of Maple Street.\" \"which\" đứng ngay sau \"a café\", tức là quán Harriet's. Mệnh đề which mô tả quán đó là \"trái tim\" của phố Maple, nên which không thể là chính phố Maple. Lớp hai là nơi bà từng dạy, còn nhà bà không được nhắc tới trong câu này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đại từ quan hệ who / which chỉ danh từ đứng NGAY TRƯỚC nó. who dùng cho người, which dùng cho vật."
+      },
+      "question_jp": "In \"a café which is now the heart of Maple Street\", what does \"which\" refer to?",
+      "question_vn": "Trong cụm \"a café which is now the heart of Maple Street\", \"which\" chỉ cái gì?",
+      "explanation": "Câu đầy đủ là \"She taught second grade for almost forty years and then opened Harriet's, a café which is now the heart of Maple Street.\" \"which\" đứng ngay sau \"a café\", tức là quán Harriet's. Mệnh đề which mô tả quán đó là \"trái tim\" của phố Maple, nên which không thể là chính phố Maple. Lớp hai là nơi bà từng dạy, còn nhà bà không được nhắc tới trong câu này.",
+      "tip": "Đại từ quan hệ who / which chỉ danh từ đứng NGAY TRƯỚC nó. who dùng cho người, which dùng cho vật."
+    },
+    {
+      "id": "q_u01_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Which of the following does Tina NOT say about Harriet?",
+        "vi": "Tina KHÔNG nói điều nào sau đây về bà Harriet?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is pretty talkative.",
+            "vi": "Bà khá nói nhiều."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is pretty talkative.",
+          "text_translation": "Bà khá nói nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is honest.",
+            "vi": "Bà thật thà."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is honest.",
+          "text_translation": "Bà thật thà."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is a bit stubborn about technology.",
+            "vi": "Bà hơi cứng đầu với công nghệ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is a bit stubborn about technology.",
+          "text_translation": "Bà hơi cứng đầu với công nghệ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is careless with money.",
+            "vi": "Bà cẩu thả với tiền bạc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She is careless with money.",
+          "text_translation": "Bà cẩu thả với tiền bạc."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Tina viết \"She is pretty talkative and knows everybody's news, but she is also honest\" và \"she is a bit stubborn about technology\". Ba phương án đầu đều có trong bài. Bài không nói bà cẩu thả với tiền. Ngược lại, bà còn giữ cả hộp đựng tiền bằng gỗ \"just in case\", tức là rất cẩn thận."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu NOT: tìm từng phương án trong bài và gạch đi. Phương án còn lại, hoặc phương án nói ngược với bài, là đáp án."
+      },
+      "question_jp": "Which of the following does Tina NOT say about Harriet?",
+      "question_vn": "Tina KHÔNG nói điều nào sau đây về bà Harriet?",
+      "explanation": "Tina viết \"She is pretty talkative and knows everybody's news, but she is also honest\" và \"she is a bit stubborn about technology\". Ba phương án đầu đều có trong bài. Bài không nói bà cẩu thả với tiền. Ngược lại, bà còn giữ cả hộp đựng tiền bằng gỗ \"just in case\", tức là rất cẩn thận.",
+      "tip": "Câu NOT: tìm từng phương án trong bài và gạch đi. Phương án còn lại, hoặc phương án nói ngược với bài, là đáp án."
+    },
+    {
+      "id": "q_u01_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Why does Harriet probably keep her old wooden money box?",
+        "vi": "Có lẽ vì sao bà Harriet vẫn giữ cái hộp đựng tiền bằng gỗ cũ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wants to show off her old things to customers.",
+            "vi": "Bà muốn khoe đồ cũ với khách."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wants to show off her old things to customers.",
+          "text_translation": "Bà muốn khoe đồ cũ với khách."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She doesn't fully trust the tablet and wants to be ready if it stops working.",
+            "vi": "Bà không hoàn toàn tin chiếc máy tính bảng và muốn sẵn sàng phòng khi nó ngừng chạy."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She doesn't fully trust the tablet and wants to be ready if it stops working.",
+          "text_translation": "Bà không hoàn toàn tin chiếc máy tính bảng và muốn sẵn sàng phòng khi nó ngừng chạy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The kids use it during homework time on Saturdays.",
+            "vi": "Bọn trẻ dùng nó trong giờ làm bài sáng thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The kids use it during homework time on Saturdays.",
+          "text_translation": "Bọn trẻ dùng nó trong giờ làm bài sáng thứ Bảy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina's dad gave it to her as a gift.",
+            "vi": "Bố của Tina tặng nó cho bà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina's dad gave it to her as a gift.",
+          "text_translation": "Bố của Tina tặng nó cho bà."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do, nhưng ta suy ra được: \"she is a bit stubborn about technology, so next to the café's tablet she still keeps her old wooden money box\". Bà hơi \"cứng đầu\" với công nghệ, và \"just in case\" nghĩa là phòng khi có chuyện, ở đây là khi máy tính bảng không dùng được. Bài không nói bà khoe đồ, không nhắc bọn trẻ dùng hộp, cũng không nói ai tặng hộp."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: chữ so nối nguyên nhân (stubborn about technology) với kết quả (vẫn giữ hộp gỗ). Cụm just in case gợi ý bà đang phòng một chuyện có thể xảy ra."
+      },
+      "question_jp": "Why does Harriet probably keep her old wooden money box?",
+      "question_vn": "Có lẽ vì sao bà Harriet vẫn giữ cái hộp đựng tiền bằng gỗ cũ?",
+      "explanation": "Bài không nói thẳng lý do, nhưng ta suy ra được: \"she is a bit stubborn about technology, so next to the café's tablet she still keeps her old wooden money box\". Bà hơi \"cứng đầu\" với công nghệ, và \"just in case\" nghĩa là phòng khi có chuyện, ở đây là khi máy tính bảng không dùng được. Bài không nói bà khoe đồ, không nhắc bọn trẻ dùng hộp, cũng không nói ai tặng hộp.",
+      "tip": "Câu suy luận: chữ so nối nguyên nhân (stubborn about technology) với kết quả (vẫn giữ hộp gỗ). Cụm just in case gợi ý bà đang phòng một chuyện có thể xảy ra."
+    },
+    {
+      "id": "q_u01_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Why was it probably hard to keep the party a secret from Harriet?",
+        "vi": "Có lẽ vì sao giữ bí mật bữa tiệc với bà Harriet lại khó?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina is not good at math.",
+            "vi": "Tina không giỏi toán."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina is not good at math.",
+          "text_translation": "Tina không giỏi toán."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The party was at Westview Middle School.",
+            "vi": "Bữa tiệc tổ chức ở trường cấp hai Westview."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The party was at Westview Middle School.",
+          "text_translation": "Bữa tiệc tổ chức ở trường cấp hai Westview."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet knows everybody's news, so secrets rarely stay hidden from her.",
+            "vi": "Bà Harriet biết hết chuyện của mọi người, nên khó có bí mật nào giấu được bà."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Harriet knows everybody's news, so secrets rarely stay hidden from her.",
+          "text_translation": "Bà Harriet biết hết chuyện của mọi người, nên khó có bí mật nào giấu được bà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet asked Tina about the party every day.",
+            "vi": "Ngày nào bà Harriet cũng hỏi Tina về bữa tiệc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet asked Tina about the party every day.",
+          "text_translation": "Ngày nào bà Harriet cũng hỏi Tina về bữa tiệc."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do. Nhưng ngay trước chuyện bữa tiệc, Tina viết bà \"knows everybody's news\", rồi kể \"keeping it secret from her was hard!\" Ghép hai câu lại: một người biết hết chuyện cả phố thì rất khó bị giấu điều gì. Chuyện bài toán là ở đoạn khác. Bài không nói tiệc tổ chức ở trường, và cũng không nói bà hỏi Tina về bữa tiệc (đó là tiệc BẤT NGỜ, bà không biết)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: tìm câu đứng gần chi tiết được hỏi. Hai câu cạnh nhau thường có liên hệ mà người viết không nói ra."
+      },
+      "question_jp": "Why was it probably hard to keep the party a secret from Harriet?",
+      "question_vn": "Có lẽ vì sao giữ bí mật bữa tiệc với bà Harriet lại khó?",
+      "explanation": "Bài không nói thẳng lý do. Nhưng ngay trước chuyện bữa tiệc, Tina viết bà \"knows everybody's news\", rồi kể \"keeping it secret from her was hard!\" Ghép hai câu lại: một người biết hết chuyện cả phố thì rất khó bị giấu điều gì. Chuyện bài toán là ở đoạn khác. Bài không nói tiệc tổ chức ở trường, và cũng không nói bà hỏi Tina về bữa tiệc (đó là tiệc BẤT NGỜ, bà không biết).",
+      "tip": "Câu suy luận: tìm câu đứng gần chi tiết được hỏi. Hai câu cạnh nhau thường có liên hệ mà người viết không nói ra."
+    },
+    {
+      "id": "q_u01_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "What does Tina say is changing about Harriet?",
+        "vi": "Tina nói điều gì ở bà Harriet đang thay đổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her hands are getting slower, and her laugh is getting louder.",
+            "vi": "Tay bà ngày càng chậm, còn tiếng cười của bà ngày càng to."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Her hands are getting slower, and her laugh is getting louder.",
+          "text_translation": "Tay bà ngày càng chậm, còn tiếng cười của bà ngày càng to."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is getting tired of Tina's questions.",
+            "vi": "Bà ngày càng mệt với những câu hỏi của Tina."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is getting tired of Tina's questions.",
+          "text_translation": "Bà ngày càng mệt với những câu hỏi của Tina."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is getting more stubborn about technology.",
+            "vi": "Bà ngày càng cứng đầu hơn với công nghệ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is getting more stubborn about technology.",
+          "text_translation": "Bà ngày càng cứng đầu hơn với công nghệ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her café is getting quieter.",
+            "vi": "Quán của bà ngày càng vắng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her café is getting quieter.",
+          "text_translation": "Quán của bà ngày càng vắng."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Tina viết: \"Her hands are getting slower, but her laugh is getting louder.\" Thì hiện tại tiếp diễn với get + so sánh hơn (getting slower, getting louder) diễn tả sự thay đổi dần. Bài nói ngược lại phương án B: \"she never gets tired of my Why?\". Bà \"a bit stubborn about technology\", nhưng bài không nói bà ngày càng cứng đầu hơn. Bài cũng không nói quán vắng đi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "be getting + so sánh hơn (getting slower, getting easier) = ngày càng… Khi câu hỏi hỏi điều gì đang thay đổi, hãy tìm cấu trúc này."
+      },
+      "question_jp": "What does Tina say is changing about Harriet?",
+      "question_vn": "Tina nói điều gì ở bà Harriet đang thay đổi?",
+      "explanation": "Tina viết: \"Her hands are getting slower, but her laugh is getting louder.\" Thì hiện tại tiếp diễn với get + so sánh hơn (getting slower, getting louder) diễn tả sự thay đổi dần. Bài nói ngược lại phương án B: \"she never gets tired of my Why?\". Bà \"a bit stubborn about technology\", nhưng bài không nói bà ngày càng cứng đầu hơn. Bài cũng không nói quán vắng đi.",
+      "tip": "be getting + so sánh hơn (getting slower, getting easier) = ngày càng… Khi câu hỏi hỏi điều gì đang thay đổi, hãy tìm cấu trúc này."
+    },
+    {
+      "id": "q_u01_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Which best describes Tina's feelings toward Harriet?",
+        "vi": "Câu nào mô tả đúng nhất tình cảm của Tina với bà Harriet?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is worried about Harriet's health.",
+            "vi": "Cô bé lo cho sức khoẻ của bà Harriet."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is worried about Harriet's health.",
+          "text_translation": "Cô bé lo cho sức khoẻ của bà Harriet."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks Harriet is too talkative.",
+            "vi": "Cô bé cho rằng bà Harriet nói nhiều quá."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She thinks Harriet is too talkative.",
+          "text_translation": "Cô bé cho rằng bà Harriet nói nhiều quá."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She admires her deeply but can also see her weaknesses.",
+            "vi": "Cô bé rất ngưỡng mộ bà nhưng cũng nhìn ra điểm yếu của bà."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She admires her deeply but can also see her weaknesses.",
+          "text_translation": "Cô bé rất ngưỡng mộ bà nhưng cũng nhìn ra điểm yếu của bà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She feels nervous when she is with her.",
+            "vi": "Cô bé thấy hồi hộp khi ở cạnh bà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She feels nervous when she is with her.",
+          "text_translation": "Cô bé thấy hồi hộp khi ở cạnh bà."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Tina kết bài: \"I really look up to her, and I hope I resemble her a little when I am old.\" Nhưng cô bé cũng viết thật: \"She has weaknesses, too\". Vậy Tina rất ngưỡng mộ bà mà vẫn nhìn ra điểm yếu. Tay bà chậm hơn, nhưng Tina nói ngay \"her laugh is getting louder\", nên đây không phải giọng lo lắng. Tina có nói bà \"pretty talkative\" nhưng không chê. Tina hồi hộp ở trường, không phải khi ở cạnh bà."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu thái độ người viết: đọc câu kết bài, nơi người viết thường nói rõ cảm xúc của mình. Một bài có cả điểm mạnh lẫn điểm yếu vẫn có thể là bài ca ngợi."
+      },
+      "question_jp": "Which best describes Tina's feelings toward Harriet?",
+      "question_vn": "Câu nào mô tả đúng nhất tình cảm của Tina với bà Harriet?",
+      "explanation": "Tina kết bài: \"I really look up to her, and I hope I resemble her a little when I am old.\" Nhưng cô bé cũng viết thật: \"She has weaknesses, too\". Vậy Tina rất ngưỡng mộ bà mà vẫn nhìn ra điểm yếu. Tay bà chậm hơn, nhưng Tina nói ngay \"her laugh is getting louder\", nên đây không phải giọng lo lắng. Tina có nói bà \"pretty talkative\" nhưng không chê. Tina hồi hộp ở trường, không phải khi ở cạnh bà.",
+      "tip": "Câu thái độ người viết: đọc câu kết bài, nơi người viết thường nói rõ cảm xúc của mình. Một bài có cả điểm mạnh lẫn điểm yếu vẫn có thể là bài ca ngợi."
+    },
+    {
+      "id": "q_u01_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "What is the passage mainly about?",
+        "vi": "Đoạn văn chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "why extroverts are happier than introverts",
+            "vi": "vì sao người hướng ngoại hạnh phúc hơn người hướng nội"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "why extroverts are happier than introverts",
+          "text_translation": "vì sao người hướng ngoại hạnh phúc hơn người hướng nội"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the life of Carl Jung",
+            "vi": "cuộc đời của Carl Jung"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the life of Carl Jung",
+          "text_translation": "cuộc đời của Carl Jung"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to stop being shy",
+            "vi": "làm sao để hết nhút nhát"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to stop being shy",
+          "text_translation": "làm sao để hết nhút nhát"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that personality is a range, and one word can't describe a person",
+            "vi": "tính cách là một dải liên tục, và một từ không thể mô tả một con người"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "that personality is a range, and one word can't describe a person",
+          "text_translation": "tính cách là một dải liên tục, và một từ không thể mô tả một con người"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Bài nói \"most psychologists see personality as a spectrum\" và \"a single word can't characterize a whole person\". Bài không so ai hạnh phúc hơn, còn nói rõ \"neither type is better\". Carl Jung chỉ được nhắc trong một câu. Bài giải thích nhút nhát khác hướng nội, nhưng không dạy cách hết nhút nhát."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu ý chính của bài kiến thức: đọc tiêu đề các mục (A line, not two boxes / One word is not enough). Chúng thường gói gọn ý chính."
+      },
+      "question_jp": "What is the passage mainly about?",
+      "question_vn": "Đoạn văn chủ yếu nói về điều gì?",
+      "explanation": "Bài nói \"most psychologists see personality as a spectrum\" và \"a single word can't characterize a whole person\". Bài không so ai hạnh phúc hơn, còn nói rõ \"neither type is better\". Carl Jung chỉ được nhắc trong một câu. Bài giải thích nhút nhát khác hướng nội, nhưng không dạy cách hết nhút nhát.",
+      "tip": "Câu ý chính của bài kiến thức: đọc tiêu đề các mục (A line, not two boxes / One word is not enough). Chúng thường gói gọn ý chính."
+    },
+    {
+      "id": "q_u01_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "What does the passage say that Carl Jung did?",
+        "vi": "Đoạn văn nói Carl Jung đã làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He wrote the first online personality quiz.",
+            "vi": "Ông viết bài trắc nghiệm tính cách trên mạng đầu tiên."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He wrote the first online personality quiz.",
+          "text_translation": "Ông viết bài trắc nghiệm tính cách trên mạng đầu tiên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He made the words \"introvert\" and \"extrovert\" famous in a 1921 book.",
+            "vi": "Ông làm cho hai từ \"introvert\" và \"extrovert\" trở nên nổi tiếng trong một cuốn sách năm 1921."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He made the words \"introvert\" and \"extrovert\" famous in a 1921 book.",
+          "text_translation": "Ông làm cho hai từ \"introvert\" và \"extrovert\" trở nên nổi tiếng trong một cuốn sách năm 1921."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He showed that introverts are always shy.",
+            "vi": "Ông chứng minh người hướng nội lúc nào cũng nhút nhát."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He showed that introverts are always shy.",
+          "text_translation": "Ông chứng minh người hướng nội lúc nào cũng nhút nhát."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He taught a child who was called \"the quiet one\".",
+            "vi": "Ông dạy một đứa trẻ bị gọi là \"đứa ít nói\"."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He taught a child who was called \"the quiet one\".",
+          "text_translation": "Ông dạy một đứa trẻ bị gọi là \"đứa ít nói\"."
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Carl Jung, a Swiss doctor who studied the human mind, made these words famous in a 1921 book.\" \"these words\" là \"introvert and extrovert\" ở câu trước. Bài trắc nghiệm trên mạng là chuyện ngày nay, không phải năm 1921. Bài nói ngược với phương án C: \"Many people think introverts are always shy\" là một hiểu lầm. Câu về \"the quiet one\" nói về thầy cô nói chung, không phải Jung."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tên người và năm là thông tin dễ dò. Tìm Carl Jung trong bài rồi đọc trọn câu đó; nhớ xem these words chỉ những từ nào ở câu trước."
+      },
+      "question_jp": "What does the passage say that Carl Jung did?",
+      "question_vn": "Đoạn văn nói Carl Jung đã làm gì?",
+      "explanation": "\"Carl Jung, a Swiss doctor who studied the human mind, made these words famous in a 1921 book.\" \"these words\" là \"introvert and extrovert\" ở câu trước. Bài trắc nghiệm trên mạng là chuyện ngày nay, không phải năm 1921. Bài nói ngược với phương án C: \"Many people think introverts are always shy\" là một hiểu lầm. Câu về \"the quiet one\" nói về thầy cô nói chung, không phải Jung.",
+      "tip": "Tên người và năm là thông tin dễ dò. Tìm Carl Jung trong bài rồi đọc trọn câu đó; nhớ xem these words chỉ những từ nào ở câu trước."
+    },
+    {
+      "id": "q_u01_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "What does the passage say about extroverts?",
+        "vi": "Đoạn văn nói gì về người hướng ngoại?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They get energy from other people.",
+            "vi": "Họ được nạp năng lượng từ người khác."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They get energy from other people.",
+          "text_translation": "Họ được nạp năng lượng từ người khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are better than introverts.",
+            "vi": "Họ giỏi hơn người hướng nội."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are better than introverts.",
+          "text_translation": "Họ giỏi hơn người hướng nội."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They are never quiet.",
+            "vi": "Họ không bao giờ im lặng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They are never quiet.",
+          "text_translation": "Họ không bao giờ im lặng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They need quiet time after a party.",
+            "vi": "Họ cần thời gian yên tĩnh sau bữa tiệc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They need quiet time after a party.",
+          "text_translation": "Họ cần thời gian yên tĩnh sau bữa tiệc."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Extroverts get energy from other people and can feel bored when they are alone for too long.\" Bài nói \"neither type is better\", nên B sai. Bài không nói họ không bao giờ im lặng; ngược lại, vị trí trên đường thẳng \"can differ, too\". Cần thời gian yên tĩnh sau tiệc là đặc điểm của người hướng nội (\"afterwards they usually need quiet time to rest\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài so sánh hai nhóm hay đánh tráo đặc điểm: phương án nhiễu lấy đặc điểm của nhóm kia. Đọc kỹ chủ ngữ của câu (Extroverts… / Introverts…)."
+      },
+      "question_jp": "What does the passage say about extroverts?",
+      "question_vn": "Đoạn văn nói gì về người hướng ngoại?",
+      "explanation": "\"Extroverts get energy from other people and can feel bored when they are alone for too long.\" Bài nói \"neither type is better\", nên B sai. Bài không nói họ không bao giờ im lặng; ngược lại, vị trí trên đường thẳng \"can differ, too\". Cần thời gian yên tĩnh sau tiệc là đặc điểm của người hướng nội (\"afterwards they usually need quiet time to rest\").",
+      "tip": "Bài so sánh hai nhóm hay đánh tráo đặc điểm: phương án nhiễu lấy đặc điểm của nhóm kia. Đọc kỹ chủ ngữ của câu (Extroverts… / Introverts…)."
+    },
+    {
+      "id": "q_u01_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "In \"a single word can't characterize a whole person\", what does \"characterize\" mean?",
+        "vi": "Trong câu \"a single word can't characterize a whole person\", \"characterize\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "change",
+            "vi": "thay đổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "change",
+          "text_translation": "thay đổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "compare",
+            "vi": "so sánh"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "compare",
+          "text_translation": "so sánh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "describe",
+            "vi": "mô tả"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "describe",
+          "text_translation": "mô tả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "test",
+            "vi": "kiểm tra"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "test",
+          "text_translation": "kiểm tra"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Online personality quizzes can be fun, but a single word can't characterize a whole person.\" Ý câu là một từ như \"introvert\" không thể nói hết một con người là thế nào, tức là không thể mô tả trọn vẹn. Characterize = mô tả đặc điểm. \"test\" là việc bài trắc nghiệm làm, \"compare\" và \"change\" không hợp với nghĩa \"một từ không đủ\" của mục này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thay từng phương án vào chỗ từ được hỏi rồi đọc lại cả câu. Tiêu đề mục (One word is not enough) cũng gợi ý nghĩa."
+      },
+      "question_jp": "In \"a single word can't characterize a whole person\", what does \"characterize\" mean?",
+      "question_vn": "Trong câu \"a single word can't characterize a whole person\", \"characterize\" nghĩa là gì?",
+      "explanation": "\"Online personality quizzes can be fun, but a single word can't characterize a whole person.\" Ý câu là một từ như \"introvert\" không thể nói hết một con người là thế nào, tức là không thể mô tả trọn vẹn. Characterize = mô tả đặc điểm. \"test\" là việc bài trắc nghiệm làm, \"compare\" và \"change\" không hợp với nghĩa \"một từ không đủ\" của mục này.",
+      "tip": "Thay từng phương án vào chỗ từ được hỏi rồi đọc lại cả câu. Tiêu đề mục (One word is not enough) cũng gợi ý nghĩa."
+    },
+    {
+      "id": "q_u01_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "In \"shyness is a fear of what others think of you, and that is different\", what does \"that\" refer to?",
+        "vi": "Trong câu \"shyness is a fear of what others think of you, and that is different\", \"that\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "being an introvert",
+            "vi": "việc là người hướng nội"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "being an introvert",
+          "text_translation": "việc là người hướng nội"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "shyness",
+            "vi": "sự nhút nhát"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "shyness",
+          "text_translation": "sự nhút nhát"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a party",
+            "vi": "một bữa tiệc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a party",
+          "text_translation": "một bữa tiệc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "quiet time",
+            "vi": "thời gian yên tĩnh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "quiet time",
+          "text_translation": "thời gian yên tĩnh"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"Many people think introverts are always shy, but shyness is a fear of what others think of you, and that is different.\" \"that\" nhắc lại \"shyness\": nhút nhát là một chuyện khác với hướng nội. Nếu \"that\" là hướng nội thì câu thành \"hướng nội khác hướng nội\", không hợp lý. Bữa tiệc và thời gian yên tĩnh nằm ở câu trước."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Với that / it ở vế sau, thử thay từng danh từ ở vế trước vào chỗ đó. Danh từ nào làm câu có nghĩa thì đó là đáp án."
+      },
+      "question_jp": "In \"shyness is a fear of what others think of you, and that is different\", what does \"that\" refer to?",
+      "question_vn": "Trong câu \"shyness is a fear of what others think of you, and that is different\", \"that\" chỉ cái gì?",
+      "explanation": "Câu đầy đủ là \"Many people think introverts are always shy, but shyness is a fear of what others think of you, and that is different.\" \"that\" nhắc lại \"shyness\": nhút nhát là một chuyện khác với hướng nội. Nếu \"that\" là hướng nội thì câu thành \"hướng nội khác hướng nội\", không hợp lý. Bữa tiệc và thời gian yên tĩnh nằm ở câu trước.",
+      "tip": "Với that / it ở vế sau, thử thay từng danh từ ở vế trước vào chỗ đó. Danh từ nào làm câu có nghĩa thì đó là đáp án."
+    },
+    {
+      "id": "q_u01_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "Which statement is NOT true, based on the passage?",
+        "vi": "Theo đoạn văn, câu nào KHÔNG đúng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Most people are somewhere in the middle.",
+            "vi": "Phần lớn mọi người ở đâu đó quãng giữa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Most people are somewhere in the middle.",
+          "text_translation": "Phần lớn mọi người ở đâu đó quãng giữa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Your place on the line is not always the same.",
+            "vi": "Vị trí của bạn trên đường thẳng không phải lúc nào cũng như nhau."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Your place on the line is not always the same.",
+          "text_translation": "Vị trí của bạn trên đường thẳng không phải lúc nào cũng như nhau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "An introvert can be confident in class.",
+            "vi": "Người hướng nội có thể tự tin trong lớp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "An introvert can be confident in class.",
+          "text_translation": "Người hướng nội có thể tự tin trong lớp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Introverts can't enjoy parties.",
+            "vi": "Người hướng nội không thể vui ở bữa tiệc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Introverts can't enjoy parties.",
+          "text_translation": "Người hướng nội không thể vui ở bữa tiệc."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        9,
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Bài viết: \"Introverts can enjoy a party, too, but afterwards they usually need quiet time to rest.\" Vậy D nói ngược với bài. Ba câu còn lại đều có trong bài: \"Most of us are somewhere in the middle\", \"Your place on the line can differ, too\", \"An introvert can be confident in class\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu NOT true: phương án sai thường là bản PHỦ ĐỊNH của một câu trong bài (can enjoy → can't enjoy). Để ý can / can't, always / never."
+      },
+      "question_jp": "Which statement is NOT true, based on the passage?",
+      "question_vn": "Theo đoạn văn, câu nào KHÔNG đúng?",
+      "explanation": "Bài viết: \"Introverts can enjoy a party, too, but afterwards they usually need quiet time to rest.\" Vậy D nói ngược với bài. Ba câu còn lại đều có trong bài: \"Most of us are somewhere in the middle\", \"Your place on the line can differ, too\", \"An introvert can be confident in class\".",
+      "tip": "Câu NOT true: phương án sai thường là bản PHỦ ĐỊNH của một câu trong bài (can enjoy → can't enjoy). Để ý can / can't, always / never."
+    },
+    {
+      "id": "q_u01_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "What may happen when a teacher calls a child \"the quiet one\"?",
+        "vi": "Điều gì có thể xảy ra khi thầy cô gọi một đứa trẻ là \"đứa ít nói\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The child may stop trying new things.",
+            "vi": "Đứa trẻ có thể thôi thử những điều mới."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The child may stop trying new things.",
+          "text_translation": "Đứa trẻ có thể thôi thử những điều mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The child may become an extrovert.",
+            "vi": "Đứa trẻ có thể trở thành người hướng ngoại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The child may become an extrovert.",
+          "text_translation": "Đứa trẻ có thể trở thành người hướng ngoại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The child may take an online personality quiz.",
+            "vi": "Đứa trẻ có thể làm bài trắc nghiệm tính cách trên mạng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The child may take an online personality quiz.",
+          "text_translation": "Đứa trẻ có thể làm bài trắc nghiệm tính cách trên mạng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The child may talk more at home.",
+            "vi": "Đứa trẻ có thể nói nhiều hơn ở nhà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The child may talk more at home.",
+          "text_translation": "Đứa trẻ có thể nói nhiều hơn ở nhà."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"A teacher who calls a child \"the quiet one\" may stop that child from trying new things.\" Stop someone from doing = khiến ai không làm việc gì. Bài không nói đứa trẻ thành người hướng ngoại hay làm trắc nghiệm. \"talkative at home\" là ví dụ ở mục trước, nói về việc vị trí của một người trên đường thẳng có thể khác đi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cấu trúc stop + người + from + V-ing = ngăn ai làm gì. Đáp án thường là phần đứng sau from."
+      },
+      "question_jp": "What may happen when a teacher calls a child \"the quiet one\"?",
+      "question_vn": "Điều gì có thể xảy ra khi thầy cô gọi một đứa trẻ là \"đứa ít nói\"?",
+      "explanation": "\"A teacher who calls a child \"the quiet one\" may stop that child from trying new things.\" Stop someone from doing = khiến ai không làm việc gì. Bài không nói đứa trẻ thành người hướng ngoại hay làm trắc nghiệm. \"talkative at home\" là ví dụ ở mục trước, nói về việc vị trí của một người trên đường thẳng có thể khác đi.",
+      "tip": "Cấu trúc stop + người + from + V-ing = ngăn ai làm gì. Đáp án thường là phần đứng sau from."
+    },
+    {
+      "id": "q_u01_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "Which person is most likely an introvert, as the passage describes one?",
+        "vi": "Người nào nhiều khả năng là người hướng nội nhất, theo cách đoạn văn mô tả?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "someone who feels bored after an hour alone",
+            "vi": "người thấy chán sau một tiếng ở một mình"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "someone who feels bored after an hour alone",
+          "text_translation": "người thấy chán sau một tiếng ở một mình"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "someone who is afraid of what classmates think of him",
+            "vi": "người sợ bạn cùng lớp nghĩ gì về mình"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "someone who is afraid of what classmates think of him",
+          "text_translation": "người sợ bạn cùng lớp nghĩ gì về mình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "someone who enjoys a friend's party but wants a quiet day alone afterwards",
+            "vi": "người vui vẻ ở bữa tiệc của bạn nhưng sau đó muốn có một ngày yên tĩnh một mình"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "someone who enjoys a friend's party but wants a quiet day alone afterwards",
+          "text_translation": "người vui vẻ ở bữa tiệc của bạn nhưng sau đó muốn có một ngày yên tĩnh một mình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "someone who takes an online personality quiz every week",
+            "vi": "người tuần nào cũng làm bài trắc nghiệm tính cách trên mạng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "someone who takes an online personality quiz every week",
+          "text_translation": "người tuần nào cũng làm bài trắc nghiệm tính cách trên mạng"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói về người cụ thể nào, nên ta đối chiếu với mô tả: \"Introverts can enjoy a party, too, but afterwards they usually need quiet time to rest.\" Phương án C khớp đúng như vậy. Chán khi ở một mình là đặc điểm của người hướng ngoại (\"can feel bored when they are alone for too long\"). Sợ người khác nghĩ gì là nhút nhát (\"shyness is a fear of what others think of you\"), mà bài nói nhút nhát khác hướng nội. Làm trắc nghiệm không cho biết ai hướng nội."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu áp dụng: đặt từng người cạnh định nghĩa trong bài. Cẩn thận với phương án mô tả một khái niệm gần giống (shy) mà bài đã nói là khác."
+      },
+      "question_jp": "Which person is most likely an introvert, as the passage describes one?",
+      "question_vn": "Người nào nhiều khả năng là người hướng nội nhất, theo cách đoạn văn mô tả?",
+      "explanation": "Bài không nói về người cụ thể nào, nên ta đối chiếu với mô tả: \"Introverts can enjoy a party, too, but afterwards they usually need quiet time to rest.\" Phương án C khớp đúng như vậy. Chán khi ở một mình là đặc điểm của người hướng ngoại (\"can feel bored when they are alone for too long\"). Sợ người khác nghĩ gì là nhút nhát (\"shyness is a fear of what others think of you\"), mà bài nói nhút nhát khác hướng nội. Làm trắc nghiệm không cho biết ai hướng nội.",
+      "tip": "Câu áp dụng: đặt từng người cạnh định nghĩa trong bài. Cẩn thận với phương án mô tả một khái niệm gần giống (shy) mà bài đã nói là khác."
+    },
+    {
+      "id": "q_u01_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "Why does the writer say \"no group of people is simply quiet or loud\"?",
+        "vi": "Vì sao tác giả viết \"no group of people is simply quiet or loud\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to say that families are more important than friends",
+            "vi": "để nói gia đình quan trọng hơn bạn bè"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to say that families are more important than friends",
+          "text_translation": "để nói gia đình quan trọng hơn bạn bè"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to warn readers not to describe a whole group of people with one personality word",
+            "vi": "để nhắc người đọc đừng dùng một từ chỉ tính cách để mô tả cả một nhóm người"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to warn readers not to describe a whole group of people with one personality word",
+          "text_translation": "để nhắc người đọc đừng dùng một từ chỉ tính cách để mô tả cả một nhóm người"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that introverts come from quiet families",
+            "vi": "để cho thấy người hướng nội xuất thân từ những gia đình trầm lặng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to show that introverts come from quiet families",
+          "text_translation": "để cho thấy người hướng nội xuất thân từ những gia đình trầm lặng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how online quizzes work",
+            "vi": "để giải thích các bài trắc nghiệm trên mạng hoạt động thế nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how online quizzes work",
+          "text_translation": "để giải thích các bài trắc nghiệm trên mạng hoạt động thế nào"
+        }
+      ],
+      "evidence_segments": [
+        15,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"Your family, friends, and experiences all shape you, so no group of people is simply quiet or loud.\" Câu này nằm trong mục \"One word is not enough\", ngay sau câu \"a single word can't characterize a whole person\". Mục đích là nhắc ta đừng gắn một nhãn \"trầm\" hay \"sôi nổi\" cho cả một nhóm người. Bài không so gia đình với bạn bè, không nói người hướng nội đến từ gia đình trầm lặng, và chỉ nhắc trắc nghiệm trên mạng là \"can be fun\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu mục đích (Why does the writer say…?): xem câu đó nằm trong mục nào và đứng cạnh câu nào. Mục đích của một câu thường phục vụ ý chính của mục đó."
+      },
+      "question_jp": "Why does the writer say \"no group of people is simply quiet or loud\"?",
+      "question_vn": "Vì sao tác giả viết \"no group of people is simply quiet or loud\"?",
+      "explanation": "\"Your family, friends, and experiences all shape you, so no group of people is simply quiet or loud.\" Câu này nằm trong mục \"One word is not enough\", ngay sau câu \"a single word can't characterize a whole person\". Mục đích là nhắc ta đừng gắn một nhãn \"trầm\" hay \"sôi nổi\" cho cả một nhóm người. Bài không so gia đình với bạn bè, không nói người hướng nội đến từ gia đình trầm lặng, và chỉ nhắc trắc nghiệm trên mạng là \"can be fun\".",
+      "tip": "Câu mục đích (Why does the writer say…?): xem câu đó nằm trong mục nào và đứng cạnh câu nào. Mục đích của một câu thường phục vụ ý chính của mục đó."
+    },
+    {
+      "id": "q_u01_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "Which idea from this passage does Tina's essay about Harriet show best?",
+        "vi": "Bài luận của Tina về bà Harriet minh hoạ rõ nhất ý nào trong đoạn văn này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Introverts usually need quiet time after a party.",
+            "vi": "Người hướng nội thường cần thời gian yên tĩnh sau bữa tiệc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Introverts usually need quiet time after a party.",
+          "text_translation": "Người hướng nội thường cần thời gian yên tĩnh sau bữa tiệc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Shyness is a fear of what others think of you.",
+            "vi": "Nhút nhát là nỗi sợ người khác nghĩ gì về mình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Shyness is a fear of what others think of you.",
+          "text_translation": "Nhút nhát là nỗi sợ người khác nghĩ gì về mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Extroverts feel bored when they are alone for too long.",
+            "vi": "Người hướng ngoại thấy chán khi ở một mình quá lâu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Extroverts feel bored when they are alone for too long.",
+          "text_translation": "Người hướng ngoại thấy chán khi ở một mình quá lâu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A single word can't characterize a whole person.",
+            "vi": "Một từ duy nhất không thể mô tả trọn vẹn một con người."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A single word can't characterize a whole person.",
+          "text_translation": "Một từ duy nhất không thể mô tả trọn vẹn một con người."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu này nối hai bài đọc. Bài 2 viết: \"a single word can't characterize a whole person.\" Ở bài 1, Tina không tả bà Harriet bằng một từ: bà \"pretty talkative\", \"honest\", có \"patience\", nhưng cũng \"a bit stubborn about technology\". Bài 1 không nói bà Harriet cần nghỉ sau tiệc, không nói bà nhút nhát, cũng không nói bà chán khi ở một mình."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: đọc lại ý chính của bài 2, rồi xem bài 1 có phải là một VÍ DỤ cho ý đó không. Phương án chỉ đúng với bài 2 nhưng không có trong bài 1 là phương án nhiễu."
+      },
+      "question_jp": "Which idea from this passage does Tina's essay about Harriet show best?",
+      "question_vn": "Bài luận của Tina về bà Harriet minh hoạ rõ nhất ý nào trong đoạn văn này?",
+      "explanation": "Câu này nối hai bài đọc. Bài 2 viết: \"a single word can't characterize a whole person.\" Ở bài 1, Tina không tả bà Harriet bằng một từ: bà \"pretty talkative\", \"honest\", có \"patience\", nhưng cũng \"a bit stubborn about technology\". Bài 1 không nói bà Harriet cần nghỉ sau tiệc, không nói bà nhút nhát, cũng không nói bà chán khi ở một mình.",
+      "tip": "Câu nối hai bài: đọc lại ý chính của bài 2, rồi xem bài 1 có phải là một VÍ DỤ cho ý đó không. Phương án chỉ đúng với bài 2 nhưng không có trong bài 1 là phương án nhiễu."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u01_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Bài luận của Tina: người em ngưỡng mộ",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u01_01",
+      "question_ids": [
+        "q_u01_001",
+        "q_u01_002",
+        "q_u01_003",
+        "q_u01_004",
+        "q_u01_005",
+        "q_u01_006",
+        "q_u01_007",
+        "q_u01_008",
+        "q_u01_009",
+        "q_u01_010"
+      ]
+    },
+    {
+      "set_id": "set_u01_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Hướng nội, hướng ngoại và tất cả những người ở giữa",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u01_02",
+      "question_ids": [
+        "q_u01_011",
+        "q_u01_012",
+        "q_u01_013",
+        "q_u01_014",
+        "q_u01_015",
+        "q_u01_016",
+        "q_u01_017",
+        "q_u01_018",
+        "q_u01_019",
+        "q_u01_020"
+      ]
+    }
+  ]
+}
