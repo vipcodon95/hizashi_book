@@ -1,0 +1,6481 @@
+{
+ "level": "A1",
+ "units": [
+  {
+   "unit": 1,
+   "title": {
+    "en": "Hello!",
+    "vi": "Chào hỏi"
+   },
+   "sheets": [
+    {
+     "id": "a1.01",
+     "theme": "greetings, saying goodbye",
+     "words": [
+      {
+       "word": "hello",
+       "vi": "xin chào",
+       "pos": "interj"
+      },
+      {
+       "word": "hi",
+       "vi": "chào",
+       "pos": "interj"
+      },
+      {
+       "word": "bye",
+       "vi": "tạm biệt",
+       "pos": "interj"
+      },
+      {
+       "word": "good morning",
+       "vi": "chào buổi sáng",
+       "pos": "phrase"
+      },
+      {
+       "word": "good afternoon",
+       "vi": "chào buổi chiều",
+       "pos": "phrase"
+      },
+      {
+       "word": "good night",
+       "vi": "chúc ngủ ngon",
+       "pos": "phrase"
+      },
+      {
+       "word": "fine",
+       "vi": "khỏe; ổn",
+       "pos": "adj"
+      },
+      {
+       "word": "OK",
+       "vi": "được; ổn",
+       "pos": "interj"
+      },
+      {
+       "word": "thanks",
+       "vi": "cảm ơn",
+       "pos": "interj"
+      },
+      {
+       "word": "thank",
+       "vi": "cảm ơn",
+       "pos": "verb"
+      },
+      {
+       "word": "nice",
+       "vi": "vui; tốt; dễ chịu",
+       "pos": "adj"
+      },
+      {
+       "word": "meet",
+       "vi": "gặp",
+       "pos": "verb"
+      },
+      {
+       "word": "see",
+       "vi": "nhìn thấy; gặp",
+       "pos": "verb"
+      },
+      {
+       "word": "yes",
+       "vi": "vâng; có",
+       "pos": "interj"
+      },
+      {
+       "word": "no",
+       "vi": "không",
+       "pos": "interj"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "say hello",
+      "thanks a lot",
+      "nice to meet you",
+      "see you later"
+     ],
+     "grammar": [
+      "1",
+      "2",
+      "58"
+     ],
+     "grammar_words": [
+      "I",
+      "you",
+      "am",
+      "are",
+      "is",
+      "be",
+      "'m",
+      "'re",
+      "not",
+      "and",
+      "my",
+      "your",
+      "the",
+      "in",
+      "do",
+      "does",
+      "this",
+      "that"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.02",
+     "theme": "introducing yourself, names",
+     "words": [
+      {
+       "word": "name",
+       "vi": "tên",
+       "pos": "noun"
+      },
+      {
+       "word": "last name",
+       "vi": "họ",
+       "pos": "noun"
+      },
+      {
+       "word": "mr.",
+       "vi": "ông (trước tên)",
+       "pos": "noun"
+      },
+      {
+       "word": "mrs.",
+       "vi": "bà (trước tên)",
+       "pos": "noun"
+      },
+      {
+       "word": "sir",
+       "vi": "thưa ông",
+       "pos": "noun"
+      },
+      {
+       "word": "boy",
+       "vi": "cậu bé; con trai",
+       "pos": "noun"
+      },
+      {
+       "word": "girl",
+       "vi": "cô bé; con gái",
+       "pos": "noun"
+      },
+      {
+       "word": "man",
+       "vi": "người đàn ông",
+       "pos": "noun"
+      },
+      {
+       "word": "woman",
+       "vi": "người phụ nữ",
+       "pos": "noun"
+      },
+      {
+       "word": "person",
+       "vi": "người",
+       "pos": "noun"
+      },
+      {
+       "word": "people",
+       "vi": "mọi người; người ta",
+       "pos": "noun"
+      },
+      {
+       "word": "student",
+       "vi": "học sinh; sinh viên",
+       "pos": "noun"
+      },
+      {
+       "word": "teacher",
+       "vi": "giáo viên",
+       "pos": "noun"
+      },
+      {
+       "word": "friend",
+       "vi": "bạn bè",
+       "pos": "noun"
+      },
+      {
+       "word": "introduce",
+       "vi": "giới thiệu",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "first name",
+      "introduce yourself",
+      "make friends",
+      "college student",
+      "English teacher",
+      "young people"
+     ],
+     "grammar": [
+      "3",
+      "4",
+      "5",
+      "10"
+     ],
+     "grammar_words": [
+      "he",
+      "she",
+      "it",
+      "we",
+      "they",
+      "from",
+      "to",
+      "of",
+      "with",
+      "for",
+      "me",
+      "him",
+      "us",
+      "them",
+      "have",
+      "has"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.03",
+     "theme": "countries, nationalities, languages",
+     "words": [
+      {
+       "word": "language",
+       "vi": "ngôn ngữ",
+       "pos": "noun"
+      },
+      {
+       "word": "nationality",
+       "vi": "quốc tịch",
+       "pos": "noun"
+      },
+      {
+       "word": "foreign",
+       "vi": "nước ngoài",
+       "pos": "adj"
+      },
+      {
+       "word": "foreigner",
+       "vi": "người nước ngoài",
+       "pos": "noun"
+      },
+      {
+       "word": "world",
+       "vi": "thế giới",
+       "pos": "noun"
+      },
+      {
+       "word": "city",
+       "vi": "thành phố",
+       "pos": "noun"
+      },
+      {
+       "word": "hometown",
+       "vi": "quê hương",
+       "pos": "noun"
+      },
+      {
+       "word": "flag",
+       "vi": "lá cờ",
+       "pos": "noun"
+      },
+      {
+       "word": "culture",
+       "vi": "văn hóa",
+       "pos": "noun"
+      },
+      {
+       "word": "live",
+       "vi": "sống",
+       "pos": "verb"
+      },
+      {
+       "word": "speak",
+       "vi": "nói (một thứ tiếng)",
+       "pos": "verb"
+      },
+      {
+       "word": "come",
+       "vi": "đến",
+       "pos": "verb"
+      },
+      {
+       "word": "place",
+       "vi": "nơi; chỗ",
+       "pos": "noun"
+      },
+      {
+       "word": "know",
+       "vi": "biết",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "come from"
+     ],
+     "collocations": [
+      "speak English",
+      "foreign language",
+      "around the world",
+      "big city",
+      "live in a city",
+      "a nice place"
+     ],
+     "grammar": [
+      "239",
+      "245"
+     ],
+     "grammar_words": [
+      "what",
+      "where",
+      "on",
+      "at",
+      "can",
+      "or",
+      "but",
+      "about",
+      "here",
+      "there"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.04",
+     "theme": "classroom language: Sorry? Can you repeat?",
+     "words": [
+      {
+       "word": "sorry",
+       "vi": "xin lỗi",
+       "pos": "interj"
+      },
+      {
+       "word": "pardon",
+       "vi": "xin nhắc lại",
+       "pos": "interj"
+      },
+      {
+       "word": "excuse",
+       "vi": "xin lỗi (làm phiền)",
+       "pos": "verb"
+      },
+      {
+       "word": "repeat",
+       "vi": "nhắc lại",
+       "pos": "verb"
+      },
+      {
+       "word": "please",
+       "vi": "làm ơn; vui lòng",
+       "pos": "interj"
+      },
+      {
+       "word": "again",
+       "vi": "lại; lần nữa",
+       "pos": "adv"
+      },
+      {
+       "word": "say",
+       "vi": "nói",
+       "pos": "verb"
+      },
+      {
+       "word": "mean",
+       "vi": "có nghĩa là",
+       "pos": "verb"
+      },
+      {
+       "word": "word",
+       "vi": "từ",
+       "pos": "noun"
+      },
+      {
+       "word": "spell",
+       "vi": "đánh vần",
+       "pos": "verb"
+      },
+      {
+       "word": "question",
+       "vi": "câu hỏi",
+       "pos": "noun"
+      },
+      {
+       "word": "answer",
+       "vi": "câu trả lời; trả lời",
+       "pos": "noun"
+      },
+      {
+       "word": "listen",
+       "vi": "nghe",
+       "pos": "verb"
+      },
+      {
+       "word": "help",
+       "vi": "giúp đỡ",
+       "pos": "verb"
+      },
+      {
+       "word": "example",
+       "vi": "ví dụ",
+       "pos": "noun"
+      },
+      {
+       "word": "very",
+       "vi": "rất",
+       "pos": "adv"
+      },
+      {
+       "word": "too",
+       "vi": "quá; cũng",
+       "pos": "adv"
+      },
+      {
+       "word": "school",
+       "vi": "trường học",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "listen to",
+      "speak up"
+     ],
+     "collocations": [
+      "ask a question",
+      "answer a question",
+      "listen carefully",
+      "repeat after me",
+      "for example",
+      "after school",
+      "a new word"
+     ],
+     "grammar": [
+      "s1",
+      "13"
+     ],
+     "grammar_words": [
+      "a",
+      "an",
+      "up",
+      "why",
+      "so",
+      "out",
+      "off",
+      "down",
+      "back",
+      "away"
+     ],
+     "has_reading": true,
+     "reading_title": "Hello!"
+    }
+   ]
+  },
+  {
+   "unit": 2,
+   "title": {
+    "en": "Numbers and me",
+    "vi": "Số và thông tin cá nhân"
+   },
+   "sheets": [
+    {
+     "id": "a1.05",
+     "theme": "numbers 1–20, How old are you?",
+     "words": [
+      {
+       "word": "one",
+       "vi": "một",
+       "pos": "number"
+      },
+      {
+       "word": "two",
+       "vi": "hai",
+       "pos": "number"
+      },
+      {
+       "word": "three",
+       "vi": "ba",
+       "pos": "number"
+      },
+      {
+       "word": "four",
+       "vi": "bốn",
+       "pos": "number"
+      },
+      {
+       "word": "five",
+       "vi": "năm",
+       "pos": "number"
+      },
+      {
+       "word": "six",
+       "vi": "sáu",
+       "pos": "number"
+      },
+      {
+       "word": "seven",
+       "vi": "bảy",
+       "pos": "number"
+      },
+      {
+       "word": "eight",
+       "vi": "tám",
+       "pos": "number"
+      },
+      {
+       "word": "nine",
+       "vi": "chín",
+       "pos": "number"
+      },
+      {
+       "word": "ten",
+       "vi": "mười",
+       "pos": "number"
+      },
+      {
+       "word": "eleven",
+       "vi": "mười một",
+       "pos": "number"
+      },
+      {
+       "word": "twelve",
+       "vi": "mười hai",
+       "pos": "number"
+      },
+      {
+       "word": "old",
+       "vi": "già; ... tuổi",
+       "pos": "adj"
+      },
+      {
+       "word": "young",
+       "vi": "trẻ",
+       "pos": "adj"
+      },
+      {
+       "word": "age",
+       "vi": "tuổi",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "ten years old",
+      "young man",
+      "at the age of ten"
+     ],
+     "grammar": [
+      "246",
+      "g2"
+     ],
+     "grammar_words": [
+      "how"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.06",
+     "theme": "phone numbers, spelling names",
+     "words": [
+      {
+       "word": "thirteen",
+       "vi": "mười ba",
+       "pos": "number"
+      },
+      {
+       "word": "fourteen",
+       "vi": "mười bốn",
+       "pos": "number"
+      },
+      {
+       "word": "fifteen",
+       "vi": "mười lăm",
+       "pos": "number"
+      },
+      {
+       "word": "sixteen",
+       "vi": "mười sáu",
+       "pos": "number"
+      },
+      {
+       "word": "seventeen",
+       "vi": "mười bảy",
+       "pos": "number"
+      },
+      {
+       "word": "eighteen",
+       "vi": "mười tám",
+       "pos": "number"
+      },
+      {
+       "word": "nineteen",
+       "vi": "mười chín",
+       "pos": "number"
+      },
+      {
+       "word": "twenty",
+       "vi": "hai mươi",
+       "pos": "number"
+      },
+      {
+       "word": "phone",
+       "vi": "điện thoại",
+       "pos": "noun"
+      },
+      {
+       "word": "mobile phone",
+       "vi": "điện thoại di động (Anh; Mỹ: cell phone)",
+       "pos": "noun"
+      },
+      {
+       "word": "mobile",
+       "vi": "di động (mobile phone — Anh; Mỹ: cell phone)",
+       "pos": "adj"
+      },
+      {
+       "word": "telephone",
+       "vi": "điện thoại",
+       "pos": "noun"
+      },
+      {
+       "word": "letter",
+       "vi": "chữ cái; lá thư",
+       "pos": "noun"
+      },
+      {
+       "word": "code",
+       "vi": "mã",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "answer the phone",
+      "telephone number",
+      "write a letter",
+      "mobile number"
+     ],
+     "grammar": [
+      "247",
+      "g4"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.07",
+     "theme": "numbers to 100, prices",
+     "words": [
+      {
+       "word": "thirty",
+       "vi": "ba mươi",
+       "pos": "number"
+      },
+      {
+       "word": "forty",
+       "vi": "bốn mươi",
+       "pos": "number"
+      },
+      {
+       "word": "fifty",
+       "vi": "năm mươi",
+       "pos": "number"
+      },
+      {
+       "word": "sixty",
+       "vi": "sáu mươi",
+       "pos": "number"
+      },
+      {
+       "word": "seventy",
+       "vi": "bảy mươi",
+       "pos": "number"
+      },
+      {
+       "word": "eighty",
+       "vi": "tám mươi",
+       "pos": "number"
+      },
+      {
+       "word": "ninety",
+       "vi": "chín mươi",
+       "pos": "number"
+      },
+      {
+       "word": "price",
+       "vi": "giá",
+       "pos": "noun"
+      },
+      {
+       "word": "dollar",
+       "vi": "đô la",
+       "pos": "noun"
+      },
+      {
+       "word": "expensive",
+       "vi": "đắt",
+       "pos": "adj"
+      },
+      {
+       "word": "add",
+       "vi": "cộng; thêm",
+       "pos": "verb"
+      },
+      {
+       "word": "sum",
+       "vi": "tổng",
+       "pos": "noun"
+      },
+      {
+       "word": "only",
+       "vi": "chỉ",
+       "pos": "adv"
+      },
+      {
+       "word": "number",
+       "vi": "số",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "a good price",
+      "too expensive",
+      "add up",
+      "a large number of"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.08",
+     "theme": "personal details: address, email",
+     "words": [
+      {
+       "word": "address",
+       "vi": "địa chỉ",
+       "pos": "noun"
+      },
+      {
+       "word": "email",
+       "vi": "thư điện tử",
+       "pos": "noun"
+      },
+      {
+       "word": "street",
+       "vi": "đường phố",
+       "pos": "noun"
+      },
+      {
+       "word": "form",
+       "vi": "mẫu đơn",
+       "pos": "noun"
+      },
+      {
+       "word": "personal",
+       "vi": "cá nhân",
+       "pos": "adj"
+      },
+      {
+       "word": "information",
+       "vi": "thông tin",
+       "pos": "noun"
+      },
+      {
+       "word": "mail",
+       "vi": "thư; bưu phẩm (Mỹ; Anh: post)",
+       "pos": "noun"
+      },
+      {
+       "word": "birth",
+       "vi": "sự ra đời; ngày sinh",
+       "pos": "noun"
+      },
+      {
+       "word": "fill",
+       "vi": "điền (vào)",
+       "pos": "verb"
+      },
+      {
+       "word": "internet",
+       "vi": "mạng internet",
+       "pos": "noun"
+      },
+      {
+       "word": "site",
+       "vi": "trang web",
+       "pos": "noun"
+      },
+      {
+       "word": "type",
+       "vi": "gõ (chữ); loại",
+       "pos": "verb"
+      },
+      {
+       "word": "check",
+       "vi": "kiểm tra · Mỹ: check = hóa đơn ở nhà hàng (Anh: bill)",
+       "pos": "verb"
+      },
+      {
+       "word": "post",
+       "vi": "gửi thư; bưu điện (Anh; Mỹ: mail)",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "fill in"
+     ],
+     "collocations": [
+      "fill in a form",
+      "email address",
+      "personal information",
+      "check your email",
+      "on the internet",
+      "post office"
+     ],
+     "grammar": [
+      "6"
+     ],
+     "grammar_words": [
+      "our",
+      "her",
+      "their",
+      "his",
+      "its"
+     ],
+     "has_reading": true,
+     "reading_title": "Personal information"
+    }
+   ]
+  },
+  {
+   "unit": 3,
+   "title": {
+    "en": "Family and friends",
+    "vi": "Gia đình, bạn bè"
+   },
+   "sheets": [
+    {
+     "id": "a1.09",
+     "theme": "talking about your family",
+     "words": [
+      {
+       "word": "family",
+       "vi": "gia đình",
+       "pos": "noun"
+      },
+      {
+       "word": "mother",
+       "vi": "mẹ",
+       "pos": "noun"
+      },
+      {
+       "word": "father",
+       "vi": "bố",
+       "pos": "noun"
+      },
+      {
+       "word": "brother",
+       "vi": "anh trai; em trai",
+       "pos": "noun"
+      },
+      {
+       "word": "sister",
+       "vi": "chị gái; em gái",
+       "pos": "noun"
+      },
+      {
+       "word": "parent",
+       "vi": "bố mẹ (cha hoặc mẹ)",
+       "pos": "noun"
+      },
+      {
+       "word": "son",
+       "vi": "con trai",
+       "pos": "noun"
+      },
+      {
+       "word": "daughter",
+       "vi": "con gái",
+       "pos": "noun"
+      },
+      {
+       "word": "husband",
+       "vi": "chồng",
+       "pos": "noun"
+      },
+      {
+       "word": "wife",
+       "vi": "vợ",
+       "pos": "noun"
+      },
+      {
+       "word": "child",
+       "vi": "đứa trẻ; con",
+       "pos": "noun"
+      },
+      {
+       "word": "baby",
+       "vi": "em bé",
+       "pos": "noun"
+      },
+      {
+       "word": "mom",
+       "vi": "mẹ (Mỹ; Anh: mum)",
+       "pos": "noun"
+      },
+      {
+       "word": "dad",
+       "vi": "bố",
+       "pos": "noun"
+      },
+      {
+       "word": "mum",
+       "vi": "mẹ (Anh; Mỹ: mom)",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "big family",
+      "only child",
+      "have a baby",
+      "older brother",
+      "little sister",
+      "husband and wife"
+     ],
+     "grammar": [
+      "s2"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.10",
+     "theme": "describing people you know",
+     "words": [
+      {
+       "word": "describe",
+       "vi": "miêu tả",
+       "pos": "verb"
+      },
+      {
+       "word": "kind",
+       "vi": "tốt bụng",
+       "pos": "adj"
+      },
+      {
+       "word": "funny",
+       "vi": "vui tính; buồn cười",
+       "pos": "adj"
+      },
+      {
+       "word": "clever",
+       "vi": "thông minh; khéo",
+       "pos": "adj"
+      },
+      {
+       "word": "smart",
+       "vi": "thông minh",
+       "pos": "adj"
+      },
+      {
+       "word": "shy",
+       "vi": "nhút nhát",
+       "pos": "adj"
+      },
+      {
+       "word": "strict",
+       "vi": "nghiêm khắc",
+       "pos": "adj"
+      },
+      {
+       "word": "good",
+       "vi": "tốt; giỏi",
+       "pos": "adj"
+      },
+      {
+       "word": "bad",
+       "vi": "xấu; tệ",
+       "pos": "adj"
+      },
+      {
+       "word": "classmate",
+       "vi": "bạn cùng lớp",
+       "pos": "noun"
+      },
+      {
+       "word": "neighbor",
+       "vi": "hàng xóm",
+       "pos": "noun"
+      },
+      {
+       "word": "boyfriend",
+       "vi": "bạn trai",
+       "pos": "noun"
+      },
+      {
+       "word": "girlfriend",
+       "vi": "bạn gái",
+       "pos": "noun"
+      },
+      {
+       "word": "guy",
+       "vi": "anh chàng",
+       "pos": "noun"
+      },
+      {
+       "word": "friendly",
+       "vi": "thân thiện",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "good friend",
+      "kind to people",
+      "bad news",
+      "describe a person",
+      "smart student",
+      "friendly to"
+     ],
+     "grammar": [
+      "8",
+      "9"
+     ],
+     "grammar_words": [
+      "these",
+      "those"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.11",
+     "theme": "asking about someone's family",
+     "words": [
+      {
+       "word": "grandmother",
+       "vi": "bà",
+       "pos": "noun"
+      },
+      {
+       "word": "grandfather",
+       "vi": "ông",
+       "pos": "noun"
+      },
+      {
+       "word": "grandparent",
+       "vi": "ông bà",
+       "pos": "noun"
+      },
+      {
+       "word": "grandma",
+       "vi": "bà",
+       "pos": "noun"
+      },
+      {
+       "word": "grandpa",
+       "vi": "ông",
+       "pos": "noun"
+      },
+      {
+       "word": "uncle",
+       "vi": "chú; bác; cậu",
+       "pos": "noun"
+      },
+      {
+       "word": "aunt",
+       "vi": "cô; dì; bác gái",
+       "pos": "noun"
+      },
+      {
+       "word": "cousin",
+       "vi": "anh chị em họ",
+       "pos": "noun"
+      },
+      {
+       "word": "kid",
+       "vi": "đứa trẻ",
+       "pos": "noun"
+      },
+      {
+       "word": "daddy",
+       "vi": "bố",
+       "pos": "noun"
+      },
+      {
+       "word": "mommy",
+       "vi": "mẹ",
+       "pos": "noun"
+      },
+      {
+       "word": "together",
+       "vi": "cùng nhau",
+       "pos": "adv"
+      },
+      {
+       "word": "alone",
+       "vi": "một mình",
+       "pos": "adv"
+      },
+      {
+       "word": "miss",
+       "vi": "nhớ; lỡ",
+       "pos": "verb"
+      },
+      {
+       "word": "twin",
+       "vi": "sinh đôi; anh/chị/em sinh đôi",
+       "pos": "noun"
+      },
+      {
+       "word": "relative",
+       "vi": "họ hàng",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "miss home",
+      "live alone",
+      "get together",
+      "twin brother",
+      "close relative"
+     ],
+     "grammar": [
+      "11",
+      "12"
+     ],
+     "grammar_words": [
+      "who",
+      "both"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.12",
+     "theme": "introducing a friend",
+     "words": [
+      {
+       "word": "best",
+       "vi": "tốt nhất; thân nhất",
+       "pos": "adj"
+      },
+      {
+       "word": "partner",
+       "vi": "bạn cùng cặp; đối tác",
+       "pos": "noun"
+      },
+      {
+       "word": "group",
+       "vi": "nhóm",
+       "pos": "noun"
+      },
+      {
+       "word": "bag",
+       "vi": "túi; cặp",
+       "pos": "noun"
+      },
+      {
+       "word": "bike",
+       "vi": "xe đạp",
+       "pos": "noun"
+      },
+      {
+       "word": "car",
+       "vi": "ô tô",
+       "pos": "noun"
+      },
+      {
+       "word": "camera",
+       "vi": "máy ảnh",
+       "pos": "noun"
+      },
+      {
+       "word": "key",
+       "vi": "chìa khóa",
+       "pos": "noun"
+      },
+      {
+       "word": "book",
+       "vi": "sách",
+       "pos": "noun"
+      },
+      {
+       "word": "new",
+       "vi": "mới",
+       "pos": "adj"
+      },
+      {
+       "word": "favorite",
+       "vi": "yêu thích",
+       "pos": "adj"
+      },
+      {
+       "word": "share",
+       "vi": "chia sẻ",
+       "pos": "verb"
+      },
+      {
+       "word": "club",
+       "vi": "câu lạc bộ",
+       "pos": "noun"
+      },
+      {
+       "word": "album",
+       "vi": "an-bum",
+       "pos": "noun"
+      },
+      {
+       "word": "greet",
+       "vi": "chào hỏi",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "best friend",
+      "new friend",
+      "share a room",
+      "join a club",
+      "drive a car",
+      "ride a bike",
+      "read a book",
+      "favorite color"
+     ],
+     "grammar": [
+      "s5",
+      "g1"
+     ],
+     "grammar_words": [
+      "each",
+      "each other"
+     ],
+     "has_reading": true,
+     "reading_title": "My family"
+    }
+   ]
+  },
+  {
+   "unit": 4,
+   "title": {
+    "en": "People and looks",
+    "vi": "Ngoại hình, cơ thể"
+   },
+   "sheets": [
+    {
+     "id": "a1.13",
+     "theme": "describing appearance",
+     "words": [
+      {
+       "word": "tall",
+       "vi": "cao",
+       "pos": "adj"
+      },
+      {
+       "word": "short",
+       "vi": "thấp; ngắn",
+       "pos": "adj"
+      },
+      {
+       "word": "big",
+       "vi": "to; lớn",
+       "pos": "adj"
+      },
+      {
+       "word": "small",
+       "vi": "nhỏ",
+       "pos": "adj"
+      },
+      {
+       "word": "fat",
+       "vi": "béo",
+       "pos": "adj"
+      },
+      {
+       "word": "thin",
+       "vi": "gầy",
+       "pos": "adj"
+      },
+      {
+       "word": "long",
+       "vi": "dài",
+       "pos": "adj"
+      },
+      {
+       "word": "hair",
+       "vi": "tóc",
+       "pos": "noun"
+      },
+      {
+       "word": "eye",
+       "vi": "mắt",
+       "pos": "noun"
+      },
+      {
+       "word": "face",
+       "vi": "khuôn mặt",
+       "pos": "noun"
+      },
+      {
+       "word": "beautiful",
+       "vi": "đẹp",
+       "pos": "adj"
+      },
+      {
+       "word": "handsome",
+       "vi": "đẹp trai",
+       "pos": "adj"
+      },
+      {
+       "word": "ugly",
+       "vi": "xấu xí",
+       "pos": "adj"
+      },
+      {
+       "word": "glasses",
+       "vi": "kính mắt",
+       "pos": "noun"
+      },
+      {
+       "word": "haircut",
+       "vi": "kiểu tóc; cắt tóc",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "long hair",
+      "tall and thin",
+      "wear glasses",
+      "blue eyes",
+      "get a haircut",
+      "beautiful woman"
+     ],
+     "grammar": [
+      "7"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.14",
+     "theme": "colours and clothes people wear",
+     "words": [
+      {
+       "word": "color",
+       "vi": "màu sắc",
+       "pos": "noun"
+      },
+      {
+       "word": "red",
+       "vi": "đỏ",
+       "pos": "adj"
+      },
+      {
+       "word": "blue",
+       "vi": "xanh dương",
+       "pos": "adj"
+      },
+      {
+       "word": "green",
+       "vi": "xanh lá",
+       "pos": "adj"
+      },
+      {
+       "word": "yellow",
+       "vi": "vàng",
+       "pos": "adj"
+      },
+      {
+       "word": "black",
+       "vi": "đen",
+       "pos": "adj"
+      },
+      {
+       "word": "white",
+       "vi": "trắng",
+       "pos": "adj"
+      },
+      {
+       "word": "brown",
+       "vi": "nâu",
+       "pos": "adj"
+      },
+      {
+       "word": "pink",
+       "vi": "hồng",
+       "pos": "adj"
+      },
+      {
+       "word": "purple",
+       "vi": "tím",
+       "pos": "adj"
+      },
+      {
+       "word": "gray",
+       "vi": "xám",
+       "pos": "adj"
+      },
+      {
+       "word": "gold",
+       "vi": "vàng kim; vàng (kim loại)",
+       "pos": "adj"
+      },
+      {
+       "word": "clothes",
+       "vi": "quần áo",
+       "pos": "noun"
+      },
+      {
+       "word": "light",
+       "vi": "nhạt (màu); sáng",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "light blue",
+      "new clothes",
+      "black and white",
+      "red light"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.15",
+     "theme": "asking what someone looks like",
+     "words": [
+      {
+       "word": "look",
+       "vi": "trông; nhìn",
+       "pos": "verb"
+      },
+      {
+       "word": "nose",
+       "vi": "mũi",
+       "pos": "noun"
+      },
+      {
+       "word": "mouth",
+       "vi": "miệng",
+       "pos": "noun"
+      },
+      {
+       "word": "ear",
+       "vi": "tai",
+       "pos": "noun"
+      },
+      {
+       "word": "head",
+       "vi": "đầu",
+       "pos": "noun"
+      },
+      {
+       "word": "body",
+       "vi": "cơ thể",
+       "pos": "noun"
+      },
+      {
+       "word": "hand",
+       "vi": "bàn tay",
+       "pos": "noun"
+      },
+      {
+       "word": "strong",
+       "vi": "khỏe; mạnh",
+       "pos": "adj"
+      },
+      {
+       "word": "different",
+       "vi": "khác",
+       "pos": "adj"
+      },
+      {
+       "word": "lazy",
+       "vi": "lười",
+       "pos": "adj"
+      },
+      {
+       "word": "rude",
+       "vi": "thô lỗ",
+       "pos": "adj"
+      },
+      {
+       "word": "real",
+       "vi": "thật",
+       "pos": "adj"
+      },
+      {
+       "word": "character",
+       "vi": "tính cách; nhân vật",
+       "pos": "noun"
+      },
+      {
+       "word": "lady",
+       "vi": "quý bà; cô",
+       "pos": "noun"
+      },
+      {
+       "word": "foot",
+       "vi": "bàn chân",
+       "pos": "noun"
+      },
+      {
+       "word": "finger",
+       "vi": "ngón tay",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "look at"
+     ],
+     "collocations": [
+      "look like",
+      "different from",
+      "strong man",
+      "real name",
+      "hold hands",
+      "on foot",
+      "rude to"
+     ],
+     "grammar": [
+      "240"
+     ],
+     "grammar_words": [
+      "which"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.16",
+     "theme": "compliments",
+     "words": [
+      {
+       "word": "really",
+       "vi": "thật sự",
+       "pos": "adv"
+      },
+      {
+       "word": "cute",
+       "vi": "dễ thương",
+       "pos": "adj"
+      },
+      {
+       "word": "cool",
+       "vi": "ngầu; mát",
+       "pos": "adj"
+      },
+      {
+       "word": "lovely",
+       "vi": "đáng yêu; tuyệt",
+       "pos": "adj"
+      },
+      {
+       "word": "great",
+       "vi": "tuyệt vời",
+       "pos": "adj"
+      },
+      {
+       "word": "excellent",
+       "vi": "xuất sắc",
+       "pos": "adj"
+      },
+      {
+       "word": "super",
+       "vi": "siêu; tuyệt",
+       "pos": "adj"
+      },
+      {
+       "word": "glad",
+       "vi": "vui; mừng",
+       "pos": "adj"
+      },
+      {
+       "word": "pleasure",
+       "vi": "niềm vui; hân hạnh",
+       "pos": "noun"
+      },
+      {
+       "word": "dear",
+       "vi": "thân mến",
+       "pos": "adj"
+      },
+      {
+       "word": "pretty",
+       "vi": "xinh; khá",
+       "pos": "adj"
+      },
+      {
+       "word": "dress",
+       "vi": "váy đầm",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "great job",
+      "glad to hear",
+      "my pleasure",
+      "excellent idea",
+      "pretty girl",
+      "really good"
+     ],
+     "grammar": [
+      "33",
+      "g27"
+     ],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "My best friend"
+    }
+   ]
+  },
+  {
+   "unit": 5,
+   "title": {
+    "en": "Feelings and health",
+    "vi": "Cảm xúc, sức khoẻ"
+   },
+   "sheets": [
+    {
+     "id": "a1.17",
+     "theme": "how are you feeling?",
+     "words": [
+      {
+       "word": "feel",
+       "vi": "cảm thấy",
+       "pos": "verb"
+      },
+      {
+       "word": "feeling",
+       "vi": "cảm giác; cảm xúc",
+       "pos": "noun"
+      },
+      {
+       "word": "happy",
+       "vi": "vui; hạnh phúc",
+       "pos": "adj"
+      },
+      {
+       "word": "sad",
+       "vi": "buồn",
+       "pos": "adj"
+      },
+      {
+       "word": "angry",
+       "vi": "tức giận",
+       "pos": "adj"
+      },
+      {
+       "word": "tired",
+       "vi": "mệt",
+       "pos": "adj"
+      },
+      {
+       "word": "worry",
+       "vi": "lo lắng",
+       "pos": "verb"
+      },
+      {
+       "word": "all right",
+       "vi": "ổn; được",
+       "pos": "adj"
+      },
+      {
+       "word": "heart",
+       "vi": "trái tim",
+       "pos": "noun"
+      },
+      {
+       "word": "kiss",
+       "vi": "hôn; nụ hôn",
+       "pos": "verb"
+      },
+      {
+       "word": "laugh",
+       "vi": "cười (thành tiếng)",
+       "pos": "verb"
+      },
+      {
+       "word": "cry",
+       "vi": "khóc",
+       "pos": "verb"
+      },
+      {
+       "word": "smile",
+       "vi": "mỉm cười; nụ cười",
+       "pos": "verb"
+      },
+      {
+       "word": "afraid",
+       "vi": "sợ",
+       "pos": "adj"
+      },
+      {
+       "word": "scared",
+       "vi": "sợ",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "feel better",
+      "worry about",
+      "afraid of",
+      "tired of",
+      "happy birthday",
+      "big smile",
+      "laugh at",
+      "angry with"
+     ],
+     "grammar": [
+      "g28"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.18",
+     "theme": "at the doctor's",
+     "words": [
+      {
+       "word": "doctor",
+       "vi": "bác sĩ",
+       "pos": "noun"
+      },
+      {
+       "word": "nurse",
+       "vi": "y tá",
+       "pos": "noun"
+      },
+      {
+       "word": "medicine",
+       "vi": "thuốc",
+       "pos": "noun"
+      },
+      {
+       "word": "sick",
+       "vi": "ốm",
+       "pos": "adj"
+      },
+      {
+       "word": "headache",
+       "vi": "đau đầu",
+       "pos": "noun"
+      },
+      {
+       "word": "fever",
+       "vi": "sốt",
+       "pos": "noun"
+      },
+      {
+       "word": "hurt",
+       "vi": "đau; làm đau",
+       "pos": "verb"
+      },
+      {
+       "word": "arm",
+       "vi": "cánh tay",
+       "pos": "noun"
+      },
+      {
+       "word": "leg",
+       "vi": "chân",
+       "pos": "noun"
+      },
+      {
+       "word": "neck",
+       "vi": "cổ",
+       "pos": "noun"
+      },
+      {
+       "word": "shoulder",
+       "vi": "vai",
+       "pos": "noun"
+      },
+      {
+       "word": "knee",
+       "vi": "đầu gối",
+       "pos": "noun"
+      },
+      {
+       "word": "tooth",
+       "vi": "răng",
+       "pos": "noun"
+      },
+      {
+       "word": "bone",
+       "vi": "xương",
+       "pos": "noun"
+      },
+      {
+       "word": "matter",
+       "vi": "vấn đề (What's the matter?)",
+       "pos": "noun"
+      },
+      {
+       "word": "pain",
+       "vi": "cơn đau; đau",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "take medicine",
+      "have a headache",
+      "high fever",
+      "see a doctor",
+      "back pain",
+      "What's the matter?"
+     ],
+     "grammar": [],
+     "grammar_words": [
+      "should",
+      "must",
+      "have to"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.19",
+     "theme": "a day off sick",
+     "words": [
+      {
+       "word": "health",
+       "vi": "sức khỏe",
+       "pos": "noun"
+      },
+      {
+       "word": "healthy",
+       "vi": "khỏe mạnh",
+       "pos": "adj"
+      },
+      {
+       "word": "exercise",
+       "vi": "tập thể dục",
+       "pos": "noun"
+      },
+      {
+       "word": "breathe",
+       "vi": "thở",
+       "pos": "verb"
+      },
+      {
+       "word": "awake",
+       "vi": "thức; tỉnh",
+       "pos": "adj"
+      },
+      {
+       "word": "smoke",
+       "vi": "hút thuốc; khói",
+       "pos": "verb"
+      },
+      {
+       "word": "smoking",
+       "vi": "việc hút thuốc",
+       "pos": "noun"
+      },
+      {
+       "word": "brain",
+       "vi": "não",
+       "pos": "noun"
+      },
+      {
+       "word": "blow",
+       "vi": "thổi; xì (mũi)",
+       "pos": "verb"
+      },
+      {
+       "word": "broken",
+       "vi": "bị gãy; bị hỏng",
+       "pos": "adj"
+      },
+      {
+       "word": "still",
+       "vi": "vẫn",
+       "pos": "adv"
+      },
+      {
+       "word": "stay",
+       "vi": "ở lại",
+       "pos": "verb"
+      },
+      {
+       "word": "water",
+       "vi": "nước",
+       "pos": "noun"
+      },
+      {
+       "word": "cough",
+       "vi": "ho; cơn ho",
+       "pos": "verb"
+      },
+      {
+       "word": "sore",
+       "vi": "đau (họng, mỏi)",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [
+      "stay in"
+     ],
+     "collocations": [
+      "stay in bed",
+      "drink water",
+      "do exercise",
+      "healthy food",
+      "stop smoking",
+      "good health"
+     ],
+     "grammar": [
+      "118"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.20",
+     "theme": "good news, bad news",
+     "words": [
+      {
+       "word": "news",
+       "vi": "tin tức",
+       "pos": "noun"
+      },
+      {
+       "word": "newspaper",
+       "vi": "báo",
+       "pos": "noun"
+      },
+      {
+       "word": "magazine",
+       "vi": "tạp chí",
+       "pos": "noun"
+      },
+      {
+       "word": "article",
+       "vi": "bài báo",
+       "pos": "noun"
+      },
+      {
+       "word": "fair",
+       "vi": "công bằng",
+       "pos": "adj"
+      },
+      {
+       "word": "vote",
+       "vi": "bỏ phiếu",
+       "pos": "verb"
+      },
+      {
+       "word": "win",
+       "vi": "thắng",
+       "pos": "verb"
+      },
+      {
+       "word": "surprise",
+       "vi": "sự bất ngờ",
+       "pos": "noun"
+      },
+      {
+       "word": "wonderful",
+       "vi": "tuyệt vời",
+       "pos": "adj"
+      },
+      {
+       "word": "reporter",
+       "vi": "phóng viên",
+       "pos": "noun"
+      },
+      {
+       "word": "judge",
+       "vi": "thẩm phán; giám khảo",
+       "pos": "noun"
+      },
+      {
+       "word": "war",
+       "vi": "chiến tranh",
+       "pos": "noun"
+      },
+      {
+       "word": "peace",
+       "vi": "hòa bình",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "good news",
+      "vote for",
+      "win a game",
+      "big surprise",
+      "read the newspaper",
+      "world peace"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "Dear Mrs. Helena,"
+    }
+   ]
+  },
+  {
+   "unit": 6,
+   "title": {
+    "en": "My home",
+    "vi": "Nhà của tôi"
+   },
+   "sheets": [
+    {
+     "id": "a1.21",
+     "theme": "describing your home",
+     "words": [
+      {
+       "word": "home",
+       "vi": "nhà; ở nhà",
+       "pos": "noun"
+      },
+      {
+       "word": "house",
+       "vi": "ngôi nhà",
+       "pos": "noun"
+      },
+      {
+       "word": "flat",
+       "vi": "căn hộ (Anh; Mỹ: apartment)",
+       "pos": "noun"
+      },
+      {
+       "word": "room",
+       "vi": "phòng",
+       "pos": "noun"
+      },
+      {
+       "word": "bedroom",
+       "vi": "phòng ngủ",
+       "pos": "noun"
+      },
+      {
+       "word": "bathroom",
+       "vi": "phòng tắm · Mỹ: bathroom = nhà vệ sinh",
+       "pos": "noun"
+      },
+      {
+       "word": "kitchen",
+       "vi": "nhà bếp",
+       "pos": "noun"
+      },
+      {
+       "word": "living room",
+       "vi": "phòng khách",
+       "pos": "noun"
+      },
+      {
+       "word": "dining room",
+       "vi": "phòng ăn",
+       "pos": "noun"
+      },
+      {
+       "word": "toilet",
+       "vi": "nhà vệ sinh (Anh; Mỹ: restroom, bathroom)",
+       "pos": "noun"
+      },
+      {
+       "word": "door",
+       "vi": "cửa ra vào",
+       "pos": "noun"
+      },
+      {
+       "word": "window",
+       "vi": "cửa sổ",
+       "pos": "noun"
+      },
+      {
+       "word": "own",
+       "vi": "riêng; của chính mình",
+       "pos": "adj"
+      },
+      {
+       "word": "floor",
+       "vi": "tầng; sàn nhà",
+       "pos": "noun"
+      },
+      {
+       "word": "large",
+       "vi": "rộng; lớn",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "at home",
+      "my own room",
+      "on the floor",
+      "open the door",
+      "close the window",
+      "kitchen table"
+     ],
+     "grammar": [
+      "146"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.22",
+     "theme": "rooms and furniture",
+     "words": [
+      {
+       "word": "bed",
+       "vi": "giường",
+       "pos": "noun"
+      },
+      {
+       "word": "table",
+       "vi": "cái bàn",
+       "pos": "noun"
+      },
+      {
+       "word": "chair",
+       "vi": "cái ghế",
+       "pos": "noun"
+      },
+      {
+       "word": "desk",
+       "vi": "bàn làm việc; bàn học",
+       "pos": "noun"
+      },
+      {
+       "word": "sofa",
+       "vi": "ghế sofa",
+       "pos": "noun"
+      },
+      {
+       "word": "couch",
+       "vi": "ghế dài; sofa",
+       "pos": "noun"
+      },
+      {
+       "word": "shelf",
+       "vi": "kệ; giá",
+       "pos": "noun"
+      },
+      {
+       "word": "radio",
+       "vi": "đài; radio",
+       "pos": "noun"
+      },
+      {
+       "word": "bath",
+       "vi": "bồn tắm",
+       "pos": "noun"
+      },
+      {
+       "word": "shower",
+       "vi": "vòi sen",
+       "pos": "noun"
+      },
+      {
+       "word": "wall",
+       "vi": "bức tường",
+       "pos": "noun"
+      },
+      {
+       "word": "picture",
+       "vi": "bức tranh; bức ảnh",
+       "pos": "noun"
+      },
+      {
+       "word": "poster",
+       "vi": "tranh áp phích",
+       "pos": "noun"
+      },
+      {
+       "word": "television",
+       "vi": "tivi",
+       "pos": "noun"
+      },
+      {
+       "word": "tv",
+       "vi": "tivi",
+       "pos": "noun"
+      },
+      {
+       "word": "saw",
+       "vi": "cái cưa",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "go to bed",
+      "take a shower",
+      "take a bath",
+      "turn on the TV",
+      "on television",
+      "take a picture",
+      "listen to the radio"
+     ],
+     "grammar": [
+      "15"
+     ],
+     "grammar_words": [
+      "some",
+      "any",
+      "another",
+      "other"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.23",
+     "theme": "where things are",
+     "words": [
+      {
+       "word": "corner",
+       "vi": "góc",
+       "pos": "noun"
+      },
+      {
+       "word": "middle",
+       "vi": "ở giữa",
+       "pos": "noun"
+      },
+      {
+       "word": "top",
+       "vi": "đỉnh; phía trên",
+       "pos": "noun"
+      },
+      {
+       "word": "bottom",
+       "vi": "đáy; phía dưới",
+       "pos": "noun"
+      },
+      {
+       "word": "side",
+       "vi": "bên; cạnh",
+       "pos": "noun"
+      },
+      {
+       "word": "front",
+       "vi": "phía trước",
+       "pos": "noun"
+      },
+      {
+       "word": "vase",
+       "vi": "lọ hoa",
+       "pos": "noun"
+      },
+      {
+       "word": "towel",
+       "vi": "khăn tắm",
+       "pos": "noun"
+      },
+      {
+       "word": "box",
+       "vi": "hộp",
+       "pos": "noun"
+      },
+      {
+       "word": "bucket",
+       "vi": "cái xô",
+       "pos": "noun"
+      },
+      {
+       "word": "put",
+       "vi": "đặt; để",
+       "pos": "verb"
+      },
+      {
+       "word": "find",
+       "vi": "tìm thấy",
+       "pos": "verb"
+      },
+      {
+       "word": "hide",
+       "vi": "giấu; trốn",
+       "pos": "verb"
+      },
+      {
+       "word": "case",
+       "vi": "hộp; vỏ",
+       "pos": "noun"
+      },
+      {
+       "word": "thing",
+       "vi": "đồ vật; thứ",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "in the corner",
+      "in the middle of",
+      "on top of",
+      "in front of",
+      "side by side",
+      "put away",
+      "find a way",
+      "the same thing"
+     ],
+     "grammar": [
+      "21"
+     ],
+     "grammar_words": [
+      "under",
+      "above",
+      "below",
+      "behind",
+      "beside",
+      "between",
+      "near",
+      "inside",
+      "outside",
+      "over",
+      "by"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.24",
+     "theme": "inviting someone in",
+     "words": [
+      {
+       "word": "welcome",
+       "vi": "chào mừng",
+       "pos": "interj"
+      },
+      {
+       "word": "sit",
+       "vi": "ngồi",
+       "pos": "verb"
+      },
+      {
+       "word": "stand",
+       "vi": "đứng",
+       "pos": "verb"
+      },
+      {
+       "word": "open",
+       "vi": "mở",
+       "pos": "verb"
+      },
+      {
+       "word": "close",
+       "vi": "đóng",
+       "pos": "verb"
+      },
+      {
+       "word": "guest",
+       "vi": "khách",
+       "pos": "noun"
+      },
+      {
+       "word": "seat",
+       "vi": "chỗ ngồi",
+       "pos": "noun"
+      },
+      {
+       "word": "wait",
+       "vi": "đợi",
+       "pos": "verb"
+      },
+      {
+       "word": "shoe",
+       "vi": "giày",
+       "pos": "noun"
+      },
+      {
+       "word": "bell",
+       "vi": "chuông",
+       "pos": "noun"
+      },
+      {
+       "word": "wash",
+       "vi": "rửa; giặt",
+       "pos": "verb"
+      },
+      {
+       "word": "dirty",
+       "vi": "bẩn",
+       "pos": "adj"
+      },
+      {
+       "word": "hall",
+       "vi": "sảnh; hành lang",
+       "pos": "noun"
+      },
+      {
+       "word": "pillow",
+       "vi": "cái gối",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "come in",
+      "stand up",
+      "wait for",
+      "come over"
+     ],
+     "collocations": [
+      "take a seat",
+      "wash your hands",
+      "welcome home",
+      "special guest",
+      "ring the bell",
+      "wait outside",
+      "take off your shoes",
+      "dirty clothes"
+     ],
+     "grammar": [
+      "14"
+     ],
+     "grammar_words": [
+      "yourself"
+     ],
+     "has_reading": true,
+     "reading_title": "My home"
+    }
+   ]
+  },
+  {
+   "unit": 7,
+   "title": {
+    "en": "Daily life",
+    "vi": "Một ngày của tôi"
+   },
+   "sheets": [
+    {
+     "id": "a1.25",
+     "theme": "telling the time",
+     "words": [
+      {
+       "word": "time",
+       "vi": "thời gian; giờ",
+       "pos": "noun"
+      },
+      {
+       "word": "o'clock",
+       "vi": "giờ (đúng)",
+       "pos": "adv"
+      },
+      {
+       "word": "a.m.",
+       "vi": "giờ sáng",
+       "pos": "adv"
+      },
+      {
+       "word": "p.m.",
+       "vi": "giờ chiều/tối",
+       "pos": "adv"
+      },
+      {
+       "word": "hour",
+       "vi": "giờ; tiếng đồng hồ",
+       "pos": "noun"
+      },
+      {
+       "word": "minute",
+       "vi": "phút",
+       "pos": "noun"
+      },
+      {
+       "word": "half",
+       "vi": "nửa; rưỡi",
+       "pos": "noun"
+      },
+      {
+       "word": "quarter",
+       "vi": "mười lăm phút; một phần tư",
+       "pos": "noun"
+      },
+      {
+       "word": "clock",
+       "vi": "đồng hồ (treo tường)",
+       "pos": "noun"
+      },
+      {
+       "word": "watch",
+       "vi": "đồng hồ đeo tay; xem",
+       "pos": "noun"
+      },
+      {
+       "word": "now",
+       "vi": "bây giờ",
+       "pos": "adv"
+      },
+      {
+       "word": "early",
+       "vi": "sớm",
+       "pos": "adj"
+      },
+      {
+       "word": "second",
+       "vi": "giây; thứ hai",
+       "pos": "noun"
+      },
+      {
+       "word": "moment",
+       "vi": "lát; khoảnh khắc",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "on time",
+      "half an hour",
+      "just a minute",
+      "a quarter past",
+      "watch a movie",
+      "early morning",
+      "at the moment",
+      "right now"
+     ],
+     "grammar": [
+      "59",
+      "g3"
+     ],
+     "grammar_words": [
+      "past"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.26",
+     "theme": "daily routine",
+     "words": [
+      {
+       "word": "morning",
+       "vi": "buổi sáng",
+       "pos": "noun"
+      },
+      {
+       "word": "afternoon",
+       "vi": "buổi chiều",
+       "pos": "noun"
+      },
+      {
+       "word": "evening",
+       "vi": "buổi tối",
+       "pos": "noun"
+      },
+      {
+       "word": "night",
+       "vi": "ban đêm",
+       "pos": "noun"
+      },
+      {
+       "word": "day",
+       "vi": "ngày",
+       "pos": "noun"
+      },
+      {
+       "word": "wake",
+       "vi": "thức dậy",
+       "pos": "verb"
+      },
+      {
+       "word": "get",
+       "vi": "lấy; có được; (get up: dậy)",
+       "pos": "verb"
+      },
+      {
+       "word": "go",
+       "vi": "đi",
+       "pos": "verb"
+      },
+      {
+       "word": "sleep",
+       "vi": "ngủ",
+       "pos": "verb"
+      },
+      {
+       "word": "brush",
+       "vi": "chải; đánh (răng)",
+       "pos": "verb"
+      },
+      {
+       "word": "start",
+       "vi": "bắt đầu",
+       "pos": "verb"
+      },
+      {
+       "word": "finish",
+       "vi": "kết thúc; xong",
+       "pos": "verb"
+      },
+      {
+       "word": "then",
+       "vi": "sau đó",
+       "pos": "adv"
+      },
+      {
+       "word": "leave",
+       "vi": "rời đi",
+       "pos": "verb"
+      },
+      {
+       "word": "everyday",
+       "vi": "hằng ngày",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [
+      "get up",
+      "wake up",
+      "stay up"
+     ],
+     "collocations": [
+      "get dressed",
+      "sleep well",
+      "brush your teeth",
+      "leave home",
+      "start work",
+      "go to school",
+      "at night",
+      "all day"
+     ],
+     "grammar": [
+      "196"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.27",
+     "theme": "days of the week, frequency",
+     "words": [
+      {
+       "word": "Monday",
+       "vi": "thứ Hai",
+       "pos": "noun"
+      },
+      {
+       "word": "Tuesday",
+       "vi": "thứ Ba",
+       "pos": "noun"
+      },
+      {
+       "word": "Wednesday",
+       "vi": "thứ Tư",
+       "pos": "noun"
+      },
+      {
+       "word": "Thursday",
+       "vi": "thứ Năm",
+       "pos": "noun"
+      },
+      {
+       "word": "Friday",
+       "vi": "thứ Sáu",
+       "pos": "noun"
+      },
+      {
+       "word": "Saturday",
+       "vi": "thứ Bảy",
+       "pos": "noun"
+      },
+      {
+       "word": "Sunday",
+       "vi": "Chủ nhật",
+       "pos": "noun"
+      },
+      {
+       "word": "week",
+       "vi": "tuần",
+       "pos": "noun"
+      },
+      {
+       "word": "weekend",
+       "vi": "cuối tuần",
+       "pos": "noun"
+      },
+      {
+       "word": "always",
+       "vi": "luôn luôn",
+       "pos": "adv"
+      },
+      {
+       "word": "usually",
+       "vi": "thường thường",
+       "pos": "adv"
+      },
+      {
+       "word": "often",
+       "vi": "thường",
+       "pos": "adv"
+      },
+      {
+       "word": "never",
+       "vi": "không bao giờ",
+       "pos": "adv"
+      },
+      {
+       "word": "once",
+       "vi": "một lần",
+       "pos": "adv"
+      },
+      {
+       "word": "today",
+       "vi": "hôm nay",
+       "pos": "adv"
+      }
+     ],
+     "phrasal": [
+      "sleep in"
+     ],
+     "collocations": [
+      "on the weekend",
+      "last week",
+      "once a week",
+      "on Monday"
+     ],
+     "grammar": [
+      "32",
+      "35"
+     ],
+     "grammar_words": [
+      "every",
+      "sometimes"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.28",
+     "theme": "what someone else does every day",
+     "words": [
+      {
+       "word": "work",
+       "vi": "làm việc",
+       "pos": "verb"
+      },
+      {
+       "word": "study",
+       "vi": "học",
+       "pos": "verb"
+      },
+      {
+       "word": "cook",
+       "vi": "nấu ăn",
+       "pos": "verb"
+      },
+      {
+       "word": "walk",
+       "vi": "đi bộ",
+       "pos": "verb"
+      },
+      {
+       "word": "drive",
+       "vi": "lái xe",
+       "pos": "verb"
+      },
+      {
+       "word": "take",
+       "vi": "lấy; đi (xe)",
+       "pos": "verb"
+      },
+      {
+       "word": "bus",
+       "vi": "xe buýt",
+       "pos": "noun"
+      },
+      {
+       "word": "homework",
+       "vi": "bài tập về nhà",
+       "pos": "noun"
+      },
+      {
+       "word": "busy",
+       "vi": "bận",
+       "pos": "adj"
+      },
+      {
+       "word": "also",
+       "vi": "cũng",
+       "pos": "adv"
+      },
+      {
+       "word": "habit",
+       "vi": "thói quen",
+       "pos": "noun"
+      },
+      {
+       "word": "need",
+       "vi": "cần",
+       "pos": "verb"
+      },
+      {
+       "word": "use",
+       "vi": "dùng; sử dụng",
+       "pos": "verb"
+      },
+      {
+       "word": "spend",
+       "vi": "dành (thời gian); tiêu (tiền)",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "get to"
+     ],
+     "collocations": [
+      "take the bus",
+      "study hard",
+      "do homework",
+      "drive to work",
+      "cook rice",
+      "spend time",
+      "good habit"
+     ],
+     "grammar": [
+      "60"
+     ],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "My mom's day"
+    }
+   ]
+  },
+  {
+   "unit": 8,
+   "title": {
+    "en": "Food and drink",
+    "vi": "Đồ ăn, thức uống"
+   },
+   "sheets": [
+    {
+     "id": "a1.29",
+     "theme": "likes and dislikes about food",
+     "words": [
+      {
+       "word": "like",
+       "vi": "thích",
+       "pos": "verb"
+      },
+      {
+       "word": "love",
+       "vi": "yêu; rất thích",
+       "pos": "verb"
+      },
+      {
+       "word": "food",
+       "vi": "đồ ăn",
+       "pos": "noun"
+      },
+      {
+       "word": "fruit",
+       "vi": "trái cây",
+       "pos": "noun"
+      },
+      {
+       "word": "apple",
+       "vi": "quả táo",
+       "pos": "noun"
+      },
+      {
+       "word": "banana",
+       "vi": "quả chuối",
+       "pos": "noun"
+      },
+      {
+       "word": "orange",
+       "vi": "quả cam",
+       "pos": "noun"
+      },
+      {
+       "word": "grape",
+       "vi": "quả nho",
+       "pos": "noun"
+      },
+      {
+       "word": "meat",
+       "vi": "thịt",
+       "pos": "noun"
+      },
+      {
+       "word": "fish",
+       "vi": "cá",
+       "pos": "noun"
+      },
+      {
+       "word": "chicken",
+       "vi": "thịt gà; con gà",
+       "pos": "noun"
+      },
+      {
+       "word": "rice",
+       "vi": "cơm; gạo",
+       "pos": "noun"
+      },
+      {
+       "word": "vegetable",
+       "vi": "rau",
+       "pos": "noun"
+      },
+      {
+       "word": "delicious",
+       "vi": "ngon",
+       "pos": "adj"
+      },
+      {
+       "word": "enjoy",
+       "vi": "thích; thưởng thức",
+       "pos": "verb"
+      },
+      {
+       "word": "mango",
+       "vi": "quả xoài",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "delicious food",
+      "fruit juice",
+      "enjoy your meal",
+      "vegetable soup"
+     ],
+     "grammar": [
+      "112"
+     ],
+     "grammar_words": [
+      "either"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.30",
+     "theme": "ordering in a café",
+     "words": [
+      {
+       "word": "cafe",
+       "vi": "quán cà phê",
+       "pos": "noun"
+      },
+      {
+       "word": "coffee",
+       "vi": "cà phê",
+       "pos": "noun"
+      },
+      {
+       "word": "tea",
+       "vi": "trà",
+       "pos": "noun"
+      },
+      {
+       "word": "juice",
+       "vi": "nước ép",
+       "pos": "noun"
+      },
+      {
+       "word": "coke",
+       "vi": "nước cô-ca",
+       "pos": "noun"
+      },
+      {
+       "word": "cake",
+       "vi": "bánh ngọt",
+       "pos": "noun"
+      },
+      {
+       "word": "sandwich",
+       "vi": "bánh mì kẹp",
+       "pos": "noun"
+      },
+      {
+       "word": "burger",
+       "vi": "bánh hamburger",
+       "pos": "noun"
+      },
+      {
+       "word": "hamburger",
+       "vi": "bánh hamburger",
+       "pos": "noun"
+      },
+      {
+       "word": "ice cream",
+       "vi": "kem",
+       "pos": "noun"
+      },
+      {
+       "word": "order",
+       "vi": "gọi món",
+       "pos": "verb"
+      },
+      {
+       "word": "waiter",
+       "vi": "bồi bàn (nam)",
+       "pos": "noun"
+      },
+      {
+       "word": "waitress",
+       "vi": "bồi bàn (nữ)",
+       "pos": "noun"
+      },
+      {
+       "word": "want",
+       "vi": "muốn",
+       "pos": "verb"
+      },
+      {
+       "word": "cup",
+       "vi": "cốc; tách",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "a cup of coffee",
+      "green tea",
+      "order food",
+      "birthday cake",
+      "orange juice"
+     ],
+     "grammar": [
+      "142"
+     ],
+     "grammar_words": [
+      "would"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.31",
+     "theme": "How much / How many",
+     "words": [
+      {
+       "word": "milk",
+       "vi": "sữa",
+       "pos": "noun"
+      },
+      {
+       "word": "sugar",
+       "vi": "đường",
+       "pos": "noun"
+      },
+      {
+       "word": "bread",
+       "vi": "bánh mì",
+       "pos": "noun"
+      },
+      {
+       "word": "butter",
+       "vi": "bơ",
+       "pos": "noun"
+      },
+      {
+       "word": "cheese",
+       "vi": "phô mai",
+       "pos": "noun"
+      },
+      {
+       "word": "egg",
+       "vi": "trứng",
+       "pos": "noun"
+      },
+      {
+       "word": "bottle",
+       "vi": "chai",
+       "pos": "noun"
+      },
+      {
+       "word": "glass",
+       "vi": "cốc (thủy tinh); thủy tinh",
+       "pos": "noun"
+      },
+      {
+       "word": "piece",
+       "vi": "miếng; mẩu",
+       "pos": "noun"
+      },
+      {
+       "word": "lot",
+       "vi": "nhiều (a lot of)",
+       "pos": "noun"
+      },
+      {
+       "word": "potato",
+       "vi": "khoai tây",
+       "pos": "noun"
+      },
+      {
+       "word": "tomato",
+       "vi": "cà chua",
+       "pos": "noun"
+      },
+      {
+       "word": "chocolate",
+       "vi": "sô-cô-la",
+       "pos": "noun"
+      },
+      {
+       "word": "bowl",
+       "vi": "bát; tô",
+       "pos": "noun"
+      },
+      {
+       "word": "pineapple",
+       "vi": "quả dứa",
+       "pos": "noun"
+      },
+      {
+       "word": "watermelon",
+       "vi": "dưa hấu",
+       "pos": "noun"
+      },
+      {
+       "word": "pork",
+       "vi": "thịt lợn",
+       "pos": "noun"
+      },
+      {
+       "word": "shrimp",
+       "vi": "con tôm",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "a glass of milk",
+      "bread and butter",
+      "a bottle of water",
+      "a lot of",
+      "hot chocolate",
+      "a bowl of rice",
+      "a piece of cake"
+     ],
+     "grammar": [
+      "s3"
+     ],
+     "grammar_words": [
+      "much",
+      "many",
+      "all"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.32",
+     "theme": "meals of the day",
+     "words": [
+      {
+       "word": "breakfast",
+       "vi": "bữa sáng",
+       "pos": "noun"
+      },
+      {
+       "word": "lunch",
+       "vi": "bữa trưa",
+       "pos": "noun"
+      },
+      {
+       "word": "dinner",
+       "vi": "bữa tối",
+       "pos": "noun"
+      },
+      {
+       "word": "meal",
+       "vi": "bữa ăn",
+       "pos": "noun"
+      },
+      {
+       "word": "eat",
+       "vi": "ăn",
+       "pos": "verb"
+      },
+      {
+       "word": "drink",
+       "vi": "uống; đồ uống",
+       "pos": "verb"
+      },
+      {
+       "word": "hungry",
+       "vi": "đói",
+       "pos": "adj"
+      },
+      {
+       "word": "full",
+       "vi": "no; đầy",
+       "pos": "adj"
+      },
+      {
+       "word": "soup",
+       "vi": "súp; canh",
+       "pos": "noun"
+      },
+      {
+       "word": "salad",
+       "vi": "rau trộn; xa lát",
+       "pos": "noun"
+      },
+      {
+       "word": "pizza",
+       "vi": "bánh pizza",
+       "pos": "noun"
+      },
+      {
+       "word": "beef",
+       "vi": "thịt bò",
+       "pos": "noun"
+      },
+      {
+       "word": "yogurt",
+       "vi": "sữa chua",
+       "pos": "noun"
+      },
+      {
+       "word": "dish",
+       "vi": "món ăn; đĩa",
+       "pos": "noun"
+      },
+      {
+       "word": "knife",
+       "vi": "con dao",
+       "pos": "noun"
+      },
+      {
+       "word": "noodle",
+       "vi": "mì, bún, phở (sợi)",
+       "pos": "noun"
+      },
+      {
+       "word": "chopsticks",
+       "vi": "đôi đũa",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "have breakfast",
+      "lunch break",
+      "dinner party",
+      "very hungry",
+      "a big meal",
+      "hot soup",
+      "wash the dishes"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "My meals"
+    }
+   ]
+  },
+  {
+   "unit": 9,
+   "title": {
+    "en": "Shopping",
+    "vi": "Mua sắm"
+   },
+   "sheets": [
+    {
+     "id": "a1.33",
+     "theme": "asking prices",
+     "words": [
+      {
+       "word": "shop",
+       "vi": "cửa hàng (Anh hay dùng; Mỹ: store)",
+       "pos": "noun"
+      },
+      {
+       "word": "store",
+       "vi": "cửa hàng (Mỹ; Anh: shop)",
+       "pos": "noun"
+      },
+      {
+       "word": "shopping",
+       "vi": "việc mua sắm",
+       "pos": "noun"
+      },
+      {
+       "word": "supermarket",
+       "vi": "siêu thị",
+       "pos": "noun"
+      },
+      {
+       "word": "buy",
+       "vi": "mua",
+       "pos": "verb"
+      },
+      {
+       "word": "sell",
+       "vi": "bán",
+       "pos": "verb"
+      },
+      {
+       "word": "sale",
+       "vi": "đợt giảm giá; việc bán",
+       "pos": "noun"
+      },
+      {
+       "word": "item",
+       "vi": "món hàng",
+       "pos": "noun"
+      },
+      {
+       "word": "cookie",
+       "vi": "bánh quy (Mỹ; Anh: biscuit)",
+       "pos": "noun"
+      },
+      {
+       "word": "biscuit",
+       "vi": "bánh quy (Anh; Mỹ: cookie) · Mỹ: biscuit = bánh mì nướng mềm",
+       "pos": "noun"
+      },
+      {
+       "word": "candy",
+       "vi": "kẹo (Mỹ; Anh: sweets)",
+       "pos": "noun"
+      },
+      {
+       "word": "sweet",
+       "vi": "kẹo; ngọt",
+       "pos": "noun"
+      },
+      {
+       "word": "list",
+       "vi": "danh sách",
+       "pos": "noun"
+      },
+      {
+       "word": "choose",
+       "vi": "chọn",
+       "pos": "verb"
+      },
+      {
+       "word": "closed",
+       "vi": "đóng cửa",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [
+      "look for"
+     ],
+     "collocations": [
+      "go shopping",
+      "buy something",
+      "on sale",
+      "shopping list",
+      "choose from"
+     ],
+     "grammar": [
+      "22"
+     ],
+     "grammar_words": [
+      "mine",
+      "yours",
+      "ours",
+      "hers",
+      "whose"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.34",
+     "theme": "buying clothes, sizes",
+     "words": [
+      {
+       "word": "size",
+       "vi": "cỡ; kích cỡ",
+       "pos": "noun"
+      },
+      {
+       "word": "shirt",
+       "vi": "áo sơ mi",
+       "pos": "noun"
+      },
+      {
+       "word": "t-shirt",
+       "vi": "áo phông",
+       "pos": "noun"
+      },
+      {
+       "word": "pants",
+       "vi": "quần dài (Mỹ; Anh: trousers) · Anh: pants = quần lót",
+       "pos": "noun"
+      },
+      {
+       "word": "trousers",
+       "vi": "quần dài (Anh; Mỹ: pants)",
+       "pos": "noun"
+      },
+      {
+       "word": "jeans",
+       "vi": "quần bò",
+       "pos": "noun"
+      },
+      {
+       "word": "skirt",
+       "vi": "chân váy",
+       "pos": "noun"
+      },
+      {
+       "word": "jacket",
+       "vi": "áo khoác",
+       "pos": "noun"
+      },
+      {
+       "word": "try",
+       "vi": "thử",
+       "pos": "verb"
+      },
+      {
+       "word": "same",
+       "vi": "giống nhau",
+       "pos": "adj"
+      },
+      {
+       "word": "tight",
+       "vi": "chật",
+       "pos": "adj"
+      },
+      {
+       "word": "pair",
+       "vi": "đôi; cặp",
+       "pos": "noun"
+      },
+      {
+       "word": "button",
+       "vi": "cúc áo; nút",
+       "pos": "noun"
+      },
+      {
+       "word": "pocket",
+       "vi": "túi (quần áo)",
+       "pos": "noun"
+      },
+      {
+       "word": "cloth",
+       "vi": "vải",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "try on"
+     ],
+     "collocations": [
+      "what size",
+      "a pair of jeans",
+      "too tight",
+      "in my pocket",
+      "the same as"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.35",
+     "theme": "paying, money",
+     "words": [
+      {
+       "word": "money",
+       "vi": "tiền",
+       "pos": "noun"
+      },
+      {
+       "word": "pay",
+       "vi": "trả tiền",
+       "pos": "verb"
+      },
+      {
+       "word": "credit card",
+       "vi": "thẻ tín dụng",
+       "pos": "noun"
+      },
+      {
+       "word": "card",
+       "vi": "thẻ; tấm thiệp",
+       "pos": "noun"
+      },
+      {
+       "word": "change",
+       "vi": "tiền thừa; thay đổi",
+       "pos": "noun"
+      },
+      {
+       "word": "give",
+       "vi": "đưa; cho",
+       "pos": "verb"
+      },
+      {
+       "word": "bank",
+       "vi": "ngân hàng",
+       "pos": "noun"
+      },
+      {
+       "word": "free",
+       "vi": "miễn phí; rảnh",
+       "pos": "adj"
+      },
+      {
+       "word": "rich",
+       "vi": "giàu",
+       "pos": "adj"
+      },
+      {
+       "word": "poor",
+       "vi": "nghèo",
+       "pos": "adj"
+      },
+      {
+       "word": "save",
+       "vi": "tiết kiệm",
+       "pos": "verb"
+      },
+      {
+       "word": "borrow",
+       "vi": "mượn; vay",
+       "pos": "verb"
+      },
+      {
+       "word": "machine",
+       "vi": "máy",
+       "pos": "noun"
+      },
+      {
+       "word": "due",
+       "vi": "đến hạn",
+       "pos": "adj"
+      },
+      {
+       "word": "keep",
+       "vi": "giữ",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "pay for",
+      "save up"
+     ],
+     "collocations": [
+      "spend money",
+      "save money",
+      "borrow money",
+      "free time",
+      "keep the change",
+      "ticket machine"
+     ],
+     "grammar": [
+      "197"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.36",
+     "theme": "shopping for a gift",
+     "words": [
+      {
+       "word": "gift",
+       "vi": "món quà",
+       "pos": "noun"
+      },
+      {
+       "word": "present",
+       "vi": "món quà",
+       "pos": "noun"
+      },
+      {
+       "word": "birthday",
+       "vi": "sinh nhật",
+       "pos": "noun"
+      },
+      {
+       "word": "ribbon",
+       "vi": "ruy băng",
+       "pos": "noun"
+      },
+      {
+       "word": "jewelry",
+       "vi": "đồ trang sức",
+       "pos": "noun"
+      },
+      {
+       "word": "doll",
+       "vi": "búp bê",
+       "pos": "noun"
+      },
+      {
+       "word": "toy",
+       "vi": "đồ chơi",
+       "pos": "noun"
+      },
+      {
+       "word": "kite",
+       "vi": "cái diều",
+       "pos": "noun"
+      },
+      {
+       "word": "special",
+       "vi": "đặc biệt",
+       "pos": "adj"
+      },
+      {
+       "word": "idea",
+       "vi": "ý tưởng",
+       "pos": "noun"
+      },
+      {
+       "word": "wish",
+       "vi": "ước; lời chúc",
+       "pos": "verb"
+      },
+      {
+       "word": "maybe",
+       "vi": "có lẽ",
+       "pos": "adv"
+      },
+      {
+       "word": "think",
+       "vi": "nghĩ",
+       "pos": "verb"
+      },
+      {
+       "word": "hope",
+       "vi": "hy vọng",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "think about"
+     ],
+     "collocations": [
+      "birthday party",
+      "make a wish",
+      "good idea",
+      "I hope so",
+      "special day",
+      "gift shop"
+     ],
+     "grammar": [
+      "253"
+     ],
+     "grammar_words": [
+      "could"
+     ],
+     "has_reading": true,
+     "reading_title": "Saturday at the Shops"
+    }
+   ]
+  },
+  {
+   "unit": 10,
+   "title": {
+    "en": "In town",
+    "vi": "Trong thành phố"
+   },
+   "sheets": [
+    {
+     "id": "a1.37",
+     "theme": "places in town",
+     "words": [
+      {
+       "word": "town",
+       "vi": "thị trấn",
+       "pos": "noun"
+      },
+      {
+       "word": "building",
+       "vi": "tòa nhà",
+       "pos": "noun"
+      },
+      {
+       "word": "hospital",
+       "vi": "bệnh viện",
+       "pos": "noun"
+      },
+      {
+       "word": "library",
+       "vi": "thư viện",
+       "pos": "noun"
+      },
+      {
+       "word": "cinema",
+       "vi": "rạp chiếu phim (Anh; Mỹ: movie theater)",
+       "pos": "noun"
+      },
+      {
+       "word": "restaurant",
+       "vi": "nhà hàng",
+       "pos": "noun"
+      },
+      {
+       "word": "park",
+       "vi": "công viên",
+       "pos": "noun"
+      },
+      {
+       "word": "church",
+       "vi": "nhà thờ",
+       "pos": "noun"
+      },
+      {
+       "word": "temple",
+       "vi": "đền; chùa",
+       "pos": "noun"
+      },
+      {
+       "word": "theater",
+       "vi": "nhà hát",
+       "pos": "noun"
+      },
+      {
+       "word": "tower",
+       "vi": "tòa tháp",
+       "pos": "noun"
+      },
+      {
+       "word": "bridge",
+       "vi": "cây cầu",
+       "pos": "noun"
+      },
+      {
+       "word": "famous",
+       "vi": "nổi tiếng",
+       "pos": "adj"
+      },
+      {
+       "word": "bookstore",
+       "vi": "hiệu sách",
+       "pos": "noun"
+      },
+      {
+       "word": "bar",
+       "vi": "quán bar",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "in the park",
+      "famous for",
+      "tall building",
+      "in town",
+      "Vietnamese restaurant"
+     ],
+     "grammar": [
+      "117"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.38",
+     "theme": "asking the way",
+     "words": [
+      {
+       "word": "way",
+       "vi": "đường đi; cách",
+       "pos": "noun"
+      },
+      {
+       "word": "map",
+       "vi": "bản đồ",
+       "pos": "noun"
+      },
+      {
+       "word": "sign",
+       "vi": "biển báo",
+       "pos": "noun"
+      },
+      {
+       "word": "station",
+       "vi": "nhà ga; bến",
+       "pos": "noun"
+      },
+      {
+       "word": "show",
+       "vi": "chỉ; cho xem",
+       "pos": "verb"
+      },
+      {
+       "word": "ask",
+       "vi": "hỏi",
+       "pos": "verb"
+      },
+      {
+       "word": "tell",
+       "vi": "nói; kể",
+       "pos": "verb"
+      },
+      {
+       "word": "block",
+       "vi": "dãy nhà (khu phố)",
+       "pos": "noun"
+      },
+      {
+       "word": "point",
+       "vi": "chỉ (tay)",
+       "pos": "verb"
+      },
+      {
+       "word": "hurry",
+       "vi": "vội; nhanh lên",
+       "pos": "verb"
+      },
+      {
+       "word": "airport",
+       "vi": "sân bay",
+       "pos": "noun"
+      },
+      {
+       "word": "pool",
+       "vi": "bể bơi",
+       "pos": "noun"
+      },
+      {
+       "word": "swimming pool",
+       "vi": "bể bơi",
+       "pos": "noun"
+      },
+      {
+       "word": "just",
+       "vi": "chỉ; vừa mới",
+       "pos": "adv"
+      }
+     ],
+     "phrasal": [
+      "hurry up",
+      "ask for"
+     ],
+     "collocations": [
+      "on the way",
+      "read a map",
+      "ask for help",
+      "show the way",
+      "in a hurry",
+      "train station"
+     ],
+     "grammar": [
+      "120"
+     ],
+     "grammar_words": [
+      "let"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.39",
+     "theme": "giving directions",
+     "words": [
+      {
+       "word": "left",
+       "vi": "bên trái",
+       "pos": "noun"
+      },
+      {
+       "word": "right",
+       "vi": "bên phải; đúng",
+       "pos": "noun"
+      },
+      {
+       "word": "straight",
+       "vi": "thẳng",
+       "pos": "adv"
+      },
+      {
+       "word": "turn",
+       "vi": "rẽ",
+       "pos": "verb"
+      },
+      {
+       "word": "end",
+       "vi": "cuối; điểm cuối",
+       "pos": "noun"
+      },
+      {
+       "word": "stop",
+       "vi": "dừng lại; điểm dừng",
+       "pos": "verb"
+      },
+      {
+       "word": "first",
+       "vi": "đầu tiên; trước hết",
+       "pos": "adv"
+      },
+      {
+       "word": "step",
+       "vi": "bước",
+       "pos": "noun"
+      },
+      {
+       "word": "line",
+       "vi": "đường; tuyến; hàng người xếp (Mỹ; Anh: queue)",
+       "pos": "noun"
+      },
+      {
+       "word": "move",
+       "vi": "di chuyển",
+       "pos": "verb"
+      },
+      {
+       "word": "careful",
+       "vi": "cẩn thận",
+       "pos": "adj"
+      },
+      {
+       "word": "carefully",
+       "vi": "một cách cẩn thận",
+       "pos": "adv"
+      },
+      {
+       "word": "wrong",
+       "vi": "sai",
+       "pos": "adj"
+      },
+      {
+       "word": "quickly",
+       "vi": "nhanh chóng",
+       "pos": "adv"
+      }
+     ],
+     "phrasal": [
+      "go back",
+      "turn around",
+      "look out"
+     ],
+     "collocations": [
+      "turn left",
+      "go straight",
+      "at the end of",
+      "wrong way",
+      "be careful",
+      "step by step",
+      "stand in line"
+     ],
+     "grammar": [],
+     "grammar_words": [
+      "along",
+      "through",
+      "into",
+      "around"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.40",
+     "theme": "public transport tickets",
+     "words": [
+      {
+       "word": "ticket",
+       "vi": "vé",
+       "pos": "noun"
+      },
+      {
+       "word": "train",
+       "vi": "tàu hỏa",
+       "pos": "noun"
+      },
+      {
+       "word": "subway",
+       "vi": "tàu điện ngầm (Mỹ; Anh: underground) · Anh: subway = đường hầm đi bộ",
+       "pos": "noun"
+      },
+      {
+       "word": "taxi",
+       "vi": "xe taxi",
+       "pos": "noun"
+      },
+      {
+       "word": "plane",
+       "vi": "máy bay",
+       "pos": "noun"
+      },
+      {
+       "word": "airplane",
+       "vi": "máy bay",
+       "pos": "noun"
+      },
+      {
+       "word": "boat",
+       "vi": "thuyền",
+       "pos": "noun"
+      },
+      {
+       "word": "bicycle",
+       "vi": "xe đạp",
+       "pos": "noun"
+      },
+      {
+       "word": "ride",
+       "vi": "đi (xe); cưỡi",
+       "pos": "verb"
+      },
+      {
+       "word": "driver",
+       "vi": "tài xế",
+       "pos": "noun"
+      },
+      {
+       "word": "truck",
+       "vi": "xe tải (Mỹ; Anh: lorry)",
+       "pos": "noun"
+      },
+      {
+       "word": "jet",
+       "vi": "máy bay phản lực",
+       "pos": "noun"
+      },
+      {
+       "word": "wheel",
+       "vi": "bánh xe",
+       "pos": "noun"
+      },
+      {
+       "word": "row",
+       "vi": "hàng (ghế); chèo thuyền",
+       "pos": "noun"
+      },
+      {
+       "word": "tube",
+       "vi": "tàu điện ngầm (London)",
+       "pos": "noun"
+      },
+      {
+       "word": "motorbike",
+       "vi": "xe máy",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "get on",
+      "get off",
+      "get in",
+      "get out of"
+     ],
+     "collocations": [
+      "buy a ticket",
+      "take the train",
+      "call a taxi",
+      "ride a motorbike",
+      "by plane",
+      "taxi driver"
+     ],
+     "grammar": [
+      "249"
+     ],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "Come to My House!"
+    }
+   ]
+  },
+  {
+   "unit": 11,
+   "title": {
+    "en": "School and learning",
+    "vi": "Trường lớp"
+   },
+   "sheets": [
+    {
+     "id": "a1.41",
+     "theme": "school subjects",
+     "words": [
+      {
+       "word": "subject",
+       "vi": "môn học",
+       "pos": "noun"
+      },
+      {
+       "word": "math",
+       "vi": "môn toán",
+       "pos": "noun"
+      },
+      {
+       "word": "science",
+       "vi": "môn khoa học",
+       "pos": "noun"
+      },
+      {
+       "word": "art",
+       "vi": "môn mỹ thuật; nghệ thuật",
+       "pos": "noun"
+      },
+      {
+       "word": "history",
+       "vi": "môn lịch sử",
+       "pos": "noun"
+      },
+      {
+       "word": "grammar",
+       "vi": "ngữ pháp",
+       "pos": "noun"
+      },
+      {
+       "word": "drama",
+       "vi": "môn kịch",
+       "pos": "noun"
+      },
+      {
+       "word": "dancing",
+       "vi": "môn nhảy; khiêu vũ",
+       "pos": "noun"
+      },
+      {
+       "word": "technology",
+       "vi": "môn công nghệ",
+       "pos": "noun"
+      },
+      {
+       "word": "class",
+       "vi": "lớp học; tiết học",
+       "pos": "noun"
+      },
+      {
+       "word": "lesson",
+       "vi": "bài học",
+       "pos": "noun"
+      },
+      {
+       "word": "learn",
+       "vi": "học",
+       "pos": "verb"
+      },
+      {
+       "word": "easy",
+       "vi": "dễ",
+       "pos": "adj"
+      },
+      {
+       "word": "difficult",
+       "vi": "khó",
+       "pos": "adj"
+      },
+      {
+       "word": "hard",
+       "vi": "khó; chăm chỉ",
+       "pos": "adj"
+      },
+      {
+       "word": "social",
+       "vi": "xã hội",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "learn English",
+      "in class",
+      "work hard",
+      "difficult question",
+      "math class",
+      "take lessons"
+     ],
+     "grammar": [
+      "123"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.42",
+     "theme": "the classroom",
+     "words": [
+      {
+       "word": "classroom",
+       "vi": "lớp học (phòng)",
+       "pos": "noun"
+      },
+      {
+       "word": "board",
+       "vi": "cái bảng",
+       "pos": "noun"
+      },
+      {
+       "word": "pen",
+       "vi": "bút mực",
+       "pos": "noun"
+      },
+      {
+       "word": "pencil",
+       "vi": "bút chì",
+       "pos": "noun"
+      },
+      {
+       "word": "ruler",
+       "vi": "thước kẻ",
+       "pos": "noun"
+      },
+      {
+       "word": "notebook",
+       "vi": "vở",
+       "pos": "noun"
+      },
+      {
+       "word": "dictionary",
+       "vi": "từ điển",
+       "pos": "noun"
+      },
+      {
+       "word": "paper",
+       "vi": "giấy",
+       "pos": "noun"
+      },
+      {
+       "word": "page",
+       "vi": "trang",
+       "pos": "noun"
+      },
+      {
+       "word": "read",
+       "vi": "đọc",
+       "pos": "verb"
+      },
+      {
+       "word": "write",
+       "vi": "viết",
+       "pos": "verb"
+      },
+      {
+       "word": "draw",
+       "vi": "vẽ",
+       "pos": "verb"
+      },
+      {
+       "word": "copy",
+       "vi": "chép lại; sao chép",
+       "pos": "verb"
+      },
+      {
+       "word": "underline",
+       "vi": "gạch chân",
+       "pos": "verb"
+      },
+      {
+       "word": "following",
+       "vi": "sau đây",
+       "pos": "adj"
+      },
+      {
+       "word": "rule",
+       "vi": "quy tắc",
+       "pos": "noun"
+      },
+      {
+       "word": "section",
+       "vi": "phần",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "write down",
+      "sit down",
+      "look up"
+     ],
+     "collocations": [
+      "a piece of paper",
+      "on the board",
+      "look up in the dictionary",
+      "draw a picture",
+      "school rules"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.43",
+     "theme": "asking the teacher for help",
+     "words": [
+      {
+       "word": "test",
+       "vi": "bài kiểm tra",
+       "pos": "noun"
+      },
+      {
+       "word": "practice",
+       "vi": "luyện tập",
+       "pos": "verb"
+      },
+      {
+       "word": "correct",
+       "vi": "đúng",
+       "pos": "adj"
+      },
+      {
+       "word": "true",
+       "vi": "đúng",
+       "pos": "adj"
+      },
+      {
+       "word": "false",
+       "vi": "sai",
+       "pos": "adj"
+      },
+      {
+       "word": "sentence",
+       "vi": "câu",
+       "pos": "noun"
+      },
+      {
+       "word": "paragraph",
+       "vi": "đoạn văn",
+       "pos": "noun"
+      },
+      {
+       "word": "blank",
+       "vi": "chỗ trống",
+       "pos": "noun"
+      },
+      {
+       "word": "review",
+       "vi": "ôn tập (Mỹ; Anh: revise)",
+       "pos": "verb"
+      },
+      {
+       "word": "topic",
+       "vi": "chủ đề",
+       "pos": "noun"
+      },
+      {
+       "word": "grade",
+       "vi": "điểm; lớp (khối)",
+       "pos": "noun"
+      },
+      {
+       "word": "result",
+       "vi": "kết quả",
+       "pos": "noun"
+      },
+      {
+       "word": "problem",
+       "vi": "vấn đề; bài toán",
+       "pos": "noun"
+      },
+      {
+       "word": "solve",
+       "vi": "giải",
+       "pos": "verb"
+      },
+      {
+       "word": "circle",
+       "vi": "khoanh tròn; hình tròn",
+       "pos": "verb"
+      },
+      {
+       "word": "speech",
+       "vi": "bài nói; bài phát biểu",
+       "pos": "noun"
+      },
+      {
+       "word": "survey",
+       "vi": "khảo sát",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "work out",
+      "read out"
+     ],
+     "collocations": [
+      "take a test",
+      "solve a problem",
+      "correct answer",
+      "good grade",
+      "test result",
+      "give a speech",
+      "true or false"
+     ],
+     "grammar": [
+      "s4"
+     ],
+     "grammar_words": [
+      "after",
+      "before",
+      "until"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.44",
+     "theme": "timetable, dates",
+     "words": [
+      {
+       "word": "college",
+       "vi": "trường cao đẳng; đại học",
+       "pos": "noun"
+      },
+      {
+       "word": "elementary",
+       "vi": "tiểu học",
+       "pos": "adj"
+      },
+      {
+       "word": "course",
+       "vi": "khóa học",
+       "pos": "noun"
+      },
+      {
+       "word": "period",
+       "vi": "tiết học",
+       "pos": "noun"
+      },
+      {
+       "word": "break",
+       "vi": "giờ nghỉ; giải lao",
+       "pos": "noun"
+      },
+      {
+       "word": "date",
+       "vi": "ngày tháng",
+       "pos": "noun"
+      },
+      {
+       "word": "tomorrow",
+       "vi": "ngày mai",
+       "pos": "adv"
+      },
+      {
+       "word": "later",
+       "vi": "sau; lát nữa",
+       "pos": "adv"
+      },
+      {
+       "word": "soon",
+       "vi": "sớm; chẳng bao lâu",
+       "pos": "adv"
+      },
+      {
+       "word": "holiday",
+       "vi": "kỳ nghỉ (Anh; Mỹ: vacation); ngày lễ",
+       "pos": "noun"
+      },
+      {
+       "word": "event",
+       "vi": "sự kiện",
+       "pos": "noun"
+      },
+      {
+       "word": "program",
+       "vi": "chương trình",
+       "pos": "noun"
+      },
+      {
+       "word": "month",
+       "vi": "tháng",
+       "pos": "noun"
+      },
+      {
+       "word": "year",
+       "vi": "năm",
+       "pos": "noun"
+      },
+      {
+       "word": "fifth",
+       "vi": "thứ năm (số thứ tự)",
+       "pos": "number"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "take a break",
+      "English course",
+      "date of birth",
+      "last year",
+      "see you soon",
+      "go to college"
+     ],
+     "grammar": [
+      "236"
+     ],
+     "grammar_words": [
+      "when"
+     ],
+     "has_reading": true,
+     "reading_title": "My School Day"
+    }
+   ]
+  },
+  {
+   "unit": 12,
+   "title": {
+    "en": "Work",
+    "vi": "Công việc"
+   },
+   "sheets": [
+    {
+     "id": "a1.45",
+     "theme": "jobs",
+     "words": [
+      {
+       "word": "job",
+       "vi": "công việc",
+       "pos": "noun"
+      },
+      {
+       "word": "engineer",
+       "vi": "kỹ sư",
+       "pos": "noun"
+      },
+      {
+       "word": "farmer",
+       "vi": "nông dân",
+       "pos": "noun"
+      },
+      {
+       "word": "cop",
+       "vi": "cảnh sát",
+       "pos": "noun"
+      },
+      {
+       "word": "officer",
+       "vi": "sĩ quan; viên chức",
+       "pos": "noun"
+      },
+      {
+       "word": "worker",
+       "vi": "công nhân",
+       "pos": "noun"
+      },
+      {
+       "word": "singer",
+       "vi": "ca sĩ",
+       "pos": "noun"
+      },
+      {
+       "word": "actor",
+       "vi": "diễn viên",
+       "pos": "noun"
+      },
+      {
+       "word": "writer",
+       "vi": "nhà văn",
+       "pos": "noun"
+      },
+      {
+       "word": "scientist",
+       "vi": "nhà khoa học",
+       "pos": "noun"
+      },
+      {
+       "word": "sailor",
+       "vi": "thủy thủ",
+       "pos": "noun"
+      },
+      {
+       "word": "owner",
+       "vi": "chủ (sở hữu)",
+       "pos": "noun"
+      },
+      {
+       "word": "leader",
+       "vi": "người lãnh đạo",
+       "pos": "noun"
+      },
+      {
+       "word": "business",
+       "vi": "kinh doanh",
+       "pos": "noun"
+      },
+      {
+       "word": "artist",
+       "vi": "nghệ sĩ; họa sĩ",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "get a job",
+      "business trip",
+      "office worker",
+      "team leader",
+      "pop singer",
+      "shop owner"
+     ],
+     "grammar": [
+      "150"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.46",
+     "theme": "what do you do?",
+     "words": [
+      {
+       "word": "interesting",
+       "vi": "thú vị",
+       "pos": "adj"
+      },
+      {
+       "word": "important",
+       "vi": "quan trọng",
+       "pos": "adj"
+      },
+      {
+       "word": "successful",
+       "vi": "thành công",
+       "pos": "adj"
+      },
+      {
+       "word": "interview",
+       "vi": "phỏng vấn",
+       "pos": "noun"
+      },
+      {
+       "word": "interviewer",
+       "vi": "người phỏng vấn",
+       "pos": "noun"
+      },
+      {
+       "word": "dream",
+       "vi": "ước mơ",
+       "pos": "noun"
+      },
+      {
+       "word": "future",
+       "vi": "tương lai",
+       "pos": "noun"
+      },
+      {
+       "word": "become",
+       "vi": "trở thành",
+       "pos": "verb"
+      },
+      {
+       "word": "reason",
+       "vi": "lý do",
+       "pos": "noun"
+      },
+      {
+       "word": "skill",
+       "vi": "kỹ năng",
+       "pos": "noun"
+      },
+      {
+       "word": "teach",
+       "vi": "dạy",
+       "pos": "verb"
+      },
+      {
+       "word": "role",
+       "vi": "vai trò",
+       "pos": "noun"
+      },
+      {
+       "word": "coach",
+       "vi": "huấn luyện viên",
+       "pos": "noun"
+      },
+      {
+       "word": "factory",
+       "vi": "nhà máy",
+       "pos": "noun"
+      },
+      {
+       "word": "focus",
+       "vi": "tập trung",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "give up"
+     ],
+     "collocations": [
+      "dream job",
+      "job interview",
+      "become a teacher",
+      "focus on",
+      "very important",
+      "teach English",
+      "good skills"
+     ],
+     "grammar": [
+      "235"
+     ],
+     "grammar_words": [
+      "because"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.47",
+     "theme": "a working day",
+     "words": [
+      {
+       "word": "office",
+       "vi": "văn phòng",
+       "pos": "noun"
+      },
+      {
+       "word": "computer",
+       "vi": "máy tính",
+       "pos": "noun"
+      },
+      {
+       "word": "meeting",
+       "vi": "cuộc họp",
+       "pos": "noun"
+      },
+      {
+       "word": "apron",
+       "vi": "tạp dề",
+       "pos": "noun"
+      },
+      {
+       "word": "tool",
+       "vi": "dụng cụ",
+       "pos": "noun"
+      },
+      {
+       "word": "file",
+       "vi": "tập tin; hồ sơ",
+       "pos": "noun"
+      },
+      {
+       "word": "carry",
+       "vi": "mang; vác",
+       "pos": "verb"
+      },
+      {
+       "word": "bring",
+       "vi": "mang đến",
+       "pos": "verb"
+      },
+      {
+       "word": "build",
+       "vi": "xây dựng",
+       "pos": "verb"
+      },
+      {
+       "word": "make",
+       "vi": "làm; tạo ra",
+       "pos": "verb"
+      },
+      {
+       "word": "fast",
+       "vi": "nhanh",
+       "pos": "adj"
+      },
+      {
+       "word": "slow",
+       "vi": "chậm",
+       "pos": "adj"
+      },
+      {
+       "word": "team",
+       "vi": "đội; nhóm",
+       "pos": "noun"
+      },
+      {
+       "word": "join",
+       "vi": "tham gia",
+       "pos": "verb"
+      },
+      {
+       "word": "design",
+       "vi": "thiết kế",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "meeting room",
+      "make a plan",
+      "build a house",
+      "carry a bag",
+      "join the team",
+      "open a file"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.48",
+     "theme": "at the office: phone calls",
+     "words": [
+      {
+       "word": "call",
+       "vi": "gọi điện; cuộc gọi",
+       "pos": "verb"
+      },
+      {
+       "word": "message",
+       "vi": "tin nhắn",
+       "pos": "noun"
+      },
+      {
+       "word": "ring",
+       "vi": "reo; gọi điện",
+       "pos": "verb"
+      },
+      {
+       "word": "talk",
+       "vi": "nói chuyện",
+       "pos": "verb"
+      },
+      {
+       "word": "hear",
+       "vi": "nghe thấy",
+       "pos": "verb"
+      },
+      {
+       "word": "note",
+       "vi": "ghi chú; ghi lại",
+       "pos": "noun"
+      },
+      {
+       "word": "hold",
+       "vi": "giữ máy; cầm",
+       "pos": "verb"
+      },
+      {
+       "word": "conversation",
+       "vi": "cuộc trò chuyện",
+       "pos": "noun"
+      },
+      {
+       "word": "mind",
+       "vi": "phiền (Do you mind?); tâm trí",
+       "pos": "verb"
+      },
+      {
+       "word": "sure",
+       "vi": "chắc chắn",
+       "pos": "adj"
+      },
+      {
+       "word": "well",
+       "vi": "tốt; giỏi; à (thì)",
+       "pos": "adv"
+      },
+      {
+       "word": "discuss",
+       "vi": "thảo luận",
+       "pos": "verb"
+      },
+      {
+       "word": "agree",
+       "vi": "đồng ý",
+       "pos": "verb"
+      },
+      {
+       "word": "suggestion",
+       "vi": "gợi ý; đề xuất",
+       "pos": "noun"
+      },
+      {
+       "word": "noise",
+       "vi": "tiếng ồn",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "call back",
+      "hold on",
+      "talk about"
+     ],
+     "collocations": [
+      "make a call",
+      "leave a message",
+      "make sure",
+      "change your mind",
+      "agree with",
+      "take notes",
+      "have a conversation"
+     ],
+     "grammar": [
+      "24"
+     ],
+     "grammar_words": [
+      "someone",
+      "something",
+      "anybody",
+      "anyone",
+      "anything",
+      "everybody",
+      "everyone",
+      "everything",
+      "nothing",
+      "everywhere",
+      "else"
+     ],
+     "has_reading": true,
+     "reading_title": "My Mom's Job"
+    }
+   ]
+  },
+  {
+   "unit": 13,
+   "title": {
+    "en": "Free time",
+    "vi": "Thời gian rảnh"
+   },
+   "sheets": [
+    {
+     "id": "a1.49",
+     "theme": "hobbies",
+     "words": [
+      {
+       "word": "hobby",
+       "vi": "sở thích",
+       "pos": "noun"
+      },
+      {
+       "word": "activity",
+       "vi": "hoạt động",
+       "pos": "noun"
+      },
+      {
+       "word": "play",
+       "vi": "chơi",
+       "pos": "verb"
+      },
+      {
+       "word": "game",
+       "vi": "trò chơi",
+       "pos": "noun"
+      },
+      {
+       "word": "paint",
+       "vi": "vẽ (tranh màu); sơn",
+       "pos": "verb"
+      },
+      {
+       "word": "painting",
+       "vi": "bức tranh; hội họa",
+       "pos": "noun"
+      },
+      {
+       "word": "sing",
+       "vi": "hát",
+       "pos": "verb"
+      },
+      {
+       "word": "dance",
+       "vi": "nhảy; múa",
+       "pos": "verb"
+      },
+      {
+       "word": "collect",
+       "vi": "sưu tầm",
+       "pos": "verb"
+      },
+      {
+       "word": "collection",
+       "vi": "bộ sưu tập",
+       "pos": "noun"
+      },
+      {
+       "word": "fun",
+       "vi": "niềm vui; vui",
+       "pos": "noun"
+      },
+      {
+       "word": "fishing",
+       "vi": "câu cá",
+       "pos": "noun"
+      },
+      {
+       "word": "video",
+       "vi": "video",
+       "pos": "noun"
+      },
+      {
+       "word": "interested",
+       "vi": "quan tâm; thích",
+       "pos": "adj"
+      },
+      {
+       "word": "reading",
+       "vi": "việc đọc sách",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "play a game",
+      "interested in",
+      "have fun",
+      "go fishing",
+      "video game"
+     ],
+     "grammar": [
+      "61"
+     ],
+     "grammar_words": [
+      "doing"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.50",
+     "theme": "sports",
+     "words": [
+      {
+       "word": "sport",
+       "vi": "thể thao",
+       "pos": "noun"
+      },
+      {
+       "word": "football",
+       "vi": "bóng đá (Anh; Mỹ: soccer) · ở Mỹ football = bóng bầu dục",
+       "pos": "noun"
+      },
+      {
+       "word": "soccer",
+       "vi": "bóng đá (Mỹ; Anh: football)",
+       "pos": "noun"
+      },
+      {
+       "word": "baseball",
+       "vi": "bóng chày",
+       "pos": "noun"
+      },
+      {
+       "word": "basketball",
+       "vi": "bóng rổ",
+       "pos": "noun"
+      },
+      {
+       "word": "tennis",
+       "vi": "quần vợt",
+       "pos": "noun"
+      },
+      {
+       "word": "volleyball",
+       "vi": "bóng chuyền",
+       "pos": "noun"
+      },
+      {
+       "word": "swim",
+       "vi": "bơi",
+       "pos": "verb"
+      },
+      {
+       "word": "swimming",
+       "vi": "môn bơi",
+       "pos": "noun"
+      },
+      {
+       "word": "run",
+       "vi": "chạy",
+       "pos": "verb"
+      },
+      {
+       "word": "ball",
+       "vi": "quả bóng",
+       "pos": "noun"
+      },
+      {
+       "word": "player",
+       "vi": "cầu thủ; người chơi",
+       "pos": "noun"
+      },
+      {
+       "word": "match",
+       "vi": "trận đấu",
+       "pos": "noun"
+      },
+      {
+       "word": "goal",
+       "vi": "bàn thắng; khung thành",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "come on"
+     ],
+     "collocations": [
+      "play football",
+      "swim in the sea",
+      "run fast",
+      "soccer player",
+      "tennis match"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.51",
+     "theme": "music and films",
+     "words": [
+      {
+       "word": "music",
+       "vi": "âm nhạc",
+       "pos": "noun"
+      },
+      {
+       "word": "musician",
+       "vi": "nhạc sĩ",
+       "pos": "noun"
+      },
+      {
+       "word": "song",
+       "vi": "bài hát",
+       "pos": "noun"
+      },
+      {
+       "word": "band",
+       "vi": "ban nhạc",
+       "pos": "noun"
+      },
+      {
+       "word": "guitar",
+       "vi": "đàn ghi-ta",
+       "pos": "noun"
+      },
+      {
+       "word": "piano",
+       "vi": "đàn piano",
+       "pos": "noun"
+      },
+      {
+       "word": "drum",
+       "vi": "trống",
+       "pos": "noun"
+      },
+      {
+       "word": "movie",
+       "vi": "phim (Mỹ; Anh: film)",
+       "pos": "noun"
+      },
+      {
+       "word": "opera",
+       "vi": "nhạc kịch opera",
+       "pos": "noun"
+      },
+      {
+       "word": "pop",
+       "vi": "nhạc pop",
+       "pos": "noun"
+      },
+      {
+       "word": "fan",
+       "vi": "người hâm mộ",
+       "pos": "noun"
+      },
+      {
+       "word": "CD",
+       "vi": "đĩa CD",
+       "pos": "noun"
+      },
+      {
+       "word": "dvd",
+       "vi": "đĩa DVD",
+       "pos": "noun"
+      },
+      {
+       "word": "CD player",
+       "vi": "máy nghe đĩa CD",
+       "pos": "noun"
+      },
+      {
+       "word": "stage",
+       "vi": "sân khấu",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "turn on",
+      "turn off",
+      "turn up"
+     ],
+     "collocations": [
+      "listen to music",
+      "sing a song",
+      "play the guitar",
+      "movie star",
+      "on stage"
+     ],
+     "grammar": [
+      "122"
+     ],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.52",
+     "theme": "making plans for the weekend",
+     "words": [
+      {
+       "word": "plan",
+       "vi": "kế hoạch; lên kế hoạch",
+       "pos": "noun"
+      },
+      {
+       "word": "party",
+       "vi": "bữa tiệc",
+       "pos": "noun"
+      },
+      {
+       "word": "picnic",
+       "vi": "dã ngoại",
+       "pos": "noun"
+      },
+      {
+       "word": "camp",
+       "vi": "cắm trại",
+       "pos": "verb"
+      },
+      {
+       "word": "tonight",
+       "vi": "tối nay",
+       "pos": "adv"
+      },
+      {
+       "word": "vacation",
+       "vi": "kỳ nghỉ (Mỹ; Anh: holiday)",
+       "pos": "noun"
+      },
+      {
+       "word": "festival",
+       "vi": "lễ hội",
+       "pos": "noun"
+      },
+      {
+       "word": "celebrate",
+       "vi": "ăn mừng; tổ chức (lễ)",
+       "pos": "verb"
+      },
+      {
+       "word": "celebration",
+       "vi": "lễ kỷ niệm; sự ăn mừng",
+       "pos": "noun"
+      },
+      {
+       "word": "merry",
+       "vi": "vui vẻ (Merry Christmas)",
+       "pos": "adj"
+      },
+      {
+       "word": "beach",
+       "vi": "bãi biển",
+       "pos": "noun"
+      },
+      {
+       "word": "surf",
+       "vi": "lướt sóng",
+       "pos": "verb"
+      },
+      {
+       "word": "Olympics",
+       "vi": "Thế vận hội",
+       "pos": "noun"
+      },
+      {
+       "word": "ready",
+       "vi": "sẵn sàng",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [
+      "go out",
+      "come along",
+      "put up"
+     ],
+     "collocations": [
+      "make plans",
+      "have a party",
+      "go on a picnic",
+      "go camping",
+      "go on vacation",
+      "get ready",
+      "celebrate a birthday"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "A Party on Saturday"
+    }
+   ]
+  },
+  {
+   "unit": 14,
+   "title": {
+    "en": "Weather and seasons",
+    "vi": "Thời tiết, mùa"
+   },
+   "sheets": [
+    {
+     "id": "a1.53",
+     "theme": "the weather today",
+     "words": [
+      {
+       "word": "weather",
+       "vi": "thời tiết",
+       "pos": "noun"
+      },
+      {
+       "word": "sun",
+       "vi": "mặt trời",
+       "pos": "noun"
+      },
+      {
+       "word": "sunny",
+       "vi": "nắng",
+       "pos": "adj"
+      },
+      {
+       "word": "rain",
+       "vi": "mưa",
+       "pos": "noun"
+      },
+      {
+       "word": "rainy",
+       "vi": "có mưa",
+       "pos": "adj"
+      },
+      {
+       "word": "cloud",
+       "vi": "mây",
+       "pos": "noun"
+      },
+      {
+       "word": "cloudy",
+       "vi": "nhiều mây",
+       "pos": "adj"
+      },
+      {
+       "word": "snow",
+       "vi": "tuyết",
+       "pos": "noun"
+      },
+      {
+       "word": "snowy",
+       "vi": "có tuyết",
+       "pos": "adj"
+      },
+      {
+       "word": "wind",
+       "vi": "gió",
+       "pos": "noun"
+      },
+      {
+       "word": "foggy",
+       "vi": "có sương mù",
+       "pos": "adj"
+      },
+      {
+       "word": "hot",
+       "vi": "nóng",
+       "pos": "adj"
+      },
+      {
+       "word": "cold",
+       "vi": "lạnh",
+       "pos": "adj"
+      },
+      {
+       "word": "warm",
+       "vi": "ấm",
+       "pos": "adj"
+      },
+      {
+       "word": "sunshine",
+       "vi": "ánh nắng",
+       "pos": "noun"
+      },
+      {
+       "word": "humid",
+       "vi": "nồm, ẩm (thời tiết)",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "heavy rain",
+      "strong wind",
+      "in the sun",
+      "catch a cold",
+      "bad weather",
+      "sunny day"
+     ],
+     "grammar": [
+      "69",
+      "141"
+     ],
+     "grammar_words": [
+      "will"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.54",
+     "theme": "seasons and months",
+     "words": [
+      {
+       "word": "spring",
+       "vi": "mùa xuân",
+       "pos": "noun"
+      },
+      {
+       "word": "summer",
+       "vi": "mùa hè",
+       "pos": "noun"
+      },
+      {
+       "word": "autumn",
+       "vi": "mùa thu (Anh; Mỹ: fall)",
+       "pos": "noun"
+      },
+      {
+       "word": "winter",
+       "vi": "mùa đông",
+       "pos": "noun"
+      },
+      {
+       "word": "January",
+       "vi": "tháng Một",
+       "pos": "noun"
+      },
+      {
+       "word": "February",
+       "vi": "tháng Hai",
+       "pos": "noun"
+      },
+      {
+       "word": "March",
+       "vi": "tháng Ba",
+       "pos": "noun"
+      },
+      {
+       "word": "April",
+       "vi": "tháng Tư",
+       "pos": "noun"
+      },
+      {
+       "word": "May",
+       "vi": "tháng Năm",
+       "pos": "noun"
+      },
+      {
+       "word": "June",
+       "vi": "tháng Sáu",
+       "pos": "noun"
+      },
+      {
+       "word": "July",
+       "vi": "tháng Bảy",
+       "pos": "noun"
+      },
+      {
+       "word": "August",
+       "vi": "tháng Tám",
+       "pos": "noun"
+      },
+      {
+       "word": "September",
+       "vi": "tháng Chín",
+       "pos": "noun"
+      },
+      {
+       "word": "October",
+       "vi": "tháng Mười",
+       "pos": "noun"
+      },
+      {
+       "word": "November",
+       "vi": "tháng Mười một",
+       "pos": "noun"
+      },
+      {
+       "word": "December",
+       "vi": "tháng Mười hai",
+       "pos": "noun"
+      },
+      {
+       "word": "season",
+       "vi": "mùa",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "rainy season",
+      "summer vacation",
+      "spring break",
+      "cold winter"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.55",
+     "theme": "clothes for the weather",
+     "words": [
+      {
+       "word": "coat",
+       "vi": "áo khoác dài",
+       "pos": "noun"
+      },
+      {
+       "word": "umbrella",
+       "vi": "ô; dù",
+       "pos": "noun"
+      },
+      {
+       "word": "cap",
+       "vi": "mũ lưỡi trai",
+       "pos": "noun"
+      },
+      {
+       "word": "hat",
+       "vi": "mũ",
+       "pos": "noun"
+      },
+      {
+       "word": "wear",
+       "vi": "mặc; đội; đeo",
+       "pos": "verb"
+      },
+      {
+       "word": "dry",
+       "vi": "khô",
+       "pos": "adj"
+      },
+      {
+       "word": "thick",
+       "vi": "dày",
+       "pos": "adj"
+      },
+      {
+       "word": "ice",
+       "vi": "băng; đá",
+       "pos": "noun"
+      },
+      {
+       "word": "cover",
+       "vi": "che; phủ",
+       "pos": "verb"
+      },
+      {
+       "word": "fire",
+       "vi": "lửa",
+       "pos": "noun"
+      },
+      {
+       "word": "heavy",
+       "vi": "nặng; (mưa) to",
+       "pos": "adj"
+      },
+      {
+       "word": "bright",
+       "vi": "sáng; rực rỡ",
+       "pos": "adj"
+      },
+      {
+       "word": "terrible",
+       "vi": "kinh khủng",
+       "pos": "adj"
+      },
+      {
+       "word": "cream",
+       "vi": "kem (bôi)",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "put on",
+      "take off"
+     ],
+     "collocations": [
+      "wear a hat",
+      "take an umbrella",
+      "heavy coat",
+      "keep dry",
+      "bright color",
+      "terrible weather"
+     ],
+     "grammar": [],
+     "grammar_words": [
+      "if"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.56",
+     "theme": "nature around you",
+     "words": [
+      {
+       "word": "sky",
+       "vi": "bầu trời",
+       "pos": "noun"
+      },
+      {
+       "word": "star",
+       "vi": "ngôi sao",
+       "pos": "noun"
+      },
+      {
+       "word": "moon",
+       "vi": "mặt trăng",
+       "pos": "noun"
+      },
+      {
+       "word": "tree",
+       "vi": "cây",
+       "pos": "noun"
+      },
+      {
+       "word": "river",
+       "vi": "sông",
+       "pos": "noun"
+      },
+      {
+       "word": "mountain",
+       "vi": "núi",
+       "pos": "noun"
+      },
+      {
+       "word": "hill",
+       "vi": "đồi",
+       "pos": "noun"
+      },
+      {
+       "word": "stone",
+       "vi": "hòn đá",
+       "pos": "noun"
+      },
+      {
+       "word": "field",
+       "vi": "cánh đồng",
+       "pos": "noun"
+      },
+      {
+       "word": "ground",
+       "vi": "mặt đất",
+       "pos": "noun"
+      },
+      {
+       "word": "pollution",
+       "vi": "ô nhiễm",
+       "pos": "noun"
+      },
+      {
+       "word": "high",
+       "vi": "cao",
+       "pos": "adj"
+      },
+      {
+       "word": "garbage",
+       "vi": "rác (Mỹ; Anh: rubbish)",
+       "pos": "noun"
+      },
+      {
+       "word": "dark",
+       "vi": "tối",
+       "pos": "adj"
+      },
+      {
+       "word": "ocean",
+       "vi": "đại dương, biển",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "blue sky",
+      "tall tree",
+      "along the river",
+      "water pollution",
+      "take out the garbage",
+      "get dark"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "The Weather in Washington"
+    }
+   ]
+  },
+  {
+   "unit": 15,
+   "title": {
+    "en": "Animals and nature",
+    "vi": "Động vật, thiên nhiên"
+   },
+   "sheets": [
+    {
+     "id": "a1.57",
+     "theme": "pets",
+     "words": [
+      {
+       "word": "pet",
+       "vi": "thú cưng",
+       "pos": "noun"
+      },
+      {
+       "word": "animal",
+       "vi": "động vật",
+       "pos": "noun"
+      },
+      {
+       "word": "dog",
+       "vi": "con chó",
+       "pos": "noun"
+      },
+      {
+       "word": "cat",
+       "vi": "con mèo",
+       "pos": "noun"
+      },
+      {
+       "word": "rabbit",
+       "vi": "con thỏ",
+       "pos": "noun"
+      },
+      {
+       "word": "mouse",
+       "vi": "con chuột",
+       "pos": "noun"
+      },
+      {
+       "word": "bird",
+       "vi": "con chim",
+       "pos": "noun"
+      },
+      {
+       "word": "feed",
+       "vi": "cho ăn",
+       "pos": "verb"
+      },
+      {
+       "word": "care",
+       "vi": "chăm sóc (take care of)",
+       "pos": "verb"
+      },
+      {
+       "word": "throw",
+       "vi": "ném",
+       "pos": "verb"
+      },
+      {
+       "word": "catch",
+       "vi": "bắt",
+       "pos": "verb"
+      },
+      {
+       "word": "better",
+       "vi": "tốt hơn",
+       "pos": "adj"
+      },
+      {
+       "word": "jump",
+       "vi": "nhảy",
+       "pos": "verb"
+      },
+      {
+       "word": "difference",
+       "vi": "sự khác nhau",
+       "pos": "noun"
+      },
+      {
+       "word": "little",
+       "vi": "nhỏ bé; một chút",
+       "pos": "adj"
+      }
+     ],
+     "phrasal": [
+      "look after",
+      "run away"
+     ],
+     "collocations": [
+      "take care of",
+      "feed the cat",
+      "catch a ball",
+      "make a difference",
+      "pet dog",
+      "little by little"
+     ],
+     "grammar": [
+      "38"
+     ],
+     "grammar_words": [
+      "more",
+      "most",
+      "than",
+      "as"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.58",
+     "theme": "animals at the zoo",
+     "words": [
+      {
+       "word": "zoo",
+       "vi": "sở thú",
+       "pos": "noun"
+      },
+      {
+       "word": "lion",
+       "vi": "sư tử",
+       "pos": "noun"
+      },
+      {
+       "word": "tiger",
+       "vi": "con hổ",
+       "pos": "noun"
+      },
+      {
+       "word": "monkey",
+       "vi": "con khỉ",
+       "pos": "noun"
+      },
+      {
+       "word": "bear",
+       "vi": "con gấu",
+       "pos": "noun"
+      },
+      {
+       "word": "bat",
+       "vi": "con dơi",
+       "pos": "noun"
+      },
+      {
+       "word": "snake",
+       "vi": "con rắn",
+       "pos": "noun"
+      },
+      {
+       "word": "kill",
+       "vi": "giết",
+       "pos": "verb"
+      },
+      {
+       "word": "fight",
+       "vi": "đánh nhau",
+       "pos": "verb"
+      },
+      {
+       "word": "rat",
+       "vi": "con chuột cống",
+       "pos": "noun"
+      },
+      {
+       "word": "strange",
+       "vi": "lạ",
+       "pos": "adj"
+      },
+      {
+       "word": "king",
+       "vi": "vua",
+       "pos": "noun"
+      },
+      {
+       "word": "climb",
+       "vi": "leo; trèo",
+       "pos": "verb"
+      },
+      {
+       "word": "tail",
+       "vi": "cái đuôi",
+       "pos": "noun"
+      },
+      {
+       "word": "wing",
+       "vi": "cánh",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "go to the zoo",
+      "climb a tree",
+      "strange animal",
+      "long tail",
+      "king of the animals"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.59",
+     "theme": "plants and gardens",
+     "words": [
+      {
+       "word": "garden",
+       "vi": "khu vườn (Anh còn gọi cả sân vườn quanh nhà; Mỹ: yard)",
+       "pos": "noun"
+      },
+      {
+       "word": "flower",
+       "vi": "bông hoa",
+       "pos": "noun"
+      },
+      {
+       "word": "leaf",
+       "vi": "chiếc lá",
+       "pos": "noun"
+      },
+      {
+       "word": "grass",
+       "vi": "cỏ",
+       "pos": "noun"
+      },
+      {
+       "word": "rose",
+       "vi": "hoa hồng",
+       "pos": "noun"
+      },
+      {
+       "word": "lily",
+       "vi": "hoa loa kèn; hoa huệ",
+       "pos": "noun"
+      },
+      {
+       "word": "bee",
+       "vi": "con ong",
+       "pos": "noun"
+      },
+      {
+       "word": "butterfly",
+       "vi": "con bướm",
+       "pos": "noun"
+      },
+      {
+       "word": "frog",
+       "vi": "con ếch",
+       "pos": "noun"
+      },
+      {
+       "word": "dig",
+       "vi": "đào",
+       "pos": "verb"
+      },
+      {
+       "word": "hole",
+       "vi": "cái lỗ; cái hố",
+       "pos": "noun"
+      },
+      {
+       "word": "pick",
+       "vi": "hái; nhặt",
+       "pos": "verb"
+      },
+      {
+       "word": "smell",
+       "vi": "ngửi; mùi",
+       "pos": "verb"
+      },
+      {
+       "word": "yard",
+       "vi": "sân · Mỹ: yard = sân vườn quanh nhà (Anh: garden)",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [],
+     "collocations": [
+      "in the garden",
+      "pick flowers",
+      "dig a hole",
+      "smell good",
+      "green leaves"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.60",
+     "theme": "the countryside",
+     "words": [
+      {
+       "word": "farm",
+       "vi": "trang trại",
+       "pos": "noun"
+      },
+      {
+       "word": "cow",
+       "vi": "con bò",
+       "pos": "noun"
+      },
+      {
+       "word": "pig",
+       "vi": "con lợn",
+       "pos": "noun"
+      },
+      {
+       "word": "sheep",
+       "vi": "con cừu",
+       "pos": "noun"
+      },
+      {
+       "word": "horse",
+       "vi": "con ngựa",
+       "pos": "noun"
+      },
+      {
+       "word": "turkey",
+       "vi": "gà tây",
+       "pos": "noun"
+      },
+      {
+       "word": "bean",
+       "vi": "hạt đậu",
+       "pos": "noun"
+      },
+      {
+       "word": "corn",
+       "vi": "ngô",
+       "pos": "noun"
+      },
+      {
+       "word": "lonely",
+       "vi": "cô đơn",
+       "pos": "adj"
+      },
+      {
+       "word": "ideal",
+       "vi": "lý tưởng",
+       "pos": "adj"
+      },
+      {
+       "word": "living",
+       "vi": "cuộc sống; đang sống",
+       "pos": "noun"
+      },
+      {
+       "word": "life",
+       "vi": "cuộc sống",
+       "pos": "noun"
+      },
+      {
+       "word": "quiet",
+       "vi": "yên tĩnh",
+       "pos": "adj"
+      },
+      {
+       "word": "grow",
+       "vi": "trồng; lớn lên",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "grow up"
+     ],
+     "collocations": [
+      "farm animals",
+      "grow vegetables",
+      "quiet place",
+      "make a living",
+      "feel lonely",
+      "ride a horse"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "My Grandparents' Farm"
+    }
+   ]
+  },
+  {
+   "unit": 16,
+   "title": {
+    "en": "Last weekend",
+    "vi": "Cuối tuần qua"
+   },
+   "sheets": [
+    {
+     "id": "a1.61",
+     "theme": "Where were you?",
+     "words": [
+      {
+       "word": "yesterday",
+       "vi": "hôm qua",
+       "pos": "adv"
+      },
+      {
+       "word": "ago",
+       "vi": "cách đây; trước",
+       "pos": "adv"
+      },
+      {
+       "word": "happen",
+       "vi": "xảy ra",
+       "pos": "verb"
+      },
+      {
+       "word": "exciting",
+       "vi": "thú vị; hấp dẫn",
+       "pos": "adj"
+      },
+      {
+       "word": "excited",
+       "vi": "hào hứng",
+       "pos": "adj"
+      },
+      {
+       "word": "lucky",
+       "vi": "may mắn",
+       "pos": "adj"
+      },
+      {
+       "word": "luck",
+       "vi": "vận may",
+       "pos": "noun"
+      },
+      {
+       "word": "contest",
+       "vi": "cuộc thi",
+       "pos": "noun"
+      },
+      {
+       "word": "boring",
+       "vi": "chán; nhàm chán",
+       "pos": "adj"
+      },
+      {
+       "word": "late",
+       "vi": "muộn",
+       "pos": "adj"
+      },
+      {
+       "word": "concert",
+       "vi": "buổi hòa nhạc",
+       "pos": "noun"
+      },
+      {
+       "word": "arrive",
+       "vi": "đến nơi",
+       "pos": "verb"
+      },
+      {
+       "word": "visit",
+       "vi": "thăm",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "come back"
+     ],
+     "collocations": [
+      "visit friends",
+      "late for school",
+      "good luck",
+      "excited about",
+      "win a contest",
+      "arrive at"
+     ],
+     "grammar": [
+      "64"
+     ],
+     "grammar_words": [
+      "was",
+      "were"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.62",
+     "theme": "what you did",
+     "words": [
+      {
+       "word": "kick",
+       "vi": "đá",
+       "pos": "verb"
+      },
+      {
+       "word": "cut",
+       "vi": "cắt",
+       "pos": "verb"
+      },
+      {
+       "word": "drop",
+       "vi": "làm rơi",
+       "pos": "verb"
+      },
+      {
+       "word": "push",
+       "vi": "đẩy",
+       "pos": "verb"
+      },
+      {
+       "word": "forget",
+       "vi": "quên",
+       "pos": "verb"
+      },
+      {
+       "word": "remember",
+       "vi": "nhớ",
+       "pos": "verb"
+      },
+      {
+       "word": "guess",
+       "vi": "đoán",
+       "pos": "verb"
+      },
+      {
+       "word": "touch",
+       "vi": "chạm",
+       "pos": "verb"
+      },
+      {
+       "word": "shake",
+       "vi": "lắc; bắt (tay)",
+       "pos": "verb"
+      },
+      {
+       "word": "pray",
+       "vi": "cầu nguyện",
+       "pos": "verb"
+      },
+      {
+       "word": "set",
+       "vi": "đặt; dọn (bàn)",
+       "pos": "verb"
+      },
+      {
+       "word": "clean",
+       "vi": "dọn dẹp; sạch",
+       "pos": "verb"
+      }
+     ],
+     "phrasal": [
+      "clean up",
+      "give back",
+      "throw away"
+     ],
+     "collocations": [
+      "forget about",
+      "set the table",
+      "keep in touch",
+      "guess what",
+      "shake hands",
+      "kick the ball",
+      "cut your hair"
+     ],
+     "grammar": [
+      "65"
+     ],
+     "grammar_words": [
+      "did",
+      "had"
+     ],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.63",
+     "theme": "a trip in the past",
+     "words": [
+      {
+       "word": "trip",
+       "vi": "chuyến đi",
+       "pos": "noun"
+      },
+      {
+       "word": "travel",
+       "vi": "du lịch; đi lại",
+       "pos": "verb"
+      },
+      {
+       "word": "memory",
+       "vi": "kỷ niệm; trí nhớ",
+       "pos": "noun"
+      },
+      {
+       "word": "photo",
+       "vi": "bức ảnh",
+       "pos": "noun"
+      },
+      {
+       "word": "hotel",
+       "vi": "khách sạn",
+       "pos": "noun"
+      },
+      {
+       "word": "palace",
+       "vi": "cung điện",
+       "pos": "noun"
+      },
+      {
+       "word": "ship",
+       "vi": "con tàu",
+       "pos": "noun"
+      },
+      {
+       "word": "sea",
+       "vi": "biển",
+       "pos": "noun"
+      },
+      {
+       "word": "fly",
+       "vi": "bay",
+       "pos": "verb"
+      },
+      {
+       "word": "island",
+       "vi": "hòn đảo",
+       "pos": "noun"
+      },
+      {
+       "word": "spot",
+       "vi": "địa điểm",
+       "pos": "noun"
+      },
+      {
+       "word": "almost",
+       "vi": "gần như",
+       "pos": "adv"
+      },
+      {
+       "word": "sight",
+       "vi": "cảnh đẹp; thị lực",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "set off",
+      "check in",
+      "check out"
+     ],
+     "collocations": [
+      "take a trip",
+      "take photos",
+      "hotel room",
+      "good memories",
+      "fly to",
+      "travel around"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": false,
+     "reading_title": null
+    },
+    {
+     "id": "a1.64",
+     "theme": "telling a short story",
+     "words": [
+      {
+       "word": "story",
+       "vi": "câu chuyện",
+       "pos": "noun"
+      },
+      {
+       "word": "fairy",
+       "vi": "nàng tiên (fairy tale: truyện cổ tích)",
+       "pos": "noun"
+      },
+      {
+       "word": "ghost",
+       "vi": "con ma",
+       "pos": "noun"
+      },
+      {
+       "word": "prince",
+       "vi": "hoàng tử",
+       "pos": "noun"
+      },
+      {
+       "word": "princess",
+       "vi": "công chúa",
+       "pos": "noun"
+      },
+      {
+       "word": "spy",
+       "vi": "gián điệp",
+       "pos": "noun"
+      },
+      {
+       "word": "believe",
+       "vi": "tin",
+       "pos": "verb"
+      },
+      {
+       "word": "imagine",
+       "vi": "tưởng tượng",
+       "pos": "verb"
+      },
+      {
+       "word": "begin",
+       "vi": "bắt đầu",
+       "pos": "verb"
+      },
+      {
+       "word": "poem",
+       "vi": "bài thơ",
+       "pos": "noun"
+      },
+      {
+       "word": "reader",
+       "vi": "người đọc",
+       "pos": "noun"
+      },
+      {
+       "word": "action",
+       "vi": "hành động",
+       "pos": "noun"
+      },
+      {
+       "word": "cartoon",
+       "vi": "phim hoạt hình",
+       "pos": "noun"
+      }
+     ],
+     "phrasal": [
+      "find out",
+      "turn into",
+      "go on"
+     ],
+     "collocations": [
+      "tell a story",
+      "believe in",
+      "ghost story",
+      "write a poem",
+      "watch cartoons"
+     ],
+     "grammar": [],
+     "grammar_words": [],
+     "has_reading": true,
+     "reading_title": "Our Trip to San Diego"
+    }
+   ]
+  }
+ ]
+}
