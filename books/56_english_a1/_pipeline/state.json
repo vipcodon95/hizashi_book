@@ -6,7 +6,7 @@
   "topic": "Sách bài tập đọc hiểu A1 bám khoá tiếng Anh Hizashi, dàn nhân vật Maple Street",
   "target_audience": "Người Việt học tiếng Anh từ đầu, đang học khoá A1 trên app Hizashi",
   "domain_expert_role": "Giáo viên luyện thi VSTEP / CEFR",
-  "current_stage": 4,
+  "current_stage": 5,
   "stages": {
     "01_research": {
       "status": "done",
@@ -25,7 +25,7 @@
       "note": "gộp vào outline"
     },
     "04_content": {
-      "status": "in_progress",
+      "status": "done",
       "chapters_done": [
         "u01",
         "u02",
@@ -42,9 +42,11 @@
         "u13",
         "u14",
         "u15",
+        "u16",
         "mock1"
       ],
-      "started_at": "2026-11-03T05:43:39"
+      "started_at": "2026-11-03T05:43:39",
+      "completed_at": "2026-11-03T06:37:20"
     },
     "05_review": {
       "status": "pending"
@@ -80,6 +82,6 @@
   ],
   "metadata": {
     "started_at": "2026-11-03T05:43:39",
-    "last_action": "Viết xong mock1 đề thi thử A1"
+    "last_action": "Xong stage 04: 16 unit + đề thi thử"
   }
 }
