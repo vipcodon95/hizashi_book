@@ -1,26 +1,42 @@
 #!/usr/bin/env python3
-"""Kiểm tra từ vựng trong văn bản tiếng Anh có vượt cấp CEFR mục tiêu không.
+"""Soát vốn từ + ngữ pháp của bài đọc tiếng Anh theo khoá Hizashi (hoặc theo cấp CEFR).
 
 Usage:
-    python3 _shared/scripts/check_cefr_level.py --sheet a1.12 file1.json [file2.md ...]   ← theo khoá Hizashi
-    python3 _shared/scripts/check_cefr_level.py --level A1 file1.json [file2.md ...]
+    python3 _shared/scripts/check_cefr_level.py <chương>_BaiTap.json        ← tự lấy phiếu cuối trong meta.curriculum_sheets
+    python3 _shared/scripts/check_cefr_level.py --sheet a1.12 file.json [file.md ...]
     python3 _shared/scripts/check_cefr_level.py --level A1 --text "Some English text"
 
-- File .json (schema study-course-questions-builder): soát content_ja của reading_passages,
-  question_jp và text của choices (tiếng Anh nằm ở các khoá này).
-- File .md: chỉ soát dòng '> ' nằm ngay dưới heading '## Bài đọc …' (trước '### ').
-- Báo: từ VƯỢT CẤP (có trong list nhưng cao hơn) và từ KHÔNG CÓ trong list (cần người xem).
-- --sheet <mã phiếu>: vốn từ = mọi từ + grammar_words + collocations của các phiếu từ a1.01
-  tới phiếu đó (cộng dồn, _shared/en_curriculum/), cộng từ CEFR-J của các cấp DƯỚI cấp hiện tại.
-  Báo thêm: từ mới của unit chứa phiếu đó đã được dùng bao nhiêu.
-- Tên riêng: từ viết hoa không đứng đầu câu bỏ qua; thêm --allow "Mai,Nam,Tom" để chắc.
+Soát gì:
+- JSON: segments[].en (hoặc content_ja), question_jp, choices[].text.
+- MD: dòng '> ' ngay dưới heading '## Bài đọc …'.
+
+Theo khoá (--sheet hoặc tự lấy từ JSON):
+- VỐN TỪ tới phiếu X = mọi từ + grammar_words + collocations + phrasal của các phiếu từ a1.01 tới X
+  (cộng dồn, _shared/en_curriculum/), + từ CEFR-J của các cấp DƯỚI cấp hiện tại.
+- Từ đã chú nghĩa trong `lesson.extra_words` của JSON được chấp nhận (liệt kê riêng).
+- NGOÀI PHẠM VI: từ không có trong vốn từ → thay, hoặc thêm vào lesson.extra_words kèm nghĩa.
+- ⚠️ NGỮ PHÁP CHƯA HỌC: cấu trúc mà khoá dạy ở phiếu SAU X (quá khứ, will, tiếp diễn, so sánh…).
+  Đây là cảnh báo theo mẫu câu, có thể bắt nhầm — đọc lại câu rồi mới quyết.
+- Độ phủ: bao nhiêu từ của unit chứa X đã được dùng.
+
+Tên riêng: tên trong dàn nhân vật + địa danh khoá học được cho phép sẵn; thêm --allow "Name1,Name2".
+Thoát mã 1 nếu có từ ngoài phạm vi (chế độ khoá) hoặc từ vượt cấp (chế độ --level).
 """
 from __future__ import annotations
 import argparse, csv, json, re, sys
 from pathlib import Path
 
-DATA = Path(__file__).resolve().parent.parent / "english_cefr"
+BASE = Path(__file__).resolve().parent.parent
+DATA = BASE / "english_cefr"
+CURR = BASE / "en_curriculum"
 ORDER = ["A1", "A2", "B1", "B2", "C1", "C2"]
+LEVELS = ("a1", "a2", "b1", "b2", "c1")
+
+CAST = ("Mitchell Megan Tracy Trevor Tina Biscuit Carter Carters Harriet Nathan Helena Amy Brooks Leah Ethan Hayes "
+        "Chloe Bennett Lydia Park Maple Street San Diego Westview High Mr Mrs Ms Dr "
+        "Washington New York Philadelphia Miami Savannah Asheville Aspen Maui Monterey Mississippi Baltimore "
+        "Orleans Mammoth Cave Georgetown California America American English")
+
 IRREG = {
     "am": "be", "is": "be", "are": "be", "was": "be", "were": "be", "been": "be", "being": "be",
     "has": "have", "had": "have", "does": "do", "did": "do", "done": "do", "goes": "go", "went": "go",
@@ -32,43 +48,69 @@ IRREG = {
     "thought": "think", "told": "tell", "said": "say", "left": "leave", "felt": "feel", "met": "meet",
     "ran": "run", "sat": "sit", "stood": "stand", "began": "begin", "knew": "know", "known": "know",
     "found": "find", "kept": "keep", "slept": "sleep", "spoke": "speak", "spoken": "speak",
+    "drank": "drink", "drove": "drive", "flew": "fly", "swam": "swim", "sang": "sing", "won": "win",
+    "lost": "lose", "paid": "pay", "sent": "send", "spent": "spend", "brought": "bring", "caught": "catch",
     "lives": "live", "wives": "wife", "knives": "knife", "i'm": "i", "it's": "it", "don't": "do",
     "doesn't": "do", "can't": "can", "i've": "i", "you're": "you", "we're": "we", "they're": "they",
     "he's": "he", "she's": "she", "that's": "that", "let's": "let", "isn't": "be", "aren't": "be",
-    "won't": "will", "o'clock": "o'clock",
+    "won't": "will", "what's": "what", "where's": "where", "who's": "who", "here's": "here",
+    "there's": "there", "haven't": "have", "hasn't": "have", "you've": "you", "we've": "we",
+    "they've": "they", "i'll": "i", "you'll": "you", "o'clock": "o'clock",
 }
+PAST_IRR = {k for k, v in IRREG.items() if k in (
+    "went saw did had came got made took gave ate wrote bought thought told said left felt met ran sat stood "
+    "began knew found kept slept spoke drank drove flew swam sang won lost paid sent spent taught brought caught").split()}
 
-def load() -> dict[str, str]:
+# (regex trên câu đã lowercase, mã ngữ pháp trong grammar.json, mô tả)
+GATES = [
+    (r"\b(was|were|wasn't|weren't)\b", "64", "quá khứ của be (was/were)"),
+    (r"PAST", "65", "quá khứ đơn (V-ed / bất quy tắc)"),
+    (r"\b(am|is|are|'m|'s|'re)\s+(not\s+)?ING", "61", "hiện tại tiếp diễn (be + V-ing)"),
+    (r"\bgoing to\b", "122", "be going to"),
+    (r"\b(will|won't)\b|\w'll\b", "69", "tương lai với will"),
+    (r"\bthan\b", "38", "so sánh hơn (… than)"),
+    (r"\bwould\b|\w'd like\b", "142", "would / would like"),
+    (r"\bthere (is|are|isn't|aren't)\b|\bthere's\b", "146", "there is / there are"),
+    (r"\blet's\b", "120", "Let's"),
+    (r"\b(has|have|'ve|'s)\s+(not\s+)?got\b", "s5", "have got"),
+    (r"\bcould\b", "124", "could"),
+    (r"\b(has|have|had) to\b", "127", "have to"),
+    (r"\bmust\b|\bmustn't\b", "135", "must"),
+    (r"\bshould\b", "139", "should"),
+    (r"\b(has|have|'ve|hasn't|haven't)\s+(not\s+)?(been|PP)\b", "62", "hiện tại hoàn thành"),
+    (r"\b(may|might)\b", "132", "may / might"),
+    (r"\bif\b", "156", "câu điều kiện if"),
+    (r"\bused to\b", "140", "used to"),
+]
+
+def load_cefr() -> tuple[dict[str, str], set[str], set[str]]:
     lv: dict[str, str] = {}
+    verbs: set[str] = set()
+    adjs: set[str] = set()
     for f in ("cefrj-vocabulary-profile-1.5.csv", "octanove-vocabulary-profile-c1c2-1.0.csv"):
         for r in csv.DictReader(open(DATA / f, encoding="utf-8")):
             for hw in r["headword"].split("/"):
                 hw = hw.strip().lower()
                 if not hw:
                     continue
-                cur = lv.get(hw)
-                if cur is None or ORDER.index(r["CEFR"]) < ORDER.index(cur):
+                if lv.get(hw) is None or ORDER.index(r["CEFR"]) < ORDER.index(lv[hw]):
                     lv[hw] = r["CEFR"]
-    return lv
+                if r["pos"] == "verb":
+                    verbs.add(hw)
+                elif r["pos"] in ("adjective", "noun"):
+                    adjs.add(hw)
+    return lv, verbs, adjs
 
-CURR = Path(__file__).resolve().parent.parent / "en_curriculum"
-
-def load_curriculum(sheet: str):
-    """Trả (known_words, unit_words, unit_title) cho mã phiếu, ví dụ 'a1.12'."""
-    known: set[str] = set()
-    for lvl in ("a1", "a2", "b1", "b2", "c1"):
-        for u in json.load(open(CURR / f"{lvl}.json", encoding="utf-8"))["units"]:
-            ids = [s["id"] for s in u["sheets"]]
+def sheet_order() -> list[dict]:
+    out = []
+    for lvl in LEVELS:
+        for ui, u in enumerate(json.load(open(CURR / f"{lvl}.json", encoding="utf-8"))["units"], 1):
             for s in u["sheets"]:
-                for w in s["words"]:
-                    known.update(x.lower() for x in re.findall(r"[A-Za-z']+", w["word"]))
-                known.update(x.lower() for g in s["grammar_words"] + s.get("collocations", []) + s.get("phrasal", [])
-                             for x in re.findall(r"[A-Za-z']+", g))
-                if s["id"] == sheet:
-                    unit_words = {w["word"].lower() for x in u["sheets"] if ids.index(x["id"]) <= ids.index(sheet)
-                                  for w in x["words"]}
-                    return known, unit_words, u["title"]["en"]
-    sys.exit(f"Không tìm thấy phiếu {sheet}")
+                out.append({**s, "_unit": ui, "_unit_title": u["title"]["en"], "_unit_ids": [x["id"] for x in u["sheets"]]})
+    return out
+
+def tokens_of(text: str) -> list[str]:
+    return [x.lower() for x in re.findall(r"[A-Za-z']+", text)]
 
 def candidates(w: str):
     yield w
@@ -79,21 +121,20 @@ def candidates(w: str):
         if w.endswith(suf) and len(w) > len(suf) + 1:
             base = w[: -len(suf)] + rep
             yield base
-            if len(base) > 2 and base[-1] == base[-2]:  # running -> run
+            if len(base) > 2 and base[-1] == base[-2]:
                 yield base[:-1]
 
-def word_level(w: str, lv: dict[str, str]):
-    found = [lv[c] for c in candidates(w) if c in lv]
-    return min(found, key=ORDER.index) if found else None
-
-def texts_from(path: Path) -> list[str]:
+def texts_from(path: Path) -> tuple[list[str], dict]:
     if path.suffix == ".json":
         d = json.load(open(path, encoding="utf-8"))
-        out = [p.get("content_ja", "") for p in d.get("reading_passages") or []]
+        out = []
+        for p in d.get("reading_passages") or []:
+            segs = p.get("segments")
+            out += [s["en"] for s in segs] if segs else [p.get("content_ja", "")]
         for q in d.get("questions") or []:
             out.append(q.get("question_jp") or "")
             out += [c.get("text", "") for c in q.get("choices") or []]
-        return out
+        return out, d
     out, in_reading = [], False
     for l in path.read_text(encoding="utf-8").splitlines():
         if l.startswith("## "):
@@ -101,65 +142,125 @@ def texts_from(path: Path) -> list[str]:
         elif l.startswith("### "):
             in_reading = False
         if in_reading and l.startswith("> "):
-            out.append(l[2:])
-    return out
+            out.append(re.sub(r"\*\*[^*]+:\*\*\s*", "", l[2:]))
+    return out, {}
 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--level", choices=ORDER)
-    ap.add_argument("--sheet", help="mã phiếu khoá Hizashi, vd a1.12")
+    ap.add_argument("--sheet", help="mã phiếu, vd a1.12 (mặc định: phiếu cuối trong meta.curriculum_sheets)")
     ap.add_argument("--allow", default="", help="tên riêng/từ cho phép, cách nhau dấu phẩy")
     ap.add_argument("--text")
     ap.add_argument("files", nargs="*")
     a = ap.parse_args()
-    if not (a.level or a.sheet):
-        ap.error("cần --level hoặc --sheet")
-    lv = load()
-    known: set[str] | None = None
-    if a.sheet:
-        known, unit_words, unit_title = load_curriculum(a.sheet.lower())
-        a.level = a.sheet[:2].upper()
-        lower = ORDER[: ORDER.index(a.level)]
-        known |= {w for w, l in lv.items() if l in lower}
+
+    texts: list[str] = []
+    extra: dict[str, str] = {}
+    sheet = a.sheet
+    if a.text:
+        texts = [a.text]
+    for f in a.files:
+        t, d = texts_from(Path(f))
+        texts += t
+        for e in (d.get("lesson") or {}).get("extra_words") or []:
+            extra[e["word"].lower()] = e["vi"]
+        if not sheet and (d.get("meta") or {}).get("curriculum_sheets"):
+            sheet = d["meta"]["curriculum_sheets"][-1]
+    if not (a.level or sheet):
+        ap.error("cần --level, --sheet, hoặc file JSON có meta.curriculum_sheets")
+
+    lv, verbs, nouns_adjs = load_cefr()
+    cast = {x.lower() for x in CAST.split()}
     allow = {x.strip().lower() for x in a.allow.split(",") if x.strip()}
-    texts = [a.text] if a.text else [t for f in a.files for t in texts_from(Path(f))]
-    target = ORDER.index(a.level)
-    over: dict[str, str] = {}
-    outside: set[str] = set()
-    used: set[str] = set()
-    unknown: set[str] = set()
-    total = 0
+    allow |= {x for w in extra for x in tokens_of(w)}
+
+    known: set[str] | None = None
+    if sheet:
+        sheet = sheet.lower()
+        order = sheet_order()
+        idx = next((i for i, s in enumerate(order) if s["id"] == sheet), None)
+        if idx is None:
+            sys.exit(f"Không tìm thấy phiếu {sheet}")
+        known = set()
+        for s in order[: idx + 1]:
+            for w in s["words"]:
+                known.update(tokens_of(w["word"]))
+            for g in s["grammar_words"] + s.get("collocations", []) + s.get("phrasal", []):
+                known.update(tokens_of(g))
+        lvl = sheet.split(".")[0].upper()
+        known |= {w for w, l in lv.items() if ORDER.index(l) < ORDER.index(lvl)}
+        cur = order[idx]
+        unit_words = {w["word"].lower() for s in order if s["id"] in cur["_unit_ids"]
+                      and cur["_unit_ids"].index(s["id"]) <= cur["_unit_ids"].index(sheet) for w in s["words"]}
+        first_sheet: dict[str, int] = {}
+        for i, s in enumerate(order):
+            for gid in s["grammar"]:
+                first_sheet.setdefault(gid, i)
+        a.level = lvl
+
+    total, over, outside, used, glossed = 0, {}, set(), set(), set()
+    gate_hits: dict[str, list[str]] = {}
     for t in texts:
-        for sent in re.split(r"(?<=[.!?:])\s+|\n+", t):
+        for sent in re.split(r"(?<=[.!?])\s+|\n+", t):
             toks = re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", sent)
             for i, tok in enumerate(toks):
                 total += 1
                 w = tok.lower()
-                if w.endswith("'s"):
+                if w.endswith("'s") and w not in IRREG:
                     w = w[:-2]
-                if w in allow or (tok[0].isupper() and i > 0 and w != "i"):
+                if w in extra or any(c in extra for c in candidates(w)):
+                    glossed.add(w)
+                used.update(candidates(w))
+                if w in allow or (tok[0].isupper() and (i > 0 or w in cast) and w != "i"):
                     continue
                 if known is not None:
                     if not any(c in known for c in candidates(w)):
                         outside.add(w)
-                    used.update(candidates(w))
                     continue
-                l = word_level(w, lv)
-                if l is None:
-                    unknown.add(w)
-                elif ORDER.index(l) > target:
-                    over[w] = l
+                found = [lv[c] for c in candidates(w) if c in lv]
+                if found:
+                    l = min(found, key=ORDER.index)
+                    if ORDER.index(l) > ORDER.index(a.level):
+                        over[w] = l
+            if known is None:
+                continue
+            low = sent.lower()
+            for rx, gid, desc in GATES:
+                if gid not in first_sheet or first_sheet[gid] <= idx:
+                    continue
+                hit = False
+                if rx == "PAST":
+                    for w in re.findall(r"[a-z']+", low):
+                        if w in PAST_IRR and not re.search(rf"\b(has|have|'ve|'s)\s+{w}\b", low):
+                            hit = True
+                        elif w.endswith("ed") and w not in nouns_adjs and any(c in verbs for c in list(candidates(w))[1:]):
+                            hit = True
+                else:
+                    r2 = rx.replace("ING", r"[a-z]+ing\b").replace("PP", r"[a-z]+(ed|en)\b")
+                    hit = re.search(r2, low) is not None
+                    if hit and "ING" in rx:
+                        m = re.search(r2, low)
+                        ingw = re.findall(r"[a-z]+ing\b", m.group(0))[-1]
+                        hit = any(c in verbs for c in list(candidates(ingw))[1:]) and ingw not in nouns_adjs
+                if hit:
+                    gate_hits.setdefault(f"{desc} [dạy ở {order[first_sheet[gid]]['id']}]", []).append(sent.strip()[:90])
+
     if known is not None:
-        print(f"Tổng {total} từ | vốn từ tới phiếu {a.sheet} (unit: {unit_title})")
-        print(f"NGOÀI PHẠM VI ({len(outside)}) — cần chú nghĩa hoặc thay:", ", ".join(sorted(outside)) or "—")
+        print(f"Tổng {total} từ | vốn từ tới phiếu {sheet} (unit {cur['_unit']}: {cur['_unit_title']})")
+        print(f"NGOÀI PHẠM VI ({len(outside)}) — thay, hoặc thêm vào lesson.extra_words:", ", ".join(sorted(outside)) or "—")
+        print(f"ĐÃ CHÚ NGHĨA ({len(glossed)}):", ", ".join(sorted(glossed)) or "—")
         hit = sorted(w for w in unit_words if all(x in used for x in w.split()))
-        miss = sorted(unit_words - set(hit))
         print(f"TỪ CỦA UNIT ĐÃ DÙNG {len(hit)}/{len(unit_words)}:", ", ".join(hit))
-        print("  chưa dùng:", ", ".join(miss) or "—")
-        return 0
+        print("  chưa dùng:", ", ".join(sorted(unit_words - set(hit))) or "—")
+        if gate_hits:
+            print(f"⚠️  NGỮ PHÁP CHƯA HỌC ({len(gate_hits)} loại) — đọc lại từng câu:")
+            for k, v in gate_hits.items():
+                print(f"   - {k}: {len(v)} câu, vd: {v[0]!r}")
+        else:
+            print("NGỮ PHÁP CHƯA HỌC: —")
+        return 1 if outside else 0
     print(f"Tổng {total} từ | mục tiêu ≤ {a.level}")
     print(f"VƯỢT CẤP ({len(over)}):", ", ".join(f"{w}[{l}]" for w, l in sorted(over.items())) or "—")
-    print(f"KHÔNG CÓ TRONG LIST ({len(unknown)}):", ", ".join(sorted(unknown)) or "—")
     return 1 if over else 0
 
 if __name__ == "__main__":

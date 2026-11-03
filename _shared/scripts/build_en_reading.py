@@ -7,7 +7,8 @@ Usage:
 NGUỒN SỰ THẬT = file JSON. Người viết chỉ sửa:
   - reading_passages[].segments   ← từng câu: {n, para, kind, speaker, label, en, vi}
   - questions[]                    ← question_jp/question_vn, choices, explanation, evidence_segments
-  - lesson                         ← mục tiêu, danh sách từ trọng tâm, mẹo
+  - lesson                         ← mục tiêu, từ trọng tâm (vocab), từ ngoài bài học (extra_words: [{word, vi}]), mẹo
+  - meta.characters / meta.story_time ← nhân vật chính + thời điểm trong truyện (khớp characters.md)
 
 Script tự sinh lại (đừng sửa tay):
   - reading_passages[].content_ja / translation_vn / word_count   (giữ tương thích schema cũ)
@@ -122,6 +123,8 @@ def main(path: Path) -> int:
     L += [f"# {meta['title']} ({meta['title_vn']})", ""]
     if lesson.get("practice_for"):
         L += [f"> **Luyện cho:** {lesson['practice_for']}", ">"]
+    if meta.get("characters"):
+        L += [f"> **Nhân vật:** {', '.join(meta['characters'])}" + (f" · {meta['story_time']}" if meta.get("story_time") else ""), ">"]
     L += [f"> **Mục tiêu:** {lesson.get('objective', '')}", "", "---", ""]
     vocab = lesson.get("vocab") or []
     if vocab:
@@ -134,6 +137,15 @@ def main(path: Path) -> int:
             vi, pos, sid = cw[w]
             L.append(f"| {w} | {POS_VI.get(pos, pos)} | {vi} | `{sid}` |")
         L.append("")
+        extra = lesson.get("extra_words") or []
+        if extra:
+            L += ["**Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):", "",
+                  "| Từ | Nghĩa |", "|---|---|"]
+            for e in extra:
+                if not (e.get("word") and e.get("vi")):
+                    err(f"lesson.extra_words: thiếu word/vi ở {e}")
+                L.append(f"| {e.get('word')} | {e.get('vi')} |")
+            L.append("")
         if lesson.get("phrases_note"):
             L += [f"> 📌 {lesson['phrases_note']}", ""]
         L += ["---", ""]
