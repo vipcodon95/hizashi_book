@@ -285,7 +285,7 @@ def main(path: Path) -> int:
         print("❌ LỖI:\n  " + "\n  ".join(errors))
         return 1
     path.write_text(json.dumps(d, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    stem = path.name.replace("_BaiTap.json", "_DocHieu")
+    stem = re.sub(r"_(BaiTap|Mogishiken)\.json$", "_DocHieu", path.name)
     for lg, md in mds.items():
         path.with_name(f"{stem}.md" if lg == "vi" else f"{stem}.{lg}.md").write_text(md, encoding="utf-8")
     words = [p["word_count"] for p in d["reading_passages"]]

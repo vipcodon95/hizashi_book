@@ -57,7 +57,7 @@ def run(cmd: list[str]) -> tuple[int, str]:
 def main(folder: Path) -> int:
     bad: list[str] = []
     files = sorted(p.name for p in folder.iterdir() if p.is_file())
-    js = [f for f in files if f.endswith(("_BaiTap.json", "_Mogishiken.json"))]
+    js = [f for f in files if f.endswith(("_BaiTap.json", "_Mogishiken.json"))]  # đề thi thử dùng _Mogishiken
     md = [f for f in files if f.endswith(".md")]
     if len(js) != 1 or len(md) != 1 or len(files) != 2:
         bad.append(f"folder phải có đúng 1 JSON + 1 md, đang có: {files}")
@@ -95,6 +95,11 @@ def main(folder: Path) -> int:
     if hits:
         bad.append(f"từ khoá vùng cấm: {hits}")
 
+    import csv
+    common = set()
+    for fn in ("cefrj-vocabulary-profile-1.5.csv", "octanove-vocabulary-profile-c1c2-1.0.csv"):
+        for r in csv.DictReader(open(ROOT / "_shared/english_cefr" / fn, encoding="utf-8")):
+            common.update(x.strip().lower() for x in r["headword"].split("/"))
     speakers = {s.get("speaker") for p in d["reading_passages"] for s in p["segments"] if s.get("speaker")}
     names = set()
     for t in texts:
@@ -102,9 +107,28 @@ def main(folder: Path) -> int:
             w = m.group(0).removesuffix("'s")
             start = m.start()
             sentence_start = start == 0 or t[:start].rstrip()[-1:] in ".!?:\"“"
-            if w not in CAST and w not in speakers and not sentence_start:
+            base = w.lower()
+            is_common = base in common or base.rstrip("s") in common or base[:-3] + "y" in common
+            if w not in CAST and w not in speakers and not sentence_start and not is_common:
                 names.add(w)
     print(f"[tên riêng lạ] {sorted(names) or '—'}  ← người lạ thì được, nhưng KHÔNG được trùng vai trong dàn nhân vật")
+
+    # soát chéo các chương khác trong cùng sách: người lạ trùng tên, số điện thoại trùng
+    names |= {sp for sp in speakers if sp and sp not in CAST}
+    phones = set(re.findall(r"\d{3}-\d{3}-\d{4}", alltxt))
+    cast_phones = {"619-555-0142", "619-555-0187"}  # Megan, Leah (characters.md)
+    for other in sorted(folder.parent.glob("*/*.json")):
+        if other.parent == folder or other.parent.name.startswith("_"):
+            continue
+        od = json.load(open(other, encoding="utf-8"))
+        otxt = "\n".join(s["i18n"]["en"] for p in od.get("reading_passages", []) for s in p.get("segments", []))
+        same_names = sorted(n for n in names if re.search(rf"\b{n}\b", otxt) and n not in
+                            ("Day", "School", "Club", "Room", "Group", "Street", "Shop", "Ticket", "Hours", "Week"))
+        same_phone = sorted((phones & set(re.findall(r"\d{3}-\d{3}-\d{4}", otxt))) - cast_phones)
+        if same_names:
+            print(f"[trùng tên với {other.parent.name}] {same_names} ← cùng người thì được; KHÁC người thì phải đổi tên")
+        if same_phone:
+            bad.append(f"số điện thoại {same_phone} đã dùng ở {other.parent.name}")
 
     lvl = d["meta"].get("cefr_level", "A1")
     ages = cast_ages(lvl)
