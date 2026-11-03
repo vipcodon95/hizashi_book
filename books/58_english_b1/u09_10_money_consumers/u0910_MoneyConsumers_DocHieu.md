@@ -52,7 +52,7 @@
 >
 > Tina offered to lend me thirty dollars from her savings jar. She said that I could pay her back slowly, but only if I paid an extra dollar every week. Dad laughed and told me not to get into debt with my ten-year-old sister, because she is a tougher banker than any real bank.
 >
-> Grandma Harriet had another idea. Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for ten dollars an hour. I'm not sure whether I'm a good waiter or not, but I'm definitely a hungry one. Mom says that a real job will teach me more than any money lesson at school.
+> Grandma Harriet had another idea. Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for seventeen dollars an hour. I'm not sure whether I'm a good waiter or not, but I'm definitely a hungry one. Mom says that a real job will teach me more than any money lesson at school.
 >
 > By my calculations, I can afford the boots by the end of January, that is, six weeks before the tryouts. I bet Tina will still ask me for the extra dollar anyway.
 
@@ -72,7 +72,7 @@
 | 10 | She said that I could pay her back slowly, but only if I paid an extra dollar every week. | Nó bảo mình được trả từ từ, nhưng tuần nào cũng phải trả thêm một đô. |
 | 11 | Dad laughed and told me not to get into debt with my ten-year-old sister, because she is a tougher banker than any real bank. | Bố cười và dặn đừng có mắc nợ con em gái mười tuổi, vì nó còn làm ngân hàng khó tính hơn cả ngân hàng thật. |
 | 12 | Grandma Harriet had another idea. | Bà Harriet thì có ý khác. |
-| 13 | Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for ten dollars an hour. | Giờ chị Chloe sắp nghỉ, bà cần thêm người phụ vào sáng thứ Bảy, nên mình có thể dọn bàn với giá mười đô một giờ. |
+| 13 | Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for seventeen dollars an hour. | Giờ chị Chloe sắp nghỉ, bà cần thêm người phụ vào sáng thứ Bảy, nên mình có thể dọn bàn với giá mười bảy đô một giờ. |
 | 14 | I'm not sure whether I'm a good waiter or not, but I'm definitely a hungry one. | Mình không chắc mình có phục vụ giỏi hay không, nhưng chắc chắn là một người phục vụ hay đói. |
 | 15 | Mom says that a real job will teach me more than any money lesson at school. | Mẹ bảo một công việc thật sẽ dạy mình nhiều hơn bất kỳ bài học về tiền nào ở trường. |
 | 16 | By my calculations, I can afford the boots by the end of January, that is, six weeks before the tryouts. | Theo tính toán của mình, cuối tháng Một là mình đủ tiền mua giày, tức là sáu tuần trước buổi tuyển chọn. |
@@ -94,12 +94,12 @@
 - A. $15 *(15 đô)*
 - B. $30 *(30 đô)*
 - C. $120 *(120 đô)*
-- D. $10 *(10 đô)*
+- D. $17 *(17 đô)*
 
 **3. How much money does Trevor get from his allowance?**
 *(Tiền tiêu vặt của Trevor là bao nhiêu?)*
 
-- A. ten dollars an hour *(mười đô một giờ)*
+- A. seventeen dollars an hour *(mười bảy đô một giờ)*
 - B. fifteen dollars a week *(mười lăm đô một tuần)*
 - C. thirty dollars a month *(ba mươi đô một tháng)*
 - D. one dollar a week *(một đô một tuần)*
@@ -293,12 +293,12 @@
 | Câu | Đáp án | Giải thích |
 |---|---|---|
 | 1 | **A** | Câu 4: "The boots that I want cost $120 in total". Cả nhật ký xoay quanh cách để dành đủ tiền mua giày. Buổi tuyển chọn chỉ là lý do; việc dọn bàn chỉ là một phần của kế hoạch. |
-| 2 | **C** | Câu 4: "The boots that I want cost $120 in total". 15 đô là tiền tiêu vặt mỗi tuần, 30 đô là số Tina cho vay, 10 đô là tiền công một giờ. |
+| 2 | **C** | Câu 4: "The boots that I want cost $120 in total". 15 đô là tiền tiêu vặt mỗi tuần, 30 đô là số Tina cho vay, 17 đô là tiền công một giờ. |
 | 3 | **B** | Câu 5: "My allowance is fifteen dollars a week". |
 | 4 | **D** | Câu 7: "However, I usually splash out on snacks after practice". "However" cho thấy đây là thói quen cản trở việc để dành, tức là tiêu tiền thoải mái. |
 | 5 | **A** | Câu 8: "decided to cut back on the things that are not worth it, for example, energy drinks and in-game coins." "for example" mở ra các ví dụ cụ thể. |
 | 6 | **C** | Câu 10–11: Câu suy luận. "She said that I could pay her back slowly, but only if I paid an extra dollar every week." Tina đặt điều kiện trả thêm tiền giống như ngân hàng tính lãi, nên bố đùa rằng em còn "khó tính" hơn ngân hàng. Tina có cho vay, chứ không từ chối. |
-| 7 | **D** | Câu 13: "Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for ten dollars an hour." Người cho vay 30 đô là Tina. |
+| 7 | **D** | Câu 13: "Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for seventeen dollars an hour." Người cho vay 30 đô là Tina. |
 | 8 | **B** | Câu 14: "I'm not sure whether I'm a good waiter or not, but I'm definitely a hungry one." "one" thay cho "waiter" ngay trước đó. |
 | 9 | **C** | Câu 16: "By my calculations, I can afford the boots by the end of January, that is, six weeks before the tryouts." "that is" giải thích rõ thêm mốc thời gian. |
 | 10 | **A** | Câu 17: Câu suy luận. Trevor đã tìm được việc ở quán thay vì vay, nhưng vẫn đoán "I bet Tina will still ask me for the extra dollar anyway". Câu này mang giọng đùa: em gái rất giỏi đòi tiền. Bài không nói Trevor đã vay. |

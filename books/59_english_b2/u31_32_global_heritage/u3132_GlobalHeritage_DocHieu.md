@@ -128,7 +128,7 @@
 >
 > The hotel was the idea of two businessmen from the Midwest, who had bought the land in the 1880s and dreamed of building a resort that people would talk about all over the country. Because there were not enough skilled builders in the area, workers were brought from other cities, and a factory was set up nearby to produce the wood and bricks. Remarkably, the main building was finished in about eleven months.
 >
-> At the time, it was one of the largest wooden buildings in the world. Its owners boasted about its modern comforts: guests were offered electric lights, telephones and even an elevator, which many visitors had never seen before. Over the following decades, the hotel was visited by writers, film stars and wealthy families from across the country, and in 1958, part of a famous Hollywood comedy was filmed there.
+> At the time, it was the largest resort hotel in the world, and it is still one of the largest wooden buildings in the United States. Its owners boasted about its modern comforts: guests were offered electric lights, telephones and even an elevator, which many visitors had never seen before. Over the following decades, the hotel was visited by writers, film stars and wealthy families from across the country, and in 1958, part of a famous Hollywood comedy was filmed there.
 >
 > Old wooden buildings are expensive to keep, and in the 1960s, there were serious worries that the Del might be torn down. Instead, it was bought by new owners who invested in repairs, and in 1977, the hotel was given the status of a National Historic Landmark, one of the highest honors that a building can receive in the United States.
 >
@@ -144,7 +144,7 @@
 | 4 | The hotel was the idea of two businessmen from the Midwest, who had bought the land in the 1880s and dreamed of building a resort that people would talk about all over the country. | Khách sạn là ý tưởng của hai doanh nhân từ vùng Trung Tây, những người đã mua mảnh đất vào thập niên 1880 và mơ xây một khu nghỉ dưỡng mà cả nước sẽ bàn tán. |
 | 5 | Because there were not enough skilled builders in the area, workers were brought from other cities, and a factory was set up nearby to produce the wood and bricks. | Vì vùng này không đủ thợ lành nghề, công nhân được đưa tới từ các thành phố khác, và một xưởng được dựng gần đó để làm gỗ và gạch. |
 | 6 | Remarkably, the main building was finished in about eleven months. | Đáng kinh ngạc là toà nhà chính xong chỉ trong khoảng mười một tháng. |
-| 7 | At the time, it was one of the largest wooden buildings in the world. | Thời đó, nó là một trong những công trình bằng gỗ lớn nhất thế giới. |
+| 7 | At the time, it was the largest resort hotel in the world, and it is still one of the largest wooden buildings in the United States. | Thời đó, nó là khách sạn nghỉ dưỡng lớn nhất thế giới, và tới nay vẫn là một trong những công trình bằng gỗ lớn nhất nước Mỹ. |
 | 8 | Its owners boasted about its modern comforts: guests were offered electric lights, telephones and even an elevator, which many visitors had never seen before. | Chủ khách sạn khoe những tiện nghi hiện đại: khách được phục vụ đèn điện, điện thoại và cả thang máy, thứ nhiều người chưa từng thấy. |
 | 9 | Over the following decades, the hotel was visited by writers, film stars and wealthy families from across the country, and in 1958, part of a famous Hollywood comedy was filmed there. | Trong những thập kỷ sau, khách sạn đón các nhà văn, ngôi sao điện ảnh và những gia đình giàu có khắp nước Mỹ, và năm 1958, một phần của một bộ phim hài Hollywood nổi tiếng được quay tại đây. |
 | 10 | Old wooden buildings are expensive to keep, and in the 1960s, there were serious worries that the Del might be torn down. | Công trình gỗ cũ rất tốn kém để duy trì, và vào thập niên 1960 đã có những lo ngại thực sự rằng the Del có thể bị phá bỏ. |
@@ -263,7 +263,7 @@
 | 11 | **C** | Câu 1: Tiêu đề: "A Short History of the Hotel del Coronado". Bài đi theo thời gian: 1888, các thập kỷ sau, thập niên 1960, 1977, hôm nay. |
 | 12 | **A** | Câu 3: "opened in 1888, when the area around it was little more than sand and bushes." |
 | 13 | **D** | Câu 5: "Because there were not enough skilled builders in the area, workers were brought from other cities". Were brought: bị động với vật/người làm chủ ngữ. |
-| 14 | **B** | Câu 6–7: Câu suy luận. Remarkably = đáng chú ý, đáng ngạc nhiên. Câu sau cho biết nó là "one of the largest wooden buildings in the world". |
+| 14 | **B** | Câu 6–7: Câu suy luận. Remarkably = đáng chú ý, đáng ngạc nhiên. Câu sau cho biết nó là "the largest resort hotel in the world". |
 | 15 | **C** | Câu 8: "guests were offered electric lights, telephones and even an elevator". Guests were offered … = bị động với người nhận làm chủ ngữ. |
 | 16 | **D** | Câu 8: Boast about = khoe khoang, nói đầy tự hào. Các tiện nghi này lúc đó rất hiếm: "many visitors had never seen before". |
 | 17 | **A** | Câu 10: "Old wooden buildings are expensive to keep, and in the 1960s, there were serious worries that the Del might be torn down." |

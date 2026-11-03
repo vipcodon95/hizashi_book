@@ -428,7 +428,7 @@
 >
 > The famous color was almost an accident. The steel arrived covered in a red paint that was only meant to protect it, and the architect liked it so much that he decided to keep a similar color. He felt that the warm orange fit well with the hills and the sky, and it also made the bridge much easier to see in the fog.
 >
-> You may have heard that painters start again at one end as soon as they reach the other. That is not quite true. A team of painters does work on the bridge all year, but they only paint the parts that need it most, because wind, fog and the salt in the sea air are always damaging the paint. Nearly ninety years after it opened, the bridge that "could never be built" is still carrying thousands of cars every day.
+> You may have heard that painters start again at one end as soon as they reach the other. That is not quite true. A team of painters does work on the bridge all year, but they only paint the parts that need it most, because wind, fog and the salt in the sea air are always damaging the paint. Nearly ninety years after it opened, the bridge that "could never be built" is still carrying more than a hundred thousand cars every day.
 
 ### Dịch từng câu
 
@@ -449,7 +449,7 @@
 | 13 | You may have heard that painters start again at one end as soon as they reach the other. | Có thể bạn từng nghe rằng thợ sơn vừa sơn tới đầu này là lại quay về sơn từ đầu kia. |
 | 14 | That is not quite true. | Điều đó không hẳn đúng. |
 | 15 | A team of painters does work on the bridge all year, but they only paint the parts that need it most, because wind, fog and the salt in the sea air are always damaging the paint. | Đúng là có một đội thợ sơn làm việc trên cầu quanh năm, nhưng họ sơn lại những phần cần nhất, vì gió, sương mù và không khí mặn lúc nào cũng làm hỏng lớp sơn. |
-| 16 | Nearly ninety years after it opened, the bridge that "could never be built" is still carrying thousands of cars every day. | Gần chín mươi năm sau ngày khánh thành, cây cầu "không bao giờ xây nổi" ấy vẫn ngày ngày chở hàng nghìn chiếc xe qua lại. |
+| 16 | Nearly ninety years after it opened, the bridge that "could never be built" is still carrying more than a hundred thousand cars every day. | Gần chín mươi năm sau ngày khánh thành, cây cầu "không bao giờ xây nổi" ấy vẫn ngày ngày đón hơn một trăm nghìn lượt xe qua lại. |
 
 ### Câu hỏi
 

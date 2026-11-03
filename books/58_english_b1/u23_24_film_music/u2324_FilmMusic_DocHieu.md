@@ -199,7 +199,7 @@
 >
 > Music also seems to protect memories. Many people with serious memory problems in old age, who may no longer recognize their own family, can still sing songs from their youth. Music therapists use this to help them feel calm and connected, and singing is also used to help some people speak again after brain injuries.
 >
-> But be careful with big promises. In the 1990s, a famous study made many parents believe that playing classical music to babies would make them smarter. Later studies found that the effect was small and lasted only a few minutes, so a baby who listens to an orchestra every day will not become much cleverer because of it. Learning to play an instrument is different: it takes years of practice, and many researchers believe that it can train attention and listening skills.
+> But be careful with big promises. In the 1990s, a famous study made many parents believe that playing classical music to babies would make them smarter. Later studies found that the effect was small and lasted only about fifteen minutes, so a baby who listens to an orchestra every day will not become much cleverer because of it. Learning to play an instrument is different: it takes years of practice, and many researchers believe that it can train attention and listening skills.
 >
 > So if you've always wanted to take up the guitar or join a choir, there's no reason why you should wait. Your brain will thank you.
 
@@ -222,7 +222,7 @@
 | 13 | Music therapists use this to help them feel calm and connected, and singing is also used to help some people speak again after brain injuries. | Các nhà trị liệu bằng âm nhạc dùng điều này để giúp họ thấy bình tâm và gắn kết, còn việc hát cũng được dùng để giúp một số người nói lại được sau chấn thương não. |
 | 14 | But be careful with big promises. | Nhưng hãy cẩn thận với những lời hứa hẹn lớn. |
 | 15 | In the 1990s, a famous study made many parents believe that playing classical music to babies would make them smarter. | Vào những năm 1990, một nghiên cứu nổi tiếng khiến nhiều phụ huynh tin rằng cho em bé nghe nhạc cổ điển sẽ làm bé thông minh hơn. |
-| 16 | Later studies found that the effect was small and lasted only a few minutes, so a baby who listens to an orchestra every day will not become much cleverer because of it. | Các nghiên cứu sau đó cho thấy tác dụng rất nhỏ và chỉ kéo dài vài phút, nên một em bé ngày nào cũng nghe dàn nhạc giao hưởng cũng không vì thế mà thông minh hơn bao nhiêu. |
+| 16 | Later studies found that the effect was small and lasted only about fifteen minutes, so a baby who listens to an orchestra every day will not become much cleverer because of it. | Các nghiên cứu sau đó cho thấy tác dụng rất nhỏ và chỉ kéo dài khoảng mười lăm phút, nên một em bé ngày nào cũng nghe dàn nhạc giao hưởng cũng không vì thế mà thông minh hơn bao nhiêu. |
 | 17 | Learning to play an instrument is different: it takes years of practice, and many researchers believe that it can train attention and listening skills. | Học chơi một nhạc cụ thì khác: việc đó cần nhiều năm luyện tập, và nhiều nhà nghiên cứu tin rằng nó có thể rèn khả năng tập trung và kỹ năng nghe. |
 | 18 | So if you've always wanted to take up the guitar or join a choir, there's no reason why you should wait. Your brain will thank you. | Vậy nếu bạn luôn muốn học đàn ghi-ta hay tham gia một dàn hợp xướng, chẳng có lý do gì để chờ đợi. Não bạn sẽ cảm ơn bạn. |
 
@@ -288,7 +288,7 @@
 *(Các nghiên cứu sau này phát hiện gì về việc cho em bé nghe nhạc cổ điển?)*
 
 - A. It made babies much smarter. *(Nó làm em bé thông minh hơn nhiều.)*
-- B. The effect was small and lasted only a few minutes. *(Tác dụng rất nhỏ và chỉ kéo dài vài phút.)*
+- B. The effect was small and lasted only about fifteen minutes. *(Tác dụng rất nhỏ và chỉ kéo dài khoảng mười lăm phút.)*
 - C. It was bad for babies' ears. *(Nó có hại cho tai em bé.)*
 - D. Babies preferred jazz. *(Em bé thích nhạc jazz hơn.)*
 
@@ -340,6 +340,6 @@
 | 15 | **B** | Câu 10: Câu suy luận. "the brain started releasing it a few seconds before people's favorite moment in a song, as if it knew what was coming." Não phản ứng trước khi đoạn đó tới, nghĩa là nó đang chờ đón. |
 | 16 | **C** | Câu 12: "Many people with serious memory problems in old age, who may no longer recognize their own family, can still sing songs from their youth." |
 | 17 | **A** | Câu 13: "Music therapists use this to help them feel calm and connected, and singing is also used to help some people speak again after brain injuries." Bài không hề nói âm nhạc chữa khỏi bệnh. |
-| 18 | **B** | Câu 16: "Later studies found that the effect was small and lasted only a few minutes". |
+| 18 | **B** | Câu 16: "Later studies found that the effect was small and lasted only about fifteen minutes". |
 | 19 | **D** | Câu 14: Câu hỏi thái độ. "But be careful with big promises." Rồi người viết dùng ví dụ nhạc cổ điển cho em bé để chỉ ra lời hứa đó bị thổi phồng. |
 | 20 | **C** | Câu 11: Câu nối hai bài. "Music also seems to protect memories." Bài báo mở đầu bằng việc ta vẫn hát được bài hát mình mê hồi tuổi teen. Bà Harriet hồi đó mười lăm tuổi. |

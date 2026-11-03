@@ -14,7 +14,7 @@
 >
 > Written by: Lydia Park, for the book club at Harriet's
 >
-> Dear all, thank you for a wonderful evening. For those of you who missed it, here is what we talked about. Most of us had never read Frankenstein before, although all of us thought we knew the story. The first surprise was the author. Written by Mary Shelley when she was only eighteen, the novel began as part of a competition between friends, who were staying near a lake in Switzerland one rainy summer and challenged each other to write a ghost story. When the book first came out in 1818, her name did not appear on it.
+> Dear all, thank you for a wonderful evening. For those of you who missed it, here is what we talked about. Most of us had never read Frankenstein before, although all of us thought we knew the story. The first surprise was the author. Started by Mary Shelley when she was only eighteen, the novel grew out of a competition between friends, who were staying near a lake in Switzerland one rainy summer and challenged each other to write a ghost story. When the book first came out in 1818, her name did not appear on it.
 >
 > The second surprise was the monster, or rather the creature, as the book calls him. Frankenstein is not his name; it is the name of the young scientist who makes him and then runs away in horror. The creature in the novel is nothing like the slow, silent figure in old films. He teaches himself to read, he speaks beautifully, and he is desperate to be loved. Rejected by everyone he meets because of his appearance, he becomes cruel only after years of loneliness.
 >
@@ -32,7 +32,7 @@
 | 2 | Written by: Lydia Park, for the book club at Harriet's | Người viết: Lydia Park, cho câu lạc bộ sách ở quán Harriet's |
 | 3 | Dear all, thank you for a wonderful evening. For those of you who missed it, here is what we talked about. | Gửi mọi người, cảm ơn vì một buổi tối tuyệt vời. Với những ai vắng mặt, đây là những gì chúng ta đã bàn. |
 | 4 | Most of us had never read Frankenstein before, although all of us thought we knew the story. | Phần lớn chúng ta chưa từng đọc Frankenstein, dù ai cũng tưởng mình biết câu chuyện. |
-| 5 | The first surprise was the author. Written by Mary Shelley when she was only eighteen, the novel began as part of a competition between friends, who were staying near a lake in Switzerland one rainy summer and challenged each other to write a ghost story. | Bất ngờ đầu tiên là tác giả. Được Mary Shelley viết khi mới mười tám tuổi, cuốn tiểu thuyết khởi đầu từ một cuộc thi giữa những người bạn, khi họ ở gần một hồ nước tại Thuỵ Sĩ vào một mùa hè mưa dầm và thách nhau viết một truyện ma. |
+| 5 | The first surprise was the author. Started by Mary Shelley when she was only eighteen, the novel grew out of a competition between friends, who were staying near a lake in Switzerland one rainy summer and challenged each other to write a ghost story. | Bất ngờ đầu tiên là tác giả. Được Mary Shelley bắt đầu viết khi mới mười tám tuổi, cuốn tiểu thuyết ra đời từ một cuộc thi giữa những người bạn, khi họ ở gần một hồ nước tại Thuỵ Sĩ vào một mùa hè mưa dầm và thách nhau viết một truyện ma. |
 | 6 | When the book first came out in 1818, her name did not appear on it. | Khi sách ra mắt lần đầu năm 1818, tên bà không hề xuất hiện trên đó. |
 | 7 | The second surprise was the monster, or rather the creature, as the book calls him. | Bất ngờ thứ hai là con quái vật, hay đúng hơn là "sinh vật", như cách cuốn sách gọi. |
 | 8 | Frankenstein is not his name; it is the name of the young scientist who makes him and then runs away in horror. | Frankenstein không phải tên của nó; đó là tên của nhà khoa học trẻ đã tạo ra nó rồi khiếp sợ bỏ chạy. |
@@ -63,8 +63,8 @@
 - C. Lydia had told them the story. *(Lydia đã kể chuyện cho họ.)*
 - D. People knew the story from films and popular ideas, which turned out to be different from the book. *(Người ta biết câu chuyện qua phim và quan niệm phổ biến, mà hoá ra khác với sách.)*
 
-**3. What does "Written by Mary Shelley when she was only eighteen" describe?**
-*(Cụm "Được Mary Shelley viết khi mới mười tám tuổi" bổ nghĩa cho cái gì?)*
+**3. What does "Started by Mary Shelley when she was only eighteen" describe?**
+*(Cụm "Được Mary Shelley bắt đầu viết khi mới mười tám tuổi" bổ nghĩa cho cái gì?)*
 
 - A. the novel *(cuốn tiểu thuyết)*
 - B. the lake *(hồ nước)*
@@ -264,8 +264,8 @@
 |---|---|---|
 | 1 | **B** | Câu 3: "For those of you who missed it, here is what we talked about." |
 | 2 | **D** | Câu 4, 9: Câu suy luận. Phần sau kể hai điều bất ngờ: tác giả, và sinh vật "nothing like the slow, silent figure in old films". |
-| 3 | **A** | Câu 5: "Written by Mary Shelley when she was only eighteen, the novel began…" Mệnh đề phân từ đầu câu bổ nghĩa cho chủ ngữ ngay sau dấu phẩy: the novel. |
-| 4 | **C** | Câu 5: "the novel began as part of a competition between friends", những người thách nhau viết một truyện ma. |
+| 3 | **A** | Câu 5: "Started by Mary Shelley when she was only eighteen, the novel grew out of…" Mệnh đề phân từ đầu câu bổ nghĩa cho chủ ngữ ngay sau dấu phẩy: the novel. |
+| 4 | **C** | Câu 5: "the novel grew out of a competition between friends", những người thách nhau viết một truyện ma. |
 | 5 | **B** | Câu 8: "Frankenstein is not his name; it is the name of the young scientist who makes him and then runs away in horror." |
 | 6 | **A** | Câu 9: "He teaches himself to read, he speaks beautifully, and he is desperate to be loved." |
 | 7 | **D** | Câu 10: "Rejected by everyone he meets because of his appearance, he becomes cruel only after years of loneliness." Rejected… là mệnh đề phân từ chỉ nguyên nhân. |
