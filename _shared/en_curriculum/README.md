@@ -53,7 +53,9 @@ Mỗi bài đọc phải ghi **mã phiếu** (hoặc mã unit) mà nó luyện, 
 
 ## Tên nhân vật và địa danh
 
-Giáo trình app đã đổi hết tên Việt sang tên Mỹ (02/11/2026): giọng đọc tiếng Anh đọc sai tên Việt, kiểu `Lan` thành *Lamb*. Sách dùng **đúng bộ tên này** để khớp với app. Cần thêm nhân vật thì chọn tên Mỹ phổ biến, dễ đọc. Không dùng tên Việt.
+Giáo trình app đã đổi hết tên Việt sang tên Mỹ (02/11/2026): giọng đọc tiếng Anh đọc sai tên Việt, kiểu `Lan` thành *Lamb*. Sách dùng **đúng bộ tên này** để khớp với app. Không dùng tên Việt.
+
+**Dàn nhân vật xuyên suốt:** xem `characters.md`. File này ghi tuổi, nghề, tính cách, quan hệ và mạch truyện của từng người qua các cấp A1–C1. Mọi bài phải khớp với file này. Có sự kiện lớn hay thêm nhân vật mới thì ghi lại vào đó.
 
 | Nhân vật (tên cũ) | Số lần dùng |
 |---|---|
