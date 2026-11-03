@@ -159,6 +159,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | B2 | tháng 4, năm 7 | **Bà Harriet suýt bị lừa qua điện thoại**: kẻ giả cảnh sát nói Nathan bị bắt sau tai nạn, đòi 3.000 đô bằng thẻ quà tặng; bà lấy cớ tìm kính, cúp máy, gọi Helena (Nathan đang ở nhà xem phim). **Cảnh sát Grant** (người lạ, nữ, Sở Cảnh sát San Diego) khuyên. Nhà Brooks thống nhất **mật khẩu gia đình** | 59 · u2930 |
 | B2 | tháng 4, năm 7 | **Tina (lớp 7) làm dự án hội chợ khoa học**: hoa bản địa ở vườn câu lạc bộ Xanh sau nhà thể chất Westview High thu hút ~2,5 lần lượt thụ phấn (412 so với 168), ong bản địa nhỏ là nhóm đông nhất; giám khảo khen cô bé "very calm" dù cô sợ giọng mình run | 59 · u3334 |
 | B2 | tháng 5, năm 7 | ⭐ **Ethan được mời học khoá huấn luyện chữa cháy rừng 6 tháng ở phía bắc bang**; nhận lời trước khi hỏi Leah → hai người cãi nhau; Chloe giúp Leah nhận ra cô giận vì không được hỏi. **Làm lành** ở buổi tối "luật thứ Năm" (dời sang thứ Sáu): Leah ủng hộ anh đi; gọi video mỗi tối không trực, Leah lên thăm mỗi tháng một lần | 59 · u3536 |
+| B2 | tháng 5, năm 7 | Nhóm hàng xóm họp ở thư viện Pine Street về **xe chạy nhanh qua phố Maple** (công viên bỏ túi đã mở tháng 1): Trevor + 2 bạn đo 640 xe, ~60% quá 25 dặm/giờ (đi tắt tránh đèn đỏ đại lộ Ocean). Quyết định: Helena gửi số liệu xin 2 gờ giảm tốc; tình nguyện viên đứng chỗ băng qua đường 3–5 giờ chiều; Tina + Amy vẽ biển báo. **Trevor (năm cuối) đã nộp đơn ngành kỹ thuật môi trường**, tự viết 3 bản nháp bài luận | 59 · u3738 |
 
 ## Còn mở
 

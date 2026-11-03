@@ -21,3 +21,4 @@
 | u3132 | [317, 340] từ, TB [25.6, 25.2] | bài Cape Town "Day Zero" 2018 (for + sb + to V) + lịch sử Hotel del Coronado (bị động với người nhận; 1888, 1977); 6 câu suy luận/chức năng (1 nối 2 bài) |
 | u3334 | [302, 328] từ, TB [19.5, 22.9] | báo cáo hội chợ khoa học của Tina (định nghĩa, phân loại, bị động hoàn thành nguyên mẫu) + bài hiệu ứng ánh đèn sân khấu (wish; nghiên cứu áo phông 2000); 7 câu suy luận/thái độ (1 nối 2 bài) |
 | u3536 | [316, 321] từ, TB [19.5, 22.5] | nhật ký Leah cãi nhau và làm lành (đảo ngữ Were I…, tính từ tuyệt đối) + bài sự thật quy tắc 10.000 giờ (may well; Ericsson 1993, tổng quan 2014); 7 câu suy luận (1 nối 2 bài) |
+| u3738 | [309, 339] từ, TB [18.9, 25.6] | biên bản họp xe chạy nhanh (in order not to, so as not to) + bài đạo đức dùng AI viết bài luận (as trạng ngữ); 6 câu suy luận/chức năng (1 nối 2 bài) |
