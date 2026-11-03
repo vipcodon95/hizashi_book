@@ -1,0 +1,2021 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 7–8 — Careers & At work",
+      "vi": "Nghề nghiệp & Nơi làm việc"
+    },
+    "title": "Units 7–8 — Careers & At work",
+    "title_vn": "Nghề nghiệp & Nơi làm việc",
+    "module_code": "58_u0708",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u07+u08",
+    "curriculum_sheets": [
+      "b1.025",
+      "b1.026",
+      "b1.027",
+      "b1.028",
+      "b1.029",
+      "b1.030",
+      "b1.031",
+      "b1.032"
+    ],
+    "characters": [
+      "Chloe Bennett",
+      "Harriet Brooks",
+      "Nathan Brooks",
+      "Laura Moore"
+    ],
+    "story_time_i18n": {
+      "vi": "giữa tháng 11 → đầu tháng 12, năm 4"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Mục đích thư, từ nối, câu hỏi gián tiếp, giọng văn",
+    "description_vn": "Thư Chloe báo nghỉ việc ở Harriet's và email mời họp về đợt thử làm việc kết hợp. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 7 + Unit 8 khoá B1 · phiếu `b1.025` – `b1.032` (chọn nghề, công việc được giao, đơn xin việc, cân bằng công việc – cuộc sống; cuộc họp, hỏi lịch sự, xin phép trang trọng, email công việc)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một lá thư cá nhân và một email công việc; nắm mục đích, hiểu từ nối (however, therefore, meanwhile), câu hỏi gián tiếp và cách nói trang trọng (May I…?, Should you have any questions…), nhận ra giọng văn."
+    },
+    "extra_words": [
+      {
+        "word": "client",
+        "i18n": {
+          "vi": "khách hàng"
+        }
+      },
+      {
+        "word": "salary",
+        "i18n": {
+          "vi": "tiền lương"
+        }
+      },
+      {
+        "word": "trial",
+        "i18n": {
+          "vi": "đợt thử nghiệm"
+        }
+      },
+      {
+        "word": "freelance",
+        "i18n": {
+          "vi": "làm tự do (không thuộc công ty nào)"
+        }
+      },
+      {
+        "word": "graphic design",
+        "i18n": {
+          "vi": "thiết kế đồ hoạ"
+        }
+      },
+      {
+        "word": "community college",
+        "i18n": {
+          "vi": "trường cao đẳng cộng đồng"
+        }
+      },
+      {
+        "word": "hybrid work",
+        "i18n": {
+          "vi": "làm việc kết hợp (ở nhà và ở văn phòng)"
+        }
+      },
+      {
+        "word": "brainstorming",
+        "i18n": {
+          "vi": "động não, bàn ý tưởng"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "turn down an offer",
+          "vi": "từ chối lời mời"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take on small jobs",
+          "vi": "nhận những việc nhỏ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a career in",
+          "vi": "sự nghiệp trong ngành"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put forward a proposal",
+          "vi": "đưa ra đề xuất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "call off a meeting",
+          "vi": "huỷ cuộc họp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get back to someone",
+          "vi": "phản hồi cho ai"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu hỏi mục đích thư: câu then chốt thường nằm ở đoạn đầu (`I have decided to…`, `I have arranged a meeting…`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Từ nối báo hiệu ý: `However` (trái ngược), `Therefore` (kết quả), `Meanwhile` (trong lúc đó). Câu hỏi suy luận hay xoay quanh các từ này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Email công việc: gạch chân ngày, giờ, phòng và các hạn chót khác nhau (`by Tuesday`, `before Wednesday`). Đề hay đánh tráo các mốc này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi giọng văn: tìm cách nói lịch sự (`May I…`, `kindly`, `Should you have…`) hay cảm xúc (`afraid`, `scared`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu nối hai bài: tìm điểm giống nhau về CÁCH viết (giải thích thay đổi + đưa kế hoạch), không tìm chi tiết giống nhau."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0708_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 7) — Lá thư của Chloe gửi bà Harriet"
+      },
+      "narrator": "Chloe",
+      "title": "Dear Harriet",
+      "category": "letter",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 160,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear Harriet",
+            "vi": "Bà Harriet thân mến"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear Harriet,",
+            "vi": "Bà Harriet thân mến,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm writing this letter because I'm afraid that I will cry if I say it out loud.",
+            "vi": "Cháu viết thư vì cháu sợ nếu nói thành lời thì cháu sẽ khóc mất."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After all these wonderful years at the café, I have decided to leave at the end of December.",
+            "vi": "Sau ngần ấy năm tuyệt vời ở quán, cháu đã quyết định sẽ nghỉ vào cuối tháng Mười Hai."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was the hardest decision of my life.",
+            "vi": "Đó là quyết định khó nhất đời cháu."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As you know, I finished my evening graphic design class in the summer, and in September a small company asked me to design its new website.",
+            "vi": "Như bà biết, cháu đã học xong lớp thiết kế đồ hoạ buổi tối hồi hè, và tháng Chín một công ty nhỏ đã nhờ cháu thiết kế trang web mới cho họ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since then, three more businesses have asked me to work for them.",
+            "vi": "Từ đó tới giờ, thêm ba nơi nữa đã mời cháu làm cho họ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm sure that this is the right moment to start a career in design.",
+            "vi": "Cháu tin rằng đây là đúng lúc để bắt đầu sự nghiệp thiết kế."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, I'm a little scared, because a freelance income is not as steady as a regular salary.",
+            "vi": "Tuy vậy, cháu hơi sợ, vì thu nhập làm tự do không đều như lương cố định."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some months I will earn a lot, and other months almost nothing.",
+            "vi": "Có tháng cháu sẽ kiếm được nhiều, có tháng gần như chẳng có gì."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My mom wants me to apply for a full-time job at a big firm instead, but I have already turned down two offers.",
+            "vi": "Mẹ cháu muốn cháu nộp đơn vào làm toàn thời gian ở một công ty lớn, nhưng cháu đã từ chối hai lời mời rồi."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Therefore, I will save money carefully and take on small jobs first.",
+            "vi": "Vì vậy, cháu sẽ tiết kiệm cẩn thận và nhận những việc nhỏ trước."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You were the first person who told me to follow my dream, and you even asked me to design the new sign for the café.",
+            "vi": "Bà là người đầu tiên bảo cháu hãy theo đuổi ước mơ, bà còn nhờ cháu thiết kế tấm biển mới cho quán nữa."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Meanwhile, I don't want to leave you without help.",
+            "vi": "Trong lúc này, cháu không muốn để bà xoay xở một mình."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My friend Ruby, who studies at the community college, is looking for part-time work, and she is very experienced in cafés.",
+            "vi": "Bạn cháu là Ruby, đang học ở trường cao đẳng cộng đồng, đang tìm việc bán thời gian, và bạn ấy rất có kinh nghiệm làm quán cà phê."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Shall I ask her to visit you next week?",
+            "vi": "Cháu bảo bạn ấy tuần sau tới gặp bà nhé?"
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Of course, I will still come every Wednesday for soup with Dustin.",
+            "vi": "Tất nhiên, thứ Tư nào cháu cũng sẽ vẫn tới ăn súp cùng Dustin."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thank you for everything.",
+            "vi": "Cảm ơn bà vì tất cả."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Love, Chloe",
+            "vi": "Thương bà, Chloe"
+          }
+        }
+      ],
+      "content_ja": "Dear Harriet\n\nDear Harriet,\n\nI'm writing this letter because I'm afraid that I will cry if I say it out loud. After all these wonderful years at the café, I have decided to leave at the end of December. It was the hardest decision of my life.\n\nAs you know, I finished my evening graphic design class in the summer, and in September a small company asked me to design its new website. Since then, three more businesses have asked me to work for them. I'm sure that this is the right moment to start a career in design.\n\nHowever, I'm a little scared, because a freelance income is not as steady as a regular salary. Some months I will earn a lot, and other months almost nothing. My mom wants me to apply for a full-time job at a big firm instead, but I have already turned down two offers. Therefore, I will save money carefully and take on small jobs first.\n\nYou were the first person who told me to follow my dream, and you even asked me to design the new sign for the café. Meanwhile, I don't want to leave you without help. My friend Ruby, who studies at the community college, is looking for part-time work, and she is very experienced in cafés. Shall I ask her to visit you next week?\n\nOf course, I will still come every Wednesday for soup with Dustin. Thank you for everything.\n\nLove, Chloe",
+      "translation_vn": "(1) Bà Harriet thân mến\n(2) Bà Harriet thân mến,\n(3) Cháu viết thư vì cháu sợ nếu nói thành lời thì cháu sẽ khóc mất.\n(4) Sau ngần ấy năm tuyệt vời ở quán, cháu đã quyết định sẽ nghỉ vào cuối tháng Mười Hai.\n(5) Đó là quyết định khó nhất đời cháu.\n(6) Như bà biết, cháu đã học xong lớp thiết kế đồ hoạ buổi tối hồi hè, và tháng Chín một công ty nhỏ đã nhờ cháu thiết kế trang web mới cho họ.\n(7) Từ đó tới giờ, thêm ba nơi nữa đã mời cháu làm cho họ.\n(8) Cháu tin rằng đây là đúng lúc để bắt đầu sự nghiệp thiết kế.\n(9) Tuy vậy, cháu hơi sợ, vì thu nhập làm tự do không đều như lương cố định.\n(10) Có tháng cháu sẽ kiếm được nhiều, có tháng gần như chẳng có gì.\n(11) Mẹ cháu muốn cháu nộp đơn vào làm toàn thời gian ở một công ty lớn, nhưng cháu đã từ chối hai lời mời rồi.\n(12) Vì vậy, cháu sẽ tiết kiệm cẩn thận và nhận những việc nhỏ trước.\n(13) Bà là người đầu tiên bảo cháu hãy theo đuổi ước mơ, bà còn nhờ cháu thiết kế tấm biển mới cho quán nữa.\n(14) Trong lúc này, cháu không muốn để bà xoay xở một mình.\n(15) Bạn cháu là Ruby, đang học ở trường cao đẳng cộng đồng, đang tìm việc bán thời gian, và bạn ấy rất có kinh nghiệm làm quán cà phê.\n(16) Cháu bảo bạn ấy tuần sau tới gặp bà nhé?\n(17) Tất nhiên, thứ Tư nào cháu cũng sẽ vẫn tới ăn súp cùng Dustin.\n(18) Cảm ơn bà vì tất cả.\n(19) Thương bà, Chloe",
+      "word_count": 247,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028"
+      ]
+    },
+    {
+      "id": "passage_u0708_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 8) — Email mời họp của trưởng nhóm"
+      },
+      "narrator": "Laura",
+      "title": "Subject: Brainstorming Meeting on a Hybrid Work Trial",
+      "category": "email",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 160,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: Brainstorming Meeting on a Hybrid Work Trial",
+            "vi": "Tiêu đề: Họp động não về đợt thử làm việc kết hợp"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi team,",
+            "vi": "Chào cả nhóm,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As some of you know, management has asked our department to test a hybrid work plan next year.",
+            "vi": "Như vài bạn đã biết, ban quản lý đã yêu cầu phòng mình thử một kế hoạch làm việc kết hợp vào năm sau."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The main objective is simple: we want to find out if working from home two days a week helps or hurts our results.",
+            "vi": "Mục tiêu chính rất đơn giản: chúng ta muốn biết làm ở nhà hai ngày một tuần sẽ giúp hay làm hại kết quả công việc."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some companies have found that people concentrate better at home, while others say that teamwork suffers.",
+            "vi": "Có công ty thấy nhân viên tập trung ở nhà tốt hơn, trong khi những nơi khác nói tinh thần làm việc nhóm bị ảnh hưởng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before we put forward a proposal, I would like to hear your ideas.",
+            "vi": "Trước khi đưa ra đề xuất, tôi muốn nghe ý kiến của mọi người."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Therefore, I have arranged a brainstorming meeting for Thursday, December 4, at 10 a.m. in Room 3B.",
+            "vi": "Vì vậy, tôi đã sắp xếp một buổi họp động não vào thứ Năm, ngày 4 tháng 12, lúc 10 giờ sáng ở Phòng 3B."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The agenda is attached, but briefly, we will discuss which days we should work from home, how we will communicate, and how we will measure our progress.",
+            "vi": "Chương trình họp có trong tệp đính kèm, nhưng nói ngắn gọn, chúng ta sẽ bàn nên làm ở nhà vào những ngày nào, sẽ liên lạc với nhau ra sao, và sẽ đo tiến độ thế nào."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan has kindly agreed to give a short presentation on the online tools that we already use.",
+            "vi": "Nathan đã nhận trình bày ngắn về các công cụ trực tuyến mà chúng ta đang dùng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He will also explain how we can share documents safely.",
+            "vi": "Anh ấy cũng sẽ giải thích cách chia sẻ tài liệu an toàn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "May I also ask you to complete the short survey in the second document before the meeting?",
+            "vi": "Tôi cũng xin mọi người điền giúp bản khảo sát ngắn trong tài liệu thứ hai trước buổi họp."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I need to understand how much time each of you spends traveling to the office.",
+            "vi": "Tôi cần biết mỗi người mất bao nhiêu thời gian đi lại tới văn phòng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your answers will stay private, so please be honest.",
+            "vi": "Câu trả lời của mọi người sẽ được giữ kín, nên hãy trả lời thật lòng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you cannot come, please let me know by Tuesday, and I will ask someone to send you the notes.",
+            "vi": "Ai không đến được thì báo tôi trước thứ Ba, tôi sẽ nhờ người gửi biên bản họp cho bạn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The meeting will take only one hour, so please do not call off any meetings with clients for it.",
+            "vi": "Buổi họp chỉ kéo dài một tiếng, nên đừng huỷ cuộc gặp khách hàng nào vì nó nhé."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Should you have any questions, please get back to me before Wednesday.",
+            "vi": "Nếu có câu hỏi gì, hãy phản hồi cho tôi trước thứ Tư."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thanks, Laura Moore, Team Leader",
+            "vi": "Cảm ơn, Laura Moore, Trưởng nhóm"
+          }
+        }
+      ],
+      "content_ja": "Subject: Brainstorming Meeting on a Hybrid Work Trial\n\nHi team,\n\nAs some of you know, management has asked our department to test a hybrid work plan next year. The main objective is simple: we want to find out if working from home two days a week helps or hurts our results. Some companies have found that people concentrate better at home, while others say that teamwork suffers.\n\nBefore we put forward a proposal, I would like to hear your ideas. Therefore, I have arranged a brainstorming meeting for Thursday, December 4, at 10 a.m. in Room 3B. The agenda is attached, but briefly, we will discuss which days we should work from home, how we will communicate, and how we will measure our progress. Nathan has kindly agreed to give a short presentation on the online tools that we already use. He will also explain how we can share documents safely.\n\nMay I also ask you to complete the short survey in the second document before the meeting? I need to understand how much time each of you spends traveling to the office. Your answers will stay private, so please be honest.\n\nIf you cannot come, please let me know by Tuesday, and I will ask someone to send you the notes. The meeting will take only one hour, so please do not call off any meetings with clients for it. Should you have any questions, please get back to me before Wednesday.\n\nThanks, Laura Moore, Team Leader",
+      "translation_vn": "(1) Tiêu đề: Họp động não về đợt thử làm việc kết hợp\n(2) Chào cả nhóm,\n(3) Như vài bạn đã biết, ban quản lý đã yêu cầu phòng mình thử một kế hoạch làm việc kết hợp vào năm sau.\n(4) Mục tiêu chính rất đơn giản: chúng ta muốn biết làm ở nhà hai ngày một tuần sẽ giúp hay làm hại kết quả công việc.\n(5) Có công ty thấy nhân viên tập trung ở nhà tốt hơn, trong khi những nơi khác nói tinh thần làm việc nhóm bị ảnh hưởng.\n(6) Trước khi đưa ra đề xuất, tôi muốn nghe ý kiến của mọi người.\n(7) Vì vậy, tôi đã sắp xếp một buổi họp động não vào thứ Năm, ngày 4 tháng 12, lúc 10 giờ sáng ở Phòng 3B.\n(8) Chương trình họp có trong tệp đính kèm, nhưng nói ngắn gọn, chúng ta sẽ bàn nên làm ở nhà vào những ngày nào, sẽ liên lạc với nhau ra sao, và sẽ đo tiến độ thế nào.\n(9) Nathan đã nhận trình bày ngắn về các công cụ trực tuyến mà chúng ta đang dùng.\n(10) Anh ấy cũng sẽ giải thích cách chia sẻ tài liệu an toàn.\n(11) Tôi cũng xin mọi người điền giúp bản khảo sát ngắn trong tài liệu thứ hai trước buổi họp.\n(12) Tôi cần biết mỗi người mất bao nhiêu thời gian đi lại tới văn phòng.\n(13) Câu trả lời của mọi người sẽ được giữ kín, nên hãy trả lời thật lòng.\n(14) Ai không đến được thì báo tôi trước thứ Ba, tôi sẽ nhờ người gửi biên bản họp cho bạn.\n(15) Buổi họp chỉ kéo dài một tiếng, nên đừng huỷ cuộc gặp khách hàng nào vì nó nhé.\n(16) Nếu có câu hỏi gì, hãy phản hồi cho tôi trước thứ Tư.\n(17) Cảm ơn, Laura Moore, Trưởng nhóm",
+      "word_count": 247,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0708_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What is the main purpose of Chloe's letter?",
+        "vi": "Mục đích chính của lá thư của Chloe là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask Harriet for a higher salary",
+            "vi": "để xin bà Harriet tăng lương"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask Harriet for a higher salary",
+          "text_translation": "để xin bà Harriet tăng lương"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell Harriet that she is leaving to work in design",
+            "vi": "để báo bà Harriet rằng cô sẽ nghỉ để làm thiết kế"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to tell Harriet that she is leaving to work in design",
+          "text_translation": "để báo bà Harriet rằng cô sẽ nghỉ để làm thiết kế"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to invite Harriet to a party",
+            "vi": "để mời bà Harriet dự tiệc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to invite Harriet to a party",
+          "text_translation": "để mời bà Harriet dự tiệc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to complain about her job",
+            "vi": "để than phiền về công việc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to complain about her job",
+          "text_translation": "để than phiền về công việc"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"After all these wonderful years at the café, I have decided to leave at the end of December.\" Phần còn lại giải thích lý do (sự nghiệp thiết kế) và kế hoạch."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Chloe's letter?",
+      "question_vn": "Mục đích chính của lá thư của Chloe là gì?",
+      "explanation": "\"After all these wonderful years at the café, I have decided to leave at the end of December.\" Phần còn lại giải thích lý do (sự nghiệp thiết kế) và kế hoạch."
+    },
+    {
+      "id": "q_u0708_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Why does Chloe write a letter instead of telling Harriet?",
+        "vi": "Vì sao Chloe viết thư mà không nói trực tiếp với bà Harriet?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet is away on vacation.",
+            "vi": "Vì bà Harriet đi nghỉ xa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet is away on vacation.",
+          "text_translation": "Vì bà Harriet đi nghỉ xa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wants to keep a record.",
+            "vi": "Vì cô muốn có giấy tờ lưu lại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She wants to keep a record.",
+          "text_translation": "Vì cô muốn có giấy tờ lưu lại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet cannot hear well.",
+            "vi": "Vì bà Harriet nghe kém."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet cannot hear well.",
+          "text_translation": "Vì bà Harriet nghe kém."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is afraid that she will cry.",
+            "vi": "Vì cô sợ mình sẽ khóc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She is afraid that she will cry.",
+          "text_translation": "Vì cô sợ mình sẽ khóc."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'm writing this letter because I'm afraid that I will cry if I say it out loud.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Chloe write a letter instead of telling Harriet?",
+      "question_vn": "Vì sao Chloe viết thư mà không nói trực tiếp với bà Harriet?",
+      "explanation": "\"I'm writing this letter because I'm afraid that I will cry if I say it out loud.\""
+    },
+    {
+      "id": "q_u0708_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Who first asked Chloe to design a website?",
+        "vi": "Ai là người đầu tiên nhờ Chloe thiết kế trang web?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a small company",
+            "vi": "một công ty nhỏ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a small company",
+          "text_translation": "một công ty nhỏ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a big firm",
+            "vi": "một công ty lớn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a big firm",
+          "text_translation": "một công ty lớn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dustin",
+            "vi": "Dustin"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Dustin",
+          "text_translation": "Dustin"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"in September a small company asked me to design its new website.\" Bà Harriet nhờ thiết kế tấm biển, không phải trang web; công ty lớn là nơi mẹ Chloe muốn cô nộp đơn."
+      },
+      "audio_data": null,
+      "question_jp": "Who first asked Chloe to design a website?",
+      "question_vn": "Ai là người đầu tiên nhờ Chloe thiết kế trang web?",
+      "explanation": "\"in September a small company asked me to design its new website.\" Bà Harriet nhờ thiết kế tấm biển, không phải trang web; công ty lớn là nơi mẹ Chloe muốn cô nộp đơn."
+    },
+    {
+      "id": "q_u0708_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "In \"a freelance income is not as steady as a regular salary\", what does \"steady\" mean?",
+        "vi": "Trong câu \"a freelance income is not as steady as a regular salary\", \"steady\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "very high",
+            "vi": "rất cao"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "very high",
+          "text_translation": "rất cao"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "easy to spend",
+            "vi": "dễ tiêu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "easy to spend",
+          "text_translation": "dễ tiêu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "regular and reliable",
+            "vi": "đều đặn, ổn định"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "regular and reliable",
+          "text_translation": "đều đặn, ổn định"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "paid in cash",
+            "vi": "trả bằng tiền mặt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "paid in cash",
+          "text_translation": "trả bằng tiền mặt"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"a freelance income is not as steady as a regular salary.\" Câu ngay sau giải thích: tháng nhiều tháng ít, tức là không đều. Vậy steady = đều đặn, ổn định."
+      },
+      "audio_data": null,
+      "question_jp": "In \"a freelance income is not as steady as a regular salary\", what does \"steady\" mean?",
+      "question_vn": "Trong câu \"a freelance income is not as steady as a regular salary\", \"steady\" nghĩa là gì?",
+      "explanation": "\"a freelance income is not as steady as a regular salary.\" Câu ngay sau giải thích: tháng nhiều tháng ít, tức là không đều. Vậy steady = đều đặn, ổn định."
+    },
+    {
+      "id": "q_u0708_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Why does Chloe write \"Some months I will earn a lot, and other months almost nothing\"?",
+        "vi": "Vì sao Chloe viết \"Có tháng kiếm nhiều, có tháng gần như chẳng có gì\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that design work pays badly",
+            "vi": "để cho thấy làm thiết kế trả lương tệ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that design work pays badly",
+          "text_translation": "để cho thấy làm thiết kế trả lương tệ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain why freelance money is not steady",
+            "vi": "để giải thích vì sao tiền làm tự do không đều"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to explain why freelance money is not steady",
+          "text_translation": "để giải thích vì sao tiền làm tự do không đều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask Harriet for money",
+            "vi": "để xin tiền bà Harriet"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask Harriet for money",
+          "text_translation": "để xin tiền bà Harriet"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to make Harriet laugh",
+            "vi": "để làm bà Harriet cười"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to make Harriet laugh",
+          "text_translation": "để làm bà Harriet cười"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Câu này nối tiếp và minh hoạ cho \"a freelance income is not as steady as a regular salary\". Chloe không chê nghề thiết kế trả lương tệ, cũng không hỏi vay tiền."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Chloe write \"Some months I will earn a lot, and other months almost nothing\"?",
+      "question_vn": "Vì sao Chloe viết \"Có tháng kiếm nhiều, có tháng gần như chẳng có gì\"?",
+      "explanation": "Câu suy luận. Câu này nối tiếp và minh hoạ cho \"a freelance income is not as steady as a regular salary\". Chloe không chê nghề thiết kế trả lương tệ, cũng không hỏi vay tiền."
+    },
+    {
+      "id": "q_u0708_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What has Chloe already turned down?",
+        "vi": "Chloe đã từ chối điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ruby's help",
+            "vi": "sự giúp đỡ của Ruby"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ruby's help",
+          "text_translation": "sự giúp đỡ của Ruby"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the design of the new sign",
+            "vi": "việc thiết kế tấm biển mới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the design of the new sign",
+          "text_translation": "việc thiết kế tấm biển mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "soup with Dustin",
+            "vi": "bữa súp với Dustin"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "soup with Dustin",
+          "text_translation": "bữa súp với Dustin"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "two job offers",
+            "vi": "hai lời mời làm việc"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "two job offers",
+          "text_translation": "hai lời mời làm việc"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"My mom wants me to apply for a full-time job at a big firm instead, but I have already turned down two offers.\" \"turn down\" = từ chối."
+      },
+      "audio_data": null,
+      "question_jp": "What has Chloe already turned down?",
+      "question_vn": "Chloe đã từ chối điều gì?",
+      "explanation": "\"My mom wants me to apply for a full-time job at a big firm instead, but I have already turned down two offers.\" \"turn down\" = từ chối."
+    },
+    {
+      "id": "q_u0708_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "In \"You were the first person who told me to follow my dream\", who is \"You\"?",
+        "vi": "Trong câu \"You were the first person who told me…\", \"You\" là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Chloe's mom",
+            "vi": "mẹ của Chloe"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Chloe's mom",
+          "text_translation": "mẹ của Chloe"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ruby",
+            "vi": "Ruby"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ruby",
+          "text_translation": "Ruby"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dustin",
+            "vi": "Dustin"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Dustin",
+          "text_translation": "Dustin"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"You were the first person who told me to follow my dream, and you even asked me to design the new sign for the café.\" Thư viết cho bà Harriet, và chính bà nhờ thiết kế biển của quán."
+      },
+      "audio_data": null,
+      "question_jp": "In \"You were the first person who told me to follow my dream\", who is \"You\"?",
+      "question_vn": "Trong câu \"You were the first person who told me…\", \"You\" là ai?",
+      "explanation": "\"You were the first person who told me to follow my dream, and you even asked me to design the new sign for the café.\" Thư viết cho bà Harriet, và chính bà nhờ thiết kế biển của quán."
+    },
+    {
+      "id": "q_u0708_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Who is Ruby?",
+        "vi": "Ruby là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Chloe's sister",
+            "vi": "em gái của Chloe"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Chloe's sister",
+          "text_translation": "em gái của Chloe"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a new customer at the café",
+            "vi": "một khách mới của quán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a new customer at the café",
+          "text_translation": "một khách mới của quán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a student who is looking for part-time work",
+            "vi": "một sinh viên đang tìm việc bán thời gian"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a student who is looking for part-time work",
+          "text_translation": "một sinh viên đang tìm việc bán thời gian"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the owner of a big firm",
+            "vi": "chủ một công ty lớn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the owner of a big firm",
+          "text_translation": "chủ một công ty lớn"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"My friend Ruby, who studies at the community college, is looking for part-time work, and she is very experienced in cafés.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who is Ruby?",
+      "question_vn": "Ruby là ai?",
+      "explanation": "\"My friend Ruby, who studies at the community college, is looking for part-time work, and she is very experienced in cafés.\""
+    },
+    {
+      "id": "q_u0708_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Why does Chloe mention Ruby in her letter?",
+        "vi": "Vì sao Chloe nhắc tới Ruby trong thư?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "so that the café will not be left without help",
+            "vi": "để quán không bị thiếu người làm"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "so that the café will not be left without help",
+          "text_translation": "để quán không bị thiếu người làm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Ruby wants to learn design",
+            "vi": "vì Ruby muốn học thiết kế"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because Ruby wants to learn design",
+          "text_translation": "vì Ruby muốn học thiết kế"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Ruby is her new business partner",
+            "vi": "vì Ruby là đối tác làm ăn mới của cô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Ruby is her new business partner",
+          "text_translation": "vì Ruby là đối tác làm ăn mới của cô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to say that Ruby is unhappy at her job",
+            "vi": "để nói Ruby không vui với công việc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to say that Ruby is unhappy at her job",
+          "text_translation": "để nói Ruby không vui với công việc"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Meanwhile, I don't want to leave you without help.\" Câu ngay sau giới thiệu Ruby như người có thể thay cô ở quán."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Chloe mention Ruby in her letter?",
+      "question_vn": "Vì sao Chloe nhắc tới Ruby trong thư?",
+      "explanation": "Câu suy luận. \"Meanwhile, I don't want to leave you without help.\" Câu ngay sau giới thiệu Ruby như người có thể thay cô ở quán."
+    },
+    {
+      "id": "q_u0708_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Which of these is NOT true about Chloe's plans?",
+        "vi": "Điều nào KHÔNG đúng về dự định của Chloe?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She will leave the café at the end of December.",
+            "vi": "Cô sẽ nghỉ ở quán vào cuối tháng Mười Hai."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She will leave the café at the end of December.",
+          "text_translation": "Cô sẽ nghỉ ở quán vào cuối tháng Mười Hai."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She will save money carefully.",
+            "vi": "Cô sẽ tiết kiệm cẩn thận."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She will save money carefully.",
+          "text_translation": "Cô sẽ tiết kiệm cẩn thận."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She will take on small jobs first.",
+            "vi": "Cô sẽ nhận việc nhỏ trước."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She will take on small jobs first.",
+          "text_translation": "Cô sẽ nhận việc nhỏ trước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She will stop visiting the café.",
+            "vi": "Cô sẽ thôi lui tới quán."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She will stop visiting the café.",
+          "text_translation": "Cô sẽ thôi lui tới quán."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"Of course, I will still come every Wednesday for soup with Dustin.\" Chloe vẫn tới quán, nên D sai. Ba ý kia đều có trong thư."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT true about Chloe's plans?",
+      "question_vn": "Điều nào KHÔNG đúng về dự định của Chloe?",
+      "explanation": "\"Of course, I will still come every Wednesday for soup with Dustin.\" Chloe vẫn tới quán, nên D sai. Ba ý kia đều có trong thư."
+    },
+    {
+      "id": "q_u0708_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What is the main purpose of Laura's email?",
+        "vi": "Mục đích chính của email của Laura là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to tell the team that the office is closing",
+            "vi": "để báo văn phòng sắp đóng cửa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to tell the team that the office is closing",
+          "text_translation": "để báo văn phòng sắp đóng cửa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask Nathan to find a new job",
+            "vi": "để bảo Nathan tìm việc mới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to ask Nathan to find a new job",
+          "text_translation": "để bảo Nathan tìm việc mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to invite the team to a meeting about a hybrid work trial",
+            "vi": "để mời cả nhóm họp bàn về đợt thử làm việc kết hợp"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to invite the team to a meeting about a hybrid work trial",
+          "text_translation": "để mời cả nhóm họp bàn về đợt thử làm việc kết hợp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to cancel all meetings with clients",
+            "vi": "để huỷ mọi cuộc gặp khách hàng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to cancel all meetings with clients",
+          "text_translation": "để huỷ mọi cuộc gặp khách hàng"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Therefore, I have arranged a brainstorming meeting for Thursday, December 4\" về \"a hybrid work plan\". Laura còn dặn đừng huỷ cuộc gặp khách hàng nào."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Laura's email?",
+      "question_vn": "Mục đích chính của email của Laura là gì?",
+      "explanation": "\"Therefore, I have arranged a brainstorming meeting for Thursday, December 4\" về \"a hybrid work plan\". Laura còn dặn đừng huỷ cuộc gặp khách hàng nào."
+    },
+    {
+      "id": "q_u0708_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What is the main objective of the hybrid work trial?",
+        "vi": "Mục tiêu chính của đợt thử là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to save money on the office",
+            "vi": "để tiết kiệm tiền văn phòng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to save money on the office",
+          "text_translation": "để tiết kiệm tiền văn phòng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to find out if working from home two days a week helps or hurts results",
+            "vi": "để biết làm ở nhà hai ngày một tuần giúp hay làm hại kết quả"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to find out if working from home two days a week helps or hurts results",
+          "text_translation": "để biết làm ở nhà hai ngày một tuần giúp hay làm hại kết quả"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to give everyone a day off",
+            "vi": "để cho mọi người thêm một ngày nghỉ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to give everyone a day off",
+          "text_translation": "để cho mọi người thêm một ngày nghỉ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to choose a new team leader",
+            "vi": "để chọn trưởng nhóm mới"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to choose a new team leader",
+          "text_translation": "để chọn trưởng nhóm mới"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"The main objective is simple: we want to find out if working from home two days a week helps or hurts our results.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main objective of the hybrid work trial?",
+      "question_vn": "Mục tiêu chính của đợt thử là gì?",
+      "explanation": "\"The main objective is simple: we want to find out if working from home two days a week helps or hurts our results.\""
+    },
+    {
+      "id": "q_u0708_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "When and where is the meeting?",
+        "vi": "Buổi họp diễn ra khi nào và ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on Tuesday at 10 a.m. online",
+            "vi": "thứ Ba lúc 10 giờ sáng, trực tuyến"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "on Tuesday at 10 a.m. online",
+          "text_translation": "thứ Ba lúc 10 giờ sáng, trực tuyến"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on Wednesday in Room 3B",
+            "vi": "thứ Tư ở Phòng 3B"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on Wednesday in Room 3B",
+          "text_translation": "thứ Tư ở Phòng 3B"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on Friday at Nathan's house",
+            "vi": "thứ Sáu ở nhà Nathan"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on Friday at Nathan's house",
+          "text_translation": "thứ Sáu ở nhà Nathan"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on Thursday, December 4, at 10 a.m. in Room 3B",
+            "vi": "thứ Năm 4/12 lúc 10 giờ sáng ở Phòng 3B"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "on Thursday, December 4, at 10 a.m. in Room 3B",
+          "text_translation": "thứ Năm 4/12 lúc 10 giờ sáng ở Phòng 3B"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"a brainstorming meeting for Thursday, December 4, at 10 a.m. in Room 3B.\" Thứ Ba là hạn báo vắng mặt; thứ Tư là hạn gửi câu hỏi."
+      },
+      "audio_data": null,
+      "question_jp": "When and where is the meeting?",
+      "question_vn": "Buổi họp diễn ra khi nào và ở đâu?",
+      "explanation": "\"a brainstorming meeting for Thursday, December 4, at 10 a.m. in Room 3B.\" Thứ Ba là hạn báo vắng mặt; thứ Tư là hạn gửi câu hỏi."
+    },
+    {
+      "id": "q_u0708_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What will Nathan do at the meeting?",
+        "vi": "Nathan sẽ làm gì ở buổi họp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "give a short presentation on online tools",
+            "vi": "trình bày ngắn về các công cụ trực tuyến"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "give a short presentation on online tools",
+          "text_translation": "trình bày ngắn về các công cụ trực tuyến"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "write the notes for everyone",
+            "vi": "ghi biên bản cho mọi người"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "write the notes for everyone",
+          "text_translation": "ghi biên bản cho mọi người"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "lead the whole meeting",
+            "vi": "chủ trì cả buổi họp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "lead the whole meeting",
+          "text_translation": "chủ trì cả buổi họp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "meet a client",
+            "vi": "gặp khách hàng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "meet a client",
+          "text_translation": "gặp khách hàng"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Nathan has kindly agreed to give a short presentation on the online tools that we already use.\" Laura mới là trưởng nhóm chủ trì."
+      },
+      "audio_data": null,
+      "question_jp": "What will Nathan do at the meeting?",
+      "question_vn": "Nathan sẽ làm gì ở buổi họp?",
+      "explanation": "\"Nathan has kindly agreed to give a short presentation on the online tools that we already use.\" Laura mới là trưởng nhóm chủ trì."
+    },
+    {
+      "id": "q_u0708_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What should team members do if they cannot come?",
+        "vi": "Thành viên không tới được thì phải làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "send their ideas by email on Thursday",
+            "vi": "gửi ý kiến qua email vào thứ Năm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "send their ideas by email on Thursday",
+          "text_translation": "gửi ý kiến qua email vào thứ Năm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "ask a client to come instead",
+            "vi": "nhờ khách hàng đến thay"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "ask a client to come instead",
+          "text_translation": "nhờ khách hàng đến thay"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "let Laura know by Tuesday",
+            "vi": "báo Laura trước thứ Ba"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "let Laura know by Tuesday",
+          "text_translation": "báo Laura trước thứ Ba"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "call off the meeting",
+            "vi": "huỷ buổi họp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "call off the meeting",
+          "text_translation": "huỷ buổi họp"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you cannot come, please let me know by Tuesday, and I will ask someone to send you the notes.\""
+      },
+      "audio_data": null,
+      "question_jp": "What should team members do if they cannot come?",
+      "question_vn": "Thành viên không tới được thì phải làm gì?",
+      "explanation": "\"If you cannot come, please let me know by Tuesday, and I will ask someone to send you the notes.\""
+    },
+    {
+      "id": "q_u0708_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "In \"The agenda is attached\", what is an \"agenda\"?",
+        "vi": "Trong câu \"The agenda is attached\", \"agenda\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a report of the last meeting",
+            "vi": "biên bản cuộc họp trước"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a report of the last meeting",
+          "text_translation": "biên bản cuộc họp trước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a list of topics for the meeting",
+            "vi": "danh sách các vấn đề sẽ bàn trong cuộc họp"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a list of topics for the meeting",
+          "text_translation": "danh sách các vấn đề sẽ bàn trong cuộc họp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a map of the office",
+            "vi": "sơ đồ văn phòng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a map of the office",
+          "text_translation": "sơ đồ văn phòng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a short survey",
+            "vi": "một bản khảo sát ngắn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a short survey",
+          "text_translation": "một bản khảo sát ngắn"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"The agenda is attached, but briefly, we will discuss which days…\" Ngay sau từ agenda là danh sách các vấn đề sẽ bàn. Khảo sát nằm ở \"the second document\", là tài liệu khác."
+      },
+      "audio_data": null,
+      "question_jp": "In \"The agenda is attached\", what is an \"agenda\"?",
+      "question_vn": "Trong câu \"The agenda is attached\", \"agenda\" là gì?",
+      "explanation": "\"The agenda is attached, but briefly, we will discuss which days…\" Ngay sau từ agenda là danh sách các vấn đề sẽ bàn. Khảo sát nằm ở \"the second document\", là tài liệu khác."
+    },
+    {
+      "id": "q_u0708_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "In \"so please do not call off any meetings with clients for it\", what does \"it\" refer to?",
+        "vi": "Trong câu \"... for it\", \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the survey",
+            "vi": "bản khảo sát"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the survey",
+          "text_translation": "bản khảo sát"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the office",
+            "vi": "văn phòng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the office",
+          "text_translation": "văn phòng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the hybrid work plan",
+            "vi": "kế hoạch làm việc kết hợp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the hybrid work plan",
+          "text_translation": "kế hoạch làm việc kết hợp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the brainstorming meeting",
+            "vi": "buổi họp động não"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the brainstorming meeting",
+          "text_translation": "buổi họp động não"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"The meeting will take only one hour, so please do not call off any meetings with clients for it.\" \"it\" là buổi họp vừa nhắc ở đầu câu."
+      },
+      "audio_data": null,
+      "question_jp": "In \"so please do not call off any meetings with clients for it\", what does \"it\" refer to?",
+      "question_vn": "Trong câu \"... for it\", \"it\" chỉ cái gì?",
+      "explanation": "\"The meeting will take only one hour, so please do not call off any meetings with clients for it.\" \"it\" là buổi họp vừa nhắc ở đầu câu."
+    },
+    {
+      "id": "q_u0708_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Why does Laura probably want to know how much time people spend traveling to the office?",
+        "vi": "Nhiều khả năng vì sao Laura muốn biết mọi người mất bao lâu đi lại tới văn phòng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to see how much time working from home could save",
+            "vi": "để xem làm ở nhà có thể tiết kiệm bao nhiêu thời gian"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to see how much time working from home could save",
+          "text_translation": "để xem làm ở nhà có thể tiết kiệm bao nhiêu thời gian"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to choose who will lose their job",
+            "vi": "để chọn ai bị cho nghỉ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to choose who will lose their job",
+          "text_translation": "để chọn ai bị cho nghỉ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to plan a team trip",
+            "vi": "để lên kế hoạch đi chơi cả nhóm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to plan a team trip",
+          "text_translation": "để lên kế hoạch đi chơi cả nhóm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to check who arrives late",
+            "vi": "để kiểm tra ai hay đi muộn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to check who arrives late",
+          "text_translation": "để kiểm tra ai hay đi muộn"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I need to understand how much time each of you spends traveling to the office.\" Đợt thử là để xem làm ở nhà có giúp ích không, mà thời gian đi lại là thứ làm ở nhà có thể tiết kiệm được. Câu \"Your answers will stay private\" cho thấy khảo sát không nhằm kiểm tra hay phạt ai."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Laura probably want to know how much time people spend traveling to the office?",
+      "question_vn": "Nhiều khả năng vì sao Laura muốn biết mọi người mất bao lâu đi lại tới văn phòng?",
+      "explanation": "Câu suy luận. \"I need to understand how much time each of you spends traveling to the office.\" Đợt thử là để xem làm ở nhà có giúp ích không, mà thời gian đi lại là thứ làm ở nhà có thể tiết kiệm được. Câu \"Your answers will stay private\" cho thấy khảo sát không nhằm kiểm tra hay phạt ai."
+    },
+    {
+      "id": "q_u0708_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Which word best describes the tone of Laura's email?",
+        "vi": "Từ nào mô tả đúng nhất giọng văn trong email của Laura?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "angry",
+            "vi": "giận dữ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "angry",
+          "text_translation": "giận dữ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "worried",
+            "vi": "lo lắng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "worried",
+          "text_translation": "lo lắng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "polite and organized",
+            "vi": "lịch sự và có tổ chức"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "polite and organized",
+          "text_translation": "lịch sự và có tổ chức"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "funny and careless",
+            "vi": "hài hước và cẩu thả"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "funny and careless",
+          "text_translation": "hài hước và cẩu thả"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Should you have any questions, please get back to me before Wednesday.\" Email dùng nhiều cách nói lịch sự (\"May I also ask you…\", \"kindly\") và nêu rõ giờ, phòng, hạn chót."
+      },
+      "audio_data": null,
+      "question_jp": "Which word best describes the tone of Laura's email?",
+      "question_vn": "Từ nào mô tả đúng nhất giọng văn trong email của Laura?",
+      "explanation": "\"Should you have any questions, please get back to me before Wednesday.\" Email dùng nhiều cách nói lịch sự (\"May I also ask you…\", \"kindly\") và nêu rõ giờ, phòng, hạn chót."
+    },
+    {
+      "id": "q_u0708_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Use both texts. What do Chloe and Laura both do in their messages?",
+        "vi": "Dựa vào cả hai bài. Chloe và Laura đều làm điều gì trong thư của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They both ask for more money.",
+            "vi": "Cả hai đều xin thêm tiền."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They both ask for more money.",
+          "text_translation": "Cả hai đều xin thêm tiền."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They both explain a change and suggest a plan to make it easier.",
+            "vi": "Cả hai đều giải thích một sự thay đổi và đưa ra kế hoạch để mọi việc suôn sẻ hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They both explain a change and suggest a plan to make it easier.",
+          "text_translation": "Cả hai đều giải thích một sự thay đổi và đưa ra kế hoạch để mọi việc suôn sẻ hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They both say that they are leaving their jobs.",
+            "vi": "Cả hai đều nói mình sẽ nghỉ việc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They both say that they are leaving their jobs.",
+          "text_translation": "Cả hai đều nói mình sẽ nghỉ việc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They both invite people to a party.",
+            "vi": "Cả hai đều mời mọi người dự tiệc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They both invite people to a party.",
+          "text_translation": "Cả hai đều mời mọi người dự tiệc."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Laura viết \"Before we put forward a proposal, I would like to hear your ideas.\" rồi sắp xếp buổi họp. Chloe báo mình nghỉ việc và giới thiệu Ruby để quán không thiếu người. Chỉ Chloe là nghỉ việc."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Chloe and Laura both do in their messages?",
+      "question_vn": "Dựa vào cả hai bài. Chloe và Laura đều làm điều gì trong thư của mình?",
+      "explanation": "Câu nối hai bài. Laura viết \"Before we put forward a proposal, I would like to hear your ideas.\" rồi sắp xếp buổi họp. Chloe báo mình nghỉ việc và giới thiệu Ruby để quán không thiếu người. Chỉ Chloe là nghỉ việc."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0708_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 7) — Lá thư của Chloe gửi bà Harriet",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0708_01",
+      "question_ids": [
+        "q_u0708_001",
+        "q_u0708_002",
+        "q_u0708_003",
+        "q_u0708_004",
+        "q_u0708_005",
+        "q_u0708_006",
+        "q_u0708_007",
+        "q_u0708_008",
+        "q_u0708_009",
+        "q_u0708_010"
+      ]
+    },
+    {
+      "set_id": "set_u0708_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 8) — Email mời họp của trưởng nhóm",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0708_02",
+      "question_ids": [
+        "q_u0708_011",
+        "q_u0708_012",
+        "q_u0708_013",
+        "q_u0708_014",
+        "q_u0708_015",
+        "q_u0708_016",
+        "q_u0708_017",
+        "q_u0708_018",
+        "q_u0708_019",
+        "q_u0708_020"
+      ]
+    }
+  ]
+}
