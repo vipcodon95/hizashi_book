@@ -129,6 +129,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | B1 | đầu tháng 3, năm 5 | Chloe (thiết kế tự do) bay đi **Maui** làm logo + trang web cho một trường lướt sóng nhỏ; ở **Sea Breeze Guesthouse** 5 đêm, bà chủ **Mrs. Kahale** (người lạ). Chuyến bay trễ, phòng không có bàn → làm việc ở bàn ngoài vườn nhìn ra biển. Đánh giá 4/5, đã đặt phòng cho chuyến sau | 58 · u1516 |
 | B1 | cuối tháng 3, năm 5 | ⭐ **Trevor đỗ đội bóng của trường** (buổi tuyển chọn đầu tháng 3, đúng như kế hoạch mua giày ở u0910). Trevor và Jake ở **Green Club** của Westview High (thầy khoa học **Mr. Dawson**, người lạ; họp thứ Tư 3:15 phòng 14): 4 thùng hứng nước mưa dưới mái nhà thể chất, 3 thùng rác ở căng tin + thùng ủ phân, vườn cà chua, rau thơm, hoa bản địa. Trevor viết bài cho báo trường | 58 · u1718 |
 | B1 | tháng 4, năm 5 | Helena phụ trách xây **cầu mới ở Valley Springs** (thị trấn nông nghiệp hư cấu): cầu gỗ cũ từ thập niên 1950, xe trên 10 tấn không qua được; xây cầu mới cạnh cầu cũ, mất 14 tháng; bác nông dân **Mr. Hollis** (người lạ) thứ Sáu nào cũng mang đào chín. Corinne Whitfield (bản tin khu phố) phỏng vấn. Helena muốn sau này sống ở thị trấn nhỏ; Nathan chỉ chịu chuyển nếu mạng nhanh hơn. Nathan dùng công cụ AI trong công việc hằng ngày | 58 · u1920 |
+| B1 | tháng 5, năm 5 | (Đề thi thử giữa sách) Ethan đã làm lính cứu hoả ở San Diego **6 năm**, viết blog về cách gọi 911. Westview High tổ chức **Summer Job & Volunteer Fair** đầu tiên thứ Sáu 15/5 ở nhà thể chất (cô **Ms. Rivera**, người lạ, văn phòng trường phòng 2) | 58 · mock1 |
 
 ## Còn mở
 

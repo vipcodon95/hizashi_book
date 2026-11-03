@@ -1,0 +1,4191 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "B1 Mock Test 1",
+      "vi": "Đề thi thử B1 (giữa sách)"
+    },
+    "title": "B1 Mock Test 1",
+    "title_vn": "Đề thi thử B1 (giữa sách)",
+    "module_code": "58_mock1",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.mock1",
+    "curriculum_sheets": [
+      "b1.001",
+      "b1.002",
+      "b1.003",
+      "b1.004",
+      "b1.005",
+      "b1.006",
+      "b1.007",
+      "b1.008",
+      "b1.009",
+      "b1.010",
+      "b1.011",
+      "b1.012",
+      "b1.013",
+      "b1.014",
+      "b1.015",
+      "b1.016",
+      "b1.017",
+      "b1.018",
+      "b1.019",
+      "b1.020",
+      "b1.021",
+      "b1.022",
+      "b1.023",
+      "b1.024",
+      "b1.025",
+      "b1.026",
+      "b1.027",
+      "b1.028",
+      "b1.029",
+      "b1.030",
+      "b1.031",
+      "b1.032",
+      "b1.033",
+      "b1.034",
+      "b1.035",
+      "b1.036",
+      "b1.037",
+      "b1.038",
+      "b1.039",
+      "b1.040",
+      "b1.041",
+      "b1.042",
+      "b1.043",
+      "b1.044",
+      "b1.045",
+      "b1.046",
+      "b1.047",
+      "b1.048",
+      "b1.049",
+      "b1.050",
+      "b1.051",
+      "b1.052",
+      "b1.053",
+      "b1.054",
+      "b1.055",
+      "b1.056",
+      "b1.057",
+      "b1.058",
+      "b1.059",
+      "b1.060",
+      "b1.061",
+      "b1.062",
+      "b1.063",
+      "b1.064",
+      "b1.065",
+      "b1.066",
+      "b1.067",
+      "b1.068",
+      "b1.069",
+      "b1.070",
+      "b1.071",
+      "b1.072",
+      "b1.073",
+      "b1.074",
+      "b1.075",
+      "b1.076",
+      "b1.077",
+      "b1.078",
+      "b1.079",
+      "b1.080"
+    ],
+    "characters": [
+      "Ethan Hayes"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 5, năm 5"
+    },
+    "total_passages": 4,
+    "total_questions": 40,
+    "focus": "Đề thi thử VSTEP bậc 3: 4 bài × 10 câu",
+    "description_vn": "Đề thi thử giữa sách: thông báo hội chợ việc làm hè, blog của Ethan về cách gọi 911, bài khoa học về giấc ngủ tuổi teen, bài kiến thức về cầu Cổng Vàng. 4 bài × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Đề thi thử giữa sách · ôn Unit 1 – Unit 20 khoá B1, phiếu `b1.001` – `b1.080`."
+    },
+    "objective_i18n": {
+      "vi": "Đề thi thử 40 câu, làm trong 60 phút (theo format đọc VSTEP bậc 3: 4 bài, 250–380 từ mỗi bài). Đề có 4 phần × 10 câu, khó dần: thông báo hội chợ việc làm → blog của Ethan về cách gọi 911 → bài khoa học về giấc ngủ tuổi teen → bài kiến thức về cầu Cổng Vàng. Đề kiểm tra ý chính và mục đích, thông tin cụ thể, câu NOT / TRUE, nghĩa của từ trong ngữ cảnh, thái độ người viết, áp dụng thông tin vào tình huống, và khoảng 12 câu suy luận. Bài đọc dùng ngữ pháp của nửa đầu khoá B1: quá khứ hoàn thành, so that, bị động, mệnh đề quan hệ, câu điều kiện."
+    },
+    "extra_words": [
+      {
+        "word": "employer",
+        "i18n": {
+          "vi": "nhà tuyển dụng, người thuê lao động"
+        }
+      },
+      {
+        "word": "non-emergency",
+        "i18n": {
+          "vi": "không khẩn cấp"
+        }
+      },
+      {
+        "word": "lifeguard",
+        "i18n": {
+          "vi": "nhân viên cứu hộ hồ bơi"
+        }
+      },
+      {
+        "word": "work permit",
+        "i18n": {
+          "vi": "giấy phép lao động"
+        }
+      },
+      {
+        "word": "firefighter",
+        "i18n": {
+          "vi": "lính cứu hoả"
+        }
+      },
+      {
+        "word": "operator",
+        "i18n": {
+          "vi": "tổng đài viên"
+        }
+      },
+      {
+        "word": "melatonin",
+        "i18n": {
+          "vi": "melatonin, chất giúp gây buồn ngủ"
+        }
+      },
+      {
+        "word": "strait",
+        "i18n": {
+          "vi": "eo biển"
+        }
+      },
+      {
+        "word": "current",
+        "i18n": {
+          "vi": "dòng chảy"
+        }
+      },
+      {
+        "word": "span",
+        "i18n": {
+          "vi": "nhịp cầu"
+        }
+      },
+      {
+        "word": "architect",
+        "i18n": {
+          "vi": "kiến trúc sư"
+        }
+      },
+      {
+        "word": "steel",
+        "i18n": {
+          "vi": "thép"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "stay on the line",
+          "vi": "giữ máy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "hang up",
+          "vi": "cúp máy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "every minute counts",
+          "vi": "từng phút đều quý"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stay up late",
+          "vi": "thức khuya"
+        }
+      },
+      {
+        "i18n": {
+          "en": "add up",
+          "vi": "cộng dồn lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "keep a record",
+          "vi": "giữ kỷ lục"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Quản lý thời gian:** 60 phút cho 4 bài. Phần 1 khoảng 10 phút, Phần 2 khoảng 14 phút, Phần 3 và Phần 4 khoảng 18 phút mỗi phần."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Đọc câu hỏi trước:** gạch chân từ khoá (số, tên, ngày) rồi dò bài. Thông báo và blog có tiêu đề nhỏ như `Date:` hay `Mistake number two:` giúp tìm nhanh."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Câu NOT / TRUE:** kiểm từng phương án với bài. Phương án có chữ trong bài nhưng sai chi tiết vẫn là phương án sai."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Câu áp dụng tình huống** (vd học sinh 15 tuổi muốn làm cứu hộ): tìm điều kiện trong bài (`16 or older`) rồi so với người trong câu hỏi."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Câu tiêu đề:** tiêu đề bài báo thường nói ngắn gọn một chi tiết quan trọng. Tìm đoạn giải thích chi tiết đó."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_mock1_01",
+      "heading_i18n": {
+        "vi": "Phần 1 — Thông báo hội chợ việc làm hè"
+      },
+      "narrator": "announcer",
+      "title": "Westview High Summer Job & Volunteer Fair",
+      "category": "notice",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Westview High Summer Job & Volunteer Fair",
+            "vi": "Hội chợ việc làm hè và tình nguyện của trường Westview High"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Looking for something useful to do this summer?",
+            "vi": "Bạn đang tìm việc gì đó có ích để làm mùa hè này?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Come to our first Summer Job & Volunteer Fair and meet more than thirty local employers and organizations in one place.",
+            "vi": "Hãy tới Hội chợ việc làm hè và tình nguyện đầu tiên của trường để gặp hơn ba mươi nhà tuyển dụng và tổ chức địa phương ở cùng một chỗ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Date: Friday, May 15",
+            "vi": "Ngày: thứ Sáu 15/5"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Time: 3:30 – 6:00 p.m.",
+            "vi": "Giờ: 3:30 – 6:00 chiều"
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Place: Westview High gym (enter through the doors next to the parking lot)",
+            "vi": "Địa điểm: nhà thể chất trường Westview High (vào bằng cửa cạnh bãi đỗ xe)"
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Who can come: Westview students aged 14 and older. Parents are welcome too.",
+            "vi": "Ai được tham dự: học sinh Westview từ 14 tuổi trở lên. Phụ huynh cũng được chào đón."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the fair, you will find paid summer jobs at cafés, shops, swimming pools and summer camps.",
+            "vi": "Ở hội chợ, bạn sẽ tìm thấy việc làm hè có lương ở quán cà phê, cửa hàng, hồ bơi và trại hè."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is also volunteer work at the animal shelter, the public library and Sunset Bay Hospital.",
+            "vi": "Còn có việc tình nguyện ở trại cứu hộ động vật, thư viện công cộng và Bệnh viện Sunset Bay."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every 30 minutes, there will be a short talk on how to write about your skills and do well in an interview.",
+            "vi": "Cứ 30 phút lại có một buổi nói chuyện ngắn về cách viết về kỹ năng của mình và làm tốt khi phỏng vấn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please note: some jobs, such as lifeguard work, are only open to students who are 16 or older, and some employers will ask you to fill in a form on the day.",
+            "vi": "Xin lưu ý: một số việc, như cứu hộ ở hồ bơi, chỉ nhận học sinh từ 16 tuổi trở lên, và một số nhà tuyển dụng sẽ đề nghị bạn điền đơn ngay hôm đó."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Students under 18 may also need a work permit from the school office before they start a paid job.",
+            "vi": "Học sinh dưới 18 tuổi có thể cũng cần giấy phép lao động của văn phòng trường trước khi bắt đầu làm việc có lương."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bring a pen and a short list of the days when you are free. You don't need to bring anything else.",
+            "vi": "Hãy mang theo bút và một danh sách ngắn những ngày bạn rảnh. Bạn không cần mang gì khác."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Can't come? From May 18, visit the school website to see a full list of employers and how to contact them.",
+            "vi": "Không tới được? Từ ngày 18/5, hãy vào trang web của trường để xem danh sách đầy đủ các nhà tuyển dụng và cách liên lạc với họ."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Questions? Ask Ms. Rivera in the school office (Room 2).",
+            "vi": "Có thắc mắc? Hãy hỏi cô Rivera ở văn phòng trường (phòng 2)."
+          }
+        }
+      ],
+      "content_ja": "Westview High Summer Job & Volunteer Fair\n\nLooking for something useful to do this summer? Come to our first Summer Job & Volunteer Fair and meet more than thirty local employers and organizations in one place.\n\nDate: Friday, May 15\n\nTime: 3:30 – 6:00 p.m.\n\nPlace: Westview High gym (enter through the doors next to the parking lot)\n\nWho can come: Westview students aged 14 and older. Parents are welcome too.\n\nAt the fair, you will find paid summer jobs at cafés, shops, swimming pools and summer camps. There is also volunteer work at the animal shelter, the public library and Sunset Bay Hospital. Every 30 minutes, there will be a short talk on how to write about your skills and do well in an interview.\n\nPlease note: some jobs, such as lifeguard work, are only open to students who are 16 or older, and some employers will ask you to fill in a form on the day. Students under 18 may also need a work permit from the school office before they start a paid job. Bring a pen and a short list of the days when you are free. You don't need to bring anything else.\n\nCan't come? From May 18, visit the school website to see a full list of employers and how to contact them. Questions? Ask Ms. Rivera in the school office (Room 2).",
+      "translation_vn": "(1) Hội chợ việc làm hè và tình nguyện của trường Westview High\n(2) Bạn đang tìm việc gì đó có ích để làm mùa hè này?\n(3) Hãy tới Hội chợ việc làm hè và tình nguyện đầu tiên của trường để gặp hơn ba mươi nhà tuyển dụng và tổ chức địa phương ở cùng một chỗ.\n(4) Ngày: thứ Sáu 15/5\n(5) Giờ: 3:30 – 6:00 chiều\n(6) Địa điểm: nhà thể chất trường Westview High (vào bằng cửa cạnh bãi đỗ xe)\n(7) Ai được tham dự: học sinh Westview từ 14 tuổi trở lên. Phụ huynh cũng được chào đón.\n(8) Ở hội chợ, bạn sẽ tìm thấy việc làm hè có lương ở quán cà phê, cửa hàng, hồ bơi và trại hè.\n(9) Còn có việc tình nguyện ở trại cứu hộ động vật, thư viện công cộng và Bệnh viện Sunset Bay.\n(10) Cứ 30 phút lại có một buổi nói chuyện ngắn về cách viết về kỹ năng của mình và làm tốt khi phỏng vấn.\n(11) Xin lưu ý: một số việc, như cứu hộ ở hồ bơi, chỉ nhận học sinh từ 16 tuổi trở lên, và một số nhà tuyển dụng sẽ đề nghị bạn điền đơn ngay hôm đó.\n(12) Học sinh dưới 18 tuổi có thể cũng cần giấy phép lao động của văn phòng trường trước khi bắt đầu làm việc có lương.\n(13) Hãy mang theo bút và một danh sách ngắn những ngày bạn rảnh. Bạn không cần mang gì khác.\n(14) Không tới được? Từ ngày 18/5, hãy vào trang web của trường để xem danh sách đầy đủ các nhà tuyển dụng và cách liên lạc với họ.\n(15) Có thắc mắc? Hãy hỏi cô Rivera ở văn phòng trường (phòng 2).",
+      "word_count": 218,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004",
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008",
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012",
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016",
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020",
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024",
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028",
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032",
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036",
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040",
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044",
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048",
+        "b1.049",
+        "b1.050",
+        "b1.051",
+        "b1.052",
+        "b1.053",
+        "b1.054",
+        "b1.055",
+        "b1.056",
+        "b1.057",
+        "b1.058",
+        "b1.059",
+        "b1.060",
+        "b1.061",
+        "b1.062",
+        "b1.063",
+        "b1.064",
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068",
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072",
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076",
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080"
+      ]
+    },
+    {
+      "id": "passage_mock1_02",
+      "heading_i18n": {
+        "vi": "Phần 2 — Blog của Ethan về cách gọi 911"
+      },
+      "narrator": "Ethan",
+      "title": "What I Wish Everyone Knew About Calling 911",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 180,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What I Wish Everyone Knew About Calling 911",
+            "vi": "Điều tôi mong ai cũng biết khi gọi 911"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Ethan Hayes, firefighter",
+            "vi": "Người viết: Ethan Hayes, lính cứu hoả"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I've been a firefighter in San Diego for six years, and I've answered thousands of emergency calls.",
+            "vi": "Tôi làm lính cứu hoả ở San Diego được sáu năm, và đã đi hàng nghìn cuộc gọi khẩn cấp."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most callers do a great job, but every week I see small mistakes that cost us time, and in an emergency, every minute counts.",
+            "vi": "Phần lớn người gọi làm rất tốt, nhưng tuần nào tôi cũng thấy những lỗi nhỏ làm chúng tôi mất thời gian, mà trong tình huống khẩn cấp, từng phút đều quý."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mistake number one: starting with the story instead of the location.",
+            "vi": "Lỗi thứ nhất: kể chuyện trước thay vì nói địa điểm trước."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When people are frightened, they often explain what happened before they say where they are.",
+            "vi": "Khi hoảng sợ, người ta thường kể chuyện gì đã xảy ra trước khi nói mình đang ở đâu."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But if the call is cut off, we can't help you, because we don't know where to go.",
+            "vi": "Nhưng nếu cuộc gọi bị ngắt, chúng tôi không giúp được bạn, vì không biết phải tới đâu."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So say the address first, then explain the problem. If you don't know the address, look for street signs or a building nearby.",
+            "vi": "Vậy hãy nói địa chỉ trước, rồi mới kể sự việc. Nếu không biết địa chỉ, hãy tìm biển tên đường hoặc một toà nhà gần đó."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mistake number two: hanging up too early.",
+            "vi": "Lỗi thứ hai: cúp máy quá sớm."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Stay on the line until the operator tells you that you can hang up.",
+            "vi": "Hãy giữ máy cho tới khi tổng đài viên bảo bạn có thể cúp máy."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They may need to give you instructions, for example how to stop someone's bleeding while you wait for us.",
+            "vi": "Họ có thể cần hướng dẫn bạn, ví dụ cách cầm máu cho ai đó trong lúc chờ chúng tôi tới."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mistake number three: calling 911 for things that are not emergencies.",
+            "vi": "Lỗi thứ ba: gọi 911 cho những việc không khẩn cấp."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A neighbor's loud party or a lost cat is not an emergency, and calls like these can keep the line busy for someone who is having a heart attack.",
+            "vi": "Bữa tiệc ồn ào nhà hàng xóm hay một con mèo đi lạc không phải chuyện khẩn cấp, và những cuộc gọi như vậy có thể chiếm đường dây của một người đang lên cơn đau tim."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Use your city's non-emergency number instead. It's a good idea to save it in your phone today.",
+            "vi": "Thay vào đó, hãy gọi số không khẩn cấp của thành phố. Lưu ngay số này vào điện thoại từ hôm nay là ý hay."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, here's something that many people don't know: in many areas, including San Diego, you can send a text to 911 if you can't speak safely.",
+            "vi": "Cuối cùng, có một điều nhiều người không biết: ở nhiều nơi, trong đó có San Diego, bạn có thể nhắn tin tới 911 nếu không thể nói chuyện an toàn."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But a voice call is still faster, so call if you can, and text only if you can't.",
+            "vi": "Nhưng gọi điện vẫn nhanh hơn, nên gọi được thì hãy gọi, chỉ nhắn tin khi không gọi được."
+          }
+        },
+        {
+          "n": 17,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I hope you never need to call us. But if you do, remember: where first, then what, and don't hang up.",
+            "vi": "Tôi mong bạn không bao giờ phải gọi chúng tôi. Nhưng nếu phải gọi, hãy nhớ: ở đâu trước, chuyện gì sau, và đừng cúp máy."
+          }
+        }
+      ],
+      "content_ja": "What I Wish Everyone Knew About Calling 911\n\nWritten by: Ethan Hayes, firefighter\n\nI've been a firefighter in San Diego for six years, and I've answered thousands of emergency calls. Most callers do a great job, but every week I see small mistakes that cost us time, and in an emergency, every minute counts.\n\nMistake number one: starting with the story instead of the location. When people are frightened, they often explain what happened before they say where they are. But if the call is cut off, we can't help you, because we don't know where to go. So say the address first, then explain the problem. If you don't know the address, look for street signs or a building nearby.\n\nMistake number two: hanging up too early.\n\nStay on the line until the operator tells you that you can hang up. They may need to give you instructions, for example how to stop someone's bleeding while you wait for us.\n\nMistake number three: calling 911 for things that are not emergencies. A neighbor's loud party or a lost cat is not an emergency, and calls like these can keep the line busy for someone who is having a heart attack. Use your city's non-emergency number instead. It's a good idea to save it in your phone today.\n\nFinally, here's something that many people don't know: in many areas, including San Diego, you can send a text to 911 if you can't speak safely. But a voice call is still faster, so call if you can, and text only if you can't.\n\nI hope you never need to call us. But if you do, remember: where first, then what, and don't hang up.",
+      "translation_vn": "(1) Điều tôi mong ai cũng biết khi gọi 911\n(2) Người viết: Ethan Hayes, lính cứu hoả\n(3) Tôi làm lính cứu hoả ở San Diego được sáu năm, và đã đi hàng nghìn cuộc gọi khẩn cấp.\n(4) Phần lớn người gọi làm rất tốt, nhưng tuần nào tôi cũng thấy những lỗi nhỏ làm chúng tôi mất thời gian, mà trong tình huống khẩn cấp, từng phút đều quý.\n(5) Lỗi thứ nhất: kể chuyện trước thay vì nói địa điểm trước.\n(6) Khi hoảng sợ, người ta thường kể chuyện gì đã xảy ra trước khi nói mình đang ở đâu.\n(7) Nhưng nếu cuộc gọi bị ngắt, chúng tôi không giúp được bạn, vì không biết phải tới đâu.\n(8) Vậy hãy nói địa chỉ trước, rồi mới kể sự việc. Nếu không biết địa chỉ, hãy tìm biển tên đường hoặc một toà nhà gần đó.\n(9) Lỗi thứ hai: cúp máy quá sớm.\n(10) Hãy giữ máy cho tới khi tổng đài viên bảo bạn có thể cúp máy.\n(11) Họ có thể cần hướng dẫn bạn, ví dụ cách cầm máu cho ai đó trong lúc chờ chúng tôi tới.\n(12) Lỗi thứ ba: gọi 911 cho những việc không khẩn cấp.\n(13) Bữa tiệc ồn ào nhà hàng xóm hay một con mèo đi lạc không phải chuyện khẩn cấp, và những cuộc gọi như vậy có thể chiếm đường dây của một người đang lên cơn đau tim.\n(14) Thay vào đó, hãy gọi số không khẩn cấp của thành phố. Lưu ngay số này vào điện thoại từ hôm nay là ý hay.\n(15) Cuối cùng, có một điều nhiều người không biết: ở nhiều nơi, trong đó có San Diego, bạn có thể nhắn tin tới 911 nếu không thể nói chuyện an toàn.\n(16) Nhưng gọi điện vẫn nhanh hơn, nên gọi được thì hãy gọi, chỉ nhắn tin khi không gọi được.\n(17) Tôi mong bạn không bao giờ phải gọi chúng tôi. Nhưng nếu phải gọi, hãy nhớ: ở đâu trước, chuyện gì sau, và đừng cúp máy.",
+      "word_count": 281,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004",
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008",
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012",
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016",
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020",
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024",
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028",
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032",
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036",
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040",
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044",
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048",
+        "b1.049",
+        "b1.050",
+        "b1.051",
+        "b1.052",
+        "b1.053",
+        "b1.054",
+        "b1.055",
+        "b1.056",
+        "b1.057",
+        "b1.058",
+        "b1.059",
+        "b1.060",
+        "b1.061",
+        "b1.062",
+        "b1.063",
+        "b1.064",
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068",
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072",
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076",
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080"
+      ]
+    },
+    {
+      "id": "passage_mock1_03",
+      "heading_i18n": {
+        "vi": "Phần 3 — Bài khoa học về giấc ngủ của tuổi teen"
+      },
+      "narrator": "announcer",
+      "title": "Why Teenagers Can't Fall Asleep Early",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 200,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why Teenagers Can't Fall Asleep Early",
+            "vi": "Vì sao tuổi teen không ngủ sớm được"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many parents believe that teenagers stay up late because they are lazy or spend too much time on their phones.",
+            "vi": "Nhiều phụ huynh tin rằng tuổi teen thức khuya vì lười hoặc dùng điện thoại quá nhiều."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Phones are part of the story, but scientists say that the main reason is inside the body.",
+            "vi": "Điện thoại là một phần câu chuyện, nhưng các nhà khoa học nói lý do chính nằm bên trong cơ thể."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Everyone has a body clock that tells us when to feel sleepy and when to wake up.",
+            "vi": "Ai cũng có một chiếc đồng hồ sinh học báo cho ta khi nào thấy buồn ngủ và khi nào thức dậy."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is controlled partly by a chemical called melatonin, which the body produces when it gets dark.",
+            "vi": "Nó được điều khiển một phần bởi một chất gọi là melatonin, chất mà cơ thể tiết ra khi trời tối."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "During the teenage years, this clock moves later: many teenagers do not start to feel sleepy until about 11 p.m., up to two hours later than when they were younger.",
+            "vi": "Ở tuổi teen, chiếc đồng hồ này lùi muộn hơn: nhiều bạn tới khoảng 11 giờ đêm mới bắt đầu buồn ngủ, muộn hơn hồi nhỏ tới hai tiếng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the same time, teenagers still need a lot of sleep: experts recommend eight to ten hours a night.",
+            "vi": "Trong khi đó, tuổi teen vẫn cần ngủ nhiều: các chuyên gia khuyên ngủ tám tới mười tiếng mỗi đêm."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If a student falls asleep at 11:30 and has to get up at 6:30 for school, they get only seven hours, and after five school days, the missing hours add up.",
+            "vi": "Nếu một học sinh ngủ lúc 11:30 mà 6:30 đã phải dậy đi học, bạn ấy chỉ ngủ được bảy tiếng, và sau năm ngày đi học, số giờ thiếu ấy cộng dồn lại."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not getting enough sleep can make it harder to pay attention, remember new information and control your mood, and it is also dangerous for young drivers.",
+            "vi": "Ngủ không đủ có thể khiến ta khó tập trung, khó nhớ thông tin mới và khó kiềm chế cảm xúc, và còn nguy hiểm với những người mới lái xe."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So where do phones fit in?",
+            "vi": "Vậy điện thoại đóng vai trò gì?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The bright light from screens can tell the brain that it is still day, so the body produces melatonin later than it should.",
+            "vi": "Ánh sáng từ màn hình có thể báo cho não rằng trời vẫn còn sáng, nên cơ thể tiết melatonin muộn hơn bình thường."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Messages and videos also keep the mind active, which makes falling asleep even harder.",
+            "vi": "Tin nhắn và video còn khiến đầu óc cứ hoạt động, làm việc chìm vào giấc ngủ càng khó hơn."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Scientists suggest a few simple habits.",
+            "vi": "Các nhà khoa học gợi ý vài thói quen đơn giản."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Put your phone away about an hour before bed, ideally in another room.",
+            "vi": "Hãy cất điện thoại khoảng một tiếng trước khi ngủ, tốt nhất là để ở phòng khác."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Try to go to bed and get up at similar times every day, even on weekends, because sleeping until noon on Sunday makes Monday morning feel even worse.",
+            "vi": "Cố gắng đi ngủ và thức dậy vào giờ gần giống nhau mỗi ngày, kể cả cuối tuần, vì ngủ tới trưa Chủ nhật khiến sáng thứ Hai càng mệt hơn."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And get some sunlight in the morning: it helps your body clock know when the day has started.",
+            "vi": "Và hãy ra nắng một chút vào buổi sáng: nó giúp đồng hồ sinh học biết ngày mới đã bắt đầu."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some schools in the United States have moved their start times later so that students can get more sleep, and studies show that students there are less sleepy in class and arrive late less often.",
+            "vi": "Một số trường ở Mỹ đã lùi giờ vào học để học sinh được ngủ nhiều hơn, và các nghiên cứu cho thấy học sinh ở đó ít buồn ngủ trong lớp hơn và ít đi muộn hơn."
+          }
+        }
+      ],
+      "content_ja": "Why Teenagers Can't Fall Asleep Early\n\nMany parents believe that teenagers stay up late because they are lazy or spend too much time on their phones. Phones are part of the story, but scientists say that the main reason is inside the body.\n\nEveryone has a body clock that tells us when to feel sleepy and when to wake up. It is controlled partly by a chemical called melatonin, which the body produces when it gets dark. During the teenage years, this clock moves later: many teenagers do not start to feel sleepy until about 11 p.m., up to two hours later than when they were younger.\n\nAt the same time, teenagers still need a lot of sleep: experts recommend eight to ten hours a night. If a student falls asleep at 11:30 and has to get up at 6:30 for school, they get only seven hours, and after five school days, the missing hours add up. Not getting enough sleep can make it harder to pay attention, remember new information and control your mood, and it is also dangerous for young drivers.\n\nSo where do phones fit in? The bright light from screens can tell the brain that it is still day, so the body produces melatonin later than it should. Messages and videos also keep the mind active, which makes falling asleep even harder.\n\nScientists suggest a few simple habits. Put your phone away about an hour before bed, ideally in another room. Try to go to bed and get up at similar times every day, even on weekends, because sleeping until noon on Sunday makes Monday morning feel even worse. And get some sunlight in the morning: it helps your body clock know when the day has started.\n\nSome schools in the United States have moved their start times later so that students can get more sleep, and studies show that students there are less sleepy in class and arrive late less often.",
+      "translation_vn": "(1) Vì sao tuổi teen không ngủ sớm được\n(2) Nhiều phụ huynh tin rằng tuổi teen thức khuya vì lười hoặc dùng điện thoại quá nhiều.\n(3) Điện thoại là một phần câu chuyện, nhưng các nhà khoa học nói lý do chính nằm bên trong cơ thể.\n(4) Ai cũng có một chiếc đồng hồ sinh học báo cho ta khi nào thấy buồn ngủ và khi nào thức dậy.\n(5) Nó được điều khiển một phần bởi một chất gọi là melatonin, chất mà cơ thể tiết ra khi trời tối.\n(6) Ở tuổi teen, chiếc đồng hồ này lùi muộn hơn: nhiều bạn tới khoảng 11 giờ đêm mới bắt đầu buồn ngủ, muộn hơn hồi nhỏ tới hai tiếng.\n(7) Trong khi đó, tuổi teen vẫn cần ngủ nhiều: các chuyên gia khuyên ngủ tám tới mười tiếng mỗi đêm.\n(8) Nếu một học sinh ngủ lúc 11:30 mà 6:30 đã phải dậy đi học, bạn ấy chỉ ngủ được bảy tiếng, và sau năm ngày đi học, số giờ thiếu ấy cộng dồn lại.\n(9) Ngủ không đủ có thể khiến ta khó tập trung, khó nhớ thông tin mới và khó kiềm chế cảm xúc, và còn nguy hiểm với những người mới lái xe.\n(10) Vậy điện thoại đóng vai trò gì?\n(11) Ánh sáng từ màn hình có thể báo cho não rằng trời vẫn còn sáng, nên cơ thể tiết melatonin muộn hơn bình thường.\n(12) Tin nhắn và video còn khiến đầu óc cứ hoạt động, làm việc chìm vào giấc ngủ càng khó hơn.\n(13) Các nhà khoa học gợi ý vài thói quen đơn giản.\n(14) Hãy cất điện thoại khoảng một tiếng trước khi ngủ, tốt nhất là để ở phòng khác.\n(15) Cố gắng đi ngủ và thức dậy vào giờ gần giống nhau mỗi ngày, kể cả cuối tuần, vì ngủ tới trưa Chủ nhật khiến sáng thứ Hai càng mệt hơn.\n(16) Và hãy ra nắng một chút vào buổi sáng: nó giúp đồng hồ sinh học biết ngày mới đã bắt đầu.\n(17) Một số trường ở Mỹ đã lùi giờ vào học để học sinh được ngủ nhiều hơn, và các nghiên cứu cho thấy học sinh ở đó ít buồn ngủ trong lớp hơn và ít đi muộn hơn.",
+      "word_count": 324,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004",
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008",
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012",
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016",
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020",
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024",
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028",
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032",
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036",
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040",
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044",
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048",
+        "b1.049",
+        "b1.050",
+        "b1.051",
+        "b1.052",
+        "b1.053",
+        "b1.054",
+        "b1.055",
+        "b1.056",
+        "b1.057",
+        "b1.058",
+        "b1.059",
+        "b1.060",
+        "b1.061",
+        "b1.062",
+        "b1.063",
+        "b1.064",
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068",
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072",
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076",
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080"
+      ]
+    },
+    {
+      "id": "passage_mock1_04",
+      "heading_i18n": {
+        "vi": "Phần 4 — Bài kiến thức về cầu Cổng Vàng"
+      },
+      "narrator": "announcer",
+      "title": "The Bridge That Fog Couldn't Hide",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 210,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Bridge That Fog Couldn't Hide",
+            "vi": "Cây cầu mà sương mù không giấu nổi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For many visitors, the Golden Gate Bridge is the picture of San Francisco: two tall orange towers rising out of the fog above the entrance to the bay.",
+            "vi": "Với nhiều du khách, cầu Cổng Vàng chính là hình ảnh của San Francisco: hai ngọn tháp cao màu cam vươn lên khỏi sương mù phía trên cửa vịnh."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But less than a hundred years ago, many people believed that a bridge in that place could never be built.",
+            "vi": "Nhưng chưa tới một trăm năm trước, nhiều người tin rằng ở chỗ đó không bao giờ xây nổi một cây cầu."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before the bridge, people who wanted to travel north from the city had to take a ferry across the water.",
+            "vi": "Trước khi có cầu, ai muốn đi về phía bắc thành phố đều phải đi phà qua vùng nước ấy."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The strait is about a mile wide, the water is deep, the currents are strong, and the wind and fog arrive suddenly from the ocean.",
+            "vi": "Eo biển rộng khoảng một dặm, nước sâu, dòng chảy mạnh, còn gió và sương mù ập tới bất ngờ từ đại dương."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some experts said that the wind would blow the towers down, while others worried that ships would not be able to see the bridge in the fog.",
+            "vi": "Có chuyên gia nói các ngọn tháp sẽ bị gió quật đổ, người khác lại lo tàu thuyền sẽ không thấy được cây cầu trong sương mù."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Work finally began in January 1933, and the bridge was opened in May 1937, after about four years of construction.",
+            "vi": "Cuối cùng công trình khởi công vào tháng 1 năm 1933, và cây cầu được khánh thành vào tháng 5 năm 1937, sau khoảng bốn năm xây dựng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At that time, its main span, the part between the two towers, was the longest of any bridge in the world, and it kept that record until 1964.",
+            "vi": "Khi đó, nhịp chính của nó, tức phần giữa hai ngọn tháp, dài nhất trong số các cây cầu trên thế giới, và nó giữ kỷ lục ấy tới năm 1964."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "During construction, a safety net was hung under the bridge, which was unusual at the time, and it saved the lives of nineteen workers who fell.",
+            "vi": "Trong lúc xây, người ta căng một tấm lưới an toàn bên dưới cầu, điều hiếm thấy thời đó, và nó đã cứu sống mười chín công nhân bị ngã."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The famous color was almost an accident.",
+            "vi": "Màu sắc nổi tiếng của cây cầu gần như là một sự tình cờ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The steel arrived covered in a red paint that was only meant to protect it, and the architect liked it so much that he decided to keep a similar color.",
+            "vi": "Thép được chở tới phủ một lớp sơn đỏ chỉ nhằm bảo vệ nó, và kiến trúc sư thích màu ấy tới mức quyết định giữ một màu tương tự."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He felt that the warm orange fit well with the hills and the sky, and it also made the bridge much easier to see in the fog.",
+            "vi": "Ông thấy màu cam ấm hợp với những ngọn đồi và bầu trời, và nó còn giúp cây cầu dễ nhìn thấy hơn nhiều trong sương mù."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You may have heard that painters start again at one end as soon as they reach the other.",
+            "vi": "Có thể bạn từng nghe rằng thợ sơn vừa sơn tới đầu này là lại quay về sơn từ đầu kia."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That is not quite true.",
+            "vi": "Điều đó không hẳn đúng."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A team of painters does work on the bridge all year, but they only paint the parts that need it most, because wind, fog and the salt in the sea air are always damaging the paint.",
+            "vi": "Đúng là có một đội thợ sơn làm việc trên cầu quanh năm, nhưng họ sơn lại những phần cần nhất, vì gió, sương mù và không khí mặn lúc nào cũng làm hỏng lớp sơn."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nearly ninety years after it opened, the bridge that \"could never be built\" is still carrying thousands of cars every day.",
+            "vi": "Gần chín mươi năm sau ngày khánh thành, cây cầu \"không bao giờ xây nổi\" ấy vẫn ngày ngày chở hàng nghìn chiếc xe qua lại."
+          }
+        }
+      ],
+      "content_ja": "The Bridge That Fog Couldn't Hide\n\nFor many visitors, the Golden Gate Bridge is the picture of San Francisco: two tall orange towers rising out of the fog above the entrance to the bay. But less than a hundred years ago, many people believed that a bridge in that place could never be built.\n\nBefore the bridge, people who wanted to travel north from the city had to take a ferry across the water. The strait is about a mile wide, the water is deep, the currents are strong, and the wind and fog arrive suddenly from the ocean. Some experts said that the wind would blow the towers down, while others worried that ships would not be able to see the bridge in the fog.\n\nWork finally began in January 1933, and the bridge was opened in May 1937, after about four years of construction. At that time, its main span, the part between the two towers, was the longest of any bridge in the world, and it kept that record until 1964. During construction, a safety net was hung under the bridge, which was unusual at the time, and it saved the lives of nineteen workers who fell.\n\nThe famous color was almost an accident. The steel arrived covered in a red paint that was only meant to protect it, and the architect liked it so much that he decided to keep a similar color. He felt that the warm orange fit well with the hills and the sky, and it also made the bridge much easier to see in the fog.\n\nYou may have heard that painters start again at one end as soon as they reach the other. That is not quite true. A team of painters does work on the bridge all year, but they only paint the parts that need it most, because wind, fog and the salt in the sea air are always damaging the paint. Nearly ninety years after it opened, the bridge that \"could never be built\" is still carrying thousands of cars every day.",
+      "translation_vn": "(1) Cây cầu mà sương mù không giấu nổi\n(2) Với nhiều du khách, cầu Cổng Vàng chính là hình ảnh của San Francisco: hai ngọn tháp cao màu cam vươn lên khỏi sương mù phía trên cửa vịnh.\n(3) Nhưng chưa tới một trăm năm trước, nhiều người tin rằng ở chỗ đó không bao giờ xây nổi một cây cầu.\n(4) Trước khi có cầu, ai muốn đi về phía bắc thành phố đều phải đi phà qua vùng nước ấy.\n(5) Eo biển rộng khoảng một dặm, nước sâu, dòng chảy mạnh, còn gió và sương mù ập tới bất ngờ từ đại dương.\n(6) Có chuyên gia nói các ngọn tháp sẽ bị gió quật đổ, người khác lại lo tàu thuyền sẽ không thấy được cây cầu trong sương mù.\n(7) Cuối cùng công trình khởi công vào tháng 1 năm 1933, và cây cầu được khánh thành vào tháng 5 năm 1937, sau khoảng bốn năm xây dựng.\n(8) Khi đó, nhịp chính của nó, tức phần giữa hai ngọn tháp, dài nhất trong số các cây cầu trên thế giới, và nó giữ kỷ lục ấy tới năm 1964.\n(9) Trong lúc xây, người ta căng một tấm lưới an toàn bên dưới cầu, điều hiếm thấy thời đó, và nó đã cứu sống mười chín công nhân bị ngã.\n(10) Màu sắc nổi tiếng của cây cầu gần như là một sự tình cờ.\n(11) Thép được chở tới phủ một lớp sơn đỏ chỉ nhằm bảo vệ nó, và kiến trúc sư thích màu ấy tới mức quyết định giữ một màu tương tự.\n(12) Ông thấy màu cam ấm hợp với những ngọn đồi và bầu trời, và nó còn giúp cây cầu dễ nhìn thấy hơn nhiều trong sương mù.\n(13) Có thể bạn từng nghe rằng thợ sơn vừa sơn tới đầu này là lại quay về sơn từ đầu kia.\n(14) Điều đó không hẳn đúng.\n(15) Đúng là có một đội thợ sơn làm việc trên cầu quanh năm, nhưng họ sơn lại những phần cần nhất, vì gió, sương mù và không khí mặn lúc nào cũng làm hỏng lớp sơn.\n(16) Gần chín mươi năm sau ngày khánh thành, cây cầu \"không bao giờ xây nổi\" ấy vẫn ngày ngày chở hàng nghìn chiếc xe qua lại.",
+      "word_count": 341,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.001",
+        "b1.002",
+        "b1.003",
+        "b1.004",
+        "b1.005",
+        "b1.006",
+        "b1.007",
+        "b1.008",
+        "b1.009",
+        "b1.010",
+        "b1.011",
+        "b1.012",
+        "b1.013",
+        "b1.014",
+        "b1.015",
+        "b1.016",
+        "b1.017",
+        "b1.018",
+        "b1.019",
+        "b1.020",
+        "b1.021",
+        "b1.022",
+        "b1.023",
+        "b1.024",
+        "b1.025",
+        "b1.026",
+        "b1.027",
+        "b1.028",
+        "b1.029",
+        "b1.030",
+        "b1.031",
+        "b1.032",
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036",
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040",
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044",
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048",
+        "b1.049",
+        "b1.050",
+        "b1.051",
+        "b1.052",
+        "b1.053",
+        "b1.054",
+        "b1.055",
+        "b1.056",
+        "b1.057",
+        "b1.058",
+        "b1.059",
+        "b1.060",
+        "b1.061",
+        "b1.062",
+        "b1.063",
+        "b1.064",
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068",
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072",
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076",
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mock1_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What is the main purpose of the notice?",
+        "vi": "Mục đích chính của thông báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to tell students about a new swimming pool",
+            "vi": "để báo học sinh về hồ bơi mới"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to tell students about a new swimming pool",
+          "text_translation": "để báo học sinh về hồ bơi mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to invite students to a fair where they can find summer jobs and volunteer work",
+            "vi": "để mời học sinh tới hội chợ tìm việc làm hè và việc tình nguyện"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to invite students to a fair where they can find summer jobs and volunteer work",
+          "text_translation": "để mời học sinh tới hội chợ tìm việc làm hè và việc tình nguyện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how to get a work permit",
+            "vi": "để giải thích cách xin giấy phép lao động"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain how to get a work permit",
+          "text_translation": "để giải thích cách xin giấy phép lao động"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to ask parents to help at the school",
+            "vi": "để nhờ phụ huynh giúp trường"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to ask parents to help at the school",
+          "text_translation": "để nhờ phụ huynh giúp trường"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Come to our first Summer Job & Volunteer Fair and meet more than thirty local employers and organizations in one place.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the notice?",
+      "question_vn": "Mục đích chính của thông báo là gì?",
+      "explanation": "\"Come to our first Summer Job & Volunteer Fair and meet more than thirty local employers and organizations in one place.\""
+    },
+    {
+      "id": "q_mock1_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "How should visitors enter the gym?",
+        "vi": "Khách tới nên vào nhà thể chất bằng lối nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "through the main school gate",
+            "vi": "qua cổng chính của trường"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "through the main school gate",
+          "text_translation": "qua cổng chính của trường"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "through the school office",
+            "vi": "qua văn phòng trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "through the school office",
+          "text_translation": "qua văn phòng trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "through the doors next to the parking lot",
+            "vi": "qua cửa cạnh bãi đỗ xe"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "through the doors next to the parking lot",
+          "text_translation": "qua cửa cạnh bãi đỗ xe"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "through the library",
+            "vi": "qua thư viện"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "through the library",
+          "text_translation": "qua thư viện"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Place: Westview High gym (enter through the doors next to the parking lot)\""
+      },
+      "audio_data": null,
+      "question_jp": "How should visitors enter the gym?",
+      "question_vn": "Khách tới nên vào nhà thể chất bằng lối nào?",
+      "explanation": "\"Place: Westview High gym (enter through the doors next to the parking lot)\""
+    },
+    {
+      "id": "q_mock1_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Who can come to the fair?",
+        "vi": "Ai được tới hội chợ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Westview students aged 14 and older, and their parents",
+            "vi": "học sinh Westview từ 14 tuổi trở lên, và phụ huynh"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Westview students aged 14 and older, and their parents",
+          "text_translation": "học sinh Westview từ 14 tuổi trở lên, và phụ huynh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "only students who are 18 or older",
+            "vi": "chỉ học sinh từ 18 tuổi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "only students who are 18 or older",
+          "text_translation": "chỉ học sinh từ 18 tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "anyone in San Diego",
+            "vi": "bất kỳ ai ở San Diego"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "anyone in San Diego",
+          "text_translation": "bất kỳ ai ở San Diego"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "only students who already have a job",
+            "vi": "chỉ học sinh đã có việc làm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "only students who already have a job",
+          "text_translation": "chỉ học sinh đã có việc làm"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Who can come: Westview students aged 14 and older. Parents are welcome too.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who can come to the fair?",
+      "question_vn": "Ai được tới hội chợ?",
+      "explanation": "\"Who can come: Westview students aged 14 and older. Parents are welcome too.\""
+    },
+    {
+      "id": "q_mock1_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Which of these is NOT mentioned as something at the fair?",
+        "vi": "Điều nào KHÔNG được nhắc tới ở hội chợ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "paid jobs at summer camps",
+            "vi": "việc có lương ở trại hè"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "paid jobs at summer camps",
+          "text_translation": "việc có lương ở trại hè"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "volunteer work at the public library",
+            "vi": "việc tình nguyện ở thư viện công cộng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "volunteer work at the public library",
+          "text_translation": "việc tình nguyện ở thư viện công cộng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "short talks about interviews",
+            "vi": "buổi nói chuyện ngắn về phỏng vấn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "short talks about interviews",
+          "text_translation": "buổi nói chuyện ngắn về phỏng vấn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "free lunch for all visitors",
+            "vi": "bữa trưa miễn phí cho mọi khách"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "free lunch for all visitors",
+          "text_translation": "bữa trưa miễn phí cho mọi khách"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"At the fair, you will find paid summer jobs at cafés, shops, swimming pools and summer camps.\" Thông báo cũng nhắc việc tình nguyện và các buổi nói chuyện, nhưng không hề nói tới bữa trưa."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT mentioned as something at the fair?",
+      "question_vn": "Điều nào KHÔNG được nhắc tới ở hội chợ?",
+      "explanation": "\"At the fair, you will find paid summer jobs at cafés, shops, swimming pools and summer camps.\" Thông báo cũng nhắc việc tình nguyện và các buổi nói chuyện, nhưng không hề nói tới bữa trưa."
+    },
+    {
+      "id": "q_mock1_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "How often will there be a short talk?",
+        "vi": "Bao lâu có một buổi nói chuyện ngắn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "every 30 minutes",
+            "vi": "30 phút một lần"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "every 30 minutes",
+          "text_translation": "30 phút một lần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "once an hour",
+            "vi": "mỗi giờ một lần"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "once an hour",
+          "text_translation": "mỗi giờ một lần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only at 3:30",
+            "vi": "chỉ lúc 3:30"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "only at 3:30",
+          "text_translation": "chỉ lúc 3:30"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "twice a day",
+            "vi": "hai lần một ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "twice a day",
+          "text_translation": "hai lần một ngày"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every 30 minutes, there will be a short talk on how to write about your skills and do well in an interview.\""
+      },
+      "audio_data": null,
+      "question_jp": "How often will there be a short talk?",
+      "question_vn": "Bao lâu có một buổi nói chuyện ngắn?",
+      "explanation": "\"Every 30 minutes, there will be a short talk on how to write about your skills and do well in an interview.\""
+    },
+    {
+      "id": "q_mock1_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "A 15-year-old student wants to be a lifeguard this summer. What will probably happen?",
+        "vi": "Một học sinh 15 tuổi muốn làm cứu hộ hồ bơi mùa hè này. Nhiều khả năng chuyện gì sẽ xảy ra?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She will get the job if she brings a pen.",
+            "vi": "Cô sẽ được nhận nếu mang bút."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She will get the job if she brings a pen.",
+          "text_translation": "Cô sẽ được nhận nếu mang bút."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She must ask her parents to work with her.",
+            "vi": "Cô phải nhờ bố mẹ làm cùng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She must ask her parents to work with her.",
+          "text_translation": "Cô phải nhờ bố mẹ làm cùng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She cannot get this job yet because she is too young.",
+            "vi": "Cô chưa thể nhận việc này vì còn quá nhỏ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She cannot get this job yet because she is too young.",
+          "text_translation": "Cô chưa thể nhận việc này vì còn quá nhỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She will need to visit the website first.",
+            "vi": "Cô sẽ phải vào trang web trước."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She will need to visit the website first.",
+          "text_translation": "Cô sẽ phải vào trang web trước."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"some jobs, such as lifeguard work, are only open to students who are 16 or older\". Bạn này mới 15 tuổi."
+      },
+      "audio_data": null,
+      "question_jp": "A 15-year-old student wants to be a lifeguard this summer. What will probably happen?",
+      "question_vn": "Một học sinh 15 tuổi muốn làm cứu hộ hồ bơi mùa hè này. Nhiều khả năng chuyện gì sẽ xảy ra?",
+      "explanation": "Câu suy luận. \"some jobs, such as lifeguard work, are only open to students who are 16 or older\". Bạn này mới 15 tuổi."
+    },
+    {
+      "id": "q_mock1_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What may students under 18 need before they start a paid job?",
+        "vi": "Học sinh dưới 18 tuổi có thể cần gì trước khi bắt đầu làm việc có lương?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a letter from an employer",
+            "vi": "thư của nhà tuyển dụng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a letter from an employer",
+          "text_translation": "thư của nhà tuyển dụng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a car",
+            "vi": "một chiếc xe"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a car",
+          "text_translation": "một chiếc xe"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a list of their skills",
+            "vi": "danh sách kỹ năng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a list of their skills",
+          "text_translation": "danh sách kỹ năng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a work permit from the school office",
+            "vi": "giấy phép lao động của văn phòng trường"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a work permit from the school office",
+          "text_translation": "giấy phép lao động của văn phòng trường"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Students under 18 may also need a work permit from the school office before they start a paid job.\""
+      },
+      "audio_data": null,
+      "question_jp": "What may students under 18 need before they start a paid job?",
+      "question_vn": "Học sinh dưới 18 tuổi có thể cần gì trước khi bắt đầu làm việc có lương?",
+      "explanation": "\"Students under 18 may also need a work permit from the school office before they start a paid job.\""
+    },
+    {
+      "id": "q_mock1_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "In \"meet more than thirty local employers\", what are \"employers\"?",
+        "vi": "Trong câu \"meet more than thirty local employers\", \"employers\" là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "students who need a job",
+            "vi": "học sinh cần việc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "students who need a job",
+          "text_translation": "học sinh cần việc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "people or companies that pay others to work for them",
+            "vi": "người hoặc công ty trả lương cho người khác làm việc cho mình"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "people or companies that pay others to work for them",
+          "text_translation": "người hoặc công ty trả lương cho người khác làm việc cho mình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "teachers at the school",
+            "vi": "giáo viên trong trường"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "teachers at the school",
+          "text_translation": "giáo viên trong trường"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "parents who visit the fair",
+            "vi": "phụ huynh tới hội chợ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "parents who visit the fair",
+          "text_translation": "phụ huynh tới hội chợ"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"meet more than thirty local employers and organizations\". Họ đưa ra các \"paid summer jobs\", nên employer = người, nơi thuê người làm."
+      },
+      "audio_data": null,
+      "question_jp": "In \"meet more than thirty local employers\", what are \"employers\"?",
+      "question_vn": "Trong câu \"meet more than thirty local employers\", \"employers\" là ai?",
+      "explanation": "\"meet more than thirty local employers and organizations\". Họ đưa ra các \"paid summer jobs\", nên employer = người, nơi thuê người làm."
+    },
+    {
+      "id": "q_mock1_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Why should students bring a list of the days when they are free?",
+        "vi": "Vì sao học sinh nên mang danh sách những ngày mình rảnh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Employers will want to know when they can work.",
+            "vi": "Vì nhà tuyển dụng sẽ muốn biết khi nào các bạn làm được."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Employers will want to know when they can work.",
+          "text_translation": "Vì nhà tuyển dụng sẽ muốn biết khi nào các bạn làm được."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They need it to get into the gym.",
+            "vi": "Vì cần nó để vào nhà thể chất."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They need it to get into the gym.",
+          "text_translation": "Vì cần nó để vào nhà thể chất."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The school office will keep it.",
+            "vi": "Vì văn phòng trường sẽ giữ nó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The school office will keep it.",
+          "text_translation": "Vì văn phòng trường sẽ giữ nó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is needed for the work permit.",
+            "vi": "Vì cần nó để xin giấy phép lao động."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is needed for the work permit.",
+          "text_translation": "Vì cần nó để xin giấy phép lao động."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Bring a pen and a short list of the days when you are free.\" Câu ngay trước nói nhà tuyển dụng sẽ cho điền đơn tại chỗ, nên họ cần biết bạn rảnh ngày nào."
+      },
+      "audio_data": null,
+      "question_jp": "Why should students bring a list of the days when they are free?",
+      "question_vn": "Vì sao học sinh nên mang danh sách những ngày mình rảnh?",
+      "explanation": "Câu suy luận. \"Bring a pen and a short list of the days when you are free.\" Câu ngay trước nói nhà tuyển dụng sẽ cho điền đơn tại chỗ, nên họ cần biết bạn rảnh ngày nào."
+    },
+    {
+      "id": "q_mock1_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What can a student who misses the fair do?",
+        "vi": "Học sinh lỡ hội chợ có thể làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "come to the gym on May 18",
+            "vi": "tới nhà thể chất ngày 18/5"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "come to the gym on May 18",
+          "text_translation": "tới nhà thể chất ngày 18/5"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "call Sunset Bay Hospital",
+            "vi": "gọi Bệnh viện Sunset Bay"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "call Sunset Bay Hospital",
+          "text_translation": "gọi Bệnh viện Sunset Bay"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "see the list of employers on the school website from May 18",
+            "vi": "xem danh sách nhà tuyển dụng trên trang web trường từ 18/5"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "see the list of employers on the school website from May 18",
+          "text_translation": "xem danh sách nhà tuyển dụng trên trang web trường từ 18/5"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "wait for next year's fair",
+            "vi": "chờ hội chợ năm sau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "wait for next year's fair",
+          "text_translation": "chờ hội chợ năm sau"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Can't come? From May 18, visit the school website to see a full list of employers and how to contact them.\""
+      },
+      "audio_data": null,
+      "question_jp": "What can a student who misses the fair do?",
+      "question_vn": "Học sinh lỡ hội chợ có thể làm gì?",
+      "explanation": "\"Can't come? From May 18, visit the school website to see a full list of employers and how to contact them.\""
+    },
+    {
+      "id": "q_mock1_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What is the blog post mainly about?",
+        "vi": "Bài blog chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ethan's first day as a firefighter",
+            "vi": "ngày đầu làm lính cứu hoả của Ethan"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ethan's first day as a firefighter",
+          "text_translation": "ngày đầu làm lính cứu hoả của Ethan"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to stop bleeding",
+            "vi": "cách cầm máu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to stop bleeding",
+          "text_translation": "cách cầm máu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why people are frightened in emergencies",
+            "vi": "vì sao người ta hoảng sợ khi khẩn cấp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why people are frightened in emergencies",
+          "text_translation": "vì sao người ta hoảng sợ khi khẩn cấp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "common mistakes people make when they call 911",
+            "vi": "những lỗi thường gặp khi gọi 911"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "common mistakes people make when they call 911",
+          "text_translation": "những lỗi thường gặp khi gọi 911"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"every week I see small mistakes that cost us time\". Cả bài lần lượt nêu ba lỗi, rồi thêm một điều nên biết về nhắn tin tới 911."
+      },
+      "audio_data": null,
+      "question_jp": "What is the blog post mainly about?",
+      "question_vn": "Bài blog chủ yếu nói về điều gì?",
+      "explanation": "\"every week I see small mistakes that cost us time\". Cả bài lần lượt nêu ba lỗi, rồi thêm một điều nên biết về nhắn tin tới 911."
+    },
+    {
+      "id": "q_mock1_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why does Ethan think that small mistakes are a serious problem?",
+        "vi": "Theo Ethan, vì sao những lỗi nhỏ lại là chuyện nghiêm trọng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They cost time, and in an emergency, every minute counts.",
+            "vi": "Vì chúng làm mất thời gian, mà khi khẩn cấp thì từng phút đều quý."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They cost time, and in an emergency, every minute counts.",
+          "text_translation": "Vì chúng làm mất thời gian, mà khi khẩn cấp thì từng phút đều quý."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They make the operators angry.",
+            "vi": "Vì chúng làm tổng đài viên tức giận."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They make the operators angry.",
+          "text_translation": "Vì chúng làm tổng đài viên tức giận."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They cost callers money.",
+            "vi": "Vì người gọi bị tốn tiền."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They cost callers money.",
+          "text_translation": "Vì người gọi bị tốn tiền."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They break the phone lines.",
+            "vi": "Vì chúng làm hỏng đường dây."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They break the phone lines.",
+          "text_translation": "Vì chúng làm hỏng đường dây."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"every week I see small mistakes that cost us time, and in an emergency, every minute counts.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ethan think that small mistakes are a serious problem?",
+      "question_vn": "Theo Ethan, vì sao những lỗi nhỏ lại là chuyện nghiêm trọng?",
+      "explanation": "\"every week I see small mistakes that cost us time, and in an emergency, every minute counts.\""
+    },
+    {
+      "id": "q_mock1_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What should you tell the operator first?",
+        "vi": "Bạn nên nói gì với tổng đài viên trước tiên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "your name",
+            "vi": "tên của bạn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "your name",
+          "text_translation": "tên của bạn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "what happened",
+            "vi": "chuyện gì đã xảy ra"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "what happened",
+          "text_translation": "chuyện gì đã xảy ra"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "where you are",
+            "vi": "bạn đang ở đâu"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "where you are",
+          "text_translation": "bạn đang ở đâu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how you feel",
+            "vi": "bạn cảm thấy thế nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how you feel",
+          "text_translation": "bạn cảm thấy thế nào"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"So say the address first, then explain the problem.\" Câu chốt cuối bài cũng nhắc: \"where first, then what\"."
+      },
+      "audio_data": null,
+      "question_jp": "What should you tell the operator first?",
+      "question_vn": "Bạn nên nói gì với tổng đài viên trước tiên?",
+      "explanation": "\"So say the address first, then explain the problem.\" Câu chốt cuối bài cũng nhắc: \"where first, then what\"."
+    },
+    {
+      "id": "q_mock1_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What should you do if you don't know the address?",
+        "vi": "Nếu không biết địa chỉ, bạn nên làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "hang up and call again later",
+            "vi": "cúp máy rồi gọi lại sau"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "hang up and call again later",
+          "text_translation": "cúp máy rồi gọi lại sau"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "look for street signs or a building nearby",
+            "vi": "tìm biển tên đường hoặc một toà nhà gần đó"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "look for street signs or a building nearby",
+          "text_translation": "tìm biển tên đường hoặc một toà nhà gần đó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "send a text instead",
+            "vi": "nhắn tin thay vì gọi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "send a text instead",
+          "text_translation": "nhắn tin thay vì gọi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "call the non-emergency number",
+            "vi": "gọi số không khẩn cấp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "call the non-emergency number",
+          "text_translation": "gọi số không khẩn cấp"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you don't know the address, look for street signs or a building nearby.\""
+      },
+      "audio_data": null,
+      "question_jp": "What should you do if you don't know the address?",
+      "question_vn": "Nếu không biết địa chỉ, bạn nên làm gì?",
+      "explanation": "\"If you don't know the address, look for street signs or a building nearby.\""
+    },
+    {
+      "id": "q_mock1_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why should you stay on the line?",
+        "vi": "Vì sao bạn nên giữ máy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The call is free.",
+            "vi": "Vì cuộc gọi miễn phí."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The call is free.",
+          "text_translation": "Vì cuộc gọi miễn phí."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Ethan wants to hear the whole story.",
+            "vi": "Vì Ethan muốn nghe hết câu chuyện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Ethan wants to hear the whole story.",
+          "text_translation": "Vì Ethan muốn nghe hết câu chuyện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Your phone might stop working.",
+            "vi": "Vì điện thoại có thể hỏng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Your phone might stop working.",
+          "text_translation": "Vì điện thoại có thể hỏng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The operator may need to give you instructions.",
+            "vi": "Vì tổng đài viên có thể cần hướng dẫn bạn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The operator may need to give you instructions.",
+          "text_translation": "Vì tổng đài viên có thể cần hướng dẫn bạn."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"They may need to give you instructions, for example how to stop someone's bleeding while you wait for us.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why should you stay on the line?",
+      "question_vn": "Vì sao bạn nên giữ máy?",
+      "explanation": "\"They may need to give you instructions, for example how to stop someone's bleeding while you wait for us.\""
+    },
+    {
+      "id": "q_mock1_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "In \"hanging up too early\", what does \"hanging up\" mean?",
+        "vi": "Trong cụm \"hanging up too early\", \"hanging up\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "ending a phone call",
+            "vi": "kết thúc cuộc gọi"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "ending a phone call",
+          "text_translation": "kết thúc cuộc gọi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "putting a picture on a wall",
+            "vi": "treo tranh lên tường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "putting a picture on a wall",
+          "text_translation": "treo tranh lên tường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "waiting for help",
+            "vi": "chờ được giúp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "waiting for help",
+          "text_translation": "chờ được giúp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "calling again",
+            "vi": "gọi lại"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "calling again",
+          "text_translation": "gọi lại"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Stay on the line until the operator tells you that you can hang up.\" Trái nghĩa với stay on the line (giữ máy), nên hang up = cúp máy."
+      },
+      "audio_data": null,
+      "question_jp": "In \"hanging up too early\", what does \"hanging up\" mean?",
+      "question_vn": "Trong cụm \"hanging up too early\", \"hanging up\" nghĩa là gì?",
+      "explanation": "\"Stay on the line until the operator tells you that you can hang up.\" Trái nghĩa với stay on the line (giữ máy), nên hang up = cúp máy."
+    },
+    {
+      "id": "q_mock1_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Which of these is an example of a non-emergency call?",
+        "vi": "Trường hợp nào là cuộc gọi KHÔNG khẩn cấp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "someone is having a heart attack",
+            "vi": "có người lên cơn đau tim"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "someone is having a heart attack",
+          "text_translation": "có người lên cơn đau tim"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a neighbor's party is too loud",
+            "vi": "tiệc nhà hàng xóm quá ồn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a neighbor's party is too loud",
+          "text_translation": "tiệc nhà hàng xóm quá ồn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a building is on fire",
+            "vi": "một toà nhà đang cháy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a building is on fire",
+          "text_translation": "một toà nhà đang cháy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "someone is bleeding badly",
+            "vi": "có người chảy máu nhiều"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "someone is bleeding badly",
+          "text_translation": "có người chảy máu nhiều"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"A neighbor's loud party or a lost cat is not an emergency\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is an example of a non-emergency call?",
+      "question_vn": "Trường hợp nào là cuộc gọi KHÔNG khẩn cấp?",
+      "explanation": "\"A neighbor's loud party or a lost cat is not an emergency\"."
+    },
+    {
+      "id": "q_mock1_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why does Ethan suggest saving the non-emergency number in your phone today?",
+        "vi": "Vì sao Ethan khuyên lưu số không khẩn cấp vào điện thoại ngay hôm nay?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The number will change soon.",
+            "vi": "Vì số này sắp đổi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The number will change soon.",
+          "text_translation": "Vì số này sắp đổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is the only way to text 911.",
+            "vi": "Vì đó là cách duy nhất để nhắn tin tới 911."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is the only way to text 911.",
+          "text_translation": "Vì đó là cách duy nhất để nhắn tin tới 911."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "So you have it ready and do not use 911 for small problems.",
+            "vi": "Để có sẵn số và không gọi 911 cho chuyện nhỏ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "So you have it ready and do not use 911 for small problems.",
+          "text_translation": "Để có sẵn số và không gọi 911 cho chuyện nhỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Firefighters will call you on it.",
+            "vi": "Vì lính cứu hoả sẽ gọi bạn qua số đó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Firefighters will call you on it.",
+          "text_translation": "Vì lính cứu hoả sẽ gọi bạn qua số đó."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Use your city's non-emergency number instead. It's a good idea to save it in your phone today.\" Có sẵn số thì khi gặp chuyện nhỏ sẽ không phải gọi 911, giữ đường dây cho người thật sự cần."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ethan suggest saving the non-emergency number in your phone today?",
+      "question_vn": "Vì sao Ethan khuyên lưu số không khẩn cấp vào điện thoại ngay hôm nay?",
+      "explanation": "Câu suy luận. \"Use your city's non-emergency number instead. It's a good idea to save it in your phone today.\" Có sẵn số thì khi gặp chuyện nhỏ sẽ không phải gọi 911, giữ đường dây cho người thật sự cần."
+    },
+    {
+      "id": "q_mock1_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What does Ethan mean by \"call if you can, and text only if you can't\"?",
+        "vi": "Ethan muốn nói gì qua câu \"gọi được thì hãy gọi, chỉ nhắn tin khi không gọi được\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Texting is always better than calling.",
+            "vi": "Nhắn tin lúc nào cũng tốt hơn gọi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Texting is always better than calling.",
+          "text_translation": "Nhắn tin lúc nào cũng tốt hơn gọi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "You should both call and text every time.",
+            "vi": "Lần nào cũng nên vừa gọi vừa nhắn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "You should both call and text every time.",
+          "text_translation": "Lần nào cũng nên vừa gọi vừa nhắn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Texting 911 is not possible in San Diego.",
+            "vi": "Ở San Diego không nhắn tin tới 911 được."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Texting 911 is not possible in San Diego.",
+          "text_translation": "Ở San Diego không nhắn tin tới 911 được."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A voice call is better, and texting is for when it isn't safe to speak.",
+            "vi": "Gọi điện tốt hơn, còn nhắn tin dành cho lúc không thể nói chuyện an toàn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A voice call is better, and texting is for when it isn't safe to speak.",
+          "text_translation": "Gọi điện tốt hơn, còn nhắn tin dành cho lúc không thể nói chuyện an toàn."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"But a voice call is still faster, so call if you can, and text only if you can't.\" Câu trước nói nhắn tin dùng khi \"you can't speak safely\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Ethan mean by \"call if you can, and text only if you can't\"?",
+      "question_vn": "Ethan muốn nói gì qua câu \"gọi được thì hãy gọi, chỉ nhắn tin khi không gọi được\"?",
+      "explanation": "\"But a voice call is still faster, so call if you can, and text only if you can't.\" Câu trước nói nhắn tin dùng khi \"you can't speak safely\"."
+    },
+    {
+      "id": "q_mock1_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What is Ethan's attitude in the blog post?",
+        "vi": "Thái độ của Ethan trong bài blog thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "helpful and caring",
+            "vi": "sẵn lòng giúp đỡ và quan tâm"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "helpful and caring",
+          "text_translation": "sẵn lòng giúp đỡ và quan tâm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "angry with callers",
+            "vi": "bực bội với người gọi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "angry with callers",
+          "text_translation": "bực bội với người gọi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "bored with his job",
+            "vi": "chán công việc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "bored with his job",
+          "text_translation": "chán công việc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "worried about his own safety",
+            "vi": "lo cho an toàn của bản thân"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "worried about his own safety",
+          "text_translation": "lo cho an toàn của bản thân"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. \"I hope you never need to call us. But if you do, remember: where first, then what, and don't hang up.\" Ethan cũng khen \"Most callers do a great job\", nên anh không hề bực bội."
+      },
+      "audio_data": null,
+      "question_jp": "What is Ethan's attitude in the blog post?",
+      "question_vn": "Thái độ của Ethan trong bài blog thế nào?",
+      "explanation": "Câu hỏi thái độ. \"I hope you never need to call us. But if you do, remember: where first, then what, and don't hang up.\" Ethan cũng khen \"Most callers do a great job\", nên anh không hề bực bội."
+    },
+    {
+      "id": "q_mock1_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Teenagers should not use phones.",
+            "vi": "Tuổi teen không nên dùng điện thoại."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Teenagers should not use phones.",
+          "text_translation": "Tuổi teen không nên dùng điện thoại."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "All schools should start at noon.",
+            "vi": "Mọi trường nên vào học lúc trưa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "All schools should start at noon.",
+          "text_translation": "Mọi trường nên vào học lúc trưa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Teenagers' body clocks change, so going to bed late is not only about being lazy.",
+            "vi": "Đồng hồ sinh học của tuổi teen thay đổi, nên việc ngủ muộn không chỉ do lười."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Teenagers' body clocks change, so going to bed late is not only about being lazy.",
+          "text_translation": "Đồng hồ sinh học của tuổi teen thay đổi, nên việc ngủ muộn không chỉ do lười."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Parents need more sleep than teenagers.",
+            "vi": "Phụ huynh cần ngủ nhiều hơn tuổi teen."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Parents need more sleep than teenagers.",
+          "text_translation": "Phụ huynh cần ngủ nhiều hơn tuổi teen."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Phones are part of the story, but scientists say that the main reason is inside the body.\" Bài giải thích đồng hồ sinh học rồi đưa lời khuyên."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"Phones are part of the story, but scientists say that the main reason is inside the body.\" Bài giải thích đồng hồ sinh học rồi đưa lời khuyên."
+    },
+    {
+      "id": "q_mock1_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Why do many parents think teenagers stay up late?",
+        "vi": "Vì sao nhiều phụ huynh nghĩ tuổi teen thức khuya?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Their body clock moves later.",
+            "vi": "Vì đồng hồ sinh học lùi muộn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Their body clock moves later.",
+          "text_translation": "Vì đồng hồ sinh học lùi muộn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are lazy or spend too much time on their phones.",
+            "vi": "Vì lười hoặc dùng điện thoại quá nhiều."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They are lazy or spend too much time on their phones.",
+          "text_translation": "Vì lười hoặc dùng điện thoại quá nhiều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have too much homework.",
+            "vi": "Vì có quá nhiều bài tập."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have too much homework.",
+          "text_translation": "Vì có quá nhiều bài tập."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are not tired.",
+            "vi": "Vì không thấy mệt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are not tired.",
+          "text_translation": "Vì không thấy mệt."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many parents believe that teenagers stay up late because they are lazy or spend too much time on their phones.\" Đồng hồ sinh học là lời giải thích của các nhà khoa học, không phải của phụ huynh."
+      },
+      "audio_data": null,
+      "question_jp": "Why do many parents think teenagers stay up late?",
+      "question_vn": "Vì sao nhiều phụ huynh nghĩ tuổi teen thức khuya?",
+      "explanation": "\"Many parents believe that teenagers stay up late because they are lazy or spend too much time on their phones.\" Đồng hồ sinh học là lời giải thích của các nhà khoa học, không phải của phụ huynh."
+    },
+    {
+      "id": "q_mock1_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What is melatonin?",
+        "vi": "Melatonin là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a kind of phone light",
+            "vi": "một loại ánh sáng điện thoại"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a kind of phone light",
+          "text_translation": "một loại ánh sáng điện thoại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a sleep habit",
+            "vi": "một thói quen ngủ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a sleep habit",
+          "text_translation": "một thói quen ngủ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a part of the brain",
+            "vi": "một phần của não"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a part of the brain",
+          "text_translation": "một phần của não"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a chemical that the body produces when it gets dark",
+            "vi": "một chất cơ thể tiết ra khi trời tối"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a chemical that the body produces when it gets dark",
+          "text_translation": "một chất cơ thể tiết ra khi trời tối"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"It is controlled partly by a chemical called melatonin, which the body produces when it gets dark.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is melatonin?",
+      "question_vn": "Melatonin là gì?",
+      "explanation": "\"It is controlled partly by a chemical called melatonin, which the body produces when it gets dark.\""
+    },
+    {
+      "id": "q_mock1_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "How does the body clock change during the teenage years?",
+        "vi": "Ở tuổi teen, đồng hồ sinh học thay đổi thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It moves later, so many teenagers do not feel sleepy until about 11 p.m.",
+            "vi": "Nó lùi muộn hơn, nên nhiều bạn tới khoảng 11 giờ đêm mới buồn ngủ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It moves later, so many teenagers do not feel sleepy until about 11 p.m.",
+          "text_translation": "Nó lùi muộn hơn, nên nhiều bạn tới khoảng 11 giờ đêm mới buồn ngủ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It stops working.",
+            "vi": "Nó ngừng hoạt động."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It stops working.",
+          "text_translation": "Nó ngừng hoạt động."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It moves earlier, so teenagers feel sleepy at 8 p.m.",
+            "vi": "Nó sớm hơn, nên tuổi teen buồn ngủ lúc 8 giờ tối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It moves earlier, so teenagers feel sleepy at 8 p.m.",
+          "text_translation": "Nó sớm hơn, nên tuổi teen buồn ngủ lúc 8 giờ tối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It only works on weekends.",
+            "vi": "Nó chỉ hoạt động vào cuối tuần."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It only works on weekends.",
+          "text_translation": "Nó chỉ hoạt động vào cuối tuần."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"During the teenage years, this clock moves later: many teenagers do not start to feel sleepy until about 11 p.m.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does the body clock change during the teenage years?",
+      "question_vn": "Ở tuổi teen, đồng hồ sinh học thay đổi thế nào?",
+      "explanation": "\"During the teenage years, this clock moves later: many teenagers do not start to feel sleepy until about 11 p.m.\""
+    },
+    {
+      "id": "q_mock1_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "How much sleep do experts recommend for teenagers?",
+        "vi": "Các chuyên gia khuyên tuổi teen ngủ bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about seven hours",
+            "vi": "khoảng bảy tiếng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "about seven hours",
+          "text_translation": "khoảng bảy tiếng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "eight to ten hours a night",
+            "vi": "tám tới mười tiếng mỗi đêm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "eight to ten hours a night",
+          "text_translation": "tám tới mười tiếng mỗi đêm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "until noon on Sunday",
+            "vi": "tới trưa Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "until noon on Sunday",
+          "text_translation": "tới trưa Chủ nhật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "eleven hours",
+            "vi": "mười một tiếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "eleven hours",
+          "text_translation": "mười một tiếng"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"experts recommend eight to ten hours a night.\" Bảy tiếng là số giờ học sinh trong ví dụ ngủ được, tức là thiếu."
+      },
+      "audio_data": null,
+      "question_jp": "How much sleep do experts recommend for teenagers?",
+      "question_vn": "Các chuyên gia khuyên tuổi teen ngủ bao nhiêu?",
+      "explanation": "\"experts recommend eight to ten hours a night.\" Bảy tiếng là số giờ học sinh trong ví dụ ngủ được, tức là thiếu."
+    },
+    {
+      "id": "q_mock1_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "In \"after five school days, the missing hours add up\", what does \"add up\" mean?",
+        "vi": "Trong câu \"after five school days, the missing hours add up\", \"add up\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "disappear",
+            "vi": "biến mất"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "disappear",
+          "text_translation": "biến mất"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "are easy to count",
+            "vi": "dễ đếm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "are easy to count",
+          "text_translation": "dễ đếm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "are slowly made up",
+            "vi": "dần được bù lại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "are slowly made up",
+          "text_translation": "dần được bù lại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "grow into a large amount together",
+            "vi": "cộng dồn thành một con số lớn"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "grow into a large amount together",
+          "text_translation": "cộng dồn thành một con số lớn"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"they get only seven hours, and after five school days, the missing hours add up.\" Mỗi đêm thiếu một ít, năm đêm cộng lại thành nhiều."
+      },
+      "audio_data": null,
+      "question_jp": "In \"after five school days, the missing hours add up\", what does \"add up\" mean?",
+      "question_vn": "Trong câu \"after five school days, the missing hours add up\", \"add up\" nghĩa là gì?",
+      "explanation": "\"they get only seven hours, and after five school days, the missing hours add up.\" Mỗi đêm thiếu một ít, năm đêm cộng lại thành nhiều."
+    },
+    {
+      "id": "q_mock1_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Which of these is NOT given as a result of too little sleep?",
+        "vi": "Điều nào KHÔNG được nêu là hậu quả của việc ngủ quá ít?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "growing taller more slowly",
+            "vi": "chậm cao hơn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "growing taller more slowly",
+          "text_translation": "chậm cao hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "finding it harder to pay attention",
+            "vi": "khó tập trung hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "finding it harder to pay attention",
+          "text_translation": "khó tập trung hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "finding it harder to remember new information",
+            "vi": "khó nhớ thông tin mới hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "finding it harder to remember new information",
+          "text_translation": "khó nhớ thông tin mới hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "being more dangerous as a young driver",
+            "vi": "lái xe nguy hiểm hơn với người trẻ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "being more dangerous as a young driver",
+          "text_translation": "lái xe nguy hiểm hơn với người trẻ"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Not getting enough sleep can make it harder to pay attention, remember new information and control your mood, and it is also dangerous for young drivers.\" Bài không nói gì về chiều cao."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT given as a result of too little sleep?",
+      "question_vn": "Điều nào KHÔNG được nêu là hậu quả của việc ngủ quá ít?",
+      "explanation": "\"Not getting enough sleep can make it harder to pay attention, remember new information and control your mood, and it is also dangerous for young drivers.\" Bài không nói gì về chiều cao."
+    },
+    {
+      "id": "q_mock1_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "How can screens make it harder to fall asleep?",
+        "vi": "Màn hình khiến ta khó ngủ hơn bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They make the room too hot.",
+            "vi": "Chúng làm phòng quá nóng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They make the room too hot.",
+          "text_translation": "Chúng làm phòng quá nóng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They use too much electricity.",
+            "vi": "Chúng tốn quá nhiều điện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They use too much electricity.",
+          "text_translation": "Chúng tốn quá nhiều điện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Their light tells the brain it is still day, so melatonin comes later.",
+            "vi": "Ánh sáng của chúng báo cho não rằng trời vẫn sáng, nên melatonin tiết ra muộn hơn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Their light tells the brain it is still day, so melatonin comes later.",
+          "text_translation": "Ánh sáng của chúng báo cho não rằng trời vẫn sáng, nên melatonin tiết ra muộn hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They make loud noises.",
+            "vi": "Chúng phát ra tiếng ồn lớn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They make loud noises.",
+          "text_translation": "Chúng phát ra tiếng ồn lớn."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"The bright light from screens can tell the brain that it is still day, so the body produces melatonin later than it should.\""
+      },
+      "audio_data": null,
+      "question_jp": "How can screens make it harder to fall asleep?",
+      "question_vn": "Màn hình khiến ta khó ngủ hơn bằng cách nào?",
+      "explanation": "\"The bright light from screens can tell the brain that it is still day, so the body produces melatonin later than it should.\""
+    },
+    {
+      "id": "q_mock1_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Why does the writer mention \"sleeping until noon on Sunday\"?",
+        "vi": "Vì sao người viết nhắc tới chuyện \"ngủ tới trưa Chủ nhật\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to say that weekends are for sleeping",
+            "vi": "để nói cuối tuần là để ngủ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to say that weekends are for sleeping",
+          "text_translation": "để nói cuối tuần là để ngủ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that changing your sleep times on weekends makes school days harder",
+            "vi": "để cho thấy việc đổi giờ ngủ vào cuối tuần làm những ngày đi học khó hơn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to show that changing your sleep times on weekends makes school days harder",
+          "text_translation": "để cho thấy việc đổi giờ ngủ vào cuối tuần làm những ngày đi học khó hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to tell teenagers to get up at noon every day",
+            "vi": "để bảo tuổi teen ngày nào cũng dậy lúc trưa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to tell teenagers to get up at noon every day",
+          "text_translation": "để bảo tuổi teen ngày nào cũng dậy lúc trưa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to give an example of a good habit",
+            "vi": "để đưa ví dụ về một thói quen tốt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to give an example of a good habit",
+          "text_translation": "để đưa ví dụ về một thói quen tốt"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"Try to go to bed and get up at similar times every day, even on weekends, because sleeping until noon on Sunday makes Monday morning feel even worse.\" Đây là ví dụ cho thói quen nên tránh."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention \"sleeping until noon on Sunday\"?",
+      "question_vn": "Vì sao người viết nhắc tới chuyện \"ngủ tới trưa Chủ nhật\"?",
+      "explanation": "Câu suy luận về mục đích. \"Try to go to bed and get up at similar times every day, even on weekends, because sleeping until noon on Sunday makes Monday morning feel even worse.\" Đây là ví dụ cho thói quen nên tránh."
+    },
+    {
+      "id": "q_mock1_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What can we guess about the schools that moved their start times later?",
+        "vi": "Có thể suy ra điều gì về những trường đã lùi giờ vào học?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Their students now use their phones less.",
+            "vi": "Học sinh ở đó giờ ít dùng điện thoại hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Their students now use their phones less.",
+          "text_translation": "Học sinh ở đó giờ ít dùng điện thoại hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Their students sleep until noon.",
+            "vi": "Học sinh ở đó ngủ tới trưa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Their students sleep until noon.",
+          "text_translation": "Học sinh ở đó ngủ tới trưa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The change did not make any difference.",
+            "vi": "Thay đổi này chẳng tạo ra khác biệt gì."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The change did not make any difference.",
+          "text_translation": "Thay đổi này chẳng tạo ra khác biệt gì."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The change seems to be helping their students.",
+            "vi": "Có vẻ thay đổi này đang giúp ích cho học sinh."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The change seems to be helping their students.",
+          "text_translation": "Có vẻ thay đổi này đang giúp ích cho học sinh."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"studies show that students there are less sleepy in class and arrive late less often.\" Bài không nói gì về việc dùng điện thoại ở các trường này."
+      },
+      "audio_data": null,
+      "question_jp": "What can we guess about the schools that moved their start times later?",
+      "question_vn": "Có thể suy ra điều gì về những trường đã lùi giờ vào học?",
+      "explanation": "Câu suy luận. \"studies show that students there are less sleepy in class and arrive late less often.\" Bài không nói gì về việc dùng điện thoại ở các trường này."
+    },
+    {
+      "id": "q_mock1_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What is the main purpose of the article?",
+        "vi": "Mục đích chính của bài là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to tell the history of the Golden Gate Bridge and some surprising facts about it",
+            "vi": "để kể lịch sử cầu Cổng Vàng và vài sự thật thú vị về nó"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to tell the history of the Golden Gate Bridge and some surprising facts about it",
+          "text_translation": "để kể lịch sử cầu Cổng Vàng và vài sự thật thú vị về nó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain how to paint a bridge",
+            "vi": "để giải thích cách sơn một cây cầu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain how to paint a bridge",
+          "text_translation": "để giải thích cách sơn một cây cầu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to compare ferries and bridges",
+            "vi": "để so sánh phà với cầu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to compare ferries and bridges",
+          "text_translation": "để so sánh phà với cầu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to warn drivers about fog",
+            "vi": "để cảnh báo tài xế về sương mù"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to warn drivers about fog",
+          "text_translation": "để cảnh báo tài xế về sương mù"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"But less than a hundred years ago, many people believed that a bridge in that place could never be built.\" Bài đi từ trước khi có cầu, quá trình xây, màu sơn, tới chuyện sơn cầu ngày nay."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the article?",
+      "question_vn": "Mục đích chính của bài là gì?",
+      "explanation": "\"But less than a hundred years ago, many people believed that a bridge in that place could never be built.\" Bài đi từ trước khi có cầu, quá trình xây, màu sơn, tới chuyện sơn cầu ngày nay."
+    },
+    {
+      "id": "q_mock1_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "How did people travel north from the city before the bridge?",
+        "vi": "Trước khi có cầu, người ta đi về phía bắc thành phố bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by plane",
+            "vi": "bằng máy bay"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by plane",
+          "text_translation": "bằng máy bay"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by train under the water",
+            "vi": "bằng tàu hoả dưới nước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "by train under the water",
+          "text_translation": "bằng tàu hoả dưới nước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on an older bridge",
+            "vi": "qua một cây cầu cũ hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on an older bridge",
+          "text_translation": "qua một cây cầu cũ hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by ferry",
+            "vi": "bằng phà"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "by ferry",
+          "text_translation": "bằng phà"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Before the bridge, people who wanted to travel north from the city had to take a ferry across the water.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did people travel north from the city before the bridge?",
+      "question_vn": "Trước khi có cầu, người ta đi về phía bắc thành phố bằng cách nào?",
+      "explanation": "\"Before the bridge, people who wanted to travel north from the city had to take a ferry across the water.\""
+    },
+    {
+      "id": "q_mock1_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Which of these was NOT a reason why people thought the bridge could not be built?",
+        "vi": "Điều nào KHÔNG phải lý do khiến người ta nghĩ cầu không xây nổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the deep water and strong currents",
+            "vi": "nước sâu và dòng chảy mạnh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the deep water and strong currents",
+          "text_translation": "nước sâu và dòng chảy mạnh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the high cost of orange paint",
+            "vi": "giá sơn màu cam quá đắt"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the high cost of orange paint",
+          "text_translation": "giá sơn màu cam quá đắt"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the strong wind",
+            "vi": "gió mạnh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the strong wind",
+          "text_translation": "gió mạnh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the fog that could hide the bridge from ships",
+            "vi": "sương mù có thể che cây cầu khỏi tầm nhìn của tàu thuyền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the fog that could hide the bridge from ships",
+          "text_translation": "sương mù có thể che cây cầu khỏi tầm nhìn của tàu thuyền"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"the water is deep, the currents are strong, and the wind and fog arrive suddenly from the ocean.\" Giá sơn không được nhắc tới; màu cam là chuyện sau này."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these was NOT a reason why people thought the bridge could not be built?",
+      "question_vn": "Điều nào KHÔNG phải lý do khiến người ta nghĩ cầu không xây nổi?",
+      "explanation": "\"the water is deep, the currents are strong, and the wind and fog arrive suddenly from the ocean.\" Giá sơn không được nhắc tới; màu cam là chuyện sau này."
+    },
+    {
+      "id": "q_mock1_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "About how long did it take to build the bridge?",
+        "vi": "Xây cây cầu mất khoảng bao lâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "one year",
+            "vi": "một năm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "one year",
+          "text_translation": "một năm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about ninety years",
+            "vi": "khoảng chín mươi năm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "about ninety years",
+          "text_translation": "khoảng chín mươi năm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "about four years",
+            "vi": "khoảng bốn năm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "about four years",
+          "text_translation": "khoảng bốn năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "since 1964",
+            "vi": "từ năm 1964"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "since 1964",
+          "text_translation": "từ năm 1964"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Work finally began in January 1933, and the bridge was opened in May 1937, after about four years of construction.\""
+      },
+      "audio_data": null,
+      "question_jp": "About how long did it take to build the bridge?",
+      "question_vn": "Xây cây cầu mất khoảng bao lâu?",
+      "explanation": "\"Work finally began in January 1933, and the bridge was opened in May 1937, after about four years of construction.\""
+    },
+    {
+      "id": "q_mock1_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What was special about the bridge when it opened?",
+        "vi": "Cây cầu có gì đặc biệt khi khánh thành?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was the first bridge in California.",
+            "vi": "Nó là cây cầu đầu tiên ở California."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It was the first bridge in California.",
+          "text_translation": "Nó là cây cầu đầu tiên ở California."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It had no towers.",
+            "vi": "Nó không có tháp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It had no towers.",
+          "text_translation": "Nó không có tháp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Its main span was the longest of any bridge in the world.",
+            "vi": "Nhịp chính của nó dài nhất thế giới."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Its main span was the longest of any bridge in the world.",
+          "text_translation": "Nhịp chính của nó dài nhất thế giới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was painted gold.",
+            "vi": "Nó được sơn màu vàng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was painted gold.",
+          "text_translation": "Nó được sơn màu vàng."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"At that time, its main span, the part between the two towers, was the longest of any bridge in the world\". Tên cầu có chữ Golden nhưng màu sơn là cam."
+      },
+      "audio_data": null,
+      "question_jp": "What was special about the bridge when it opened?",
+      "question_vn": "Cây cầu có gì đặc biệt khi khánh thành?",
+      "explanation": "\"At that time, its main span, the part between the two towers, was the longest of any bridge in the world\". Tên cầu có chữ Golden nhưng màu sơn là cam."
+    },
+    {
+      "id": "q_mock1_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "In \"a safety net was hung under the bridge, which was unusual at the time\", what does \"unusual\" mean?",
+        "vi": "Trong câu \"a safety net was hung under the bridge, which was unusual at the time\", \"unusual\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "dangerous",
+            "vi": "nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "dangerous",
+          "text_translation": "nguy hiểm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "not common",
+            "vi": "không phổ biến, hiếm thấy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "not common",
+          "text_translation": "không phổ biến, hiếm thấy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "very expensive",
+            "vi": "rất đắt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "very expensive",
+          "text_translation": "rất đắt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "against the rules",
+            "vi": "trái quy định"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "against the rules",
+          "text_translation": "trái quy định"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"a safety net was hung under the bridge, which was unusual at the time\". Un- + usual (thông thường) = không thông thường, hiếm thấy."
+      },
+      "audio_data": null,
+      "question_jp": "In \"a safety net was hung under the bridge, which was unusual at the time\", what does \"unusual\" mean?",
+      "question_vn": "Trong câu \"a safety net was hung under the bridge, which was unusual at the time\", \"unusual\" nghĩa là gì?",
+      "explanation": "\"a safety net was hung under the bridge, which was unusual at the time\". Un- + usual (thông thường) = không thông thường, hiếm thấy."
+    },
+    {
+      "id": "q_mock1_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What does the story of the safety net suggest about the builders?",
+        "vi": "Chuyện tấm lưới an toàn cho thấy điều gì về những người xây cầu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They wanted to finish faster than planned.",
+            "vi": "Họ muốn xong sớm hơn kế hoạch."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They wanted to finish faster than planned.",
+          "text_translation": "Họ muốn xong sớm hơn kế hoạch."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They did not trust the workers.",
+            "vi": "Họ không tin công nhân."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They did not trust the workers.",
+          "text_translation": "Họ không tin công nhân."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They thought the bridge would fall down.",
+            "vi": "Họ nghĩ cây cầu sẽ sập."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They thought the bridge would fall down.",
+          "text_translation": "Họ nghĩ cây cầu sẽ sập."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They cared about workers' safety more than was common then.",
+            "vi": "Họ quan tâm tới an toàn của công nhân hơn mức thường thấy thời đó."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They cared about workers' safety more than was common then.",
+          "text_translation": "Họ quan tâm tới an toàn của công nhân hơn mức thường thấy thời đó."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"a safety net was hung under the bridge, which was unusual at the time, and it saved the lives of nineteen workers who fell.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the story of the safety net suggest about the builders?",
+      "question_vn": "Chuyện tấm lưới an toàn cho thấy điều gì về những người xây cầu?",
+      "explanation": "Câu suy luận. \"a safety net was hung under the bridge, which was unusual at the time, and it saved the lives of nineteen workers who fell.\""
+    },
+    {
+      "id": "q_mock1_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Why did the architect choose the orange color?",
+        "vi": "Vì sao kiến trúc sư chọn màu cam?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It fit well with the hills and the sky, and it was easy to see in the fog.",
+            "vi": "Vì nó hợp với đồi núi, bầu trời và dễ thấy trong sương mù."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It fit well with the hills and the sky, and it was easy to see in the fog.",
+          "text_translation": "Vì nó hợp với đồi núi, bầu trời và dễ thấy trong sương mù."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was the cheapest paint.",
+            "vi": "Vì đó là loại sơn rẻ nhất."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was the cheapest paint.",
+          "text_translation": "Vì đó là loại sơn rẻ nhất."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ships asked for it.",
+            "vi": "Vì tàu thuyền yêu cầu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ships asked for it.",
+          "text_translation": "Vì tàu thuyền yêu cầu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It protects steel better than any other color.",
+            "vi": "Vì nó bảo vệ thép tốt hơn mọi màu khác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It protects steel better than any other color.",
+          "text_translation": "Vì nó bảo vệ thép tốt hơn mọi màu khác."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"He felt that the warm orange fit well with the hills and the sky, and it also made the bridge much easier to see in the fog.\" Lớp sơn đỏ ban đầu mới là lớp để bảo vệ thép."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the architect choose the orange color?",
+      "question_vn": "Vì sao kiến trúc sư chọn màu cam?",
+      "explanation": "\"He felt that the warm orange fit well with the hills and the sky, and it also made the bridge much easier to see in the fog.\" Lớp sơn đỏ ban đầu mới là lớp để bảo vệ thép."
+    },
+    {
+      "id": "q_mock1_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Which of these is TRUE about painting the bridge today?",
+        "vi": "Điều nào ĐÚNG về việc sơn cầu ngày nay?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Painters only work in the summer.",
+            "vi": "Thợ sơn chỉ làm vào mùa hè."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Painters only work in the summer.",
+          "text_translation": "Thợ sơn chỉ làm vào mùa hè."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Painters start again at one end as soon as they reach the other.",
+            "vi": "Thợ sơn tới đầu này là lại quay về sơn từ đầu kia."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Painters start again at one end as soon as they reach the other.",
+          "text_translation": "Thợ sơn tới đầu này là lại quay về sơn từ đầu kia."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Painters work on the parts that need it most.",
+            "vi": "Thợ sơn sơn lại những phần cần nhất."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Painters work on the parts that need it most.",
+          "text_translation": "Thợ sơn sơn lại những phần cần nhất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The bridge has not been painted since 1937.",
+            "vi": "Cây cầu chưa được sơn lại từ năm 1937."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The bridge has not been painted since 1937.",
+          "text_translation": "Cây cầu chưa được sơn lại từ năm 1937."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"they only paint the parts that need it most, because wind, fog and the salt in the sea air are always damaging the paint.\" Chuyện sơn từ đầu này sang đầu kia thì bài nói \"That is not quite true.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is TRUE about painting the bridge today?",
+      "question_vn": "Điều nào ĐÚNG về việc sơn cầu ngày nay?",
+      "explanation": "\"they only paint the parts that need it most, because wind, fog and the salt in the sea air are always damaging the paint.\" Chuyện sơn từ đầu này sang đầu kia thì bài nói \"That is not quite true.\""
+    },
+    {
+      "id": "q_mock1_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What does the title \"The Bridge That Fog Couldn't Hide\" refer to?",
+        "vi": "Tiêu đề \"Cây cầu mà sương mù không giấu nổi\" ám chỉ điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The bridge was built in a place with no fog.",
+            "vi": "Cây cầu được xây ở nơi không có sương mù."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The bridge was built in a place with no fog.",
+          "text_translation": "Cây cầu được xây ở nơi không có sương mù."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The bridge's bright color can be seen even in the fog.",
+            "vi": "Màu sáng của cây cầu vẫn nhìn thấy được kể cả trong sương mù."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The bridge's bright color can be seen even in the fog.",
+          "text_translation": "Màu sáng của cây cầu vẫn nhìn thấy được kể cả trong sương mù."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Fog never reaches San Francisco.",
+            "vi": "Sương mù không bao giờ tới San Francisco."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Fog never reaches San Francisco.",
+          "text_translation": "Sương mù không bao giờ tới San Francisco."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The towers are too short to see.",
+            "vi": "Các ngọn tháp quá thấp nên không thấy được."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The towers are too short to see.",
+          "text_translation": "Các ngọn tháp quá thấp nên không thấy được."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"it also made the bridge much easier to see in the fog.\" Người xưa từng lo tàu thuyền \"would not be able to see the bridge in the fog\"; màu cam đã giải quyết nỗi lo đó."
+      },
+      "audio_data": null,
+      "question_jp": "What does the title \"The Bridge That Fog Couldn't Hide\" refer to?",
+      "question_vn": "Tiêu đề \"Cây cầu mà sương mù không giấu nổi\" ám chỉ điều gì?",
+      "explanation": "Câu suy luận. \"it also made the bridge much easier to see in the fog.\" Người xưa từng lo tàu thuyền \"would not be able to see the bridge in the fog\"; màu cam đã giải quyết nỗi lo đó."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_mock1_reading_1",
+      "set_type": "reading",
+      "name": "Phần 1 — Thông báo hội chợ việc làm hè",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_mock1_01",
+      "question_ids": [
+        "q_mock1_001",
+        "q_mock1_002",
+        "q_mock1_003",
+        "q_mock1_004",
+        "q_mock1_005",
+        "q_mock1_006",
+        "q_mock1_007",
+        "q_mock1_008",
+        "q_mock1_009",
+        "q_mock1_010"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_2",
+      "set_type": "reading",
+      "name": "Phần 2 — Blog của Ethan về cách gọi 911",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_mock1_02",
+      "question_ids": [
+        "q_mock1_011",
+        "q_mock1_012",
+        "q_mock1_013",
+        "q_mock1_014",
+        "q_mock1_015",
+        "q_mock1_016",
+        "q_mock1_017",
+        "q_mock1_018",
+        "q_mock1_019",
+        "q_mock1_020"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_3",
+      "set_type": "reading",
+      "name": "Phần 3 — Bài khoa học về giấc ngủ của tuổi teen",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_mock1_03",
+      "question_ids": [
+        "q_mock1_021",
+        "q_mock1_022",
+        "q_mock1_023",
+        "q_mock1_024",
+        "q_mock1_025",
+        "q_mock1_026",
+        "q_mock1_027",
+        "q_mock1_028",
+        "q_mock1_029",
+        "q_mock1_030"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_4",
+      "set_type": "reading",
+      "name": "Phần 4 — Bài kiến thức về cầu Cổng Vàng",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_mock1_04",
+      "question_ids": [
+        "q_mock1_031",
+        "q_mock1_032",
+        "q_mock1_033",
+        "q_mock1_034",
+        "q_mock1_035",
+        "q_mock1_036",
+        "q_mock1_037",
+        "q_mock1_038",
+        "q_mock1_039",
+        "q_mock1_040"
+      ]
+    }
+  ]
+}
