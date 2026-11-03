@@ -1,0 +1,2041 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 9–10 — Arts and criticism & Personal finance and the economy",
+      "vi": "Nghệ thuật, phê bình & Tài chính cá nhân, kinh tế"
+    },
+    "title": "Units 9–10 — Arts and criticism & Personal finance and the economy",
+    "title_vn": "Nghệ thuật, phê bình & Tài chính cá nhân, kinh tế",
+    "module_code": "60_u0910",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C1",
+    "curriculum_unit": "c1.u09+u10",
+    "curriculum_sheets": [
+      "c1.033",
+      "c1.034",
+      "c1.035",
+      "c1.036",
+      "c1.037",
+      "c1.038",
+      "c1.039",
+      "c1.040"
+    ],
+    "characters": [
+      "Helena Brooks",
+      "Nathan Brooks",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 8 – 9, năm 8"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Khen chê đan xen, ngôn ngữ đánh giá, câu hỏi tu từ, so sánh phương án tài chính",
+    "description_vn": "Một nhà phê bình viết về triển lãm tranh đầu tiên của Helena ở thư viện Pine Street, và Nathan lập bản ghi nhớ ba phương án cho tiệm bánh trống bên cạnh quán Harriet's. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 9 + Unit 10 khoá C1 · phiếu `c1.033` – `c1.040` (phê bình phim, âm nhạc và sân khấu, phòng tranh và thiết kế, viết lời phán xét; tiền và thị trường, tiết kiệm và đầu tư, ngân sách eo hẹp, kinh tế toàn cầu). Bài 2 viết tài chính ở góc **một quán nhỏ**, không bàn hệ thống kinh tế."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài phê bình có đánh giá khen chê đan xen và một bản ghi nhớ so sánh ba phương án tài chính; nhận ra cấu trúc khen → chê → kết luận của bài phê bình, ngôn ngữ đánh giá (uneven, showy, wry, reminiscent of), câu hỏi tu từ, cách bản ghi nhớ đặt lại câu hỏi (not so much A as B), và các cấu trúc C1: đảo ngữ So + adj, đưa tân ngữ lên đầu (This I did not expect), As for…, as did…, than + mệnh đề rút gọn."
+    },
+    "extra_words": [
+      {
+        "word": "exhibition",
+        "i18n": {
+          "vi": "triển lãm"
+        }
+      },
+      {
+        "word": "critic",
+        "i18n": {
+          "vi": "nhà phê bình"
+        }
+      },
+      {
+        "word": "uneven",
+        "i18n": {
+          "vi": "không đều tay"
+        }
+      },
+      {
+        "word": "sneakers",
+        "i18n": {
+          "vi": "giày thể thao"
+        }
+      },
+      {
+        "word": "windowsill",
+        "i18n": {
+          "vi": "bậu cửa sổ"
+        }
+      },
+      {
+        "word": "dusk",
+        "i18n": {
+          "vi": "lúc chạng vạng"
+        }
+      },
+      {
+        "word": "cable",
+        "i18n": {
+          "vi": "sợi cáp"
+        }
+      },
+      {
+        "word": "frankly",
+        "i18n": {
+          "vi": "nói thẳng ra"
+        }
+      },
+      {
+        "word": "polished",
+        "i18n": {
+          "vi": "trau chuốt"
+        }
+      },
+      {
+        "word": "memo",
+        "i18n": {
+          "vi": "bản ghi nhớ"
+        }
+      },
+      {
+        "word": "loan",
+        "i18n": {
+          "vi": "khoản vay"
+        }
+      },
+      {
+        "word": "oven",
+        "i18n": {
+          "vi": "lò nướng"
+        }
+      },
+      {
+        "word": "scone",
+        "i18n": {
+          "vi": "bánh scone"
+        }
+      },
+      {
+        "word": "handwriting",
+        "i18n": {
+          "vi": "nét chữ viết tay"
+        }
+      },
+      {
+        "word": "simpler",
+        "i18n": {
+          "vi": "đơn giản hơn"
+        }
+      },
+      {
+        "word": "pencil",
+        "i18n": {
+          "vi": "bút chì"
+        }
+      },
+      {
+        "word": "arrangement",
+        "i18n": {
+          "vi": "cách sắp xếp, thoả thuận"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "by her own admission",
+          "vi": "theo chính lời cô ấy thừa nhận"
+        }
+      },
+      {
+        "i18n": {
+          "en": "reward a second look",
+          "vi": "đáng để nhìn lại lần nữa"
+        }
+      },
+      {
+        "i18n": {
+          "en": "This I did not expect.",
+          "vi": "Điều này thì tôi không ngờ."
+        }
+      },
+      {
+        "i18n": {
+          "en": "As for…",
+          "vi": "Còn về…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "tone down",
+          "vi": "làm dịu bớt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Without question.",
+          "vi": "Chắc chắn rồi."
+        }
+      },
+      {
+        "i18n": {
+          "en": "pay off",
+          "vi": "trả hết (nợ)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "cover its costs",
+          "vi": "hoà vốn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "for what it is worth",
+          "vi": "nếu nó có giá trị gì"
+        }
+      },
+      {
+        "i18n": {
+          "en": "lean towards",
+          "vi": "nghiêng về"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài phê bình C1 hiếm khi chỉ khen hoặc chỉ chê. Tìm cặp **mạnh nhất / yếu nhất** (`the heart of the show` ↔ `the weakest work here`) để trả lời câu hỏi kết luận."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Đảo ngữ `So quiet are these pictures that…` nhấn mạnh tính chất; nghĩa thật thường nằm ở vế sau (`and yet each one rewards a second look`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi tu từ cuối bài (`isn't that…?`) **không hỏi**, mà khẳng định thông điệp chính."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bản ghi nhớ so sánh phương án: chú ý cặp `at its best` / `at its worst`, và câu `not so much A as B` cho biết người viết coi B mới là câu hỏi thật."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0910_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 9) — Bài phê bình triển lãm tranh đầu tiên của Helena"
+      },
+      "narrator": "announcer",
+      "title": "Review: \"Bridges and Small Things\" by Helena Brooks",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 280,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Review: \"Bridges and Small Things\" by Helena Brooks",
+            "vi": "Phê bình: \"Những cây cầu và những điều nhỏ bé\" của Helena Brooks"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By Jordan Wells, Weekend Arts page. At the gallery of Pine Street Library until September 30. Free entry.",
+            "vi": "Jordan Wells, trang Nghệ thuật cuối tuần. Tại phòng trưng bày thư viện Pine Street tới ngày 30 tháng Chín. Vào cửa miễn phí."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Helena Brooks is not, by her own admission, a professional artist. She is a civil engineer who has spent twenty years designing bridges and painting on weekends, and this exhibition of twenty-four works is her first.",
+            "vi": "Theo chính lời Helena Brooks, chị không phải hoạ sĩ chuyên nghiệp. Chị là kỹ sư xây dựng đã dành hai mươi năm thiết kế cầu và vẽ tranh vào cuối tuần, và triển lãm hai mươi bốn tác phẩm này là triển lãm đầu tiên của chị."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I went expecting the kind of pleasant, slightly amateur show that libraries often host. What I found was more interesting, and more uneven, than that.",
+            "vi": "Tôi tới đó, tưởng sẽ gặp kiểu triển lãm dễ chịu, hơi nghiệp dư mà thư viện hay tổ chức. Thứ tôi tìm thấy thú vị hơn thế, và cũng không đều tay hơn thế."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is, in other words, a debut, and it deserves to be judged as one: not by asking whether it is perfect, but by asking whether it shows a voice of its own.",
+            "vi": "Nói cách khác, đây là một màn ra mắt, và nó đáng được đánh giá như một màn ra mắt: không phải bằng cách hỏi nó có hoàn hảo không, mà bằng cách hỏi nó có thể hiện được một tiếng nói riêng không."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The small paintings are the heart of the show. A pair of child's sneakers left on a back step. A cup of coffee going cold on a windowsill. The silhouette of an old man feeding birds in a park at dusk.",
+            "vi": "Những bức tranh nhỏ là trái tim của triển lãm. Một đôi giày thể thao trẻ con bỏ quên trên bậc cửa sau. Một cốc cà phê nguội dần trên bậu cửa sổ. Hình bóng một ông cụ cho chim ăn trong công viên lúc chạng vạng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So quiet are these pictures that you could easily walk past them, and yet each one rewards a second look. The light is handled with an engineer's precision, and the mood is reminiscent of Edward Hopper's empty streets, though warmer and less lonely.",
+            "vi": "Những bức tranh này lặng lẽ đến mức bạn dễ dàng đi lướt qua, ấy vậy mà bức nào cũng đáng để nhìn lại lần thứ hai. Ánh sáng được xử lý với độ chính xác của một kỹ sư, và không khí gợi nhớ những con phố vắng của Edward Hopper, dù ấm áp hơn và ít cô đơn hơn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Beside each painting hangs a short poem by the artist. This I did not expect, and I was ready to dislike it. In fact, the poems are often wry and unconventional, and they give the show a gentle sense of humor.",
+            "vi": "Cạnh mỗi bức tranh treo một bài thơ ngắn của chính hoạ sĩ. Điều này thì tôi không ngờ tới, và tôi đã sẵn sàng để không thích. Thực ra, các bài thơ thường hóm hỉnh và khác lạ, và chúng mang lại cho triển lãm một nét hài hước nhẹ nhàng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Under the cold coffee, for example, she has written: \"Someone was called away. / The coffee waited. / It always does.\"",
+            "vi": "Ví dụ, dưới cốc cà phê nguội, chị viết: \"Ai đó bị gọi đi vội. / Cốc cà phê chờ. / Nó lúc nào cũng chờ.\""
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As for the large panoramic paintings of bridges that give the show half of its title, they are, I am sorry to say, the weakest work here.",
+            "vi": "Còn về những bức tranh toàn cảnh khổ lớn vẽ cây cầu, thứ làm nên một nửa tên triển lãm, thì tôi rất tiếc phải nói rằng chúng là những tác phẩm yếu nhất ở đây."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They are technically impressive, every cable and beam in its place, but they feel like drawings for a client rather than paintings for a viewer. One of them, a huge sunset over the new bridge at Valley Springs, is frankly showy, with colors that need toning down.",
+            "vi": "Về kỹ thuật thì chúng ấn tượng, từng sợi cáp, từng dầm đều đúng chỗ, nhưng chúng giống bản vẽ cho khách hàng hơn là tranh cho người xem. Một trong số đó, bức hoàng hôn khổng lồ trên cây cầu mới ở Valley Springs, nói thẳng ra là phô trương, với những màu cần được làm dịu bớt."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next to the small works, most of them seem lackluster, and the open sketchbooks displayed beside them, full of quick pencil studies of the same bridges, are far more alive.",
+            "vi": "Đặt cạnh các tác phẩm nhỏ, phần lớn chúng có vẻ nhạt nhoà, còn những cuốn sổ phác thảo mở sẵn trưng bên cạnh, đầy những nét chì vẽ nhanh chính các cây cầu ấy, lại sống động hơn nhiều."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is as if the engineer and the painter had not quite agreed who was in charge.",
+            "vi": "Cứ như thể người kỹ sư và người hoạ sĩ chưa thống nhất được ai là người cầm trịch."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Is this, then, a show worth visiting? Without question. Uneven first exhibitions are often more alive than polished later ones, and the small works here evoke something that much bigger art often misses: the feeling that ordinary moments are worth noticing.",
+            "vi": "Vậy đây có phải một triển lãm đáng xem? Chắc chắn rồi. Những triển lãm đầu tay không đều tay thường sống động hơn những triển lãm trau chuốt về sau, và các tác phẩm nhỏ ở đây gợi lên điều mà nhiều tác phẩm lớn hơn hay bỏ lỡ: cảm giác rằng những khoảnh khắc bình thường đáng được để ý."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My advice to the artist would be to trust the small things. My advice to readers is simpler: go, and take your time. And isn't that, in the end, what these paintings are asking of us?",
+            "vi": "Lời khuyên của tôi cho hoạ sĩ là hãy tin vào những điều nhỏ bé. Lời khuyên của tôi cho bạn đọc thì đơn giản hơn: hãy đi, và đừng vội. Và rốt cuộc, chẳng phải đó chính là điều những bức tranh này đang đòi hỏi ở chúng ta sao?"
+          }
+        }
+      ],
+      "content_ja": "Review: \"Bridges and Small Things\" by Helena Brooks\n\nBy Jordan Wells, Weekend Arts page. At the gallery of Pine Street Library until September 30. Free entry.\n\nHelena Brooks is not, by her own admission, a professional artist. She is a civil engineer who has spent twenty years designing bridges and painting on weekends, and this exhibition of twenty-four works is her first. I went expecting the kind of pleasant, slightly amateur show that libraries often host. What I found was more interesting, and more uneven, than that. It is, in other words, a debut, and it deserves to be judged as one: not by asking whether it is perfect, but by asking whether it shows a voice of its own.\n\nThe small paintings are the heart of the show. A pair of child's sneakers left on a back step. A cup of coffee going cold on a windowsill. The silhouette of an old man feeding birds in a park at dusk. So quiet are these pictures that you could easily walk past them, and yet each one rewards a second look. The light is handled with an engineer's precision, and the mood is reminiscent of Edward Hopper's empty streets, though warmer and less lonely.\n\nBeside each painting hangs a short poem by the artist. This I did not expect, and I was ready to dislike it. In fact, the poems are often wry and unconventional, and they give the show a gentle sense of humor. Under the cold coffee, for example, she has written: \"Someone was called away. / The coffee waited. / It always does.\"\n\nAs for the large panoramic paintings of bridges that give the show half of its title, they are, I am sorry to say, the weakest work here. They are technically impressive, every cable and beam in its place, but they feel like drawings for a client rather than paintings for a viewer. One of them, a huge sunset over the new bridge at Valley Springs, is frankly showy, with colors that need toning down. Next to the small works, most of them seem lackluster, and the open sketchbooks displayed beside them, full of quick pencil studies of the same bridges, are far more alive. It is as if the engineer and the painter had not quite agreed who was in charge.\n\nIs this, then, a show worth visiting? Without question. Uneven first exhibitions are often more alive than polished later ones, and the small works here evoke something that much bigger art often misses: the feeling that ordinary moments are worth noticing. My advice to the artist would be to trust the small things. My advice to readers is simpler: go, and take your time. And isn't that, in the end, what these paintings are asking of us?",
+      "translation_vn": "(1) Phê bình: \"Những cây cầu và những điều nhỏ bé\" của Helena Brooks\n(2) Jordan Wells, trang Nghệ thuật cuối tuần. Tại phòng trưng bày thư viện Pine Street tới ngày 30 tháng Chín. Vào cửa miễn phí.\n(3) Theo chính lời Helena Brooks, chị không phải hoạ sĩ chuyên nghiệp. Chị là kỹ sư xây dựng đã dành hai mươi năm thiết kế cầu và vẽ tranh vào cuối tuần, và triển lãm hai mươi bốn tác phẩm này là triển lãm đầu tiên của chị.\n(4) Tôi tới đó, tưởng sẽ gặp kiểu triển lãm dễ chịu, hơi nghiệp dư mà thư viện hay tổ chức. Thứ tôi tìm thấy thú vị hơn thế, và cũng không đều tay hơn thế.\n(5) Nói cách khác, đây là một màn ra mắt, và nó đáng được đánh giá như một màn ra mắt: không phải bằng cách hỏi nó có hoàn hảo không, mà bằng cách hỏi nó có thể hiện được một tiếng nói riêng không.\n(6) Những bức tranh nhỏ là trái tim của triển lãm. Một đôi giày thể thao trẻ con bỏ quên trên bậc cửa sau. Một cốc cà phê nguội dần trên bậu cửa sổ. Hình bóng một ông cụ cho chim ăn trong công viên lúc chạng vạng.\n(7) Những bức tranh này lặng lẽ đến mức bạn dễ dàng đi lướt qua, ấy vậy mà bức nào cũng đáng để nhìn lại lần thứ hai. Ánh sáng được xử lý với độ chính xác của một kỹ sư, và không khí gợi nhớ những con phố vắng của Edward Hopper, dù ấm áp hơn và ít cô đơn hơn.\n(8) Cạnh mỗi bức tranh treo một bài thơ ngắn của chính hoạ sĩ. Điều này thì tôi không ngờ tới, và tôi đã sẵn sàng để không thích. Thực ra, các bài thơ thường hóm hỉnh và khác lạ, và chúng mang lại cho triển lãm một nét hài hước nhẹ nhàng.\n(9) Ví dụ, dưới cốc cà phê nguội, chị viết: \"Ai đó bị gọi đi vội. / Cốc cà phê chờ. / Nó lúc nào cũng chờ.\"\n(10) Còn về những bức tranh toàn cảnh khổ lớn vẽ cây cầu, thứ làm nên một nửa tên triển lãm, thì tôi rất tiếc phải nói rằng chúng là những tác phẩm yếu nhất ở đây.\n(11) Về kỹ thuật thì chúng ấn tượng, từng sợi cáp, từng dầm đều đúng chỗ, nhưng chúng giống bản vẽ cho khách hàng hơn là tranh cho người xem. Một trong số đó, bức hoàng hôn khổng lồ trên cây cầu mới ở Valley Springs, nói thẳng ra là phô trương, với những màu cần được làm dịu bớt.\n(12) Đặt cạnh các tác phẩm nhỏ, phần lớn chúng có vẻ nhạt nhoà, còn những cuốn sổ phác thảo mở sẵn trưng bên cạnh, đầy những nét chì vẽ nhanh chính các cây cầu ấy, lại sống động hơn nhiều.\n(13) Cứ như thể người kỹ sư và người hoạ sĩ chưa thống nhất được ai là người cầm trịch.\n(14) Vậy đây có phải một triển lãm đáng xem? Chắc chắn rồi. Những triển lãm đầu tay không đều tay thường sống động hơn những triển lãm trau chuốt về sau, và các tác phẩm nhỏ ở đây gợi lên điều mà nhiều tác phẩm lớn hơn hay bỏ lỡ: cảm giác rằng những khoảnh khắc bình thường đáng được để ý.\n(15) Lời khuyên của tôi cho hoạ sĩ là hãy tin vào những điều nhỏ bé. Lời khuyên của tôi cho bạn đọc thì đơn giản hơn: hãy đi, và đừng vội. Và rốt cuộc, chẳng phải đó chính là điều những bức tranh này đang đòi hỏi ở chúng ta sao?",
+      "word_count": 462,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.033",
+        "c1.034",
+        "c1.035",
+        "c1.036"
+      ]
+    },
+    {
+      "id": "passage_u0910_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 10) — Bản ghi nhớ của Nathan: ba phương án cho tiệm bên cạnh"
+      },
+      "narrator": "Nathan",
+      "title": "Memo: What Should We Do With the Shop Next Door?",
+      "category": "memo",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 270,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Memo: What Should We Do With the Shop Next Door?",
+            "vi": "Bản ghi nhớ: Ta nên làm gì với tiệm bên cạnh?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To: Harriet Brooks. From: Nathan. Date: August 26",
+            "vi": "Gửi: Harriet Brooks. Từ: Nathan. Ngày: 26 tháng Tám"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom, you asked me to put the numbers on paper before you decide about the old bakery next door, which has now been empty for more than a year. Here they are. I have tried to be honest rather than encouraging.",
+            "vi": "Mẹ ơi, mẹ nhờ con ghi các con số ra giấy trước khi mẹ quyết định về tiệm bánh cũ bên cạnh, giờ đã bỏ trống hơn một năm. Đây ạ. Con đã cố trung thực chứ không cố động viên."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Option A: expand the café into the shop. This would double the number of seats. The rent is $3,200 a month, and turning a bakery into a café would cost around $45,000, most of which we would have to borrow.",
+            "vi": "Phương án A: mở rộng quán sang tiệm bên cạnh. Như vậy số chỗ ngồi sẽ tăng gấp đôi. Tiền thuê 3.200 đô mỗi tháng, và sửa một tiệm bánh thành quán cà phê sẽ tốn khoảng 45.000 đô, phần lớn số đó ta phải đi vay."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If the extra seats were full at lunchtime, the loan would be paid off in about three years. But more seats do not automatically mean more customers, and in an economic downturn, a bigger café would lose money faster than a small one would.",
+            "vi": "Nếu chỗ ngồi thêm kín khách vào giờ trưa, khoản vay sẽ trả xong trong khoảng ba năm. Nhưng thêm chỗ ngồi không tự động có nghĩa là thêm khách, và khi kinh tế đi xuống, một quán lớn hơn sẽ lỗ nhanh hơn một quán nhỏ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We would also need two more staff, which would increase our monthly expenditure substantially, and a second coffee machine alone would mean forking out another $9,000.",
+            "vi": "Ta cũng sẽ cần thêm hai nhân viên, điều này làm chi tiêu hằng tháng tăng đáng kể, và riêng chiếc máy pha cà phê thứ hai cũng đã phải bỏ ra thêm 9.000 đô."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The bakery closed for exactly that reason, as did the bookstore on the corner before it.",
+            "vi": "Tiệm bánh đóng cửa đúng vì lý do đó, cũng như tiệm sách ở góc phố trước nó."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Option B: open a shared kitchen. The bakery already has two large ovens and a professional kitchen, so the refurbishment would cost far less, about $12,000.",
+            "vi": "Phương án B: mở một bếp dùng chung. Tiệm bánh đã có sẵn hai lò nướng lớn và một bếp chuyên nghiệp, nên chi phí sửa sang sẽ thấp hơn nhiều, khoảng 12.000 đô."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Home cooks and small food businesses, such as the families who cooked for The Neighbors' Table last autumn, could rent the kitchen by the hour. Several have already asked whether such a place exists.",
+            "vi": "Những người nấu ăn tại nhà và các cơ sở đồ ăn nhỏ, như những gia đình từng nấu cho The Neighbors' Table mùa thu năm ngoái, có thể thuê bếp theo giờ. Đã có vài người hỏi liệu có nơi nào như vậy không."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The arrangement would also be mutually useful: the cooks would get affordable space, and the café would gain prospective customers every time someone came to collect their food.",
+            "vi": "Cách làm này còn có lợi cho cả đôi bên: người nấu có chỗ làm với giá phải chăng, còn quán có thêm khách tiềm năng mỗi lần có người tới lấy đồ ăn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My estimation is that it would cover its costs within eighteen months if the kitchen were rented for just four hours a day. It would earn less than Option A at its best, but it would also lose much less at its worst.",
+            "vi": "Con ước tính nó sẽ hoà vốn trong vòng mười tám tháng nếu bếp được thuê chỉ bốn tiếng mỗi ngày. Lúc tốt nhất thì nó lời ít hơn phương án A, nhưng lúc tệ nhất thì nó cũng lỗ ít hơn nhiều."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Option C: do nothing. I am including this seriously. The café makes a small but steady surplus, you are seventy-four, and you have nothing to prove to anyone. Saying no is not failure; it is a decision.",
+            "vi": "Phương án C: không làm gì. Con đưa phương án này vào một cách nghiêm túc. Quán có khoản lời nhỏ nhưng đều đặn, mẹ đã bảy mươi tư tuổi, và mẹ chẳng cần chứng minh gì với ai cả. Từ chối không phải là thất bại; đó là một quyết định."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your savings are your buffer, and I would hate to see them squandered on a bigger room that nobody needed.",
+            "vi": "Tiền tiết kiệm là khoản dự phòng của mẹ, và con rất không muốn thấy nó bị phung phí vào một căn phòng to hơn mà chẳng ai cần."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My own view, for what it is worth, is that the question is not so much how to make the most money as what kind of place you want Harriet's to be in five years' time.",
+            "vi": "Ý kiến riêng của con, nếu nó có giá trị gì, là câu hỏi không nằm ở chỗ làm sao kiếm nhiều tiền nhất mà ở chỗ mẹ muốn Harriet's là nơi như thế nào trong năm năm tới."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Option A makes it bigger. Option B makes it more of what it already is: a place where neighbors feed each other. I lean towards B, but it is your café, your savings, and your decision.",
+            "vi": "Phương án A làm nó lớn hơn. Phương án B làm nó càng giống chính nó hơn: một nơi hàng xóm nấu cho nhau ăn. Con nghiêng về B, nhưng đó là quán của mẹ, tiền tiết kiệm của mẹ, và quyết định của mẹ."
+          }
+        },
+        {
+          "n": 16,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written at the bottom of the memo, in Harriet's handwriting: \"B. Two years first, then we'll see. Call it The Neighbors' Kitchen. And I am still baking the scones myself. — Mom\"",
+            "vi": "Viết ở cuối bản ghi nhớ, bằng nét chữ của bà Harriet: \"B. Thử hai năm trước, rồi tính tiếp. Đặt tên là The Neighbors' Kitchen. Và mẹ vẫn tự tay nướng bánh scone. — Mẹ\""
+          }
+        }
+      ],
+      "content_ja": "Memo: What Should We Do With the Shop Next Door?\n\nTo: Harriet Brooks. From: Nathan. Date: August 26\n\nMom, you asked me to put the numbers on paper before you decide about the old bakery next door, which has now been empty for more than a year. Here they are. I have tried to be honest rather than encouraging.\n\nOption A: expand the café into the shop. This would double the number of seats. The rent is $3,200 a month, and turning a bakery into a café would cost around $45,000, most of which we would have to borrow. If the extra seats were full at lunchtime, the loan would be paid off in about three years. But more seats do not automatically mean more customers, and in an economic downturn, a bigger café would lose money faster than a small one would. We would also need two more staff, which would increase our monthly expenditure substantially, and a second coffee machine alone would mean forking out another $9,000. The bakery closed for exactly that reason, as did the bookstore on the corner before it.\n\nOption B: open a shared kitchen. The bakery already has two large ovens and a professional kitchen, so the refurbishment would cost far less, about $12,000. Home cooks and small food businesses, such as the families who cooked for The Neighbors' Table last autumn, could rent the kitchen by the hour. Several have already asked whether such a place exists. The arrangement would also be mutually useful: the cooks would get affordable space, and the café would gain prospective customers every time someone came to collect their food. My estimation is that it would cover its costs within eighteen months if the kitchen were rented for just four hours a day. It would earn less than Option A at its best, but it would also lose much less at its worst.\n\nOption C: do nothing. I am including this seriously. The café makes a small but steady surplus, you are seventy-four, and you have nothing to prove to anyone. Saying no is not failure; it is a decision. Your savings are your buffer, and I would hate to see them squandered on a bigger room that nobody needed.\n\nMy own view, for what it is worth, is that the question is not so much how to make the most money as what kind of place you want Harriet's to be in five years' time. Option A makes it bigger. Option B makes it more of what it already is: a place where neighbors feed each other. I lean towards B, but it is your café, your savings, and your decision.\n\nWritten at the bottom of the memo, in Harriet's handwriting: \"B. Two years first, then we'll see. Call it The Neighbors' Kitchen. And I am still baking the scones myself. — Mom\"",
+      "translation_vn": "(1) Bản ghi nhớ: Ta nên làm gì với tiệm bên cạnh?\n(2) Gửi: Harriet Brooks. Từ: Nathan. Ngày: 26 tháng Tám\n(3) Mẹ ơi, mẹ nhờ con ghi các con số ra giấy trước khi mẹ quyết định về tiệm bánh cũ bên cạnh, giờ đã bỏ trống hơn một năm. Đây ạ. Con đã cố trung thực chứ không cố động viên.\n(4) Phương án A: mở rộng quán sang tiệm bên cạnh. Như vậy số chỗ ngồi sẽ tăng gấp đôi. Tiền thuê 3.200 đô mỗi tháng, và sửa một tiệm bánh thành quán cà phê sẽ tốn khoảng 45.000 đô, phần lớn số đó ta phải đi vay.\n(5) Nếu chỗ ngồi thêm kín khách vào giờ trưa, khoản vay sẽ trả xong trong khoảng ba năm. Nhưng thêm chỗ ngồi không tự động có nghĩa là thêm khách, và khi kinh tế đi xuống, một quán lớn hơn sẽ lỗ nhanh hơn một quán nhỏ.\n(6) Ta cũng sẽ cần thêm hai nhân viên, điều này làm chi tiêu hằng tháng tăng đáng kể, và riêng chiếc máy pha cà phê thứ hai cũng đã phải bỏ ra thêm 9.000 đô.\n(7) Tiệm bánh đóng cửa đúng vì lý do đó, cũng như tiệm sách ở góc phố trước nó.\n(8) Phương án B: mở một bếp dùng chung. Tiệm bánh đã có sẵn hai lò nướng lớn và một bếp chuyên nghiệp, nên chi phí sửa sang sẽ thấp hơn nhiều, khoảng 12.000 đô.\n(9) Những người nấu ăn tại nhà và các cơ sở đồ ăn nhỏ, như những gia đình từng nấu cho The Neighbors' Table mùa thu năm ngoái, có thể thuê bếp theo giờ. Đã có vài người hỏi liệu có nơi nào như vậy không.\n(10) Cách làm này còn có lợi cho cả đôi bên: người nấu có chỗ làm với giá phải chăng, còn quán có thêm khách tiềm năng mỗi lần có người tới lấy đồ ăn.\n(11) Con ước tính nó sẽ hoà vốn trong vòng mười tám tháng nếu bếp được thuê chỉ bốn tiếng mỗi ngày. Lúc tốt nhất thì nó lời ít hơn phương án A, nhưng lúc tệ nhất thì nó cũng lỗ ít hơn nhiều.\n(12) Phương án C: không làm gì. Con đưa phương án này vào một cách nghiêm túc. Quán có khoản lời nhỏ nhưng đều đặn, mẹ đã bảy mươi tư tuổi, và mẹ chẳng cần chứng minh gì với ai cả. Từ chối không phải là thất bại; đó là một quyết định.\n(13) Tiền tiết kiệm là khoản dự phòng của mẹ, và con rất không muốn thấy nó bị phung phí vào một căn phòng to hơn mà chẳng ai cần.\n(14) Ý kiến riêng của con, nếu nó có giá trị gì, là câu hỏi không nằm ở chỗ làm sao kiếm nhiều tiền nhất mà ở chỗ mẹ muốn Harriet's là nơi như thế nào trong năm năm tới.\n(15) Phương án A làm nó lớn hơn. Phương án B làm nó càng giống chính nó hơn: một nơi hàng xóm nấu cho nhau ăn. Con nghiêng về B, nhưng đó là quán của mẹ, tiền tiết kiệm của mẹ, và quyết định của mẹ.\n(16) Viết ở cuối bản ghi nhớ, bằng nét chữ của bà Harriet: \"B. Thử hai năm trước, rồi tính tiếp. Đặt tên là The Neighbors' Kitchen. Và mẹ vẫn tự tay nướng bánh scone. — Mẹ\"",
+      "word_count": 472,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.037",
+        "c1.038",
+        "c1.039",
+        "c1.040"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0910_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What did the critic expect before visiting the exhibition?",
+        "vi": "Trước khi tới xem, nhà phê bình đã đoán điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a famous artist's latest work",
+            "vi": "tác phẩm mới nhất của một hoạ sĩ nổi tiếng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a famous artist's latest work",
+          "text_translation": "tác phẩm mới nhất của một hoạ sĩ nổi tiếng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "an exhibition about engineering",
+            "vi": "một triển lãm về kỹ thuật"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "an exhibition about engineering",
+          "text_translation": "một triển lãm về kỹ thuật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a pleasant but slightly amateur show",
+            "vi": "một triển lãm dễ chịu nhưng hơi nghiệp dư"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a pleasant but slightly amateur show",
+          "text_translation": "một triển lãm dễ chịu nhưng hơi nghiệp dư"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a show that would be closed",
+            "vi": "một triển lãm đã đóng cửa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a show that would be closed",
+          "text_translation": "một triển lãm đã đóng cửa"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I went expecting the kind of pleasant, slightly amateur show that libraries often host.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the critic expect before visiting the exhibition?",
+      "question_vn": "Trước khi tới xem, nhà phê bình đã đoán điều gì?",
+      "explanation": "\"I went expecting the kind of pleasant, slightly amateur show that libraries often host.\""
+    },
+    {
+      "id": "q_u0910_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What does the word \"uneven\" suggest about the exhibition?",
+        "vi": "Từ \"uneven\" gợi ý gì về triển lãm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Some works are much stronger than others.",
+            "vi": "Có tác phẩm mạnh hơn hẳn những tác phẩm khác."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Some works are much stronger than others.",
+          "text_translation": "Có tác phẩm mạnh hơn hẳn những tác phẩm khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The paintings are hung at different heights.",
+            "vi": "Tranh được treo ở độ cao khác nhau."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The paintings are hung at different heights.",
+          "text_translation": "Tranh được treo ở độ cao khác nhau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The gallery floor is not flat.",
+            "vi": "Sàn phòng tranh không phẳng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The gallery floor is not flat.",
+          "text_translation": "Sàn phòng tranh không phẳng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The show is too short.",
+            "vi": "Triển lãm quá ngắn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The show is too short.",
+          "text_translation": "Triển lãm quá ngắn."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Từ trong ngữ cảnh. Phần sau bài khen tranh nhỏ (\"the heart of the show\") nhưng chê tranh lớn (\"the weakest work here\"): chất lượng không đều."
+      },
+      "audio_data": null,
+      "question_jp": "What does the word \"uneven\" suggest about the exhibition?",
+      "question_vn": "Từ \"uneven\" gợi ý gì về triển lãm?",
+      "explanation": "Từ trong ngữ cảnh. Phần sau bài khen tranh nhỏ (\"the heart of the show\") nhưng chê tranh lớn (\"the weakest work here\"): chất lượng không đều."
+    },
+    {
+      "id": "q_u0910_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What do the small paintings mainly show?",
+        "vi": "Các bức tranh nhỏ chủ yếu vẽ gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "famous bridges",
+            "vi": "những cây cầu nổi tiếng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "famous bridges",
+          "text_translation": "những cây cầu nổi tiếng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "ordinary everyday moments and objects",
+            "vi": "những khoảnh khắc và đồ vật bình thường hằng ngày"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "ordinary everyday moments and objects",
+          "text_translation": "những khoảnh khắc và đồ vật bình thường hằng ngày"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "abstract shapes",
+            "vi": "hình khối trừu tượng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "abstract shapes",
+          "text_translation": "hình khối trừu tượng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "portraits of famous people",
+            "vi": "chân dung người nổi tiếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "portraits of famous people",
+          "text_translation": "chân dung người nổi tiếng"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Giày trẻ con trên bậc cửa, cốc cà phê nguội, ông cụ cho chim ăn: \"A cup of coffee going cold on a windowsill.\""
+      },
+      "audio_data": null,
+      "question_jp": "What do the small paintings mainly show?",
+      "question_vn": "Các bức tranh nhỏ chủ yếu vẽ gì?",
+      "explanation": "Giày trẻ con trên bậc cửa, cốc cà phê nguội, ông cụ cho chim ăn: \"A cup of coffee going cold on a windowsill.\""
+    },
+    {
+      "id": "q_u0910_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What does the sentence beginning \"So quiet are these pictures\" suggest?",
+        "vi": "Câu bắt đầu bằng \"So quiet are these pictures\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The paintings are too dark to see.",
+            "vi": "Tranh quá tối để nhìn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The paintings are too dark to see.",
+          "text_translation": "Tranh quá tối để nhìn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Visitors are asked to be quiet.",
+            "vi": "Khách được yêu cầu giữ im lặng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Visitors are asked to be quiet.",
+          "text_translation": "Khách được yêu cầu giữ im lặng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The paintings should be bigger.",
+            "vi": "Tranh nên to hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The paintings should be bigger.",
+          "text_translation": "Tranh nên to hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The paintings are modest and easy to miss, but they repay careful attention.",
+            "vi": "Tranh khiêm tốn, dễ bị bỏ qua, nhưng đáng được nhìn kỹ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The paintings are modest and easy to miss, but they repay careful attention.",
+          "text_translation": "Tranh khiêm tốn, dễ bị bỏ qua, nhưng đáng được nhìn kỹ."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý (đảo ngữ So + adj). \"you could easily walk past them, and yet each one rewards a second look.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the sentence beginning \"So quiet are these pictures\" suggest?",
+      "question_vn": "Câu bắt đầu bằng \"So quiet are these pictures\" gợi ý điều gì?",
+      "explanation": "Câu hàm ý (đảo ngữ So + adj). \"you could easily walk past them, and yet each one rewards a second look.\""
+    },
+    {
+      "id": "q_u0910_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "How did the critic's opinion of the poems change?",
+        "vi": "Ý kiến của nhà phê bình về các bài thơ thay đổi thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He liked them at first, then found them boring.",
+            "vi": "Ban đầu thích, sau thấy chán."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He liked them at first, then found them boring.",
+          "text_translation": "Ban đầu thích, sau thấy chán."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He did not read them.",
+            "vi": "Ông không đọc chúng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He did not read them.",
+          "text_translation": "Ông không đọc chúng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He was ready to dislike them, but found them witty and original.",
+            "vi": "Ông đã sẵn sàng để không thích, nhưng lại thấy chúng hóm hỉnh và độc đáo."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He was ready to dislike them, but found them witty and original.",
+          "text_translation": "Ông đã sẵn sàng để không thích, nhưng lại thấy chúng hóm hỉnh và độc đáo."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He thought they should be removed.",
+            "vi": "Ông nghĩ nên gỡ chúng xuống."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He thought they should be removed.",
+          "text_translation": "Ông nghĩ nên gỡ chúng xuống."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"This I did not expect, and I was ready to dislike it. In fact, the poems are often wry and unconventional\"."
+      },
+      "audio_data": null,
+      "question_jp": "How did the critic's opinion of the poems change?",
+      "question_vn": "Ý kiến của nhà phê bình về các bài thơ thay đổi thế nào?",
+      "explanation": "\"This I did not expect, and I was ready to dislike it. In fact, the poems are often wry and unconventional\"."
+    },
+    {
+      "id": "q_u0910_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "Why does the critic quote the poem about the cold coffee?",
+        "vi": "Vì sao nhà phê bình trích bài thơ về cốc cà phê nguội?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to give an example of the gentle humor he describes",
+            "vi": "để đưa ví dụ cho nét hài hước nhẹ nhàng ông vừa nói"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to give an example of the gentle humor he describes",
+          "text_translation": "để đưa ví dụ cho nét hài hước nhẹ nhàng ông vừa nói"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that the poems are too long",
+            "vi": "để cho thấy thơ quá dài"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that the poems are too long",
+          "text_translation": "để cho thấy thơ quá dài"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to criticize the artist's coffee",
+            "vi": "để chê cà phê của hoạ sĩ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to criticize the artist's coffee",
+          "text_translation": "để chê cà phê của hoạ sĩ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how to make coffee",
+            "vi": "để giải thích cách pha cà phê"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how to make coffee",
+          "text_translation": "để giải thích cách pha cà phê"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng. \"for example\" nối với \"they give the show a gentle sense of humor.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does the critic quote the poem about the cold coffee?",
+      "question_vn": "Vì sao nhà phê bình trích bài thơ về cốc cà phê nguội?",
+      "explanation": "Câu hỏi chức năng. \"for example\" nối với \"they give the show a gentle sense of humor.\""
+    },
+    {
+      "id": "q_u0910_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What is the critic's main criticism of the large bridge paintings?",
+        "vi": "Lời chê chính của nhà phê bình với các bức tranh cầu khổ lớn là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are technically poor.",
+            "vi": "Chúng kém về kỹ thuật."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are technically poor.",
+          "text_translation": "Chúng kém về kỹ thuật."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are too small.",
+            "vi": "Chúng quá nhỏ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are too small.",
+          "text_translation": "Chúng quá nhỏ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They show the wrong bridges.",
+            "vi": "Chúng vẽ sai cầu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They show the wrong bridges.",
+          "text_translation": "Chúng vẽ sai cầu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are accurate but feel like technical drawings for a client, not art for a viewer.",
+            "vi": "Chúng chính xác nhưng giống bản vẽ kỹ thuật cho khách hơn là tranh cho người xem."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They are accurate but feel like technical drawings for a client, not art for a viewer.",
+          "text_translation": "Chúng chính xác nhưng giống bản vẽ kỹ thuật cho khách hơn là tranh cho người xem."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"they feel like drawings for a client rather than paintings for a viewer.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the critic's main criticism of the large bridge paintings?",
+      "question_vn": "Lời chê chính của nhà phê bình với các bức tranh cầu khổ lớn là gì?",
+      "explanation": "\"they feel like drawings for a client rather than paintings for a viewer.\""
+    },
+    {
+      "id": "q_u0910_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What does the critic mean by \"the engineer and the painter had not quite agreed who was in charge\"?",
+        "vi": "Nhà phê bình muốn nói gì qua câu \"người kỹ sư và người hoạ sĩ chưa thống nhất được ai là người cầm trịch\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Two different people painted the pictures.",
+            "vi": "Hai người khác nhau vẽ tranh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Two different people painted the pictures.",
+          "text_translation": "Hai người khác nhau vẽ tranh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "In the large paintings, Helena's technical precision competes with her artistic feeling.",
+            "vi": "Trong tranh lớn, sự chính xác kỹ thuật của Helena tranh chấp với cảm xúc nghệ thuật của chị."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "In the large paintings, Helena's technical precision competes with her artistic feeling.",
+          "text_translation": "Trong tranh lớn, sự chính xác kỹ thuật của Helena tranh chấp với cảm xúc nghệ thuật của chị."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Helena argued with the library.",
+            "vi": "Helena cãi nhau với thư viện."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Helena argued with the library.",
+          "text_translation": "Helena cãi nhau với thư viện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The bridge was built badly.",
+            "vi": "Cây cầu xây kém."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The bridge was built badly.",
+          "text_translation": "Cây cầu xây kém."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý (as if + quá khứ hoàn thành). Helena vừa là kỹ sư vừa là hoạ sĩ; ở tranh lớn, phần kỹ sư (\"every cable and beam in its place\") lấn át phần hoạ sĩ."
+      },
+      "audio_data": null,
+      "question_jp": "What does the critic mean by \"the engineer and the painter had not quite agreed who was in charge\"?",
+      "question_vn": "Nhà phê bình muốn nói gì qua câu \"người kỹ sư và người hoạ sĩ chưa thống nhất được ai là người cầm trịch\"?",
+      "explanation": "Câu hàm ý (as if + quá khứ hoàn thành). Helena vừa là kỹ sư vừa là hoạ sĩ; ở tranh lớn, phần kỹ sư (\"every cable and beam in its place\") lấn át phần hoạ sĩ."
+    },
+    {
+      "id": "q_u0910_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "Overall, what is the critic's verdict?",
+        "vi": "Nhìn chung, kết luận của nhà phê bình là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The show is uneven but clearly worth visiting, mainly for the small works.",
+            "vi": "Triển lãm không đều tay nhưng rõ ràng đáng xem, chủ yếu nhờ các tác phẩm nhỏ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The show is uneven but clearly worth visiting, mainly for the small works.",
+          "text_translation": "Triển lãm không đều tay nhưng rõ ràng đáng xem, chủ yếu nhờ các tác phẩm nhỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The show should be closed.",
+            "vi": "Triển lãm nên đóng cửa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The show should be closed.",
+          "text_translation": "Triển lãm nên đóng cửa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Only the bridge paintings are worth seeing.",
+            "vi": "Chỉ tranh cầu là đáng xem."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Only the bridge paintings are worth seeing.",
+          "text_translation": "Chỉ tranh cầu là đáng xem."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Helena should stop painting.",
+            "vi": "Helena nên thôi vẽ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Helena should stop painting.",
+          "text_translation": "Helena nên thôi vẽ."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Without question.\" và \"the small works here evoke something that much bigger art often misses\"."
+      },
+      "audio_data": null,
+      "question_jp": "Overall, what is the critic's verdict?",
+      "question_vn": "Nhìn chung, kết luận của nhà phê bình là gì?",
+      "explanation": "\"Without question.\" và \"the small works here evoke something that much bigger art often misses\"."
+    },
+    {
+      "id": "q_u0910_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What is the function of the final question, \"isn't that, in the end, what these paintings are asking of us?\"",
+        "vi": "Câu hỏi cuối \"chẳng phải đó chính là điều những bức tranh này đang đòi hỏi ở chúng ta sao?\" có chức năng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask readers to write to the newspaper",
+            "vi": "để mời bạn đọc viết thư cho báo"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask readers to write to the newspaper",
+          "text_translation": "để mời bạn đọc viết thư cho báo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that the critic is unsure",
+            "vi": "để cho thấy nhà phê bình không chắc chắn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that the critic is unsure",
+          "text_translation": "để cho thấy nhà phê bình không chắc chắn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to link his advice to take your time with the paintings' message about noticing ordinary moments",
+            "vi": "để nối lời khuyên \"đừng vội\" với thông điệp của tranh về việc để ý những khoảnh khắc bình thường"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to link his advice to take your time with the paintings' message about noticing ordinary moments",
+          "text_translation": "để nối lời khuyên \"đừng vội\" với thông điệp của tranh về việc để ý những khoảnh khắc bình thường"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to criticize the library",
+            "vi": "để chê thư viện"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to criticize the library",
+          "text_translation": "để chê thư viện"
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi tu từ. Nó không cần trả lời; nó gói lại ý \"ordinary moments are worth noticing\" bằng lời khuyên \"go, and take your time\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the function of the final question, \"isn't that, in the end, what these paintings are asking of us?\"",
+      "question_vn": "Câu hỏi cuối \"chẳng phải đó chính là điều những bức tranh này đang đòi hỏi ở chúng ta sao?\" có chức năng gì?",
+      "explanation": "Câu hỏi tu từ. Nó không cần trả lời; nó gói lại ý \"ordinary moments are worth noticing\" bằng lời khuyên \"go, and take your time\"."
+    },
+    {
+      "id": "q_u0910_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Why did Nathan write the memo?",
+        "vi": "Vì sao Nathan viết bản ghi nhớ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to convince his mother to retire",
+            "vi": "để thuyết phục mẹ nghỉ hưu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to convince his mother to retire",
+          "text_translation": "để thuyết phục mẹ nghỉ hưu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask for a loan",
+            "vi": "để xin vay tiền"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to ask for a loan",
+          "text_translation": "để xin vay tiền"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain about the rent",
+            "vi": "để phàn nàn về tiền thuê"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain about the rent",
+          "text_translation": "để phàn nàn về tiền thuê"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Harriet asked him to set out the numbers before she decided about the empty shop",
+            "vi": "vì bà Harriet nhờ anh trình bày các con số trước khi quyết định về tiệm bỏ trống"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because Harriet asked him to set out the numbers before she decided about the empty shop",
+          "text_translation": "vì bà Harriet nhờ anh trình bày các con số trước khi quyết định về tiệm bỏ trống"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"you asked me to put the numbers on paper before you decide about the old bakery next door\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Nathan write the memo?",
+      "question_vn": "Vì sao Nathan viết bản ghi nhớ?",
+      "explanation": "\"you asked me to put the numbers on paper before you decide about the old bakery next door\"."
+    },
+    {
+      "id": "q_u0910_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "What does Nathan mean by \"honest rather than encouraging\"?",
+        "vi": "Nathan muốn nói gì qua cụm \"trung thực chứ không cố động viên\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He wants his mother to say no.",
+            "vi": "Anh muốn mẹ từ chối."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He wants his mother to say no.",
+          "text_translation": "Anh muốn mẹ từ chối."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He will show the risks clearly, even if they are discouraging.",
+            "vi": "Anh sẽ nêu rõ rủi ro, kể cả khi chúng làm nản lòng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He will show the risks clearly, even if they are discouraging.",
+          "text_translation": "Anh sẽ nêu rõ rủi ro, kể cả khi chúng làm nản lòng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He does not know the numbers.",
+            "vi": "Anh không biết các con số."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He does not know the numbers.",
+          "text_translation": "Anh không biết các con số."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He thinks every option is good.",
+            "vi": "Anh nghĩ phương án nào cũng tốt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He thinks every option is good.",
+          "text_translation": "Anh nghĩ phương án nào cũng tốt."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. Anh đặt sự thật lên trên mong muốn làm mẹ vui; phần sau anh nêu rủi ro của từng phương án."
+      },
+      "audio_data": null,
+      "question_jp": "What does Nathan mean by \"honest rather than encouraging\"?",
+      "question_vn": "Nathan muốn nói gì qua cụm \"trung thực chứ không cố động viên\"?",
+      "explanation": "Câu hàm ý. Anh đặt sự thật lên trên mong muốn làm mẹ vui; phần sau anh nêu rủi ro của từng phương án."
+    },
+    {
+      "id": "q_u0910_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Why might Option A be risky?",
+        "vi": "Vì sao phương án A có thể rủi ro?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because more seats do not guarantee more customers, and a bigger café loses money faster in a downturn",
+            "vi": "vì thêm chỗ ngồi không đảm bảo thêm khách, và quán lớn lỗ nhanh hơn khi kinh tế đi xuống"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because more seats do not guarantee more customers, and a bigger café loses money faster in a downturn",
+          "text_translation": "vì thêm chỗ ngồi không đảm bảo thêm khách, và quán lớn lỗ nhanh hơn khi kinh tế đi xuống"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the rent is free",
+            "vi": "vì tiền thuê miễn phí"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the rent is free",
+          "text_translation": "vì tiền thuê miễn phí"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the ovens are broken",
+            "vi": "vì lò nướng hỏng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the ovens are broken",
+          "text_translation": "vì lò nướng hỏng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Harriet cannot cook",
+            "vi": "vì bà Harriet không biết nấu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Harriet cannot cook",
+          "text_translation": "vì bà Harriet không biết nấu"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"more seats do not automatically mean more customers, and in an economic downturn, a bigger café would lose money faster\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why might Option A be risky?",
+      "question_vn": "Vì sao phương án A có thể rủi ro?",
+      "explanation": "\"more seats do not automatically mean more customers, and in an economic downturn, a bigger café would lose money faster\"."
+    },
+    {
+      "id": "q_u0910_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Why does Nathan mention the bakery and the bookstore that closed?",
+        "vi": "Vì sao Nathan nhắc tới tiệm bánh và tiệm sách đã đóng cửa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to suggest opening a bookstore",
+            "vi": "để gợi ý mở tiệm sách"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to suggest opening a bookstore",
+          "text_translation": "để gợi ý mở tiệm sách"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that the street is unpopular",
+            "vi": "để cho thấy con phố ế ẩm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that the street is unpopular",
+          "text_translation": "để cho thấy con phố ế ẩm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to give real local examples of the risk he has just described",
+            "vi": "để đưa ví dụ thật ở địa phương cho rủi ro anh vừa nói"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to give real local examples of the risk he has just described",
+          "text_translation": "để đưa ví dụ thật ở địa phương cho rủi ro anh vừa nói"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to blame their owners",
+            "vi": "để trách chủ của họ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to blame their owners",
+          "text_translation": "để trách chủ của họ"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng. \"The bakery closed for exactly that reason, as did the bookstore on the corner before it.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Nathan mention the bakery and the bookstore that closed?",
+      "question_vn": "Vì sao Nathan nhắc tới tiệm bánh và tiệm sách đã đóng cửa?",
+      "explanation": "Câu hỏi chức năng. \"The bakery closed for exactly that reason, as did the bookstore on the corner before it.\""
+    },
+    {
+      "id": "q_u0910_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Why would Option B cost much less to prepare?",
+        "vi": "Vì sao phương án B tốn ít tiền chuẩn bị hơn nhiều?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because Nathan would do the work himself",
+            "vi": "vì Nathan tự làm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because Nathan would do the work himself",
+          "text_translation": "vì Nathan tự làm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the families would pay for it",
+            "vi": "vì các gia đình trả tiền"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the families would pay for it",
+          "text_translation": "vì các gia đình trả tiền"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the city would help",
+            "vi": "vì thành phố hỗ trợ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the city would help",
+          "text_translation": "vì thành phố hỗ trợ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the bakery already has large ovens and a professional kitchen",
+            "vi": "vì tiệm bánh đã có sẵn lò lớn và bếp chuyên nghiệp"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because the bakery already has large ovens and a professional kitchen",
+          "text_translation": "vì tiệm bánh đã có sẵn lò lớn và bếp chuyên nghiệp"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"The bakery already has two large ovens and a professional kitchen, so the refurbishment would cost far less\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why would Option B cost much less to prepare?",
+      "question_vn": "Vì sao phương án B tốn ít tiền chuẩn bị hơn nhiều?",
+      "explanation": "\"The bakery already has two large ovens and a professional kitchen, so the refurbishment would cost far less\"."
+    },
+    {
+      "id": "q_u0910_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "How does Nathan compare the financial results of Options A and B?",
+        "vi": "Nathan so sánh kết quả tài chính của A và B thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "B earns more and loses more.",
+            "vi": "B lời nhiều hơn và lỗ nhiều hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "B earns more and loses more.",
+          "text_translation": "B lời nhiều hơn và lỗ nhiều hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "B earns less at best but loses much less at worst.",
+            "vi": "B lúc tốt nhất lời ít hơn nhưng lúc tệ nhất lỗ ít hơn nhiều."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "B earns less at best but loses much less at worst.",
+          "text_translation": "B lúc tốt nhất lời ít hơn nhưng lúc tệ nhất lỗ ít hơn nhiều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "A and B are exactly the same.",
+            "vi": "A và B y hệt nhau."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "A and B are exactly the same.",
+          "text_translation": "A và B y hệt nhau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A has no risk.",
+            "vi": "A không có rủi ro."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "A has no risk.",
+          "text_translation": "A không có rủi ro."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"It would earn less than Option A at its best, but it would also lose much less at its worst.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does Nathan compare the financial results of Options A and B?",
+      "question_vn": "Nathan so sánh kết quả tài chính của A và B thế nào?",
+      "explanation": "\"It would earn less than Option A at its best, but it would also lose much less at its worst.\""
+    },
+    {
+      "id": "q_u0910_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Why does Nathan include Option C \"seriously\"?",
+        "vi": "Vì sao Nathan đưa phương án C vào \"một cách nghiêm túc\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he thinks Harriet is too old to work",
+            "vi": "vì anh nghĩ bà quá già để làm việc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because he thinks Harriet is too old to work",
+          "text_translation": "vì anh nghĩ bà quá già để làm việc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the café is losing money",
+            "vi": "vì quán đang lỗ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the café is losing money",
+          "text_translation": "vì quán đang lỗ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because he wants his mother to know that choosing not to expand is a real, respectable choice",
+            "vi": "vì anh muốn mẹ biết chọn không mở rộng cũng là lựa chọn thật, đáng trân trọng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because he wants his mother to know that choosing not to expand is a real, respectable choice",
+          "text_translation": "vì anh muốn mẹ biết chọn không mở rộng cũng là lựa chọn thật, đáng trân trọng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he wants to buy the shop himself",
+            "vi": "vì anh muốn tự mua tiệm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because he wants to buy the shop himself",
+          "text_translation": "vì anh muốn tự mua tiệm"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"you have nothing to prove to anyone. Saying no is not failure; it is a decision.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Nathan include Option C \"seriously\"?",
+      "question_vn": "Vì sao Nathan đưa phương án C vào \"một cách nghiêm túc\"?",
+      "explanation": "Câu suy luận. \"you have nothing to prove to anyone. Saying no is not failure; it is a decision.\""
+    },
+    {
+      "id": "q_u0910_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "According to Nathan, what is the real question?",
+        "vi": "Theo Nathan, câu hỏi thật sự là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "what kind of place Harriet wants the café to be in five years",
+            "vi": "bà Harriet muốn quán là nơi như thế nào trong năm năm tới"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "what kind of place Harriet wants the café to be in five years",
+          "text_translation": "bà Harriet muốn quán là nơi như thế nào trong năm năm tới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to make the most money",
+            "vi": "làm sao kiếm nhiều tiền nhất"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to make the most money",
+          "text_translation": "làm sao kiếm nhiều tiền nhất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how many seats to add",
+            "vi": "thêm bao nhiêu chỗ ngồi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how many seats to add",
+          "text_translation": "thêm bao nhiêu chỗ ngồi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "who should bake the scones",
+            "vi": "ai nên nướng bánh scone"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "who should bake the scones",
+          "text_translation": "ai nên nướng bánh scone"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Cấu trúc not so much A as B: câu hỏi \"is not so much how to make the most money as what kind of place you want Harriet's to be in five years' time.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Nathan, what is the real question?",
+      "question_vn": "Theo Nathan, câu hỏi thật sự là gì?",
+      "explanation": "Cấu trúc not so much A as B: câu hỏi \"is not so much how to make the most money as what kind of place you want Harriet's to be in five years' time.\""
+    },
+    {
+      "id": "q_u0910_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "What does Harriet's note show about her decision?",
+        "vi": "Lời ghi của bà Harriet cho thấy gì về quyết định của bà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She rejected all three options.",
+            "vi": "Bà bác cả ba phương án."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She rejected all three options.",
+          "text_translation": "Bà bác cả ba phương án."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She chose Option A.",
+            "vi": "Bà chọn phương án A."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She chose Option A.",
+          "text_translation": "Bà chọn phương án A."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She will stop baking.",
+            "vi": "Bà sẽ thôi nướng bánh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She will stop baking.",
+          "text_translation": "Bà sẽ thôi nướng bánh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She chose Option B as a two-year trial, while keeping her own role in the café.",
+            "vi": "Bà chọn phương án B, thử hai năm, và vẫn giữ vai trò của mình ở quán."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She chose Option B as a two-year trial, while keeping her own role in the café.",
+          "text_translation": "Bà chọn phương án B, thử hai năm, và vẫn giữ vai trò của mình ở quán."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"B. Two years first, then we'll see.\" và \"I am still baking the scones myself.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet's note show about her decision?",
+      "question_vn": "Lời ghi của bà Harriet cho thấy gì về quyết định của bà?",
+      "explanation": "Câu suy luận. \"B. Two years first, then we'll see.\" và \"I am still baking the scones myself.\""
+    },
+    {
+      "id": "q_u0910_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Use both texts. What advice do the critic and Nathan both give, in different ways?",
+        "vi": "Dựa vào cả hai bài. Nhà phê bình và Nathan đều đưa lời khuyên gì, theo cách khác nhau?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Bigger is always better.",
+            "vi": "Lớn hơn luôn tốt hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Bigger is always better.",
+          "text_translation": "Lớn hơn luôn tốt hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Build on what is already strong and true to you, rather than simply getting bigger.",
+            "vi": "Hãy phát huy điều vốn đã mạnh và đúng với mình, thay vì chỉ làm cho to hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Build on what is already strong and true to you, rather than simply getting bigger.",
+          "text_translation": "Hãy phát huy điều vốn đã mạnh và đúng với mình, thay vì chỉ làm cho to hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Borrow money to grow quickly.",
+            "vi": "Vay tiền để phát triển nhanh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Borrow money to grow quickly.",
+          "text_translation": "Vay tiền để phát triển nhanh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Stop doing what you love.",
+            "vi": "Thôi làm điều mình yêu thích."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Stop doing what you love.",
+          "text_translation": "Thôi làm điều mình yêu thích."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Nhà phê bình khuyên Helena hãy tin vào những điều nhỏ bé thay vì tranh khổ lớn; Nathan viết \"Option B makes it more of what it already is\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What advice do the critic and Nathan both give, in different ways?",
+      "question_vn": "Dựa vào cả hai bài. Nhà phê bình và Nathan đều đưa lời khuyên gì, theo cách khác nhau?",
+      "explanation": "Câu nối hai bài. Nhà phê bình khuyên Helena hãy tin vào những điều nhỏ bé thay vì tranh khổ lớn; Nathan viết \"Option B makes it more of what it already is\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0910_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 9) — Bài phê bình triển lãm tranh đầu tiên của Helena",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0910_01",
+      "question_ids": [
+        "q_u0910_001",
+        "q_u0910_002",
+        "q_u0910_003",
+        "q_u0910_004",
+        "q_u0910_005",
+        "q_u0910_006",
+        "q_u0910_007",
+        "q_u0910_008",
+        "q_u0910_009",
+        "q_u0910_010"
+      ]
+    },
+    {
+      "set_id": "set_u0910_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 10) — Bản ghi nhớ của Nathan: ba phương án cho tiệm bên cạnh",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0910_02",
+      "question_ids": [
+        "q_u0910_011",
+        "q_u0910_012",
+        "q_u0910_013",
+        "q_u0910_014",
+        "q_u0910_015",
+        "q_u0910_016",
+        "q_u0910_017",
+        "q_u0910_018",
+        "q_u0910_019",
+        "q_u0910_020"
+      ]
+    }
+  ]
+}
