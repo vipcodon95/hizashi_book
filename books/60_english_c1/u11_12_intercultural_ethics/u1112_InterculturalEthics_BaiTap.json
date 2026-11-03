@@ -1,0 +1,2028 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 11–12 — Intercultural communication & Technology and ethics",
+      "vi": "Giao tiếp liên văn hoá & Công nghệ, đạo đức"
+    },
+    "title": "Units 11–12 — Intercultural communication & Technology and ethics",
+    "title_vn": "Giao tiếp liên văn hoá & Công nghệ, đạo đức",
+    "module_code": "60_u1112",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C1",
+    "curriculum_unit": "c1.u11+u12",
+    "curriculum_sheets": [
+      "c1.041",
+      "c1.042",
+      "c1.043",
+      "c1.044",
+      "c1.045",
+      "c1.046",
+      "c1.047",
+      "c1.048"
+    ],
+    "characters": [
+      "Nathan Brooks",
+      "Leah Carter",
+      "Megan Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9 – 10, năm 8"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Ví dụ phá định kiến, nhượng bộ có giới hạn, lập trường có điều kiện, điều kiện ẩn",
+    "description_vn": "Nathan kể chuyện hiểu lầm sự im lặng trong nhóm ba thành phố và cách đổi lối họp, và Leah cân nhắc lợi hại của trợ lý ghi chép AI trong phòng khám. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 11 + Unit 12 khoá C1 · phiếu `c1.041` – `c1.048` (ngôn ngữ và phương ngữ, phong tục, tiếp khách, hiểu lầm; trí tuệ nhân tạo và dữ liệu, quyền riêng tư, ai chịu trách nhiệm, tranh luận về tương lai). Bài 1 nói khác biệt giao tiếp theo **từng người**, không quy cho quốc gia."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài blog tự sự rút ra bài học và một bài quan điểm cân nhắc lợi hại của AI; nhận ra ví dụ phá định kiến, câu nhượng bộ rồi giới hạn (That does not mean… It means…), cách người viết nêu lập trường có điều kiện (I would keep the tool, but only with…), giọng mỉa nhẹ, và các cấu trúc C1: whatever + mệnh đề, much as, try as I might, by no means, far from, as though + quá khứ hoàn thành, điều kiện ẩn (Without it…, to hear them talk…)."
+    },
+    "extra_words": [
+      {
+        "word": "objection",
+        "i18n": {
+          "vi": "ý phản đối"
+        }
+      },
+      {
+        "word": "awkward",
+        "i18n": {
+          "vi": "gượng gạo"
+        }
+      },
+      {
+        "word": "shortcut",
+        "i18n": {
+          "vi": "lối tắt"
+        }
+      },
+      {
+        "word": "urgent",
+        "i18n": {
+          "vi": "gấp"
+        }
+      },
+      {
+        "word": "Portuguese",
+        "i18n": {
+          "vi": "người Bồ Đào Nha"
+        }
+      },
+      {
+        "word": "stereotype",
+        "i18n": {
+          "vi": "định kiến, khuôn mẫu"
+        }
+      },
+      {
+        "word": "birthplace",
+        "i18n": {
+          "vi": "nơi sinh"
+        }
+      },
+      {
+        "word": "note-taker",
+        "i18n": {
+          "vi": "người/công cụ ghi chép"
+        }
+      },
+      {
+        "word": "draft",
+        "i18n": {
+          "vi": "bản nháp"
+        }
+      },
+      {
+        "word": "chest pain",
+        "i18n": {
+          "vi": "đau ngực"
+        }
+      },
+      {
+        "word": "consent",
+        "i18n": {
+          "vi": "sự đồng ý"
+        }
+      },
+      {
+        "word": "signature",
+        "i18n": {
+          "vi": "chữ ký"
+        }
+      },
+      {
+        "word": "recording",
+        "i18n": {
+          "vi": "bản ghi âm"
+        }
+      },
+      {
+        "word": "software",
+        "i18n": {
+          "vi": "phần mềm"
+        }
+      },
+      {
+        "word": "smoothly",
+        "i18n": {
+          "vi": "trơn tru"
+        }
+      },
+      {
+        "word": "born",
+        "i18n": {
+          "vi": "sinh ra"
+        }
+      },
+      {
+        "word": "mistaken",
+        "i18n": {
+          "vi": "bị hiểu nhầm"
+        }
+      },
+      {
+        "word": "newsletter",
+        "i18n": {
+          "vi": "bản tin"
+        }
+      },
+      {
+        "word": "accent",
+        "i18n": {
+          "vi": "giọng nói (vùng miền)"
+        }
+      },
+      {
+        "word": "occur to",
+        "i18n": {
+          "vi": "nảy ra trong đầu"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "I took silence to mean…",
+          "vi": "tôi coi im lặng nghĩa là…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "it is not my place to",
+          "vi": "tôi không có tư cách để"
+        }
+      },
+      {
+        "i18n": {
+          "en": "blurt out",
+          "vi": "buột miệng nói ra"
+        }
+      },
+      {
+        "i18n": {
+          "en": "by no means",
+          "vi": "hoàn toàn không"
+        }
+      },
+      {
+        "i18n": {
+          "en": "far from perfect",
+          "vi": "còn lâu mới hoàn hảo"
+        }
+      },
+      {
+        "i18n": {
+          "en": "try as I might",
+          "vi": "dù cố mấy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "weigh in on",
+          "vi": "góp tiếng vào"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Where do I stand?",
+          "vi": "Quan điểm của tôi là gì?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "to hear them talk",
+          "vi": "nghe họ nói thì"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Ví dụ \"ngược đời\" (người thẳng tính nhất lại ở nơi ta không ngờ) là chỗ hỏi **chức năng ví dụ**: nó dùng để bác bỏ một cách nghĩ."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`That does not mean X. It means Y.` → người viết **giới hạn** ý của mình. Phương án tuyệt đối (no influence at all / explains everything) thường sai."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài quan điểm C1 hay có lập trường **có điều kiện**: `I would keep…, but only with…`. Câu hỏi về quan điểm phải chứa cả phần điều kiện."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Điều kiện ẩn (`Without it, I would not have…`) = câu điều kiện loại 3. Câu hỏi hàm ý hỏi điều đã thực sự xảy ra nhờ có nó."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1112_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 11) — Blog Nathan: khác biệt giao tiếp trong một nhóm ba thành phố"
+      },
+      "narrator": "Nathan",
+      "title": "What I Got Wrong About Silence",
+      "category": "essay",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 280,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What I Got Wrong About Silence",
+            "vi": "Điều tôi đã hiểu sai về sự im lặng"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan Brooks, team lead, on his personal blog",
+            "vi": "Nathan Brooks, trưởng nhóm, trên blog cá nhân"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A year ago, I became the lead of a team of nine software engineers in three cities: San Diego, Chicago and Lisbon. I had read the articles about working across cultures, and I thought I was prepared. I was not, and the reason surprised me.",
+            "vi": "Một năm trước, tôi trở thành trưởng một nhóm chín kỹ sư phần mềm ở ba thành phố: San Diego, Chicago và Lisbon. Tôi đã đọc các bài viết về làm việc đa văn hoá, và tôi tưởng mình đã sẵn sàng. Tôi chưa sẵn sàng, và lý do khiến tôi bất ngờ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our first meeting in person, in Lisbon, went wonderfully: we mingled, ate far too much, and laughed at one another's accents. It was afterwards, on video calls, that the trouble began.",
+            "vi": "Buổi gặp trực tiếp đầu tiên của chúng tôi, ở Lisbon, diễn ra tuyệt vời: chúng tôi trò chuyện với nhau, ăn quá nhiều, và cười giọng nói của nhau. Rắc rối bắt đầu sau đó, trong các cuộc gọi video."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In our weekly meeting, I would propose an idea and ask, \"Any objections?\" Usually there was silence, and I took silence to mean that everyone concurred.",
+            "vi": "Trong cuộc họp hằng tuần, tôi hay đề xuất một ý tưởng rồi hỏi: \"Có ai phản đối không?\" Thường thì mọi người im lặng, và tôi coi im lặng nghĩa là ai cũng đồng ý."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then, three weeks into a project, an engineer in Chicago, whom I will call Greg, sent me a long, careful message explaining why he had thought from the very first day that my plan would not work. He was right. We had lost three weeks.",
+            "vi": "Rồi, ba tuần sau khi bắt đầu một dự án, một kỹ sư ở Chicago, tôi tạm gọi là Greg, gửi tôi một tin nhắn dài, cẩn thận, giải thích vì sao ngay từ ngày đầu anh ấy đã nghĩ kế hoạch của tôi sẽ không thành. Anh ấy đúng. Chúng tôi đã mất ba tuần."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I asked him why he had said nothing in the meeting, his answer was candid. Much as he respected me, he did not feel it was his place to question the team lead in front of eight other people. In the team he had come from, he said, you raised doubts privately, with tact, and only after you had checked your facts.",
+            "vi": "Khi tôi hỏi vì sao anh không nói gì trong cuộc họp, câu trả lời của anh rất thẳng thắn. Dù tôn trọng tôi đến đâu, anh vẫn thấy mình không có tư cách chất vấn trưởng nhóm trước mặt tám người khác. Anh kể, ở nhóm cũ của anh, người ta nêu băn khoăn một cách riêng tư, tế nhị, và chỉ sau khi đã kiểm tra kỹ dữ kiện."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It had never occurred to him that I might read his silence as agreement, any more than it had occurred to me that he might read my question as a test.",
+            "vi": "Anh ấy chưa từng nghĩ tôi có thể hiểu sự im lặng của anh là đồng ý, cũng như tôi chưa từng nghĩ anh có thể hiểu câu hỏi của tôi là một bài kiểm tra."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here is the part that the articles had not prepared me for. The most direct person on the team, who will happily blurt out \"That won't work\" before I have finished a sentence, is Tomás, in Lisbon. The quietest is Greg, who grew up twenty minutes from my house in San Diego.",
+            "vi": "Đây là phần mà các bài viết chưa chuẩn bị cho tôi. Người thẳng tính nhất nhóm, người sẵn sàng buột miệng \"Cách đó không được đâu\" trước khi tôi nói hết câu, là Tomás ở Lisbon. Người ít nói nhất là Greg, người lớn lên cách nhà tôi ở San Diego có hai mươi phút."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Whatever the articles say about this country or that one, the way a person disagrees seems to depend at least as much on their family, their personality and the teams they have worked in as on where they were born.",
+            "vi": "Dù các bài viết nói gì về nước này hay nước kia, cách một người bày tỏ sự không đồng ý dường như phụ thuộc vào gia đình, tính cách và những nhóm họ từng làm việc ít nhất cũng nhiều như vào nơi họ sinh ra."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That does not mean that culture is irrelevant. It means that it is by no means a reliable shortcut. Treating Tomás as \"the Portuguese one\" and Greg as \"the American one\" would have told me nothing useful about either of them.",
+            "vi": "Điều đó không có nghĩa văn hoá chẳng liên quan gì. Nó có nghĩa văn hoá hoàn toàn không phải là một lối tắt đáng tin. Coi Tomás là \"anh người Bồ Đào Nha\" và Greg là \"anh người Mỹ\" sẽ chẳng cho tôi biết điều gì hữu ích về cả hai người."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So we changed how we work. At the start of each project, every member now answers three questions: How do you prefer to disagree? How quickly do you expect a reply? What does \"urgent\" mean to you?",
+            "vi": "Vậy là chúng tôi thay đổi cách làm việc. Đầu mỗi dự án, giờ mỗi thành viên trả lời ba câu hỏi: Bạn thích bày tỏ sự không đồng ý theo cách nào? Bạn mong được trả lời nhanh tới mức nào? Với bạn, \"gấp\" nghĩa là gì?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We also stopped asking \"Any objections?\" in meetings. Instead, I ask each person, by name, for one risk they can see in the plan, which makes raising a doubt part of the job rather than a challenge to the boss.",
+            "vi": "Chúng tôi cũng thôi hỏi \"Có ai phản đối không?\" trong cuộc họp. Thay vào đó, tôi hỏi từng người, gọi đích danh, về một rủi ro mà họ thấy trong kế hoạch, điều đó biến việc nêu băn khoăn thành một phần công việc chứ không phải là thách thức sếp."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is far from perfect, and it does feel a little awkward at first. But try as I might, I cannot remember a single silence in our meetings since then that turned out to mean yes.",
+            "vi": "Cách này còn lâu mới hoàn hảo, và lúc đầu đúng là thấy hơi gượng. Nhưng dù cố mấy, tôi cũng không nhớ nổi có một lần im lặng nào trong các cuộc họp của chúng tôi kể từ đó mà hoá ra lại có nghĩa là đồng ý."
+          }
+        }
+      ],
+      "content_ja": "What I Got Wrong About Silence\n\nNathan Brooks, team lead, on his personal blog\n\nA year ago, I became the lead of a team of nine software engineers in three cities: San Diego, Chicago and Lisbon. I had read the articles about working across cultures, and I thought I was prepared. I was not, and the reason surprised me. Our first meeting in person, in Lisbon, went wonderfully: we mingled, ate far too much, and laughed at one another's accents. It was afterwards, on video calls, that the trouble began.\n\nIn our weekly meeting, I would propose an idea and ask, \"Any objections?\" Usually there was silence, and I took silence to mean that everyone concurred. Then, three weeks into a project, an engineer in Chicago, whom I will call Greg, sent me a long, careful message explaining why he had thought from the very first day that my plan would not work. He was right. We had lost three weeks.\n\nWhen I asked him why he had said nothing in the meeting, his answer was candid. Much as he respected me, he did not feel it was his place to question the team lead in front of eight other people. In the team he had come from, he said, you raised doubts privately, with tact, and only after you had checked your facts. It had never occurred to him that I might read his silence as agreement, any more than it had occurred to me that he might read my question as a test.\n\nHere is the part that the articles had not prepared me for. The most direct person on the team, who will happily blurt out \"That won't work\" before I have finished a sentence, is Tomás, in Lisbon. The quietest is Greg, who grew up twenty minutes from my house in San Diego. Whatever the articles say about this country or that one, the way a person disagrees seems to depend at least as much on their family, their personality and the teams they have worked in as on where they were born.\n\nThat does not mean that culture is irrelevant. It means that it is by no means a reliable shortcut. Treating Tomás as \"the Portuguese one\" and Greg as \"the American one\" would have told me nothing useful about either of them.\n\nSo we changed how we work. At the start of each project, every member now answers three questions: How do you prefer to disagree? How quickly do you expect a reply? What does \"urgent\" mean to you? We also stopped asking \"Any objections?\" in meetings. Instead, I ask each person, by name, for one risk they can see in the plan, which makes raising a doubt part of the job rather than a challenge to the boss.\n\nIt is far from perfect, and it does feel a little awkward at first. But try as I might, I cannot remember a single silence in our meetings since then that turned out to mean yes.",
+      "translation_vn": "(1) Điều tôi đã hiểu sai về sự im lặng\n(2) Nathan Brooks, trưởng nhóm, trên blog cá nhân\n(3) Một năm trước, tôi trở thành trưởng một nhóm chín kỹ sư phần mềm ở ba thành phố: San Diego, Chicago và Lisbon. Tôi đã đọc các bài viết về làm việc đa văn hoá, và tôi tưởng mình đã sẵn sàng. Tôi chưa sẵn sàng, và lý do khiến tôi bất ngờ.\n(4) Buổi gặp trực tiếp đầu tiên của chúng tôi, ở Lisbon, diễn ra tuyệt vời: chúng tôi trò chuyện với nhau, ăn quá nhiều, và cười giọng nói của nhau. Rắc rối bắt đầu sau đó, trong các cuộc gọi video.\n(5) Trong cuộc họp hằng tuần, tôi hay đề xuất một ý tưởng rồi hỏi: \"Có ai phản đối không?\" Thường thì mọi người im lặng, và tôi coi im lặng nghĩa là ai cũng đồng ý.\n(6) Rồi, ba tuần sau khi bắt đầu một dự án, một kỹ sư ở Chicago, tôi tạm gọi là Greg, gửi tôi một tin nhắn dài, cẩn thận, giải thích vì sao ngay từ ngày đầu anh ấy đã nghĩ kế hoạch của tôi sẽ không thành. Anh ấy đúng. Chúng tôi đã mất ba tuần.\n(7) Khi tôi hỏi vì sao anh không nói gì trong cuộc họp, câu trả lời của anh rất thẳng thắn. Dù tôn trọng tôi đến đâu, anh vẫn thấy mình không có tư cách chất vấn trưởng nhóm trước mặt tám người khác. Anh kể, ở nhóm cũ của anh, người ta nêu băn khoăn một cách riêng tư, tế nhị, và chỉ sau khi đã kiểm tra kỹ dữ kiện.\n(8) Anh ấy chưa từng nghĩ tôi có thể hiểu sự im lặng của anh là đồng ý, cũng như tôi chưa từng nghĩ anh có thể hiểu câu hỏi của tôi là một bài kiểm tra.\n(9) Đây là phần mà các bài viết chưa chuẩn bị cho tôi. Người thẳng tính nhất nhóm, người sẵn sàng buột miệng \"Cách đó không được đâu\" trước khi tôi nói hết câu, là Tomás ở Lisbon. Người ít nói nhất là Greg, người lớn lên cách nhà tôi ở San Diego có hai mươi phút.\n(10) Dù các bài viết nói gì về nước này hay nước kia, cách một người bày tỏ sự không đồng ý dường như phụ thuộc vào gia đình, tính cách và những nhóm họ từng làm việc ít nhất cũng nhiều như vào nơi họ sinh ra.\n(11) Điều đó không có nghĩa văn hoá chẳng liên quan gì. Nó có nghĩa văn hoá hoàn toàn không phải là một lối tắt đáng tin. Coi Tomás là \"anh người Bồ Đào Nha\" và Greg là \"anh người Mỹ\" sẽ chẳng cho tôi biết điều gì hữu ích về cả hai người.\n(12) Vậy là chúng tôi thay đổi cách làm việc. Đầu mỗi dự án, giờ mỗi thành viên trả lời ba câu hỏi: Bạn thích bày tỏ sự không đồng ý theo cách nào? Bạn mong được trả lời nhanh tới mức nào? Với bạn, \"gấp\" nghĩa là gì?\n(13) Chúng tôi cũng thôi hỏi \"Có ai phản đối không?\" trong cuộc họp. Thay vào đó, tôi hỏi từng người, gọi đích danh, về một rủi ro mà họ thấy trong kế hoạch, điều đó biến việc nêu băn khoăn thành một phần công việc chứ không phải là thách thức sếp.\n(14) Cách này còn lâu mới hoàn hảo, và lúc đầu đúng là thấy hơi gượng. Nhưng dù cố mấy, tôi cũng không nhớ nổi có một lần im lặng nào trong các cuộc họp của chúng tôi kể từ đó mà hoá ra lại có nghĩa là đồng ý.",
+      "word_count": 501,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.041",
+        "c1.042",
+        "c1.043",
+        "c1.044"
+      ]
+    },
+    {
+      "id": "passage_u1112_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 12) — Bài quan điểm của Leah về AI ghi chép trong phòng khám"
+      },
+      "narrator": "Leah",
+      "title": "The Third Listener in the Room",
+      "category": "essay",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 280,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Third Listener in the Room",
+            "vi": "Người nghe thứ ba trong phòng"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dr. Leah Carter, Emergency Department, for the Sunset Bay Hospital staff newsletter",
+            "vi": "Bác sĩ Leah Carter, Khoa Cấp cứu, viết cho bản tin nhân viên Bệnh viện Sunset Bay"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For the past three months, I have been one of twenty doctors testing an AI note-taker. With the patient's permission, a small app on my phone listens to our conversation and, by the time I leave the room, has written a draft of my notes.",
+            "vi": "Ba tháng qua, tôi là một trong hai mươi bác sĩ thử nghiệm một trợ lý ghi chép bằng AI. Khi bệnh nhân cho phép, một ứng dụng nhỏ trên điện thoại của tôi sẽ nghe cuộc trò chuyện của chúng tôi và, tới lúc tôi rời phòng, đã viết xong bản nháp ghi chép của tôi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Over the past few years, many hospitals have begun to try tools like this, and I want to weigh in on the debate before we decide whether to use it in every department.",
+            "vi": "Mấy năm gần đây, nhiều bệnh viện đã bắt đầu thử những công cụ kiểu này, và tôi muốn góp tiếng vào cuộc tranh luận trước khi chúng ta quyết định có dùng nó ở mọi khoa hay không."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The benefits are real. Before the trial, I spent almost as much time typing as I did talking to patients. Now I look at the person in front of me, not at a screen, and on a busy night the tool saves me close to an hour.",
+            "vi": "Lợi ích là có thật. Trước đợt thử nghiệm, thời gian tôi gõ máy gần bằng thời gian nói chuyện với bệnh nhân. Giờ tôi nhìn người trước mặt mình chứ không nhìn màn hình, và vào một đêm đông bệnh nhân, công cụ này giúp tôi tiết kiệm gần một tiếng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Without it, I would not have gone back to sit with an elderly man who was frightened and alone last week. That hour matters.",
+            "vi": "Nếu không có nó, tuần trước tôi đã chẳng quay lại ngồi với một ông cụ đang sợ hãi và một mình. Một tiếng ấy rất quan trọng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The drawbacks are just as real. The tool is not sentient, and it does not understand anything; it predicts words. Twice it wrote that a patient had denied chest pain when we had never discussed chest pain at all.",
+            "vi": "Nhược điểm cũng có thật không kém. Công cụ này không có tri giác, và nó không hiểu gì cả; nó đoán chữ. Hai lần nó ghi rằng bệnh nhân phủ nhận đau ngực trong khi chúng tôi chưa hề bàn tới chuyện đau ngực."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Both times I caught the mistake, but only because I read every line. On a night when I was exhausted, I might not have. The danger is not that the machine makes errors; it is that it writes them so smoothly, as though it had heard every word.",
+            "vi": "Cả hai lần tôi đều phát hiện ra lỗi, nhưng chỉ vì tôi đọc từng dòng. Vào một đêm kiệt sức, có lẽ tôi đã không phát hiện ra. Mối nguy không nằm ở chỗ cỗ máy mắc lỗi; mà ở chỗ nó viết lỗi trơn tru đến thế, như thể nó đã nghe thấy từng chữ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Accumulated over thousands of visits, even a small rate of such errors could undermine the integrity of our records.",
+            "vi": "Cộng dồn qua hàng nghìn lượt khám, ngay cả một tỉ lệ nhỏ những lỗi như vậy cũng có thể làm hỏng tính toàn vẹn của hồ sơ bệnh án."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then there is consent. Most patients say yes, but I am not convinced that all of them understand what they are agreeing to. My aunt Megan, a nurse in our department, reminded me that a patient in pain who speaks little English is hardly in a position to refuse anything a doctor suggests.",
+            "vi": "Rồi còn chuyện đồng ý. Phần lớn bệnh nhân nói có, nhưng tôi không tin chắc tất cả họ hiểu mình đang đồng ý với điều gì. Dì Megan của tôi, một điều dưỡng trong khoa, nhắc tôi rằng một bệnh nhân đang đau và nói được ít tiếng Anh thì khó mà ở thế từ chối bất cứ điều gì bác sĩ đề nghị."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Agreement given in that situation is not free in any meaningful sense.",
+            "vi": "Sự đồng ý đưa ra trong hoàn cảnh đó không thể gọi là tự nguyện theo nghĩa thật sự."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So where do I stand? I would keep the tool, but only with four rules. Every patient is asked in plain words, in their own language, and saying no is as easy as saying yes. The doctor reads every note before signing it, because the signature, not the software, carries the responsibility.",
+            "vi": "Vậy quan điểm của tôi là gì? Tôi sẽ giữ công cụ này, nhưng chỉ với bốn quy tắc. Mọi bệnh nhân đều được hỏi bằng lời dễ hiểu, bằng ngôn ngữ của họ, và nói không cũng dễ như nói có. Bác sĩ đọc mọi ghi chép trước khi ký, vì chữ ký chứ không phải phần mềm mới là thứ chịu trách nhiệm."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Recordings are erased as soon as the note is approved. And we review the errors every month, openly, instead of trusting the sales team, who, to hear them talk, would have you believe the tool never makes any.",
+            "vi": "Bản ghi âm bị xoá ngay khi ghi chép được duyệt. Và chúng ta rà soát lỗi hằng tháng, công khai, thay vì tin đội bán hàng, những người mà nghe họ nói thì ta sẽ tưởng công cụ này chẳng bao giờ sai."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of these rules is complicated. Together, they keep the doctor, not the machine, in charge.",
+            "vi": "Không quy tắc nào trong số này phức tạp. Gộp lại, chúng giữ cho bác sĩ, chứ không phải cỗ máy, là người nắm quyền."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A machine that listens can give us back the time to listen ourselves. It should never become a reason to stop.",
+            "vi": "Một cỗ máy biết nghe có thể trả lại cho chúng ta thời gian để tự mình lắng nghe. Nó không bao giờ nên trở thành lý do để ta thôi lắng nghe."
+          }
+        }
+      ],
+      "content_ja": "The Third Listener in the Room\n\nDr. Leah Carter, Emergency Department, for the Sunset Bay Hospital staff newsletter\n\nFor the past three months, I have been one of twenty doctors testing an AI note-taker. With the patient's permission, a small app on my phone listens to our conversation and, by the time I leave the room, has written a draft of my notes. Over the past few years, many hospitals have begun to try tools like this, and I want to weigh in on the debate before we decide whether to use it in every department.\n\nThe benefits are real. Before the trial, I spent almost as much time typing as I did talking to patients. Now I look at the person in front of me, not at a screen, and on a busy night the tool saves me close to an hour. Without it, I would not have gone back to sit with an elderly man who was frightened and alone last week. That hour matters.\n\nThe drawbacks are just as real. The tool is not sentient, and it does not understand anything; it predicts words. Twice it wrote that a patient had denied chest pain when we had never discussed chest pain at all. Both times I caught the mistake, but only because I read every line. On a night when I was exhausted, I might not have. The danger is not that the machine makes errors; it is that it writes them so smoothly, as though it had heard every word. Accumulated over thousands of visits, even a small rate of such errors could undermine the integrity of our records.\n\nThen there is consent. Most patients say yes, but I am not convinced that all of them understand what they are agreeing to. My aunt Megan, a nurse in our department, reminded me that a patient in pain who speaks little English is hardly in a position to refuse anything a doctor suggests. Agreement given in that situation is not free in any meaningful sense.\n\nSo where do I stand? I would keep the tool, but only with four rules. Every patient is asked in plain words, in their own language, and saying no is as easy as saying yes. The doctor reads every note before signing it, because the signature, not the software, carries the responsibility. Recordings are erased as soon as the note is approved. And we review the errors every month, openly, instead of trusting the sales team, who, to hear them talk, would have you believe the tool never makes any. None of these rules is complicated. Together, they keep the doctor, not the machine, in charge.\n\nA machine that listens can give us back the time to listen ourselves. It should never become a reason to stop.",
+      "translation_vn": "(1) Người nghe thứ ba trong phòng\n(2) Bác sĩ Leah Carter, Khoa Cấp cứu, viết cho bản tin nhân viên Bệnh viện Sunset Bay\n(3) Ba tháng qua, tôi là một trong hai mươi bác sĩ thử nghiệm một trợ lý ghi chép bằng AI. Khi bệnh nhân cho phép, một ứng dụng nhỏ trên điện thoại của tôi sẽ nghe cuộc trò chuyện của chúng tôi và, tới lúc tôi rời phòng, đã viết xong bản nháp ghi chép của tôi.\n(4) Mấy năm gần đây, nhiều bệnh viện đã bắt đầu thử những công cụ kiểu này, và tôi muốn góp tiếng vào cuộc tranh luận trước khi chúng ta quyết định có dùng nó ở mọi khoa hay không.\n(5) Lợi ích là có thật. Trước đợt thử nghiệm, thời gian tôi gõ máy gần bằng thời gian nói chuyện với bệnh nhân. Giờ tôi nhìn người trước mặt mình chứ không nhìn màn hình, và vào một đêm đông bệnh nhân, công cụ này giúp tôi tiết kiệm gần một tiếng.\n(6) Nếu không có nó, tuần trước tôi đã chẳng quay lại ngồi với một ông cụ đang sợ hãi và một mình. Một tiếng ấy rất quan trọng.\n(7) Nhược điểm cũng có thật không kém. Công cụ này không có tri giác, và nó không hiểu gì cả; nó đoán chữ. Hai lần nó ghi rằng bệnh nhân phủ nhận đau ngực trong khi chúng tôi chưa hề bàn tới chuyện đau ngực.\n(8) Cả hai lần tôi đều phát hiện ra lỗi, nhưng chỉ vì tôi đọc từng dòng. Vào một đêm kiệt sức, có lẽ tôi đã không phát hiện ra. Mối nguy không nằm ở chỗ cỗ máy mắc lỗi; mà ở chỗ nó viết lỗi trơn tru đến thế, như thể nó đã nghe thấy từng chữ.\n(9) Cộng dồn qua hàng nghìn lượt khám, ngay cả một tỉ lệ nhỏ những lỗi như vậy cũng có thể làm hỏng tính toàn vẹn của hồ sơ bệnh án.\n(10) Rồi còn chuyện đồng ý. Phần lớn bệnh nhân nói có, nhưng tôi không tin chắc tất cả họ hiểu mình đang đồng ý với điều gì. Dì Megan của tôi, một điều dưỡng trong khoa, nhắc tôi rằng một bệnh nhân đang đau và nói được ít tiếng Anh thì khó mà ở thế từ chối bất cứ điều gì bác sĩ đề nghị.\n(11) Sự đồng ý đưa ra trong hoàn cảnh đó không thể gọi là tự nguyện theo nghĩa thật sự.\n(12) Vậy quan điểm của tôi là gì? Tôi sẽ giữ công cụ này, nhưng chỉ với bốn quy tắc. Mọi bệnh nhân đều được hỏi bằng lời dễ hiểu, bằng ngôn ngữ của họ, và nói không cũng dễ như nói có. Bác sĩ đọc mọi ghi chép trước khi ký, vì chữ ký chứ không phải phần mềm mới là thứ chịu trách nhiệm.\n(13) Bản ghi âm bị xoá ngay khi ghi chép được duyệt. Và chúng ta rà soát lỗi hằng tháng, công khai, thay vì tin đội bán hàng, những người mà nghe họ nói thì ta sẽ tưởng công cụ này chẳng bao giờ sai.\n(14) Không quy tắc nào trong số này phức tạp. Gộp lại, chúng giữ cho bác sĩ, chứ không phải cỗ máy, là người nắm quyền.\n(15) Một cỗ máy biết nghe có thể trả lại cho chúng ta thời gian để tự mình lắng nghe. Nó không bao giờ nên trở thành lý do để ta thôi lắng nghe.",
+      "word_count": 466,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.045",
+        "c1.046",
+        "c1.047",
+        "c1.048"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1112_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "Why did Nathan think he was prepared to lead his new team?",
+        "vi": "Vì sao Nathan tưởng mình đã sẵn sàng dẫn dắt nhóm mới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he had read articles about working across cultures",
+            "vi": "vì anh đã đọc các bài viết về làm việc đa văn hoá"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because he had read articles about working across cultures",
+          "text_translation": "vì anh đã đọc các bài viết về làm việc đa văn hoá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he had lived in Lisbon",
+            "vi": "vì anh từng sống ở Lisbon"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he had lived in Lisbon",
+          "text_translation": "vì anh từng sống ở Lisbon"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the team was small",
+            "vi": "vì nhóm nhỏ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the team was small",
+          "text_translation": "vì nhóm nhỏ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he had led the team before",
+            "vi": "vì anh từng dẫn dắt nhóm này"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because he had led the team before",
+          "text_translation": "vì anh từng dẫn dắt nhóm này"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I had read the articles about working across cultures, and I thought I was prepared.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Nathan think he was prepared to lead his new team?",
+      "question_vn": "Vì sao Nathan tưởng mình đã sẵn sàng dẫn dắt nhóm mới?",
+      "explanation": "\"I had read the articles about working across cultures, and I thought I was prepared.\""
+    },
+    {
+      "id": "q_u1112_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What mistake did Nathan make in the weekly meetings?",
+        "vi": "Nathan đã mắc sai lầm gì trong các cuộc họp hằng tuần?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He did not ask for objections.",
+            "vi": "Anh không hỏi ý kiến phản đối."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He did not ask for objections.",
+          "text_translation": "Anh không hỏi ý kiến phản đối."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He talked too quickly.",
+            "vi": "Anh nói quá nhanh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He talked too quickly.",
+          "text_translation": "Anh nói quá nhanh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He held meetings too often.",
+            "vi": "Anh họp quá thường xuyên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He held meetings too often.",
+          "text_translation": "Anh họp quá thường xuyên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He assumed that silence meant everyone agreed.",
+            "vi": "Anh mặc định im lặng nghĩa là ai cũng đồng ý."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He assumed that silence meant everyone agreed.",
+          "text_translation": "Anh mặc định im lặng nghĩa là ai cũng đồng ý."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Usually there was silence, and I took silence to mean that everyone concurred.\""
+      },
+      "audio_data": null,
+      "question_jp": "What mistake did Nathan make in the weekly meetings?",
+      "question_vn": "Nathan đã mắc sai lầm gì trong các cuộc họp hằng tuần?",
+      "explanation": "\"Usually there was silence, and I took silence to mean that everyone concurred.\""
+    },
+    {
+      "id": "q_u1112_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What was the cost of Nathan's misunderstanding?",
+        "vi": "Sự hiểu lầm của Nathan gây ra hậu quả gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Greg left the team.",
+            "vi": "Greg rời nhóm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Greg left the team.",
+          "text_translation": "Greg rời nhóm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The team lost three weeks on a plan that would not work.",
+            "vi": "Nhóm mất ba tuần cho một kế hoạch không thành."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The team lost three weeks on a plan that would not work.",
+          "text_translation": "Nhóm mất ba tuần cho một kế hoạch không thành."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The project was cancelled.",
+            "vi": "Dự án bị huỷ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The project was cancelled.",
+          "text_translation": "Dự án bị huỷ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tomás was angry.",
+            "vi": "Tomás tức giận."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tomás was angry.",
+          "text_translation": "Tomás tức giận."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"He was right. We had lost three weeks.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was the cost of Nathan's misunderstanding?",
+      "question_vn": "Sự hiểu lầm của Nathan gây ra hậu quả gì?",
+      "explanation": "\"He was right. We had lost three weeks.\""
+    },
+    {
+      "id": "q_u1112_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "Why had Greg said nothing in the meeting?",
+        "vi": "Vì sao Greg không nói gì trong cuộc họp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He did not understand the plan.",
+            "vi": "Anh không hiểu kế hoạch."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He did not understand the plan.",
+          "text_translation": "Anh không hiểu kế hoạch."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He was not at the meeting.",
+            "vi": "Anh không dự họp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He was not at the meeting.",
+          "text_translation": "Anh không dự họp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He felt it was not his place to question the team lead in front of others, and preferred to raise doubts privately.",
+            "vi": "Anh thấy mình không có tư cách chất vấn trưởng nhóm trước mặt người khác, và thích nêu băn khoăn riêng tư."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He felt it was not his place to question the team lead in front of others, and preferred to raise doubts privately.",
+          "text_translation": "Anh thấy mình không có tư cách chất vấn trưởng nhóm trước mặt người khác, và thích nêu băn khoăn riêng tư."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He agreed with the plan at first.",
+            "vi": "Lúc đầu anh đồng ý với kế hoạch."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He agreed with the plan at first.",
+          "text_translation": "Lúc đầu anh đồng ý với kế hoạch."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"he did not feel it was his place to question the team lead in front of eight other people\" và \"you raised doubts privately, with tact\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why had Greg said nothing in the meeting?",
+      "question_vn": "Vì sao Greg không nói gì trong cuộc họp?",
+      "explanation": "\"he did not feel it was his place to question the team lead in front of eight other people\" và \"you raised doubts privately, with tact\"."
+    },
+    {
+      "id": "q_u1112_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "Why does Nathan mention where Tomás and Greg come from?",
+        "vi": "Vì sao Nathan nhắc tới nơi Tomás và Greg xuất thân?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that their styles were the opposite of what a stereotype about their countries might predict",
+            "vi": "để cho thấy cách của họ ngược hẳn với điều mà định kiến về đất nước họ có thể đoán"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that their styles were the opposite of what a stereotype about their countries might predict",
+          "text_translation": "để cho thấy cách của họ ngược hẳn với điều mà định kiến về đất nước họ có thể đoán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to suggest that people from Lisbon are rude",
+            "vi": "để gợi ý người Lisbon thô lỗ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to suggest that people from Lisbon are rude",
+          "text_translation": "để gợi ý người Lisbon thô lỗ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain why Greg should move",
+            "vi": "để giải thích vì sao Greg nên chuyển đi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain why Greg should move",
+          "text_translation": "để giải thích vì sao Greg nên chuyển đi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to praise San Diego",
+            "vi": "để khen San Diego"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to praise San Diego",
+          "text_translation": "để khen San Diego"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng. Người thẳng tính nhất ở Lisbon, người ít nói nhất \"grew up twenty minutes from my house in San Diego\". Ví dụ này phá vỡ lối nghĩ theo quốc tịch."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Nathan mention where Tomás and Greg come from?",
+      "question_vn": "Vì sao Nathan nhắc tới nơi Tomás và Greg xuất thân?",
+      "explanation": "Câu suy luận về chức năng. Người thẳng tính nhất ở Lisbon, người ít nói nhất \"grew up twenty minutes from my house in San Diego\". Ví dụ này phá vỡ lối nghĩ theo quốc tịch."
+    },
+    {
+      "id": "q_u1112_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "According to Nathan, what does the way a person disagrees depend on?",
+        "vi": "Theo Nathan, cách một người bày tỏ sự không đồng ý phụ thuộc vào điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "only the country where they were born",
+            "vi": "chỉ đất nước nơi họ sinh ra"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "only the country where they were born",
+          "text_translation": "chỉ đất nước nơi họ sinh ra"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "only their age",
+            "vi": "chỉ tuổi tác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "only their age",
+          "text_translation": "chỉ tuổi tác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "their family, personality and past teams, at least as much as their birthplace",
+            "vi": "gia đình, tính cách và các nhóm cũ, ít nhất cũng nhiều như nơi sinh"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "their family, personality and past teams, at least as much as their birthplace",
+          "text_translation": "gia đình, tính cách và các nhóm cũ, ít nhất cũng nhiều như nơi sinh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the time zone they live in",
+            "vi": "múi giờ họ sống"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the time zone they live in",
+          "text_translation": "múi giờ họ sống"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"depend at least as much on their family, their personality and the teams they have worked in as on where they were born.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Nathan, what does the way a person disagrees depend on?",
+      "question_vn": "Theo Nathan, cách một người bày tỏ sự không đồng ý phụ thuộc vào điều gì?",
+      "explanation": "\"depend at least as much on their family, their personality and the teams they have worked in as on where they were born.\""
+    },
+    {
+      "id": "q_u1112_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What is Nathan's position on culture in the paragraph that begins \"That does not mean\"?",
+        "vi": "Trong đoạn bắt đầu bằng \"That does not mean\", Nathan nhìn nhận văn hoá thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Culture has no influence at all.",
+            "vi": "Văn hoá không có ảnh hưởng gì."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Culture has no influence at all.",
+          "text_translation": "Văn hoá không có ảnh hưởng gì."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Culture explains everything.",
+            "vi": "Văn hoá giải thích mọi thứ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Culture explains everything.",
+          "text_translation": "Văn hoá giải thích mọi thứ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Culture should not be discussed at work.",
+            "vi": "Không nên bàn văn hoá ở chỗ làm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Culture should not be discussed at work.",
+          "text_translation": "Không nên bàn văn hoá ở chỗ làm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Culture matters, but it cannot be used as a reliable shortcut to understand an individual.",
+            "vi": "Văn hoá có ý nghĩa, nhưng không thể dùng làm lối tắt đáng tin để hiểu một cá nhân."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Culture matters, but it cannot be used as a reliable shortcut to understand an individual.",
+          "text_translation": "Văn hoá có ý nghĩa, nhưng không thể dùng làm lối tắt đáng tin để hiểu một cá nhân."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi lập luận. \"That does not mean that culture is irrelevant. It means that it is by no means a reliable shortcut.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Nathan's position on culture in the paragraph that begins \"That does not mean\"?",
+      "question_vn": "Trong đoạn bắt đầu bằng \"That does not mean\", Nathan nhìn nhận văn hoá thế nào?",
+      "explanation": "Câu hỏi lập luận. \"That does not mean that culture is irrelevant. It means that it is by no means a reliable shortcut.\""
+    },
+    {
+      "id": "q_u1112_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What is the purpose of the three questions at the start of each project?",
+        "vi": "Ba câu hỏi đầu mỗi dự án nhằm mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to test the engineers' English",
+            "vi": "để kiểm tra tiếng Anh của kỹ sư"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to test the engineers' English",
+          "text_translation": "để kiểm tra tiếng Anh của kỹ sư"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to learn each person's own preferences instead of guessing them",
+            "vi": "để biết thói quen riêng của từng người thay vì đoán"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to learn each person's own preferences instead of guessing them",
+          "text_translation": "để biết thói quen riêng của từng người thay vì đoán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to choose a new team lead",
+            "vi": "để chọn trưởng nhóm mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to choose a new team lead",
+          "text_translation": "để chọn trưởng nhóm mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to reduce the number of meetings",
+            "vi": "để giảm số cuộc họp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to reduce the number of meetings",
+          "text_translation": "để giảm số cuộc họp"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Các câu hỏi như \"How do you prefer to disagree?\" giúp hỏi thẳng từng người, thay cho cách đoán theo quốc tịch mà Nathan vừa bác bỏ."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the three questions at the start of each project?",
+      "question_vn": "Ba câu hỏi đầu mỗi dự án nhằm mục đích gì?",
+      "explanation": "Câu suy luận. Các câu hỏi như \"How do you prefer to disagree?\" giúp hỏi thẳng từng người, thay cho cách đoán theo quốc tịch mà Nathan vừa bác bỏ."
+    },
+    {
+      "id": "q_u1112_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "Why does asking each person for \"one risk they can see\" work better than \"Any objections?\"?",
+        "vi": "Vì sao hỏi từng người về \"một rủi ro mà họ thấy\" hiệu quả hơn \"Có ai phản đối không?\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It makes raising a doubt a normal part of the job, not a challenge to the boss.",
+            "vi": "Nó biến việc nêu băn khoăn thành phần bình thường của công việc, không phải thách thức sếp."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It makes raising a doubt a normal part of the job, not a challenge to the boss.",
+          "text_translation": "Nó biến việc nêu băn khoăn thành phần bình thường của công việc, không phải thách thức sếp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It makes meetings shorter.",
+            "vi": "Nó làm cuộc họp ngắn hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It makes meetings shorter.",
+          "text_translation": "Nó làm cuộc họp ngắn hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It allows Nathan to decide alone.",
+            "vi": "Nó cho Nathan tự quyết một mình."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It allows Nathan to decide alone.",
+          "text_translation": "Nó cho Nathan tự quyết một mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It stops Tomás from speaking.",
+            "vi": "Nó khiến Tomás thôi nói."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It stops Tomás from speaking.",
+          "text_translation": "Nó khiến Tomás thôi nói."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"which makes raising a doubt part of the job rather than a challenge to the boss.\" Điều này giải đúng lý do Greg im lặng."
+      },
+      "audio_data": null,
+      "question_jp": "Why does asking each person for \"one risk they can see\" work better than \"Any objections?\"?",
+      "question_vn": "Vì sao hỏi từng người về \"một rủi ro mà họ thấy\" hiệu quả hơn \"Có ai phản đối không?\"?",
+      "explanation": "\"which makes raising a doubt part of the job rather than a challenge to the boss.\" Điều này giải đúng lý do Greg im lặng."
+    },
+    {
+      "id": "q_u1112_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What does Nathan's final sentence imply?",
+        "vi": "Câu cuối của Nathan hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The meetings are now completely silent.",
+            "vi": "Các cuộc họp giờ hoàn toàn im lặng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The meetings are now completely silent.",
+          "text_translation": "Các cuộc họp giờ hoàn toàn im lặng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The new method has stopped silence from being mistaken for agreement.",
+            "vi": "Cách làm mới đã chấm dứt việc im lặng bị hiểu nhầm là đồng ý."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The new method has stopped silence from being mistaken for agreement.",
+          "text_translation": "Cách làm mới đã chấm dứt việc im lặng bị hiểu nhầm là đồng ý."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He no longer listens to his team.",
+            "vi": "Anh không còn nghe nhóm mình."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He no longer listens to his team.",
+          "text_translation": "Anh không còn nghe nhóm mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The team has stopped disagreeing.",
+            "vi": "Nhóm đã thôi bất đồng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The team has stopped disagreeing.",
+          "text_translation": "Nhóm đã thôi bất đồng."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"I cannot remember a single silence in our meetings since then that turned out to mean yes.\" Vấn đề ban đầu đã được giải quyết, dù cách làm \"far from perfect\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Nathan's final sentence imply?",
+      "question_vn": "Câu cuối của Nathan hàm ý gì?",
+      "explanation": "Câu hàm ý. \"I cannot remember a single silence in our meetings since then that turned out to mean yes.\" Vấn đề ban đầu đã được giải quyết, dù cách làm \"far from perfect\"."
+    },
+    {
+      "id": "q_u1112_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What does the AI note-taker do?",
+        "vi": "Trợ lý ghi chép AI làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It examines patients.",
+            "vi": "Nó khám bệnh nhân."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It examines patients.",
+          "text_translation": "Nó khám bệnh nhân."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It decides on treatment.",
+            "vi": "Nó quyết định cách điều trị."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It decides on treatment.",
+          "text_translation": "Nó quyết định cách điều trị."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "With permission, it listens to the conversation and writes a draft of the doctor's notes.",
+            "vi": "Khi được cho phép, nó nghe cuộc trò chuyện và viết bản nháp ghi chép cho bác sĩ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "With permission, it listens to the conversation and writes a draft of the doctor's notes.",
+          "text_translation": "Khi được cho phép, nó nghe cuộc trò chuyện và viết bản nháp ghi chép cho bác sĩ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It translates for patients.",
+            "vi": "Nó phiên dịch cho bệnh nhân."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It translates for patients.",
+          "text_translation": "Nó phiên dịch cho bệnh nhân."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"a small app on my phone listens to our conversation and, by the time I leave the room, has written a draft of my notes.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the AI note-taker do?",
+      "question_vn": "Trợ lý ghi chép AI làm gì?",
+      "explanation": "\"a small app on my phone listens to our conversation and, by the time I leave the room, has written a draft of my notes.\""
+    },
+    {
+      "id": "q_u1112_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What is the main benefit of the tool, according to Leah?",
+        "vi": "Theo Leah, lợi ích chính của công cụ là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It makes fewer mistakes than doctors.",
+            "vi": "Nó ít sai hơn bác sĩ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It makes fewer mistakes than doctors.",
+          "text_translation": "Nó ít sai hơn bác sĩ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It gives her more time and attention for patients instead of typing.",
+            "vi": "Nó cho cô thêm thời gian và sự chú ý dành cho bệnh nhân thay vì gõ máy."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It gives her more time and attention for patients instead of typing.",
+          "text_translation": "Nó cho cô thêm thời gian và sự chú ý dành cho bệnh nhân thay vì gõ máy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is cheaper than nurses.",
+            "vi": "Nó rẻ hơn điều dưỡng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is cheaper than nurses.",
+          "text_translation": "Nó rẻ hơn điều dưỡng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It replaces the need to read notes.",
+            "vi": "Nó khiến không cần đọc ghi chép nữa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It replaces the need to read notes.",
+          "text_translation": "Nó khiến không cần đọc ghi chép nữa."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Now I look at the person in front of me, not at a screen, and on a busy night the tool saves me close to an hour.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main benefit of the tool, according to Leah?",
+      "question_vn": "Theo Leah, lợi ích chính của công cụ là gì?",
+      "explanation": "\"Now I look at the person in front of me, not at a screen, and on a busy night the tool saves me close to an hour.\""
+    },
+    {
+      "id": "q_u1112_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What does the sentence \"Without it, I would not have gone back to sit with an elderly man\" show?",
+        "vi": "Câu \"Nếu không có nó, tuần trước tôi đã chẳng quay lại ngồi với một ông cụ\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The elderly man did not need help.",
+            "vi": "Ông cụ không cần giúp."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The elderly man did not need help.",
+          "text_translation": "Ông cụ không cần giúp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah dislikes the tool.",
+            "vi": "Leah ghét công cụ này."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leah dislikes the tool.",
+          "text_translation": "Leah ghét công cụ này."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The tool talked to the man.",
+            "vi": "Công cụ nói chuyện với ông cụ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The tool talked to the man.",
+          "text_translation": "Công cụ nói chuyện với ông cụ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The time saved allowed Leah to give a patient human comfort.",
+            "vi": "Thời gian tiết kiệm được giúp Leah dành cho bệnh nhân sự an ủi của con người."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The time saved allowed Leah to give a patient human comfort.",
+          "text_translation": "Thời gian tiết kiệm được giúp Leah dành cho bệnh nhân sự an ủi của con người."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý (điều kiện ẩn: Without it = If I had not had it). Thời gian rảnh ra được dùng cho việc chỉ con người làm được: \"That hour matters.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the sentence \"Without it, I would not have gone back to sit with an elderly man\" show?",
+      "question_vn": "Câu \"Nếu không có nó, tuần trước tôi đã chẳng quay lại ngồi với một ông cụ\" cho thấy điều gì?",
+      "explanation": "Câu hàm ý (điều kiện ẩn: Without it = If I had not had it). Thời gian rảnh ra được dùng cho việc chỉ con người làm được: \"That hour matters.\""
+    },
+    {
+      "id": "q_u1112_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Why does Leah say the tool is \"not sentient\"?",
+        "vi": "Vì sao Leah nói công cụ \"không có tri giác\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to explain that it predicts words without understanding, which is why it can invent things",
+            "vi": "để giải thích nó đoán chữ mà không hiểu, vì vậy nó có thể bịa ra điều không có"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to explain that it predicts words without understanding, which is why it can invent things",
+          "text_translation": "để giải thích nó đoán chữ mà không hiểu, vì vậy nó có thể bịa ra điều không có"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to say it is broken",
+            "vi": "để nói nó bị hỏng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to say it is broken",
+          "text_translation": "để nói nó bị hỏng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that it is better than humans",
+            "vi": "để cho thấy nó giỏi hơn người"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to show that it is better than humans",
+          "text_translation": "để cho thấy nó giỏi hơn người"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to complain about its price",
+            "vi": "để phàn nàn về giá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to complain about its price",
+          "text_translation": "để phàn nàn về giá"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"it does not understand anything; it predicts words.\" Ngay sau đó là ví dụ nó ghi về đau ngực dù chưa hề bàn tới."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah say the tool is \"not sentient\"?",
+      "question_vn": "Vì sao Leah nói công cụ \"không có tri giác\"?",
+      "explanation": "\"it does not understand anything; it predicts words.\" Ngay sau đó là ví dụ nó ghi về đau ngực dù chưa hề bàn tới."
+    },
+    {
+      "id": "q_u1112_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "According to Leah, what is the real danger of the tool's mistakes?",
+        "vi": "Theo Leah, mối nguy thật sự từ lỗi của công cụ là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are rare.",
+            "vi": "Chúng hiếm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are rare.",
+          "text_translation": "Chúng hiếm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are always about chest pain.",
+            "vi": "Chúng luôn về đau ngực."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are always about chest pain.",
+          "text_translation": "Chúng luôn về đau ngực."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They are written so smoothly that a tired doctor might believe them.",
+            "vi": "Chúng được viết trơn tru tới mức một bác sĩ mệt mỏi có thể tin."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They are written so smoothly that a tired doctor might believe them.",
+          "text_translation": "Chúng được viết trơn tru tới mức một bác sĩ mệt mỏi có thể tin."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are easy to notice.",
+            "vi": "Chúng dễ thấy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are easy to notice.",
+          "text_translation": "Chúng dễ thấy."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"The danger is not that the machine makes errors; it is that it writes them so smoothly, as though it had heard every word.\" Và \"On a night when I was exhausted, I might not have.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Leah, what is the real danger of the tool's mistakes?",
+      "question_vn": "Theo Leah, mối nguy thật sự từ lỗi của công cụ là gì?",
+      "explanation": "\"The danger is not that the machine makes errors; it is that it writes them so smoothly, as though it had heard every word.\" Và \"On a night when I was exhausted, I might not have.\""
+    },
+    {
+      "id": "q_u1112_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What point does Megan help Leah to make about consent?",
+        "vi": "Megan giúp Leah nêu ý gì về sự đồng ý?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Patients always understand the tool.",
+            "vi": "Bệnh nhân luôn hiểu công cụ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Patients always understand the tool.",
+          "text_translation": "Bệnh nhân luôn hiểu công cụ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nurses should decide for patients.",
+            "vi": "Điều dưỡng nên quyết định thay bệnh nhân."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nurses should decide for patients.",
+          "text_translation": "Điều dưỡng nên quyết định thay bệnh nhân."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Only English speakers should be asked.",
+            "vi": "Chỉ hỏi người nói tiếng Anh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Only English speakers should be asked.",
+          "text_translation": "Chỉ hỏi người nói tiếng Anh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A patient in pain with little English may not feel free to refuse, so their \"yes\" may not be real consent.",
+            "vi": "Một bệnh nhân đang đau, ít tiếng Anh có thể không thấy mình được tự do từ chối, nên cái \"có\" của họ có thể không phải đồng ý thật."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A patient in pain with little English may not feel free to refuse, so their \"yes\" may not be real consent.",
+          "text_translation": "Một bệnh nhân đang đau, ít tiếng Anh có thể không thấy mình được tự do từ chối, nên cái \"có\" của họ có thể không phải đồng ý thật."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"a patient in pain who speaks little English is hardly in a position to refuse anything a doctor suggests.\""
+      },
+      "audio_data": null,
+      "question_jp": "What point does Megan help Leah to make about consent?",
+      "question_vn": "Megan giúp Leah nêu ý gì về sự đồng ý?",
+      "explanation": "\"a patient in pain who speaks little English is hardly in a position to refuse anything a doctor suggests.\""
+    },
+    {
+      "id": "q_u1112_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Why must the doctor read every note before signing it?",
+        "vi": "Vì sao bác sĩ phải đọc mọi ghi chép trước khi ký?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the software is too slow",
+            "vi": "vì phần mềm quá chậm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the software is too slow",
+          "text_translation": "vì phần mềm quá chậm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the doctor's signature, not the software, carries the responsibility",
+            "vi": "vì chữ ký của bác sĩ, chứ không phải phần mềm, chịu trách nhiệm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because the doctor's signature, not the software, carries the responsibility",
+          "text_translation": "vì chữ ký của bác sĩ, chứ không phải phần mềm, chịu trách nhiệm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because patients ask for it",
+            "vi": "vì bệnh nhân yêu cầu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because patients ask for it",
+          "text_translation": "vì bệnh nhân yêu cầu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because recordings are erased",
+            "vi": "vì bản ghi âm bị xoá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because recordings are erased",
+          "text_translation": "vì bản ghi âm bị xoá"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"because the signature, not the software, carries the responsibility.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why must the doctor read every note before signing it?",
+      "question_vn": "Vì sao bác sĩ phải đọc mọi ghi chép trước khi ký?",
+      "explanation": "\"because the signature, not the software, carries the responsibility.\""
+    },
+    {
+      "id": "q_u1112_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What is Leah's attitude towards the sales team?",
+        "vi": "Thái độ của Leah với đội bán hàng là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "doubtful of their claims",
+            "vi": "hoài nghi những gì họ tuyên bố"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "doubtful of their claims",
+          "text_translation": "hoài nghi những gì họ tuyên bố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "grateful",
+            "vi": "biết ơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "grateful",
+          "text_translation": "biết ơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "completely trusting",
+            "vi": "hoàn toàn tin tưởng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "completely trusting",
+          "text_translation": "hoàn toàn tin tưởng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "indifferent",
+            "vi": "thờ ơ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "indifferent",
+          "text_translation": "thờ ơ"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. \"to hear them talk, would have you believe the tool never makes any\" là giọng mỉa nhẹ; cô muốn rà lỗi \"openly, instead of trusting the sales team\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is Leah's attitude towards the sales team?",
+      "question_vn": "Thái độ của Leah với đội bán hàng là gì?",
+      "explanation": "Câu hỏi thái độ. \"to hear them talk, would have you believe the tool never makes any\" là giọng mỉa nhẹ; cô muốn rà lỗi \"openly, instead of trusting the sales team\"."
+    },
+    {
+      "id": "q_u1112_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What is the meaning of the final two sentences?",
+        "vi": "Hai câu cuối có nghĩa gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Machines should replace doctors.",
+            "vi": "Máy nên thay bác sĩ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Machines should replace doctors.",
+          "text_translation": "Máy nên thay bác sĩ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The tool should be removed.",
+            "vi": "Nên bỏ công cụ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The tool should be removed.",
+          "text_translation": "Nên bỏ công cụ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Doctors should talk less.",
+            "vi": "Bác sĩ nên nói ít hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Doctors should talk less.",
+          "text_translation": "Bác sĩ nên nói ít hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The tool is valuable only if the time it saves is used to listen to patients more, not less.",
+            "vi": "Công cụ chỉ có giá trị nếu thời gian nó tiết kiệm được dùng để nghe bệnh nhân nhiều hơn, chứ không ít đi."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The tool is valuable only if the time it saves is used to listen to patients more, not less.",
+          "text_translation": "Công cụ chỉ có giá trị nếu thời gian nó tiết kiệm được dùng để nghe bệnh nhân nhiều hơn, chứ không ít đi."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"can give us back the time to listen ourselves. It should never become a reason to stop.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the meaning of the final two sentences?",
+      "question_vn": "Hai câu cuối có nghĩa gì?",
+      "explanation": "Câu hàm ý. \"can give us back the time to listen ourselves. It should never become a reason to stop.\""
+    },
+    {
+      "id": "q_u1112_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Use both texts. What do Nathan and Leah both argue?",
+        "vi": "Dựa vào cả hai bài. Nathan và Leah đều lập luận điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Technology should not be used at work.",
+            "vi": "Không nên dùng công nghệ ở chỗ làm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Technology should not be used at work.",
+          "text_translation": "Không nên dùng công nghệ ở chỗ làm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leaders should make decisions alone.",
+            "vi": "Người lãnh đạo nên tự quyết một mình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leaders should make decisions alone.",
+          "text_translation": "Người lãnh đạo nên tự quyết một mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Silence or a quick \"yes\" should not be taken as real agreement; people must be asked in a way that makes refusing easy.",
+            "vi": "Không nên coi im lặng hay một cái \"có\" vội là đồng ý thật; phải hỏi theo cách khiến việc từ chối trở nên dễ dàng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Silence or a quick \"yes\" should not be taken as real agreement; people must be asked in a way that makes refusing easy.",
+          "text_translation": "Không nên coi im lặng hay một cái \"có\" vội là đồng ý thật; phải hỏi theo cách khiến việc từ chối trở nên dễ dàng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Patients and engineers have the same problems.",
+            "vi": "Bệnh nhân và kỹ sư có cùng vấn đề."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Patients and engineers have the same problems.",
+          "text_translation": "Bệnh nhân và kỹ sư có cùng vấn đề."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Nathan thôi coi im lặng là đồng ý và hỏi đích danh từng người; Leah đòi \"saying no is as easy as saying yes\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Nathan and Leah both argue?",
+      "question_vn": "Dựa vào cả hai bài. Nathan và Leah đều lập luận điều gì?",
+      "explanation": "Câu nối hai bài. Nathan thôi coi im lặng là đồng ý và hỏi đích danh từng người; Leah đòi \"saying no is as easy as saying yes\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1112_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 11) — Blog Nathan: khác biệt giao tiếp trong một nhóm ba thành phố",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1112_01",
+      "question_ids": [
+        "q_u1112_001",
+        "q_u1112_002",
+        "q_u1112_003",
+        "q_u1112_004",
+        "q_u1112_005",
+        "q_u1112_006",
+        "q_u1112_007",
+        "q_u1112_008",
+        "q_u1112_009",
+        "q_u1112_010"
+      ]
+    },
+    {
+      "set_id": "set_u1112_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 12) — Bài quan điểm của Leah về AI ghi chép trong phòng khám",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1112_02",
+      "question_ids": [
+        "q_u1112_011",
+        "q_u1112_012",
+        "q_u1112_013",
+        "q_u1112_014",
+        "q_u1112_015",
+        "q_u1112_016",
+        "q_u1112_017",
+        "q_u1112_018",
+        "q_u1112_019",
+        "q_u1112_020"
+      ]
+    }
+  ]
+}
