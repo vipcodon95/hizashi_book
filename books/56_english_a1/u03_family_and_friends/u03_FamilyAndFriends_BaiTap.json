@@ -1,0 +1,1205 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 3 — Family and friends",
+      "vi": "Gia đình, bạn bè"
+    },
+    "title": "Unit 3 — Family and friends",
+    "title_vn": "Gia đình, bạn bè",
+    "module_code": "56_u03",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u03",
+    "curriculum_sheets": [
+      "a1.09",
+      "a1.10",
+      "a1.11",
+      "a1.12"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Nathan Brooks",
+      "Helena Brooks",
+      "Amy Brooks",
+      "Leah Carter",
+      "Chloe Bennett",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9, năm 1 — vài ngày sau vụ Biscuit trốn ra ngoài"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Quan hệ gia đình, 's sở hữu, câu trả lời ngắn",
+    "description_vn": "Album gia đình của bà Harriet và tin nhắn Leah giới thiệu Chloe. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 3 khoá A1 · phiếu `a1.09` – `a1.12` (gia đình, miêu tả người quen, họ hàng, giới thiệu bạn)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một trang album và một đoạn tin nhắn; hiểu quan hệ gia đình (con trai, vợ, chú, em họ), dấu 's sở hữu, và câu trả lời ngắn Yes/No."
+    },
+    "vocab": [
+      "son",
+      "wife",
+      "daughter",
+      "uncle",
+      "cousin",
+      "grandma",
+      "neighbor",
+      "kid",
+      "funny",
+      "smart",
+      "shy",
+      "kind",
+      "clever",
+      "friendly",
+      "best",
+      "album",
+      "together",
+      "boyfriend",
+      "family"
+    ],
+    "extra_words": [
+      {
+        "word": "waitress",
+        "i18n": {
+          "vi": "nữ phục vụ (quán ăn, quán cà phê)"
+        }
+      },
+      {
+        "word": "café",
+        "i18n": {
+          "vi": "quán cà phê"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "best friend",
+          "vi": "bạn thân nhất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a little shy",
+          "vi": "hơi nhút nhát"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Have you got …?",
+          "vi": "Bạn có … không?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "No, I'm not.",
+          "vi": "Không phải."
+        }
+      },
+      {
+        "i18n": {
+          "en": "Thanks for your help",
+          "vi": "cảm ơn vì đã giúp"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu hỏi về quan hệ gia đình: xác định **người nói là ai** trước (my son = con trai của người viết)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Dấu **'s** nghĩa là \"của\": `Nathan's wife` = vợ của Nathan. Đề hay đổi chiều để đánh lừa: `Nathan's wife` là Helena, còn `Helena's husband` mới là Nathan."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu trả lời ngắn (`No, I'm not.` / `Yes, she has.`) phải đọc cùng câu hỏi đứng ngay trước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Gặp nhiều số tuổi trong bài, ghi nhanh tên bên cạnh từng số."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u03_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Album gia đình của bà Harriet"
+      },
+      "title": "Harriet's Family Album",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 60,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's Family Album",
+            "vi": "Album gia đình của bà Harriet"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This is my family album.",
+            "vi": "Đây là album gia đình của tôi."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Have you got a family album, too?",
+            "vi": "Bạn cũng có album gia đình chứ?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "1.",
+          "i18n": {
+            "en": "This is my son, Nathan.",
+            "vi": "Đây là con trai tôi, Nathan."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He is thirty-four.",
+            "vi": "Nó ba mươi tư tuổi."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He is a funny man, and he is very smart.",
+            "vi": "Nó là người vui tính, và rất thông minh."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "2.",
+          "i18n": {
+            "en": "This is Nathan's wife, Helena.",
+            "vi": "Đây là vợ của Nathan, Helena."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She is a little shy, but she is very kind and clever.",
+            "vi": "Helena hơi nhút nhát, nhưng rất tốt bụng và khéo léo."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "3.",
+          "i18n": {
+            "en": "And this is their daughter, Amy.",
+            "vi": "Còn đây là con gái của hai đứa, Amy."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She is four.",
+            "vi": "Con bé bốn tuổi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Amy and Tina Carter are best friends.",
+            "vi": "Amy và Tina Carter là bạn thân nhất của nhau."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina is seven and Amy is four, but they are together a lot!",
+            "vi": "Tina bảy tuổi còn Amy bốn tuổi, nhưng hai đứa suốt ngày chơi với nhau!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They are funny kids.",
+            "vi": "Hai đứa nhóc vui tính lắm."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am Amy's grandma, and the Carters are my neighbors and my good friends.",
+            "vi": "Tôi là bà nội của Amy, còn nhà Carter là hàng xóm và cũng là bạn tốt của tôi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          }
+        }
+      ],
+      "content_ja": "Harriet's Family Album\n\nThis is my family album. Have you got a family album, too?\n\n1. This is my son, Nathan. He is thirty-four. He is a funny man, and he is very smart.\n\n2. This is Nathan's wife, Helena. She is a little shy, but she is very kind and clever.\n\n3. And this is their daughter, Amy. She is four. Amy and Tina Carter are best friends. Tina is seven and Amy is four, but they are together a lot! They are funny kids.\n\nI am Amy's grandma, and the Carters are my neighbors and my good friends.\n\nHarriet",
+      "translation_vn": "(1) Album gia đình của bà Harriet\n(2) Đây là album gia đình của tôi.\n(3) Bạn cũng có album gia đình chứ?\n(4) Đây là con trai tôi, Nathan.\n(5) Nó ba mươi tư tuổi.\n(6) Nó là người vui tính, và rất thông minh.\n(7) Đây là vợ của Nathan, Helena.\n(8) Helena hơi nhút nhát, nhưng rất tốt bụng và khéo léo.\n(9) Còn đây là con gái của hai đứa, Amy.\n(10) Con bé bốn tuổi.\n(11) Amy và Tina Carter là bạn thân nhất của nhau.\n(12) Tina bảy tuổi còn Amy bốn tuổi, nhưng hai đứa suốt ngày chơi với nhau!\n(13) Hai đứa nhóc vui tính lắm.\n(14) Tôi là bà nội của Amy, còn nhà Carter là hàng xóm và cũng là bạn tốt của tôi.\n(15) Harriet",
+      "word_count": 99,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.09",
+        "a1.10",
+        "a1.11",
+        "a1.12"
+      ]
+    },
+    {
+      "id": "passage_u03_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Leah giới thiệu bạn thân"
+      },
+      "title": "Messages: Leah and You",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Hi! It's Leah from number 12.",
+            "vi": "Chào bạn! Mình là Leah ở nhà số 12 đây."
+          }
+        },
+        {
+          "n": 2,
+          "para": 1,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Thanks for your help with Biscuit!",
+            "vi": "Cảm ơn bạn đã giúp vụ Biscuit nhé!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "Hi, Leah! Are you Megan's daughter?",
+            "vi": "Chào Leah! Bạn là con gái của chị Megan à?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "No, I'm not. Mitchell is my uncle.",
+            "vi": "Không phải đâu. Mitchell là chú của mình."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Tracy, Trevor and Tina are my cousins, and I live with their family.",
+            "vi": "Tracy, Trevor và Tina là em họ của mình, và mình sống cùng gia đình các em ấy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "I am a student.",
+            "vi": "Mình là sinh viên."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Come and meet my best friend, Chloe!",
+            "vi": "Đến gặp bạn thân nhất của mình là Chloe nhé!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "She is a waitress at Harriet's café.",
+            "vi": "Chloe là phục vụ ở quán cà phê Harriet's."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "She is twenty-four, and she is very funny and friendly.",
+            "vi": "Cô ấy hai mươi tư tuổi, rất vui tính và thân thiện."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "And she has got a new boyfriend again!",
+            "vi": "Mà cô ấy lại vừa có bạn trai mới nữa rồi!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "OK! See you at the café!",
+            "vi": "Được! Hẹn gặp ở quán nhé!"
+          }
+        }
+      ],
+      "content_ja": "Leah: Hi! It's Leah from number 12. Thanks for your help with Biscuit!\n\nYou: Hi, Leah! Are you Megan's daughter?\n\nLeah: No, I'm not. Mitchell is my uncle. Tracy, Trevor and Tina are my cousins, and I live with their family. I am a student.\n\nLeah: Come and meet my best friend, Chloe! She is a waitress at Harriet's café. She is twenty-four, and she is very funny and friendly. And she has got a new boyfriend again!\n\nYou: OK! See you at the café!",
+      "translation_vn": "(1) Leah: Chào bạn! Mình là Leah ở nhà số 12 đây.\n(2) Leah: Cảm ơn bạn đã giúp vụ Biscuit nhé!\n(3) You: Chào Leah! Bạn là con gái của chị Megan à?\n(4) Leah: Không phải đâu. Mitchell là chú của mình.\n(5) Leah: Tracy, Trevor và Tina là em họ của mình, và mình sống cùng gia đình các em ấy.\n(6) Leah: Mình là sinh viên.\n(7) Leah: Đến gặp bạn thân nhất của mình là Chloe nhé!\n(8) Leah: Chloe là phục vụ ở quán cà phê Harriet's.\n(9) Leah: Cô ấy hai mươi tư tuổi, rất vui tính và thân thiện.\n(10) Leah: Mà cô ấy lại vừa có bạn trai mới nữa rồi!\n(11) You: Được! Hẹn gặp ở quán nhé!",
+      "word_count": 80,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.09",
+        "a1.10",
+        "a1.11",
+        "a1.12"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u03_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "Nathan is Harriet's ______.",
+        "vi": "Nathan là ______ của bà Harriet."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "son",
+            "vi": "con trai"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "son",
+          "text_translation": "con trai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "husband",
+            "vi": "chồng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "husband",
+          "text_translation": "chồng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "brother",
+            "vi": "anh/em trai"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "brother",
+          "text_translation": "anh/em trai"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "uncle",
+            "vi": "chú/bác"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "uncle",
+          "text_translation": "chú/bác"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"This is my son, Nathan.\" \"my\" là của bà Harriet, người viết album."
+      },
+      "audio_data": null,
+      "question_jp": "Nathan is Harriet's ______.",
+      "question_vn": "Nathan là ______ của bà Harriet.",
+      "explanation": "\"This is my son, Nathan.\" \"my\" là của bà Harriet, người viết album."
+    },
+    {
+      "id": "q_u03_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "How old is Nathan?",
+        "vi": "Nathan bao nhiêu tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "forty-three",
+            "vi": "bốn mươi ba"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "forty-three",
+          "text_translation": "bốn mươi ba"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "fourteen",
+            "vi": "mười bốn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "fourteen",
+          "text_translation": "mười bốn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "thirty-four",
+            "vi": "ba mươi tư"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "thirty-four",
+          "text_translation": "ba mươi tư"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "four",
+            "vi": "bốn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "four",
+          "text_translation": "bốn"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"He is thirty-four.\" Bốn tuổi là Amy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "thirty-four (34) khác forty-three (43): số hàng chục đứng trước."
+      },
+      "question_jp": "How old is Nathan?",
+      "question_vn": "Nathan bao nhiêu tuổi?",
+      "explanation": "\"He is thirty-four.\" Bốn tuổi là Amy.",
+      "tip": "thirty-four (34) khác forty-three (43): số hàng chục đứng trước."
+    },
+    {
+      "id": "q_u03_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "Who is Helena?",
+        "vi": "Helena là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's daughter",
+            "vi": "con gái bà Harriet"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet's daughter",
+          "text_translation": "con gái bà Harriet"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nathan's wife",
+            "vi": "vợ của Nathan"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Nathan's wife",
+          "text_translation": "vợ của Nathan"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Amy's sister",
+            "vi": "chị của Amy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Amy's sister",
+          "text_translation": "chị của Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina's mother",
+            "vi": "mẹ của Tina"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina's mother",
+          "text_translation": "mẹ của Tina"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"This is Nathan's wife, Helena.\" Nathan's wife = vợ của Nathan (dấu 's chỉ sở hữu)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đọc 's là \"của\": Nathan's wife = vợ của Nathan, Harriet's café = quán của Harriet."
+      },
+      "question_jp": "Who is Helena?",
+      "question_vn": "Helena là ai?",
+      "explanation": "\"This is Nathan's wife, Helena.\" Nathan's wife = vợ của Nathan (dấu 's chỉ sở hữu).",
+      "tip": "Đọc 's là \"của\": Nathan's wife = vợ của Nathan, Harriet's café = quán của Harriet."
+    },
+    {
+      "id": "q_u03_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "How does Harriet describe Helena?",
+        "vi": "Bà Harriet miêu tả Helena thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "funny and smart",
+            "vi": "vui tính và thông minh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "funny and smart",
+          "text_translation": "vui tính và thông minh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "young and funny",
+            "vi": "trẻ và vui tính"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "young and funny",
+          "text_translation": "trẻ và vui tính"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "strict and shy",
+            "vi": "nghiêm khắc và nhút nhát"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "strict and shy",
+          "text_translation": "nghiêm khắc và nhút nhát"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a little shy, but kind and clever",
+            "vi": "hơi nhút nhát, nhưng tốt bụng và khéo léo"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a little shy, but kind and clever",
+          "text_translation": "hơi nhút nhát, nhưng tốt bụng và khéo léo"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"She is a little shy, but she is very kind and clever.\" \"funny and smart\" là nói về Nathan."
+      },
+      "audio_data": null,
+      "question_jp": "How does Harriet describe Helena?",
+      "question_vn": "Bà Harriet miêu tả Helena thế nào?",
+      "explanation": "\"She is a little shy, but she is very kind and clever.\" \"funny and smart\" là nói về Nathan."
+    },
+    {
+      "id": "q_u03_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_01",
+      "i18n": {
+        "en": "Amy's best friend is ______.",
+        "vi": "Bạn thân nhất của Amy là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Helena",
+            "vi": "Helena"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Helena",
+          "text_translation": "Helena"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina Carter",
+            "vi": "Tina Carter"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Tina Carter",
+          "text_translation": "Tina Carter"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nathan",
+            "vi": "Nathan"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nathan",
+          "text_translation": "Nathan"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Amy and Tina Carter are best friends.\""
+      },
+      "audio_data": null,
+      "question_jp": "Amy's best friend is ______.",
+      "question_vn": "Bạn thân nhất của Amy là ______.",
+      "explanation": "\"Amy and Tina Carter are best friends.\""
+    },
+    {
+      "id": "q_u03_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Mitchell is Leah's ______.",
+        "vi": "Mitchell là ______ của Leah."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "father",
+            "vi": "bố"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "father",
+          "text_translation": "bố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "uncle",
+            "vi": "chú"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "uncle",
+          "text_translation": "chú"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "cousin",
+            "vi": "anh họ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "cousin",
+          "text_translation": "anh họ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "brother",
+            "vi": "anh trai"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "brother",
+          "text_translation": "anh trai"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Are you Megan's daughter?\" / \"No, I'm not. Mitchell is my uncle.\" Leah không phải con của Megan và Mitchell, nên Mitchell không phải bố mà là chú."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu trả lời ngắn \"No, I'm not.\" phủ định câu hỏi ngay trước nó. Đọc cả hai câu cùng lúc."
+      },
+      "question_jp": "Mitchell is Leah's ______.",
+      "question_vn": "Mitchell là ______ của Leah.",
+      "explanation": "\"Are you Megan's daughter?\" / \"No, I'm not. Mitchell is my uncle.\" Leah không phải con của Megan và Mitchell, nên Mitchell không phải bố mà là chú.",
+      "tip": "Câu trả lời ngắn \"No, I'm not.\" phủ định câu hỏi ngay trước nó. Đọc cả hai câu cùng lúc."
+    },
+    {
+      "id": "q_u03_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Tracy, Trevor and Tina are Leah's ______.",
+        "vi": "Tracy, Trevor và Tina là ______ của Leah."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "friends",
+            "vi": "bạn bè"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "friends",
+          "text_translation": "bạn bè"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "sisters",
+            "vi": "chị em gái"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "sisters",
+          "text_translation": "chị em gái"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "cousins",
+            "vi": "anh chị em họ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "cousins",
+          "text_translation": "anh chị em họ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "children",
+            "vi": "con"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "children",
+          "text_translation": "con"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tracy, Trevor and Tina are my cousins\". Vì Mitchell là chú của Leah, nên con của Mitchell là em họ của Leah."
+      },
+      "audio_data": null,
+      "question_jp": "Tracy, Trevor and Tina are Leah's ______.",
+      "question_vn": "Tracy, Trevor và Tina là ______ của Leah.",
+      "explanation": "\"Tracy, Trevor and Tina are my cousins\". Vì Mitchell là chú của Leah, nên con của Mitchell là em họ của Leah."
+    },
+    {
+      "id": "q_u03_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Chloe is ______.",
+        "vi": "Chloe là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a student",
+            "vi": "sinh viên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a student",
+          "text_translation": "sinh viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah's cousin",
+            "vi": "em họ của Leah"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leah's cousin",
+          "text_translation": "em họ của Leah"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet's daughter",
+            "vi": "con gái bà Harriet"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet's daughter",
+          "text_translation": "con gái bà Harriet"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a waitress",
+            "vi": "phục vụ quán"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a waitress",
+          "text_translation": "phục vụ quán"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"She is a waitress at Harriet's café.\" Người là sinh viên là Leah."
+      },
+      "audio_data": null,
+      "question_jp": "Chloe is ______.",
+      "question_vn": "Chloe là ______.",
+      "explanation": "\"She is a waitress at Harriet's café.\" Người là sinh viên là Leah."
+    },
+    {
+      "id": "q_u03_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "How old is Chloe?",
+        "vi": "Chloe bao nhiêu tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "twenty-four",
+            "vi": "hai mươi tư"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "twenty-four",
+          "text_translation": "hai mươi tư"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "fourteen",
+            "vi": "mười bốn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "fourteen",
+          "text_translation": "mười bốn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "forty-two",
+            "vi": "bốn mươi hai"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "forty-two",
+          "text_translation": "bốn mươi hai"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "twenty",
+            "vi": "hai mươi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "twenty",
+          "text_translation": "hai mươi"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"She is twenty-four\"."
+      },
+      "audio_data": null,
+      "question_jp": "How old is Chloe?",
+      "question_vn": "Chloe bao nhiêu tuổi?",
+      "explanation": "\"She is twenty-four\"."
+    },
+    {
+      "id": "q_u03_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u03_02",
+      "i18n": {
+        "en": "Why does Leah write to you?",
+        "vi": "Vì sao Leah nhắn tin cho bạn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "To say sorry.",
+            "vi": "Để xin lỗi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "To say sorry.",
+          "text_translation": "Để xin lỗi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "To ask for help with Biscuit.",
+            "vi": "Để nhờ giúp tìm Biscuit."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "To ask for help with Biscuit.",
+          "text_translation": "Để nhờ giúp tìm Biscuit."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "To ask about your family.",
+            "vi": "Để hỏi về gia đình bạn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "To ask about your family.",
+          "text_translation": "Để hỏi về gia đình bạn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "To say thanks and introduce Chloe.",
+            "vi": "Để cảm ơn và giới thiệu Chloe."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "To say thanks and introduce Chloe.",
+          "text_translation": "Để cảm ơn và giới thiệu Chloe."
+        }
+      ],
+      "evidence_segments": [
+        1,
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Thanks for your help with Biscuit!\" rồi \"Come and meet my best friend, Chloe!\" Biscuit đã được tìm thấy, Leah chỉ cảm ơn chứ không nhờ tìm."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah write to you?",
+      "question_vn": "Vì sao Leah nhắn tin cho bạn?",
+      "explanation": "\"Thanks for your help with Biscuit!\" rồi \"Come and meet my best friend, Chloe!\" Biscuit đã được tìm thấy, Leah chỉ cảm ơn chứ không nhờ tìm."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u03_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Album gia đình của bà Harriet",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u03_01",
+      "question_ids": [
+        "q_u03_001",
+        "q_u03_002",
+        "q_u03_003",
+        "q_u03_004",
+        "q_u03_005"
+      ]
+    },
+    {
+      "set_id": "set_u03_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Leah giới thiệu bạn thân",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u03_02",
+      "question_ids": [
+        "q_u03_006",
+        "q_u03_007",
+        "q_u03_008",
+        "q_u03_009",
+        "q_u03_010"
+      ]
+    }
+  ]
+}

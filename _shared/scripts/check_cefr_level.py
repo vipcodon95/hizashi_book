@@ -234,7 +234,7 @@ def main() -> int:
                     for w in re.findall(r"[a-z']+", low):
                         if w in extra:
                             continue
-                        if w in PAST_IRR and not re.search(rf"\b(has|have|'ve|'s)\s+{w}\b", low):
+                        if w in PAST_IRR and not re.search(rf"\b(has|have|'ve|'s)\s+([a-z]+\s+)?{w}\b", low):
                             hit = True
                         elif w.endswith("ed") and w not in nouns_adjs and any(c in verbs for c in list(candidates(w))[1:]):
                             hit = True
