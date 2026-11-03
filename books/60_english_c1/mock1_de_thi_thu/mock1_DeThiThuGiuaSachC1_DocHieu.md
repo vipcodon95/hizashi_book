@@ -174,7 +174,7 @@
 >
 > Why would a bird need such a skill? Crows live for many years, often in the same area, and they share that area with humans who may feed them, ignore them or chase them away. For a crow, knowing which humans to be wary of is a matter of survival. Sharing that knowledge with the group is an efficient way to protect everyone, including birds that were not there when the danger first appeared.
 >
-> The study has changed how many scientists think about animal intelligence, which used to be measured mainly by what a single animal could do alone. Crows suggest that intelligence can also be social: a kind of memory that belongs not to one bird but to the whole community. The lesson for humans is simple. If you live near crows, it may be wise to stay on good terms with them.
+> The study has influenced how many scientists think about animal intelligence, which used to be measured mainly by what a single animal could do alone. Crows suggest that intelligence can also be social: a kind of memory that belongs not to one bird but to the whole community. The lesson for humans is simple. If you live near crows, it may be wise to stay on good terms with them.
 
 ### Dịch từng câu
 
@@ -189,7 +189,7 @@
 | 7 | The most plausible explanation is that crows learn from one another. A young bird that sees adults scolding a particular face will, it seems, learn to treat that face as a threat without ever having been harmed by it. | Cách giải thích hợp lý nhất là quạ học lẫn nhau. Một con chim non thấy chim trưởng thành mắng một khuôn mặt nào đó, có vẻ như, sẽ học được cách coi khuôn mặt ấy là mối đe doạ mà chưa từng bị nó làm hại. |
 | 8 | Why would a bird need such a skill? Crows live for many years, often in the same area, and they share that area with humans who may feed them, ignore them or chase them away. For a crow, knowing which humans to be wary of is a matter of survival. | Vì sao một con chim lại cần kỹ năng như vậy? Quạ sống nhiều năm, thường ở cùng một khu vực, và chúng chia sẻ khu vực đó với con người, những người có thể cho chúng ăn, phớt lờ chúng hoặc đuổi chúng đi. Với một con quạ, biết phải dè chừng người nào là chuyện sống còn. |
 | 9 | Sharing that knowledge with the group is an efficient way to protect everyone, including birds that were not there when the danger first appeared. | Chia sẻ hiểu biết đó với cả đàn là một cách hiệu quả để bảo vệ tất cả, kể cả những con không có mặt khi mối nguy lần đầu xuất hiện. |
-| 10 | The study has changed how many scientists think about animal intelligence, which used to be measured mainly by what a single animal could do alone. Crows suggest that intelligence can also be social: a kind of memory that belongs not to one bird but to the whole community. | Nghiên cứu này đã thay đổi cách nhiều nhà khoa học nghĩ về trí thông minh của động vật, thứ trước đây chủ yếu được đo bằng những gì một con vật làm được một mình. Lũ quạ gợi ý rằng trí thông minh cũng có thể mang tính xã hội: một kiểu trí nhớ không thuộc về một con chim mà thuộc về cả cộng đồng. |
+| 10 | The study has influenced how many scientists think about animal intelligence, which used to be measured mainly by what a single animal could do alone. Crows suggest that intelligence can also be social: a kind of memory that belongs not to one bird but to the whole community. | Nghiên cứu này đã ảnh hưởng tới cách nhiều nhà khoa học nghĩ về trí thông minh của động vật, thứ trước đây chủ yếu được đo bằng những gì một con vật làm được một mình. Lũ quạ gợi ý rằng trí thông minh cũng có thể mang tính xã hội: một kiểu trí nhớ không thuộc về một con chim mà thuộc về cả cộng đồng. |
 | 11 | The lesson for humans is simple. If you live near crows, it may be wise to stay on good terms with them. | Bài học cho con người thật đơn giản. Nếu bạn sống gần lũ quạ, có lẽ nên giữ quan hệ tốt với chúng. |
 
 ### Câu hỏi
@@ -258,8 +258,8 @@
 - C. It helps them choose a partner. *(Nó giúp chúng chọn bạn đời.)*
 - D. It helps them migrate. *(Nó giúp chúng di cư.)*
 
-**19. How has the study changed the way some scientists think about animal intelligence?**
-*(Nghiên cứu đã thay đổi cách một số nhà khoa học nghĩ về trí thông minh động vật thế nào?)*
+**19. How has the study affected the way some scientists think about animal intelligence?**
+*(Nghiên cứu đã ảnh hưởng tới cách một số nhà khoa học nghĩ về trí thông minh động vật thế nào?)*
 
 - A. They now believe crows are smarter than humans. *(Giờ họ tin quạ thông minh hơn người.)*
 - B. They now measure intelligence only in laboratories. *(Giờ họ chỉ đo trí thông minh trong phòng thí nghiệm.)*

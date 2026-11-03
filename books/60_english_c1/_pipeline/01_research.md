@@ -37,7 +37,8 @@
 | u0304 | Wineburg & McGrew 2017 (Stanford History Education Group): 10 nhà sử học, 10 người kiểm chứng tin chuyên nghiệp, 25 sinh viên Stanford; người kiểm chứng rời trang, mở tab mới ("đọc chéo") và kết luận đúng hơn trong thời gian ngắn hơn | news.stanford.edu 24/10/2017 |
 | u0506 | IEA "Energy and AI" (4/2025): trung tâm dữ liệu dùng ~415 TWh năm 2024 (~1,5% điện toàn cầu), dự báo ~945 TWh năm 2030 (hơn gấp đôi) | iea.org/reports/energy-and-ai |
 | u0708 | Nobel Hoá 2024: một nửa David Baker (thiết kế protein), một nửa Demis Hassabis + John Jumper (dự đoán cấu trúc protein); cơ sở dữ liệu AlphaFold mở 7/2021, nay ~200 triệu cấu trúc | embl.org; nobelprize.org |
-| mock2 | Lally et al. 2010: hình thành thói quen trung bình 66 ngày, dao động 18–254 ngày | European Journal of Social Psychology |
+| mock2 | Lally et al. 2010: hình thành thói quen: trung vị 66 ngày (trên nhóm có số liệu tốt), dao động 18–254 ngày (mức trên là ước tính); bài viết "typical", không viết "average" | European Journal of Social Psychology |
+| mock2 | Stanford 2025 (Brynjolfsson và cộng sự, dữ liệu bảng lương ADP): việc làm tuổi 22–25 ở nghề chịu tác động AI nhiều nhất giảm tương đối 13% (bản 8/2025), 16% (bản sửa 11/2025) → bài viết "more than a tenth" | siepr.stanford.edu |
 | mock1 | Quạ nhận mặt: nghiên cứu ĐH Washington (John Marzluff) với mặt nạ, quạ vẫn kêu báo động nhiều năm sau | nghiên cứu công bố rộng rãi |
 
 **Cách viết số liệu:** ghi rõ năm nghiên cứu hoặc năm báo cáo ("a 2025 report…"), để khỏi lỗi thời.

@@ -6,7 +6,7 @@
   "topic": "Sách bài tập đọc hiểu C1 (sách ôn) bám khoá tiếng Anh Hizashi, dàn nhân vật Maple Street; format VSTEP bậc 5",
   "target_audience": "Người Việt ôn khoá C1 trên app Hizashi, chuẩn bị VSTEP bậc 5",
   "domain_expert_role": "Giáo viên luyện thi VSTEP",
-  "current_stage": 5,
+  "current_stage": 6,
   "stages": {
     "01_research": {
       "status": "done",
@@ -38,7 +38,10 @@
       ]
     },
     "05_review": {
-      "status": "pending"
+      "status": "done",
+      "output": "_pipeline/05_factcheck.md",
+      "completed_at": "2026-11-03T22:00:00",
+      "note": "Sonnet rà soát sự thật + câu hỏi + vùng cấm + cốt truyện; main kiểm chứng và sửa 10 mục"
     },
     "06_consistency": {
       "status": "pending"
