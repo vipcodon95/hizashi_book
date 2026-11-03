@@ -90,6 +90,8 @@ Next: chạy /book-next-lite $ARGUMENTS để sang Stage <NN+1> (<Tên>).
 
 ## Constraints
 
+- **Commit + push ngay sau mỗi chương** (stage 4/5) **và sau mỗi stage xong** — xem CLAUDE.md mục "Quy tắc COMMIT khi viết sách"
+
 - KHÔNG dùng `/book-next-lite` cho sách full pipeline (verify `pipeline_type == "lite"`)
 - KHÔNG skip stage
 - Stage 4 (content): save state sau MỖI chương xong (resume-friendly)

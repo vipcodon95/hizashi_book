@@ -188,6 +188,8 @@ state["stages"]["04_content_md"]["modules_done"].append(module.code)
 save_state(state)  # save mỗi lần xong 1 module
 ```
 
+→ **COMMIT + PUSH NGAY** sau khi chương này qua checklist — xem CLAUDE.md mục "Quy tắc COMMIT khi viết sách". Mỗi chương 1 commit, không gom.
+
 → Resume-friendly: đứt session vẫn restart được.
 
 ### 4. Sau khi xong tất cả modules

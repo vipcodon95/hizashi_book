@@ -111,6 +111,8 @@ KHÔNG tự nhảy stage tiếp (per user decision). Mỗi `/book-next` chạy 1
 
 ## Constraints
 
+- **Commit + push ngay sau mỗi chương** (stage 4/5) **và sau mỗi stage xong** — xem CLAUDE.md mục "Quy tắc COMMIT khi viết sách"
+
 - KHÔNG skip stage
 - KHÔNG ngược stage (trừ khi user explicit request /book-status để xem)
 - Save state sau mỗi step quan trọng — đứt session vẫn resume được

@@ -241,6 +241,43 @@ study_question_sets.id    = 8<NN>0<topic><kind><level>           (9 digits)
 | **10** | **10_business_japanese** | ✓ | **8010** | đã seed ✓ |
 | **11** | **11_hoa_year1** | ✓ | **8011** | đã seed ✓ (pipeline FULL). Bài tập t04-t12 (skeleton) đã tách `_skeleton_tach_rieng/` |
 
+## ⛔ Quy tắc COMMIT khi viết sách — xong 1 chương là commit + push NGAY
+
+> Chủ nhà yêu cầu (03/11/2026): *"cứ xong 1 chương là sẽ thực hiện commit luôn."*
+
+**Vì sao:** phiên làm việc chạy trên **cloud** — container bị thu hồi khi hết phiên / để lâu không dùng.
+Thứ gì chưa commit **và chưa push** là mất. Commit mà không push cũng mất (commit nằm trong container).
+
+### Khi nào commit
+
+| Thời điểm | Pipeline |
+|---|---|
+| Xong **mỗi chương** `_HoiThoai.md` / `_LyThuyet.md` (stage 4) — đã qua checklist chất lượng | FULL + LITE |
+| Xong **mỗi file bài tập JSON** của một module (stage 5) — đã validate | FULL |
+| Xong **mỗi stage** (research, outline, draft, review, consistency, council, finalize) | FULL + LITE |
+| Subagent viết chương hộ → commit **sau khi main Claude verify độc lập**, mỗi chương 1 commit | FULL + LITE |
+
+Không gom nhiều chương vào 1 commit. Không đợi xong cả sách mới commit.
+
+### Cách commit
+
+1. **Kiểm trước khi commit** (lỗi thì sửa xong mới commit): `<ruby>` == `</ruby>`, không box-drawing, không ký tự Hàn, mỗi folder chỉ 1 file `.md`, JSON pass validator.
+2. **Chỉ `git add` file của chương vừa xong** + `_pipeline/` của sách đó. KHÔNG `git add -A` / `git add .`.
+   ```bash
+   git add books/<book>/<folder_chương>/ books/<book>/_pipeline/
+   ```
+3. **Message tiếng Việt**, theo mẫu:
+   ```
+   Sách <NN> <slug>: viết chương <code> <tên chương>
+   Sách <NN> <slug>: bài tập <code> (<số câu> câu)
+   Sách <NN> <slug>: xong stage <NN>_<tên stage>
+   ```
+   Thân message (tuỳ chọn): số tình huống, số từ, kết quả check ruby. Cuối message kèm các dòng attribution theo hướng dẫn của phiên.
+4. **Push ngay** lên branch được giao: `git push -u origin <branch>`. Lỗi mạng thì thử lại tối đa 4 lần (chờ 2s, 4s, 8s, 16s).
+5. **Báo user 1 dòng**: `✓ Đã commit + push chương <code> (<hash>)`.
+
+⚠️ `books/*/_pipeline/state.json` đang bị `.gitignore` → **không vào commit**. Trên cloud, file này mất khi container bị thu hồi. Muốn giữ tiến độ pipeline giữa các phiên thì phải `git add -f` (cần chủ nhà chốt).
+
 ## Quy tắc CRITICAL khi viết content
 
 ### Markdown lý thuyết (.md)
