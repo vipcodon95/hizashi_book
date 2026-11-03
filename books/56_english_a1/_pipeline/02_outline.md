@@ -17,7 +17,7 @@
 | u06 | My home (a1.21–24) | tháng 11 | Helena, Amy | Lời nhắn Helena: mời "you" vào nhà, đồ đạc ở đâu | Quảng cáo nhà cho thuê ở Maple Street | there is/are, giới từ nơi chốn |
 | u07 | Daily life (a1.25–28) | tháng 12 | Trevor | Một tuần của Trevor (lười làm bài, mê bóng) | Giờ mở cửa quán Harriet's theo ngày | giờ giấc, ngày, tần suất |
 | u08 | Food and drink (a1.29–32) | tháng 1, năm 2 | Chloe, Mitchell, Harriet | Hội thoại gọi món: Chloe phục vụ Mitchell và Tina | Thực đơn quán Harriet's | món, giá, How much / How many |
-| u09 | Shopping (a1.33–36) | tháng 2 | Tracy, Tina | Tracy và "you" mua quà sinh nhật cho Tina | Quảng cáo cửa hàng quần áo: size, giá giảm | giá, size, của ai (mine/yours) |
+| u09 | Shopping (a1.33–36) | tháng 2 | Tracy, Tina | Tracy, Tina và "you" mua quà cảm ơn bà Harriet (vì bà kèm bọn trẻ làm bài). Không dùng quà sinh nhật Tina hay Amy, vì sinh nhật sẽ đổi tuổi, trái characters.md | Quảng cáo cửa hàng quần áo: size, giá giảm | giá, size, của ai (mine/yours) |
 | u10 | In town (a1.37–40) | tháng 3 | Harriet, Leah | Harriet chỉ đường từ Maple Street tới thư viện | Bảng thông tin vé xe buýt | chỉ đường, câu mệnh lệnh, vé |
 | u11 | School and learning (a1.41–44) | tháng 4 | Tracy, Lydia | Thời khoá biểu và lời nhắn của Tracy | Nội quy câu lạc bộ tiếng Anh của Ms. Park | môn học, giờ, can |
 | u12 | Work (a1.45–48) | tháng 5 | Nathan, Chloe | Lời nhắn điện thoại ở văn phòng Nathan | Bảng tuyển dụng dán ở Harriet's | nghề nghiệp, lý do (Why), liên từ |
