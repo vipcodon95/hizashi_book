@@ -1,0 +1,72 @@
+{
+  "book_name": "57_english_a2",
+  "book_title_vn": "Đọc hiểu tiếng Anh A2 — Maple Street",
+  "pipeline_type": "english_reading",
+  "cefr_level": "A2",
+  "topic": "Sách bài tập đọc hiểu A2 (sách ôn) bám khoá tiếng Anh Hizashi, dàn nhân vật Maple Street",
+  "target_audience": "Người Việt đã học xong / đang ôn khoá A2 trên app Hizashi",
+  "domain_expert_role": "Giáo viên luyện thi VSTEP / CEFR",
+  "current_stage": 4,
+  "stages": {
+    "01_research": {
+      "status": "done",
+      "output": "_pipeline/01_research.md",
+      "completed_at": "2026-11-03T06:56:30"
+    },
+    "02_outline": {
+      "status": "done",
+      "output": "_pipeline/02_outline.md",
+      "completed_at": "2026-11-03T06:56:30"
+    },
+    "03_draft": {
+      "status": "done",
+      "output": "_pipeline/02_outline.md",
+      "completed_at": "2026-11-03T06:56:30",
+      "note": "gộp vào outline"
+    },
+    "04_content": {
+      "status": "in_progress",
+      "chapters_done": [],
+      "started_at": "2026-11-03T06:56:30"
+    },
+    "05_review": {
+      "status": "pending"
+    },
+    "06_consistency": {
+      "status": "pending"
+    },
+    "07_council": {
+      "status": "pending"
+    },
+    "08_finalize": {
+      "status": "pending"
+    }
+  },
+  "chapters": [
+    "u01",
+    "u02",
+    "u03",
+    "u04",
+    "u05",
+    "u06",
+    "u07",
+    "u08",
+    "u09",
+    "u10",
+    "u11",
+    "u12",
+    "u13",
+    "u14",
+    "u15",
+    "u16",
+    "u17",
+    "u18",
+    "u19",
+    "u20",
+    "mock1"
+  ],
+  "metadata": {
+    "started_at": "2026-11-03T06:56:30",
+    "last_action": "Khởi tạo, xong research + outline"
+  }
+}
