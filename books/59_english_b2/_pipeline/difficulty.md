@@ -17,3 +17,4 @@
 | u2324 | [346, 301] từ, TB [22.5, 18.2] | ghi chép câu lạc bộ sách bàn Frankenstein (mệnh đề phân từ) + bài thể thao nữ (not + V-ing, always + V-ing; chung kết bóng rổ nữ đại học 2024); 7 câu suy luận/thái độ (1 nối 2 bài) |
 | u2526 | [322, 305] từ, TB [22.4, 23.0] | bài Ethan chạy 50 km (mind/regret + V-ing) + bài truyền thống thay đổi (would quá khứ, So do I; khoanh vùng theo từng nhà); 7 câu suy luận/giọng điệu (1 nối 2 bài) |
 | u2728 | [325, 302] từ, TB [24.3, 21.1] | bài phỏng vấn Megan học tiếng Tây Ban Nha (dare, How dare you đùa) + bài xã hội Mỹ già đi (there have been, the elderly); 6 câu suy luận/chức năng (1 nối 2 bài) |
+| u2930 | [337, 317] từ, TB [23.3, 22.2] | bản tin lừa đảo qua điện thoại (bị động với modal) + bài cách bất đồng văn minh (đảo ngữ phủ định; KHÔNG chính trị); 7 câu suy luận/chức năng (1 nối 2 bài) |

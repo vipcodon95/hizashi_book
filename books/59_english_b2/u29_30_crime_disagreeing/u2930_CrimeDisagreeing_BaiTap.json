@@ -1,0 +1,1969 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 29–30 — Crime and justice & Disagreeing well",
+      "vi": "Tội phạm, công lý & Bất đồng văn minh"
+    },
+    "title": "Units 29–30 — Crime and justice & Disagreeing well",
+    "title_vn": "Tội phạm, công lý & Bất đồng văn minh",
+    "module_code": "59_u2930",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u29+u30",
+    "curriculum_sheets": [
+      "b2.113",
+      "b2.114",
+      "b2.115",
+      "b2.116",
+      "b2.117",
+      "b2.118",
+      "b2.119",
+      "b2.120"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Helena Brooks",
+      "Nathan Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 4, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Bị động với modal, đảo ngữ phủ định, chức năng ví dụ",
+    "description_vn": "Bản tin kể chuyện bà Harriet suýt bị lừa qua điện thoại, và bài tư vấn cách bất đồng mà không mất lòng nhau. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 29 + Unit 30 khoá B2 · phiếu `b2.113` – `b2.120` (bị động với động từ khuyết thiếu, tội phạm, lừa đảo, công lý; đảo ngữ phủ định, cách bày tỏ quan điểm và bất đồng). ⚠️ Phiếu b2.117–b2.120 có chủ đề chính trị: sách KHÔNG viết về bầu cử, đảng phái hay chính quyền, chỉ luyện kỹ năng bất đồng văn minh."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bản tin về lừa đảo qua điện thoại và một bài tư vấn; hiểu bị động với modal (should be reported, could have been saved, had to be paid), đảo ngữ phủ định (Rarely does…, No sooner has…than…, Not only does…, Never has…), và nhận ra chức năng của ví dụ và cái cớ của nhân vật."
+    },
+    "extra_words": [
+      {
+        "word": "believable",
+        "i18n": {
+          "vi": "đáng tin"
+        }
+      },
+      {
+        "word": "scam",
+        "i18n": {
+          "vi": "trò lừa đảo"
+        }
+      },
+      {
+        "word": "scammer",
+        "i18n": {
+          "vi": "kẻ lừa đảo"
+        }
+      },
+      {
+        "word": "gift card",
+        "i18n": {
+          "vi": "thẻ quà tặng"
+        }
+      },
+      {
+        "word": "confidential",
+        "i18n": {
+          "vi": "bí mật"
+        }
+      },
+      {
+        "word": "daughter-in-law",
+        "i18n": {
+          "vi": "con dâu"
+        }
+      },
+      {
+        "word": "code word",
+        "i18n": {
+          "vi": "mật khẩu"
+        }
+      },
+      {
+        "word": "pineapple",
+        "i18n": {
+          "vi": "quả dứa"
+        }
+      },
+      {
+        "word": "psychologist",
+        "i18n": {
+          "vi": "nhà tâm lý học"
+        }
+      },
+      {
+        "word": "conflict",
+        "i18n": {
+          "vi": "xung đột"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "hang up",
+          "vi": "cúp máy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "track down",
+          "vi": "lần ra"
+        }
+      },
+      {
+        "i18n": {
+          "en": "nice try",
+          "vi": "cố hay đấy (khi không để ai lừa)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fall out",
+          "vi": "mất lòng, cãi nhau"
+        }
+      },
+      {
+        "i18n": {
+          "en": "raise your voice",
+          "vi": "cao giọng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "agree to disagree",
+          "vi": "đồng ý rằng hai bên không đồng ý"
+        }
+      },
+      {
+        "i18n": {
+          "en": "at the top of your voice",
+          "vi": "gào thật to"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bị động với modal: `should be + V3` (nên được), `could have been + V3` (lẽ ra đã có thể được, nhưng không). Câu hỏi nghĩa hay hỏi điều thực tế đã xảy ra."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Đảo ngữ phủ định (`Rarely does…`, `Never has…`, `No sooner…than`) nhấn mạnh. Viết lại theo trật tự thường để hiểu nghĩa."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bản tin lừa đảo: lời khuyên của cảnh sát thường nằm trong ngoặc kép, có `never`. Câu hỏi \"What does the officer say…\" lấy đúng chỗ này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài tư vấn đánh số (`First`, `Second`, `Third`, `Finally`): mỗi lời khuyên đi kèm một ví dụ. Câu hỏi chức năng hỏi ví dụ minh hoạ cho lời khuyên nào."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2930_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 29) — Bản tin: bà Harriet suýt bị lừa qua điện thoại"
+      },
+      "narrator": "announcer",
+      "title": "\"Your Son Is in Trouble\": How a Phone Scam Almost Worked",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Your Son Is in Trouble\": How a Phone Scam Almost Worked",
+            "vi": "\"Con trai bà đang gặp chuyện\": một vụ lừa qua điện thoại suýt thành công"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Neighborhood News · by Corinne Whitfield",
+            "vi": "Bản tin khu phố Maple Street · Corinne Whitfield viết"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last Tuesday afternoon, Harriet Brooks was closing her café when her phone rang.",
+            "vi": "Chiều thứ Ba tuần trước, bà Harriet Brooks đang đóng cửa quán thì điện thoại reo."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A man who said he was a police officer told her that her son, Nathan, had been arrested after a car accident and needed $3,000 immediately.",
+            "vi": "Một người đàn ông xưng là cảnh sát nói con trai bà, Nathan, đã bị bắt sau một vụ tai nạn ô tô và cần 3.000 đô ngay lập tức."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The money, he said, had to be paid in gift cards from a nearby store, and she must not tell anyone, because the case was \"confidential\".",
+            "vi": "Ông ta nói tiền phải trả bằng thẻ quà tặng mua ở một cửa hàng gần đó, và bà không được nói với ai, vì vụ việc là \"bí mật\"."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I was shaking,\" Harriet told me. \"He knew Nathan's name and the color of his car. For a moment, I believed every word.\"",
+            "vi": "\"Tôi run lên,\" bà Harriet kể với tôi. \"Hắn biết tên Nathan và cả màu xe của nó. Có lúc tôi tin từng chữ.\""
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But something felt wrong. \"No police officer has ever asked me to pay with gift cards,\" she said. \"And why couldn't I hear Nathan's voice?\"",
+            "vi": "Nhưng có gì đó không ổn. \"Chưa cảnh sát nào từng bảo tôi trả bằng thẻ quà tặng,\" bà nói. \"Mà sao tôi không được nghe giọng Nathan?\""
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She told the caller that she needed to find her glasses, hung up, and called her daughter-in-law, Helena, who was sitting next to Nathan at home, watching a movie.",
+            "vi": "Bà bảo người gọi rằng bà cần tìm kính, cúp máy, rồi gọi cho con dâu Helena, lúc ấy đang ngồi cạnh Nathan ở nhà xem phim."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Officer Grant of the San Diego Police Department says that this kind of scam is reported every week.",
+            "vi": "Cảnh sát Grant thuộc Sở Cảnh sát San Diego nói kiểu lừa đảo này tuần nào cũng có người báo."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Scammers can find a surprising amount of information online, such as names, family photos and even cars,\" she explains. \"That's what makes the story believable.\"",
+            "vi": "\"Kẻ lừa đảo có thể tìm được lượng thông tin đáng ngạc nhiên trên mạng, như tên, ảnh gia đình và cả xe cộ,\" bà giải thích. \"Chính điều đó làm câu chuyện nghe đáng tin.\""
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Real police will never ask for payment by gift card, and they will never tell you to keep a call secret from your family. If someone does, it's a scam.\"",
+            "vi": "\"Cảnh sát thật sẽ không bao giờ đòi trả bằng thẻ quà tặng, và không bao giờ bảo bạn giấu cuộc gọi với gia đình. Ai làm vậy thì đó là lừa đảo.\""
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not everyone is as lucky as Harriet. Officer Grant says that thousands of dollars could have been saved in some recent cases if the calls had been checked with a family member first.",
+            "vi": "Không phải ai cũng may như bà Harriet. Cảnh sát Grant nói trong một số vụ gần đây, lẽ ra đã giữ được hàng nghìn đô nếu cuộc gọi được kiểm tra với người nhà trước."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Calls like these should be reported to the police, even when no money is lost, because each report helps officers track down the people behind them.",
+            "vi": "Những cuộc gọi như vậy nên được báo cảnh sát, kể cả khi không mất tiền, vì mỗi lần báo giúp cảnh sát lần ra những kẻ đứng sau."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet has since agreed on a family \"code word\" with Nathan and Helena, a word that only they know and that can be used to check whether a call is real.",
+            "vi": "Từ đó bà Harriet đã thống nhất với Nathan và Helena một \"mật khẩu gia đình\", một từ chỉ họ biết và có thể dùng để kiểm tra một cuộc gọi là thật hay không."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She refused to tell me what it is. \"Nice try, Corinne,\" she said.",
+            "vi": "Bà nhất quyết không cho tôi biết đó là từ gì. \"Cố hay đấy, Corinne,\" bà nói."
+          }
+        }
+      ],
+      "content_ja": "\"Your Son Is in Trouble\": How a Phone Scam Almost Worked\n\nMaple Street Neighborhood News · by Corinne Whitfield\n\nLast Tuesday afternoon, Harriet Brooks was closing her café when her phone rang. A man who said he was a police officer told her that her son, Nathan, had been arrested after a car accident and needed $3,000 immediately. The money, he said, had to be paid in gift cards from a nearby store, and she must not tell anyone, because the case was \"confidential\".\n\n\"I was shaking,\" Harriet told me. \"He knew Nathan's name and the color of his car. For a moment, I believed every word.\" But something felt wrong. \"No police officer has ever asked me to pay with gift cards,\" she said. \"And why couldn't I hear Nathan's voice?\" She told the caller that she needed to find her glasses, hung up, and called her daughter-in-law, Helena, who was sitting next to Nathan at home, watching a movie.\n\nOfficer Grant of the San Diego Police Department says that this kind of scam is reported every week. \"Scammers can find a surprising amount of information online, such as names, family photos and even cars,\" she explains. \"That's what makes the story believable.\" \"Real police will never ask for payment by gift card, and they will never tell you to keep a call secret from your family. If someone does, it's a scam.\"\n\nNot everyone is as lucky as Harriet. Officer Grant says that thousands of dollars could have been saved in some recent cases if the calls had been checked with a family member first. Calls like these should be reported to the police, even when no money is lost, because each report helps officers track down the people behind them. Harriet has since agreed on a family \"code word\" with Nathan and Helena, a word that only they know and that can be used to check whether a call is real. She refused to tell me what it is. \"Nice try, Corinne,\" she said.",
+      "translation_vn": "(1) \"Con trai bà đang gặp chuyện\": một vụ lừa qua điện thoại suýt thành công\n(2) Bản tin khu phố Maple Street · Corinne Whitfield viết\n(3) Chiều thứ Ba tuần trước, bà Harriet Brooks đang đóng cửa quán thì điện thoại reo.\n(4) Một người đàn ông xưng là cảnh sát nói con trai bà, Nathan, đã bị bắt sau một vụ tai nạn ô tô và cần 3.000 đô ngay lập tức.\n(5) Ông ta nói tiền phải trả bằng thẻ quà tặng mua ở một cửa hàng gần đó, và bà không được nói với ai, vì vụ việc là \"bí mật\".\n(6) \"Tôi run lên,\" bà Harriet kể với tôi. \"Hắn biết tên Nathan và cả màu xe của nó. Có lúc tôi tin từng chữ.\"\n(7) Nhưng có gì đó không ổn. \"Chưa cảnh sát nào từng bảo tôi trả bằng thẻ quà tặng,\" bà nói. \"Mà sao tôi không được nghe giọng Nathan?\"\n(8) Bà bảo người gọi rằng bà cần tìm kính, cúp máy, rồi gọi cho con dâu Helena, lúc ấy đang ngồi cạnh Nathan ở nhà xem phim.\n(9) Cảnh sát Grant thuộc Sở Cảnh sát San Diego nói kiểu lừa đảo này tuần nào cũng có người báo.\n(10) \"Kẻ lừa đảo có thể tìm được lượng thông tin đáng ngạc nhiên trên mạng, như tên, ảnh gia đình và cả xe cộ,\" bà giải thích. \"Chính điều đó làm câu chuyện nghe đáng tin.\"\n(11) \"Cảnh sát thật sẽ không bao giờ đòi trả bằng thẻ quà tặng, và không bao giờ bảo bạn giấu cuộc gọi với gia đình. Ai làm vậy thì đó là lừa đảo.\"\n(12) Không phải ai cũng may như bà Harriet. Cảnh sát Grant nói trong một số vụ gần đây, lẽ ra đã giữ được hàng nghìn đô nếu cuộc gọi được kiểm tra với người nhà trước.\n(13) Những cuộc gọi như vậy nên được báo cảnh sát, kể cả khi không mất tiền, vì mỗi lần báo giúp cảnh sát lần ra những kẻ đứng sau.\n(14) Từ đó bà Harriet đã thống nhất với Nathan và Helena một \"mật khẩu gia đình\", một từ chỉ họ biết và có thể dùng để kiểm tra một cuộc gọi là thật hay không.\n(15) Bà nhất quyết không cho tôi biết đó là từ gì. \"Cố hay đấy, Corinne,\" bà nói.",
+      "word_count": 337,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.113",
+        "b2.114",
+        "b2.115",
+        "b2.116"
+      ]
+    },
+    {
+      "id": "passage_u2930_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 30) — Cách bất đồng mà không mất lòng nhau"
+      },
+      "narrator": "announcer",
+      "title": "How to Disagree Without Falling Out",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How to Disagree Without Falling Out",
+            "vi": "Cách bất đồng mà không mất lòng nhau"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every family has a topic that turns a pleasant dinner into a battle of raised voices, whether it is screen time, money, or whether pineapple belongs on pizza.",
+            "vi": "Nhà nào cũng có một chủ đề biến bữa tối êm đềm thành cuộc đấu khẩu, dù đó là thời gian dùng màn hình, tiền bạc, hay chuyện pizza có nên có dứa không."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Rarely does anyone change their mind during these arguments, and often people leave the table feeling worse about each other than before.",
+            "vi": "Hiếm khi có ai đổi ý trong những cuộc cãi vã ấy, và thường người ta rời bàn ăn với cảm giác về nhau còn tệ hơn trước."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Psychologists who study conflict say that the problem is usually not the disagreement itself, but how it happens.",
+            "vi": "Các nhà tâm lý học nghiên cứu xung đột nói vấn đề thường không nằm ở bản thân sự bất đồng, mà ở cách nó diễn ra."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When we feel attacked, our bodies react as if we were in danger: our hearts beat faster, and we stop listening and start defending ourselves.",
+            "vi": "Khi thấy bị tấn công, cơ thể ta phản ứng như thể đang gặp nguy: tim đập nhanh hơn, và ta thôi lắng nghe mà bắt đầu tự vệ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "No sooner has one person raised their voice than the other raises theirs, and soon nobody is talking about the original question at all.",
+            "vi": "Một người vừa cao giọng là người kia cũng cao giọng theo, và chẳng mấy chốc chẳng ai còn nói về câu hỏi ban đầu nữa."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So what helps? First, ask before you argue.",
+            "vi": "Vậy điều gì giúp ích? Trước tiên, hãy hỏi trước khi tranh cãi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A question such as \"What makes you see it that way?\" does more than any clever point, because people are far more willing to listen once they feel that they have been heard.",
+            "vi": "Một câu hỏi như \"Điều gì khiến anh nhìn nhận như vậy?\" có tác dụng hơn mọi lý lẽ khôn ngoan, vì người ta sẵn lòng lắng nghe hơn nhiều một khi họ thấy mình đã được lắng nghe."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, look for what you share. Two parents who disagree about phones may both want the same thing: a child who is happy and safe. Starting from that shared goal changes the whole conversation.",
+            "vi": "Thứ hai, hãy tìm điểm chung. Hai bố mẹ bất đồng về điện thoại có thể cùng muốn một điều: một đứa con vui vẻ và an toàn. Bắt đầu từ mục tiêu chung ấy sẽ thay đổi cả cuộc trò chuyện."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Third, talk about yourself, not the other person: \"I worry when…\" is easier to hear than \"You always…\".",
+            "vi": "Thứ ba, hãy nói về mình, đừng nói về người kia: \"Con lo khi…\" dễ nghe hơn \"Bố lúc nào cũng…\"."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not only does this approach keep the peace, but it also makes it more likely that someone will actually change their mind, perhaps not at the table, but days later, when nobody is watching.",
+            "vi": "Cách làm này không chỉ giữ được hoà khí mà còn khiến nhiều khả năng có người thật sự đổi ý, có thể không phải ngay trên bàn ăn, mà vài ngày sau, khi không ai để ý."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And sometimes, the best result is simply to agree to disagree.",
+            "vi": "Và đôi khi, kết quả tốt nhất đơn giản là đồng ý rằng hai bên không đồng ý."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, know when to stop.",
+            "vi": "Cuối cùng, hãy biết lúc nào nên dừng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If voices are rising, it is perfectly fine to say, \"Let's take a break and come back to this.\"",
+            "vi": "Nếu giọng mọi người đang cao lên, hoàn toàn có thể nói: \"Mình nghỉ một chút rồi quay lại chuyện này nhé.\""
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Never has an argument been improved by continuing it at the top of your voice. A family can survive many disagreements. It is much harder to survive the habit of not listening.",
+            "vi": "Chưa từng có cuộc tranh cãi nào tốt lên nhờ cứ tiếp tục gào to. Một gia đình có thể vượt qua nhiều bất đồng. Nhưng thói quen không lắng nghe thì khó vượt qua hơn nhiều."
+          }
+        }
+      ],
+      "content_ja": "How to Disagree Without Falling Out\n\nEvery family has a topic that turns a pleasant dinner into a battle of raised voices, whether it is screen time, money, or whether pineapple belongs on pizza. Rarely does anyone change their mind during these arguments, and often people leave the table feeling worse about each other than before.\n\nPsychologists who study conflict say that the problem is usually not the disagreement itself, but how it happens. When we feel attacked, our bodies react as if we were in danger: our hearts beat faster, and we stop listening and start defending ourselves. No sooner has one person raised their voice than the other raises theirs, and soon nobody is talking about the original question at all.\n\nSo what helps? First, ask before you argue. A question such as \"What makes you see it that way?\" does more than any clever point, because people are far more willing to listen once they feel that they have been heard. Second, look for what you share. Two parents who disagree about phones may both want the same thing: a child who is happy and safe. Starting from that shared goal changes the whole conversation. Third, talk about yourself, not the other person: \"I worry when…\" is easier to hear than \"You always…\".\n\nNot only does this approach keep the peace, but it also makes it more likely that someone will actually change their mind, perhaps not at the table, but days later, when nobody is watching. And sometimes, the best result is simply to agree to disagree.\n\nFinally, know when to stop. If voices are rising, it is perfectly fine to say, \"Let's take a break and come back to this.\" Never has an argument been improved by continuing it at the top of your voice. A family can survive many disagreements. It is much harder to survive the habit of not listening.",
+      "translation_vn": "(1) Cách bất đồng mà không mất lòng nhau\n(2) Nhà nào cũng có một chủ đề biến bữa tối êm đềm thành cuộc đấu khẩu, dù đó là thời gian dùng màn hình, tiền bạc, hay chuyện pizza có nên có dứa không.\n(3) Hiếm khi có ai đổi ý trong những cuộc cãi vã ấy, và thường người ta rời bàn ăn với cảm giác về nhau còn tệ hơn trước.\n(4) Các nhà tâm lý học nghiên cứu xung đột nói vấn đề thường không nằm ở bản thân sự bất đồng, mà ở cách nó diễn ra.\n(5) Khi thấy bị tấn công, cơ thể ta phản ứng như thể đang gặp nguy: tim đập nhanh hơn, và ta thôi lắng nghe mà bắt đầu tự vệ.\n(6) Một người vừa cao giọng là người kia cũng cao giọng theo, và chẳng mấy chốc chẳng ai còn nói về câu hỏi ban đầu nữa.\n(7) Vậy điều gì giúp ích? Trước tiên, hãy hỏi trước khi tranh cãi.\n(8) Một câu hỏi như \"Điều gì khiến anh nhìn nhận như vậy?\" có tác dụng hơn mọi lý lẽ khôn ngoan, vì người ta sẵn lòng lắng nghe hơn nhiều một khi họ thấy mình đã được lắng nghe.\n(9) Thứ hai, hãy tìm điểm chung. Hai bố mẹ bất đồng về điện thoại có thể cùng muốn một điều: một đứa con vui vẻ và an toàn. Bắt đầu từ mục tiêu chung ấy sẽ thay đổi cả cuộc trò chuyện.\n(10) Thứ ba, hãy nói về mình, đừng nói về người kia: \"Con lo khi…\" dễ nghe hơn \"Bố lúc nào cũng…\".\n(11) Cách làm này không chỉ giữ được hoà khí mà còn khiến nhiều khả năng có người thật sự đổi ý, có thể không phải ngay trên bàn ăn, mà vài ngày sau, khi không ai để ý.\n(12) Và đôi khi, kết quả tốt nhất đơn giản là đồng ý rằng hai bên không đồng ý.\n(13) Cuối cùng, hãy biết lúc nào nên dừng.\n(14) Nếu giọng mọi người đang cao lên, hoàn toàn có thể nói: \"Mình nghỉ một chút rồi quay lại chuyện này nhé.\"\n(15) Chưa từng có cuộc tranh cãi nào tốt lên nhờ cứ tiếp tục gào to. Một gia đình có thể vượt qua nhiều bất đồng. Nhưng thói quen không lắng nghe thì khó vượt qua hơn nhiều.",
+      "word_count": 317,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.117",
+        "b2.118",
+        "b2.119",
+        "b2.120"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2930_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "What is the news report mainly about?",
+        "vi": "Bản tin chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how a phone scam almost worked on Harriet, and how to avoid such scams",
+            "vi": "một vụ lừa qua điện thoại suýt thành công với bà Harriet, và cách tránh những vụ như vậy"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "how a phone scam almost worked on Harriet, and how to avoid such scams",
+          "text_translation": "một vụ lừa qua điện thoại suýt thành công với bà Harriet, và cách tránh những vụ như vậy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nathan's car accident",
+            "vi": "vụ tai nạn ô tô của Nathan"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nathan's car accident",
+          "text_translation": "vụ tai nạn ô tô của Nathan"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a new police officer",
+            "vi": "một cảnh sát mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a new police officer",
+          "text_translation": "một cảnh sát mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the price of gift cards",
+            "vi": "giá thẻ quà tặng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the price of gift cards",
+          "text_translation": "giá thẻ quà tặng"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề: \"How a Phone Scam Almost Worked\". Phần sau có lời khuyên của cảnh sát."
+      },
+      "audio_data": null,
+      "question_jp": "What is the news report mainly about?",
+      "question_vn": "Bản tin chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề: \"How a Phone Scam Almost Worked\". Phần sau có lời khuyên của cảnh sát."
+    },
+    {
+      "id": "q_u2930_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "What did the caller say had happened?",
+        "vi": "Người gọi nói chuyện gì đã xảy ra?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's café had been robbed.",
+            "vi": "Quán bà Harriet bị trộm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet's café had been robbed.",
+          "text_translation": "Quán bà Harriet bị trộm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Helena had lost her phone.",
+            "vi": "Helena mất điện thoại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Helena had lost her phone.",
+          "text_translation": "Helena mất điện thoại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nathan had been arrested after a car accident and needed $3,000.",
+            "vi": "Nathan bị bắt sau tai nạn ô tô và cần 3.000 đô."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Nathan had been arrested after a car accident and needed $3,000.",
+          "text_translation": "Nathan bị bắt sau tai nạn ô tô và cần 3.000 đô."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Amy was lost.",
+            "vi": "Amy bị lạc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Amy was lost.",
+          "text_translation": "Amy bị lạc."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"her son, Nathan, had been arrested after a car accident and needed $3,000 immediately.\" Had been arrested: bị động quá khứ hoàn thành."
+      },
+      "audio_data": null,
+      "question_jp": "What did the caller say had happened?",
+      "question_vn": "Người gọi nói chuyện gì đã xảy ra?",
+      "explanation": "\"her son, Nathan, had been arrested after a car accident and needed $3,000 immediately.\" Had been arrested: bị động quá khứ hoàn thành."
+    },
+    {
+      "id": "q_u2930_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why did the caller say that Harriet must not tell anyone?",
+        "vi": "Vì sao người gọi bảo bà Harriet không được nói với ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because Nathan was embarrassed",
+            "vi": "vì Nathan xấu hổ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because Nathan was embarrassed",
+          "text_translation": "vì Nathan xấu hổ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it was a surprise",
+            "vi": "vì đó là bất ngờ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because it was a surprise",
+          "text_translation": "vì đó là bất ngờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the police were busy",
+            "vi": "vì cảnh sát bận"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the police were busy",
+          "text_translation": "vì cảnh sát bận"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he claimed that the case was confidential, so that she couldn't check his story",
+            "vi": "vì hắn bảo vụ việc là bí mật, để bà không kiểm tra được câu chuyện"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because he claimed that the case was confidential, so that she couldn't check his story",
+          "text_translation": "vì hắn bảo vụ việc là bí mật, để bà không kiểm tra được câu chuyện"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Hắn nói vụ việc \"confidential\". Cảnh sát Grant giải thích: cảnh sát thật \"will never tell you to keep a call secret from your family\", vì giấu là để nạn nhân không kiểm tra được."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the caller say that Harriet must not tell anyone?",
+      "question_vn": "Vì sao người gọi bảo bà Harriet không được nói với ai?",
+      "explanation": "Câu suy luận. Hắn nói vụ việc \"confidential\". Cảnh sát Grant giải thích: cảnh sát thật \"will never tell you to keep a call secret from your family\", vì giấu là để nạn nhân không kiểm tra được."
+    },
+    {
+      "id": "q_u2930_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why did Harriet believe the caller at first?",
+        "vi": "Vì sao lúc đầu bà Harriet tin người gọi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He sounded like Nathan.",
+            "vi": "Vì giọng hắn giống Nathan."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He sounded like Nathan.",
+          "text_translation": "Vì giọng hắn giống Nathan."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He knew Nathan's name and the color of his car.",
+            "vi": "Vì hắn biết tên Nathan và màu xe của Nathan."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He knew Nathan's name and the color of his car.",
+          "text_translation": "Vì hắn biết tên Nathan và màu xe của Nathan."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He came to the café.",
+            "vi": "Vì hắn tới quán."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He came to the café.",
+          "text_translation": "Vì hắn tới quán."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Helena told her to.",
+            "vi": "Vì Helena bảo vậy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Helena told her to.",
+          "text_translation": "Vì Helena bảo vậy."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"He knew Nathan's name and the color of his car. For a moment, I believed every word.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Harriet believe the caller at first?",
+      "question_vn": "Vì sao lúc đầu bà Harriet tin người gọi?",
+      "explanation": "\"He knew Nathan's name and the color of his car. For a moment, I believed every word.\""
+    },
+    {
+      "id": "q_u2930_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "What made Harriet feel that something was wrong?",
+        "vi": "Điều gì khiến bà Harriet thấy có gì không ổn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the request to pay with gift cards, and not being able to hear Nathan's voice",
+            "vi": "việc đòi trả bằng thẻ quà tặng, và không được nghe giọng Nathan"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the request to pay with gift cards, and not being able to hear Nathan's voice",
+          "text_translation": "việc đòi trả bằng thẻ quà tặng, và không được nghe giọng Nathan"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the caller's accent",
+            "vi": "giọng của người gọi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the caller's accent",
+          "text_translation": "giọng của người gọi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the time of the call",
+            "vi": "giờ gọi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the time of the call",
+          "text_translation": "giờ gọi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the amount of money",
+            "vi": "số tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the amount of money",
+          "text_translation": "số tiền"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"No police officer has ever asked me to pay with gift cards,\" … \"And why couldn't I hear Nathan's voice?\""
+      },
+      "audio_data": null,
+      "question_jp": "What made Harriet feel that something was wrong?",
+      "question_vn": "Điều gì khiến bà Harriet thấy có gì không ổn?",
+      "explanation": "\"No police officer has ever asked me to pay with gift cards,\" … \"And why couldn't I hear Nathan's voice?\""
+    },
+    {
+      "id": "q_u2930_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why did Harriet tell the caller that she needed to find her glasses?",
+        "vi": "Vì sao bà Harriet bảo người gọi là bà cần tìm kính?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she couldn't read the gift cards",
+            "vi": "vì bà không đọc được thẻ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she couldn't read the gift cards",
+          "text_translation": "vì bà không đọc được thẻ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she really had lost them",
+            "vi": "vì bà mất kính thật"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because she really had lost them",
+          "text_translation": "vì bà mất kính thật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as an excuse to end the call so that she could check with her family",
+            "vi": "làm cớ để kết thúc cuộc gọi và kiểm tra với gia đình"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "as an excuse to end the call so that she could check with her family",
+          "text_translation": "làm cớ để kết thúc cuộc gọi và kiểm tra với gia đình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she wanted to write down his name",
+            "vi": "vì bà muốn ghi tên hắn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because she wanted to write down his name",
+          "text_translation": "vì bà muốn ghi tên hắn"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Bà nói vậy rồi \"hung up, and called her daughter-in-law, Helena\". Đó là cái cớ khéo để thoát khỏi cuộc gọi."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Harriet tell the caller that she needed to find her glasses?",
+      "question_vn": "Vì sao bà Harriet bảo người gọi là bà cần tìm kính?",
+      "explanation": "Câu suy luận. Bà nói vậy rồi \"hung up, and called her daughter-in-law, Helena\". Đó là cái cớ khéo để thoát khỏi cuộc gọi."
+    },
+    {
+      "id": "q_u2930_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why do scam stories like this one sound believable, according to Officer Grant?",
+        "vi": "Theo cảnh sát Grant, vì sao những câu chuyện lừa đảo kiểu này nghe đáng tin?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because scammers are trained actors",
+            "vi": "vì kẻ lừa đảo là diễn viên được đào tạo"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because scammers are trained actors",
+          "text_translation": "vì kẻ lừa đảo là diễn viên được đào tạo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because they call at night",
+            "vi": "vì chúng gọi ban đêm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because they call at night",
+          "text_translation": "vì chúng gọi ban đêm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because they use real police phones",
+            "vi": "vì chúng dùng điện thoại cảnh sát thật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because they use real police phones",
+          "text_translation": "vì chúng dùng điện thoại cảnh sát thật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because scammers can find names, photos and other details online",
+            "vi": "vì kẻ lừa đảo có thể tìm được tên, ảnh và chi tiết khác trên mạng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because scammers can find names, photos and other details online",
+          "text_translation": "vì kẻ lừa đảo có thể tìm được tên, ảnh và chi tiết khác trên mạng"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Scammers can find a surprising amount of information online, such as names, family photos and even cars\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why do scam stories like this one sound believable, according to Officer Grant?",
+      "question_vn": "Theo cảnh sát Grant, vì sao những câu chuyện lừa đảo kiểu này nghe đáng tin?",
+      "explanation": "\"Scammers can find a surprising amount of information online, such as names, family photos and even cars\"."
+    },
+    {
+      "id": "q_u2930_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "What does \"thousands of dollars could have been saved in some recent cases\" mean?",
+        "vi": "Câu \"lẽ ra đã giữ được hàng nghìn đô trong một số vụ gần đây\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People saved thousands of dollars.",
+            "vi": "Mọi người đã giữ được hàng nghìn đô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People saved thousands of dollars.",
+          "text_translation": "Mọi người đã giữ được hàng nghìn đô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "In some cases, money was lost that could have been kept if the calls had been checked.",
+            "vi": "Trong một số vụ, tiền đã bị mất, mà lẽ ra giữ được nếu cuộc gọi được kiểm tra."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "In some cases, money was lost that could have been kept if the calls had been checked.",
+          "text_translation": "Trong một số vụ, tiền đã bị mất, mà lẽ ra giữ được nếu cuộc gọi được kiểm tra."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The police will save money next year.",
+            "vi": "Năm sau cảnh sát sẽ tiết kiệm tiền."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The police will save money next year.",
+          "text_translation": "Năm sau cảnh sát sẽ tiết kiệm tiền."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Gift cards are worth thousands of dollars.",
+            "vi": "Thẻ quà tặng trị giá hàng nghìn đô."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Gift cards are worth thousands of dollars.",
+          "text_translation": "Thẻ quà tặng trị giá hàng nghìn đô."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"thousands of dollars could have been saved in some recent cases if the calls had been checked with a family member first.\" Could have been + V3 = lẽ ra đã có thể được (nhưng thực tế không)."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"thousands of dollars could have been saved in some recent cases\" mean?",
+      "question_vn": "Câu \"lẽ ra đã giữ được hàng nghìn đô trong một số vụ gần đây\" nghĩa là gì?",
+      "explanation": "\"thousands of dollars could have been saved in some recent cases if the calls had been checked with a family member first.\" Could have been + V3 = lẽ ra đã có thể được (nhưng thực tế không)."
+    },
+    {
+      "id": "q_u2930_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "Why should calls like these be reported even when no money is lost?",
+        "vi": "Vì sao nên báo những cuộc gọi như vậy dù không mất tiền?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because each report helps officers track down the people behind them",
+            "vi": "vì mỗi lần báo giúp cảnh sát lần ra những kẻ đứng sau"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because each report helps officers track down the people behind them",
+          "text_translation": "vì mỗi lần báo giúp cảnh sát lần ra những kẻ đứng sau"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the police pay for reports",
+            "vi": "vì cảnh sát trả tiền cho người báo"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the police pay for reports",
+          "text_translation": "vì cảnh sát trả tiền cho người báo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it is a rule for café owners",
+            "vi": "vì đó là quy định với chủ quán"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it is a rule for café owners",
+          "text_translation": "vì đó là quy định với chủ quán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the phone company asks for it",
+            "vi": "vì công ty điện thoại yêu cầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the phone company asks for it",
+          "text_translation": "vì công ty điện thoại yêu cầu"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Calls like these should be reported to the police, even when no money is lost, because each report helps officers track down the people behind them.\" Should be + V3: bị động với modal."
+      },
+      "audio_data": null,
+      "question_jp": "Why should calls like these be reported even when no money is lost?",
+      "question_vn": "Vì sao nên báo những cuộc gọi như vậy dù không mất tiền?",
+      "explanation": "\"Calls like these should be reported to the police, even when no money is lost, because each report helps officers track down the people behind them.\" Should be + V3: bị động với modal."
+    },
+    {
+      "id": "q_u2930_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_01",
+      "i18n": {
+        "en": "What does Harriet's reply \"Nice try, Corinne\" show?",
+        "vi": "Câu \"Cố hay đấy, Corinne\" của bà Harriet cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is angry with Corinne.",
+            "vi": "Bà giận Corinne."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is angry with Corinne.",
+          "text_translation": "Bà giận Corinne."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She doesn't trust the police.",
+            "vi": "Bà không tin cảnh sát."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She doesn't trust the police.",
+          "text_translation": "Bà không tin cảnh sát."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is joking, but she takes keeping the code word secret seriously.",
+            "vi": "Bà đùa, nhưng nghiêm túc giữ bí mật mật khẩu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She is joking, but she takes keeping the code word secret seriously.",
+          "text_translation": "Bà đùa, nhưng nghiêm túc giữ bí mật mật khẩu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has forgotten the code word.",
+            "vi": "Bà quên mật khẩu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has forgotten the code word.",
+          "text_translation": "Bà quên mật khẩu."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Bà từ chối vui vẻ, vì mật khẩu chỉ có tác dụng khi \"only they know\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet's reply \"Nice try, Corinne\" show?",
+      "question_vn": "Câu \"Cố hay đấy, Corinne\" của bà Harriet cho thấy điều gì?",
+      "explanation": "Câu suy luận về giọng điệu. Bà từ chối vui vẻ, vì mật khẩu chỉ có tác dụng khi \"only they know\"."
+    },
+    {
+      "id": "q_u2930_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What is the main purpose of the article?",
+        "vi": "Mục đích chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to decide whether pineapple belongs on pizza",
+            "vi": "để quyết định pizza có nên có dứa không"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to decide whether pineapple belongs on pizza",
+          "text_translation": "để quyết định pizza có nên có dứa không"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to give advice on how to disagree without damaging relationships",
+            "vi": "để khuyên cách bất đồng mà không làm tổn hại các mối quan hệ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to give advice on how to disagree without damaging relationships",
+          "text_translation": "để khuyên cách bất đồng mà không làm tổn hại các mối quan hệ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to tell families to stop eating together",
+            "vi": "để bảo các gia đình thôi ăn chung"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to tell families to stop eating together",
+          "text_translation": "để bảo các gia đình thôi ăn chung"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how the heart works",
+            "vi": "để giải thích tim hoạt động thế nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how the heart works",
+          "text_translation": "để giải thích tim hoạt động thế nào"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề \"How to Disagree Without Falling Out\". Bài nêu vấn đề rồi đưa lời khuyên từng bước."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the article?",
+      "question_vn": "Mục đích chính của bài báo là gì?",
+      "explanation": "Tiêu đề \"How to Disagree Without Falling Out\". Bài nêu vấn đề rồi đưa lời khuyên từng bước."
+    },
+    {
+      "id": "q_u2930_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What does \"Rarely does anyone change their mind during these arguments\" mean?",
+        "vi": "Câu \"Hiếm khi có ai đổi ý trong những cuộc cãi vã ấy\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People often change their minds.",
+            "vi": "Người ta hay đổi ý."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People often change their minds.",
+          "text_translation": "Người ta hay đổi ý."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People change their minds only at dinner.",
+            "vi": "Người ta chỉ đổi ý trong bữa tối."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "People change their minds only at dinner.",
+          "text_translation": "Người ta chỉ đổi ý trong bữa tối."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nobody argues at dinner.",
+            "vi": "Không ai cãi nhau trong bữa tối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nobody argues at dinner.",
+          "text_translation": "Không ai cãi nhau trong bữa tối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People almost never change their minds in these arguments.",
+            "vi": "Người ta gần như không bao giờ đổi ý trong những cuộc cãi vã này."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "People almost never change their minds in these arguments.",
+          "text_translation": "Người ta gần như không bao giờ đổi ý trong những cuộc cãi vã này."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Rarely does anyone change their mind\" = Anyone rarely changes their mind. Đảo ngữ sau trạng từ phủ định để nhấn mạnh."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Rarely does anyone change their mind during these arguments\" mean?",
+      "question_vn": "Câu \"Hiếm khi có ai đổi ý trong những cuộc cãi vã ấy\" nghĩa là gì?",
+      "explanation": "\"Rarely does anyone change their mind\" = Anyone rarely changes their mind. Đảo ngữ sau trạng từ phủ định để nhấn mạnh."
+    },
+    {
+      "id": "q_u2930_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "According to psychologists, what is usually the real problem?",
+        "vi": "Theo các nhà tâm lý học, vấn đề thật sự thường là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how the disagreement happens",
+            "vi": "cách sự bất đồng diễn ra"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "how the disagreement happens",
+          "text_translation": "cách sự bất đồng diễn ra"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the disagreement itself",
+            "vi": "bản thân sự bất đồng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the disagreement itself",
+          "text_translation": "bản thân sự bất đồng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the food at dinner",
+            "vi": "đồ ăn trong bữa tối"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the food at dinner",
+          "text_translation": "đồ ăn trong bữa tối"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the topic of pizza",
+            "vi": "chủ đề pizza"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the topic of pizza",
+          "text_translation": "chủ đề pizza"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"the problem is usually not the disagreement itself, but how it happens.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to psychologists, what is usually the real problem?",
+      "question_vn": "Theo các nhà tâm lý học, vấn đề thật sự thường là gì?",
+      "explanation": "\"the problem is usually not the disagreement itself, but how it happens.\""
+    },
+    {
+      "id": "q_u2930_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What does \"No sooner has one person raised their voice than the other raises theirs\" describe?",
+        "vi": "Câu \"Một người vừa cao giọng là người kia cũng cao giọng theo\" mô tả điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People take turns politely.",
+            "vi": "Mọi người lịch sự thay phiên nhau."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People take turns politely.",
+          "text_translation": "Mọi người lịch sự thay phiên nhau."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Only one person shouts.",
+            "vi": "Chỉ một người quát."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Only one person shouts.",
+          "text_translation": "Chỉ một người quát."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "As soon as one person shouts, the other does the same.",
+            "vi": "Ngay khi một người quát, người kia cũng làm vậy."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "As soon as one person shouts, the other does the same.",
+          "text_translation": "Ngay khi một người quát, người kia cũng làm vậy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People stop talking.",
+            "vi": "Mọi người thôi nói."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "People stop talking.",
+          "text_translation": "Mọi người thôi nói."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "No sooner … than … = vừa mới … thì đã … Câu mô tả hai bên leo thang cùng lúc."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"No sooner has one person raised their voice than the other raises theirs\" describe?",
+      "question_vn": "Câu \"Một người vừa cao giọng là người kia cũng cao giọng theo\" mô tả điều gì?",
+      "explanation": "No sooner … than … = vừa mới … thì đã … Câu mô tả hai bên leo thang cùng lúc."
+    },
+    {
+      "id": "q_u2930_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "Why does a question like \"What makes you see it that way?\" help?",
+        "vi": "Vì sao câu hỏi kiểu \"Điều gì khiến anh nhìn nhận như vậy?\" có ích?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it ends the conversation",
+            "vi": "vì nó kết thúc cuộc nói chuyện"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it ends the conversation",
+          "text_translation": "vì nó kết thúc cuộc nói chuyện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because people listen more once they feel that they have been heard",
+            "vi": "vì người ta lắng nghe hơn khi thấy mình đã được lắng nghe"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because people listen more once they feel that they have been heard",
+          "text_translation": "vì người ta lắng nghe hơn khi thấy mình đã được lắng nghe"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it proves the other person wrong",
+            "vi": "vì nó chứng minh người kia sai"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it proves the other person wrong",
+          "text_translation": "vì nó chứng minh người kia sai"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it is clever",
+            "vi": "vì nó khôn ngoan"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it is clever",
+          "text_translation": "vì nó khôn ngoan"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"people are far more willing to listen once they feel that they have been heard.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does a question like \"What makes you see it that way?\" help?",
+      "question_vn": "Vì sao câu hỏi kiểu \"Điều gì khiến anh nhìn nhận như vậy?\" có ích?",
+      "explanation": "\"people are far more willing to listen once they feel that they have been heard.\""
+    },
+    {
+      "id": "q_u2930_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "Why does the writer give the example of two parents who disagree about phones?",
+        "vi": "Vì sao người viết đưa ví dụ hai bố mẹ bất đồng về điện thoại?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to say that phones are dangerous",
+            "vi": "để nói điện thoại nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to say that phones are dangerous",
+          "text_translation": "để nói điện thoại nguy hiểm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that parents always argue",
+            "vi": "để cho thấy bố mẹ luôn cãi nhau"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that parents always argue",
+          "text_translation": "để cho thấy bố mẹ luôn cãi nhau"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to criticize parents",
+            "vi": "để chê bố mẹ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to criticize parents",
+          "text_translation": "để chê bố mẹ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show how people who disagree can still share the same goal",
+            "vi": "để cho thấy những người bất đồng vẫn có thể cùng một mục tiêu"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show how people who disagree can still share the same goal",
+          "text_translation": "để cho thấy những người bất đồng vẫn có thể cùng một mục tiêu"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng. Ví dụ minh hoạ lời khuyên \"look for what you share\": cả hai đều muốn \"a child who is happy and safe\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer give the example of two parents who disagree about phones?",
+      "question_vn": "Vì sao người viết đưa ví dụ hai bố mẹ bất đồng về điện thoại?",
+      "explanation": "Câu suy luận về chức năng. Ví dụ minh hoạ lời khuyên \"look for what you share\": cả hai đều muốn \"a child who is happy and safe\"."
+    },
+    {
+      "id": "q_u2930_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "Why is \"I worry when…\" easier to hear than \"You always…\"?",
+        "vi": "Vì sao \"Con lo khi…\" dễ nghe hơn \"Bố lúc nào cũng…\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it talks about the speaker's feelings instead of attacking the other person",
+            "vi": "vì nó nói về cảm xúc của người nói thay vì tấn công người kia"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because it talks about the speaker's feelings instead of attacking the other person",
+          "text_translation": "vì nó nói về cảm xúc của người nói thay vì tấn công người kia"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it is shorter",
+            "vi": "vì nó ngắn hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because it is shorter",
+          "text_translation": "vì nó ngắn hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it is a question",
+            "vi": "vì nó là câu hỏi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it is a question",
+          "text_translation": "vì nó là câu hỏi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it is more polite to shout",
+            "vi": "vì quát thì lịch sự hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it is more polite to shout",
+          "text_translation": "vì quát thì lịch sự hơn"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"talk about yourself, not the other person\". Câu \"You always…\" dễ khiến người nghe thấy bị tấn công, như đoạn trước đã giải thích."
+      },
+      "audio_data": null,
+      "question_jp": "Why is \"I worry when…\" easier to hear than \"You always…\"?",
+      "question_vn": "Vì sao \"Con lo khi…\" dễ nghe hơn \"Bố lúc nào cũng…\"?",
+      "explanation": "Câu suy luận. \"talk about yourself, not the other person\". Câu \"You always…\" dễ khiến người nghe thấy bị tấn công, như đoạn trước đã giải thích."
+    },
+    {
+      "id": "q_u2930_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "According to the writer, when might someone actually change their mind?",
+        "vi": "Theo người viết, khi nào người ta có thể thật sự đổi ý?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "immediately, at the table",
+            "vi": "ngay lập tức, trên bàn ăn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "immediately, at the table",
+          "text_translation": "ngay lập tức, trên bàn ăn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "never",
+            "vi": "không bao giờ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "never",
+          "text_translation": "không bao giờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "perhaps days later, when nobody is watching",
+            "vi": "có thể vài ngày sau, khi không ai để ý"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "perhaps days later, when nobody is watching",
+          "text_translation": "có thể vài ngày sau, khi không ai để ý"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "only when they are shouted at",
+            "vi": "chỉ khi bị quát"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "only when they are shouted at",
+          "text_translation": "chỉ khi bị quát"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"perhaps not at the table, but days later, when nobody is watching.\" Not only does … but also … là đảo ngữ nhấn mạnh."
+      },
+      "audio_data": null,
+      "question_jp": "According to the writer, when might someone actually change their mind?",
+      "question_vn": "Theo người viết, khi nào người ta có thể thật sự đổi ý?",
+      "explanation": "\"perhaps not at the table, but days later, when nobody is watching.\" Not only does … but also … là đảo ngữ nhấn mạnh."
+    },
+    {
+      "id": "q_u2930_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "What does \"Never has an argument been improved by continuing it at the top of your voice\" suggest?",
+        "vi": "Câu \"Chưa từng có cuộc tranh cãi nào tốt lên nhờ cứ tiếp tục gào to\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Shouting helps people win arguments.",
+            "vi": "Quát tháo giúp thắng tranh cãi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Shouting helps people win arguments.",
+          "text_translation": "Quát tháo giúp thắng tranh cãi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Shouting never makes an argument better, so it is better to take a break.",
+            "vi": "Quát tháo không bao giờ làm cuộc tranh cãi tốt hơn, nên tốt hơn là tạm nghỉ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Shouting never makes an argument better, so it is better to take a break.",
+          "text_translation": "Quát tháo không bao giờ làm cuộc tranh cãi tốt hơn, nên tốt hơn là tạm nghỉ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Arguments are always bad.",
+            "vi": "Tranh cãi lúc nào cũng xấu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Arguments are always bad.",
+          "text_translation": "Tranh cãi lúc nào cũng xấu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People should speak more quietly at work.",
+            "vi": "Nên nói nhỏ hơn ở chỗ làm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "People should speak more quietly at work.",
+          "text_translation": "Nên nói nhỏ hơn ở chỗ làm."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Never has … been … = đảo ngữ phủ định nhấn mạnh. Câu này ủng hộ lời khuyên ngay trước: \"Let's take a break and come back to this.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Never has an argument been improved by continuing it at the top of your voice\" suggest?",
+      "question_vn": "Câu \"Chưa từng có cuộc tranh cãi nào tốt lên nhờ cứ tiếp tục gào to\" hàm ý gì?",
+      "explanation": "Never has … been … = đảo ngữ phủ định nhấn mạnh. Câu này ủng hộ lời khuyên ngay trước: \"Let's take a break and come back to this.\""
+    },
+    {
+      "id": "q_u2930_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2930_02",
+      "i18n": {
+        "en": "Use both texts. What do Harriet's code word and the advice in the article have in common?",
+        "vi": "Dựa vào cả hai bài. Mật khẩu gia đình của bà Harriet và lời khuyên trong bài báo có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both are about money.",
+            "vi": "Cả hai đều về tiền."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both are about money.",
+          "text_translation": "Cả hai đều về tiền."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both tell people to keep secrets from their families.",
+            "vi": "Cả hai đều bảo giấu gia đình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both tell people to keep secrets from their families.",
+          "text_translation": "Cả hai đều bảo giấu gia đình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both are about pizza.",
+            "vi": "Cả hai đều về pizza."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both are about pizza.",
+          "text_translation": "Cả hai đều về pizza."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both show that clear, calm communication within a family protects it.",
+            "vi": "Cả hai cho thấy giao tiếp rõ ràng, bình tĩnh trong gia đình giúp bảo vệ gia đình."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both show that clear, calm communication within a family protects it.",
+          "text_translation": "Cả hai cho thấy giao tiếp rõ ràng, bình tĩnh trong gia đình giúp bảo vệ gia đình."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: \"A family can survive many disagreements. It is much harder to survive the habit of not listening.\" Bài 1: bà Harriet gọi cho người nhà để kiểm tra, rồi cả nhà thống nhất một mật khẩu."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Harriet's code word and the advice in the article have in common?",
+      "question_vn": "Dựa vào cả hai bài. Mật khẩu gia đình của bà Harriet và lời khuyên trong bài báo có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Bài 2: \"A family can survive many disagreements. It is much harder to survive the habit of not listening.\" Bài 1: bà Harriet gọi cho người nhà để kiểm tra, rồi cả nhà thống nhất một mật khẩu."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2930_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 29) — Bản tin: bà Harriet suýt bị lừa qua điện thoại",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2930_01",
+      "question_ids": [
+        "q_u2930_001",
+        "q_u2930_002",
+        "q_u2930_003",
+        "q_u2930_004",
+        "q_u2930_005",
+        "q_u2930_006",
+        "q_u2930_007",
+        "q_u2930_008",
+        "q_u2930_009",
+        "q_u2930_010"
+      ]
+    },
+    {
+      "set_id": "set_u2930_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 30) — Cách bất đồng mà không mất lòng nhau",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2930_02",
+      "question_ids": [
+        "q_u2930_011",
+        "q_u2930_012",
+        "q_u2930_013",
+        "q_u2930_014",
+        "q_u2930_015",
+        "q_u2930_016",
+        "q_u2930_017",
+        "q_u2930_018",
+        "q_u2930_019",
+        "q_u2930_020"
+      ]
+    }
+  ]
+}
