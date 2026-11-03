@@ -1,0 +1,1353 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 14 — Sport and fitness",
+      "vi": "Thể thao và rèn luyện sức khoẻ"
+    },
+    "title": "Unit 14 — Sport and fitness",
+    "title_vn": "Thể thao và rèn luyện sức khoẻ",
+    "module_code": "57_u14",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u14",
+    "curriculum_sheets": [
+      "a2.53",
+      "a2.54",
+      "a2.55",
+      "a2.56"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Tracy Carter",
+      "Mitchell Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 6, năm 3 (thứ Bảy 29/6, theo lịch mẫu năm 2024; Trevor 12 tuổi, lớp 7, đã khỏi trẹo chân từ tháng 2; Tracy 17 tuổi, tốt nghiệp 14/6, chưa đi Washington; Mitchell nghỉ hè)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Cụm động từ (warm up, give up, cheer on, put on, sign up…), both / either … or / neither of, động từ nhẹ (have a drink, take a look, take a break); thông tin cụ thể, từ trong ngữ cảnh, quy chiếu, áp dụng lịch, suy luận lý do và cảm xúc",
+    "description_vn": "Trevor kể trận chung kết giải bóng hè ở công viên Pine Street (đội Maple Street Stars thắng 2–1, Trevor chuyền cho Jake ghi bàn quyết định, Tracy và Mitchell đi cổ vũ), và thông báo lịch cùng quy định an toàn của các lớp thể dục mùa hè miễn phí / có phí ở công viên. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 14 khoá A2 · phiếu `a2.53` – `a2.56` (môn thể thao, xem trận đấu, luật chơi, giữ dáng khoẻ mạnh)."
+    },
+    "objective_i18n": {
+      "vi": "đọc chuyện Trevor kể trận chung kết giải bóng hè, và thông báo lịch cùng quy định an toàn của các lớp thể dục mùa hè ở công viên Pine Street; hiểu cụm động từ (warm up, cool down, put on, give up, cheer on, call over, sign up, work out), both / either … or / neither of, động từ nhẹ (have a drink, take a look, take a break, do exercise); tìm chi tiết trong lịch, hiểu nghĩa cụm động từ, hiểu them chỉ gì, áp dụng thông báo cho một người cụ thể và suy ra điều bài không nói thẳng."
+    },
+    "extra_words": [
+      {
+        "word": "score",
+        "i18n": {
+          "vi": "ghi bàn"
+        }
+      },
+      {
+        "word": "final",
+        "i18n": {
+          "vi": "trận chung kết"
+        }
+      },
+      {
+        "word": "half-time",
+        "i18n": {
+          "vi": "giờ nghỉ giữa hiệp"
+        }
+      },
+      {
+        "word": "proud",
+        "i18n": {
+          "vi": "tự hào"
+        }
+      },
+      {
+        "word": "sunscreen",
+        "i18n": {
+          "vi": "kem chống nắng"
+        }
+      },
+      {
+        "word": "boot camp",
+        "i18n": {
+          "vi": "lớp tập thể lực cường độ cao"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "warm up / cool down",
+          "vi": "khởi động / thả lỏng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "give up",
+          "vi": "bỏ cuộc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "cheer someone on",
+          "vi": "cổ vũ ai"
+        }
+      },
+      {
+        "i18n": {
+          "en": "sign up",
+          "vi": "đăng ký"
+        }
+      },
+      {
+        "i18n": {
+          "en": "have a drink / take a break",
+          "vi": "uống một ngụm / nghỉ một lát"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take a look at…",
+          "vi": "xem qua…"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Cụm động từ** không dịch từng chữ: `give up` = bỏ cuộc, `cheer on` = cổ vũ. Đọc câu ngay trước và sau để đoán nghĩa (sau `give up` là lời huấn luyện viên: \"Nobody gives up on my team\")."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**both** = cả hai, **either A or B** = A hoặc B (chọn một), **neither of us** = không ai trong hai chúng tôi. `Sign up either online or at the park office` nghĩa là có hai cách đăng ký."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Động từ nhẹ** = have / take / do + danh từ: `have a drink` (uống một ngụm), `take a look` (xem qua), `take a break` (nghỉ một lát), `have a shower` (tắm). Nghĩa nằm ở danh từ."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài **lịch / thông báo**: với mỗi lớp, ghi ra 3 thông tin ngày – giờ – tuổi. Câu hỏi về một người cụ thể (5 tuổi, thứ Bảy) thì soát cả ba thông tin, không chỉ một."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu **suy luận** cảm xúc ở cuối bài: xem câu kết đang nói về ai, rồi nối với những điều đã biết về người đó (Tracy tốt nghiệp, tháng Tám đi Washington)."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u14_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Trận chung kết giải bóng hè của Trevor"
+      },
+      "narrator": "Trevor",
+      "title": "The Final at Pine Street Park",
+      "category": "story",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Final at Pine Street Park",
+            "vi": "Trận chung kết ở công viên Pine Street"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last Saturday, my team, the Maple Street Stars, played the Ocean Hawks in the summer championship final.",
+            "vi": "Thứ Bảy tuần trước, đội của tôi, Maple Street Stars, đá với đội Ocean Hawks trong trận chung kết giải bóng hè."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My ankle is fine now, and I've worked out every morning since April.",
+            "vi": "Mắt cá chân của tôi giờ đã ổn, và từ tháng 4 tới giờ sáng nào tôi cũng tập luyện."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before the match, Coach Whitaker made us warm up for fifteen minutes.",
+            "vi": "Trước trận, huấn luyện viên Whitaker bắt cả đội khởi động mười lăm phút."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then Jake and I both put on our lucky socks, and neither of us lets our moms wash them!",
+            "vi": "Rồi cả Jake và tôi cùng đi đôi tất may mắn của mình vào, mà chẳng đứa nào trong hai chúng tôi cho mẹ giặt chúng cả!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy graduated two weeks ago, and Dad is on summer vacation, so both came to cheer us on.",
+            "vi": "Chị Tracy tốt nghiệp được hai tuần, còn bố đang nghỉ hè, nên cả hai cùng tới cổ vũ đội tôi."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Hawks scored early, and at half-time I was tired and wanted to give up.",
+            "vi": "Đội Hawks ghi bàn từ sớm, và tới giờ nghỉ giữa hiệp thì tôi mệt và chỉ muốn bỏ cuộc."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Coach Whitaker",
+          "label": null,
+          "i18n": {
+            "en": "Nobody gives up on my team. Have some water and enjoy the game.",
+            "vi": "Trong đội của tôi không ai bỏ cuộc cả. Uống chút nước rồi tận hưởng trận đấu đi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the second half, Jake passed me the ball, and I scored.",
+            "vi": "Sang hiệp hai, Jake chuyền bóng cho tôi, và tôi ghi bàn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ten seconds before the end, two Hawks players were in front of me, but Jake was alone on my right.",
+            "vi": "Mười giây trước khi hết giờ, trước mặt tôi có hai cầu thủ Hawks, nhưng Jake thì đứng một mình bên phải tôi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I could either shoot or pass, so I passed, and Jake scored: we won two to one!",
+            "vi": "Tôi có thể hoặc sút, hoặc chuyền, và tôi đã chuyền, thế là Jake ghi bàn: chúng tôi thắng hai một!"
+          }
+        },
+        {
+          "n": 12,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy screamed, and Dad jumped up and down like a kid.",
+            "vi": "Chị Tracy hét ầm lên, còn bố thì nhảy cẫng lên như một đứa trẻ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Jake, our captain, called me over before he held up the cup.",
+            "vi": "Jake, đội trưởng của chúng tôi, gọi tôi lại trước khi giơ cao chiếc cúp."
+          }
+        },
+        {
+          "n": 14,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "i18n": {
+            "en": "Half of this goal is yours, Trevor.",
+            "vi": "Một nửa bàn thắng này là của cậu đấy, Trevor."
+          }
+        },
+        {
+          "n": 15,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After a shower, we all went to Harriet's for pizza, and Tracy took a look at my medal.",
+            "vi": "Tắm xong, cả nhà kéo nhau ra quán Harriet's ăn pizza, và chị Tracy ngắm nghía tấm huy chương của tôi."
+          }
+        },
+        {
+          "n": 16,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "I'm so proud of you, little brother.",
+            "vi": "Chị tự hào về em lắm, em trai."
+          }
+        },
+        {
+          "n": 17,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I smiled, but then I remembered August: who will cheer me on next summer?",
+            "vi": "Tôi mỉm cười, nhưng rồi tôi nhớ ra tháng Tám: mùa hè năm sau, ai sẽ cổ vũ cho tôi đây?"
+          }
+        }
+      ],
+      "content_ja": "The Final at Pine Street Park\n\nLast Saturday, my team, the Maple Street Stars, played the Ocean Hawks in the summer championship final. My ankle is fine now, and I've worked out every morning since April.\n\nBefore the match, Coach Whitaker made us warm up for fifteen minutes. Then Jake and I both put on our lucky socks, and neither of us lets our moms wash them!\n\nTracy graduated two weeks ago, and Dad is on summer vacation, so both came to cheer us on.\n\nThe Hawks scored early, and at half-time I was tired and wanted to give up.\n\nCoach Whitaker: Nobody gives up on my team. Have some water and enjoy the game.\n\nIn the second half, Jake passed me the ball, and I scored.\n\nTen seconds before the end, two Hawks players were in front of me, but Jake was alone on my right. I could either shoot or pass, so I passed, and Jake scored: we won two to one!\n\nTracy screamed, and Dad jumped up and down like a kid.\n\nJake, our captain, called me over before he held up the cup.\n\nJake: Half of this goal is yours, Trevor.\n\nAfter a shower, we all went to Harriet's for pizza, and Tracy took a look at my medal.\n\nTracy: I'm so proud of you, little brother.\n\nI smiled, but then I remembered August: who will cheer me on next summer?",
+      "translation_vn": "(1) Trận chung kết ở công viên Pine Street\n(2) Thứ Bảy tuần trước, đội của tôi, Maple Street Stars, đá với đội Ocean Hawks trong trận chung kết giải bóng hè.\n(3) Mắt cá chân của tôi giờ đã ổn, và từ tháng 4 tới giờ sáng nào tôi cũng tập luyện.\n(4) Trước trận, huấn luyện viên Whitaker bắt cả đội khởi động mười lăm phút.\n(5) Rồi cả Jake và tôi cùng đi đôi tất may mắn của mình vào, mà chẳng đứa nào trong hai chúng tôi cho mẹ giặt chúng cả!\n(6) Chị Tracy tốt nghiệp được hai tuần, còn bố đang nghỉ hè, nên cả hai cùng tới cổ vũ đội tôi.\n(7) Đội Hawks ghi bàn từ sớm, và tới giờ nghỉ giữa hiệp thì tôi mệt và chỉ muốn bỏ cuộc.\n(8) Coach Whitaker: Trong đội của tôi không ai bỏ cuộc cả. Uống chút nước rồi tận hưởng trận đấu đi.\n(9) Sang hiệp hai, Jake chuyền bóng cho tôi, và tôi ghi bàn.\n(10) Mười giây trước khi hết giờ, trước mặt tôi có hai cầu thủ Hawks, nhưng Jake thì đứng một mình bên phải tôi.\n(11) Tôi có thể hoặc sút, hoặc chuyền, và tôi đã chuyền, thế là Jake ghi bàn: chúng tôi thắng hai một!\n(12) Chị Tracy hét ầm lên, còn bố thì nhảy cẫng lên như một đứa trẻ.\n(13) Jake, đội trưởng của chúng tôi, gọi tôi lại trước khi giơ cao chiếc cúp.\n(14) Jake: Một nửa bàn thắng này là của cậu đấy, Trevor.\n(15) Tắm xong, cả nhà kéo nhau ra quán Harriet's ăn pizza, và chị Tracy ngắm nghía tấm huy chương của tôi.\n(16) Tracy: Chị tự hào về em lắm, em trai.\n(17) Tôi mỉm cười, nhưng rồi tôi nhớ ra tháng Tám: mùa hè năm sau, ai sẽ cổ vũ cho tôi đây?",
+      "word_count": 232,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.53",
+        "a2.54",
+        "a2.55",
+        "a2.56"
+      ]
+    },
+    {
+      "id": "passage_u14_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Lịch và nội quy lớp thể dục hè ở công viên Pine Street"
+      },
+      "narrator": "announcer",
+      "title": "Summer Fitness at Pine Street Park",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Summer Fitness at Pine Street Park",
+            "vi": "Tập thể dục mùa hè ở công viên Pine Street"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Is the gym too expensive or too boring for you? Keep fit with us this summer!",
+            "vi": "Phòng tập quá đắt hoặc quá nhàm chán với bạn? Hãy cùng chúng tôi giữ dáng khoẻ mạnh mùa hè này!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From Monday, July 1, to Saturday, August 10, our coaches will run classes on the grass next to the soccer field.",
+            "vi": "Từ thứ Hai 1/7 tới thứ Bảy 10/8, các huấn luyện viên của chúng tôi sẽ mở lớp trên bãi cỏ cạnh sân bóng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Free classes: just come!",
+            "vi": "Lớp miễn phí: cứ tới thôi!"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Morning Walking Club: Monday, Wednesday and Friday, 7:00 to 8:00 a.m., for all ages, about four kilometers.",
+            "vi": "Câu lạc bộ Đi bộ Buổi sáng: thứ Hai, thứ Tư và thứ Sáu, 7:00 tới 8:00 sáng, cho mọi lứa tuổi, đi khoảng bốn ki-lô-mét."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Family Fitness: Saturday, 9:00 to 10:00 a.m., with fun games for parents and children over six.",
+            "vi": "Thể dục Gia đình: thứ Bảy, 9:00 tới 10:00 sáng, có trò chơi vui nhộn cho bố mẹ và trẻ trên sáu tuổi."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Paid classes: sign up first",
+            "vi": "Lớp có phí: đăng ký trước"
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Boot Camp: Tuesday and Thursday, 6:00 to 7:00 p.m., for anyone over 16, $5 a class or $30 for eight.",
+            "vi": "Boot Camp (lớp tập cường độ cao): thứ Ba và thứ Năm, 6:00 tới 7:00 tối, cho mọi người trên 16 tuổi, 5 đô một buổi hoặc 30 đô cho tám buổi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kids' Soccer Skills: Monday and Wednesday, 6:00 to 7:00 p.m., ages 8 to 12, $40 for the summer.",
+            "vi": "Kỹ năng Bóng đá cho Trẻ em: thứ Hai và thứ Tư, 6:00 tới 7:00 tối, trẻ 8 tới 12 tuổi, 40 đô cho cả mùa hè."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sign up either online or at the park office (619-555-0139); both paid classes have only 20 places.",
+            "vi": "Hãy đăng ký trên mạng hoặc ở văn phòng công viên (619-555-0139); cả hai lớp có phí đều chỉ có 20 chỗ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There are no classes on July 4.",
+            "vi": "Ngày 4/7 không có lớp nào."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Staying safe",
+            "vi": "Giữ an toàn"
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "All classes are in the morning or the evening, because the middle of the day is too hot for exercise.",
+            "vi": "Mọi lớp đều vào buổi sáng hoặc buổi tối, vì giữa ngày trời quá nóng để tập thể dục."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bring a water bottle, and have a drink every 15 to 20 minutes, even before you feel thirsty.",
+            "vi": "Hãy mang theo bình nước, và cứ 15 tới 20 phút lại uống một ngụm, kể cả khi bạn chưa thấy khát."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Wear sunscreen, a hat, light clothes and running shoes.",
+            "vi": "Hãy thoa kem chống nắng, đội mũ, mặc quần áo mỏng nhẹ và đi giày chạy bộ."
+          }
+        },
+        {
+          "n": 16,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every class starts with a ten-minute warm-up and ends with a five-minute cool-down, so please don't come late.",
+            "vi": "Lớp nào cũng bắt đầu bằng mười phút khởi động và kết thúc bằng năm phút thả lỏng, nên xin đừng tới muộn."
+          }
+        },
+        {
+          "n": 17,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you feel dizzy or sick, stop, take a break in the shade and tell your coach.",
+            "vi": "Nếu bạn thấy chóng mặt hay buồn nôn, hãy dừng lại, nghỉ trong bóng râm và báo cho huấn luyện viên."
+          }
+        },
+        {
+          "n": 18,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When it is over 90 degrees, there is no class, so take a look at our website first.",
+            "vi": "Khi trời trên 90 độ F (khoảng 32 độ C), lớp sẽ nghỉ, vậy hãy xem trang web của chúng tôi trước đã."
+          }
+        }
+      ],
+      "content_ja": "Summer Fitness at Pine Street Park\n\nIs the gym too expensive or too boring for you? Keep fit with us this summer! From Monday, July 1, to Saturday, August 10, our coaches will run classes on the grass next to the soccer field.\n\nFree classes: just come!\n\nMorning Walking Club: Monday, Wednesday and Friday, 7:00 to 8:00 a.m., for all ages, about four kilometers. Family Fitness: Saturday, 9:00 to 10:00 a.m., with fun games for parents and children over six.\n\nPaid classes: sign up first\n\nBoot Camp: Tuesday and Thursday, 6:00 to 7:00 p.m., for anyone over 16, $5 a class or $30 for eight. Kids' Soccer Skills: Monday and Wednesday, 6:00 to 7:00 p.m., ages 8 to 12, $40 for the summer. Sign up either online or at the park office (619-555-0139); both paid classes have only 20 places. There are no classes on July 4.\n\nStaying safe\n\nAll classes are in the morning or the evening, because the middle of the day is too hot for exercise. Bring a water bottle, and have a drink every 15 to 20 minutes, even before you feel thirsty. Wear sunscreen, a hat, light clothes and running shoes. Every class starts with a ten-minute warm-up and ends with a five-minute cool-down, so please don't come late. If you feel dizzy or sick, stop, take a break in the shade and tell your coach. When it is over 90 degrees, there is no class, so take a look at our website first.",
+      "translation_vn": "(1) Tập thể dục mùa hè ở công viên Pine Street\n(2) Phòng tập quá đắt hoặc quá nhàm chán với bạn? Hãy cùng chúng tôi giữ dáng khoẻ mạnh mùa hè này!\n(3) Từ thứ Hai 1/7 tới thứ Bảy 10/8, các huấn luyện viên của chúng tôi sẽ mở lớp trên bãi cỏ cạnh sân bóng.\n(4) Lớp miễn phí: cứ tới thôi!\n(5) Câu lạc bộ Đi bộ Buổi sáng: thứ Hai, thứ Tư và thứ Sáu, 7:00 tới 8:00 sáng, cho mọi lứa tuổi, đi khoảng bốn ki-lô-mét.\n(6) Thể dục Gia đình: thứ Bảy, 9:00 tới 10:00 sáng, có trò chơi vui nhộn cho bố mẹ và trẻ trên sáu tuổi.\n(7) Lớp có phí: đăng ký trước\n(8) Boot Camp (lớp tập cường độ cao): thứ Ba và thứ Năm, 6:00 tới 7:00 tối, cho mọi người trên 16 tuổi, 5 đô một buổi hoặc 30 đô cho tám buổi.\n(9) Kỹ năng Bóng đá cho Trẻ em: thứ Hai và thứ Tư, 6:00 tới 7:00 tối, trẻ 8 tới 12 tuổi, 40 đô cho cả mùa hè.\n(10) Hãy đăng ký trên mạng hoặc ở văn phòng công viên (619-555-0139); cả hai lớp có phí đều chỉ có 20 chỗ.\n(11) Ngày 4/7 không có lớp nào.\n(12) Giữ an toàn\n(13) Mọi lớp đều vào buổi sáng hoặc buổi tối, vì giữa ngày trời quá nóng để tập thể dục.\n(14) Hãy mang theo bình nước, và cứ 15 tới 20 phút lại uống một ngụm, kể cả khi bạn chưa thấy khát.\n(15) Hãy thoa kem chống nắng, đội mũ, mặc quần áo mỏng nhẹ và đi giày chạy bộ.\n(16) Lớp nào cũng bắt đầu bằng mười phút khởi động và kết thúc bằng năm phút thả lỏng, nên xin đừng tới muộn.\n(17) Nếu bạn thấy chóng mặt hay buồn nôn, hãy dừng lại, nghỉ trong bóng râm và báo cho huấn luyện viên.\n(18) Khi trời trên 90 độ F (khoảng 32 độ C), lớp sẽ nghỉ, vậy hãy xem trang web của chúng tôi trước đã.",
+      "word_count": 235,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.53",
+        "a2.54",
+        "a2.55",
+        "a2.56"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u14_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "How long did the team warm up before the match?",
+        "vi": "Cả đội khởi động bao lâu trước trận?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "ten seconds",
+            "vi": "mười giây"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "ten seconds",
+          "text_translation": "mười giây"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "fifteen minutes",
+            "vi": "mười lăm phút"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "fifteen minutes",
+          "text_translation": "mười lăm phút"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "two weeks",
+            "vi": "hai tuần"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "two weeks",
+          "text_translation": "hai tuần"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "every morning since April",
+            "vi": "sáng nào cũng tập, từ tháng 4"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "every morning since April",
+          "text_translation": "sáng nào cũng tập, từ tháng 4"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Before the match, Coach Whitaker made us warm up for fifteen minutes.\" Vậy cả đội khởi động mười lăm phút. \"Ten seconds\" là lúc trận đấu sắp hết (\"Ten seconds before the end\"). \"Two weeks\" là thời gian từ lúc Tracy tốt nghiệp (\"Tracy graduated two weeks ago\"). \"Every morning since April\" là chuyện Trevor tự tập luyện (\"I've worked out every morning since April\"), không phải khởi động trước trận."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi How long…? có nhiều con số thời gian trong bài làm nhiễu. Tìm đúng động từ của câu hỏi (warm up) trong bài rồi lấy con số đứng cạnh nó."
+      },
+      "question_jp": "How long did the team warm up before the match?",
+      "question_vn": "Cả đội khởi động bao lâu trước trận?",
+      "explanation": "\"Before the match, Coach Whitaker made us warm up for fifteen minutes.\" Vậy cả đội khởi động mười lăm phút. \"Ten seconds\" là lúc trận đấu sắp hết (\"Ten seconds before the end\"). \"Two weeks\" là thời gian từ lúc Tracy tốt nghiệp (\"Tracy graduated two weeks ago\"). \"Every morning since April\" là chuyện Trevor tự tập luyện (\"I've worked out every morning since April\"), không phải khởi động trước trận.",
+      "tip": "Câu hỏi How long…? có nhiều con số thời gian trong bài làm nhiễu. Tìm đúng động từ của câu hỏi (warm up) trong bài rồi lấy con số đứng cạnh nó."
+    },
+    {
+      "id": "q_u14_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "In \"at half-time I was tired and wanted to give up\", what does \"give up\" mean?",
+        "vi": "Trong câu \"at half-time I was tired and wanted to give up\", \"give up\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "pass the ball to a friend",
+            "vi": "chuyền bóng cho bạn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "pass the ball to a friend",
+          "text_translation": "chuyền bóng cho bạn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "have some water",
+            "vi": "uống chút nước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "have some water",
+          "text_translation": "uống chút nước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "stop trying",
+            "vi": "thôi không cố gắng nữa, bỏ cuộc"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "stop trying",
+          "text_translation": "thôi không cố gắng nữa, bỏ cuộc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "get up from the grass",
+            "vi": "đứng dậy khỏi bãi cỏ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "get up from the grass",
+          "text_translation": "đứng dậy khỏi bãi cỏ"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Trevor bị dẫn bàn và \"was tired\", nên muốn \"give up\". Huấn luyện viên đáp ngay: \"Nobody gives up on my team.\" rồi động viên cả đội đá tiếp. Vậy \"give up\" là bỏ cuộc, thôi không cố nữa. Chuyền bóng là \"pass\", uống nước là \"have some water\" (lời huấn luyện viên khuyên), còn \"up\" ở đây không có nghĩa là đứng dậy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cụm động từ không dịch từng chữ được. Đọc câu đáp lại ngay sau nó: ở đây lời huấn luyện viên cho thấy give up là điều xấu mà cả đội không được làm."
+      },
+      "question_jp": "In \"at half-time I was tired and wanted to give up\", what does \"give up\" mean?",
+      "question_vn": "Trong câu \"at half-time I was tired and wanted to give up\", \"give up\" nghĩa là gì?",
+      "explanation": "Trevor bị dẫn bàn và \"was tired\", nên muốn \"give up\". Huấn luyện viên đáp ngay: \"Nobody gives up on my team.\" rồi động viên cả đội đá tiếp. Vậy \"give up\" là bỏ cuộc, thôi không cố nữa. Chuyền bóng là \"pass\", uống nước là \"have some water\" (lời huấn luyện viên khuyên), còn \"up\" ở đây không có nghĩa là đứng dậy.",
+      "tip": "Cụm động từ không dịch từng chữ được. Đọc câu đáp lại ngay sau nó: ở đây lời huấn luyện viên cho thấy give up là điều xấu mà cả đội không được làm."
+    },
+    {
+      "id": "q_u14_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "Why did Trevor pass the ball to Jake ten seconds before the end?",
+        "vi": "Vì sao Trevor chuyền bóng cho Jake ở mười giây cuối?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Jake had a better chance to score, because no players were near him.",
+            "vi": "Jake có cơ hội ghi bàn tốt hơn, vì không có cầu thủ nào ở gần cậu ấy."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Jake had a better chance to score, because no players were near him.",
+          "text_translation": "Jake có cơ hội ghi bàn tốt hơn, vì không có cầu thủ nào ở gần cậu ấy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor's ankle hurt again.",
+            "vi": "Mắt cá chân của Trevor lại đau."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor's ankle hurt again.",
+          "text_translation": "Mắt cá chân của Trevor lại đau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Coach Whitaker told him to pass.",
+            "vi": "Huấn luyện viên Whitaker bảo cậu chuyền."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Coach Whitaker told him to pass.",
+          "text_translation": "Huấn luyện viên Whitaker bảo cậu chuyền."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor was too tired to shoot.",
+            "vi": "Trevor mệt quá, không sút nổi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Trevor was too tired to shoot.",
+          "text_translation": "Trevor mệt quá, không sút nổi."
+        }
+      ],
+      "evidence_segments": [
+        3,
+        8,
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do, nhưng ta suy ra được. \"two Hawks players were in front of me, but Jake was alone on my right.\" Trước mặt Trevor có hai cầu thủ đối phương, còn Jake đứng một mình, nên Jake dễ ghi bàn hơn. Và đúng vậy: \"Jake scored\". Mắt cá chân của Trevor đã khỏi (\"My ankle is fine now\"). Huấn luyện viên chỉ nói \"Nobody gives up on my team\", không bảo chuyền. Trevor mệt là lúc nghỉ giữa hiệp, và sau đó cậu vẫn ghi được một bàn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận lý do: đặt hai chi tiết cạnh nhau (two players in front of me, Jake was alone) rồi hỏi \"vì thế nên…?\". Loại phương án mâu thuẫn với chi tiết khác trong bài."
+      },
+      "question_jp": "Why did Trevor pass the ball to Jake ten seconds before the end?",
+      "question_vn": "Vì sao Trevor chuyền bóng cho Jake ở mười giây cuối?",
+      "explanation": "Bài không nói thẳng lý do, nhưng ta suy ra được. \"two Hawks players were in front of me, but Jake was alone on my right.\" Trước mặt Trevor có hai cầu thủ đối phương, còn Jake đứng một mình, nên Jake dễ ghi bàn hơn. Và đúng vậy: \"Jake scored\". Mắt cá chân của Trevor đã khỏi (\"My ankle is fine now\"). Huấn luyện viên chỉ nói \"Nobody gives up on my team\", không bảo chuyền. Trevor mệt là lúc nghỉ giữa hiệp, và sau đó cậu vẫn ghi được một bàn.",
+      "tip": "Câu suy luận lý do: đặt hai chi tiết cạnh nhau (two players in front of me, Jake was alone) rồi hỏi \"vì thế nên…?\". Loại phương án mâu thuẫn với chi tiết khác trong bài."
+    },
+    {
+      "id": "q_u14_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "In \"neither of us lets our moms wash them\", what does \"them\" mean?",
+        "vi": "Trong câu \"neither of us lets our moms wash them\", \"them\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "our moms",
+            "vi": "mẹ của hai đứa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "our moms",
+          "text_translation": "mẹ của hai đứa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Jake and Trevor",
+            "vi": "Jake và Trevor"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Jake and Trevor",
+          "text_translation": "Jake và Trevor"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the team's shirts",
+            "vi": "áo của cả đội"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the team's shirts",
+          "text_translation": "áo của cả đội"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the boys' lucky socks",
+            "vi": "đôi tất may mắn của hai cậu bé"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the boys' lucky socks",
+          "text_translation": "đôi tất may mắn của hai cậu bé"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Then Jake and I both put on our lucky socks, and neither of us lets our moms wash them!\" Thứ được (hay không được) giặt là \"our lucky socks\" vừa nhắc ở đầu câu. \"Our moms\" là người giặt, không phải thứ bị giặt. \"Jake and I\" chính là \"us\". Bài không nhắc tới áo của đội."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "them chỉ một danh từ số nhiều đứng trước nó. Thử thay từng phương án vào chỗ them (wash our moms? wash our lucky socks?) xem câu nào có nghĩa."
+      },
+      "question_jp": "In \"neither of us lets our moms wash them\", what does \"them\" mean?",
+      "question_vn": "Trong câu \"neither of us lets our moms wash them\", \"them\" chỉ cái gì?",
+      "explanation": "\"Then Jake and I both put on our lucky socks, and neither of us lets our moms wash them!\" Thứ được (hay không được) giặt là \"our lucky socks\" vừa nhắc ở đầu câu. \"Our moms\" là người giặt, không phải thứ bị giặt. \"Jake and I\" chính là \"us\". Bài không nhắc tới áo của đội.",
+      "tip": "them chỉ một danh từ số nhiều đứng trước nó. Thử thay từng phương án vào chỗ them (wash our moms? wash our lucky socks?) xem câu nào có nghĩa."
+    },
+    {
+      "id": "q_u14_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "Why does Trevor ask \"who will cheer me on next summer?\"",
+        "vi": "Vì sao Trevor hỏi \"who will cheer me on next summer?\" (mùa hè năm sau ai sẽ cổ vũ cho tôi)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He doesn't like his medal.",
+            "vi": "Cậu không thích tấm huy chương của mình."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He doesn't like his medal.",
+          "text_translation": "Cậu không thích tấm huy chương của mình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy will not be there, because she is leaving in August.",
+            "vi": "Chị Tracy sẽ không còn ở đó, vì tháng Tám chị đi xa."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Tracy will not be there, because she is leaving in August.",
+          "text_translation": "Chị Tracy sẽ không còn ở đó, vì tháng Tám chị đi xa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Dad will be back at work and can't come.",
+            "vi": "Bố sẽ đi làm lại nên không tới được."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Dad will be back at work and can't come.",
+          "text_translation": "Bố sẽ đi làm lại nên không tới được."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Jake is going to leave the team.",
+            "vi": "Jake sắp rời đội."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Jake is going to leave the team.",
+          "text_translation": "Jake sắp rời đội."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        12,
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Cả bài, Tracy là người cổ vũ Trevor: \"both came to cheer us on\", \"Tracy screamed\", \"I'm so proud of you, little brother.\" Ngay sau đó Trevor \"remembered August\": Tracy vừa \"graduated\", và (như ta biết từ Unit 9) tháng Tám chị sẽ bay tới Washington học đại học. Vậy Trevor buồn vì hè năm sau chị không còn ở nhà. Trevor mỉm cười khi xem huy chương, nên không phải không thích nó. Bài không nói bố sẽ đi làm vào hè năm sau, cũng không nói Jake rời đội."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu kết bài thường mang cảm xúc. Hỏi: ngay trước câu đó, người viết vừa nói về ai? Rồi nối với điều bạn biết về người đó."
+      },
+      "question_jp": "Why does Trevor ask \"who will cheer me on next summer?\"",
+      "question_vn": "Vì sao Trevor hỏi \"who will cheer me on next summer?\" (mùa hè năm sau ai sẽ cổ vũ cho tôi)?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Cả bài, Tracy là người cổ vũ Trevor: \"both came to cheer us on\", \"Tracy screamed\", \"I'm so proud of you, little brother.\" Ngay sau đó Trevor \"remembered August\": Tracy vừa \"graduated\", và (như ta biết từ Unit 9) tháng Tám chị sẽ bay tới Washington học đại học. Vậy Trevor buồn vì hè năm sau chị không còn ở nhà. Trevor mỉm cười khi xem huy chương, nên không phải không thích nó. Bài không nói bố sẽ đi làm vào hè năm sau, cũng không nói Jake rời đội.",
+      "tip": "Câu kết bài thường mang cảm xúc. Hỏi: ngay trước câu đó, người viết vừa nói về ai? Rồi nối với điều bạn biết về người đó."
+    },
+    {
+      "id": "q_u14_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "Which class is for children from 8 to 12 years old?",
+        "vi": "Lớp nào dành cho trẻ từ 8 tới 12 tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Morning Walking Club",
+            "vi": "Câu lạc bộ Đi bộ Buổi sáng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Morning Walking Club",
+          "text_translation": "Câu lạc bộ Đi bộ Buổi sáng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Family Fitness",
+            "vi": "Thể dục Gia đình"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Family Fitness",
+          "text_translation": "Thể dục Gia đình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Boot Camp",
+            "vi": "Boot Camp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Boot Camp",
+          "text_translation": "Boot Camp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Kids' Soccer Skills",
+            "vi": "Kỹ năng Bóng đá cho Trẻ em"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Kids' Soccer Skills",
+          "text_translation": "Kỹ năng Bóng đá cho Trẻ em"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Kids' Soccer Skills: Monday and Wednesday, 6:00 to 7:00 p.m., ages 8 to 12, $40 for the summer.\" Morning Walking Club là \"for all ages\" (mọi lứa tuổi). Family Fitness dành cho \"parents and children over six\" (bố mẹ cùng trẻ trên sáu tuổi). Boot Camp là \"for anyone over 16\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài thông báo dạng lịch: dò cột tuổi của từng lớp. Đừng chọn lớp có trẻ em mà không khớp đúng độ tuổi."
+      },
+      "question_jp": "Which class is for children from 8 to 12 years old?",
+      "question_vn": "Lớp nào dành cho trẻ từ 8 tới 12 tuổi?",
+      "explanation": "\"Kids' Soccer Skills: Monday and Wednesday, 6:00 to 7:00 p.m., ages 8 to 12, $40 for the summer.\" Morning Walking Club là \"for all ages\" (mọi lứa tuổi). Family Fitness dành cho \"parents and children over six\" (bố mẹ cùng trẻ trên sáu tuổi). Boot Camp là \"for anyone over 16\".",
+      "tip": "Bài thông báo dạng lịch: dò cột tuổi của từng lớp. Đừng chọn lớp có trẻ em mà không khớp đúng độ tuổi."
+    },
+    {
+      "id": "q_u14_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "How can you sign up for a paid class?",
+        "vi": "Có thể đăng ký lớp có phí bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "online or at the park office",
+            "vi": "trên mạng hoặc ở văn phòng công viên"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "online or at the park office",
+          "text_translation": "trên mạng hoặc ở văn phòng công viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "only by phone",
+            "vi": "chỉ qua điện thoại"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "only by phone",
+          "text_translation": "chỉ qua điện thoại"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at the start of your first class",
+            "vi": "khi buổi học đầu tiên bắt đầu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at the start of your first class",
+          "text_translation": "khi buổi học đầu tiên bắt đầu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on the grass next to the soccer field",
+            "vi": "trên bãi cỏ cạnh sân bóng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "on the grass next to the soccer field",
+          "text_translation": "trên bãi cỏ cạnh sân bóng"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Sign up either online or at the park office (619-555-0139)\". either … or … = hoặc cái này hoặc cái kia, nên có hai cách: trên mạng hoặc tới văn phòng. Số điện thoại là của văn phòng, nhưng bài không nói \"only by phone\". Mục lớp có phí ghi rõ \"sign up first\" (đăng ký trước), nên không phải đợi tới buổi đầu. \"On the grass next to the soccer field\" là nơi diễn ra lớp học, không phải nơi đăng ký."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "either A or B = A hoặc B, cả hai cách đều được. Phương án có only thường sai khi bài đưa ra hai lựa chọn."
+      },
+      "question_jp": "How can you sign up for a paid class?",
+      "question_vn": "Có thể đăng ký lớp có phí bằng cách nào?",
+      "explanation": "\"Sign up either online or at the park office (619-555-0139)\". either … or … = hoặc cái này hoặc cái kia, nên có hai cách: trên mạng hoặc tới văn phòng. Số điện thoại là của văn phòng, nhưng bài không nói \"only by phone\". Mục lớp có phí ghi rõ \"sign up first\" (đăng ký trước), nên không phải đợi tới buổi đầu. \"On the grass next to the soccer field\" là nơi diễn ra lớp học, không phải nơi đăng ký.",
+      "tip": "either A or B = A hoặc B, cả hai cách đều được. Phương án có only thường sai khi bài đưa ra hai lựa chọn."
+    },
+    {
+      "id": "q_u14_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "What happens at the end of every class?",
+        "vi": "Cuối mỗi buổi học có hoạt động gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a ten-minute warm-up",
+            "vi": "mười phút khởi động"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a ten-minute warm-up",
+          "text_translation": "mười phút khởi động"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a short game for parents and children",
+            "vi": "một trò chơi ngắn cho bố mẹ và trẻ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a short game for parents and children",
+          "text_translation": "một trò chơi ngắn cho bố mẹ và trẻ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a five-minute cool-down",
+            "vi": "năm phút thả lỏng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a five-minute cool-down",
+          "text_translation": "năm phút thả lỏng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a look at the website",
+            "vi": "xem trang web"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a look at the website",
+          "text_translation": "xem trang web"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every class starts with a ten-minute warm-up and ends with a five-minute cool-down\". \"Ends with\" = kết thúc bằng, nên cuối buổi là năm phút thả lỏng. Mười phút khởi động là phần \"starts with\" (đầu buổi). Trò chơi là của lớp Family Fitness, không phải mọi lớp. Xem trang web là việc làm trước khi đi (\"take a look at our website first\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "warm up (khởi động) đi trước, cool down (thả lỏng) đi sau. Chú ý cặp starts with / ends with để biết việc nào ở đầu, việc nào ở cuối."
+      },
+      "question_jp": "What happens at the end of every class?",
+      "question_vn": "Cuối mỗi buổi học có hoạt động gì?",
+      "explanation": "\"Every class starts with a ten-minute warm-up and ends with a five-minute cool-down\". \"Ends with\" = kết thúc bằng, nên cuối buổi là năm phút thả lỏng. Mười phút khởi động là phần \"starts with\" (đầu buổi). Trò chơi là của lớp Family Fitness, không phải mọi lớp. Xem trang web là việc làm trước khi đi (\"take a look at our website first\").",
+      "tip": "warm up (khởi động) đi trước, cool down (thả lỏng) đi sau. Chú ý cặp starts with / ends with để biết việc nào ở đầu, việc nào ở cuối."
+    },
+    {
+      "id": "q_u14_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "Helena wants to do exercise with her five-year-old daughter, Amy, on Saturday morning. What can she do?",
+        "vi": "Helena muốn tập thể dục cùng con gái Amy năm tuổi vào sáng thứ Bảy. Cô có thể làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Go to Family Fitness with Amy at 9:00 a.m.",
+            "vi": "Đi lớp Thể dục Gia đình cùng Amy lúc 9 giờ sáng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Go to Family Fitness with Amy at 9:00 a.m.",
+          "text_translation": "Đi lớp Thể dục Gia đình cùng Amy lúc 9 giờ sáng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Sign Amy up for Kids' Soccer Skills online.",
+            "vi": "Đăng ký cho Amy lớp Kỹ năng Bóng đá trên mạng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Sign Amy up for Kids' Soccer Skills online.",
+          "text_translation": "Đăng ký cho Amy lớp Kỹ năng Bóng đá trên mạng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Take Amy to Boot Camp at 6:00 p.m.",
+            "vi": "Đưa Amy tới lớp Boot Camp lúc 6 giờ tối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Take Amy to Boot Camp at 6:00 p.m.",
+          "text_translation": "Đưa Amy tới lớp Boot Camp lúc 6 giờ tối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The Saturday class is not for Amy, so they can walk together on a weekday.",
+            "vi": "Lớp thứ Bảy không dành cho Amy, nên hai mẹ con có thể đi bộ cùng nhau vào một ngày trong tuần."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The Saturday class is not for Amy, so they can walk together on a weekday.",
+          "text_translation": "Lớp thứ Bảy không dành cho Amy, nên hai mẹ con có thể đi bộ cùng nhau vào một ngày trong tuần."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6,
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói về Amy, nên ta phải suy ra từ lịch. Lớp duy nhất vào thứ Bảy là Family Fitness, nhưng chỉ cho \"children over six\", mà Amy mới năm tuổi. Kids' Soccer Skills là \"ages 8 to 12\" và học thứ Hai, thứ Tư. Boot Camp là \"for anyone over 16\", học thứ Ba, thứ Năm. Còn Morning Walking Club \"for all ages\" vào \"Monday, Wednesday and Friday\": Amy đi được, nhưng không phải vào thứ Bảy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu áp dụng thông báo cho một người cụ thể: ghi ra điều kiện của người đó (5 tuổi, thứ Bảy) rồi soát từng lớp theo cả ngày lẫn tuổi."
+      },
+      "question_jp": "Helena wants to do exercise with her five-year-old daughter, Amy, on Saturday morning. What can she do?",
+      "question_vn": "Helena muốn tập thể dục cùng con gái Amy năm tuổi vào sáng thứ Bảy. Cô có thể làm gì?",
+      "explanation": "Bài không nói về Amy, nên ta phải suy ra từ lịch. Lớp duy nhất vào thứ Bảy là Family Fitness, nhưng chỉ cho \"children over six\", mà Amy mới năm tuổi. Kids' Soccer Skills là \"ages 8 to 12\" và học thứ Hai, thứ Tư. Boot Camp là \"for anyone over 16\", học thứ Ba, thứ Năm. Còn Morning Walking Club \"for all ages\" vào \"Monday, Wednesday and Friday\": Amy đi được, nhưng không phải vào thứ Bảy.",
+      "tip": "Câu áp dụng thông báo cho một người cụ thể: ghi ra điều kiện của người đó (5 tuổi, thứ Bảy) rồi soát từng lớp theo cả ngày lẫn tuổi."
+    },
+    {
+      "id": "q_u14_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "What should you do when you feel dizzy in a class?",
+        "vi": "Bạn nên làm gì khi thấy chóng mặt trong giờ tập?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "stop, take a break in the shade and tell your coach",
+            "vi": "dừng lại, nghỉ trong bóng râm và báo cho huấn luyện viên"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "stop, take a break in the shade and tell your coach",
+          "text_translation": "dừng lại, nghỉ trong bóng râm và báo cho huấn luyện viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "have a drink and keep going",
+            "vi": "uống một ngụm nước rồi tập tiếp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "have a drink and keep going",
+          "text_translation": "uống một ngụm nước rồi tập tiếp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "go home and check the website",
+            "vi": "về nhà và xem trang web"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "go home and check the website",
+          "text_translation": "về nhà và xem trang web"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "do a five-minute cool-down",
+            "vi": "thả lỏng năm phút"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "do a five-minute cool-down",
+          "text_translation": "thả lỏng năm phút"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you feel dizzy or sick, stop, take a break in the shade and tell your coach.\" Bài bảo dừng lại, không phải \"keep going\" (tập tiếp); uống nước 15–20 phút một lần là quy định chung, không phải việc khi chóng mặt. Trang web dùng để xem lớp có nghỉ vì trời nóng không. Năm phút thả lỏng là phần cuối mỗi buổi, không phải cách xử lý khi chóng mặt."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Quy định dạng If you…, (do this) thường là một chuỗi mệnh lệnh. Đáp án đúng phải khớp với CẢ chuỗi, không chỉ một phần."
+      },
+      "question_jp": "What should you do when you feel dizzy in a class?",
+      "question_vn": "Bạn nên làm gì khi thấy chóng mặt trong giờ tập?",
+      "explanation": "\"If you feel dizzy or sick, stop, take a break in the shade and tell your coach.\" Bài bảo dừng lại, không phải \"keep going\" (tập tiếp); uống nước 15–20 phút một lần là quy định chung, không phải việc khi chóng mặt. Trang web dùng để xem lớp có nghỉ vì trời nóng không. Năm phút thả lỏng là phần cuối mỗi buổi, không phải cách xử lý khi chóng mặt.",
+      "tip": "Quy định dạng If you…, (do this) thường là một chuỗi mệnh lệnh. Đáp án đúng phải khớp với CẢ chuỗi, không chỉ một phần."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u14_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Trận chung kết giải bóng hè của Trevor",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u14_01",
+      "question_ids": [
+        "q_u14_001",
+        "q_u14_002",
+        "q_u14_003",
+        "q_u14_004",
+        "q_u14_005"
+      ]
+    },
+    {
+      "set_id": "set_u14_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Lịch và nội quy lớp thể dục hè ở công viên Pine Street",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u14_02",
+      "question_ids": [
+        "q_u14_006",
+        "q_u14_007",
+        "q_u14_008",
+        "q_u14_009",
+        "q_u14_010"
+      ]
+    }
+  ]
+}
