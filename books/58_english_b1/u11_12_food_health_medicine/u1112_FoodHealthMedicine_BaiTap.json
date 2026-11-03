@@ -1,0 +1,2022 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 11–12 — Food and health & Medicine",
+      "vi": "Ăn uống, sức khoẻ & Y tế"
+    },
+    "title": "Units 11–12 — Food and health & Medicine",
+    "title_vn": "Ăn uống, sức khoẻ & Y tế",
+    "module_code": "58_u1112",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u11+u12",
+    "curriculum_sheets": [
+      "b1.041",
+      "b1.042",
+      "b1.043",
+      "b1.044",
+      "b1.045",
+      "b1.046",
+      "b1.047",
+      "b1.048"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Mitchell Carter",
+      "Trevor Carter",
+      "Megan Carter",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 1, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Ý chính, so…that, ought to, áp dụng tình huống",
+    "description_vn": "Tina kể tháng ăn lành mạnh của bố và tờ thông tin của bệnh viện về cảm lạnh, cúm, kháng sinh. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 11 + Unit 12 khoá B1 · phiếu `b1.041` – `b1.048` (ăn uống lành mạnh, chế độ ăn, nấu ăn ở nhà, món ăn các nước; khám bệnh, phòng khám, bệnh tật, giữ sức khoẻ)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài kể chuyện gia đình và một tờ thông tin sức khoẻ; nắm ý chính, hiểu V-ing làm chủ ngữ (Cooking at home is…), cấu trúc so … that, lời khuyên với ought to, và áp dụng thông tin vào tình huống."
+    },
+    "extra_words": [
+      {
+        "word": "leaflet",
+        "i18n": {
+          "vi": "tờ thông tin"
+        }
+      },
+      {
+        "word": "curry",
+        "i18n": {
+          "vi": "món cà ri"
+        }
+      },
+      {
+        "word": "energetic",
+        "i18n": {
+          "vi": "tràn đầy năng lượng"
+        }
+      },
+      {
+        "word": "antibiotic",
+        "i18n": {
+          "vi": "thuốc kháng sinh"
+        }
+      },
+      {
+        "word": "virus",
+        "i18n": {
+          "vi": "vi-rút"
+        }
+      },
+      {
+        "word": "bacteria",
+        "i18n": {
+          "vi": "vi khuẩn"
+        }
+      },
+      {
+        "word": "resistant",
+        "i18n": {
+          "vi": "kháng (thuốc), không bị tác động"
+        }
+      },
+      {
+        "word": "vaccine",
+        "i18n": {
+          "vi": "vắc-xin"
+        }
+      },
+      {
+        "word": "resident",
+        "i18n": {
+          "vi": "bác sĩ nội trú"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "lose your appetite",
+          "vi": "mất cảm giác thèm ăn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "try out",
+          "vi": "thử (món, cách làm mới)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a substitute for",
+          "vi": "món thay thế cho"
+        }
+      },
+      {
+        "i18n": {
+          "en": "come down with",
+          "vi": "bị (ốm)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get over a cold",
+          "vi": "khỏi cảm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stay away from",
+          "vi": "tránh xa, nghỉ (làm, học)"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`so … that …` = đến mức mà. Câu hỏi \"Why…?\" thường có đáp án là vế trước `that`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu nói đùa của nhân vật (\"it's called more broccoli\"): đừng hiểu theo nghĩa đen. Hãy hỏi người đó thật sự muốn nói gì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Tờ thông tin sức khoẻ: tách rõ *khi nào tự chăm sóc ở nhà* và *khi nào phải đi khám*. Câu áp dụng tình huống luôn hỏi vào ranh giới này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Tránh phương án tuyệt đối (`never`, `every`, `always`) khi bài nói `rarely`, `usually`, `often`."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1112_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 11) — Tháng Một ăn lành mạnh của bố"
+      },
+      "narrator": "Tina",
+      "title": "Dad's Healthy January",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 160,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad's Healthy January",
+            "vi": "Tháng Một ăn lành mạnh của bố"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every January, my dad makes a promise, and this year it was a big one: \"No more takeaway pizza for a month!\"",
+            "vi": "Tháng Một nào bố mình cũng hứa một điều, và năm nay là một lời hứa lớn: \"Cả tháng không gọi pizza mang về nữa!\""
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He said that cooking at home is cheaper and healthier, and that eating together is the best part of the day.",
+            "vi": "Bố nói nấu ở nhà vừa rẻ vừa tốt cho sức khoẻ, và được ăn cùng nhau là lúc vui nhất trong ngày."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor lost his appetite as soon as he heard it.",
+            "vi": "Anh Trevor vừa nghe xong là mất hết cả hứng ăn."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He said that he could happily live on pizza, but Mom reminded him that a good diet needs the right proportion of vegetables.",
+            "vi": "Anh bảo mình có thể sống vui vẻ chỉ bằng pizza, nhưng mẹ nhắc rằng một chế độ ăn tốt cần có tỉ lệ rau hợp lý."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On the first night, Dad tried out a vegetarian curry with spinach, ginger and lots of spices.",
+            "vi": "Tối đầu tiên, bố thử nấu món cà ri chay với rau chân vịt, gừng và thật nhiều gia vị."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was so spicy that Trevor drank three glasses of milk, but I loved the flavor.",
+            "vi": "Món đó cay tới mức anh Trevor uống hết ba cốc sữa, nhưng mình thì mê vị của nó."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The next evening, Dad grilled salmon and served it with plain rice and broccoli.",
+            "vi": "Tối hôm sau, bố nướng cá hồi, ăn kèm cơm trắng và bông cải xanh."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom said that salmon is full of nutrients that are good for your heart and brain.",
+            "vi": "Mẹ bảo cá hồi rất nhiều chất dinh dưỡng tốt cho tim và não."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor asked if there was a substitute for broccoli.",
+            "vi": "Anh Trevor hỏi có món nào thay được bông cải xanh không."
+          }
+        },
+        {
+          "n": 11,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Yes,\" Dad said, \"it's called more broccoli.\"",
+            "vi": "\"Có chứ,\" bố đáp, \"nó tên là thêm bông cải xanh.\""
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad also started reading the ingredients on every package, and he was shocked by how much sugar some sauces contain.",
+            "vi": "Bố còn bắt đầu đọc thành phần trên mọi gói hàng, và bố sốc khi thấy có những loại nước sốt chứa nhiều đường đến thế."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After that, he cut out sugar from his coffee, and he was in a bad mood until lunch the next day.",
+            "vi": "Sau đó bố bỏ đường trong cà phê, và bố cáu kỉnh tới tận trưa hôm sau."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not every meal was a success.",
+            "vi": "Không phải bữa nào cũng thành công."
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad's cabbage soup was so tasteless that even Biscuit, who usually wants everything, did not come into the kitchen.",
+            "vi": "Món súp bắp cải của bố nhạt tới mức cả Biscuit, đứa lúc nào cũng đòi ăn đủ thứ, cũng chẳng thèm vào bếp."
+          }
+        },
+        {
+          "n": 16,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cooking every night is also tiring, so on busy days we used frozen vegetables, which are often just as nutritious as fresh ones.",
+            "vi": "Nấu ăn mỗi tối cũng mệt, nên những hôm bận, nhà mình dùng rau đông lạnh, loại thường cũng bổ không kém rau tươi."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In thirty days, we did not order takeaway food even once.",
+            "vi": "Suốt ba mươi ngày, nhà mình không gọi đồ ăn mang về lần nào."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom felt more energetic, and Trevor admitted that he likes salmon now.",
+            "vi": "Mẹ thấy khoẻ khoắn hơn, còn anh Trevor thừa nhận giờ anh ấy thích cá hồi rồi."
+          }
+        },
+        {
+          "n": 19,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My job was to stir the sauces, and I've decided that I want to be a chef.",
+            "vi": "Việc của mình là khuấy nước sốt, và mình đã quyết định sau này sẽ làm đầu bếp."
+          }
+        },
+        {
+          "n": 20,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next January, I'm going to choose the promise!",
+            "vi": "Tháng Một năm sau, mình sẽ là người chọn lời hứa!"
+          }
+        },
+        {
+          "n": 21,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          }
+        }
+      ],
+      "content_ja": "Dad's Healthy January\n\nEvery January, my dad makes a promise, and this year it was a big one: \"No more takeaway pizza for a month!\" He said that cooking at home is cheaper and healthier, and that eating together is the best part of the day. Trevor lost his appetite as soon as he heard it. He said that he could happily live on pizza, but Mom reminded him that a good diet needs the right proportion of vegetables.\n\nOn the first night, Dad tried out a vegetarian curry with spinach, ginger and lots of spices. It was so spicy that Trevor drank three glasses of milk, but I loved the flavor. The next evening, Dad grilled salmon and served it with plain rice and broccoli. Mom said that salmon is full of nutrients that are good for your heart and brain. Trevor asked if there was a substitute for broccoli. \"Yes,\" Dad said, \"it's called more broccoli.\"\n\nDad also started reading the ingredients on every package, and he was shocked by how much sugar some sauces contain. After that, he cut out sugar from his coffee, and he was in a bad mood until lunch the next day. Not every meal was a success. Dad's cabbage soup was so tasteless that even Biscuit, who usually wants everything, did not come into the kitchen. Cooking every night is also tiring, so on busy days we used frozen vegetables, which are often just as nutritious as fresh ones.\n\nIn thirty days, we did not order takeaway food even once. Mom felt more energetic, and Trevor admitted that he likes salmon now. My job was to stir the sauces, and I've decided that I want to be a chef. Next January, I'm going to choose the promise!\n\nTina",
+      "translation_vn": "(1) Tháng Một ăn lành mạnh của bố\n(2) Tháng Một nào bố mình cũng hứa một điều, và năm nay là một lời hứa lớn: \"Cả tháng không gọi pizza mang về nữa!\"\n(3) Bố nói nấu ở nhà vừa rẻ vừa tốt cho sức khoẻ, và được ăn cùng nhau là lúc vui nhất trong ngày.\n(4) Anh Trevor vừa nghe xong là mất hết cả hứng ăn.\n(5) Anh bảo mình có thể sống vui vẻ chỉ bằng pizza, nhưng mẹ nhắc rằng một chế độ ăn tốt cần có tỉ lệ rau hợp lý.\n(6) Tối đầu tiên, bố thử nấu món cà ri chay với rau chân vịt, gừng và thật nhiều gia vị.\n(7) Món đó cay tới mức anh Trevor uống hết ba cốc sữa, nhưng mình thì mê vị của nó.\n(8) Tối hôm sau, bố nướng cá hồi, ăn kèm cơm trắng và bông cải xanh.\n(9) Mẹ bảo cá hồi rất nhiều chất dinh dưỡng tốt cho tim và não.\n(10) Anh Trevor hỏi có món nào thay được bông cải xanh không.\n(11) \"Có chứ,\" bố đáp, \"nó tên là thêm bông cải xanh.\"\n(12) Bố còn bắt đầu đọc thành phần trên mọi gói hàng, và bố sốc khi thấy có những loại nước sốt chứa nhiều đường đến thế.\n(13) Sau đó bố bỏ đường trong cà phê, và bố cáu kỉnh tới tận trưa hôm sau.\n(14) Không phải bữa nào cũng thành công.\n(15) Món súp bắp cải của bố nhạt tới mức cả Biscuit, đứa lúc nào cũng đòi ăn đủ thứ, cũng chẳng thèm vào bếp.\n(16) Nấu ăn mỗi tối cũng mệt, nên những hôm bận, nhà mình dùng rau đông lạnh, loại thường cũng bổ không kém rau tươi.\n(17) Suốt ba mươi ngày, nhà mình không gọi đồ ăn mang về lần nào.\n(18) Mẹ thấy khoẻ khoắn hơn, còn anh Trevor thừa nhận giờ anh ấy thích cá hồi rồi.\n(19) Việc của mình là khuấy nước sốt, và mình đã quyết định sau này sẽ làm đầu bếp.\n(20) Tháng Một năm sau, mình sẽ là người chọn lời hứa!\n(21) Tina",
+      "word_count": 296,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.041",
+        "b1.042",
+        "b1.043",
+        "b1.044"
+      ]
+    },
+    {
+      "id": "passage_u1112_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 12) — Cảm lạnh, cúm và kháng sinh"
+      },
+      "narrator": "announcer",
+      "title": "Colds, Flu and Antibiotics: What You Should Know",
+      "category": "notice",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 160,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Colds, Flu and Antibiotics: What You Should Know",
+            "vi": "Cảm lạnh, cúm và kháng sinh: những điều bạn nên biết"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every winter, our emergency room fills up with people who have come down with a cold or the flu.",
+            "vi": "Mùa đông nào phòng cấp cứu của chúng tôi cũng kín người bị cảm lạnh hoặc cúm."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many of them ask for antibiotics, but these medicines do not work against viruses, which cause colds and the flu.",
+            "vi": "Nhiều người xin kháng sinh, nhưng loại thuốc này không có tác dụng với virus, thứ gây ra cảm lạnh và cúm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Antibiotics only treat infections caused by bacteria, such as some ear infections.",
+            "vi": "Kháng sinh chỉ chữa các bệnh nhiễm trùng do vi khuẩn, chẳng hạn một số ca viêm tai."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Taking them when you do not need them will not help you get over a cold faster.",
+            "vi": "Uống kháng sinh khi không cần sẽ không giúp bạn khỏi cảm nhanh hơn."
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Worse, using antibiotics too often helps bacteria become resistant, so the medicine may not work when you really need it.",
+            "vi": "Tệ hơn, dùng kháng sinh quá thường xuyên khiến vi khuẩn kháng thuốc, nên thuốc có thể mất tác dụng đúng lúc bạn thật sự cần."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So what ought you to do?",
+            "vi": "Vậy bạn nên làm gì?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For most colds, rest, plenty of water and time are the best treatment, and most people recover within about seven to ten days.",
+            "vi": "Với phần lớn ca cảm lạnh, nghỉ ngơi, uống nhiều nước và thời gian là cách chữa tốt nhất, và đa số người khỏi trong khoảng bảy tới mười ngày."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The flu is usually more serious, and its symptoms, such as fever, aches and feeling very tired, often come on suddenly.",
+            "vi": "Cúm thường nặng hơn, và các triệu chứng như sốt, đau nhức, mệt mỏi thường đến đột ngột."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Getting a flu vaccine every year is the best way to protect yourself, and doctors recommend it for almost everyone six months and older.",
+            "vi": "Tiêm vắc-xin cúm hằng năm là cách tự bảo vệ tốt nhất, và bác sĩ khuyên gần như mọi người từ sáu tháng tuổi trở lên đều nên tiêm."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, see a doctor quickly if you have trouble breathing, chest pain or a fever that does not go away, or if you feel better and then suddenly worse.",
+            "vi": "Tuy nhiên, hãy đi khám ngay nếu bạn khó thở, đau ngực hoặc sốt mãi không dứt, hay nếu đã đỡ rồi lại đột ngột nặng hơn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Coming to the emergency room for a simple cold is rarely necessary,\" says Dr. Leah Carter, a first-year resident at Sunset Bay.",
+            "vi": "\"Cảm lạnh thông thường thì hiếm khi cần tới phòng cấp cứu,\" bác sĩ Leah Carter, bác sĩ nội trú năm nhất ở Sunset Bay, nói."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"But please do not stay at home when you are really unwell. We would rather see you too early than too late.\"",
+            "vi": "\"Nhưng xin đừng ở nhà khi bạn thật sự không khoẻ. Chúng tôi thà gặp bạn sớm quá còn hơn muộn quá.\""
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, wash your hands often, and stay away from work or school when you are sick to avoid passing the virus to others.",
+            "vi": "Cuối cùng, hãy rửa tay thường xuyên, và nghỉ làm, nghỉ học khi đang ốm để tránh lây virus cho người khác."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunset Bay Hospital",
+            "vi": "Bệnh viện Sunset Bay"
+          }
+        }
+      ],
+      "content_ja": "Colds, Flu and Antibiotics: What You Should Know\n\nEvery winter, our emergency room fills up with people who have come down with a cold or the flu. Many of them ask for antibiotics, but these medicines do not work against viruses, which cause colds and the flu. Antibiotics only treat infections caused by bacteria, such as some ear infections. Taking them when you do not need them will not help you get over a cold faster. Worse, using antibiotics too often helps bacteria become resistant, so the medicine may not work when you really need it.\n\nSo what ought you to do? For most colds, rest, plenty of water and time are the best treatment, and most people recover within about seven to ten days. The flu is usually more serious, and its symptoms, such as fever, aches and feeling very tired, often come on suddenly. Getting a flu vaccine every year is the best way to protect yourself, and doctors recommend it for almost everyone six months and older.\n\nHowever, see a doctor quickly if you have trouble breathing, chest pain or a fever that does not go away, or if you feel better and then suddenly worse. \"Coming to the emergency room for a simple cold is rarely necessary,\" says Dr. Leah Carter, a first-year resident at Sunset Bay. \"But please do not stay at home when you are really unwell. We would rather see you too early than too late.\"\n\nFinally, wash your hands often, and stay away from work or school when you are sick to avoid passing the virus to others.\n\nSunset Bay Hospital",
+      "translation_vn": "(1) Cảm lạnh, cúm và kháng sinh: những điều bạn nên biết\n(2) Mùa đông nào phòng cấp cứu của chúng tôi cũng kín người bị cảm lạnh hoặc cúm.\n(3) Nhiều người xin kháng sinh, nhưng loại thuốc này không có tác dụng với virus, thứ gây ra cảm lạnh và cúm.\n(4) Kháng sinh chỉ chữa các bệnh nhiễm trùng do vi khuẩn, chẳng hạn một số ca viêm tai.\n(5) Uống kháng sinh khi không cần sẽ không giúp bạn khỏi cảm nhanh hơn.\n(6) Tệ hơn, dùng kháng sinh quá thường xuyên khiến vi khuẩn kháng thuốc, nên thuốc có thể mất tác dụng đúng lúc bạn thật sự cần.\n(7) Vậy bạn nên làm gì?\n(8) Với phần lớn ca cảm lạnh, nghỉ ngơi, uống nhiều nước và thời gian là cách chữa tốt nhất, và đa số người khỏi trong khoảng bảy tới mười ngày.\n(9) Cúm thường nặng hơn, và các triệu chứng như sốt, đau nhức, mệt mỏi thường đến đột ngột.\n(10) Tiêm vắc-xin cúm hằng năm là cách tự bảo vệ tốt nhất, và bác sĩ khuyên gần như mọi người từ sáu tháng tuổi trở lên đều nên tiêm.\n(11) Tuy nhiên, hãy đi khám ngay nếu bạn khó thở, đau ngực hoặc sốt mãi không dứt, hay nếu đã đỡ rồi lại đột ngột nặng hơn.\n(12) \"Cảm lạnh thông thường thì hiếm khi cần tới phòng cấp cứu,\" bác sĩ Leah Carter, bác sĩ nội trú năm nhất ở Sunset Bay, nói.\n(13) \"Nhưng xin đừng ở nhà khi bạn thật sự không khoẻ. Chúng tôi thà gặp bạn sớm quá còn hơn muộn quá.\"\n(14) Cuối cùng, hãy rửa tay thường xuyên, và nghỉ làm, nghỉ học khi đang ốm để tránh lây virus cho người khác.\n(15) Bệnh viện Sunset Bay",
+      "word_count": 270,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.045",
+        "b1.046",
+        "b1.047",
+        "b1.048"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1112_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What is the text mainly about?",
+        "vi": "Bài đọc chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina's plan to become a chef",
+            "vi": "dự định làm đầu bếp của Tina"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina's plan to become a chef",
+          "text_translation": "dự định làm đầu bếp của Tina"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Dad's month of cooking healthy food at home",
+            "vi": "một tháng bố nấu món lành mạnh ở nhà"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Dad's month of cooking healthy food at home",
+          "text_translation": "một tháng bố nấu món lành mạnh ở nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the best pizza in San Diego",
+            "vi": "món pizza ngon nhất San Diego"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the best pizza in San Diego",
+          "text_translation": "món pizza ngon nhất San Diego"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Biscuit's favorite food",
+            "vi": "món ăn khoái khẩu của Biscuit"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Biscuit's favorite food",
+          "text_translation": "món ăn khoái khẩu của Biscuit"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"this year it was a big one: \"No more takeaway pizza for a month!\"\" Cả bài kể từng bữa trong tháng đó. Chuyện Tina muốn làm đầu bếp chỉ ở câu kết."
+      },
+      "audio_data": null,
+      "question_jp": "What is the text mainly about?",
+      "question_vn": "Bài đọc chủ yếu nói về điều gì?",
+      "explanation": "\"this year it was a big one: \"No more takeaway pizza for a month!\"\" Cả bài kể từng bữa trong tháng đó. Chuyện Tina muốn làm đầu bếp chỉ ở câu kết."
+    },
+    {
+      "id": "q_u1112_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What was Dad's promise this year?",
+        "vi": "Năm nay bố hứa điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to stop eating meat",
+            "vi": "thôi ăn thịt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to stop eating meat",
+          "text_translation": "thôi ăn thịt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to cook only salmon",
+            "vi": "chỉ nấu cá hồi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to cook only salmon",
+          "text_translation": "chỉ nấu cá hồi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to eat out every weekend",
+            "vi": "cuối tuần nào cũng ăn ngoài"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to eat out every weekend",
+          "text_translation": "cuối tuần nào cũng ăn ngoài"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to stop ordering takeaway pizza for a month",
+            "vi": "cả tháng không gọi pizza mang về"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to stop ordering takeaway pizza for a month",
+          "text_translation": "cả tháng không gọi pizza mang về"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"No more takeaway pizza for a month!\" Bố có nấu một món cà ri chay, nhưng không hứa bỏ hẳn thịt."
+      },
+      "audio_data": null,
+      "question_jp": "What was Dad's promise this year?",
+      "question_vn": "Năm nay bố hứa điều gì?",
+      "explanation": "\"No more takeaway pizza for a month!\" Bố có nấu một món cà ri chay, nhưng không hứa bỏ hẳn thịt."
+    },
+    {
+      "id": "q_u1112_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What does \"Trevor lost his appetite as soon as he heard it\" show?",
+        "vi": "Câu \"Trevor vừa nghe xong là mất hết hứng ăn\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor was not happy about Dad's plan.",
+            "vi": "Trevor không vui với kế hoạch của bố."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Trevor was not happy about Dad's plan.",
+          "text_translation": "Trevor không vui với kế hoạch của bố."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor was sick.",
+            "vi": "Trevor bị ốm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor was sick.",
+          "text_translation": "Trevor bị ốm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor had already eaten dinner.",
+            "vi": "Trevor đã ăn tối rồi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor had already eaten dinner.",
+          "text_translation": "Trevor đã ăn tối rồi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor wanted to help Dad cook.",
+            "vi": "Trevor muốn giúp bố nấu ăn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Trevor wanted to help Dad cook.",
+          "text_translation": "Trevor muốn giúp bố nấu ăn."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Trevor lost his appetite as soon as he heard it.\" Ngay sau lời hứa bỏ pizza mà mất hứng ăn, nghĩa là anh không thích kế hoạch này. Bài không nói anh bị ốm."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Trevor lost his appetite as soon as he heard it\" show?",
+      "question_vn": "Câu \"Trevor vừa nghe xong là mất hết hứng ăn\" cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"Trevor lost his appetite as soon as he heard it.\" Ngay sau lời hứa bỏ pizza mà mất hứng ăn, nghĩa là anh không thích kế hoạch này. Bài không nói anh bị ốm."
+    },
+    {
+      "id": "q_u1112_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "Why did Trevor drink three glasses of milk?",
+        "vi": "Vì sao Trevor uống ba cốc sữa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He was very thirsty after practice.",
+            "vi": "Vì anh rất khát sau buổi tập."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He was very thirsty after practice.",
+          "text_translation": "Vì anh rất khát sau buổi tập."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Milk is good for the heart.",
+            "vi": "Vì sữa tốt cho tim."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Milk is good for the heart.",
+          "text_translation": "Vì sữa tốt cho tim."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The curry was very spicy.",
+            "vi": "Vì món cà ri rất cay."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The curry was very spicy.",
+          "text_translation": "Vì món cà ri rất cay."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dad asked him to.",
+            "vi": "Vì bố bảo anh uống."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Dad asked him to.",
+          "text_translation": "Vì bố bảo anh uống."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was so spicy that Trevor drank three glasses of milk\". Cấu trúc so … that chỉ kết quả: cay tới mức phải uống sữa."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Trevor drink three glasses of milk?",
+      "question_vn": "Vì sao Trevor uống ba cốc sữa?",
+      "explanation": "\"It was so spicy that Trevor drank three glasses of milk\". Cấu trúc so … that chỉ kết quả: cay tới mức phải uống sữa."
+    },
+    {
+      "id": "q_u1112_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What did Mom say about salmon?",
+        "vi": "Mẹ nói gì về cá hồi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is too expensive.",
+            "vi": "Nó quá đắt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is too expensive.",
+          "text_translation": "Nó quá đắt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is full of nutrients that are good for the heart and brain.",
+            "vi": "Nó nhiều chất dinh dưỡng tốt cho tim và não."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It is full of nutrients that are good for the heart and brain.",
+          "text_translation": "Nó nhiều chất dinh dưỡng tốt cho tim và não."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It tastes better than broccoli.",
+            "vi": "Nó ngon hơn bông cải xanh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It tastes better than broccoli.",
+          "text_translation": "Nó ngon hơn bông cải xanh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It should be eaten raw.",
+            "vi": "Nên ăn sống."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It should be eaten raw.",
+          "text_translation": "Nên ăn sống."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Mom said that salmon is full of nutrients that are good for your heart and brain.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Mom say about salmon?",
+      "question_vn": "Mẹ nói gì về cá hồi?",
+      "explanation": "\"Mom said that salmon is full of nutrients that are good for your heart and brain.\""
+    },
+    {
+      "id": "q_u1112_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "What does Dad mean by \"it's called more broccoli\"?",
+        "vi": "Bố muốn nói gì khi đáp \"nó tên là thêm bông cải xanh\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is joking that there is no substitute, so Trevor must eat it.",
+            "vi": "Bố đùa rằng chẳng có món nào thay được, nên Trevor phải ăn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He is joking that there is no substitute, so Trevor must eat it.",
+          "text_translation": "Bố đùa rằng chẳng có món nào thay được, nên Trevor phải ăn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He is going to buy a new vegetable.",
+            "vi": "Bố sắp mua một loại rau mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He is going to buy a new vegetable.",
+          "text_translation": "Bố sắp mua một loại rau mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He does not like broccoli either.",
+            "vi": "Bố cũng không thích bông cải xanh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He does not like broccoli either.",
+          "text_translation": "Bố cũng không thích bông cải xanh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He forgot the name of the vegetable.",
+            "vi": "Bố quên tên loại rau đó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He forgot the name of the vegetable.",
+          "text_translation": "Bố quên tên loại rau đó."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Trevor hỏi \"if there was a substitute for broccoli\" (món thay thế), và bố trả lời đùa \"it's called more broccoli\". Nghĩa là không có món thay; Trevor vẫn phải ăn bông cải."
+      },
+      "audio_data": null,
+      "question_jp": "What does Dad mean by \"it's called more broccoli\"?",
+      "question_vn": "Bố muốn nói gì khi đáp \"nó tên là thêm bông cải xanh\"?",
+      "explanation": "Câu suy luận. Trevor hỏi \"if there was a substitute for broccoli\" (món thay thế), và bố trả lời đùa \"it's called more broccoli\". Nghĩa là không có món thay; Trevor vẫn phải ăn bông cải."
+    },
+    {
+      "id": "q_u1112_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "In \"Dad's cabbage soup was so tasteless that…\", what does \"tasteless\" mean?",
+        "vi": "Trong câu \"Dad's cabbage soup was so tasteless that…\", \"tasteless\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "very spicy",
+            "vi": "rất cay"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "very spicy",
+          "text_translation": "rất cay"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "too hot to eat",
+            "vi": "nóng quá không ăn được"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "too hot to eat",
+          "text_translation": "nóng quá không ăn được"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "very sweet",
+            "vi": "rất ngọt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "very sweet",
+          "text_translation": "rất ngọt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "without much flavor",
+            "vi": "nhạt, chẳng có vị gì"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "without much flavor",
+          "text_translation": "nhạt, chẳng có vị gì"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Dad's cabbage soup was so tasteless that even Biscuit, who usually wants everything, did not come into the kitchen.\" Súp nhạt tới mức chú chó tham ăn cũng không thèm, nên tasteless = chẳng có vị."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Dad's cabbage soup was so tasteless that…\", what does \"tasteless\" mean?",
+      "question_vn": "Trong câu \"Dad's cabbage soup was so tasteless that…\", \"tasteless\" nghĩa là gì?",
+      "explanation": "\"Dad's cabbage soup was so tasteless that even Biscuit, who usually wants everything, did not come into the kitchen.\" Súp nhạt tới mức chú chó tham ăn cũng không thèm, nên tasteless = chẳng có vị."
+    },
+    {
+      "id": "q_u1112_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "Why did the family use frozen vegetables on busy days?",
+        "vi": "Vì sao những hôm bận, nhà dùng rau đông lạnh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are cheaper than pizza.",
+            "vi": "Vì chúng rẻ hơn pizza."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are cheaper than pizza.",
+          "text_translation": "Vì chúng rẻ hơn pizza."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Fresh vegetables were not in the stores.",
+            "vi": "Vì cửa hàng hết rau tươi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Fresh vegetables were not in the stores.",
+          "text_translation": "Vì cửa hàng hết rau tươi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Cooking every night is tiring, and frozen vegetables are often just as nutritious.",
+            "vi": "Vì nấu mỗi tối rất mệt, mà rau đông lạnh thường bổ không kém."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Cooking every night is tiring, and frozen vegetables are often just as nutritious.",
+          "text_translation": "Vì nấu mỗi tối rất mệt, mà rau đông lạnh thường bổ không kém."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor does not like fresh vegetables.",
+            "vi": "Vì Trevor không thích rau tươi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Trevor does not like fresh vegetables.",
+          "text_translation": "Vì Trevor không thích rau tươi."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Cooking every night is also tiring, so on busy days we used frozen vegetables, which are often just as nutritious as fresh ones.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did the family use frozen vegetables on busy days?",
+      "question_vn": "Vì sao những hôm bận, nhà dùng rau đông lạnh?",
+      "explanation": "\"Cooking every night is also tiring, so on busy days we used frozen vegetables, which are often just as nutritious as fresh ones.\""
+    },
+    {
+      "id": "q_u1112_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "Which of these is TRUE at the end of the month?",
+        "vi": "Điều nào ĐÚNG vào cuối tháng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor says that he likes salmon now.",
+            "vi": "Trevor nói giờ anh thích cá hồi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Trevor says that he likes salmon now.",
+          "text_translation": "Trevor nói giờ anh thích cá hồi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The family ordered pizza once.",
+            "vi": "Cả nhà gọi pizza một lần."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The family ordered pizza once.",
+          "text_translation": "Cả nhà gọi pizza một lần."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Mom felt more tired.",
+            "vi": "Mẹ thấy mệt hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Mom felt more tired.",
+          "text_translation": "Mẹ thấy mệt hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dad wants to stop cooking.",
+            "vi": "Bố muốn thôi nấu ăn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Dad wants to stop cooking.",
+          "text_translation": "Bố muốn thôi nấu ăn."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"Mom felt more energetic, and Trevor admitted that he likes salmon now.\" Cả nhà \"did not order takeaway food even once\", và mẹ khoẻ hơn chứ không mệt hơn."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is TRUE at the end of the month?",
+      "question_vn": "Điều nào ĐÚNG vào cuối tháng?",
+      "explanation": "\"Mom felt more energetic, and Trevor admitted that he likes salmon now.\" Cả nhà \"did not order takeaway food even once\", và mẹ khoẻ hơn chứ không mệt hơn."
+    },
+    {
+      "id": "q_u1112_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_01",
+      "i18n": {
+        "en": "In \"which are often just as nutritious as fresh ones\", what does \"ones\" refer to?",
+        "vi": "Trong câu \"... as fresh ones\", \"ones\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "meals",
+            "vi": "các bữa ăn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "meals",
+          "text_translation": "các bữa ăn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "vegetables",
+            "vi": "rau"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "vegetables",
+          "text_translation": "rau"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "sauces",
+            "vi": "nước sốt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "sauces",
+          "text_translation": "nước sốt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "days",
+            "vi": "các ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "days",
+          "text_translation": "các ngày"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"we used frozen vegetables, which are often just as nutritious as fresh ones.\" Phép so sánh là rau đông lạnh với rau tươi, nên \"ones\" = vegetables."
+      },
+      "audio_data": null,
+      "question_jp": "In \"which are often just as nutritious as fresh ones\", what does \"ones\" refer to?",
+      "question_vn": "Trong câu \"... as fresh ones\", \"ones\" chỉ cái gì?",
+      "explanation": "\"we used frozen vegetables, which are often just as nutritious as fresh ones.\" Phép so sánh là rau đông lạnh với rau tươi, nên \"ones\" = vegetables."
+    },
+    {
+      "id": "q_u1112_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What is the main purpose of the leaflet?",
+        "vi": "Mục đích chính của tờ thông tin là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sell flu medicine",
+            "vi": "để bán thuốc cúm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to sell flu medicine",
+          "text_translation": "để bán thuốc cúm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to invite people to work at the hospital",
+            "vi": "để mời người tới làm ở bệnh viện"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to invite people to work at the hospital",
+          "text_translation": "để mời người tới làm ở bệnh viện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain when antibiotics help and how to deal with colds and flu",
+            "vi": "để giải thích khi nào kháng sinh có tác dụng và cách xử lý cảm lạnh, cúm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to explain when antibiotics help and how to deal with colds and flu",
+          "text_translation": "để giải thích khi nào kháng sinh có tác dụng và cách xử lý cảm lạnh, cúm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell people never to come to the emergency room",
+            "vi": "để bảo mọi người đừng bao giờ tới phòng cấp cứu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell people never to come to the emergency room",
+          "text_translation": "để bảo mọi người đừng bao giờ tới phòng cấp cứu"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many of them ask for antibiotics, but these medicines do not work against viruses\". Bài nói khi nào cần và không cần kháng sinh, rồi khuyên cách xử lý. Bài không bảo đừng bao giờ tới cấp cứu."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the leaflet?",
+      "question_vn": "Mục đích chính của tờ thông tin là gì?",
+      "explanation": "\"Many of them ask for antibiotics, but these medicines do not work against viruses\". Bài nói khi nào cần và không cần kháng sinh, rồi khuyên cách xử lý. Bài không bảo đừng bao giờ tới cấp cứu."
+    },
+    {
+      "id": "q_u1112_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Why don't antibiotics help with colds?",
+        "vi": "Vì sao kháng sinh không chữa được cảm lạnh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Colds are caused by viruses, and antibiotics do not work against viruses.",
+            "vi": "Vì cảm lạnh do virus gây ra, mà kháng sinh không tác dụng với virus."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Colds are caused by viruses, and antibiotics do not work against viruses.",
+          "text_translation": "Vì cảm lạnh do virus gây ra, mà kháng sinh không tác dụng với virus."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Antibiotics are too strong for colds.",
+            "vi": "Vì kháng sinh quá mạnh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Antibiotics are too strong for colds.",
+          "text_translation": "Vì kháng sinh quá mạnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Colds last only one day.",
+            "vi": "Vì cảm lạnh chỉ kéo dài một ngày."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Colds last only one day.",
+          "text_translation": "Vì cảm lạnh chỉ kéo dài một ngày."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Doctors do not have enough antibiotics.",
+            "vi": "Vì bác sĩ không đủ kháng sinh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Doctors do not have enough antibiotics.",
+          "text_translation": "Vì bác sĩ không đủ kháng sinh."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"these medicines do not work against viruses, which cause colds and the flu.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why don't antibiotics help with colds?",
+      "question_vn": "Vì sao kháng sinh không chữa được cảm lạnh?",
+      "explanation": "\"these medicines do not work against viruses, which cause colds and the flu.\""
+    },
+    {
+      "id": "q_u1112_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What can antibiotics treat?",
+        "vi": "Kháng sinh chữa được gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "all kinds of pain",
+            "vi": "mọi loại đau"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "all kinds of pain",
+          "text_translation": "mọi loại đau"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "colds and the flu",
+            "vi": "cảm lạnh và cúm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "colds and the flu",
+          "text_translation": "cảm lạnh và cúm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "feeling tired",
+            "vi": "sự mệt mỏi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "feeling tired",
+          "text_translation": "sự mệt mỏi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "infections caused by bacteria",
+            "vi": "nhiễm trùng do vi khuẩn"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "infections caused by bacteria",
+          "text_translation": "nhiễm trùng do vi khuẩn"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Antibiotics only treat infections caused by bacteria, such as some ear infections.\""
+      },
+      "audio_data": null,
+      "question_jp": "What can antibiotics treat?",
+      "question_vn": "Kháng sinh chữa được gì?",
+      "explanation": "\"Antibiotics only treat infections caused by bacteria, such as some ear infections.\""
+    },
+    {
+      "id": "q_u1112_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "In \"helps bacteria become resistant\", what does \"resistant\" mean?",
+        "vi": "Trong câu \"helps bacteria become resistant\", \"resistant\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "weaker",
+            "vi": "yếu hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "weaker",
+          "text_translation": "yếu hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "not affected by the medicine",
+            "vi": "không còn bị thuốc tác động"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "not affected by the medicine",
+          "text_translation": "không còn bị thuốc tác động"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "easier to see",
+            "vi": "dễ nhìn thấy hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "easier to see",
+          "text_translation": "dễ nhìn thấy hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "good for health",
+            "vi": "tốt cho sức khoẻ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "good for health",
+          "text_translation": "tốt cho sức khoẻ"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"using antibiotics too often helps bacteria become resistant, so the medicine may not work when you really need it.\" Vế sau giải thích: thuốc không còn tác dụng với vi khuẩn, tức là vi khuẩn \"kháng thuốc\"."
+      },
+      "audio_data": null,
+      "question_jp": "In \"helps bacteria become resistant\", what does \"resistant\" mean?",
+      "question_vn": "Trong câu \"helps bacteria become resistant\", \"resistant\" nghĩa là gì?",
+      "explanation": "\"using antibiotics too often helps bacteria become resistant, so the medicine may not work when you really need it.\" Vế sau giải thích: thuốc không còn tác dụng với vi khuẩn, tức là vi khuẩn \"kháng thuốc\"."
+    },
+    {
+      "id": "q_u1112_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "How long do most people need to recover from a cold?",
+        "vi": "Phần lớn mọi người cần bao lâu để khỏi cảm lạnh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "one or two days",
+            "vi": "một hai ngày"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "one or two days",
+          "text_translation": "một hai ngày"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about one month",
+            "vi": "khoảng một tháng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "about one month",
+          "text_translation": "khoảng một tháng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "about seven to ten days",
+            "vi": "khoảng bảy tới mười ngày"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "about seven to ten days",
+          "text_translation": "khoảng bảy tới mười ngày"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "six months",
+            "vi": "sáu tháng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "six months",
+          "text_translation": "sáu tháng"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"most people recover within about seven to ten days.\" \"six months\" là mốc tuổi được khuyên tiêm vắc-xin cúm."
+      },
+      "audio_data": null,
+      "question_jp": "How long do most people need to recover from a cold?",
+      "question_vn": "Phần lớn mọi người cần bao lâu để khỏi cảm lạnh?",
+      "explanation": "\"most people recover within about seven to ten days.\" \"six months\" là mốc tuổi được khuyên tiêm vắc-xin cúm."
+    },
+    {
+      "id": "q_u1112_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "How are flu symptoms different from cold symptoms in the leaflet?",
+        "vi": "Theo tờ thông tin, triệu chứng cúm khác cảm lạnh thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They never include fever.",
+            "vi": "Không bao giờ có sốt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They never include fever.",
+          "text_translation": "Không bao giờ có sốt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are always mild.",
+            "vi": "Lúc nào cũng nhẹ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are always mild.",
+          "text_translation": "Lúc nào cũng nhẹ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They last only one hour.",
+            "vi": "Chỉ kéo dài một giờ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They last only one hour.",
+          "text_translation": "Chỉ kéo dài một giờ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are usually more serious and often come on suddenly.",
+            "vi": "Thường nặng hơn và hay đến đột ngột."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They are usually more serious and often come on suddenly.",
+          "text_translation": "Thường nặng hơn và hay đến đột ngột."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"The flu is usually more serious, and its symptoms, such as fever, aches and feeling very tired, often come on suddenly.\""
+      },
+      "audio_data": null,
+      "question_jp": "How are flu symptoms different from cold symptoms in the leaflet?",
+      "question_vn": "Theo tờ thông tin, triệu chứng cúm khác cảm lạnh thế nào?",
+      "explanation": "\"The flu is usually more serious, and its symptoms, such as fever, aches and feeling very tired, often come on suddenly.\""
+    },
+    {
+      "id": "q_u1112_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Who do doctors recommend a flu vaccine for?",
+        "vi": "Bác sĩ khuyên ai nên tiêm vắc-xin cúm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "almost everyone six months and older",
+            "vi": "gần như mọi người từ sáu tháng tuổi"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "almost everyone six months and older",
+          "text_translation": "gần như mọi người từ sáu tháng tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "only old people",
+            "vi": "chỉ người già"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "only old people",
+          "text_translation": "chỉ người già"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only hospital workers",
+            "vi": "chỉ nhân viên y tế"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "only hospital workers",
+          "text_translation": "chỉ nhân viên y tế"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "only children",
+            "vi": "chỉ trẻ em"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "only children",
+          "text_translation": "chỉ trẻ em"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"doctors recommend it for almost everyone six months and older.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who do doctors recommend a flu vaccine for?",
+      "question_vn": "Bác sĩ khuyên ai nên tiêm vắc-xin cúm?",
+      "explanation": "\"doctors recommend it for almost everyone six months and older.\""
+    },
+    {
+      "id": "q_u1112_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "A man has a cold. He feels better for two days, and then he suddenly feels much worse and has chest pain. What should he do?",
+        "vi": "Một người bị cảm. Anh đỡ được hai ngày rồi đột nhiên nặng hơn nhiều, kèm đau ngực. Anh nên làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "rest at home and drink more water",
+            "vi": "nghỉ ở nhà và uống thêm nước"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "rest at home and drink more water",
+          "text_translation": "nghỉ ở nhà và uống thêm nước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "see a doctor quickly",
+            "vi": "đi khám ngay"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "see a doctor quickly",
+          "text_translation": "đi khám ngay"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "take antibiotics that he has at home",
+            "vi": "uống kháng sinh sẵn có ở nhà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "take antibiotics that he has at home",
+          "text_translation": "uống kháng sinh sẵn có ở nhà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "wait seven to ten days",
+            "vi": "đợi bảy tới mười ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "wait seven to ten days",
+          "text_translation": "đợi bảy tới mười ngày"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"However, see a doctor quickly if you have trouble breathing, chest pain or a fever that does not go away, or if you feel better and then suddenly worse.\" Anh có cả hai dấu hiệu, nên phải đi khám ngay. Tự uống kháng sinh là điều tờ thông tin khuyên tránh."
+      },
+      "audio_data": null,
+      "question_jp": "A man has a cold. He feels better for two days, and then he suddenly feels much worse and has chest pain. What should he do?",
+      "question_vn": "Một người bị cảm. Anh đỡ được hai ngày rồi đột nhiên nặng hơn nhiều, kèm đau ngực. Anh nên làm gì?",
+      "explanation": "Câu suy luận. \"However, see a doctor quickly if you have trouble breathing, chest pain or a fever that does not go away, or if you feel better and then suddenly worse.\" Anh có cả hai dấu hiệu, nên phải đi khám ngay. Tự uống kháng sinh là điều tờ thông tin khuyên tránh."
+    },
+    {
+      "id": "q_u1112_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "What does Dr. Leah Carter mean by \"We would rather see you too early than too late\"?",
+        "vi": "Bác sĩ Leah Carter muốn nói gì qua câu \"Chúng tôi thà gặp bạn sớm quá còn hơn muộn quá\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The hospital opens very early.",
+            "vi": "Bệnh viện mở cửa rất sớm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The hospital opens very early.",
+          "text_translation": "Bệnh viện mở cửa rất sớm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People should come for every simple cold.",
+            "vi": "Bị cảm thông thường cũng nên tới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "People should come for every simple cold.",
+          "text_translation": "Bị cảm thông thường cũng nên tới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Doctors are always busy late at night.",
+            "vi": "Bác sĩ lúc nào cũng bận về khuya."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Doctors are always busy late at night.",
+          "text_translation": "Bác sĩ lúc nào cũng bận về khuya."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "When you are really unwell, it is better to come in than to wait at home.",
+            "vi": "Khi thật sự không khoẻ, tới bệnh viện thì tốt hơn là ngồi chờ ở nhà."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "When you are really unwell, it is better to come in than to wait at home.",
+          "text_translation": "Khi thật sự không khoẻ, tới bệnh viện thì tốt hơn là ngồi chờ ở nhà."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"But please do not stay at home when you are really unwell.\" Câu ngay trước đó nói cảm thông thường thì \"rarely necessary\", nên ý của bác sĩ không phải là cảm nhẹ cũng tới."
+      },
+      "audio_data": null,
+      "question_jp": "What does Dr. Leah Carter mean by \"We would rather see you too early than too late\"?",
+      "question_vn": "Bác sĩ Leah Carter muốn nói gì qua câu \"Chúng tôi thà gặp bạn sớm quá còn hơn muộn quá\"?",
+      "explanation": "Câu suy luận. \"But please do not stay at home when you are really unwell.\" Câu ngay trước đó nói cảm thông thường thì \"rarely necessary\", nên ý của bác sĩ không phải là cảm nhẹ cũng tới."
+    },
+    {
+      "id": "q_u1112_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1112_02",
+      "i18n": {
+        "en": "Use both texts. Which idea do both texts share?",
+        "vi": "Dựa vào cả hai bài. Hai bài có chung ý nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Takeaway food causes the flu.",
+            "vi": "Đồ ăn mang về gây cúm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Takeaway food causes the flu.",
+          "text_translation": "Đồ ăn mang về gây cúm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Everyone should take antibiotics in winter.",
+            "vi": "Mùa đông ai cũng nên uống kháng sinh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Everyone should take antibiotics in winter.",
+          "text_translation": "Mùa đông ai cũng nên uống kháng sinh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Simple daily habits, such as eating well and resting, are important for health.",
+            "vi": "Những thói quen hằng ngày giản dị, như ăn uống tốt và nghỉ ngơi, rất quan trọng với sức khoẻ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Simple daily habits, such as eating well and resting, are important for health.",
+          "text_translation": "Những thói quen hằng ngày giản dị, như ăn uống tốt và nghỉ ngơi, rất quan trọng với sức khoẻ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Hospitals should cook healthier food.",
+            "vi": "Bệnh viện nên nấu món lành mạnh hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Hospitals should cook healthier food.",
+          "text_translation": "Bệnh viện nên nấu món lành mạnh hơn."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Tờ thông tin viết \"For most colds, rest, plenty of water and time are the best treatment\". Bài 1 kể bữa ăn lành mạnh làm mẹ \"felt more energetic\". Cả hai đề cao thói quen hằng ngày; không bài nào khuyên dùng kháng sinh."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which idea do both texts share?",
+      "question_vn": "Dựa vào cả hai bài. Hai bài có chung ý nào?",
+      "explanation": "Câu nối hai bài. Tờ thông tin viết \"For most colds, rest, plenty of water and time are the best treatment\". Bài 1 kể bữa ăn lành mạnh làm mẹ \"felt more energetic\". Cả hai đề cao thói quen hằng ngày; không bài nào khuyên dùng kháng sinh."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1112_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 11) — Tháng Một ăn lành mạnh của bố",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1112_01",
+      "question_ids": [
+        "q_u1112_001",
+        "q_u1112_002",
+        "q_u1112_003",
+        "q_u1112_004",
+        "q_u1112_005",
+        "q_u1112_006",
+        "q_u1112_007",
+        "q_u1112_008",
+        "q_u1112_009",
+        "q_u1112_010"
+      ]
+    },
+    {
+      "set_id": "set_u1112_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 12) — Cảm lạnh, cúm và kháng sinh",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1112_02",
+      "question_ids": [
+        "q_u1112_011",
+        "q_u1112_012",
+        "q_u1112_013",
+        "q_u1112_014",
+        "q_u1112_015",
+        "q_u1112_016",
+        "q_u1112_017",
+        "q_u1112_018",
+        "q_u1112_019",
+        "q_u1112_020"
+      ]
+    }
+  ]
+}

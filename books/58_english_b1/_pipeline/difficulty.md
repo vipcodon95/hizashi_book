@@ -12,3 +12,4 @@ Mốc nối từ A2: u20 sách 57 = 265 / 265 từ, TB 16,0 / 16,7 từ/câu.
 | u06 | 282 / 269 | 13.9 / 15.4 | email Tracy năm 2 + bài học trực tuyến hay trực tiếp; 4 câu suy luận (1 nối 2 bài). **Main tự viết** |
 | u0708 | 247 / 247 | 14.3 / 15.6 | **gộp 2 unit**: thư Chloe nghỉ việc + email họp thử làm việc kết hợp; 5 câu suy luận. Hơi ngắn hơn u06 — chấp nhận để tiết kiệm token. Main tự viết |
 | u0910 | 265 / 252 | 16.4 / 19.0 | nhật ký Trevor để dành tiền + bài quyền người mua online (FTC Mail Order Rule, không có luật đổi trả chung); 5 câu suy luận |
+| u1112 | 296 / 270 | 15.4 / 19.9 | tháng ăn lành mạnh của bố (Tina kể) + tờ thông tin cảm cúm/kháng sinh của Sunset Bay; 5 câu suy luận (1 nối 2 bài) |

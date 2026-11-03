@@ -124,6 +124,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | B1 | giữa tháng 11, năm 4 | ⭐ **Chloe viết thư báo nghỉ việc ở Harriet's vào cuối tháng 12** để làm thiết kế đồ hoạ tự do (đã học xong lớp buổi tối hồi hè; tháng 9 một công ty nhỏ nhờ thiết kế web, thêm 3 nơi mời). Mẹ Chloe muốn cô vào công ty lớn; Chloe đã từ chối 2 lời mời. Giới thiệu bạn **Ruby** (người lạ, sinh viên cao đẳng cộng đồng, có kinh nghiệm quán cà phê) thay mình. Thứ Tư vẫn tới ăn súp với Dustin. | sách 58 · u0708 |
 | B1 | thứ Năm 4/12, năm 4 | Phòng của Nathan được giao **thử làm việc kết hợp** năm sau (2 ngày ở nhà/tuần); trưởng nhóm **Laura Moore** mời họp động não (Phòng 3B, 10am); Nathan trình bày về công cụ trực tuyến. | sách 58 · u0708 |
 | B1 | thứ Bảy 13/12, năm 4 | Trevor để dành mua **giày bóng đá 120 đô** cho buổi tuyển chọn đội trường tháng 3 (tiền tiêu vặt 15 đô/tuần; bớt nước tăng lực, tiền ảo game). Tina đòi cho vay 30 đô nhưng mỗi tuần trả thêm 1 đô (bố: "a tougher banker than any real bank"). **Từ tháng 1, Trevor dọn bàn sáng thứ Bảy ở Harriet's, 10 đô/giờ** (vì Chloe nghỉ). Dự tính đủ tiền cuối tháng 1. | sách 58 · u0910 |
+| B1 | tháng 1, năm 5 | Mitchell hứa cả tháng Một không gọi đồ mang về, tự nấu ăn lành mạnh (cà ri chay, cá hồi); Trevor giờ thích cá hồi; Tina muốn làm đầu bếp. Leah (bác sĩ nội trú năm nhất) được trích lời trong tờ thông tin cảm cúm của Sunset Bay | 58 · u1112 |
 
 ## Còn mở
 
