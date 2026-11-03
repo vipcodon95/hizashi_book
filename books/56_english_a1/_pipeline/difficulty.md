@@ -14,3 +14,4 @@
 | u10 | 127 / 127 | 8.6 / 7.1 | chỉ đường + bảng vé xe; 3 câu suy luận (bước tiếp theo, tính tiền cả nhà, chọn vé rẻ) (agent viết, main kiểm chứng) |
 | u11 | 130 / 130 | 9.8 / 9.8 | lời kể Tracy + nội quy câu lạc bộ; 3 câu suy luận (thứ tự tiết, áp dụng nội quy). Độ phủ 23/65 vì unit 65 từ (agent viết, main kiểm chứng) |
 | u12 | 136 / 134 | 10.6 / 8.3 | lời nhắn điện thoại + bảng việc làm; 2 câu suy luận (gọi ai trước, lịch hợp việc). Main đổi tên Rachel→Laura, số 0163→0191 để không trùng u06/u09 |
+| u13 | 140 / 140 | 10.5 / 11.1 | tin nhắn hẹn xem bóng + áp phích lớp vẽ; 2 câu suy luận. Main sửa câu 10 ("together" mâu thuẫn giờ 2 lớp) |
