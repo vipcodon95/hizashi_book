@@ -1,0 +1,365 @@
+[
+  {
+    "id": "R_0150",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "大学受験の準備",
+    "title_vi": "Chuẩn bị thi đại học",
+    "topic": "education",
+    "subtopic": "thi đại học",
+    "tags": ["に違いない", "からには", "てからでないと"],
+    "grammar_used": ["～に違いない", "～からには", "～てからでないと～ない"],
+    "sentence_count": 9,
+    "text": "高校3年生の田中さんは、毎日10時間以上勉強している。志望校に合格するからには、絶対に後悔したくないと思っている。模試の結果を見ると、苦手な数学が少し上がっていた。この調子で続ければ、本番でもうまくいくに違いない。しかし、志望校の過去問をすべて解いてからでないと、本当の意味での対策にはならないと先生に言われた。そのため、田中さんは毎週末に過去問を1年分ずつ解くことにした。間違えた問題は必ず解き直し、なぜ間違えたかを分析するようにしている。受験勉強は孤独になりがちだが、同じ目標を持つ友人と励まし合うことで乗り越えられると感じている。合格発表の日まで、できる限りのことをやり続けるつもりだ。",
+    "translation": "Bạn Tanaka học lớp 12 đang học hơn 10 tiếng mỗi ngày. Vì đã quyết tâm đỗ vào trường mơ ước, em không muốn hối hận về sau. Nhìn kết quả thi thử, môn toán vốn là điểm yếu đã tăng lên một chút. Nếu tiếp tục ở tốc độ này, chắc chắn kỳ thi thật cũng sẽ ổn. Tuy nhiên, thầy giáo nói rằng nếu chưa giải hết đề thi các năm trước của trường thì chưa thể gọi là ôn tập đúng nghĩa. Vì vậy, Tanaka quyết định mỗi cuối tuần sẽ giải đề của một năm. Em cố gắng làm lại tất cả các câu sai và phân tích xem tại sao mình sai. Em cảm thấy rằng dù việc ôn thi dễ trở nên cô đơn, nhưng có thể vượt qua được nhờ việc động viên nhau cùng những người bạn có chung mục tiêu. Em dự định sẽ tiếp tục làm hết sức có thể cho đến ngày công bố kết quả.",
+    "vocabulary": [
+      {"word": "志望校", "reading": "しぼうこう", "meaning": "trường mơ ước, trường muốn thi vào"},
+      {"word": "模試", "reading": "もし", "meaning": "thi thử"},
+      {"word": "過去問", "reading": "かこもん", "meaning": "đề thi các năm trước"},
+      {"word": "解き直す", "reading": "ときなおす", "meaning": "làm lại (bài đã sai)"},
+      {"word": "励まし合う", "reading": "はげましあう", "meaning": "động viên lẫn nhau"},
+      {"word": "合格発表", "reading": "ごうかくはっぴょう", "meaning": "công bố kết quả đỗ"}
+    ],
+    "process": [
+      {
+        "sentence": "高校3年生の田中さんは、毎日10時間以上勉強している。",
+        "chunks": "高校3年生の田中さんは / 毎日 / 10時間以上 / 勉強している",
+        "guide": "は → chủ đề: giới thiệu nhân vật → 以上 = hơn, không dưới → ている = trạng thái đang duy trì → 🔒 Đóng gói: 'Tanaka [= người đang học >10h/ngày]'",
+        "translation": "Bạn Tanaka học lớp 12 đang học hơn 10 tiếng mỗi ngày."
+      },
+      {
+        "sentence": "志望校に合格するからには、絶対に後悔したくないと思っている。",
+        "chunks": "志望校に合格する / からには / 絶対に / 後悔したくない / と思っている",
+        "guide": "からには → 💡 Insight: からには = đã... thì nhất định phải... (nhận trách nhiệm sau khi đã quyết tâm) → 🔒 Đóng gói: 'đã quyết tâm thi [→ không thể hối hận]' → と思っている = đang giữ suy nghĩ đó",
+        "translation": "Vì đã quyết tâm đỗ vào trường mơ ước, em không muốn hối hận về sau."
+      },
+      {
+        "sentence": "模試の結果を見ると、苦手な数学が少し上がっていた。",
+        "chunks": "模試の結果を / 見ると / 苦手な数学が / 少し上がっていた",
+        "guide": "見ると → dự đoán: kết quả phát hiện khi nhìn vào → 🔒 Đóng gói: 'khi nhìn kết quả [→ phát hiện]' → 苦手な = vốn là điểm yếu (tính từ na mô tả trạng thái lâu dài) → ていた = đã đang ở trạng thái tăng",
+        "translation": "Nhìn kết quả thi thử, môn toán vốn là điểm yếu đã tăng lên một chút."
+      },
+      {
+        "sentence": "この調子で続ければ、本番でもうまくいくに違いない。",
+        "chunks": "この調子で / 続ければ / 本番でも / うまくいく / に違いない",
+        "guide": "ば → điều kiện: nếu tiếp tục → 本番 = kỳ thi thật (đối với thi thử) → に違いない → 💡 Insight: に違いない = chắc chắn là... (suy luận có cơ sở mạnh, tự tin hơn はずだ) → 🔒 Đóng gói: 'chắc chắn kỳ thật cũng [ổn]'",
+        "translation": "Nếu tiếp tục ở tốc độ này, chắc chắn kỳ thi thật cũng sẽ ổn."
+      },
+      {
+        "sentence": "しかし、志望校の過去問をすべて解いてからでないと、本当の意味での対策にはならないと先生に言われた。",
+        "chunks": "しかし / 志望校の過去問を / すべて解いて / からでないと / 本当の意味での対策には / ならない / と先生に言われた",
+        "guide": "しかし → đảo chiều, thêm điều kiện khắt khe → てからでないと～ない → ⚠️ Bẫy: てからでないと = nếu chưa làm X thì không thể Y (điều kiện BẮT BUỘC phải làm trước) → 🔒 Đóng gói: 'chưa giải hết đề cũ [→ chưa ôn đúng nghĩa]' → と言われた = được thầy nói",
+        "translation": "Tuy nhiên, thầy giáo nói rằng nếu chưa giải hết đề thi các năm trước của trường thì chưa thể gọi là ôn tập đúng nghĩa."
+      },
+      {
+        "sentence": "そのため、田中さんは毎週末に過去問を1年分ずつ解くことにした。",
+        "chunks": "そのため / 田中さんは / 毎週末に / 過去問を1年分ずつ / 解くことにした",
+        "guide": "そのため → kết quả hành động từ lý do trên → 1年分ずつ = mỗi lần một năm (ずつ = mỗi lần từng chút) → ことにした = quyết định làm (chủ động)",
+        "translation": "Vì vậy, Tanaka quyết định mỗi cuối tuần sẽ giải đề của một năm."
+      },
+      {
+        "sentence": "間違えた問題は必ず解き直し、なぜ間違えたかを分析するようにしている。",
+        "chunks": "間違えた問題は / 必ず / 解き直し / なぜ間違えたかを / 分析する / ようにしている",
+        "guide": "は → chủ đề: câu sai → 必ず = nhất định (cam kết) → なぜ～か = tại sao... (câu hỏi gián tiếp gói trong mệnh đề) → 🔒 Đóng gói: 'phân tích lý do sai [= thói quen duy trì]' → ようにしている = cố gắng duy trì",
+        "translation": "Em cố gắng làm lại tất cả các câu sai và phân tích xem tại sao mình sai."
+      },
+      {
+        "sentence": "受験勉強は孤独になりがちだが、同じ目標を持つ友人と励まし合うことで乗り越えられると感じている。",
+        "chunks": "受験勉強は / 孤独になりがちだ / が / 同じ目標を持つ友人と / 励まし合う / ことで / 乗り越えられる / と感じている",
+        "guide": "がち → 💡 Insight: がち = có xu hướng (thường theo chiều tiêu cực) → 🔒 Đóng gói: 'ôn thi dễ trở nên cô đơn [→ nhưng...]' → が = nhưng → ことで = nhờ việc → 乗り越えられる = có thể vượt qua",
+        "translation": "Em cảm thấy rằng dù việc ôn thi dễ trở nên cô đơn, nhưng có thể vượt qua được nhờ việc động viên nhau cùng những người bạn có chung mục tiêu."
+      },
+      {
+        "sentence": "合格発表の日まで、できる限りのことをやり続けるつもりだ。",
+        "chunks": "合格発表の日まで / できる限りの / ことを / やり続ける / つもりだ",
+        "guide": "まで = cho đến (thời điểm kết thúc) → できる限り = hết sức có thể (cụm cố định) → 🔒 Đóng gói: 'đến ngày công bố [→ làm hết sức]' → つもりだ = dự định (ý chí cá nhân, kết bài)",
+        "translation": "Em dự định sẽ tiếp tục làm hết sức có thể cho đến ngày công bố kết quả."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0150_Q1",
+        "question": "田中さんが「本当の意味での対策」のためにしていることは何ですか。",
+        "question_vi": "Điều Tanaka làm để 'ôn tập đúng nghĩa' là gì?",
+        "answers": [
+          {"text": "毎日10時間以上勉強すること。", "text_vi": "Học hơn 10 tiếng mỗi ngày.", "is_correct": false},
+          {"text": "毎週末に過去問を1年分ずつ解くこと。", "text_vi": "Mỗi cuối tuần giải đề của một năm.", "is_correct": true},
+          {"text": "友人と一緒に図書館で勉強すること。", "text_vi": "Học cùng bạn bè ở thư viện.", "is_correct": false},
+          {"text": "模試を毎月受けること。", "text_vi": "Thi thử mỗi tháng.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 nói「志望校の過去問をすべて解いてからでないと、本当の意味での対策にはならない」→ てからでないと = chưa làm thì chưa được. Câu 6 nêu hành động cụ thể: giải đề mỗi cuối tuần. ⚠️ Bẫy: học 10 tiếng/ngày là thông tin chung, không phải điều thầy chỉ đặc biệt."
+      },
+      {
+        "id": "R_0150_Q2",
+        "question": "「この調子で続ければ、本番でもうまくいくに違いない」とありますが、「に違いない」はどんな意味ですか。",
+        "question_vi": "Câu có 'に違いない' — 'に違いない' có nghĩa gì?",
+        "answers": [
+          {"text": "絶対にうまくいかないという意味。", "text_vi": "Có nghĩa là chắc chắn không ổn.", "is_correct": false},
+          {"text": "うまくいくかどうかわからないという意味。", "text_vi": "Có nghĩa là không biết có ổn không.", "is_correct": false},
+          {"text": "きっとうまくいくと強く確信しているという意味。", "text_vi": "Có nghĩa là tự tin mạnh mẽ rằng chắc chắn sẽ ổn.", "is_correct": true},
+          {"text": "うまくいってほしいという願いを表す。", "text_vi": "Diễn đạt mong muốn rằng sẽ ổn.", "is_correct": false}
+        ],
+        "explanation": "に違いない = suy luận chắc chắn có cơ sở mạnh (mạnh hơn はずだ, không phải mong muốn). Dựa vào kết quả thi thử tốt lên → tác giả TỰ TIN suy luận. ⚠️ Bẫy: đáp án D (mong muốn) → dùng ～といいな hay ～てほしい, không phải に違いない."
+      },
+      {
+        "id": "R_0150_Q3",
+        "question": "田中さんについて正しいものはどれですか。",
+        "question_vi": "Điều nào đúng về Tanaka?",
+        "answers": [
+          {"text": "数学が得意で、模試でも高得点を取っている。", "text_vi": "Giỏi toán và đạt điểm cao trong thi thử.", "is_correct": false},
+          {"text": "一人で黙々と勉強するタイプだ。", "text_vi": "Là kiểu người học một mình lặng lẽ.", "is_correct": false},
+          {"text": "間違えた問題を解き直して、なぜ間違えたか分析している。", "text_vi": "Làm lại câu sai và phân tích lý do sai.", "is_correct": true},
+          {"text": "受験が終わったら勉強をやめるつもりだ。", "text_vi": "Dự định sẽ ngừng học sau khi thi xong.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói「間違えた問題は必ず解き直し、なぜ間違えたかを分析するようにしている」→ ようにしている = thói quen đang duy trì. ⚠️ Bẫy: câu 2 nói toán là điểm YẾU (苦手), không phải điểm mạnh. Câu 8 nói có bạn bè cùng mục tiêu → không học một mình lặng lẽ."
+      }
+    ]
+  },
+  {
+    "id": "R_0151",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "台風が来たとき",
+    "title_vi": "Khi bão đến",
+    "topic": "nature",
+    "subtopic": "thiên tai",
+    "tags": ["際に", "にともなって", "一方だ"],
+    "grammar_used": ["～際に", "～にともなって", "～一方だ"],
+    "sentence_count": 10,
+    "text": "毎年夏から秋にかけて、日本には多くの台風が上陸する。台風が近づくにともなって、風や雨が徐々に強くなっていく。気象庁は台風が接近する際に、早めに避難するよう呼びかけている。近年、台風の規模は大きくなる一方だという研究結果も発表されている。これは地球温暖化の影響で、海水温が上昇しているためだと考えられている。台風の際には、まず安全な場所に避難することが最優先だ。食料や水、懐中電灯などを事前に準備しておくことも重要だ。また、川や海の近くには絶対に近づかないようにしなければならない。台風が過ぎた後も、倒れた木や切れた電線などに注意が必要だ。日ごろから防災意識を高めておくことが、いざというときの命を守ることにつながる。",
+    "translation": "Hàng năm từ mùa hè đến mùa thu, nhiều cơn bão đổ bộ vào Nhật Bản. Khi bão tiến đến gần, gió và mưa dần dần mạnh lên. Cục khí tượng kêu gọi mọi người sơ tán sớm khi bão đang tiến đến. Cũng có kết quả nghiên cứu được công bố rằng quy mô bão ngày càng lớn hơn. Điều này được cho là do nhiệt độ nước biển tăng lên vì ảnh hưởng của hiện tượng nóng lên toàn cầu. Khi có bão, ưu tiên hàng đầu là sơ tán đến nơi an toàn. Việc chuẩn bị sẵn thức ăn, nước, đèn pin... trước cũng rất quan trọng. Ngoài ra, nhất định không được lại gần sông hay biển. Sau khi bão qua, cũng cần chú ý đến cây đổ hay dây điện đứt. Việc nâng cao ý thức phòng chống thiên tai trong cuộc sống hàng ngày sẽ dẫn đến việc bảo vệ tính mạng khi cần thiết.",
+    "vocabulary": [
+      {"word": "上陸", "reading": "じょうりく", "meaning": "đổ bộ (bão, quân đội)"},
+      {"word": "気象庁", "reading": "きしょうちょう", "meaning": "Cục khí tượng"},
+      {"word": "避難", "reading": "ひなん", "meaning": "sơ tán, lánh nạn"},
+      {"word": "規模", "reading": "きぼ", "meaning": "quy mô"},
+      {"word": "懐中電灯", "reading": "かいちゅうでんとう", "meaning": "đèn pin"},
+      {"word": "防災意識", "reading": "ぼうさいいしき", "meaning": "ý thức phòng chống thiên tai"}
+    ],
+    "process": [
+      {
+        "sentence": "毎年夏から秋にかけて、日本には多くの台風が上陸する。",
+        "chunks": "毎年 / 夏から秋にかけて / 日本には / 多くの台風が / 上陸する",
+        "guide": "から～にかけて = từ... đến... (khoảng thời gian liên tục) → 🔒 Đóng gói: 'từ mùa hè đến mùa thu [= thời điểm bão]' → には → nhấn mạnh địa điểm Nhật Bản",
+        "translation": "Hàng năm từ mùa hè đến mùa thu, nhiều cơn bão đổ bộ vào Nhật Bản."
+      },
+      {
+        "sentence": "台風が近づくにともなって、風や雨が徐々に強くなっていく。",
+        "chunks": "台風が近づく / にともなって / 風や雨が / 徐々に / 強くなっていく",
+        "guide": "にともなって → 💡 Insight: にともなって = cùng với sự thay đổi của X, Y cũng thay đổi theo (2 việc tiến song song) → 🔒 Đóng gói: 'cùng với bão tiến đến [→ gió mưa mạnh dần]' → ていく = dần dần (tiến về tương lai)",
+        "translation": "Khi bão tiến đến gần, gió và mưa dần dần mạnh lên."
+      },
+      {
+        "sentence": "気象庁は台風が接近する際に、早めに避難するよう呼びかけている。",
+        "chunks": "気象庁は / 台風が接近する / 際に / 早めに避難する / よう / 呼びかけている",
+        "guide": "際に → 💡 Insight: 際に = vào lúc/khi (trang trọng hơn とき) → 🔒 Đóng gói: 'khi bão tiến đến [= thời điểm quan trọng]' → よう呼びかける = kêu gọi làm gì (cụm thông báo công cộng)",
+        "translation": "Cục khí tượng kêu gọi mọi người sơ tán sớm khi bão đang tiến đến."
+      },
+      {
+        "sentence": "近年、台風の規模は大きくなる一方だという研究結果も発表されている。",
+        "chunks": "近年 / 台風の規模は / 大きくなる / 一方だ / という / 研究結果も / 発表されている",
+        "guide": "一方だ → 💡 Insight: 一方だ = ngày càng... (xu hướng một chiều không dừng lại) → 🔒 Đóng gói: 'quy mô bão [ngày càng lớn — không dừng]' → という研究結果 = kết quả nghiên cứu cho thấy rằng (dẫn nguồn)",
+        "translation": "Cũng có kết quả nghiên cứu được công bố rằng quy mô bão ngày càng lớn hơn."
+      },
+      {
+        "sentence": "これは地球温暖化の影響で、海水温が上昇しているためだと考えられている。",
+        "chunks": "これは / 地球温暖化の影響で / 海水温が上昇している / ためだ / と考えられている",
+        "guide": "これは → chỉ về nguyên nhân của câu trên → ためだ = vì là... (giải thích nguyên nhân) → と考えられている = được cho là (thể bị động nhận định — không ai chắc 100%)",
+        "translation": "Điều này được cho là do nhiệt độ nước biển tăng lên vì ảnh hưởng của hiện tượng nóng lên toàn cầu."
+      },
+      {
+        "sentence": "台風の際には、まず安全な場所に避難することが最優先だ。",
+        "chunks": "台風の際には / まず / 安全な場所に / 避難すること / が / 最優先だ",
+        "guide": "際には → 🔒 Đóng gói: 'khi có bão [= lúc hành động]' → まず = trước tiên (thứ tự ưu tiên) → ことが最優先だ = điều đó là ưu tiên hàng đầu",
+        "translation": "Khi có bão, ưu tiên hàng đầu là sơ tán đến nơi an toàn."
+      },
+      {
+        "sentence": "食料や水、懐中電灯などを事前に準備しておくことも重要だ。",
+        "chunks": "食料や水 / 懐中電灯など / を / 事前に / 準備しておく / ことも重要だ",
+        "guide": "など = v.v. (liệt kê không đầy đủ) → 事前に = trước khi (chuẩn bị sớm) → ておく = chuẩn bị sẵn (làm trước để dùng sau) → ことも重要だ = cũng quan trọng",
+        "translation": "Việc chuẩn bị sẵn thức ăn, nước, đèn pin... trước cũng rất quan trọng."
+      },
+      {
+        "sentence": "また、川や海の近くには絶対に近づかないようにしなければならない。",
+        "chunks": "また / 川や海の近く / には / 絶対に / 近づかない / ようにしなければならない",
+        "guide": "絶対に～ない = tuyệt đối không (mức độ cấm mạnh nhất) → ようにしなければならない → ⚠️ Bẫy: cấu trúc kép — ようにする (cố gắng) + なければならない (phải) = nhất định phải cố gắng không làm",
+        "translation": "Ngoài ra, nhất định không được lại gần sông hay biển."
+      },
+      {
+        "sentence": "台風が過ぎた後も、倒れた木や切れた電線などに注意が必要だ。",
+        "chunks": "台風が過ぎた後も / 倒れた木や / 切れた電線など / に / 注意が必要だ",
+        "guide": "た後も = ngay cả sau khi (も nhấn mạnh: kể cả lúc bão đã qua) → 🔒 Đóng gói: 'sau bão rồi [vẫn còn nguy hiểm]' → 注意が必要だ = cần chú ý (cụm khuyến cáo)",
+        "translation": "Sau khi bão qua, cũng cần chú ý đến cây đổ hay dây điện đứt."
+      },
+      {
+        "sentence": "日ごろから防災意識を高めておくことが、いざというときの命を守ることにつながる。",
+        "chunks": "日ごろから / 防災意識を / 高めておく / ことが / いざというときの / 命を守ること / につながる",
+        "guide": "日ごろから = từ trong cuộc sống hàng ngày (thói quen bình thường) → ておく = chuẩn bị sẵn → いざというとき = khi cần thiết, lúc quan trọng (cụm cố định) → 🔒 Đóng gói: 'nâng cao ý thức thường ngày [→ bảo vệ tính mạng]' → につながる = dẫn đến, liên kết tới",
+        "translation": "Việc nâng cao ý thức phòng chống thiên tai trong cuộc sống hàng ngày sẽ dẫn đến việc bảo vệ tính mạng khi cần thiết."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0151_Q1",
+        "question": "台風が近づいたとき、最初にすべきことは何ですか。",
+        "question_vi": "Khi bão tiến đến, điều đầu tiên cần làm là gì?",
+        "answers": [
+          {"text": "川や海の様子を確認しに行くこと。", "text_vi": "Đi kiểm tra tình hình sông và biển.", "is_correct": false},
+          {"text": "懐中電灯などを買いに行くこと。", "text_vi": "Đi mua đèn pin và các thứ cần thiết.", "is_correct": false},
+          {"text": "安全な場所に避難すること。", "text_vi": "Sơ tán đến nơi an toàn.", "is_correct": true},
+          {"text": "気象庁に連絡すること。", "text_vi": "Liên hệ với Cục khí tượng.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói「まず安全な場所に避難することが最優先だ」→ まず = trước tiên, 最優先 = ưu tiên hàng đầu. ⚠️ Bẫy: đèn pin cần chuẩn bị TRƯỚC khi bão đến (事前に), không phải khi bão đến mới đi mua. Đến sông/biển là điều bị cấm."
+      },
+      {
+        "id": "R_0151_Q2",
+        "question": "「台風の規模は大きくなる一方だ」とはどういう意味ですか。",
+        "question_vi": "'台風の規模は大きくなる一方だ' có nghĩa là gì?",
+        "answers": [
+          {"text": "台風の規模は時々大きくなることがある。", "text_vi": "Đôi khi quy mô bão có lớn hơn.", "is_correct": false},
+          {"text": "台風の規模はこれからも大きくなり続けている。", "text_vi": "Quy mô bão tiếp tục lớn lên không dừng.", "is_correct": true},
+          {"text": "台風の規模は最近小さくなっている。", "text_vi": "Quy mô bão gần đây đang nhỏ lại.", "is_correct": false},
+          {"text": "台風の規模はこれ以上変わらない。", "text_vi": "Quy mô bão sẽ không thay đổi nữa.", "is_correct": false}
+        ],
+        "explanation": "一方だ = xu hướng một chiều liên tục, không dừng lại — khác với 'đôi khi' hay 'không thay đổi'. Câu 4 còn liên kết với nguyên nhân nhiệt độ nước biển tăng → xu hướng này sẽ tiếp tục."
+      },
+      {
+        "id": "R_0151_Q3",
+        "question": "この文章で筆者が最も伝えたいことは何ですか。",
+        "question_vi": "Điều tác giả muốn truyền đạt nhất là gì?",
+        "answers": [
+          {"text": "台風は日本にしか来ないので、外国人は心配しなくていい。", "text_vi": "Bão chỉ đến Nhật nên người nước ngoài không cần lo.", "is_correct": false},
+          {"text": "地球温暖化を止めるために行動することが大切だ。", "text_vi": "Điều quan trọng là hành động để ngăn nóng lên toàn cầu.", "is_correct": false},
+          {"text": "台風への備えと日ごろの防災意識が命を守る。", "text_vi": "Chuẩn bị cho bão và ý thức phòng chống thiên tai hàng ngày bảo vệ tính mạng.", "is_correct": true},
+          {"text": "台風が来たら家の中にいれば安全だ。", "text_vi": "Nếu bão đến thì ở trong nhà là an toàn.", "is_correct": false}
+        ],
+        "explanation": "Câu cuối tổng kết:「日ごろから防災意識を高めておくことが、いざというときの命を守ることにつながる」→ đây là thông điệp chính. Bài không nói chỉ ở trong nhà là đủ (cần sơ tán). ⚠️ Bẫy: nóng lên toàn cầu là nguyên nhân được giải thích, không phải chủ đề hành động chính."
+      }
+    ]
+  },
+  {
+    "id": "R_0152",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "賢い買い物の仕方",
+    "title_vi": "Cách mua sắm thông minh",
+    "topic": "shopping",
+    "subtopic": "tiêu dùng thông minh",
+    "tags": ["わりに", "にしたがって", "たびに"],
+    "grammar_used": ["～わりに", "～にしたがって", "～たびに"],
+    "sentence_count": 10,
+    "text": "物価が上がり続ける中、賢い買い物の仕方を身につけることが大切になっている。スーパーに行くたびに、特売品や割引商品を比べて選ぶ習慣をつけると節約につながる。同じ商品でも、店によって値段がかなり違うことがある。ネットショッピングは便利なわりに、送料を考えると実際には高くなってしまうケースも少なくない。収入にしたがって、毎月の食費や日用品の予算を決めておくと、使いすぎを防ぎやすい。また、セールのたびにまとめ買いをするのも一つの方法だ。ただし、必要以上に買いすぎると、食品の場合は捨てることになりかえって損をしてしまう。買い物リストを事前に作っておくことで、衝動買いを減らすことができる。小さな節約でも、積み重なれば大きな金額になる。日々の買い物を見直すことが、家計を助ける第一歩だ。",
+    "translation": "Trong bối cảnh giá cả tiếp tục tăng, việc nắm vững cách mua sắm thông minh đang trở nên quan trọng. Nếu hình thành thói quen mỗi lần đến siêu thị là so sánh và chọn hàng khuyến mãi hay hàng giảm giá thì sẽ dẫn đến tiết kiệm. Dù là cùng một sản phẩm, giá cả có thể khá khác nhau tùy cửa hàng. Mua sắm online tuy tiện lợi nhưng nếu tính cả phí vận chuyển thì không ít trường hợp thực ra lại đắt hơn. Nếu quyết định ngân sách chi tiêu hàng tháng cho thực phẩm và đồ dùng hàng ngày tùy theo thu nhập thì dễ tránh tiêu quá mức. Ngoài ra, mỗi khi có sale thì mua gom cũng là một cách. Tuy nhiên, nếu mua quá nhiều hơn cần thiết, với thực phẩm thì sẽ phải bỏ đi và ngược lại bị thiệt. Việc lập danh sách mua sắm trước sẽ giúp giảm mua sắm bốc đồng. Dù tiết kiệm nhỏ, nhưng tích lại sẽ thành số tiền lớn. Xem lại việc mua sắm hàng ngày là bước đầu tiên giúp ích cho ngân sách gia đình.",
+    "vocabulary": [
+      {"word": "物価", "reading": "ぶっか", "meaning": "giá cả (hàng hóa)"},
+      {"word": "特売品", "reading": "とくばいひん", "meaning": "hàng khuyến mãi đặc biệt"},
+      {"word": "節約", "reading": "せつやく", "meaning": "tiết kiệm"},
+      {"word": "送料", "reading": "そうりょう", "meaning": "phí vận chuyển"},
+      {"word": "衝動買い", "reading": "しょうどうがい", "meaning": "mua sắm bốc đồng"},
+      {"word": "家計", "reading": "かけい", "meaning": "ngân sách gia đình, chi tiêu gia đình"}
+    ],
+    "process": [
+      {
+        "sentence": "物価が上がり続ける中、賢い買い物の仕方を身につけることが大切になっている。",
+        "chunks": "物価が上がり続ける中 / 賢い買い物の仕方を / 身につける / ことが / 大切になっている",
+        "guide": "～続ける中 → 🔒 Đóng gói: 'trong bối cảnh giá cả tiếp tục tăng [= hoàn cảnh]' → 身につける = nắm vững, thành thạo → ことが大切になっている = điều đó đang trở nên quan trọng",
+        "translation": "Trong bối cảnh giá cả tiếp tục tăng, việc nắm vững cách mua sắm thông minh đang trở nên quan trọng."
+      },
+      {
+        "sentence": "スーパーに行くたびに、特売品や割引商品を比べて選ぶ習慣をつけると節約につながる。",
+        "chunks": "スーパーに行く / たびに / 特売品や割引商品を / 比べて選ぶ / 習慣をつける / と / 節約につながる",
+        "guide": "たびに → 💡 Insight: たびに = mỗi khi, mỗi lần (hành động lặp đi lặp lại) → 🔒 Đóng gói: 'mỗi lần đến siêu thị [→ thói quen]' → と → hệ quả tất yếu → につながる = dẫn đến",
+        "translation": "Nếu hình thành thói quen mỗi lần đến siêu thị là so sánh và chọn hàng khuyến mãi hay hàng giảm giá thì sẽ dẫn đến tiết kiệm."
+      },
+      {
+        "sentence": "同じ商品でも、店によって値段がかなり違うことがある。",
+        "chunks": "同じ商品でも / 店によって / 値段が / かなり違う / ことがある",
+        "guide": "でも = dù là (kể cả trường hợp cùng sản phẩm) → によって = tùy theo (cửa hàng) → 🔒 Đóng gói: 'tùy cửa hàng [→ giá khác nhau]' → ことがある = đôi khi xảy ra",
+        "translation": "Dù là cùng một sản phẩm, giá cả có thể khá khác nhau tùy cửa hàng."
+      },
+      {
+        "sentence": "ネットショッピングは便利なわりに、送料を考えると実際には高くなってしまうケースも少なくない。",
+        "chunks": "ネットショッピングは / 便利なわりに / 送料を考えると / 実際には / 高くなってしまう / ケースも少なくない",
+        "guide": "わりに → 💡 Insight: わりに = so với mức đó thì... / tuy... nhưng (kết quả không như kỳ vọng) → ⚠️ Bẫy: 便利なわりに = tuy tiện lợi nhưng [kết quả ngược lại] → 🔒 Đóng gói: 'tuy tiện [→ thực ra đắt hơn]' → 少なくない = không ít (= nhiều, cách nhấn mạnh bằng phủ định)",
+        "translation": "Mua sắm online tuy tiện lợi nhưng nếu tính cả phí vận chuyển thì không ít trường hợp thực ra lại đắt hơn."
+      },
+      {
+        "sentence": "収入にしたがって、毎月の食費や日用品の予算を決めておくと、使いすぎを防ぎやすい。",
+        "chunks": "収入に / したがって / 毎月の食費や日用品の / 予算を決めておく / と / 使いすぎを防ぎやすい",
+        "guide": "にしたがって → 💡 Insight: にしたがって = tùy theo / tỉ lệ theo (X thay đổi thì Y thay đổi theo) → 🔒 Đóng gói: 'tùy theo thu nhập [→ quyết định ngân sách]' → ておく = làm sẵn trước → と → hệ quả",
+        "translation": "Nếu quyết định ngân sách chi tiêu hàng tháng cho thực phẩm và đồ dùng hàng ngày tùy theo thu nhập thì dễ tránh tiêu quá mức."
+      },
+      {
+        "sentence": "また、セールのたびにまとめ買いをするのも一つの方法だ。",
+        "chunks": "また / セールの / たびに / まとめ買いをする / のも / 一つの方法だ",
+        "guide": "また → thêm phương pháp → たびに → 🔒 Đóng gói: 'mỗi khi có sale [→ mua gom]' → のも一つの方法 = cũng là một cách (không phải cách duy nhất)",
+        "translation": "Ngoài ra, mỗi khi có sale thì mua gom cũng là một cách."
+      },
+      {
+        "sentence": "ただし、必要以上に買いすぎると、食品の場合は捨てることになりかえって損をしてしまう。",
+        "chunks": "ただし / 必要以上に / 買いすぎる / と / 食品の場合は / 捨てることになり / かえって / 損をしてしまう",
+        "guide": "ただし → ⚠️ Bẫy: ただし = tuy nhiên, cẩn thận (cảnh báo điều kiện ngoại lệ) → と → hệ quả tất yếu → かえって = ngược lại (kết quả bất ngờ, trái kỳ vọng) → 🔒 Đóng gói: 'mua quá nhiều → ngược lại bị thiệt'",
+        "translation": "Tuy nhiên, nếu mua quá nhiều hơn cần thiết, với thực phẩm thì sẽ phải bỏ đi và ngược lại bị thiệt."
+      },
+      {
+        "sentence": "買い物リストを事前に作っておくことで、衝動買いを減らすことができる。",
+        "chunks": "買い物リストを / 事前に / 作っておく / ことで / 衝動買いを / 減らすことができる",
+        "guide": "事前に = trước khi → ておく = chuẩn bị sẵn → ことで → 🔒 Đóng gói: 'nhờ lập danh sách trước [→ giảm mua bốc đồng]' → ことができる = có thể làm",
+        "translation": "Việc lập danh sách mua sắm trước sẽ giúp giảm mua sắm bốc đồng."
+      },
+      {
+        "sentence": "小さな節約でも、積み重なれば大きな金額になる。",
+        "chunks": "小さな節約でも / 積み重なれば / 大きな金額に / なる",
+        "guide": "でも = dù nhỏ (kể cả trường hợp nhỏ nhoi) → ば → điều kiện: nếu tích lại → 🔒 Đóng gói: 'dù tiết kiệm nhỏ [→ tích lại thành lớn]' → câu ngắn, mang tính châm ngôn",
+        "translation": "Dù tiết kiệm nhỏ, nhưng tích lại sẽ thành số tiền lớn."
+      },
+      {
+        "sentence": "日々の買い物を見直すことが、家計を助ける第一歩だ。",
+        "chunks": "日々の買い物を / 見直すこと / が / 家計を助ける / 第一歩だ",
+        "guide": "日々 = hàng ngày (trang trọng hơn 毎日) → 見直す = xem xét lại, cải thiện → 🔒 Đóng gói: 'xem lại mua sắm hàng ngày [= bước đầu tiên]' → 第一歩だ = là bước đầu tiên (kết bài hành động cụ thể)",
+        "translation": "Xem lại việc mua sắm hàng ngày là bước đầu tiên giúp ích cho ngân sách gia đình."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0152_Q1",
+        "question": "「ネットショッピングは便利なわりに」とはどういう意味ですか。",
+        "question_vi": "'ネットショッピングは便利なわりに' có nghĩa là gì?",
+        "answers": [
+          {"text": "ネットショッピングは便利なので、よく使うべきだ。", "text_vi": "Mua online tiện nên nên dùng nhiều.", "is_correct": false},
+          {"text": "ネットショッピングは便利であるが、それほど便利ではない面もある。", "text_vi": "Mua online tiện nhưng cũng có mặt không tiện như vậy.", "is_correct": true},
+          {"text": "ネットショッピングは全く便利ではない。", "text_vi": "Mua online hoàn toàn không tiện.", "is_correct": false},
+          {"text": "ネットショッピングは便利なほど安くなる。", "text_vi": "Càng tiện thì càng rẻ.", "is_correct": false}
+        ],
+        "explanation": "わりに = so với kỳ vọng thì kết quả không như vậy (tuy... nhưng). Câu 4 nêu rõ: tiện lợi NHƯNG tính phí ship thì thực ra đắt hơn. ⚠️ Bẫy: わりに không có nghĩa là 'hoàn toàn không tiện' — chỉ là 'tuy tiện nhưng có mặt tiêu cực'."
+      },
+      {
+        "id": "R_0152_Q2",
+        "question": "セールのたびにまとめ買いをするときの注意点は何ですか。",
+        "question_vi": "Điều cần chú ý khi mua gom mỗi khi có sale là gì?",
+        "answers": [
+          {"text": "送料が高くなること。", "text_vi": "Phí vận chuyển tăng cao.", "is_correct": false},
+          {"text": "食品を買いすぎると捨てることになり、かえって損をすること。", "text_vi": "Mua thực phẩm quá nhiều sẽ phải bỏ đi, ngược lại bị thiệt.", "is_correct": true},
+          {"text": "衝動買いが増えること。", "text_vi": "Mua sắm bốc đồng tăng lên.", "is_correct": false},
+          {"text": "同じ商品をいくつも持つこと。", "text_vi": "Có quá nhiều cùng một sản phẩm.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói「必要以上に買いすぎると、食品の場合は捨てることになりかえって損をしてしまう」→ かえって = ngược lại (kết quả bất ngờ). ⚠️ Bẫy: phí vận chuyển là vấn đề của mua online (câu 4), không liên quan đến mua gom."
+      },
+      {
+        "id": "R_0152_Q3",
+        "question": "衝動買いを減らすために効果的な方法は何ですか。",
+        "question_vi": "Phương pháp hiệu quả để giảm mua sắm bốc đồng là gì?",
+        "answers": [
+          {"text": "セールのたびにまとめ買いをすること。", "text_vi": "Mỗi khi có sale thì mua gom.", "is_correct": false},
+          {"text": "ネットショッピングをやめること。", "text_vi": "Ngừng mua sắm online.", "is_correct": false},
+          {"text": "買い物リストを事前に作っておくこと。", "text_vi": "Lập danh sách mua sắm trước.", "is_correct": true},
+          {"text": "収入にしたがって予算を決めること。", "text_vi": "Quyết định ngân sách tùy theo thu nhập.", "is_correct": false}
+        ],
+        "explanation": "Câu 8 nói「買い物リストを事前に作っておくことで、衝動買いを減らすことができる」→ ことで = nhờ việc đó, liên kết trực tiếp nguyên nhân-kết quả. ⚠️ Bẫy: quyết định ngân sách (câu 5) giúp tránh tiêu quá mức nói chung, không phải đặc biệt cho 衝動買い."
+      }
+    ]
+  }
+]

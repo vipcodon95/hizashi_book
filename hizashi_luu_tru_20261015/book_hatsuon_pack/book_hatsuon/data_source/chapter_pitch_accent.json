@@ -1,0 +1,300 @@
+{
+  "chapter_id": "pitch_accent",
+  "title": "Trọng Âm Cao Độ Tokyo: Khoa Học về Giai Điệu",
+  "intro": "Tại sao 箸 (đũa) và 橋 (cầu) viết khác nhau nhưng đều đọc 'hashi'? Bí mật nằm ở cao độ. Chương này biến việc luyện phát âm từ 'nghệ thuật bắt chước mơ hồ' thành 'khoa học chính xác'.",
+  "sections": {
+    "P.1": {
+      "title": "Bản Chất của Trọng Âm Cao Độ",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Tiếng Nhật Tokyo sử dụng hệ thống **'bậc thang'** (step system). Một từ được cấu tạo bởi các mora, và sự tương tác về cao độ chỉ mang tính **nhị phân**: Cao (H - High) hoặc Thấp (L - Low)."
+        },
+        {
+          "type": "key_point",
+          "title": "Quy tắc Vàng của Trọng âm Tokyo",
+          "points": [
+            "Cao độ **BẮT BUỘC phải thay đổi** giữa mora thứ nhất và mora thứ hai",
+            "Nếu mora đầu là **Thấp** → mora thứ hai phải là **Cao**",
+            "Nếu mora đầu là **Cao** → mora thứ hai phải là **Thấp**",
+            "Đây là quy tắc **tuyệt đối**, không có ngoại lệ"
+          ]
+        },
+        {
+          "type": "comparison_table",
+          "title": "Thanh điệu Việt vs Trọng âm Nhật",
+          "headers": ["Đặc điểm", "Tiếng Việt", "Tiếng Nhật"],
+          "rows": [
+            ["Số mức cao độ", "6 thanh phức tạp", "2 mức: Cao/Thấp"],
+            ["Đường nét", "Lượn sóng (contour)", "Bậc thang (step)"],
+            ["Đơn vị", "Từng âm tiết", "Toàn bộ từ/cụm từ"],
+            ["Chuyển đổi", "Trượt (glide)", "Nhảy (jump)"]
+          ]
+        }
+      ]
+    },
+    "P.2": {
+      "title": "Bốn Mô Hình Trọng Âm Cơ Bản",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Hệ thống trọng âm Tokyo có 4 mô hình cơ bản. Hiểu rõ từng mô hình và cách chúng hiển thị trên biểu đồ cao độ là chìa khóa để phát âm chuẩn."
+        },
+        {
+          "type": "pitch_patterns",
+          "patterns": [
+            {
+              "name": "Heiban (平板) - Phẳng",
+              "number": "Kiểu 0",
+              "pattern": "L-H-H-H...",
+              "description": "Bắt đầu Thấp, lên Cao từ mora 2, duy trì Cao cho đến hết. Trợ từ theo sau cũng Cao.",
+              "example": {
+                "word": "水",
+                "reading": "mizu",
+                "pitch": "L-H",
+                "meaning": "Nước"
+              },
+              "with_particle": "水が mizu ga (L-H-H) - trợ từ vẫn Cao"
+            },
+            {
+              "name": "Atamadaka (頭高) - Đầu Cao",
+              "number": "Kiểu 1",
+              "pattern": "H-L-L-L...",
+              "description": "Bắt đầu Cao, rớt xuống Thấp ngay sau mora 1. Giữ Thấp cho đến hết.",
+              "example": {
+                "word": "命",
+                "reading": "inochi",
+                "pitch": "H-L-L",
+                "meaning": "Sinh mệnh"
+              },
+              "with_particle": "命が inochi ga (H-L-L-L)"
+            },
+            {
+              "name": "Nakadaka (中高) - Giữa Cao",
+              "number": "Kiểu 2, 3...",
+              "pattern": "L-H...-L",
+              "description": "Bắt đầu Thấp, lên Cao, rồi rớt xuống Thấp tại một mora cụ thể ở giữa.",
+              "example": {
+                "word": "卵",
+                "reading": "tamago",
+                "pitch": "L-H-L",
+                "meaning": "Trứng"
+              },
+              "with_particle": "卵が tamago ga (L-H-L-L)"
+            },
+            {
+              "name": "Odaka (尾高) - Đuôi Cao",
+              "number": "Kiểu đặc biệt",
+              "pattern": "L-H-H...(rớt)",
+              "description": "Giống Heiban nhưng rớt cao độ khi thêm trợ từ. Chỉ phân biệt được khi có trợ từ.",
+              "example": {
+                "word": "花",
+                "reading": "hana (hoa)",
+                "pitch": "L-H",
+                "meaning": "Hoa"
+              },
+              "with_particle": "花が hana ga (L-H-L) - trợ từ rớt xuống Thấp"
+            }
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "**Heiban vs Odaka**: Hai mô hình này chỉ khác nhau khi thêm trợ từ. 鼻 (mũi) và 花 (hoa) đều đọc L-H nhưng: 鼻が (L-H-H) vs 花が (L-H-L). Trong văn nói nhanh, sự **rơi cao độ** là dấu hiệu quan trọng nhất để tách các từ vựng."
+        }
+      ]
+    },
+    "P.3": {
+      "title": "Phân Tích Chi Tiết: Từ 'Konnichiwa'",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Hãy phân tích chi tiết từ 'Konnichiwa' (こんにちは) với mẫu cao độ **L-H-H-H-H** (Heiban) để hiểu cách đọc biểu đồ cao độ."
+        },
+        {
+          "type": "detailed_table",
+          "title": "Phân tích từng Mora",
+          "headers": ["Mora", "IPA", "Cao độ", "Thời lượng", "Mô tả biểu đồ"],
+          "rows": [
+            ["1. Ko (こ)", "/ko/", "Thấp (L)", "1.0", "Phẳng, nằm ở vùng thấp"],
+            ["Chuyển tiếp", "-", "-", "-", "Đường dốc đứng đi lên (ở ranh giới o→n)"],
+            ["2. n (ん)", "/N/", "Cao (H)", "1.0", "Đường đi lên và chạm đỉnh"],
+            ["3. ni (に)", "/ni/", "Cao (H)", "1.0", "Đường phẳng trên cao"],
+            ["4. chi (ち)", "/tɕi/", "Cao (H)", "1.0", "Đường phẳng (có khoảng ngắt do phụ âm)"],
+            ["5. wa (は)", "/wa/", "Cao (H)", "1.0", "Đường phẳng (chấp nhận giảm nhẹ tự nhiên)"]
+          ]
+        },
+        {
+          "type": "key_point",
+          "title": "Điểm then chốt",
+          "points": [
+            "**Mora 1 [Ko]**: Phải bắt đầu THẤP. Không được thêm Thanh Sắc thành 'CỐ'",
+            "**Chuyển tiếp Ko→n**: Sự đi lên xảy ra TRONG quá trình chuyển sang âm mũi /n/",
+            "**Mora 2 [n]**: Đây là nơi cao độ ĐẠT ĐỈNH. Âm mũi này chiếm trọn 1 mora!",
+            "**Mora 3-5**: Duy trì CAO, không được thả lỏng và rơi xuống ở [wa]"
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "**Lỗi điển hình**: Người Việt đọc 'CỐN-ni-chi-wà' (Sắc-Ngang-Ngang-Huyền). Trên biểu đồ, điều này hiện ra như: dốc lên nhọn ở [Ko], sau đó gục xuống ở [wa]. Đây là dấu hiệu rõ ràng của giao thoa thanh điệu tiếng Việt."
+        }
+      ]
+    },
+    "P.4": {
+      "title": "Âm Mũi Mora /N/: Chiếc Thang Máy",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Rào cản lớn nhất ngăn cản chúng ta phát âm đúng không phải là khả năng cảm nhận cao độ, mà là **cảm thức về thời gian**."
+        },
+        {
+          "type": "key_point",
+          "title": "Vấn đề với âm /N/",
+          "points": [
+            "Trong tiếng Việt, âm cuối /-n/ (như trong 'côn') là âm **đóng ngắn**, không mang cao độ riêng",
+            "Người Việt thường **gộp 'Kon' thành 1 nhịp** thay vì 2 mora riêng biệt",
+            "Trên biểu đồ: đoạn [n] bị **ngắn lại hoặc mất hẳn**",
+            "Hậu quả: đường cao độ **không đủ thời gian để leo lên** mức Cao"
+          ]
+        },
+        {
+          "type": "tip",
+          "text": "**Kỹ thuật sửa lỗi**: Hãy ngân âm 'n' dài ra. Tưởng tượng bạn đang ngân nga một giai điệu đi lên bằng âm mũi. Đừng đóng miệng lại ngay. Kiểm tra: đoạn [n] phải dài **tương đương** với đoạn [ni]."
+        },
+        {
+          "type": "comparison_table",
+          "title": "Kiểm tra thời lượng Mora",
+          "headers": ["Đo lường", "Sai (kiểu Việt)", "Đúng (kiểu Nhật)"],
+          "rows": [
+            ["Độ dài [n]", "Bằng 1/3 của [ni]", "Bằng [ni]"],
+            ["Cao độ [n]", "Ngang ở mức thấp", "Dốc lên và chạm đỉnh"],
+            ["Ranh giới", "'Kon' dính liền", "'Ko' và 'n' tách biệt"]
+          ]
+        }
+      ]
+    },
+    "P.5": {
+      "title": "Kỹ Thuật 'Phi Thanh Điệu Hóa'",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Người học Việt Nam cần thực hiện **'Phi Thanh điệu hóa'** - tách biệt khái niệm 'Cao độ' (Pitch height) khỏi 'Thanh điệu' (Tone identity)."
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            {
+              "title": "Bài tập Đường thẳng",
+              "detail": "Phát ra âm 'A' kéo dài 3 giây ở mức CAO. Người Việt sẽ có xu hướng làm nó rung/lượn sóng. Nhìn vào biểu đồ và điều chỉnh sao cho đường pitch trở thành **đường thẳng tắp**."
+            },
+            {
+              "title": "Bài tập Bậc thang",
+              "detail": "Phát âm 'A-A' với mẫu L-H. Thanh điệu Việt tạo ra 'đường trượt' (45 độ). Pitch Nhật cần 'bước nhảy' (gần 90 độ). Luyện cho độ dốc **dựng đứng**."
+            },
+            {
+              "title": "Bài tập Cao nguyên",
+              "detail": "Phát âm 'A-A-A-A' với mẫu L-H-H-H. Duy trì đường phẳng ở mức Cao cho 3 mora cuối. Không được thêm Sắc/Huyền vào bất kỳ mora nào."
+            },
+            {
+              "title": "Bài tập với Trợ từ",
+              "detail": "Luôn luyện từ Heiban kèm trợ từ (Nihongo ga, Sakura wa...). Đảm bảo đường pitch đi xuyên qua trợ từ mà không bị gãy khúc."
+            }
+          ]
+        }
+      ]
+    },
+    "P.6": {
+      "title": "Minimal Pairs: Phân Biệt bằng Cao Độ",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Nhiều từ tiếng Nhật viết giống nhau nhưng nghĩa khác nhau, chỉ phân biệt được qua **cao độ**. Đây là lý do tại sao pitch accent quan trọng."
+        },
+        {
+          "type": "minimal_pairs_table",
+          "title": "Các cặp Minimal Pairs quan trọng",
+          "pairs": [
+            {
+              "kana": "はし hashi",
+              "meanings": [
+                {"pitch": "H-L", "meaning": "箸 (đũa)"},
+                {"pitch": "L-H", "meaning": "橋 (cầu)"},
+                {"pitch": "L-H(↓)", "meaning": "端 (mép/bờ)"}
+              ]
+            },
+            {
+              "kana": "あめ ame",
+              "meanings": [
+                {"pitch": "H-L", "meaning": "雨 (mưa)"},
+                {"pitch": "L-H", "meaning": "飴 (kẹo)"}
+              ]
+            },
+            {
+              "kana": "かき kaki",
+              "meanings": [
+                {"pitch": "H-L", "meaning": "柿 (hồng)"},
+                {"pitch": "L-H", "meaning": "牡蠣 (hàu)"}
+              ]
+            },
+            {
+              "kana": "はな hana",
+              "meanings": [
+                {"pitch": "L-H (Heiban)", "meaning": "鼻 (mũi) - trợ từ Cao"},
+                {"pitch": "L-H (Odaka)", "meaning": "花 (hoa) - trợ từ rớt"}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tip",
+          "text": "Trong ngữ cảnh thực tế, người Nhật thường hiểu được nghĩa từ context. Tuy nhiên, nếu bạn phát âm sai pitch, người nghe cần **thêm thời gian** để xử lý, làm gián đoạn flow giao tiếp."
+        }
+      ]
+    },
+    "P.7": {
+      "title": "Xu Hướng Giảm Tự Nhiên (Declination)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ngay cả trong từ Heiban (phẳng), các mora Cao thực tế sẽ có xu hướng **giảm nhẹ** tần số về phía cuối từ do áp suất phổi giảm dần. Đây là hiện tượng vật lý tự nhiên."
+        },
+        {
+          "type": "warning",
+          "text": "Người Việt khi thấy đường pitch giảm nhẹ thường **nhầm lẫn với Thanh Huyền** và cố sửa bằng cách bẻ cong giọng lên (Thanh Sắc). Điều này tạo ra lỗi ngữ điệu nghiêm trọng!"
+        },
+        {
+          "type": "key_point",
+          "title": "Quy tắc chấp nhận",
+          "points": [
+            "Xu hướng giảm **nhẹ và đều** là BÌNH THƯỜNG",
+            "Giảm **đột ngột** hoặc **lượn sóng** là SAI",
+            "Tưởng tượng máy bay **hạ độ cao từ từ**, không phải **bổ nhào**"
+          ]
+        }
+      ]
+    },
+    "P.8": {
+      "title": "Checklist Tự Đánh Giá",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sử dụng checklist này khi luyện tập với app Hizashi để tự đánh giá phát âm của mình."
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Mora đầu tiên có đủ THẤP không? (Không thêm Thanh Sắc)",
+            "Chuyển đổi L→H có đủ NHANH và DỨT KHOÁT không? (Bước nhảy, không trượt)",
+            "Âm mũi /N/ có đủ DÀI không? (Tương đương 1 mora)",
+            "Phần Cao (H-H-H...) có PHẲNG không? (Không lượn sóng)",
+            "Cuối từ có bị rơi xuống không? (Đừng thêm Thanh Huyền)",
+            "Khi thêm trợ từ, có đúng mô hình không? (Heiban = trợ từ Cao, có accent = trợ từ Thấp)"
+          ]
+        },
+        {
+          "type": "motivation",
+          "text": "Những gì vốn 'vô hình' trong âm thanh nay đã trở nên 'hữu hình' qua biểu đồ. Luyện tập với sự phản hồi trực quan sẽ giúp bạn tiến bộ nhanh chóng!"
+        }
+      ]
+    }
+  }
+}

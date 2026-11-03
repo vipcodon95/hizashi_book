@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "book": "HIZASHI - Sách Phát âm",
+    "part": 5,
+    "title": "Bài Tập Thực Hành + Phụ Lục",
+    "version": "1.0",
+    "created": "2025-12-04"
+  },
+  "exercises": {
+    "mora_exercises": {
+      "title": "Bài tập Mora",
+      "instruction": "Vỗ tay đều đặn cho mỗi từ",
+      "items": [
+        {"word": "さくら", "meaning": "hoa anh đào", "mora_breakdown": "sa-ku-ra", "claps": 3},
+        {"word": "がっこう", "meaning": "trường", "mora_breakdown": "ga-k-ko-u", "claps": 4},
+        {"word": "おかあさん", "meaning": "mẹ", "mora_breakdown": "o-ka-a-sa-n", "claps": 5},
+        {"word": "ちょっとまって", "meaning": "chờ một chút", "mora_breakdown": "cho-t-to-ma-t-te", "claps": 6}
+      ]
+    },
+    "pitch_accent_exercises": {
+      "title": "Bài tập Pitch Accent",
+      "subtitle": "Phân biệt Heiban vs Odaka",
+      "items": [
+        {
+          "word": "花 (hana)",
+          "heiban": {"pattern": "L-H", "with_particle": "Hana ga (L-H-H)", "meaning": "mũi"},
+          "odaka": {"pattern": "L-H", "with_particle": "Hana ga (L-H-L)", "meaning": "hoa"},
+          "practice": [
+            "Nói 'hana' đơn lẻ (giống nhau)",
+            "Thêm 'ga': Nghe sự khác biệt ở trợ từ"
+          ]
+        }
+      ]
+    },
+    "hatsuon_exercises": {
+      "title": "Bài tập Biến âm /N/",
+      "instruction": "Đọc đúng theo ngữ cảnh",
+      "items": [
+        {"word": "さんぽ (sanpo)", "correct": "[sam.po]", "wrong": "[san.po]"},
+        {"word": "てんき (tenki)", "correct": "[teŋ.ki]", "wrong": "[ten.ki]"},
+        {"word": "せんせい (sensei)", "correct": "[seẽ.sei]", "wrong": "[sen.sei]"}
+      ]
+    },
+    "sokuon_exercises": {
+      "title": "Bài tập Sokuon",
+      "instruction": "Phân biệt Cặp tối thiểu - Ghi âm và so sánh",
+      "items": [
+        {"without": "きて (kite)", "with": "きって (kitte)"},
+        {"without": "いた (ita)", "with": "いった (itta)"},
+        {"without": "かこ (kako)", "with": "かっこ (kakko)"}
+      ],
+      "check": "Có nghe thấy khoảng lặng 1 nhịp không?"
+    },
+    "choon_exercises": {
+      "title": "Bài tập Trường âm",
+      "instruction": "Đo thời gian",
+      "items": [
+        {"short": "おばさん (obasan)", "mora": 4, "duration": "~0.8 giây"},
+        {"long": "おばあさん (obaasan)", "mora": 5, "duration": "~1.0 giây"}
+      ],
+      "practice": "Kéo dài 'a' đúng 1 nhịp phụ"
+    }
+  },
+  "appendix": {
+    "phonetic_summary": {
+      "title": "Bảng Tổng hợp Biến âm",
+      "phenomena": [
+        {"name": "Hatsuon (/N/)", "feature": "Thay đổi theo ngữ cảnh", "vietnamese_error": "Phát âm cứng nhắc 'n'"},
+        {"name": "Museika", "feature": "/i/, /u/ thì thầm", "vietnamese_error": "Hữu thanh hóa, thêm thanh điệu"},
+        {"name": "Sokuon", "feature": "Khoảng lặng 1 mora", "vietnamese_error": "Nghe như trọng âm"},
+        {"name": "Chōon", "feature": "Kéo dài 2 mora", "vietnamese_error": "Rút ngắn vì không có thay đổi chất âm"},
+        {"name": "Rendaku", "feature": "k→g, t→d, h→b", "vietnamese_error": "Không nhận ra từ gốc"}
+      ]
+    },
+    "colloquial_vocabulary": {
+      "title": "Từ vựng Khẩu ngữ Thường gặp",
+      "items": [
+        {"formal": "分からない", "casual": "分かんない", "meaning": "Không hiểu"},
+        {"formal": "食べてしまった", "casual": "食べちゃった", "meaning": "Đã ăn mất"},
+        {"formal": "している", "casual": "してる", "meaning": "Đang làm"},
+        {"formal": "本当に", "casual": "ほんとに", "meaning": "Thật sự"},
+        {"formal": "やはり", "casual": "やっぱり", "meaning": "Quả nhiên"}
+      ]
+    },
+    "shadowing_resources": {
+      "title": "Tài liệu Luyện Shadowing",
+      "levels": [
+        {
+          "level": "Sơ cấp (N5-N4)",
+          "resources": [
+            "Genki - Đoạn hội thoại",
+            "Irodori (miễn phí, Can-Do)",
+            "Mimi kara oboeru (N4, N5)"
+          ]
+        },
+        {
+          "level": "Trung cấp (N3-N2)",
+          "resources": [
+            "NHK News Web Easy",
+            "Satori Reader",
+            "YuYu no Nihongo Podcast"
+          ]
+        },
+        {
+          "level": "Cao cấp (N1+)",
+          "resources": [
+            "Podcast nhiều người dẫn",
+            "Tin tức NHK",
+            "Phim, anime có phụ đề"
+          ]
+        }
+      ]
+    }
+  }
+}

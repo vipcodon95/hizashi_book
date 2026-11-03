@@ -1,0 +1,2426 @@
+{
+  "metadata": {
+    "source_file": "stage1_final_test.json",
+    "original_title": "stage1_final_test.json",
+    "total_questions": 100,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "stage1_final_test_section_A_choose_one_0000",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ら"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ら",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "だ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0001",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "だ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ら",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "だ",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0002",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "す"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "す",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "つ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0003",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "つ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "す",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "つ",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0004",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ふ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ふ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "う",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0005",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "か"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "か",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "が",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0006",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "が"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "か",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "が",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0007",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "た"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "た",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "だ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0008",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "は"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "は",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "ば",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "ぱ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0009",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ば"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "は",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ば",
+          "is_correct": true
+        },
+        {
+          "id": "c",
+          "text": "ぱ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0010",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ぱ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "は",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ば",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "ぱ",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0011",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "し"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "し",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "ち",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0012",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ち"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "し",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ち",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0013",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "しゃ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "しゃ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "ちゃ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0014",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ちゃ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "しゃ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ちゃ",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0015",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きょ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きょ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "きよ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0016",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きよ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きょ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きよ",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0017",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "りょ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "りょ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "りよ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0018",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ざ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ざ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "じゃ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_A_choose_one_0019",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "じゃ"
+      ],
+      "prompt": "Nghe và chọn âm/từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ざ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "じゃ",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0020",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "おばさん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "おばさん",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "おばあさん",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "cô",
+          "bà"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0021",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "おばあさん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "おばさん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "おばあさん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "cô",
+          "bà"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0022",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "おじさん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "おじさん",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "おじいさん",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "chú",
+          "ông"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0023",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "おじいさん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "おじさん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "おじいさん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "chú",
+          "ông"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0024",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ゆき"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ゆき",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "ゆうき",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "tuyết",
+          "dũng cảm"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0025",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ゆうき"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ゆき",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ゆうき",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "tuyết",
+          "dũng cảm"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0026",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いえ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いえ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "いいえ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "nhà",
+          "không"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0027",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いいえ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いえ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いいえ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "nhà",
+          "không"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0028",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "せんせい"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "せんせ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "せんせい",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "giáo viên"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0029",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "えいご"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "えご",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "えいご",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "tiếng Anh"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0030",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "がこう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がっこう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "trường học"
+        ],
+        "note": "Cũng có sokuon"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0031",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "とうきょう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ときょう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "とうきょう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "Tokyo"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0032",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "おおきい"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "おきい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "おおきい",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "to, lớn"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0033",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "とおい"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "とい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "とおい",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "xa"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0034",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "おねえさん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "おねさん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "おねえさん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "chị gái"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0035",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きょう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きょ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きょう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "hôm nay"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0036",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "りょうり"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "りょり",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "りょうり",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "nấu ăn"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0037",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "じゅう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "じゅ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "じゅう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "mười"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0038",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "びょういん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "びょいん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "びょういん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "bệnh viện"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_choose_one_0039",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "しゅうまつ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý trường âm)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "しゅまつ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "しゅうまつ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "cuối tuần"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_count_mora_0040",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "おばあさん"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "o-ba-a-sa-n"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_count_mora_0041",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "せんせい"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "se-n-se-i"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_count_mora_0042",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "とうきょう"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "to-u-kyo-u"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_count_mora_0043",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "りょうり"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ryo-u-ri"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_B_count_mora_0044",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "びょういん"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "byo-u-i-n"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0045",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いた"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いた",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "いった",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "đã ở",
+          "đã đi"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0046",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いった"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いた",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いった",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "đã ở",
+          "đã đi"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0047",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きて"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きて",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "きって",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "đến đi",
+          "tem"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0048",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きって"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きて",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きって",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "đến đi",
+          "tem"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0049",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "もと"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "もと",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "もっと",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "gốc",
+          "nhiều hơn"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0050",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "もっと"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "もと",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "もっと",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "gốc",
+          "nhiều hơn"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0051",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "さか"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "さか",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "さっか",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "dốc",
+          "nhà văn"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0052",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "さっか"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "さか",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "さっか",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "dốc",
+          "nhà văn"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0053",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ねこ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ねこ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "ねっこ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "mèo",
+          "rễ cây"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0054",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ねっこ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ねこ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ねっこ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "mèo",
+          "rễ cây"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0055",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ざっし"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ざし",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ざっし",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "tạp chí"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0056",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっぱい"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いぱい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっぱい",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "đầy"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0057",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きっぷ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きぷ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きっぷ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "vé"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0058",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "やっぱり"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "やぱり",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "やっぱり",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "quả nhiên"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0059",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いしょ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いしょ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "いっしょ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "di chúc",
+          "cùng nhau"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0060",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっしょ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いしょ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっしょ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "di chúc",
+          "cùng nhau"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0061",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "マッチ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "マチ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "マッチ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "diêm"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0062",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "はっきり"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "はきり",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "はっきり",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "rõ ràng"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0063",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ずっと"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ずと",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ずっと",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "mãi mãi"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_choose_one_0064",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "まって"
+      ],
+      "prompt": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "まて",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "まって",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "đợi đã"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_count_mora_0065",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いった"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-ta"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_count_mora_0066",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "きっぷ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ki-Q-pu"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_count_mora_0067",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっしょ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-sho"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_count_mora_0068",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "はっきり"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ha-Q-ki-ri"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_C_count_mora_0069",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "きっかけ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ki-Q-ka-ke"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0070",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "らく"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "らく",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "だく",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "thoải mái",
+          "ôm"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0071",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "すき"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "すき",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "つき",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "thích",
+          "mặt trăng"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0072",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "おかあさん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "おかさん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "おかあさん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "mẹ"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0073",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "かった"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "かた",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "かった",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "vai",
+          "đã mua"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0074",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "しかい"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "しかい",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "ちかい",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "MC",
+          "gần"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0075",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "ちかい"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "しかい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ちかい",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "MC",
+          "gần"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0076",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "くうき"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "くき",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "くうき",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "thân cây",
+          "không khí"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0077",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "かっこ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "かこ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "かっこ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "quá khứ",
+          "ngoặc"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0078",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "きょう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きょ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きょう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "hôm nay"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0079",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "びょういん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "びょういん",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "びよういん",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "bệnh viện",
+          "viện thẩm mỹ"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0080",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "びよういん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "びょういん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "びよういん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "bệnh viện",
+          "viện thẩm mỹ"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0081",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "サカー",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "サッカー",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "bóng đá"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0082",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "コーヒー"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "コヒー",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "コーヒー",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "cà phê"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0083",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "しゅうまつ"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "しゅまつ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "しゅうまつ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "cuối tuần"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0084",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "にっぽん"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "にぽん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "にっぽん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "Nhật Bản"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0085",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "しょうがこう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "しょうがっこう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "trường tiểu học"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0086",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "じゆう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "じゅう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "じゆう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "mười",
+          "tự do"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0087",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "じゅう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "じゅう",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "じゆう",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "mười",
+          "tự do"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0088",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "ぎゅうにく"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ぎゅにく",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ぎゅうにく",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "thịt bò"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_choose_one_mixed_0089",
+      "base_type": "single_choice",
+      "sub_type": "choose_one_mixed",
+      "audio_ids": [
+        "りょこう"
+      ],
+      "prompt": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "りょこ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "りょこう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "du lịch"
+        ]
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_count_mora_mixed_0090",
+      "base_type": "single_choice",
+      "sub_type": "count_mora_mixed",
+      "audio_ids": [
+        "おばあさん"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "o-ba-a-sa-n"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_count_mora_mixed_0091",
+      "base_type": "single_choice",
+      "sub_type": "count_mora_mixed",
+      "audio_ids": [
+        "いった"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-ta"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_count_mora_mixed_0092",
+      "base_type": "single_choice",
+      "sub_type": "count_mora_mixed",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ga-Q-ko-u"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_count_mora_mixed_0093",
+      "base_type": "single_choice",
+      "sub_type": "count_mora_mixed",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "sho-u-ga-Q-ko-u"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_count_mora_mixed_0094",
+      "base_type": "single_choice",
+      "sub_type": "count_mora_mixed",
+      "audio_ids": [
+        "びょういん"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "byo-u-i-n"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_identify_features_0095",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "せんせい"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì: [A] chỉ có trường âm, [B] chỉ có âm ngắt, [C] có cả hai, [D] không có cả hai",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Chỉ có trường âm ei"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_identify_features_0096",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "きって"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì: [A] chỉ có trường âm, [B] chỉ có âm ngắt, [C] có cả hai, [D] không có cả hai",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Chỉ có âm ngắt っ"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_identify_features_0097",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì: [A] chỉ có trường âm, [B] chỉ có âm ngắt, [C] có cả hai, [D] không có cả hai",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Có cả っ và ou"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_identify_features_0098",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "ねこ"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì: [A] chỉ có trường âm, [B] chỉ có âm ngắt, [C] có cả hai, [D] không có cả hai",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có cả hai"
+      }
+    },
+    {
+      "id": "stage1_final_test_section_D_identify_features_0099",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì: [A] chỉ có trường âm, [B] chỉ có âm ngắt, [C] có cả hai, [D] không có cả hai",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Có cả っ và ー"
+      }
+    }
+  ]
+}

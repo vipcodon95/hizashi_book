@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "L02_FP_01",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "猫がいます。",
+    "sentence_translation": "Có con mèo.",
+    "question_text": "猫（　）います。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "が đánh dấu chủ ngữ trong câu tồn tại (います/あります)",
+    "hint": "Chủ ngữ tồn tại → が",
+    "tags": [
+      "が",
+      "tồn_tại"
+    ]
+  },
+  {
+    "id": "L02_FP_02",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "本を読みます。",
+    "sentence_translation": "Đọc sách.",
+    "question_text": "本（　）読みます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を đánh dấu tân ngữ -- đối tượng bị tác động bởi hành động",
+    "hint": "Đối tượng hành động → を",
+    "tags": [
+      "を",
+      "tân_ngữ"
+    ]
+  },
+  {
+    "id": "L02_FP_03",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "音楽が好きです。",
+    "sentence_translation": "Thích âm nhạc.",
+    "question_text": "音楽（　）好きです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Với 好き, 嫌い, わかる, できる → đối tượng dùng が chứ không phải を",
+    "hint": "Đối tượng cảm xúc (好き/嫌い) → が, không phải を",
+    "tags": [
+      "が",
+      "cảm_xúc"
+    ]
+  },
+  {
+    "id": "L02_FP_04",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私の本です。",
+    "sentence_translation": "Là sách của tôi.",
+    "question_text": "私（　）本です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "の nối 2 danh từ: sở hữu, liên kết, thu hẹp phạm vi",
+    "hint": "Sở hữu → の",
+    "tags": [
+      "の",
+      "sở_hữu"
+    ]
+  },
+  {
+    "id": "L02_FP_05",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "雨が降っています。",
+    "sentence_translation": "Trời đang mưa.",
+    "question_text": "雨（　）降っています。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Hiện tượng tự nhiên (mưa, gió, tuyết...) dùng が cho chủ ngữ",
+    "hint": "Hiện tượng tự nhiên → が",
+    "tags": [
+      "が",
+      "hiện_tượng"
+    ]
+  },
+  {
+    "id": "L02_FP_06",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんが来ました。",
+    "sentence_translation": "Tanaka đã đến. (nhấn mạnh: chính Tanaka)",
+    "question_text": "田中さん（　）来ました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "も",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が nhấn mạnh chủ thể cụ thể: TANAKA (chứ không phải ai khác) đã đến",
+    "hint": "Thông tin mới / nhấn mạnh AI → が",
+    "tags": [
+      "が",
+      "thông_tin_mới"
+    ]
+  },
+  {
+    "id": "L02_FP_07",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "公園を歩きます。",
+    "sentence_translation": "Đi bộ qua công viên.",
+    "question_text": "公園（　）歩きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を không chỉ là tân ngữ, còn đánh dấu không gian đi qua (歩く, 走る, 渡る)",
+    "hint": "Di chuyển QUA không gian → を",
+    "tags": [
+      "を",
+      "di_chuyển"
+    ]
+  },
+  {
+    "id": "L02_FP_08",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "家を出ます。",
+    "sentence_translation": "Ra khỏi nhà.",
+    "question_text": "家（　）出ます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を đánh dấu nơi rời khỏi: 家を出る (ra nhà), 電車を降りる (xuống tàu)",
+    "hint": "Nơi rời khỏi → を",
+    "tags": [
+      "を",
+      "rời_khỏi"
+    ]
+  },
+  {
+    "id": "L02_FP_09",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本の料理を食べました。",
+    "sentence_translation": "Đã ăn món Nhật.",
+    "question_text": "日本（　）料理を食べました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "の nối: 日本の料理 = món ăn (của/thuộc) Nhật",
+    "hint": "Liên kết/thuộc về → の",
+    "tags": [
+      "の",
+      "liên_kết"
+    ]
+  },
+  {
+    "id": "L02_FP_10",
+    "lesson_id": 2,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "赤いのがほしい。",
+    "sentence_translation": "Muốn cái màu đỏ.",
+    "question_text": "赤い（　）がほしい。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "の thay thế danh từ đã biết: 赤いの = cái màu đỏ (の thay cho シャツ, かばん...)",
+    "hint": "の thay thế danh từ (tránh lặp) → の = cái/chiếc",
+    "tags": [
+      "の",
+      "thay_thế"
+    ]
+  },
+  {
+    "id": "L02_PR_11",
+    "lesson_id": 2,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "机の上に本があります。",
+    "sentence_translation": "Trên bàn có sách.",
+    "question_text": "机の上に / 本が... → Gặp が, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có います/あります (tồn tại)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động tác động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có cảm xúc",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có điểm đến",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が + います/あります → tồn tại. Ở đây 本が → \"sách tồn tại\" → sắp có あります",
+    "hint": null,
+    "tags": [
+      "が",
+      "tồn_tại",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L02_PR_12",
+    "lesson_id": 2,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "コーヒーを飲みます。",
+    "sentence_translation": "Uống cà phê.",
+    "question_text": "コーヒーを... → Gặp を, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động tác động (uống? mua? pha?)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có điểm đến",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を → chắc chắn sắp có động từ tác động lên \"cà phê\"",
+    "hint": null,
+    "tags": [
+      "を",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L02_PR_13",
+    "lesson_id": 2,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語がわかります。",
+    "sentence_translation": "Hiểu tiếng Nhật.",
+    "question_text": "日本語が... → Gặp が sau danh từ năng lực, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có điểm đến",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động thường",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có cảm xúc/năng lực (好き/わかる/できる)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が + 好き/わかる/できる → đối tượng cảm xúc/năng lực",
+    "hint": null,
+    "tags": [
+      "が",
+      "cảm_xúc",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L02_PR_14",
+    "lesson_id": 2,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "東京の駅の近くの...",
+    "sentence_translation": "Gần ga Tokyo...",
+    "question_text": "東京の / 駅の / 近くの... → Gặp chuỗi の, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có trợ từ khác",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ (phạm vi thu hẹp dần)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không dự đoán được",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Chuỗi の thu hẹp phạm vi: Tokyo → ga → gần → sắp có danh từ cuối cùng",
+    "hint": null,
+    "tags": [
+      "の",
+      "chuỗi",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L02_PR_15",
+    "lesson_id": 2,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "母が作った...",
+    "sentence_translation": "Mẹ đã nấu...",
+    "question_text": "母が / 作った... → が trong mệnh đề chưa kết câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Đây là chủ ngữ mệnh đề phụ, sắp có danh từ được bổ nghĩa",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là chủ ngữ chính",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp kết câu",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が + TTT (chưa kết câu) → chủ ngữ mệnh đề phụ. Sắp có danh từ: \"cái mà mẹ nấu\" = ?",
+    "hint": null,
+    "tags": [
+      "が",
+      "mệnh_đề_phụ",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L02_CH_16",
+    "lesson_id": 2,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "本を読みます",
+    "sentence_translation": "Đọc sách.",
+    "question_text": "本を読みます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "本を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "読みます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 本を / 読みます. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "を",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L02_CH_17",
+    "lesson_id": 2,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "猫がいます",
+    "sentence_translation": "Có con mèo.",
+    "question_text": "猫がいます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "猫が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "います",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 猫が / います. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "が",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L02_CH_18",
+    "lesson_id": 2,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私の本です",
+    "sentence_translation": "Sách của tôi.",
+    "question_text": "私の本です",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私の",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "本です",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 私の / 本です. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "の",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L02_CH_19",
+    "lesson_id": 2,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本の料理を食べました",
+    "sentence_translation": "Đã ăn món Nhật.",
+    "question_text": "日本の料理を食べました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本の料理を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "食べました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 日本の料理を / 食べました. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "の",
+      "を",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L02_CH_20",
+    "lesson_id": 2,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "東京の駅の近くのレストラン",
+    "sentence_translation": "Nhà hàng gần ga Tokyo.",
+    "question_text": "東京の駅の近くのレストラン",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "東京の",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "駅の",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "近くの",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "レストラン",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "Chia 4 khối: 東京の / 駅の / 近くの / レストラン. Mỗi bunsetsu = danh từ + trợ từ hoặc cụm động từ.",
+    "hint": null,
+    "tags": [
+      "の",
+      "chuỗi",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L02_CH_21",
+    "lesson_id": 2,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "母が作ったお弁当",
+    "sentence_translation": "Cơm hộp mà mẹ làm.",
+    "question_text": "母が作ったお弁当",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "母が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "作った",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "お弁当",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 母が / 作った / お弁当. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "が",
+      "mệnh_đề_phụ",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L02_PD_22",
+    "lesson_id": 2,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは来ました。/ 田中さんが来ました。",
+    "sentence_translation": "Tanaka đã đến. / Tanaka (chính anh ấy) đã đến.",
+    "question_text": "Câu nào nhấn mạnh 'chính TANAKA đã đến, không phải ai khác'?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "田中さんが来ました。",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "田中さんは来ました。",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は = chủ đề (nói về Tanaka). が = nhấn mạnh thông tin mới (chính Tanaka, không phải ai khác!)",
+    "hint": null,
+    "tags": [
+      "は",
+      "が",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L02_PD_23",
+    "lesson_id": 2,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "音楽を聞きます。/ 音楽が好きです。",
+    "sentence_translation": "Nghe nhạc. / Thích nhạc.",
+    "question_text": "Câu nào dùng が thay vì を? Tại sao?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "音楽が好きです。(が vì 好き là cảm xúc)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "音楽を聞きます。(を vì 聞く là hành động)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Hành động (聞く, 読む, 食べる) → を. Cảm xúc/năng lực (好き, わかる, できる) → が",
+    "hint": null,
+    "tags": [
+      "を",
+      "が",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L02_PD_24",
+    "lesson_id": 2,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本の料理 / 日本は料理",
+    "sentence_translation": "\"Món ăn Nhật\" hay \"Nhật thì, món ăn\"?",
+    "question_text": "Cách nào tự nhiên để nói \"món ăn Nhật\"?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "日本は料理 (は chủ đề → \"Nhật thì, món ăn\" -- không tự nhiên)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "日本の料理 (の liên kết → \"món ăn Nhật\")",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "の nối 2 danh từ thành 1 cụm. は đặt chủ đề cho CÂU, không nối danh từ.",
+    "hint": null,
+    "tags": [
+      "の",
+      "は",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L02_PK_25",
+    "lesson_id": 2,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "母が作った料理はおいしいです。",
+    "sentence_translation": "Món ăn mẹ nấu rất ngon.",
+    "question_text": "🔒 母が作った料理は → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"mẹ\" → sắp có hành động mới",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"mẹ nấu ăn\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"món ăn MẸ nấu\" → は = chủ đề → sắp có nhận xét",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"món ăn\" → sắp di chuyển",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: gom \"母が作った料理\" thành 1 hình ảnh \"món ăn mẹ nấu\" → は cho biết sắp có nhận xét. Chủ ngữ \"nấu\" = mẹ (が), chủ ngữ \"nhận xét\" = tôi (ẩn).",
+    "hint": null,
+    "tags": [
+      "が",
+      "は",
+      "đóng_gói",
+      "chủ_ngữ"
+    ]
+  },
+  {
+    "id": "L02_PK_26",
+    "lesson_id": 2,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生が書いた本を読みました。",
+    "sentence_translation": "Tôi đã đọc sách thầy viết.",
+    "question_text": "🔒 先生が書いた本を → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"sách\" → sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"thầy\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"thầy viết\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"sách THẦY viết\" → を = tân ngữ → sắp có hành động",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: gom \"先生が書いた本\" thành \"sách thầy viết\" → を cho biết sắp có hành động (đọc? mua?). Chủ ngữ \"viết\" = thầy (が), chủ ngữ \"đọc\" = tôi (ẩn).",
+    "hint": null,
+    "tags": [
+      "が",
+      "を",
+      "đóng_gói",
+      "chủ_ngữ"
+    ]
+  },
+  {
+    "id": "L02_PK_27",
+    "lesson_id": 2,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "東京の駅の近くのレストランで食べました。",
+    "sentence_translation": "Đã ăn ở nhà hàng gần ga Tokyo.",
+    "question_text": "🔒 東京の駅の近くのレストランで → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"ga Tokyo\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"nhà hàng gần ga Tokyo\" → で = địa điểm → sắp có hành động",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Tokyo\" → sắp di chuyển",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"gần\" → sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Chuỗi の thu hẹp dần: Tokyo → ga → gần → nhà hàng. Đóng gói toàn bộ thành \"nhà hàng gần ga Tokyo\" → で cho biết sắp có hành động tại đây.",
+    "hint": null,
+    "tags": [
+      "の",
+      "chuỗi",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L02_RO_28",
+    "lesson_id": 2,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "本を読みます。",
+    "sentence_translation": "Đọc sách.",
+    "question_text": "本を読みます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "読みます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "本を",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 本を / 読みます. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "を",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L02_RO_29",
+    "lesson_id": 2,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "猫がいます。",
+    "sentence_translation": "Có con mèo.",
+    "question_text": "猫がいます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "います",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "猫が",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 猫が / います. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "が",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L02_RO_30",
+    "lesson_id": 2,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本の料理を食べました。",
+    "sentence_translation": "Đã ăn món Nhật.",
+    "question_text": "日本の料理を食べました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "食べました",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本の料理を",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 日本の料理を / 食べました. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "の",
+      "を",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L02_RO_31",
+    "lesson_id": 2,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "東京の駅の近くのレストラン",
+    "sentence_translation": "Nhà hàng gần ga Tokyo.",
+    "question_text": "東京の駅の近くのレストラン",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "近くの",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "東京の",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "レストラン",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "駅の",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Thứ tự đúng: 東京の / 駅の / 近くの / レストラン. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "の",
+      "chuỗi",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L02_QT_32",
+    "lesson_id": 2,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "本を読みます。",
+    "sentence_translation": "Đọc sách.",
+    "question_text": "本を / 読みます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Viết sách.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Mua sách.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đọc sách.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sách đọc.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を = đối tượng hành động → 本 (sách) bị tác động bởi 読む (đọc)",
+    "hint": null,
+    "tags": [
+      "を",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L02_QT_33",
+    "lesson_id": 2,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "猫がいます。",
+    "sentence_translation": "Có con mèo.",
+    "question_text": "猫が / います。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Thích con mèo.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Con mèo ăn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Con mèo đi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Có con mèo.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "が + います = tồn tại (sinh vật)",
+    "hint": null,
+    "tags": [
+      "が",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L02_QT_34",
+    "lesson_id": 2,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "音楽が好きです。",
+    "sentence_translation": "Thích âm nhạc.",
+    "question_text": "音楽が / 好きです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Chơi nhạc.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thích âm nhạc.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nhạc hay.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nghe nhạc.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が + 好き = đối tượng cảm xúc. Không dùng を với 好き",
+    "hint": null,
+    "tags": [
+      "が",
+      "cảm_xúc",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L02_QT_35",
+    "lesson_id": 2,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "公園を歩きます。",
+    "sentence_translation": "Đi bộ qua công viên.",
+    "question_text": "公園を / 歩きます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đi bộ qua công viên.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Ở công viên.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thích công viên.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi đến công viên.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を + 歩く = đi bộ QUA không gian (không phải đi ĐẾN)",
+    "hint": null,
+    "tags": [
+      "を",
+      "di_chuyển",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L02_QT_36",
+    "lesson_id": 2,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "母が作った料理はおいしいです。",
+    "sentence_translation": "Món ăn mẹ nấu rất ngon.",
+    "question_text": "母が / 作った / 料理は / おいしいです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Mẹ nấu ăn ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Món ăn ngon cho mẹ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi nấu cho mẹ ăn ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Món ăn mẹ nấu rất ngon.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "母が = mẹ (chủ ngữ mệnh đề phụ: mẹ nấu). 料理は = món ăn (chủ đề chính). おいしい = ngon (tôi đánh giá -- chủ ngữ ẩn)",
+    "hint": null,
+    "tags": [
+      "が",
+      "は",
+      "mệnh_đề_phụ",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L02_QT_37",
+    "lesson_id": 2,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "東京の駅の近くのレストランで食べました。",
+    "sentence_translation": "Đã ăn ở nhà hàng gần ga Tokyo.",
+    "question_text": "東京の / 駅の / 近くの / レストランで / 食べました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nhà hàng Tokyo ở gần ga.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ga Tokyo có nhà hàng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã ăn ở nhà hàng gần ga Tokyo.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đi ga Tokyo gần nhà hàng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Chuỗi の thu hẹp: Tokyo → ga → gần → nhà hàng. で = địa điểm hành động. 食べました = đã ăn.",
+    "hint": null,
+    "tags": [
+      "の",
+      "chuỗi",
+      "dịch"
+    ]
+  }
+]

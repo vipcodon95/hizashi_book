@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "L36_PR_01",
+    "lesson_id": 36,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "もう宿題が終わりました。",
+    "sentence_translation": "Đã làm xong bài tập rồi.",
+    "question_text": "もう... -> Gặp もう, dự đoán kết câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có dạng điều kiện (たら/ば)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả tính chất (い/な)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động phủ định (ない)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động/trạng thái ĐÃ HOÀN THÀNH (quá khứ/た)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "もう = \"đã rồi\" -> tín hiệu DỰ ĐOÁN: phía sau sẽ là hành động/trạng thái ĐÃ XẢY RA hoặc ĐÃ HOÀN THÀNH. Khi gặp もう, não CHUẨN BỊ đọc thể quá khứ (Vた/Vました). もう + 終わりました = đã làm xong rồi",
+    "hint": null,
+    "tags": [
+      "もう",
+      "du_doan",
+      "qua_khu"
+    ]
+  },
+  {
+    "id": "L36_PR_02",
+    "lesson_id": 36,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "まだ食べていません。",
+    "sentence_translation": "Vẫn chưa ăn.",
+    "question_text": "まだ... -> Gặp まだ, dự đoán kết câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có dạng điều kiện",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có PHỦ ĐỊNH (ていません/ない = chưa ~)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có ĐÁNH GIÁ tích cực",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động hoàn thành (た)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まだ = \"vẫn chưa\" -> tín hiệu DỰ ĐOÁN: phía sau rất thường là PHỦ ĐỊNH (ていない/ていません = chưa ~). Khi gặp まだ, não dự đoán câu sẽ KẾT THÚC bằng ない/ません. まだ + 食べていません = vẫn chưa ăn",
+    "hint": null,
+    "tags": [
+      "まだ",
+      "du_doan",
+      "phu_dinh"
+    ]
+  },
+  {
+    "id": "L36_PR_03",
+    "lesson_id": 36,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ぜんぜんわかりません。",
+    "sentence_translation": "Hoàn toàn không hiểu.",
+    "question_text": "ぜんぜん... -> Gặp ぜんぜん, dự đoán kết câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có khẳng định mạnh",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có thể quá khứ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có dạng điều kiện",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có PHỦ ĐỊNH TUYỆT ĐỐI (ない/ません = hoàn toàn không ~)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ぜんぜん = \"hoàn toàn\" -> tín hiệu DỰ ĐOÁN: phía sau CHẮC CHẮN là PHỦ ĐỊNH. Khi gặp ぜんぜん, não dự đoán 100% câu kết thúc bằng ない/ません. ぜんぜん + わかりません = hoàn toàn không hiểu. ĐÂY là phó từ tín hiệu MẠNH NHẤT cho phủ định",
+    "hint": null,
+    "tags": [
+      "ぜんぜん",
+      "du_doan",
+      "phu_dinh",
+      "tuyet_doi"
+    ]
+  },
+  {
+    "id": "L36_PR_04",
+    "lesson_id": 36,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "きっと明日は晴れるでしょう。",
+    "sentence_translation": "Chắc chắn ngày mai sẽ nắng.",
+    "question_text": "きっと... -> Gặp きっと, dự đoán kết câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có phủ định mạnh",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có でしょう/だろう (phỏng đoán chắc chắn)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có điều kiện",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động quá khứ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "きっと = \"chắc chắn\" -> tín hiệu DỰ ĐOÁN: phía sau sẽ là でしょう hoặc だろう (suy đoán mức cao). Khi gặp きっと, não CHUẨN BỊ đọc でしょう/だろう ở cuối câu. きっと + 晴れるでしょう = chắc chắn sẽ nắng",
+    "hint": null,
+    "tags": [
+      "きっと",
+      "du_doan",
+      "deshou"
+    ]
+  },
+  {
+    "id": "L36_PR_05",
+    "lesson_id": 36,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "たぶん田中さんは来ないだろう。",
+    "sentence_translation": "Có lẽ anh Tanaka sẽ không đến.",
+    "question_text": "たぶん... -> Gặp たぶん, dự đoán kết câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có mệnh lệnh",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có khẳng định chắc chắn",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định tuyệt đối",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có だろう/でしょう/かもしれない (phỏng đoán)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "たぶん = \"có lẽ, chắc là\" -> tín hiệu DỰ ĐOÁN: phía sau sẽ là だろう/でしょう/かもしれない (suy đoán). Khi gặp たぶん, não CHUẨN BỊ cho kết câu KHÔNG CHẮC CHẮN. たぶん + 来ないだろう = có lẽ sẽ không đến",
+    "hint": null,
+    "tags": [
+      "たぶん",
+      "du_doan",
+      "darou",
+      "kamoshirenai"
+    ]
+  },
+  {
+    "id": "L36_PR_06",
+    "lesson_id": 36,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "もし雨が降ったら...",
+    "sentence_translation": "Nếu trời mưa...",
+    "question_text": "もし... -> Gặp もし, dự đoán cấu trúc câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có phủ định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có CÂU ĐIỀU KIỆN (たら/ば/なら/と)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có でしょう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có quá khứ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "もし = \"nếu\" -> tín hiệu DỰ ĐOÁN: phía sau CHẮC CHẮN có dạng điều kiện (たら/ば/なら/と). Khi gặp もし, não CHUẨN BỊ tìm tín hiệu điều kiện. もし + 降ったら = nếu mưa → sắp có KẾT QUẢ của điều kiện phía sau",
+    "hint": null,
+    "tags": [
+      "もし",
+      "du_doan",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L36_PR_07",
+    "lesson_id": 36,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "決して忘れません。",
+    "sentence_translation": "Tuyệt đối không quên.",
+    "question_text": "決して... -> Gặp 決して, dự đoán kết câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có PHỦ ĐỊNH MẠNH (ない/ません = tuyệt đối không ~)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có khẳng định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có でしょう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có quá khứ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "決して = \"tuyệt đối không bao giờ\" -> tín hiệu DỰ ĐOÁN: phía sau BẮT BUỘC là PHỦ ĐỊNH. Giống ぜんぜん nhưng MẠNH hơn, mang tính QUYẾT TÂM. 決して + ません = tuyệt đối không ~. KHÔNG BAO GIỜ dùng 決して + khẳng định",
+    "hint": null,
+    "tags": [
+      "決して",
+      "du_doan",
+      "phu_dinh",
+      "quyet_tam"
+    ]
+  },
+  {
+    "id": "L36_PR_08",
+    "lesson_id": 36,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "必ず約束を守ります。",
+    "sentence_translation": "Nhất định sẽ giữ lời hứa.",
+    "question_text": "必ず... -> Gặp 必ず, dự đoán kết câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có điều kiện",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có KHẲNG ĐỊNH MẠNH (ます/る = nhất định sẽ ~)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có でしょう (phỏng đoán)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "必ず = \"nhất định, chắc chắn\" -> tín hiệu DỰ ĐOÁN: phía sau sẽ là KHẲNG ĐỊNH MẠNH. KHÁC きっと (suy đoán + でしょう), 必ず thể hiện Ý CHÍ/CAM KẾT nên đi với thể khẳng định thường (ます/る). 必ず + 守ります = nhất định giữ",
+    "hint": null,
+    "tags": [
+      "必ず",
+      "du_doan",
+      "khang_dinh",
+      "y_chi"
+    ]
+  },
+  {
+    "id": "L36_FP_09",
+    "lesson_id": 36,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "もう昼ごはんを（　）。",
+    "sentence_translation": "Đã ăn trưa rồi.",
+    "question_text": "もう昼ごはんを（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "食べています",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "食べません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "食べました",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "食べたい",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "もう = \"đã rồi\" -> DỰ ĐOÁN: kết câu phải là thể QUÁ KHỨ/HOÀN THÀNH. もう + 食べました (đã ăn) = ĐÚNG. もう là tín hiệu báo rằng hành động ĐÃ XẢY RA. Nếu thấy もう, tìm Vた/Vました phía sau",
+    "hint": "もう = \"đã\" -> kết câu phải là dạng nào?",
+    "tags": [
+      "もう",
+      "qua_khu",
+      "hoan_thanh"
+    ]
+  },
+  {
+    "id": "L36_FP_10",
+    "lesson_id": 36,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ぜんぜん日本語が（　）。",
+    "sentence_translation": "Hoàn toàn không biết tiếng Nhật.",
+    "question_text": "ぜんぜん日本語が（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "わかりました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "わかるでしょう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "わかります",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "わかりません",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ぜんぜん -> kết câu BẮT BUỘC là PHỦ ĐỊNH (ない/ません). ぜんぜん + わかりません = hoàn toàn không hiểu. Đây là quy tắc CỨNG: ぜんぜん KHÔNG BAO GIỜ đi với khẳng định (trong văn phạm chuẩn)",
+    "hint": "ぜんぜん = \"hoàn toàn\" -> kết câu phải là dạng nào?",
+    "tags": [
+      "ぜんぜん",
+      "phu_dinh",
+      "quy_tac"
+    ]
+  },
+  {
+    "id": "L36_FP_11",
+    "lesson_id": 36,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "とても（　）映画でした。",
+    "sentence_translation": "Là bộ phim rất thú vị.",
+    "question_text": "とても（　）映画でした。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "おもしろい",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "おもしろく",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "おもしろさ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "おもしろくない",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "とても = \"rất\" -> tín hiệu DỰ ĐOÁN: phía sau CHẮC CHẮN là TÍNH TỪ (い hoặc な). とても + おもしろい = rất thú vị. Khi gặp とても, não tìm tính từ. KHÔNG dùng とても + động từ",
+    "hint": "とても = \"rất\" -> phải bổ nghĩa cho từ loại nào?",
+    "tags": [
+      "とても",
+      "tinh_tu",
+      "du_doan"
+    ]
+  },
+  {
+    "id": "L36_FP_12",
+    "lesson_id": 36,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "きっと彼女は（　）。",
+    "sentence_translation": "Chắc chắn cô ấy sẽ đến.",
+    "question_text": "きっと彼女は（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "来ます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "来ました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "来るでしょう",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "来ません",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "きっと = \"chắc chắn\" -> DỰ ĐOÁN: kết câu thường là でしょう/だろう (phỏng đoán mức cao). きっと + 来るでしょう = chắc chắn sẽ đến. きっと là TÍN HIỆU cho でしょう. KHÁC 必ず (ý chí → khẳng định thường)",
+    "hint": "きっと = \"chắc chắn\" -> kết câu nên ở dạng nào?",
+    "tags": [
+      "きっと",
+      "deshou",
+      "phong_doan"
+    ]
+  },
+  {
+    "id": "L36_FP_13",
+    "lesson_id": 36,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "たぶん明日は（　）。",
+    "sentence_translation": "Có lẽ ngày mai trời mưa.",
+    "question_text": "たぶん明日は（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "雨ではない",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "雨です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "雨でしょう",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "雨でした",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "たぶん = \"có lẽ\" -> DỰ ĐOÁN: kết câu là でしょう/だろう/かもしれない (suy đoán). たぶん + 雨でしょう = có lẽ mưa. たぶん KHÔNG đi với khẳng định chắc chắn (です). Phải có yếu tố KHÔNG CHẮC CHẮN ở cuối câu",
+    "hint": "たぶん = \"có lẽ\" -> kết câu phải thể hiện điều gì?",
+    "tags": [
+      "たぶん",
+      "deshou",
+      "suy_doan"
+    ]
+  },
+  {
+    "id": "L36_FP_14",
+    "lesson_id": 36,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "決して人の悪口を（　）。",
+    "sentence_translation": "Tuyệt đối không nói xấu người khác.",
+    "question_text": "決して人の悪口を（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "言いました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "言いません",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "言います",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "言うでしょう",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "決して = \"tuyệt đối không bao giờ\" -> kết câu BẮT BUỘC là PHỦ ĐỊNH (ない/ません). 決して + 言いません = tuyệt đối không nói. Quy tắc CỨNG: 決して + khẳng định = SAI ngữ pháp. Phó từ này KHÓA kết câu ở dạng phủ định",
+    "hint": "決して = \"tuyệt đối không\" -> kết câu bắt buộc là dạng nào?",
+    "tags": [
+      "決して",
+      "phu_dinh",
+      "bat_buoc"
+    ]
+  },
+  {
+    "id": "L36_FP_15",
+    "lesson_id": 36,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "必ず時間に（　）。",
+    "sentence_translation": "Nhất định đến đúng giờ.",
+    "question_text": "必ず時間に（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "間に合います",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "間に合いません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "間に合わないでしょう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "間に合うかもしれない",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "必ず = \"nhất định\" -> tín hiệu KHẲNG ĐỊNH MẠNH (cam kết, ý chí). 必ず + 間に合います = nhất định kịp giờ. 必ず KHÔNG đi với phủ định hay phỏng đoán. KHÁC きっと (phỏng đoán → でしょう), 必ず = Ý CHÍ cá nhân → khẳng định",
+    "hint": "必ず = \"nhất định\" -> biểu thị ý chí -> kết câu dạng nào?",
+    "tags": [
+      "必ず",
+      "khang_dinh",
+      "y_chi"
+    ]
+  },
+  {
+    "id": "L36_FP_16",
+    "lesson_id": 36,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "もし明日雨が降ったら（　）。",
+    "sentence_translation": "Nếu ngày mai mưa thì sẽ ở nhà.",
+    "question_text": "もし明日雨が降ったら（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "家にいるでしょう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "家にいました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "家にいます",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "家にいません",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "もし...たら = \"nếu ~ thì ~\" -> phía sau là KẾT QUẢ của điều kiện. もし + 降ったら → 家にいます = nếu mưa thì ở nhà. Khi gặp もし, não DỰ ĐOÁN: (1) tìm たら/ば/なら (điều kiện), (2) sau đó là KẾT QUẢ",
+    "hint": "もし...たら -> cấu trúc điều kiện -> phía sau là gì?",
+    "tags": [
+      "もし",
+      "dieu_kien",
+      "ket_qua"
+    ]
+  },
+  {
+    "id": "L36_PD_17",
+    "lesson_id": 36,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "きっと合格するでしょう / 必ず合格します",
+    "sentence_translation": "Chắc chắn sẽ đậu (phỏng đoán). / Nhất định sẽ đậu (cam kết).",
+    "question_text": "Câu nào thể hiện Ý CHÍ CÁ NHÂN (cam kết sẽ làm)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "必ず合格します (必ず = ý chí cá nhân + khẳng định thường)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "きっと合格するでしょう (きっと = phỏng đoán + でしょう)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "きっと = PHỎNG ĐOÁN về sự việc (có thể người khác) -> でしょう/だろう. 必ず = CAM KẾT/Ý CHÍ cá nhân -> khẳng định thường (ます/る). \"Chắc chắn anh ấy sẽ đậu\" = きっと. \"Tôi nhất định sẽ đậu\" = 必ず",
+    "hint": null,
+    "tags": [
+      "きっと",
+      "必ず",
+      "phan_biet",
+      "y_chi",
+      "phong_doan"
+    ]
+  },
+  {
+    "id": "L36_PD_18",
+    "lesson_id": 36,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "もう食べました / まだ食べていません",
+    "sentence_translation": "Đã ăn rồi. / Vẫn chưa ăn.",
+    "question_text": "Câu nào nghĩa là \"CHƯA ăn\" (hành động chưa xảy ra)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "もう食べました (もう+た = đã ~ rồi, hoàn thành)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "まだ食べていません (まだ+ていない = chưa ~, hành động chưa xảy ra)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "もう = \"đã rồi\" -> ĐÃ HOÀN THÀNH (もう+た). まだ = \"vẫn chưa\" -> CHƯA XẢY RA (まだ+ていない). Cặp đối lập: もう↔まだ. Khi gặp もう → tìm た. Khi gặp まだ → tìm ていない/ません",
+    "hint": null,
+    "tags": [
+      "もう",
+      "まだ",
+      "phan_biet",
+      "hoan_thanh",
+      "chua"
+    ]
+  },
+  {
+    "id": "L36_PD_19",
+    "lesson_id": 36,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "たぶん来るでしょう / きっと来るでしょう",
+    "sentence_translation": "Có lẽ sẽ đến. / Chắc chắn sẽ đến.",
+    "question_text": "Câu nào thể hiện mức độ chắc chắn CAO hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "きっと来るでしょう (きっと = mức chắc chắn CAO, ~90%)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "たぶん来るでしょう (たぶん = mức chắc chắn TRUNG BÌNH, ~60-70%)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Cả hai đều đi với でしょう nhưng MỨC ĐỘ CHẮC CHẮN khác nhau. きっと = ~90% (gần như chắc). たぶん = ~60-70% (có lẽ). Thang đo: 必ず(100%, ý chí) > きっと(~90%) > たぶん(~60-70%) > もしかしたら(~30%)",
+    "hint": null,
+    "tags": [
+      "きっと",
+      "たぶん",
+      "phan_biet",
+      "muc_do"
+    ]
+  },
+  {
+    "id": "L36_PD_20",
+    "lesson_id": 36,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "決して言わない / ぜんぜん言わない",
+    "sentence_translation": "Tuyệt đối không nói. / Hoàn toàn không nói.",
+    "question_text": "Câu nào mang ý QUYẾT TÂM (thề sẽ không)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "ぜんぜん言わない (ぜんぜん = mô tả sự thật: hoàn toàn không nói)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "決して言わない (決して = quyết tâm, thề KHÔNG BAO GIỜ nói)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Cả hai đều + phủ định, nhưng SẮC THÁI khác. 決して = QUYẾT TÂM, THỀ (ý chí cá nhân, sẽ không bao giờ ~). ぜんぜん = MÔ TẢ SỰ THẬT (thực tế hoàn toàn không ~). 決して = \"tôi THỀ không nói\". ぜんぜん = \"thực tế, không nói gì cả\"",
+    "hint": null,
+    "tags": [
+      "決して",
+      "ぜんぜん",
+      "phan_biet",
+      "quyet_tam",
+      "su_that"
+    ]
+  },
+  {
+    "id": "L36_CH_21",
+    "lesson_id": 36,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "きっと明日は晴れるでしょう",
+    "sentence_translation": "Chắc chắn ngày mai sẽ nắng.",
+    "question_text": "きっと明日は晴れるでしょう",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "きっと",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "明日は",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "晴れるでしょう",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "きっと = TÍN HIỆU: chắc chắn -> não dự đoán でしょう ở cuối | 明日は = ngày mai (chủ đề) | 晴れるでしょう = sẽ nắng (đúng như dự đoán: でしょう!). Phó từ đầu câu BÁO TRƯỚC kết câu",
+    "hint": null,
+    "tags": [
+      "きっと",
+      "chunking",
+      "deshou"
+    ]
+  },
+  {
+    "id": "L36_CH_22",
+    "lesson_id": 36,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "ぜんぜん日本語がわかりません",
+    "sentence_translation": "Hoàn toàn không biết tiếng Nhật.",
+    "question_text": "ぜんぜん日本語がわかりません",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "ぜんぜん",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日本語が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "わかりません",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "ぜんぜん = TÍN HIỆU: hoàn toàn → phủ định | 日本語が = tiếng Nhật (đối tượng) | わかりません = không hiểu (đúng: PHỦ ĐỊNH). Gặp ぜんぜん → biết ngay cuối câu là ない/ません",
+    "hint": null,
+    "tags": [
+      "ぜんぜん",
+      "chunking",
+      "phu_dinh"
+    ]
+  },
+  {
+    "id": "L36_CH_23",
+    "lesson_id": 36,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "たぶん彼は来ないかもしれません",
+    "sentence_translation": "Có lẽ anh ấy sẽ không đến.",
+    "question_text": "たぶん彼は来ないかもしれません",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "たぶん",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "彼は",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "来ないかもしれません",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "たぶん = TÍN HIỆU: có lẽ → suy đoán | 彼は = anh ấy (chủ đề) | 来ないかもしれません = có thể không đến (đúng: かもしれない). Gặp たぶん → tìm でしょう/だろう/かもしれない ở cuối",
+    "hint": null,
+    "tags": [
+      "たぶん",
+      "chunking",
+      "kamoshirenai"
+    ]
+  },
+  {
+    "id": "L36_CH_24",
+    "lesson_id": 36,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "もし時間があればどこかに行きましょう",
+    "sentence_translation": "Nếu có thời gian thì đi đâu đó.",
+    "question_text": "もし時間があればどこかに行きましょう",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "もし",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "時間があれば",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "どこかに行きましょう",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "もし = TÍN HIỆU: nếu → điều kiện | 時間があれば = 🔒 \"nếu có thời gian\" (điều kiện ば) | どこかに行きましょう = đi đâu đó (KẾT QUẢ điều kiện). Gặp もし → tìm たら/ば/なら → rồi tìm kết quả",
+    "hint": null,
+    "tags": [
+      "もし",
+      "chunking",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L36_PK_25",
+    "lesson_id": 36,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "もし来週の試験に落ちたら、もう一度勉強し直します。",
+    "sentence_translation": "Nếu thi rớt tuần sau thì sẽ học lại lần nữa.",
+    "question_text": "🔒 Gặp もし...落ちたら -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói: \"đã thi rớt\" (sự thật)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"NẾU thi rớt\" (điều kiện) -> đọc tiếp tìm KẾT QUẢ (sẽ làm gì nếu rớt)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"thi\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp もし → não báo động: SẮP CÓ ĐIỀU KIỆN → tìm たら/ば/なら. 落ちたら → 🔒 đóng gói: \"nếu thi rớt\". Sau đóng gói, đọc tiếp tìm KẾT QUẢ: もう一度勉強し直す = học lại. もし giúp dự đoán TOÀN BỘ CẤU TRÚC câu",
+    "hint": null,
+    "tags": [
+      "もし",
+      "dong_goi",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L36_PK_26",
+    "lesson_id": 36,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "きっと先生は私たちの努力をわかってくれるでしょう。",
+    "sentence_translation": "Chắc chắn thầy sẽ hiểu nỗ lực của chúng ta.",
+    "question_text": "🔒 Gặp きっと ở đầu câu -> đóng gói chiến lược?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói: \"sự thật chắc chắn\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói chiến lược: \"PHỎNG ĐOÁN chắc chắn\" -> đọc tiếp, tìm でしょう/だろう ở cuối câu để XÁC NHẬN",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"thầy giáo\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Phó từ tín hiệu ở ĐẦU CÂU = chìa khóa đóng gói chiến lược. きっと → não giữ thông tin \"đây là phỏng đoán\" → đọc qua nội dung → đến cuối câu: でしょう → XÁC NHẬN đúng dự đoán! Đóng gói phó từ = BIẾT TRƯỚC kết câu",
+    "hint": null,
+    "tags": [
+      "きっと",
+      "dong_goi",
+      "chien_luoc"
+    ]
+  },
+  {
+    "id": "L36_PK_27",
+    "lesson_id": 36,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ぜんぜん勉強しなかったので、テストの点数がとても悪かったです。",
+    "sentence_translation": "Vì hoàn toàn không học nên điểm thi rất tệ.",
+    "question_text": "🔒 Gặp ぜんぜん ở đầu -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ đóng gói \"học\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"hoàn toàn KHÔNG học\" (ぜんぜん→phủ định xác nhận: しなかった) -> ので → tìm KẾT QUẢ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"đã học rất nhiều\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Quy trình: (1) ぜんぜん → dự đoán PHỦ ĐỊNH → 勉強しなかった (xác nhận!) → 🔒 đóng gói: \"hoàn toàn không học\" (2) ので → tín hiệu nguyên nhân → đọc tiếp tìm KẾT QUẢ (3) 点数がとても悪かった = điểm rất tệ. Hai phó từ tín hiệu: ぜんぜん + とても!",
+    "hint": null,
+    "tags": [
+      "ぜんぜん",
+      "dong_goi",
+      "ので"
+    ]
+  },
+  {
+    "id": "L36_PK_28",
+    "lesson_id": 36,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "まだレポートを出していない学生は、必ず明日までに提出してください。",
+    "sentence_translation": "Học sinh chưa nộp báo cáo nhất định phải nộp trước ngày mai.",
+    "question_text": "🔒 Gặp まだ...ていない...必ず -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"đã nộp rồi\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"nộp\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói lần 1: \"học sinh CHƯA nộp\" (まだ+ていない) → đọc tiếp. Đóng gói lần 2: 必ず → KHẲNG ĐỊNH MẠNH → phải nộp (cam kết)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Câu có 2 PHÓ TỪ TÍN HIỆU: (1) まだ → dự đoán ていない → 出していない (chưa nộp) → 🔒 \"học sinh chưa nộp\" (2) 必ず → dự đoán KHẲNG ĐỊNH MẠNH → 提出してください (hãy nộp!). Mỗi phó từ = 1 tín hiệu dự đoán riêng",
+    "hint": null,
+    "tags": [
+      "まだ",
+      "必ず",
+      "dong_goi",
+      "2_tin_hieu"
+    ]
+  },
+  {
+    "id": "L36_RO_29",
+    "lesson_id": 36,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "もう電車が出ました。",
+    "sentence_translation": "Tàu đã chạy rồi.",
+    "question_text": "もう電車が出ました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "出ました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "電車が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "もう",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "もう (đã rồi) -> 電車が (tàu) -> 出ました (đã chạy). Phó từ tín hiệu đứng ĐẦU câu, báo trước kết câu là quá khứ/hoàn thành",
+    "hint": null,
+    "tags": [
+      "もう",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L36_RO_30",
+    "lesson_id": 36,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "ぜんぜん時間がありません。",
+    "sentence_translation": "Hoàn toàn không có thời gian.",
+    "question_text": "ぜんぜん時間がありません。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "ありません",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "時間が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "ぜんぜん",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "ぜんぜん (hoàn toàn) -> 時間が (thời gian) -> ありません (không có). Phó từ tín hiệu ĐẦU → nội dung → kết câu PHỦ ĐỊNH (đúng như dự đoán)",
+    "hint": null,
+    "tags": [
+      "ぜんぜん",
+      "reorder",
+      "phu_dinh"
+    ]
+  },
+  {
+    "id": "L36_RO_31",
+    "lesson_id": 36,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "とても静かな部屋です。",
+    "sentence_translation": "Là căn phòng rất yên tĩnh.",
+    "question_text": "とても静かな部屋です。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "部屋です",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "静かな",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "とても",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "とても (rất) -> 静かな (yên tĩnh) -> 部屋です (căn phòng). とても đứng TRƯỚC tính từ mà nó bổ nghĩa. とても = tín hiệu: sắp có TÍNH TỪ",
+    "hint": null,
+    "tags": [
+      "とても",
+      "reorder",
+      "tinh_tu"
+    ]
+  },
+  {
+    "id": "L36_RO_32",
+    "lesson_id": 36,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "たぶん今日の試合は中止になるでしょう。",
+    "sentence_translation": "Có lẽ trận đấu hôm nay sẽ bị hủy.",
+    "question_text": "たぶん今日の試合は中止になるでしょう。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "になるでしょう",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "中止",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "今日の試合は",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "たぶん",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "たぶん (có lẽ) -> 今日の試合は (trận đấu hôm nay) -> 中止になるでしょう (có lẽ bị hủy). たぶん ĐẦU câu → でしょう CUỐI câu. Phó từ và kết câu HƯỞNG ỨNG nhau!",
+    "hint": null,
+    "tags": [
+      "たぶん",
+      "reorder",
+      "deshou"
+    ]
+  },
+  {
+    "id": "L36_RO_33",
+    "lesson_id": 36,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "もし暇だったら映画を見に行きませんか。",
+    "sentence_translation": "Nếu rảnh thì đi xem phim không?",
+    "question_text": "もし暇だったら映画を見に行きませんか。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "見に行きませんか",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "映画を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "もし暇だったら",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "もし暇だったら (nếu rảnh) -> 映画を (phim) -> 見に行きませんか (đi xem không?). もし → 🔒 \"nếu rảnh\" (điều kiện) → kết quả: rủ đi xem phim",
+    "hint": null,
+    "tags": [
+      "もし",
+      "reorder",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L36_RO_34",
+    "lesson_id": 36,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "必ず来週までにレポートを出してください。",
+    "sentence_translation": "Nhất định phải nộp báo cáo trước tuần sau.",
+    "question_text": "必ず来週までにレポートを出してください。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "出してください",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "レポートを",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "来週までに",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "必ず",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "必ず (nhất định) -> 来週までに (trước tuần sau) -> レポートを (báo cáo) -> 出してください (hãy nộp). 必ず ĐẦU câu nhấn mạnh KHẲNG ĐỊNH (cam kết/yêu cầu mạnh)",
+    "hint": null,
+    "tags": [
+      "必ず",
+      "reorder",
+      "khang_dinh"
+    ]
+  },
+  {
+    "id": "L36_QT_35",
+    "lesson_id": 36,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "もう夏休みが終わりました。",
+    "sentence_translation": "Kỳ nghỉ hè đã kết thúc rồi.",
+    "question_text": "もう / 夏休みが終わりました。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Kỳ nghỉ hè đang kết thúc.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Kỳ nghỉ hè đã kết thúc rồi. (もう = đã rồi → hoàn thành)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Kỳ nghỉ hè chưa kết thúc.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Kỳ nghỉ hè sẽ kết thúc.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "もう = \"đã rồi\" → hành động ĐÃ HOÀN THÀNH. もう + 終わりました = đã kết thúc RỒI. Dấu hiệu nhận biết: もう → tìm Vた/Vました. Nếu là まだ → \"vẫn chưa\" → tìm ていない",
+    "hint": null,
+    "tags": [
+      "もう",
+      "dich",
+      "hoan_thanh"
+    ]
+  },
+  {
+    "id": "L36_QT_36",
+    "lesson_id": 36,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "まだ日本に行ったことがありません。",
+    "sentence_translation": "Vẫn chưa từng đi Nhật.",
+    "question_text": "まだ / 行ったことがありません。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Vẫn chưa từng đi Nhật. (まだ+ません = chưa ~)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sẽ không đi Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không muốn đi Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã từng đi Nhật rồi.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まだ = \"vẫn chưa\" → CHƯA XẢY RA. まだ + ありません = vẫn chưa từng. まだ là tín hiệu cho PHỦ ĐỊNH (chưa). KHÁC もう (đã rồi → hoàn thành). Cặp đối: もう↔まだ",
+    "hint": null,
+    "tags": [
+      "まだ",
+      "dich",
+      "chua"
+    ]
+  },
+  {
+    "id": "L36_QT_37",
+    "lesson_id": 36,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この料理はとてもおいしいです。",
+    "sentence_translation": "Món này rất ngon.",
+    "question_text": "とても / おいしいです。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Món này không ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Món này ngon nhất.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Món này hơi ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Món này rất ngon. (とても = rất → bổ nghĩa tính từ)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "とても = \"rất\" → bổ nghĩa TÍNH TỪ. とても + おいしい = rất ngon. Tín hiệu: gặp とても → biết ngay phía sau là tính từ (い hoặc な). KHÔNG dùng とても + động từ. とても = tăng MỨC ĐỘ tính từ",
+    "hint": null,
+    "tags": [
+      "とても",
+      "dich",
+      "tinh_tu"
+    ]
+  },
+  {
+    "id": "L36_QT_38",
+    "lesson_id": 36,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "もし100万円があったら何を買いますか。",
+    "sentence_translation": "Nếu có 1 triệu yên thì bạn mua gì?",
+    "question_text": "もし...あったら / 何を買いますか。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đã có 1 triệu yên rồi mua gì?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Muốn có 1 triệu yên để mua gì?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nếu có 1 triệu yên thì bạn mua gì? (もし+たら = nếu ~ thì ~)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Vì có 1 triệu yên nên mua gì?",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "もし = tín hiệu ĐIỀU KIỆN → tìm たら/ば/なら. もし+あったら = \"nếu có ~\". Đây là điều kiện GIẢ ĐỊNH (thực tế chưa có 1 triệu). Sau điều kiện → KẾT QUẢ: 何を買いますか = mua gì? Gặp もし → toàn bộ cấu trúc câu hiện ra trong đầu!",
+    "hint": null,
+    "tags": [
+      "もし",
+      "dich",
+      "dieu_kien",
+      "gia_dinh"
+    ]
+  }
+]

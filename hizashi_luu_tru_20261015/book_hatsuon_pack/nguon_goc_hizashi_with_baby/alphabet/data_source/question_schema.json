@@ -1,0 +1,424 @@
+{
+  "metadata": {
+    "title": "Question Schema - Chuẩn hóa cấu trúc câu hỏi",
+    "description": "Schema thống nhất cho tất cả câu hỏi trong hệ thống luyện nghe",
+    "version": "1.0",
+    "created_date": "2024"
+  },
+
+  "analysis_summary": {
+    "total_exercises": 937,
+    "with_type_field": 208,
+    "without_type_field": 729,
+    "unique_types_found": 121,
+    "recommendation": "Gom 121 types thành 8 base types để dễ xử lý"
+  },
+
+  "base_question_types": {
+    "description": "8 loại câu hỏi cơ bản, tất cả 121 types cũ có thể map vào",
+    "types": [
+      {
+        "type_id": "single_choice",
+        "name": "Chọn một đáp án",
+        "description": "Nghe audio và chọn 1 trong nhiều đáp án",
+        "maps_from": [
+          "choose_one", "identify_form", "identify_pattern", "identify_sound",
+          "identify_intonation", "identify_emotion", "identify_devoicing",
+          "identify_focus", "identify_particle", "word_choice", "word_identification",
+          "fu_recognition", "shi_chi_distinction", "three_way_choice",
+          "question_or_statement", "formal_question", "wh_question",
+          "emotion_recognition", "focus_identification", "pattern_recognition",
+          "alphabet", "sokuon", "chouon", "yoon", "sokuon_chouon",
+          "unknown (options + answer)"
+        ],
+        "percentage": "~70%"
+      },
+      {
+        "type_id": "same_different",
+        "name": "Giống hay khác",
+        "description": "Nghe 2 audio và xác định giống/khác",
+        "maps_from": [
+          "same_or_different", "same_or_different_pitch", "voiced_voiceless"
+        ],
+        "percentage": "~5%"
+      },
+      {
+        "type_id": "minimal_pair",
+        "name": "Cặp tối thiểu",
+        "description": "Nghe và phân biệt 2 từ gần giống",
+        "maps_from": [
+          "minimal_pair", "minimal_pair_choice", "minimal_pair_complex",
+          "minimal_pair_yoon", "minimal_pair_sentence", "three_way_distinction"
+        ],
+        "percentage": "~5%"
+      },
+      {
+        "type_id": "counting",
+        "name": "Đếm",
+        "description": "Đếm mora, âm, hoặc các đặc điểm",
+        "maps_from": [
+          "count_mora", "mora_counting", "count_sound", "count_dakuon",
+          "count_high_mora"
+        ],
+        "percentage": "~3%"
+      },
+      {
+        "type_id": "dictation",
+        "name": "Chép chính tả",
+        "description": "Nghe và viết lại",
+        "maps_from": [
+          "dictation", "dictation_with_pitch", "dictation_advanced",
+          "dictation_with_difficult_sounds"
+        ],
+        "percentage": "~3%"
+      },
+      {
+        "type_id": "matching",
+        "name": "Nối cặp",
+        "description": "Nối các cặp tương ứng",
+        "maps_from": [
+          "match_pairs", "ne_vs_yo", "function_matching", "tone_matching",
+          "pitch_pattern_matching"
+        ],
+        "percentage": "~3%"
+      },
+      {
+        "type_id": "dialogue",
+        "name": "Nghe hội thoại",
+        "description": "Nghe đoạn hội thoại và trả lời câu hỏi",
+        "maps_from": [
+          "dialogue_comprehension", "listening_dialogue", "situational_dialogue",
+          "extended_dialogue", "multi_speaker_dialogue", "fast_dialogue",
+          "comprehensive_listening", "comprehensive_test"
+        ],
+        "percentage": "~8%"
+      },
+      {
+        "type_id": "announcement",
+        "name": "Nghe thông báo",
+        "description": "Nghe thông báo/độc thoại và trả lời",
+        "maps_from": [
+          "announcement_comprehension", "announcement_listening",
+          "monologue_comprehension", "weather_comprehension", "listening_comprehension"
+        ],
+        "percentage": "~3%"
+      }
+    ]
+  },
+
+  "unified_schema": {
+    "description": "Cấu trúc thống nhất cho TẤT CẢ câu hỏi",
+    "required_fields": {
+      "id": {
+        "type": "string",
+        "description": "ID duy nhất của câu hỏi",
+        "example": "alphabet_001"
+      },
+      "base_type": {
+        "type": "enum",
+        "values": ["single_choice", "same_different", "minimal_pair", "counting", "dictation", "matching", "dialogue", "announcement"],
+        "description": "1 trong 8 loại cơ bản"
+      },
+      "sub_type": {
+        "type": "string",
+        "description": "Loại chi tiết (giữ lại để phân tích)",
+        "example": "identify_pattern"
+      },
+      "audio_ids": {
+        "type": "array<string>",
+        "description": "Danh sách ID audio cần phát",
+        "example": ["audio_001", "audio_002"]
+      },
+      "prompt": {
+        "type": "string",
+        "description": "Câu hỏi/hướng dẫn hiển thị cho user",
+        "example": "Từ bạn nghe có nghĩa gì?"
+      },
+      "difficulty": {
+        "type": "enum",
+        "values": ["easy", "medium", "hard"],
+        "description": "Độ khó"
+      }
+    },
+
+    "optional_fields": {
+      "options": {
+        "type": "array<Option>",
+        "description": "Các lựa chọn (cho single_choice, same_different)",
+        "schema": {
+          "id": "string",
+          "text": "string",
+          "is_correct": "boolean"
+        }
+      },
+      "correct_answer": {
+        "type": "string | number | array",
+        "description": "Đáp án đúng (cho dictation, counting)"
+      },
+      "context": {
+        "type": "Context",
+        "description": "Ngữ cảnh (cho dialogue, announcement)",
+        "schema": {
+          "situation": "string",
+          "speakers": "array<Speaker>",
+          "transcript": "string"
+        }
+      },
+      "pairs": {
+        "type": "array<Pair>",
+        "description": "Các cặp cần nối (cho matching)",
+        "schema": {
+          "left_id": "string",
+          "right_id": "string"
+        }
+      },
+      "hints": {
+        "type": "array<string>",
+        "description": "Gợi ý cho user"
+      },
+      "explanation": {
+        "type": "string",
+        "description": "Giải thích sau khi trả lời"
+      },
+      "topic": {
+        "type": "string",
+        "description": "Chủ đề (pitch_accent, sokuon, etc.)"
+      },
+      "tags": {
+        "type": "array<string>",
+        "description": "Tags để filter/search"
+      }
+    }
+  },
+
+  "database_tables": {
+    "description": "Đề xuất cấu trúc database",
+    "tables": [
+      {
+        "name": "questions",
+        "columns": [
+          {"name": "id", "type": "VARCHAR(50)", "primary": true},
+          {"name": "base_type", "type": "ENUM", "index": true},
+          {"name": "sub_type", "type": "VARCHAR(50)", "index": true},
+          {"name": "prompt", "type": "TEXT"},
+          {"name": "difficulty", "type": "ENUM"},
+          {"name": "topic", "type": "VARCHAR(50)", "index": true},
+          {"name": "source_file", "type": "VARCHAR(100)"},
+          {"name": "metadata", "type": "JSON", "description": "Các field bổ sung"}
+        ]
+      },
+      {
+        "name": "question_audios",
+        "columns": [
+          {"name": "id", "type": "INT", "primary": true, "auto": true},
+          {"name": "question_id", "type": "VARCHAR(50)", "foreign": "questions.id"},
+          {"name": "audio_id", "type": "VARCHAR(50)"},
+          {"name": "order_index", "type": "INT"},
+          {"name": "label", "type": "VARCHAR(50)", "description": "A, B, hoặc main"}
+        ]
+      },
+      {
+        "name": "question_options",
+        "columns": [
+          {"name": "id", "type": "INT", "primary": true, "auto": true},
+          {"name": "question_id", "type": "VARCHAR(50)", "foreign": "questions.id"},
+          {"name": "option_index", "type": "INT"},
+          {"name": "text", "type": "TEXT"},
+          {"name": "is_correct", "type": "BOOLEAN"},
+          {"name": "explanation", "type": "TEXT", "nullable": true}
+        ]
+      },
+      {
+        "name": "audios",
+        "columns": [
+          {"name": "id", "type": "VARCHAR(50)", "primary": true},
+          {"name": "file_path", "type": "VARCHAR(255)"},
+          {"name": "text_content", "type": "TEXT", "description": "Nội dung được nói"},
+          {"name": "romaji", "type": "VARCHAR(255)", "nullable": true},
+          {"name": "pitch_pattern", "type": "VARCHAR(50)", "nullable": true},
+          {"name": "mora_count", "type": "INT", "nullable": true},
+          {"name": "speaker", "type": "VARCHAR(50)", "nullable": true},
+          {"name": "speed", "type": "ENUM", "values": ["slow", "normal", "fast"]}
+        ]
+      }
+    ]
+  },
+
+  "migration_plan": {
+    "description": "Kế hoạch chuyển đổi từ JSON sang schema mới",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Tạo mapping table",
+        "description": "Map 121 types cũ vào 8 base_types"
+      },
+      {
+        "step": 2,
+        "action": "Viết converter script",
+        "description": "Python script đọc JSON và output theo schema mới"
+      },
+      {
+        "step": 3,
+        "action": "Validate data",
+        "description": "Kiểm tra tất cả câu hỏi đã được convert đúng"
+      },
+      {
+        "step": 4,
+        "action": "Generate audio IDs",
+        "description": "Tạo ID cho audio files dựa trên content"
+      },
+      {
+        "step": 5,
+        "action": "Export to database",
+        "description": "Insert vào database hoặc export JSON mới"
+      }
+    ]
+  },
+
+  "type_mapping": {
+    "description": "Chi tiết mapping từ type cũ sang base_type mới",
+    "single_choice": [
+      "choose_one",
+      "identify_form",
+      "identify_pattern",
+      "identify_sound",
+      "identify_intonation",
+      "identify_emotion",
+      "identify_devoicing",
+      "identify_focus",
+      "identify_particle",
+      "identify_downstep",
+      "word_choice",
+      "word_identification",
+      "fu_recognition",
+      "shi_chi_distinction",
+      "three_way_choice",
+      "question_or_statement",
+      "formal_question",
+      "wh_question",
+      "emotion_recognition",
+      "focus_identification",
+      "pattern_recognition",
+      "alphabet",
+      "sokuon",
+      "chouon",
+      "yoon",
+      "sokuon_chouon",
+      "speed_recognition",
+      "speed_comprehension",
+      "speed_understanding",
+      "native_speed_word",
+      "native_speed_sentence",
+      "compound_pitch",
+      "particle_identification",
+      "particle_recognition",
+      "rendaku_recognition",
+      "ji_zu_distinction",
+      "identify_all_dakuon",
+      "position_identification",
+      "identify_first_mora",
+      "identify_word_by_pitch",
+      "heiban_vs_odaka",
+      "particle_pitch_prediction",
+      "sentence_pitch",
+      "accent_number_identification",
+      "word_class_pitch",
+      "compound_word_pitch",
+      "negative_form",
+      "fill_blank",
+      "identify_meaning",
+      "nuance_recognition",
+      "formal_to_casual",
+      "polite_vs_casual",
+      "identify_features",
+      "yoon_chouon_recognition",
+      "complex_word_analysis",
+      "word_building",
+      "n_variant_in_context",
+      "n_vs_na_advanced",
+      "complex_n_words",
+      "fill_in_dialogue",
+      "identify_devoiced",
+      "sentence_devoicing",
+      "fast_contraction_recognition",
+      "multiple_contractions",
+      "shadowing_prep",
+      "sentence_comprehension",
+      "sentence_listening",
+      "mixed_practice",
+      "word_with_special_sounds",
+      "katakana_fu_variations",
+      "mixed_special_sounds",
+      "error_detection",
+      "speed_test",
+      "ultimate_speed_test",
+      "ultimate_analysis",
+      "sentence_with_complex_words",
+      "incomplete_sentence",
+      "listing_pattern"
+    ],
+    "same_different": [
+      "same_or_different",
+      "same_or_different_pitch",
+      "voiced_voiceless",
+      "slow_vs_natural"
+    ],
+    "minimal_pair": [
+      "minimal_pair",
+      "minimal_pair_choice",
+      "minimal_pair_complex",
+      "minimal_pair_yoon",
+      "minimal_pair_sentence",
+      "three_way_distinction"
+    ],
+    "counting": [
+      "count_mora",
+      "mora_counting",
+      "count_sound",
+      "count_dakuon",
+      "count_high_mora"
+    ],
+    "dictation": [
+      "dictation",
+      "dictation_with_pitch",
+      "dictation_advanced",
+      "dictation_with_difficult_sounds"
+    ],
+    "matching": [
+      "match_pairs",
+      "ne_vs_yo",
+      "function_matching",
+      "tone_matching",
+      "pitch_pattern_matching"
+    ],
+    "dialogue": [
+      "dialogue_comprehension",
+      "listening_dialogue",
+      "situational_dialogue",
+      "extended_dialogue",
+      "multi_speaker_dialogue",
+      "multi_speaker",
+      "fast_dialogue",
+      "comprehensive_listening",
+      "comprehensive_test",
+      "dialogue_pitch_awareness",
+      "natural_conversation",
+      "inference_questions"
+    ],
+    "announcement": [
+      "announcement_comprehension",
+      "announcement_listening",
+      "monologue_comprehension",
+      "weather_comprehension",
+      "listening_comprehension",
+      "final_challenge"
+    ]
+  },
+
+  "next_steps": {
+    "1": "Review schema này và điều chỉnh nếu cần",
+    "2": "Viết Python script để convert JSON files",
+    "3": "Quyết định dùng database nào (SQLite, PostgreSQL, MongoDB)",
+    "4": "Tạo migration script"
+  }
+}

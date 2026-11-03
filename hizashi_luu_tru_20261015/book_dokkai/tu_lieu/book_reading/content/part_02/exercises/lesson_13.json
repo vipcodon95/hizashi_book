@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "L13_FP_01",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日テレビを見ました。",
+    "sentence_translation": "Hôm qua tôi đã xem tivi.",
+    "question_text": "[Quá khứ động từ] 昨日テレビを見（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ませんでした",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ました",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Động từ quá khứ: ます → ました. Từ chỉ thời gian 昨日 (hôm qua) báo hiệu thì quá khứ",
+    "hint": "昨日 = hôm qua → quá khứ → ました",
+    "tags": [
+      "ました",
+      "動詞",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_FP_02",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "毎日コーヒーを飲みます。",
+    "sentence_translation": "Mỗi ngày tôi uống cà phê.",
+    "question_text": "[Hiện tại/thói quen động từ] 毎日コーヒーを飲み（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ませんでした",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ます",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ました",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Động từ hiện tại/thói quen: ます. 毎日 (mỗi ngày) báo hiệu thói quen → dùng ます (không dùng ました)",
+    "hint": "毎日 = mỗi ngày → thói quen → ます",
+    "tags": [
+      "ます",
+      "動詞",
+      "hiện_tại",
+      "thói_quen"
+    ]
+  },
+  {
+    "id": "L13_FP_03",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "明日東京へ行きます。",
+    "sentence_translation": "Ngày mai tôi sẽ đi Tokyo.",
+    "question_text": "[Tương lai động từ] 明日東京へ行き（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ませんでした",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ます",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Tương lai cũng dùng ます (giống hiện tại). Tiếng Nhật KHÔNG phân biệt hiện tại và tương lai ở đuôi động từ",
+    "hint": "明日 = ngày mai → tương lai → cũng dùng ます",
+    "tags": [
+      "ます",
+      "動詞",
+      "tương_lai"
+    ]
+  },
+  {
+    "id": "L13_FP_04",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日学校に行きませんでした。",
+    "sentence_translation": "Hôm qua tôi đã không đi học.",
+    "question_text": "[Phủ định quá khứ động từ] 昨日学校に行き（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ませんでした",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ました",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Phủ định quá khứ động từ: ません → ませんでした. 昨日 báo hiệu quá khứ + phủ định = ませんでした",
+    "hint": "昨日 + phủ định → quá khứ phủ định → ませんでした",
+    "tags": [
+      "ませんでした",
+      "動詞",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_FP_05",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは先生でした。",
+    "sentence_translation": "Tanaka đã là giáo viên.",
+    "question_text": "[Quá khứ danh từ] 田中さんは先生（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "じゃないです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "じゃなかったです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "でした",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Danh từ quá khứ: です → でした. 先生でした = \"đã là giáo viên\" (bây giờ không còn là giáo viên nữa)",
+    "hint": "Danh từ quá khứ → です → でした",
+    "tags": [
+      "でした",
+      "名詞",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_FP_06",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この部屋は静かでした。",
+    "sentence_translation": "Căn phòng này đã yên tĩnh.",
+    "question_text": "[Quá khứ tính từ な] この部屋は静か（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "でした",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "かったです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "じゃないです",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な chia thì GIỐNG danh từ: です → でした. 静かでした = \"đã yên tĩnh\"",
+    "hint": "Tính từ な quá khứ giống danh từ → でした",
+    "tags": [
+      "でした",
+      "な形容詞",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_FP_07",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日の料理はおいしかったです。",
+    "sentence_translation": "Món ăn hôm qua đã ngon.",
+    "question_text": "[Quá khứ tính từ い] 昨日の料理はおいし（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "かったです",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "いでした",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くないです",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ い quá khứ: bỏ い → thêm かったです. おいしい → おいしかったです. CHÚ Ý: おいしいでした là SAI!",
+    "hint": "Tính từ い quá khứ: bỏ い → thêm かったです",
+    "tags": [
+      "かったです",
+      "い形容詞",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_FP_08",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先週の映画は面白くなかったです。",
+    "sentence_translation": "Bộ phim tuần trước đã không hay.",
+    "question_text": "[Phủ định quá khứ tính từ い] 先週の映画は面白（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "かったです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くないです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くなかったです",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "じゃなかったです",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ い phủ định quá khứ: くない → くなかったです. 面白い → 面白くなかったです = \"đã không hay\"",
+    "hint": "Tính từ い + phủ định + quá khứ → くなかったです",
+    "tags": [
+      "くなかったです",
+      "い形容詞",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_FP_09",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "去年はあまり暇じゃなかったです。",
+    "sentence_translation": "Năm ngoái không rảnh lắm.",
+    "question_text": "[Phủ định quá khứ tính từ な] 去年はあまり暇（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "くなかったです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "じゃないです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "じゃなかったです",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "でした",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な phủ định quá khứ giống danh từ: じゃないです → じゃなかったです. 暇じゃなかったです = \"đã không rảnh\"",
+    "hint": "Tính từ な + phủ định + quá khứ → じゃなかったです (giống danh từ)",
+    "tags": [
+      "じゃなかったです",
+      "な形容詞",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_FP_10",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "昨日の天気はよかったです。",
+    "sentence_translation": "Thời tiết hôm qua đã tốt.",
+    "question_text": "[Ngoại lệ いい quá khứ] 昨日の天気は（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "いいでした",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "よいでした",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いかったです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "よかったです",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Ngoại lệ quan trọng: いい → よかったです. Gốc là よい nên quá khứ = よかったです. いかったです và いいでした đều SAI!",
+    "hint": "Ngoại lệ: いい quá khứ → よかったです (KHÔNG phải いかったです)",
+    "tags": [
+      "いい",
+      "ngoại_lệ",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_FP_11",
+    "lesson_id": 13,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先週の試験はよくなかったです。",
+    "sentence_translation": "Bài thi tuần trước đã không tốt.",
+    "question_text": "[Ngoại lệ いい phủ định quá khứ] 先週の試験は（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "よくなかったです",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "いくなかったです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いいじゃなかったです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "よくないでした",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いい → よくない → よくなかったです. Tất cả biến đổi của いい đều dùng gốc よ-, KHÔNG dùng い-",
+    "hint": "Ngoại lệ: いい phủ định quá khứ → よくなかったです",
+    "tags": [
+      "いい",
+      "ngoại_lệ",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_PR_12",
+    "lesson_id": 13,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日友達と映画を見ました。",
+    "sentence_translation": "Hôm qua tôi đã xem phim với bạn.",
+    "question_text": "昨日友達と映画を見ました → Gặp 昨日 ở đầu câu, dự đoán đuôi câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Đuôi câu sẽ là hiện tại (ます/です/いです)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không dự đoán được",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là QUÁ KHỨ (ました/でした/かったです)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là phủ định (ません)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "昨日 (hôm qua) → biển báo thời gian quá khứ → dự đoán đuôi câu sẽ là dạng quá khứ. Đọc thấy 昨日 → não tự động chuẩn bị cho ました/でした/かったです",
+    "hint": null,
+    "tags": [
+      "昨日",
+      "dự_đoán",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_PR_13",
+    "lesson_id": 13,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "明日大阪へ行きます。",
+    "sentence_translation": "Ngày mai tôi sẽ đi Osaka.",
+    "question_text": "明日大阪へ行きます → Gặp 明日 ở đầu câu, dự đoán đuôi câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Không dự đoán được",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là quá khứ (ました/でした)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là HIỆN TẠI/TƯƠNG LAI (ます/です)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là phủ định quá khứ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "明日 (ngày mai) → biển báo tương lai → dự đoán đuôi câu ます/です. Tiếng Nhật dùng ます cho cả hiện tại và tương lai",
+    "hint": null,
+    "tags": [
+      "明日",
+      "dự_đoán",
+      "tương_lai"
+    ]
+  },
+  {
+    "id": "L13_PR_14",
+    "lesson_id": 13,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "毎日日本語を勉強します。",
+    "sentence_translation": "Mỗi ngày tôi học tiếng Nhật.",
+    "question_text": "毎日日本語を勉強します → Gặp 毎日 ở đầu câu, dự đoán đuôi câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Đuôi câu sẽ là phủ định (ません)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là HIỆN TẠI/THÓI QUEN (ます)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là quá khứ (ました)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không dự đoán được",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "毎日 (mỗi ngày) → biển báo thói quen → dự đoán đuôi câu ます. Thói quen = lặp lại → hiện tại ます",
+    "hint": null,
+    "tags": [
+      "毎日",
+      "dự_đoán",
+      "thói_quen"
+    ]
+  },
+  {
+    "id": "L13_PR_15",
+    "lesson_id": 13,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先週京都に行きました。",
+    "sentence_translation": "Tuần trước tôi đã đi Kyoto.",
+    "question_text": "先週京都に行きました → Gặp 先週 ở đầu câu, dự đoán đuôi câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Đuôi câu sẽ là QUÁ KHỨ (ました/でした/かったです)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là tương lai",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là hiện tại (ます)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu phủ định",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "先週 (tuần trước) → biển báo quá khứ → dự đoán đuôi câu ました/でした/かったです. Gặp 先/昨/去 → quá khứ!",
+    "hint": null,
+    "tags": [
+      "先週",
+      "dự_đoán",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_PR_16",
+    "lesson_id": 13,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "来週試験があります。",
+    "sentence_translation": "Tuần sau có kỳ thi.",
+    "question_text": "来週試験があります → Gặp 来週 ở đầu câu, dự đoán đuôi câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Không dự đoán được",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là phủ định quá khứ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là HIỆN TẠI/TƯƠNG LAI (ます/です)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là quá khứ (ました)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "来週 (tuần sau) → biển báo tương lai → dự đoán đuôi câu ます/です. Gặp 来/明 → tương lai!",
+    "hint": null,
+    "tags": [
+      "来週",
+      "dự_đoán",
+      "tương_lai"
+    ]
+  },
+  {
+    "id": "L13_PR_17",
+    "lesson_id": 13,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "去年日本に住んでいました。",
+    "sentence_translation": "Năm ngoái tôi đã sống ở Nhật.",
+    "question_text": "去年日本に住んでいました → Gặp 去年 ở đầu câu, dự đoán đuôi câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu phủ định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là hiện tại (ます)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là QUÁ KHỨ (ました/でした/かったです)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đuôi câu sẽ là tương lai",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "去年 (năm ngoái) → biển báo quá khứ → dự đoán đuôi câu quá khứ. Quy tắc: 昨日/先週/去年 → quá khứ, 明日/来週 → tương lai, 毎日/いつも → thói quen",
+    "hint": null,
+    "tags": [
+      "去年",
+      "dự_đoán",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_CH_18",
+    "lesson_id": 13,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "昨日テレビを見ました",
+    "sentence_translation": "Hôm qua tôi đã xem tivi.",
+    "question_text": "昨日テレビを見ました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "昨日",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "テレビを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "見ました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "昨日 = thời gian quá khứ (hôm qua) | テレビを = đối tượng (tivi) | 見ました = động từ quá khứ (đã xem). 昨日 ở đầu → dự đoán ました ở cuối",
+    "hint": null,
+    "tags": [
+      "ました",
+      "chunking",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_CH_19",
+    "lesson_id": 13,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "この料理はおいしかったです",
+    "sentence_translation": "Món ăn này đã ngon.",
+    "question_text": "この料理はおいしかったです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この料理は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "おいしかったです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "この料理は = chủ đề (món ăn này) | おいしかったです = tính từ い quá khứ (đã ngon). かったです → quá khứ tính từ い. KHÔNG phải おいしいでした!",
+    "hint": null,
+    "tags": [
+      "かったです",
+      "chunking",
+      "い形容詞"
+    ]
+  },
+  {
+    "id": "L13_CH_20",
+    "lesson_id": 13,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "田中さんは学生でした",
+    "sentence_translation": "Tanaka đã là sinh viên.",
+    "question_text": "田中さんは学生でした",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "田中さんは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "学生でした",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "田中さんは = chủ đề (Tanaka) | 学生でした = danh từ quá khứ (đã là sinh viên). でした → quá khứ danh từ/tính từ な",
+    "hint": null,
+    "tags": [
+      "でした",
+      "chunking",
+      "名詞"
+    ]
+  },
+  {
+    "id": "L13_CH_21",
+    "lesson_id": 13,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "先週の映画はあまり面白くなかったです",
+    "sentence_translation": "Bộ phim tuần trước không hay lắm.",
+    "question_text": "先週の映画はあまり面白くなかったです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "先週の映画は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "あまり",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "面白くなかったです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "先週の映画は = chủ đề (phim tuần trước) | あまり = biển báo phủ định nhẹ | 面白くなかったです = tính từ い phủ định quá khứ (đã không hay). あまり báo trước → くなかったです xác nhận",
+    "hint": null,
+    "tags": [
+      "くなかったです",
+      "chunking",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_CH_22",
+    "lesson_id": 13,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "昨日の天気はよくなかったです",
+    "sentence_translation": "Thời tiết hôm qua đã không tốt.",
+    "question_text": "昨日の天気はよくなかったです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "昨日の天気は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "よくなかったです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "昨日の天気は = chủ đề (thời tiết hôm qua) | よくなかったです = ngoại lệ いい phủ định quá khứ (đã không tốt). いい → よくない → よくなかったです",
+    "hint": null,
+    "tags": [
+      "いい",
+      "ngoại_lệ",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L13_CH_23",
+    "lesson_id": 13,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "去年この町は静かじゃなかったです",
+    "sentence_translation": "Năm ngoái thị trấn này đã không yên tĩnh.",
+    "question_text": "去年この町は静かじゃなかったです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "去年",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "この町は",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "静かじゃなかったです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "去年 = thời gian quá khứ (năm ngoái) | この町は = chủ đề (thị trấn này) | 静かじゃなかったです = tính từ な phủ định quá khứ (đã không yên tĩnh). Tính từ な chia giống danh từ",
+    "hint": null,
+    "tags": [
+      "じゃなかったです",
+      "chunking",
+      "な形容詞"
+    ]
+  },
+  {
+    "id": "L13_PD_24",
+    "lesson_id": 13,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "食べました / 食べませんでした",
+    "sentence_translation": "Đã ăn. / Đã không ăn.",
+    "question_text": "Câu nào là quá khứ PHỦ ĐỊNH?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "食べませんでした (ませんでした = quá khứ phủ định)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "食べました (ました = quá khứ khẳng định)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ました = quá khứ khẳng định. ませんでした = quá khứ phủ định. Phủ định quá khứ = ません + でした",
+    "hint": null,
+    "tags": [
+      "ました",
+      "ませんでした",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L13_PD_25",
+    "lesson_id": 13,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "おいしかったです / おいしいでした",
+    "sentence_translation": "Đã ngon. / (???)",
+    "question_text": "Câu nào ĐÚNG ngữ pháp?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "おいしかったです (い → かったです = quá khứ tính từ い đúng)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "おいしいでした (い + でした = SAI! Lỗi thường gặp)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "LỖI THƯỜNG GẶP: おいしいでした là SAI! Tính từ い KHÔNG dùng でした. Đúng: bỏ い → thêm かったです. おいしい → おいしかったです",
+    "hint": null,
+    "tags": [
+      "おいしいでした",
+      "lỗi_thường_gặp",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L13_PD_26",
+    "lesson_id": 13,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "学生でした / 静かでした / おいしかったです",
+    "sentence_translation": "Đã là sinh viên. / Đã yên tĩnh. / Đã ngon.",
+    "question_text": "Câu nào là quá khứ TÍNH TỪ い?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "静かでした (tính từ な + でした)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "学生でした (danh từ + でした)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "おいしかったです (tính từ い + かったです)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "3 dạng quá khứ khác nhau: danh từ → でした, tính từ な → でした (giống danh từ), tính từ い → かったです. Chỉ tính từ い dùng かったです!",
+    "hint": null,
+    "tags": [
+      "でした",
+      "かったです",
+      "phân_biệt",
+      "ba_loại"
+    ]
+  },
+  {
+    "id": "L13_PD_27",
+    "lesson_id": 13,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "よかったです / いかったです / いいでした",
+    "sentence_translation": "Đã tốt. / (???) / (???)",
+    "question_text": "Câu nào ĐÚNG cho quá khứ của いい?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "いいでした (SAI! Tính từ い không dùng でした)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "よかったです (いい → よかったです, đúng!)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "いかったです (SAI! Không tồn tại)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いい là ngoại lệ ĐẶC BIỆT: quá khứ = よかったです. いかったです và いいでした đều SAI. Gốc là よい → よかった",
+    "hint": null,
+    "tags": [
+      "いい",
+      "ngoại_lệ",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L13_PK_28",
+    "lesson_id": 13,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "昨日の映画はとても面白かったです。",
+    "sentence_translation": "Bộ phim hôm qua rất hay.",
+    "question_text": "🔒 Gặp 昨日 ở đầu câu → đóng gói dự đoán thì?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 昨日 = biển báo thói quen → dự đoán đuôi câu ます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 昨日 = không liên quan đến thì",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 昨日 = biển báo quá khứ → dự đoán đuôi câu ました/でした/かったです → đọc tiếp tìm nội dung chính",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 昨日 = biển báo tương lai → dự đoán đuôi câu ます/です",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp 昨日 → 🔒 đóng gói: \"đây là câu quá khứ\" → giải phóng bộ nhớ → đọc tiếp tìm chủ ngữ và vị ngữ. Quy tắc: 昨日/先週/去年 → luôn quá khứ",
+    "hint": null,
+    "tags": [
+      "昨日",
+      "đóng_gói",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_PK_29",
+    "lesson_id": 13,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "来週友達と京都に行きます。",
+    "sentence_translation": "Tuần sau tôi sẽ đi Kyoto với bạn.",
+    "question_text": "🔒 Gặp 来週 ở đầu câu → đóng gói dự đoán thì?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 来週 = không liên quan đến thì",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 来週 = biển báo quá khứ → dự đoán đuôi câu ました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 来週 = biển báo phủ định → dự đoán ません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 来週 = biển báo tương lai → dự đoán đuôi câu ます/です → đọc tiếp tìm nội dung chính",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp 来週 → 🔒 đóng gói: \"đây là câu tương lai\" → giải phóng bộ nhớ → đọc tiếp. Quy tắc: 来週/明日 → tương lai → ます/です",
+    "hint": null,
+    "tags": [
+      "来週",
+      "đóng_gói",
+      "tương_lai"
+    ]
+  },
+  {
+    "id": "L13_PK_30",
+    "lesson_id": 13,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "毎朝コーヒーを飲みます。",
+    "sentence_translation": "Mỗi sáng tôi uống cà phê.",
+    "question_text": "🔒 Gặp 毎朝 ở đầu câu → đóng gói dự đoán thì?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 毎朝 = biển báo phủ định → dự đoán ません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 毎朝 = biển báo thói quen → dự đoán đuôi câu ます → hành động lặp lại → đọc tiếp tìm nội dung",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 毎朝 = biển báo tương lai → dự đoán ます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 毎朝 = biển báo quá khứ → dự đoán ました",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp 毎朝 → 🔒 đóng gói: \"đây là thói quen\" → giải phóng bộ nhớ → đọc tiếp. 毎日/毎朝/いつも → thói quen → ます (KHÔNG phải ました)",
+    "hint": null,
+    "tags": [
+      "毎朝",
+      "đóng_gói",
+      "thói_quen"
+    ]
+  },
+  {
+    "id": "L13_RO_31",
+    "lesson_id": 13,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "昨日テレビを見ました。",
+    "sentence_translation": "Hôm qua tôi đã xem tivi.",
+    "question_text": "昨日テレビを見ました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "見ました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "テレビを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "昨日",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "昨日 (thời gian quá khứ) → テレビを (đối tượng) → 見ました (động từ quá khứ). Thời gian thường đứng đầu, động từ luôn ở cuối",
+    "hint": null,
+    "tags": [
+      "ました",
+      "reorder",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_RO_32",
+    "lesson_id": 13,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "先週京都に行きました。",
+    "sentence_translation": "Tuần trước tôi đã đi Kyoto.",
+    "question_text": "先週京都に行きました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "行きました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "京都に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "先週",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "先週 (thời gian) → 京都に (điểm đến) → 行きました (động từ quá khứ). Thứ tự: thời gian → địa điểm → động từ",
+    "hint": null,
+    "tags": [
+      "ました",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L13_RO_33",
+    "lesson_id": 13,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "昨日の料理はおいしかったです。",
+    "sentence_translation": "Món ăn hôm qua đã ngon.",
+    "question_text": "昨日の料理はおいしかったです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "おいしかったです",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "昨日の料理は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "昨日の料理は (chủ đề có thời gian) → おいしかったです (tính từ い quá khứ). の nối 昨日 với 料理: \"món ăn CỦA hôm qua\"",
+    "hint": null,
+    "tags": [
+      "かったです",
+      "reorder",
+      "い形容詞"
+    ]
+  },
+  {
+    "id": "L13_RO_34",
+    "lesson_id": 13,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "去年この町は静かじゃなかったです。",
+    "sentence_translation": "Năm ngoái thị trấn này đã không yên tĩnh.",
+    "question_text": "去年この町は静かじゃなかったです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "静かじゃなかったです",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "この町は",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "去年",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "去年 (thời gian) → この町は (chủ đề) → 静かじゃなかったです (tính từ な phủ định quá khứ). Thời gian đầu câu báo hiệu quá khứ",
+    "hint": null,
+    "tags": [
+      "じゃなかったです",
+      "reorder",
+      "な形容詞"
+    ]
+  },
+  {
+    "id": "L13_QT_35",
+    "lesson_id": 13,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日友達に会いました。",
+    "sentence_translation": "Hôm qua tôi đã gặp bạn.",
+    "question_text": "昨日 / 友達に / 会いました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Hôm qua tôi đã gặp bạn.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Ngày mai tôi sẽ gặp bạn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm qua tôi đã không gặp bạn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm qua tôi gặp bạn.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "昨日 = hôm qua, 会いました = đã gặp (quá khứ). ました → \"đã...\" trong tiếng Việt",
+    "hint": null,
+    "tags": [
+      "ました",
+      "dịch",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_QT_36",
+    "lesson_id": 13,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "このケーキはおいしかったです。",
+    "sentence_translation": "Chiếc bánh này đã ngon.",
+    "question_text": "このケーキは / おいしかったです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Chiếc bánh này ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chiếc bánh này đã không ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chiếc bánh này không ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chiếc bánh này đã ngon.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "おいしかったです = đã ngon (tính từ い quá khứ). おいしい → おいしかったです. Nhớ: KHÔNG phải おいしいでした!",
+    "hint": null,
+    "tags": [
+      "かったです",
+      "dịch",
+      "い形容詞"
+    ]
+  },
+  {
+    "id": "L13_QT_37",
+    "lesson_id": 13,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先週の日曜日は暇でした。",
+    "sentence_translation": "Chủ nhật tuần trước đã rảnh.",
+    "question_text": "先週の日曜日は / 暇でした。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Chủ nhật tuần sau sẽ rảnh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ nhật tuần trước đã không rảnh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ nhật tuần trước đã rảnh.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Chủ nhật tuần trước rảnh.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "暇でした = đã rảnh (tính từ な quá khứ). Tính từ な dùng でした giống danh từ",
+    "hint": null,
+    "tags": [
+      "でした",
+      "dịch",
+      "な形容詞"
+    ]
+  },
+  {
+    "id": "L13_QT_38",
+    "lesson_id": 13,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "昨日は天気がよくなかったです。",
+    "sentence_translation": "Hôm qua thời tiết đã không tốt.",
+    "question_text": "昨日は / 天気が / よくなかったです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Hôm qua thời tiết không tốt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm qua thời tiết đã tốt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm nay thời tiết không tốt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm qua thời tiết đã không tốt.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "よくなかったです = đã không tốt (いい phủ định quá khứ). いい → よくない → よくなかったです. Ngoại lệ quan trọng!",
+    "hint": null,
+    "tags": [
+      "いい",
+      "ngoại_lệ",
+      "dịch",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_QT_39",
+    "lesson_id": 13,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "去年日本語の試験は簡単じゃなかったです。",
+    "sentence_translation": "Năm ngoái bài thi tiếng Nhật đã không dễ.",
+    "question_text": "去年 / 日本語の試験は / 簡単じゃなかったです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Năm ngoái bài thi tiếng Nhật đã dễ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Năm ngoái bài thi tiếng Nhật đã không dễ.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Bài thi tiếng Nhật không dễ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Năm ngoái bài thi tiếng Nhật đã không khó.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "簡単じゃなかったです = đã không dễ (tính từ な phủ định quá khứ). 去年 báo hiệu quá khứ → じゃなかったです xác nhận",
+    "hint": null,
+    "tags": [
+      "じゃなかったです",
+      "dịch",
+      "な形容詞",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L13_QT_40",
+    "lesson_id": 13,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先月はあまり忙しくなかったです。",
+    "sentence_translation": "Tháng trước không bận lắm.",
+    "question_text": "先月は / あまり / 忙しくなかったです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tháng trước không bận lắm.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tháng trước hoàn toàn không bận.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tháng này không bận lắm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tháng trước rất bận.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "あまり + くなかったです = phủ định nhẹ quá khứ \"không...lắm\". 先月 → quá khứ, あまり → phủ định nhẹ, くなかったです → tính từ い phủ định quá khứ",
+    "hint": null,
+    "tags": [
+      "あまり",
+      "くなかったです",
+      "dịch",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  }
+]

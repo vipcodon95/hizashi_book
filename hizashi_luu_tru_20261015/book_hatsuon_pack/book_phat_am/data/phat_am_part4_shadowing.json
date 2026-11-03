@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "book": "HIZASHI - Sách Phát âm",
+    "part": 4,
+    "title": "Kỹ Thuật Shadowing",
+    "chapters": [9, 10],
+    "version": "1.0",
+    "created": "2025-12-04"
+  },
+  "chapters": [
+    {
+      "id": 9,
+      "title": "Informed vs Blind Shadowing",
+      "sections": [
+        {
+          "id": "9.1",
+          "title": "Hai Trường phái",
+          "approaches": [
+            {
+              "name": "Blind Shadowing",
+              "name_vi": "Shadowing Mù",
+              "definition": "Nhại lại mà KHÔNG cần hiểu nghĩa",
+              "pros": ["Tập trung 100% vào âm thanh"],
+              "cons": [
+                "Nguy cơ 'hóa thạch lỗi' cao",
+                "Không kết nối âm thanh với nghĩa",
+                "Chỉ phù hợp người học nâng cao"
+              ]
+            },
+            {
+              "name": "Informed Shadowing",
+              "name_vi": "Shadowing Có hiểu biết",
+              "definition": "Hiểu 100% nội dung TRƯỚC khi nhại",
+              "pros": [
+                "Ngăn ngừa lỗi sai cố định",
+                "Kết nối âm thanh với nghĩa",
+                "Phù hợp mọi trình độ"
+              ],
+              "recommended": true
+            }
+          ]
+        },
+        {
+          "id": "9.2",
+          "title": "Kết luận",
+          "recommendation": {
+            "for": "Người học phổ thông",
+            "principle": "HIỂU TRƯỚC, NÓI SAU",
+            "reasons": [
+              "Tránh 'hóa thạch' lỗi sai",
+              "Kết nối âm thanh với nghĩa",
+              "Học hiệu quả và an toàn hơn"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Quy trình 5 bước Tối ưu",
+      "sections": [
+        {
+          "id": "10.1",
+          "title": "Bước 1: Giải mã Toàn diện",
+          "step": {
+            "goal": "Hiểu 100% nội dung",
+            "actions": [
+              "Đọc transcript",
+              "Tra tất cả từ vựng mới",
+              "Hiểu ngữ pháp"
+            ],
+            "app_feature": "Từ điển 1 chạm + Flashcard"
+          }
+        },
+        {
+          "id": "10.2",
+          "title": "Bước 2: Nghe Chủ động",
+          "step": {
+            "goal": "Làm quen với âm thanh",
+            "actions": [
+              "Nghe 1-3 lần",
+              "Nhìn theo transcript",
+              "Chú ý ngữ điệu, nối âm"
+            ],
+            "app_feature": "Transcript đồng bộ với audio"
+          }
+        },
+        {
+          "id": "10.3",
+          "title": "Bước 3: Shadowing có Hỗ trợ",
+          "step": {
+            "goal": "Thực hành cơ chế nói nhại",
+            "actions": [
+              "Nghe và nói theo NGAY LẬP TỨC",
+              "Vẫn nhìn transcript",
+              "Có thể giảm tốc độ (0.75x)"
+            ],
+            "app_feature": "Nút điều chỉnh tốc độ"
+          }
+        },
+        {
+          "id": "10.4",
+          "title": "Bước 4: Shadowing Thuần túy",
+          "step": {
+            "goal": "Thử thách không hỗ trợ",
+            "actions": [
+              "BỎ transcript",
+              "Chỉ nghe và nhại",
+              "Tốc độ gốc (1x)"
+            ],
+            "app_feature": "Chế độ thử thách"
+          }
+        },
+        {
+          "id": "10.5",
+          "title": "Bước 5: Phân tích và Tinh chỉnh",
+          "step": {
+            "goal": "Xác định điểm yếu",
+            "actions": [
+              "Ghi âm lại",
+              "So sánh với bản gốc",
+              "Tự hỏi: Ngữ điệu? Nhịp? Rõ ràng?"
+            ],
+            "app_feature": "So sánh sóng âm + đường cong cao độ"
+          }
+        }
+      ]
+    }
+  ]
+}

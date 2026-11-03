@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "L01_FP_01",
+    "lesson_id": 1,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は学生です。",
+    "sentence_translation": "Tôi là sinh viên.",
+    "question_text": "私（　）学生です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "は đánh dấu chủ đề → 'Về tôi thì, là sinh viên'",
+    "hint": "Đặt chủ đề → は",
+    "tags": [
+      "は",
+      "chủ_đề"
+    ]
+  },
+  {
+    "id": "L01_FP_02",
+    "lesson_id": 1,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "東京は大きいです。",
+    "sentence_translation": "Tokyo thì lớn.",
+    "question_text": "東京（　）大きいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は đánh dấu chủ đề → 'Về Tokyo thì, lớn'",
+    "hint": "Mô tả tính chất chủ đề → は",
+    "tags": [
+      "は",
+      "chủ_đề"
+    ]
+  },
+  {
+    "id": "L01_FP_03",
+    "lesson_id": 1,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは学生です。山田さんも学生です。",
+    "sentence_translation": "Tanaka là sinh viên. Yamada cũng là sinh viên.",
+    "question_text": "田中さんは学生です。山田さん（　）学生です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "も",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "も = cũng → Yamada cũng giống Tanaka",
+    "hint": "Giống người trước → cũng → も",
+    "tags": [
+      "も",
+      "cũng"
+    ]
+  },
+  {
+    "id": "L01_FP_04",
+    "lesson_id": 1,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "誰も来ませんでした。",
+    "sentence_translation": "Không ai đến cả.",
+    "question_text": "誰（　）来ませんでした。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "も",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Từ nghi vấn (誰/何/どこ) + も + phủ định = không ai / chẳng gì",
+    "hint": "も + phủ định = không ai",
+    "tags": [
+      "も",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L01_FP_05",
+    "lesson_id": 1,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "コーヒーも紅茶も好きです。",
+    "sentence_translation": "Thích cả cà phê lẫn trà.",
+    "question_text": "コーヒー（　）紅茶（　）好きです。",
+    "question_description": "Điền cặp trợ từ đúng",
+    "answers": [
+      {
+        "text": "が...が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は...は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と...と",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "も...も",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "も...も = cả...lẫn... (liệt kê đều thích)",
+    "hint": "Cả...lẫn... → も...も",
+    "tags": [
+      "も",
+      "liệt_kê"
+    ]
+  },
+  {
+    "id": "L01_FP_06",
+    "lesson_id": 1,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "肉は食べます。魚は食べません。",
+    "sentence_translation": "Thịt thì ăn. Cá thì không ăn.",
+    "question_text": "肉（　）食べます。魚（　）食べません。",
+    "question_description": "Điền cặp trợ từ đúng",
+    "answers": [
+      {
+        "text": "を...を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は...は",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "も...も",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が...が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は...は dùng khi tương phản 2 thứ: thịt thì ăn, cá thì không",
+    "hint": "Tương phản → は...は",
+    "tags": [
+      "は",
+      "tương_phản"
+    ]
+  },
+  {
+    "id": "L01_FP_07",
+    "lesson_id": 1,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "3時間も待ちました。",
+    "sentence_translation": "Đợi những 3 tiếng.",
+    "question_text": "3時間（　）待ちました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "も",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "も sau số lượng = nhấn mạnh nhiều/lâu bất ngờ: 'những 3 tiếng!'",
+    "hint": "Nhấn mạnh số lượng lớn → も",
+    "tags": [
+      "も",
+      "nhấn_mạnh_số_lượng"
+    ]
+  },
+  {
+    "id": "L01_FP_08",
+    "lesson_id": 1,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "何も食べませんでした。",
+    "sentence_translation": "Chẳng ăn gì.",
+    "question_text": "何（　）食べませんでした。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "も",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "何 + も + phủ định = chẳng gì cả",
+    "hint": "何 + ＿ + phủ định = chẳng gì",
+    "tags": [
+      "も",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L01_PR_01",
+    "lesson_id": 1,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは先生です。",
+    "sentence_translation": "Tanaka là giáo viên.",
+    "question_text": "田中さんは... → Gặp は, dự đoán phần tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Hành động tác động lên Tanaka",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Điểm đến của Tanaka",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thông tin / mô tả về Tanaka",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tanaka cùng ai đó",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は đánh dấu chủ đề → sắp có thông tin/mô tả về chủ đề đó",
+    "hint": null,
+    "tags": [
+      "は",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L01_PR_02",
+    "lesson_id": 1,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "今日は暑いです。",
+    "sentence_translation": "Hôm nay nóng.",
+    "question_text": "今日は... → Gặp は, dự đoán tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Hôm nay cùng ai",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm nay là tân ngữ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm nay là điểm đến",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thông tin/mô tả về hôm nay (nóng? lạnh? bận?)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "は → chủ đề 'hôm nay' → sắp có mô tả",
+    "hint": null,
+    "tags": [
+      "は",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L01_PR_03",
+    "lesson_id": 1,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "山田さんも学生です。",
+    "sentence_translation": "Yamada cũng là sinh viên.",
+    "question_text": "山田さんも... → Gặp も, dự đoán điều gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Thông tin TƯƠNG TỰ ai đó đã nói trước",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Hành động tác động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Điểm đến mới",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thông tin NGƯỢC LẠI với trước",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "も = cũng → thông tin sẽ giống với người/vật đã nhắc trước",
+    "hint": null,
+    "tags": [
+      "も",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L01_PR_04",
+    "lesson_id": 1,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "誰も来ませんでした。",
+    "sentence_translation": "Không ai đến.",
+    "question_text": "誰も... → Gặp 誰も, dự đoán vế sau?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Không dự đoán được",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có khẳng định (ai cũng...)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định (không ai...)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có câu hỏi",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Từ nghi vấn (誰/何/どこ) + も → thường gặp phủ định (không ai / chẳng gì). Lưu ý: đôi khi đi với khẳng định = ai cũng / gì cũng.",
+    "hint": null,
+    "tags": [
+      "も",
+      "phủ_định",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L01_PR_05",
+    "lesson_id": 1,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "肉は食べます。魚は食べません。",
+    "sentence_translation": "Thịt thì ăn. Cá thì không ăn.",
+    "question_text": "肉は食べます。魚は... → は lần 2, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Không liên quan đến thịt",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cá là điểm đến",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tương phản: cá sẽ KHÁC thịt (có thể không ăn)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Giống: cá cũng ăn",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は dùng 2 lần → tương phản ngầm",
+    "hint": null,
+    "tags": [
+      "は",
+      "tương_phản",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L01_CH_01",
+    "lesson_id": 1,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は学生です",
+    "sentence_translation": "Tôi là sinh viên.",
+    "question_text": "Tách câu thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "学生です",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "私は (chủ đề) / 学生です (vị ngữ)",
+    "hint": "Mỗi khối = từ nội dung + trợ từ",
+    "tags": [
+      "は",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L01_CH_02",
+    "lesson_id": 1,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "東京は大きいです",
+    "sentence_translation": "Tokyo thì lớn.",
+    "question_text": "Tách câu thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "東京は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "大きいです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "東京は (chủ đề) / 大きいです (vị ngữ)",
+    "hint": null,
+    "tags": [
+      "は",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L01_CH_03",
+    "lesson_id": 1,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "この本は面白いです",
+    "sentence_translation": "Cuốn sách này thú vị.",
+    "question_text": "Tách câu thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この本は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "面白いです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "この本は (chủ đề) / 面白いです (vị ngữ)",
+    "hint": null,
+    "tags": [
+      "は",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L01_CH_04",
+    "lesson_id": 1,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "コーヒーも紅茶も好きです",
+    "sentence_translation": "Thích cả cà phê lẫn trà.",
+    "question_text": "Tách câu thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "コーヒーも",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "紅茶も",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "好きです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "コーヒーも (cũng) / 紅茶も (cũng) / 好きです (thích)",
+    "hint": null,
+    "tags": [
+      "も",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L01_CH_05",
+    "lesson_id": 1,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "誰も来ませんでした",
+    "sentence_translation": "Không ai đến cả.",
+    "question_text": "Tách câu thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "誰も",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "来ませんでした",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "誰も (không ai) / 来ませんでした (đã không đến)",
+    "hint": null,
+    "tags": [
+      "も",
+      "phủ_định",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L01_PD_01",
+    "lesson_id": 1,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは先生です。/ 田中さんも先生です。",
+    "sentence_translation": "Tanaka là giáo viên. / Tanaka cũng là giáo viên.",
+    "question_text": "Câu nào nghĩa là 'Tanaka CŨNG là giáo viên' (ai đó trước cũng là)?",
+    "question_description": "Phân biệt は vs も",
+    "answers": [
+      {
+        "text": "田中さんも先生です。",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "田中さんは先生です。",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "も = cũng → trước đó đã có người khác là giáo viên",
+    "hint": null,
+    "tags": [
+      "は",
+      "も",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L01_PD_02",
+    "lesson_id": 1,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "肉は食べます。/ 肉も食べます。",
+    "sentence_translation": "Thịt thì ăn. / Thịt cũng ăn.",
+    "question_text": "Câu nào ngầm ý 'thịt thì ăn, nhưng có thứ khác thì không'?",
+    "question_description": "Phân biệt は vs も",
+    "answers": [
+      {
+        "text": "肉は食べます。",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "肉も食べます。",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は tương phản ngầm → thịt thì ăn (nhưng cá thì không)",
+    "hint": null,
+    "tags": [
+      "は",
+      "も",
+      "tương_phản",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L01_PD_03",
+    "lesson_id": 1,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語は難しいです。/ 日本語も難しいです。",
+    "sentence_translation": "Tiếng Nhật thì khó. / Tiếng Nhật cũng khó.",
+    "question_text": "Câu nào nghĩa là 'Tiếng Nhật CŨNG khó' (ngoài tiếng Nhật còn thứ khác cũng khó)?",
+    "question_description": "Phân biệt は vs も",
+    "answers": [
+      {
+        "text": "日本語は難しいです。",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "日本語も難しいです。",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "も = cũng → có thứ khác cũng khó",
+    "hint": null,
+    "tags": [
+      "は",
+      "も",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L01_PD_04",
+    "lesson_id": 1,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "何も食べませんでした。/ 何は食べませんでした。",
+    "sentence_translation": "Chẳng ăn gì cả. / Gì cũng không ăn.",
+    "question_text": "Câu nào đúng ngữ pháp và nghĩa là 'Chẳng ăn gì cả'?",
+    "question_description": "Phân biệt は vs も",
+    "answers": [
+      {
+        "text": "何も食べませんでした。",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "何は食べませんでした。",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "何も + phủ định = chẳng gì cả. 何は không tự nhiên",
+    "hint": null,
+    "tags": [
+      "も",
+      "phủ_định",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L01_PK_01",
+    "lesson_id": 1,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私は日本語の先生です。",
+    "sentence_translation": "Tôi là giáo viên tiếng Nhật.",
+    "question_text": "🔒 私は → đóng gói thành hình ảnh nào?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 'Tôi' → は = điểm đến → sắp di chuyển",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 'Tôi' → は = chủ đề → sắp có thông tin về tôi",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 'Tôi' → は = tân ngữ → sắp có hành động lên tôi",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 'Tôi' → は = cùng với → sắp làm cùng ai",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は = chủ đề → đóng gói 'tôi' rồi đọc tiếp để biết thông tin về tôi",
+    "hint": null,
+    "tags": [
+      "は",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L01_PK_02",
+    "lesson_id": 1,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは学生です。山田さんも学生です。",
+    "sentence_translation": "Tanaka là sinh viên. Yamada cũng là sinh viên.",
+    "question_text": "🔒 山田さんも → đóng gói, dự đoán phần tiếp?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 'Yamada thì...' → dự đoán: thông tin mới, khác Tanaka",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 'Yamada ở...' → dự đoán: địa điểm",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 'Yamada và...' → dự đoán: liệt kê thêm người",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 'Yamada cũng...' → も = tương tự → dự đoán: cũng là sinh viên",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "も = cũng → đóng gói 'Yamada cũng...' → dự đoán giống Tanaka",
+    "hint": null,
+    "tags": [
+      "も",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L01_PK_03",
+    "lesson_id": 1,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "3時間も待ちました。",
+    "sentence_translation": "Đợi những 3 tiếng.",
+    "question_text": "🔒 3時間も → đóng gói, cảm nhận gì?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 '3 tiếng thì...' → dự đoán: mô tả về 3 tiếng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 '3 tiếng cũng...' → dự đoán: thông tin tương tự",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 'Những 3 tiếng!' → も = nhấn mạnh lâu → dự đoán: hành động kéo dài",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 '3 tiếng không...' → dự đoán: phủ định",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "も sau số lượng = nhấn mạnh nhiều/lâu bất ngờ",
+    "hint": null,
+    "tags": [
+      "も",
+      "nhấn_mạnh_số_lượng",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L01_RO_01",
+    "lesson_id": 1,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は学生です。",
+    "sentence_translation": "Tôi là sinh viên.",
+    "question_text": "Sắp xếp các khối thành câu đúng:",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "学生です",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "私は (chủ đề) → 学生です (vị ngữ)",
+    "hint": "Chủ đề (は) đứng trước",
+    "tags": [
+      "は",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L01_RO_02",
+    "lesson_id": 1,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "東京はとても大きいです。",
+    "sentence_translation": "Tokyo rất lớn.",
+    "question_text": "Sắp xếp các khối thành câu đúng:",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "大きいです",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "東京は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "とても",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "東京は (chủ đề) → とても (rất) → 大きいです (lớn)",
+    "hint": null,
+    "tags": [
+      "は",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L01_RO_03",
+    "lesson_id": 1,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "コーヒーも紅茶も好きです。",
+    "sentence_translation": "Thích cả cà phê lẫn trà.",
+    "question_text": "Sắp xếp các khối thành câu đúng:",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "好きです",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "コーヒーも",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "紅茶も",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "コーヒーも (cũng) → 紅茶も (cũng) → 好きです (thích)",
+    "hint": null,
+    "tags": [
+      "も",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L01_RO_04",
+    "lesson_id": 1,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "誰も来ませんでした。",
+    "sentence_translation": "Không ai đến cả.",
+    "question_text": "Sắp xếp các khối thành câu đúng:",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "来ませんでした",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "誰も",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "誰も (không ai) → 来ませんでした (đã không đến)",
+    "hint": null,
+    "tags": [
+      "も",
+      "phủ_định",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L01_QT_01",
+    "lesson_id": 1,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は田中です。",
+    "sentence_translation": "Tôi là Tanaka.",
+    "question_text": "私は / 田中です。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi cùng Tanaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tanaka là tôi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi ở chỗ Tanaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi là Tanaka.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "は = chủ đề → 'Về tôi thì, là Tanaka'",
+    "hint": null,
+    "tags": [
+      "は",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L01_QT_02",
+    "lesson_id": 1,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "今日は暑いです。",
+    "sentence_translation": "Hôm nay nóng.",
+    "question_text": "今日は / 暑いです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nóng hôm nay.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm nay nóng.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nóng nên hôm nay nghỉ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm nay cũng nóng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は = chủ đề 'hôm nay' → 暑い = nóng",
+    "hint": null,
+    "tags": [
+      "は",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L01_QT_03",
+    "lesson_id": 1,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "何も食べませんでした。",
+    "sentence_translation": "Chẳng ăn gì cả.",
+    "question_text": "何も / 食べませんでした。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Ăn cái gì đó.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ăn tất cả mọi thứ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chẳng ăn gì cả.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Gì cũng ăn.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "何も + phủ định = chẳng gì cả",
+    "hint": null,
+    "tags": [
+      "も",
+      "phủ_định",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L01_QT_04",
+    "lesson_id": 1,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語も英語も話せます。",
+    "sentence_translation": "Nói được cả tiếng Nhật lẫn tiếng Anh.",
+    "question_text": "日本語も / 英語も / 話せます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nói tiếng Nhật nhưng không nói tiếng Anh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không nói được tiếng nào.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chỉ nói tiếng Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nói được cả tiếng Nhật lẫn tiếng Anh.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "も...も = cả...lẫn...",
+    "hint": null,
+    "tags": [
+      "も",
+      "liệt_kê",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L01_QT_05",
+    "lesson_id": 1,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "肉は食べます。",
+    "sentence_translation": "Thịt thì ăn.",
+    "question_text": "肉は / 食べます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Ăn thịt cùng ai.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thịt thì ăn.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đi mua thịt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thịt cũng ăn.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は tương phản ngầm → thịt thì ăn (nhưng thứ khác thì không)",
+    "hint": null,
+    "tags": [
+      "は",
+      "tương_phản",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L01_QT_06",
+    "lesson_id": 1,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "1万円もかかりました。",
+    "sentence_translation": "Tốn những 1 vạn yên.",
+    "question_text": "1万円も / かかりました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tốn những 1 vạn yên.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "1 vạn yên cũng tốn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tốn đúng 1 vạn yên.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chỉ tốn 1 vạn yên.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "も sau số lượng = nhấn mạnh nhiều/đắt bất ngờ",
+    "hint": null,
+    "tags": [
+      "も",
+      "nhấn_mạnh_số_lượng",
+      "dịch"
+    ]
+  }
+]

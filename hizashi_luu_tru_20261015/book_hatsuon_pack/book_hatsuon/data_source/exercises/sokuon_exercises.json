@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Bài tập nghe phân biệt âm ngắt (促音) tiếng Nhật",
+    "focus": "Minimal pairs - có/không có âm ngắt っ",
+    "total_levels": 4,
+    "exercise_types": ["same_or_different", "choose_one", "odd_one_out", "count_mora", "find_sokuon_position"]
+  },
+  "levels": {
+    "L1": {
+      "name": "Âm ngắt cơ bản (tt, kk)",
+      "name_jp": "基本促音",
+      "description": "Phân biệt âm ngắt trước t và k - dạng phổ biến nhất",
+      "difficulty": 1,
+      "focus": ["tt", "kk"],
+      "exercises": {
+        "same_or_different": {
+          "instruction": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "いた", "audio_2": "いた", "answer": "same", "meaning": ["đã ở", "đã ở"] },
+            { "audio_1": "いた", "audio_2": "いった", "answer": "different", "meaning": ["đã ở", "đã đi/đã nói"], "note": "t vs tt" },
+            { "audio_1": "いった", "audio_2": "いった", "answer": "same", "meaning": ["đã đi", "đã đi"] },
+            { "audio_1": "きて", "audio_2": "きって", "answer": "different", "meaning": ["đến đi", "tem"], "note": "t vs tt" },
+            { "audio_1": "きって", "audio_2": "きって", "answer": "same", "meaning": ["tem", "tem"] },
+            { "audio_1": "かた", "audio_2": "かった", "answer": "different", "meaning": ["vai/cách", "đã mua"], "note": "t vs tt" },
+            { "audio_1": "もと", "audio_2": "もっと", "answer": "different", "meaning": ["gốc", "nhiều hơn"], "note": "t vs tt" },
+            { "audio_1": "もっと", "audio_2": "もっと", "answer": "same", "meaning": ["nhiều hơn", "nhiều hơn"] },
+            { "audio_1": "まて", "audio_2": "まって", "answer": "different", "meaning": ["-", "đợi đã"], "note": "t vs tt" },
+            { "audio_1": "あた", "audio_2": "あった", "answer": "different", "meaning": ["-", "đã có"], "note": "t vs tt" },
+            { "audio_1": "さか", "audio_2": "さっか", "answer": "different", "meaning": ["dốc", "nhà văn"], "note": "k vs kk" },
+            { "audio_1": "さっか", "audio_2": "さっか", "answer": "same", "meaning": ["nhà văn", "nhà văn"] },
+            { "audio_1": "かこ", "audio_2": "かっこ", "answer": "different", "meaning": ["quá khứ", "ngoặc"], "note": "k vs kk" },
+            { "audio_1": "ねこ", "audio_2": "ねっこ", "answer": "different", "meaning": ["con mèo", "rễ cây"], "note": "k vs kk" },
+            { "audio_1": "はきり", "audio_2": "はっきり", "answer": "different", "meaning": ["-", "rõ ràng"], "note": "k vs kk" }
+          ]
+        },
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "いた", "options": ["いた", "いった"], "answer": "いた", "meaning": ["đã ở", "đã đi"], "romaji": ["ita", "itta"], "mora": [2, 3] },
+            { "audio": "いった", "options": ["いた", "いった"], "answer": "いった", "meaning": ["đã ở", "đã đi"], "romaji": ["ita", "itta"], "mora": [2, 3] },
+            { "audio": "きて", "options": ["きて", "きって"], "answer": "きて", "meaning": ["đến đi", "tem"], "romaji": ["kite", "kitte"], "mora": [2, 3] },
+            { "audio": "きって", "options": ["きて", "きって"], "answer": "きって", "meaning": ["đến đi", "tem"], "romaji": ["kite", "kitte"], "mora": [2, 3] },
+            { "audio": "かた", "options": ["かた", "かった"], "answer": "かた", "meaning": ["vai", "đã mua"], "romaji": ["kata", "katta"], "mora": [2, 3] },
+            { "audio": "かった", "options": ["かた", "かった"], "answer": "かった", "meaning": ["vai", "đã mua"], "romaji": ["kata", "katta"], "mora": [2, 3] },
+            { "audio": "もと", "options": ["もと", "もっと"], "answer": "もと", "meaning": ["gốc", "nhiều hơn"], "romaji": ["moto", "motto"], "mora": [2, 3] },
+            { "audio": "もっと", "options": ["もと", "もっと"], "answer": "もっと", "meaning": ["gốc", "nhiều hơn"], "romaji": ["moto", "motto"], "mora": [2, 3] },
+            { "audio": "まって", "options": ["まて", "まって"], "answer": "まって", "meaning": ["-", "đợi đã"], "romaji": ["mate", "matte"], "mora": [2, 3] },
+            { "audio": "あった", "options": ["あた", "あった"], "answer": "あった", "meaning": ["-", "đã có"], "romaji": ["ata", "atta"], "mora": [2, 3] },
+            { "audio": "ずっと", "options": ["ずと", "ずっと"], "answer": "ずっと", "meaning": ["-", "mãi mãi"], "romaji": ["zuto", "zutto"], "mora": [2, 3] },
+            { "audio": "さか", "options": ["さか", "さっか"], "answer": "さか", "meaning": ["dốc", "nhà văn"], "romaji": ["saka", "sakka"], "mora": [2, 3] },
+            { "audio": "さっか", "options": ["さか", "さっか"], "answer": "さっか", "meaning": ["dốc", "nhà văn"], "romaji": ["saka", "sakka"], "mora": [2, 3] },
+            { "audio": "かこ", "options": ["かこ", "かっこ"], "answer": "かこ", "meaning": ["quá khứ", "ngoặc"], "romaji": ["kako", "kakko"], "mora": [2, 3] },
+            { "audio": "かっこ", "options": ["かこ", "かっこ"], "answer": "かっこ", "meaning": ["quá khứ", "ngoặc"], "romaji": ["kako", "kakko"], "mora": [2, 3] },
+            { "audio": "ねこ", "options": ["ねこ", "ねっこ"], "answer": "ねこ", "meaning": ["con mèo", "rễ cây"], "romaji": ["neko", "nekko"], "mora": [2, 3] },
+            { "audio": "ねっこ", "options": ["ねこ", "ねっこ"], "answer": "ねっこ", "meaning": ["con mèo", "rễ cây"], "romaji": ["neko", "nekko"], "mora": [2, 3] },
+            { "audio": "はっきり", "options": ["はきり", "はっきり"], "answer": "はっきり", "meaning": ["-", "rõ ràng"], "romaji": ["hakiri", "hakkiri"], "mora": [3, 4] },
+            { "audio": "きっかけ", "options": ["きかけ", "きっかけ"], "answer": "きっかけ", "meaning": ["-", "cơ hội"], "romaji": ["kikake", "kikkake"], "mora": [3, 4] }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "audio": "いた", "answer": 2, "breakdown": "i-ta" },
+            { "audio": "いった", "answer": 3, "breakdown": "i-Q-ta" },
+            { "audio": "きて", "answer": 2, "breakdown": "ki-te" },
+            { "audio": "きって", "answer": 3, "breakdown": "ki-Q-te" },
+            { "audio": "もと", "answer": 2, "breakdown": "mo-to" },
+            { "audio": "もっと", "answer": 3, "breakdown": "mo-Q-to" },
+            { "audio": "ねこ", "answer": 2, "breakdown": "ne-ko" },
+            { "audio": "ねっこ", "answer": 3, "breakdown": "ne-Q-ko" },
+            { "audio": "はっきり", "answer": 4, "breakdown": "ha-Q-ki-ri" },
+            { "audio": "きっかけ", "answer": 4, "breakdown": "ki-Q-ka-ke" },
+            { "audio": "ずっと", "answer": 3, "breakdown": "zu-Q-to" }
+          ]
+        },
+        "odd_one_out": {
+          "instruction": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+          "questions": [
+            { "audio": ["いった", "いった", "いた", "いった"], "answer": 2, "answer_text": "いた", "note": "Không có っ" },
+            { "audio": ["きって", "きて", "きって", "きって"], "answer": 1, "answer_text": "きて", "note": "Không có っ" },
+            { "audio": ["もっと", "もっと", "もっと", "もと"], "answer": 3, "answer_text": "もと", "note": "Không có っ" },
+            { "audio": ["ねこ", "ねっこ", "ねっこ", "ねっこ"], "answer": 0, "answer_text": "ねこ", "note": "Không có っ" }
+          ]
+        }
+      }
+    },
+    "L2": {
+      "name": "Âm ngắt ss, pp",
+      "name_jp": "促音 ss・pp",
+      "description": "Phân biệt âm ngắt trước s và p",
+      "difficulty": 2,
+      "focus": ["ss", "pp"],
+      "exercises": {
+        "same_or_different": {
+          "instruction": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "いさい", "audio_2": "いっさい", "answer": "different", "meaning": ["-", "hoàn toàn"], "note": "s vs ss" },
+            { "audio_1": "いっさい", "audio_2": "いっさい", "answer": "same", "meaning": ["hoàn toàn", "hoàn toàn"] },
+            { "audio_1": "けせき", "audio_2": "けっせき", "answer": "different", "meaning": ["-", "vắng mặt"], "note": "s vs ss" },
+            { "audio_1": "ざし", "audio_2": "ざっし", "answer": "different", "meaning": ["-", "tạp chí"], "note": "s vs ss" },
+            { "audio_1": "いぱい", "audio_2": "いっぱい", "answer": "different", "meaning": ["-", "đầy"], "note": "p vs pp" },
+            { "audio_1": "いっぱい", "audio_2": "いっぱい", "answer": "same", "meaning": ["đầy", "đầy"] },
+            { "audio_1": "きぷ", "audio_2": "きっぷ", "answer": "different", "meaning": ["-", "vé"], "note": "p vs pp" },
+            { "audio_1": "きっぷ", "audio_2": "きっぷ", "answer": "same", "meaning": ["vé", "vé"] },
+            { "audio_1": "やぱり", "audio_2": "やっぱり", "answer": "different", "meaning": ["-", "quả nhiên"], "note": "p vs pp" },
+            { "audio_1": "にぽん", "audio_2": "にっぽん", "answer": "different", "meaning": ["-", "Nhật Bản"], "note": "p vs pp" }
+          ]
+        },
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "いっさい", "options": ["いさい", "いっさい"], "answer": "いっさい", "meaning": ["-", "hoàn toàn"], "romaji": ["isai", "issai"], "mora": [3, 4] },
+            { "audio": "けっせき", "options": ["けせき", "けっせき"], "answer": "けっせき", "meaning": ["-", "vắng mặt"], "romaji": ["keseki", "kesseki"], "mora": [3, 4] },
+            { "audio": "ざっし", "options": ["ざし", "ざっし"], "answer": "ざっし", "meaning": ["-", "tạp chí"], "romaji": ["zashi", "zasshi"], "mora": [2, 3] },
+            { "audio": "マッサージ", "options": ["マサージ", "マッサージ"], "answer": "マッサージ", "meaning": ["-", "massage"], "romaji": ["masaaji", "massaaji"], "mora": [4, 5] },
+            { "audio": "いっぱい", "options": ["いぱい", "いっぱい"], "answer": "いっぱい", "meaning": ["-", "đầy"], "romaji": ["ipai", "ippai"], "mora": [3, 4] },
+            { "audio": "きっぷ", "options": ["きぷ", "きっぷ"], "answer": "きっぷ", "meaning": ["-", "vé"], "romaji": ["kipu", "kippu"], "mora": [2, 3] },
+            { "audio": "やっぱり", "options": ["やぱり", "やっぱり"], "answer": "やっぱり", "meaning": ["-", "quả nhiên"], "romaji": ["yapari", "yappari"], "mora": [3, 4] },
+            { "audio": "にっぽん", "options": ["にぽん", "にっぽん"], "answer": "にっぽん", "meaning": ["-", "Nhật Bản"], "romaji": ["nipon", "nippon"], "mora": [3, 4] },
+            { "audio": "ラップ", "options": ["ラプ", "ラップ"], "answer": "ラップ", "meaning": ["-", "rap"], "romaji": ["rapu", "rappu"], "mora": [2, 3] },
+            { "audio": "カップ", "options": ["カプ", "カップ"], "answer": "カップ", "meaning": ["-", "cốc"], "romaji": ["kapu", "kappu"], "mora": [2, 3] }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "audio": "いっさい", "answer": 4, "breakdown": "i-Q-sa-i" },
+            { "audio": "けっせき", "answer": 4, "breakdown": "ke-Q-se-ki" },
+            { "audio": "ざっし", "answer": 3, "breakdown": "za-Q-shi" },
+            { "audio": "マッサージ", "answer": 5, "breakdown": "ma-Q-sa-a-ji" },
+            { "audio": "いっぱい", "answer": 4, "breakdown": "i-Q-pa-i" },
+            { "audio": "きっぷ", "answer": 3, "breakdown": "ki-Q-pu" },
+            { "audio": "やっぱり", "answer": 4, "breakdown": "ya-Q-pa-ri" },
+            { "audio": "にっぽん", "answer": 4, "breakdown": "ni-Q-po-n" },
+            { "audio": "ラップ", "answer": 3, "breakdown": "ra-Q-pu" },
+            { "audio": "カップ", "answer": 3, "breakdown": "ka-Q-pu" }
+          ]
+        },
+        "odd_one_out": {
+          "instruction": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+          "questions": [
+            { "audio": ["いっぱい", "いぱい", "いっぱい", "いっぱい"], "answer": 1, "answer_text": "いぱい", "note": "Không có っ" },
+            { "audio": ["ざっし", "ざっし", "ざし", "ざっし"], "answer": 2, "answer_text": "ざし", "note": "Không có っ" },
+            { "audio": ["やぱり", "やっぱり", "やっぱり", "やっぱり"], "answer": 0, "answer_text": "やぱり", "note": "Không có っ" }
+          ]
+        }
+      }
+    },
+    "L3": {
+      "name": "Âm ngắt tch, ssh",
+      "name_jp": "促音 tch・ssh",
+      "description": "Phân biệt âm ngắt trước ch và sh - dạng khó hơn",
+      "difficulty": 3,
+      "focus": ["tch", "ssh"],
+      "exercises": {
+        "same_or_different": {
+          "instruction": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "いしょ", "audio_2": "いっしょ", "answer": "different", "meaning": ["di chúc", "cùng nhau"], "note": "sh vs ssh" },
+            { "audio_1": "いっしょ", "audio_2": "いっしょ", "answer": "same", "meaning": ["cùng nhau", "cùng nhau"] },
+            { "audio_1": "けしん", "audio_2": "けっしん", "answer": "different", "meaning": ["-", "quyết tâm"], "note": "sh vs ssh" },
+            { "audio_1": "まち", "audio_2": "マッチ", "answer": "different", "meaning": ["phố", "diêm"], "note": "ch vs tch" },
+            { "audio_1": "マッチ", "audio_2": "マッチ", "answer": "same", "meaning": ["diêm", "diêm"] },
+            { "audio_1": "いち", "audio_2": "いっち", "answer": "different", "meaning": ["số 1", "nhất trí"], "note": "ch vs tch" },
+            { "audio_1": "スケチ", "audio_2": "スケッチ", "answer": "different", "meaning": ["-", "phác họa"], "note": "ch vs tch" }
+          ]
+        },
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "いしょ", "options": ["いしょ", "いっしょ"], "answer": "いしょ", "meaning": ["di chúc", "cùng nhau"], "romaji": ["isho", "issho"], "mora": [2, 3] },
+            { "audio": "いっしょ", "options": ["いしょ", "いっしょ"], "answer": "いっしょ", "meaning": ["di chúc", "cùng nhau"], "romaji": ["isho", "issho"], "mora": [2, 3] },
+            { "audio": "けっしん", "options": ["けしん", "けっしん"], "answer": "けっしん", "meaning": ["-", "quyết tâm"], "romaji": ["keshin", "kesshin"], "mora": [3, 4] },
+            { "audio": "ざっし", "options": ["ざし", "ざっし"], "answer": "ざっし", "meaning": ["-", "tạp chí"], "romaji": ["zashi", "zasshi"], "mora": [2, 3] },
+            { "audio": "マッチ", "options": ["マチ", "マッチ"], "answer": "マッチ", "meaning": ["-", "diêm"], "romaji": ["machi", "matchi"], "mora": [2, 3] },
+            { "audio": "いっち", "options": ["いち", "いっち"], "answer": "いっち", "meaning": ["số 1", "nhất trí"], "romaji": ["ichi", "itchi"], "mora": [2, 3] },
+            { "audio": "スケッチ", "options": ["スケチ", "スケッチ"], "answer": "スケッチ", "meaning": ["-", "phác họa"], "romaji": ["sukechi", "suketchi"], "mora": [3, 4] },
+            { "audio": "コッチ", "options": ["コチ", "コッチ"], "answer": "コッチ", "meaning": ["-", "bên này"], "romaji": ["kochi", "kotchi"], "mora": [2, 3] },
+            { "audio": "いっしょうけんめい", "options": ["いしょうけんめい", "いっしょうけんめい"], "answer": "いっしょうけんめい", "meaning": ["-", "hết sức"], "romaji": ["ishoukenme", "isshoukenmei"], "mora": [7, 8] }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "audio": "いっしょ", "answer": 3, "breakdown": "i-Q-sho" },
+            { "audio": "けっしん", "answer": 4, "breakdown": "ke-Q-shi-n" },
+            { "audio": "ざっし", "answer": 3, "breakdown": "za-Q-shi" },
+            { "audio": "マッチ", "answer": 3, "breakdown": "ma-Q-chi" },
+            { "audio": "いっち", "answer": 3, "breakdown": "i-Q-chi" },
+            { "audio": "スケッチ", "answer": 4, "breakdown": "su-ke-Q-chi" },
+            { "audio": "いっしょうけんめい", "answer": 8, "breakdown": "i-Q-sho-u-ke-n-me-i" }
+          ]
+        },
+        "odd_one_out": {
+          "instruction": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+          "questions": [
+            { "audio": ["いっしょ", "いっしょ", "いしょ", "いっしょ"], "answer": 2, "answer_text": "いしょ", "note": "Không có っ" },
+            { "audio": ["マッチ", "マチ", "マッチ", "マッチ"], "answer": 1, "answer_text": "マチ", "note": "Không có っ" }
+          ]
+        }
+      }
+    },
+    "L4": {
+      "name": "Âm ngắt + Trường âm",
+      "name_jp": "促音 + 長音",
+      "description": "Phân biệt từ có cả âm ngắt và trường âm - dạng khó nhất",
+      "difficulty": 4,
+      "focus": ["sokuon + chouon"],
+      "exercises": {
+        "same_or_different": {
+          "instruction": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "がっこう", "audio_2": "がっこう", "answer": "same", "meaning": ["trường học", "trường học"] },
+            { "audio_1": "がこう", "audio_2": "がっこう", "answer": "different", "meaning": ["-", "trường học"], "note": "Thiếu っ" },
+            { "audio_1": "がっこ", "audio_2": "がっこう", "answer": "different", "meaning": ["-", "trường học"], "note": "Thiếu trường âm" },
+            { "audio_1": "サッカー", "audio_2": "サッカー", "answer": "same", "meaning": ["bóng đá", "bóng đá"] },
+            { "audio_1": "サカー", "audio_2": "サッカー", "answer": "different", "meaning": ["-", "bóng đá"], "note": "Thiếu っ" },
+            { "audio_1": "いっぽう", "audio_2": "いっぽう", "answer": "same", "meaning": ["một phía", "một phía"] },
+            { "audio_1": "いぽう", "audio_2": "いっぽう", "answer": "different", "meaning": ["-", "một phía"], "note": "Thiếu っ" },
+            { "audio_1": "いっしょう", "audio_2": "いっしょう", "answer": "same", "meaning": ["cả đời", "cả đời"] },
+            { "audio_1": "いしょう", "audio_2": "いっしょう", "answer": "different", "meaning": ["-", "cả đời"], "note": "Thiếu っ" }
+          ]
+        },
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "がっこう", "options": ["がこう", "がっこう"], "answer": "がっこう", "meaning": ["-", "trường học"], "romaji": ["gakou", "gakkou"], "mora": [3, 4] },
+            { "audio": "がっこう", "options": ["がっこ", "がっこう"], "answer": "がっこう", "meaning": ["-", "trường học"], "romaji": ["gakko", "gakkou"], "mora": [3, 4] },
+            { "audio": "サッカー", "options": ["サカー", "サッカー"], "answer": "サッカー", "meaning": ["-", "bóng đá"], "romaji": ["sakaa", "sakkaa"], "mora": [3, 4] },
+            { "audio": "サッカー", "options": ["サッカ", "サッカー"], "answer": "サッカー", "meaning": ["-", "bóng đá"], "romaji": ["sakka", "sakkaa"], "mora": [3, 4] },
+            { "audio": "いっぽう", "options": ["いぽう", "いっぽう"], "answer": "いっぽう", "meaning": ["-", "một phía"], "romaji": ["ipou", "ippou"], "mora": [3, 4] },
+            { "audio": "いっしょう", "options": ["いしょう", "いっしょう"], "answer": "いっしょう", "meaning": ["-", "cả đời"], "romaji": ["ishou", "isshou"], "mora": [3, 4] },
+            { "audio": "しょうがっこう", "options": ["しょうがこう", "しょうがっこう"], "answer": "しょうがっこう", "meaning": ["-", "trường tiểu học"], "romaji": ["shougakou", "shougakkou"], "mora": [5, 6] },
+            { "audio": "ちゅうがっこう", "options": ["ちゅうがこう", "ちゅうがっこう"], "answer": "ちゅうがっこう", "meaning": ["-", "trường THCS"], "romaji": ["chuugakou", "chuugakkou"], "mora": [5, 6] },
+            { "audio": "こうこう", "options": ["こっこう", "こうこう"], "answer": "こうこう", "meaning": ["-", "trường cấp 3"], "romaji": ["kokkou", "koukou"], "mora": [4, 4], "note": "Không có っ!" },
+            { "audio": "ホットコーヒー", "options": ["ホトコーヒー", "ホットコーヒー"], "answer": "ホットコーヒー", "meaning": ["-", "cà phê nóng"], "romaji": ["hotokoohii", "hottokoohii"], "mora": [6, 7] }
+          ]
+        },
+        "identify_features": {
+          "instruction": "Nghe và xác định từ có những đặc điểm gì",
+          "options": ["chỉ có っ", "chỉ có trường âm", "có cả っ và trường âm", "không có cả hai"],
+          "questions": [
+            { "audio": "がっこう", "answer": "có cả っ và trường âm", "breakdown": "ga-Q-ko-u" },
+            { "audio": "こうえん", "answer": "chỉ có trường âm", "breakdown": "ko-u-e-n" },
+            { "audio": "きって", "answer": "chỉ có っ", "breakdown": "ki-Q-te" },
+            { "audio": "ねこ", "answer": "không có cả hai", "breakdown": "ne-ko" },
+            { "audio": "サッカー", "answer": "có cả っ và trường âm", "breakdown": "sa-Q-ka-a" },
+            { "audio": "コーヒー", "answer": "chỉ có trường âm", "breakdown": "ko-o-hi-i" },
+            { "audio": "いっぱい", "answer": "chỉ có っ", "breakdown": "i-Q-pa-i" },
+            { "audio": "いっしょう", "answer": "có cả っ và trường âm", "breakdown": "i-Q-sho-u" }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "audio": "がっこう", "answer": 4, "breakdown": "ga-Q-ko-u" },
+            { "audio": "サッカー", "answer": 4, "breakdown": "sa-Q-ka-a" },
+            { "audio": "いっぽう", "answer": 4, "breakdown": "i-Q-po-u" },
+            { "audio": "いっしょう", "answer": 4, "breakdown": "i-Q-sho-u" },
+            { "audio": "しょうがっこう", "answer": 6, "breakdown": "sho-u-ga-Q-ko-u" },
+            { "audio": "ちゅうがっこう", "answer": 6, "breakdown": "chu-u-ga-Q-ko-u" },
+            { "audio": "ホットコーヒー", "answer": 7, "breakdown": "ho-Q-to-ko-o-hi-i" },
+            { "audio": "いっしょうけんめい", "answer": 8, "breakdown": "i-Q-sho-u-ke-n-me-i" }
+          ]
+        },
+        "find_sokuon_position": {
+          "instruction": "Nghe và xác định vị trí của âm ngắt (っ) trong từ (đếm từ 1)",
+          "questions": [
+            { "audio": "がっこう", "answer": 2, "breakdown": "ga-[Q]-ko-u" },
+            { "audio": "サッカー", "answer": 2, "breakdown": "sa-[Q]-ka-a" },
+            { "audio": "いっぽう", "answer": 2, "breakdown": "i-[Q]-po-u" },
+            { "audio": "きっかけ", "answer": 2, "breakdown": "ki-[Q]-ka-ke" },
+            { "audio": "しょうがっこう", "answer": 4, "breakdown": "sho-u-ga-[Q]-ko-u" },
+            { "audio": "ホットコーヒー", "answer": 2, "breakdown": "ho-[Q]-to-ko-o-hi-i" }
+          ]
+        },
+        "odd_one_out": {
+          "instruction": "Nghe 4 từ và chọn từ THIẾU một trong hai đặc điểm (っ hoặc trường âm)",
+          "questions": [
+            { "audio": ["がっこう", "がっこう", "がこう", "がっこう"], "answer": 2, "answer_text": "がこう", "note": "Thiếu っ" },
+            { "audio": ["サッカー", "サッカー", "サッカー", "サカー"], "answer": 3, "answer_text": "サカー", "note": "Thiếu っ" },
+            { "audio": ["がっこう", "がっこ", "がっこう", "がっこう"], "answer": 1, "answer_text": "がっこ", "note": "Thiếu trường âm" }
+          ]
+        }
+      }
+    }
+  },
+  "review_exercises": {
+    "description": "Bài tập tổng hợp ôn tập tất cả các level âm ngắt",
+    "mixed_choose_one": {
+      "instruction": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+      "questions": [
+        { "audio": "いった", "options": ["いた", "いった"], "answer": "いった", "level": "L1" },
+        { "audio": "ざっし", "options": ["ざし", "ざっし"], "answer": "ざっし", "level": "L2" },
+        { "audio": "いっしょ", "options": ["いしょ", "いっしょ"], "answer": "いっしょ", "level": "L3" },
+        { "audio": "がっこう", "options": ["がこう", "がっこう"], "answer": "がっこう", "level": "L4" },
+        { "audio": "きって", "options": ["きて", "きって"], "answer": "きって", "level": "L1" },
+        { "audio": "いっぱい", "options": ["いぱい", "いっぱい"], "answer": "いっぱい", "level": "L2" },
+        { "audio": "マッチ", "options": ["マチ", "マッチ"], "answer": "マッチ", "level": "L3" },
+        { "audio": "サッカー", "options": ["サカー", "サッカー"], "answer": "サッカー", "level": "L4" }
+      ]
+    },
+    "mixed_count_mora": {
+      "instruction": "Nghe và đếm số mora",
+      "questions": [
+        { "audio": "いった", "answer": 3, "breakdown": "i-Q-ta", "level": "L1" },
+        { "audio": "きっぷ", "answer": 3, "breakdown": "ki-Q-pu", "level": "L2" },
+        { "audio": "いっしょ", "answer": 3, "breakdown": "i-Q-sho", "level": "L3" },
+        { "audio": "がっこう", "answer": 4, "breakdown": "ga-Q-ko-u", "level": "L4" },
+        { "audio": "サッカー", "answer": 4, "breakdown": "sa-Q-ka-a", "level": "L4" },
+        { "audio": "しょうがっこう", "answer": 6, "breakdown": "sho-u-ga-Q-ko-u", "level": "L4" }
+      ]
+    }
+  }
+}

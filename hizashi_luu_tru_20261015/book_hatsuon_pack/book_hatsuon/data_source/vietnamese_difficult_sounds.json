@@ -1,0 +1,679 @@
+{
+  "metadata": {
+    "title": "Âm khó",
+    "title_jp": "ベトナム人が苦手な発音",
+    "description": "Các âm tiếng Nhật thường bị phát âm sai hoặc khó nghe phân biệt",
+    "target_audience": "Người Việt học tiếng Nhật",
+    "focus": "Listening comprehension - Nghe hiểu",
+    "version": "1.0"
+  },
+
+  "difficult_sounds": {
+    "ra_gyou": {
+      "title": "ら行 - Âm R tiếng Nhật",
+      "importance": "Rất quan trọng - Xuất hiện trong nhiều từ",
+      "characters": ["ら", "り", "る", "れ", "ろ"],
+      "ipa": ["ɾa", "ɾi", "ɾɯ", "ɾe", "ɾo"],
+
+      "description": "Âm R tiếng Nhật là âm 'flap' (đập lưỡi) - lưỡi chạm nhẹ vào vòm miệng một lần rồi bật xuống ngay",
+
+      "vietnamese_comparison": {
+        "not_r": {
+          "description": "KHÔNG phải âm 'r' tiếng Việt (Bắc)",
+          "vn_r": "Âm 'r' miền Bắc là âm rung (trill) hoặc xát (fricative)",
+          "difference": "R tiếng Nhật nhẹ hơn, chỉ đập 1 lần"
+        },
+        "not_l": {
+          "description": "KHÔNG phải âm 'l' tiếng Việt",
+          "vn_l": "Âm 'l' tiếng Việt là lateral - lưỡi giữ tiếp xúc với vòm miệng",
+          "difference": "R tiếng Nhật lưỡi chỉ chạm rồi rời ngay"
+        },
+        "closest": "Gần nhất với âm 'd' nhẹ hoặc 'đ' nhanh trong một số phương ngữ"
+      },
+
+      "common_mistakes": [
+        {
+          "mistake": "Phát âm như 'l'",
+          "example": "らーめん nghe như 'la-men'",
+          "problem": "Người Nhật có thể không hiểu hoặc nghe lạ"
+        },
+        {
+          "mistake": "Phát âm như 'r' rung",
+          "example": "りんご nghe như 'rringo'",
+          "problem": "Nghe quá nặng, không tự nhiên"
+        },
+        {
+          "mistake": "Nhầm ら và だ khi nghe",
+          "example": "Nghe から thành かだ",
+          "problem": "Hiểu sai nghĩa hoàn toàn"
+        }
+      ],
+
+      "listening_tips": [
+        "R tiếng Nhật nghe 'nhẹ' hơn cả r và l tiếng Việt",
+        "Khi nghe nhanh, có thể nghe gần như 'd' nhẹ",
+        "Chú ý ngữ cảnh để phân biệt với だ行"
+      ],
+
+      "minimal_pairs_ra_da": [
+        {
+          "pair": ["から", "かだ"],
+          "ipa": ["kaɾa", "kada"],
+          "meanings": ["từ / vì", "(không có nghĩa)"],
+          "note": "から rất phổ biến, cần nghe rõ"
+        },
+        {
+          "pair": ["さる", "さだ"],
+          "ipa": ["saɾɯ", "sada"],
+          "meanings": ["con khỉ", "(không có nghĩa)"]
+        },
+        {
+          "pair": ["ころ", "こど"],
+          "ipa": ["koɾo", "kodo"],
+          "meanings": ["lúc/khoảng", "(không có nghĩa)"]
+        },
+        {
+          "pair": ["これ", "こで"],
+          "ipa": ["koɾe", "kode"],
+          "meanings": ["cái này", "(không có nghĩa)"]
+        },
+        {
+          "pair": ["いる", "いど"],
+          "ipa": ["iɾɯ", "ido"],
+          "meanings": ["có/ở", "giếng"]
+        }
+      ],
+
+      "common_words": [
+        { "word": "ありがとう", "romaji": "arigatou", "meaning": "cảm ơn" },
+        { "word": "わかる", "romaji": "wakaru", "meaning": "hiểu" },
+        { "word": "いる", "romaji": "iru", "meaning": "có (người/động vật)" },
+        { "word": "ある", "romaji": "aru", "meaning": "có (đồ vật)" },
+        { "word": "する", "romaji": "suru", "meaning": "làm" },
+        { "word": "くる", "romaji": "kuru", "meaning": "đến" },
+        { "word": "みる", "romaji": "miru", "meaning": "xem" },
+        { "word": "たべる", "romaji": "taberu", "meaning": "ăn" },
+        { "word": "おわる", "romaji": "owaru", "meaning": "kết thúc" },
+        { "word": "はじまる", "romaji": "hajimaru", "meaning": "bắt đầu" }
+      ]
+    },
+
+    "fu": {
+      "title": "ふ - Âm đặc biệt",
+      "importance": "Quan trọng - Âm duy nhất trong tiếng Nhật",
+      "character": "ふ",
+      "ipa": "ɸɯ",
+
+      "description": "Âm môi-môi xát vô thanh (bilabial fricative) - hai môi gần nhau, thổi hơi qua",
+
+      "vietnamese_comparison": {
+        "not_ph": {
+          "description": "KHÔNG phải âm 'ph' tiếng Việt",
+          "vn_ph": "Ph tiếng Việt là môi-răng (labiodental) - môi dưới chạm răng trên",
+          "difference": "ふ không dùng răng, chỉ dùng hai môi"
+        },
+        "not_h": {
+          "description": "KHÔNG phải âm 'h' thuần túy",
+          "difference": "H thì không có sự cản trở của môi"
+        },
+        "closest": "Giống như thổi nến nhẹ, hai môi gần nhau"
+      },
+
+      "common_mistakes": [
+        {
+          "mistake": "Phát âm như 'phu'",
+          "example": "ふじさん nghe như 'phu-ji-san'",
+          "problem": "Nghe không tự nhiên, người Nhật nhận ra ngay là người nước ngoài"
+        },
+        {
+          "mistake": "Phát âm như 'hu'",
+          "example": "ふゆ nghe như 'huyu'",
+          "problem": "Thiếu âm môi đặc trưng"
+        }
+      ],
+
+      "listening_tips": [
+        "ふ nghe 'nhẹ' hơn 'ph' và 'f'",
+        "Có thể nghe gần như 'hu' với một chút môi",
+        "Trong lời nói nhanh, đôi khi gần như không nghe rõ"
+      ],
+
+      "common_words": [
+        { "word": "ふじさん", "romaji": "fujisan", "meaning": "núi Phú Sĩ" },
+        { "word": "ふゆ", "romaji": "fuyu", "meaning": "mùa đông" },
+        { "word": "ふく", "romaji": "fuku", "meaning": "quần áo" },
+        { "word": "ふね", "romaji": "fune", "meaning": "thuyền" },
+        { "word": "ふたり", "romaji": "futari", "meaning": "hai người" },
+        { "word": "ふるい", "romaji": "furui", "meaning": "cũ" },
+        { "word": "ふべん", "romaji": "fuben", "meaning": "bất tiện" },
+        { "word": "ふつう", "romaji": "futsuu", "meaning": "bình thường" },
+        { "word": "ふとん", "romaji": "futon", "meaning": "nệm/chăn" },
+        { "word": "ふうふ", "romaji": "fuufu", "meaning": "vợ chồng" }
+      ],
+
+      "katakana_variations": {
+        "description": "Trong Katakana, có thêm các âm mở rộng cho từ ngoại lai",
+        "variations": [
+          { "kana": "ファ", "romaji": "fa", "ipa": "ɸa", "example": "ファン (fan)" },
+          { "kana": "フィ", "romaji": "fi", "ipa": "ɸi", "example": "フィルム (film)" },
+          { "kana": "フェ", "romaji": "fe", "ipa": "ɸe", "example": "カフェ (café)" },
+          { "kana": "フォ", "romaji": "fo", "ipa": "ɸo", "example": "フォーク (fork)" }
+        ]
+      }
+    },
+
+    "tsu": {
+      "title": "つ - Âm tắc xát",
+      "importance": "Rất quan trọng - Thường bị nhầm",
+      "character": "つ",
+      "ipa": "t͡sɯ",
+
+      "description": "Âm tắc-xát (affricate) - bắt đầu bằng 't' rồi chuyển sang 's'",
+
+      "vietnamese_comparison": {
+        "not_chu": {
+          "description": "KHÔNG phải âm 'chu' tiếng Việt",
+          "vn_ch": "Ch tiếng Việt là âm tắc-xát ngạc (palatal)",
+          "difference": "つ là âm răng-lợi, phát ở phía trước miệng hơn"
+        },
+        "not_su": {
+          "description": "KHÔNG phải âm 'su' thuần túy",
+          "difference": "Có âm 't' ở đầu trước khi chuyển sang 's'"
+        },
+        "closest": "Giống 'ts' trong tiếng Anh 'cats' hoặc 'pizza'"
+      },
+
+      "common_mistakes": [
+        {
+          "mistake": "Phát âm như 'su'",
+          "example": "つき nghe như 'suki'",
+          "problem": "つき (mặt trăng) thành すき (thích) - nghĩa khác hoàn toàn!"
+        },
+        {
+          "mistake": "Phát âm như 'chu'",
+          "example": "つくえ nghe như 'chukue'",
+          "problem": "Nghe sai và không tự nhiên"
+        },
+        {
+          "mistake": "Nhầm つ và す khi nghe",
+          "example": "Không phân biệt được つかう vs すかう",
+          "problem": "Hiểu sai từ"
+        }
+      ],
+
+      "listening_tips": [
+        "つ có âm 't' rõ ràng ở đầu",
+        "Nghe như 'ts' trong 'cats'",
+        "す thì mềm hơn, không có 't'"
+      ],
+
+      "minimal_pairs_tsu_su": [
+        {
+          "pair": ["つき", "すき"],
+          "ipa": ["t͡sɯki", "sɯki"],
+          "meanings": ["mặt trăng", "thích"],
+          "note": "Cặp rất quan trọng!"
+        },
+        {
+          "pair": ["つくる", "すくる"],
+          "ipa": ["t͡sɯkɯɾɯ", "sɯkɯɾɯ"],
+          "meanings": ["làm/tạo", "(không có nghĩa)"]
+        },
+        {
+          "pair": ["つむ", "すむ"],
+          "ipa": ["t͡sɯmɯ", "sɯmɯ"],
+          "meanings": ["tích lũy", "sống/ở"]
+        },
+        {
+          "pair": ["つる", "する"],
+          "ipa": ["t͡sɯɾɯ", "sɯɾɯ"],
+          "meanings": ["treo/câu", "làm"]
+        },
+        {
+          "pair": ["つかう", "すかう"],
+          "ipa": ["t͡sɯkaɯ", "sɯkaɯ"],
+          "meanings": ["sử dụng", "(không có nghĩa)"]
+        },
+        {
+          "pair": ["つめ", "すめ"],
+          "ipa": ["t͡sɯme", "sɯme"],
+          "meanings": ["móng (tay)", "(không có nghĩa)"]
+        }
+      ],
+
+      "common_words": [
+        { "word": "つき", "romaji": "tsuki", "meaning": "mặt trăng" },
+        { "word": "つくえ", "romaji": "tsukue", "meaning": "bàn" },
+        { "word": "つかう", "romaji": "tsukau", "meaning": "sử dụng" },
+        { "word": "つくる", "romaji": "tsukuru", "meaning": "làm/tạo" },
+        { "word": "つよい", "romaji": "tsuyoi", "meaning": "mạnh" },
+        { "word": "つづく", "romaji": "tsuzuku", "meaning": "tiếp tục" },
+        { "word": "つめたい", "romaji": "tsumetai", "meaning": "lạnh" },
+        { "word": "つける", "romaji": "tsukeru", "meaning": "bật/gắn" },
+        { "word": "つとめる", "romaji": "tsutomeru", "meaning": "làm việc" },
+        { "word": "つたえる", "romaji": "tsutaeru", "meaning": "truyền đạt" }
+      ]
+    },
+
+    "shi_chi": {
+      "title": "し・ち - Âm ngạc hóa",
+      "importance": "Quan trọng - Thường nhầm lẫn với nhau",
+      "characters": ["し", "ち"],
+      "ipa": ["ɕi", "t͡ɕi"],
+
+      "description": {
+        "shi": "し là âm xát ngạc-lợi (alveolo-palatal fricative)",
+        "chi": "ち là âm tắc-xát ngạc-lợi (alveolo-palatal affricate)"
+      },
+
+      "vietnamese_comparison": {
+        "shi": {
+          "description": "し gần với 'x' tiếng Việt nhưng phát ở phía sau hơn",
+          "closest": "Giữa 'si' và 'xi' tiếng Việt"
+        },
+        "chi": {
+          "description": "ち gần với 'ch' tiếng Việt",
+          "difference": "Nhẹ hơn 'ch' tiếng Việt một chút"
+        }
+      },
+
+      "common_mistakes": [
+        {
+          "mistake": "Nhầm し và ち khi nghe",
+          "example": "しち (bảy) - hai âm gần nhau",
+          "problem": "Đặc biệt khó khi số 7 là しち"
+        },
+        {
+          "mistake": "Phát âm し như 'si'",
+          "example": "しろい nghe như 'siroi'",
+          "problem": "Thiếu âm 'sh' đặc trưng"
+        }
+      ],
+
+      "listening_tips": [
+        "し mềm hơn, không có âm 't' ở đầu",
+        "ち có âm 't' rõ ràng trước 'ch'",
+        "Trong しち (7), chú ý し nhẹ hơn ち"
+      ],
+
+      "minimal_pairs": [
+        {
+          "pair": ["しる", "ちる"],
+          "ipa": ["ɕiɾɯ", "t͡ɕiɾɯ"],
+          "meanings": ["biết", "rơi/rụng"]
+        },
+        {
+          "pair": ["した", "ちた"],
+          "ipa": ["ɕita", "t͡ɕita"],
+          "meanings": ["dưới/lưỡi", "(không có nghĩa)"]
+        },
+        {
+          "pair": ["しま", "ちま"],
+          "ipa": ["ɕima", "t͡ɕima"],
+          "meanings": ["đảo", "(không có nghĩa)"]
+        },
+        {
+          "pair": ["かし", "かち"],
+          "ipa": ["kaɕi", "kat͡ɕi"],
+          "meanings": ["cho vay / bánh kẹo", "thắng"]
+        }
+      ],
+
+      "common_words_shi": [
+        { "word": "しる", "romaji": "shiru", "meaning": "biết" },
+        { "word": "しろい", "romaji": "shiroi", "meaning": "trắng" },
+        { "word": "しごと", "romaji": "shigoto", "meaning": "công việc" },
+        { "word": "しんぶん", "romaji": "shinbun", "meaning": "báo" },
+        { "word": "した", "romaji": "shita", "meaning": "dưới" }
+      ],
+      "common_words_chi": [
+        { "word": "ちいさい", "romaji": "chiisai", "meaning": "nhỏ" },
+        { "word": "ちかい", "romaji": "chikai", "meaning": "gần" },
+        { "word": "ちず", "romaji": "chizu", "meaning": "bản đồ" },
+        { "word": "ちから", "romaji": "chikara", "meaning": "sức mạnh" },
+        { "word": "ちがう", "romaji": "chigau", "meaning": "khác" }
+      ]
+    },
+
+    "su": {
+      "title": "す - Âm xát răng",
+      "importance": "Quan trọng - Âm cuối động từ",
+      "character": "す",
+      "ipa": "sɯ",
+
+      "description": "Âm xát răng-lợi vô thanh với nguyên âm không tròn môi",
+
+      "vietnamese_comparison": {
+        "similar": "Gần với 'xư' nhưng môi không tròn",
+        "difference": "Nguyên âm う là âm không tròn môi, khác với 'u' tiếng Việt"
+      },
+
+      "special_feature": {
+        "devoicing": "す thường bị 'vô thanh hóa' (devoiced) ở cuối từ hoặc giữa phụ âm vô thanh",
+        "examples": [
+          { "word": "です", "note": "す cuối gần như không nghe thấy nguyên âm" },
+          { "word": "ます", "note": "す cuối rất nhẹ" },
+          { "word": "すき", "note": "す đầu có thể nghe nhẹ" }
+        ]
+      },
+
+      "common_mistakes": [
+        {
+          "mistake": "Phát âm す với 'u' tròn môi",
+          "example": "です nghe như 'de-su' với 'u' rõ ràng",
+          "problem": "Không tự nhiên, người Nhật thường nuốt âm này"
+        },
+        {
+          "mistake": "Không nghe được す bị devoiced",
+          "example": "Không nghe thấy す trong です",
+          "problem": "Bình thường - đây là cách phát âm tự nhiên"
+        }
+      ],
+
+      "listening_tips": [
+        "す cuối từ thường rất nhẹ hoặc gần như im",
+        "Không cần cố nghe rõ す trong です、ます",
+        "Chú ý ngữ cảnh hơn là âm す"
+      ],
+
+      "common_words": [
+        { "word": "すき", "romaji": "suki", "meaning": "thích" },
+        { "word": "すこし", "romaji": "sukoshi", "meaning": "một chút" },
+        { "word": "すむ", "romaji": "sumu", "meaning": "sống/ở" },
+        { "word": "すわる", "romaji": "suwaru", "meaning": "ngồi" },
+        { "word": "する", "romaji": "suru", "meaning": "làm" },
+        { "word": "すごい", "romaji": "sugoi", "meaning": "tuyệt vời" },
+        { "word": "すぐ", "romaji": "sugu", "meaning": "ngay lập tức" },
+        { "word": "です", "romaji": "desu", "meaning": "là (copula)" },
+        { "word": "ます", "romaji": "masu", "meaning": "trợ động từ lịch sự" }
+      ]
+    },
+
+    "voiced_voiceless": {
+      "title": "Phân biệt hữu thanh / vô thanh",
+      "importance": "Rất quan trọng - Thay đổi nghĩa hoàn toàn",
+
+      "description": "Tiếng Nhật phân biệt rõ ràng giữa âm vô thanh (清音) và hữu thanh (濁音)",
+
+      "pairs": [
+        {
+          "voiceless": { "kana": "か", "romaji": "ka", "ipa": "ka" },
+          "voiced": { "kana": "が", "romaji": "ga", "ipa": "ɡa" },
+          "row": "か行 / が行"
+        },
+        {
+          "voiceless": { "kana": "さ", "romaji": "sa", "ipa": "sa" },
+          "voiced": { "kana": "ざ", "romaji": "za", "ipa": "za" },
+          "row": "さ行 / ざ行"
+        },
+        {
+          "voiceless": { "kana": "た", "romaji": "ta", "ipa": "ta" },
+          "voiced": { "kana": "だ", "romaji": "da", "ipa": "da" },
+          "row": "た行 / だ行"
+        },
+        {
+          "voiceless": { "kana": "は", "romaji": "ha", "ipa": "ha" },
+          "voiced": { "kana": "ば", "romaji": "ba", "ipa": "ba" },
+          "row": "は行 / ば行"
+        }
+      ],
+
+      "vietnamese_comparison": {
+        "description": "Tiếng Việt cũng có phân biệt hữu thanh/vô thanh nhưng ít rõ ràng hơn",
+        "examples": [
+          { "vn": "ba / pa", "note": "Tiếng Việt không có 'pa'" },
+          { "vn": "đa / ta", "note": "Đ và T đều vô thanh trong tiếng Việt" }
+        ],
+        "difficulty": "Người Việt thường khó phân biệt が và か khi nghe nhanh"
+      },
+
+      "minimal_pairs": [
+        {
+          "pair": ["かみ", "がみ"],
+          "meanings": ["giấy / tóc / thần", "hậu tố trong tên"],
+          "note": "かみ có nhiều nghĩa tùy kanji"
+        },
+        {
+          "pair": ["かく", "がく"],
+          "meanings": ["viết", "học / nhạc"],
+          "ipa": ["kakɯ", "ɡakɯ"]
+        },
+        {
+          "pair": ["さけ", "ざけ"],
+          "meanings": ["rượu sake", "(hậu tố trong từ ghép)"]
+        },
+        {
+          "pair": ["たい", "だい"],
+          "meanings": ["muốn / cá tráp", "lớn / thế hệ"],
+          "note": "Cả hai đều rất phổ biến"
+        },
+        {
+          "pair": ["てん", "でん"],
+          "meanings": ["điểm / trời", "điện / ruộng"]
+        },
+        {
+          "pair": ["はな", "ばな"],
+          "meanings": ["hoa / mũi", "(hậu tố trong từ ghép)"]
+        },
+        {
+          "pair": ["ひと", "びと"],
+          "meanings": ["người", "(hậu tố chỉ người)"]
+        }
+      ],
+
+      "listening_tips": [
+        "Âm hữu thanh có độ rung của dây thanh",
+        "Đặt tay lên cổ họng để cảm nhận",
+        "Trong văn nói nhanh, sự khác biệt vẫn rõ ràng",
+        "Chú ý ngữ cảnh khi nghe"
+      ],
+
+      "common_mistakes": [
+        {
+          "mistake": "Không phân biệt được か và が",
+          "problem": "Đặc biệt khi が là trợ từ chủ ngữ"
+        },
+        {
+          "mistake": "Phát âm た như đa",
+          "problem": "た là vô thanh, phải nhẹ hơn 'đ'"
+        }
+      ]
+    },
+
+    "za_ji_zu_ze_zo": {
+      "title": "ざ行 - Âm Z tiếng Nhật",
+      "importance": "Quan trọng - Khác với Z tiếng Việt",
+      "characters": ["ざ", "じ", "ず", "ぜ", "ぞ"],
+      "ipa": ["za", "dʑi / ʑi", "zɯ / dzɯ", "ze", "zo"],
+
+      "description": "Âm Z tiếng Nhật có thể là xát (fricative) hoặc tắc-xát (affricate) tùy vị trí",
+
+      "variations": {
+        "za_ze_zo": {
+          "ipa": "[za], [ze], [zo]",
+          "description": "Âm xát, giống 'z' tiếng Anh"
+        },
+        "ji": {
+          "ipa": "[dʑi] hoặc [ʑi]",
+          "description": "Có thể là tắc-xát hoặc xát, gần với 'j' tiếng Anh trong 'judge'",
+          "note": "Giống với âm của ぢ"
+        },
+        "zu": {
+          "ipa": "[zɯ] hoặc [dzɯ]",
+          "description": "Có thể là xát hoặc tắc-xát",
+          "note": "Giống với âm của づ"
+        }
+      },
+
+      "vietnamese_comparison": {
+        "description": "Tiếng Việt miền Bắc không có âm Z thuần túy",
+        "z_in_southern": "Tiếng Việt miền Nam có 'gi' gần với Z",
+        "difficulty": "Người Bắc có thể phát âm như 'd' hoặc 'gi'"
+      },
+
+      "minimal_pairs": [
+        {
+          "pair": ["さ", "ざ"],
+          "meanings": ["(âm đơn)", "(âm đơn)"],
+          "ipa": ["sa", "za"]
+        },
+        {
+          "pair": ["せかい", "ぜかい"],
+          "meanings": ["thế giới", "(không có nghĩa)"]
+        },
+        {
+          "pair": ["すいか", "ずいか"],
+          "meanings": ["dưa hấu", "(không có nghĩa)"]
+        }
+      ],
+
+      "common_words": [
+        { "word": "ざんねん", "romaji": "zannen", "meaning": "đáng tiếc" },
+        { "word": "じかん", "romaji": "jikan", "meaning": "thời gian" },
+        { "word": "じぶん", "romaji": "jibun", "meaning": "bản thân" },
+        { "word": "ずっと", "romaji": "zutto", "meaning": "mãi mãi" },
+        { "word": "ぜんぶ", "romaji": "zenbu", "meaning": "tất cả" },
+        { "word": "ぞう", "romaji": "zou", "meaning": "con voi" },
+        { "word": "かぜ", "romaji": "kaze", "meaning": "gió / cảm" },
+        { "word": "みず", "romaji": "mizu", "meaning": "nước" },
+        { "word": "かず", "romaji": "kazu", "meaning": "số lượng" }
+      ]
+    },
+
+    "n_before_vowel": {
+      "title": "ん trước nguyên âm",
+      "importance": "Dễ nhầm - Đặc biệt quan trọng",
+
+      "description": "ん trước nguyên âm hoặc や/よ/わ có thể bị nghe nhầm với な行",
+
+      "problem": {
+        "description": "きんえん (禁煙 - cấm hút thuốc) vs きねん (記念 - kỷ niệm)",
+        "reason": "ん + え nghe gần giống ね"
+      },
+
+      "minimal_pairs": [
+        {
+          "pair": ["きんえん", "きねん"],
+          "meanings": ["cấm hút thuốc", "kỷ niệm"],
+          "ipa": ["kiɴeɴ", "kineɴ"],
+          "note": "Cặp rất quan trọng!"
+        },
+        {
+          "pair": ["てんいん", "ていいん"],
+          "meanings": ["nhân viên cửa hàng", "số lượng quy định"],
+          "note": "Chú ý ん + い vs い dài"
+        },
+        {
+          "pair": ["はんい", "はに"],
+          "meanings": ["phạm vi", "răng"],
+          "note": "ん + い vs に"
+        },
+        {
+          "pair": ["けんおう", "けのう"],
+          "meanings": ["vùng Kanto", "(không có nghĩa)"],
+          "note": "ん + お vs の"
+        }
+      ],
+
+      "listening_tips": [
+        "ん trước nguyên âm thường phát âm [ɴ] - âm mũi sau",
+        "な行 phát âm ở phía trước miệng hơn [n]",
+        "Chú ý độ dài - ん + nguyên âm = 2 mora"
+      ],
+
+      "related": "Xem thêm file hatsuon_n.json để hiểu rõ 5 biến thể của ん"
+    },
+
+    "long_vowel_mistakes": {
+      "title": "Lỗi trường âm phổ biến",
+      "importance": "Rất quan trọng - Thay đổi nghĩa",
+
+      "description": "Người Việt thường không nghe rõ sự khác biệt giữa nguyên âm ngắn và dài",
+
+      "critical_pairs": [
+        {
+          "short": "おばさん",
+          "long": "おばあさん",
+          "meanings": ["cô/dì", "bà"],
+          "note": "Gọi nhầm có thể gây mất lịch sự!"
+        },
+        {
+          "short": "おじさん",
+          "long": "おじいさん",
+          "meanings": ["chú/bác", "ông"],
+          "note": "Tương tự trên"
+        },
+        {
+          "short": "ここ",
+          "long": "こうこう",
+          "meanings": ["ở đây", "trường cấp 3"],
+          "note": "Nghĩa khác hoàn toàn"
+        },
+        {
+          "short": "とる",
+          "long": "とおる",
+          "meanings": ["lấy", "đi qua"],
+          "note": "Động từ khác nhau"
+        },
+        {
+          "short": "ビル",
+          "long": "ビール",
+          "meanings": ["tòa nhà", "bia"],
+          "note": "Katakana phổ biến"
+        }
+      ],
+
+      "listening_tips": [
+        "Đếm mora: trường âm = 2 mora",
+        "Chú ý nhịp điệu câu",
+        "Luyện nghe với metronome"
+      ],
+
+      "related": "Xem thêm file chouon.json và chouon_exercises.json"
+    }
+  },
+
+  "priority_ranking": {
+    "description": "Thứ tự ưu tiên khi luyện tập",
+    "ranking": [
+      {
+        "rank": 1,
+        "sounds": ["つ vs す", "ら行 vs だ行"],
+        "reason": "Nhầm lẫn gây hiểu sai nghĩa ngay lập tức"
+      },
+      {
+        "rank": 2,
+        "sounds": ["Hữu thanh vs Vô thanh", "Trường âm vs Ngắn"],
+        "reason": "Thay đổi nghĩa, rất phổ biến"
+      },
+      {
+        "rank": 3,
+        "sounds": ["ふ", "し vs ち", "ん trước nguyên âm"],
+        "reason": "Quan trọng nhưng ngữ cảnh thường giúp hiểu"
+      },
+      {
+        "rank": 4,
+        "sounds": ["ざ行", "す (devoicing)"],
+        "reason": "Ít gây hiểu lầm hơn"
+      }
+    ]
+  },
+
+  "practice_recommendations": {
+    "daily_practice": [
+      "Nghe minimal pairs 10 phút/ngày",
+      "Shadowing với audio chất lượng cao",
+      "Tập trung 1-2 âm khó mỗi tuần"
+    ],
+    "resources": [
+      "NHK News (phát âm chuẩn)",
+      "Podcast tiếng Nhật cho người học",
+      "Anime/Drama có phụ đề tiếng Nhật"
+    ],
+    "self_check": [
+      "Ghi âm bản thân và so sánh",
+      "Nhờ người Nhật đánh giá",
+      "Sử dụng app nhận diện giọng nói"
+    ]
+  }
+}

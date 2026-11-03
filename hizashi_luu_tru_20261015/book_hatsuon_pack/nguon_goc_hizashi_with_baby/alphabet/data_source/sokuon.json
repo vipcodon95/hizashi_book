@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Âm ngắt tiếng Nhật (促音) - Sokuon/Geminate consonant",
+    "name_vi": "Âm ngắt",
+    "name_jp": "促音",
+    "symbol": {
+      "hiragana": "っ",
+      "katakana": "ッ"
+    },
+    "note": "Âm ngắt tạo khoảng lặng ngắn (glottal stop) trước phụ âm, chiếm 1 mora"
+  },
+  "rules": {
+    "description": "Quy tắc sử dụng âm ngắt",
+    "basics": [
+      "っ/ッ luôn đứng trước phụ âm vô thanh: k, s, t, p, ch, sh, ts",
+      "っ/ッ chiếm đúng 1 mora",
+      "Khi viết romaji, gấp đôi phụ âm sau: kk, ss, tt, pp, cch, ssh, tts",
+      "っ/ッ không bao giờ đứng cuối từ (trừ một số thán từ)",
+      "っ/ッ không đứng trước nguyên âm hay âm n, m, r, w, y"
+    ],
+    "pronunciation": {
+      "description": "Cách phát âm âm ngắt",
+      "steps": [
+        "Chuẩn bị miệng ở vị trí của phụ âm tiếp theo",
+        "Giữ khoảng lặng trong 1 mora (khoảng 0.1-0.2 giây)",
+        "Phát âm phụ âm tiếp theo với lực mạnh hơn bình thường"
+      ],
+      "tip": "Tưởng tượng như bạn 'nuốt' một âm vào trong"
+    }
+  },
+  "sokuon_types": {
+    "description": "Các loại âm ngắt theo phụ âm đi sau",
+    "types": {
+      "kk": {
+        "name": "Âm ngắt trước k",
+        "pattern": "っ + か行",
+        "romaji": "kk",
+        "examples": [
+          { "word": "がっこう", "katakana": "ガッコウ", "romaji": "gakkou", "meaning": "trường học", "mora_count": 4, "mora_breakdown": "ga-Q-ko-u" },
+          { "word": "さっか", "katakana": "サッカ", "romaji": "sakka", "meaning": "nhà văn", "mora_count": 3, "mora_breakdown": "sa-Q-ka" },
+          { "word": "きっかけ", "katakana": "キッカケ", "romaji": "kikkake", "meaning": "cơ hội, dịp", "mora_count": 4, "mora_breakdown": "ki-Q-ka-ke" },
+          { "word": "サッカー", "katakana": "サッカー", "romaji": "sakkaa", "meaning": "bóng đá", "mora_count": 4, "mora_breakdown": "sa-Q-ka-a" },
+          { "word": "はっきり", "katakana": "ハッキリ", "romaji": "hakkiri", "meaning": "rõ ràng", "mora_count": 4, "mora_breakdown": "ha-Q-ki-ri" }
+        ]
+      },
+      "ss": {
+        "name": "Âm ngắt trước s",
+        "pattern": "っ + さ行 (sa, su, se, so)",
+        "romaji": "ss",
+        "examples": [
+          { "word": "いっさい", "katakana": "イッサイ", "romaji": "issai", "meaning": "hoàn toàn", "mora_count": 4, "mora_breakdown": "i-Q-sa-i" },
+          { "word": "けっせき", "katakana": "ケッセキ", "romaji": "kesseki", "meaning": "vắng mặt", "mora_count": 4, "mora_breakdown": "ke-Q-se-ki" },
+          { "word": "ざっし", "katakana": "ザッシ", "romaji": "zasshi", "meaning": "tạp chí", "mora_count": 3, "mora_breakdown": "za-Q-shi" },
+          { "word": "マッサージ", "katakana": "マッサージ", "romaji": "massaaji", "meaning": "massage", "mora_count": 5, "mora_breakdown": "ma-Q-sa-a-ji" }
+        ]
+      },
+      "ssh": {
+        "name": "Âm ngắt trước sh",
+        "pattern": "っ + し",
+        "romaji": "ssh",
+        "examples": [
+          { "word": "いっしょ", "katakana": "イッショ", "romaji": "issho", "meaning": "cùng nhau", "mora_count": 3, "mora_breakdown": "i-Q-sho" },
+          { "word": "けっしん", "katakana": "ケッシン", "romaji": "kesshin", "meaning": "quyết tâm", "mora_count": 4, "mora_breakdown": "ke-Q-shi-n" },
+          { "word": "ざっし", "katakana": "ザッシ", "romaji": "zasshi", "meaning": "tạp chí", "mora_count": 3, "mora_breakdown": "za-Q-shi" }
+        ]
+      },
+      "tt": {
+        "name": "Âm ngắt trước t",
+        "pattern": "っ + た行 (ta, te, to)",
+        "romaji": "tt",
+        "examples": [
+          { "word": "きって", "katakana": "キッテ", "romaji": "kitte", "meaning": "tem", "mora_count": 3, "mora_breakdown": "ki-Q-te" },
+          { "word": "もっと", "katakana": "モット", "romaji": "motto", "meaning": "nhiều hơn", "mora_count": 3, "mora_breakdown": "mo-Q-to" },
+          { "word": "ずっと", "katakana": "ズット", "romaji": "zutto", "meaning": "mãi mãi", "mora_count": 3, "mora_breakdown": "zu-Q-to" },
+          { "word": "あった", "katakana": "アッタ", "romaji": "atta", "meaning": "đã có", "mora_count": 3, "mora_breakdown": "a-Q-ta" },
+          { "word": "まって", "katakana": "マッテ", "romaji": "matte", "meaning": "đợi đã", "mora_count": 3, "mora_breakdown": "ma-Q-te" }
+        ]
+      },
+      "tch": {
+        "name": "Âm ngắt trước ch",
+        "pattern": "っ + ち",
+        "romaji": "tch/cch",
+        "examples": [
+          { "word": "まっち", "katakana": "マッチ", "romaji": "matchi", "meaning": "diêm", "mora_count": 3, "mora_breakdown": "ma-Q-chi" },
+          { "word": "いっち", "katakana": "イッチ", "romaji": "itchi", "meaning": "nhất trí", "mora_count": 3, "mora_breakdown": "i-Q-chi" },
+          { "word": "スケッチ", "katakana": "スケッチ", "romaji": "suketchi", "meaning": "phác họa", "mora_count": 4, "mora_breakdown": "su-ke-Q-chi" }
+        ]
+      },
+      "tts": {
+        "name": "Âm ngắt trước ts",
+        "pattern": "っ + つ",
+        "romaji": "tts",
+        "examples": [
+          { "word": "きっつい", "katakana": "キッツイ", "romaji": "kittsui", "meaning": "chật, khó", "mora_count": 4, "mora_breakdown": "ki-Q-tsu-i" },
+          { "word": "やっつける", "katakana": "ヤッツケル", "romaji": "yattsukeru", "meaning": "đánh bại", "mora_count": 5, "mora_breakdown": "ya-Q-tsu-ke-ru" }
+        ]
+      },
+      "pp": {
+        "name": "Âm ngắt trước p",
+        "pattern": "っ + ぱ行",
+        "romaji": "pp",
+        "examples": [
+          { "word": "いっぱい", "katakana": "イッパイ", "romaji": "ippai", "meaning": "đầy", "mora_count": 4, "mora_breakdown": "i-Q-pa-i" },
+          { "word": "きっぷ", "katakana": "キップ", "romaji": "kippu", "meaning": "vé", "mora_count": 3, "mora_breakdown": "ki-Q-pu" },
+          { "word": "やっぱり", "katakana": "ヤッパリ", "romaji": "yappari", "meaning": "quả nhiên", "mora_count": 4, "mora_breakdown": "ya-Q-pa-ri" },
+          { "word": "にっぽん", "katakana": "ニッポン", "romaji": "nippon", "meaning": "Nhật Bản", "mora_count": 4, "mora_breakdown": "ni-Q-po-n" },
+          { "word": "ラップ", "katakana": "ラップ", "romaji": "rappu", "meaning": "rap / màng bọc", "mora_count": 3, "mora_breakdown": "ra-Q-pu" }
+        ]
+      }
+    }
+  },
+  "verb_conjugation": {
+    "description": "Âm ngắt trong chia động từ (て形, た形)",
+    "note": "Động từ nhóm 1 kết thúc bằng う、つ、る khi chia て/た sẽ có âm ngắt",
+    "patterns": [
+      {
+        "ending": "う、つ、る",
+        "te_form": "って",
+        "ta_form": "った",
+        "examples": [
+          { "dict": "かう", "meaning": "mua", "te": "かって", "ta": "かった" },
+          { "dict": "まつ", "meaning": "đợi", "te": "まって", "ta": "まった" },
+          { "dict": "とる", "meaning": "lấy", "te": "とって", "ta": "とった" },
+          { "dict": "いう", "meaning": "nói", "te": "いって", "ta": "いった" }
+        ]
+      }
+    ]
+  },
+  "minimal_pairs": {
+    "description": "Cặp từ để luyện nghe phân biệt có/không có âm ngắt",
+    "pairs": [
+      {
+        "without": { "word": "いた", "romaji": "ita", "meaning": "đã ở", "mora": 2 },
+        "with": { "word": "いった", "romaji": "itta", "meaning": "đã đi/đã nói", "mora": 3 }
+      },
+      {
+        "without": { "word": "きて", "romaji": "kite", "meaning": "đến đi", "mora": 2 },
+        "with": { "word": "きって", "romaji": "kitte", "meaning": "tem", "mora": 3 }
+      },
+      {
+        "without": { "word": "かた", "romaji": "kata", "meaning": "vai/cách", "mora": 2 },
+        "with": { "word": "かった", "romaji": "katta", "meaning": "đã mua/đã thắng", "mora": 3 }
+      },
+      {
+        "without": { "word": "まて", "romaji": "mate", "meaning": "(không có nghĩa)", "mora": 2 },
+        "with": { "word": "まって", "romaji": "matte", "meaning": "đợi đã", "mora": 3 }
+      },
+      {
+        "without": { "word": "もと", "romaji": "moto", "meaning": "gốc, nguồn", "mora": 2 },
+        "with": { "word": "もっと", "romaji": "motto", "meaning": "nhiều hơn", "mora": 3 }
+      },
+      {
+        "without": { "word": "さか", "romaji": "saka", "meaning": "dốc", "mora": 2 },
+        "with": { "word": "さっか", "romaji": "sakka", "meaning": "nhà văn", "mora": 3 }
+      },
+      {
+        "without": { "word": "いしょ", "romaji": "isho", "meaning": "di chúc", "mora": 2 },
+        "with": { "word": "いっしょ", "romaji": "issho", "meaning": "cùng nhau", "mora": 3 }
+      },
+      {
+        "without": { "word": "はきり", "romaji": "hakiri", "meaning": "(không có nghĩa)", "mora": 3 },
+        "with": { "word": "はっきり", "romaji": "hakkiri", "meaning": "rõ ràng", "mora": 4 }
+      },
+      {
+        "without": { "word": "こく", "romaji": "koku", "meaning": "nước (quốc)", "mora": 2 },
+        "with": { "word": "こっく", "romaji": "kokku", "meaning": "đầu bếp (cook)", "mora": 3 }
+      },
+      {
+        "without": { "word": "ねこ", "romaji": "neko", "meaning": "con mèo", "mora": 2 },
+        "with": { "word": "ねっこ", "romaji": "nekko", "meaning": "rễ cây", "mora": 3 }
+      },
+      {
+        "without": { "word": "かこ", "romaji": "kako", "meaning": "quá khứ", "mora": 2 },
+        "with": { "word": "かっこ", "romaji": "kakko", "meaning": "ngoặc", "mora": 3 }
+      },
+      {
+        "without": { "word": "ビル", "romaji": "biru", "meaning": "tòa nhà", "mora": 2 },
+        "with": { "word": "ビッル", "romaji": "birru", "meaning": "(không có)", "mora": 3 },
+        "note": "Ví dụ so sánh âm"
+      }
+    ]
+  },
+  "common_mistakes": {
+    "description": "Lỗi phổ biến khi nghe/phát âm âm ngắt",
+    "mistakes": [
+      {
+        "type": "Không nghe ra âm ngắt",
+        "example": "Nghe いった thành いた",
+        "consequence": "Nhầm 'đã đi' thành 'đã ở'",
+        "tip": "Tập đếm mora - âm ngắt luôn thêm 1 mora"
+      },
+      {
+        "type": "Bỏ qua âm ngắt khi nói",
+        "example": "Nói もっと thành もと",
+        "consequence": "Người Nhật có thể không hiểu",
+        "tip": "Tạo khoảng dừng rõ ràng trước phụ âm"
+      },
+      {
+        "type": "Phát âm âm ngắt quá dài",
+        "example": "Kéo dài khoảng lặng quá lâu",
+        "consequence": "Nghe không tự nhiên",
+        "tip": "Âm ngắt chỉ bằng 1 mora (~0.1-0.2 giây)"
+      },
+      {
+        "type": "Nhầm lẫn với trường âm",
+        "example": "Nghe がっこう, không phân biệt っ và う",
+        "consequence": "Viết sai chính tả",
+        "tip": "っ tạo 'căng thẳng', trường âm tạo 'kéo dài'"
+      }
+    ]
+  },
+  "sokuon_with_chouon": {
+    "description": "Từ có cả âm ngắt và trường âm",
+    "note": "Nhiều từ có cả っ và trường âm, cần luyện nghe kỹ",
+    "examples": [
+      { "word": "がっこう", "romaji": "gakkou", "meaning": "trường học", "mora_count": 4, "breakdown": "ga-Q-ko-u", "features": ["sokuon: っ", "chouon: ou"] },
+      { "word": "いっしょう", "romaji": "isshou", "meaning": "cả đời", "mora_count": 4, "breakdown": "i-Q-sho-u", "features": ["sokuon: っ", "chouon: ou"] },
+      { "word": "サッカー", "romaji": "sakkaa", "meaning": "bóng đá", "mora_count": 4, "breakdown": "sa-Q-ka-a", "features": ["sokuon: っ", "chouon: aa"] },
+      { "word": "いっぽう", "romaji": "ippou", "meaning": "một phía", "mora_count": 4, "breakdown": "i-Q-po-u", "features": ["sokuon: っ", "chouon: ou"] },
+      { "word": "ざっし", "romaji": "zasshi", "meaning": "tạp chí", "mora_count": 3, "breakdown": "za-Q-shi", "features": ["sokuon: っ"] },
+      { "word": "コーヒー", "romaji": "koohii", "meaning": "cà phê", "mora_count": 4, "breakdown": "ko-o-hi-i", "features": ["chouon: oo", "chouon: ii"], "note": "Không có sokuon - để so sánh" }
+    ]
+  },
+  "exercises": {
+    "description": "Các dạng bài tập luyện nghe âm ngắt",
+    "types": [
+      {
+        "name": "Đếm mora",
+        "instruction": "Nghe từ và đếm số mora",
+        "example": "がっこう → 4 mora (ga-Q-ko-u)"
+      },
+      {
+        "name": "Có hay không?",
+        "instruction": "Nghe và xác định từ có âm ngắt hay không",
+        "example": "Nghe 'いた' → Không có âm ngắt"
+      },
+      {
+        "name": "Chọn từ đúng",
+        "instruction": "Nghe và chọn từ đúng trong 2 lựa chọn",
+        "example": "Nghe → きて hay きって?"
+      },
+      {
+        "name": "Vị trí âm ngắt",
+        "instruction": "Nghe và xác định vị trí âm ngắt trong từ",
+        "example": "きっかけ → âm ngắt ở vị trí thứ 2"
+      },
+      {
+        "name": "Dictation",
+        "instruction": "Nghe và viết lại bằng Hiragana",
+        "example": "Nghe 'gakkou' → viết がっこう"
+      },
+      {
+        "name": "Phân biệt っ và trường âm",
+        "instruction": "Nghe và xác định đó là âm ngắt hay trường âm",
+        "example": "Nghe がっこう → có cả っ (vị trí 2) và trường âm (vị trí 4)"
+      }
+    ]
+  },
+  "interjections": {
+    "description": "Thán từ có âm ngắt cuối (trường hợp đặc biệt)",
+    "note": "Một số thán từ/từ tượng thanh có っ ở cuối để thể hiện sự đột ngột",
+    "examples": [
+      { "word": "あっ", "romaji": "a'", "meaning": "À! (ngạc nhiên)", "note": "Kết thúc đột ngột" },
+      { "word": "えっ", "romaji": "e'", "meaning": "Hả? (ngạc nhiên)", "note": "Kết thúc đột ngột" },
+      { "word": "ちょっ", "romaji": "cho'", "meaning": "Này! Khoan!", "note": "Rút gọn từ ちょっと" },
+      { "word": "やっ", "romaji": "ya'", "meaning": "Yeah!", "note": "Biểu cảm vui" }
+    ]
+  }
+}

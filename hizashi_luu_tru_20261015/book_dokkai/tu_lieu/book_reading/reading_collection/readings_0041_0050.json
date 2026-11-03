@@ -1,0 +1,1776 @@
+[
+  {
+    "id": "R_0041",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "三世代の家",
+    "title_vi": "Nhà ba thế hệ",
+    "topic": "family",
+    "subtopic": "thế hệ",
+    "tags": [
+      "は",
+      "が",
+      "も",
+      "と",
+      "に",
+      "から",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～と～",
+      "～に～ます",
+      "～も～",
+      "～から～まで"
+    ],
+    "sentence_count": 9,
+    "text": "私の家は大きいです。家族は7人です。祖父と祖母と父と母と姉と弟と私です。祖父は毎朝6時に起きます。祖母も6時に起きます。祖母は朝ごはんを作ります。父は7時から会社に行きます。母も会社に行きます。私と姉と弟は学校に行きます。",
+    "translation": "Nhà tôi lớn. Gia đình có 7 người. Gồm ông, bà, bố, mẹ, chị gái, em trai và tôi. Ông dậy lúc 6 giờ mỗi sáng. Bà cũng dậy lúc 6 giờ. Bà nấu bữa sáng. Bố đi làm từ 7 giờ. Mẹ cũng đi làm. Tôi, chị gái và em trai đi học.",
+    "vocabulary": [
+      {
+        "word": "三世代",
+        "reading": "さんせだい",
+        "meaning": "ba thế hệ"
+      },
+      {
+        "word": "祖父",
+        "reading": "そふ",
+        "meaning": "ông (nội/ngoại)"
+      },
+      {
+        "word": "祖母",
+        "reading": "そぼ",
+        "meaning": "bà (nội/ngoại)"
+      },
+      {
+        "word": "毎朝",
+        "reading": "まいあさ",
+        "meaning": "mỗi sáng"
+      },
+      {
+        "word": "起きます",
+        "reading": "おきます",
+        "meaning": "thức dậy"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "私の家は大きいです。",
+        "chunks": "私の家は / 大きいです",
+        "guide": "の liên kết 'tôi' + 'nhà' → は đặt chủ đề → です khẳng định tính chất",
+        "translation": "Nhà tôi lớn."
+      },
+      {
+        "sentence": "家族は7人です。",
+        "chunks": "家族は / 7人です",
+        "guide": "は chuyển chủ đề → 'gia đình' → です khẳng định số lượng",
+        "translation": "Gia đình có 7 người."
+      },
+      {
+        "sentence": "祖父と祖母と父と母と姉と弟と私です。",
+        "chunks": "祖父と / 祖母と / 父と / 母と / 姉と / 弟と / 私です",
+        "guide": "と liệt kê đầy đủ 7 người → です xác nhận danh sách",
+        "translation": "Gồm ông, bà, bố, mẹ, chị gái, em trai và tôi."
+      },
+      {
+        "sentence": "祖父は毎朝6時に起きます。",
+        "chunks": "祖父は / 毎朝6時に / 起きます",
+        "guide": "は chủ đề 'ông' → に chỉ thời điểm '6 giờ' → ます hành động",
+        "translation": "Ông dậy lúc 6 giờ mỗi sáng."
+      },
+      {
+        "sentence": "祖母も6時に起きます。",
+        "chunks": "祖母も / 6時に / 起きます",
+        "guide": "も → 'bà cũng' → giống ông, cũng dậy lúc 6 giờ. に chỉ thời điểm",
+        "translation": "Bà cũng dậy lúc 6 giờ."
+      },
+      {
+        "sentence": "祖母は朝ごはんを作ります。",
+        "chunks": "祖母は / 朝ごはんを / 作ります",
+        "guide": "は chuyển chủ đề → 'bà' → を đánh dấu đối tượng 'bữa sáng' → ます hành động",
+        "translation": "Bà nấu bữa sáng."
+      },
+      {
+        "sentence": "父は7時から会社に行きます。",
+        "chunks": "父は / 7時から / 会社に / 行きます",
+        "guide": "は chủ đề 'bố' → から chỉ thời điểm bắt đầu '7 giờ' → に chỉ đích đến → ます hành động",
+        "translation": "Bố đi làm từ 7 giờ."
+      },
+      {
+        "sentence": "母も会社に行きます。",
+        "chunks": "母も / 会社に / 行きます",
+        "guide": "も → 'mẹ cũng' → giống bố, cũng đi làm. に chỉ đích đến",
+        "translation": "Mẹ cũng đi làm."
+      },
+      {
+        "sentence": "私と姉と弟は学校に行きます。",
+        "chunks": "私と姉と弟は / 学校に / 行きます",
+        "guide": "と liệt kê 3 người → は đặt chủ đề nhóm → に chỉ đích đến 'trường' → ます hành động",
+        "translation": "Tôi, chị gái và em trai đi học."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0041_Q1",
+        "question": "家族は何人ですか。",
+        "question_vi": "Gia đình có mấy người?",
+        "answers": [
+          {
+            "text": "5人で、祖父と祖母と父と母と私です。",
+            "text_vi": "5 người, gồm ông, bà, bố, mẹ và tôi.",
+            "is_correct": false
+          },
+          {
+            "text": "6人で、父と母と姉と弟と祖父と私です。",
+            "text_vi": "6 người, gồm bố, mẹ, chị, em trai, ông và tôi.",
+            "is_correct": false
+          },
+          {
+            "text": "7人で、祖父と祖母と父と母と姉と弟と私です。",
+            "text_vi": "7 người, gồm ông, bà, bố, mẹ, chị, em trai và tôi.",
+            "is_correct": true
+          },
+          {
+            "text": "8人で、祖父と祖母と父と母と兄と姉と弟と私です。",
+            "text_vi": "8 người, gồm ông, bà, bố, mẹ, anh, chị, em trai và tôi.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 2 nói 「家族は7人です」 và câu 3 liệt kê bằng と: 祖父・祖母・父・母・姉・弟・私 = đúng 7 người."
+      },
+      {
+        "id": "R_0041_Q2",
+        "question": "朝ごはんはだれが作りますか。",
+        "question_vi": "Ai nấu bữa sáng?",
+        "answers": [
+          {
+            "text": "祖父が作ります。",
+            "text_vi": "Ông nấu.",
+            "is_correct": false
+          },
+          {
+            "text": "祖母が作ります。",
+            "text_vi": "Bà nấu.",
+            "is_correct": true
+          },
+          {
+            "text": "母が作ります。",
+            "text_vi": "Mẹ nấu.",
+            "is_correct": false
+          },
+          {
+            "text": "姉が作ります。",
+            "text_vi": "Chị gái nấu.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 6 nói 「祖母は朝ごはんを作ります」→ を đánh dấu đối tượng 'bữa sáng', chủ ngữ は là 'bà' → bà nấu bữa sáng."
+      }
+    ]
+  },
+  {
+    "id": "R_0042",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "日本のお正月",
+    "title_vi": "Năm mới ở Nhật",
+    "topic": "family",
+    "subtopic": "truyền thống",
+    "tags": [
+      "は",
+      "を",
+      "に",
+      "で",
+      "と",
+      "から",
+      "まで",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～を～ます",
+      "～に行きます",
+      "～と～",
+      "～で～ます",
+      "～から～まで"
+    ],
+    "sentence_count": 9,
+    "text": "1月1日はお正月です。私の家族はお正月にいつもおせちを食べます。おせちはお正月の料理です。とてもきれいです。朝、家族と神社に行きます。これは初詣です。神社で手を合わせます。お昼から夕方まで祖父の家にいます。お正月はとても楽しいです。",
+    "translation": "Ngày 1 tháng 1 là Tết. Gia đình tôi luôn ăn osechi vào Tết. Osechi là món ăn ngày Tết. Rất đẹp. Buổi sáng, cả gia đình đi đền thần. Đây là hatsumode (lễ viếng đền đầu năm). Chắp tay ở đền thần. Từ trưa đến chiều ở nhà ông nội. Tết rất vui.",
+    "vocabulary": [
+      {
+        "word": "お正月",
+        "reading": "おしょうがつ",
+        "meaning": "Tết (năm mới)"
+      },
+      {
+        "word": "おせち",
+        "reading": "おせち",
+        "meaning": "món osechi (đồ ăn Tết Nhật)"
+      },
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "meaning": "món ăn"
+      },
+      {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "meaning": "đền thần"
+      },
+      {
+        "word": "初詣",
+        "reading": "はつもうで",
+        "meaning": "lễ viếng đền đầu năm"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "1月1日はお正月です。",
+        "chunks": "1月1日は / お正月です",
+        "guide": "は đặt chủ đề 'ngày 1/1' → です khẳng định = Tết",
+        "translation": "Ngày 1 tháng 1 là Tết."
+      },
+      {
+        "sentence": "私の家族はお正月にいつもおせちを食べます。",
+        "chunks": "私の家族は / お正月に / いつも / おせちを / 食べます",
+        "guide": "は chủ đề 'gia đình tôi' → に chỉ thời điểm 'ngày Tết' → を đánh dấu đối tượng 'osechi' → ます hành động",
+        "translation": "Gia đình tôi luôn ăn osechi vào Tết."
+      },
+      {
+        "sentence": "おせちはお正月の料理です。",
+        "chunks": "おせちは / お正月の料理です",
+        "guide": "は chuyển chủ đề → 'osechi' → の liên kết 'Tết' + 'món ăn' → です giải thích",
+        "translation": "Osechi là món ăn ngày Tết."
+      },
+      {
+        "sentence": "とてもきれいです。",
+        "chunks": "とても / きれいです",
+        "guide": "Câu bổ sung cho câu trước → とても nhấn mạnh → です khẳng định tính chất",
+        "translation": "Rất đẹp."
+      },
+      {
+        "sentence": "朝、家族と神社に行きます。",
+        "chunks": "朝 / 家族と / 神社に / 行きます",
+        "guide": "と chỉ cùng ai 'với gia đình' → に chỉ đích đến 'đền thần' → ます hành động",
+        "translation": "Buổi sáng, cả gia đình đi đền thần."
+      },
+      {
+        "sentence": "これは初詣です。",
+        "chunks": "これは / 初詣です",
+        "guide": "は đặt chủ đề 'việc này' → です giải thích = hatsumode",
+        "translation": "Đây là hatsumode (lễ viếng đền đầu năm)."
+      },
+      {
+        "sentence": "神社で手を合わせます。",
+        "chunks": "神社で / 手を / 合わせます",
+        "guide": "で chỉ nơi hành động diễn ra 'ở đền' → を đánh dấu đối tượng 'tay' → ます hành động",
+        "translation": "Chắp tay ở đền thần."
+      },
+      {
+        "sentence": "お昼から夕方まで祖父の家にいます。",
+        "chunks": "お昼から / 夕方まで / 祖父の家に / います",
+        "guide": "から chỉ bắt đầu 'từ trưa' → まで chỉ kết thúc 'đến chiều' → に chỉ nơi ở → います tồn tại",
+        "translation": "Từ trưa đến chiều ở nhà ông nội."
+      },
+      {
+        "sentence": "お正月はとても楽しいです。",
+        "chunks": "お正月は / とても / 楽しいです",
+        "guide": "は quay lại chủ đề 'Tết' → とても nhấn mạnh → です khẳng định cảm xúc. Kết bài bằng cảm nhận",
+        "translation": "Tết rất vui."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0042_Q1",
+        "question": "お正月に何を食べますか。",
+        "question_vi": "Tết ăn gì?",
+        "answers": [
+          {
+            "text": "すしを食べます。",
+            "text_vi": "Ăn sushi.",
+            "is_correct": false
+          },
+          {
+            "text": "おせちを食べます。",
+            "text_vi": "Ăn osechi.",
+            "is_correct": true
+          },
+          {
+            "text": "ラーメンを食べます。",
+            "text_vi": "Ăn ramen.",
+            "is_correct": false
+          },
+          {
+            "text": "おにぎりを食べます。",
+            "text_vi": "Ăn onigiri.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 2 nói 「おせちを食べます」→ を đánh dấu đối tượng 'osechi' = gia đình ăn osechi vào Tết."
+      },
+      {
+        "id": "R_0042_Q2",
+        "question": "初詣はどこに行きますか。",
+        "question_vi": "Hatsumode đi đâu?",
+        "answers": [
+          {
+            "text": "お寺に行きます。",
+            "text_vi": "Đi chùa.",
+            "is_correct": false
+          },
+          {
+            "text": "学校に行きます。",
+            "text_vi": "Đi trường.",
+            "is_correct": false
+          },
+          {
+            "text": "神社に行きます。",
+            "text_vi": "Đi đền thần.",
+            "is_correct": true
+          },
+          {
+            "text": "祖父の家に行きます。",
+            "text_vi": "Đi nhà ông nội.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 5 nói 「家族と神社に行きます」 và câu 6 giải thích 「これは初詣です」→ に chỉ đích đến = đền thần."
+      }
+    ]
+  },
+  {
+    "id": "R_0043",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "算数の時間",
+    "title_vi": "Giờ học toán",
+    "topic": "school",
+    "subtopic": "lớp học",
+    "tags": [
+      "は",
+      "が",
+      "を",
+      "に",
+      "で",
+      "から",
+      "まで",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～から～まで",
+      "～を～ます",
+      "～に～ます",
+      "～で～ます"
+    ],
+    "sentence_count": 9,
+    "text": "算数の時間は9時から10時までです。先生は田中先生です。田中先生はとてもやさしいです。今日はかけ算をします。先生は黒板に問題を書きます。私たちはノートに答えを書きます。算数はむずかしいです。でも、友だちと一緒にべんきょうします。算数の時間は楽しいです。",
+    "translation": "Giờ toán từ 9 giờ đến 10 giờ. Giáo viên là thầy Tanaka. Thầy Tanaka rất hiền. Hôm nay làm phép nhân. Thầy viết đề bài lên bảng đen. Chúng tôi viết đáp án vào vở. Toán khó. Nhưng cùng học với bạn bè. Giờ toán vui.",
+    "vocabulary": [
+      {
+        "word": "算数",
+        "reading": "さんすう",
+        "meaning": "toán (tiểu học)"
+      },
+      {
+        "word": "かけ算",
+        "reading": "かけざん",
+        "meaning": "phép nhân"
+      },
+      {
+        "word": "黒板",
+        "reading": "こくばん",
+        "meaning": "bảng đen"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "bài toán, vấn đề"
+      },
+      {
+        "word": "答え",
+        "reading": "こたえ",
+        "meaning": "đáp án, câu trả lời"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "算数の時間は9時から10時までです。",
+        "chunks": "算数の時間は / 9時から / 10時まで / です",
+        "guide": "の liên kết 'toán' + 'giờ' → は đặt chủ đề → から bắt đầu '9 giờ' → まで kết thúc '10 giờ'",
+        "translation": "Giờ toán từ 9 giờ đến 10 giờ."
+      },
+      {
+        "sentence": "先生は田中先生です。",
+        "chunks": "先生は / 田中先生です",
+        "guide": "は chuyển chủ đề → 'giáo viên' → です khẳng định = thầy Tanaka",
+        "translation": "Giáo viên là thầy Tanaka."
+      },
+      {
+        "sentence": "田中先生はとてもやさしいです。",
+        "chunks": "田中先生は / とても / やさしいです",
+        "guide": "は chủ đề 'thầy Tanaka' → とても nhấn mạnh → です khẳng định tính chất",
+        "translation": "Thầy Tanaka rất hiền."
+      },
+      {
+        "sentence": "今日はかけ算をします。",
+        "chunks": "今日は / かけ算を / します",
+        "guide": "は đặt chủ đề thời gian 'hôm nay' → を đánh dấu đối tượng 'phép nhân' → します hành động",
+        "translation": "Hôm nay làm phép nhân."
+      },
+      {
+        "sentence": "先生は黒板に問題を書きます。",
+        "chunks": "先生は / 黒板に / 問題を / 書きます",
+        "guide": "は chủ đề 'thầy' → に chỉ nơi đến 'bảng đen' → を đánh dấu đối tượng 'bài toán' → ます hành động",
+        "translation": "Thầy viết đề bài lên bảng đen."
+      },
+      {
+        "sentence": "私たちはノートに答えを書きます。",
+        "chunks": "私たちは / ノートに / 答えを / 書きます",
+        "guide": "は chuyển chủ đề → 'chúng tôi' → に chỉ nơi đến 'vở' → を đánh dấu đối tượng 'đáp án' → ます hành động",
+        "translation": "Chúng tôi viết đáp án vào vở."
+      },
+      {
+        "sentence": "算数はむずかしいです。",
+        "chunks": "算数は / むずかしいです",
+        "guide": "は chuyển chủ đề → 'toán' → です khẳng định tính chất 'khó'",
+        "translation": "Toán khó."
+      },
+      {
+        "sentence": "でも、友だちと一緒にべんきょうします。",
+        "chunks": "でも / 友だちと / 一緒に / べんきょうします",
+        "guide": "でも chuyển hướng 'nhưng' → と chỉ cùng ai 'với bạn' → に bổ nghĩa 'cùng nhau' → ます hành động",
+        "translation": "Nhưng cùng học với bạn bè."
+      },
+      {
+        "sentence": "算数の時間は楽しいです。",
+        "chunks": "算数の時間は / 楽しいです",
+        "guide": "は quay lại chủ đề 'giờ toán' → です kết bài bằng cảm nhận tích cực",
+        "translation": "Giờ toán vui."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0043_Q1",
+        "question": "算数の時間はいつですか。",
+        "question_vi": "Giờ toán là khi nào?",
+        "answers": [
+          {
+            "text": "8時から9時までです。",
+            "text_vi": "Từ 8 giờ đến 9 giờ.",
+            "is_correct": false
+          },
+          {
+            "text": "9時から10時までです。",
+            "text_vi": "Từ 9 giờ đến 10 giờ.",
+            "is_correct": true
+          },
+          {
+            "text": "10時から11時までです。",
+            "text_vi": "Từ 10 giờ đến 11 giờ.",
+            "is_correct": false
+          },
+          {
+            "text": "9時から11時までです。",
+            "text_vi": "Từ 9 giờ đến 11 giờ.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 1 nói 「9時から10時までです」→ から chỉ bắt đầu, まで chỉ kết thúc = từ 9 giờ đến 10 giờ."
+      },
+      {
+        "id": "R_0043_Q2",
+        "question": "今日は何をしますか。",
+        "question_vi": "Hôm nay làm gì?",
+        "answers": [
+          {
+            "text": "たし算をします。",
+            "text_vi": "Làm phép cộng.",
+            "is_correct": false
+          },
+          {
+            "text": "ひき算をします。",
+            "text_vi": "Làm phép trừ.",
+            "is_correct": false
+          },
+          {
+            "text": "かけ算をします。",
+            "text_vi": "Làm phép nhân.",
+            "is_correct": true
+          },
+          {
+            "text": "わり算をします。",
+            "text_vi": "Làm phép chia.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 4 nói 「今日はかけ算をします」→ を đánh dấu đối tượng = hôm nay làm phép nhân."
+      }
+    ]
+  },
+  {
+    "id": "R_0044",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "テストの準備",
+    "title_vi": "Chuẩn bị thi",
+    "topic": "school",
+    "subtopic": "thi cử",
+    "tags": [
+      "は",
+      "が",
+      "を",
+      "に",
+      "で",
+      "から",
+      "まで",
+      "も",
+      "です",
+      "ます",
+      "ません"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～を～ます",
+      "～に～ます",
+      "～から～まで",
+      "～も～ます",
+      "～ません"
+    ],
+    "sentence_count": 10,
+    "text": "来週の月曜日にテストがあります。テストは算数と国語です。私は毎日べんきょうします。月曜日から金曜日まで学校でべんきょうします。土曜日は家でべんきょうします。朝9時から12時まで算数をします。午後は国語の本を読みます。日曜日はべんきょうしません。日曜日は友だちと公園に行きます。テストはむずかしいですが、がんばります。",
+    "translation": "Thứ hai tuần sau có bài thi. Bài thi là toán và quốc ngữ. Tôi học mỗi ngày. Từ thứ hai đến thứ sáu học ở trường. Thứ bảy học ở nhà. Từ 9 giờ sáng đến 12 giờ làm toán. Buổi chiều đọc sách quốc ngữ. Chủ nhật không học. Chủ nhật đi công viên với bạn. Bài thi khó nhưng sẽ cố gắng.",
+    "vocabulary": [
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": "tuần sau"
+      },
+      {
+        "word": "テスト",
+        "reading": "テスト",
+        "meaning": "bài thi"
+      },
+      {
+        "word": "準備",
+        "reading": "じゅんび",
+        "meaning": "chuẩn bị"
+      },
+      {
+        "word": "国語",
+        "reading": "こくご",
+        "meaning": "quốc ngữ (tiếng Nhật)"
+      },
+      {
+        "word": "午後",
+        "reading": "ごご",
+        "meaning": "buổi chiều"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "来週の月曜日にテストがあります。",
+        "chunks": "来週の月曜日に / テストが / あります",
+        "guide": "の liên kết 'tuần sau' + 'thứ hai' → に chỉ thời điểm → が chủ ngữ tồn tại 'bài thi' → あります xác nhận có",
+        "translation": "Thứ hai tuần sau có bài thi."
+      },
+      {
+        "sentence": "テストは算数と国語です。",
+        "chunks": "テストは / 算数と国語です",
+        "guide": "は chuyển chủ đề → 'bài thi' → と liệt kê 2 môn → です khẳng định",
+        "translation": "Bài thi là toán và quốc ngữ."
+      },
+      {
+        "sentence": "私は毎日べんきょうします。",
+        "chunks": "私は / 毎日 / べんきょうします",
+        "guide": "は chủ đề 'tôi' → 毎日 bổ nghĩa tần suất → ます hành động",
+        "translation": "Tôi học mỗi ngày."
+      },
+      {
+        "sentence": "月曜日から金曜日まで学校でべんきょうします。",
+        "chunks": "月曜日から / 金曜日まで / 学校で / べんきょうします",
+        "guide": "から bắt đầu 'thứ hai' → まで kết thúc 'thứ sáu' → で chỉ nơi hành động 'ở trường'",
+        "translation": "Từ thứ hai đến thứ sáu học ở trường."
+      },
+      {
+        "sentence": "土曜日は家でべんきょうします。",
+        "chunks": "土曜日は / 家で / べんきょうします",
+        "guide": "は chuyển chủ đề thời gian 'thứ bảy' → で chỉ nơi hành động 'ở nhà'",
+        "translation": "Thứ bảy học ở nhà."
+      },
+      {
+        "sentence": "朝9時から12時まで算数をします。",
+        "chunks": "朝9時から / 12時まで / 算数を / します",
+        "guide": "から bắt đầu '9 giờ sáng' → まで kết thúc '12 giờ' → を đánh dấu đối tượng 'toán'",
+        "translation": "Từ 9 giờ sáng đến 12 giờ làm toán."
+      },
+      {
+        "sentence": "午後は国語の本を読みます。",
+        "chunks": "午後は / 国語の本を / 読みます",
+        "guide": "は chuyển chủ đề thời gian 'buổi chiều' → の liên kết 'quốc ngữ' + 'sách' → を đánh dấu đối tượng",
+        "translation": "Buổi chiều đọc sách quốc ngữ."
+      },
+      {
+        "sentence": "日曜日はべんきょうしません。",
+        "chunks": "日曜日は / べんきょうしません",
+        "guide": "は chủ đề thời gian 'chủ nhật' → ません phủ định = không học",
+        "translation": "Chủ nhật không học."
+      },
+      {
+        "sentence": "日曜日は友だちと公園に行きます。",
+        "chunks": "日曜日は / 友だちと / 公園に / 行きます",
+        "guide": "は tiếp tục chủ đề 'chủ nhật' → と cùng ai 'với bạn' → に đích đến 'công viên'",
+        "translation": "Chủ nhật đi công viên với bạn."
+      },
+      {
+        "sentence": "テストはむずかしいですが、がんばります。",
+        "chunks": "テストは / むずかしいですが / がんばります",
+        "guide": "は quay lại chủ đề 'bài thi' → が chuyển hướng 'nhưng' → ます kết bài bằng quyết tâm",
+        "translation": "Bài thi khó nhưng sẽ cố gắng."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0044_Q1",
+        "question": "テストはいつですか。",
+        "question_vi": "Bài thi khi nào?",
+        "answers": [
+          {
+            "text": "今週の金曜日です。",
+            "text_vi": "Thứ sáu tuần này.",
+            "is_correct": false
+          },
+          {
+            "text": "来週の月曜日です。",
+            "text_vi": "Thứ hai tuần sau.",
+            "is_correct": true
+          },
+          {
+            "text": "来週の水曜日です。",
+            "text_vi": "Thứ tư tuần sau.",
+            "is_correct": false
+          },
+          {
+            "text": "来月の月曜日です。",
+            "text_vi": "Thứ hai tháng sau.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 1 nói 「来週の月曜日にテストがあります」→ に chỉ thời điểm = thứ hai tuần sau."
+      },
+      {
+        "id": "R_0044_Q2",
+        "question": "日曜日は何をしますか。",
+        "question_vi": "Chủ nhật làm gì?",
+        "answers": [
+          {
+            "text": "家でべんきょうします。",
+            "text_vi": "Học ở nhà.",
+            "is_correct": false
+          },
+          {
+            "text": "学校でべんきょうします。",
+            "text_vi": "Học ở trường.",
+            "is_correct": false
+          },
+          {
+            "text": "友だちと公園に行きます。",
+            "text_vi": "Đi công viên với bạn.",
+            "is_correct": true
+          },
+          {
+            "text": "一人で本を読みます。",
+            "text_vi": "Một mình đọc sách.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 8 nói 「日曜日はべんきょうしません」(không học) và câu 9 nói 「友だちと公園に行きます」→ と chỉ cùng ai, に chỉ đích đến = đi công viên với bạn."
+      }
+    ]
+  },
+  {
+    "id": "R_0045",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "最後の日",
+    "title_vi": "Ngày cuối cùng",
+    "topic": "school",
+    "subtopic": "tốt nghiệp",
+    "tags": [
+      "は",
+      "が",
+      "を",
+      "に",
+      "で",
+      "と",
+      "も",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～を～ます",
+      "～に～ます",
+      "～と～ます",
+      "～も～ます",
+      "～で～ます"
+    ],
+    "sentence_count": 10,
+    "text": "今日は学校の最後の日です。卒業式があります。朝、教室で友だちと写真を撮ります。先生も一緒に写真を撮ります。卒業式は体育館であります。校長先生のお話があります。私たちは歌を歌います。友だちはみんな泣きます。私も少し泣きます。この学校が大好きです。",
+    "translation": "Hôm nay là ngày cuối cùng ở trường. Có lễ tốt nghiệp. Buổi sáng, chụp ảnh với bạn bè ở lớp. Thầy cô cũng chụp ảnh cùng. Lễ tốt nghiệp ở nhà thể chất. Có bài phát biểu của thầy hiệu trưởng. Chúng tôi hát bài hát. Bạn bè ai cũng khóc. Tôi cũng khóc một chút. Tôi rất yêu ngôi trường này.",
+    "vocabulary": [
+      {
+        "word": "最後",
+        "reading": "さいご",
+        "meaning": "cuối cùng"
+      },
+      {
+        "word": "卒業式",
+        "reading": "そつぎょうしき",
+        "meaning": "lễ tốt nghiệp"
+      },
+      {
+        "word": "教室",
+        "reading": "きょうしつ",
+        "meaning": "phòng học, lớp học"
+      },
+      {
+        "word": "体育館",
+        "reading": "たいいくかん",
+        "meaning": "nhà thể chất"
+      },
+      {
+        "word": "校長先生",
+        "reading": "こうちょうせんせい",
+        "meaning": "thầy hiệu trưởng"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "今日は学校の最後の日です。",
+        "chunks": "今日は / 学校の最後の日です",
+        "guide": "は đặt chủ đề 'hôm nay' → の liên kết 'trường' + 'ngày cuối' → です khẳng định",
+        "translation": "Hôm nay là ngày cuối cùng ở trường."
+      },
+      {
+        "sentence": "卒業式があります。",
+        "chunks": "卒業式が / あります",
+        "guide": "が chủ ngữ tồn tại 'lễ tốt nghiệp' → あります xác nhận có",
+        "translation": "Có lễ tốt nghiệp."
+      },
+      {
+        "sentence": "朝、教室で友だちと写真を撮ります。",
+        "chunks": "朝 / 教室で / 友だちと / 写真を / 撮ります",
+        "guide": "で chỉ nơi hành động 'ở lớp' → と cùng ai 'với bạn' → を đánh dấu đối tượng 'ảnh' → ます hành động",
+        "translation": "Buổi sáng, chụp ảnh với bạn bè ở lớp."
+      },
+      {
+        "sentence": "先生も一緒に写真を撮ります。",
+        "chunks": "先生も / 一緒に / 写真を / 撮ります",
+        "guide": "も → 'thầy cô cũng' → giống học sinh, cũng chụp ảnh. を đánh dấu đối tượng",
+        "translation": "Thầy cô cũng chụp ảnh cùng."
+      },
+      {
+        "sentence": "卒業式は体育館であります。",
+        "chunks": "卒業式は / 体育館で / あります",
+        "guide": "は chủ đề 'lễ tốt nghiệp' → で chỉ nơi tổ chức 'nhà thể chất' → あります xác nhận",
+        "translation": "Lễ tốt nghiệp ở nhà thể chất."
+      },
+      {
+        "sentence": "校長先生のお話があります。",
+        "chunks": "校長先生のお話が / あります",
+        "guide": "の liên kết 'hiệu trưởng' + 'bài nói' → が chủ ngữ tồn tại → あります xác nhận có",
+        "translation": "Có bài phát biểu của thầy hiệu trưởng."
+      },
+      {
+        "sentence": "私たちは歌を歌います。",
+        "chunks": "私たちは / 歌を / 歌います",
+        "guide": "は chủ đề 'chúng tôi' → を đánh dấu đối tượng 'bài hát' → ます hành động",
+        "translation": "Chúng tôi hát bài hát."
+      },
+      {
+        "sentence": "友だちはみんな泣きます。",
+        "chunks": "友だちは / みんな / 泣きます",
+        "guide": "は chủ đề 'bạn bè' → みんな 'ai cũng' → ます hành động",
+        "translation": "Bạn bè ai cũng khóc."
+      },
+      {
+        "sentence": "私も少し泣きます。",
+        "chunks": "私も / 少し / 泣きます",
+        "guide": "も → 'tôi cũng' → giống bạn bè, cũng khóc. 少し = một chút",
+        "translation": "Tôi cũng khóc một chút."
+      },
+      {
+        "sentence": "この学校が大好きです。",
+        "chunks": "この学校が / 大好きです",
+        "guide": "が đánh dấu đối tượng yêu thích → 大好き nhấn mạnh rất yêu → です kết bài bằng cảm xúc",
+        "translation": "Tôi rất yêu ngôi trường này."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0045_Q1",
+        "question": "卒業式はどこでありますか。",
+        "question_vi": "Lễ tốt nghiệp ở đâu?",
+        "answers": [
+          {
+            "text": "教室であります。",
+            "text_vi": "Ở phòng học.",
+            "is_correct": false
+          },
+          {
+            "text": "体育館であります。",
+            "text_vi": "Ở nhà thể chất.",
+            "is_correct": true
+          },
+          {
+            "text": "公園であります。",
+            "text_vi": "Ở công viên.",
+            "is_correct": false
+          },
+          {
+            "text": "校長先生の部屋であります。",
+            "text_vi": "Ở phòng hiệu trưởng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 5 nói 「卒業式は体育館であります」→ で chỉ nơi tổ chức = nhà thể chất."
+      },
+      {
+        "id": "R_0045_Q2",
+        "question": "だれと写真を撮りますか。",
+        "question_vi": "Chụp ảnh với ai?",
+        "answers": [
+          {
+            "text": "友だちだけと撮ります。",
+            "text_vi": "Chỉ chụp với bạn bè.",
+            "is_correct": false
+          },
+          {
+            "text": "先生だけと撮ります。",
+            "text_vi": "Chỉ chụp với thầy cô.",
+            "is_correct": false
+          },
+          {
+            "text": "友だちと先生と撮ります。",
+            "text_vi": "Chụp với bạn bè và thầy cô.",
+            "is_correct": true
+          },
+          {
+            "text": "校長先生と撮ります。",
+            "text_vi": "Chụp với thầy hiệu trưởng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 3 nói 「友だちと写真を撮ります」 và câu 4 thêm 「先生も一緒に写真を撮ります」→ も cho thấy thầy cô cũng chụp ảnh = chụp với cả bạn bè và thầy cô."
+      }
+    ]
+  },
+  {
+    "id": "R_0046",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "運動会",
+    "title_vi": "Hội thể thao",
+    "topic": "school",
+    "subtopic": "kỷ niệm",
+    "tags": [
+      "は",
+      "が",
+      "を",
+      "に",
+      "で",
+      "と",
+      "も",
+      "より",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～を～ます",
+      "～で～ます",
+      "～と～ます",
+      "～も～ます",
+      "～より～"
+    ],
+    "sentence_count": 10,
+    "text": "今日は運動会です。天気はとてもいいです。赤チームと白チームがあります。私は赤チームです。最初はかけっこです。私は3番です。次に玉入れをします。玉入れは赤チームが白チームより多いです。最後はリレーです。赤チームも白チームもがんばります。",
+    "translation": "Hôm nay là hội thể thao. Thời tiết rất đẹp. Có đội đỏ và đội trắng. Tôi ở đội đỏ. Đầu tiên là chạy thi. Tôi về thứ 3. Tiếp theo là ném bóng vào rổ. Ném bóng vào rổ đội đỏ nhiều hơn đội trắng. Cuối cùng là chạy tiếp sức. Cả đội đỏ và đội trắng đều cố gắng.",
+    "vocabulary": [
+      {
+        "word": "運動会",
+        "reading": "うんどうかい",
+        "meaning": "hội thể thao"
+      },
+      {
+        "word": "チーム",
+        "reading": "チーム",
+        "meaning": "đội"
+      },
+      {
+        "word": "かけっこ",
+        "reading": "かけっこ",
+        "meaning": "chạy thi (trẻ em)"
+      },
+      {
+        "word": "玉入れ",
+        "reading": "たまいれ",
+        "meaning": "ném bóng vào rổ"
+      },
+      {
+        "word": "リレー",
+        "reading": "リレー",
+        "meaning": "chạy tiếp sức"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "今日は運動会です。",
+        "chunks": "今日は / 運動会です",
+        "guide": "は đặt chủ đề 'hôm nay' → です khẳng định = hội thể thao",
+        "translation": "Hôm nay là hội thể thao."
+      },
+      {
+        "sentence": "天気はとてもいいです。",
+        "chunks": "天気は / とても / いいです",
+        "guide": "は chuyển chủ đề → 'thời tiết' → とても nhấn mạnh → です khẳng định",
+        "translation": "Thời tiết rất đẹp."
+      },
+      {
+        "sentence": "赤チームと白チームがあります。",
+        "chunks": "赤チームと白チームが / あります",
+        "guide": "と liệt kê 2 đội → が chủ ngữ tồn tại → あります xác nhận có",
+        "translation": "Có đội đỏ và đội trắng."
+      },
+      {
+        "sentence": "私は赤チームです。",
+        "chunks": "私は / 赤チームです",
+        "guide": "は chủ đề 'tôi' → です khẳng định thuộc đội đỏ",
+        "translation": "Tôi ở đội đỏ."
+      },
+      {
+        "sentence": "最初はかけっこです。",
+        "chunks": "最初は / かけっこです",
+        "guide": "は đặt chủ đề 'đầu tiên' → です khẳng định = chạy thi",
+        "translation": "Đầu tiên là chạy thi."
+      },
+      {
+        "sentence": "私は3番です。",
+        "chunks": "私は / 3番です",
+        "guide": "は chủ đề 'tôi' → です khẳng định thứ hạng = thứ 3",
+        "translation": "Tôi về thứ 3."
+      },
+      {
+        "sentence": "次に玉入れをします。",
+        "chunks": "次に / 玉入れを / します",
+        "guide": "に chỉ thứ tự 'tiếp theo' → を đánh dấu đối tượng 'ném bóng vào rổ' → します hành động",
+        "translation": "Tiếp theo là ném bóng vào rổ."
+      },
+      {
+        "sentence": "玉入れは赤チームが白チームより多いです。",
+        "chunks": "玉入れは / 赤チームが / 白チームより / 多いです",
+        "guide": "は chủ đề 'ném bóng vào rổ' → が chủ ngữ so sánh 'đội đỏ' → より chuẩn so sánh 'hơn đội trắng' → です kết quả",
+        "translation": "Ném bóng vào rổ đội đỏ nhiều hơn đội trắng."
+      },
+      {
+        "sentence": "最後はリレーです。",
+        "chunks": "最後は / リレーです",
+        "guide": "は đặt chủ đề 'cuối cùng' → です khẳng định = chạy tiếp sức",
+        "translation": "Cuối cùng là chạy tiếp sức."
+      },
+      {
+        "sentence": "赤チームも白チームもがんばります。",
+        "chunks": "赤チームも / 白チームも / がんばります",
+        "guide": "も...も → 'cả...cả...' = cả hai đội đều cố gắng. も lặp 2 lần = nhấn mạnh cả hai",
+        "translation": "Cả đội đỏ và đội trắng đều cố gắng."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0046_Q1",
+        "question": "玉入れはどちらのチームが多いですか。",
+        "question_vi": "Ném bóng vào rổ đội nào nhiều hơn?",
+        "answers": [
+          {
+            "text": "白チームが多いです。",
+            "text_vi": "Đội trắng nhiều hơn.",
+            "is_correct": false
+          },
+          {
+            "text": "赤チームが多いです。",
+            "text_vi": "Đội đỏ nhiều hơn.",
+            "is_correct": true
+          },
+          {
+            "text": "同じです。",
+            "text_vi": "Bằng nhau.",
+            "is_correct": false
+          },
+          {
+            "text": "わかりません。",
+            "text_vi": "Không biết.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 8 nói 「赤チームが白チームより多いです」→ より chỉ chuẩn so sánh = đội đỏ nhiều hơn đội trắng."
+      },
+      {
+        "id": "R_0046_Q2",
+        "question": "運動会で最初に何をしますか。",
+        "question_vi": "Hội thể thao đầu tiên làm gì?",
+        "answers": [
+          {
+            "text": "リレーをします。",
+            "text_vi": "Chạy tiếp sức.",
+            "is_correct": false
+          },
+          {
+            "text": "玉入れをします。",
+            "text_vi": "Ném bóng vào rổ.",
+            "is_correct": false
+          },
+          {
+            "text": "かけっこをします。",
+            "text_vi": "Chạy thi.",
+            "is_correct": true
+          },
+          {
+            "text": "サッカーをします。",
+            "text_vi": "Đá bóng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 5 nói 「最初はかけっこです」→ は đặt chủ đề 'đầu tiên' = đầu tiên là chạy thi."
+      }
+    ]
+  },
+  {
+    "id": "R_0047",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "京都に行きます",
+    "title_vi": "Đi Kyoto",
+    "topic": "travel",
+    "subtopic": "lên kế hoạch",
+    "tags": [
+      "は",
+      "を",
+      "に",
+      "で",
+      "へ",
+      "と",
+      "から",
+      "まで",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～に行きます",
+      "～で行きます",
+      "～から～まで",
+      "～を～ます",
+      "～と～ます"
+    ],
+    "sentence_count": 10,
+    "text": "来月、家族と京都へ行きます。東京から京都まで新幹線で行きます。2時間かかります。京都にはお寺がたくさんあります。一日目は金閣寺に行きます。二日目は嵐山に行きます。嵐山で竹の林を見ます。お昼は京都のラーメンを食べます。おみやげも買います。とても楽しみです。",
+    "translation": "Tháng sau, đi Kyoto với gia đình. Từ Tokyo đến Kyoto đi bằng tàu shinkansen. Mất 2 tiếng. Ở Kyoto có nhiều chùa. Ngày đầu tiên đi chùa Kinkakuji. Ngày thứ hai đi Arashiyama. Ở Arashiyama xem rừng tre. Bữa trưa ăn ramen Kyoto. Cũng mua quà lưu niệm. Rất mong chờ.",
+    "vocabulary": [
+      {
+        "word": "新幹線",
+        "reading": "しんかんせん",
+        "meaning": "tàu shinkansen (tàu cao tốc)"
+      },
+      {
+        "word": "金閣寺",
+        "reading": "きんかくじ",
+        "meaning": "chùa Kinkakuji (chùa Vàng)"
+      },
+      {
+        "word": "嵐山",
+        "reading": "あらしやま",
+        "meaning": "Arashiyama (địa danh)"
+      },
+      {
+        "word": "竹",
+        "reading": "たけ",
+        "meaning": "tre"
+      },
+      {
+        "word": "おみやげ",
+        "reading": "おみやげ",
+        "meaning": "quà lưu niệm"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "来月、家族と京都へ行きます。",
+        "chunks": "来月 / 家族と / 京都へ / 行きます",
+        "guide": "と cùng ai 'với gia đình' → へ chỉ hướng đi 'đến Kyoto' → ます hành động",
+        "translation": "Tháng sau, đi Kyoto với gia đình."
+      },
+      {
+        "sentence": "東京から京都まで新幹線で行きます。",
+        "chunks": "東京から / 京都まで / 新幹線で / 行きます",
+        "guide": "から điểm xuất phát 'Tokyo' → まで điểm đến 'Kyoto' → で phương tiện 'bằng shinkansen'",
+        "translation": "Từ Tokyo đến Kyoto đi bằng tàu shinkansen."
+      },
+      {
+        "sentence": "2時間かかります。",
+        "chunks": "2時間 / かかります",
+        "guide": "Bổ sung cho câu trước → かかります = tốn, mất (thời gian)",
+        "translation": "Mất 2 tiếng."
+      },
+      {
+        "sentence": "京都にはお寺がたくさんあります。",
+        "chunks": "京都には / お寺が / たくさん / あります",
+        "guide": "には chỉ nơi tồn tại + nhấn mạnh 'ở Kyoto' → が chủ ngữ tồn tại 'chùa' → あります xác nhận",
+        "translation": "Ở Kyoto có nhiều chùa."
+      },
+      {
+        "sentence": "一日目は金閣寺に行きます。",
+        "chunks": "一日目は / 金閣寺に / 行きます",
+        "guide": "は đặt chủ đề thời gian 'ngày 1' → に đích đến 'Kinkakuji' → ます hành động",
+        "translation": "Ngày đầu tiên đi chùa Kinkakuji."
+      },
+      {
+        "sentence": "二日目は嵐山に行きます。",
+        "chunks": "二日目は / 嵐山に / 行きます",
+        "guide": "は chuyển chủ đề thời gian 'ngày 2' → に đích đến 'Arashiyama'",
+        "translation": "Ngày thứ hai đi Arashiyama."
+      },
+      {
+        "sentence": "嵐山で竹の林を見ます。",
+        "chunks": "嵐山で / 竹の林を / 見ます",
+        "guide": "で chỉ nơi hành động 'ở Arashiyama' → の liên kết 'tre' + 'rừng' → を đánh dấu đối tượng",
+        "translation": "Ở Arashiyama xem rừng tre."
+      },
+      {
+        "sentence": "お昼は京都のラーメンを食べます。",
+        "chunks": "お昼は / 京都のラーメンを / 食べます",
+        "guide": "は chủ đề thời gian 'bữa trưa' → の liên kết 'Kyoto' + 'ramen' → を đánh dấu đối tượng",
+        "translation": "Bữa trưa ăn ramen Kyoto."
+      },
+      {
+        "sentence": "おみやげも買います。",
+        "chunks": "おみやげも / 買います",
+        "guide": "も → 'cũng' → ngoài ăn uống, còn mua quà nữa. ます hành động",
+        "translation": "Cũng mua quà lưu niệm."
+      },
+      {
+        "sentence": "とても楽しみです。",
+        "chunks": "とても / 楽しみです",
+        "guide": "とても nhấn mạnh → です kết bài bằng cảm xúc mong chờ",
+        "translation": "Rất mong chờ."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0047_Q1",
+        "question": "京都まで何で行きますか。",
+        "question_vi": "Đi Kyoto bằng gì?",
+        "answers": [
+          {
+            "text": "バスで行きます。",
+            "text_vi": "Đi bằng xe buýt.",
+            "is_correct": false
+          },
+          {
+            "text": "飛行機で行きます。",
+            "text_vi": "Đi bằng máy bay.",
+            "is_correct": false
+          },
+          {
+            "text": "新幹線で行きます。",
+            "text_vi": "Đi bằng tàu shinkansen.",
+            "is_correct": true
+          },
+          {
+            "text": "車で行きます。",
+            "text_vi": "Đi bằng ô tô.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 2 nói 「新幹線で行きます」→ で chỉ phương tiện = đi bằng tàu shinkansen."
+      },
+      {
+        "id": "R_0047_Q2",
+        "question": "二日目はどこに行きますか。",
+        "question_vi": "Ngày thứ hai đi đâu?",
+        "answers": [
+          {
+            "text": "金閣寺に行きます。",
+            "text_vi": "Đi chùa Kinkakuji.",
+            "is_correct": false
+          },
+          {
+            "text": "嵐山に行きます。",
+            "text_vi": "Đi Arashiyama.",
+            "is_correct": true
+          },
+          {
+            "text": "東京に行きます。",
+            "text_vi": "Đi Tokyo.",
+            "is_correct": false
+          },
+          {
+            "text": "お寺に行きます。",
+            "text_vi": "Đi chùa.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 6 nói 「二日目は嵐山に行きます」→ は chủ đề thời gian 'ngày 2', に chỉ đích đến = Arashiyama."
+      }
+    ]
+  },
+  {
+    "id": "R_0048",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "初めてのホテル",
+    "title_vi": "Khách sạn đầu tiên",
+    "topic": "travel",
+    "subtopic": "khách sạn",
+    "tags": [
+      "は",
+      "が",
+      "を",
+      "に",
+      "で",
+      "から",
+      "まで",
+      "も",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～に～ます",
+      "～から～まで",
+      "～が～あります",
+      "～も～あります",
+      "～で～ます"
+    ],
+    "sentence_count": 10,
+    "text": "家族と大阪のホテルに泊まります。ホテルは駅から5分です。部屋は広いです。ベッドが二つあります。窓から海が見えます。ホテルに大きいお風呂もあります。朝ごはんは7時から9時までです。朝ごはんはレストランで食べます。一泊は8000円です。このホテルはとてもいいです。",
+    "translation": "Ở khách sạn ở Osaka với gia đình. Khách sạn cách ga 5 phút. Phòng rộng. Có hai chiếc giường. Từ cửa sổ nhìn thấy biển. Khách sạn cũng có bồn tắm lớn. Bữa sáng từ 7 giờ đến 9 giờ. Ăn sáng ở nhà hàng. Một đêm 8000 yên. Khách sạn này rất tốt.",
+    "vocabulary": [
+      {
+        "word": "泊まります",
+        "reading": "とまります",
+        "meaning": "ở, nghỉ (khách sạn)"
+      },
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "meaning": "phòng"
+      },
+      {
+        "word": "窓",
+        "reading": "まど",
+        "meaning": "cửa sổ"
+      },
+      {
+        "word": "お風呂",
+        "reading": "おふろ",
+        "meaning": "bồn tắm"
+      },
+      {
+        "word": "一泊",
+        "reading": "いっぱく",
+        "meaning": "một đêm (nghỉ)"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "家族と大阪のホテルに泊まります。",
+        "chunks": "家族と / 大阪のホテルに / 泊まります",
+        "guide": "と cùng ai 'với gia đình' → の liên kết 'Osaka' + 'khách sạn' → に chỉ nơi ở → ます hành động",
+        "translation": "Ở khách sạn ở Osaka với gia đình."
+      },
+      {
+        "sentence": "ホテルは駅から5分です。",
+        "chunks": "ホテルは / 駅から / 5分です",
+        "guide": "は chủ đề 'khách sạn' → から điểm xuất phát 'từ ga' → です khoảng cách",
+        "translation": "Khách sạn cách ga 5 phút."
+      },
+      {
+        "sentence": "部屋は広いです。",
+        "chunks": "部屋は / 広いです",
+        "guide": "は chuyển chủ đề → 'phòng' → です khẳng định tính chất 'rộng'",
+        "translation": "Phòng rộng."
+      },
+      {
+        "sentence": "ベッドが二つあります。",
+        "chunks": "ベッドが / 二つ / あります",
+        "guide": "が chủ ngữ tồn tại 'giường' → 二つ số lượng → あります xác nhận có",
+        "translation": "Có hai chiếc giường."
+      },
+      {
+        "sentence": "窓から海が見えます。",
+        "chunks": "窓から / 海が / 見えます",
+        "guide": "から điểm nhìn 'từ cửa sổ' → が chủ ngữ 'biển' → 見えます tự nhìn thấy",
+        "translation": "Từ cửa sổ nhìn thấy biển."
+      },
+      {
+        "sentence": "ホテルに大きいお風呂もあります。",
+        "chunks": "ホテルに / 大きいお風呂も / あります",
+        "guide": "に chỉ nơi tồn tại 'ở khách sạn' → も 'cũng có' → ngoài phòng, còn có bồn tắm nữa",
+        "translation": "Khách sạn cũng có bồn tắm lớn."
+      },
+      {
+        "sentence": "朝ごはんは7時から9時までです。",
+        "chunks": "朝ごはんは / 7時から / 9時まで / です",
+        "guide": "は chủ đề 'bữa sáng' → から bắt đầu '7 giờ' → まで kết thúc '9 giờ'",
+        "translation": "Bữa sáng từ 7 giờ đến 9 giờ."
+      },
+      {
+        "sentence": "朝ごはんはレストランで食べます。",
+        "chunks": "朝ごはんは / レストランで / 食べます",
+        "guide": "は tiếp tục chủ đề 'bữa sáng' → で chỉ nơi hành động 'ở nhà hàng' → ます hành động",
+        "translation": "Ăn sáng ở nhà hàng."
+      },
+      {
+        "sentence": "一泊は8000円です。",
+        "chunks": "一泊は / 8000円です",
+        "guide": "は chuyển chủ đề → 'một đêm' → です khẳng định giá = 8000 yên",
+        "translation": "Một đêm 8000 yên."
+      },
+      {
+        "sentence": "このホテルはとてもいいです。",
+        "chunks": "このホテルは / とても / いいです",
+        "guide": "は quay lại chủ đề 'khách sạn này' → とても nhấn mạnh → です kết bài bằng đánh giá",
+        "translation": "Khách sạn này rất tốt."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0048_Q1",
+        "question": "一泊はいくらですか。",
+        "question_vi": "Một đêm bao nhiêu tiền?",
+        "answers": [
+          {
+            "text": "5000円です。",
+            "text_vi": "5000 yên.",
+            "is_correct": false
+          },
+          {
+            "text": "6000円です。",
+            "text_vi": "6000 yên.",
+            "is_correct": false
+          },
+          {
+            "text": "8000円です。",
+            "text_vi": "8000 yên.",
+            "is_correct": true
+          },
+          {
+            "text": "10000円です。",
+            "text_vi": "10000 yên.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 9 nói 「一泊は8000円です」→ は chủ đề 'một đêm', です khẳng định giá = 8000 yên."
+      },
+      {
+        "id": "R_0048_Q2",
+        "question": "窓から何が見えますか。",
+        "question_vi": "Từ cửa sổ nhìn thấy gì?",
+        "answers": [
+          {
+            "text": "山が見えます。",
+            "text_vi": "Nhìn thấy núi.",
+            "is_correct": false
+          },
+          {
+            "text": "海が見えます。",
+            "text_vi": "Nhìn thấy biển.",
+            "is_correct": true
+          },
+          {
+            "text": "公園が見えます。",
+            "text_vi": "Nhìn thấy công viên.",
+            "is_correct": false
+          },
+          {
+            "text": "駅が見えます。",
+            "text_vi": "Nhìn thấy ga.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 5 nói 「窓から海が見えます」→ から chỉ điểm nhìn 'từ cửa sổ', が chủ ngữ = nhìn thấy biển."
+      }
+    ]
+  },
+  {
+    "id": "R_0049",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "駅への道",
+    "title_vi": "Đường đến ga",
+    "topic": "travel",
+    "subtopic": "hỏi đường",
+    "tags": [
+      "は",
+      "が",
+      "を",
+      "に",
+      "で",
+      "へ",
+      "まで",
+      "から",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～を～ます",
+      "～に～あります",
+      "～へ行きます",
+      "～まで～ます",
+      "～から～ます",
+      "～たいです",
+      "～と言います"
+    ],
+    "sentence_count": 9,
+    "text": "私は駅へ行きたいです。でも、道がわかりません。おまわりさんに聞きます。おまわりさんは「この道をまっすぐ行きます」と言います。「大きいコンビニがあります」と言います。「コンビニから右に曲がります」と言います。「駅まで5分です」と言います。私は「ありがとうございます」と言います。駅への道はかんたんです。",
+    "translation": "Tôi muốn đi ga. Nhưng không biết đường. Hỏi anh cảnh sát. Anh cảnh sát nói \"Đi thẳng con đường này\". Anh nói \"Có cửa hàng tiện lợi lớn\". Anh nói \"Từ cửa hàng tiện lợi rẽ phải\". Anh nói \"Đến ga 5 phút\". Tôi nói \"Cảm ơn ạ\". Đường đến ga đơn giản.",
+    "vocabulary": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "meaning": "đường"
+      },
+      {
+        "word": "おまわりさん",
+        "reading": "おまわりさん",
+        "meaning": "anh cảnh sát"
+      },
+      {
+        "word": "まっすぐ",
+        "reading": "まっすぐ",
+        "meaning": "thẳng"
+      },
+      {
+        "word": "右",
+        "reading": "みぎ",
+        "meaning": "bên phải"
+      },
+      {
+        "word": "曲がります",
+        "reading": "まがります",
+        "meaning": "rẽ, quẹo"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "私は駅へ行きたいです。",
+        "chunks": "私は / 駅へ / 行きたいです",
+        "guide": "は chủ đề 'tôi' → へ hướng đi 'ga' → たいです muốn làm",
+        "translation": "Tôi muốn đi ga."
+      },
+      {
+        "sentence": "でも、道がわかりません。",
+        "chunks": "でも / 道が / わかりません",
+        "guide": "でも chuyển hướng 'nhưng' → が chủ ngữ 'đường' → ません phủ định = không biết",
+        "translation": "Nhưng không biết đường."
+      },
+      {
+        "sentence": "おまわりさんに聞きます。",
+        "chunks": "おまわりさんに / 聞きます",
+        "guide": "に chỉ đối tượng hỏi 'anh cảnh sát' → ます hành động",
+        "translation": "Hỏi anh cảnh sát."
+      },
+      {
+        "sentence": "おまわりさんは「この道をまっすぐ行きます」と言います。",
+        "chunks": "おまわりさんは / 「この道を / まっすぐ / 行きます」と / 言います",
+        "guide": "は chủ đề 'anh cảnh sát' → を chỉ đường đi qua 'con đường này' → まっすぐ hướng 'thẳng' → と trích dẫn lời nói",
+        "translation": "Anh cảnh sát nói \"Đi thẳng con đường này\"."
+      },
+      {
+        "sentence": "「大きいコンビニがあります」と言います。",
+        "chunks": "「大きいコンビニが / あります」と / 言います",
+        "guide": "が chủ ngữ tồn tại 'cửa hàng tiện lợi lớn' → あります xác nhận có → と trích dẫn",
+        "translation": "Anh nói \"Có cửa hàng tiện lợi lớn\"."
+      },
+      {
+        "sentence": "「コンビニから右に曲がります」と言います。",
+        "chunks": "「コンビニから / 右に / 曲がります」と / 言います",
+        "guide": "から điểm xuất phát 'từ cửa hàng' → に hướng 'phải' → ます hành động rẽ → と trích dẫn",
+        "translation": "Anh nói \"Từ cửa hàng tiện lợi rẽ phải\"."
+      },
+      {
+        "sentence": "「駅まで5分です」と言います。",
+        "chunks": "「駅まで / 5分です」と / 言います",
+        "guide": "まで đích đến 'đến ga' → です khẳng định khoảng cách → と trích dẫn",
+        "translation": "Anh nói \"Đến ga 5 phút\"."
+      },
+      {
+        "sentence": "私は「ありがとうございます」と言います。",
+        "chunks": "私は / 「ありがとうございます」と / 言います",
+        "guide": "は chủ đề 'tôi' → と trích dẫn lời nói → ます hành động",
+        "translation": "Tôi nói \"Cảm ơn ạ\"."
+      },
+      {
+        "sentence": "駅への道はかんたんです。",
+        "chunks": "駅への道は / かんたんです",
+        "guide": "へ hướng 'đến ga' → の liên kết với 'đường' → は đặt chủ đề → です kết bài bằng nhận xét",
+        "translation": "Đường đến ga đơn giản."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0049_Q1",
+        "question": "駅まで何分ですか。",
+        "question_vi": "Đến ga mấy phút?",
+        "answers": [
+          {
+            "text": "3分です。",
+            "text_vi": "3 phút.",
+            "is_correct": false
+          },
+          {
+            "text": "5分です。",
+            "text_vi": "5 phút.",
+            "is_correct": true
+          },
+          {
+            "text": "10分です。",
+            "text_vi": "10 phút.",
+            "is_correct": false
+          },
+          {
+            "text": "15分です。",
+            "text_vi": "15 phút.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Trong lời chỉ đường, anh cảnh sát nói 「駅まで5分です」→ まで chỉ đích đến = đến ga 5 phút."
+      },
+      {
+        "id": "R_0049_Q2",
+        "question": "コンビニからどちらに曲がりますか。",
+        "question_vi": "Từ cửa hàng tiện lợi rẽ hướng nào?",
+        "answers": [
+          {
+            "text": "左に曲がります。",
+            "text_vi": "Rẽ trái.",
+            "is_correct": false
+          },
+          {
+            "text": "右に曲がります。",
+            "text_vi": "Rẽ phải.",
+            "is_correct": true
+          },
+          {
+            "text": "まっすぐ行きます。",
+            "text_vi": "Đi thẳng.",
+            "is_correct": false
+          },
+          {
+            "text": "後ろに曲がります。",
+            "text_vi": "Quay lại phía sau.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Trong lời chỉ đường nói 「コンビニから右に曲がります」→ から điểm xuất phát 'từ cửa hàng', に hướng = rẽ phải."
+      }
+    ]
+  },
+  {
+    "id": "R_0050",
+    "level": 2,
+    "level_label": "N5_advanced",
+    "jlpt": "N5",
+    "title": "初めての電車",
+    "title_vi": "Lần đầu đi tàu điện",
+    "topic": "travel",
+    "subtopic": "trải nghiệm",
+    "tags": [
+      "は",
+      "が",
+      "を",
+      "に",
+      "で",
+      "から",
+      "まで",
+      "も",
+      "だけ",
+      "です",
+      "ます"
+    ],
+    "grammar_used": [
+      "～は～です",
+      "～を～ます",
+      "～に～ます",
+      "～で～ます",
+      "～から～まで",
+      "～も～ます",
+      "～だけ～"
+    ],
+    "sentence_count": 10,
+    "text": "今日、初めて一人で電車に乗ります。駅で切符を買います。切符は200円だけです。電車は3番ホームから出ます。電車の中は人が多いです。私は立ちます。窓から町を見ます。駅は五つ目です。10分で着きます。一人の電車はちょっとこわいですが、楽しいです。",
+    "translation": "Hôm nay, lần đầu tiên một mình đi tàu điện. Mua vé ở ga. Vé chỉ 200 yên thôi. Tàu xuất phát từ sân ga số 3. Trong tàu nhiều người. Tôi đứng. Nhìn thành phố qua cửa sổ. Ga thứ năm thì xuống. 10 phút là tới. Đi tàu một mình hơi sợ nhưng vui.",
+    "vocabulary": [
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "tàu điện"
+      },
+      {
+        "word": "切符",
+        "reading": "きっぷ",
+        "meaning": "vé"
+      },
+      {
+        "word": "ホーム",
+        "reading": "ホーム",
+        "meaning": "sân ga"
+      },
+      {
+        "word": "立ちます",
+        "reading": "たちます",
+        "meaning": "đứng"
+      },
+      {
+        "word": "着きます",
+        "reading": "つきます",
+        "meaning": "đến nơi"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "今日、初めて一人で電車に乗ります。",
+        "chunks": "今日 / 初めて / 一人で / 電車に / 乗ります",
+        "guide": "で chỉ cách thức 'một mình' → に đích đến / đối tượng 'tàu' → ます hành động lên tàu",
+        "translation": "Hôm nay, lần đầu tiên một mình đi tàu điện."
+      },
+      {
+        "sentence": "駅で切符を買います。",
+        "chunks": "駅で / 切符を / 買います",
+        "guide": "で chỉ nơi hành động 'ở ga' → を đánh dấu đối tượng 'vé' → ます hành động",
+        "translation": "Mua vé ở ga."
+      },
+      {
+        "sentence": "切符は200円だけです。",
+        "chunks": "切符は / 200円だけです",
+        "guide": "は chủ đề 'vé' → だけ giới hạn 'chỉ' → です khẳng định = chỉ 200 yên thôi",
+        "translation": "Vé chỉ 200 yên thôi."
+      },
+      {
+        "sentence": "電車は3番ホームから出ます。",
+        "chunks": "電車は / 3番ホームから / 出ます",
+        "guide": "は chủ đề 'tàu' → から điểm xuất phát 'từ sân ga số 3' → ます hành động",
+        "translation": "Tàu xuất phát từ sân ga số 3."
+      },
+      {
+        "sentence": "電車の中は人が多いです。",
+        "chunks": "電車の中は / 人が / 多いです",
+        "guide": "の liên kết 'tàu' + 'trong' → は đặt chủ đề → が chủ ngữ 'người' → です tính chất 'nhiều'",
+        "translation": "Trong tàu nhiều người."
+      },
+      {
+        "sentence": "私は立ちます。",
+        "chunks": "私は / 立ちます",
+        "guide": "は chủ đề 'tôi' → ます hành động đứng (vì không có chỗ ngồi)",
+        "translation": "Tôi đứng."
+      },
+      {
+        "sentence": "窓から町を見ます。",
+        "chunks": "窓から / 町を / 見ます",
+        "guide": "から điểm nhìn 'từ cửa sổ' → を đánh dấu đối tượng 'thành phố' → ます hành động",
+        "translation": "Nhìn thành phố qua cửa sổ."
+      },
+      {
+        "sentence": "駅は五つ目です。",
+        "chunks": "駅は / 五つ目です",
+        "guide": "は chủ đề 'ga (cần xuống)' → です khẳng định = ga thứ 5",
+        "translation": "Ga thứ năm thì xuống."
+      },
+      {
+        "sentence": "10分で着きます。",
+        "chunks": "10分で / 着きます",
+        "guide": "で chỉ thời gian cần dùng '10 phút' → ます hành động đến nơi",
+        "translation": "10 phút là tới."
+      },
+      {
+        "sentence": "一人の電車はちょっとこわいですが、楽しいです。",
+        "chunks": "一人の電車は / ちょっと / こわいですが / 楽しいです",
+        "guide": "の liên kết 'một mình' + 'tàu' → は chủ đề → が chuyển hướng 'nhưng' → です kết bài bằng 2 cảm xúc đối lập",
+        "translation": "Đi tàu một mình hơi sợ nhưng vui."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0050_Q1",
+        "question": "切符はいくらですか。",
+        "question_vi": "Vé bao nhiêu tiền?",
+        "answers": [
+          {
+            "text": "100円です。",
+            "text_vi": "100 yên.",
+            "is_correct": false
+          },
+          {
+            "text": "200円です。",
+            "text_vi": "200 yên.",
+            "is_correct": true
+          },
+          {
+            "text": "300円です。",
+            "text_vi": "300 yên.",
+            "is_correct": false
+          },
+          {
+            "text": "500円です。",
+            "text_vi": "500 yên.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 3 nói 「切符は200円だけです」→ だけ nhấn mạnh 'chỉ' = vé chỉ 200 yên thôi."
+      },
+      {
+        "id": "R_0050_Q2",
+        "question": "電車は何番ホームから出ますか。",
+        "question_vi": "Tàu xuất phát từ sân ga số mấy?",
+        "answers": [
+          {
+            "text": "1番ホームから出ます。",
+            "text_vi": "Từ sân ga số 1.",
+            "is_correct": false
+          },
+          {
+            "text": "2番ホームから出ます。",
+            "text_vi": "Từ sân ga số 2.",
+            "is_correct": false
+          },
+          {
+            "text": "3番ホームから出ます。",
+            "text_vi": "Từ sân ga số 3.",
+            "is_correct": true
+          },
+          {
+            "text": "5番ホームから出ます。",
+            "text_vi": "Từ sân ga số 5.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 4 nói 「電車は3番ホームから出ます」→ から chỉ điểm xuất phát = sân ga số 3."
+      }
+    ]
+  }
+]

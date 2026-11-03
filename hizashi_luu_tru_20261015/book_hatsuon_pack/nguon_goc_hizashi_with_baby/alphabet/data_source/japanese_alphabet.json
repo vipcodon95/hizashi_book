@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Bảng chữ cái tiếng Nhật - Hiragana & Katakana",
+    "total_characters": 46,
+    "categories": ["vowel", "consonant", "dakuon", "handakuon", "yoon", "special"]
+  },
+  "alphabet": {
+    "vowel": {
+      "name_vi": "Nguyên âm",
+      "name_jp": "母音",
+      "characters": [
+        { "hiragana": "あ", "katakana": "ア", "romaji": "a", "ipa": "a", "mora": 1 },
+        { "hiragana": "い", "katakana": "イ", "romaji": "i", "ipa": "i", "mora": 1 },
+        { "hiragana": "う", "katakana": "ウ", "romaji": "u", "ipa": "ɯ", "mora": 1 },
+        { "hiragana": "え", "katakana": "エ", "romaji": "e", "ipa": "e", "mora": 1 },
+        { "hiragana": "お", "katakana": "オ", "romaji": "o", "ipa": "o", "mora": 1 }
+      ]
+    },
+    "consonant": {
+      "name_vi": "Phụ âm",
+      "name_jp": "子音",
+      "rows": {
+        "k": {
+          "name": "ka-gyou",
+          "name_jp": "か行",
+          "characters": [
+            { "hiragana": "か", "katakana": "カ", "romaji": "ka", "ipa": "ka", "mora": 1 },
+            { "hiragana": "き", "katakana": "キ", "romaji": "ki", "ipa": "ki", "mora": 1 },
+            { "hiragana": "く", "katakana": "ク", "romaji": "ku", "ipa": "kɯ", "mora": 1 },
+            { "hiragana": "け", "katakana": "ケ", "romaji": "ke", "ipa": "ke", "mora": 1 },
+            { "hiragana": "こ", "katakana": "コ", "romaji": "ko", "ipa": "ko", "mora": 1 }
+          ]
+        },
+        "s": {
+          "name": "sa-gyou",
+          "name_jp": "さ行",
+          "characters": [
+            { "hiragana": "さ", "katakana": "サ", "romaji": "sa", "ipa": "sa", "mora": 1 },
+            { "hiragana": "し", "katakana": "シ", "romaji": "shi", "ipa": "ɕi", "mora": 1, "note": "Âm khó" },
+            { "hiragana": "す", "katakana": "ス", "romaji": "su", "ipa": "sɯ", "mora": 1 },
+            { "hiragana": "せ", "katakana": "セ", "romaji": "se", "ipa": "se", "mora": 1 },
+            { "hiragana": "そ", "katakana": "ソ", "romaji": "so", "ipa": "so", "mora": 1 }
+          ]
+        },
+        "t": {
+          "name": "ta-gyou",
+          "name_jp": "た行",
+          "characters": [
+            { "hiragana": "た", "katakana": "タ", "romaji": "ta", "ipa": "ta", "mora": 1 },
+            { "hiragana": "ち", "katakana": "チ", "romaji": "chi", "ipa": "tɕi", "mora": 1 },
+            { "hiragana": "つ", "katakana": "ツ", "romaji": "tsu", "ipa": "tsɯ", "mora": 1, "note": "Âm khó" },
+            { "hiragana": "て", "katakana": "テ", "romaji": "te", "ipa": "te", "mora": 1 },
+            { "hiragana": "と", "katakana": "ト", "romaji": "to", "ipa": "to", "mora": 1 }
+          ]
+        },
+        "n": {
+          "name": "na-gyou",
+          "name_jp": "な行",
+          "characters": [
+            { "hiragana": "な", "katakana": "ナ", "romaji": "na", "ipa": "na", "mora": 1 },
+            { "hiragana": "に", "katakana": "ニ", "romaji": "ni", "ipa": "ɲi", "mora": 1 },
+            { "hiragana": "ぬ", "katakana": "ヌ", "romaji": "nu", "ipa": "nɯ", "mora": 1 },
+            { "hiragana": "ね", "katakana": "ネ", "romaji": "ne", "ipa": "ne", "mora": 1 },
+            { "hiragana": "の", "katakana": "ノ", "romaji": "no", "ipa": "no", "mora": 1 }
+          ]
+        },
+        "h": {
+          "name": "ha-gyou",
+          "name_jp": "は行",
+          "characters": [
+            { "hiragana": "は", "katakana": "ハ", "romaji": "ha", "ipa": "ha", "mora": 1 },
+            { "hiragana": "ひ", "katakana": "ヒ", "romaji": "hi", "ipa": "çi", "mora": 1 },
+            { "hiragana": "ふ", "katakana": "フ", "romaji": "fu", "ipa": "ɸɯ", "mora": 1, "note": "Âm khó - không phải hu hay phu" },
+            { "hiragana": "へ", "katakana": "ヘ", "romaji": "he", "ipa": "he", "mora": 1 },
+            { "hiragana": "ほ", "katakana": "ホ", "romaji": "ho", "ipa": "ho", "mora": 1 }
+          ]
+        },
+        "m": {
+          "name": "ma-gyou",
+          "name_jp": "ま行",
+          "characters": [
+            { "hiragana": "ま", "katakana": "マ", "romaji": "ma", "ipa": "ma", "mora": 1 },
+            { "hiragana": "み", "katakana": "ミ", "romaji": "mi", "ipa": "mi", "mora": 1 },
+            { "hiragana": "む", "katakana": "ム", "romaji": "mu", "ipa": "mɯ", "mora": 1 },
+            { "hiragana": "め", "katakana": "メ", "romaji": "me", "ipa": "me", "mora": 1 },
+            { "hiragana": "も", "katakana": "モ", "romaji": "mo", "ipa": "mo", "mora": 1 }
+          ]
+        },
+        "y": {
+          "name": "ya-gyou",
+          "name_jp": "や行",
+          "characters": [
+            { "hiragana": "や", "katakana": "ヤ", "romaji": "ya", "ipa": "ja", "mora": 1 },
+            { "hiragana": "ゆ", "katakana": "ユ", "romaji": "yu", "ipa": "jɯ", "mora": 1 },
+            { "hiragana": "よ", "katakana": "ヨ", "romaji": "yo", "ipa": "jo", "mora": 1 }
+          ]
+        },
+        "r": {
+          "name": "ra-gyou",
+          "name_jp": "ら行",
+          "note": "Âm r tiếng Nhật khác hoàn toàn r/l tiếng Việt - đầu lưỡi chạm nhẹ vòm miệng",
+          "characters": [
+            { "hiragana": "ら", "katakana": "ラ", "romaji": "ra", "ipa": "ɾa", "mora": 1, "note": "Âm khó" },
+            { "hiragana": "り", "katakana": "リ", "romaji": "ri", "ipa": "ɾi", "mora": 1, "note": "Âm khó" },
+            { "hiragana": "る", "katakana": "ル", "romaji": "ru", "ipa": "ɾɯ", "mora": 1, "note": "Âm khó" },
+            { "hiragana": "れ", "katakana": "レ", "romaji": "re", "ipa": "ɾe", "mora": 1, "note": "Âm khó" },
+            { "hiragana": "ろ", "katakana": "ロ", "romaji": "ro", "ipa": "ɾo", "mora": 1, "note": "Âm khó" }
+          ]
+        },
+        "w": {
+          "name": "wa-gyou",
+          "name_jp": "わ行",
+          "characters": [
+            { "hiragana": "わ", "katakana": "ワ", "romaji": "wa", "ipa": "wa", "mora": 1 },
+            { "hiragana": "を", "katakana": "ヲ", "romaji": "wo", "ipa": "o", "mora": 1, "note": "Chỉ dùng làm trợ từ, phát âm như お" }
+          ]
+        }
+      }
+    },
+    "special": {
+      "name_vi": "Mora đặc biệt",
+      "name_jp": "特殊拍",
+      "characters": [
+        {
+          "hiragana": "ん",
+          "katakana": "ン",
+          "romaji": "n",
+          "ipa": ["n", "m", "ŋ", "ɴ"],
+          "mora": 1,
+          "note": "Phát âm thay đổi theo âm đứng sau: n/m/ng/N",
+          "variants": [
+            { "context": "trước m, b, p", "ipa": "m", "example": "さんぽ (sampo)" },
+            { "context": "trước k, g", "ipa": "ŋ", "example": "さんか (saŋka)" },
+            { "context": "trước n, t, d", "ipa": "n", "example": "さんねん (sannen)" },
+            { "context": "cuối từ hoặc trước nguyên âm", "ipa": "ɴ", "example": "にほん (nihoɴ)" }
+          ]
+        },
+        {
+          "hiragana": "っ",
+          "katakana": "ッ",
+          "romaji": "Q",
+          "ipa": "ʔ",
+          "mora": 1,
+          "name_vi": "Âm ngắt (Sokuon)",
+          "name_jp": "促音",
+          "note": "Tạo khoảng lặng ngắn, gấp đôi phụ âm sau"
+        },
+        {
+          "hiragana": "ー",
+          "katakana": "ー",
+          "romaji": ":",
+          "mora": 1,
+          "name_vi": "Trường âm",
+          "name_jp": "長音",
+          "note": "Kéo dài nguyên âm trước đó thêm 1 mora"
+        }
+      ]
+    },
+    "dakuon": {
+      "name_vi": "Âm đục",
+      "name_jp": "濁音",
+      "note": "Thêm dấu ゛ (dakuten) vào âm gốc",
+      "rows": {
+        "g": {
+          "name": "ga-gyou",
+          "name_jp": "が行",
+          "base": "k",
+          "characters": [
+            { "hiragana": "が", "katakana": "ガ", "romaji": "ga", "ipa": "ga", "mora": 1 },
+            { "hiragana": "ぎ", "katakana": "ギ", "romaji": "gi", "ipa": "gi", "mora": 1 },
+            { "hiragana": "ぐ", "katakana": "グ", "romaji": "gu", "ipa": "gɯ", "mora": 1 },
+            { "hiragana": "げ", "katakana": "ゲ", "romaji": "ge", "ipa": "ge", "mora": 1 },
+            { "hiragana": "ご", "katakana": "ゴ", "romaji": "go", "ipa": "go", "mora": 1 }
+          ]
+        },
+        "z": {
+          "name": "za-gyou",
+          "name_jp": "ざ行",
+          "base": "s",
+          "characters": [
+            { "hiragana": "ざ", "katakana": "ザ", "romaji": "za", "ipa": "za", "mora": 1 },
+            { "hiragana": "じ", "katakana": "ジ", "romaji": "ji", "ipa": "dʑi", "mora": 1 },
+            { "hiragana": "ず", "katakana": "ズ", "romaji": "zu", "ipa": "zɯ", "mora": 1 },
+            { "hiragana": "ぜ", "katakana": "ゼ", "romaji": "ze", "ipa": "ze", "mora": 1 },
+            { "hiragana": "ぞ", "katakana": "ゾ", "romaji": "zo", "ipa": "zo", "mora": 1 }
+          ]
+        },
+        "d": {
+          "name": "da-gyou",
+          "name_jp": "だ行",
+          "base": "t",
+          "characters": [
+            { "hiragana": "だ", "katakana": "ダ", "romaji": "da", "ipa": "da", "mora": 1 },
+            { "hiragana": "ぢ", "katakana": "ヂ", "romaji": "ji", "ipa": "dʑi", "mora": 1, "note": "Phát âm giống じ" },
+            { "hiragana": "づ", "katakana": "ヅ", "romaji": "zu", "ipa": "zɯ", "mora": 1, "note": "Phát âm giống ず" },
+            { "hiragana": "で", "katakana": "デ", "romaji": "de", "ipa": "de", "mora": 1 },
+            { "hiragana": "ど", "katakana": "ド", "romaji": "do", "ipa": "do", "mora": 1 }
+          ]
+        },
+        "b": {
+          "name": "ba-gyou",
+          "name_jp": "ば行",
+          "base": "h",
+          "characters": [
+            { "hiragana": "ば", "katakana": "バ", "romaji": "ba", "ipa": "ba", "mora": 1 },
+            { "hiragana": "び", "katakana": "ビ", "romaji": "bi", "ipa": "bi", "mora": 1 },
+            { "hiragana": "ぶ", "katakana": "ブ", "romaji": "bu", "ipa": "bɯ", "mora": 1 },
+            { "hiragana": "べ", "katakana": "ベ", "romaji": "be", "ipa": "be", "mora": 1 },
+            { "hiragana": "ぼ", "katakana": "ボ", "romaji": "bo", "ipa": "bo", "mora": 1 }
+          ]
+        }
+      }
+    },
+    "handakuon": {
+      "name_vi": "Âm bán đục",
+      "name_jp": "半濁音",
+      "note": "Thêm dấu ゜ (handakuten) vào は行",
+      "rows": {
+        "p": {
+          "name": "pa-gyou",
+          "name_jp": "ぱ行",
+          "base": "h",
+          "characters": [
+            { "hiragana": "ぱ", "katakana": "パ", "romaji": "pa", "ipa": "pa", "mora": 1 },
+            { "hiragana": "ぴ", "katakana": "ピ", "romaji": "pi", "ipa": "pi", "mora": 1 },
+            { "hiragana": "ぷ", "katakana": "プ", "romaji": "pu", "ipa": "pɯ", "mora": 1 },
+            { "hiragana": "ぺ", "katakana": "ペ", "romaji": "pe", "ipa": "pe", "mora": 1 },
+            { "hiragana": "ぽ", "katakana": "ポ", "romaji": "po", "ipa": "po", "mora": 1 }
+          ]
+        }
+      }
+    },
+    "yoon": {
+      "name_vi": "Âm ghép",
+      "name_jp": "拗音",
+      "note": "Kết hợp âm i-đoạn với ya/yu/yo nhỏ, tạo thành 1 mora",
+      "rows": {
+        "ky": {
+          "name": "kya-gyou",
+          "base": "ki",
+          "characters": [
+            { "hiragana": "きゃ", "katakana": "キャ", "romaji": "kya", "ipa": "kʲa", "mora": 1 },
+            { "hiragana": "きゅ", "katakana": "キュ", "romaji": "kyu", "ipa": "kʲɯ", "mora": 1 },
+            { "hiragana": "きょ", "katakana": "キョ", "romaji": "kyo", "ipa": "kʲo", "mora": 1 }
+          ]
+        },
+        "gy": {
+          "name": "gya-gyou",
+          "base": "gi",
+          "characters": [
+            { "hiragana": "ぎゃ", "katakana": "ギャ", "romaji": "gya", "ipa": "gʲa", "mora": 1 },
+            { "hiragana": "ぎゅ", "katakana": "ギュ", "romaji": "gyu", "ipa": "gʲɯ", "mora": 1 },
+            { "hiragana": "ぎょ", "katakana": "ギョ", "romaji": "gyo", "ipa": "gʲo", "mora": 1 }
+          ]
+        },
+        "sh": {
+          "name": "sha-gyou",
+          "base": "shi",
+          "characters": [
+            { "hiragana": "しゃ", "katakana": "シャ", "romaji": "sha", "ipa": "ɕa", "mora": 1 },
+            { "hiragana": "しゅ", "katakana": "シュ", "romaji": "shu", "ipa": "ɕɯ", "mora": 1 },
+            { "hiragana": "しょ", "katakana": "ショ", "romaji": "sho", "ipa": "ɕo", "mora": 1 }
+          ]
+        },
+        "j": {
+          "name": "ja-gyou",
+          "base": "ji",
+          "characters": [
+            { "hiragana": "じゃ", "katakana": "ジャ", "romaji": "ja", "ipa": "dʑa", "mora": 1 },
+            { "hiragana": "じゅ", "katakana": "ジュ", "romaji": "ju", "ipa": "dʑɯ", "mora": 1 },
+            { "hiragana": "じょ", "katakana": "ジョ", "romaji": "jo", "ipa": "dʑo", "mora": 1 }
+          ]
+        },
+        "ch": {
+          "name": "cha-gyou",
+          "base": "chi",
+          "characters": [
+            { "hiragana": "ちゃ", "katakana": "チャ", "romaji": "cha", "ipa": "tɕa", "mora": 1 },
+            { "hiragana": "ちゅ", "katakana": "チュ", "romaji": "chu", "ipa": "tɕɯ", "mora": 1 },
+            { "hiragana": "ちょ", "katakana": "チョ", "romaji": "cho", "ipa": "tɕo", "mora": 1 }
+          ]
+        },
+        "ny": {
+          "name": "nya-gyou",
+          "base": "ni",
+          "characters": [
+            { "hiragana": "にゃ", "katakana": "ニャ", "romaji": "nya", "ipa": "ɲa", "mora": 1 },
+            { "hiragana": "にゅ", "katakana": "ニュ", "romaji": "nyu", "ipa": "ɲɯ", "mora": 1 },
+            { "hiragana": "にょ", "katakana": "ニョ", "romaji": "nyo", "ipa": "ɲo", "mora": 1 }
+          ]
+        },
+        "hy": {
+          "name": "hya-gyou",
+          "base": "hi",
+          "characters": [
+            { "hiragana": "ひゃ", "katakana": "ヒャ", "romaji": "hya", "ipa": "ça", "mora": 1 },
+            { "hiragana": "ひゅ", "katakana": "ヒュ", "romaji": "hyu", "ipa": "çɯ", "mora": 1 },
+            { "hiragana": "ひょ", "katakana": "ヒョ", "romaji": "hyo", "ipa": "ço", "mora": 1 }
+          ]
+        },
+        "by": {
+          "name": "bya-gyou",
+          "base": "bi",
+          "characters": [
+            { "hiragana": "びゃ", "katakana": "ビャ", "romaji": "bya", "ipa": "bʲa", "mora": 1 },
+            { "hiragana": "びゅ", "katakana": "ビュ", "romaji": "byu", "ipa": "bʲɯ", "mora": 1 },
+            { "hiragana": "びょ", "katakana": "ビョ", "romaji": "byo", "ipa": "bʲo", "mora": 1 }
+          ]
+        },
+        "py": {
+          "name": "pya-gyou",
+          "base": "pi",
+          "characters": [
+            { "hiragana": "ぴゃ", "katakana": "ピャ", "romaji": "pya", "ipa": "pʲa", "mora": 1 },
+            { "hiragana": "ぴゅ", "katakana": "ピュ", "romaji": "pyu", "ipa": "pʲɯ", "mora": 1 },
+            { "hiragana": "ぴょ", "katakana": "ピョ", "romaji": "pyo", "ipa": "pʲo", "mora": 1 }
+          ]
+        },
+        "my": {
+          "name": "mya-gyou",
+          "base": "mi",
+          "characters": [
+            { "hiragana": "みゃ", "katakana": "ミャ", "romaji": "mya", "ipa": "mʲa", "mora": 1 },
+            { "hiragana": "みゅ", "katakana": "ミュ", "romaji": "myu", "ipa": "mʲɯ", "mora": 1 },
+            { "hiragana": "みょ", "katakana": "ミョ", "romaji": "myo", "ipa": "mʲo", "mora": 1 }
+          ]
+        },
+        "ry": {
+          "name": "rya-gyou",
+          "base": "ri",
+          "characters": [
+            { "hiragana": "りゃ", "katakana": "リャ", "romaji": "rya", "ipa": "ɾʲa", "mora": 1 },
+            { "hiragana": "りゅ", "katakana": "リュ", "romaji": "ryu", "ipa": "ɾʲɯ", "mora": 1 },
+            { "hiragana": "りょ", "katakana": "リョ", "romaji": "ryo", "ipa": "ɾʲo", "mora": 1 }
+          ]
+        }
+      }
+    }
+  }
+}

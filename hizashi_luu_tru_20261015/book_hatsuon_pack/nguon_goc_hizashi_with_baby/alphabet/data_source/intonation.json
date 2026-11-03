@@ -1,0 +1,500 @@
+{
+  "metadata": {
+    "title": "Ngữ điệu câu tiếng Nhật",
+    "title_jp": "イントネーション",
+    "description": "Cách lên xuống giọng trong câu - Quan trọng để hiểu ý định người nói",
+    "difference_from_pitch": "Pitch accent = cao độ từng từ, Intonation = cao độ toàn câu",
+    "version": "1.0"
+  },
+
+  "basics": {
+    "what_is_intonation": {
+      "description": "Intonation là sự thay đổi cao độ ở cấp độ câu/cụm từ",
+      "functions": [
+        "Phân biệt câu hỏi vs câu trần thuật",
+        "Thể hiện cảm xúc (ngạc nhiên, tức giận, vui vẻ)",
+        "Nhấn mạnh thông tin quan trọng (focus)",
+        "Thể hiện thái độ (lịch sự, thân mật)"
+      ]
+    },
+
+    "basic_patterns": {
+      "falling": {
+        "symbol": "↘",
+        "name_vi": "Xuống",
+        "name_jp": "下降調",
+        "usage": "Câu trần thuật, câu kết thúc, khẳng định"
+      },
+      "rising": {
+        "symbol": "↗",
+        "name_vi": "Lên",
+        "name_jp": "上昇調",
+        "usage": "Câu hỏi yes/no, xác nhận, ngạc nhiên"
+      },
+      "flat": {
+        "symbol": "→",
+        "name_vi": "Phẳng",
+        "name_jp": "平調",
+        "usage": "Liệt kê, câu chưa kết thúc"
+      },
+      "fall_rise": {
+        "symbol": "↘↗",
+        "name_vi": "Xuống-Lên",
+        "usage": "Nghi ngờ, không chắc chắn"
+      }
+    }
+  },
+
+  "question_vs_statement": {
+    "title": "Câu hỏi vs Câu trần thuật",
+    "importance": "Đây là điểm khác biệt quan trọng nhất",
+
+    "yes_no_questions": {
+      "description": "Câu hỏi Yes/No thường kết thúc bằng ngữ điệu lên ↗",
+
+      "with_ka": {
+        "title": "Câu hỏi với か",
+        "note": "Có か → có thể giữ ngữ điệu phẳng hoặc lên nhẹ",
+        "examples": [
+          {
+            "question": "行きますか。",
+            "reading": "いきますか",
+            "intonation": "→ hoặc ↗ nhẹ",
+            "meaning": "Bạn đi không ạ?"
+          },
+          {
+            "question": "これは本ですか。",
+            "reading": "これはほんですか",
+            "intonation": "→ hoặc ↗ nhẹ",
+            "meaning": "Đây là sách phải không ạ?"
+          },
+          {
+            "question": "日本人ですか。",
+            "reading": "にほんじんですか",
+            "intonation": "→ hoặc ↗ nhẹ",
+            "meaning": "Bạn là người Nhật phải không ạ?"
+          }
+        ]
+      },
+
+      "without_ka": {
+        "title": "Câu hỏi KHÔNG có か (casual)",
+        "note": "Không có か → PHẢI lên giọng cuối câu để thành câu hỏi",
+        "examples": [
+          {
+            "statement": "行く。↘",
+            "question": "行く？↗",
+            "meaning_statement": "Tôi đi.",
+            "meaning_question": "Đi không?"
+          },
+          {
+            "statement": "これ、本。↘",
+            "question": "これ、本？↗",
+            "meaning_statement": "Đây là sách.",
+            "meaning_question": "Đây là sách hả?"
+          },
+          {
+            "statement": "おいしい。↘",
+            "question": "おいしい？↗",
+            "meaning_statement": "Ngon.",
+            "meaning_question": "Ngon không?"
+          },
+          {
+            "statement": "分かる。↘",
+            "question": "分かる？↗",
+            "meaning_statement": "Hiểu rồi.",
+            "meaning_question": "Hiểu không?"
+          }
+        ],
+        "key_point": "Trong văn nói casual, chỉ có ngữ điệu phân biệt câu hỏi và câu trần thuật!"
+      }
+    },
+
+    "wh_questions": {
+      "title": "Câu hỏi WH (何、どこ、いつ、誰...)",
+      "note": "Thường có ngữ điệu xuống ↘ ở cuối, từ hỏi được nhấn",
+      "examples": [
+        {
+          "question": "何を食べますか。",
+          "reading": "なにをたべますか",
+          "intonation": "なに↑ を たべますか↘",
+          "meaning": "Ăn gì?"
+        },
+        {
+          "question": "どこに行きますか。",
+          "reading": "どこにいきますか",
+          "intonation": "どこ↑ に いきますか↘",
+          "meaning": "Đi đâu?"
+        },
+        {
+          "question": "いつ来ますか。",
+          "reading": "いつきますか",
+          "intonation": "いつ↑ きますか↘",
+          "meaning": "Đến khi nào?"
+        },
+        {
+          "question": "誰ですか。",
+          "reading": "だれですか",
+          "intonation": "だれ↑ ですか↘",
+          "meaning": "Ai vậy?"
+        }
+      ],
+      "casual_form": [
+        {
+          "question": "何食べる？",
+          "intonation": "なに↑ たべる↘",
+          "meaning": "Ăn gì?"
+        },
+        {
+          "question": "どこ行く？",
+          "intonation": "どこ↑ いく↘",
+          "meaning": "Đi đâu?"
+        }
+      ]
+    }
+  },
+
+  "focus_and_emphasis": {
+    "title": "Focus - Nhấn mạnh thông tin",
+    "description": "Phần được nhấn mạnh (focus) thường có pitch cao hơn và/hoặc dài hơn",
+
+    "contrastive_focus": {
+      "title": "Nhấn mạnh tương phản",
+      "description": "Khi muốn tương phản với thông tin khác",
+      "examples": [
+        {
+          "neutral": "これが好きです。",
+          "focused": "**これ**が好きです。(không phải cái khác)",
+          "intonation": "これ↑↑ が すきです",
+          "meaning": "Tôi thích CÁI NÀY (không phải cái kia)"
+        },
+        {
+          "neutral": "田中さんが来ました。",
+          "focused": "**田中さん**が来ました。",
+          "intonation": "たなかさん↑↑ が きました",
+          "meaning": "TANAKA đến (không phải người khác)"
+        },
+        {
+          "neutral": "昨日行きました。",
+          "focused": "**昨日**行きました。",
+          "intonation": "きのう↑↑ いきました",
+          "meaning": "HÔM QUA tôi đã đi (không phải hôm nay)"
+        }
+      ]
+    },
+
+    "new_information_focus": {
+      "title": "Nhấn mạnh thông tin mới",
+      "description": "Thông tin mới trong câu thường được nhấn",
+      "example": {
+        "question": "何を食べましたか。",
+        "answer": "**寿司**を食べました。",
+        "intonation": "すし↑↑ を たべました",
+        "explanation": "寿司 là thông tin mới, được nhấn mạnh"
+      }
+    },
+
+    "topic_vs_focus": {
+      "title": "Topic (は) vs Focus (が)",
+      "description": "は đánh dấu topic (thông tin cũ), が đánh dấu focus (thông tin mới/quan trọng)",
+      "examples": [
+        {
+          "sentence": "私**は**学生です。",
+          "intonation": "わたしは→ がくせいです↘",
+          "note": "私は = topic, pitch phẳng"
+        },
+        {
+          "sentence": "私**が**学生です。",
+          "intonation": "わたし↑↑ が がくせいです↘",
+          "note": "私が = focus, pitch cao hơn (TÔI là học sinh, không phải người khác)"
+        }
+      ]
+    }
+  },
+
+  "sentence_final_particles": {
+    "title": "Ngữ điệu với trợ từ cuối câu",
+    "description": "Trợ từ cuối câu ảnh hưởng lớn đến ngữ điệu",
+
+    "particles": [
+      {
+        "particle": "ね",
+        "intonation": "↗ (lên nhẹ)",
+        "function": "Xác nhận, tìm đồng cảm",
+        "examples": [
+          { "sentence": "いい天気ですね↗", "meaning": "Thời tiết đẹp nhỉ?" },
+          { "sentence": "おいしいね↗", "meaning": "Ngon nhỉ?" }
+        ]
+      },
+      {
+        "particle": "よ",
+        "intonation": "↘ (xuống) hoặc → (phẳng mạnh)",
+        "function": "Thông báo, nhấn mạnh",
+        "examples": [
+          { "sentence": "これ、おいしいよ↘", "meaning": "Cái này ngon đấy!" },
+          { "sentence": "もう遅いよ↘", "meaning": "Muộn rồi đấy!" }
+        ]
+      },
+      {
+        "particle": "よね",
+        "intonation": "↘↗ (xuống rồi lên nhẹ)",
+        "function": "Nhấn mạnh + xác nhận",
+        "examples": [
+          { "sentence": "明日は休みだよね↗", "meaning": "Mai nghỉ phải không nhỉ?" }
+        ]
+      },
+      {
+        "particle": "か",
+        "intonation": "→ hoặc ↗ nhẹ",
+        "function": "Câu hỏi formal",
+        "examples": [
+          { "sentence": "行きますか→/↗", "meaning": "Bạn đi không ạ?" }
+        ]
+      },
+      {
+        "particle": "の (casual question)",
+        "intonation": "↗ (lên)",
+        "function": "Câu hỏi casual, thường nữ dùng",
+        "examples": [
+          { "sentence": "どこに行くの↗", "meaning": "Đi đâu vậy?" }
+        ]
+      },
+      {
+        "particle": "な/なあ",
+        "intonation": "↘ kéo dài",
+        "function": "Cảm thán, tự nhủ",
+        "examples": [
+          { "sentence": "眠いな〜↘", "meaning": "Buồn ngủ quá..." },
+          { "sentence": "行きたいなあ↘", "meaning": "Muốn đi quá..." }
+        ]
+      },
+      {
+        "particle": "かな",
+        "intonation": "↗ nhẹ",
+        "function": "Tự hỏi, không chắc chắn",
+        "examples": [
+          { "sentence": "大丈夫かな↗", "meaning": "Không biết có ổn không nhỉ?" }
+        ]
+      },
+      {
+        "particle": "っけ",
+        "intonation": "↗",
+        "function": "Cố nhớ lại",
+        "examples": [
+          { "sentence": "明日何時だっけ↗", "meaning": "Mai mấy giờ nhỉ?" }
+        ]
+      }
+    ]
+  },
+
+  "emotional_intonation": {
+    "title": "Ngữ điệu thể hiện cảm xúc",
+
+    "surprise": {
+      "name_vi": "Ngạc nhiên",
+      "name_jp": "驚き",
+      "pattern": "↗↗ (lên cao đột ngột)",
+      "examples": [
+        { "sentence": "え↗↗！本当？", "meaning": "Hả?! Thật hả?" },
+        { "sentence": "うそ↗↗！", "meaning": "Xạo! / Không thể tin được!" },
+        { "sentence": "マジで↗↗？", "meaning": "Thật sao?!" }
+      ]
+    },
+
+    "anger": {
+      "name_vi": "Tức giận",
+      "name_jp": "怒り",
+      "pattern": "Pitch cao, nhấn mạnh, có thể kéo dài",
+      "examples": [
+        { "sentence": "何やってるの↗↗！", "meaning": "Đang làm cái gì vậy?!" },
+        { "sentence": "うるさい↘↘！", "meaning": "Ồn quá!" }
+      ]
+    },
+
+    "happiness": {
+      "name_vi": "Vui vẻ",
+      "name_jp": "喜び",
+      "pattern": "Pitch cao, âm lượng có thể lớn hơn",
+      "examples": [
+        { "sentence": "やった↗↗！", "meaning": "Tuyệt vời!" },
+        { "sentence": "嬉しい↗！", "meaning": "Vui quá!" }
+      ]
+    },
+
+    "sadness": {
+      "name_vi": "Buồn",
+      "name_jp": "悲しみ",
+      "pattern": "Pitch thấp, chậm, giọng yếu",
+      "examples": [
+        { "sentence": "残念...↘↘", "meaning": "Đáng tiếc..." },
+        { "sentence": "悲しい...↘", "meaning": "Buồn quá..." }
+      ]
+    },
+
+    "hesitation": {
+      "name_vi": "Do dự",
+      "name_jp": "ためらい",
+      "pattern": "Kéo dài, pitch không ổn định",
+      "examples": [
+        { "sentence": "えーと...→→", "meaning": "Ừm..." },
+        { "sentence": "ちょっと...→→", "meaning": "Hơi..." },
+        { "sentence": "あのー...→→", "meaning": "À..." }
+      ]
+    }
+  },
+
+  "listing_intonation": {
+    "title": "Ngữ điệu khi liệt kê",
+    "description": "Khi liệt kê nhiều item, mỗi item kết thúc bằng ngữ điệu phẳng hoặc lên nhẹ, item cuối xuống",
+
+    "pattern": "Item1→, Item2→, Item3↘",
+
+    "examples": [
+      {
+        "sentence": "りんご→、みかん→、バナナ↘を買いました。",
+        "meaning": "Tôi đã mua táo, cam, chuối."
+      },
+      {
+        "sentence": "月曜日→、水曜日→、金曜日↘に行きます。",
+        "meaning": "Tôi sẽ đi vào thứ Hai, thứ Tư, thứ Sáu."
+      },
+      {
+        "sentence": "食べて→、飲んで→、寝た↘。",
+        "meaning": "Ăn, uống, rồi ngủ."
+      }
+    ],
+
+    "incomplete_sentence": {
+      "description": "Câu chưa kết thúc thường có ngữ điệu phẳng hoặc lên nhẹ",
+      "examples": [
+        {
+          "incomplete": "昨日→、",
+          "complete": "昨日、映画を見ました↘。",
+          "meaning": "Hôm qua... (chưa xong) → Hôm qua, tôi xem phim."
+        },
+        {
+          "incomplete": "日本に行ったら→、",
+          "complete": "日本に行ったら、寿司を食べたい↘。",
+          "meaning": "Nếu đi Nhật... (chưa xong) → Nếu đi Nhật, tôi muốn ăn sushi."
+        }
+      ]
+    }
+  },
+
+  "polite_vs_casual": {
+    "title": "Ngữ điệu Lịch sự vs Thân mật",
+
+    "polite": {
+      "name_jp": "丁寧",
+      "characteristics": [
+        "Pitch ổn định, không quá cao quá thấp",
+        "Kết thúc câu rõ ràng với です/ます",
+        "Ngữ điệu nhẹ nhàng, không quá dramatic"
+      ],
+      "examples": [
+        { "sentence": "行きます↘。", "meaning": "Tôi sẽ đi ạ." },
+        { "sentence": "分かりました↘。", "meaning": "Tôi hiểu rồi ạ." }
+      ]
+    },
+
+    "casual": {
+      "name_jp": "カジュアル",
+      "characteristics": [
+        "Pitch biến đổi nhiều hơn",
+        "Có thể bỏ です/ます",
+        "Ngữ điệu tự nhiên, expressive hơn"
+      ],
+      "examples": [
+        { "sentence": "行く↘。/ 行く↗？", "meaning": "Đi. / Đi không?" },
+        { "sentence": "分かった↘！", "meaning": "Hiểu rồi!" }
+      ]
+    }
+  },
+
+  "common_patterns": {
+    "title": "Các mẫu ngữ điệu phổ biến",
+
+    "patterns": [
+      {
+        "pattern": "〜けど/〜が (nhưng mà...)",
+        "intonation": "→ hoặc ↗ nhẹ (câu chưa xong)",
+        "example": "行きたいんですけど→...",
+        "meaning": "Tôi muốn đi nhưng mà... (ngầm: có vấn đề)"
+      },
+      {
+        "pattern": "〜て (và, rồi)",
+        "intonation": "→ (tiếp tục)",
+        "example": "食べて→、寝て→、起きた↘。",
+        "meaning": "Ăn, ngủ, rồi dậy."
+      },
+      {
+        "pattern": "〜たら/〜ば (nếu)",
+        "intonation": "→ (điều kiện chưa xong)",
+        "example": "時間があったら→、行きます↘。",
+        "meaning": "Nếu có thời gian, tôi sẽ đi."
+      },
+      {
+        "pattern": "〜から (vì)",
+        "intonation": "→ hoặc ↗ nhẹ",
+        "example": "忙しいから→、行けません↘。",
+        "meaning": "Vì bận nên không đi được."
+      },
+      {
+        "pattern": "〜でしょう？ (phải không?)",
+        "intonation": "↗",
+        "example": "明日は休みでしょう↗？",
+        "meaning": "Mai nghỉ phải không?"
+      },
+      {
+        "pattern": "〜じゃない？ (chẳng phải... sao?)",
+        "intonation": "↗",
+        "example": "これ、いいじゃない↗？",
+        "meaning": "Cái này tốt mà nhỉ?"
+      }
+    ]
+  },
+
+  "listening_tips": {
+    "title": "Mẹo nghe ngữ điệu",
+    "tips": [
+      {
+        "tip": "Chú ý cuối câu",
+        "description": "Cuối câu lên ↗ thường là câu hỏi, xuống ↘ là câu trần thuật"
+      },
+      {
+        "tip": "Nghe trợ từ cuối câu",
+        "description": "ね↗ = xác nhận, よ↘ = thông báo, か→/↗ = hỏi"
+      },
+      {
+        "tip": "Chú ý focus",
+        "description": "Phần nào pitch cao bất thường = thông tin quan trọng"
+      },
+      {
+        "tip": "Cảm nhận cảm xúc",
+        "description": "Ngữ điệu dramatic = cảm xúc mạnh"
+      },
+      {
+        "tip": "Nghe câu chưa xong",
+        "description": "Ngữ điệu phẳng/lên nhẹ = còn nói tiếp"
+      }
+    ]
+  },
+
+  "vietnamese_comparison": {
+    "title": "So sánh với tiếng Việt",
+    "points": [
+      {
+        "point": "Tiếng Việt dùng thanh điệu cho từng từ",
+        "difference": "Tiếng Nhật dùng intonation cho cả câu"
+      },
+      {
+        "point": "Câu hỏi tiếng Việt có từ hỏi riêng (không, chưa, phải không)",
+        "difference": "Tiếng Nhật casual có thể chỉ dùng ngữ điệu lên"
+      },
+      {
+        "point": "Focus tiếng Việt có thể dùng từ nhấn (chính, là)",
+        "difference": "Tiếng Nhật dùng pitch cao để nhấn mạnh"
+      }
+    ]
+  }
+}

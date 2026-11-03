@@ -1,0 +1,377 @@
+[
+  {
+    "id": "R_0147",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "健康のために運動を始めた",
+    "title_vi": "Bắt đầu tập thể dục vì sức khỏe",
+    "topic": "health",
+    "subtopic": "thói quen sức khỏe",
+    "tags": ["てから", "ようになった", "ために", "てみると", "ことにした"],
+    "grammar_used": ["～てから", "～ようになった", "～ために", "～てみると", "～ことにした"],
+    "sentence_count": 10,
+    "text": "半年前、健康診断で血圧が少し高いと言われた。医者に運動不足だと指摘されたので、毎朝ジョギングをすることにした。最初は5分も走れなかったが、少しずつ距離を伸ばしていった。走り始めてから3ヶ月が経つと、体が軽く感じられるようになった。階段を使っても息切れしなくなったのは、特にうれしかった。また、朝に体を動かすことで、頭がすっきりして仕事に集中できるようになった。走ってみると、近所に知らなかった公園や川があることに気づいた。同じ時間に走っている人たちと顔なじみになり、あいさつを交わすのも楽しみになってきた。今では雨の日以外は必ず走るようにしている。運動を続けることが、これほど生活を変えるとは思っていなかった。",
+    "translation": "Nửa năm trước, tôi được bác sĩ nói rằng huyết áp hơi cao trong kỳ khám sức khỏe. Vì bị chỉ ra là thiếu vận động, tôi đã quyết định chạy bộ mỗi sáng. Ban đầu chưa chạy được 5 phút, nhưng dần dần tôi tăng quãng đường lên. Khi 3 tháng trôi qua kể từ khi bắt đầu chạy, cơ thể bắt đầu cảm thấy nhẹ nhàng hơn. Điều khiến tôi vui nhất là không còn hụt hơi khi dùng cầu thang nữa. Ngoài ra, nhờ vận động vào buổi sáng, đầu óc trở nên thông suốt và có thể tập trung vào công việc hơn. Khi thử chạy thì tôi phát hiện ra có công viên và con sông mà mình chưa biết ngay gần nhà. Trở nên quen mặt với những người chạy cùng khung giờ, và việc chào hỏi nhau cũng trở thành điều vui. Bây giờ tôi cố gắng chạy mỗi ngày trừ những hôm trời mưa. Tôi đã không nghĩ rằng việc tiếp tục tập thể dục lại thay đổi cuộc sống nhiều đến vậy.",
+    "vocabulary": [
+      {"word": "健康診断", "reading": "けんこうしんだん", "meaning": "khám sức khỏe định kỳ"},
+      {"word": "血圧", "reading": "けつあつ", "meaning": "huyết áp"},
+      {"word": "運動不足", "reading": "うんどうぶそく", "meaning": "thiếu vận động"},
+      {"word": "息切れ", "reading": "いきぎれ", "meaning": "hụt hơi, thở dốc"},
+      {"word": "顔なじみ", "reading": "かおなじみ", "meaning": "quen mặt nhau"},
+      {"word": "すっきり", "reading": "すっきり", "meaning": "thông suốt, thoải mái, sảng khoái"}
+    ],
+    "process": [
+      {
+        "sentence": "半年前、健康診断で血圧が少し高いと言われた。",
+        "chunks": "半年前 / 健康診断で / 血圧が / 少し高い / と言われた",
+        "guide": "半年前 → thời điểm mở đầu câu chuyện → と言われた → 🔒 Đóng gói: 'được bác sĩ nói rằng [huyết áp cao]' (thể bị động: mình nhận thông tin từ bác sĩ) → と báo nội dung được nói",
+        "translation": "Nửa năm trước, tôi được bác sĩ nói rằng huyết áp hơi cao trong kỳ khám sức khỏe."
+      },
+      {
+        "sentence": "医者に運動不足だと指摘されたので、毎朝ジョギングをすることにした。",
+        "chunks": "医者に / 運動不足だと / 指摘された / ので / 毎朝ジョギングをする / ことにした",
+        "guide": "に指摘された = bị chỉ ra bởi bác sĩ (thể bị động) → ので → 🔒 Đóng gói: 'vì bị chỉ ra thiếu vận động [nên quyết định]' → ことにした → 💡 Insight: ことにした = đã quyết định làm (quyết định chủ động của bản thân, khác ことになった = hoàn cảnh dẫn đến)",
+        "translation": "Vì bị chỉ ra là thiếu vận động, tôi đã quyết định chạy bộ mỗi sáng."
+      },
+      {
+        "sentence": "最初は5分も走れなかったが、少しずつ距離を伸ばしていった。",
+        "chunks": "最初は / 5分も / 走れなかった / が / 少しずつ / 距離を伸ばして / いった",
+        "guide": "最初は → báo hiệu: trạng thái ban đầu (sẽ thay đổi) → も走れなかった = chưa chạy được đến 5 phút (も nhấn mạnh mức thấp) → が = nhưng (đảo chiều sang tích cực) → 🔒 Đóng gói: 'dù ban đầu yếu [→ dần tiến bộ]' → ていった = dần dần (tiến về tương lai)",
+        "translation": "Ban đầu chưa chạy được 5 phút, nhưng dần dần tôi tăng quãng đường lên."
+      },
+      {
+        "sentence": "走り始めてから3ヶ月が経つと、体が軽く感じられるようになった。",
+        "chunks": "走り始めて / から / 3ヶ月が経つ / と / 体が軽く / 感じられる / ようになった",
+        "guide": "てから → 🔒 Đóng gói: 'sau khi bắt đầu chạy [= mốc thời gian]' → 経つと → dự đoán: khi thời gian trôi qua thì... → ようになった = trở nên có thể (thay đổi tích cực theo thời gian)",
+        "translation": "Khi 3 tháng trôi qua kể từ khi bắt đầu chạy, cơ thể bắt đầu cảm thấy nhẹ nhàng hơn."
+      },
+      {
+        "sentence": "階段を使っても息切れしなくなったのは、特にうれしかった。",
+        "chunks": "階段を使っても / 息切れしなく / なった / のは / 特にうれしかった",
+        "guide": "ても = dù/kể cả khi (không còn hụt hơi dù leo cầu thang) → なくなった = không còn... nữa (thay đổi từ có → không) → 🔒 Đóng gói: 'không còn hụt hơi [= điều thay đổi]' → のは～うれしかった = việc đó làm tôi vui (nominalizer の + đánh giá cảm xúc)",
+        "translation": "Điều khiến tôi vui nhất là không còn hụt hơi khi dùng cầu thang nữa."
+      },
+      {
+        "sentence": "また、朝に体を動かすことで、頭がすっきりして仕事に集中できるようになった。",
+        "chunks": "また / 朝に体を動かす / ことで / 頭がすっきりして / 仕事に集中できる / ようになった",
+        "guide": "また → thêm lợi ích mới → ことで → 🔒 Đóng gói: 'nhờ vận động buổi sáng [→ 2 lợi ích]' → して nối: đầu óc thông suốt → tập trung được → ようになった = thay đổi tích cực",
+        "translation": "Ngoài ra, nhờ vận động vào buổi sáng, đầu óc trở nên thông suốt và có thể tập trung vào công việc hơn."
+      },
+      {
+        "sentence": "走ってみると、近所に知らなかった公園や川があることに気づいた。",
+        "chunks": "走って / みると / 近所に / 知らなかった / 公園や川がある / ことに気づいた",
+        "guide": "てみると → 🔒 Đóng gói: 'khi thử chạy thì [phát hiện ra]' (みると = kết quả phát hiện bất ngờ khi thực hiện hành động) → ことに気づいた = nhận ra rằng... (phát hiện điều trước không biết)",
+        "translation": "Khi thử chạy thì tôi phát hiện ra có công viên và con sông mà mình chưa biết ngay gần nhà."
+      },
+      {
+        "sentence": "同じ時間に走っている人たちと顔なじみになり、あいさつを交わすのも楽しみになってきた。",
+        "chunks": "同じ時間に走っている人たちと / 顔なじみになり / あいさつを交わすの / も / 楽しみになってきた",
+        "guide": "顔なじみになり → kết quả của việc chạy cùng giờ → のも → 🔒 Đóng gói: 'việc chào hỏi nhau [cũng trở thành niềm vui]' → なってきた = dần dần trở thành (thay đổi tích cực tiệm tiến)",
+        "translation": "Trở nên quen mặt với những người chạy cùng khung giờ, và việc chào hỏi nhau cũng trở thành điều vui."
+      },
+      {
+        "sentence": "今では雨の日以外は必ず走るようにしている。",
+        "chunks": "今では / 雨の日以外は / 必ず / 走る / ようにしている",
+        "guide": "今では → đối lập với 最初は (ban đầu) → 以外は = ngoài... ra (trừ hôm mưa) → 🔒 Đóng gói: 'trừ ngày mưa [→ nhất định chạy]' → ようにしている = cố gắng duy trì thói quen (khác ことにした: đây là thói quen đang duy trì)",
+        "translation": "Bây giờ tôi cố gắng chạy mỗi ngày trừ những hôm trời mưa."
+      },
+      {
+        "sentence": "運動を続けることが、これほど生活を変えるとは思っていなかった。",
+        "chunks": "運動を続けること / が / これほど / 生活を変える / とは / 思っていなかった",
+        "guide": "ことが → 🔒 Đóng gói: 'việc tiếp tục tập thể dục [= chủ ngữ]' → これほど = đến mức này (nhấn mạnh mức độ bất ngờ) → とは思っていなかった → ⚠️ Bẫy: とは = 'rằng' dùng khi diễn đạt điều bất ngờ ngoài kỳ vọng → câu kết thể hiện sự ngạc nhiên tích cực",
+        "translation": "Tôi đã không nghĩ rằng việc tiếp tục tập thể dục lại thay đổi cuộc sống nhiều đến vậy."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0147_Q1",
+        "question": "筆者がジョギングを始めたきっかけは何ですか。",
+        "question_vi": "Điều gì khiến tác giả bắt đầu chạy bộ?",
+        "answers": [
+          {"text": "友人に誘われたから。", "text_vi": "Vì được bạn bè rủ.", "is_correct": false},
+          {"text": "体重を減らしたかったから。", "text_vi": "Vì muốn giảm cân.", "is_correct": false},
+          {"text": "健康診断で血圧が高く、運動不足だと指摘されたから。", "text_vi": "Vì bị chỉ ra huyết áp cao và thiếu vận động trong kỳ khám sức khỏe.", "is_correct": true},
+          {"text": "近所に走っている人が多かったから。", "text_vi": "Vì trong khu vực có nhiều người chạy bộ.", "is_correct": false}
+        ],
+        "explanation": "Câu 1-2 nêu rõ: khám sức khỏe phát hiện huyết áp cao → bác sĩ chỉ ra thiếu vận động → quyết định chạy bộ. ⚠️ Bẫy: bài có nhắc người chạy cùng giờ (câu 8) nhưng đó là lợi ích phát sinh sau, không phải lý do ban đầu."
+      },
+      {
+        "id": "R_0147_Q2",
+        "question": "ジョギングを始めてから気づいたことはどれですか。",
+        "question_vi": "Điều gì tác giả phát hiện ra sau khi bắt đầu chạy bộ?",
+        "answers": [
+          {"text": "近所に知らなかった公園や川があること。", "text_vi": "Có công viên và con sông mà mình chưa biết ngay gần nhà.", "is_correct": true},
+          {"text": "朝ごはんを食べないほうが走りやすいこと。", "text_vi": "Không ăn sáng thì chạy dễ hơn.", "is_correct": false},
+          {"text": "雨の日でも走ったほうがいいこと。", "text_vi": "Dù mưa cũng nên chạy.", "is_correct": false},
+          {"text": "ジョギングより水泳のほうが健康にいいこと。", "text_vi": "Bơi lội tốt cho sức khỏe hơn chạy bộ.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói「走ってみると、近所に知らなかった公園や川があることに気づいた」→ てみると = khi thử làm thì phát hiện, ことに気づいた = nhận ra rằng. Các đáp án còn lại không được đề cập trong bài."
+      },
+      {
+        "id": "R_0147_Q3",
+        "question": "筆者は今、ジョギングについてどう感じていますか。",
+        "question_vi": "Hiện tại tác giả cảm thấy thế nào về việc chạy bộ?",
+        "answers": [
+          {"text": "体は軽くなったが、まだ続けるかどうか迷っている。", "text_vi": "Cơ thể nhẹ hơn nhưng vẫn đang phân vân có tiếp tục không.", "is_correct": false},
+          {"text": "運動は思ったより効果がなかったと感じている。", "text_vi": "Cảm thấy tập thể dục không hiệu quả như nghĩ.", "is_correct": false},
+          {"text": "続けることでこれほど生活が変わるとは思わず、よい驚きを感じている。", "text_vi": "Không ngờ tiếp tục lại thay đổi cuộc sống nhiều đến vậy, cảm thấy ngạc nhiên theo chiều tốt.", "is_correct": true},
+          {"text": "雨の日も走るべきだったと後悔している。", "text_vi": "Hối hận vì đã không chạy cả ngày mưa.", "is_correct": false}
+        ],
+        "explanation": "Câu cuối nói「運動を続けることが、これほど生活を変えるとは思っていなかった」→ とは思っていなかった = không ngờ đến mức này, hàm ý ngạc nhiên tích cực. Câu 9 cho thấy tác giả vẫn đang duy trì (ようにしている). ⚠️ Bẫy: không có chi tiết nào cho thấy tác giả hối hận hay nghi ngờ hiệu quả."
+      }
+    ]
+  },
+  {
+    "id": "R_0148",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "ボランティア活動に参加して",
+    "title_vi": "Tham gia hoạt động tình nguyện",
+    "topic": "community",
+    "subtopic": "hoạt động tình nguyện",
+    "tags": ["を通じて", "ことができた", "てくれた", "ようになった", "だけでなく"],
+    "grammar_used": ["～を通じて", "～ことができた", "～てくれた", "～ようになった", "～だけでなく"],
+    "sentence_count": 11,
+    "text": "先月、地域の清掃ボランティアに初めて参加した。参加する前は少し緊張していたが、スタッフの方が親切に説明してくれたので、すぐに打ち解けることができた。活動は朝9時から始まり、公園や川沿いのゴミを2時間かけて拾った。参加者は学生から高齢者まで幅広く、初めて会う人たちと協力して作業するのは思ったより楽しかった。ゴミ袋が次々と満タンになっていくのを見て、少しずつ達成感が生まれてきた。ボランティアを通じて、地域の人たちとのつながりの大切さを感じることができた。また、普段何気なく使っている公園が、多くの人の努力で守られていることにも気づいた。この経験は、自分の地域をもっと大切にしようという気持ちを育ててくれた。参加した後は、単に疲れただけでなく、心が満たされた感覚があった。来月もまた参加しようと決めている。次回は友人を誘ってみようと思っている。",
+    "translation": "Tháng trước, tôi lần đầu tham gia tình nguyện dọn dẹp khu vực. Trước khi tham gia tôi hơi hồi hộp, nhưng nhờ nhân viên giải thích tận tình nên tôi đã nhanh chóng hòa nhập được. Hoạt động bắt đầu từ 9 giờ sáng, mọi người mất 2 tiếng để nhặt rác ở công viên và ven sông. Người tham gia đa dạng từ học sinh đến người cao tuổi, làm việc cùng những người mới gặp lần đầu thú vị hơn tôi nghĩ. Nhìn những túi rác liên tiếp đầy lên, cảm giác hoàn thành dần hình thành. Qua hoạt động tình nguyện, tôi cảm nhận được tầm quan trọng của mối liên kết với người dân trong khu vực. Ngoài ra, tôi cũng nhận ra rằng công viên mình vẫn hay dùng mà không để ý đang được bảo vệ bởi nỗ lực của nhiều người. Trải nghiệm này đã nuôi dưỡng trong tôi cảm giác muốn trân trọng khu vực của mình hơn. Sau khi tham gia, không chỉ đơn giản là mệt mà còn có cảm giác lòng được thỏa mãn. Tôi đã quyết định tháng sau cũng sẽ tham gia. Lần sau tôi đang nghĩ sẽ thử rủ bạn bè cùng đi.",
+    "vocabulary": [
+      {"word": "清掃", "reading": "せいそう", "meaning": "dọn dẹp, vệ sinh"},
+      {"word": "打ち解ける", "reading": "うちとける", "meaning": "hòa nhập, cởi mở với nhau"},
+      {"word": "幅広い", "reading": "はばひろい", "meaning": "đa dạng, rộng rãi"},
+      {"word": "達成感", "reading": "たっせいかん", "meaning": "cảm giác hoàn thành, cảm giác đạt được"},
+      {"word": "つながり", "reading": "つながり", "meaning": "mối liên kết, sự kết nối"},
+      {"word": "満たされる", "reading": "みたされる", "meaning": "được thỏa mãn, được lấp đầy"}
+    ],
+    "process": [
+      {
+        "sentence": "先月、地域の清掃ボランティアに初めて参加した。",
+        "chunks": "先月 / 地域の清掃ボランティアに / 初めて / 参加した",
+        "guide": "先月 → thời điểm mở đầu → に = điểm đích (tham gia vào hoạt động) → 初めて → báo hiệu: đây là lần đầu tiên → 🔒 Đóng gói: 'lần đầu tham gia [tình nguyện dọn dẹp]' → câu mở đơn giản, dùng た kể chuyện",
+        "translation": "Tháng trước, tôi lần đầu tham gia tình nguyện dọn dẹp khu vực."
+      },
+      {
+        "sentence": "参加する前は少し緊張していたが、スタッフの方が親切に説明してくれたので、すぐに打ち解けることができた。",
+        "chunks": "参加する前は / 少し緊張していた / が / スタッフの方が / 親切に説明して / くれた / ので / すぐに打ち解ける / ことができた",
+        "guide": "前は → 🔒 Đóng gói: 'trước khi [= trạng thái ban đầu]' → が = nhưng (đảo chiều) → てくれた = (người khác) làm điều tốt cho mình → ので → 🔒 Đóng gói: 'nhờ nhân viên giải thích [nên hòa nhập được]' → ことができた = đã có thể làm được",
+        "translation": "Trước khi tham gia tôi hơi hồi hộp, nhưng nhờ nhân viên giải thích tận tình nên tôi đã nhanh chóng hòa nhập được."
+      },
+      {
+        "sentence": "活動は朝9時から始まり、公園や川沿いのゴミを2時間かけて拾った。",
+        "chunks": "活動は / 朝9時から / 始まり / 公園や川沿いの / ゴミを / 2時間かけて / 拾った",
+        "guide": "から始まり → 🔒 Đóng gói: 'từ 9 giờ [bắt đầu]' → や liệt kê không đầy đủ → 2時間かけて → 💡 Insight: かけて = tốn (thời gian/tiền) để làm gì (nhấn mạnh công sức bỏ ra)",
+        "translation": "Hoạt động bắt đầu từ 9 giờ sáng, mọi người mất 2 tiếng để nhặt rác ở công viên và ven sông."
+      },
+      {
+        "sentence": "参加者は学生から高齢者まで幅広く、初めて会う人たちと協力して作業するのは思ったより楽しかった。",
+        "chunks": "参加者は / 学生から高齢者まで / 幅広く / 初めて会う人たちと / 協力して作業する / のは / 思ったより楽しかった",
+        "guide": "から～まで = từ... đến... (phạm vi) → 🔒 Đóng gói: 'từ học sinh đến người cao tuổi [= đa dạng]' → のは → 🔒 Đóng gói: 'việc làm việc cùng người mới [= chủ đề đánh giá]' → 思ったより = hơn những gì tôi nghĩ (bất ngờ tích cực)",
+        "translation": "Người tham gia đa dạng từ học sinh đến người cao tuổi, làm việc cùng những người mới gặp lần đầu thú vị hơn tôi nghĩ."
+      },
+      {
+        "sentence": "ゴミ袋が次々と満タンになっていくのを見て、少しずつ達成感が生まれてきた。",
+        "chunks": "ゴミ袋が / 次々と / 満タンになっていく / のを見て / 少しずつ / 達成感が / 生まれてきた",
+        "guide": "次々と = liên tiếp, lần lượt → ていく = dần dần (tiến về tương lai) → のを見て → 🔒 Đóng gói: 'nhìn [túi rác đầy dần]' (の biến hành động thành danh từ, mình là người quan sát) → てきた = dần dần hình thành (tiến đến hiện tại)",
+        "translation": "Nhìn những túi rác liên tiếp đầy lên, cảm giác hoàn thành dần hình thành."
+      },
+      {
+        "sentence": "ボランティアを通じて、地域の人たちとのつながりの大切さを感じることができた。",
+        "chunks": "ボランティアを通じて / 地域の人たちとの / つながりの大切さを / 感じることができた",
+        "guide": "を通じて → 💡 Insight: を通じて = thông qua, qua phương tiện/trải nghiệm (nhấn mạnh quá trình, không chỉ kết quả) → 🔒 Đóng gói: 'thông qua tình nguyện [→ cảm nhận được]' → ことができた = đã có thể cảm nhận",
+        "translation": "Qua hoạt động tình nguyện, tôi cảm nhận được tầm quan trọng của mối liên kết với người dân trong khu vực."
+      },
+      {
+        "sentence": "また、普段何気なく使っている公園が、多くの人の努力で守られていることにも気づいた。",
+        "chunks": "また / 普段何気なく使っている / 公園が / 多くの人の努力で / 守られている / ことにも気づいた",
+        "guide": "また → thêm phát hiện mới → 普段何気なく = thường ngày không để ý (cụm quan trọng: 何気なく = vô thức, không có ý gì đặc biệt) → 🔒 Đóng gói: 'công viên bình thường dùng vô thức [→ thực ra được giữ gìn]' → ことにも気づいた = cũng nhận ra rằng",
+        "translation": "Ngoài ra, tôi cũng nhận ra rằng công viên mình vẫn hay dùng mà không để ý đang được bảo vệ bởi nỗ lực của nhiều người."
+      },
+      {
+        "sentence": "この経験は、自分の地域をもっと大切にしようという気持ちを育ててくれた。",
+        "chunks": "この経験は / 自分の地域を / もっと大切にしよう / という / 気持ちを / 育てて / くれた",
+        "guide": "この経験は → は chủ đề tổng kết → という気持ち → 🔒 Đóng gói: 'cảm giác [muốn trân trọng khu vực]' (という gói mệnh đề vào danh từ 気持ち) → 育ててくれた = nuôi dưỡng cho mình (てくれた = người khác/việc khác làm điều tốt cho mình)",
+        "translation": "Trải nghiệm này đã nuôi dưỡng trong tôi cảm giác muốn trân trọng khu vực của mình hơn."
+      },
+      {
+        "sentence": "参加した後は、単に疲れただけでなく、心が満たされた感覚があった。",
+        "chunks": "参加した後は / 単に疲れた / だけでなく / 心が満たされた / 感覚があった",
+        "guide": "単に～だけでなく → ⚠️ Bẫy: 単に = đơn giản là/chỉ là → 単に～だけでなく = không chỉ đơn thuần là... mà còn → 🔒 Đóng gói: 'không chỉ mệt [mà còn cảm giác khác]' → 感覚があった = có cảm giác (diễn đạt nội tâm)",
+        "translation": "Sau khi tham gia, không chỉ đơn giản là mệt mà còn có cảm giác lòng được thỏa mãn."
+      },
+      {
+        "sentence": "来月もまた参加しようと決めている。",
+        "chunks": "来月も / また / 参加しよう / と決めている",
+        "guide": "も = cũng (tháng sau cũng như tháng này) → と決めている = đã quyết định (quyết định đã được đưa ra, đang ở trạng thái quyết định) → 🔒 Đóng gói: 'đã quyết định [tháng sau cũng tham gia]'",
+        "translation": "Tôi đã quyết định tháng sau cũng sẽ tham gia."
+      },
+      {
+        "sentence": "次回は友人を誘ってみようと思っている。",
+        "chunks": "次回は / 友人を / 誘って / みよう / と思っている",
+        "guide": "次回は → chủ đề: lần sau → てみよう = thử làm (ý định thử nghiệm) → と思っている = đang nghĩ đến (ý định chưa quyết định hẳn, nhẹ hơn と決めている) → 🔒 Đóng gói: 'thử rủ bạn [= kế hoạch tương lai]'",
+        "translation": "Lần sau tôi đang nghĩ sẽ thử rủ bạn bè cùng đi."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0148_Q1",
+        "question": "筆者がボランティアに参加して新しく気づいたことは何ですか。",
+        "question_vi": "Điều gì tác giả mới nhận ra khi tham gia tình nguyện?",
+        "answers": [
+          {"text": "地域の清掃活動はとても大変だということ。", "text_vi": "Hoạt động dọn dẹp khu vực rất vất vả.", "is_correct": false},
+          {"text": "普段使っている公園が多くの人の努力で守られていること。", "text_vi": "Công viên mình vẫn dùng đang được bảo vệ bởi nỗ lực của nhiều người.", "is_correct": true},
+          {"text": "地域にはゴミが多すぎて一人では掃除できないこと。", "text_vi": "Khu vực có quá nhiều rác, một mình không dọn được.", "is_correct": false},
+          {"text": "ボランティアに参加する人は若い人が多いこと。", "text_vi": "Người tham gia tình nguyện chủ yếu là người trẻ.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói「普段何気なく使っている公園が、多くの人の努力で守られていることにも気づいた」→ ことに気づいた = nhận ra điều mới. ⚠️ Bẫy: câu 4 nói người tham gia đa dạng từ học sinh đến người cao tuổi → không phải chủ yếu là người trẻ."
+      },
+      {
+        "id": "R_0148_Q2",
+        "question": "参加した後、筆者はどんな気持ちでしたか。",
+        "question_vi": "Sau khi tham gia, tác giả cảm thấy thế nào?",
+        "answers": [
+          {"text": "疲れすぎて、もう参加したくないと思った。", "text_vi": "Mệt quá và nghĩ không muốn tham gia nữa.", "is_correct": false},
+          {"text": "疲れたが、心が満たされた感覚もあった。", "text_vi": "Mệt nhưng cũng có cảm giác lòng được thỏa mãn.", "is_correct": true},
+          {"text": "疲れは全くなく、とても元気だった。", "text_vi": "Hoàn toàn không mệt, rất tràn đầy năng lượng.", "is_correct": false},
+          {"text": "また参加するかどうかまだ決めていない。", "text_vi": "Chưa quyết định có tham gia lại không.", "is_correct": false}
+        ],
+        "explanation": "Câu 9 nói「単に疲れただけでなく、心が満たされた感覚があった」→ だけでなく = không chỉ... mà còn (cả hai: mệt VÀ thỏa mãn). Câu 10 xác nhận tác giả đã quyết định tham gia lại → đáp án D sai."
+      },
+      {
+        "id": "R_0148_Q3",
+        "question": "筆者はこのボランティア経験から何を学びましたか。最もよくまとめているのはどれですか。",
+        "question_vi": "Tác giả học được gì từ trải nghiệm tình nguyện này? Đáp án nào tóm tắt đúng nhất?",
+        "answers": [
+          {"text": "地域清掃の方法とゴミの分け方。", "text_vi": "Phương pháp dọn dẹp khu vực và cách phân loại rác.", "is_correct": false},
+          {"text": "地域のつながりの大切さと、地域を大切にする気持ち。", "text_vi": "Tầm quan trọng của mối liên kết trong khu vực và cảm giác trân trọng nơi mình sống.", "is_correct": true},
+          {"text": "ボランティアは疲れるだけで意味がないこと。", "text_vi": "Tình nguyện chỉ mệt mà không có ý nghĩa.", "is_correct": false},
+          {"text": "友人をボランティアに誘う方法。", "text_vi": "Cách rủ bạn bè tham gia tình nguyện.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói「地域の人たちとのつながりの大切さを感じることができた」và câu 8 nói「自分の地域をもっと大切にしようという気持ちを育ててくれた」→ 2 bài học chính. ⚠️ Bẫy: đáp án C ngược với nội dung (câu 9 nói không chỉ mệt mà còn thỏa mãn). Đáp án D là kế hoạch tương lai, không phải bài học."
+      }
+    ]
+  },
+  {
+    "id": "R_0149",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "料理を作る楽しさ",
+    "title_vi": "Niềm vui nấu ăn",
+    "topic": "daily_life",
+    "subtopic": "sở thích cá nhân",
+    "tags": ["うちに", "ことで", "ようになった", "てしまう", "ことがある"],
+    "grammar_used": ["～うちに", "～ことで", "～ようになった", "～てしまう", "～ことがある"],
+    "sentence_count": 10,
+    "text": "料理が得意になったのは、一人暮らしを始めてからだ。最初は簡単なものしか作れなかったが、毎日作っているうちに少しずつコツをつかんでいった。失敗することもあったが、失敗を繰り返すことで、どうすれば上手くできるかがわかるようになった。料理をすることで、食材の値段や栄養のことを自然に考えるようになった。例えば、野菜は旬のものを選ぶと安くて栄養も豊富だと気づいてから、季節の野菜を積極的に使うようになった。また、家族や友人に手料理を食べてもらうと、とてもうれしい気持ちになる。「おいしい」と言ってもらえると、もっと上手くなりたいという気持ちが強くなる。ただ、凝った料理を作ろうとすると時間を忘れてしまうことがある。夢中になると、気がつけば2時間以上台所に立っていたということもある。料理は単なる生活の作業ではなく、自分を表現する手段にもなりうると感じている。",
+    "translation": "Tôi trở nên giỏi nấu ăn là từ khi bắt đầu sống một mình. Ban đầu chỉ làm được những món đơn giản, nhưng trong quá trình nấu mỗi ngày, dần dần tôi nắm được bí quyết. Dù có lúc thất bại, nhưng nhờ thất bại nhiều lần, tôi đã hiểu được cần làm thế nào thì mới ngon. Nhờ việc nấu ăn, tôi đã bắt đầu tự nhiên suy nghĩ về giá thực phẩm và dinh dưỡng. Ví dụ, từ khi nhận ra rằng chọn rau theo mùa thì vừa rẻ vừa giàu dinh dưỡng, tôi đã bắt đầu chủ động dùng rau theo mùa. Ngoài ra, khi được gia đình hay bạn bè ăn món tự nấu, tôi cảm thấy rất vui. Khi được nói \"ngon\", cảm giác muốn giỏi hơn nữa lại càng mạnh lên. Tuy nhiên, đôi khi tôi mải làm món cầu kỳ mà quên mất thời gian. Khi mê mải, có khi nhìn lại đã đứng bếp hơn 2 tiếng mà không hay. Tôi cảm thấy nấu ăn không chỉ là công việc sinh hoạt thông thường mà còn có thể là phương tiện để thể hiện bản thân.",
+    "vocabulary": [
+      {"word": "一人暮らし", "reading": "ひとりぐらし", "meaning": "sống một mình"},
+      {"word": "コツをつかむ", "reading": "こつをつかむ", "meaning": "nắm được bí quyết"},
+      {"word": "旬", "reading": "しゅん", "meaning": "đúng mùa, theo mùa"},
+      {"word": "積極的", "reading": "せっきょくてき", "meaning": "chủ động, tích cực"},
+      {"word": "凝った", "reading": "こった", "meaning": "cầu kỳ, công phu"},
+      {"word": "手段", "reading": "しゅだん", "meaning": "phương tiện, cách thức"}
+    ],
+    "process": [
+      {
+        "sentence": "料理が得意になったのは、一人暮らしを始めてからだ。",
+        "chunks": "料理が得意になった / のは / 一人暮らしを始めて / からだ",
+        "guide": "のは～からだ → ⚠️ Bẫy: cấu trúc 「のは～からだ」= lý do là vì... (câu giải thích nguyên nhân đặt ở cuối) → 🔒 Đóng gói: 'lý do giỏi nấu [= từ khi sống một mình]' → câu mở đề ra chủ đề + lý do ngay",
+        "translation": "Tôi trở nên giỏi nấu ăn là từ khi bắt đầu sống một mình."
+      },
+      {
+        "sentence": "最初は簡単なものしか作れなかったが、毎日作っているうちに少しずつコツをつかんでいった。",
+        "chunks": "最初は / 簡単なものしか / 作れなかった / が / 毎日作っている / うちに / 少しずつ / コツをつかんで / いった",
+        "guide": "しか～ない = chỉ... (thôi) → が = nhưng (đảo chiều) → うちに → 💡 Insight: うちに = trong khoảng thời gian đang làm việc đó, tự nhiên điều gì đó xảy ra → 🔒 Đóng gói: 'trong khi nấu mỗi ngày [→ tự nhiên nắm bí quyết]' → ていった = dần dần (tiến về tương lai)",
+        "translation": "Ban đầu chỉ làm được những món đơn giản, nhưng trong quá trình nấu mỗi ngày, dần dần tôi nắm được bí quyết."
+      },
+      {
+        "sentence": "失敗することもあったが、失敗を繰り返すことで、どうすれば上手くできるかがわかるようになった。",
+        "chunks": "失敗することも / あったが / 失敗を繰り返す / ことで / どうすれば上手くできるか / がわかる / ようになった",
+        "guide": "こともあった = cũng có lúc... (thừa nhận nhẹ nhàng) → が = nhưng → ことで → 🔒 Đóng gói: 'nhờ việc thất bại nhiều lần [→ hiểu ra]' → どうすれば～か = cần làm thế nào thì... (câu hỏi gián tiếp gói trong mệnh đề) → ようになった = dần dần hiểu ra",
+        "translation": "Dù có lúc thất bại, nhưng nhờ thất bại nhiều lần, tôi đã hiểu được cần làm thế nào thì mới ngon."
+      },
+      {
+        "sentence": "料理をすることで、食材の値段や栄養のことを自然に考えるようになった。",
+        "chunks": "料理をする / ことで / 食材の値段や栄養のことを / 自然に / 考えるようになった",
+        "guide": "ことで → 🔒 Đóng gói: 'nhờ việc nấu ăn [→ thay đổi nhận thức]' → 自然に = một cách tự nhiên (không cố ý, tự bản thân hình thành) → ようになった = bắt đầu tự nhiên làm việc đó",
+        "translation": "Nhờ việc nấu ăn, tôi đã bắt đầu tự nhiên suy nghĩ về giá thực phẩm và dinh dưỡng."
+      },
+      {
+        "sentence": "例えば、野菜は旬のものを選ぶと安くて栄養も豊富だと気づいてから、季節の野菜を積極的に使うようになった。",
+        "chunks": "例えば / 野菜は旬のものを選ぶ / と / 安くて栄養も豊富だ / と気づいて / から / 季節の野菜を積極的に / 使うようになった",
+        "guide": "例えば → ví dụ cụ thể → と → hệ quả tất yếu (chọn rau theo mùa → rẻ và giàu dinh dưỡng) → と気づいてから → 🔒 Đóng gói: 'từ khi nhận ra rằng [→ thay đổi hành động]' → ようになった = bắt đầu chủ động làm",
+        "translation": "Ví dụ, từ khi nhận ra rằng chọn rau theo mùa thì vừa rẻ vừa giàu dinh dưỡng, tôi đã bắt đầu chủ động dùng rau theo mùa."
+      },
+      {
+        "sentence": "また、家族や友人に手料理を食べてもらうと、とてもうれしい気持ちになる。",
+        "chunks": "また / 家族や友人に / 手料理を / 食べてもらう / と / とてもうれしい / 気持ちになる",
+        "guide": "また → chủ đề mới: niềm vui từ người khác → てもらう = nhờ (người khác) làm cho mình (mình là người được lợi) → と → 🔒 Đóng gói: 'khi được ăn [→ cảm xúc tự nhiên phát sinh]'",
+        "translation": "Ngoài ra, khi được gia đình hay bạn bè ăn món tự nấu, tôi cảm thấy rất vui."
+      },
+      {
+        "sentence": "「おいしい」と言ってもらえると、もっと上手くなりたいという気持ちが強くなる。",
+        "chunks": "「おいしい」と / 言ってもらえる / と / もっと上手くなりたい / という / 気持ちが / 強くなる",
+        "guide": "と言ってもらえる = được (người khác) nói... cho mình (thể có thể + てもらえる = nhận được sự thuận lợi) → と → 🔒 Đóng gói: 'khi được nói ngon [→ cảm xúc tự nhiên]' → という気持ち = cảm giác muốn... (という gói ý định)",
+        "translation": "Khi được nói \"ngon\", cảm giác muốn giỏi hơn nữa lại càng mạnh lên."
+      },
+      {
+        "sentence": "ただ、凝った料理を作ろうとすると時間を忘れてしまうことがある。",
+        "chunks": "ただ / 凝った料理を / 作ろうとする / と / 時間を忘れて / しまう / ことがある",
+        "guide": "ただ → ⚠️ Bẫy: ただ = tuy nhiên (chuyển sang mặt tiêu cực/hạn chế nhỏ) → ようとすると → hệ quả tất yếu khi cố làm điều đó → てしまう = lỡ làm (không cố ý) → ことがある = đôi khi xảy ra",
+        "translation": "Tuy nhiên, đôi khi tôi mải làm món cầu kỳ mà quên mất thời gian."
+      },
+      {
+        "sentence": "夢中になると、気がつけば2時間以上台所に立っていたということもある。",
+        "chunks": "夢中になる / と / 気がつけば / 2時間以上 / 台所に立っていた / ということもある",
+        "guide": "夢中になる = mải mê, bị cuốn vào → と → hệ quả tất yếu → 気がつけば → ⚠️ Bẫy: 気がつけば = khi nhìn lại/khi nhận ra (diễn đạt thời gian trôi qua mà không hay) → 🔒 Đóng gói: 'khi nhìn lại [đã đứng bếp 2 tiếng]' → ということもある = cũng có khi như vậy",
+        "translation": "Khi mê mải, có khi nhìn lại đã đứng bếp hơn 2 tiếng mà không hay."
+      },
+      {
+        "sentence": "料理は単なる生活の作業ではなく、自分を表現する手段にもなりうると感じている。",
+        "chunks": "料理は / 単なる生活の作業ではなく / 自分を表現する / 手段にも / なりうる / と感じている",
+        "guide": "単なる～ではなく → 🔒 Đóng gói: 'không chỉ đơn thuần là công việc [mà còn hơn thế]' → なりうる → 💡 Insight: うる/える = có khả năng trở thành (khả năng tiềm năng, văn viết) → と感じている = đang cảm thấy (kết bài bằng quan điểm cá nhân)",
+        "translation": "Tôi cảm thấy nấu ăn không chỉ là công việc sinh hoạt thông thường mà còn có thể là phương tiện để thể hiện bản thân."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0149_Q1",
+        "question": "筆者が料理が得意になったのはいつからですか。",
+        "question_vi": "Tác giả trở nên giỏi nấu ăn từ khi nào?",
+        "answers": [
+          {"text": "子どものころから料理が好きだったから。", "text_vi": "Vì từ nhỏ đã thích nấu ăn.", "is_correct": false},
+          {"text": "一人暮らしを始めてから。", "text_vi": "Từ khi bắt đầu sống một mình.", "is_correct": true},
+          {"text": "料理教室に通い始めてから。", "text_vi": "Từ khi bắt đầu đi học lớp nấu ăn.", "is_correct": false},
+          {"text": "友人に料理を教えてもらってから。", "text_vi": "Từ khi được bạn bè dạy nấu ăn.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 nói「料理が得意になったのは、一人暮らしを始めてからだ」→ のは～からだ = lý do là vì... Bài không đề cập lớp học nấu ăn hay bạn bè dạy."
+      },
+      {
+        "id": "R_0149_Q2",
+        "question": "筆者が旬の野菜を使うようになった理由は何ですか。",
+        "question_vi": "Lý do tác giả bắt đầu dùng rau theo mùa là gì?",
+        "answers": [
+          {"text": "旬の野菜のほうが見た目がきれいだから。", "text_vi": "Vì rau theo mùa đẹp hơn về ngoại hình.", "is_correct": false},
+          {"text": "スーパーで旬の野菜しか売っていないから。", "text_vi": "Vì siêu thị chỉ bán rau theo mùa.", "is_correct": false},
+          {"text": "旬の野菜は安くて栄養が豊富だと気づいたから。", "text_vi": "Vì nhận ra rau theo mùa vừa rẻ vừa giàu dinh dưỡng.", "is_correct": true},
+          {"text": "家族に旬の野菜を使うように言われたから。", "text_vi": "Vì được gia đình nói phải dùng rau theo mùa.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 nói「野菜は旬のものを選ぶと安くて栄養も豊富だと気づいてから、季節の野菜を積極的に使うようになった」→ と気づいてから = từ khi nhận ra. Bài không nhắc gia đình yêu cầu hay siêu thị giới hạn."
+      },
+      {
+        "id": "R_0149_Q3",
+        "question": "筆者にとって料理とはどんなものですか。",
+        "question_vi": "Đối với tác giả, nấu ăn là gì?",
+        "answers": [
+          {"text": "毎日やらなければならない面倒な仕事。", "text_vi": "Công việc phiền phức phải làm mỗi ngày.", "is_correct": false},
+          {"text": "時間がかかりすぎてやめたいと思っているもの。", "text_vi": "Thứ tốn quá nhiều thời gian và muốn bỏ.", "is_correct": false},
+          {"text": "生活の作業であるだけでなく、自分を表現する手段にもなりうるもの。", "text_vi": "Không chỉ là công việc sinh hoạt mà còn có thể là phương tiện thể hiện bản thân.", "is_correct": true},
+          {"text": "友人に教えるために練習しているもの。", "text_vi": "Thứ đang luyện tập để dạy cho bạn bè.", "is_correct": false}
+        ],
+        "explanation": "Câu cuối nói「料理は単なる生活の作業ではなく、自分を表現する手段にもなりうると感じている」→ ではなく～にもなりうる = không chỉ là... mà còn có thể là... Đây là quan điểm tổng kết của tác giả. ⚠️ Bẫy: câu 8-9 nói quên giờ khi nấu, nhưng đó không có nghĩa là muốn bỏ — ngược lại, thể hiện sự mê mải."
+      }
+    ]
+  }
+]

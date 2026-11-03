@@ -1,0 +1,1469 @@
+[
+  {
+    "id": "L35_FP_01",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "毎日運動することで健康を維持できます。",
+    "sentence_translation": "Bằng cách tập thể dục mỗi ngày, có thể duy trì sức khỏe.",
+    "question_text": "毎日運動する（　）健康を維持できます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことから",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことで",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ことで = \"bằng cách ~/nhờ ~\" (phương tiện). こと danh từ hóa hành động + で chỉ phương tiện. Nhớ: 電車で行く (bằng tàu) -> 運動することで (bằng cách tập). で vẫn là phương tiện, nhưng phía trước là HÀNH ĐỘNG",
+    "hint": "\"Bằng cách tập\" -> phương tiện/cách thức dẫn đến kết quả -> dùng gì?",
+    "tags": [
+      "ことで",
+      "phuong_tien"
+    ]
+  },
+  {
+    "id": "L35_FP_02",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "形が猫に似ていることから「猫山」と呼ばれている。",
+    "sentence_translation": "Vì hình dáng giống mèo nên được gọi là \"Núi Mèo\".",
+    "question_text": "形が猫に似ている（　）「猫山」と呼ばれている。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことから",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことで",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことから = \"từ việc ~/vì ~\" (nguồn gốc/căn cứ khách quan). こと danh từ hóa + から xuất phát điểm. Nhớ: 駅から歩く (từ ga) -> 似ていることから (từ việc giống). から vẫn là \"từ\", nhưng điểm xuất phát là SỰ THẬT",
+    "hint": "\"Từ việc giống mèo\" -> căn cứ khách quan dẫn đến tên gọi -> dùng gì?",
+    "tags": [
+      "ことから",
+      "can_cu",
+      "nguon_goc"
+    ]
+  },
+  {
+    "id": "L35_FP_03",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "電車で行くより歩いたほうが早いです。",
+    "sentence_translation": "Đi bộ nhanh hơn đi bằng tàu.",
+    "question_text": "電車で行く（　）歩いたほうが早いです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ことで",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "には",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のは",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "より",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vるより = \"so với việc ~\". Nhớ: 東京より大阪が好き (thích Osaka hơn Tokyo) -> 行くより (so với việc đi). より vẫn là so sánh, nhưng đối tượng so sánh là HÀNH ĐỘNG. Sau より thường có ほうがいい/ほうが～",
+    "hint": "\"So với đi tàu\" -> so sánh hành động -> dùng gì?",
+    "tags": [
+      "より",
+      "so_sanh"
+    ]
+  },
+  {
+    "id": "L35_FP_04",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語を上手に話すには毎日練習する必要がある。",
+    "sentence_translation": "Để nói tiếng Nhật giỏi, cần luyện tập mỗi ngày.",
+    "question_text": "日本語を上手に話す（　）毎日練習する必要がある。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "には",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ように",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vるには = \"để ~ thì phải...\". に = mục đích + は = nhấn mạnh. Nhớ: 買い物に行く (đi mua sắm) -> 話すには (để nói thì). Sau には luôn là ĐIỀU KIỆN/YÊU CẦU (必要がある, なければならない...)",
+    "hint": "\"Để nói giỏi THÌ phải...\" -> mục đích + điều kiện cần -> dùng gì?",
+    "tags": [
+      "には",
+      "muc_dich",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L35_FP_05",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この問題を解決したのは若い研究者だった。",
+    "sentence_translation": "Người giải quyết vấn đề này là nhà nghiên cứu trẻ.",
+    "question_text": "この問題を解決した（　）若い研究者だった。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "のが",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことは",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことで",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のは",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vたのは～だ = \"cái/người mà ~ là...\" (nhấn mạnh). の danh từ hóa + は chủ đề. Toàn bộ trước のは = \"người mà đã giải quyết\". Sau のは = ĐÁP ÁN được nhấn mạnh. Cấu trúc cleft sentence rất phổ biến trong văn viết",
+    "hint": "\"Người MÀ giải quyết\" = nhấn mạnh AI -> dùng gì?",
+    "tags": [
+      "のは",
+      "nhan_manh",
+      "cleft"
+    ]
+  },
+  {
+    "id": "L35_FP_06",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "今は結果を待つことしかできない。",
+    "sentence_translation": "Bây giờ chỉ có thể chờ kết quả mà thôi.",
+    "question_text": "今は結果を待つ（　）できない。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ことが",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことしか",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ことは",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことも",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことしか～ない = \"chỉ có thể ~ mà thôi\". こと danh từ hóa + しか...ない giới hạn. Nhớ: 水しかない (chỉ có nước) -> 待つことしかできない (chỉ có thể chờ). しか giới hạn cho HÀNH ĐỘNG, luôn kết bằng PHỦ ĐỊNH",
+    "hint": "\"CHỈ CÓ THỂ chờ mà thôi\" -> giới hạn duy nhất -> dùng gì?",
+    "tags": [
+      "ことしか",
+      "gioi_han",
+      "phu_dinh"
+    ]
+  },
+  {
+    "id": "L35_FP_07",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "外国に住むことで新しい価値観を学ぶことができる。",
+    "sentence_translation": "Nhờ sống ở nước ngoài, có thể học được quan điểm giá trị mới.",
+    "question_text": "外国に住む（　）新しい価値観を学ぶことができる。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ことで",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ことから",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことで = phương tiện/cách thức -> kết quả. 住むことで = \"nhờ việc sống\" -> 学べる (học được). KHÁC ことから (căn cứ khách quan -> kết luận/tên gọi). ことで nhấn mạnh PHƯƠNG TIỆN đạt kết quả, ことから nhấn mạnh CĂN CỨ rút ra kết luận",
+    "hint": "\"Nhờ sống ở nước ngoài\" -> phương tiện dẫn đến KẾT QUẢ -> dùng gì?",
+    "tags": [
+      "ことで",
+      "phuong_tien",
+      "ket_qua"
+    ]
+  },
+  {
+    "id": "L35_FP_08",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この地域は雨が多いことから「雨の都」と呼ばれている。",
+    "sentence_translation": "Vì mưa nhiều nên vùng này được gọi là \"Thành phố Mưa\".",
+    "question_text": "この地域は雨が多い（　）「雨の都」と呼ばれている。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことで",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことから",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことから = căn cứ khách quan -> kết luận/tên gọi. 多いことから = \"từ việc nhiều\". Thường đi với 呼ばれている (được gọi), 言われている (được nói). KHÁC から đơn (lý do cá nhân). ことから = sự thật khách quan",
+    "hint": "\"Từ việc mưa nhiều\" -> căn cứ khách quan -> tên gọi -> dùng gì?",
+    "tags": [
+      "ことから",
+      "ten_goi",
+      "khach_quan"
+    ]
+  },
+  {
+    "id": "L35_FP_09",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "一人で悩むより誰かに相談したほうがいい。",
+    "sentence_translation": "Thay vì một mình lo lắng, nên hỏi ai đó thì tốt hơn.",
+    "question_text": "一人で悩む（　）誰かに相談したほうがいい。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "には",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことで",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "より",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "のは",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vるより = \"so với việc ~/thay vì ~\". 悩むより = \"thay vì lo lắng\". Sau より có ほうがいい = \"tốt hơn\". Gặp Vるより -> đóng gói phía trước thành \"so với ~\" -> phần sau là LỰA CHỌN TỐT HƠN",
+    "hint": "\"Thay vì lo lắng\" -> so sánh hành động -> vế sau TỐT HƠN -> dùng gì?",
+    "tags": [
+      "より",
+      "so_sanh",
+      "ほうがいい"
+    ]
+  },
+  {
+    "id": "L35_FP_10",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この大学に入るには難しい試験に合格しなければならない。",
+    "sentence_translation": "Để vào đại học này, phải đỗ kỳ thi khó.",
+    "question_text": "この大学に入る（　）難しい試験に合格しなければならない。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ように",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "には",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "には = \"để ~ thì phải...\". Sau には là ĐIỀU KIỆN BẮT BUỘC: 合格しなければならない (phải đỗ). KHÁC ために (mục đích + hành động chủ động). には nhấn mạnh \"muốn làm A thì PHẢI đáp ứng B\"",
+    "hint": "\"Để vào THÌ phải đỗ\" -> mục đích + yêu cầu bắt buộc -> dùng gì?",
+    "tags": [
+      "には",
+      "dieu_kien",
+      "bat_buoc"
+    ]
+  },
+  {
+    "id": "L35_FP_11",
+    "lesson_id": 35,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あの時は黙って見ていることしかできなかった。",
+    "sentence_translation": "Lúc đó chỉ có thể im lặng đứng nhìn mà thôi.",
+    "question_text": "あの時は黙って見ている（　）できなかった。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ことしか",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ことが",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことは",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ことも",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことしか～ない = giới hạn hành động duy nhất. 見ていることしかできなかった = \"chỉ có thể đứng nhìn mà thôi\" (quá khứ). Gặp しか -> câu CHẮC CHẮN kết bằng phủ định (ない/できない). Đây là \"biển báo\" rất mạnh",
+    "hint": "\"CHỈ CÓ THỂ nhìn mà thôi\" -> hành động duy nhất có thể -> dùng gì?",
+    "tags": [
+      "ことしか",
+      "gioi_han",
+      "qua_khu"
+    ]
+  },
+  {
+    "id": "L35_PR_12",
+    "lesson_id": 35,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "毎日読書することで...",
+    "sentence_translation": "Bằng cách đọc sách mỗi ngày...",
+    "question_text": "毎日読書することで... -> Gặp ことで, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có TÊN GỌI/kết luận",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có ĐIỀU KIỆN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có KẾT QUẢ đạt được nhờ cách thức này",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có SO SÁNH",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことで = \"bằng cách ~/nhờ ~\" -> dự đoán: sắp có KẾT QUẢ đạt được. 読書することで → 知識が増える (kiến thức tăng lên). Sau ことで luôn là KẾT QUẢ TÍCH CỰC đạt được nhờ phương tiện đó",
+    "hint": null,
+    "tags": [
+      "ことで",
+      "du_doan",
+      "ket_qua"
+    ]
+  },
+  {
+    "id": "L35_PR_13",
+    "lesson_id": 35,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この花は形が星に似ていることから...",
+    "sentence_translation": "Từ việc hoa này có hình giống ngôi sao...",
+    "question_text": "似ていることから... -> Gặp ことから, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐIỀU KIỆN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có KẾT QUẢ đạt được",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có TÊN GỌI/kết luận phát sinh từ căn cứ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có SO SÁNH",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことから = \"từ việc ~\" -> dự đoán: sắp có TÊN GỌI hoặc KẾT LUẬN. 似ていることから → 「星花」と呼ばれている (được gọi là \"Hoa Sao\"). Sau ことから thường là 呼ばれている/名付けられた/言われている",
+    "hint": null,
+    "tags": [
+      "ことから",
+      "du_doan",
+      "ten_goi"
+    ]
+  },
+  {
+    "id": "L35_PR_14",
+    "lesson_id": 35,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "タクシーで行くより...",
+    "sentence_translation": "So với việc đi taxi...",
+    "question_text": "行くより... -> Gặp Vるより, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐIỀU KIỆN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có LỰA CHỌN TỐT HƠN (thường có ほうが)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có KẾT QUẢ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vるより = \"so với việc ~\" -> dự đoán: sắp có VẾ TỐT HƠN. 行くより → 歩いたほうが安い (đi bộ rẻ hơn). Sau より thường có ほうがいい/ほうが+tính từ. Đóng gói phía trước thành \"so với ~\"",
+    "hint": null,
+    "tags": [
+      "より",
+      "du_doan",
+      "lua_chon"
+    ]
+  },
+  {
+    "id": "L35_PR_15",
+    "lesson_id": 35,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この資格を取るには...",
+    "sentence_translation": "Để lấy chứng chỉ này...",
+    "question_text": "取るには... -> Gặp Vるには, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐIỀU KIỆN/YÊU CẦU cần đáp ứng",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có TÊN GỌI",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có KẾT QUẢ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có SO SÁNH",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "には = \"để ~ thì phải...\" -> dự đoán: sắp có ĐIỀU KIỆN/YÊU CẦU. 取るには → 3年以上の経験が必要だ (cần kinh nghiệm 3 năm trở lên). Sau には luôn là điều PHẢI LÀM/PHẢI CÓ (必要がある, べきだ, なければならない)",
+    "hint": null,
+    "tags": [
+      "には",
+      "du_doan",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L35_PR_16",
+    "lesson_id": 35,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私が日本に来たのは...",
+    "sentence_translation": "Việc tôi đến Nhật là...",
+    "question_text": "来たのは... -> Gặp Vたのは, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐIỀU KIỆN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có SO SÁNH",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có ĐÁP ÁN nhấn mạnh (là AI/CÁI GÌ/KHI NÀO) kết bằng ~だ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "のは = \"cái/lúc mà ~\" -> dự đoán: sắp có ĐÁP ÁN nhấn mạnh, kết bằng ~だ/~です. 来たのは → 去年の春だ (là mùa xuân năm ngoái). Não chuyển sang chế độ \"chờ đáp án\". Cấu trúc cleft sentence",
+    "hint": null,
+    "tags": [
+      "のは",
+      "du_doan",
+      "dap_an"
+    ]
+  },
+  {
+    "id": "L35_CH_17",
+    "lesson_id": 35,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "毎日運動することで健康を維持できます",
+    "sentence_translation": "Bằng cách tập thể dục mỗi ngày, có thể duy trì sức khỏe.",
+    "question_text": "毎日運動することで健康を維持できます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "毎日運動することで",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "健康を維持できます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "毎日運動することで = 🔒 \"bằng cách tập thể dục mỗi ngày\" (phương tiện, đóng gói loại 2) | 健康を維持できます = có thể duy trì sức khỏe (kết quả). ことで chia câu: PHƯƠNG TIỆN + KẾT QUẢ",
+    "hint": null,
+    "tags": [
+      "ことで",
+      "chunking",
+      "phuong_tien"
+    ]
+  },
+  {
+    "id": "L35_CH_18",
+    "lesson_id": 35,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "電車で行くより歩いたほうが早いです",
+    "sentence_translation": "Đi bộ nhanh hơn đi bằng tàu.",
+    "question_text": "電車で行くより歩いたほうが早いです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "電車で行くより",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "歩いたほうが",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "早いです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "電車で行くより = 🔒 \"so với đi tàu\" (đóng gói loại 2) | 歩いたほうが = phía đi bộ | 早いです = nhanh hơn. より chia câu: VẾ SO SÁNH + VẾ TỐT HƠN + TÍNH TỪ",
+    "hint": null,
+    "tags": [
+      "より",
+      "chunking",
+      "so_sanh"
+    ]
+  },
+  {
+    "id": "L35_CH_19",
+    "lesson_id": 35,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "今は結果を待つことしかできない",
+    "sentence_translation": "Bây giờ chỉ có thể chờ kết quả mà thôi.",
+    "question_text": "今は結果を待つことしかできない",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "今は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "結果を待つことしか",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "できない",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "今は = bây giờ (chủ đề) | 結果を待つことしか = 🔒 \"chỉ có việc chờ kết quả mà thôi\" (đóng gói loại 2, giới hạn) | できない = không thể. しか -> CHẮC CHẮN kết bằng phủ định",
+    "hint": null,
+    "tags": [
+      "ことしか",
+      "chunking",
+      "gioi_han"
+    ]
+  },
+  {
+    "id": "L35_CH_20",
+    "lesson_id": 35,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "この問題を解決したのは若い研究者だった",
+    "sentence_translation": "Người giải quyết vấn đề này là nhà nghiên cứu trẻ.",
+    "question_text": "この問題を解決したのは若い研究者だった",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この問題を解決したのは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "若い研究者だった",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "この問題を解決したのは = 🔒 \"người mà đã giải quyết vấn đề này\" (đóng gói loại 2, nhấn mạnh) | 若い研究者だった = là nhà nghiên cứu trẻ (ĐÁP ÁN). のは chia câu: CÂU HỎI NGẦM + ĐÁP ÁN",
+    "hint": null,
+    "tags": [
+      "のは",
+      "chunking",
+      "nhan_manh"
+    ]
+  },
+  {
+    "id": "L35_CH_21",
+    "lesson_id": 35,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本語を上手に話すには毎日練習する必要がある",
+    "sentence_translation": "Để nói tiếng Nhật giỏi, cần luyện tập mỗi ngày.",
+    "question_text": "日本語を上手に話すには毎日練習する必要がある",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本語を上手に話すには",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "毎日",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "練習する必要がある",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "日本語を上手に話すには = 🔒 \"để nói tiếng Nhật giỏi thì\" (đóng gói loại 2, mục đích) | 毎日 = mỗi ngày | 練習する必要がある = cần luyện tập. には chia câu: MỤC ĐÍCH + YÊU CẦU",
+    "hint": null,
+    "tags": [
+      "には",
+      "chunking",
+      "muc_dich"
+    ]
+  },
+  {
+    "id": "L35_PD_22",
+    "lesson_id": 35,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "運動することで健康になる / 運動することから「スポーツマン」と呼ばれる",
+    "sentence_translation": "Nhờ tập thể dục mà khỏe mạnh. / Vì hay tập thể dục nên được gọi là \"tay thể thao\".",
+    "question_text": "Câu nào nhấn mạnh PHƯƠNG TIỆN/CÁCH THỨC đạt kết quả?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "運動することで健康になる (ことで = phương tiện -> kết quả đạt được)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "運動することから呼ばれる (ことから = căn cứ khách quan -> tên gọi/kết luận)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことで = PHƯƠNG TIỆN -> KẾT QUẢ. ことから = CĂN CỨ -> KẾT LUẬN/TÊN GỌI. ことで trả lời \"bằng cách nào?\". ことから trả lời \"từ đâu mà có kết luận đó?\". Cùng こと nhưng で vs から tạo nghĩa KHÁC nhau",
+    "hint": null,
+    "tags": [
+      "ことで",
+      "ことから",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L35_PD_23",
+    "lesson_id": 35,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語を話すには練習が必要だ / 日本語を話すために練習する",
+    "sentence_translation": "Để nói tiếng Nhật thì cần luyện tập. / Luyện tập để nói tiếng Nhật.",
+    "question_text": "Câu nào nêu ĐIỀU KIỆN/YÊU CẦU (phải có gì)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "日本語を話すために練習する (ために = mục đích + hành động chủ động)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "日本語を話すには練習が必要だ (には = mục đích + điều kiện bắt buộc)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "には = \"để ~ thì PHẢI...\". ために = \"để ~ mà LÀM...\". には nhấn mạnh ĐIỀU KIỆN CẦN (cần gì?). ために nhấn mạnh HÀNH ĐỘNG THỰC HIỆN (làm gì?). には -> 必要だ/べきだ. ために -> hành động cụ thể",
+    "hint": null,
+    "tags": [
+      "には",
+      "ために",
+      "phan_biet",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L35_PD_24",
+    "lesson_id": 35,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "本を読むことで知識が増える / 本を読むより映画を見たほうが楽しい",
+    "sentence_translation": "Nhờ đọc sách mà kiến thức tăng. / Xem phim vui hơn đọc sách.",
+    "question_text": "Câu nào nói về KẾT QUẢ đạt được nhờ phương tiện?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "本を読むことで知識が増える (ことで = phương tiện -> kết quả tích cực)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "本を読むより映画のほうが楽しい (より = so sánh -> vế tốt hơn)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことで = PHƯƠNG TIỆN dẫn đến KẾT QUẢ. より = SO SÁNH 2 lựa chọn. ことで trả lời \"nhờ gì mà được?\". より trả lời \"cái nào hơn?\". Cùng đối tượng (đọc sách) nhưng trợ từ khác -> câu hỏi khác",
+    "hint": null,
+    "tags": [
+      "ことで",
+      "より",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L35_PD_25",
+    "lesson_id": 35,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私が書いたのはこの本だ / 私がこの本を書いたことで有名になった",
+    "sentence_translation": "Cái tôi viết là quyển sách này. / Nhờ viết quyển sách này mà nổi tiếng.",
+    "question_text": "Câu nào là cấu trúc NHẤN MẠNH (cleft sentence)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "私がこの本を書いたことで有名になった (ことで = phương tiện dẫn đến kết quả)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "私が書いたのはこの本だ (のは～だ = nhấn mạnh \"là CÁI GÌ\")",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "のは～だ = cấu trúc nhấn mạnh (cleft). Đảo câu: câu thường 私はこの本を書いた -> nhấn mạnh: 書いたのはこの本だ. ことで = phương tiện, KHÔNG phải nhấn mạnh. のは chờ ĐÁP ÁN, ことで chờ KẾT QUẢ",
+    "hint": null,
+    "tags": [
+      "のは",
+      "ことで",
+      "phan_biet",
+      "nhan_manh"
+    ]
+  },
+  {
+    "id": "L35_PK_26",
+    "lesson_id": 35,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "人と話すことで自分の考えが整理できる。",
+    "sentence_translation": "Nhờ nói chuyện với người khác mà có thể sắp xếp suy nghĩ.",
+    "question_text": "🔒 Gặp 話すことで -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói: \"từ việc nói chuyện\" (căn cứ)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói loại 2: \"nhờ việc nói chuyện với người khác\" (phương tiện) -> đọc tiếp tìm KẾT QUẢ đạt được",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"nói chuyện\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp ことで -> 🔒 đóng gói loại 2: toàn bộ mệnh đề trước thành \"nhờ ~/bằng cách ~\". 人と話すことで → \"nhờ nói chuyện\" → đọc tiếp: 考えが整理できる (sắp xếp được suy nghĩ). PHƯƠNG TIỆN + KẾT QUẢ",
+    "hint": null,
+    "tags": [
+      "ことで",
+      "dong_goi",
+      "phuong_tien"
+    ]
+  },
+  {
+    "id": "L35_PK_27",
+    "lesson_id": 35,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私が日本語を勉強し始めたのは大学に入ってからだ。",
+    "sentence_translation": "Tôi bắt đầu học tiếng Nhật là từ sau khi vào đại học.",
+    "question_text": "🔒 Gặp 勉強し始めたのは -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói: \"tôi đã bắt đầu học\" (xong)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói loại 2: \"việc tôi bắt đầu học tiếng Nhật\" -> chuyển sang chế độ \"chờ ĐÁP ÁN\" (là khi nào?)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"học tiếng Nhật\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp のは -> 🔒 đóng gói loại 2 + chế độ \"chờ đáp án\". 勉強し始めたのは → \"việc bắt đầu học LÀ...\" → đọc tiếp: 大学に入ってからだ = là từ sau khi vào đại học. のは = CÂU HỎI NGẦM, ~だ = ĐÁP ÁN",
+    "hint": null,
+    "tags": [
+      "のは",
+      "dong_goi",
+      "nhan_manh"
+    ]
+  },
+  {
+    "id": "L35_PK_28",
+    "lesson_id": 35,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "健康を維持するには適度な運動が大切だ。",
+    "sentence_translation": "Để duy trì sức khỏe, tập thể dục vừa phải là quan trọng.",
+    "question_text": "🔒 Gặp 維持するには -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ đóng gói \"duy trì\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói loại 2: \"để duy trì sức khỏe thì\" (mục đích) -> đọc tiếp tìm ĐIỀU KIỆN/YÊU CẦU",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"nhờ duy trì sức khỏe\" (phương tiện)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp には -> 🔒 đóng gói loại 2: \"để ~ thì...\". 維持するには → \"để duy trì thì\" → đọc tiếp: 適度な運動が大切だ (tập thể dục vừa phải là quan trọng). には -> ĐIỀU KIỆN CẦN. Thường kết bằng 必要だ/大切だ/べきだ",
+    "hint": null,
+    "tags": [
+      "には",
+      "dong_goi",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L35_PK_29",
+    "lesson_id": 35,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あの時は泣くことしかできなかった。",
+    "sentence_translation": "Lúc đó chỉ có thể khóc mà thôi.",
+    "question_text": "🔒 Gặp 泣くことしか -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"việc khóc\" (bình thường)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"khóc\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói loại 2: \"CHỈ CÓ việc khóc mà thôi\" (giới hạn) -> dự đoán câu kết bằng PHỦ ĐỊNH (ない/できない)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp ことしか -> 🔒 đóng gói loại 2: \"chỉ có thể ~ mà thôi\" + dự đoán PHỦ ĐỊNH. 泣くことしか → \"chỉ khóc\" → できなかった (không thể làm gì khác). しか là \"biển báo phủ định\": gặp しか -> chắc chắn có ない ở cuối",
+    "hint": null,
+    "tags": [
+      "ことしか",
+      "dong_goi",
+      "gioi_han"
+    ]
+  },
+  {
+    "id": "L35_RO_30",
+    "lesson_id": 35,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "毎日運動することで健康を維持できます。",
+    "sentence_translation": "Bằng cách tập thể dục mỗi ngày, có thể duy trì sức khỏe.",
+    "question_text": "毎日運動することで健康を維持できます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "健康を維持できます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "毎日運動することで",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "毎日運動することで (phương tiện: bằng cách tập) -> 健康を維持できます (kết quả: duy trì sức khỏe). PHƯƠNG TIỆN (ことで) đứng trước, KẾT QUẢ đứng sau",
+    "hint": null,
+    "tags": [
+      "ことで",
+      "reorder",
+      "phuong_tien"
+    ]
+  },
+  {
+    "id": "L35_RO_31",
+    "lesson_id": 35,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "今は結果を待つことしかできない。",
+    "sentence_translation": "Bây giờ chỉ có thể chờ kết quả mà thôi.",
+    "question_text": "今は結果を待つことしかできない。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "できない",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "今は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "結果を待つことしか",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "今は (bây giờ) -> 結果を待つことしか (chỉ có việc chờ kết quả) -> できない (không thể). しか luôn đứng TRƯỚC phủ định. Thứ tự: chủ đề -> giới hạn -> phủ định",
+    "hint": null,
+    "tags": [
+      "ことしか",
+      "reorder",
+      "phu_dinh"
+    ]
+  },
+  {
+    "id": "L35_RO_32",
+    "lesson_id": 35,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "この大学に入るには難しい試験に合格しなければならない。",
+    "sentence_translation": "Để vào đại học này, phải đỗ kỳ thi khó.",
+    "question_text": "この大学に入るには難しい試験に合格しなければならない。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "合格しなければならない",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "難しい試験に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "この大学に入るには",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "この大学に入るには (mục đích: để vào) -> 難しい試験に (kỳ thi khó) -> 合格しなければならない (phải đỗ). MỤC ĐÍCH (には) -> đối tượng -> YÊU CẦU",
+    "hint": null,
+    "tags": [
+      "には",
+      "reorder",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L35_RO_33",
+    "lesson_id": 35,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "一人で悩むより誰かに相談したほうがいい。",
+    "sentence_translation": "Thay vì lo lắng một mình, nên hỏi ai đó thì tốt hơn.",
+    "question_text": "一人で悩むより誰かに相談したほうがいい。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "ほうがいい",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "相談した",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "誰かに",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "一人で悩むより",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "一人で悩むより (so với lo lắng một mình) -> 誰かに (ai đó) -> 相談した (hỏi) -> ほうがいい (tốt hơn). VẾ SO SÁNH (より) -> đối tượng -> hành động -> đánh giá",
+    "hint": null,
+    "tags": [
+      "より",
+      "reorder",
+      "so_sanh"
+    ]
+  },
+  {
+    "id": "L35_QT_34",
+    "lesson_id": 35,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "本を読むことで想像力が豊かになる。",
+    "sentence_translation": "Nhờ đọc sách mà trí tưởng tượng phong phú hơn.",
+    "question_text": "読むことで / 想像力が豊かになる。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "So với đọc sách thì tưởng tượng tốt hơn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nhờ đọc sách mà trí tưởng tượng phong phú hơn. (ことで = phương tiện -> kết quả)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đọc sách để tưởng tượng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Từ việc đọc sách mà được gọi là người giàu tưởng tượng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことで = \"nhờ ~/bằng cách ~\" (phương tiện -> kết quả). 読むことで = nhờ đọc sách -> 想像力が豊かになる = trí tưởng tượng phong phú. KHÁC ことから (căn cứ -> kết luận/tên gọi)",
+    "hint": null,
+    "tags": [
+      "ことで",
+      "dich",
+      "phuong_tien"
+    ]
+  },
+  {
+    "id": "L35_QT_35",
+    "lesson_id": 35,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "バスで行くより自転車のほうが速い。",
+    "sentence_translation": "Đi xe đạp nhanh hơn đi xe buýt.",
+    "question_text": "行くより / 自転車のほうが速い。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đi xe đạp nhanh hơn đi xe buýt. (より = so sánh, ほうが = vế tốt hơn)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Để đi xe buýt thì cần xe đạp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi xe buýt xong rồi đi xe đạp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nhờ đi xe buýt mà xe đạp nhanh.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vるより = \"so với việc ~\". バスで行くより = \"so với đi xe buýt\". 自転車のほうが速い = \"xe đạp nhanh hơn\". より đánh dấu vế THẤP HƠN, ほうが đánh dấu vế CAO HƠN",
+    "hint": null,
+    "tags": [
+      "より",
+      "dich",
+      "so_sanh"
+    ]
+  },
+  {
+    "id": "L35_QT_36",
+    "lesson_id": 35,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語が上手になるには時間がかかる。",
+    "sentence_translation": "Để giỏi tiếng Nhật thì cần thời gian.",
+    "question_text": "上手になるには / 時間がかかる。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nhờ giỏi tiếng Nhật mà có thời gian.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Giỏi tiếng Nhật vì có thời gian.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "So với giỏi tiếng Nhật thì mất thời gian hơn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Để giỏi tiếng Nhật thì cần thời gian. (には = mục đích + điều kiện)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "には = \"để ~ thì phải/cần...\". 上手になるには = \"để giỏi thì\". Sau には là điều kiện: 時間がかかる (cần thời gian). には luôn theo sau bởi YÊU CẦU/ĐIỀU KIỆN cần đáp ứng",
+    "hint": null,
+    "tags": [
+      "には",
+      "dich",
+      "dieu_kien"
+    ]
+  },
+  {
+    "id": "L35_QT_37",
+    "lesson_id": 35,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼が来なかったのは天気が悪かったからだ。",
+    "sentence_translation": "Anh ấy không đến là vì thời tiết xấu.",
+    "question_text": "来なかったのは / 天気が悪かったからだ。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nhờ anh ấy không đến mà thời tiết tốt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "So với anh ấy không đến thì thời tiết xấu hơn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh ấy không đến là vì thời tiết xấu. (のは～からだ = nhấn mạnh lý do)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Anh ấy không đến nên thời tiết xấu.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "のは～からだ = \"~ là VÌ...\" (nhấn mạnh LÝ DO). 来なかったのは = \"việc không đến LÀ...\" -> 天気が悪かったからだ = \"vì thời tiết xấu\". のは～だ cũng dùng để nhấn mạnh NGUYÊN NHÂN, không chỉ người/vật",
+    "hint": null,
+    "tags": [
+      "のは",
+      "dich",
+      "nhan_manh",
+      "ly_do"
+    ]
+  },
+  {
+    "id": "L35_QT_38",
+    "lesson_id": 35,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この道が有名なのは桜が美しいことからだ。",
+    "sentence_translation": "Con đường này nổi tiếng vì hoa anh đào đẹp.",
+    "question_text": "有名なのは / 桜が美しいことからだ。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "So với hoa anh đào thì con đường nổi tiếng hơn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nhờ con đường nổi tiếng mà hoa đào đẹp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Để con đường nổi tiếng thì cần hoa đào đẹp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Con đường này nổi tiếng là vì hoa anh đào đẹp. (のは～ことからだ = nhấn mạnh căn cứ)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "のは～ことからだ = kết hợp のは (nhấn mạnh) + ことから (căn cứ). 有名なのは = \"việc nổi tiếng LÀ...\" -> 桜が美しいことからだ = \"từ việc hoa đào đẹp\". Hai cấu trúc kết hợp: cleft sentence + nguồn gốc",
+    "hint": null,
+    "tags": [
+      "のは",
+      "ことから",
+      "dich",
+      "ket_hop"
+    ]
+  },
+  {
+    "id": "L35_QT_39",
+    "lesson_id": 35,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "今の私にできることしかやらない。",
+    "sentence_translation": "Tôi chỉ làm những gì tôi bây giờ có thể thôi.",
+    "question_text": "できることしか / やらない。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Làm được mọi thứ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chỉ làm những gì mình có thể làm mà thôi. (ことしか～ない = giới hạn duy nhất)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nhờ làm được mà sẽ cố gắng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Để làm được thì cần cố gắng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ことしか～ない = \"chỉ có thể ~ mà thôi\". できることしかやらない = \"chỉ làm việc có thể làm\" (giới hạn hành động). しか luôn đi kèm PHỦ ĐỊNH. Sắc thái: chấp nhận giới hạn, tập trung vào điều mình LÀM ĐƯỢC",
+    "hint": null,
+    "tags": [
+      "ことしか",
+      "dich",
+      "gioi_han"
+    ]
+  }
+]

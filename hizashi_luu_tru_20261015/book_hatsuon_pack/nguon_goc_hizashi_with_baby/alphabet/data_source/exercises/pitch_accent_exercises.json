@@ -1,0 +1,584 @@
+{
+  "metadata": {
+    "title": "Bài tập Pitch Accent",
+    "description": "Luyện nghe và nhận diện cao độ trong tiếng Nhật",
+    "total_levels": 4,
+    "exercise_types": ["pattern_recognition", "minimal_pair", "same_or_different", "identify_accent", "with_particle"],
+    "version": "1.0"
+  },
+
+  "level_1": {
+    "title": "Nhận diện 4 Pattern cơ bản",
+    "description": "Phân biệt Heiban, Atamadaka, Nakadaka, Odaka",
+
+    "exercises": [
+      {
+        "id": "L1_01",
+        "type": "pattern_recognition",
+        "instruction": "Nghe và chọn pattern đúng (dựa vào hình dạng pitch)",
+        "items": [
+          {
+            "audio": "さくら",
+            "pitch_visual": "＿￣￣",
+            "options": ["LHH (Heiban)", "HLL (Atamadaka)", "LHL (Nakadaka)"],
+            "answer": 0,
+            "meaning": "hoa anh đào"
+          },
+          {
+            "audio": "あめ (雨)",
+            "pitch_visual": "￣＿",
+            "options": ["LH (Heiban)", "HL (Atamadaka)"],
+            "answer": 1,
+            "meaning": "mưa"
+          },
+          {
+            "audio": "たまご",
+            "pitch_visual": "＿￣＿",
+            "options": ["LHH (Heiban)", "HLL (Atamadaka)", "LHL (Nakadaka)"],
+            "answer": 2,
+            "meaning": "trứng"
+          },
+          {
+            "audio": "にほん",
+            "pitch_visual": "＿￣￣",
+            "options": ["LHH (Heiban)", "HLL (Atamadaka)", "LHL (Nakadaka)"],
+            "answer": 0,
+            "meaning": "Nhật Bản"
+          },
+          {
+            "audio": "めがね",
+            "pitch_visual": "￣＿＿",
+            "options": ["LHH (Heiban)", "HLL (Atamadaka)", "LHL (Nakadaka)"],
+            "answer": 1,
+            "meaning": "kính"
+          },
+          {
+            "audio": "おんがく",
+            "pitch_visual": "＿￣＿＿",
+            "options": ["LHHH (Heiban)", "HLLL (Atamadaka)", "LHLL (Nakadaka)"],
+            "answer": 2,
+            "meaning": "âm nhạc"
+          }
+        ]
+      },
+      {
+        "id": "L1_02",
+        "type": "same_or_different_pitch",
+        "instruction": "Nghe 2 từ và cho biết pitch GIỐNG hay KHÁC nhau",
+        "pairs": [
+          {
+            "audio_1": "さくら (LHH)",
+            "audio_2": "にほん (LHH)",
+            "answer": "same",
+            "note": "Cả hai đều Heiban"
+          },
+          {
+            "audio_1": "あめ (雨 HL)",
+            "audio_2": "あめ (飴 LH)",
+            "answer": "different",
+            "note": "Mưa vs Kẹo - pitch khác"
+          },
+          {
+            "audio_1": "めがね (HLL)",
+            "audio_2": "カメラ (HLL)",
+            "answer": "same",
+            "note": "Cả hai đều Atamadaka"
+          },
+          {
+            "audio_1": "たまご (LHL)",
+            "audio_2": "さくら (LHH)",
+            "answer": "different",
+            "note": "Nakadaka vs Heiban"
+          },
+          {
+            "audio_1": "おとこ (LHH)",
+            "audio_2": "あたま (LHH)",
+            "answer": "same",
+            "note": "Cả hai đều Heiban"
+          }
+        ]
+      },
+      {
+        "id": "L1_03",
+        "type": "identify_first_mora",
+        "instruction": "Nghe và cho biết mora đầu tiên CAO hay THẤP",
+        "items": [
+          { "audio": "さくら", "answer": "low", "pattern": "LHH" },
+          { "audio": "あめ (雨)", "answer": "high", "pattern": "HL" },
+          { "audio": "にほん", "answer": "low", "pattern": "LHH" },
+          { "audio": "めがね", "answer": "high", "pattern": "HLL" },
+          { "audio": "たまご", "answer": "low", "pattern": "LHL" },
+          { "audio": "いのち", "answer": "high", "pattern": "HLL" },
+          { "audio": "ともだち", "answer": "low", "pattern": "LHHH" },
+          { "audio": "テレビ", "answer": "high", "pattern": "HLL" }
+        ]
+      },
+      {
+        "id": "L1_04",
+        "type": "count_high_mora",
+        "instruction": "Nghe và đếm số mora CAO trong từ",
+        "items": [
+          { "audio": "さくら (LHH)", "answer": 2, "high_mora": "く, ら" },
+          { "audio": "あめ (HL)", "answer": 1, "high_mora": "あ" },
+          { "audio": "にほんご (LHHL)", "answer": 2, "high_mora": "ほ, ん" },
+          { "audio": "たまご (LHL)", "answer": 1, "high_mora": "ま" },
+          { "audio": "ともだち (LHHH)", "answer": 3, "high_mora": "も, だ, ち" },
+          { "audio": "おんがく (LHLL)", "answer": 1, "high_mora": "ん" }
+        ]
+      }
+    ]
+  },
+
+  "level_2": {
+    "title": "Minimal Pairs - Từ đồng âm khác pitch",
+    "description": "Phân biệt các từ có cùng cách đọc nhưng pitch khác → nghĩa khác",
+
+    "exercises": [
+      {
+        "id": "L2_01",
+        "type": "minimal_pair_choice",
+        "instruction": "Nghe và chọn nghĩa đúng dựa vào pitch",
+        "famous_pairs": [
+          {
+            "reading": "はし",
+            "audio": "はし (HL)",
+            "options": ["箸 - đũa", "橋 - cầu"],
+            "answer": 0,
+            "explanation": "HL (Atamadaka) = đũa"
+          },
+          {
+            "reading": "はし",
+            "audio": "はし (LH)",
+            "options": ["箸 - đũa", "橋 - cầu"],
+            "answer": 1,
+            "explanation": "LH = cầu (hoặc đầu mút, phân biệt qua trợ từ)"
+          },
+          {
+            "reading": "あめ",
+            "audio": "あめ (HL)",
+            "options": ["雨 - mưa", "飴 - kẹo"],
+            "answer": 0,
+            "explanation": "HL = mưa"
+          },
+          {
+            "reading": "あめ",
+            "audio": "あめ (LH)",
+            "options": ["雨 - mưa", "飴 - kẹo"],
+            "answer": 1,
+            "explanation": "LH = kẹo"
+          },
+          {
+            "reading": "かき",
+            "audio": "かき (HL)",
+            "options": ["柿 - quả hồng", "牡蠣 - con hàu"],
+            "answer": 1,
+            "explanation": "HL = con hàu"
+          },
+          {
+            "reading": "かき",
+            "audio": "かき (LH)",
+            "options": ["柿 - quả hồng", "牡蠣 - con hàu"],
+            "answer": 0,
+            "explanation": "LH = quả hồng"
+          },
+          {
+            "reading": "くも",
+            "audio": "くも (HL)",
+            "options": ["雲 - mây", "蜘蛛 - nhện"],
+            "answer": 1,
+            "explanation": "HL = nhện"
+          },
+          {
+            "reading": "くも",
+            "audio": "くも (LH)",
+            "options": ["雲 - mây", "蜘蛛 - nhện"],
+            "answer": 0,
+            "explanation": "LH = mây"
+          }
+        ]
+      },
+      {
+        "id": "L2_02",
+        "type": "identify_word_by_pitch",
+        "instruction": "Nghe từ trong câu và xác định nghĩa",
+        "items": [
+          {
+            "audio": "はしをわたる",
+            "pitch_hint": "LH を わたる",
+            "question": "Đang nói về gì?",
+            "options": ["Đi qua cầu", "Dùng đũa"],
+            "answer": 0,
+            "kanji": "橋を渡る"
+          },
+          {
+            "audio": "はしをつかう",
+            "pitch_hint": "HL を つかう",
+            "question": "Đang nói về gì?",
+            "options": ["Dùng cầu", "Dùng đũa"],
+            "answer": 1,
+            "kanji": "箸を使う"
+          },
+          {
+            "audio": "あめがふる",
+            "pitch_hint": "HL が ふる",
+            "question": "Điều gì đang xảy ra?",
+            "options": ["Mưa rơi", "Kẹo rơi"],
+            "answer": 0,
+            "kanji": "雨が降る"
+          },
+          {
+            "audio": "あめをかう",
+            "pitch_hint": "LH を かう",
+            "question": "Mua gì?",
+            "options": ["Mua mưa (?)", "Mua kẹo"],
+            "answer": 1,
+            "kanji": "飴を買う"
+          }
+        ]
+      },
+      {
+        "id": "L2_03",
+        "type": "three_way_distinction",
+        "instruction": "Nghe và chọn đúng trong 3 lựa chọn",
+        "items": [
+          {
+            "reading": "かみ",
+            "audio": "かみ (HL)",
+            "options": ["紙 - giấy (LH)", "髪 - tóc (LH)", "神 - thần (HL)"],
+            "answer": 2
+          },
+          {
+            "reading": "かみ",
+            "audio": "かみ (LH) + が (H)",
+            "options": ["紙 - giấy (heiban)", "髪 - tóc (odaka)", "神 - thần"],
+            "answer": 0,
+            "note": "Trợ từ cao = heiban"
+          },
+          {
+            "reading": "かみ",
+            "audio": "かみ (LH) + が (L)",
+            "options": ["紙 - giấy (heiban)", "髪 - tóc (odaka)", "神 - thần"],
+            "answer": 1,
+            "note": "Trợ từ thấp = có accent"
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_3": {
+    "title": "Pitch với Trợ từ",
+    "description": "Phân biệt Heiban vs Odaka qua trợ từ theo sau",
+
+    "exercises": [
+      {
+        "id": "L3_01",
+        "type": "heiban_vs_odaka",
+        "instruction": "Nghe từ + trợ từ và xác định: Heiban (trợ từ cao) hay Odaka (trợ từ thấp)?",
+        "items": [
+          {
+            "audio": "はなが (LHH)",
+            "answer": "heiban",
+            "meaning": "hoa + が",
+            "kanji": "花が"
+          },
+          {
+            "audio": "はなが (LHL)",
+            "answer": "odaka",
+            "meaning": "mũi + が",
+            "kanji": "鼻が"
+          },
+          {
+            "audio": "やまが (LHL)",
+            "answer": "odaka",
+            "meaning": "núi + が",
+            "kanji": "山が"
+          },
+          {
+            "audio": "さくらが (LHHH)",
+            "answer": "heiban",
+            "meaning": "hoa anh đào + が",
+            "kanji": "桜が"
+          },
+          {
+            "audio": "うみが (LHL)",
+            "answer": "odaka",
+            "meaning": "biển + が",
+            "kanji": "海が"
+          },
+          {
+            "audio": "そらが (LHH)",
+            "answer": "heiban",
+            "meaning": "bầu trời + が",
+            "kanji": "空が"
+          }
+        ]
+      },
+      {
+        "id": "L3_02",
+        "type": "particle_pitch_prediction",
+        "instruction": "Nghe từ đơn, sau đó nghe từ + が. Dự đoán pitch của が trước khi nghe",
+        "items": [
+          {
+            "word_audio": "あめ (HL - 雨)",
+            "predict_ga": "Dự đoán: が cao hay thấp?",
+            "answer": "low",
+            "full_audio": "あめが (HLL)",
+            "explanation": "Atamadaka → trợ từ thấp"
+          },
+          {
+            "word_audio": "にほん (LHH)",
+            "predict_ga": "Dự đoán: が cao hay thấp?",
+            "answer": "high",
+            "full_audio": "にほんが (LHHH)",
+            "explanation": "Heiban → trợ từ cao"
+          },
+          {
+            "word_audio": "やま (LH - 山)",
+            "predict_ga": "Dự đoán: が cao hay thấp?",
+            "answer": "low",
+            "full_audio": "やまが (LHL)",
+            "explanation": "Odaka → trợ từ thấp"
+          },
+          {
+            "word_audio": "たまご (LHL)",
+            "predict_ga": "Dự đoán: が cao hay thấp?",
+            "answer": "low",
+            "full_audio": "たまごが (LHLL)",
+            "explanation": "Nakadaka → trợ từ thấp"
+          }
+        ]
+      },
+      {
+        "id": "L3_03",
+        "type": "sentence_pitch",
+        "instruction": "Nghe câu và chọn pattern pitch đúng",
+        "items": [
+          {
+            "audio": "さくらがきれいです",
+            "question": "Pattern của さくらが?",
+            "options": ["LHHH (heiban)", "LHHL (có accent)"],
+            "answer": 0
+          },
+          {
+            "audio": "あめがふっています",
+            "question": "Pattern của あめが?",
+            "options": ["LHH (heiban)", "HLL (atamadaka)"],
+            "answer": 1
+          },
+          {
+            "audio": "やまがみえます",
+            "question": "Pattern của やまが?",
+            "options": ["LHH (heiban)", "LHL (odaka)"],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_4": {
+    "title": "Tổng hợp - Nghe hiểu thực tế",
+    "description": "Áp dụng pitch accent trong ngữ cảnh hội thoại",
+
+    "exercises": [
+      {
+        "id": "L4_01",
+        "type": "dialogue_pitch_awareness",
+        "instruction": "Nghe hội thoại và trả lời câu hỏi về nghĩa dựa trên pitch",
+        "dialogues": [
+          {
+            "script": [
+              "A: あめ、好き？",
+              "B: うん、あめ大好き！"
+            ],
+            "audio_note": "A nói あめ (LH), B cũng nói あめ (LH)",
+            "question": "Họ đang nói về gì?",
+            "options": ["Mưa", "Kẹo"],
+            "answer": 1,
+            "explanation": "LH = 飴 (kẹo)"
+          },
+          {
+            "script": [
+              "A: はしを取って。",
+              "B: はい、どうぞ。"
+            ],
+            "audio_note": "A nói はし (HL)",
+            "question": "A muốn B lấy gì?",
+            "options": ["Đũa", "Cầu"],
+            "answer": 0,
+            "explanation": "HL = 箸 (đũa)"
+          },
+          {
+            "script": [
+              "A: かみ、ある？",
+              "B: うん、あるよ。"
+            ],
+            "audio_note": "A nói かみ (LH) với trợ từ ngầm cao",
+            "question": "A hỏi về gì?",
+            "options": ["Giấy", "Tóc", "Thần"],
+            "answer": 0,
+            "explanation": "LH heiban = 紙 (giấy)"
+          }
+        ]
+      },
+      {
+        "id": "L4_02",
+        "type": "pitch_pattern_matching",
+        "instruction": "Nghe từ và chọn từ khác có CÙNG pitch pattern",
+        "items": [
+          {
+            "audio": "さくら (LHH)",
+            "options": ["めがね (HLL)", "にほん (LHH)", "たまご (LHL)"],
+            "answer": 1,
+            "pattern": "Heiban 3 mora"
+          },
+          {
+            "audio": "あめ (HL)",
+            "options": ["かさ (LH)", "いえ (LH)", "あに (HL)"],
+            "answer": 2,
+            "pattern": "Atamadaka 2 mora"
+          },
+          {
+            "audio": "おんがく (LHLL)",
+            "options": ["おとうと (LHLL)", "ともだち (LHHH)", "あたらしい (LHHLL)"],
+            "answer": 0,
+            "pattern": "Nakadaka accent 2"
+          }
+        ]
+      },
+      {
+        "id": "L4_03",
+        "type": "accent_number_identification",
+        "instruction": "Nghe từ và xác định số accent (0 = heiban, 1,2,3... = vị trí downstep)",
+        "items": [
+          { "audio": "さくら", "answer": 0, "explanation": "LHH - Heiban" },
+          { "audio": "あめ (雨)", "answer": 1, "explanation": "HL - Downstep sau mora 1" },
+          { "audio": "たまご", "answer": 2, "explanation": "LHL - Downstep sau mora 2" },
+          { "audio": "おとうと", "answer": 2, "explanation": "LHLL - Downstep sau mora 2" },
+          { "audio": "にほん", "answer": 0, "explanation": "LHH - Heiban" },
+          { "audio": "めがね", "answer": 1, "explanation": "HLL - Downstep sau mora 1" },
+          { "audio": "あたらしい", "answer": 4, "explanation": "LHHHL - Downstep sau mora 4" }
+        ]
+      },
+      {
+        "id": "L4_04",
+        "type": "word_class_pitch",
+        "instruction": "Nghe động từ/tính từ và xác định pattern",
+        "section": "Động từ",
+        "items": [
+          {
+            "audio": "たべる",
+            "pattern": "LHL",
+            "type": "verb",
+            "meaning": "ăn"
+          },
+          {
+            "audio": "のむ",
+            "pattern": "LH",
+            "type": "verb",
+            "meaning": "uống"
+          },
+          {
+            "audio": "みる",
+            "pattern": "LH",
+            "type": "verb (heiban)",
+            "meaning": "xem"
+          },
+          {
+            "audio": "たかい",
+            "pattern": "LHL",
+            "type": "i-adj",
+            "meaning": "cao/đắt"
+          },
+          {
+            "audio": "おいしい",
+            "pattern": "LHLL",
+            "type": "i-adj",
+            "meaning": "ngon"
+          }
+        ]
+      },
+      {
+        "id": "L4_05",
+        "type": "compound_word_pitch",
+        "instruction": "Nghe từ ghép và xác định pattern",
+        "items": [
+          {
+            "audio": "にほんご",
+            "parts": "日本 + 語",
+            "pattern": "LHHL",
+            "meaning": "tiếng Nhật"
+          },
+          {
+            "audio": "でんしゃ",
+            "parts": "電 + 車",
+            "pattern": "LHL",
+            "meaning": "tàu điện"
+          },
+          {
+            "audio": "だいがく",
+            "parts": "大 + 学",
+            "pattern": "LHLL",
+            "meaning": "đại học"
+          },
+          {
+            "audio": "としょかん",
+            "parts": "図書 + 館",
+            "pattern": "LHLL",
+            "meaning": "thư viện"
+          }
+        ]
+      },
+      {
+        "id": "L4_06",
+        "type": "dictation_with_pitch",
+        "instruction": "Nghe và viết từ, đồng thời đánh dấu pattern pitch",
+        "items": [
+          {
+            "audio": "さくら",
+            "answer_word": "さくら",
+            "answer_pitch": "LHH",
+            "meaning": "hoa anh đào"
+          },
+          {
+            "audio": "あめがふる",
+            "answer_word": "あめがふる",
+            "answer_pitch": "HL L LH",
+            "meaning": "mưa rơi"
+          },
+          {
+            "audio": "はしでたべる",
+            "answer_word": "はしでたべる",
+            "answer_pitch": "HL L LHL",
+            "meaning": "ăn bằng đũa"
+          }
+        ]
+      }
+    ]
+  },
+
+  "summary": {
+    "total_exercises": 18,
+    "patterns_covered": ["Heiban (平板型)", "Atamadaka (頭高型)", "Nakadaka (中高型)", "Odaka (尾高型)"],
+    "skills_practiced": [
+      "Nhận diện pattern cơ bản",
+      "Phân biệt minimal pairs",
+      "Nghe pitch của trợ từ",
+      "Xác định accent number",
+      "Áp dụng trong ngữ cảnh"
+    ],
+    "progression": {
+      "L1": "4 pattern cơ bản",
+      "L2": "Minimal pairs (はし, あめ, かき...)",
+      "L3": "Heiban vs Odaka qua trợ từ",
+      "L4": "Tổng hợp thực tế"
+    },
+    "tips": [
+      "Không cần perfect pitch từ đầu - awareness quan trọng hơn",
+      "Học pitch cùng với từ vựng mới",
+      "Dùng OJAD để tra cứu khi cần",
+      "Shadowing giúp internalize pitch tự nhiên"
+    ]
+  }
+}

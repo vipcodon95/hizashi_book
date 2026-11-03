@@ -1,0 +1,2249 @@
+[
+  {
+    "id": "R_0091",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "駅で財布をなくした",
+    "title_vi": "Mất ví ở ga tàu",
+    "topic": "travel",
+    "subtopic": "sự cố",
+    "tags": [
+      "で",
+      "を",
+      "て",
+      "たら",
+      "が",
+      "に",
+      "から"
+    ],
+    "grammar_used": [
+      "～てしまいました",
+      "～たら～",
+      "～てくれました",
+      "～ことができました",
+      "～なければなりません"
+    ],
+    "sentence_count": 11,
+    "text": "先週の日曜日、電車に乗って東京に行きました。駅で降りた時、財布がないことに気がつきました。かばんの中を全部見ましたが、どこにもありませんでした。電車の中に落としてしまいました。すぐに駅員さんに話しました。駅員さんは遺失物センターに電話してくれました。三十分待ったら、財布が見つかりました。中のお金も全部ありました。日本は本当に安全な国だと思いました。お礼を言って、駅員さんにお辞儀をしました。これからは気をつけなければなりません。",
+    "translation": "Chủ nhật tuần trước, tôi đi tàu đến Tokyo. Khi xuống ga, tôi nhận ra ví không còn. Tôi tìm hết trong cặp nhưng không thấy ở đâu cả. Tôi đã đánh rơi trong tàu mất rồi. Tôi nói ngay với nhân viên ga. Nhân viên ga đã gọi điện đến trung tâm đồ thất lạc giúp tôi. Đợi ba mươi phút thì ví đã được tìm thấy. Tiền bên trong cũng còn đầy đủ. Tôi nghĩ Nhật Bản thực sự là đất nước an toàn. Tôi cảm ơn và cúi chào nhân viên ga. Từ giờ phải cẩn thận hơn mới được.",
+    "vocabulary": [
+      {
+        "word": "財布",
+        "reading": "さいふ",
+        "meaning": "ví tiền"
+      },
+      {
+        "word": "気がつく",
+        "reading": "きがつく",
+        "meaning": "nhận ra"
+      },
+      {
+        "word": "落とす",
+        "reading": "おとす",
+        "meaning": "đánh rơi"
+      },
+      {
+        "word": "駅員",
+        "reading": "えきいん",
+        "meaning": "nhân viên ga"
+      },
+      {
+        "word": "遺失物",
+        "reading": "いしつぶつ",
+        "meaning": "đồ thất lạc"
+      },
+      {
+        "word": "見つかる",
+        "reading": "みつかる",
+        "meaning": "được tìm thấy"
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "an toàn"
+      },
+      {
+        "word": "お辞儀",
+        "reading": "おじぎ",
+        "meaning": "cúi chào"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "先週の日曜日、電車に乗って東京に行きました。",
+        "chunks": "先週の日曜日 / 電車に / 乗って / 東京に / 行きました",
+        "guide": "に phương tiện → て nối hành động liên tiếp → に đích đến → 行きました hoàn tất",
+        "translation": "Chủ nhật tuần trước, tôi đi tàu đến Tokyo."
+      },
+      {
+        "sentence": "駅で降りた時、財布がないことに気がつきました。",
+        "chunks": "駅で / 降りた時 / 財布が / ないことに / 気がつきました",
+        "guide": "で nơi chốn → た時 thời điểm → が chủ ngữ → ないことに nhận ra sự vắng mặt",
+        "translation": "Khi xuống ga, tôi nhận ra ví không còn."
+      },
+      {
+        "sentence": "かばんの中を全部見ましたが、どこにもありませんでした。",
+        "chunks": "かばんの中を / 全部 / 見ましたが / どこにも / ありませんでした",
+        "guide": "を đối tượng tìm → が nối ngược 'nhưng' → どこにも + phủ định = không ở đâu cả",
+        "translation": "Tôi tìm hết trong cặp nhưng không thấy ở đâu cả."
+      },
+      {
+        "sentence": "電車の中に落としてしまいました。",
+        "chunks": "電車の中に / 落として / しまいました",
+        "guide": "に nơi rơi → てしまいました hối tiếc, sự việc đáng tiếc đã xảy ra",
+        "translation": "Tôi đã đánh rơi trong tàu mất rồi."
+      },
+      {
+        "sentence": "すぐに駅員さんに話しました。",
+        "chunks": "すぐに / 駅員さんに / 話しました",
+        "guide": "すぐに ngay lập tức → に đối tượng nói chuyện → 話しました hành động",
+        "translation": "Tôi nói ngay với nhân viên ga."
+      },
+      {
+        "sentence": "駅員さんは遺失物センターに電話してくれました。",
+        "chunks": "駅員さんは / 遺失物センターに / 電話して / くれました",
+        "guide": "は chủ đề → に đích gọi đến → てくれました ai đó làm giúp cho mình → biết ơn",
+        "translation": "Nhân viên ga đã gọi điện đến trung tâm đồ thất lạc giúp tôi."
+      },
+      {
+        "sentence": "三十分待ったら、財布が見つかりました。",
+        "chunks": "三十分 / 待ったら / 財布が / 見つかりました",
+        "guide": "たら điều kiện đã xảy ra → 'đợi xong thì...' → が chủ ngữ → 見つかりました tự được tìm thấy",
+        "translation": "Đợi ba mươi phút thì ví đã được tìm thấy."
+      },
+      {
+        "sentence": "中のお金も全部ありました。",
+        "chunks": "中の / お金も / 全部 / ありました",
+        "guide": "の liên kết → も 'cũng' nhấn mạnh tiền cũng còn → 全部 đầy đủ",
+        "translation": "Tiền bên trong cũng còn đầy đủ."
+      },
+      {
+        "sentence": "日本は本当に安全な国だと思いました。",
+        "chunks": "日本は / 本当に / 安全な国だと / 思いました",
+        "guide": "は chủ đề → な tính từ な + 国 → だと思いました nghĩ rằng...",
+        "translation": "Tôi nghĩ Nhật Bản thực sự là đất nước an toàn."
+      },
+      {
+        "sentence": "お礼を言って、駅員さんにお辞儀をしました。",
+        "chunks": "お礼を / 言って / 駅員さんに / お辞儀を / しました",
+        "guide": "を đối tượng → て nối hành động → に đối tượng nhận → を đối tượng hành động",
+        "translation": "Tôi cảm ơn và cúi chào nhân viên ga."
+      },
+      {
+        "sentence": "これからは気をつけなければなりません。",
+        "chunks": "これからは / 気を / つけなければ / なりません",
+        "guide": "これから từ giờ trở đi → なければなりません bắt buộc phải → phải cẩn thận",
+        "translation": "Từ giờ phải cẩn thận hơn mới được."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0091_Q1",
+        "question": "財布はどこで見つかりましたか。",
+        "question_vi": "Ví đã được tìm thấy ở đâu?",
+        "answers": [
+          {
+            "text": "かばんの中で見つかりました。",
+            "text_vi": "Được tìm thấy trong cặp.",
+            "is_correct": false
+          },
+          {
+            "text": "駅のホームで見つかりました。",
+            "text_vi": "Được tìm thấy ở sân ga.",
+            "is_correct": false
+          },
+          {
+            "text": "遺失物センターで見つかりました。",
+            "text_vi": "Được tìm thấy ở trung tâm đồ thất lạc.",
+            "is_correct": true
+          },
+          {
+            "text": "コンビニで見つかりました。",
+            "text_vi": "Được tìm thấy ở cửa hàng tiện lợi.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 6 nói 「駅員さんは遺失物センターに電話してくれました」→ nhân viên gọi đến trung tâm đồ thất lạc, và câu 7 nói 「財布が見つかりました」→ ví được tìm thấy nhờ trung tâm này."
+      },
+      {
+        "id": "R_0091_Q2",
+        "question": "財布の中のお金はどうなりましたか。",
+        "question_vi": "Tiền trong ví thì sao?",
+        "answers": [
+          {
+            "text": "少しなくなっていました。",
+            "text_vi": "Bị mất một ít.",
+            "is_correct": false
+          },
+          {
+            "text": "全部なくなっていました。",
+            "text_vi": "Bị mất hết.",
+            "is_correct": false
+          },
+          {
+            "text": "全部ありました。",
+            "text_vi": "Còn đầy đủ.",
+            "is_correct": true
+          },
+          {
+            "text": "半分だけありました。",
+            "text_vi": "Chỉ còn một nửa.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 8 nói rõ 「中のお金も全部ありました」→ も nhấn mạnh 'cũng', 全部 = toàn bộ → tiền còn đầy đủ."
+      },
+      {
+        "id": "R_0091_Q3",
+        "question": "この話から、書いた人は日本についてどう思いましたか。",
+        "question_vi": "Từ câu chuyện này, người viết nghĩ gì về Nhật Bản?",
+        "answers": [
+          {
+            "text": "電車が不便な国だと思いました。",
+            "text_vi": "Nghĩ rằng tàu điện bất tiện.",
+            "is_correct": false
+          },
+          {
+            "text": "駅員さんが厳しい国だと思いました。",
+            "text_vi": "Nghĩ rằng nhân viên ga nghiêm khắc.",
+            "is_correct": false
+          },
+          {
+            "text": "安全な国だと思いました。",
+            "text_vi": "Nghĩ rằng là đất nước an toàn.",
+            "is_correct": true
+          },
+          {
+            "text": "物を落としやすい国だと思いました。",
+            "text_vi": "Nghĩ rằng là đất nước dễ đánh rơi đồ.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 9 nói 「日本は本当に安全な国だと思いました」→ だと思いました diễn tả suy nghĩ, cảm nhận → người viết thấy Nhật Bản an toàn vì ví và tiền được trả lại đầy đủ."
+      }
+    ]
+  },
+  {
+    "id": "R_0092",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "箱根旅行のレビュー",
+    "title_vi": "Review chuyến đi Hakone",
+    "topic": "travel",
+    "subtopic": "review",
+    "tags": [
+      "て",
+      "たり",
+      "から",
+      "が",
+      "に",
+      "で",
+      "と"
+    ],
+    "grammar_used": [
+      "～たり～たりします",
+      "～てよかった",
+      "～ことができました",
+      "～と思います",
+      "～から～"
+    ],
+    "sentence_count": 11,
+    "text": "先月、友達と箱根に旅行に行きました。新宿からロマンスカーに乗って、一時間半で着きました。箱根では温泉に入ったり、美術館を見たりしました。旅館の温泉はとても気持ちよかったです。夜は旅館でおいしい料理を食べました。魚や野菜がたくさんありました。二日目は芦ノ湖で船に乗りました。天気がよかったから、富士山がきれいに見えました。富士山を見ることができて、本当によかったです。箱根はまた行きたいと思います。友達にもおすすめしたい場所です。",
+    "translation": "Tháng trước, tôi đi du lịch Hakone cùng bạn. Từ Shinjuku đi tàu Romancecar, khoảng một tiếng rưỡi thì đến nơi. Ở Hakone, tôi đã tắm suối nóng, xem bảo tàng mỹ thuật và nhiều thứ khác. Suối nóng ở ryokan rất dễ chịu. Buổi tối ăn món ngon ở ryokan. Có rất nhiều cá và rau. Ngày thứ hai đi thuyền ở hồ Ashi. Vì trời đẹp nên nhìn thấy núi Phú Sĩ rất rõ. Có thể nhìn thấy được núi Phú Sĩ, thật sự rất vui. Tôi nghĩ muốn đến Hakone lần nữa. Đây là nơi tôi muốn giới thiệu cho bạn bè.",
+    "vocabulary": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "meaning": "du lịch"
+      },
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "meaning": "suối nóng"
+      },
+      {
+        "word": "美術館",
+        "reading": "びじゅつかん",
+        "meaning": "bảo tàng mỹ thuật"
+      },
+      {
+        "word": "旅館",
+        "reading": "りょかん",
+        "meaning": "nhà trọ kiểu Nhật"
+      },
+      {
+        "word": "気持ちいい",
+        "reading": "きもちいい",
+        "meaning": "dễ chịu"
+      },
+      {
+        "word": "芦ノ湖",
+        "reading": "あしのこ",
+        "meaning": "hồ Ashi"
+      },
+      {
+        "word": "富士山",
+        "reading": "ふじさん",
+        "meaning": "núi Phú Sĩ"
+      },
+      {
+        "word": "おすすめ",
+        "reading": "おすすめ",
+        "meaning": "giới thiệu, khuyên dùng"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "先月、友達と箱根に旅行に行きました。",
+        "chunks": "先月 / 友達と / 箱根に / 旅行に / 行きました",
+        "guide": "と cùng ai → に đích đến → に mục đích → 行きました hoàn tất",
+        "translation": "Tháng trước, tôi đi du lịch Hakone cùng bạn."
+      },
+      {
+        "sentence": "新宿からロマンスカーに乗って、一時間半で着きました。",
+        "chunks": "新宿から / ロマンスカーに / 乗って / 一時間半で / 着きました",
+        "guide": "から điểm xuất phát → に phương tiện → て nối → で thời gian mất → 着きました đến nơi",
+        "translation": "Từ Shinjuku đi tàu Romancecar, khoảng một tiếng rưỡi thì đến nơi."
+      },
+      {
+        "sentence": "箱根では温泉に入ったり、美術館を見たりしました。",
+        "chunks": "箱根では / 温泉に / 入ったり / 美術館を / 見たりしました",
+        "guide": "では nơi + nhấn mạnh → たり...たり liệt kê hành động (còn làm thêm thứ khác)",
+        "translation": "Ở Hakone, tôi đã tắm suối nóng, xem bảo tàng mỹ thuật và nhiều thứ khác."
+      },
+      {
+        "sentence": "旅館の温泉はとても気持ちよかったです。",
+        "chunks": "旅館の / 温泉は / とても / 気持ちよかったです",
+        "guide": "の liên kết → は chủ đề → とても rất → かったです quá khứ tính từ い",
+        "translation": "Suối nóng ở ryokan rất dễ chịu."
+      },
+      {
+        "sentence": "夜は旅館でおいしい料理を食べました。",
+        "chunks": "夜は / 旅館で / おいしい / 料理を / 食べました",
+        "guide": "は thời gian chủ đề → で nơi chốn → を đối tượng ăn",
+        "translation": "Buổi tối ăn món ngon ở ryokan."
+      },
+      {
+        "sentence": "魚や野菜がたくさんありました。",
+        "chunks": "魚や / 野菜が / たくさん / ありました",
+        "guide": "や liệt kê không đầy đủ (còn thêm thứ khác) → が chủ ngữ → たくさん nhiều",
+        "translation": "Có rất nhiều cá và rau."
+      },
+      {
+        "sentence": "二日目は芦ノ湖で船に乗りました。",
+        "chunks": "二日目は / 芦ノ湖で / 船に / 乗りました",
+        "guide": "は chuyển thời gian → で nơi chốn → に phương tiện → 乗りました lên tàu",
+        "translation": "Ngày thứ hai đi thuyền ở hồ Ashi."
+      },
+      {
+        "sentence": "天気がよかったから、富士山がきれいに見えました。",
+        "chunks": "天気が / よかったから / 富士山が / きれいに / 見えました",
+        "guide": "が chủ ngữ → から lý do → が chủ ngữ → に trạng thái → 見えました nhìn thấy được",
+        "translation": "Vì trời đẹp nên nhìn thấy núi Phú Sĩ rất rõ."
+      },
+      {
+        "sentence": "富士山を見ることができて、本当によかったです。",
+        "chunks": "富士山を / 見ることが / できて / 本当に / よかったです",
+        "guide": "を đối tượng → ことができて có thể làm + て nối → よかった vui mừng",
+        "translation": "Có thể nhìn thấy được núi Phú Sĩ, thật sự rất vui."
+      },
+      {
+        "sentence": "箱根はまた行きたいと思います。",
+        "chunks": "箱根は / また / 行きたいと / 思います",
+        "guide": "は chủ đề → また lần nữa → たい muốn → と思います tôi nghĩ",
+        "translation": "Tôi nghĩ muốn đến Hakone lần nữa."
+      },
+      {
+        "sentence": "友達にもおすすめしたい場所です。",
+        "chunks": "友達にも / おすすめしたい / 場所です",
+        "guide": "にも cho bạn bè cũng → たい muốn giới thiệu → です kết luận",
+        "translation": "Đây là nơi tôi muốn giới thiệu cho bạn bè."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0092_Q1",
+        "question": "箱根までどうやって行きましたか。",
+        "question_vi": "Đã đi đến Hakone bằng cách nào?",
+        "answers": [
+          {
+            "text": "新幹線で行きました。",
+            "text_vi": "Đi bằng tàu shinkansen.",
+            "is_correct": false
+          },
+          {
+            "text": "バスで行きました。",
+            "text_vi": "Đi bằng xe buýt.",
+            "is_correct": false
+          },
+          {
+            "text": "新宿からロマンスカーで行きました。",
+            "text_vi": "Đi tàu Romancecar từ Shinjuku.",
+            "is_correct": true
+          },
+          {
+            "text": "車で行きました。",
+            "text_vi": "Đi bằng ô tô.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 2 nói 「新宿からロマンスカーに乗って」→ から chỉ điểm xuất phát, に乗って chỉ phương tiện = đi tàu Romancecar từ Shinjuku."
+      },
+      {
+        "id": "R_0092_Q2",
+        "question": "なぜ富士山が見えましたか。",
+        "question_vi": "Tại sao nhìn thấy được núi Phú Sĩ?",
+        "answers": [
+          {
+            "text": "山に登ったからです。",
+            "text_vi": "Vì đã leo núi.",
+            "is_correct": false
+          },
+          {
+            "text": "天気がよかったからです。",
+            "text_vi": "Vì thời tiết đẹp.",
+            "is_correct": true
+          },
+          {
+            "text": "船が速かったからです。",
+            "text_vi": "Vì thuyền chạy nhanh.",
+            "is_correct": false
+          },
+          {
+            "text": "朝早く起きたからです。",
+            "text_vi": "Vì dậy sớm.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 8 nói 「天気がよかったから、富士山がきれいに見えました」→ から chỉ nguyên nhân = vì trời đẹp nên nhìn thấy núi Phú Sĩ."
+      },
+      {
+        "id": "R_0092_Q3",
+        "question": "この人は箱根についてどう思っていますか。",
+        "question_vi": "Người này nghĩ gì về Hakone?",
+        "answers": [
+          {
+            "text": "遠くて不便だと思っています。",
+            "text_vi": "Nghĩ là xa và bất tiện.",
+            "is_correct": false
+          },
+          {
+            "text": "料理がおいしくないと思っています。",
+            "text_vi": "Nghĩ là đồ ăn không ngon.",
+            "is_correct": false
+          },
+          {
+            "text": "一回行けばいいと思っています。",
+            "text_vi": "Nghĩ rằng đi một lần là đủ.",
+            "is_correct": false
+          },
+          {
+            "text": "また行きたい、おすすめの場所だと思っています。",
+            "text_vi": "Nghĩ rằng muốn đi lại, là nơi đáng giới thiệu.",
+            "is_correct": true
+          }
+        ],
+        "explanation": "Câu 10 nói 「また行きたいと思います」và câu 11 nói 「友達にもおすすめしたい場所です」→ と思います diễn tả ý kiến + にも nhấn mạnh muốn giới thiệu cho cả bạn bè = rất hài lòng."
+      }
+    ]
+  },
+  {
+    "id": "R_0093",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "日本で病院に行った",
+    "title_vi": "Đi khám ở Nhật",
+    "topic": "health",
+    "subtopic": "bệnh viện",
+    "tags": [
+      "て",
+      "から",
+      "が",
+      "に",
+      "で",
+      "を",
+      "と"
+    ],
+    "grammar_used": [
+      "～てから～",
+      "～なければなりません",
+      "～てもらいました",
+      "～ことができました",
+      "～と言われました"
+    ],
+    "sentence_count": 11,
+    "text": "昨日、朝から頭が痛くて、熱もありました。会社を休んで、近くの病院に行きました。受付で保険証を見せてから、待合室で待ちました。一時間ぐらい待たなければなりませんでした。やっと名前を呼ばれて、診察室に入りました。先生に症状を話しました。先生は風邪だと言いました。薬を三日分もらいました。薬局で薬の飲み方を説明してもらいました。家に帰って、すぐに薬を飲んで寝ました。日本の病院は少し待ちますが、先生はとても丁寧でした。",
+    "translation": "Hôm qua, từ sáng đầu đau, lại còn sốt nữa. Tôi nghỉ làm và đi đến bệnh viện gần nhà. Ở quầy lễ tân cho xem thẻ bảo hiểm, rồi đợi ở phòng chờ. Phải đợi khoảng một tiếng. Cuối cùng được gọi tên và vào phòng khám. Tôi kể triệu chứng cho bác sĩ. Bác sĩ nói là bị cảm. Tôi nhận thuốc cho ba ngày. Ở nhà thuốc, tôi được giải thích cách uống thuốc. Về nhà, uống thuốc ngay rồi đi ngủ. Bệnh viện Nhật phải đợi hơi lâu, nhưng bác sĩ rất tận tình.",
+    "vocabulary": [
+      {
+        "word": "熱",
+        "reading": "ねつ",
+        "meaning": "sốt"
+      },
+      {
+        "word": "保険証",
+        "reading": "ほけんしょう",
+        "meaning": "thẻ bảo hiểm"
+      },
+      {
+        "word": "待合室",
+        "reading": "まちあいしつ",
+        "meaning": "phòng chờ"
+      },
+      {
+        "word": "診察室",
+        "reading": "しんさつしつ",
+        "meaning": "phòng khám"
+      },
+      {
+        "word": "症状",
+        "reading": "しょうじょう",
+        "meaning": "triệu chứng"
+      },
+      {
+        "word": "風邪",
+        "reading": "かぜ",
+        "meaning": "cảm"
+      },
+      {
+        "word": "薬局",
+        "reading": "やっきょく",
+        "meaning": "nhà thuốc"
+      },
+      {
+        "word": "丁寧",
+        "reading": "ていねい",
+        "meaning": "tận tình, lịch sự"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "昨日、朝から頭が痛くて、熱もありました。",
+        "chunks": "昨日 / 朝から / 頭が / 痛くて / 熱も / ありました",
+        "guide": "から thời điểm bắt đầu → が chủ ngữ → くて nối tính từ い → も thêm triệu chứng nữa",
+        "translation": "Hôm qua, từ sáng đầu đau, lại còn sốt nữa."
+      },
+      {
+        "sentence": "会社を休んで、近くの病院に行きました。",
+        "chunks": "会社を / 休んで / 近くの / 病院に / 行きました",
+        "guide": "を đối tượng nghỉ → て nối hành động → の liên kết → に đích đến",
+        "translation": "Tôi nghỉ làm và đi đến bệnh viện gần nhà."
+      },
+      {
+        "sentence": "受付で保険証を見せてから、待合室で待ちました。",
+        "chunks": "受付で / 保険証を / 見せてから / 待合室で / 待ちました",
+        "guide": "で nơi chốn → を đối tượng → てから sau khi... rồi mới → で nơi chốn → 待ちました đợi",
+        "translation": "Ở quầy lễ tân cho xem thẻ bảo hiểm, rồi đợi ở phòng chờ."
+      },
+      {
+        "sentence": "一時間ぐらい待たなければなりませんでした。",
+        "chunks": "一時間ぐらい / 待たなければ / なりませんでした",
+        "guide": "ぐらい khoảng → なければなりませんでした phải làm (quá khứ) → bắt buộc đợi",
+        "translation": "Phải đợi khoảng một tiếng."
+      },
+      {
+        "sentence": "やっと名前を呼ばれて、診察室に入りました。",
+        "chunks": "やっと / 名前を / 呼ばれて / 診察室に / 入りました",
+        "guide": "やっと cuối cùng → を đối tượng → 呼ばれて bị động 'được gọi' → に đích đến",
+        "translation": "Cuối cùng được gọi tên và vào phòng khám."
+      },
+      {
+        "sentence": "先生に症状を話しました。",
+        "chunks": "先生に / 症状を / 話しました",
+        "guide": "に đối tượng nói → を đối tượng trực tiếp → 話しました kể lại",
+        "translation": "Tôi kể triệu chứng cho bác sĩ."
+      },
+      {
+        "sentence": "先生は風邪だと言いました。",
+        "chunks": "先生は / 風邪だと / 言いました",
+        "guide": "は chủ đề → だと trích dẫn → 言いました nói rằng = bác sĩ nói bị cảm",
+        "translation": "Bác sĩ nói là bị cảm."
+      },
+      {
+        "sentence": "薬を三日分もらいました。",
+        "chunks": "薬を / 三日分 / もらいました",
+        "guide": "を đối tượng nhận → 三日分 lượng cho 3 ngày → もらいました nhận được",
+        "translation": "Tôi nhận thuốc cho ba ngày."
+      },
+      {
+        "sentence": "薬局で薬の飲み方を説明してもらいました。",
+        "chunks": "薬局で / 薬の / 飲み方を / 説明して / もらいました",
+        "guide": "で nơi chốn → の liên kết → 飲み方 cách uống → てもらいました được ai đó làm giúp cho mình",
+        "translation": "Ở nhà thuốc, tôi được giải thích cách uống thuốc."
+      },
+      {
+        "sentence": "家に帰って、すぐに薬を飲んで寝ました。",
+        "chunks": "家に / 帰って / すぐに / 薬を / 飲んで / 寝ました",
+        "guide": "に đích đến → て nối → すぐに ngay → を đối tượng → て nối → 寝ました kết thúc",
+        "translation": "Về nhà, uống thuốc ngay rồi đi ngủ."
+      },
+      {
+        "sentence": "日本の病院は少し待ちますが、先生はとても丁寧でした。",
+        "chunks": "日本の病院は / 少し / 待ちますが / 先生は / とても / 丁寧でした",
+        "guide": "は chủ đề 1 → が nối ngược 'nhưng' → は chuyển chủ đề 2 → 丁寧でした tận tình. Kết luận cân bằng: có nhược điểm nhưng bù lại bằng ưu điểm",
+        "translation": "Bệnh viện Nhật phải đợi hơi lâu, nhưng bác sĩ rất tận tình."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0093_Q1",
+        "question": "病院でどのくらい待ちましたか。",
+        "question_vi": "Phải đợi ở bệnh viện bao lâu?",
+        "answers": [
+          {
+            "text": "三十分ぐらい待ちました。",
+            "text_vi": "Đợi khoảng ba mươi phút.",
+            "is_correct": false
+          },
+          {
+            "text": "一時間ぐらい待ちました。",
+            "text_vi": "Đợi khoảng một tiếng.",
+            "is_correct": true
+          },
+          {
+            "text": "二時間ぐらい待ちました。",
+            "text_vi": "Đợi khoảng hai tiếng.",
+            "is_correct": false
+          },
+          {
+            "text": "十五分ぐらい待ちました。",
+            "text_vi": "Đợi khoảng mười lăm phút.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 4 nói rõ 「一時間ぐらい待たなければなりませんでした」→ ぐらい = khoảng, 一時間 = một tiếng."
+      },
+      {
+        "id": "R_0093_Q2",
+        "question": "先生は何と言いましたか。",
+        "question_vi": "Bác sĩ đã nói gì?",
+        "answers": [
+          {
+            "text": "インフルエンザだと言いました。",
+            "text_vi": "Nói là bị cúm.",
+            "is_correct": false
+          },
+          {
+            "text": "風邪だと言いました。",
+            "text_vi": "Nói là bị cảm.",
+            "is_correct": true
+          },
+          {
+            "text": "アレルギーだと言いました。",
+            "text_vi": "Nói là bị dị ứng.",
+            "is_correct": false
+          },
+          {
+            "text": "ストレスだと言いました。",
+            "text_vi": "Nói là do stress.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 7 nói 「先生は風邪だと言いました」→ だと言いました trích dẫn lời bác sĩ = bác sĩ nói bị cảm."
+      },
+      {
+        "id": "R_0093_Q3",
+        "question": "この人は日本の病院についてどう思いましたか。",
+        "question_vi": "Người này nghĩ gì về bệnh viện Nhật?",
+        "answers": [
+          {
+            "text": "待ち時間が短くて、いい病院だと思いました。",
+            "text_vi": "Nghĩ rằng thời gian chờ ngắn, bệnh viện tốt.",
+            "is_correct": false
+          },
+          {
+            "text": "先生が厳しくて、怖かったです。",
+            "text_vi": "Bác sĩ nghiêm khắc, đáng sợ.",
+            "is_correct": false
+          },
+          {
+            "text": "少し待ちますが、先生は丁寧だと思いました。",
+            "text_vi": "Phải đợi hơi lâu nhưng bác sĩ tận tình.",
+            "is_correct": true
+          },
+          {
+            "text": "薬が高くて、大変でした。",
+            "text_vi": "Thuốc đắt, vất vả quá.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu cuối nói 「日本の病院は少し待ちますが、先生はとても丁寧でした」→ が nối ngược = có đợi lâu nhưng bác sĩ tận tình. Đây là nhận xét tổng kết của người viết."
+      }
+    ]
+  },
+  {
+    "id": "R_0094",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "ジョギングを始めた",
+    "title_vi": "Bắt đầu chạy bộ",
+    "topic": "health",
+    "subtopic": "tập thể dục",
+    "tags": [
+      "て",
+      "から",
+      "が",
+      "に",
+      "を",
+      "ようになりました"
+    ],
+    "grammar_used": [
+      "～ようになりました",
+      "～ことにしました",
+      "～てから～",
+      "～たら～",
+      "～くなりました"
+    ],
+    "sentence_count": 11,
+    "text": "三か月前から毎朝ジョギングをすることにしました。最初は五分走っただけで、とても疲れました。でも、毎日続けたら、だんだん走れるようになりました。今は三十分走ることができます。朝早く起きて走ってから、シャワーを浴びます。走った後の朝ごはんはとてもおいしいです。ジョギングを始めてから、体が軽くなりました。夜もよく眠れるようになりました。体重も二キロ減りました。運動は最初は大変ですが、続けることが大切だと思います。来月はマラソン大会に出たいです。",
+    "translation": "Ba tháng trước, tôi quyết định chạy bộ mỗi sáng. Lúc đầu chỉ chạy năm phút thôi mà đã rất mệt. Nhưng cứ tiếp tục mỗi ngày, dần dần đã chạy được. Bây giờ có thể chạy ba mươi phút. Sáng dậy sớm chạy xong rồi tắm. Bữa sáng sau khi chạy rất ngon. Từ khi bắt đầu chạy bộ, cơ thể nhẹ nhàng hơn. Ban đêm cũng ngủ ngon hơn. Cân nặng cũng giảm hai ký. Tập thể dục lúc đầu vất vả nhưng tôi nghĩ việc tiếp tục là quan trọng. Tháng sau tôi muốn tham gia giải chạy marathon.",
+    "vocabulary": [
+      {
+        "word": "ジョギング",
+        "reading": "ジョギング",
+        "meaning": "chạy bộ"
+      },
+      {
+        "word": "疲れる",
+        "reading": "つかれる",
+        "meaning": "mệt"
+      },
+      {
+        "word": "続ける",
+        "reading": "つづける",
+        "meaning": "tiếp tục"
+      },
+      {
+        "word": "シャワー",
+        "reading": "シャワー",
+        "meaning": "tắm vòi sen"
+      },
+      {
+        "word": "軽い",
+        "reading": "かるい",
+        "meaning": "nhẹ"
+      },
+      {
+        "word": "体重",
+        "reading": "たいじゅう",
+        "meaning": "cân nặng"
+      },
+      {
+        "word": "減る",
+        "reading": "へる",
+        "meaning": "giảm"
+      },
+      {
+        "word": "大切",
+        "reading": "たいせつ",
+        "meaning": "quan trọng"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "三か月前から毎朝ジョギングをすることにしました。",
+        "chunks": "三か月前から / 毎朝 / ジョギングを / することにしました",
+        "guide": "から thời điểm bắt đầu → を đối tượng → ことにしました tự quyết định làm gì",
+        "translation": "Ba tháng trước, tôi quyết định chạy bộ mỗi sáng."
+      },
+      {
+        "sentence": "最初は五分走っただけで、とても疲れました。",
+        "chunks": "最初は / 五分 / 走っただけで / とても / 疲れました",
+        "guide": "は chủ đề thời gian → だけ chỉ, mới có → で nguyên nhân → 疲れました mệt",
+        "translation": "Lúc đầu chỉ chạy năm phút thôi mà đã rất mệt."
+      },
+      {
+        "sentence": "でも、毎日続けたら、だんだん走れるようになりました。",
+        "chunks": "でも / 毎日 / 続けたら / だんだん / 走れるようになりました",
+        "guide": "でも nhưng → たら điều kiện → だんだん dần dần → ようになりました thay đổi trạng thái: từ không thể → có thể",
+        "translation": "Nhưng cứ tiếp tục mỗi ngày, dần dần đã chạy được."
+      },
+      {
+        "sentence": "今は三十分走ることができます。",
+        "chunks": "今は / 三十分 / 走ることが / できます",
+        "guide": "は chuyển thời gian sang hiện tại → ことができます có khả năng → so sánh với lúc đầu",
+        "translation": "Bây giờ có thể chạy ba mươi phút."
+      },
+      {
+        "sentence": "朝早く起きて走ってから、シャワーを浴びます。",
+        "chunks": "朝早く / 起きて / 走ってから / シャワーを / 浴びます",
+        "guide": "て nối hành động → てから sau khi chạy rồi mới → を đối tượng → 浴びます tắm",
+        "translation": "Sáng dậy sớm chạy xong rồi tắm."
+      },
+      {
+        "sentence": "走った後の朝ごはんはとてもおいしいです。",
+        "chunks": "走った後の / 朝ごはんは / とても / おいしいです",
+        "guide": "た後の sau khi → の liên kết → は chủ đề → おいしい ngon",
+        "translation": "Bữa sáng sau khi chạy rất ngon."
+      },
+      {
+        "sentence": "ジョギングを始めてから、体が軽くなりました。",
+        "chunks": "ジョギングを / 始めてから / 体が / 軽くなりました",
+        "guide": "を đối tượng → てから từ khi → が chủ ngữ → くなりました trở nên nhẹ hơn",
+        "translation": "Từ khi bắt đầu chạy bộ, cơ thể nhẹ nhàng hơn."
+      },
+      {
+        "sentence": "夜もよく眠れるようになりました。",
+        "chunks": "夜も / よく / 眠れる / ようになりました",
+        "guide": "も cũng (thêm một lợi ích nữa) → よく tốt → ようになりました thay đổi: trước không ngủ được → giờ ngủ được",
+        "translation": "Ban đêm cũng ngủ ngon hơn."
+      },
+      {
+        "sentence": "体重も二キロ減りました。",
+        "chunks": "体重も / 二キロ / 減りました",
+        "guide": "も thêm một kết quả nữa → 二キロ lượng giảm → 減りました giảm",
+        "translation": "Cân nặng cũng giảm hai ký."
+      },
+      {
+        "sentence": "運動は最初は大変ですが、続けることが大切だと思います。",
+        "chunks": "運動は / 最初は / 大変ですが / 続けることが / 大切だと / 思います",
+        "guide": "は chủ đề → は nhấn mạnh → が nối ngược → が chủ ngữ → だと思います nghĩ rằng. Bài học rút ra",
+        "translation": "Tập thể dục lúc đầu vất vả nhưng tôi nghĩ việc tiếp tục là quan trọng."
+      },
+      {
+        "sentence": "来月はマラソン大会に出たいです。",
+        "chunks": "来月は / マラソン大会に / 出たいです",
+        "guide": "は thời gian → に sự kiện tham gia → たいです muốn → mục tiêu tương lai",
+        "translation": "Tháng sau tôi muốn tham gia giải chạy marathon."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0094_Q1",
+        "question": "最初はどのくらい走ることができましたか。",
+        "question_vi": "Lúc đầu có thể chạy được bao lâu?",
+        "answers": [
+          {
+            "text": "十分ぐらい走れました。",
+            "text_vi": "Chạy được khoảng mười phút.",
+            "is_correct": false
+          },
+          {
+            "text": "三十分走れました。",
+            "text_vi": "Chạy được ba mươi phút.",
+            "is_correct": false
+          },
+          {
+            "text": "五分だけ走れました。",
+            "text_vi": "Chỉ chạy được năm phút.",
+            "is_correct": true
+          },
+          {
+            "text": "一時間走れました。",
+            "text_vi": "Chạy được một tiếng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 2 nói 「最初は五分走っただけで、とても疲れました」→ だけ = chỉ, mới chạy 5 phút đã mệt."
+      },
+      {
+        "id": "R_0094_Q2",
+        "question": "ジョギングを始めてから、どんな変化がありましたか。",
+        "question_vi": "Từ khi bắt đầu chạy bộ, có thay đổi gì?",
+        "answers": [
+          {
+            "text": "体が重くなりました。",
+            "text_vi": "Cơ thể nặng hơn.",
+            "is_correct": false
+          },
+          {
+            "text": "体が軽くなって、よく眠れるようになりました。",
+            "text_vi": "Cơ thể nhẹ hơn và ngủ ngon hơn.",
+            "is_correct": true
+          },
+          {
+            "text": "朝ごはんを食べなくなりました。",
+            "text_vi": "Không ăn sáng nữa.",
+            "is_correct": false
+          },
+          {
+            "text": "体重が増えました。",
+            "text_vi": "Cân nặng tăng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 7 nói 「体が軽くなりました」và câu 8 nói 「夜もよく眠れるようになりました」→ くなりました/ようになりました diễn tả thay đổi tích cực."
+      },
+      {
+        "id": "R_0094_Q3",
+        "question": "この人が一番言いたいことは何ですか。",
+        "question_vi": "Điều người này muốn nói nhất là gì?",
+        "answers": [
+          {
+            "text": "毎朝走るのは大変だということ。",
+            "text_vi": "Chạy mỗi sáng rất vất vả.",
+            "is_correct": false
+          },
+          {
+            "text": "マラソン大会に出ることが大切だということ。",
+            "text_vi": "Tham gia giải marathon là quan trọng.",
+            "is_correct": false
+          },
+          {
+            "text": "運動は続けることが大切だということ。",
+            "text_vi": "Việc tiếp tục tập thể dục là quan trọng.",
+            "is_correct": true
+          },
+          {
+            "text": "ジョギングよりシャワーが好きだということ。",
+            "text_vi": "Thích tắm hơn chạy bộ.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 10 nói 「運動は最初は大変ですが、続けることが大切だと思います」→ が nối ngược: dù vất vả nhưng quan trọng là tiếp tục. Đây là thông điệp chính của bài."
+      }
+    ]
+  },
+  {
+    "id": "R_0095",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "バランスのいい食事",
+    "title_vi": "Ăn uống cân bằng",
+    "topic": "health",
+    "subtopic": "dinh dưỡng",
+    "tags": [
+      "て",
+      "が",
+      "に",
+      "を",
+      "は",
+      "ようにしています"
+    ],
+    "grammar_used": [
+      "～ようにしています",
+      "～すぎる",
+      "～ことが大切です",
+      "～たり～たりします",
+      "～なければなりません"
+    ],
+    "sentence_count": 11,
+    "text": "日本に来てから、食事について考えるようになりました。ベトナムにいた時は、好きなものだけ食べていました。でも、一人で暮らしてから、コンビニ弁当ばかり食べすぎました。体の調子が悪くなって、友達に相談しました。友達はバランスのいい食事が大切だと教えてくれました。今は野菜や果物をたくさん食べるようにしています。毎日、肉か魚も食べます。朝ごはんも必ず食べなければなりません。水もたくさん飲むようにしています。自分で料理を作ったり、スーパーで惣菜を買ったりしています。少しずつ体の調子がよくなりました。",
+    "translation": "Từ khi đến Nhật, tôi bắt đầu suy nghĩ về chuyện ăn uống. Khi còn ở Việt Nam, chỉ ăn những gì mình thích. Nhưng từ khi sống một mình, ăn cơm hộp cửa hàng tiện lợi quá nhiều. Cơ thể bắt đầu không khỏe, nên tôi hỏi bạn. Bạn dạy rằng ăn uống cân bằng là quan trọng. Bây giờ tôi cố gắng ăn nhiều rau và trái cây. Mỗi ngày cũng ăn thịt hoặc cá. Bữa sáng cũng phải ăn. Nước cũng cố gắng uống nhiều. Tôi tự nấu ăn hoặc mua đồ ăn sẵn ở siêu thị. Dần dần cơ thể khỏe hơn.",
+    "vocabulary": [
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaning": "bữa ăn"
+      },
+      {
+        "word": "暮らす",
+        "reading": "くらす",
+        "meaning": "sinh sống"
+      },
+      {
+        "word": "弁当",
+        "reading": "べんとう",
+        "meaning": "cơm hộp"
+      },
+      {
+        "word": "調子",
+        "reading": "ちょうし",
+        "meaning": "tình trạng"
+      },
+      {
+        "word": "相談する",
+        "reading": "そうだんする",
+        "meaning": "tham khảo, hỏi ý kiến"
+      },
+      {
+        "word": "果物",
+        "reading": "くだもの",
+        "meaning": "trái cây"
+      },
+      {
+        "word": "必ず",
+        "reading": "かならず",
+        "meaning": "nhất định, chắc chắn"
+      },
+      {
+        "word": "惣菜",
+        "reading": "そうざい",
+        "meaning": "đồ ăn sẵn"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "日本に来てから、食事について考えるようになりました。",
+        "chunks": "日本に / 来てから / 食事について / 考えるようになりました",
+        "guide": "に đích đến → てから từ khi → について về việc → ようになりました thay đổi: bắt đầu suy nghĩ",
+        "translation": "Từ khi đến Nhật, tôi bắt đầu suy nghĩ về chuyện ăn uống."
+      },
+      {
+        "sentence": "ベトナムにいた時は、好きなものだけ食べていました。",
+        "chunks": "ベトナムに / いた時は / 好きなものだけ / 食べていました",
+        "guide": "に nơi → た時 thời điểm quá khứ → だけ chỉ → ていました thói quen quá khứ",
+        "translation": "Khi còn ở Việt Nam, chỉ ăn những gì mình thích."
+      },
+      {
+        "sentence": "でも、一人で暮らしてから、コンビニ弁当ばかり食べすぎました。",
+        "chunks": "でも / 一人で / 暮らしてから / コンビニ弁当ばかり / 食べすぎました",
+        "guide": "で trạng thái → てから từ khi → ばかり chỉ toàn → すぎました quá mức",
+        "translation": "Nhưng từ khi sống một mình, ăn cơm hộp cửa hàng tiện lợi quá nhiều."
+      },
+      {
+        "sentence": "体の調子が悪くなって、友達に相談しました。",
+        "chunks": "体の / 調子が / 悪くなって / 友達に / 相談しました",
+        "guide": "の liên kết → が chủ ngữ → くなって trở nên xấu + nối → に đối tượng hỏi",
+        "translation": "Cơ thể bắt đầu không khỏe, nên tôi hỏi bạn."
+      },
+      {
+        "sentence": "友達はバランスのいい食事が大切だと教えてくれました。",
+        "chunks": "友達は / バランスのいい / 食事が / 大切だと / 教えてくれました",
+        "guide": "は chủ đề → のいい tính chất tốt → が chủ ngữ → だと trích dẫn → てくれました làm giúp",
+        "translation": "Bạn dạy rằng ăn uống cân bằng là quan trọng."
+      },
+      {
+        "sentence": "今は野菜や果物をたくさん食べるようにしています。",
+        "chunks": "今は / 野菜や / 果物を / たくさん / 食べるようにしています",
+        "guide": "は chuyển sang hiện tại → や liệt kê → を đối tượng → ようにしています cố gắng duy trì thói quen",
+        "translation": "Bây giờ tôi cố gắng ăn nhiều rau và trái cây."
+      },
+      {
+        "sentence": "毎日、肉か魚も食べます。",
+        "chunks": "毎日 / 肉か / 魚も / 食べます",
+        "guide": "か hoặc (chọn 1 trong 2) → も thêm vào danh sách thói quen",
+        "translation": "Mỗi ngày cũng ăn thịt hoặc cá."
+      },
+      {
+        "sentence": "朝ごはんも必ず食べなければなりません。",
+        "chunks": "朝ごはんも / 必ず / 食べなければなりません",
+        "guide": "も thêm một việc nữa → 必ず nhất định → なければなりません bắt buộc phải",
+        "translation": "Bữa sáng cũng phải ăn."
+      },
+      {
+        "sentence": "水もたくさん飲むようにしています。",
+        "chunks": "水も / たくさん / 飲む / ようにしています",
+        "guide": "も thêm một thói quen → ようにしています cố gắng duy trì",
+        "translation": "Nước cũng cố gắng uống nhiều."
+      },
+      {
+        "sentence": "自分で料理を作ったり、スーパーで惣菜を買ったりしています。",
+        "chunks": "自分で / 料理を / 作ったり / スーパーで / 惣菜を / 買ったりしています",
+        "guide": "で tự mình → たり...たり liệt kê hành động xen kẽ → しています đang làm thường xuyên",
+        "translation": "Tôi tự nấu ăn hoặc mua đồ ăn sẵn ở siêu thị."
+      },
+      {
+        "sentence": "少しずつ体の調子がよくなりました。",
+        "chunks": "少しずつ / 体の / 調子が / よくなりました",
+        "guide": "少しずつ từ từ → の liên kết → が chủ ngữ → よくなりました trở nên tốt hơn → kết quả tích cực",
+        "translation": "Dần dần cơ thể khỏe hơn."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0095_Q1",
+        "question": "日本に来る前、この人はどんな食事をしていましたか。",
+        "question_vi": "Trước khi đến Nhật, người này ăn uống thế nào?",
+        "answers": [
+          {
+            "text": "バランスのいい食事をしていました。",
+            "text_vi": "Ăn uống cân bằng.",
+            "is_correct": false
+          },
+          {
+            "text": "好きなものだけ食べていました。",
+            "text_vi": "Chỉ ăn những gì mình thích.",
+            "is_correct": true
+          },
+          {
+            "text": "野菜をたくさん食べていました。",
+            "text_vi": "Ăn nhiều rau.",
+            "is_correct": false
+          },
+          {
+            "text": "コンビニ弁当を食べていました。",
+            "text_vi": "Ăn cơm hộp cửa hàng tiện lợi.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 2 nói 「ベトナムにいた時は、好きなものだけ食べていました」→ だけ = chỉ, ていました = thói quen quá khứ → ở Việt Nam chỉ ăn thứ mình thích."
+      },
+      {
+        "id": "R_0095_Q2",
+        "question": "体の調子が悪くなった原因は何ですか。",
+        "question_vi": "Nguyên nhân cơ thể không khỏe là gì?",
+        "answers": [
+          {
+            "text": "運動しすぎたからです。",
+            "text_vi": "Vì tập thể dục quá nhiều.",
+            "is_correct": false
+          },
+          {
+            "text": "コンビニ弁当ばかり食べすぎたからです。",
+            "text_vi": "Vì ăn cơm hộp cửa hàng tiện lợi quá nhiều.",
+            "is_correct": true
+          },
+          {
+            "text": "水を飲まなかったからです。",
+            "text_vi": "Vì không uống nước.",
+            "is_correct": false
+          },
+          {
+            "text": "朝ごはんだけ食べたからです。",
+            "text_vi": "Vì chỉ ăn bữa sáng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 3 nói 「コンビニ弁当ばかり食べすぎました」rồi câu 4 nói 「体の調子が悪くなって」→ ばかり + すぎる = chỉ ăn toàn cơm hộp + quá nhiều → nguyên nhân."
+      },
+      {
+        "id": "R_0095_Q3",
+        "question": "今、この人はどんなことに気をつけていますか。",
+        "question_vi": "Bây giờ, người này chú ý điều gì?",
+        "answers": [
+          {
+            "text": "コンビニ弁当をたくさん食べること。",
+            "text_vi": "Ăn nhiều cơm hộp cửa hàng tiện lợi.",
+            "is_correct": false
+          },
+          {
+            "text": "好きなものだけ食べること。",
+            "text_vi": "Chỉ ăn những gì mình thích.",
+            "is_correct": false
+          },
+          {
+            "text": "野菜や果物を食べて、バランスよく食べること。",
+            "text_vi": "Ăn rau, trái cây và ăn uống cân bằng.",
+            "is_correct": true
+          },
+          {
+            "text": "毎日外食すること。",
+            "text_vi": "Ăn ngoài mỗi ngày.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 6-9 liệt kê thói quen mới: 「野菜や果物をたくさん食べる」「肉か魚も食べます」「朝ごはんも必ず食べなければなりません」「水もたくさん飲む」→ ようにしています = cố gắng duy trì thói quen ăn uống cân bằng."
+      }
+    ]
+  },
+  {
+    "id": "R_0096",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "日本に来たばかりのストレス",
+    "title_vi": "Stress khi mới đến Nhật",
+    "topic": "health",
+    "subtopic": "stress",
+    "tags": [
+      "て",
+      "が",
+      "に",
+      "で",
+      "を",
+      "は",
+      "ばかり"
+    ],
+    "grammar_used": [
+      "～たばかり",
+      "～てしまいます",
+      "～ことができません",
+      "～ようになりました",
+      "～たら～"
+    ],
+    "sentence_count": 11,
+    "text": "日本に来たばかりの頃、毎日ストレスがたくさんありました。日本語がうまく話せなくて、買い物も大変でした。店員さんの言葉がわからなくて、何も買えないことがありました。電車の乗り方も難しくて、間違えてしまいました。一人で部屋にいる時間が長くて、寂しかったです。でも、日本語学校で友達ができたら、少し楽になりました。友達と一緒にご飯を食べたり、買い物に行ったりしました。趣味の時間も作るようにしました。少しずつ日本の生活に慣れることができました。今は毎日が楽しいです。ストレスがあった時の自分に「大丈夫だよ」と言いたいです。",
+    "translation": "Lúc mới đến Nhật, mỗi ngày đều rất nhiều stress. Vì nói tiếng Nhật không giỏi nên mua sắm cũng vất vả. Không hiểu lời nhân viên cửa hàng nên có lúc không mua được gì. Cách đi tàu cũng khó, đã đi nhầm. Thời gian ở một mình trong phòng dài, rất buồn. Nhưng khi có bạn ở trường tiếng Nhật thì nhẹ nhõm hơn một chút. Cùng bạn ăn cơm, đi mua sắm. Cũng cố gắng dành thời gian cho sở thích. Dần dần đã quen được với cuộc sống ở Nhật. Bây giờ mỗi ngày đều vui. Tôi muốn nói với bản thân lúc đang stress rằng \"không sao đâu\".",
+    "vocabulary": [
+      {
+        "word": "ストレス",
+        "reading": "ストレス",
+        "meaning": "stress, căng thẳng"
+      },
+      {
+        "word": "間違える",
+        "reading": "まちがえる",
+        "meaning": "nhầm lẫn"
+      },
+      {
+        "word": "寂しい",
+        "reading": "さびしい",
+        "meaning": "buồn, cô đơn"
+      },
+      {
+        "word": "楽",
+        "reading": "らく",
+        "meaning": "nhẹ nhàng, thoải mái"
+      },
+      {
+        "word": "趣味",
+        "reading": "しゅみ",
+        "meaning": "sở thích"
+      },
+      {
+        "word": "慣れる",
+        "reading": "なれる",
+        "meaning": "quen"
+      },
+      {
+        "word": "生活",
+        "reading": "せいかつ",
+        "meaning": "cuộc sống"
+      },
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "không sao"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "日本に来たばかりの頃、毎日ストレスがたくさんありました。",
+        "chunks": "日本に / 来たばかりの頃 / 毎日 / ストレスが / たくさん / ありました",
+        "guide": "に đích → たばかり vừa mới → の頃 khoảng thời gian đó → が chủ ngữ → ありました có",
+        "translation": "Lúc mới đến Nhật, mỗi ngày đều rất nhiều stress."
+      },
+      {
+        "sentence": "日本語がうまく話せなくて、買い物も大変でした。",
+        "chunks": "日本語が / うまく話せなくて / 買い物も / 大変でした",
+        "guide": "が chủ ngữ → なくて nguyên nhân phủ định → も thêm vào → 大変 vất vả",
+        "translation": "Vì nói tiếng Nhật không giỏi nên mua sắm cũng vất vả."
+      },
+      {
+        "sentence": "店員さんの言葉がわからなくて、何も買えないことがありました。",
+        "chunks": "店員さんの / 言葉が / わからなくて / 何も / 買えないことが / ありました",
+        "guide": "の liên kết → が chủ ngữ → なくて nguyên nhân → 何も + phủ định = không gì cả → ことがありました đã từng có lúc",
+        "translation": "Không hiểu lời nhân viên cửa hàng nên có lúc không mua được gì."
+      },
+      {
+        "sentence": "電車の乗り方も難しくて、間違えてしまいました。",
+        "chunks": "電車の / 乗り方も / 難しくて / 間違えてしまいました",
+        "guide": "の liên kết → 乗り方 cách đi → も thêm vấn đề → くて nguyên nhân → てしまいました đáng tiếc",
+        "translation": "Cách đi tàu cũng khó, đã đi nhầm."
+      },
+      {
+        "sentence": "一人で部屋にいる時間が長くて、寂しかったです。",
+        "chunks": "一人で / 部屋に / いる時間が / 長くて / 寂しかったです",
+        "guide": "で trạng thái → に nơi → が chủ ngữ → くて nguyên nhân → 寂しかった cô đơn",
+        "translation": "Thời gian ở một mình trong phòng dài, rất buồn."
+      },
+      {
+        "sentence": "でも、日本語学校で友達ができたら、少し楽になりました。",
+        "chunks": "でも / 日本語学校で / 友達が / できたら / 少し / 楽になりました",
+        "guide": "でも nhưng → で nơi chốn → が chủ ngữ → たら khi xảy ra thì → になりました trở nên thoải mái hơn",
+        "translation": "Nhưng khi có bạn ở trường tiếng Nhật thì nhẹ nhõm hơn một chút."
+      },
+      {
+        "sentence": "友達と一緒にご飯を食べたり、買い物に行ったりしました。",
+        "chunks": "友達と / 一緒に / ご飯を / 食べたり / 買い物に / 行ったりしました",
+        "guide": "と cùng ai → に cùng nhau → たり...たり liệt kê hành động → しました đã làm",
+        "translation": "Cùng bạn ăn cơm, đi mua sắm."
+      },
+      {
+        "sentence": "趣味の時間も作るようにしました。",
+        "chunks": "趣味の / 時間も / 作る / ようにしました",
+        "guide": "の liên kết → も thêm vào → ようにしました bắt đầu cố gắng duy trì thói quen mới",
+        "translation": "Cũng cố gắng dành thời gian cho sở thích."
+      },
+      {
+        "sentence": "少しずつ日本の生活に慣れることができました。",
+        "chunks": "少しずつ / 日本の / 生活に / 慣れることが / できました",
+        "guide": "少しずつ từ từ → の liên kết → に đối tượng quen → ことができました đã có thể",
+        "translation": "Dần dần đã quen được với cuộc sống ở Nhật."
+      },
+      {
+        "sentence": "今は毎日が楽しいです。",
+        "chunks": "今は / 毎日が / 楽しいです",
+        "guide": "は chuyển sang hiện tại → が chủ ngữ → 楽しい vui → so sánh với trước đây",
+        "translation": "Bây giờ mỗi ngày đều vui."
+      },
+      {
+        "sentence": "ストレスがあった時の自分に「大丈夫だよ」と言いたいです。",
+        "chunks": "ストレスが / あった時の / 自分に / 大丈夫だよと / 言いたいです",
+        "guide": "が chủ ngữ → た時の thời điểm quá khứ + liên kết → に đối tượng → と trích dẫn → たいです muốn nói. Câu kết cảm động",
+        "translation": "Tôi muốn nói với bản thân lúc đang stress rằng \"không sao đâu\"."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0096_Q1",
+        "question": "日本に来たばかりの時、何が大変でしたか。",
+        "question_vi": "Khi mới đến Nhật, điều gì vất vả?",
+        "answers": [
+          {
+            "text": "仕事が多かったです。",
+            "text_vi": "Công việc nhiều.",
+            "is_correct": false
+          },
+          {
+            "text": "日本語が話せなくて、買い物や電車が大変でした。",
+            "text_vi": "Không nói được tiếng Nhật nên mua sắm và đi tàu vất vả.",
+            "is_correct": true
+          },
+          {
+            "text": "友達が多すぎました。",
+            "text_vi": "Bạn bè quá nhiều.",
+            "is_correct": false
+          },
+          {
+            "text": "学校が遠かったです。",
+            "text_vi": "Trường xa.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 2-4 liệt kê: 「日本語がうまく話せなくて、買い物も大変」「電車の乗り方も難しくて」→ なくて chỉ nguyên nhân, も thêm vấn đề = không nói được tiếng Nhật dẫn đến nhiều khó khăn."
+      },
+      {
+        "id": "R_0096_Q2",
+        "question": "何がきっかけで楽になりましたか。",
+        "question_vi": "Nhờ đâu mà nhẹ nhõm hơn?",
+        "answers": [
+          {
+            "text": "日本語が上手になったからです。",
+            "text_vi": "Vì tiếng Nhật giỏi hơn.",
+            "is_correct": false
+          },
+          {
+            "text": "仕事が見つかったからです。",
+            "text_vi": "Vì tìm được việc.",
+            "is_correct": false
+          },
+          {
+            "text": "日本語学校で友達ができたからです。",
+            "text_vi": "Vì có bạn ở trường tiếng Nhật.",
+            "is_correct": true
+          },
+          {
+            "text": "ベトナムに帰ったからです。",
+            "text_vi": "Vì về Việt Nam.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 6 nói 「日本語学校で友達ができたら、少し楽になりました」→ たら chỉ thời điểm thay đổi, できた = có được bạn → đây là điểm chuyển biến."
+      },
+      {
+        "id": "R_0096_Q3",
+        "question": "最後の文から、この人の気持ちはどうですか。",
+        "question_vi": "Từ câu cuối, tâm trạng người này thế nào?",
+        "answers": [
+          {
+            "text": "まだストレスがたくさんあって、辛いです。",
+            "text_vi": "Vẫn còn nhiều stress, rất khổ.",
+            "is_correct": false
+          },
+          {
+            "text": "日本に来たことを後悔しています。",
+            "text_vi": "Hối hận vì đã đến Nhật.",
+            "is_correct": false
+          },
+          {
+            "text": "今は楽しくて、過去の自分を励ましたい気持ちです。",
+            "text_vi": "Bây giờ vui rồi, muốn động viên bản thân trong quá khứ.",
+            "is_correct": true
+          },
+          {
+            "text": "ベトナムに帰りたいです。",
+            "text_vi": "Muốn về Việt Nam.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 10 nói 「今は毎日が楽しいです」và câu 11 nói 「ストレスがあった時の自分に「大丈夫だよ」と言いたいです」→ 今は = bây giờ vui rồi + と言いたい = muốn nhắn nhủ bản thân quá khứ → tâm trạng tích cực, muốn động viên."
+      }
+    ]
+  },
+  {
+    "id": "R_0097",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "睡眠不足",
+    "title_vi": "Ngủ không đủ giấc",
+    "topic": "health",
+    "subtopic": "giấc ngủ",
+    "tags": [
+      "て",
+      "が",
+      "に",
+      "を",
+      "は",
+      "と"
+    ],
+    "grammar_used": [
+      "～すぎる",
+      "～ないようにしています",
+      "～てはいけません",
+      "～たら～",
+      "～ようになりました"
+    ],
+    "sentence_count": 11,
+    "text": "最近、毎日疲れています。原因は睡眠不足だと思います。夜、スマホを見すぎて、なかなか寝られません。動画を見たり、SNSをチェックしたりしていると、もう夜中の二時になってしまいます。朝は六時に起きなければなりません。だから、毎日四時間しか寝ていません。授業中に眠くなって、先生の話が聞けません。友達に相談したら、「寝る前にスマホを見てはいけないよ」と言われました。今は寝る一時間前からスマホを見ないようにしています。本を読んだり、音楽を聞いたりしてから寝ます。少しずつ早く眠れるようになりました。",
+    "translation": "Gần đây, mỗi ngày đều mệt. Tôi nghĩ nguyên nhân là thiếu ngủ. Ban đêm xem điện thoại quá nhiều nên không ngủ được. Cứ xem video, lướt mạng xã hội thì đã hai giờ sáng rồi. Sáng phải dậy lúc sáu giờ. Vì vậy mỗi ngày chỉ ngủ có bốn tiếng. Trong giờ học buồn ngủ, không nghe được lời thầy cô. Hỏi bạn thì bạn nói \"trước khi ngủ không được xem điện thoại\". Bây giờ tôi cố gắng không xem điện thoại từ một tiếng trước khi ngủ. Đọc sách hoặc nghe nhạc rồi mới ngủ. Dần dần đã ngủ sớm hơn được.",
+    "vocabulary": [
+      {
+        "word": "睡眠不足",
+        "reading": "すいみんぶそく",
+        "meaning": "thiếu ngủ"
+      },
+      {
+        "word": "原因",
+        "reading": "げんいん",
+        "meaning": "nguyên nhân"
+      },
+      {
+        "word": "なかなか",
+        "reading": "なかなか",
+        "meaning": "mãi mà không"
+      },
+      {
+        "word": "動画",
+        "reading": "どうが",
+        "meaning": "video"
+      },
+      {
+        "word": "夜中",
+        "reading": "よなか",
+        "meaning": "nửa đêm"
+      },
+      {
+        "word": "授業中",
+        "reading": "じゅぎょうちゅう",
+        "meaning": "trong giờ học"
+      },
+      {
+        "word": "眠い",
+        "reading": "ねむい",
+        "meaning": "buồn ngủ"
+      },
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "âm nhạc"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "最近、毎日疲れています。",
+        "chunks": "最近 / 毎日 / 疲れています",
+        "guide": "最近 gần đây → ています trạng thái kéo dài → mệt liên tục",
+        "translation": "Gần đây, mỗi ngày đều mệt."
+      },
+      {
+        "sentence": "原因は睡眠不足だと思います。",
+        "chunks": "原因は / 睡眠不足だと / 思います",
+        "guide": "は chủ đề → だと trích dẫn → 思います tôi nghĩ → nêu nguyên nhân",
+        "translation": "Tôi nghĩ nguyên nhân là thiếu ngủ."
+      },
+      {
+        "sentence": "夜、スマホを見すぎて、なかなか寝られません。",
+        "chunks": "夜 / スマホを / 見すぎて / なかなか / 寝られません",
+        "guide": "を đối tượng → すぎて quá mức + nối → なかなか + phủ định = mãi không được → 寝られません không ngủ được",
+        "translation": "Ban đêm xem điện thoại quá nhiều nên không ngủ được."
+      },
+      {
+        "sentence": "動画を見たり、SNSをチェックしたりしていると、もう夜中の二時になってしまいます。",
+        "chunks": "動画を / 見たり / SNSを / チェックしたりしていると / もう / 夜中の二時に / なってしまいます",
+        "guide": "たり...たり liệt kê → していると đang làm thì → もう đã → になってしまいます trở thành (đáng tiếc)",
+        "translation": "Cứ xem video, lướt mạng xã hội thì đã hai giờ sáng rồi."
+      },
+      {
+        "sentence": "朝は六時に起きなければなりません。",
+        "chunks": "朝は / 六時に / 起きなければなりません",
+        "guide": "は thời gian → に thời điểm → なければなりません bắt buộc phải",
+        "translation": "Sáng phải dậy lúc sáu giờ."
+      },
+      {
+        "sentence": "だから、毎日四時間しか寝ていません。",
+        "chunks": "だから / 毎日 / 四時間しか / 寝ていません",
+        "guide": "だから vì vậy → しか + phủ định = chỉ có bấy nhiêu → ていません trạng thái thiếu ngủ",
+        "translation": "Vì vậy mỗi ngày chỉ ngủ có bốn tiếng."
+      },
+      {
+        "sentence": "授業中に眠くなって、先生の話が聞けません。",
+        "chunks": "授業中に / 眠くなって / 先生の / 話が / 聞けません",
+        "guide": "に thời điểm → くなって trở nên buồn ngủ → の liên kết → が chủ ngữ → 聞けません không thể nghe",
+        "translation": "Trong giờ học buồn ngủ, không nghe được lời thầy cô."
+      },
+      {
+        "sentence": "友達に相談したら、「寝る前にスマホを見てはいけないよ」と言われました。",
+        "chunks": "友達に / 相談したら / 寝る前に / スマホを / 見てはいけないよと / 言われました",
+        "guide": "に đối tượng → たら khi... thì → 前に trước khi → てはいけない không được phép → と言われました được nói rằng",
+        "translation": "Hỏi bạn thì bạn nói \"trước khi ngủ không được xem điện thoại\"."
+      },
+      {
+        "sentence": "今は寝る一時間前からスマホを見ないようにしています。",
+        "chunks": "今は / 寝る / 一時間前から / スマホを / 見ないようにしています",
+        "guide": "は chuyển sang hiện tại → 前から từ trước khi → を đối tượng → ないようにしています cố gắng không làm",
+        "translation": "Bây giờ tôi cố gắng không xem điện thoại từ một tiếng trước khi ngủ."
+      },
+      {
+        "sentence": "本を読んだり、音楽を聞いたりしてから寝ます。",
+        "chunks": "本を / 読んだり / 音楽を / 聞いたりしてから / 寝ます",
+        "guide": "たり...たり liệt kê → してから sau khi → 寝ます đi ngủ → thói quen mới thay thế",
+        "translation": "Đọc sách hoặc nghe nhạc rồi mới ngủ."
+      },
+      {
+        "sentence": "少しずつ早く眠れるようになりました。",
+        "chunks": "少しずつ / 早く / 眠れる / ようになりました",
+        "guide": "少しずつ từ từ → 早く sớm → ようになりました thay đổi tích cực → kết quả cải thiện",
+        "translation": "Dần dần đã ngủ sớm hơn được."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0097_Q1",
+        "question": "この人は毎日何時間寝ていますか。",
+        "question_vi": "Người này mỗi ngày ngủ mấy tiếng?",
+        "answers": [
+          {
+            "text": "六時間寝ています。",
+            "text_vi": "Ngủ sáu tiếng.",
+            "is_correct": false
+          },
+          {
+            "text": "八時間寝ています。",
+            "text_vi": "Ngủ tám tiếng.",
+            "is_correct": false
+          },
+          {
+            "text": "四時間しか寝ていません。",
+            "text_vi": "Chỉ ngủ có bốn tiếng.",
+            "is_correct": true
+          },
+          {
+            "text": "二時間しか寝ていません。",
+            "text_vi": "Chỉ ngủ có hai tiếng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 6 nói 「毎日四時間しか寝ていません」→ しか + phủ định = chỉ có 4 tiếng. Tính từ câu 4 (ngủ lúc 2 giờ) và câu 5 (dậy lúc 6 giờ) cũng khớp."
+      },
+      {
+        "id": "R_0097_Q2",
+        "question": "眠れない原因は何ですか。",
+        "question_vi": "Nguyên nhân không ngủ được là gì?",
+        "answers": [
+          {
+            "text": "コーヒーを飲みすぎるからです。",
+            "text_vi": "Vì uống cà phê quá nhiều.",
+            "is_correct": false
+          },
+          {
+            "text": "夜、スマホを見すぎるからです。",
+            "text_vi": "Vì ban đêm xem điện thoại quá nhiều.",
+            "is_correct": true
+          },
+          {
+            "text": "部屋がうるさいからです。",
+            "text_vi": "Vì phòng ồn.",
+            "is_correct": false
+          },
+          {
+            "text": "運動しすぎるからです。",
+            "text_vi": "Vì tập thể dục quá nhiều.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 3 nói 「スマホを見すぎて、なかなか寝られません」→ すぎて chỉ nguyên nhân quá mức → xem điện thoại quá nhiều nên không ngủ được."
+      },
+      {
+        "id": "R_0097_Q3",
+        "question": "友達のアドバイスは何でしたか。",
+        "question_vi": "Lời khuyên của bạn là gì?",
+        "answers": [
+          {
+            "text": "早く起きた方がいいと言いました。",
+            "text_vi": "Nói rằng nên dậy sớm.",
+            "is_correct": false
+          },
+          {
+            "text": "薬を飲んだ方がいいと言いました。",
+            "text_vi": "Nói rằng nên uống thuốc.",
+            "is_correct": false
+          },
+          {
+            "text": "寝る前にスマホを見てはいけないと言いました。",
+            "text_vi": "Nói rằng trước khi ngủ không được xem điện thoại.",
+            "is_correct": true
+          },
+          {
+            "text": "毎日運動した方がいいと言いました。",
+            "text_vi": "Nói rằng nên tập thể dục mỗi ngày.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 8 nói 「寝る前にスマホを見てはいけないよ」と言われました → てはいけない = không được phép → lời khuyên là trước khi ngủ không xem điện thoại."
+      }
+    ]
+  },
+  {
+    "id": "R_0098",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "ホームシック",
+    "title_vi": "Nhớ nhà",
+    "topic": "health",
+    "subtopic": "sức khỏe tâm thần",
+    "tags": [
+      "て",
+      "が",
+      "に",
+      "を",
+      "は",
+      "たい",
+      "と"
+    ],
+    "grammar_used": [
+      "～たくなります",
+      "～ている時",
+      "～てくれました",
+      "～と思います",
+      "～ようになりました"
+    ],
+    "sentence_count": 11,
+    "text": "日本に来て半年になりました。最近、ベトナムの家族がとても恋しいです。特に夜、一人で部屋にいる時、お母さんの料理が食べたくなります。ベトナムの友達とビデオ通話をすると、帰りたい気持ちが強くなります。先週、とても寂しくなって、泣いてしまいました。次の日、クラスメートが「一緒にご飯を食べよう」と誘ってくれました。みんなで話していたら、少し元気になりました。今は週末に母と電話するようにしています。母の声を聞くと、安心します。ホームシックは悪いことではないと思います。家族を大切に思っている証拠だからです。",
+    "translation": "Đã nửa năm kể từ khi đến Nhật. Gần đây, rất nhớ gia đình ở Việt Nam. Đặc biệt ban đêm, khi ở một mình trong phòng, lại muốn ăn món mẹ nấu. Khi gọi video cho bạn ở Việt Nam, nỗi muốn về nhà lại mạnh hơn. Tuần trước, buồn quá nên khóc mất. Hôm sau, bạn cùng lớp rủ \"cùng đi ăn đi\". Mọi người nói chuyện với nhau, tôi đã vui lên một chút. Bây giờ tôi cố gắng gọi điện cho mẹ mỗi cuối tuần. Nghe giọng mẹ là thấy yên tâm. Tôi nghĩ nhớ nhà không phải là điều xấu. Vì đó là bằng chứng mình yêu thương gia đình.",
+    "vocabulary": [
+      {
+        "word": "恋しい",
+        "reading": "こいしい",
+        "meaning": "nhớ, thương nhớ"
+      },
+      {
+        "word": "ビデオ通話",
+        "reading": "ビデオつうわ",
+        "meaning": "gọi video"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "meaning": "cảm xúc, tâm trạng"
+      },
+      {
+        "word": "泣く",
+        "reading": "なく",
+        "meaning": "khóc"
+      },
+      {
+        "word": "誘う",
+        "reading": "さそう",
+        "meaning": "rủ, mời"
+      },
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "khỏe, vui"
+      },
+      {
+        "word": "安心する",
+        "reading": "あんしんする",
+        "meaning": "yên tâm"
+      },
+      {
+        "word": "証拠",
+        "reading": "しょうこ",
+        "meaning": "bằng chứng"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "日本に来て半年になりました。",
+        "chunks": "日本に / 来て / 半年に / なりました",
+        "guide": "に đích → て nối → になりました đã trở thành → mốc thời gian nửa năm",
+        "translation": "Đã nửa năm kể từ khi đến Nhật."
+      },
+      {
+        "sentence": "最近、ベトナムの家族がとても恋しいです。",
+        "chunks": "最近 / ベトナムの / 家族が / とても / 恋しいです",
+        "guide": "の liên kết → が chủ ngữ → とても rất → 恋しい nhớ nhung",
+        "translation": "Gần đây, rất nhớ gia đình ở Việt Nam."
+      },
+      {
+        "sentence": "特に夜、一人で部屋にいる時、お母さんの料理が食べたくなります。",
+        "chunks": "特に / 夜 / 一人で / 部屋に / いる時 / お母さんの / 料理が / 食べたくなります",
+        "guide": "特に đặc biệt → で trạng thái → に nơi → いる時 lúc đang → の liên kết → が chủ ngữ → たくなります trở nên muốn",
+        "translation": "Đặc biệt ban đêm, khi ở một mình trong phòng, lại muốn ăn món mẹ nấu."
+      },
+      {
+        "sentence": "ベトナムの友達とビデオ通話をすると、帰りたい気持ちが強くなります。",
+        "chunks": "ベトナムの / 友達と / ビデオ通話を / すると / 帰りたい / 気持ちが / 強くなります",
+        "guide": "と cùng ai → を đối tượng → と mỗi khi... thì → たい muốn → が chủ ngữ → くなります trở nên mạnh hơn",
+        "translation": "Khi gọi video cho bạn ở Việt Nam, nỗi muốn về nhà lại mạnh hơn."
+      },
+      {
+        "sentence": "先週、とても寂しくなって、泣いてしまいました。",
+        "chunks": "先週 / とても / 寂しくなって / 泣いて / しまいました",
+        "guide": "くなって trở nên buồn + nối → てしまいました hành động không kiểm soát được → khóc mất",
+        "translation": "Tuần trước, buồn quá nên khóc mất."
+      },
+      {
+        "sentence": "次の日、クラスメートが「一緒にご飯を食べよう」と誘ってくれました。",
+        "chunks": "次の日 / クラスメートが / 一緒に / ご飯を / 食べようと / 誘ってくれました",
+        "guide": "の liên kết → が chủ ngữ → ようと ý chí/rủ rê → てくれました ai đó làm giúp mình → biết ơn",
+        "translation": "Hôm sau, bạn cùng lớp rủ \"cùng đi ăn đi\"."
+      },
+      {
+        "sentence": "みんなで話していたら、少し元気になりました。",
+        "chunks": "みんなで / 話していたら / 少し / 元気になりました",
+        "guide": "で cùng nhau → ていたら đang... thì → 少し một chút → になりました trở nên vui",
+        "translation": "Mọi người nói chuyện với nhau, tôi đã vui lên một chút."
+      },
+      {
+        "sentence": "今は週末に母と電話するようにしています。",
+        "chunks": "今は / 週末に / 母と / 電話する / ようにしています",
+        "guide": "は chuyển sang hiện tại → に thời điểm → と cùng ai → ようにしています cố gắng duy trì thói quen",
+        "translation": "Bây giờ tôi cố gắng gọi điện cho mẹ mỗi cuối tuần."
+      },
+      {
+        "sentence": "母の声を聞くと、安心します。",
+        "chunks": "母の / 声を / 聞くと / 安心します",
+        "guide": "の liên kết → を đối tượng → と mỗi khi... thì tự nhiên → 安心します yên tâm",
+        "translation": "Nghe giọng mẹ là thấy yên tâm."
+      },
+      {
+        "sentence": "ホームシックは悪いことではないと思います。",
+        "chunks": "ホームシックは / 悪いことではないと / 思います",
+        "guide": "は chủ đề → ではない phủ định → と思います tôi nghĩ → quan điểm cá nhân",
+        "translation": "Tôi nghĩ nhớ nhà không phải là điều xấu."
+      },
+      {
+        "sentence": "家族を大切に思っている証拠だからです。",
+        "chunks": "家族を / 大切に / 思っている / 証拠だからです",
+        "guide": "を đối tượng → に trạng thái → ている đang → だからです vì → giải thích lý do cho câu trước",
+        "translation": "Vì đó là bằng chứng mình yêu thương gia đình."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0098_Q1",
+        "question": "この人はいつ一番ホームシックになりますか。",
+        "question_vi": "Người này nhớ nhà nhất khi nào?",
+        "answers": [
+          {
+            "text": "授業中です。",
+            "text_vi": "Trong giờ học.",
+            "is_correct": false
+          },
+          {
+            "text": "夜、一人で部屋にいる時です。",
+            "text_vi": "Ban đêm, khi ở một mình trong phòng.",
+            "is_correct": true
+          },
+          {
+            "text": "朝、起きた時です。",
+            "text_vi": "Khi sáng thức dậy.",
+            "is_correct": false
+          },
+          {
+            "text": "友達と一緒にいる時です。",
+            "text_vi": "Khi ở cùng bạn bè.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 3 nói 「特に夜、一人で部屋にいる時」→ 特に = đặc biệt, いる時 = lúc đang ở → nhớ nhà nhất vào ban đêm khi ở một mình."
+      },
+      {
+        "id": "R_0098_Q2",
+        "question": "クラスメートは何をしてくれましたか。",
+        "question_vi": "Bạn cùng lớp đã làm gì cho người này?",
+        "answers": [
+          {
+            "text": "ベトナム料理を作ってくれました。",
+            "text_vi": "Nấu món Việt Nam cho.",
+            "is_correct": false
+          },
+          {
+            "text": "一緒にご飯を食べようと誘ってくれました。",
+            "text_vi": "Rủ cùng đi ăn.",
+            "is_correct": true
+          },
+          {
+            "text": "ベトナムの家族に電話してくれました。",
+            "text_vi": "Gọi điện cho gia đình ở Việt Nam.",
+            "is_correct": false
+          },
+          {
+            "text": "プレゼントをくれました。",
+            "text_vi": "Tặng quà.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 6 nói 「クラスメートが「一緒にご飯を食べよう」と誘ってくれました」→ てくれました = làm giúp mình → bạn rủ cùng ăn cơm."
+      },
+      {
+        "id": "R_0098_Q3",
+        "question": "この人はホームシックについてどう考えていますか。",
+        "question_vi": "Người này nghĩ gì về việc nhớ nhà?",
+        "answers": [
+          {
+            "text": "弱い人だけがなると思っています。",
+            "text_vi": "Nghĩ rằng chỉ người yếu đuối mới bị.",
+            "is_correct": false
+          },
+          {
+            "text": "早くなくなった方がいいと思っています。",
+            "text_vi": "Nghĩ rằng nên hết sớm mới tốt.",
+            "is_correct": false
+          },
+          {
+            "text": "悪いことではなく、家族を大切に思う証拠だと思っています。",
+            "text_vi": "Nghĩ rằng không phải điều xấu, mà là bằng chứng yêu thương gia đình.",
+            "is_correct": true
+          },
+          {
+            "text": "病気だから、病院に行くべきだと思っています。",
+            "text_vi": "Nghĩ rằng là bệnh nên phải đi bệnh viện.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 10 nói 「ホームシックは悪いことではないと思います」và câu 11 giải thích 「家族を大切に思っている証拠だからです」→ ではない phủ định + だから lý do = nhớ nhà không xấu, là bằng chứng yêu gia đình."
+      }
+    ]
+  },
+  {
+    "id": "R_0099",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "いろいろなラーメン",
+    "title_vi": "Các loại ramen",
+    "topic": "food",
+    "subtopic": "món Nhật",
+    "tags": [
+      "て",
+      "が",
+      "に",
+      "を",
+      "は",
+      "と",
+      "という"
+    ],
+    "grammar_used": [
+      "～という～",
+      "～てみました",
+      "～の中で一番～",
+      "～によって違います",
+      "～たことがあります"
+    ],
+    "sentence_count": 11,
+    "text": "日本にはいろいろな種類のラーメンがあります。一番有名なのは醤油ラーメン、味噌ラーメン、塩ラーメン、豚骨ラーメンの四つです。醤油ラーメンは東京で人気があります。味は少ししょっぱくて、スープの色が濃いです。味噌ラーメンは北海道の札幌が有名です。寒い冬に食べると、体が温まります。豚骨ラーメンは九州の博多という場所で生まれました。スープが白くて、とても濃厚です。私は全部食べてみましたが、味噌ラーメンが一番好きです。日本のラーメンは地域によって味が違います。ラーメンを食べに旅行するのも楽しいと思います。",
+    "translation": "Ở Nhật có rất nhiều loại ramen. Nổi tiếng nhất là bốn loại: ramen nước tương, ramen miso, ramen muối và ramen xương heo. Ramen nước tương được ưa chuộng ở Tokyo. Vị hơi mặn, nước súp màu đậm. Ramen miso thì Sapporo ở Hokkaido nổi tiếng. Ăn vào mùa đông lạnh, cơ thể ấm lên. Ramen xương heo ra đời ở nơi gọi là Hakata vùng Kyushu. Nước súp trắng và rất đậm đà. Tôi đã thử ăn hết tất cả, nhưng thích ramen miso nhất. Ramen Nhật Bản có vị khác nhau tùy theo vùng miền. Tôi nghĩ đi du lịch để ăn ramen cũng thú vị.",
+    "vocabulary": [
+      {
+        "word": "種類",
+        "reading": "しゅるい",
+        "meaning": "loại, chủng loại"
+      },
+      {
+        "word": "醤油",
+        "reading": "しょうゆ",
+        "meaning": "nước tương"
+      },
+      {
+        "word": "味噌",
+        "reading": "みそ",
+        "meaning": "miso (tương đậu)"
+      },
+      {
+        "word": "豚骨",
+        "reading": "とんこつ",
+        "meaning": "xương heo"
+      },
+      {
+        "word": "濃い",
+        "reading": "こい",
+        "meaning": "đậm"
+      },
+      {
+        "word": "温まる",
+        "reading": "あたたまる",
+        "meaning": "ấm lên"
+      },
+      {
+        "word": "濃厚",
+        "reading": "のうこう",
+        "meaning": "đậm đà"
+      },
+      {
+        "word": "地域",
+        "reading": "ちいき",
+        "meaning": "vùng miền, khu vực"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "日本にはいろいろな種類のラーメンがあります。",
+        "chunks": "日本には / いろいろな / 種類の / ラーメンが / あります",
+        "guide": "には nơi chốn + nhấn mạnh → な tính từ な → の liên kết → が chủ ngữ → あります có",
+        "translation": "Ở Nhật có rất nhiều loại ramen."
+      },
+      {
+        "sentence": "一番有名なのは醤油ラーメン、味噌ラーメン、塩ラーメン、豚骨ラーメンの四つです。",
+        "chunks": "一番有名なのは / 醤油ラーメン / 味噌ラーメン / 塩ラーメン / 豚骨ラーメンの / 四つです",
+        "guide": "一番 nhất → なの danh từ hóa → は chủ đề → liệt kê 4 loại → です khẳng định",
+        "translation": "Nổi tiếng nhất là bốn loại: ramen nước tương, ramen miso, ramen muối và ramen xương heo."
+      },
+      {
+        "sentence": "醤油ラーメンは東京で人気があります。",
+        "chunks": "醤油ラーメンは / 東京で / 人気が / あります",
+        "guide": "は chủ đề → で nơi chốn → 人気がある được ưa chuộng",
+        "translation": "Ramen nước tương được ưa chuộng ở Tokyo."
+      },
+      {
+        "sentence": "味は少ししょっぱくて、スープの色が濃いです。",
+        "chunks": "味は / 少し / しょっぱくて / スープの / 色が / 濃いです",
+        "guide": "は chủ đề → くて nối tính từ い → の liên kết → が chủ ngữ → 濃い đậm",
+        "translation": "Vị hơi mặn, nước súp màu đậm."
+      },
+      {
+        "sentence": "味噌ラーメンは北海道の札幌が有名です。",
+        "chunks": "味噌ラーメンは / 北海道の / 札幌が / 有名です",
+        "guide": "は chủ đề → の liên kết → が chủ ngữ nhấn mạnh → 有名 nổi tiếng",
+        "translation": "Ramen miso thì Sapporo ở Hokkaido nổi tiếng."
+      },
+      {
+        "sentence": "寒い冬に食べると、体が温まります。",
+        "chunks": "寒い冬に / 食べると / 体が / 温まります",
+        "guide": "に thời điểm → と mỗi khi... thì tự nhiên → が chủ ngữ → 温まります ấm lên",
+        "translation": "Ăn vào mùa đông lạnh, cơ thể ấm lên."
+      },
+      {
+        "sentence": "豚骨ラーメンは九州の博多という場所で生まれました。",
+        "chunks": "豚骨ラーメンは / 九州の / 博多という / 場所で / 生まれました",
+        "guide": "は chủ đề → の liên kết → という gọi là, tên là → で nơi chốn → 生まれました ra đời",
+        "translation": "Ramen xương heo ra đời ở nơi gọi là Hakata vùng Kyushu."
+      },
+      {
+        "sentence": "スープが白くて、とても濃厚です。",
+        "chunks": "スープが / 白くて / とても / 濃厚です",
+        "guide": "が chủ ngữ → くて nối tính từ い → とても rất → 濃厚 đậm đà",
+        "translation": "Nước súp trắng và rất đậm đà."
+      },
+      {
+        "sentence": "私は全部食べてみましたが、味噌ラーメンが一番好きです。",
+        "chunks": "私は / 全部 / 食べてみましたが / 味噌ラーメンが / 一番 / 好きです",
+        "guide": "は chủ đề → てみました thử làm → が nối ngược → が chủ ngữ → 一番 nhất",
+        "translation": "Tôi đã thử ăn hết tất cả, nhưng thích ramen miso nhất."
+      },
+      {
+        "sentence": "日本のラーメンは地域によって味が違います。",
+        "chunks": "日本の / ラーメンは / 地域によって / 味が / 違います",
+        "guide": "の liên kết → は chủ đề → によって tùy theo → が chủ ngữ → 違います khác nhau",
+        "translation": "Ramen Nhật Bản có vị khác nhau tùy theo vùng miền."
+      },
+      {
+        "sentence": "ラーメンを食べに旅行するのも楽しいと思います。",
+        "chunks": "ラーメンを / 食べに / 旅行するのも / 楽しいと / 思います",
+        "guide": "を đối tượng → に mục đích → のも danh từ hóa + cũng → と思います tôi nghĩ",
+        "translation": "Tôi nghĩ đi du lịch để ăn ramen cũng thú vị."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0099_Q1",
+        "question": "豚骨ラーメンはどこで生まれましたか。",
+        "question_vi": "Ramen xương heo ra đời ở đâu?",
+        "answers": [
+          {
+            "text": "東京で生まれました。",
+            "text_vi": "Ra đời ở Tokyo.",
+            "is_correct": false
+          },
+          {
+            "text": "北海道の札幌で生まれました。",
+            "text_vi": "Ra đời ở Sapporo, Hokkaido.",
+            "is_correct": false
+          },
+          {
+            "text": "九州の博多で生まれました。",
+            "text_vi": "Ra đời ở Hakata, Kyushu.",
+            "is_correct": true
+          },
+          {
+            "text": "大阪で生まれました。",
+            "text_vi": "Ra đời ở Osaka.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 7 nói 「豚骨ラーメンは九州の博多という場所で生まれました」→ という = gọi là, で = nơi chốn → ra đời ở Hakata, Kyushu. ⚠️ Bẫy: 札幌 là nổi tiếng về 味噌ラーメン, không phải 豚骨."
+      },
+      {
+        "id": "R_0099_Q2",
+        "question": "この人は何のラーメンが一番好きですか。",
+        "question_vi": "Người này thích loại ramen nào nhất?",
+        "answers": [
+          {
+            "text": "醤油ラーメンが一番好きです。",
+            "text_vi": "Thích ramen nước tương nhất.",
+            "is_correct": false
+          },
+          {
+            "text": "味噌ラーメンが一番好きです。",
+            "text_vi": "Thích ramen miso nhất.",
+            "is_correct": true
+          },
+          {
+            "text": "豚骨ラーメンが一番好きです。",
+            "text_vi": "Thích ramen xương heo nhất.",
+            "is_correct": false
+          },
+          {
+            "text": "塩ラーメンが一番好きです。",
+            "text_vi": "Thích ramen muối nhất.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 9 nói 「味噌ラーメンが一番好きです」→ が一番好き = thích nhất → ramen miso."
+      },
+      {
+        "id": "R_0099_Q3",
+        "question": "日本のラーメンについて正しいのはどれですか。",
+        "question_vi": "Điều nào đúng về ramen Nhật Bản?",
+        "answers": [
+          {
+            "text": "どこで食べても同じ味です。",
+            "text_vi": "Ăn ở đâu cũng cùng một vị.",
+            "is_correct": false
+          },
+          {
+            "text": "醤油ラーメンだけが有名です。",
+            "text_vi": "Chỉ có ramen nước tương là nổi tiếng.",
+            "is_correct": false
+          },
+          {
+            "text": "地域によって味が違います。",
+            "text_vi": "Vị khác nhau tùy theo vùng miền.",
+            "is_correct": true
+          },
+          {
+            "text": "全部のラーメンは白いスープです。",
+            "text_vi": "Tất cả ramen đều có nước súp trắng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 10 nói 「日本のラーメンは地域によって味が違います」→ によって = tùy theo → mỗi vùng có vị khác nhau. Bài cũng cho ví dụ cụ thể: 東京 → 醤油, 札幌 → 味噌, 博多 → 豚骨."
+      }
+    ]
+  },
+  {
+    "id": "R_0100",
+    "level": 3,
+    "level_label": "N4_basic",
+    "jlpt": "N4",
+    "title": "日本でフォーを作る",
+    "title_vi": "Nấu phở ở Nhật",
+    "topic": "food",
+    "subtopic": "nấu ăn",
+    "tags": [
+      "て",
+      "が",
+      "に",
+      "を",
+      "は",
+      "で",
+      "のに"
+    ],
+    "grammar_used": [
+      "～たくなりました",
+      "～のに～",
+      "～ことができました",
+      "～てもらいました",
+      "～と思います"
+    ],
+    "sentence_count": 11,
+    "text": "日本に来てから、ベトナム料理が恋しくなりました。特にフォーが食べたくなりました。日本のベトナム料理店は高いので、自分で作ることにしました。でも、材料を探すのが大変でした。パクチーやナンプラーは普通のスーパーにはありません。ベトナム人の先輩に聞いて、新大久保のアジア食材店を教えてもらいました。そこにはフォーの麺もスパイスも全部ありました。レシピはお母さんにLINEで聞きました。三時間かかりましたが、おいしいフォーを作ることができました。日本人の友達にも食べてもらったら、「おいしい！」と言ってくれました。次はバインミーに挑戦したいと思います。",
+    "translation": "Từ khi đến Nhật, tôi nhớ món Việt Nam. Đặc biệt muốn ăn phở. Quán ăn Việt ở Nhật đắt nên tôi quyết định tự nấu. Nhưng tìm nguyên liệu rất vất vả. Rau mùi và nước mắm không có ở siêu thị bình thường. Tôi hỏi anh chị người Việt đi trước, được chỉ cho cửa hàng thực phẩm châu Á ở Shin-Okubo. Ở đó có cả phở sợi lẫn gia vị đầy đủ. Công thức thì hỏi mẹ qua LINE. Mất ba tiếng nhưng đã nấu được phở ngon. Cho bạn Nhật ăn thử thì họ khen \"ngon!\". Lần sau tôi muốn thử làm bánh mì.",
+    "vocabulary": [
+      {
+        "word": "恋しい",
+        "reading": "こいしい",
+        "meaning": "nhớ, thương nhớ"
+      },
+      {
+        "word": "材料",
+        "reading": "ざいりょう",
+        "meaning": "nguyên liệu"
+      },
+      {
+        "word": "パクチー",
+        "reading": "パクチー",
+        "meaning": "rau mùi"
+      },
+      {
+        "word": "ナンプラー",
+        "reading": "ナンプラー",
+        "meaning": "nước mắm"
+      },
+      {
+        "word": "先輩",
+        "reading": "せんぱい",
+        "meaning": "anh chị đi trước"
+      },
+      {
+        "word": "食材店",
+        "reading": "しょくざいてん",
+        "meaning": "cửa hàng thực phẩm"
+      },
+      {
+        "word": "レシピ",
+        "reading": "レシピ",
+        "meaning": "công thức nấu ăn"
+      },
+      {
+        "word": "挑戦する",
+        "reading": "ちょうせんする",
+        "meaning": "thử thách, thử sức"
+      }
+    ],
+    "process": [
+      {
+        "sentence": "日本に来てから、ベトナム料理が恋しくなりました。",
+        "chunks": "日本に / 来てから / ベトナム料理が / 恋しくなりました",
+        "guide": "に đích → てから từ khi → が chủ ngữ → くなりました trở nên nhớ",
+        "translation": "Từ khi đến Nhật, tôi nhớ món Việt Nam."
+      },
+      {
+        "sentence": "特にフォーが食べたくなりました。",
+        "chunks": "特に / フォーが / 食べたくなりました",
+        "guide": "特に đặc biệt → が chủ ngữ → たくなりました trở nên muốn ăn",
+        "translation": "Đặc biệt muốn ăn phở."
+      },
+      {
+        "sentence": "日本のベトナム料理店は高いので、自分で作ることにしました。",
+        "chunks": "日本の / ベトナム料理店は / 高いので / 自分で / 作ることにしました",
+        "guide": "の liên kết → は chủ đề → ので nguyên nhân → で bằng cách → ことにしました quyết định",
+        "translation": "Quán ăn Việt ở Nhật đắt nên tôi quyết định tự nấu."
+      },
+      {
+        "sentence": "でも、材料を探すのが大変でした。",
+        "chunks": "でも / 材料を / 探すのが / 大変でした",
+        "guide": "でも nhưng → を đối tượng → のが danh từ hóa + chủ ngữ → 大変 vất vả",
+        "translation": "Nhưng tìm nguyên liệu rất vất vả."
+      },
+      {
+        "sentence": "パクチーやナンプラーは普通のスーパーにはありません。",
+        "chunks": "パクチーや / ナンプラーは / 普通の / スーパーには / ありません",
+        "guide": "や liệt kê → は chủ đề → の liên kết → には nơi + nhấn mạnh → ありません không có",
+        "translation": "Rau mùi và nước mắm không có ở siêu thị bình thường."
+      },
+      {
+        "sentence": "ベトナム人の先輩に聞いて、新大久保のアジア食材店を教えてもらいました。",
+        "chunks": "ベトナム人の / 先輩に / 聞いて / 新大久保の / アジア食材店を / 教えてもらいました",
+        "guide": "の liên kết → に đối tượng hỏi → て nối → の liên kết → を đối tượng → てもらいました được ai đó làm giúp",
+        "translation": "Tôi hỏi anh chị người Việt đi trước, được chỉ cho cửa hàng thực phẩm châu Á ở Shin-Okubo."
+      },
+      {
+        "sentence": "そこにはフォーの麺もスパイスも全部ありました。",
+        "chunks": "そこには / フォーの / 麺も / スパイスも / 全部 / ありました",
+        "guide": "には nơi + nhấn mạnh → の liên kết → も...も cả A lẫn B → 全部 đầy đủ",
+        "translation": "Ở đó có cả phở sợi lẫn gia vị đầy đủ."
+      },
+      {
+        "sentence": "レシピはお母さんにLINEで聞きました。",
+        "chunks": "レシピは / お母さんに / LINEで / 聞きました",
+        "guide": "は chủ đề → に đối tượng hỏi → で phương tiện → 聞きました hỏi",
+        "translation": "Công thức thì hỏi mẹ qua LINE."
+      },
+      {
+        "sentence": "三時間かかりましたが、おいしいフォーを作ることができました。",
+        "chunks": "三時間 / かかりましたが / おいしい / フォーを / 作ることができました",
+        "guide": "かかりました mất thời gian → が nối ngược 'nhưng' → を đối tượng → ことができました đã có thể làm",
+        "translation": "Mất ba tiếng nhưng đã nấu được phở ngon."
+      },
+      {
+        "sentence": "日本人の友達にも食べてもらったら、「おいしい！」と言ってくれました。",
+        "chunks": "日本人の / 友達にも / 食べてもらったら / おいしいと / 言ってくれました",
+        "guide": "にも cho bạn cũng → てもらったら nhờ ăn thử thì → と trích dẫn → てくれました khen giúp",
+        "translation": "Cho bạn Nhật ăn thử thì họ khen \"ngon!\"."
+      },
+      {
+        "sentence": "次はバインミーに挑戦したいと思います。",
+        "chunks": "次は / バインミーに / 挑戦したいと / 思います",
+        "guide": "は chuyển chủ đề → に đối tượng thử → たいと思います muốn thử → kế hoạch tương lai",
+        "translation": "Lần sau tôi muốn thử làm bánh mì."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0100_Q1",
+        "question": "フォーの材料はどこで買いましたか。",
+        "question_vi": "Nguyên liệu nấu phở mua ở đâu?",
+        "answers": [
+          {
+            "text": "普通のスーパーで買いました。",
+            "text_vi": "Mua ở siêu thị bình thường.",
+            "is_correct": false
+          },
+          {
+            "text": "ベトナム料理店で買いました。",
+            "text_vi": "Mua ở quán ăn Việt Nam.",
+            "is_correct": false
+          },
+          {
+            "text": "新大久保のアジア食材店で買いました。",
+            "text_vi": "Mua ở cửa hàng thực phẩm châu Á ở Shin-Okubo.",
+            "is_correct": true
+          },
+          {
+            "text": "インターネットで買いました。",
+            "text_vi": "Mua trên mạng.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 6 nói 「新大久保のアジア食材店を教えてもらいました」và câu 7 xác nhận 「そこにはフォーの麺もスパイスも全部ありました」→ そこ = cửa hàng ở Shin-Okubo."
+      },
+      {
+        "id": "R_0100_Q2",
+        "question": "なぜ自分でフォーを作ることにしましたか。",
+        "question_vi": "Tại sao quyết định tự nấu phở?",
+        "answers": [
+          {
+            "text": "ベトナム料理店がなかったからです。",
+            "text_vi": "Vì không có quán ăn Việt.",
+            "is_correct": false
+          },
+          {
+            "text": "日本のベトナム料理店は高いからです。",
+            "text_vi": "Vì quán ăn Việt ở Nhật đắt.",
+            "is_correct": true
+          },
+          {
+            "text": "料理が趣味だからです。",
+            "text_vi": "Vì nấu ăn là sở thích.",
+            "is_correct": false
+          },
+          {
+            "text": "友達に頼まれたからです。",
+            "text_vi": "Vì bạn nhờ.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 3 nói 「日本のベトナム料理店は高いので、自分で作ることにしました」→ ので chỉ nguyên nhân = vì quán đắt nên tự nấu."
+      },
+      {
+        "id": "R_0100_Q3",
+        "question": "日本人の友達はフォーについてどう言いましたか。",
+        "question_vi": "Bạn Nhật nói gì về phở?",
+        "answers": [
+          {
+            "text": "「辛すぎる」と言いました。",
+            "text_vi": "Nói \"cay quá\".",
+            "is_correct": false
+          },
+          {
+            "text": "「ちょっと変な味」と言いました。",
+            "text_vi": "Nói \"vị hơi lạ\".",
+            "is_correct": false
+          },
+          {
+            "text": "「おいしい！」と言いました。",
+            "text_vi": "Nói \"ngon!\".",
+            "is_correct": true
+          },
+          {
+            "text": "「もう食べたくない」と言いました。",
+            "text_vi": "Nói \"không muốn ăn nữa\".",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 10 nói 「「おいしい！」と言ってくれました」→ と trích dẫn lời nói + てくれました = bạn khen giúp mình → bạn Nhật nói ngon."
+      }
+    ]
+  }
+]

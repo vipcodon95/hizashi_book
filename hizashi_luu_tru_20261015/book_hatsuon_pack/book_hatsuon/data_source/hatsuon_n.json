@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Âm ん (撥音) - Hatsuon/Syllabic nasal",
+    "name_vi": "Âm mũi ん",
+    "name_jp": "撥音",
+    "symbol": {
+      "hiragana": "ん",
+      "katakana": "ン"
+    },
+    "note": "Âm ん là 1 mora đặc biệt, phát âm thay đổi tùy theo âm đứng sau",
+    "mora": 1,
+    "total_variants": 5
+  },
+  "rules": {
+    "description": "Quy tắc phát âm âm ん",
+    "basics": [
+      "ん luôn chiếm đúng 1 mora",
+      "ん không bao giờ đứng đầu từ tiếng Nhật gốc",
+      "Cách phát âm thay đổi theo âm đứng sau (allophone)",
+      "Khi viết romaji: n hoặc m (trước b/m/p)",
+      "ん có thể đứng cuối từ"
+    ],
+    "importance": "Người Việt thường phát âm ん giống nhau trong mọi trường hợp - đây là lỗi cần khắc phục!"
+  },
+  "variants": {
+    "description": "5 biến thể phát âm của ん theo ngữ cảnh",
+    "m": {
+      "name": "Âm [m] - Môi",
+      "ipa": "m",
+      "name_jp": "両唇鼻音",
+      "condition": "Trước âm m, b, p (âm môi)",
+      "articulation": "Hai môi chạm nhau, hơi ra mũi",
+      "vietnamese_hint": "Giống âm 'm' trong tiếng Việt",
+      "following_sounds": ["ま", "み", "む", "め", "も", "ば", "び", "ぶ", "べ", "ぼ", "ぱ", "ぴ", "ぷ", "ぺ", "ぽ"],
+      "examples": [
+        { "word": "さんぽ", "romaji": "sanpo", "actual_pronunciation": "sampo", "meaning": "đi dạo", "mora_count": 3, "breakdown": "sa-[m]-po" },
+        { "word": "しんぶん", "romaji": "shinbun", "actual_pronunciation": "shimbun", "meaning": "báo", "mora_count": 4, "breakdown": "shi-[m]-bu-n" },
+        { "word": "なんぼく", "romaji": "nanboku", "actual_pronunciation": "namboku", "meaning": "nam bắc", "mora_count": 4, "breakdown": "na-[m]-bo-ku" },
+        { "word": "えんぴつ", "romaji": "enpitsu", "actual_pronunciation": "empitsu", "meaning": "bút chì", "mora_count": 4, "breakdown": "e-[m]-pi-tsu" },
+        { "word": "せんぱい", "romaji": "senpai", "actual_pronunciation": "sempai", "meaning": "tiền bối", "mora_count": 4, "breakdown": "se-[m]-pa-i" },
+        { "word": "かんぺき", "romaji": "kanpeki", "actual_pronunciation": "kampeki", "meaning": "hoàn hảo", "mora_count": 4, "breakdown": "ka-[m]-pe-ki" },
+        { "word": "うんめい", "romaji": "unmei", "actual_pronunciation": "ummei", "meaning": "số mệnh", "mora_count": 4, "breakdown": "u-[m]-me-i" },
+        { "word": "さんま", "romaji": "sanma", "actual_pronunciation": "samma", "meaning": "cá thu đao", "mora_count": 3, "breakdown": "sa-[m]-ma" }
+      ]
+    },
+    "n_alveolar": {
+      "name": "Âm [n] - Đầu lưỡi (Alveolar)",
+      "ipa": "n",
+      "name_jp": "歯茎鼻音",
+      "condition": "Trước âm t, d, n, r (âm đầu lưỡi chạm lợi)",
+      "articulation": "Đầu lưỡi chạm lợi trên, hơi ra mũi",
+      "vietnamese_hint": "Giống âm 'n' trong tiếng Việt",
+      "following_sounds": ["た", "ち", "つ", "て", "と", "だ", "ぢ", "づ", "で", "ど", "な", "に", "ぬ", "ね", "の", "ら", "り", "る", "れ", "ろ"],
+      "examples": [
+        { "word": "かんたん", "romaji": "kantan", "meaning": "đơn giản", "mora_count": 4, "breakdown": "ka-[n]-ta-n" },
+        { "word": "べんとう", "romaji": "bentou", "meaning": "cơm hộp", "mora_count": 4, "breakdown": "be-[n]-to-u" },
+        { "word": "せんたく", "romaji": "sentaku", "meaning": "giặt giũ", "mora_count": 4, "breakdown": "se-[n]-ta-ku" },
+        { "word": "でんち", "romaji": "denchi", "meaning": "pin", "mora_count": 3, "breakdown": "de-[n]-chi" },
+        { "word": "おんど", "romaji": "ondo", "meaning": "nhiệt độ", "mora_count": 3, "breakdown": "o-[n]-do" },
+        { "word": "かんな", "romaji": "kanna", "meaning": "bào gỗ", "mora_count": 3, "breakdown": "ka-[n]-na" },
+        { "word": "てんない", "romaji": "tennai", "meaning": "trong cửa hàng", "mora_count": 4, "breakdown": "te-[n]-na-i" },
+        { "word": "せんろ", "romaji": "senro", "meaning": "đường ray", "mora_count": 3, "breakdown": "se-[n]-ro" },
+        { "word": "しんり", "romaji": "shinri", "meaning": "tâm lý", "mora_count": 3, "breakdown": "shi-[n]-ri" }
+      ]
+    },
+    "ng": {
+      "name": "Âm [ŋ] - Cuống lưỡi (Velar)",
+      "ipa": "ŋ",
+      "name_jp": "軟口蓋鼻音",
+      "condition": "Trước âm k, g (âm cuống lưỡi)",
+      "articulation": "Cuống lưỡi chạm vòm mềm, hơi ra mũi",
+      "vietnamese_hint": "Giống âm 'ng' trong 'ngày' tiếng Việt",
+      "following_sounds": ["か", "き", "く", "け", "こ", "が", "ぎ", "ぐ", "げ", "ご"],
+      "examples": [
+        { "word": "さんか", "romaji": "sanka", "actual_pronunciation": "saŋka", "meaning": "tham gia", "mora_count": 3, "breakdown": "sa-[ŋ]-ka" },
+        { "word": "にほんご", "romaji": "nihongo", "actual_pronunciation": "nihoŋgo", "meaning": "tiếng Nhật", "mora_count": 4, "breakdown": "ni-ho-[ŋ]-go" },
+        { "word": "げんき", "romaji": "genki", "actual_pronunciation": "geŋki", "meaning": "khỏe", "mora_count": 3, "breakdown": "ge-[ŋ]-ki" },
+        { "word": "でんき", "romaji": "denki", "actual_pronunciation": "deŋki", "meaning": "điện", "mora_count": 3, "breakdown": "de-[ŋ]-ki" },
+        { "word": "ぎんこう", "romaji": "ginkou", "actual_pronunciation": "giŋkou", "meaning": "ngân hàng", "mora_count": 4, "breakdown": "gi-[ŋ]-ko-u" },
+        { "word": "まんが", "romaji": "manga", "actual_pronunciation": "maŋga", "meaning": "truyện tranh", "mora_count": 3, "breakdown": "ma-[ŋ]-ga" },
+        { "word": "けんがく", "romaji": "kengaku", "actual_pronunciation": "keŋgaku", "meaning": "tham quan", "mora_count": 4, "breakdown": "ke-[ŋ]-ga-ku" },
+        { "word": "たんご", "romaji": "tango", "actual_pronunciation": "taŋgo", "meaning": "từ vựng", "mora_count": 3, "breakdown": "ta-[ŋ]-go" }
+      ]
+    },
+    "palatal_n": {
+      "name": "Âm [ɲ] - Vòm cứng (Palatal)",
+      "ipa": "ɲ",
+      "name_jp": "硬口蓋鼻音",
+      "condition": "Trước âm に, âm ghép ny-",
+      "articulation": "Giữa lưỡi chạm vòm cứng, hơi ra mũi",
+      "vietnamese_hint": "Giống âm 'nh' trong tiếng Việt",
+      "following_sounds": ["に", "にゃ", "にゅ", "にょ"],
+      "examples": [
+        { "word": "かんにん", "romaji": "kannin", "meaning": "tha thứ", "mora_count": 4, "breakdown": "ka-[ɲ]-ni-n" },
+        { "word": "せんにん", "romaji": "sennin", "meaning": "tiên nhân", "mora_count": 4, "breakdown": "se-[ɲ]-ni-n" },
+        { "word": "せんにゅう", "romaji": "sennyuu", "meaning": "xâm nhập", "mora_count": 4, "breakdown": "se-[ɲ]-nyu-u" }
+      ]
+    },
+    "uvular_n": {
+      "name": "Âm [ɴ] / [ũ] - Lưỡi gà / Mũi hóa",
+      "ipa": "ɴ",
+      "name_jp": "口蓋垂鼻音",
+      "condition": "Cuối từ, trước nguyên âm, trước や/わ hàng, trước さ/は/ざ hàng",
+      "articulation": "Lưỡi không chạm đâu, hơi ra mũi, nguyên âm trước bị mũi hóa",
+      "vietnamese_hint": "Giống âm 'ng' cuối từ trong tiếng Việt (như 'ông', 'không')",
+      "following_sounds": ["cuối từ", "あ", "い", "う", "え", "お", "や", "ゆ", "よ", "わ", "さ", "し", "す", "せ", "そ", "は", "ひ", "ふ", "へ", "ほ"],
+      "examples": [
+        { "word": "にほん", "romaji": "nihon", "meaning": "Nhật Bản", "mora_count": 3, "breakdown": "ni-ho-[ɴ]", "note": "Cuối từ" },
+        { "word": "パン", "romaji": "pan", "meaning": "bánh mì", "mora_count": 2, "breakdown": "pa-[ɴ]", "note": "Cuối từ" },
+        { "word": "れんあい", "romaji": "ren'ai", "meaning": "tình yêu", "mora_count": 4, "breakdown": "re-[ɴ]-a-i", "note": "Trước nguyên âm" },
+        { "word": "はんい", "romaji": "han'i", "meaning": "phạm vi", "mora_count": 3, "breakdown": "ha-[ɴ]-i", "note": "Trước nguyên âm" },
+        { "word": "きんえん", "romaji": "kin'en", "meaning": "cấm hút thuốc", "mora_count": 4, "breakdown": "ki-[ɴ]-e-n", "note": "Trước nguyên âm" },
+        { "word": "でんわ", "romaji": "denwa", "meaning": "điện thoại", "mora_count": 3, "breakdown": "de-[ɴ]-wa", "note": "Trước わ" },
+        { "word": "さんや", "romaji": "san'ya", "meaning": "ba đêm", "mora_count": 3, "breakdown": "sa-[ɴ]-ya", "note": "Trước や" },
+        { "word": "けんさ", "romaji": "kensa", "meaning": "kiểm tra", "mora_count": 3, "breakdown": "ke-[ɴ]-sa", "note": "Trước さ" },
+        { "word": "しんせつ", "romaji": "shinsetsu", "meaning": "tử tế", "mora_count": 4, "breakdown": "shi-[ɴ]-se-tsu", "note": "Trước せ" },
+        { "word": "あんしん", "romaji": "anshin", "meaning": "an tâm", "mora_count": 4, "breakdown": "a-[ɴ]-shi-n", "note": "Trước し" }
+      ]
+    }
+  },
+  "summary_table": {
+    "description": "Bảng tóm tắt cách phát âm ん",
+    "rows": [
+      { "ipa": "[m]", "condition": "Trước m, b, p", "examples": "さんぽ, しんぶん, えんぴつ", "vietnamese": "Như 'm'" },
+      { "ipa": "[n]", "condition": "Trước t, d, n, r", "examples": "かんたん, べんとう, せんろ", "vietnamese": "Như 'n'" },
+      { "ipa": "[ŋ]", "condition": "Trước k, g", "examples": "げんき, にほんご, ぎんこう", "vietnamese": "Như 'ng' đầu từ" },
+      { "ipa": "[ɲ]", "condition": "Trước に, ny-", "examples": "かんにん, せんにゅう", "vietnamese": "Như 'nh'" },
+      { "ipa": "[ɴ]", "condition": "Cuối từ, trước nguyên âm/や/わ/さ/は hàng", "examples": "にほん, れんあい, でんわ", "vietnamese": "Như 'ng' cuối từ" }
+    ]
+  },
+  "minimal_pairs": {
+    "description": "Cặp từ để luyện nghe phân biệt các biến thể của ん",
+    "pairs": [
+      {
+        "pair_type": "[m] vs [n]",
+        "word_1": { "word": "さんぽ", "pronunciation": "[sampo]", "meaning": "đi dạo" },
+        "word_2": { "word": "さんと", "pronunciation": "[santo]", "meaning": "-" },
+        "note": "ん trước p phát âm [m], trước t phát âm [n]"
+      },
+      {
+        "pair_type": "[m] vs [ŋ]",
+        "word_1": { "word": "えんぴつ", "pronunciation": "[empitsu]", "meaning": "bút chì" },
+        "word_2": { "word": "えんき", "pronunciation": "[eŋki]", "meaning": "hoãn" },
+        "note": "ん trước p phát âm [m], trước k phát âm [ŋ]"
+      },
+      {
+        "pair_type": "[n] vs [ŋ]",
+        "word_1": { "word": "せんたく", "pronunciation": "[sentaku]", "meaning": "giặt giũ" },
+        "word_2": { "word": "せんかく", "pronunciation": "[seŋkaku]", "meaning": "xâm chiếm" },
+        "note": "ん trước t phát âm [n], trước k phát âm [ŋ]"
+      },
+      {
+        "pair_type": "[ŋ] vs [ɴ]",
+        "word_1": { "word": "げんき", "pronunciation": "[geŋki]", "meaning": "khỏe" },
+        "word_2": { "word": "げんいん", "pronunciation": "[geɴin]", "meaning": "nguyên nhân" },
+        "note": "ん trước k phát âm [ŋ], trước nguyên âm phát âm [ɴ]"
+      }
+    ]
+  },
+  "n_vs_vowel": {
+    "description": "Phân biệt ん trước nguyên âm vs âm ghép na-ni-nu-ne-no",
+    "note": "Đây là điểm khó - cần dùng dấu ' trong romaji để phân biệt",
+    "pairs": [
+      {
+        "with_n": { "word": "かんい", "romaji": "kan'i", "meaning": "đơn giản", "mora": 3, "breakdown": "ka-n-i" },
+        "without_n": { "word": "かに", "romaji": "kani", "meaning": "cua", "mora": 2, "breakdown": "ka-ni" }
+      },
+      {
+        "with_n": { "word": "きんえん", "romaji": "kin'en", "meaning": "cấm hút thuốc", "mora": 4, "breakdown": "ki-n-e-n" },
+        "without_n": { "word": "きねん", "romaji": "kinen", "meaning": "kỷ niệm", "mora": 3, "breakdown": "ki-ne-n" }
+      },
+      {
+        "with_n": { "word": "たんい", "romaji": "tan'i", "meaning": "đơn vị", "mora": 3, "breakdown": "ta-n-i" },
+        "without_n": { "word": "たに", "romaji": "tani", "meaning": "thung lũng", "mora": 2, "breakdown": "ta-ni" }
+      },
+      {
+        "with_n": { "word": "れんあい", "romaji": "ren'ai", "meaning": "tình yêu", "mora": 4, "breakdown": "re-n-a-i" },
+        "without_n": { "word": "れない", "romaji": "renai", "meaning": "-", "mora": 3, "breakdown": "re-na-i" }
+      },
+      {
+        "with_n": { "word": "はんい", "romaji": "han'i", "meaning": "phạm vi", "mora": 3, "breakdown": "ha-n-i" },
+        "without_n": { "word": "はに", "romaji": "hani", "meaning": "răng", "mora": 2, "breakdown": "ha-ni" }
+      }
+    ]
+  },
+  "common_mistakes": {
+    "description": "Lỗi phổ biến khi phát âm ん",
+    "mistakes": [
+      {
+        "type": "Phát âm giống nhau trong mọi trường hợp",
+        "example": "Nói さんぽ với âm [n] thay vì [m]",
+        "consequence": "Nghe không tự nhiên",
+        "tip": "Chú ý âm đứng sau để điều chỉnh cách phát âm"
+      },
+      {
+        "type": "Không phát âm đủ dài",
+        "example": "Nói にほん quá nhanh, bỏ qua mora của ん",
+        "consequence": "Nghe như 'niho' thay vì 'nihon'",
+        "tip": "ん chiếm đúng 1 mora, cần giữ đủ độ dài"
+      },
+      {
+        "type": "Nhầm ん với な/に/ぬ/ね/の",
+        "example": "Nghe きんえん thành きねん",
+        "consequence": "Nhầm 'cấm hút thuốc' thành 'kỷ niệm'",
+        "tip": "Chú ý đếm mora và nghe kỹ âm mũi"
+      },
+      {
+        "type": "Phát âm [ŋ] trước nguyên âm",
+        "example": "Nói れんあい với [ŋ] thay vì [ɴ]",
+        "consequence": "Nghe không đúng",
+        "tip": "[ŋ] chỉ dùng trước k/g, trước nguyên âm dùng [ɴ]"
+      }
+    ]
+  },
+  "exercises": {
+    "description": "Các dạng bài tập luyện nghe âm ん",
+    "types": [
+      {
+        "name": "Xác định biến thể",
+        "instruction": "Nghe từ và xác định ん phát âm như thế nào",
+        "options": ["[m]", "[n]", "[ŋ]", "[ɴ]"],
+        "example": "さんぽ → [m]"
+      },
+      {
+        "name": "Phân biệt ん vs な行",
+        "instruction": "Nghe và chọn từ đúng",
+        "example": "きんえん hay きねん?"
+      },
+      {
+        "name": "Đếm mora với ん",
+        "instruction": "Nghe và đếm số mora",
+        "example": "にほんご → 4 mora (ni-ho-n-go)"
+      },
+      {
+        "name": "Điền âm đứng sau",
+        "instruction": "Nghe cách phát âm ん và đoán âm đứng sau",
+        "example": "Nghe [m] → âm sau là m/b/p"
+      }
+    ]
+  },
+  "loan_words": {
+    "description": "Âm ん trong từ ngoại lai (Katakana)",
+    "note": "Từ ngoại lai thường giữ nguyên quy tắc phát âm",
+    "examples": [
+      { "word": "パン", "romaji": "pan", "meaning": "bánh mì", "origin": "Portuguese: pão", "n_type": "[ɴ]" },
+      { "word": "レストラン", "romaji": "resutoran", "meaning": "nhà hàng", "origin": "French: restaurant", "n_type": "[ɴ]" },
+      { "word": "インターネット", "romaji": "intaanetto", "meaning": "Internet", "origin": "English", "n_type": "[n]" },
+      { "word": "サンドイッチ", "romaji": "sandoicchi", "meaning": "sandwich", "origin": "English", "n_type": "[n]" },
+      { "word": "コンピューター", "romaji": "konpyuutaa", "meaning": "computer", "origin": "English", "n_type": "[m]" },
+      { "word": "シンガポール", "romaji": "shingapooru", "meaning": "Singapore", "origin": "English", "n_type": "[ŋ]" }
+    ]
+  }
+}

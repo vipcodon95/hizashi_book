@@ -1,0 +1,493 @@
+{
+  "metadata": {
+    "title": "Stage 2A - Kết hợp âm phức tạp",
+    "description": "Luyện nghe từ có nhiều đặc điểm đặc biệt kết hợp",
+    "prerequisite": "Hoàn thành Stage 1",
+    "total_levels": 4,
+    "version": "1.0"
+  },
+
+  "level_1": {
+    "title": "Sokuon + Chouon",
+    "description": "Từ có cả âm ngắt っ và trường âm",
+
+    "exercises": [
+      {
+        "id": "S2A_L1_01",
+        "type": "identify_features",
+        "instruction": "Nghe từ và xác định: Có sokuon (っ), chouon (ー/う/い), hay CẢ HAI?",
+        "items": [
+          { "audio": "がっこう", "features": ["sokuon", "chouon"], "meaning": "trường học", "mora": 4 },
+          { "audio": "サッカー", "features": ["sokuon", "chouon"], "meaning": "bóng đá", "mora": 4 },
+          { "audio": "きって", "features": ["sokuon"], "meaning": "tem", "mora": 3 },
+          { "audio": "おとうさん", "features": ["chouon"], "meaning": "bố", "mora": 5 },
+          { "audio": "いっしょう", "features": ["sokuon", "chouon"], "meaning": "cả đời", "mora": 4 },
+          { "audio": "ざっし", "features": ["sokuon"], "meaning": "tạp chí", "mora": 3 },
+          { "audio": "コーヒー", "features": ["chouon", "chouon"], "meaning": "cà phê", "mora": 4 },
+          { "audio": "きっぷ", "features": ["sokuon"], "meaning": "vé", "mora": 3 },
+          { "audio": "ラッキー", "features": ["sokuon", "chouon"], "meaning": "may mắn", "mora": 4 },
+          { "audio": "せっけん", "features": ["sokuon"], "meaning": "xà phòng", "mora": 4 }
+        ]
+      },
+      {
+        "id": "S2A_L1_02",
+        "type": "mora_counting",
+        "instruction": "Nghe và đếm CHÍNH XÁC số mora (っ và ー đều = 1 mora)",
+        "items": [
+          { "audio": "がっこう", "answer": 4, "breakdown": "が・っ・こ・う" },
+          { "audio": "サッカー", "answer": 4, "breakdown": "サ・ッ・カ・ー" },
+          { "audio": "いっしょうけんめい", "answer": 8, "breakdown": "い・っ・しょ・う・け・ん・め・い" },
+          { "audio": "コンピューター", "answer": 6, "breakdown": "コ・ン・ピュ・ー・タ・ー" },
+          { "audio": "しょうがっこう", "answer": 6, "breakdown": "しょ・う・が・っ・こ・う" },
+          { "audio": "ちゅうがっこう", "answer": 6, "breakdown": "ちゅ・う・が・っ・こ・う" },
+          { "audio": "マッサージ", "answer": 5, "breakdown": "マ・ッ・サ・ー・ジ" },
+          { "audio": "アパート", "answer": 4, "breakdown": "ア・パ・ー・ト" }
+        ]
+      },
+      {
+        "id": "S2A_L1_03",
+        "type": "minimal_pair_complex",
+        "instruction": "Nghe và chọn từ đúng (chú ý sokuon VÀ chouon)",
+        "items": [
+          {
+            "audio": "がっこう",
+            "options": ["がこう (4 mora sai)", "がっこう (4 mora đúng)", "がっこ (3 mora)"],
+            "answer": 1
+          },
+          {
+            "audio": "いっしょう",
+            "options": ["いしょう (3 mora)", "いっしょう (4 mora)", "いっしょ (3 mora)"],
+            "answer": 1
+          },
+          {
+            "audio": "サッカー",
+            "options": ["サカー (3 mora)", "サッカ (3 mora)", "サッカー (4 mora)"],
+            "answer": 2
+          },
+          {
+            "audio": "こうこう",
+            "options": ["こうこう (4 mora)", "こっこう (4 mora)", "ここう (3 mora)"],
+            "answer": 0,
+            "meaning": "trường cấp 3"
+          }
+        ]
+      },
+      {
+        "id": "S2A_L1_04",
+        "type": "dictation",
+        "instruction": "Nghe và viết lại bằng Hiragana/Katakana",
+        "items": [
+          { "audio": "がっこう", "answer": "がっこう", "meaning": "trường học" },
+          { "audio": "サッカー", "answer": "サッカー", "meaning": "bóng đá" },
+          { "audio": "いっしょうけんめい", "answer": "いっしょうけんめい", "meaning": "hết sức" },
+          { "audio": "しょうがっこう", "answer": "しょうがっこう", "meaning": "tiểu học" },
+          { "audio": "ラッキー", "answer": "ラッキー", "meaning": "may mắn" }
+        ]
+      }
+    ]
+  },
+
+  "level_2": {
+    "title": "Yoon + Chouon + Các kết hợp khác",
+    "description": "Âm ghép kết hợp với trường âm và các đặc điểm khác",
+
+    "exercises": [
+      {
+        "id": "S2A_L2_01",
+        "type": "yoon_chouon_recognition",
+        "instruction": "Nghe và xác định: Yoon ngắn (1 mora) hay Yoon + Chouon (2 mora)?",
+        "items": [
+          { "audio": "きょ", "answer": "yoon_short", "mora": 1 },
+          { "audio": "きょう", "answer": "yoon_long", "mora": 2, "meaning": "hôm nay" },
+          { "audio": "りょ", "answer": "yoon_short", "mora": 1 },
+          { "audio": "りょう", "answer": "yoon_long", "mora": 2 },
+          { "audio": "しょ", "answer": "yoon_short", "mora": 1 },
+          { "audio": "しょう", "answer": "yoon_long", "mora": 2 },
+          { "audio": "じゅ", "answer": "yoon_short", "mora": 1 },
+          { "audio": "じゅう", "answer": "yoon_long", "mora": 2, "meaning": "mười" },
+          { "audio": "びょ", "answer": "yoon_short", "mora": 1 },
+          { "audio": "びょう", "answer": "yoon_long", "mora": 2 }
+        ]
+      },
+      {
+        "id": "S2A_L2_02",
+        "type": "complex_word_analysis",
+        "instruction": "Nghe từ phức tạp và xác định TẤT CẢ các đặc điểm",
+        "items": [
+          {
+            "audio": "りょこう",
+            "features": ["yoon (りょ)", "chouon (う)"],
+            "mora": 3,
+            "meaning": "du lịch"
+          },
+          {
+            "audio": "びょういん",
+            "features": ["yoon (びょ)", "chouon (う)"],
+            "mora": 4,
+            "meaning": "bệnh viện"
+          },
+          {
+            "audio": "じゅぎょう",
+            "features": ["yoon (じゅ)", "yoon (ぎょ)", "chouon (う)"],
+            "mora": 4,
+            "meaning": "tiết học"
+          },
+          {
+            "audio": "きょうしつ",
+            "features": ["yoon (きょ)", "chouon (う)", "sokuon (っ)"],
+            "mora": 4,
+            "meaning": "lớp học"
+          },
+          {
+            "audio": "ぎゅうにゅう",
+            "features": ["yoon (ぎゅ)", "chouon (う)", "chouon (う)"],
+            "mora": 5,
+            "meaning": "sữa bò"
+          },
+          {
+            "audio": "しゅっちょう",
+            "features": ["yoon (しゅ)", "sokuon (っ)", "yoon (ちょ)", "chouon (う)"],
+            "mora": 5,
+            "meaning": "công tác"
+          }
+        ]
+      },
+      {
+        "id": "S2A_L2_03",
+        "type": "word_building",
+        "instruction": "Nghe các thành phần và ghép thành từ hoàn chỉnh",
+        "items": [
+          {
+            "parts_audio": ["りょ", "こ", "う"],
+            "full_audio": "りょこう",
+            "answer": "りょこう",
+            "meaning": "du lịch"
+          },
+          {
+            "parts_audio": ["びょ", "う", "い", "ん"],
+            "full_audio": "びょういん",
+            "answer": "びょういん",
+            "meaning": "bệnh viện"
+          },
+          {
+            "parts_audio": ["きょ", "う", "し", "つ"],
+            "full_audio": "きょうしつ",
+            "answer": "きょうしつ",
+            "meaning": "lớp học"
+          }
+        ]
+      },
+      {
+        "id": "S2A_L2_04",
+        "type": "minimal_pair_yoon",
+        "instruction": "Nghe và phân biệt các từ có yoon",
+        "pairs": [
+          {
+            "audio": "びょういん",
+            "options": ["びょういん (bệnh viện)", "びよういん (tiệm làm đẹp)"],
+            "answer": 0,
+            "note": "びょ (1 mora) vs びよ (2 mora)"
+          },
+          {
+            "audio": "びよういん",
+            "options": ["びょういん (bệnh viện)", "びよういん (tiệm làm đẹp)"],
+            "answer": 1
+          },
+          {
+            "audio": "りょうり",
+            "options": ["りょうり (nấu ăn)", "りようり (?)"],
+            "answer": 0
+          },
+          {
+            "audio": "じゅう",
+            "options": ["じゅう (mười)", "じゆう (tự do)"],
+            "answer": 0
+          },
+          {
+            "audio": "じゆう",
+            "options": ["じゅう (mười)", "じゆう (tự do)"],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_3": {
+    "title": "ん + Các biến thể trong từ phức tạp",
+    "description": "Nhận diện 5 biến thể của ん trong từ dài và phức tạp",
+
+    "exercises": [
+      {
+        "id": "S2A_L3_01",
+        "type": "n_variant_in_context",
+        "instruction": "Nghe từ và xác định cách phát âm của ん",
+        "items": [
+          {
+            "audio": "さんぽ",
+            "n_variant": "[m]",
+            "reason": "trước p",
+            "meaning": "đi dạo"
+          },
+          {
+            "audio": "しんぶん",
+            "n_variant": "[m] và [n]",
+            "reason": "ん trước b = [m], ん cuối trước nguyên âm = [ɴ]",
+            "meaning": "báo"
+          },
+          {
+            "audio": "にほんご",
+            "n_variant": "[ŋ]",
+            "reason": "trước g",
+            "meaning": "tiếng Nhật"
+          },
+          {
+            "audio": "かんたん",
+            "n_variant": "[n] và [ɴ]",
+            "reason": "trước t = [n], cuối từ = [ɴ]",
+            "meaning": "đơn giản"
+          },
+          {
+            "audio": "でんわ",
+            "n_variant": "[n]",
+            "reason": "trước w (thực tế như trước nguyên âm)",
+            "meaning": "điện thoại"
+          },
+          {
+            "audio": "けんこう",
+            "n_variant": "[ŋ]",
+            "reason": "trước k",
+            "meaning": "sức khỏe"
+          },
+          {
+            "audio": "しんねん",
+            "n_variant": "[ɲ] và [ɴ]",
+            "reason": "trước n = [n], cuối = [ɴ]",
+            "meaning": "năm mới"
+          }
+        ]
+      },
+      {
+        "id": "S2A_L3_02",
+        "type": "n_vs_na_advanced",
+        "instruction": "Nghe và phân biệt: ん + nguyên âm hay な行?",
+        "items": [
+          {
+            "audio": "きんえん",
+            "structure": "き・ん・え・ん",
+            "answer": "n_vowel",
+            "meaning": "cấm hút thuốc",
+            "mora": 4
+          },
+          {
+            "audio": "きねん",
+            "structure": "き・ね・ん",
+            "answer": "na_row",
+            "meaning": "kỷ niệm",
+            "mora": 3
+          },
+          {
+            "audio": "てんいん",
+            "structure": "て・ん・い・ん",
+            "answer": "n_vowel",
+            "meaning": "nhân viên",
+            "mora": 4
+          },
+          {
+            "audio": "ていいん",
+            "structure": "て・い・い・ん",
+            "answer": "long_vowel",
+            "meaning": "số lượng quy định",
+            "mora": 4
+          },
+          {
+            "audio": "さんい",
+            "structure": "さ・ん・い",
+            "answer": "n_vowel",
+            "meaning": "đồng ý",
+            "mora": 3
+          }
+        ]
+      },
+      {
+        "id": "S2A_L3_03",
+        "type": "complex_n_words",
+        "instruction": "Nghe từ có nhiều ん và xác định số lượng",
+        "items": [
+          { "audio": "しんかんせん", "n_count": 3, "meaning": "tàu shinkansen", "mora": 5 },
+          { "audio": "にんげん", "n_count": 2, "meaning": "con người", "mora": 4 },
+          { "audio": "うんてんしゅ", "n_count": 2, "meaning": "tài xế", "mora": 5 },
+          { "audio": "かんけいない", "n_count": 1, "meaning": "không liên quan", "mora": 5 },
+          { "audio": "ぶんぽう", "n_count": 1, "meaning": "ngữ pháp", "mora": 4 }
+        ]
+      }
+    ]
+  },
+
+  "level_4": {
+    "title": "Từ siêu phức tạp - Tất cả kết hợp",
+    "description": "Từ có nhiều đặc điểm đặc biệt - Thử thách cuối cùng",
+
+    "exercises": [
+      {
+        "id": "S2A_L4_01",
+        "type": "ultimate_analysis",
+        "instruction": "Nghe và phân tích ĐẦY ĐỦ: mora, sokuon, chouon, yoon, ん",
+        "items": [
+          {
+            "audio": "しゅっちょう",
+            "analysis": {
+              "mora": 5,
+              "breakdown": "しゅ・っ・ちょ・う",
+              "features": {
+                "yoon": ["しゅ", "ちょ"],
+                "sokuon": true,
+                "chouon": true,
+                "n": false
+              }
+            },
+            "meaning": "công tác (đi công tác)"
+          },
+          {
+            "audio": "いっしょうけんめい",
+            "analysis": {
+              "mora": 8,
+              "breakdown": "い・っ・しょ・う・け・ん・め・い",
+              "features": {
+                "yoon": ["しょ"],
+                "sokuon": true,
+                "chouon": true,
+                "n": true
+              }
+            },
+            "meaning": "hết sức, cố gắng hết mình"
+          },
+          {
+            "audio": "コンピューター",
+            "analysis": {
+              "mora": 6,
+              "breakdown": "コ・ン・ピュ・ー・タ・ー",
+              "features": {
+                "yoon": ["ピュ"],
+                "sokuon": false,
+                "chouon": true,
+                "n": true
+              }
+            },
+            "meaning": "máy tính"
+          },
+          {
+            "audio": "しょうがっこう",
+            "analysis": {
+              "mora": 6,
+              "breakdown": "しょ・う・が・っ・こ・う",
+              "features": {
+                "yoon": ["しょ"],
+                "sokuon": true,
+                "chouon": true,
+                "n": false
+              }
+            },
+            "meaning": "trường tiểu học"
+          },
+          {
+            "audio": "うんてんめんきょしょう",
+            "analysis": {
+              "mora": 9,
+              "breakdown": "う・ん・て・ん・め・ん・きょ・しょ・う",
+              "features": {
+                "yoon": ["きょ", "しょ"],
+                "sokuon": false,
+                "chouon": true,
+                "n": true
+              }
+            },
+            "meaning": "bằng lái xe"
+          }
+        ]
+      },
+      {
+        "id": "S2A_L4_02",
+        "type": "speed_recognition",
+        "instruction": "Nghe nhanh và chọn từ đúng (3 giây)",
+        "items": [
+          {
+            "audio": "きょうしつ",
+            "options": ["きょしつ", "きょうしつ", "きようしつ"],
+            "answer": 1,
+            "meaning": "lớp học"
+          },
+          {
+            "audio": "びょういん",
+            "options": ["びょいん", "びよういん", "びょういん"],
+            "answer": 2,
+            "meaning": "bệnh viện"
+          },
+          {
+            "audio": "しゅっちょう",
+            "options": ["しゅちょう", "しゅっちょう", "しゅっちょ"],
+            "answer": 1,
+            "meaning": "công tác"
+          },
+          {
+            "audio": "ぎゅうにゅう",
+            "options": ["ぎゅにゅう", "ぎゅうにゅう", "ぎゆうにゆう"],
+            "answer": 1,
+            "meaning": "sữa bò"
+          }
+        ]
+      },
+      {
+        "id": "S2A_L4_03",
+        "type": "sentence_with_complex_words",
+        "instruction": "Nghe câu và xác định từ phức tạp",
+        "items": [
+          {
+            "audio": "しょうがっこうでべんきょうしています",
+            "complex_word": "しょうがっこう",
+            "meaning": "Đang học ở trường tiểu học"
+          },
+          {
+            "audio": "らいしゅう、しゅっちょうにいきます",
+            "complex_word": "しゅっちょう",
+            "meaning": "Tuần sau tôi sẽ đi công tác"
+          },
+          {
+            "audio": "びょういんでけんこうしんだんをうけました",
+            "complex_words": ["びょういん", "けんこう"],
+            "meaning": "Tôi đã khám sức khỏe ở bệnh viện"
+          }
+        ]
+      },
+      {
+        "id": "S2A_L4_04",
+        "type": "dictation_advanced",
+        "instruction": "Nghe và viết lại CHÍNH XÁC (chú ý tất cả đặc điểm)",
+        "items": [
+          { "audio": "しゅっちょう", "answer": "しゅっちょう" },
+          { "audio": "いっしょうけんめい", "answer": "いっしょうけんめい" },
+          { "audio": "うんてんめんきょしょう", "answer": "うんてんめんきょしょう" },
+          { "audio": "しょうがっこう", "answer": "しょうがっこう" },
+          { "audio": "コンピューター", "answer": "コンピューター" }
+        ]
+      }
+    ]
+  },
+
+  "summary": {
+    "total_exercises": 15,
+    "combinations_covered": [
+      "Sokuon + Chouon",
+      "Yoon + Chouon",
+      "Yoon + Sokuon",
+      "Multiple ん variants",
+      "All features combined"
+    ],
+    "progression": {
+      "L1": "Sokuon + Chouon cơ bản",
+      "L2": "Yoon + Chouon và các kết hợp",
+      "L3": "ん nâng cao trong từ phức tạp",
+      "L4": "Tất cả kết hợp - Thử thách cuối"
+    }
+  }
+}

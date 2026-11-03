@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "L10_FP_01",
+    "lesson_id": 10,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は本を読みます。",
+    "sentence_translation": "Tôi đọc sách.",
+    "question_text": "私は本（　）読みます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "を = đối tượng bị tác động. 本を読む = đọc SÁCH. を báo hiệu sắp có hành động (đọc, mua, viết...) lên đối tượng",
+    "hint": "\"Sách\" là đối tượng bị hành động → を",
+    "tags": [
+      "を",
+      "đối_tượng"
+    ]
+  },
+  {
+    "id": "L10_FP_02",
+    "lesson_id": 10,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は学校に行きます。",
+    "sentence_translation": "Tôi đi đến trường.",
+    "question_text": "私は学校（　）行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に = điểm đến. 学校に行く = đi ĐẾN trường. に báo hiệu sắp có di chuyển (đi, đến, về)",
+    "hint": "\"Trường\" là điểm đến → に",
+    "tags": [
+      "に",
+      "điểm_đến"
+    ]
+  },
+  {
+    "id": "L10_FP_03",
+    "lesson_id": 10,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達はレストランで食べます。",
+    "sentence_translation": "Bạn ăn ở nhà hàng.",
+    "question_text": "友達はレストラン（　）食べます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "で = địa điểm hành động. レストランで食べる = ăn Ở nhà hàng. で báo hiệu sắp có hành động tại nơi này",
+    "hint": "\"Nhà hàng\" là nơi hành động diễn ra → で",
+    "tags": [
+      "で",
+      "địa_điểm"
+    ]
+  },
+  {
+    "id": "L10_FP_04",
+    "lesson_id": 10,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達は国へ帰りました。",
+    "sentence_translation": "Bạn đã về nước.",
+    "question_text": "友達は国（　）帰りました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "へ = hướng di chuyển. 国へ帰る = về HƯỚNG nước (quê). へ gần giống に nhưng nhấn mạnh hướng hơn là điểm đến cụ thể",
+    "hint": "\"Nước\" là hướng di chuyển → へ",
+    "tags": [
+      "へ",
+      "hướng"
+    ]
+  },
+  {
+    "id": "L10_FP_05",
+    "lesson_id": 10,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんはバスで行きます。",
+    "sentence_translation": "Tanaka đi bằng xe buýt.",
+    "question_text": "田中さんはバス（　）行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "で = phương tiện. バスで行く = đi BẰNG xe buýt. Cùng là で nhưng ở đây nghĩa là \"bằng\" chứ không phải \"tại\"",
+    "hint": "\"Xe buýt\" là phương tiện → で",
+    "tags": [
+      "で",
+      "phương_tiện"
+    ]
+  },
+  {
+    "id": "L10_FP_06",
+    "lesson_id": 10,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "母はひるご飯を作ります。",
+    "sentence_translation": "Mẹ nấu cơm trưa.",
+    "question_text": "母はひるご飯（　）作ります。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を = đối tượng bị tác động/tạo ra. ひるご飯を作る = nấu CƠM TRƯA. を + 作る = hành động tạo ra đối tượng",
+    "hint": "\"Cơm trưa\" là đối tượng bị tạo ra → を",
+    "tags": [
+      "を",
+      "đối_tượng"
+    ]
+  },
+  {
+    "id": "L10_FP_07",
+    "lesson_id": 10,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私は図書館で日本語を勉強します。",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "私は図書館（　）日本語を勉強します。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で = địa điểm hành động. 図書館で勉強する = học Ở thư viện. Khác に (điểm đến): 図書館に行く = đi ĐẾN thư viện",
+    "hint": "\"Thư viện\" là nơi hành động \"học\" diễn ra → で",
+    "tags": [
+      "で",
+      "địa_điểm"
+    ]
+  },
+  {
+    "id": "L10_FP_08",
+    "lesson_id": 10,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは電車で会社に行きます。",
+    "sentence_translation": "Tanaka đi tàu điện đến công ty.",
+    "question_text": "田中さんは電車で会社（　）行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に = điểm đến. 会社に行く = đi ĐẾN công ty. Trong câu này đã có で (phương tiện: 電車で) nên cần に cho điểm đến",
+    "hint": "\"Công ty\" là điểm đến → に",
+    "tags": [
+      "に",
+      "điểm_đến"
+    ]
+  },
+  {
+    "id": "L10_PR_09",
+    "lesson_id": 10,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は本を読みます。",
+    "sentence_translation": "Tôi đọc sách.",
+    "question_text": "私は / 本を... → Gặp を, dự đoán điều gì sắp đến?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có mô tả về \"sách\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có di chuyển đến \"sách\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có HÀNH ĐỘNG tác động lên \"sách\" (đọc? mua? viết?)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại \"sách\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を → biển báo: sắp có ĐỘNG TỪ hành động tác động lên đối tượng. 本を → não dự đoán: đọc? mua? viết? → đến 読みます → xác nhận \"đọc\"",
+    "hint": null,
+    "tags": [
+      "を",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L10_PR_10",
+    "lesson_id": 10,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は学校に行きます。",
+    "sentence_translation": "Tôi đi đến trường.",
+    "question_text": "私は / 学校に... → Gặp に sau địa điểm, dự đoán điều gì sắp đến?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có mô tả về \"trường\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động tại \"trường\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động tác động lên \"trường\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có DI CHUYỂN đến \"trường\" (đi? đến? về?)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "に sau địa điểm → biển báo: sắp có ĐỘNG TỪ di chuyển. 学校に → não dự đoán: đi? đến? về? → đến 行きます → xác nhận \"đi\"",
+    "hint": null,
+    "tags": [
+      "に",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L10_PR_11",
+    "lesson_id": 10,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達はレストランで食べます。",
+    "sentence_translation": "Bạn ăn ở nhà hàng.",
+    "question_text": "友達は / レストランで... → Gặp で sau địa điểm, dự đoán điều gì sắp đến?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có HÀNH ĐỘNG diễn ra tại \"nhà hàng\" (ăn? uống? gặp?)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có di chuyển đến \"nhà hàng\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại ở \"nhà hàng\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả về \"nhà hàng\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で sau địa điểm → biển báo: sắp có HÀNH ĐỘNG diễn ra tại nơi đó. レストランで → não dự đoán: ăn? uống? gặp? → đến 食べます → xác nhận \"ăn\"",
+    "hint": null,
+    "tags": [
+      "で",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L10_PR_12",
+    "lesson_id": 10,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんはバスで行きます。",
+    "sentence_translation": "Tanaka đi bằng xe buýt.",
+    "question_text": "田中さんは / バスで... → Gặp で sau phương tiện, dự đoán điều gì sắp đến?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có hành động tại \"xe buýt\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại trên \"xe buýt\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có DI CHUYỂN bằng \"xe buýt\" (đi? đến? về?)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả về \"xe buýt\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で sau phương tiện → biển báo: sắp có HÀNH ĐỘNG sử dụng phương tiện đó. バスで → não dự đoán: đi? đến? → đến 行きます → xác nhận \"đi\"",
+    "hint": null,
+    "tags": [
+      "で",
+      "phương_tiện",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L10_PR_13",
+    "lesson_id": 10,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私は図書館で日本語を勉強します。",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "私は / 図書館で / 日本語を... → Gặp を sau đối tượng, dự đoán hành động cuối?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có tồn tại \"tiếng Nhật\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có di chuyển đến \"tiếng Nhật\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động TÁC ĐỘNG lên \"tiếng Nhật\" (học? đọc? viết?)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả về \"tiếng Nhật\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を → biển báo cuối cùng trước động từ. 日本語を → não dự đoán: học? đọc? nói? → đến 勉強します → xác nhận \"học\". Kết hợp với で phía trước: \"học tiếng Nhật ở thư viện\"",
+    "hint": null,
+    "tags": [
+      "を",
+      "で",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L10_PR_14",
+    "lesson_id": 10,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "毎朝私はコーヒーを飲みます。",
+    "sentence_translation": "Mỗi sáng tôi uống cà phê.",
+    "question_text": "毎朝 / 私は / コーヒーを... → Gặp を và có \"毎朝\" ở đầu câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có mô tả \"cà phê\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động thường ngày lên \"cà phê\" (uống? pha?) + đuôi ます",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có di chuyển đến \"cà phê\" + đuôi ました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại \"cà phê\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を → sắp có hành động. 毎朝 (mỗi sáng) → dự đoán thêm: thói quen → đuôi sẽ là ます (không phải ました). コーヒーを → uống? pha? → 飲みます → xác nhận \"uống\" + ます ✅",
+    "hint": null,
+    "tags": [
+      "を",
+      "thời_gian",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L10_CH_15",
+    "lesson_id": 10,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は食べます",
+    "sentence_translation": "Tôi ăn.",
+    "question_text": "私は食べます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "食べます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "2 khối: 私は = chủ đề \"tôi\" (は báo hiệu) | 食べます = hành động \"ăn\". Câu hành động đơn giản nhất: ai + làm gì",
+    "hint": null,
+    "tags": [
+      "は",
+      "chunking",
+      "2_khối"
+    ]
+  },
+  {
+    "id": "L10_CH_16",
+    "lesson_id": 10,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は本を読みます",
+    "sentence_translation": "Tôi đọc sách.",
+    "question_text": "私は本を読みます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "本を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "読みます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "3 khối: 私は = chủ đề | 本を = đối tượng \"sách\" (を báo hiệu hành động sắp đến) | 読みます = hành động \"đọc\". Mỗi trợ từ kết thúc 1 khối",
+    "hint": null,
+    "tags": [
+      "を",
+      "chunking",
+      "3_khối"
+    ]
+  },
+  {
+    "id": "L10_CH_17",
+    "lesson_id": 10,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は学校に行きます",
+    "sentence_translation": "Tôi đi đến trường.",
+    "question_text": "私は学校に行きます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "学校に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "3 khối: 私は = chủ đề | 学校に = điểm đến \"trường\" (に báo hiệu di chuyển sắp đến) | 行きます = hành động \"đi\". Động từ luôn ở cuối",
+    "hint": null,
+    "tags": [
+      "に",
+      "chunking",
+      "3_khối"
+    ]
+  },
+  {
+    "id": "L10_CH_18",
+    "lesson_id": 10,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "友達はレストランで食べます",
+    "sentence_translation": "Bạn ăn ở nhà hàng.",
+    "question_text": "友達はレストランで食べます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "友達は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "レストランで",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "食べます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "3 khối: 友達は = chủ đề | レストランで = địa điểm hành động (で báo hiệu) | 食べます = hành động \"ăn\". で cho biết hành động diễn ra TẠI đâu",
+    "hint": null,
+    "tags": [
+      "で",
+      "chunking",
+      "3_khối"
+    ]
+  },
+  {
+    "id": "L10_CH_19",
+    "lesson_id": 10,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "私は図書館で日本語を勉強します",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "私は図書館で日本語を勉強します",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "図書館で",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本語を",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "勉強します",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "4 khối: 私は = chủ đề | 図書館で = địa điểm (で) | 日本語を = đối tượng (を) | 勉強します = hành động. Nhiều trợ từ phối hợp, động từ cuối xác nhận tất cả",
+    "hint": null,
+    "tags": [
+      "で",
+      "を",
+      "chunking",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L10_CH_20",
+    "lesson_id": 10,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "田中さんは電車で会社に行きます",
+    "sentence_translation": "Tanaka đi tàu điện đến công ty.",
+    "question_text": "田中さんは電車で会社に行きます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "田中さんは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "電車で",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "会社に",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "4 khối: 田中さんは = chủ đề | 電車で = phương tiện (で) | 会社に = điểm đến (に) | 行きます = hành động \"đi\". で + に phối hợp: bằng gì + đến đâu",
+    "hint": null,
+    "tags": [
+      "で",
+      "に",
+      "chunking",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L10_PD_21",
+    "lesson_id": 10,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "図書館で勉強します。/ 図書館に行きます。",
+    "sentence_translation": "Học ở thư viện. / Đi đến thư viện.",
+    "question_text": "Câu nào で chỉ ĐỊA ĐIỂM hành động diễn ra?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "図書館で勉強します。(で = hành động diễn ra TẠI thư viện)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "図書館に行きます。(に = di chuyển ĐẾN thư viện)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で + địa điểm = hành động diễn ra TẠI nơi đó (ở thư viện → học). に + địa điểm = di chuyển ĐẾN nơi đó (đến thư viện → đi). Cùng \"thư viện\" nhưng trợ từ khác → nghĩa khác!",
+    "hint": null,
+    "tags": [
+      "で",
+      "に",
+      "phân_biệt",
+      "địa_điểm"
+    ]
+  },
+  {
+    "id": "L10_PD_22",
+    "lesson_id": 10,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "バスで行きます。/ 学校で勉強します。",
+    "sentence_translation": "Đi bằng xe buýt. / Học ở trường.",
+    "question_text": "Câu nào で chỉ PHƯƠNG TIỆN?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "バスで行きます。(で = bằng xe buýt → phương tiện)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "学校で勉強します。(で = tại trường → địa điểm)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Cùng で nhưng 2 nghĩa: phương tiện (bằng gì) vs địa điểm (tại đâu). Cách phân biệt: danh từ trước で là vật dùng được → phương tiện. Là nơi chốn → địa điểm",
+    "hint": null,
+    "tags": [
+      "で",
+      "phân_biệt",
+      "phương_tiện",
+      "địa_điểm"
+    ]
+  },
+  {
+    "id": "L10_PD_23",
+    "lesson_id": 10,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "学校に行きます。/ 学校へ行きます。",
+    "sentence_translation": "Đi đến trường. / Đi về phía trường.",
+    "question_text": "Hai câu này khác nhau thế nào?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "に = đối tượng, へ = điểm đến",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に = nhấn mạnh ĐIỂM ĐẾN cụ thể, へ = nhấn mạnh HƯỚNG di chuyển",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に = phương tiện, へ = địa điểm",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に nhấn mạnh đến ĐÍCH (điểm đến cụ thể). へ nhấn mạnh HƯỚNG (về phía đó). Trong hội thoại thường dùng thay nhau được, nhưng sắc thái khác nhau",
+    "hint": null,
+    "tags": [
+      "に",
+      "へ",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L10_PK_24",
+    "lesson_id": 10,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は本を読みます。",
+    "sentence_translation": "Tôi đọc sách.",
+    "question_text": "🔒 本を → đóng gói và dự đoán?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"sách\" → を cho biết điểm đến → sắp có di chuyển",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"sách\" → を cho biết chủ đề → sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"sách\" → を cho biết địa điểm → sắp có hành động tại đây",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"sách\" → を cho biết đối tượng → sắp có HÀNH ĐỘNG tác động (đọc? mua?) → đọc tiếp",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "🔒 đóng gói: gặp 本を → gom thành hình ảnh \"sách\" + vai trò \"đối tượng\" → giải phóng bộ nhớ → não sẵn sàng đón nhận động từ ở cuối câu",
+    "hint": null,
+    "tags": [
+      "を",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L10_PK_25",
+    "lesson_id": 10,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私は図書館で日本語を勉強します。",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "🔒 図書館で → đóng gói và dự đoán?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"thư viện\" → で cho biết chủ đề → sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"thư viện\" → で cho biết điểm đến → sắp có di chuyển",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"thư viện\" → で cho biết địa điểm hành động → sắp có HÀNH ĐỘNG tại đây → đọc tiếp",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"thư viện\" → で cho biết đối tượng → sắp có hành động lên nó",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "🔒 đóng gói: gặp 図書館で → gom thành hình ảnh \"thư viện\" + vai trò \"địa điểm\" → giải phóng chi tiết → não chỉ giữ \"ở thư viện, sắp có hành động\" → sẵn sàng đọc tiếp",
+    "hint": null,
+    "tags": [
+      "で",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L10_PK_26",
+    "lesson_id": 10,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは電車で会社に行きます。",
+    "sentence_translation": "Tanaka đi tàu điện đến công ty.",
+    "question_text": "🔒 Câu 4 khối: đóng gói lần lượt 電車で → 会社に → ?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 電車で → \"bằng tàu\" → 🔒 会社に → \"ở công ty\" → dự đoán: sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 電車で → \"đến tàu\" → 🔒 会社に → \"bằng công ty\" → dự đoán: sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 電車で → \"tại tàu\" (địa điểm) → 🔒 会社に → \"công ty\" (đối tượng) → dự đoán: sắp có hành động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 電車で → \"bằng tàu\" (phương tiện) → 🔒 会社に → \"đến công ty\" (điểm đến) → dự đoán: sắp có DI CHUYỂN → đọc tiếp",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói 2 lần liên tiếp: (1) 電車で → 🔒 \"bằng tàu\" → giải phóng → (2) 会社に → 🔒 \"đến công ty\" → giải phóng → não chỉ giữ 2 hình ảnh gọn → đến 行きます → xác nhận tất cả",
+    "hint": null,
+    "tags": [
+      "で",
+      "に",
+      "đóng_gói",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L10_PK_27",
+    "lesson_id": 10,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "毎朝私はコーヒーを飲みます。",
+    "sentence_translation": "Mỗi sáng tôi uống cà phê.",
+    "question_text": "🔒 コーヒーを → đóng gói kết hợp với 毎朝 ở đầu câu?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"cà phê\" → を cho biết điểm đến → sắp có di chuyển + 毎朝 → đuôi ました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cà phê\" → を cho biết đối tượng → sắp có hành động (uống? pha?) + 毎朝 → đuôi sẽ là ます (thói quen)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cà phê\" → を cho biết chủ đề → sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cà phê\" → を cho biết địa điểm → sắp có hành động tại đây",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói kết hợp: を → đối tượng → hành động. Thêm tín hiệu thời gian 毎朝 → não dự đoán thêm: đuôi ます (thói quen), không phải ました (quá khứ). Nhiều tín hiệu → dự đoán chính xác hơn",
+    "hint": null,
+    "tags": [
+      "を",
+      "thời_gian",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L10_RO_28",
+    "lesson_id": 10,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は食べます。",
+    "sentence_translation": "Tôi ăn.",
+    "question_text": "私は食べます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "食べます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Quy tắc: chủ đề (は) luôn đứng trước, HÀNH ĐỘNG (動詞) luôn ở CUỐI. Tiếng Nhật: ai → làm gì. Khác tiếng Việt: ai → làm gì → cái gì",
+    "hint": null,
+    "tags": [
+      "は",
+      "reorder",
+      "2_khối"
+    ]
+  },
+  {
+    "id": "L10_RO_29",
+    "lesson_id": 10,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は本を読みます。",
+    "sentence_translation": "Tôi đọc sách.",
+    "question_text": "私は本を読みます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "読みます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "本を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Quy tắc: は (chủ đề) → を (đối tượng) → 動詞 (hành động cuối). Động từ LUÔN ở cuối câu tiếng Nhật!",
+    "hint": null,
+    "tags": [
+      "を",
+      "reorder",
+      "3_khối"
+    ]
+  },
+  {
+    "id": "L10_RO_30",
+    "lesson_id": 10,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は学校に行きます。",
+    "sentence_translation": "Tôi đi đến trường.",
+    "question_text": "私は学校に行きます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "学校に",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Quy tắc: は (chủ đề) → に (điểm đến) → 動詞 (hành động cuối). に đặt trước hành động di chuyển",
+    "hint": null,
+    "tags": [
+      "に",
+      "reorder",
+      "3_khối"
+    ]
+  },
+  {
+    "id": "L10_RO_31",
+    "lesson_id": 10,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "田中さんは電車で会社に行きます。",
+    "sentence_translation": "Tanaka đi tàu điện đến công ty.",
+    "question_text": "田中さんは電車で会社に行きます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "電車で",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "田中さんは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "会社に",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Quy tắc 4 khối: は (chủ đề) → で (phương tiện) → に (điểm đến) → 動詞 (hành động cuối). Thứ tự: ai → bằng gì → đến đâu → làm gì. Động từ LUÔN cuối!",
+    "hint": null,
+    "tags": [
+      "で",
+      "に",
+      "reorder",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L10_QT_32",
+    "lesson_id": 10,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は食べます。",
+    "sentence_translation": "Tôi ăn.",
+    "question_text": "私は / 食べます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Ăn tôi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi ở ăn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi ăn.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi là ăn.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "私は = chủ đề \"tôi\" + 食べます = hành động \"ăn\". Câu 2 khối đơn giản: ai + làm gì",
+    "hint": null,
+    "tags": [
+      "は",
+      "dịch",
+      "2_khối"
+    ]
+  },
+  {
+    "id": "L10_QT_33",
+    "lesson_id": 10,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は本を読みます。",
+    "sentence_translation": "Tôi đọc sách.",
+    "question_text": "私は / 本を / 読みます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi ở sách đọc.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sách đọc tôi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi sách đọc.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi đọc sách.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "を = đối tượng. Tiếng Nhật: tôi → sách → đọc. Tiếng Việt: tôi → đọc → sách. Thứ tự khác nhưng nghĩa giống!",
+    "hint": null,
+    "tags": [
+      "を",
+      "dịch",
+      "3_khối"
+    ]
+  },
+  {
+    "id": "L10_QT_34",
+    "lesson_id": 10,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は学校に行きます。",
+    "sentence_translation": "Tôi đi đến trường.",
+    "question_text": "私は / 学校に / 行きます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi trường đến.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi đi đến trường.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi ở trường đi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trường đi đến tôi.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に = điểm đến. 学校に行く = đi đến trường. に cho biết nơi đến, 行く cho biết hành động di chuyển",
+    "hint": null,
+    "tags": [
+      "に",
+      "dịch",
+      "3_khối"
+    ]
+  },
+  {
+    "id": "L10_QT_35",
+    "lesson_id": 10,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達はレストランで食べます。",
+    "sentence_translation": "Bạn ăn ở nhà hàng.",
+    "question_text": "友達は / レストランで / 食べます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Bạn ăn ở nhà hàng.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nhà hàng ăn bạn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bạn bằng nhà hàng ăn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bạn đi đến nhà hàng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で = địa điểm hành động. レストランで食べる = ăn TẠI nhà hàng. Khác に (đi ĐẾN nhà hàng)",
+    "hint": null,
+    "tags": [
+      "で",
+      "dịch",
+      "3_khối"
+    ]
+  },
+  {
+    "id": "L10_QT_36",
+    "lesson_id": 10,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんはバスで行きます。",
+    "sentence_translation": "Tanaka đi bằng xe buýt.",
+    "question_text": "田中さんは / バスで / 行きます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tanaka ở xe buýt đi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tanaka đi đến xe buýt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xe buýt đi Tanaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tanaka đi bằng xe buýt.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "で = phương tiện. バスで行く = đi BẰNG xe buýt. Cùng で nhưng khác nghĩa với で địa điểm: \"bằng\" vs \"tại\"",
+    "hint": null,
+    "tags": [
+      "で",
+      "phương_tiện",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L10_QT_37",
+    "lesson_id": 10,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私は図書館で日本語を勉強します。",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "私は / 図書館で / 日本語を / 勉強します。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Thư viện học tiếng Nhật tôi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi ở tiếng Nhật học thư viện.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi học tiếng Nhật ở thư viện.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi đi thư viện tiếng Nhật.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Câu 4 khối: は (chủ đề) + で (địa điểm) + を (đối tượng) + 動詞. Nhiều trợ từ phối hợp → dịch tự nhiên theo tiếng Việt: ai + làm gì + cái gì + ở đâu",
+    "hint": null,
+    "tags": [
+      "で",
+      "を",
+      "dịch",
+      "4_khối"
+    ]
+  }
+]

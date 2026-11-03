@@ -1,0 +1,1476 @@
+[
+  {
+    "id": "L32_FP_01",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本に行くとき、カメラを買いました。",
+    "sentence_translation": "Khi sắp đi Nhật, tôi đã mua máy ảnh.",
+    "question_text": "日本に行く（　）、カメラを買いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ときに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "とき",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vるとき = \"khi SẮP làm ~\" (hành động chưa xảy ra TẠI THỜI ĐIỂM mệnh đề chính). 行くとき = \"khi sắp đi\" -> mua máy ảnh TRƯỚC KHI đi. Thể từ điển + とき = hành động CHƯA xảy ra",
+    "hint": "\"Khi (sắp làm gì)\" -> mệnh đề thời gian -> dùng gì?",
+    "tags": [
+      "とき",
+      "Vる",
+      "truoc_khi"
+    ]
+  },
+  {
+    "id": "L32_FP_02",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本に行ったとき、カメラを買いました。",
+    "sentence_translation": "Khi đã đi Nhật rồi, tôi mua máy ảnh.",
+    "question_text": "日本に行った（　）、カメラを買いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "とき",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ときに",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vたとき = \"khi ĐÃ làm xong ~\" (hành động ĐÃ xảy ra TẠI THỜI ĐIỂM mệnh đề chính). 行ったとき = \"khi đã đến Nhật rồi\" -> mua máy ảnh Ở NHẬT. Thể quá khứ + とき = hành động ĐÃ xảy ra",
+    "hint": "\"Khi ĐÃ làm xong\" -> dùng gì sau thể quá khứ?",
+    "tags": [
+      "とき",
+      "Vた",
+      "sau_khi"
+    ]
+  },
+  {
+    "id": "L32_FP_03",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "食べる前に手を洗います。",
+    "sentence_translation": "Rửa tay trước khi ăn.",
+    "question_text": "食べる（　）に手を洗います。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "後",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "間",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "とき",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "前",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vる前に = \"trước khi ~\". LUÔN dùng thể Vる (từ điển), KHÔNG BAO GIỜ dùng Vた前に! 食べる前に = trước khi ăn. Quy tắc: 前に luôn đi với Vる, bất kể thời điểm thực tế",
+    "hint": "\"TRƯỚC KHI ăn\" -> dùng từ nào?",
+    "tags": [
+      "前に",
+      "Vる",
+      "luon_tu_dien"
+    ]
+  },
+  {
+    "id": "L32_FP_04",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "食べた後で散歩しました。",
+    "sentence_translation": "Đi dạo sau khi ăn.",
+    "question_text": "食べた（　）で散歩しました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "前",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "後",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "とき",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "間",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vた後で = \"sau khi đã ~\". LUÔN dùng thể Vた (quá khứ) + 後で. 食べた後で = sau khi đã ăn. Quy tắc: 後で luôn đi với Vた. KHÁC 前に (luôn Vる)",
+    "hint": "\"SAU KHI ăn\" -> dùng từ nào?",
+    "tags": [
+      "後で",
+      "Vた",
+      "sau_khi"
+    ]
+  },
+  {
+    "id": "L32_FP_05",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "手を洗ってから食べます。",
+    "sentence_translation": "Rửa tay xong rồi ăn.",
+    "question_text": "手を洗って（　）食べます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vてから = \"làm ~ xong rồi mới ~\" (trình tự). 洗ってから食べる = rửa tay XONG RỒI mới ăn. Nhấn mạnh THỨ TỰ: hành động 1 PHẢI XONG trước khi bắt đầu hành động 2",
+    "hint": "Rửa tay XONG RỒI mới ăn -> trình tự hành động -> dùng gì sau て?",
+    "tags": [
+      "てから",
+      "trinh_tu"
+    ]
+  },
+  {
+    "id": "L32_FP_06",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "子どもが寝ている間に掃除しました。",
+    "sentence_translation": "Dọn dẹp trong lúc con đang ngủ.",
+    "question_text": "子どもが寝ている（　）に掃除しました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "前",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "間",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "とき",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "後",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vている間に = \"trong lúc đang ~\". 寝ている間に = trong lúc đang ngủ. 間 = KHOẢNG THỜI GIAN. に = trong khoảng đó làm gì. Hành động dọn dẹp xảy ra TRONG KHI con còn đang ngủ",
+    "hint": "\"TRONG LÚC con đang ngủ\" -> khoảng thời gian -> dùng gì?",
+    "tags": [
+      "間に",
+      "dang_lam",
+      "khoang_thoi_gian"
+    ]
+  },
+  {
+    "id": "L32_FP_07",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本に（　）とき、お土産を買いました。",
+    "sentence_translation": "Khi sắp đi Nhật, tôi mua quà.",
+    "question_text": "日本に（　）とき、お土産を買いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "行く",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "行った",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "行って",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "行き",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vるとき = hành động CHƯA xảy ra tại thời điểm mệnh đề chính. 行くとき = \"khi SẮP đi\" -> mua quà TRƯỚC KHI đi (ở nước mình). Nếu là 行ったとき = \"khi ĐÃ đến\" -> mua quà Ở NHẬT. 1 chữ thay đổi, Ý NGHĨA khác hoàn toàn!",
+    "hint": "Mua quà TRƯỚC KHI đi (ở nước mình) -> hành động \"đi\" chưa xảy ra -> dùng thể nào?",
+    "tags": [
+      "とき",
+      "Vる",
+      "Vた",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L32_FP_08",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "大学を卒業してから会社に入りました。",
+    "sentence_translation": "Tốt nghiệp đại học xong rồi vào công ty.",
+    "question_text": "大学を卒業して（　）会社に入りました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ために",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てから = \"làm xong rồi mới ~\". 卒業してから入った = tốt nghiệp xong rồi mới vào. Nhấn mạnh THỨ TỰ BẮT BUỘC: phải tốt nghiệp TRƯỚC, rồi mới vào công ty. KHÁC た後で (chỉ đơn thuần trình tự thời gian)",
+    "hint": "Tốt nghiệp XONG RỒI mới vào công ty -> trình tự bắt buộc -> dùng gì?",
+    "tags": [
+      "てから",
+      "trinh_tu",
+      "bat_buoc"
+    ]
+  },
+  {
+    "id": "L32_FP_09",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "今、ご飯を食べている（　）です。",
+    "sentence_translation": "Bây giờ đang ăn cơm.",
+    "question_text": "今、ご飯を食べている（　）です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "間",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "とき",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ところ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "前",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vているところ = \"ĐANG làm ~ (ngay lúc này)\". ところ = thời điểm chính xác. 食べているところ = đang ăn (ngay bây giờ). KHÁC 食べている (chỉ đang làm, không nhấn mạnh thời điểm)",
+    "hint": "\"ĐANG ăn\" (ngay lúc này) -> dùng gì để nhấn mạnh THỜI ĐIỂM chính xác?",
+    "tags": [
+      "ところ",
+      "Vている",
+      "dang"
+    ]
+  },
+  {
+    "id": "L32_FP_10",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "今から出かける（　）です。",
+    "sentence_translation": "Bây giờ sắp đi ra ngoài.",
+    "question_text": "今から出かける（　）です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "間",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "後",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "とき",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ところ",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vるところ = \"SẮP làm ~\" (chưa bắt đầu, ngay trước khi làm). 出かけるところ = sắp đi ra ngoài (đang chuẩn bị xong, sắp bước ra cửa). ところ nhấn mạnh thời điểm CHÍNH XÁC trước hành động",
+    "hint": "\"SẮP đi\" (ngay bây giờ, chưa bắt đầu) -> dùng gì?",
+    "tags": [
+      "ところ",
+      "Vる",
+      "sap"
+    ]
+  },
+  {
+    "id": "L32_FP_11",
+    "lesson_id": 32,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "今、宿題を終わった（　）です。",
+    "sentence_translation": "Bây giờ vừa làm xong bài tập.",
+    "question_text": "今、宿題を終わった（　）です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ところ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "とき",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "前",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "間",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vたところ = \"VỪA MỚI làm xong ~\" (vừa xong, còn mới). 終わったところ = vừa làm xong (mới xong xong). ところ nhấn mạnh thời điểm NGAY SAU KHI hoàn thành. KHÁC 終わった (đã xong, không nhấn mạnh \"vừa mới\")",
+    "hint": "\"VỪA làm xong\" (ngay bây giờ) -> dùng gì?",
+    "tags": [
+      "ところ",
+      "Vた",
+      "vua_xong"
+    ]
+  },
+  {
+    "id": "L32_PR_12",
+    "lesson_id": 32,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本に行くとき...",
+    "sentence_translation": "Khi sắp đi Nhật...",
+    "question_text": "日本に行くとき... -> Gặp Vるとき, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Hành động \"đi\" ĐÃ xảy ra -> việc tiếp theo xảy ra SAU KHI đến",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có ĐÁNH GIÁ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hành động \"đi\" CHƯA xảy ra -> việc tiếp theo xảy ra TRƯỚC KHI đi",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vるとき = hành động CHƯA xảy ra -> dự đoán: việc tiếp theo xảy ra TRƯỚC hoặc TRÊN ĐƯỜNG đi. 行くとき → パスポートを確認した (kiểm tra hộ chiếu trước khi đi). Thể từ điển = CHƯA làm",
+    "hint": null,
+    "tags": [
+      "とき",
+      "Vる",
+      "du_doan",
+      "truoc_khi"
+    ]
+  },
+  {
+    "id": "L32_PR_13",
+    "lesson_id": 32,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本に行ったとき...",
+    "sentence_translation": "Khi đã đi Nhật rồi...",
+    "question_text": "日本に行ったとき... -> Gặp Vたとき, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐÁNH GIÁ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hành động \"đi\" CHƯA xảy ra -> việc xảy ra trước",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hành động \"đi\" ĐÃ xảy ra -> việc tiếp theo xảy ra SAU KHI đến",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vたとき = hành động ĐÃ xảy ra -> dự đoán: việc tiếp theo xảy ra SAU KHI đến nơi. 行ったとき → 友達に会った (gặp bạn Ở NHẬT). Thể quá khứ = ĐÃ làm xong",
+    "hint": null,
+    "tags": [
+      "とき",
+      "Vた",
+      "du_doan",
+      "sau_khi"
+    ]
+  },
+  {
+    "id": "L32_PR_14",
+    "lesson_id": 32,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "手を洗ってから...",
+    "sentence_translation": "Rửa tay xong rồi...",
+    "question_text": "手を洗ってから... -> Gặp てから, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐÁNH GIÁ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có HÀNH ĐỘNG TIẾP THEO (phải xong việc trước mới làm)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có THỜI GIAN",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てから = \"làm xong rồi mới ~\" -> dự đoán: sắp có HÀNH ĐỘNG thứ 2 (chỉ bắt đầu SAU KHI hành động 1 xong). 洗ってから → 食べる (ăn). Thứ tự BẮT BUỘC: rửa xong -> ăn",
+    "hint": null,
+    "tags": [
+      "てから",
+      "du_doan",
+      "trinh_tu"
+    ]
+  },
+  {
+    "id": "L32_PR_15",
+    "lesson_id": 32,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "今から出かけるところ...",
+    "sentence_translation": "Bây giờ sắp đi ra ngoài...",
+    "question_text": "出かけるところ... -> Gặp Vるところ, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Người nói SẮP làm (chưa bắt đầu) -> có thể bị ngăn hoặc được hỏi",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Người nói VỪA làm xong",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Người nói ĐANG làm",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Người nói ĐÃ làm lâu rồi",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vるところ = SẮP làm (ngay trước thời điểm bắt đầu). Dự đoán: người nói đang BÁO cho biết TRẠNG THÁI \"sắp đi\". Thường dùng khi bị hỏi \"đang làm gì?\" hoặc khi giải thích tại sao chưa đi",
+    "hint": null,
+    "tags": [
+      "ところ",
+      "Vる",
+      "du_doan",
+      "sap"
+    ]
+  },
+  {
+    "id": "L32_PR_16",
+    "lesson_id": 32,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "子どもが寝ている間に...",
+    "sentence_translation": "Trong lúc con đang ngủ...",
+    "question_text": "寝ている間に... -> Gặp ている間に, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐÁNH GIÁ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có HÀNH ĐỘNG thực hiện TRONG khoảng thời gian con ngủ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động SAU KHI con dậy",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ている間に = \"trong lúc đang ~\" -> dự đoán: sắp có hành động thực hiện TRONG khoảng thời gian đó. 寝ている間に → 掃除した (dọn dẹp). Tranh thủ làm TRONG KHI còn có cơ hội",
+    "hint": null,
+    "tags": [
+      "間に",
+      "du_doan",
+      "khoang_thoi_gian"
+    ]
+  },
+  {
+    "id": "L32_CH_17",
+    "lesson_id": 32,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "日本に行くときカメラを買いました",
+    "sentence_translation": "Khi sắp đi Nhật, mua máy ảnh.",
+    "question_text": "日本に行くときカメラを買いました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本に行くとき",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "カメラを買いました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "日本に行くとき = 🔒 \"khi sắp đi Nhật\" (TRƯỚC KHI đi) | カメラを買いました = mua máy ảnh. Vるとき = hành động chưa xảy ra -> mua máy ảnh TRƯỚC KHI đi",
+    "hint": null,
+    "tags": [
+      "とき",
+      "Vる",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L32_CH_18",
+    "lesson_id": 32,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "手を洗ってから食べます",
+    "sentence_translation": "Rửa tay xong rồi ăn.",
+    "question_text": "手を洗ってから食べます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "手を洗ってから",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "食べます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "手を洗ってから = 🔒 \"rửa tay xong rồi\" (trình tự) | 食べます = ăn. てから nối 2 hành động theo THỨ TỰ: hành động 1 xong -> hành động 2",
+    "hint": null,
+    "tags": [
+      "てから",
+      "chunking",
+      "trinh_tu"
+    ]
+  },
+  {
+    "id": "L32_CH_19",
+    "lesson_id": 32,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "子どもが寝ている間に掃除しました",
+    "sentence_translation": "Dọn dẹp trong lúc con đang ngủ.",
+    "question_text": "子どもが寝ている間に掃除しました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "子どもが寝ている間に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "掃除しました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "子どもが寝ている間に = 🔒 \"trong lúc con đang ngủ\" (khoảng thời gian) | 掃除しました = dọn dẹp. 間に = TRONG khoảng thời gian. Tranh thủ làm khi con đang ngủ",
+    "hint": null,
+    "tags": [
+      "間に",
+      "chunking",
+      "khoang_thoi_gian"
+    ]
+  },
+  {
+    "id": "L32_CH_20",
+    "lesson_id": 32,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本に行ったとき友達にお土産を渡しました",
+    "sentence_translation": "Khi đã đến Nhật, đưa quà cho bạn.",
+    "question_text": "日本に行ったとき友達にお土産を渡しました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本に行ったとき",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "友達に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "お土産を渡しました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "日本に行ったとき = 🔒 \"khi ĐÃ đến Nhật\" (đã xảy ra) | 友達に = cho bạn | お土産を渡しました = đưa quà. Vたとき = hành động ĐÃ xong -> đưa quà Ở NHẬT (sau khi đến)",
+    "hint": null,
+    "tags": [
+      "とき",
+      "Vた",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L32_CH_21",
+    "lesson_id": 32,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "大学を卒業した後で銀行に就職しました",
+    "sentence_translation": "Sau khi tốt nghiệp đại học, vào làm ngân hàng.",
+    "question_text": "大学を卒業した後で銀行に就職しました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "大学を卒業した後で",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "銀行に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "就職しました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "大学を卒業した後で = 🔒 \"sau khi đã tốt nghiệp\" (Vた+後で) | 銀行に = ngân hàng | 就職しました = vào làm. 後で luôn đi với Vた (quá khứ)",
+    "hint": null,
+    "tags": [
+      "後で",
+      "chunking",
+      "Vた"
+    ]
+  },
+  {
+    "id": "L32_CH_22",
+    "lesson_id": 32,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "今ちょうどお風呂から出たところです",
+    "sentence_translation": "Bây giờ vừa ra khỏi bồn tắm.",
+    "question_text": "今ちょうどお風呂から出たところです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "今ちょうど",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "お風呂から出たところです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "今ちょうど = ngay bây giờ | お風呂から出たところです = 🔒 \"vừa mới ra khỏi bồn tắm\" (Vたところ = vừa xong). ところ nhấn mạnh thời điểm CHÍNH XÁC",
+    "hint": null,
+    "tags": [
+      "ところ",
+      "Vた",
+      "chunking",
+      "vua_xong"
+    ]
+  },
+  {
+    "id": "L32_PD_23",
+    "lesson_id": 32,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本に行くとき買った / 日本に行ったとき買った",
+    "sentence_translation": "Mua khi sắp đi Nhật. / Mua khi đã đến Nhật.",
+    "question_text": "Câu nào mua quà Ở NHẬT (sau khi đến)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "日本に行ったとき買った (行った = ĐÃ đi -> mua Ở NHẬT)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "日本に行くとき買った (行く = SẮP đi -> mua TRƯỚC KHI đi)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vるとき = hành động CHƯA xảy ra -> mua TRƯỚC KHI đi. Vたとき = hành động ĐÃ xảy ra -> mua SAU KHI đến. CHỈ KHÁC る vs た mà NƠI MUA khác nhau! 行く = ở nước mình, 行った = ở Nhật",
+    "hint": null,
+    "tags": [
+      "とき",
+      "Vる",
+      "Vた",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L32_PD_24",
+    "lesson_id": 32,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "食べてから薬を飲む / 食べた後で薬を飲む",
+    "sentence_translation": "Ăn xong rồi uống thuốc. / Sau khi ăn thì uống thuốc.",
+    "question_text": "Câu nào NHẤN MẠNH thứ tự BẮT BUỘC (phải ăn trước)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "食べた後で薬を飲む (後で = đơn thuần trình tự thời gian)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "食べてから薬を飲む (てから = thứ tự bắt buộc, PHẢI ăn trước mới uống)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "てから = thứ tự BẮT BUỘC (phải xong A mới làm B). た後で = đơn thuần trình tự THỜI GIAN (sau A thì B). てから mạnh hơn: \"PHẢI ăn trước!\". 後で nhẹ hơn: \"sau khi ăn...\"",
+    "hint": null,
+    "tags": [
+      "てから",
+      "後で",
+      "phan_biet",
+      "trinh_tu"
+    ]
+  },
+  {
+    "id": "L32_PD_25",
+    "lesson_id": 32,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "出かけるところです / 出かけたところです",
+    "sentence_translation": "Sắp đi ra ngoài. / Vừa đi ra ngoài xong.",
+    "question_text": "Câu nào là SẮP làm (chưa bắt đầu)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "出かけるところです (Vるところ = SẮP làm, chưa bắt đầu)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "出かけたところです (Vたところ = VỪA làm xong)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ところ thay đổi ý nghĩa theo THỂ của động từ! Vるところ = SẮP làm (trước). Vているところ = ĐANG làm (giữa). Vたところ = VỪA xong (sau). 3 thời điểm khác nhau với cùng 1 từ ところ!",
+    "hint": null,
+    "tags": [
+      "ところ",
+      "Vる",
+      "Vた",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L32_PD_26",
+    "lesson_id": 32,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "寝る前に / 寝た前に",
+    "sentence_translation": "Trước khi ngủ. / (SAI ngữ pháp)",
+    "question_text": "Câu nào ĐÚNG ngữ pháp?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "寝た前に (SAI! 前に KHÔNG BAO GIỜ đi với thể quá khứ)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "寝る前に (Vる前に = ĐÚNG, 前に luôn đi với thể từ điển)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "QUY TẮC CỨNG: 前に LUÔN đi với Vる (thể từ điển), KHÔNG BAO GIỜ dùng Vた前に! Đây là lỗi SAI phổ biến. Dù hành động đã xảy ra trong quá khứ, vẫn dùng 寝る前に. KHÁC 後で (luôn Vた)",
+    "hint": null,
+    "tags": [
+      "前に",
+      "Vる",
+      "quy_tac",
+      "bay"
+    ]
+  },
+  {
+    "id": "L32_PK_27",
+    "lesson_id": 32,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本に行くとき空港でお土産を買いました。",
+    "sentence_translation": "Khi sắp đi Nhật, mua quà ở sân bay.",
+    "question_text": "🔒 Gặp 行くとき -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói: \"khi ĐÃ đến Nhật\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"khi SẮP đi Nhật\" (Vるとき = CHƯA đi) -> dự đoán: hành động xảy ra TRƯỚC/TRÊN ĐƯỜNG đi",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"đi\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp Vるとき -> 🔒 đóng gói: \"khi SẮP ~\" (chưa xảy ra). 行くとき → mua quà Ở SÂN BAY (trước khi đi). Nếu thấy 行ったとき → mua quà Ở NHẬT (đã đến). Thể động từ quyết định NƠI CHỐN!",
+    "hint": null,
+    "tags": [
+      "とき",
+      "Vる",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L32_PK_28",
+    "lesson_id": 32,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "大学を卒業してから就職活動を始めました。",
+    "sentence_translation": "Tốt nghiệp đại học xong rồi mới bắt đầu tìm việc.",
+    "question_text": "🔒 Gặp てから -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói: \"trong lúc tốt nghiệp\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"tốt nghiệp XONG RỒI mới...\" (thứ tự bắt buộc) -> đọc tiếp tìm hành động thứ 2",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"tốt nghiệp\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp てから -> 🔒 đóng gói: \"hành động 1 XONG RỒI mới ~\". Giữ trong đầu \"tốt nghiệp xong\" -> đọc tiếp: 就職活動を始めた = bắt đầu tìm việc. Thứ tự BẮT BUỘC: tốt nghiệp -> rồi mới tìm việc",
+    "hint": null,
+    "tags": [
+      "てから",
+      "dong_goi",
+      "trinh_tu"
+    ]
+  },
+  {
+    "id": "L32_PK_29",
+    "lesson_id": 32,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "今ちょうどご飯を食べているところに電話が来ました。",
+    "sentence_translation": "Đang ăn cơm thì có điện thoại gọi đến.",
+    "question_text": "🔒 Gặp 食べているところ -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói: \"vừa ăn xong\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"ĐANG ăn cơm (ngay lúc này)\" -> đọc tiếp tìm điều xảy ra TRONG LÚC đang ăn",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"sắp ăn\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp Vているところ -> 🔒 đóng gói: \"ĐANG làm (ngay thời điểm này)\". 食べているところ = đang ăn -> 電話が来た = điện thoại gọi đến. 2 sự việc ĐỒNG THỜI: đang ăn + có điện thoại",
+    "hint": null,
+    "tags": [
+      "ところ",
+      "Vている",
+      "dong_goi",
+      "dang"
+    ]
+  },
+  {
+    "id": "L32_PK_30",
+    "lesson_id": 32,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子どもが寝ている間にこっそりケーキを食べました。",
+    "sentence_translation": "Lén ăn bánh trong lúc con đang ngủ.",
+    "question_text": "🔒 Gặp 寝ている間に -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"sau khi con ngủ\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"ngủ\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"TRONG LÚC con đang ngủ\" (có giới hạn thời gian) -> đọc tiếp tìm hành động TRANH THỦ làm",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp ている間に -> 🔒 đóng gói: \"TRONG khoảng thời gian ~\". 寝ている間に → tranh thủ làm gì đó. こっそり = lén lút. Hành động (ăn bánh) phải XONG trước khi con dậy!",
+    "hint": null,
+    "tags": [
+      "間に",
+      "dong_goi",
+      "tranh_thu"
+    ]
+  },
+  {
+    "id": "L32_RO_31",
+    "lesson_id": 32,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "食べる前に手を洗います。",
+    "sentence_translation": "Rửa tay trước khi ăn.",
+    "question_text": "食べる前に手を洗います。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "手を洗います",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "食べる前に",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "食べる前に (trước khi ăn) -> 手を洗います (rửa tay). MỆNH ĐỀ THỜI GIAN đứng trước, HÀNH ĐỘNG CHÍNH đứng sau. Nhớ: 前に luôn Vる!",
+    "hint": null,
+    "tags": [
+      "前に",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L32_RO_32",
+    "lesson_id": 32,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "手を洗ってから食べます。",
+    "sentence_translation": "Rửa tay xong rồi ăn.",
+    "question_text": "手を洗ってから食べます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "食べます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "手を洗ってから",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "手を洗ってから (rửa tay xong rồi) -> 食べます (ăn). てから: hành động 1 TRƯỚC, hành động 2 SAU. Thứ tự BẮT BUỘC",
+    "hint": null,
+    "tags": [
+      "てから",
+      "reorder",
+      "trinh_tu"
+    ]
+  },
+  {
+    "id": "L32_RO_33",
+    "lesson_id": 32,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本に行ったとき友達にお土産を渡しました。",
+    "sentence_translation": "Khi đã đến Nhật, đưa quà cho bạn.",
+    "question_text": "日本に行ったとき友達にお土産を渡しました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "お土産を渡しました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "友達に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本に行ったとき",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "日本に行ったとき (khi đã đến Nhật) -> 友達に (cho bạn) -> お土産を渡しました (đưa quà). Mệnh đề thời gian (とき) -> đối tượng (に) -> hành động",
+    "hint": null,
+    "tags": [
+      "とき",
+      "Vた",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L32_RO_34",
+    "lesson_id": 32,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "子どもが寝ている間に部屋を掃除しました。",
+    "sentence_translation": "Dọn phòng trong lúc con đang ngủ.",
+    "question_text": "子どもが寝ている間に部屋を掃除しました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "部屋を掃除しました",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "子どもが寝ている間に",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "子どもが寝ている間に (trong lúc con ngủ) -> 部屋を掃除しました (dọn phòng). 間に = khoảng thời gian. Hành động dọn dẹp TRONG LÚC con đang ngủ",
+    "hint": null,
+    "tags": [
+      "間に",
+      "reorder",
+      "khoang_thoi_gian"
+    ]
+  },
+  {
+    "id": "L32_RO_35",
+    "lesson_id": 32,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "大学を卒業した後で会社に入りました。",
+    "sentence_translation": "Sau khi tốt nghiệp đại học, vào công ty.",
+    "question_text": "大学を卒業した後で会社に入りました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "会社に入りました",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "大学を卒業した後で",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "大学を卒業した後で (sau khi tốt nghiệp) -> 会社に入りました (vào công ty). 後で luôn Vた (quá khứ). Trình tự thời gian: tốt nghiệp -> vào làm",
+    "hint": null,
+    "tags": [
+      "後で",
+      "reorder",
+      "Vた"
+    ]
+  },
+  {
+    "id": "L32_QT_36",
+    "lesson_id": 32,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本に行くとき、パスポートを確認しました。",
+    "sentence_translation": "Khi sắp đi Nhật, đã kiểm tra hộ chiếu.",
+    "question_text": "行くとき / パスポートを確認しました。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Sau khi đi Nhật, kiểm tra hộ chiếu.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Khi sắp đi Nhật, đã kiểm tra hộ chiếu. (行くとき = sắp đi, chưa đến)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Để đi Nhật, kiểm tra hộ chiếu.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Khi đã đến Nhật, đã kiểm tra hộ chiếu.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "行くとき = \"khi SẮP đi\" (Vるとき = chưa xảy ra). Kiểm tra hộ chiếu TRƯỚC KHI đi. Nếu là 行ったとき = \"khi ĐÃ đến\" -> kiểm tra Ở NHẬT. Thể động từ quyết định THỜI ĐIỂM!",
+    "hint": null,
+    "tags": [
+      "とき",
+      "Vる",
+      "dich"
+    ]
+  },
+  {
+    "id": "L32_QT_37",
+    "lesson_id": 32,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "食べた後で歯を磨きます。",
+    "sentence_translation": "Sau khi ăn thì đánh răng.",
+    "question_text": "食べた後で / 歯を磨きます。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Sau khi ăn thì đánh răng. (Vた後で = sau khi đã ~)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Trong lúc ăn thì đánh răng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ăn xong rồi đánh răng (thứ tự bắt buộc).",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trước khi ăn thì đánh răng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "食べた後で = \"sau khi đã ăn\". 後で = đơn thuần trình tự thời gian. KHÁC てから (thứ tự BẮT BUỘC, nhấn mạnh \"phải xong A mới B\"). 後で nhẹ nhàng hơn てから",
+    "hint": null,
+    "tags": [
+      "後で",
+      "dich",
+      "Vた"
+    ]
+  },
+  {
+    "id": "L32_QT_38",
+    "lesson_id": 32,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "今ちょうど駅に着いたところです。",
+    "sentence_translation": "Bây giờ vừa đến ga.",
+    "question_text": "着いたところです。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Sắp đến ga.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã đến ga lâu rồi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đang trên đường đến ga.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vừa mới đến ga. (Vたところ = vừa xong)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vたところ = \"VỪA MỚI làm xong\" (còn rất mới). 着いたところ = vừa mới đến (mới đến xong). KHÁC 着いた = đã đến (có thể lâu rồi). ところ thêm sắc thái \"NGAY LÚC NÀY, mới xong\"",
+    "hint": null,
+    "tags": [
+      "ところ",
+      "Vた",
+      "dich",
+      "vua_xong"
+    ]
+  },
+  {
+    "id": "L32_QT_39",
+    "lesson_id": 32,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "赤ちゃんが寝ている間に買い物に行きました。",
+    "sentence_translation": "Đi mua sắm trong lúc em bé đang ngủ.",
+    "question_text": "寝ている間に / 買い物に行きました。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Trước khi em bé ngủ thì đi mua sắm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Em bé ngủ vì đi mua sắm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi mua sắm trong lúc em bé đang ngủ. (間に = trong khoảng thời gian)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sau khi em bé ngủ thì đi mua sắm.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ている間に = \"trong lúc đang ~\". 寝ている間に = trong lúc đang ngủ. Hành động (đi mua sắm) phải XONG trong khoảng thời gian em bé còn ngủ. Có GIỚI HẠN thời gian!",
+    "hint": null,
+    "tags": [
+      "間に",
+      "dich",
+      "khoang_thoi_gian"
+    ]
+  },
+  {
+    "id": "L32_QT_40",
+    "lesson_id": 32,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "シャワーを浴びてから朝ご飯を食べます。",
+    "sentence_translation": "Tắm xong rồi ăn sáng.",
+    "question_text": "浴びてから / 食べます。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Vừa tắm vừa ăn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sau khi ăn sáng thì tắm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tắm để ăn sáng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tắm xong rồi mới ăn sáng. (てから = thứ tự bắt buộc)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "てから = \"làm xong rồi MỚI ~\". 浴びてから食べる = tắm XONG RỒI mới ăn. Nhấn mạnh: PHẢI tắm trước, rồi mới ăn. Thứ tự KHÔNG ĐẢO NGƯỢC được. KHÁC 後で (linh hoạt hơn)",
+    "hint": null,
+    "tags": [
+      "てから",
+      "dich",
+      "trinh_tu"
+    ]
+  }
+]

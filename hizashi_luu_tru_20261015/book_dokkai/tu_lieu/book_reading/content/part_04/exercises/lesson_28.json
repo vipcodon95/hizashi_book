@@ -1,0 +1,1515 @@
+[
+  {
+    "id": "L28_FP_01",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "明日は雨が降ると思います。",
+    "sentence_translation": "Tôi nghĩ ngày mai sẽ mưa.",
+    "question_text": "明日は雨が降る（　）思います。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "[Mệnh đề TTT] + と + 思う = \"nghĩ rằng ~\". と là DẤU NGOẶC KÉP của tiếng Nhật, đóng gói nội dung trích dẫn. 雨が降ると思う = \"nghĩ rằng mưa sẽ rơi\"",
+    "hint": "Nội dung \"ngày mai sẽ mưa\" + 思います → nối nội dung suy nghĩ với động từ \"nghĩ\" → dùng gì?",
+    "tags": [
+      "と",
+      "思う",
+      "trich_dan",
+      "co_ban"
+    ]
+  },
+  {
+    "id": "L28_FP_02",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生は「明日テストがある」と言いました。",
+    "sentence_translation": "Thầy giáo đã nói \"ngày mai có kiểm tra\".",
+    "question_text": "先生は「明日テストがある」（　）言いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "「...」と言う = trích dẫn TRỰC TIẾP (giữ nguyên lời nói gốc). と đánh dấu NỘI DUNG được trích dẫn. Trong 「」có thể chứa です/ます vì là nguyên văn",
+    "hint": "Lời nói trong ngoặc kép + 言いました → nối lời nói trực tiếp với động từ \"nói\" → dùng gì?",
+    "tags": [
+      "と",
+      "言う",
+      "trich_dan",
+      "truc_tiep"
+    ]
+  },
+  {
+    "id": "L28_FP_03",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "来月会社が引っ越す（　）聞きました。",
+    "sentence_translation": "Tôi nghe nói tháng sau công ty sẽ chuyển.",
+    "question_text": "来月会社が引っ越す（　）聞きました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "[TTT] + と + 聞く = \"nghe nói rằng ~\". と đánh dấu nội dung tin tức. 引っ越すと聞いた = \"nghe nói sẽ chuyển\". Lưu ý: trước と dùng TTT (引っ越す), KHÔNG dùng 引っ越します",
+    "hint": "\"Tháng sau công ty sẽ chuyển\" = nội dung nghe được + 聞きました → dùng gì để nối?",
+    "tags": [
+      "と",
+      "聞く",
+      "trich_dan"
+    ]
+  },
+  {
+    "id": "L28_FP_04",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語は難しい（　）思います。",
+    "sentence_translation": "Tôi nghĩ tiếng Nhật khó.",
+    "question_text": "日本語は難しい（　）思います。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Aい + と + 思う = \"nghĩ rằng ~\". 難しいと思う = \"nghĩ là khó\". Tính từ い trước と giữ nguyên dạng TTT. KHÔNG nói ~~難しいですと思います~~",
+    "hint": "\"Tiếng Nhật khó\" = ý kiến cá nhân + 思います → nối bằng gì?",
+    "tags": [
+      "と",
+      "思う",
+      "Aい",
+      "trich_dan"
+    ]
+  },
+  {
+    "id": "L28_FP_05",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この料理は簡単（　）と思います。",
+    "sentence_translation": "Tôi nghĩ món ăn này đơn giản.",
+    "question_text": "この料理は簡単（　）と思います。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "だ",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Aな + だ + と思う. CẢNH BÁO: です → だ trước と. 簡単だと思う = \"nghĩ là đơn giản\". ~~簡単ですと思う~~ = SAI. ~~簡単と思う~~ = SAI (thiếu だ). Đây là LỖI PHỔ BIẾN NHẤT!",
+    "hint": "Tính từ な + と → です phải chuyển thành gì trước と (trích dẫn gián tiếp)?",
+    "tags": [
+      "だ",
+      "と",
+      "思う",
+      "Ana",
+      "loi_pho_bien"
+    ]
+  },
+  {
+    "id": "L28_FP_06",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんはパーティーに行かない（　）言っていました。",
+    "sentence_translation": "Anh Tanaka nói là không đi tiệc.",
+    "question_text": "田中さんはパーティーに行かない（　）言っていました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "って",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Trích dẫn GIÁN TIẾP: không có 「」→ bắt buộc dùng TTT trước と. 行かないと言った = \"nói là không đi\". SO SÁNH trực tiếp: 「行かない」と言った = nguyên văn. Gián tiếp: 行かないと言った = thuật lại",
+    "hint": "Lời nói gián tiếp (không có「」) + 言っていました → nối nội dung với động từ nói → dùng gì?",
+    "tags": [
+      "と",
+      "言う",
+      "gian_tiep",
+      "TTT"
+    ]
+  },
+  {
+    "id": "L28_FP_07",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼女は元気（　）と聞いて安心しました。",
+    "sentence_translation": "Nghe nói cô ấy khỏe nên tôi yên tâm.",
+    "question_text": "彼女は元気（　）と聞いて安心しました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "だ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Aな + だ + と + 聞く. 元気だと聞いて = \"nghe nói khỏe và...\". です → だ trước と. Quy tắc GIỐNG と思う: Aな luôn cần だ trước と. ~~元気ですと聞いて~~ = SAI",
+    "hint": "Tính từ な (元気) + と → trước と phải chuyển です thành gì?",
+    "tags": [
+      "だ",
+      "と",
+      "聞く",
+      "Ana"
+    ]
+  },
+  {
+    "id": "L28_FP_08",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あの映画、おもしろかった（　）聞いたよ。",
+    "sentence_translation": "Tớ nghe nói phim đó hay lắm đấy.",
+    "question_text": "あの映画、おもしろかった（　）聞いたよ。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "って",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "って = と trong văn nói. おもしろかったって聞いた = \"nghe nói hay lắm\". って dùng trong hội thoại, manga, tin nhắn. Tương đương おもしろかったと聞いた nhưng thân mật hơn",
+    "hint": "Văn nói (よ cuối câu, dấu phẩy thay は) → dạng văn nói của と là gì?",
+    "tags": [
+      "って",
+      "と",
+      "van_noi"
+    ]
+  },
+  {
+    "id": "L28_FP_09",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "「寿司」（　）食べ物を知っていますか。",
+    "sentence_translation": "Bạn có biết món ăn gọi là \"sushi\" không?",
+    "question_text": "「寿司」（　）食べ物を知っていますか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "とは",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "との",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "という",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "とが",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "「...」という + N cụ thể = \"gọi là ~\". 「寿司」という食べ物 = \"món ăn gọi là sushi\". という bổ nghĩa cho danh từ phía sau. KHÁC と思う/言う: ở đây という = \"được gọi là\"",
+    "hint": "\"Sushi\" + ĐẶT TÊN cho danh từ cụ thể (食べ物) → dùng cấu trúc nào?",
+    "tags": [
+      "という",
+      "dat_ten",
+      "danh_tu_cu_the"
+    ]
+  },
+  {
+    "id": "L28_FP_10",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "地震があった（　）ニュースを聞きました。",
+    "sentence_translation": "Tôi đã nghe tin rằng có động đất.",
+    "question_text": "地震があった（　）ニュースを聞きました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "とは",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "とが",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "との",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "という",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "[TTT] + という + N trừu tượng = \"rằng ~\". 地震があったというニュース = \"tin tức rằng có động đất\". PHÂN BIỆT: という + N cụ thể = \"gọi là ~\". という + N trừu tượng (ニュース, 話, 事実) = \"rằng ~\"",
+    "hint": "\"Có động đất\" = nội dung tin tức + ニュース (danh từ trừu tượng) → dùng gì?",
+    "tags": [
+      "という",
+      "danh_tu_truu_tuong",
+      "rang"
+    ]
+  },
+  {
+    "id": "L28_FP_11",
+    "lesson_id": 28,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼が来ない（　）は知りませんでした。",
+    "sentence_translation": "Tôi đã không biết việc anh ấy không đến.",
+    "question_text": "彼が来ない（　）は知りませんでした。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ということ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "というの",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "との",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "とこと",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[TTT] + ということ = danh từ hóa mệnh đề: \"việc rằng ~\". 来ないということは = \"việc không đến\" (làm chủ đề). ということ biến cả mệnh đề thành 1 DANH TỪ → có thể gắn は/が/を",
+    "hint": "\"Anh ấy không đến\" = nội dung → DANH TỪ HÓA thành \"việc rằng ~\" + は → dùng gì?",
+    "tags": [
+      "ということ",
+      "danh_tu_hoa"
+    ]
+  },
+  {
+    "id": "L28_CH_12",
+    "lesson_id": 28,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "明日は雨が降ると思います",
+    "sentence_translation": "Tôi nghĩ ngày mai sẽ mưa.",
+    "question_text": "明日は雨が降ると思います",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "明日は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "雨が降ると",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "思います",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "明日は = ngày mai (chủ đề) | 雨が降ると = 🔒 đóng gói trích dẫn: \"mưa sẽ rơi\" → と = tín hiệu trích dẫn → dự đoán 思う/言う | 思います = tôi nghĩ. Đọc đến と → nhìn sau: 思う → à, đây là Ý KIẾN!",
+    "hint": null,
+    "tags": [
+      "と",
+      "思う",
+      "chunking",
+      "co_ban"
+    ]
+  },
+  {
+    "id": "L28_CH_13",
+    "lesson_id": 28,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "先生は明日テストがあると言いました",
+    "sentence_translation": "Thầy giáo đã nói ngày mai có kiểm tra.",
+    "question_text": "先生は明日テストがあると言いました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "先生は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "明日テストがあると",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "言いました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "先生は = thầy giáo (chủ đề) | 明日テストがあると = 🔒 đóng gói trích dẫn: \"ngày mai có kiểm tra\" → と = trích dẫn | 言いました = đã nói. Gián tiếp (không có 「」) → TTT trước と: ある (không phải あります)",
+    "hint": null,
+    "tags": [
+      "と",
+      "言う",
+      "chunking",
+      "gian_tiep"
+    ]
+  },
+  {
+    "id": "L28_CH_14",
+    "lesson_id": 28,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "「寿司」という食べ物を知っていますか",
+    "sentence_translation": "Bạn có biết món ăn gọi là \"sushi\" không?",
+    "question_text": "「寿司」という食べ物を知っていますか",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "「寿司」という食べ物を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "知っていますか",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "「寿司」という食べ物を = 🔒 đóng gói: \"món ăn gọi là sushi\" (という đặt tên cho N) + を (đối tượng) | 知っていますか = có biết không? という + N cụ thể = \"gọi là ~\"",
+    "hint": null,
+    "tags": [
+      "という",
+      "dat_ten",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L28_CH_15",
+    "lesson_id": 28,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "田中さん、明日来ないって",
+    "sentence_translation": "Anh Tanaka nói là ngày mai không đến.",
+    "question_text": "田中さん、明日来ないって",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "田中さん",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "明日来ないって",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "田中さん = anh Tanaka (chủ đề, dấu phẩy thay は) | 明日来ないって = 🔒 đóng gói: \"ngày mai không đến\" + って = と(言っていた). Văn nói: って cuối câu = \"(ai đó) nói rằng ~\". Động từ 言う bị LƯỢC BỎ",
+    "hint": null,
+    "tags": [
+      "って",
+      "van_noi",
+      "chunking",
+      "luoc_bo"
+    ]
+  },
+  {
+    "id": "L28_CH_16",
+    "lesson_id": 28,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "あの店はおいしいと聞いたので行ってみました",
+    "sentence_translation": "Vì nghe nói quán đó ngon nên tôi đã thử đi.",
+    "question_text": "あの店はおいしいと聞いたので行ってみました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "あの店は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "おいしいと聞いたので",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "🔒",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "行ってみました",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "あの店は = quán đó (chủ đề) | おいしいと聞いたので = 🔒 đóng gói: \"vì nghe nói ngon\" → ので = tín hiệu lý do → giải phóng bộ nhớ → đọc tiếp | 行ってみました = đã thử đi. Chuỗi: trích dẫn + lý do + hành động",
+    "hint": null,
+    "tags": [
+      "と",
+      "聞く",
+      "ので",
+      "dong_goi",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L28_CH_17",
+    "lesson_id": 28,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "地震があったというニュースを聞きました",
+    "sentence_translation": "Tôi đã nghe tin rằng có động đất.",
+    "question_text": "地震があったというニュースを聞きました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "地震があったという",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "ニュースを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "聞きました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "地震があったという = 🔒 đóng gói trích dẫn: \"đã xảy ra động đất\" → という bổ nghĩa cho N tiếp | ニュースを = tin tức (đối tượng) | 聞きました = đã nghe. という + N trừu tượng = \"rằng ~\" (cụ thể hóa nội dung)",
+    "hint": null,
+    "tags": [
+      "という",
+      "danh_tu_truu_tuong",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L28_CH_18",
+    "lesson_id": 28,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "彼が来ないということは知りませんでした",
+    "sentence_translation": "Tôi đã không biết việc anh ấy không đến.",
+    "question_text": "彼が来ないということは知りませんでした",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "彼が来ないということは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "🔒",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "知りませんでした",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "彼が来ないということは = 🔒 đóng gói: \"việc anh ấy không đến\" → ということ = danh từ hóa → は = chủ đề chính → giải phóng bộ nhớ → đọc tiếp tìm VỊ NGỮ | 知りませんでした = đã không biết",
+    "hint": null,
+    "tags": [
+      "ということ",
+      "danh_tu_hoa",
+      "dong_goi",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L28_CH_19",
+    "lesson_id": 28,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "このボタンを押すとドアが開きます",
+    "sentence_translation": "Nếu nhấn nút này thì cửa sẽ mở.",
+    "question_text": "このボタンを押すとドアが開きます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "このボタンを",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "押すと",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "ドアが",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "開きます",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "このボタンを = nút này (đối tượng) | 押すと = nhấn + と → sau と KHÔNG có 思う/言う → ĐIỀU KIỆN (không phải trích dẫn!) | ドアが = cửa (chủ ngữ) | 開きます = mở. と điều kiện = \"nếu ~ thì kết quả tự nhiên\"",
+    "hint": null,
+    "tags": [
+      "と",
+      "dieu_kien",
+      "phan_biet",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L28_PD_20",
+    "lesson_id": 28,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "おいしいと思う / おいしいと聞いた",
+    "sentence_translation": "Tôi nghĩ là ngon. / Tôi nghe nói là ngon.",
+    "question_text": "Câu nào là Ý KIẾN CÁ NHÂN?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "おいしいと思う (と思う = ý kiến CÁ NHÂN: tôi nghĩ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "おいしいと聞いた (と聞いた = tin nghe từ NGƯỜI KHÁC)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "と思う = Ý KIẾN CÁ NHÂN (bản thân nghĩ). と聞いた = THÔNG TIN từ người khác (nghe nói). Cùng nội dung \"ngon\" nhưng NGUỒN khác nhau! Đọc: gặp と → nhìn động từ SAU と để biết nguồn thông tin",
+    "hint": null,
+    "tags": [
+      "と",
+      "思う",
+      "聞く",
+      "phan_biet",
+      "nguon"
+    ]
+  },
+  {
+    "id": "L28_PD_21",
+    "lesson_id": 28,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "簡単だと思う / 簡単と思う",
+    "sentence_translation": "Tôi nghĩ là đơn giản. / (SAI ngữ pháp)",
+    "question_text": "Câu nào ĐÚNG ngữ pháp?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "簡単と思う (THIẾU だ sau tính từ な = SAI)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "簡単だと思う (Aな + だ + と = ĐÚNG, です chuyển thành だ)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な trước と PHẢI có だ: 簡単だと思う. BẪY: ~~簡単ですと思う~~ (chưa chuyển TTT), ~~簡単と思う~~ (thiếu だ). So sánh: Aい → おもしろいと思う (không cần だ). Aな → 簡単だと思う (BẮT BUỘC có だ)",
+    "hint": null,
+    "tags": [
+      "だ",
+      "Ana",
+      "と",
+      "phan_biet",
+      "loi"
+    ]
+  },
+  {
+    "id": "L28_PD_22",
+    "lesson_id": 28,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "行くと言った / 行きますと言った",
+    "sentence_translation": "Nói rằng sẽ đi (gián tiếp). / (SAI nếu gián tiếp)",
+    "question_text": "Câu nào là trích dẫn GIÁN TIẾP đúng?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "行きますと言った (ます trước と = chỉ đúng trong 「」trực tiếp)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "行くと言った (TTT trước と = ĐÚNG cho trích dẫn gián tiếp)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Trích dẫn GIÁN TIẾP (không có 「」): BẮT BUỘC dùng TTT. 行く (không phải 行きます). Trích dẫn TRỰC TIẾP (có 「」): giữ nguyên → 「行きます」と言った = OK. KHÁC NHAU rất quan trọng!",
+    "hint": null,
+    "tags": [
+      "と",
+      "truc_tiep",
+      "gian_tiep",
+      "TTT",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L28_PD_23",
+    "lesson_id": 28,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "という食べ物 / というニュース",
+    "sentence_translation": "Món ăn gọi là ~ / Tin tức rằng ~",
+    "question_text": "という trước N cụ thể vs N trừu tượng khác nhau thế nào?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "という + N cụ thể (食べ物, 人, 映画) = \"gọi là ~\" (đặt tên)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "という + N trừu tượng (ニュース, 話, 事実) = \"rằng ~\" (nội dung)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "という có 2 NGHĨA tùy danh từ phía sau: (1) + N cụ thể → \"gọi là ~\": 「寿司」という食べ物. (2) + N trừu tượng → \"rằng ~\": 地震があったというニュース. Nhìn danh từ SAU という để phân biệt!",
+    "hint": null,
+    "tags": [
+      "という",
+      "dat_ten",
+      "rang",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L28_PD_24",
+    "lesson_id": 28,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "おいしいと思う / 押すとドアが開く",
+    "sentence_translation": "Tôi nghĩ là ngon. / Nhấn thì cửa mở.",
+    "question_text": "Câu nào と là TRÍCH DẪN, câu nào là ĐIỀU KIỆN?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "押すとドアが開く (と + kết quả tự nhiên = ĐIỀU KIỆN: \"nếu nhấn thì cửa mở\")",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "おいしいと思う (と + 思う = TRÍCH DẪN: \"nghĩ rằng ngon\")",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "PHÂN BIỆT 2 nghĩa と: (1) Sau と có 思う/言う/聞く → TRÍCH DẪN. (2) Sau と có kết quả tự nhiên → ĐIỀU KIỆN. Mẹo: đọc đến と → NHÌN SAU → thấy 思う/言う? → trích dẫn. Không? → điều kiện",
+    "hint": null,
+    "tags": [
+      "と",
+      "trich_dan",
+      "dieu_kien",
+      "phan_biet",
+      "3_nghia"
+    ]
+  },
+  {
+    "id": "L28_PD_25",
+    "lesson_id": 28,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "来ないと言った / 来ないって",
+    "sentence_translation": "Nói là không đến (trang trọng). / Nói là không đến (thân mật).",
+    "question_text": "Câu nào THÂN MẬT hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "来ないって (って = と văn nói, thân mật, động từ 言う bị lược)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "来ないと言った (と + 言った = đầy đủ, trang trọng hơn)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "って = と trong văn nói. 来ないって = 来ないと言っていた (lược bỏ 言う). って thân mật, dùng trong hội thoại/manga/tin nhắn. と言った đầy đủ, dùng trong văn viết/trang trọng. NỘI DUNG giống nhau, MỨC ĐỘ TRANG TRỌNG khác",
+    "hint": null,
+    "tags": [
+      "って",
+      "と",
+      "phan_biet",
+      "van_noi"
+    ]
+  },
+  {
+    "id": "L28_PK_26",
+    "lesson_id": 28,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語は難しいけどおもしろいと思います。",
+    "sentence_translation": "Tôi nghĩ tiếng Nhật khó nhưng thú vị.",
+    "question_text": "🔒 Gặp おもしろいと → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ đóng gói \"khó\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói toàn bộ nội dung trước と: \"khó nhưng thú vị\" → と = tín hiệu trích dẫn → dự đoán 思う/言う → giải phóng bộ nhớ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"thú vị\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp と sau mệnh đề → 🔒 đóng gói TOÀN BỘ nội dung trước と thành 1 khối: \"khó nhưng thú vị\". と = dấu ngoặc kép → mọi thứ bên trong là NỘI DUNG trích dẫn. Giải phóng chi tiết → chỉ nhớ ý chính → đọc tiếp!",
+    "hint": null,
+    "tags": [
+      "と",
+      "思う",
+      "dong_goi",
+      "trich_dan"
+    ]
+  },
+  {
+    "id": "L28_PK_27",
+    "lesson_id": 28,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あの店はおいしいと聞いたので行ってみました。",
+    "sentence_translation": "Vì nghe nói quán đó ngon nên tôi đã thử đi.",
+    "question_text": "🔒 Gặp おいしいと聞いたので → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói 2 lớp: \"nghe nói ngon\" (trích dẫn) + \"vì vậy\" (lý do) → ので = tín hiệu kết thúc mệnh đề lý do → đọc tiếp tìm HÀNH ĐỘNG",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"quán đó\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"ngon\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Chuỗi đóng gói: おいしいと → 🔒 \"ngon\" (trích dẫn) → 聞いた → \"nghe nói\" → ので → \"vì vậy\" → 🔒 đóng gói toàn bộ: \"vì nghe nói ngon\" → giải phóng → đọc tiếp: 行ってみた (thử đi). 2 tín hiệu (と + ので) = 2 bước đóng gói!",
+    "hint": null,
+    "tags": [
+      "と",
+      "聞く",
+      "ので",
+      "dong_goi",
+      "2_lop"
+    ]
+  },
+  {
+    "id": "L28_PK_28",
+    "lesson_id": 28,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼が来ないということは知りませんでした。",
+    "sentence_translation": "Tôi đã không biết việc anh ấy không đến.",
+    "question_text": "🔒 Gặp ということは → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ということ = trích dẫn thường",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói danh từ hóa: \"việc anh ấy không đến\" → ということ = danh từ hóa toàn bộ mệnh đề → は = chủ đề → đọc tiếp tìm VỊ NGỮ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"anh ấy\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ということ = biến CẢ mệnh đề thành 1 DANH TỪ. 🔒 Đóng gói: \"việc không đến\". は = chủ đề → dự đoán: sắp có vị ngữ. Giải phóng bộ nhớ → trong đầu chỉ còn: \"việc đó... → không biết\". Đọc nhanh!",
+    "hint": null,
+    "tags": [
+      "ということ",
+      "danh_tu_hoa",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L28_PK_29",
+    "lesson_id": 28,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "試験に合格したという知らせを聞いて喜びました。",
+    "sentence_translation": "Nghe tin rằng đã đỗ kỳ thi nên vui mừng.",
+    "question_text": "🔒 Gặp したという知らせを → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"đỗ\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"tin đỗ kỳ thi\" → という nối nội dung \"rằng ~\" với N trừu tượng (知らせ) → を = đối tượng → đọc tiếp tìm ĐỘNG TỪ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 という = gọi là",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "合格したという知らせ = \"tin rằng đã đỗ\". という + N trừu tượng (知らせ = tin báo) → \"rằng ~\". 🔒 Đóng gói: \"tin đỗ\" + を → đọc tiếp: 聞いて喜んだ (nghe và vui). Đóng gói という + N = hiểu NGAY nội dung tin tức!",
+    "hint": null,
+    "tags": [
+      "という",
+      "danh_tu_truu_tuong",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L28_RO_30",
+    "lesson_id": 28,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "明日は雨が降ると思います。",
+    "sentence_translation": "Tôi nghĩ ngày mai sẽ mưa.",
+    "question_text": "明日は雨が降ると思います。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "思います",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "雨が降ると",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "明日は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "明日は (ngày mai - chủ đề) → 雨が降ると (mưa sẽ rơi + と trích dẫn) → 思います (tôi nghĩ). Nội dung trích dẫn đứng TRƯỚC と, động từ tư duy đứng SAU と",
+    "hint": null,
+    "tags": [
+      "と",
+      "思う",
+      "reorder",
+      "co_ban"
+    ]
+  },
+  {
+    "id": "L28_RO_31",
+    "lesson_id": 28,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "先生は明日テストがあると言いました。",
+    "sentence_translation": "Thầy giáo đã nói ngày mai có kiểm tra.",
+    "question_text": "先生は明日テストがあると言いました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "言いました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "明日テストがあると",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "先生は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "先生は (chủ đề: thầy giáo) → 明日テストがあると (nội dung: ngày mai có kiểm tra + と) → 言いました (đã nói). Thứ tự: ai nói + は → nội dung + と → 言う",
+    "hint": null,
+    "tags": [
+      "と",
+      "言う",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L28_RO_32",
+    "lesson_id": 28,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本語は難しいけどおもしろいと思います。",
+    "sentence_translation": "Tôi nghĩ tiếng Nhật khó nhưng thú vị.",
+    "question_text": "日本語は難しいけどおもしろいと思います。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "思います",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "おもしろいと",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "難しいけど",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本語は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "日本語は (chủ đề) → 難しいけど (khó nhưng) → おもしろいと (thú vị + と) → 思います (nghĩ). TOÀN BỘ \"khó nhưng thú vị\" nằm TRONG mệnh đề trích dẫn trước と",
+    "hint": null,
+    "tags": [
+      "と",
+      "思う",
+      "けど",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L28_RO_33",
+    "lesson_id": 28,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "地震があったというニュースを聞きました。",
+    "sentence_translation": "Tôi đã nghe tin rằng có động đất.",
+    "question_text": "地震があったというニュースを聞きました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "聞きました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "ニュースを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "地震があったという",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "地震があったという (nội dung rằng có động đất + という bổ nghĩa N) → ニュースを (tin tức - đối tượng) → 聞きました (đã nghe). という đứng TRƯỚC danh từ mà nó bổ nghĩa",
+    "hint": null,
+    "tags": [
+      "という",
+      "danh_tu_truu_tuong",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L28_RO_34",
+    "lesson_id": 28,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "彼が来ないということは知りませんでした。",
+    "sentence_translation": "Tôi đã không biết việc anh ấy không đến.",
+    "question_text": "彼が来ないということは知りませんでした。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "知りませんでした",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "ということは",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "彼が来ない",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "彼が来ない (anh ấy không đến) → ということは (việc rằng ~ + は chủ đề) → 知りませんでした (đã không biết). ということ biến mệnh đề thành DANH TỪ → gắn は làm chủ đề",
+    "hint": null,
+    "tags": [
+      "ということ",
+      "danh_tu_hoa",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L28_QT_35",
+    "lesson_id": 28,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "明日は雨が降ると思います。",
+    "sentence_translation": "Tôi nghĩ ngày mai sẽ mưa.",
+    "question_text": "雨が降る / と / 思います。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi nghe nói ngày mai mưa. (sai động từ)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ngày mai nếu mưa thì... (sai nghĩa と)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ngày mai trời sẽ mưa. (thiếu \"nghĩ\")",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi nghĩ ngày mai sẽ mưa. (と思う = ý kiến cá nhân)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "と思う = \"tôi NGHĨ rằng ~\". Đây là Ý KIẾN CÁ NHÂN, không phải sự thật chắc chắn. Khác と聞いた (tin từ người khác). Khác と言った (lời ai đó nói). Động từ sau と quyết định NGUỒN thông tin!",
+    "hint": null,
+    "tags": [
+      "と",
+      "思う",
+      "dich",
+      "y_kien"
+    ]
+  },
+  {
+    "id": "L28_QT_36",
+    "lesson_id": 28,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "「寿司」という食べ物を知っていますか。",
+    "sentence_translation": "Bạn có biết món ăn gọi là \"sushi\" không?",
+    "question_text": "「寿司」という / 食べ物。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nói rằng sushi là món ăn. (sai cấu trúc)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Món ăn gọi là \"sushi\". (という + N cụ thể = đặt tên)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sushi và món ăn. (sai nghĩa と)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Món ăn nghĩ là sushi. (sai động từ)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "という + N cụ thể = \"gọi là ~\". Đây KHÔNG phải と + 言う tách rời. という là 1 CỤM CỐ ĐỊNH bổ nghĩa cho danh từ. 「寿司」という食べ物 = \"món ăn [gọi là sushi]\". Rất phổ biến khi giới thiệu điều mới!",
+    "hint": null,
+    "tags": [
+      "という",
+      "dat_ten",
+      "dich"
+    ]
+  },
+  {
+    "id": "L28_QT_37",
+    "lesson_id": 28,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この料理は簡単だと思います。",
+    "sentence_translation": "Tôi nghĩ món ăn này đơn giản.",
+    "question_text": "簡単だ / と思います。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nghĩ về sự đơn giản. (sai nghĩa)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nếu đơn giản thì nghĩ. (sai nghĩa と)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi nghĩ là đơn giản. (Aな + だ + と思う = đúng)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đơn giản đã nghĩ. (sai cấu trúc)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "簡単だと思う = \"nghĩ là đơn giản\". だ = dạng TTT của です. PHẢI có だ sau tính từ な trước と. Đây là BẪY thường gặp nhất: quên だ hoặc giữ です trước と",
+    "hint": null,
+    "tags": [
+      "だ",
+      "と",
+      "思う",
+      "Ana",
+      "dich"
+    ]
+  },
+  {
+    "id": "L28_QT_38",
+    "lesson_id": 28,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さん、明日来ないって。",
+    "sentence_translation": "Anh Tanaka nói là ngày mai không đến.",
+    "question_text": "来ないって。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Không biết có đến không. (sai)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không đến và... (と liệt kê)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nếu không đến thì... (と điều kiện)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nói là không đến. (って = と言っていた, văn nói, lược 言う)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "って cuối câu = と言っていた (lược bỏ 言う). Văn nói rất phổ biến trong manga/hội thoại. 来ないって = \"nói là không đến\". Chú ý: って KHÔNG phải と điều kiện. Ngữ cảnh văn nói → trích dẫn",
+    "hint": null,
+    "tags": [
+      "って",
+      "van_noi",
+      "dich",
+      "luoc_bo"
+    ]
+  },
+  {
+    "id": "L28_QT_39",
+    "lesson_id": 28,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "このボタンを押すとドアが開きます。",
+    "sentence_translation": "Nếu nhấn nút này thì cửa sẽ mở.",
+    "question_text": "押すと / ドアが開きます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nhấn và cửa mở. (sai nghĩa と)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nếu nhấn thì cửa mở. (と điều kiện: kết quả tự nhiên)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nói rằng nhấn cửa mở. (sai, không có 言う)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nghĩ rằng nhấn cửa mở. (sai, không có 思う)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đây là と ĐIỀU KIỆN, KHÔNG phải trích dẫn! Dấu hiệu: sau と KHÔNG có 思う/言う/聞く → kết quả tự nhiên theo sau. 押すとドアが開く = \"nhấn THÌ cửa mở\" (luôn luôn, quy luật). 3 nghĩa と: trích dẫn / điều kiện / liệt kê",
+    "hint": null,
+    "tags": [
+      "と",
+      "dieu_kien",
+      "dich",
+      "3_nghia"
+    ]
+  },
+  {
+    "id": "L28_QT_40",
+    "lesson_id": 28,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "試験に合格したという知らせを聞いて喜びました。",
+    "sentence_translation": "Nghe tin rằng đã đỗ kỳ thi nên vui mừng.",
+    "question_text": "合格したという / 知らせ。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tin rằng đã đỗ. (という + N trừu tượng = \"rằng ~\")",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nói rằng đỗ tin. (sai cấu trúc)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đỗ và tin. (sai nghĩa と)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tin gọi là đỗ. (sai, 知らせ không phải N cụ thể)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "という + N trừu tượng = \"rằng ~\". 知らせ (tin báo) = N trừu tượng → という = \"rằng\" (cụ thể hóa NỘI DUNG tin). KHÁC: 「寿司」という食べ物 (N cụ thể → \"gọi là\"). Nhìn N sau という để chọn nghĩa!",
+    "hint": null,
+    "tags": [
+      "という",
+      "danh_tu_truu_tuong",
+      "dich"
+    ]
+  }
+]

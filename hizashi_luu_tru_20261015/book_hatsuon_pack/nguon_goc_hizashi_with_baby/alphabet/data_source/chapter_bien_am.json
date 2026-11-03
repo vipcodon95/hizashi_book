@@ -1,0 +1,265 @@
+{
+  "chapter_id": "bien_am",
+  "title": "Biến Âm trong Tiếng Nhật: Từ Sách đến Đời Thực",
+  "intro": "Tại sao 'shinbun' lại phát âm với âm [m]? Tại sao 'desu' nghe như 'des'? Chương này giải mã tất cả các quy tắc biến âm giúp bạn nghe hiểu người Nhật thực sự.",
+  "sections": {
+    "B.1": {
+      "title": "Hatsuon (撥音): Âm Mũi ん Đa Hình",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Âm /N/ (viết là ん) là ví dụ điển hình nhất về biến âm. Trong khi tiếng Việt phân biệt rạch ròi **-n, -m, -ng, -nh**, tiếng Nhật chỉ có **một âm vị /N/** nhưng thay đổi hình thái tùy theo âm đi sau."
+        },
+        {
+          "type": "key_point",
+          "title": "Quy tắc Đồng hóa Ngược chiều",
+          "points": [
+            "Âm /N/ **chuẩn bị sẵn** vị trí cấu âm cho phụ âm tiếp theo",
+            "Môi khép → [m], Lưỡi chạm lợi → [n], Lưỡi nâng ngạc mềm → [ŋ]",
+            "Người Việt nghe thấy nhiều âm khác nhau nhưng chỉ thấy một chữ viết (ん)"
+          ]
+        },
+        {
+          "type": "detailed_table",
+          "title": "5 Biến thể của âm ん",
+          "headers": ["Môi trường", "Phát âm", "Tương đương TV", "Ví dụ"],
+          "rows": [
+            ["Trước p, b, m", "[m]", "-m", "散歩 sanpo → [sampo]"],
+            ["Trước t, d, n, r", "[n]", "-n", "反対 hantai → [hantai]"],
+            ["Trước k, g", "[ŋ]", "-ng", "漫画 manga → [maŋga]"],
+            ["Cuối câu", "[ɴ]", "Sâu hơn -ng", "日本 nihon → [nihoɴ]"],
+            ["Trước s, z, h, nguyên âm", "[ɰ̃]", "Nguyên âm mũi hóa", "先生 sensei → [seẽsei]"]
+          ]
+        }
+      ]
+    },
+    "B.2": {
+      "title": "Chi Tiết Từng Biến Thể Hatsuon",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Hiểu chi tiết từng biến thể giúp bạn dự đoán và nhận diện từ vựng chính xác hơn."
+        },
+        {
+          "type": "example_box",
+          "title": "Biến thể [m] - Trước âm môi (p, b, m)",
+          "examples": [
+            {"word": "散歩", "romaji": "sanpo → [sampo]", "meaning": "Đi dạo"},
+            {"word": "新聞", "romaji": "shinbun → [shimbun]", "meaning": "Báo"},
+            {"word": "運命", "romaji": "unmei → [ummei]", "meaning": "Vận mệnh"},
+            {"word": "天ぷら", "romaji": "tenpura → [tempura]", "meaning": "Tempura"}
+          ]
+        },
+        {
+          "type": "tip",
+          "text": "Người Việt quen với âm -m nên không khó nghe. Vấn đề là **nhận diện từ** - nếu bạn tư duy 'shi-n-bu-n' từng ký tự, việc nghe [shimbun] có thể gây gián đoạn."
+        },
+        {
+          "type": "example_box",
+          "title": "Biến thể [ŋ] - Trước âm ngạc mềm (k, g)",
+          "examples": [
+            {"word": "漫画", "romaji": "manga → [maŋga]", "meaning": "Truyện tranh"},
+            {"word": "元気", "romaji": "genki → [geŋki]", "meaning": "Khỏe mạnh"},
+            {"word": "韓国", "romaji": "kankoku → [kaŋkoku]", "meaning": "Hàn Quốc"},
+            {"word": "天気", "romaji": "tenki → [teŋki]", "meaning": "Thời tiết"}
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "Người Việt quen với -ng nhưng thường không được dạy quy tắc này. Nhiều người cố phát âm 'man-ga' với âm [n] đầu lưỡi, tạo ra sự ngắt quãng không tự nhiên."
+        },
+        {
+          "type": "example_box",
+          "title": "Biến thể [ɰ̃] - Nguyên âm mũi hóa (KHÓ NHẤT)",
+          "examples": [
+            {"word": "先生", "romaji": "sensei → [seẽsei]", "meaning": "Giống 'se-ê-sê' với 'ê' giọng mũi"},
+            {"word": "恋愛", "romaji": "ren'ai → [reẽai]", "meaning": "Tình yêu"},
+            {"word": "翻訳", "romaji": "hon'yaku → [hoĩyaku]", "meaning": "Biên dịch"},
+            {"word": "電話", "romaji": "denwa → [deɰ̃wa]", "meaning": "Điện thoại"}
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "Đây là biến thể **khó nhất**. Tai chúng ta quen với âm mũi có điểm kết thúc rõ ràng. Âm [ɰ̃] nghe rất 'mờ', giống nguyên âm kéo dài. Người học thường nghe 'ren'ai' thành 're-ai' và **bỏ sót hoàn toàn âm /n/**."
+        }
+      ]
+    },
+    "B.3": {
+      "title": "Museika (無声化): Vô Thanh Hóa Nguyên Âm",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Tiếng Việt là ngôn ngữ mọi nguyên âm đều **hữu thanh** (dây thanh quản rung) để mang thanh điệu. Tiếng Nhật thường xuyên **'tắt'** nguyên âm /i/ và /u/ trong môi trường vô thanh."
+        },
+        {
+          "type": "key_point",
+          "title": "Quy tắc Vô thanh hóa",
+          "points": [
+            "/i/ và /u/ bị vô thanh hóa khi nằm **giữa hai phụ âm vô thanh** (k, s, t, h, f, p, sh)",
+            "/i/ và /u/ bị vô thanh hóa khi đứng **sau phụ âm vô thanh ở cuối câu** (đặc biệt desu, masu)",
+            "Phát âm như tiếng gió/thì thầm, không rung dây thanh"
+          ]
+        },
+        {
+          "type": "example_box",
+          "title": "Ví dụ Vô thanh hóa",
+          "examples": [
+            {"word": "聞く kiku", "romaji": "/k/+i+/k/ → [k'ku]", "meaning": "Nghe - âm /i/ gần như biến mất"},
+            {"word": "好き suki", "romaji": "/s/+u+/k/ → [s'ki]", "meaning": "Thích - nghe như 'ski'"},
+            {"word": "です desu", "romaji": "Cuối câu → [des']", "meaning": "Copula - âm /u/ biến mất"},
+            {"word": "ます masu", "romaji": "Cuối câu → [mas']", "meaning": "Lịch sự - âm /u/ biến mất"},
+            {"word": "下 shita", "romaji": "/sh/+i+/t/ → [sh'ta]", "meaning": "Dưới - âm /i/ biến mất"}
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "Người Việt thường phát âm 'Desu' là 'Đé-sự' (hữu thanh hóa toàn bộ). Điều này không chỉ nghe thiếu tự nhiên mà còn **sai lệch nhịp điệu** - [des'] chỉ tính 2 mora, nhưng 'Đé-sự' kéo dài thời gian."
+        }
+      ]
+    },
+    "B.4": {
+      "title": "Rendaku (連濁): Hiện Tượng Đục Hóa",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Rendaku là hiện tượng phụ âm đầu của thành tố thứ hai trong từ ghép bị biến đổi từ **vô thanh sang hữu thanh**. Đây là quy tắc bắt buộc phải nắm để nghe ra từ ghép."
+        },
+        {
+          "type": "detailed_table",
+          "title": "Quy tắc chuyển đổi Rendaku",
+          "headers": ["Âm gốc", "Sau Rendaku", "Ví dụ"],
+          "rows": [
+            ["k", "g", "折り + 紙 = 折り紙 origami"],
+            ["s/sh", "z/j", "巻き + 寿司 = 巻き寿司 makizushi"],
+            ["t/ch", "d/j", "鼻 + 血 = 鼻血 hanaji"],
+            ["h/f", "b", "生け + 花 = 生け花 ikebana"]
+          ]
+        },
+        {
+          "type": "key_point",
+          "title": "Luật Lyman - Ngoại lệ quan trọng",
+          "points": [
+            "Rendaku **KHÔNG xảy ra** nếu thành tố thứ hai **đã chứa sẵn** phụ âm đục (g, z, d, b)",
+            "山 + 風 = 山風 yamakaze (KHÔNG thành yamagaze vì 'kaze' đã có /z/)",
+            "一人 + 旅 = 一人旅 hitoritabi (KHÔNG thành hitoridabi vì 'tabi' đã có /b/)"
+          ]
+        },
+        {
+          "type": "tip",
+          "text": "Khi nghe thấy âm đục ở giữa từ ghép (ví dụ 'bana' trong ikebana), hãy **truy nguyên** về từ gốc là 'hana' (hoa). Nếu không hiểu quy tắc này, bạn sẽ tra từ điển 'bana' và không tìm thấy!"
+        }
+      ]
+    },
+    "B.5": {
+      "title": "Rút Gọn Khẩu Ngữ: Chìa Khóa Nghe Hiểu Hội Thoại",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Đây là phần **quan trọng nhất** để nghe hiểu hội thoại đời thường (phim, anime, giao tiếp). Trong văn nói tốc độ nhanh, tiếng Nhật áp dụng triệt để nguyên lý **'tiết kiệm nỗ lực cơ bắp'**."
+        },
+        {
+          "type": "detailed_table",
+          "title": "Bảng Rút gọn Khẩu ngữ Thường gặp",
+          "headers": ["Dạng văn viết", "Dạng văn nói", "Ý nghĩa", "Ví dụ"],
+          "rows": [
+            ["-te shimau", "-chau", "Hoàn thành/Lỡ làm", "食べてしまう → 食べちゃう tabechau"],
+            ["-de shimau", "-jau", "Hoàn thành/Lỡ làm", "飲んでしまう → 飲んじゃう nonjau"],
+            ["-te iru", "-teru", "Đang làm", "知っている → 知ってる shitteru"],
+            ["-de iru", "-deru", "Đang làm", "飲んでいる → 飲んでる nonderu"],
+            ["-te oku", "-toku", "Làm sẵn", "書いておく → 書いとく kaitoku"],
+            ["-nakute wa", "-nakucha", "Phải làm", "行かなくては → 行かなくちゃ ikanakucha"],
+            ["-kereba", "-kya", "Nếu (điều kiện)", "なければ → なきゃ nakya"]
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "Nếu bạn chỉ học theo giáo trình Minna no Nihongo (dạy -te imasu, -te shimaimasu), bạn sẽ hoàn toàn **bị sốc** khi nghe người Nhật nói chuyện thực tế!"
+        }
+      ]
+    },
+    "B.6": {
+      "title": "Hợp Nhất Nguyên Âm: /ai/ → /ee/",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Trong tiếng Nhật suồng sã, đặc biệt giọng nam Tokyo, các nguyên âm đôi thường được **'lười hóa'** thành nguyên âm đơn kéo dài."
+        },
+        {
+          "type": "example_box",
+          "title": "/ai/ và /oi/ biến thành /ee/",
+          "examples": [
+            {"word": "高い takai", "romaji": "→ takee", "meaning": "Cao/Đắt"},
+            {"word": "痛い itai", "romaji": "→ itee", "meaning": "Đau"},
+            {"word": "すごい sugoi", "romaji": "→ sugee", "meaning": "Tuyệt vời"},
+            {"word": "分からない wakaranai", "romaji": "→ wakannee", "meaning": "Không hiểu"},
+            {"word": "行きたいんです ikitain desu", "romaji": "→ ikiteen su", "meaning": "Muốn đi"}
+          ]
+        },
+        {
+          "type": "example_box",
+          "title": "/ui/ biến thành /ii/",
+          "examples": [
+            {"word": "悪い warui", "romaji": "→ warii", "meaning": "Xấu"},
+            {"word": "眠い nemui", "romaji": "→ nemii", "meaning": "Buồn ngủ"}
+          ]
+        },
+        {
+          "type": "tip",
+          "text": "Dạng biến âm này thường mang sắc thái **thô lỗ hoặc thân mật quá mức**. Tuy nhiên, tần suất xuất hiện **cực cao** trong anime và phim nên bạn cần nghe hiểu được."
+        }
+      ]
+    },
+    "B.7": {
+      "title": "Đồng Hóa /ra/ → /nn/",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Phụ âm /r/ trong tiếng Nhật là âm vỗ (flap) [ɾ], có vị trí cấu âm gần với /n/. Trong các dạng phủ định, /r/ thường bị biến đổi."
+        },
+        {
+          "type": "key_point",
+          "title": "Quy tắc: ra + n → nn",
+          "points": [
+            "分からない wakaranai → 分かんない wakannai",
+            "つまらない tsumaranai → つまんない tsumannai",
+            "帰れない kaerenai → 帰えんない kaennai",
+            "知らない shiranai → しんない shinnai (ít gặp hơn)"
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "Người Việt thường nghe 'wakannai' và nghĩ đó là **từ khác hoàn toàn**. Việc nhận ra cụm âm /nn/ thường là dấu hiệu của **động từ nhóm 1 chia thể phủ định bị rút gọn** là chìa khóa để nghe hiểu."
+        }
+      ]
+    },
+    "B.8": {
+      "title": "Sokuon Cường Điệu: Thêm っ để Nhấn Mạnh",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Để nhấn mạnh cảm xúc hoặc tạo nhịp điệu, người Nhật thường **chèn Sokuon** vào những chỗ vốn không có. Đây gọi là **Emphatic Gemination**."
+        },
+        {
+          "type": "example_box",
+          "title": "Ví dụ Sokuon hóa cảm xúc",
+          "examples": [
+            {"word": "すごい sugoi", "romaji": "→ すっごい suggoi", "meaning": "Quá tuyệt!"},
+            {"word": "やはり yahari", "romaji": "→ やっぱり yappari", "meaning": "Quả nhiên"},
+            {"word": "とても totemo", "romaji": "→ とっても tottemo", "meaning": "Rất (nhấn mạnh)"},
+            {"word": "ばかり bakari", "romaji": "→ ばっかり bakkari", "meaning": "Toàn là"},
+            {"word": "同じ onaji", "romaji": "→ おんなじ onnaji", "meaning": "Giống nhau"}
+          ]
+        },
+        {
+          "type": "key_point",
+          "title": "Quy tắc biến đổi",
+          "points": [
+            "Các phụ âm vô thanh /k/, /s/, /t/ thường biến thành dạng gấp đôi",
+            "Hàng /h/ thường biến thành /pp/ (yahari → yappari)",
+            "Hiểu quy tắc này giúp bạn nhận ra từ gốc dù âm thanh đã bị biến đổi cường điệu"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "metadata": {
+    "title": "Bài tập âm khó",
+    "description": "Luyện nghe phân biệt các âm tiếng Nhật thường bị nhầm",
+    "target_audience": "Người Việt học tiếng Nhật",
+    "total_levels": 5,
+    "version": "1.0"
+  },
+
+  "level_1": {
+    "title": "つ vs す - Âm quan trọng nhất",
+    "description": "Phân biệt âm tắc-xát つ và âm xát す",
+    "priority": "Cao nhất - Nhầm lẫn gây hiểu sai nghĩa",
+
+    "exercises": [
+      {
+        "id": "L1_01",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 âm và cho biết GIỐNG hay KHÁC nhau",
+        "pairs": [
+          { "audio_1": "つ", "audio_2": "す", "answer": "different" },
+          { "audio_1": "つ", "audio_2": "つ", "answer": "same" },
+          { "audio_1": "す", "audio_2": "す", "answer": "same" },
+          { "audio_1": "す", "audio_2": "つ", "answer": "different" },
+          { "audio_1": "つき", "audio_2": "すき", "answer": "different" },
+          { "audio_1": "つく", "audio_2": "すく", "answer": "different" },
+          { "audio_1": "つむ", "audio_2": "すむ", "answer": "different" },
+          { "audio_1": "つる", "audio_2": "する", "answer": "different" }
+        ]
+      },
+      {
+        "id": "L1_02",
+        "type": "identify_sound",
+        "instruction": "Nghe và chọn: つ hay す?",
+        "items": [
+          { "audio": "つき", "answer": "つ", "meaning": "mặt trăng" },
+          { "audio": "すき", "answer": "す", "meaning": "thích" },
+          { "audio": "つくえ", "answer": "つ", "meaning": "bàn" },
+          { "audio": "すこし", "answer": "す", "meaning": "một chút" },
+          { "audio": "つかう", "answer": "つ", "meaning": "sử dụng" },
+          { "audio": "すわる", "answer": "す", "meaning": "ngồi" },
+          { "audio": "つよい", "answer": "つ", "meaning": "mạnh" },
+          { "audio": "すごい", "answer": "す", "meaning": "tuyệt vời" },
+          { "audio": "つくる", "answer": "つ", "meaning": "làm/tạo" },
+          { "audio": "する", "answer": "す", "meaning": "làm" }
+        ]
+      },
+      {
+        "id": "L1_03",
+        "type": "minimal_pair_choice",
+        "instruction": "Nghe và chọn từ đúng",
+        "items": [
+          {
+            "audio": "つき",
+            "options": ["つき (mặt trăng)", "すき (thích)"],
+            "answer": 0
+          },
+          {
+            "audio": "すき",
+            "options": ["つき (mặt trăng)", "すき (thích)"],
+            "answer": 1
+          },
+          {
+            "audio": "つむ",
+            "options": ["つむ (tích lũy)", "すむ (sống/ở)"],
+            "answer": 0
+          },
+          {
+            "audio": "すむ",
+            "options": ["つむ (tích lũy)", "すむ (sống/ở)"],
+            "answer": 1
+          },
+          {
+            "audio": "つる",
+            "options": ["つる (treo/câu)", "する (làm)"],
+            "answer": 0
+          },
+          {
+            "audio": "する",
+            "options": ["つる (treo/câu)", "する (làm)"],
+            "answer": 1
+          },
+          {
+            "audio": "つめ",
+            "options": ["つめ (móng tay)", "すめ (?)"],
+            "answer": 0
+          },
+          {
+            "audio": "つかう",
+            "options": ["つかう (sử dụng)", "すかう (?)"],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "L1_04",
+        "type": "sentence_comprehension",
+        "instruction": "Nghe câu và chọn nghĩa đúng",
+        "items": [
+          {
+            "audio": "つきがきれいです",
+            "options": ["Mặt trăng đẹp", "Tôi thích"],
+            "answer": 0,
+            "transcript": "月がきれいです"
+          },
+          {
+            "audio": "すしがすきです",
+            "options": ["Tôi thích sushi", "Mặt trăng sushi"],
+            "answer": 0,
+            "transcript": "寿司が好きです"
+          },
+          {
+            "audio": "つくえのうえ",
+            "options": ["Trên bàn", "Một chút"],
+            "answer": 0,
+            "transcript": "机の上"
+          },
+          {
+            "audio": "すこしまって",
+            "options": ["Đợi một chút", "Dùng bàn"],
+            "answer": 0,
+            "transcript": "少し待って"
+          }
+        ]
+      },
+      {
+        "id": "L1_05",
+        "type": "count_sound",
+        "instruction": "Đếm số lần nghe thấy âm つ trong câu",
+        "items": [
+          { "audio": "つくえをつかう", "answer": 2, "transcript": "机を使う" },
+          { "audio": "すしがすき", "answer": 0, "transcript": "寿司が好き" },
+          { "audio": "つきをみつける", "answer": 2, "transcript": "月を見つける" },
+          { "audio": "つづけてつくる", "answer": 3, "transcript": "続けて作る" }
+        ]
+      }
+    ]
+  },
+
+  "level_2": {
+    "title": "ら行 vs だ行 - Âm R tiếng Nhật",
+    "description": "Phân biệt âm flap ら và âm tắc だ",
+    "priority": "Cao - Rất dễ nhầm",
+
+    "exercises": [
+      {
+        "id": "L2_01",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 âm và cho biết GIỐNG hay KHÁC nhau",
+        "pairs": [
+          { "audio_1": "ら", "audio_2": "だ", "answer": "different" },
+          { "audio_1": "り", "audio_2": "り", "answer": "same" },
+          { "audio_1": "る", "audio_2": "る", "answer": "same" },
+          { "audio_1": "れ", "audio_2": "で", "answer": "different" },
+          { "audio_1": "ろ", "audio_2": "ど", "answer": "different" },
+          { "audio_1": "から", "audio_2": "かだ", "answer": "different" },
+          { "audio_1": "これ", "audio_2": "こで", "answer": "different" },
+          { "audio_1": "ころ", "audio_2": "こど", "answer": "different" }
+        ]
+      },
+      {
+        "id": "L2_02",
+        "type": "identify_sound",
+        "instruction": "Nghe và chọn: ら行 hay だ行?",
+        "items": [
+          { "audio": "らーめん", "answer": "ら行", "meaning": "ramen" },
+          { "audio": "だいがく", "answer": "だ行", "meaning": "đại học" },
+          { "audio": "りんご", "answer": "ら行", "meaning": "táo" },
+          { "audio": "でんわ", "answer": "だ行", "meaning": "điện thoại" },
+          { "audio": "るす", "answer": "ら行", "meaning": "vắng nhà" },
+          { "audio": "どこ", "answer": "だ行", "meaning": "ở đâu" },
+          { "audio": "れきし", "answer": "ら行", "meaning": "lịch sử" },
+          { "audio": "でる", "answer": "だ行", "meaning": "ra/xuất hiện" },
+          { "audio": "ろく", "answer": "ら行", "meaning": "sáu" },
+          { "audio": "どうぞ", "answer": "だ行", "meaning": "xin mời" }
+        ]
+      },
+      {
+        "id": "L2_03",
+        "type": "word_identification",
+        "instruction": "Nghe từ và chọn đáp án đúng",
+        "items": [
+          {
+            "audio": "から",
+            "options": ["から (từ/vì)", "かだ (?)"],
+            "answer": 0
+          },
+          {
+            "audio": "これ",
+            "options": ["これ (cái này)", "こで (?)"],
+            "answer": 0
+          },
+          {
+            "audio": "いる",
+            "options": ["いる (có/ở)", "いど (giếng)"],
+            "answer": 0
+          },
+          {
+            "audio": "いど",
+            "options": ["いる (có/ở)", "いど (giếng)"],
+            "answer": 1
+          },
+          {
+            "audio": "さる",
+            "options": ["さる (con khỉ)", "さだ (?)"],
+            "answer": 0
+          },
+          {
+            "audio": "ひる",
+            "options": ["ひる (buổi trưa)", "ひど (?)"],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "L2_04",
+        "type": "sentence_listening",
+        "instruction": "Nghe câu và điền từ còn thiếu (ら行 hoặc だ行)",
+        "items": [
+          {
+            "audio": "これからいきます",
+            "blank": "こ___からいきます",
+            "answer": "れ",
+            "meaning": "Tôi sẽ đi từ bây giờ"
+          },
+          {
+            "audio": "どこにいる",
+            "blank": "___こにいる",
+            "answer": "ど",
+            "meaning": "Ở đâu?"
+          },
+          {
+            "audio": "りんごをたべる",
+            "blank": "___んごをたべる",
+            "answer": "り",
+            "meaning": "Ăn táo"
+          },
+          {
+            "audio": "でんわをかける",
+            "blank": "___んわをかける",
+            "answer": "で",
+            "meaning": "Gọi điện"
+          }
+        ]
+      },
+      {
+        "id": "L2_05",
+        "type": "mixed_practice",
+        "instruction": "Nghe và chọn từ đúng trong câu",
+        "items": [
+          {
+            "audio": "ありがとうございます",
+            "question": "Từ nào có chứa ら行?",
+            "options": ["あ___がとう", "ありがとう"],
+            "answer": 1,
+            "highlight": "り"
+          },
+          {
+            "audio": "わかりました",
+            "question": "Có bao nhiêu âm ら行?",
+            "options": ["1", "2"],
+            "answer": 0,
+            "note": "り"
+          },
+          {
+            "audio": "どうもありがとう",
+            "question": "Từ nào có だ行?",
+            "options": ["どう", "あり"],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_3": {
+    "title": "Hữu thanh vs Vô thanh",
+    "description": "Phân biệt か/が, た/だ, さ/ざ, は/ば",
+    "priority": "Cao - Thay đổi nghĩa",
+
+    "exercises": [
+      {
+        "id": "L3_01",
+        "type": "voiced_voiceless",
+        "instruction": "Nghe và chọn: Vô thanh (清音) hay Hữu thanh (濁音)?",
+        "section": "か行 vs が行",
+        "items": [
+          { "audio": "か", "answer": "voiceless", "pair": "か" },
+          { "audio": "が", "answer": "voiced", "pair": "が" },
+          { "audio": "かみ", "answer": "voiceless", "meaning": "giấy" },
+          { "audio": "がみ", "answer": "voiced", "meaning": "(hậu tố)" },
+          { "audio": "かく", "answer": "voiceless", "meaning": "viết" },
+          { "audio": "がく", "answer": "voiced", "meaning": "học" },
+          { "audio": "きく", "answer": "voiceless", "meaning": "nghe" },
+          { "audio": "ぎく", "answer": "voiced", "meaning": "giật mình" }
+        ]
+      },
+      {
+        "id": "L3_02",
+        "type": "voiced_voiceless",
+        "instruction": "Nghe và chọn: Vô thanh hay Hữu thanh?",
+        "section": "た行 vs だ行",
+        "items": [
+          { "audio": "た", "answer": "voiceless" },
+          { "audio": "だ", "answer": "voiced" },
+          { "audio": "たい", "answer": "voiceless", "meaning": "muốn" },
+          { "audio": "だい", "answer": "voiced", "meaning": "lớn" },
+          { "audio": "てん", "answer": "voiceless", "meaning": "điểm" },
+          { "audio": "でん", "answer": "voiced", "meaning": "điện" },
+          { "audio": "とき", "answer": "voiceless", "meaning": "lúc" },
+          { "audio": "どき", "answer": "voiced", "meaning": "hồi hộp" }
+        ]
+      },
+      {
+        "id": "L3_03",
+        "type": "voiced_voiceless",
+        "instruction": "Nghe và chọn: Vô thanh hay Hữu thanh?",
+        "section": "さ行 vs ざ行",
+        "items": [
+          { "audio": "さ", "answer": "voiceless" },
+          { "audio": "ざ", "answer": "voiced" },
+          { "audio": "さけ", "answer": "voiceless", "meaning": "rượu sake" },
+          { "audio": "すいか", "answer": "voiceless", "meaning": "dưa hấu" },
+          { "audio": "ざんねん", "answer": "voiced", "meaning": "đáng tiếc" },
+          { "audio": "ぜんぶ", "answer": "voiced", "meaning": "tất cả" }
+        ]
+      },
+      {
+        "id": "L3_04",
+        "type": "voiced_voiceless",
+        "instruction": "Nghe và chọn: Vô thanh hay Hữu thanh?",
+        "section": "は行 vs ば行",
+        "items": [
+          { "audio": "は", "answer": "voiceless" },
+          { "audio": "ば", "answer": "voiced" },
+          { "audio": "はな", "answer": "voiceless", "meaning": "hoa/mũi" },
+          { "audio": "ばな", "answer": "voiced", "meaning": "(hậu tố)" },
+          { "audio": "ひと", "answer": "voiceless", "meaning": "người" },
+          { "audio": "びと", "answer": "voiced", "meaning": "(hậu tố chỉ người)" }
+        ]
+      },
+      {
+        "id": "L3_05",
+        "type": "minimal_pair_sentence",
+        "instruction": "Nghe câu và chọn nghĩa đúng",
+        "items": [
+          {
+            "audio": "かみをかう",
+            "options": ["Mua giấy", "Mua cái gì đó"],
+            "answer": 0,
+            "transcript": "紙を買う"
+          },
+          {
+            "audio": "がくせいです",
+            "options": ["Là học sinh", "Là cái gì đó"],
+            "answer": 0,
+            "transcript": "学生です"
+          },
+          {
+            "audio": "はなをみる",
+            "options": ["Xem hoa", "Xem mũi"],
+            "answer": 0,
+            "note": "Ngữ cảnh cho thấy là 'hoa'",
+            "transcript": "花を見る"
+          },
+          {
+            "audio": "さけをのむ",
+            "options": ["Uống rượu sake", "Uống cái gì đó"],
+            "answer": 0,
+            "transcript": "酒を飲む"
+          }
+        ]
+      },
+      {
+        "id": "L3_06",
+        "type": "particle_recognition",
+        "instruction": "Nghe và xác định trợ từ が hay か",
+        "note": "が là trợ từ chủ ngữ, か là trợ từ nghi vấn",
+        "items": [
+          {
+            "audio": "ねこがいる",
+            "particle": "が",
+            "meaning": "Có con mèo"
+          },
+          {
+            "audio": "これですか",
+            "particle": "か",
+            "meaning": "Cái này phải không?"
+          },
+          {
+            "audio": "だれがきた",
+            "particle": "が",
+            "meaning": "Ai đã đến?"
+          },
+          {
+            "audio": "いつですか",
+            "particle": "か",
+            "meaning": "Khi nào?"
+          },
+          {
+            "audio": "あめがふる",
+            "particle": "が",
+            "meaning": "Mưa rơi"
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_4": {
+    "title": "ふ・し・ち - Âm đặc biệt",
+    "description": "Phân biệt các âm không có trong tiếng Việt",
+
+    "exercises": [
+      {
+        "id": "L4_01",
+        "type": "fu_recognition",
+        "instruction": "Nghe và xác định có âm ふ hay không",
+        "items": [
+          { "audio": "ふじさん", "has_fu": true, "meaning": "núi Phú Sĩ" },
+          { "audio": "ふゆ", "has_fu": true, "meaning": "mùa đông" },
+          { "audio": "ひと", "has_fu": false, "meaning": "người" },
+          { "audio": "ふく", "has_fu": true, "meaning": "quần áo" },
+          { "audio": "はな", "has_fu": false, "meaning": "hoa" },
+          { "audio": "ふね", "has_fu": true, "meaning": "thuyền" },
+          { "audio": "ほん", "has_fu": false, "meaning": "sách" },
+          { "audio": "ふたり", "has_fu": true, "meaning": "hai người" }
+        ]
+      },
+      {
+        "id": "L4_02",
+        "type": "shi_chi_distinction",
+        "instruction": "Nghe và chọn: し hay ち?",
+        "items": [
+          { "audio": "しる", "answer": "し", "meaning": "biết" },
+          { "audio": "ちる", "answer": "ち", "meaning": "rơi/rụng" },
+          { "audio": "しま", "answer": "し", "meaning": "đảo" },
+          { "audio": "ちま", "answer": "ち", "meaning": "(không có)" },
+          { "audio": "した", "answer": "し", "meaning": "dưới/lưỡi" },
+          { "audio": "ちた", "answer": "ち", "meaning": "(không có)" },
+          { "audio": "かし", "answer": "し", "meaning": "cho vay" },
+          { "audio": "かち", "answer": "ち", "meaning": "thắng" },
+          { "audio": "しち", "answer": "cả hai", "meaning": "bảy", "note": "7 = しち" }
+        ]
+      },
+      {
+        "id": "L4_03",
+        "type": "word_with_special_sounds",
+        "instruction": "Nghe từ và chọn cách viết đúng",
+        "items": [
+          {
+            "audio": "ふじさん",
+            "options": ["ふじさん", "ひじさん", "はじさん"],
+            "answer": 0
+          },
+          {
+            "audio": "しごと",
+            "options": ["ちごと", "しごと", "じごと"],
+            "answer": 1
+          },
+          {
+            "audio": "ちいさい",
+            "options": ["しいさい", "ちいさい", "じいさい"],
+            "answer": 1
+          },
+          {
+            "audio": "ふつう",
+            "options": ["ふつう", "ひつう", "はつう"],
+            "answer": 0
+          },
+          {
+            "audio": "しち",
+            "options": ["しち", "ちち", "しし"],
+            "answer": 0,
+            "meaning": "bảy"
+          }
+        ]
+      },
+      {
+        "id": "L4_04",
+        "type": "katakana_fu_variations",
+        "instruction": "Nghe từ Katakana và chọn đáp án đúng",
+        "items": [
+          {
+            "audio": "コーヒー",
+            "options": ["コーヒー", "コーフィー"],
+            "answer": 0,
+            "meaning": "cà phê"
+          },
+          {
+            "audio": "カフェ",
+            "options": ["カヘ", "カフェ"],
+            "answer": 1,
+            "meaning": "quán cà phê"
+          },
+          {
+            "audio": "ファン",
+            "options": ["ファン", "ハン"],
+            "answer": 0,
+            "meaning": "fan"
+          },
+          {
+            "audio": "フォーク",
+            "options": ["フォーク", "ホーク"],
+            "answer": 0,
+            "meaning": "nĩa"
+          }
+        ]
+      },
+      {
+        "id": "L4_05",
+        "type": "mixed_special_sounds",
+        "instruction": "Nghe câu và đếm số âm đặc biệt (ふ, し, ち)",
+        "items": [
+          {
+            "audio": "ふゆはさむい",
+            "sounds": { "ふ": 1, "し": 0, "ち": 0 },
+            "meaning": "Mùa đông lạnh"
+          },
+          {
+            "audio": "しごとがいそがしい",
+            "sounds": { "ふ": 0, "し": 2, "ち": 0 },
+            "meaning": "Công việc bận"
+          },
+          {
+            "audio": "ちいさいふね",
+            "sounds": { "ふ": 1, "し": 0, "ち": 1 },
+            "meaning": "Thuyền nhỏ"
+          },
+          {
+            "audio": "しちじにおきる",
+            "sounds": { "ふ": 0, "し": 1, "ち": 1 },
+            "meaning": "Dậy lúc 7 giờ"
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_5": {
+    "title": "Tổng hợp - Nghe hiểu thực tế",
+    "description": "Kết hợp tất cả các âm khó trong ngữ cảnh thực tế",
+
+    "exercises": [
+      {
+        "id": "L5_01",
+        "type": "comprehensive_listening",
+        "instruction": "Nghe đoạn hội thoại và trả lời câu hỏi",
+        "dialogues": [
+          {
+            "id": "D1",
+            "title": "Hỏi đường",
+            "script": [
+              "A: すみません、えきはどこですか。",
+              "B: まっすぐいって、つぎのしんごうをみぎにまがってください。",
+              "A: つぎのしんごうですね。ありがとうございます。"
+            ],
+            "questions": [
+              {
+                "question": "A muốn đi đâu?",
+                "options": ["Ga tàu", "Nhà hàng", "Công viên"],
+                "answer": 0,
+                "key_word": "えき (駅)"
+              },
+              {
+                "question": "Phải rẽ hướng nào?",
+                "options": ["Trái", "Phải", "Đi thẳng"],
+                "answer": 1,
+                "key_word": "みぎ (右)"
+              },
+              {
+                "question": "Rẽ ở đâu?",
+                "options": ["Đèn đỏ tiếp theo", "Góc phố", "Cửa hàng"],
+                "answer": 0,
+                "key_word": "つぎのしんごう"
+              }
+            ],
+            "difficult_sounds": ["つぎ (つ)", "みぎ (が vs か)", "ありがとう (ら行)"]
+          },
+          {
+            "id": "D2",
+            "title": "Nhà hàng",
+            "script": [
+              "A: すみません、ラーメンをください。",
+              "B: ラーメンですね。のみものはいかがですか。",
+              "A: みずをおねがいします。",
+              "B: かしこまりました。"
+            ],
+            "questions": [
+              {
+                "question": "A gọi món gì?",
+                "options": ["Ramen", "Sushi", "Tempura"],
+                "answer": 0,
+                "key_word": "ラーメン"
+              },
+              {
+                "question": "A muốn uống gì?",
+                "options": ["Trà", "Nước", "Bia"],
+                "answer": 1,
+                "key_word": "みず (水)"
+              }
+            ],
+            "difficult_sounds": ["ラーメン (ら行)", "みず (す vs つ)"]
+          },
+          {
+            "id": "D3",
+            "title": "Mua sắm",
+            "script": [
+              "A: このふくはいくらですか。",
+              "B: にせんえんです。",
+              "A: ちょっとたかいですね。もうすこしやすいのはありますか。",
+              "B: こちらはせんごひゃくえんです。"
+            ],
+            "questions": [
+              {
+                "question": "Cái áo đầu giá bao nhiêu?",
+                "options": ["1500 yên", "2000 yên", "2500 yên"],
+                "answer": 1,
+                "key_word": "にせんえん"
+              },
+              {
+                "question": "A nghĩ thế nào về giá?",
+                "options": ["Rẻ", "Đắt", "Vừa phải"],
+                "answer": 1,
+                "key_word": "たかい"
+              },
+              {
+                "question": "Cái rẻ hơn giá bao nhiêu?",
+                "options": ["1000 yên", "1500 yên", "500 yên"],
+                "answer": 1,
+                "key_word": "せんごひゃくえん"
+              }
+            ],
+            "difficult_sounds": ["ふく (ふ)", "すこし (す)", "ひゃく (voiced/voiceless)"]
+          }
+        ]
+      },
+      {
+        "id": "L5_02",
+        "type": "dictation_with_difficult_sounds",
+        "instruction": "Nghe và viết lại, chú ý các âm khó",
+        "items": [
+          {
+            "audio": "つくえのうえにほんがある",
+            "answer": "つくえのうえにほんがある",
+            "meaning": "Có sách trên bàn",
+            "difficult": ["つくえ (つ)", "うえ (え)", "ほん (vô thanh)", "が (hữu thanh)"]
+          },
+          {
+            "audio": "らいしゅうふじさんにいく",
+            "answer": "らいしゅうふじさんにいく",
+            "meaning": "Tuần sau đi núi Phú Sĩ",
+            "difficult": ["らいしゅう (ら行)", "ふじさん (ふ)"]
+          },
+          {
+            "audio": "にほんごをべんきょうする",
+            "answer": "にほんごをべんきょうする",
+            "meaning": "Học tiếng Nhật",
+            "difficult": ["する (す)", "べんきょう (voiced)"]
+          },
+          {
+            "audio": "ちいさいつきがみえる",
+            "answer": "ちいさいつきがみえる",
+            "meaning": "Thấy mặt trăng nhỏ",
+            "difficult": ["ちいさい (ち)", "つき (つ)"]
+          }
+        ]
+      },
+      {
+        "id": "L5_03",
+        "type": "error_detection",
+        "instruction": "Nghe 2 cách phát âm và chọn cách ĐÚNG",
+        "items": [
+          {
+            "word": "ありがとう",
+            "audio_1": "ありがとう (đúng - ら flap)",
+            "audio_2": "ありがとう (sai - ら như l)",
+            "correct": 1,
+            "explanation": "ら là âm flap, không phải l"
+          },
+          {
+            "word": "ふじさん",
+            "audio_1": "ふじさん (sai - như phu)",
+            "audio_2": "ふじさん (đúng - bilabial)",
+            "correct": 2,
+            "explanation": "ふ là âm môi-môi, không dùng răng"
+          },
+          {
+            "word": "つき",
+            "audio_1": "つき (đúng - ts)",
+            "audio_2": "つき (sai - như su)",
+            "correct": 1,
+            "explanation": "つ có âm t ở đầu"
+          }
+        ]
+      },
+      {
+        "id": "L5_04",
+        "type": "speed_test",
+        "instruction": "Nghe nhanh và chọn đáp án (3 giây)",
+        "items": [
+          {
+            "audio": "つきがきれい",
+            "options": ["Mặt trăng đẹp", "Tôi thích"],
+            "answer": 0
+          },
+          {
+            "audio": "らーめんをたべる",
+            "options": ["Ăn ramen", "Ăn đồ khác"],
+            "answer": 0
+          },
+          {
+            "audio": "ふゆはさむい",
+            "options": ["Mùa đông lạnh", "Mùa hè nóng"],
+            "answer": 0
+          },
+          {
+            "audio": "がっこうにいく",
+            "options": ["Đi học", "Về nhà"],
+            "answer": 0
+          },
+          {
+            "audio": "しちじにおきる",
+            "options": ["Dậy lúc 7h", "Ngủ lúc 7h"],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "L5_05",
+        "type": "final_challenge",
+        "instruction": "Bài tập tổng hợp cuối cùng",
+        "description": "Nghe đoạn văn dài và trả lời các câu hỏi",
+        "passage": {
+          "audio": "わたしはやまださくらです。とうきょうにすんでいます。しごとはせんせいです。にほんごをおしえています。しゅみはりょうりとどくしょです。らいしゅうふじさんにいきます。たのしみにしています。",
+          "transcript": "私は山田さくらです。東京に住んでいます。仕事は先生です。日本語を教えています。趣味は料理と読書です。来週富士山に行きます。楽しみにしています。"
+        },
+        "questions": [
+          {
+            "question": "Người nói sống ở đâu?",
+            "options": ["Osaka", "Tokyo", "Kyoto"],
+            "answer": 1
+          },
+          {
+            "question": "Nghề nghiệp là gì?",
+            "options": ["Bác sĩ", "Giáo viên", "Kỹ sư"],
+            "answer": 1
+          },
+          {
+            "question": "Dạy môn gì?",
+            "options": ["Tiếng Anh", "Tiếng Nhật", "Toán"],
+            "answer": 1
+          },
+          {
+            "question": "Sở thích là gì? (chọn 2)",
+            "options": ["Nấu ăn", "Đọc sách", "Thể thao"],
+            "answer": [0, 1]
+          },
+          {
+            "question": "Tuần sau sẽ đi đâu?",
+            "options": ["Tokyo", "Núi Phú Sĩ", "Osaka"],
+            "answer": 1
+          }
+        ],
+        "difficult_sounds_in_passage": [
+          "すんでいます (す)",
+          "せんせい (voiced/voiceless)",
+          "りょうり (ら行 + yoon)",
+          "らいしゅう (ら行)",
+          "ふじさん (ふ)",
+          "たのしみ (し)"
+        ]
+      }
+    ]
+  },
+
+  "summary": {
+    "total_exercises": 26,
+    "sounds_covered": [
+      "つ vs す",
+      "ら行 vs だ行",
+      "Hữu thanh vs Vô thanh (か/が, た/だ, さ/ざ, は/ば)",
+      "ふ (âm môi-môi)",
+      "し vs ち",
+      "Tổng hợp trong ngữ cảnh"
+    ],
+    "progression": {
+      "L1": "つ vs す - Quan trọng nhất",
+      "L2": "ら行 vs だ行 - Âm R tiếng Nhật",
+      "L3": "Hữu thanh vs Vô thanh",
+      "L4": "ふ, し, ち - Âm đặc biệt",
+      "L5": "Tổng hợp thực tế"
+    },
+    "recommended_practice": "Mỗi ngày 15-20 phút, tập trung 1 level trong 1 tuần"
+  }
+}

@@ -1,0 +1,1463 @@
+[
+  {
+    "id": "L12_FP_01",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私はコーヒーを飲みません。",
+    "sentence_translation": "Tôi không uống cà phê.",
+    "question_text": "[Phủ định động từ] 私はコーヒーを飲み（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ないです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "じゃないです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ません",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Động từ phủ định: bỏ ます → thêm ません. 飲みます → 飲みません = \"không uống\"",
+    "hint": "Phủ định động từ → ません",
+    "tags": [
+      "ません",
+      "động_từ",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_02",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は学生じゃないです。",
+    "sentence_translation": "Tôi không phải sinh viên.",
+    "question_text": "[Phủ định danh từ] 私は学生（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "じゃないです",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "くないです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ません",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Danh từ phủ định: danh từ + じゃないです / じゃありません. 学生じゃないです = \"không phải sinh viên\"",
+    "hint": "Phủ định danh từ → じゃないです",
+    "tags": [
+      "じゃないです",
+      "danh_từ",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_03",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この本は面白くないです。",
+    "sentence_translation": "Cuốn sách này không thú vị.",
+    "question_text": "[Phủ định tính từ い] この本は面白（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "じゃないです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くないです",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ い phủ định: 面白い → bỏ い → 面白くないです = \"không thú vị\"",
+    "hint": "Tính từ い phủ định: bỏ い → thêm くないです",
+    "tags": [
+      "くないです",
+      "い_tính_từ",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_04",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この部屋は静かじゃないです。",
+    "sentence_translation": "Phòng này không yên tĩnh.",
+    "question_text": "[Phủ định tính từ な] この部屋は静か（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "くないです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "じゃないです",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ません",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な phủ định: giống danh từ. 静か + じゃないです = \"không yên tĩnh\". KHÁC tính từ い (くないです)",
+    "hint": "Tính từ な phủ định giống danh từ → じゃないです",
+    "tags": [
+      "じゃないです",
+      "な_tính_từ",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_05",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "あまり食べません。",
+    "sentence_translation": "Không ăn mấy.",
+    "question_text": "[Biển báo phủ định nhẹ] （　）食べません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "まだ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ぜんぜん",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ちっとも",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "あまり",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "あまり = biển báo phủ định nhẹ: \"không...mấy/lắm\". Nhẹ hơn ぜんぜん (hoàn toàn không)",
+    "hint": "Phủ định NHẸ, \"không...mấy/lắm\" → あまり",
+    "tags": [
+      "あまり",
+      "biển_báo",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_06",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ぜんぜんわかりません。",
+    "sentence_translation": "Hoàn toàn không hiểu.",
+    "question_text": "[Biển báo phủ định MẠNH] （　）わかりません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "あまり",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ぜんぜん",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "めったに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "まだ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ぜんぜん = biển báo phủ định mạnh: \"hoàn toàn không\". Mạnh hơn あまり (không...mấy)",
+    "hint": "Phủ định MẠNH, \"hoàn toàn không\" → ぜんぜん",
+    "tags": [
+      "ぜんぜん",
+      "biển_báo",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_07",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "まだ届きません。",
+    "sentence_translation": "Chưa đến.",
+    "question_text": "[Biển báo \"chưa\"] （　）届きません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "まだ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "あまり",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ぜんぜん",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "めったに",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まだ + phủ định = \"chưa...\". Chú ý: まだ + khẳng định = \"vẫn còn\" (まだあります = vẫn còn)",
+    "hint": "\"Chưa...\" (đang chờ đợi) → まだ + phủ định",
+    "tags": [
+      "まだ",
+      "biển_báo",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_08",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この天気はよくないです。",
+    "sentence_translation": "Thời tiết này không tốt.",
+    "question_text": "[Ngoại lệ của いい] この天気は（　）ないです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "いい",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いく",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "よく",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "よい",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Ngoại lệ quan trọng: いい → よくない. Hình thức gốc là よい nên phủ định là よくない",
+    "hint": "Ngoại lệ: いい phủ định → よくない (KHÔNG phải いくない)",
+    "tags": [
+      "いい",
+      "ngoại_lệ",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_09",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "めったに遅刻しません。",
+    "sentence_translation": "Hiếm khi đi muộn.",
+    "question_text": "[Biển báo \"hiếm khi\"] （　）遅刻しません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ぜんぜん",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "あまり",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "めったに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ちっとも",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "めったに = \"hiếm khi\" (tần suất rất thấp). Luôn đi với phủ định",
+    "hint": "\"Hiếm khi...\" → めったに + phủ định",
+    "tags": [
+      "めったに",
+      "biển_báo",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_FP_10",
+    "lesson_id": 12,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ちっともわかりません。",
+    "sentence_translation": "Chẳng hiểu gì cả.",
+    "question_text": "[Phủ định mạnh + cảm xúc] （　）わかりません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "あまり",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "まだ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ぜんぜん",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ちっとも",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ちっとも = \"chẳng chút nào\" (có cảm xúc: bực bội/thất vọng). Giống ぜんぜん nhưng mang cảm xúc hơn",
+    "hint": "Phủ định mạnh + cảm xúc (bực bội, thất vọng) → ちっとも",
+    "tags": [
+      "ちっとも",
+      "biển_báo",
+      "phủ_định"
+    ]
+  },
+  {
+    "id": "L12_PR_11",
+    "lesson_id": 12,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "あまり食べません。",
+    "sentence_translation": "Không ăn mấy.",
+    "question_text": "あまり食べません → Gặp あまり ở đầu câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có PHỦ ĐỊNH NHẸ (không...mấy/lắm)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định mạnh (hoàn toàn không)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định \"chưa\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu khẳng định bình thường",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "あまり → biển báo phủ định nhẹ. Đọc thấy あまり → dự đoán: đuôi câu sẽ là phủ định, mức độ \"không...mấy\"",
+    "hint": null,
+    "tags": [
+      "あまり",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L12_PR_12",
+    "lesson_id": 12,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ぜんぜんわかりません。",
+    "sentence_translation": "Hoàn toàn không hiểu.",
+    "question_text": "ぜんぜんわかりません → Gặp ぜんぜん ở đầu câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có phủ định nhẹ (không...mấy)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định \"chưa\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có PHỦ ĐỊNH MẠNH (hoàn toàn không)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu khẳng định bình thường",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ぜんぜん → biển báo phủ định mạnh. Đọc thấy ぜんぜん → dự đoán: đuôi câu sẽ là phủ định, mức độ \"hoàn toàn không\"",
+    "hint": null,
+    "tags": [
+      "ぜんぜん",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L12_PR_13",
+    "lesson_id": 12,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "まだ届きません。",
+    "sentence_translation": "Chưa đến.",
+    "question_text": "まだ届きません → Gặp まだ + phủ định, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Phủ định nhẹ (không...mấy)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nghĩa là \"vẫn còn...\" (khẳng định)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nghĩa là \"CHƯA...\" (đang chờ đợi)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Phủ định mạnh (hoàn toàn không)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まだ + phủ định = \"chưa...\". Gặp まだ → nhìn tiếp: nếu phủ định → \"chưa\", nếu khẳng định → \"vẫn còn\"",
+    "hint": null,
+    "tags": [
+      "まだ",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L12_PR_14",
+    "lesson_id": 12,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "まだあります。",
+    "sentence_translation": "Vẫn còn.",
+    "question_text": "まだあります → Gặp まだ + KHẲNG ĐỊNH, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Phủ định mạnh",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nghĩa là \"VẪN CÒN\" (tiếp tục tồn tại)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nghĩa là \"chưa...\" (phủ định)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Phủ định nhẹ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まだ + khẳng định = \"vẫn còn\". Đây là NGOẠI LỆ: まだ không phải lúc nào cũng báo hiệu phủ định!",
+    "hint": null,
+    "tags": [
+      "まだ",
+      "khẳng_định",
+      "ngoại_lệ",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L12_PR_15",
+    "lesson_id": 12,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "めったに遅刻しません。",
+    "sentence_translation": "Hiếm khi đi muộn.",
+    "question_text": "めったに遅刻しません → Gặp めったに, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có phủ định, nghĩa là \"HIẾM KHI\"",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu khẳng định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định mạnh (hoàn toàn không)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Phủ định nhẹ (không...mấy)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "めったに → biển báo phủ định: \"hiếm khi...\". Chỉ tần suất rất thấp, luôn đi với phủ định",
+    "hint": null,
+    "tags": [
+      "めったに",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L12_PR_16",
+    "lesson_id": 12,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ちっともわかりません。",
+    "sentence_translation": "Chẳng hiểu gì cả.",
+    "question_text": "ちっともわかりません → Gặp ちっとも, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Nghĩa là \"chưa\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu khẳng định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định MẠNH + cảm xúc (chẳng chút nào)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có phủ định nhẹ (không...mấy)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ちっとも → phủ định mạnh với cảm xúc. Người nói đang bực bội/thất vọng. Giống ぜんぜん nhưng cảm xúc hơn",
+    "hint": null,
+    "tags": [
+      "ちっとも",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L12_CH_17",
+    "lesson_id": 12,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私はコーヒーを飲みません",
+    "sentence_translation": "Tôi không uống cà phê.",
+    "question_text": "私はコーヒーを飲みません",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "コーヒーを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "飲みません",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "私は = chủ đề (tôi) | コーヒーを = đối tượng (cà phê) | 飲みません = phủ định động từ (không uống). ません ở cuối → phủ định",
+    "hint": null,
+    "tags": [
+      "ません",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L12_CH_18",
+    "lesson_id": 12,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "この本は面白くないです",
+    "sentence_translation": "Cuốn sách này không thú vị.",
+    "question_text": "この本は面白くないです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この本は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "面白くないです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "この本は = chủ đề (cuốn sách này) | 面白くないです = phủ định tính từ い (không thú vị). くない → phủ định tính từ い",
+    "hint": null,
+    "tags": [
+      "くないです",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L12_CH_19",
+    "lesson_id": 12,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "今日は日曜日じゃありません",
+    "sentence_translation": "Hôm nay không phải chủ nhật.",
+    "question_text": "今日は日曜日じゃありません",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "今日は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日曜日",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "じゃありません",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "今日は = chủ đề (hôm nay) | 日曜日 = danh từ (chủ nhật) | じゃありません = phủ định danh từ (không phải). Trang trọng hơn じゃないです",
+    "hint": null,
+    "tags": [
+      "じゃありません",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L12_CH_20",
+    "lesson_id": 12,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "私はあまり日本語がわかりません",
+    "sentence_translation": "Tôi không hiểu tiếng Nhật lắm.",
+    "question_text": "私はあまり日本語がわかりません",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "あまり",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本語が",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "わかりません",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "私は = chủ đề | あまり = biển báo phủ định nhẹ | 日本語が = đối tượng năng lực (tiếng Nhật) | わかりません = phủ định (không hiểu). あまり báo trước → ません xác nhận",
+    "hint": null,
+    "tags": [
+      "あまり",
+      "chunking",
+      "nhiều_khối"
+    ]
+  },
+  {
+    "id": "L12_CH_21",
+    "lesson_id": 12,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "田中さんは今日会社に行きません",
+    "sentence_translation": "Hôm nay Tanaka không đi công ty.",
+    "question_text": "田中さんは今日会社に行きません",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "田中さんは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "今日",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "会社に",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "行きません",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "田中さんは = chủ đề | 今日 = thời gian | 会社に = điểm đến (công ty) | 行きません = phủ định (không đi)",
+    "hint": null,
+    "tags": [
+      "ません",
+      "chunking",
+      "nhiều_khối"
+    ]
+  },
+  {
+    "id": "L12_CH_22",
+    "lesson_id": 12,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "この問題は簡単ではないです",
+    "sentence_translation": "Vấn đề này không đơn giản.",
+    "question_text": "この問題は簡単ではないです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この問題は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "簡単ではないです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "この問題は = chủ đề (vấn đề này) | 簡単ではないです = phủ định tính từ な (không đơn giản). ではない = dạng trang trọng của じゃない",
+    "hint": null,
+    "tags": [
+      "ではないです",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L12_PD_23",
+    "lesson_id": 12,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "食べません / 学生じゃないです",
+    "sentence_translation": "Không ăn. / Không phải sinh viên.",
+    "question_text": "Câu nào là phủ định ĐỘNG TỪ?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "食べません (ません = phủ định động từ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "学生じゃないです (じゃないです = phủ định danh từ)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ません = phủ định động từ. じゃないです = phủ định danh từ/tính từ な. Hai dạng KHÁC nhau!",
+    "hint": null,
+    "tags": [
+      "ません",
+      "じゃないです",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L12_PD_24",
+    "lesson_id": 12,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あまり食べません / ぜんぜん食べません",
+    "sentence_translation": "Không ăn mấy. / Hoàn toàn không ăn.",
+    "question_text": "Câu nào phủ định MẠNH hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "ぜんぜん食べません (ぜんぜん = hoàn toàn không, phủ định mạnh)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "あまり食べません (あまり = không...mấy, phủ định nhẹ)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "あまり = phủ định nhẹ \"không...mấy/lắm\". ぜんぜん = phủ định mạnh \"hoàn toàn không\". Mức độ khác nhau!",
+    "hint": null,
+    "tags": [
+      "あまり",
+      "ぜんぜん",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L12_PD_25",
+    "lesson_id": 12,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "まだ届きません / まだあります",
+    "sentence_translation": "Chưa đến. / Vẫn còn.",
+    "question_text": "Câu nào có nghĩa \"CHƯA\"?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "まだ届きません (まだ + phủ định = \"chưa\")",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "まだあります (まだ + khẳng định = \"vẫn còn\")",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まだ + phủ định = \"chưa...\" (đang chờ đợi). まだ + khẳng định = \"vẫn còn\" (tiếp tục). Cùng まだ nhưng nghĩa khác hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "まだ",
+      "phân_biệt",
+      "ngoại_lệ"
+    ]
+  },
+  {
+    "id": "L12_PD_26",
+    "lesson_id": 12,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "面白くないです / 静かじゃないです",
+    "sentence_translation": "Không thú vị. / Không yên tĩnh.",
+    "question_text": "Câu nào là phủ định TÍNH TỪ い?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "静かじゃないです (じゃないです = phủ định tính từ な)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "面白くないです (くないです = phủ định tính từ い)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ い: bỏ い → thêm くないです. Tính từ な: thêm じゃないです (giống danh từ). Cách phủ định KHÁC nhau!",
+    "hint": null,
+    "tags": [
+      "くないです",
+      "じゃないです",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L12_PK_27",
+    "lesson_id": 12,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あまり日本語がわかりません。",
+    "sentence_translation": "Không hiểu tiếng Nhật lắm.",
+    "question_text": "🔒 Gặp あまり → đóng gói dự đoán?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 あまり = biển báo khẳng định → dự đoán đuôi câu です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 あまり = biển báo phủ định nhẹ → dự đoán đuôi câu ません/ない → đọc tiếp tìm nội dung chính",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 あまり = chỉ thời gian → không liên quan phủ định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 あまり = biển báo phủ định mạnh → dự đoán \"hoàn toàn không\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp あまり → 🔒 đóng gói: \"sắp phủ định nhẹ\" → giải phóng bộ nhớ → đọc tiếp tìm động từ/tính từ chính. Không cần nhớ あまり nữa, chỉ cần nhớ \"phủ định nhẹ\"",
+    "hint": null,
+    "tags": [
+      "あまり",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L12_PK_28",
+    "lesson_id": 12,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ぜんぜん面白くないです。",
+    "sentence_translation": "Hoàn toàn không thú vị.",
+    "question_text": "🔒 Gặp ぜんぜん → đóng gói dự đoán?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 ぜんぜん = phủ định nhẹ → \"không...mấy\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ぜんぜん = biển báo phủ định mạnh → dự đoán đuôi câu ません/くない → \"hoàn toàn không\"",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 ぜんぜん = chỉ thời gian → \"vẫn chưa\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ぜんぜん = khẳng định → \"hoàn toàn tốt\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp ぜんぜん → 🔒 đóng gói: \"sắp phủ định MẠNH\" → giải phóng bộ nhớ → đọc tiếp. Xác nhận khi gặp くないです (phủ định tính từ い)",
+    "hint": null,
+    "tags": [
+      "ぜんぜん",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L12_PK_29",
+    "lesson_id": 12,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "まだ届きません。",
+    "sentence_translation": "Chưa đến.",
+    "question_text": "🔒 Gặp まだ → đóng gói dự đoán?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 まだ = luôn là khẳng định → \"vẫn còn\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 まだ = không liên quan phủ định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 まだ = cần nhìn tiếp: nếu phủ định → \"chưa...\", nếu khẳng định → \"vẫn còn\"",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 まだ = luôn là phủ định → \"chưa...\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp まだ → 🔒 đóng gói: \"có thể phủ định HOẶC khẳng định\" → chưa chắc chắn → đọc tiếp để xác nhận. Đây là biển báo ĐẶC BIỆT: cần kiểm tra đuôi câu!",
+    "hint": null,
+    "tags": [
+      "まだ",
+      "đóng_gói",
+      "ngoại_lệ"
+    ]
+  },
+  {
+    "id": "L12_RO_30",
+    "lesson_id": 12,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私はコーヒーを飲みません。",
+    "sentence_translation": "Tôi không uống cà phê.",
+    "question_text": "私はコーヒーを飲みません。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "飲みません",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "コーヒーを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "私は (chủ đề) → コーヒーを (đối tượng) → 飲みません (phủ định động từ). Phủ định luôn ở cuối câu",
+    "hint": null,
+    "tags": [
+      "ません",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L12_RO_31",
+    "lesson_id": 12,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "この本は面白くないです。",
+    "sentence_translation": "Cuốn sách này không thú vị.",
+    "question_text": "この本は面白くないです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "面白くないです",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "この本は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "この本は (chủ đề) → 面白くないです (phủ định tính từ い). Phủ định ở cuối câu",
+    "hint": null,
+    "tags": [
+      "くないです",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L12_RO_32",
+    "lesson_id": 12,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "私はあまり日本語がわかりません。",
+    "sentence_translation": "Tôi không hiểu tiếng Nhật lắm.",
+    "question_text": "私はあまり日本語がわかりません。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "わかりません",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "日本語が",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "あまり",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "私は (chủ đề) → あまり (biển báo phủ định) → 日本語が (đối tượng năng lực) → わかりません (phủ định). Biển báo あまり đi trước, phủ định ません đi cuối",
+    "hint": null,
+    "tags": [
+      "あまり",
+      "reorder",
+      "nhiều_khối"
+    ]
+  },
+  {
+    "id": "L12_RO_33",
+    "lesson_id": 12,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "田中さんは今日会社に行きません。",
+    "sentence_translation": "Hôm nay Tanaka không đi công ty.",
+    "question_text": "田中さんは今日会社に行きません。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "行きません",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "会社に",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "今日",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "田中さんは",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "田中さんは (chủ đề) → 今日 (thời gian) → 会社に (điểm đến) → 行きません (phủ định động từ)",
+    "hint": null,
+    "tags": [
+      "ません",
+      "reorder",
+      "nhiều_khối"
+    ]
+  },
+  {
+    "id": "L12_QT_34",
+    "lesson_id": 12,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは肉を食べません。",
+    "sentence_translation": "Tanaka không ăn thịt.",
+    "question_text": "田中さんは / 肉を / 食べません。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tanaka chưa ăn thịt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tanaka ăn thịt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tanaka không uống thịt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tanaka không ăn thịt.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "食べません = phủ định động từ \"không ăn\". ません → phủ định đơn giản, không phải \"chưa\" (まだ)",
+    "hint": null,
+    "tags": [
+      "ません",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L12_QT_35",
+    "lesson_id": 12,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は学生じゃないです。",
+    "sentence_translation": "Tôi không phải sinh viên.",
+    "question_text": "私は / 学生 / じゃないです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi không phải giáo viên.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi không phải sinh viên.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi chưa là sinh viên.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi là sinh viên.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "じゃないです = phủ định danh từ \"không phải\". 学生じゃないです = \"không phải sinh viên\"",
+    "hint": null,
+    "tags": [
+      "じゃないです",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L12_QT_36",
+    "lesson_id": 12,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この天気はよくないです。",
+    "sentence_translation": "Thời tiết này không tốt.",
+    "question_text": "この天気は / よくないです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Thời tiết này không tốt.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Thời tiết này không đẹp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thời tiết này rất tốt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thời tiết này tốt.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いい → よくない (ngoại lệ!). KHÔNG phải いくない. Hình thức gốc là よい nên phủ định là よくない",
+    "hint": null,
+    "tags": [
+      "いい",
+      "ngoại_lệ",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L12_QT_37",
+    "lesson_id": 12,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あまり暑くないです。",
+    "sentence_translation": "Không nóng lắm.",
+    "question_text": "あまり / 暑くないです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Hoàn toàn không nóng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chưa nóng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Rất nóng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không nóng lắm.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "あまり + くないです = phủ định nhẹ \"không...lắm\". あまり chỉ mức độ nhẹ, khác ぜんぜん (hoàn toàn không)",
+    "hint": null,
+    "tags": [
+      "あまり",
+      "くないです",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L12_QT_38",
+    "lesson_id": 12,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "めったに遅刻しません。",
+    "sentence_translation": "Hiếm khi đi muộn.",
+    "question_text": "めったに / 遅刻しません。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Không đi muộn lắm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chưa đi muộn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hiếm khi đi muộn.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Hoàn toàn không đi muộn.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "めったに = \"hiếm khi\" (tần suất rất thấp). Khác あまり (không...mấy) và ぜんぜん (hoàn toàn không)",
+    "hint": null,
+    "tags": [
+      "めったに",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L12_QT_39",
+    "lesson_id": 12,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "まだあります。",
+    "sentence_translation": "Vẫn còn.",
+    "question_text": "まだ / あります。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Không có.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chưa có.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hoàn toàn không có.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vẫn còn.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "まだ + KHẲNG ĐỊNH = \"vẫn còn\". Chú ý: まだ + phủ định mới là \"chưa\". Đây là ngoại lệ của まだ!",
+    "hint": null,
+    "tags": [
+      "まだ",
+      "khẳng_định",
+      "ngoại_lệ",
+      "dịch"
+    ]
+  }
+]

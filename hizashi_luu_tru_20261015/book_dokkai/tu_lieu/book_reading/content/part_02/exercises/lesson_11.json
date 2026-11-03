@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "L11_FP_01",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この本は面白いです。",
+    "sentence_translation": "Cuốn sách này thú vị.",
+    "question_text": "この本は面白い（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "だ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "です",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ い làm vị ngữ: 面白い + です. KHÔNG cần な. Chỉ có tính từ な mới cần な trước danh từ",
+    "hint": "Tính từ い làm vị ngữ → thêm です (lịch sự)",
+    "tags": [
+      "い_vị_ngữ",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L11_FP_02",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この町はにぎやかです。",
+    "sentence_translation": "Thành phố này náo nhiệt.",
+    "question_text": "この町はにぎやか（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "だ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "です",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "いです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "なです",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な làm VỊ NGỮ: bỏ な, chỉ dùng にぎやか + です. な chỉ xuất hiện khi ĐỨNG TRƯỚC danh từ",
+    "hint": "Tính từ な làm vị ngữ → にぎやか + です (KHÔNG có な!)",
+    "tags": [
+      "な_vị_ngữ",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L11_FP_03",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "静かな部屋で勉強します。",
+    "sentence_translation": "Học trong phòng yên tĩnh.",
+    "question_text": "静か（　）部屋で勉強します。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "い",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な trước danh từ: 静か + な + 部屋. な là cầu nối bắt buộc giữa tính từ な và danh từ",
+    "hint": "Tính từ な + DANH TỪ → cần な để nối",
+    "tags": [
+      "な_trước_danh_từ"
+    ]
+  },
+  {
+    "id": "L11_FP_04",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "新しいかばんを買いました。",
+    "sentence_translation": "Đã mua cặp mới.",
+    "question_text": "新しい（　）を買いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "かばん",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "です",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ い trước danh từ: 新しい + かばん (nối thẳng). KHÔNG cần な hay の. Đây là điểm khác với tính từ な",
+    "hint": "Tính từ い + DANH TỪ → nối trực tiếp, không cần gì thêm",
+    "tags": [
+      "い_trước_danh_từ"
+    ]
+  },
+  {
+    "id": "L11_FP_05",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "きれいな花が咲いています。",
+    "sentence_translation": "Hoa đẹp đang nở.",
+    "question_text": "きれい（　）花が咲いています。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "い",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "BẪY: きれい kết thúc bằng い nhưng là tính từ な → きれいな花 (KHÔNG PHẢI きれい花). Nhớ: きれい = な-adj!",
+    "hint": "きれい TRÔNG NHƯ tính từ い nhưng thực ra là tính từ な!",
+    "tags": [
+      "きれい",
+      "bẫy",
+      "な_trước_danh_từ"
+    ]
+  },
+  {
+    "id": "L11_FP_06",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "有名な歌手がコンサートをします。",
+    "sentence_translation": "Ca sĩ nổi tiếng sẽ tổ chức hòa nhạc.",
+    "question_text": "有名（　）歌手がコンサートをします。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "い",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "BẪY: 有名 là tính từ な → 有名な歌手. Nhiều người nhầm vì chữ 有名 có âm い (めい). Nhớ: 有名 = な-adj!",
+    "hint": "有名 cũng là tính từ な (dù kết thúc bằng い trong 有名い → SAI)",
+    "tags": [
+      "有名",
+      "bẫy",
+      "な_trước_danh_từ"
+    ]
+  },
+  {
+    "id": "L11_FP_07",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "大きくて新しい家を買いました。",
+    "sentence_translation": "Đã mua nhà lớn và mới.",
+    "question_text": "大き（　）新しい家を買いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "くて",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "く",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くは",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Nối tính từ い: 大きい → 大きくて (bỏ い → くて). Đây là cách nối 2 tính từ い với nhau",
+    "hint": "Nối 2 tính từ い → い bỏ い thêm くて",
+    "tags": [
+      "い_nối",
+      "くて"
+    ]
+  },
+  {
+    "id": "L11_FP_08",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "静かできれいな町に住んでいます。",
+    "sentence_translation": "Sống ở thành phố yên tĩnh và đẹp.",
+    "question_text": "静か（　）きれいな町に住んでいます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くて",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Nối tính từ な: 静か → 静かで (な → で). Tiếp theo きれいな bổ nghĩa danh từ 町",
+    "hint": "Nối 2 tính từ な → な thành で",
+    "tags": [
+      "な_nối",
+      "で"
+    ]
+  },
+  {
+    "id": "L11_FP_09",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "広くて静かな部屋が好きです。",
+    "sentence_translation": "Thích phòng rộng và yên tĩnh.",
+    "question_text": "広（　）静かな部屋が好きです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "い",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くて",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Nối khác loại: 広い(い-adj) → 広くて + 静かな(な-adj). Tính từ い luôn dùng くて dù tính từ sau là loại nào",
+    "hint": "Nối tính từ い với tính từ な (khác loại) → い dùng くて",
+    "tags": [
+      "khác_loại",
+      "くて_nối"
+    ]
+  },
+  {
+    "id": "L11_FP_10",
+    "lesson_id": 11,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この料理はおいしくて安いです。",
+    "sentence_translation": "Món ăn này ngon và rẻ.",
+    "question_text": "この料理はおいし（　）安いです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "い",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くて",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "おいしい → おいしくて: nối 2 tính từ い. Quy tắc: bỏ い, thêm くて",
+    "hint": "Nối 2 tính từ い → くて",
+    "tags": [
+      "い_nối",
+      "くて",
+      "vị_ngữ"
+    ]
+  },
+  {
+    "id": "L11_PR_11",
+    "lesson_id": 11,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "新しいかばんを買いました。",
+    "sentence_translation": "Đã mua cặp mới.",
+    "question_text": "新しい → Gặp tính từ い trước, dự đoán tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có DANH TỪ (tính từ い bổ sung cho danh từ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Kết thúc câu (tính từ い làm vị ngữ)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có な",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ い đứng trước → dự đoán DANH TỪ sẽ xuất hiện ngay sau. 新しい + [danh từ]. Đọc nhanh hơn!",
+    "hint": null,
+    "tags": [
+      "い_trước_danh_từ",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L11_PR_12",
+    "lesson_id": 11,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "静かな部屋で勉強します。",
+    "sentence_translation": "Học trong phòng yên tĩnh.",
+    "question_text": "静かな → Gặp な sau tính từ, dự đoán tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu kết thúc",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tính từ khác",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có DANH TỪ (な là cầu nối tới danh từ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "な sau tính từ → DANH TỪ chắc chắn xuất hiện ngay sau. 静かな + [danh từ]. Thấy な = \"sắp có danh từ!\"",
+    "hint": null,
+    "tags": [
+      "な_dự_đoán",
+      "danh_từ"
+    ]
+  },
+  {
+    "id": "L11_PR_13",
+    "lesson_id": 11,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この町はにぎやかです。",
+    "sentence_translation": "Thành phố này náo nhiệt.",
+    "question_text": "この町はにぎやか... → Gặp tính từ な không có な phía sau, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có danh từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tính từ な bổ sung cho danh từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tính từ な làm VỊ NGỮ (kết thúc câu bằng です)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tính từ い",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な KHÔNG có な phía sau → đang làm vị ngữ. にぎやか + です (KHÔNG phải にぎやかな). な chỉ xuất hiện trước danh từ!",
+    "hint": null,
+    "tags": [
+      "な_vị_ngữ",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L11_PR_14",
+    "lesson_id": 11,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "大きくて新しい家",
+    "sentence_translation": "Nhà lớn và mới.",
+    "question_text": "大きくて → Gặp くて, dự đoán tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có TÍNH TỪ/DANH TỪ tiếp theo (đang liệt kê)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có trợ từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "くて = đang nối tính từ → dự đoán còn tính từ/mô tả nữa phía sau. 大きくて + [tính từ/danh từ tiếp]",
+    "hint": null,
+    "tags": [
+      "くて",
+      "dự_đoán",
+      "liệt_kê"
+    ]
+  },
+  {
+    "id": "L11_PR_15",
+    "lesson_id": 11,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "きれいな花が咲いています。",
+    "sentence_translation": "Hoa đẹp đang nở.",
+    "question_text": "きれいな → Gặp きれい + な, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "きれい là tính từ な → sắp có DANH TỪ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "きれい là tính từ い → lỗi sai",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "きれい + な → xác nhận きれい là tính từ な (dù kết thúc bằng い). な báo hiệu DANH TỪ phía sau",
+    "hint": null,
+    "tags": [
+      "きれい",
+      "bẫy",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L11_PR_16",
+    "lesson_id": 11,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "静かできれいな町",
+    "sentence_translation": "Thành phố yên tĩnh và đẹp.",
+    "question_text": "静かで → Gặp で sau tính từ な, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đang nối tính từ な → sắp có tính từ/mô tả tiếp theo",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で = ở (địa điểm)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で sau tính từ な = đang NỐI/LIỆT KÊ (không phải で địa điểm). Dự đoán: còn mô tả nữa phía sau",
+    "hint": null,
+    "tags": [
+      "な_nối",
+      "で",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L11_CH_17",
+    "lesson_id": 11,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "この本は面白いです。",
+    "sentence_translation": "Cuốn sách này thú vị.",
+    "question_text": "この本は面白いです。",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この本は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "面白いです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "この本は = chủ đề \"cuốn sách này\" | 面白いです = vị ngữ tính từ い \"thú vị\". Tính từ い làm vị ngữ → gắn thẳng vào です",
+    "hint": null,
+    "tags": [
+      "い_vị_ngữ",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L11_CH_18",
+    "lesson_id": 11,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "新しいかばんを買いました。",
+    "sentence_translation": "Đã mua cặp mới.",
+    "question_text": "新しいかばんを買いました。",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "新しい/かばんを",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "買いました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "新しい/かばん = khối tính từ + danh từ \"cặp mới\" | を = trợ từ đối tượng | 買いました = \"đã mua\". Tính từ い gắn thẳng vào danh từ",
+    "hint": null,
+    "tags": [
+      "い_trước_danh_từ",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L11_CH_19",
+    "lesson_id": 11,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "静かな部屋で勉強します。",
+    "sentence_translation": "Học trong phòng yên tĩnh.",
+    "question_text": "静かな部屋で勉強します。",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "静かな/部屋で",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "勉強します",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "静かな/部屋 = khối tính từ な + danh từ \"phòng yên tĩnh\" | で = trợ từ địa điểm | 勉強します = \"học\". な là cầu nối bắt buộc",
+    "hint": null,
+    "tags": [
+      "な_trước_danh_từ",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L11_CH_20",
+    "lesson_id": 11,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "大きくて新しい家を買いました。",
+    "sentence_translation": "Đã mua nhà lớn và mới.",
+    "question_text": "大きくて新しい家を買いました。",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "大きくて/新しい/家を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "買いました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "大きくて = tính từ い thứ nhất (nối bằng くて) | 新しい = tính từ い thứ hai | 家 = danh từ. Hai tính từ cùng bổ sung cho 家",
+    "hint": null,
+    "tags": [
+      "い_nối",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L11_CH_21",
+    "lesson_id": 11,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "広くて静かな部屋が好きです。",
+    "sentence_translation": "Thích phòng rộng và yên tĩnh.",
+    "question_text": "広くて静かな部屋が好きです。",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "広くて/静かな/部屋が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "好きです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "広くて = tính từ い (nối bằng くて) | 静かな = tính từ な (nối vào danh từ bằng な) | 部屋 = danh từ. Nối khác loại: い dùng くて, な vẫn giữ な",
+    "hint": null,
+    "tags": [
+      "khác_loại",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L11_CH_22",
+    "lesson_id": 11,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "きれいな花が咲いています。",
+    "sentence_translation": "Hoa đẹp đang nở.",
+    "question_text": "きれいな花が咲いています。",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "きれいな/花が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "咲いています",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "きれいな/花 = khối tính từ な + danh từ \"hoa đẹp\" | が = trợ từ chủ ngữ | 咲いています = \"đang nở\". Nhớ: きれい là な-adj!",
+    "hint": null,
+    "tags": [
+      "きれい",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L11_PD_23",
+    "lesson_id": 11,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この本は面白いです。/ この町はにぎやかです。",
+    "sentence_translation": "Cuốn sách này thú vị. / Thành phố này náo nhiệt.",
+    "question_text": "Câu nào dùng tính từ な làm vị ngữ?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "この本は面白いです。(面白い = tính từ い, có い ở cuối)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "この町はにぎやかです。(にぎやか = tính từ な, KHÔNG có な khi làm vị ngữ)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な làm vị ngữ: bỏ な, chỉ dùng にぎやか+です. Tính từ い: giữ nguyên 面白い+です. Dấu hiệu: い ở cuối = い-adj",
+    "hint": null,
+    "tags": [
+      "い_な",
+      "vị_ngữ",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L11_PD_24",
+    "lesson_id": 11,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "きれいな花 / 新しい花",
+    "sentence_translation": "Hoa đẹp / Hoa mới",
+    "question_text": "きれい kết thúc bằng い, tại sao lại dùng な?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "新しい花 (新しい là tính từ い → nối thẳng)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "きれいな花 (きれい là tính từ な → cần な trước danh từ)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "BẪY: きれい TRÔNG NHƯ い-adj nhưng là な-adj. Phải học thuộc: きれい, 有名, 嫌い → đều là な-adj",
+    "hint": null,
+    "tags": [
+      "きれい",
+      "bẫy",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L11_PD_25",
+    "lesson_id": 11,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "大きくて新しい家 / 静かできれいな町",
+    "sentence_translation": "Nhà lớn và mới / Thành phố yên tĩnh và đẹp",
+    "question_text": "Cách nối khác nhau như thế nào?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "大きくて (い-adj: bỏ い → くて)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "静かで (な-adj: な → で)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Nối い-adj: bỏ い thêm くて (大きい→大きくて). Nối な-adj: な thành で (静かな→静かで). Quy tắc KHÁC nhau!",
+    "hint": null,
+    "tags": [
+      "くて",
+      "で",
+      "nối",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L11_PD_26",
+    "lesson_id": 11,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この部屋は静かです。/ 静かな部屋で勉強します。",
+    "sentence_translation": "Phòng này yên tĩnh. / Học trong phòng yên tĩnh.",
+    "question_text": "Khi nào tính từ な có な, khi nào KHÔNG?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "静かな部屋 (trước danh từ → CÓ な)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "この部屋は静かです。(vị ngữ → KHÔNG có な)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Tính từ な: làm vị ngữ → bỏ な (静か+です). Trước danh từ → giữ な (静かな+部屋). Đây là quy tắc quan trọng nhất!",
+    "hint": null,
+    "tags": [
+      "な",
+      "có_không",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L11_PK_27",
+    "lesson_id": 11,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "きれいな花が咲いています。",
+    "sentence_translation": "Hoa đẹp đang nở.",
+    "question_text": "🔒 きれいな花 → đóng gói khối tính từ + danh từ?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 きれい(い-adj) + 花 → \"hoa đẹp\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 きれい(な-adj) + な + 花 → \"hoa đẹp\" → giải phóng thành 1 khối",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 きれいは + 花",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 きれい + の + 花",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: thấy きれいな花 → đóng thành 1 hình ảnh \"hoa đẹp\". Giải phóng bộ nhớ, không cần nhớ từng từ riêng lẻ nữa",
+    "hint": null,
+    "tags": [
+      "きれい",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L11_PK_28",
+    "lesson_id": 11,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "大きくて新しい家を買いました。",
+    "sentence_translation": "Đã mua nhà lớn và mới.",
+    "question_text": "🔒 大きくて新しい家 → đóng gói khối nhiều tính từ + danh từ?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 大きい + 新しい + 家 → 3 khối riêng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 大きくて(nối い) + 新しい + 家 → \"nhà lớn và mới\" → 1 khối",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 大きいで + 新しい + 家",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 大きくて + 新しいな + 家",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói nhiều tính từ: 大きくて+新しい cùng bổ sung cho 家 → đóng thành 1 hình ảnh \"nhà lớn mới\". くて = đang nối, chưa xong",
+    "hint": null,
+    "tags": [
+      "nhiều_tính_từ",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L11_PK_29",
+    "lesson_id": 11,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "広くて静かな部屋が好きです。",
+    "sentence_translation": "Thích phòng rộng và yên tĩnh.",
+    "question_text": "🔒 広くて静かな部屋 → đóng gói khối khác loại?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 広くて + 静かい + 部屋",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 広い + 静か + 部屋",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 広くて(い→くて) + 静かな(な-adj) + 部屋 → \"phòng rộng yên tĩnh\" → 1 khối",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 広いで + 静かな + 部屋 → 1 khối",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói khác loại: い-adj dùng くて, な-adj vẫn giữ な trước danh từ. Tất cả đóng thành 1 hình ảnh duy nhất",
+    "hint": null,
+    "tags": [
+      "khác_loại",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L11_RO_30",
+    "lesson_id": 11,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "おいしい料理を食べました。",
+    "sentence_translation": "Đã ăn món ngon.",
+    "question_text": "おいしい料理を食べました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "食べました",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "おいしい/料理を",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "おいしい/料理を = khối tính từ い + danh từ + trợ từ \"món ngon\" | 食べました = động từ \"đã ăn\". Tính từ い đi trước danh từ",
+    "hint": null,
+    "tags": [
+      "い_trước_danh_từ",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L11_RO_31",
+    "lesson_id": 11,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "この部屋は静かです。",
+    "sentence_translation": "Phòng này yên tĩnh.",
+    "question_text": "この部屋は静かです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "静かです",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "この部屋は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "この部屋は = chủ đề \"phòng này\" | 静かです = vị ngữ tính từ な (KHÔNG có な khi làm vị ngữ!)",
+    "hint": null,
+    "tags": [
+      "な_vị_ngữ",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L11_RO_32",
+    "lesson_id": 11,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "静かな図書館で本を読みます。",
+    "sentence_translation": "Đọc sách ở thư viện yên tĩnh.",
+    "question_text": "静かな図書館で本を読みます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "本を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "読みます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "静かな/図書館で",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "静かな/図書館で = địa điểm (tính từ な + danh từ + で) | 本を = đối tượng | 読みます = động từ. Địa điểm → đối tượng → động từ",
+    "hint": null,
+    "tags": [
+      "な_trước_danh_từ",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L11_RO_33",
+    "lesson_id": 11,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "大きくて新しい家を買いました。",
+    "sentence_translation": "Đã mua nhà lớn và mới.",
+    "question_text": "大きくて新しい家を買いました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "買いました",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "大きくて/新しい/家を",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "大きくて/新しい/家を = khối nhiều tính từ + danh từ \"nhà lớn mới\" | 買いました = \"đã mua\". くて nối 2 tính từ い",
+    "hint": null,
+    "tags": [
+      "い_nối",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L11_QT_34",
+    "lesson_id": 11,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この本は面白いです。",
+    "sentence_translation": "Cuốn sách này thú vị.",
+    "question_text": "この本は / 面白いです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Sách mới thú vị.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuốn sách này yên tĩnh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuốn sách thú vị này.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuốn sách này thú vị.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "この本は = chủ đề \"cuốn sách này\" | 面白いです = vị ngữ \"thú vị\". Tính từ い làm vị ngữ",
+    "hint": null,
+    "tags": [
+      "い_vị_ngữ",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L11_QT_35",
+    "lesson_id": 11,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "新しいかばんを買いました。",
+    "sentence_translation": "Đã mua cặp mới.",
+    "question_text": "新しい/かばんを / 買いました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đã bán cặp mới.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã mua cặp mới.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Mua cặp đẹp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cặp này mới.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "新しい+かばん = \"cặp mới\" (tính từ い trước danh từ) | 買いました = \"đã mua\"",
+    "hint": null,
+    "tags": [
+      "い_trước_danh_từ",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L11_QT_36",
+    "lesson_id": 11,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この町はにぎやかです。",
+    "sentence_translation": "Thành phố này náo nhiệt.",
+    "question_text": "この町は / にぎやかです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Thành phố này náo nhiệt.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Thành phố này yên tĩnh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thành phố này đẹp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thành phố náo nhiệt này.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "にぎやか = \"náo nhiệt\" (な-adj làm vị ngữ, KHÔNG có な). Khác với にぎやかな町 (trước danh từ)",
+    "hint": null,
+    "tags": [
+      "な_vị_ngữ",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L11_QT_37",
+    "lesson_id": 11,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "きれいな花が咲いています。",
+    "sentence_translation": "Hoa đẹp đang nở.",
+    "question_text": "きれいな/花が / 咲いています。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Hoa đang nở đẹp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đẹp quá, hoa nở.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hoa mới đang nở.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hoa đẹp đang nở.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "きれいな+花 = \"hoa đẹp\" (きれい là な-adj, cần な trước danh từ) | 咲いています = \"đang nở\"",
+    "hint": null,
+    "tags": [
+      "きれい",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L11_QT_38",
+    "lesson_id": 11,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "大きくて新しい家を買いました。",
+    "sentence_translation": "Đã mua nhà lớn và mới.",
+    "question_text": "大きくて/新しい/家を / 買いました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đã mua nhà mới và lớn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nhà mới đã lớn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã mua nhà lớn và mới.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nhà lớn này mới.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "大きくて+新しい+家 = \"nhà lớn và mới\" (くて nối 2 tính từ い) | 買いました = \"đã mua\"",
+    "hint": null,
+    "tags": [
+      "い_nối",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L11_QT_39",
+    "lesson_id": 11,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "広くて静かな部屋が好きです。",
+    "sentence_translation": "Thích phòng rộng và yên tĩnh.",
+    "question_text": "広くて/静かな/部屋が / 好きです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Phòng yên tĩnh và rộng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Phòng rộng này yên tĩnh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Phòng rộng không yên tĩnh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thích phòng rộng và yên tĩnh.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "広くて(い→くて) + 静かな(な-adj) + 部屋 = \"phòng rộng yên tĩnh\". Nối khác loại: い dùng くて, な giữ な",
+    "hint": null,
+    "tags": [
+      "khác_loại",
+      "dịch"
+    ]
+  }
+]

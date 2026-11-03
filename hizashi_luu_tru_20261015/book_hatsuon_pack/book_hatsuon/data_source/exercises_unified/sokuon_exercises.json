@@ -1,0 +1,3774 @@
+{
+  "metadata": {
+    "source_file": "sokuon_exercises.json",
+    "original_title": "sokuon_exercises.json",
+    "total_questions": 151,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0000",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いた",
+        "いた"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "いた",
+        "audio_2": "いた"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0001",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いた",
+        "いった"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "いた",
+        "audio_2": "いった"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0002",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いった",
+        "いった"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "いった",
+        "audio_2": "いった"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0003",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "きて",
+        "きって"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "きて",
+        "audio_2": "きって"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0004",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "きって",
+        "きって"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "きって",
+        "audio_2": "きって"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0005",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "かた",
+        "かった"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "かた",
+        "audio_2": "かった"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0006",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "もと",
+        "もっと"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "もと",
+        "audio_2": "もっと"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0007",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "もっと",
+        "もっと"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "もっと",
+        "audio_2": "もっと"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0008",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "まて",
+        "まって"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "まて",
+        "audio_2": "まって"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0009",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "あた",
+        "あった"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "あた",
+        "audio_2": "あった"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0010",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "さか",
+        "さっか"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "さか",
+        "audio_2": "さっか"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0011",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "さっか",
+        "さっか"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "さっか",
+        "audio_2": "さっか"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0012",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "かこ",
+        "かっこ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "かこ",
+        "audio_2": "かっこ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0013",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "ねこ",
+        "ねっこ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "ねこ",
+        "audio_2": "ねっこ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_same_or_different_0014",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "はきり",
+        "はっきり"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "はきり",
+        "audio_2": "はっきり"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0015",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いた"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いた",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "いった",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "đã ở",
+          "đã đi"
+        ],
+        "romaji": [
+          "ita",
+          "itta"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0016",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いった"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いた",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いった",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "đã ở",
+          "đã đi"
+        ],
+        "romaji": [
+          "ita",
+          "itta"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0017",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きて"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きて",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "きって",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "đến đi",
+          "tem"
+        ],
+        "romaji": [
+          "kite",
+          "kitte"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0018",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きって"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きて",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きって",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "đến đi",
+          "tem"
+        ],
+        "romaji": [
+          "kite",
+          "kitte"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0019",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "かた"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "かた",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "かった",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "vai",
+          "đã mua"
+        ],
+        "romaji": [
+          "kata",
+          "katta"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0020",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "かった"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "かた",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "かった",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "vai",
+          "đã mua"
+        ],
+        "romaji": [
+          "kata",
+          "katta"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0021",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "もと"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "もと",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "もっと",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "gốc",
+          "nhiều hơn"
+        ],
+        "romaji": [
+          "moto",
+          "motto"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0022",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "もっと"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "もと",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "もっと",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "gốc",
+          "nhiều hơn"
+        ],
+        "romaji": [
+          "moto",
+          "motto"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0023",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "まって"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "まて",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "まって",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "đợi đã"
+        ],
+        "romaji": [
+          "mate",
+          "matte"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0024",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "あった"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "あた",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "あった",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "đã có"
+        ],
+        "romaji": [
+          "ata",
+          "atta"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0025",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ずっと"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ずと",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ずっと",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "mãi mãi"
+        ],
+        "romaji": [
+          "zuto",
+          "zutto"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0026",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "さか"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "さか",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "さっか",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "dốc",
+          "nhà văn"
+        ],
+        "romaji": [
+          "saka",
+          "sakka"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0027",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "さっか"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "さか",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "さっか",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "dốc",
+          "nhà văn"
+        ],
+        "romaji": [
+          "saka",
+          "sakka"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0028",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "かこ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "かこ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "かっこ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "quá khứ",
+          "ngoặc"
+        ],
+        "romaji": [
+          "kako",
+          "kakko"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0029",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "かっこ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "かこ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "かっこ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "quá khứ",
+          "ngoặc"
+        ],
+        "romaji": [
+          "kako",
+          "kakko"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0030",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ねこ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ねこ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "ねっこ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "con mèo",
+          "rễ cây"
+        ],
+        "romaji": [
+          "neko",
+          "nekko"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0031",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ねっこ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ねこ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ねっこ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "con mèo",
+          "rễ cây"
+        ],
+        "romaji": [
+          "neko",
+          "nekko"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0032",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "はっきり"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "はきり",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "はっきり",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "rõ ràng"
+        ],
+        "romaji": [
+          "hakiri",
+          "hakkiri"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_choose_one_0033",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きっかけ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きかけ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きっかけ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "cơ hội"
+        ],
+        "romaji": [
+          "kikake",
+          "kikkake"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0034",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いた"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-ta"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0035",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いった"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-ta"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0036",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "きて"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ki-te"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0037",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "きって"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ki-Q-te"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0038",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "もと"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "mo-to"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0039",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "もっと"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "mo-Q-to"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0040",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "ねこ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ne-ko"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0041",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "ねっこ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ne-Q-ko"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0042",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "はっきり"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ha-Q-ki-ri"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0043",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "きっかけ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ki-Q-ka-ke"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_count_mora_0044",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "ずっと"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "zu-Q-to"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_odd_one_out_0045",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "いった",
+          "いった",
+          "いた",
+          "いった"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_odd_one_out_0046",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "きって",
+          "きて",
+          "きって",
+          "きって"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_odd_one_out_0047",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "もっと",
+          "もっと",
+          "もっと",
+          "もと"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L1_odd_one_out_0048",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "ねこ",
+          "ねっこ",
+          "ねっこ",
+          "ねっこ"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0049",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いさい",
+        "いっさい"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "いさい",
+        "audio_2": "いっさい"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0050",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いっさい",
+        "いっさい"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "いっさい",
+        "audio_2": "いっさい"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0051",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "けせき",
+        "けっせき"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "けせき",
+        "audio_2": "けっせき"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0052",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "ざし",
+        "ざっし"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "ざし",
+        "audio_2": "ざっし"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0053",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いぱい",
+        "いっぱい"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "いぱい",
+        "audio_2": "いっぱい"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0054",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いっぱい",
+        "いっぱい"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "いっぱい",
+        "audio_2": "いっぱい"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0055",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "きぷ",
+        "きっぷ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "きぷ",
+        "audio_2": "きっぷ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0056",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "きっぷ",
+        "きっぷ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "きっぷ",
+        "audio_2": "きっぷ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0057",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "やぱり",
+        "やっぱり"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "やぱり",
+        "audio_2": "やっぱり"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_same_or_different_0058",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "にぽん",
+        "にっぽん"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "にぽん",
+        "audio_2": "にっぽん"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0059",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっさい"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いさい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっさい",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "hoàn toàn"
+        ],
+        "romaji": [
+          "isai",
+          "issai"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0060",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "けっせき"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "けせき",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "けっせき",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "vắng mặt"
+        ],
+        "romaji": [
+          "keseki",
+          "kesseki"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0061",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ざっし"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ざし",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ざっし",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "tạp chí"
+        ],
+        "romaji": [
+          "zashi",
+          "zasshi"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0062",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "マッサージ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "マサージ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "マッサージ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "massage"
+        ],
+        "romaji": [
+          "masaaji",
+          "massaaji"
+        ],
+        "mora": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0063",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっぱい"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いぱい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっぱい",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "đầy"
+        ],
+        "romaji": [
+          "ipai",
+          "ippai"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0064",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "きっぷ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "きぷ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きっぷ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "vé"
+        ],
+        "romaji": [
+          "kipu",
+          "kippu"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0065",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "やっぱり"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "やぱり",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "やっぱり",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "quả nhiên"
+        ],
+        "romaji": [
+          "yapari",
+          "yappari"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0066",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "にっぽん"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "にぽん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "にっぽん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "Nhật Bản"
+        ],
+        "romaji": [
+          "nipon",
+          "nippon"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0067",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ラップ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ラプ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ラップ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "rap"
+        ],
+        "romaji": [
+          "rapu",
+          "rappu"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_choose_one_0068",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "カップ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "カプ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "カップ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "cốc"
+        ],
+        "romaji": [
+          "kapu",
+          "kappu"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0069",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっさい"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-sa-i"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0070",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "けっせき"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ke-Q-se-ki"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0071",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "ざっし"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "za-Q-shi"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0072",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "マッサージ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ma-Q-sa-a-ji"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0073",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっぱい"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-pa-i"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0074",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "きっぷ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ki-Q-pu"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0075",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "やっぱり"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ya-Q-pa-ri"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0076",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "にっぽん"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ni-Q-po-n"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0077",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "ラップ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ra-Q-pu"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_count_mora_0078",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "カップ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ka-Q-pu"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_odd_one_out_0079",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "いっぱい",
+          "いぱい",
+          "いっぱい",
+          "いっぱい"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_odd_one_out_0080",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "ざっし",
+          "ざっし",
+          "ざし",
+          "ざっし"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L2_odd_one_out_0081",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "やぱり",
+          "やっぱり",
+          "やっぱり",
+          "やっぱり"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_same_or_different_0082",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いしょ",
+        "いっしょ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "いしょ",
+        "audio_2": "いっしょ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_same_or_different_0083",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いっしょ",
+        "いっしょ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "いっしょ",
+        "audio_2": "いっしょ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_same_or_different_0084",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "けしん",
+        "けっしん"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "けしん",
+        "audio_2": "けっしん"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_same_or_different_0085",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "まち",
+        "マッチ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "まち",
+        "audio_2": "マッチ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_same_or_different_0086",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "マッチ",
+        "マッチ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "マッチ",
+        "audio_2": "マッチ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_same_or_different_0087",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いち",
+        "いっち"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "いち",
+        "audio_2": "いっち"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_same_or_different_0088",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "スケチ",
+        "スケッチ"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "スケチ",
+        "audio_2": "スケッチ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0089",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いしょ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いしょ",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "いっしょ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "di chúc",
+          "cùng nhau"
+        ],
+        "romaji": [
+          "isho",
+          "issho"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0090",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっしょ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いしょ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっしょ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "di chúc",
+          "cùng nhau"
+        ],
+        "romaji": [
+          "isho",
+          "issho"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0091",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "けっしん"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "けしん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "けっしん",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "quyết tâm"
+        ],
+        "romaji": [
+          "keshin",
+          "kesshin"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0092",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ざっし"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ざし",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ざっし",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "tạp chí"
+        ],
+        "romaji": [
+          "zashi",
+          "zasshi"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0093",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "マッチ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "マチ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "マッチ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "diêm"
+        ],
+        "romaji": [
+          "machi",
+          "matchi"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0094",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっち"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いち",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっち",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "số 1",
+          "nhất trí"
+        ],
+        "romaji": [
+          "ichi",
+          "itchi"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0095",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "スケッチ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "スケチ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "スケッチ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "phác họa"
+        ],
+        "romaji": [
+          "sukechi",
+          "suketchi"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0096",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "コッチ"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "コチ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "コッチ",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "bên này"
+        ],
+        "romaji": [
+          "kochi",
+          "kotchi"
+        ],
+        "mora": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_choose_one_0097",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっしょうけんめい"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いしょうけんめい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっしょうけんめい",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "hết sức"
+        ],
+        "romaji": [
+          "ishoukenme",
+          "isshoukenmei"
+        ],
+        "mora": [
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_count_mora_0098",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっしょ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-sho"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_count_mora_0099",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "けっしん"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ke-Q-shi-n"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_count_mora_0100",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "ざっし"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "za-Q-shi"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_count_mora_0101",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "マッチ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ma-Q-chi"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_count_mora_0102",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっち"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-chi"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_count_mora_0103",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "スケッチ"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "su-ke-Q-chi"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_count_mora_0104",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっしょうけんめい"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-sho-u-ke-n-me-i"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_odd_one_out_0105",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "いっしょ",
+          "いっしょ",
+          "いしょ",
+          "いっしょ"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L3_odd_one_out_0106",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "マッチ",
+          "マチ",
+          "マッチ",
+          "マッチ"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ KHÔNG có âm ngắt",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Không có っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0107",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "がっこう",
+        "がっこう"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "がっこう",
+        "audio_2": "がっこう"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0108",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "がこう",
+        "がっこう"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "がこう",
+        "audio_2": "がっこう"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0109",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "がっこ",
+        "がっこう"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "がっこ",
+        "audio_2": "がっこう"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0110",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "サッカー",
+        "サッカー"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "サッカー",
+        "audio_2": "サッカー"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0111",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "サカー",
+        "サッカー"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "サカー",
+        "audio_2": "サッカー"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0112",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いっぽう",
+        "いっぽう"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "いっぽう",
+        "audio_2": "いっぽう"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0113",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いぽう",
+        "いっぽう"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "いぽう",
+        "audio_2": "いっぽう"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0114",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いっしょう",
+        "いっしょう"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "audio_1": "いっしょう",
+        "audio_2": "いっしょう"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_same_or_different_0115",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "いしょう",
+        "いっしょう"
+      ],
+      "prompt": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giống nhau (Same)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Khác nhau (Different)",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "audio_1": "いしょう",
+        "audio_2": "いっしょう"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0116",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "がこう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がっこう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "trường học"
+        ],
+        "romaji": [
+          "gakou",
+          "gakkou"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0117",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "がっこ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がっこう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "trường học"
+        ],
+        "romaji": [
+          "gakko",
+          "gakkou"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0118",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "サカー",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "サッカー",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "bóng đá"
+        ],
+        "romaji": [
+          "sakaa",
+          "sakkaa"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0119",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "サッカ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "サッカー",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "bóng đá"
+        ],
+        "romaji": [
+          "sakka",
+          "sakkaa"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0120",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっぽう"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いぽう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっぽう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "một phía"
+        ],
+        "romaji": [
+          "ipou",
+          "ippou"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0121",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "いっしょう"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "いしょう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっしょう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "cả đời"
+        ],
+        "romaji": [
+          "ishou",
+          "isshou"
+        ],
+        "mora": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0122",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "しょうがこう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "しょうがっこう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "trường tiểu học"
+        ],
+        "romaji": [
+          "shougakou",
+          "shougakkou"
+        ],
+        "mora": [
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0123",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ちゅうがっこう"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ちゅうがこう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ちゅうがっこう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "trường THCS"
+        ],
+        "romaji": [
+          "chuugakou",
+          "chuugakkou"
+        ],
+        "mora": [
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0124",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "こうこう"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "こっこう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "こうこう",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "trường cấp 3"
+        ],
+        "romaji": [
+          "kokkou",
+          "koukou"
+        ],
+        "mora": [
+          4,
+          4
+        ],
+        "note": "Không có っ!"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_choose_one_0125",
+      "base_type": "single_choice",
+      "sub_type": "choose_one",
+      "audio_ids": [
+        "ホットコーヒー"
+      ],
+      "prompt": "Nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "ホトコーヒー",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ホットコーヒー",
+          "is_correct": true
+        }
+      ],
+      "metadata": {
+        "meaning": [
+          "-",
+          "cà phê nóng"
+        ],
+        "romaji": [
+          "hotokoohii",
+          "hottokoohii"
+        ],
+        "mora": [
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_identify_features_0126",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ga-Q-ko-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_identify_features_0127",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "こうえん"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ko-u-e-n"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_identify_features_0128",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "きって"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ki-Q-te"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_identify_features_0129",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "ねこ"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ne-ko"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_identify_features_0130",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "sa-Q-ka-a"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_identify_features_0131",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "コーヒー"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ko-o-hi-i"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_identify_features_0132",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "いっぱい"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-pa-i"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_identify_features_0133",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "いっしょう"
+      ],
+      "prompt": "Nghe và xác định từ có những đặc điểm gì",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-sho-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_count_mora_0134",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ga-Q-ko-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_count_mora_0135",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "sa-Q-ka-a"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_count_mora_0136",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっぽう"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-po-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_count_mora_0137",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっしょう"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-sho-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_count_mora_0138",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "sho-u-ga-Q-ko-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_count_mora_0139",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "ちゅうがっこう"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "chu-u-ga-Q-ko-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_count_mora_0140",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "ホットコーヒー"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ho-Q-to-ko-o-hi-i"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_count_mora_0141",
+      "base_type": "counting",
+      "sub_type": "count_mora",
+      "audio_ids": [
+        "いっしょうけんめい"
+      ],
+      "prompt": "Nghe và đếm số mora",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-Q-sho-u-ke-n-me-i"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_find_sokuon_position_0142",
+      "base_type": "single_choice",
+      "sub_type": "find_sokuon_position",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe và xác định vị trí của âm ngắt (っ) trong từ (đếm từ 1)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ga-[Q]-ko-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_find_sokuon_position_0143",
+      "base_type": "single_choice",
+      "sub_type": "find_sokuon_position",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe và xác định vị trí của âm ngắt (っ) trong từ (đếm từ 1)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "sa-[Q]-ka-a"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_find_sokuon_position_0144",
+      "base_type": "single_choice",
+      "sub_type": "find_sokuon_position",
+      "audio_ids": [
+        "いっぽう"
+      ],
+      "prompt": "Nghe và xác định vị trí của âm ngắt (っ) trong từ (đếm từ 1)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "i-[Q]-po-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_find_sokuon_position_0145",
+      "base_type": "single_choice",
+      "sub_type": "find_sokuon_position",
+      "audio_ids": [
+        "きっかけ"
+      ],
+      "prompt": "Nghe và xác định vị trí của âm ngắt (っ) trong từ (đếm từ 1)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ki-[Q]-ka-ke"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_find_sokuon_position_0146",
+      "base_type": "single_choice",
+      "sub_type": "find_sokuon_position",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe và xác định vị trí của âm ngắt (っ) trong từ (đếm từ 1)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "sho-u-ga-[Q]-ko-u"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_find_sokuon_position_0147",
+      "base_type": "single_choice",
+      "sub_type": "find_sokuon_position",
+      "audio_ids": [
+        "ホットコーヒー"
+      ],
+      "prompt": "Nghe và xác định vị trí của âm ngắt (っ) trong từ (đếm từ 1)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "breakdown": "ho-[Q]-to-ko-o-hi-i"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_odd_one_out_0148",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "がっこう",
+          "がっこう",
+          "がこう",
+          "がっこう"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ THIẾU một trong hai đặc điểm (っ hoặc trường âm)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Thiếu っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_odd_one_out_0149",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "サッカー",
+          "サッカー",
+          "サッカー",
+          "サカー"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ THIẾU một trong hai đặc điểm (っ hoặc trường âm)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Thiếu っ"
+      }
+    },
+    {
+      "id": "sokuon_exercises_L4_odd_one_out_0150",
+      "base_type": "single_choice",
+      "sub_type": "odd_one_out",
+      "audio_ids": [
+        [
+          "がっこう",
+          "がっこ",
+          "がっこう",
+          "がっこう"
+        ]
+      ],
+      "prompt": "Nghe 4 từ và chọn từ THIẾU một trong hai đặc điểm (っ hoặc trường âm)",
+      "difficulty": "medium",
+      "options": [],
+      "metadata": {
+        "note": "Thiếu trường âm"
+      }
+    }
+  ]
+}

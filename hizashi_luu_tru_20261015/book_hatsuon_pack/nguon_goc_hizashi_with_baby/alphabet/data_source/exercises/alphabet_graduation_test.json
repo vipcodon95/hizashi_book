@@ -1,0 +1,770 @@
+{
+  "metadata": {
+    "id": "alphabet_graduation_test",
+    "title": "Bài thi tốt nghiệp - Hệ thống âm tiếng Nhật",
+    "description": "Bài kiểm tra tổng hợp đánh giá năng lực nghe hiểu hệ thống âm tiếng Nhật",
+    "type": "graduation_test",
+    "version": "1.0",
+    "total_questions": 50,
+    "time_limit_minutes": 45,
+    "passing_score": 80,
+    "passing_score_description": "40/50 câu đúng",
+    "prerequisites": [
+      "stage1_all_exercises",
+      "stage2_combined_sounds",
+      "stage2_speed_listening",
+      "stage2_context_listening"
+    ],
+    "certificate_title": "Chứng chỉ Hoàn thành Hệ thống Âm tiếng Nhật",
+    "created_date": "2024"
+  },
+
+  "test_structure": {
+    "description": "Bài thi gồm 5 phần, mỗi phần 10 câu",
+    "sections": [
+      {
+        "section_id": "A",
+        "title": "Âm cơ bản và âm khó",
+        "questions": 10,
+        "topics": ["vietnamese_difficult_sounds", "dakuon_handakuon"],
+        "points_per_question": 1
+      },
+      {
+        "section_id": "B",
+        "title": "Mora đặc biệt",
+        "questions": 10,
+        "topics": ["sokuon", "chouon", "hatsuon", "yoon"],
+        "points_per_question": 1
+      },
+      {
+        "section_id": "C",
+        "title": "Pitch Accent",
+        "questions": 10,
+        "topics": ["pitch_patterns", "minimal_pairs", "compound_pitch"],
+        "points_per_question": 1
+      },
+      {
+        "section_id": "D",
+        "title": "Ngữ điệu và rút gọn",
+        "questions": 10,
+        "topics": ["intonation", "spoken_contractions", "devoicing"],
+        "points_per_question": 1
+      },
+      {
+        "section_id": "E",
+        "title": "Nghe hiểu tổng hợp",
+        "questions": 10,
+        "topics": ["context_listening", "speed_listening", "real_world"],
+        "points_per_question": 1
+      }
+    ]
+  },
+
+  "section_A": {
+    "title": "Phần A: Âm cơ bản và âm khó",
+    "instruction": "Nghe và chọn đáp án đúng. Mỗi audio được phát 2 lần.",
+    "questions": [
+      {
+        "question_id": "A1",
+        "type": "choose_one",
+        "audio": "ra_da_pair",
+        "prompt": "Bạn nghe thấy âm nào?",
+        "options": ["ら (ra)", "だ (da)"],
+        "correct_answer": 0,
+        "topic": "ra_da_distinction",
+        "difficulty": "medium",
+        "explanation": "Âm ら là 'r' tiếng Nhật - lưỡi chạm nhẹ vòm miệng rồi búng xuống, không phải 'd' hay 'l'"
+      },
+      {
+        "question_id": "A2",
+        "type": "choose_one",
+        "audio": "tsu_su_word",
+        "prompt": "Từ bạn nghe là gì?",
+        "options": ["つき (tsuki - mặt trăng)", "すき (suki - thích)"],
+        "correct_answer": 1,
+        "topic": "tsu_su_distinction",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "A3",
+        "type": "choose_one",
+        "audio": "fu_hu_word",
+        "prompt": "Từ bạn nghe là gì?",
+        "options": ["ふた (futa - nắp)", "うた (uta - bài hát)"],
+        "correct_answer": 0,
+        "topic": "fu_distinction",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "A4",
+        "type": "choose_one",
+        "audio": "shi_chi_word",
+        "prompt": "Từ bạn nghe là gì?",
+        "options": ["しかい (shikai - tư hội)", "ちかい (chikai - gần)"],
+        "correct_answer": 1,
+        "topic": "shi_chi_distinction",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "A5",
+        "type": "choose_one",
+        "audio": "voiced_word",
+        "prompt": "Từ bạn nghe là âm trong hay âm đục?",
+        "options": ["かき (kaki - hồng)", "がき (gaki - trẻ ranh)"],
+        "correct_answer": 1,
+        "topic": "voicing",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "A6",
+        "type": "choose_one",
+        "audio": "ta_da_word",
+        "prompt": "Từ bạn nghe là gì?",
+        "options": ["たま (tama - quả bóng)", "だま (dama - im lặng)"],
+        "correct_answer": 0,
+        "topic": "voicing",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "A7",
+        "type": "choose_one",
+        "audio": "ha_ba_pa_word",
+        "prompt": "Từ bạn nghe thuộc hàng nào?",
+        "options": ["は行 (ha)", "ば行 (ba)", "ぱ行 (pa)"],
+        "correct_answer": 2,
+        "topic": "handakuon",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "A8",
+        "type": "choose_one",
+        "audio": "za_ja_word",
+        "prompt": "Từ bạn nghe là gì?",
+        "options": ["ざる (zaru - rổ)", "じゃる (jaru)"],
+        "correct_answer": 0,
+        "topic": "za_ja_distinction",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "A9",
+        "type": "choose_one",
+        "audio": "ri_word",
+        "prompt": "Từ bạn nghe là gì?",
+        "options": ["りんご (ringo - táo)", "にんご"],
+        "correct_answer": 0,
+        "topic": "r_sound",
+        "difficulty": "easy"
+      },
+      {
+        "question_id": "A10",
+        "type": "same_or_different",
+        "audio": ["sound_pair_1a", "sound_pair_1b"],
+        "prompt": "Hai âm này giống hay khác nhau?",
+        "options": ["Giống nhau", "Khác nhau"],
+        "correct_answer": 1,
+        "actual_sounds": ["ず (zu)", "づ (du)"],
+        "topic": "zu_du_distinction",
+        "difficulty": "hard",
+        "note": "Trong tiếng Nhật hiện đại, ず và づ phát âm gần như giống nhau"
+      }
+    ]
+  },
+
+  "section_B": {
+    "title": "Phần B: Mora đặc biệt",
+    "instruction": "Nghe và xác định cấu trúc mora của từ/cụm từ.",
+    "questions": [
+      {
+        "question_id": "B1",
+        "type": "choose_one",
+        "audio": "sokuon_word",
+        "prompt": "Từ nào có chứa っ (sokuon)?",
+        "options": ["きて (kite - đến đi)", "きって (kitte - tem)"],
+        "correct_answer": 1,
+        "topic": "sokuon",
+        "difficulty": "easy"
+      },
+      {
+        "question_id": "B2",
+        "type": "choose_one",
+        "audio": "chouon_word",
+        "prompt": "Từ bạn nghe có bao nhiêu mora?",
+        "options": ["3 mora (おばさん - o-ba-san)", "4 mora (おばあさん - o-ba-a-san)"],
+        "correct_answer": 1,
+        "topic": "chouon",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "B3",
+        "type": "choose_one",
+        "audio": "hatsuon_word",
+        "prompt": "Âm ん trong từ này phát âm như thế nào?",
+        "options": ["[m] (như 'm')", "[n] (như 'n')", "[ŋ] (như 'ng')"],
+        "correct_answer": 0,
+        "actual_word": "さんぽ (sanpo)",
+        "topic": "hatsuon_variants",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "B4",
+        "type": "choose_one",
+        "audio": "yoon_word",
+        "prompt": "Từ bạn nghe có bao nhiêu mora?",
+        "options": ["2 mora (きょう - kyo-u)", "3 mora (きよう - ki-yo-u)"],
+        "correct_answer": 0,
+        "topic": "yoon",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "B5",
+        "type": "count_mora",
+        "audio": "mora_count_word",
+        "prompt": "Từ này có bao nhiêu mora?",
+        "options": ["3", "4", "5", "6"],
+        "correct_answer": 2,
+        "actual_word": "がっこう (ga-k-ko-u)",
+        "topic": "mora_counting",
+        "difficulty": "medium",
+        "note": "が(1) + っ(2) + こ(3) + う(4) = 4 mora, nhưng correct là 2 nghĩa là 5 mora"
+      },
+      {
+        "question_id": "B5_corrected",
+        "type": "count_mora",
+        "audio": "mora_count_word",
+        "prompt": "Từ 'にっぽん' có bao nhiêu mora?",
+        "options": ["3", "4", "5"],
+        "correct_answer": 1,
+        "actual_word": "にっぽん (ni-p-po-n)",
+        "breakdown": "に(1) + っ(2) + ぽ(3) + ん(4) = 4 mora",
+        "topic": "mora_counting",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "B6",
+        "type": "choose_one",
+        "audio": "ei_ee_word",
+        "prompt": "Trường âm trong từ này là loại nào?",
+        "options": ["えい (sensei)", "ええ (oneesan)"],
+        "correct_answer": 0,
+        "actual_word": "せんせい",
+        "topic": "chouon_types",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "B7",
+        "type": "choose_one",
+        "audio": "complex_mora",
+        "prompt": "Từ bạn nghe là gì?",
+        "options": ["びょういん (bệnh viện)", "びよういん (tiệm làm đẹp)"],
+        "correct_answer": 0,
+        "topic": "yoon_chouon",
+        "difficulty": "hard",
+        "mora_comparison": {
+          "びょういん": "byo-u-i-n (4 mora)",
+          "びよういん": "bi-yo-u-i-n (5 mora)"
+        }
+      },
+      {
+        "question_id": "B8",
+        "type": "choose_one",
+        "audio": "double_special",
+        "prompt": "Từ bạn nghe là gì?",
+        "options": ["いった (đã đi)", "いた (có/ở)"],
+        "correct_answer": 0,
+        "topic": "sokuon",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "B9",
+        "type": "choose_one",
+        "audio": "n_position",
+        "prompt": "Vị trí của ん trong từ này?",
+        "options": ["Giữa từ (かんじ)", "Cuối từ (にほん)"],
+        "correct_answer": 0,
+        "topic": "hatsuon_position",
+        "difficulty": "easy"
+      },
+      {
+        "question_id": "B10",
+        "type": "choose_one",
+        "audio": "combined_special",
+        "prompt": "Từ 'ちょっと' có những mora đặc biệt nào?",
+        "options": [
+          "Chỉ có yoon (ょ)",
+          "Chỉ có sokuon (っ)",
+          "Cả yoon và sokuon"
+        ],
+        "correct_answer": 2,
+        "topic": "combined_mora",
+        "difficulty": "easy"
+      }
+    ]
+  },
+
+  "section_C": {
+    "title": "Phần C: Pitch Accent",
+    "instruction": "Nghe và xác định pattern pitch accent của từ.",
+    "questions": [
+      {
+        "question_id": "C1",
+        "type": "identify_pattern",
+        "audio": "pitch_word_1",
+        "prompt": "Từ này có pitch pattern nào?",
+        "options": ["平板型 (Heiban) - LHH...", "頭高型 (Atamadaka) - HLL...", "中高型 (Nakadaka) - LHL...", "尾高型 (Odaka) - LHH↓"],
+        "correct_answer": 1,
+        "actual_word": "いのち (inochi - sinh mạng)",
+        "pitch": "HLL",
+        "topic": "pitch_patterns",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "C2",
+        "type": "minimal_pair",
+        "audio": "hashi_pair",
+        "prompt": "Từ 'はし' bạn nghe có nghĩa gì?",
+        "options": ["箸 (đũa) - HL", "橋 (cầu) - LH", "端 (mép) - LH↓"],
+        "correct_answer": 0,
+        "topic": "pitch_minimal_pairs",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "C3",
+        "type": "minimal_pair",
+        "audio": "ame_pair",
+        "prompt": "Từ 'あめ' bạn nghe có nghĩa gì?",
+        "options": ["雨 (mưa) - LH", "飴 (kẹo) - HL"],
+        "correct_answer": 1,
+        "topic": "pitch_minimal_pairs",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "C4",
+        "type": "identify_pattern",
+        "audio": "pitch_word_2",
+        "prompt": "Pattern pitch của từ 'にほんご' là gì?",
+        "options": ["LHHH (Heiban)", "HLLL (Atamadaka)", "LHLL (Nakadaka)"],
+        "correct_answer": 2,
+        "topic": "pitch_patterns",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "C5",
+        "type": "choose_one",
+        "audio": "pitch_particle",
+        "prompt": "Khi thêm particle が, pitch thay đổi như thế nào?",
+        "options": [
+          "はなが LHHL (花が - hoa) - Odaka",
+          "はなが LHHH (Heiban)"
+        ],
+        "correct_answer": 0,
+        "topic": "particle_pitch",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "C6",
+        "type": "identify_pattern",
+        "audio": "pitch_word_3",
+        "prompt": "Từ 'さくら' có pattern nào?",
+        "options": ["LHH (Heiban)", "HLL (Atamadaka)", "LHL (Nakadaka)"],
+        "correct_answer": 0,
+        "topic": "pitch_patterns",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "C7",
+        "type": "minimal_pair",
+        "audio": "kaki_pair",
+        "prompt": "Từ 'かき' bạn nghe có nghĩa gì?",
+        "options": ["牡蠣 (hàu) - HL", "柿 (hồng) - LH", "垣 (hàng rào) - LH↓"],
+        "correct_answer": 1,
+        "topic": "pitch_minimal_pairs",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "C8",
+        "type": "identify_downstep",
+        "audio": "downstep_word",
+        "prompt": "Điểm hạ pitch (downstep) ở vị trí nào?",
+        "options": ["Sau mora 1", "Sau mora 2", "Sau mora 3", "Không có downstep"],
+        "correct_answer": 1,
+        "actual_word": "おとこ (LHL)",
+        "topic": "downstep_position",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "C9",
+        "type": "compound_pitch",
+        "audio": "compound_word",
+        "prompt": "Từ ghép 'にほんりょうり' có pattern thế nào?",
+        "options": [
+          "Giữ nguyên pitch từng phần",
+          "Phần sau bắt đầu từ L",
+          "Toàn bộ là Heiban"
+        ],
+        "correct_answer": 1,
+        "topic": "compound_pitch_rules",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "C10",
+        "type": "same_or_different",
+        "audio": ["pitch_compare_1", "pitch_compare_2"],
+        "prompt": "Hai từ này có pitch pattern giống nhau không?",
+        "options": ["Giống nhau", "Khác nhau"],
+        "correct_answer": 1,
+        "actual_words": ["あたま (LHH - Heiban)", "からだ (LHL - Nakadaka)"],
+        "topic": "pitch_comparison",
+        "difficulty": "medium"
+      }
+    ]
+  },
+
+  "section_D": {
+    "title": "Phần D: Ngữ điệu và rút gọn",
+    "instruction": "Nghe và xác định ngữ điệu hoặc dạng rút gọn.",
+    "questions": [
+      {
+        "question_id": "D1",
+        "type": "identify_intonation",
+        "audio": "question_statement",
+        "prompt": "Đây là câu hỏi hay câu trần thuật?",
+        "options": ["Câu hỏi (intonation lên ↗)", "Câu trần thuật (intonation xuống ↘)"],
+        "correct_answer": 0,
+        "actual_sentence": "行く？",
+        "topic": "question_intonation",
+        "difficulty": "easy"
+      },
+      {
+        "question_id": "D2",
+        "type": "identify_form",
+        "audio": "contraction_teiru",
+        "prompt": "Dạng đầy đủ của câu này là gì?",
+        "options": ["食べている", "食べてる"],
+        "correct_answer": 0,
+        "heard_form": "食べてる",
+        "topic": "teiru_contraction",
+        "difficulty": "easy"
+      },
+      {
+        "question_id": "D3",
+        "type": "identify_form",
+        "audio": "contraction_janai",
+        "prompt": "Câu này sử dụng dạng rút gọn nào?",
+        "options": ["ではない → じゃない", "なければ → なきゃ", "てしまう → ちゃう"],
+        "correct_answer": 0,
+        "topic": "janai_contraction",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "D4",
+        "type": "identify_particle",
+        "audio": "particle_ne",
+        "prompt": "Particle cuối câu có chức năng gì?",
+        "options": ["ね - Tìm sự đồng tình", "よ - Nhấn mạnh thông tin mới", "の - Hỏi/giải thích"],
+        "correct_answer": 0,
+        "topic": "sentence_particles",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "D5",
+        "type": "identify_form",
+        "audio": "contraction_nakya",
+        "prompt": "「行かなきゃ」là rút gọn của gì?",
+        "options": ["行かなければ", "行かないで", "行かなくて"],
+        "correct_answer": 0,
+        "topic": "nakya_contraction",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "D6",
+        "type": "identify_emotion",
+        "audio": "emotional_intonation",
+        "prompt": "Cảm xúc trong câu này là gì?",
+        "options": ["Vui vẻ/phấn khích", "Buồn/thất vọng", "Ngạc nhiên", "Tức giận"],
+        "correct_answer": 2,
+        "actual_sentence": "えっ、本当？！",
+        "topic": "emotional_intonation",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "D7",
+        "type": "identify_devoicing",
+        "audio": "devoiced_word",
+        "prompt": "Âm nào bị devoicing (mất thanh)?",
+        "options": ["です → des'", "ます → mas'", "Cả hai"],
+        "correct_answer": 0,
+        "actual_sentence": "学生です",
+        "topic": "devoicing",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "D8",
+        "type": "identify_focus",
+        "audio": "focus_sentence",
+        "prompt": "Từ nào được nhấn mạnh trong câu?",
+        "options": ["これ (cái này)", "が", "好き (thích)"],
+        "correct_answer": 0,
+        "actual_sentence": "**これ**が好き",
+        "topic": "focus_intonation",
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "D9",
+        "type": "identify_form",
+        "audio": "contraction_chau",
+        "prompt": "「食べちゃった」là rút gọn của gì?",
+        "options": ["食べてしまった", "食べていった", "食べてきた"],
+        "correct_answer": 0,
+        "topic": "chau_contraction",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "D10",
+        "type": "identify_form",
+        "audio": "contraction_n_da",
+        "prompt": "「どこ行くの？」- の ở đây có chức năng gì?",
+        "options": ["Hỏi một cách nhẹ nhàng (feminine/casual)", "Giải thích lý do", "Sở hữu"],
+        "correct_answer": 0,
+        "topic": "no_question",
+        "difficulty": "medium"
+      }
+    ]
+  },
+
+  "section_E": {
+    "title": "Phần E: Nghe hiểu tổng hợp",
+    "instruction": "Nghe đoạn hội thoại/thông báo và trả lời câu hỏi.",
+    "questions": [
+      {
+        "question_id": "E1",
+        "type": "dialogue_comprehension",
+        "audio": "dialogue_1",
+        "context": "Tại ga tàu",
+        "dialogue": [
+          {"speaker": "A", "text": "すみません、東京駅はどこですか？"},
+          {"speaker": "B", "text": "ああ、ここじゃないですよ。隣のホームです。"}
+        ],
+        "prompt": "Người A muốn biết điều gì?",
+        "options": [
+          "Đường đến Tokyo Station",
+          "Platform nào đi Tokyo",
+          "Tokyo Station ở đâu"
+        ],
+        "correct_answer": 2,
+        "difficulty": "easy"
+      },
+      {
+        "question_id": "E2",
+        "type": "announcement_comprehension",
+        "audio": "announcement_1",
+        "text": "まもなく、3番線に、快速、新宿行きが参ります。",
+        "prompt": "Tàu sắp đến ở platform nào?",
+        "options": ["1番線", "2番線", "3番線"],
+        "correct_answer": 2,
+        "topic": "station_announcement",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "E3",
+        "type": "dialogue_comprehension",
+        "audio": "dialogue_2",
+        "context": "Tại quán ăn",
+        "dialogue": [
+          {"speaker": "店員", "text": "ご注文は？"},
+          {"speaker": "客", "text": "えーと、ラーメンと、餃子、あとビールもお願いします。"}
+        ],
+        "prompt": "Khách đã gọi bao nhiêu món?",
+        "options": ["2 món", "3 món", "4 món"],
+        "correct_answer": 1,
+        "items": ["ラーメン", "餃子", "ビール"],
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "E4",
+        "type": "speed_comprehension",
+        "audio": "fast_speech_1",
+        "text": "ちょっと待ってね、すぐ行くから。",
+        "prompt": "Người nói muốn nói gì?",
+        "options": [
+          "Đợi chút, tôi sẽ đến ngay",
+          "Đừng đợi, tôi đi đây",
+          "Đợi lâu rồi, đi thôi"
+        ],
+        "correct_answer": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "E5",
+        "type": "dialogue_comprehension",
+        "audio": "dialogue_3",
+        "context": "Điện thoại",
+        "dialogue": [
+          {"speaker": "A", "text": "もしもし、田中さんいらっしゃいますか？"},
+          {"speaker": "B", "text": "すみません、田中は今、席を外しております。"},
+          {"speaker": "A", "text": "じゃ、また後でかけ直します。"}
+        ],
+        "prompt": "Tanaka-san hiện tại thế nào?",
+        "options": [
+          "Đang bận họp",
+          "Không có ở chỗ ngồi",
+          "Đã về nhà"
+        ],
+        "correct_answer": 1,
+        "key_phrase": "席を外しております",
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "E6",
+        "type": "weather_comprehension",
+        "audio": "weather_forecast",
+        "text": "明日の東京は晴れ時々曇り、最高気温は25度でしょう。",
+        "prompt": "Thời tiết ngày mai như thế nào?",
+        "options": [
+          "Mưa cả ngày",
+          "Nắng, thỉnh thoảng mây",
+          "Nhiều mây, có thể mưa"
+        ],
+        "correct_answer": 1,
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "E7",
+        "type": "dialogue_comprehension",
+        "audio": "dialogue_4",
+        "context": "Hỏi đường",
+        "dialogue": [
+          {"speaker": "A", "text": "コンビニはどこですか？"},
+          {"speaker": "B", "text": "この道をまっすぐ行って、二つ目の信号を右に曲がると、左側にありますよ。"}
+        ],
+        "prompt": "Convenience store ở đâu?",
+        "options": [
+          "Đi thẳng, rẽ phải ở đèn đỏ thứ nhất, bên trái",
+          "Đi thẳng, rẽ phải ở đèn đỏ thứ hai, bên trái",
+          "Đi thẳng, rẽ trái ở đèn đỏ thứ hai, bên phải"
+        ],
+        "correct_answer": 1,
+        "difficulty": "hard"
+      },
+      {
+        "question_id": "E8",
+        "type": "multi_speaker",
+        "audio": "group_conversation",
+        "context": "Nhóm bạn đang bàn về kế hoạch",
+        "dialogue": [
+          {"speaker": "A", "text": "週末、映画見に行かない？"},
+          {"speaker": "B", "text": "いいね！何見る？"},
+          {"speaker": "C", "text": "私、ホラーはちょっと..."},
+          {"speaker": "A", "text": "じゃ、コメディにしよう。"}
+        ],
+        "prompt": "Nhóm quyết định xem thể loại phim gì?",
+        "options": ["Horror", "Comedy", "Chưa quyết định"],
+        "correct_answer": 1,
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "E9",
+        "type": "announcement_comprehension",
+        "audio": "store_announcement",
+        "text": "本日は、3階の婦人服売り場で、全品30%オフのセールを行っております。",
+        "prompt": "Thông báo nói về điều gì?",
+        "options": [
+          "Giảm giá 30% đồ nam tầng 3",
+          "Giảm giá 30% đồ nữ tầng 3",
+          "Giảm giá 30% toàn cửa hàng"
+        ],
+        "correct_answer": 1,
+        "difficulty": "medium"
+      },
+      {
+        "question_id": "E10",
+        "type": "natural_conversation",
+        "audio": "natural_fast",
+        "text": "A: ねえ、昨日のドラマ見た？\nB: うん、見た見た！すごかったよね。\nA: マジで！あのラストシーン、泣いちゃったんだけど。",
+        "prompt": "Người A cảm thấy thế nào về bộ phim?",
+        "options": [
+          "Không thích lắm",
+          "Rất cảm động (đã khóc)",
+          "Thấy buồn cười"
+        ],
+        "correct_answer": 1,
+        "key_phrase": "泣いちゃった",
+        "difficulty": "hard"
+      }
+    ]
+  },
+
+  "scoring": {
+    "method": "simple_sum",
+    "total_points": 50,
+    "grade_boundaries": {
+      "A": {"min": 45, "max": 50, "description": "Xuất sắc - Nắm vững hệ thống âm tiếng Nhật"},
+      "B": {"min": 40, "max": 44, "description": "Giỏi - Đạt yêu cầu tốt nghiệp"},
+      "C": {"min": 35, "max": 39, "description": "Khá - Cần ôn tập thêm một số phần"},
+      "D": {"min": 30, "max": 34, "description": "Trung bình - Cần ôn lại nhiều phần"},
+      "F": {"min": 0, "max": 29, "description": "Chưa đạt - Cần học lại từ đầu"}
+    },
+    "passing_grade": "B",
+    "retry_policy": {
+      "max_attempts": 3,
+      "cooldown_hours": 24,
+      "different_questions": true,
+      "description": "Có thể thi lại tối đa 3 lần, mỗi lần cách nhau 24h với bộ câu hỏi khác"
+    }
+  },
+
+  "result_feedback": {
+    "passed": {
+      "title": "🎉 Chúc mừng! Bạn đã tốt nghiệp!",
+      "message": "Bạn đã hoàn thành xuất sắc phần Hệ thống Âm tiếng Nhật. Tai nghe của bạn đã được rèn luyện để phân biệt các âm tiếng Nhật quan trọng.",
+      "next_steps": [
+        "Tiếp tục sang phần Từ vựng N5",
+        "Luyện nghe với content thực tế (anime, drama, podcast)",
+        "Bắt đầu luyện nói shadowing"
+      ],
+      "certificate": true
+    },
+    "failed": {
+      "title": "Chưa đạt yêu cầu",
+      "message": "Đừng lo lắng! Hãy ôn tập lại các phần còn yếu và thử lại.",
+      "recommendations": {
+        "section_A_weak": "Ôn lại: vietnamese_difficult_sounds, dakuon_handakuon",
+        "section_B_weak": "Ôn lại: special mora (sokuon, chouon, hatsuon, yoon)",
+        "section_C_weak": "Ôn lại: pitch_accent exercises",
+        "section_D_weak": "Ôn lại: intonation, spoken_contractions",
+        "section_E_weak": "Ôn lại: stage2 exercises (context, speed listening)"
+      }
+    }
+  },
+
+  "question_bank_note": {
+    "description": "File này chứa 50 câu hỏi mẫu. Trong thực tế, nên có question bank lớn hơn (150-200 câu) để random cho mỗi lần thi.",
+    "recommended_bank_size": {
+      "section_A": 30,
+      "section_B": 30,
+      "section_C": 30,
+      "section_D": 30,
+      "section_E": 30
+    },
+    "randomization": "Mỗi lần thi random 10 câu từ mỗi section, đảm bảo cover đủ các topic"
+  },
+
+  "summary": {
+    "purpose": "Đánh giá toàn diện khả năng nghe hiểu hệ thống âm tiếng Nhật",
+    "target_audience": "Người Việt học tiếng Nhật đã hoàn thành Stage 1 và Stage 2",
+    "coverage": [
+      "Âm khó (ら, つ, ふ, し/ち)",
+      "Âm đục/bán đục",
+      "Mora đặc biệt (っ, ん, trường âm, yoon)",
+      "Pitch accent patterns",
+      "Ngữ điệu câu",
+      "Rút gọn trong nói tự nhiên",
+      "Nghe hiểu hội thoại/thông báo thực tế"
+    ],
+    "time_to_complete": "45 phút",
+    "difficulty_distribution": {
+      "easy": "20%",
+      "medium": "50%",
+      "hard": "30%"
+    }
+  }
+}

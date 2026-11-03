@@ -1,0 +1,1390 @@
+[
+  {
+    "id": "L09_FP_01",
+    "lesson_id": 9,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "これはペンです。",
+    "sentence_translation": "Đây là bút.",
+    "question_text": "これ（　）ペンです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "は đánh dấu chủ đề: \"nói về cái này → nó là bút\". Câu danh từ cơ bản: A は B です",
+    "hint": "Chủ đề \"đây\" → は",
+    "tags": [
+      "は",
+      "chủ_đề",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_FP_02",
+    "lesson_id": 9,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "今日は暑いです。",
+    "sentence_translation": "Hôm nay nóng.",
+    "question_text": "今日（　）暑いです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は đánh dấu chủ đề thời gian: \"nói về hôm nay → nóng\". Câu tính từ い cơ bản: A は [tính từ い]です",
+    "hint": "Chủ đề \"hôm nay\" → は",
+    "tags": [
+      "は",
+      "chủ_đề",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_FP_03",
+    "lesson_id": 9,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "これは日本の本です。",
+    "sentence_translation": "Đây là sách Nhật.",
+    "question_text": "これは日本（　）本です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "の = nối 2 danh từ: \"sách CỦA Nhật\" = sách Nhật. Tạo khối bổ nghĩa trước danh từ chính",
+    "hint": "\"Nhật\" bổ nghĩa cho \"sách\" → dùng の nối",
+    "tags": [
+      "の",
+      "liên_kết",
+      "câu_3_khối"
+    ]
+  },
+  {
+    "id": "L09_FP_04",
+    "lesson_id": 9,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は花が好きです。",
+    "sentence_translation": "Tôi thích hoa.",
+    "question_text": "私は花（　）好きです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が đánh dấu đối tượng cảm xúc: \"hoa\" là thứ được thích. Pattern: は (chủ đề) + が (đối tượng cảm xúc) + 好き/嫌い/怖い",
+    "hint": "Đối tượng cảm xúc (thích) → が",
+    "tags": [
+      "が",
+      "cảm_xúc",
+      "は_が"
+    ]
+  },
+  {
+    "id": "L09_FP_05",
+    "lesson_id": 9,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "象は鼻が長いです。",
+    "sentence_translation": "Voi thì mũi dài.",
+    "question_text": "象は鼻（　）長いです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "が đánh dấu bộ phận được mô tả: \"mũi\" là phần dài. Pattern: は (chủ đề lớn) + が (bộ phận) + tính từ",
+    "hint": "Bộ phận được mô tả → が",
+    "tags": [
+      "が",
+      "bộ_phận",
+      "は_が"
+    ]
+  },
+  {
+    "id": "L09_FP_06",
+    "lesson_id": 9,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本は食べ物がおいしいです。",
+    "sentence_translation": "Nhật Bản thì đồ ăn ngon.",
+    "question_text": "日本は食べ物（　）おいしいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が đánh dấu khía cạnh: \"đồ ăn\" là thứ ngon. は = chủ đề lớn (Nhật Bản), が = bộ phận/khía cạnh cụ thể",
+    "hint": "Bộ phận/khía cạnh được mô tả → が",
+    "tags": [
+      "が",
+      "khía_cạnh",
+      "は_が"
+    ]
+  },
+  {
+    "id": "L09_FP_07",
+    "lesson_id": 9,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは英語が上手です。",
+    "sentence_translation": "Anh Tanaka giỏi tiếng Anh.",
+    "question_text": "田中さんは英語（　）上手です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が đánh dấu đối tượng năng lực: \"tiếng Anh\" là thứ giỏi. Cùng pattern は+が: chủ đề + đối tượng cảm xúc/năng lực",
+    "hint": "Kỹ năng/đối tượng năng lực → が",
+    "tags": [
+      "が",
+      "năng_lực",
+      "は_が"
+    ]
+  },
+  {
+    "id": "L09_FP_08",
+    "lesson_id": 9,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "これは母の友達の本です。",
+    "sentence_translation": "Đây là sách của bạn mẹ.",
+    "question_text": "これは母（　）友達（　）本です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "の, が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は, の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の, の",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が, の",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "の nối chuỗi danh từ: 母の友達 = \"bạn CỦA mẹ\", 友達の本 = \"sách CỦA bạn\". Đọc từ trái → phải, thu hẹp dần",
+    "hint": "Chuỗi bổ nghĩa danh từ: mẹ → bạn → sách",
+    "tags": [
+      "の",
+      "chuỗi",
+      "câu_3_khối"
+    ]
+  },
+  {
+    "id": "L09_PR_09",
+    "lesson_id": 9,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "これはペンです。",
+    "sentence_translation": "Đây là bút.",
+    "question_text": "Gặp これは → dự đoán sắp có gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có địa điểm",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có thông tin MÔ TẢ / ĐỊNH NGHĨA \"cái này\"",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có thời gian",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は = biển báo chủ đề: \"nói về cái này thì...\" → não chờ đợi thông tin mô tả/định nghĩa phía sau",
+    "hint": null,
+    "tags": [
+      "は",
+      "dự_đoán",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_PR_10",
+    "lesson_id": 9,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "今日は暑いです。",
+    "sentence_translation": "Hôm nay nóng.",
+    "question_text": "Gặp 今日は → dự đoán sắp có gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có địa điểm",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có người",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động của \"hôm nay\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có MÔ TẢ tình trạng/đặc điểm \"hôm nay\"",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "は sau thời gian → dự đoán: \"hôm nay THÌ... sao?\". Não chờ tính từ/trạng thái mô tả",
+    "hint": null,
+    "tags": [
+      "は",
+      "dự_đoán",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_PR_11",
+    "lesson_id": 9,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は花が好きです。",
+    "sentence_translation": "Tôi thích hoa.",
+    "question_text": "Gặp が sau danh từ 花, dự đoán sắp có gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có TÍNH TỪ cảm xúc/mô tả về \"hoa\"",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động của \"hoa\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có địa điểm",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ khác",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が trong pattern は...が → dự đoán: tính từ cảm xúc (好き, 嫌い) hoặc tính từ mô tả (長い, 上手) sắp đến",
+    "hint": null,
+    "tags": [
+      "が",
+      "dự_đoán",
+      "は_が"
+    ]
+  },
+  {
+    "id": "L09_PR_12",
+    "lesson_id": 9,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "象は鼻が...",
+    "sentence_translation": "Voi thì mũi...",
+    "question_text": "Gặp 象は鼻が → dự đoán loại từ sắp xuất hiện?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có trợ từ khác",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có TÍNH TỪ mô tả bộ phận \"mũi\"",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は + が pattern: chủ đề lớn (象) đã đặt, bộ phận (鼻) đã đánh dấu bằng が → não chờ tính từ mô tả",
+    "hint": null,
+    "tags": [
+      "が",
+      "dự_đoán",
+      "bộ_phận"
+    ]
+  },
+  {
+    "id": "L09_PR_13",
+    "lesson_id": 9,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "これは日本の...",
+    "sentence_translation": "Đây là... của Nhật...",
+    "question_text": "Gặp 日本の → dự đoán sắp có gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có trợ từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tính từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có DANH TỪ được bổ nghĩa bởi \"Nhật\"",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "の = biển báo: \"danh từ bổ nghĩa sắp đến\". 日本の → chờ danh từ: 本? 映画? 食べ物? Não dự đoán trước",
+    "hint": null,
+    "tags": [
+      "の",
+      "dự_đoán",
+      "câu_3_khối"
+    ]
+  },
+  {
+    "id": "L09_PR_14",
+    "lesson_id": 9,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは英語が...",
+    "sentence_translation": "Anh Tanaka thì tiếng Anh...",
+    "question_text": "Gặp は...が liên tiếp → dự đoán cấu trúc câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu có động từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu 3 khối: chủ đề は + đối tượng が + tính từ đánh giá",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu 2 khối",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu hỏi",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は...が = tín hiệu câu 3 khối đánh giá. Chủ đề (Tanaka) + đối tượng (tiếng Anh) → chờ đánh giá (上手? 下手?)",
+    "hint": null,
+    "tags": [
+      "は_が",
+      "dự_đoán",
+      "câu_3_khối"
+    ]
+  },
+  {
+    "id": "L09_CH_15",
+    "lesson_id": 9,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "これはペンです",
+    "sentence_translation": "Đây là bút.",
+    "question_text": "これはペンです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "これは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "ペンです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "これは = chủ đề \"cái này\" | ペンです = vị ngữ \"là bút\". Câu 2 khối đơn giản nhất: [chủ đề は] + [vị ngữ です]",
+    "hint": null,
+    "tags": [
+      "は",
+      "chunking",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_CH_16",
+    "lesson_id": 9,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "今日は暑いです",
+    "sentence_translation": "Hôm nay nóng.",
+    "question_text": "今日は暑いです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "今日は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "暑いです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "今日は = chủ đề thời gian | 暑いです = vị ngữ tính từ. Câu 2 khối: [chủ đề は] + [tính từ い + です]",
+    "hint": null,
+    "tags": [
+      "は",
+      "chunking",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_CH_17",
+    "lesson_id": 9,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "これは日本の本です",
+    "sentence_translation": "Đây là sách Nhật.",
+    "question_text": "これは日本の本です",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "これは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日本の本です",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "これは = chủ đề | 日本の本です = vị ngữ (の nối \"Nhật\" + \"sách\" thành 1 cụm). Câu 2 khối, vị ngữ có の bên trong",
+    "hint": null,
+    "tags": [
+      "は",
+      "の",
+      "chunking",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_CH_18",
+    "lesson_id": 9,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "東京はとても大きいです",
+    "sentence_translation": "Tokyo rất lớn.",
+    "question_text": "東京はとても大きいです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "東京は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "とても",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "大きいです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "東京は = chủ đề | とても = trạng từ bổ nghĩa | 大きいです = vị ngữ. Câu 3 khối: [chủ đề] + [trạng từ] + [tính từ]",
+    "hint": null,
+    "tags": [
+      "は",
+      "chunking",
+      "câu_3_khối"
+    ]
+  },
+  {
+    "id": "L09_CH_19",
+    "lesson_id": 9,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は花が好きです",
+    "sentence_translation": "Tôi thích hoa.",
+    "question_text": "私は花が好きです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "花が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "好きです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "私は = chủ đề (tôi) | 花が = đối tượng cảm xúc (hoa) | 好きです = vị ngữ (thích). Câu 3 khối pattern は+が",
+    "hint": null,
+    "tags": [
+      "は",
+      "が",
+      "chunking",
+      "câu_3_khối",
+      "は_が"
+    ]
+  },
+  {
+    "id": "L09_CH_20",
+    "lesson_id": 9,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "象は鼻が長いです",
+    "sentence_translation": "Voi thì mũi dài.",
+    "question_text": "象は鼻が長いです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "象は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "鼻が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "長いです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "象は = chủ đề lớn (voi) | 鼻が = bộ phận (mũi) | 長いです = vị ngữ mô tả (dài). Câu 3 khối pattern は+が mô tả bộ phận",
+    "hint": null,
+    "tags": [
+      "は",
+      "が",
+      "chunking",
+      "câu_3_khối",
+      "は_が"
+    ]
+  },
+  {
+    "id": "L09_PD_21",
+    "lesson_id": 9,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "これはペンです。/ 今日は暑いです。",
+    "sentence_translation": "Đây là bút. / Hôm nay nóng.",
+    "question_text": "Câu nào dùng vị ngữ DANH TỪ, câu nào dùng vị ngữ TÍNH TỪ?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "これはペンです。= danh từ (ペン+です), 今日は暑いです。= tính từ い (暑い+です)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "これはペンです。= tính từ, 今日は暑いです。= danh từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Cùng cấu trúc 2 khối [は + です] nhưng khác vị ngữ: ペンです = danh từ+です (là bút), 暑いです = tính từ い+です (nóng)",
+    "hint": null,
+    "tags": [
+      "です",
+      "phân_biệt",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_PD_22",
+    "lesson_id": 9,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私は花が好きです。/ 象は鼻が長いです。",
+    "sentence_translation": "Tôi thích hoa. / Voi thì mũi dài.",
+    "question_text": "Cùng pattern は+が, nhưng が đánh dấu gì khác nhau?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "花が = đối tượng CẢM XÚC (thích), 鼻が = BỘ PHẬN được mô tả (dài)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "花が = bộ phận, 鼻が = cảm xúc",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Cùng は+が nhưng 2 nghĩa: (1) cảm xúc: が = thứ mình thích/ghét, (2) mô tả: が = bộ phận/khía cạnh nổi bật",
+    "hint": null,
+    "tags": [
+      "は_が",
+      "phân_biệt",
+      "cảm_xúc",
+      "bộ_phận"
+    ]
+  },
+  {
+    "id": "L09_PD_23",
+    "lesson_id": 9,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは先生です。/ 田中さんは英語が上手です。",
+    "sentence_translation": "Anh Tanaka là giáo viên. / Anh Tanaka giỏi tiếng Anh.",
+    "question_text": "Câu nào là 2 khối, câu nào là 3 khối?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "Cả 2 đều 3 khối",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "田中さんは先生です = 2 khối (は+vị ngữ), 田中さんは英語が上手です = 3 khối (は+が+vị ngữ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Cả 2 đều 2 khối",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Thêm が = thêm 1 khối. 2 khối: は → thẳng đến vị ngữ. 3 khối: は → が (thêm đối tượng) → vị ngữ",
+    "hint": null,
+    "tags": [
+      "câu_2_khối",
+      "câu_3_khối",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L09_PK_24",
+    "lesson_id": 9,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "これはペンです。",
+    "sentence_translation": "Đây là bút.",
+    "question_text": "🔒 これは → đóng gói và dự đoán?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"cái này\" + が = chủ ngữ → sắp có hành động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cái này\" + に = đích đến",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cái này\" + を = đối tượng → sắp bị tác động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cái này\" + は = chủ đề → dự đoán: sắp có mô tả/định nghĩa \"cái này là gì\"",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "は = biển báo chủ đề. 🔒 Đóng gói: gom \"これ\" thành hình ảnh \"cái này\" → は cho biết vai trò chủ đề → giải phóng, chờ vị ngữ",
+    "hint": null,
+    "tags": [
+      "は",
+      "đóng_gói",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_PK_25",
+    "lesson_id": 9,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私は花が好きです。",
+    "sentence_translation": "Tôi thích hoa.",
+    "question_text": "🔒 花が → đóng gói và dự đoán?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"hoa\" + を = hoa bị tác động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"hoa\" + が = chủ ngữ → sắp có hành động của hoa",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"hoa\" + が = đối tượng cảm xúc → dự đoán: sắp có tính từ cảm xúc (好き/嫌い)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"hoa\" + は = chủ đề hoa → sắp mô tả hoa",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Trong pattern は...が: が không phải chủ ngữ mà là đối tượng cảm xúc. 🔒 Đóng gói \"hoa\" → が báo hiệu → chờ tính từ cảm xúc",
+    "hint": null,
+    "tags": [
+      "が",
+      "đóng_gói",
+      "は_が"
+    ]
+  },
+  {
+    "id": "L09_PK_26",
+    "lesson_id": 9,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "象は鼻が長いです。",
+    "sentence_translation": "Voi thì mũi dài.",
+    "question_text": "🔒 象は...鼻が → đóng gói 2 lớp?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"voi\" + は = chủ đề → \"mũi\" + を = đối tượng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ cần đóng gói \"voi\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"voi\" và \"mũi\" cùng là chủ đề → chờ hành động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Lớp 1: \"voi\" + は = chủ đề lớn → Lớp 2: \"mũi\" + が = bộ phận → chờ mô tả bộ phận",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói 2 lớp: 🔒 Lớp 1: は gom \"voi\" = phạm vi lớn. 🔒 Lớp 2: が gom \"mũi\" = bộ phận cụ thể. Giải phóng dần → chờ tính từ",
+    "hint": null,
+    "tags": [
+      "は_が",
+      "đóng_gói",
+      "bộ_phận"
+    ]
+  },
+  {
+    "id": "L09_PK_27",
+    "lesson_id": 9,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "これは母の友達の本です。",
+    "sentence_translation": "Đây là sách của bạn mẹ.",
+    "question_text": "🔒 母の友達の本 → đóng gói chuỗi の?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Tách riêng: mẹ / bạn / sách → 3 hình ảnh",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 母の → \"của mẹ\" → 友達の → \"bạn của mẹ\" → 本 = \"sách của bạn mẹ\" → gom thành 1 hình ảnh",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Đọc ngược: sách → bạn → mẹ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 母の友達 → \"mẹ bạn\" → の本 = sách",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Chuỗi の: đọc từ trái → phải, mỗi の thu hẹp phạm vi. 🔒 Đóng gói dần: mẹ → bạn mẹ → sách của bạn mẹ. Cuối cùng giữ 1 hình ảnh",
+    "hint": null,
+    "tags": [
+      "の",
+      "đóng_gói",
+      "chuỗi"
+    ]
+  },
+  {
+    "id": "L09_RO_28",
+    "lesson_id": 9,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "これはペンです。",
+    "sentence_translation": "Đây là bút.",
+    "question_text": "これはペンです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "ペンです",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "これは",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Trật tự câu 2 khối: [chủ đề は] luôn đứng trước → [vị ngữ です] đứng cuối",
+    "hint": null,
+    "tags": [
+      "は",
+      "reorder",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_RO_29",
+    "lesson_id": 9,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "今日は暑いです。",
+    "sentence_translation": "Hôm nay nóng.",
+    "question_text": "今日は暑いです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "暑いです",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "今日は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Trật tự câu 2 khối: [chủ đề は] mở đầu → [tính từ い + です] kết thúc. Vị ngữ luôn cuối câu trong tiếng Nhật",
+    "hint": null,
+    "tags": [
+      "は",
+      "reorder",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_RO_30",
+    "lesson_id": 9,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "東京はとても大きいです。",
+    "sentence_translation": "Tokyo rất lớn.",
+    "question_text": "東京はとても大きいです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "大きいです",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "東京は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "とても",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Trật tự câu 3 khối: [chủ đề は] → [trạng từ] → [tính từ です]. Trạng từ đứng ngay trước tính từ nó bổ nghĩa",
+    "hint": null,
+    "tags": [
+      "は",
+      "reorder",
+      "câu_3_khối"
+    ]
+  },
+  {
+    "id": "L09_RO_31",
+    "lesson_id": 9,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "私は花が好きです。",
+    "sentence_translation": "Tôi thích hoa.",
+    "question_text": "私は花が好きです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "好きです",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "花が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Trật tự は+が: [chủ đề は] → [đối tượng が] → [vị ngữ]. Tiếng Nhật: chủ đề → chi tiết → kết luận",
+    "hint": null,
+    "tags": [
+      "は_が",
+      "reorder",
+      "câu_3_khối"
+    ]
+  },
+  {
+    "id": "L09_QT_32",
+    "lesson_id": 9,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "これはペンです。",
+    "sentence_translation": "Đây là bút.",
+    "question_text": "これは / ペンです。→ Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Bút là đây.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây thích bút.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là bút.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đây có bút.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "これは = chủ đề \"đây/cái này\" + ペンです = \"là bút\". Câu danh từ: A は B です = A là B",
+    "hint": null,
+    "tags": [
+      "は",
+      "dịch",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_QT_33",
+    "lesson_id": 9,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは先生です。",
+    "sentence_translation": "Anh Tanaka là giáo viên.",
+    "question_text": "田中さんは / 先生です。→ Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Anh Tanaka thích giáo viên.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh Tanaka có giáo viên.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Giáo viên là anh Tanaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh Tanaka là giáo viên.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "は = chủ đề, です = \"là\". Pattern: [người]は [danh từ]です = [người] là [danh từ]",
+    "hint": null,
+    "tags": [
+      "は",
+      "dịch",
+      "câu_2_khối"
+    ]
+  },
+  {
+    "id": "L09_QT_34",
+    "lesson_id": 9,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "今日は暑いです。",
+    "sentence_translation": "Hôm nay nóng.",
+    "question_text": "今日は / 暑いです。→ Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Hôm nay có nóng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm nay nóng.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nóng là hôm nay.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm nay là nóng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は = chủ đề, 暑い = tính từ い \"nóng\". Không dịch \"là nóng\" vì tính từ い tự mang nghĩa vị ngữ",
+    "hint": null,
+    "tags": [
+      "は",
+      "dịch",
+      "câu_2_khối",
+      "tính_từ"
+    ]
+  },
+  {
+    "id": "L09_QT_35",
+    "lesson_id": 9,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は花が好きです。",
+    "sentence_translation": "Tôi thích hoa.",
+    "question_text": "私は / 花が / 好きです。→ Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi thích hoa.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Hoa thích tôi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi có hoa.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi là hoa đẹp.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は = chủ đề (tôi), が = đối tượng cảm xúc (hoa), 好き = thích. Dịch tự nhiên: \"tôi THÍCH hoa\" (không dịch \"tôi thì hoa thì thích\")",
+    "hint": null,
+    "tags": [
+      "は_が",
+      "dịch",
+      "câu_3_khối"
+    ]
+  },
+  {
+    "id": "L09_QT_36",
+    "lesson_id": 9,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "象は鼻が長いです。",
+    "sentence_translation": "Voi thì mũi dài.",
+    "question_text": "象は / 鼻が / 長いです。→ Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Mũi voi là dài.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Voi có mũi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Voi thích mũi dài.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Voi (thì) mũi dài.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "は = chủ đề lớn, が = bộ phận nổi bật. Dịch tự nhiên: \"Voi thì mũi dài\" hoặc \"Mũi voi dài\". Hình ảnh: con voi với cái mũi dài",
+    "hint": null,
+    "tags": [
+      "は_が",
+      "dịch",
+      "câu_3_khối",
+      "bộ_phận"
+    ]
+  },
+  {
+    "id": "L09_QT_37",
+    "lesson_id": 9,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "これは日本の本です。",
+    "sentence_translation": "Đây là sách Nhật.",
+    "question_text": "これは / 日本の / 本です。→ Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nhật là sách này.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây thích sách Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là sách Nhật.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đây là Nhật của sách.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "の nối: 日本の本 = \"sách CỦA Nhật Bản\" = sách Nhật. Đọc: これは → \"cái này thì...\" → 日本の → \"Nhật...\" → 本です → \"sách!\"",
+    "hint": null,
+    "tags": [
+      "の",
+      "dịch",
+      "câu_3_khối"
+    ]
+  }
+]

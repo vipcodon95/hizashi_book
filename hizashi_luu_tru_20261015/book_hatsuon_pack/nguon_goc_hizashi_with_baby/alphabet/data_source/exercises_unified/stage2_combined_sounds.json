@@ -1,0 +1,1348 @@
+{
+  "metadata": {
+    "source_file": "stage2_combined_sounds.json",
+    "original_title": "Stage 2A - Kết hợp âm phức tạp",
+    "total_questions": 81,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "stage2_combined_sounds_0000_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe 'がっこう' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "trường học"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe 'サッカー' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bóng đá"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "きって"
+      ],
+      "prompt": "Nghe 'きって' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tem"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "おとうさん"
+      ],
+      "prompt": "Nghe 'おとうさん' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bố"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "いっしょう"
+      ],
+      "prompt": "Nghe 'いっしょう' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "cả đời"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "ざっし"
+      ],
+      "prompt": "Nghe 'ざっし' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tạp chí"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_06",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "コーヒー"
+      ],
+      "prompt": "Nghe 'コーヒー' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "cà phê"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_07",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "きっぷ"
+      ],
+      "prompt": "Nghe 'きっぷ' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "vé"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_08",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "ラッキー"
+      ],
+      "prompt": "Nghe 'ラッキー' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "may mắn"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0000_09",
+      "base_type": "single_choice",
+      "sub_type": "identify_features",
+      "audio_ids": [
+        "せっけん"
+      ],
+      "prompt": "Nghe 'せっけん' và nghe từ và xác định: có sokuon (っ), chouon (ー/う/い), hay cả hai?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "xà phòng"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0010_00",
+      "base_type": "counting",
+      "sub_type": "mora_counting",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe 'がっこう' và nghe và đếm chính xác số mora (っ và ー đều = 1 mora)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "breakdown": "が・っ・こ・う",
+        "answer": 4
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0010_01",
+      "base_type": "counting",
+      "sub_type": "mora_counting",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe 'サッカー' và nghe và đếm chính xác số mora (っ và ー đều = 1 mora)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "breakdown": "サ・ッ・カ・ー",
+        "answer": 4
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0010_02",
+      "base_type": "counting",
+      "sub_type": "mora_counting",
+      "audio_ids": [
+        "いっしょうけんめい"
+      ],
+      "prompt": "Nghe 'いっしょうけんめい' và nghe và đếm chính xác số mora (っ và ー đều = 1 mora)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "breakdown": "い・っ・しょ・う・け・ん・め・い",
+        "answer": 8
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0010_03",
+      "base_type": "counting",
+      "sub_type": "mora_counting",
+      "audio_ids": [
+        "コンピューター"
+      ],
+      "prompt": "Nghe 'コンピューター' và nghe và đếm chính xác số mora (っ và ー đều = 1 mora)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "breakdown": "コ・ン・ピュ・ー・タ・ー",
+        "answer": 6
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0010_04",
+      "base_type": "counting",
+      "sub_type": "mora_counting",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe 'しょうがっこう' và nghe và đếm chính xác số mora (っ và ー đều = 1 mora)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "breakdown": "しょ・う・が・っ・こ・う",
+        "answer": 6
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0010_05",
+      "base_type": "counting",
+      "sub_type": "mora_counting",
+      "audio_ids": [
+        "ちゅうがっこう"
+      ],
+      "prompt": "Nghe 'ちゅうがっこう' và nghe và đếm chính xác số mora (っ và ー đều = 1 mora)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "breakdown": "ちゅ・う・が・っ・こ・う",
+        "answer": 6
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0010_06",
+      "base_type": "counting",
+      "sub_type": "mora_counting",
+      "audio_ids": [
+        "マッサージ"
+      ],
+      "prompt": "Nghe 'マッサージ' và nghe và đếm chính xác số mora (っ và ー đều = 1 mora)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "breakdown": "マ・ッ・サ・ー・ジ",
+        "answer": 5
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0010_07",
+      "base_type": "counting",
+      "sub_type": "mora_counting",
+      "audio_ids": [
+        "アパート"
+      ],
+      "prompt": "Nghe 'アパート' và nghe và đếm chính xác số mora (っ và ー đều = 1 mora)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "breakdown": "ア・パ・ー・ト",
+        "answer": 4
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0018_00",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_complex",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe 'がっこう' và nghe và chọn từ đúng (chú ý sokuon và chouon)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "がこう (4 mora sai)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がっこう (4 mora đúng)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "がっこ (3 mora)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0018_01",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_complex",
+      "audio_ids": [
+        "いっしょう"
+      ],
+      "prompt": "Nghe 'いっしょう' và nghe và chọn từ đúng (chú ý sokuon và chouon)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "いしょう (3 mora)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっしょう (4 mora)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "いっしょ (3 mora)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0018_02",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_complex",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe 'サッカー' và nghe và chọn từ đúng (chú ý sokuon và chouon)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "サカー (3 mora)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "サッカ (3 mora)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "サッカー (4 mora)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0018_03",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_complex",
+      "audio_ids": [
+        "こうこう"
+      ],
+      "prompt": "Nghe 'こうこう' và nghe và chọn từ đúng (chú ý sokuon và chouon)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "こうこう (4 mora)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "こっこう (4 mora)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "ここう (3 mora)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "trường cấp 3",
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0022_00",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe 'がっこう' và nghe và viết lại bằng hiragana/katakana",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "trường học",
+        "answer": "がっこう"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0022_01",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "サッカー"
+      ],
+      "prompt": "Nghe 'サッカー' và nghe và viết lại bằng hiragana/katakana",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bóng đá",
+        "answer": "サッカー"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0022_02",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "いっしょうけんめい"
+      ],
+      "prompt": "Nghe 'いっしょうけんめい' và nghe và viết lại bằng hiragana/katakana",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hết sức",
+        "answer": "いっしょうけんめい"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0022_03",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe 'しょうがっこう' và nghe và viết lại bằng hiragana/katakana",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tiểu học",
+        "answer": "しょうがっこう"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0022_04",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "ラッキー"
+      ],
+      "prompt": "Nghe 'ラッキー' và nghe và viết lại bằng hiragana/katakana",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "may mắn",
+        "answer": "ラッキー"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_00",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "きょ"
+      ],
+      "prompt": "Nghe 'きょ' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "yoon_short"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_01",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "きょう"
+      ],
+      "prompt": "Nghe 'きょう' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hôm nay",
+        "answer": "yoon_long"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_02",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "りょ"
+      ],
+      "prompt": "Nghe 'りょ' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "yoon_short"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_03",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "りょう"
+      ],
+      "prompt": "Nghe 'りょう' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "yoon_long"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_04",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "しょ"
+      ],
+      "prompt": "Nghe 'しょ' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "yoon_short"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_05",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "しょう"
+      ],
+      "prompt": "Nghe 'しょう' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "yoon_long"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_06",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "じゅ"
+      ],
+      "prompt": "Nghe 'じゅ' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "yoon_short"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_07",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "じゅう"
+      ],
+      "prompt": "Nghe 'じゅう' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "mười",
+        "answer": "yoon_long"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_08",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "びょ"
+      ],
+      "prompt": "Nghe 'びょ' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "yoon_short"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0027_09",
+      "base_type": "single_choice",
+      "sub_type": "yoon_chouon_recognition",
+      "audio_ids": [
+        "びょう"
+      ],
+      "prompt": "Nghe 'びょう' và nghe và xác định: yoon ngắn (1 mora) hay yoon + chouon (2 mora)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "yoon_long"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0037_00",
+      "base_type": "single_choice",
+      "sub_type": "complex_word_analysis",
+      "audio_ids": [
+        "りょこう"
+      ],
+      "prompt": "Nghe 'りょこう' và nghe từ phức tạp và xác định tất cả các đặc điểm",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "du lịch"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0037_01",
+      "base_type": "single_choice",
+      "sub_type": "complex_word_analysis",
+      "audio_ids": [
+        "びょういん"
+      ],
+      "prompt": "Nghe 'びょういん' và nghe từ phức tạp và xác định tất cả các đặc điểm",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bệnh viện"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0037_02",
+      "base_type": "single_choice",
+      "sub_type": "complex_word_analysis",
+      "audio_ids": [
+        "じゅぎょう"
+      ],
+      "prompt": "Nghe 'じゅぎょう' và nghe từ phức tạp và xác định tất cả các đặc điểm",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tiết học"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0037_03",
+      "base_type": "single_choice",
+      "sub_type": "complex_word_analysis",
+      "audio_ids": [
+        "きょうしつ"
+      ],
+      "prompt": "Nghe 'きょうしつ' và nghe từ phức tạp và xác định tất cả các đặc điểm",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "lớp học"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0037_04",
+      "base_type": "single_choice",
+      "sub_type": "complex_word_analysis",
+      "audio_ids": [
+        "ぎゅうにゅう"
+      ],
+      "prompt": "Nghe 'ぎゅうにゅう' và nghe từ phức tạp và xác định tất cả các đặc điểm",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sữa bò"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0037_05",
+      "base_type": "single_choice",
+      "sub_type": "complex_word_analysis",
+      "audio_ids": [
+        "しゅっちょう"
+      ],
+      "prompt": "Nghe 'しゅっちょう' và nghe từ phức tạp và xác định tất cả các đặc điểm",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "công tác"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0043_00",
+      "base_type": "single_choice",
+      "sub_type": "word_building",
+      "audio_ids": [
+        "stage2_combined_sounds_0043_00_audio"
+      ],
+      "prompt": "Nghe các thành phần và ghép thành từ hoàn chỉnh",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "du lịch",
+        "answer": "りょこう"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0043_01",
+      "base_type": "single_choice",
+      "sub_type": "word_building",
+      "audio_ids": [
+        "stage2_combined_sounds_0043_01_audio"
+      ],
+      "prompt": "Nghe các thành phần và ghép thành từ hoàn chỉnh",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bệnh viện",
+        "answer": "びょういん"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0043_02",
+      "base_type": "single_choice",
+      "sub_type": "word_building",
+      "audio_ids": [
+        "stage2_combined_sounds_0043_02_audio"
+      ],
+      "prompt": "Nghe các thành phần và ghép thành từ hoàn chỉnh",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "lớp học",
+        "answer": "きょうしつ"
+      }
+    },
+    {
+      "id": "S2A_L2_04",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_yoon",
+      "audio_ids": [
+        "S2A_L2_04_audio"
+      ],
+      "prompt": "Nghe và phân biệt các từ có yoon",
+      "difficulty": "medium",
+      "topic": null,
+      "pairs": [
+        {
+          "audio": "びょういん",
+          "options": [
+            "びょういん (bệnh viện)",
+            "びよういん (tiệm làm đẹp)"
+          ],
+          "answer": 0,
+          "note": "びょ (1 mora) vs びよ (2 mora)"
+        },
+        {
+          "audio": "びよういん",
+          "options": [
+            "びょういん (bệnh viện)",
+            "びよういん (tiệm làm đẹp)"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": "りょうり",
+          "options": [
+            "りょうり (nấu ăn)",
+            "りようり (?)"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": "じゅう",
+          "options": [
+            "じゅう (mười)",
+            "じゆう (tự do)"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": "じゆう",
+          "options": [
+            "じゅう (mười)",
+            "じゆう (tự do)"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "stage2_combined_sounds_0047_00",
+      "base_type": "single_choice",
+      "sub_type": "n_variant_in_context",
+      "audio_ids": [
+        "さんぽ"
+      ],
+      "prompt": "Nghe 'さんぽ' và nghe từ và xác định cách phát âm của ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đi dạo"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0047_01",
+      "base_type": "single_choice",
+      "sub_type": "n_variant_in_context",
+      "audio_ids": [
+        "しんぶん"
+      ],
+      "prompt": "Nghe 'しんぶん' và nghe từ và xác định cách phát âm của ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "báo"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0047_02",
+      "base_type": "single_choice",
+      "sub_type": "n_variant_in_context",
+      "audio_ids": [
+        "にほんご"
+      ],
+      "prompt": "Nghe 'にほんご' và nghe từ và xác định cách phát âm của ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tiếng Nhật"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0047_03",
+      "base_type": "single_choice",
+      "sub_type": "n_variant_in_context",
+      "audio_ids": [
+        "かんたん"
+      ],
+      "prompt": "Nghe 'かんたん' và nghe từ và xác định cách phát âm của ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đơn giản"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0047_04",
+      "base_type": "single_choice",
+      "sub_type": "n_variant_in_context",
+      "audio_ids": [
+        "でんわ"
+      ],
+      "prompt": "Nghe 'でんわ' và nghe từ và xác định cách phát âm của ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "điện thoại"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0047_05",
+      "base_type": "single_choice",
+      "sub_type": "n_variant_in_context",
+      "audio_ids": [
+        "けんこう"
+      ],
+      "prompt": "Nghe 'けんこう' và nghe từ và xác định cách phát âm của ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sức khỏe"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0047_06",
+      "base_type": "single_choice",
+      "sub_type": "n_variant_in_context",
+      "audio_ids": [
+        "しんねん"
+      ],
+      "prompt": "Nghe 'しんねん' và nghe từ và xác định cách phát âm của ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "năm mới"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0054_00",
+      "base_type": "single_choice",
+      "sub_type": "n_vs_na_advanced",
+      "audio_ids": [
+        "きんえん"
+      ],
+      "prompt": "Nghe 'きんえん' và nghe và phân biệt: ん + nguyên âm hay な行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "cấm hút thuốc",
+        "answer": "n_vowel"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0054_01",
+      "base_type": "single_choice",
+      "sub_type": "n_vs_na_advanced",
+      "audio_ids": [
+        "きねん"
+      ],
+      "prompt": "Nghe 'きねん' và nghe và phân biệt: ん + nguyên âm hay な行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "kỷ niệm",
+        "answer": "na_row"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0054_02",
+      "base_type": "single_choice",
+      "sub_type": "n_vs_na_advanced",
+      "audio_ids": [
+        "てんいん"
+      ],
+      "prompt": "Nghe 'てんいん' và nghe và phân biệt: ん + nguyên âm hay な行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "nhân viên",
+        "answer": "n_vowel"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0054_03",
+      "base_type": "single_choice",
+      "sub_type": "n_vs_na_advanced",
+      "audio_ids": [
+        "ていいん"
+      ],
+      "prompt": "Nghe 'ていいん' và nghe và phân biệt: ん + nguyên âm hay な行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "số lượng quy định",
+        "answer": "long_vowel"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0054_04",
+      "base_type": "single_choice",
+      "sub_type": "n_vs_na_advanced",
+      "audio_ids": [
+        "さんい"
+      ],
+      "prompt": "Nghe 'さんい' và nghe và phân biệt: ん + nguyên âm hay な行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đồng ý",
+        "answer": "n_vowel"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0059_00",
+      "base_type": "single_choice",
+      "sub_type": "complex_n_words",
+      "audio_ids": [
+        "しんかんせん"
+      ],
+      "prompt": "Nghe 'しんかんせん' và nghe từ có nhiều ん và xác định số lượng",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tàu shinkansen"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0059_01",
+      "base_type": "single_choice",
+      "sub_type": "complex_n_words",
+      "audio_ids": [
+        "にんげん"
+      ],
+      "prompt": "Nghe 'にんげん' và nghe từ có nhiều ん và xác định số lượng",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "con người"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0059_02",
+      "base_type": "single_choice",
+      "sub_type": "complex_n_words",
+      "audio_ids": [
+        "うんてんしゅ"
+      ],
+      "prompt": "Nghe 'うんてんしゅ' và nghe từ có nhiều ん và xác định số lượng",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tài xế"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0059_03",
+      "base_type": "single_choice",
+      "sub_type": "complex_n_words",
+      "audio_ids": [
+        "かんけいない"
+      ],
+      "prompt": "Nghe 'かんけいない' và nghe từ có nhiều ん và xác định số lượng",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "không liên quan"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0059_04",
+      "base_type": "single_choice",
+      "sub_type": "complex_n_words",
+      "audio_ids": [
+        "ぶんぽう"
+      ],
+      "prompt": "Nghe 'ぶんぽう' và nghe từ có nhiều ん và xác định số lượng",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "ngữ pháp"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0064_00",
+      "base_type": "single_choice",
+      "sub_type": "ultimate_analysis",
+      "audio_ids": [
+        "しゅっちょう"
+      ],
+      "prompt": "Nghe 'しゅっちょう' và nghe và phân tích đầy đủ: mora, sokuon, chouon, yoon, ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "công tác (đi công tác)"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0064_01",
+      "base_type": "single_choice",
+      "sub_type": "ultimate_analysis",
+      "audio_ids": [
+        "いっしょうけんめい"
+      ],
+      "prompt": "Nghe 'いっしょうけんめい' và nghe và phân tích đầy đủ: mora, sokuon, chouon, yoon, ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hết sức, cố gắng hết mình"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0064_02",
+      "base_type": "single_choice",
+      "sub_type": "ultimate_analysis",
+      "audio_ids": [
+        "コンピューター"
+      ],
+      "prompt": "Nghe 'コンピューター' và nghe và phân tích đầy đủ: mora, sokuon, chouon, yoon, ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "máy tính"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0064_03",
+      "base_type": "single_choice",
+      "sub_type": "ultimate_analysis",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe 'しょうがっこう' và nghe và phân tích đầy đủ: mora, sokuon, chouon, yoon, ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "trường tiểu học"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0064_04",
+      "base_type": "single_choice",
+      "sub_type": "ultimate_analysis",
+      "audio_ids": [
+        "うんてんめんきょしょう"
+      ],
+      "prompt": "Nghe 'うんてんめんきょしょう' và nghe và phân tích đầy đủ: mora, sokuon, chouon, yoon, ん",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bằng lái xe"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0069_00",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "きょうしつ"
+      ],
+      "prompt": "Nghe 'きょうしつ' và nghe nhanh và chọn từ đúng (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "きょしつ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "きょうしつ",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "きようしつ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "lớp học",
+        "answer": 1
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0069_01",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "びょういん"
+      ],
+      "prompt": "Nghe 'びょういん' và nghe nhanh và chọn từ đúng (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "びょいん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "びよういん",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "びょういん",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "bệnh viện",
+        "answer": 2
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0069_02",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "しゅっちょう"
+      ],
+      "prompt": "Nghe 'しゅっちょう' và nghe nhanh và chọn từ đúng (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "しゅちょう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "しゅっちょう",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "しゅっちょ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "công tác",
+        "answer": 1
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0069_03",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "ぎゅうにゅう"
+      ],
+      "prompt": "Nghe 'ぎゅうにゅう' và nghe nhanh và chọn từ đúng (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "ぎゅにゅう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ぎゅうにゅう",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "ぎゆうにゆう",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "sữa bò",
+        "answer": 1
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0073_00",
+      "base_type": "single_choice",
+      "sub_type": "sentence_with_complex_words",
+      "audio_ids": [
+        "しょうがっこうでべんきょうしています"
+      ],
+      "prompt": "Nghe 'しょうがっこうでべんきょうしています' và nghe câu và xác định từ phức tạp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đang học ở trường tiểu học"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0073_01",
+      "base_type": "single_choice",
+      "sub_type": "sentence_with_complex_words",
+      "audio_ids": [
+        "らいしゅう、しゅっちょうにいきます"
+      ],
+      "prompt": "Nghe 'らいしゅう、しゅっちょうにいきます' và nghe câu và xác định từ phức tạp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Tuần sau tôi sẽ đi công tác"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0073_02",
+      "base_type": "single_choice",
+      "sub_type": "sentence_with_complex_words",
+      "audio_ids": [
+        "びょういんでけんこうしんだんをうけました"
+      ],
+      "prompt": "Nghe 'びょういんでけんこうしんだんをうけました' và nghe câu và xác định từ phức tạp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Tôi đã khám sức khỏe ở bệnh viện"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0076_00",
+      "base_type": "dictation",
+      "sub_type": "dictation_advanced",
+      "audio_ids": [
+        "しゅっちょう"
+      ],
+      "prompt": "Nghe 'しゅっちょう' và nghe và viết lại chính xác (chú ý tất cả đặc điểm)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "しゅっちょう"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0076_01",
+      "base_type": "dictation",
+      "sub_type": "dictation_advanced",
+      "audio_ids": [
+        "いっしょうけんめい"
+      ],
+      "prompt": "Nghe 'いっしょうけんめい' và nghe và viết lại chính xác (chú ý tất cả đặc điểm)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "いっしょうけんめい"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0076_02",
+      "base_type": "dictation",
+      "sub_type": "dictation_advanced",
+      "audio_ids": [
+        "うんてんめんきょしょう"
+      ],
+      "prompt": "Nghe 'うんてんめんきょしょう' và nghe và viết lại chính xác (chú ý tất cả đặc điểm)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "うんてんめんきょしょう"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0076_03",
+      "base_type": "dictation",
+      "sub_type": "dictation_advanced",
+      "audio_ids": [
+        "しょうがっこう"
+      ],
+      "prompt": "Nghe 'しょうがっこう' và nghe và viết lại chính xác (chú ý tất cả đặc điểm)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "しょうがっこう"
+      }
+    },
+    {
+      "id": "stage2_combined_sounds_0076_04",
+      "base_type": "dictation",
+      "sub_type": "dictation_advanced",
+      "audio_ids": [
+        "コンピューター"
+      ],
+      "prompt": "Nghe 'コンピューター' và nghe và viết lại chính xác (chú ý tất cả đặc điểm)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "コンピューター"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1303 @@
+{
+  "book": {
+    "title": "Ánh sáng từ giai điệu",
+    "subtitle": "Cẩm nang luyện nghe từ cơ bản đến nâng cao",
+    "version": "2.0",
+    "language": "vi",
+    "author": "HIZASHI JAPANESE LEARNING",
+    "description": "Tài liệu nghiên cứu chuyên sâu về hệ thống âm tiếng Nhật, phân tích chi tiết các thách thức đặc thù và phương pháp khắc phục dựa trên cơ sở âm vị học.",
+    "target_audience": "Người Việt Nam học tiếng Nhật từ N5 trở lên, muốn cải thiện kỹ năng nghe và phát âm",
+    "how_to_use": "Đọc Chương 0 trước để hiểu thách thức của bạn. Sau đó đọc tuần tự các chương. Kết hợp với app HIZASHI để luyện tập.",
+    "generated_at": "2025-12-05"
+  },
+
+  "table_of_contents": [
+    {"chapter": 0, "title": "Bức Tường Âm Thanh", "sections": 9},
+    {"chapter": 1, "title": "Trường Âm (長音): Thử Thách Lớn Nhất của Người Việt", "sections": 8},
+    {"chapter": 2, "title": "Giới thiệu hệ thống âm tiếng Nhật", "sections": 4},
+    {"chapter": 3, "title": "Bảng chữ cái cơ bản", "sections": 5},
+    {"chapter": 4, "title": "Âm đục và Bán đục", "sections": 4},
+    {"chapter": 5, "title": "Âm ghép (Yoon)", "sections": 3},
+    {"chapter": 6, "title": "Mora đặc biệt", "sections": 4},
+    {"chapter": 7, "title": "Âm khó", "sections": 6},
+    {"chapter": 8, "title": "Trọng Âm Cao Độ Tokyo", "sections": 8},
+    {"chapter": 9, "title": "Biến Âm: Từ Sách đến Đời Thực", "sections": 8},
+    {"chapter": 10, "title": "Ngữ điệu câu", "sections": 4},
+    {"chapter": 11, "title": "Nói tự nhiên và rút gọn", "sections": 4},
+    {"chapter": 12, "title": "Tổng kết và lộ trình học", "sections": 3}
+  ],
+
+  "chapters": {
+    "chapter_0": {
+      "id": 0,
+      "title": "Bức Tường Âm Thanh: Thách Thức của Người Việt",
+      "intro": "Tại sao bạn nghe được từ vựng trong sách giáo khoa nhưng lại 'điếc' khi người Nhật nói chuyện thực tế? Chương này giải mã nguồn gốc của vấn đề từ góc độ âm vị học, nhận thức và thần kinh học.",
+      "sections": {
+        "0.1": {
+          "title": "Hai Thế Giới Âm Thanh",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Trong quá trình học tiếng Nhật, người học thường gặp phải một **'bức tường âm thanh'** khi chuyển từ giai đoạn sách giáo khoa sang giao tiếp thực tế. Dù nắm vững ngữ pháp và từ vựng, khả năng nghe hiểu bị cản trở nghiêm trọng. Vấn đề cốt lõi không nằm ở việc thiếu nỗ lực, mà nằm ở sự **'mù tri giác' (perceptual blindness)** đối với các đặc điểm âm thanh không tồn tại trong tiếng mẹ đẻ."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Hai Loại hình Ngôn ngữ Đối lập",
+              "headers": ["Đặc điểm", "Tiếng Việt", "Tiếng Nhật"],
+              "rows": [
+                ["Cấu trúc từ", "Đơn âm tiết (monosyllabic)", "Đa âm tiết (polysyllabic)"],
+                ["Hệ thống cao độ", "Thanh điệu (6 thanh)", "Trọng âm cao độ (H/L)"],
+                ["Đơn vị thời gian", "Âm tiết (syllable-timed)", "Mora (mora-timed)"],
+                ["Đặc điểm khu biệt", "Cao độ + Chất lượng âm", "Độ dài (duration) + Cao độ"],
+                ["Tín hiệu quan trọng nhất", "Pitch contour (đường cao độ)", "Duration (độ dài thời gian)"]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Tiếng Nhật xây dựng ý nghĩa dựa trên **nhịp điệu đẳng mora** - các mora có cảm giác **bằng nhau về mặt tâm lý** (mora-timing). Tiếng Việt xây dựng ý nghĩa dựa trên **sự biến thiên cao độ** (tone). Sự sai lệch này khiến ta **'nghe' tiếng Nhật bằng đôi tai đã được lập trình cho ngôn ngữ mẹ đẻ**."
+            }
+          ]
+        },
+        "0.2": {
+          "title": "Xung Đột Nền Tảng: Mora vs Âm Tiết",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sự khác biệt **nền tảng nhất** khiến ta khó nắm bắt nhịp điệu tiếng Nhật nằm ở **đơn vị thời gian**. Tiếng Nhật là ngôn ngữ **đẳng mora** - mỗi mora chiếm một khoảng thời gian tương đương về mặt tâm lý. Chúng ta thiếu **'đồng hồ nội tại'** để đo đếm mora."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh Hệ thống Nhịp điệu",
+              "headers": ["Đặc điểm", "Tiếng Việt", "Tiếng Nhật"],
+              "rows": [
+                ["Đơn vị thời gian", "Âm tiết (syllable)", "Mora (phách)"],
+                ["Tính chất", "Syllable-timed", "Mora-timed"],
+                ["Ví dụ 'happa'", "2 âm tiết: hap-pa", "3 mora: ha-p-pa"],
+                ["Khoảng lặng", "Chỉ ở ranh giới từ/ngắt hơi", "Có thể là thành phần cấu tạo từ (っ)"],
+                ["Âm mũi cuối", "Gắn liền âm tiết", "Độc lập 1 mora (ん)"]
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Cách đếm mora đúng",
+              "examples": [
+                {"word": "日本 (nihon)", "romaji": "Ni-ho-n", "meaning": "3 mora, không phải 2 âm tiết", "mora": 3},
+                {"word": "葉っぱ (happa)", "romaji": "Ha-p-pa", "meaning": "3 mora (âm ngắt = 1 mora)", "mora": 3},
+                {"word": "東京 (tōkyō)", "romaji": "To-o-kyo-o", "meaning": "4 mora (2 trường âm)", "mora": 4},
+                {"word": "学校 (gakkō)", "romaji": "Ga-k-ko-o", "meaning": "4 mora (âm ngắt + trường âm)", "mora": 4}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Khi nghe 'happa', não bộ quen với syllable-timed sẽ xử lý theo cơ chế âm tiết: **hap-pa (2 âm tiết)**. Khoảng lặng giữa hai âm tiết không được gán giá trị thời gian (mora value), mà chỉ được coi là ranh giới phân cách. Do đó, người học **không nhận thức được sự tồn tại của âm ngắt**."
+            }
+          ]
+        },
+        "0.3": {
+          "title": "Âm Ngắt (促音): Khi Sự Im Lặng Mang Nghĩa",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Âm ngắt (sokuon - っ) là hiện tượng một mora **'im lặng' (silent mora)**. Đây không chỉ là vấn đề thính giác mà là vấn đề của **nhận thức thời gian** và **điều khiển vận động cấu âm**."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh Sokuon và Phụ âm cuối Tiếng Việt",
+              "headers": ["Đặc điểm", "Sokuon tiếng Nhật (kitte)", "Phụ âm cuối tiếng Việt (mất)"],
+              "rows": [
+                ["Vị trí chặn", "Chặn tại lợi, KHÔNG đóng thanh môn", "Chặn tại lợi + Đóng thanh môn (glottal stop)"],
+                ["Thời gian", "Kéo dài (chiếm 1 mora = ~150ms)", "Rất ngắn (kết thúc âm tiết)"],
+                ["Sự giải phóng", "Bật hơi mạnh vào nguyên âm sau", "Không bao giờ bật hơi (unreleased)"],
+                ["Lỗi thường gặp", "Dùng glottal stop → âm bị nghẹt", "Thời gian chặn không đủ dài"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Cơ chế Thanh hầu hóa (Glottalization)",
+              "points": [
+                "Phụ âm cuối tiếng Việt /-p, -t, -k/ là **âm tắc không nổ** (unreleased stops)",
+                "Khi phát âm 'hợp', môi khép nhưng **KHÔNG bật mở** để xả hơi",
+                "Đồng thời có hiện tượng **thanh hầu hóa** - dây thanh đới khép chặt",
+                "Nghiên cứu cho thấy chúng ta vô thức áp dụng cơ chế này khi phát âm sokuon → âm bị **nghẹt, căng, cụt**"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "So sánh: Phát âm chuẩn vs Lỗi thường gặp khi nói 'kitte'",
+              "examples": [
+                {"word": "Phát âm chuẩn", "romaji": "ki---tte", "meaning": "Chặn kéo dài tại lợi → bật hơi mạnh vào 'te'", "mora": 3},
+                {"word": "Lỗi phổ biến", "romaji": "kít-te", "meaning": "Đóng thanh môn (nghẹt) → bật ngắn", "mora": 2},
+                {"word": "Thời lượng chuẩn", "romaji": "Closure ~150-200ms", "meaning": "Gấp 2.5-3 lần phụ âm đơn", "mora": 0},
+                {"word": "Thời lượng khi mắc lỗi", "romaji": "Closure ~50-80ms", "meaning": "Quá ngắn, như phụ âm cuối tiếng Việt", "mora": 0}
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Để luyện sokuon đúng: Giữ **miệng mở**, chặn hơi tại **vị trí cấu âm** (môi/lưỡi) trong **1 nhịp đầy đủ**, rồi bật hơi mạnh. **KHÔNG thắt cổ họng**. Đếm thầm: 'ki... (một)... te'."
+            }
+          ]
+        },
+        "0.4": {
+          "title": "Giao thoa Thanh điệu và Cao độ",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Tiếng Việt là **ngôn ngữ thanh điệu** (6 thanh), nơi cao độ quyết định nghĩa của **từng âm tiết**. Tiếng Nhật là **ngôn ngữ trọng âm cao độ** (pitch-accent), nơi cao độ vẽ nên **đường viền của cả từ**. Sự giao thoa giữa hai hệ thống này tạo ra nhiều lỗi phức tạp."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Cơ chế Gán Thanh điệu Sai (Tone Mapping Errors)",
+              "headers": ["Cao độ tiếng Nhật", "Thường bị nghe/nói thành", "Hệ quả"],
+              "rows": [
+                ["Thấp-Thấp (LL)", "Thanh Nặng/Huyền", "Cắt ngắn âm, thêm creaky voice"],
+                ["Thấp-Cao (LH)", "Thanh Sắc", "Nghe nhầm ngắn thành dài"],
+                ["Cao-Thấp (HL)", "Thanh Huyền kéo dài", "Nghe nhầm dài thành ngắn"],
+                ["Cao-Cao (HH)", "Thanh Ngang + Sắc", "Thêm contour không cần thiết"],
+                ["L→H chuyển đổi", "Đường trượt (glide)", "Lẽ ra phải là bước nhảy (step)"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Ảo giác Độ dài do Cao độ Biến thiên",
+              "points": [
+                "Nghiên cứu cho thấy ta nhận diện trường âm **tốt hơn** khi có sự thay đổi cao độ (H→L hoặc L→H)",
+                "Ở ngữ cảnh cao độ **phẳng** (đặc biệt L-L), tỷ lệ nhận diện đúng **giảm mạnh**",
+                "Lý do: Sự di chuyển của cao độ cung cấp manh mối phụ trợ về 'độ dài'",
+                "Khi cao độ phẳng, khả năng nhận diện trường âm gần như mất hoàn toàn"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Lỗi điển hình: 'Konnichiwa'",
+              "examples": [
+                {"word": "Chuẩn Tokyo", "romaji": "L-H-H-H-H", "meaning": "Thấp-Cao-Cao-Cao-Cao (bậc thang)", "mora": 5},
+                {"word": "Lỗi thường gặp", "romaji": "CỐN-ni-chi-wà", "meaning": "Sắc-Ngang-Ngang-Huyền (thanh điệu)", "mora": 4},
+                {"word": "Lỗi 1", "romaji": "'Ko' → 'CỐ'", "meaning": "Thêm Thanh Sắc vào âm Thấp", "mora": 0},
+                {"word": "Lỗi 2", "romaji": "'Wa' → 'wà'", "meaning": "Thêm Thanh Huyền cuối câu", "mora": 0}
+              ]
+            }
+          ]
+        },
+        "0.5": {
+          "title": "Giao thoa Phương ngữ Vùng miền",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Khả năng thụ đắc một số âm tiếng Nhật bị **phân hóa mạnh mẽ** bởi phương ngữ vùng miền của người học. Đây là yếu tố thường bị bỏ qua trong các giáo trình."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Ảnh hưởng Phương ngữ với Âm /z/ và /r/",
+              "headers": ["Vùng miền", "Đặc điểm phương ngữ", "Lỗi với tiếng Nhật"],
+              "rows": [
+                ["Miền Nam", "'d', 'gi', 'v' → /j/ (như 'y')", "za-ji-zu → ya-yi-yu (mất ma sát hữu thanh)"],
+                ["Miền Nam", "Thiếu hoàn toàn âm xát hữu thanh /z/", "zasshi → yasshi hoặc jasshi"],
+                ["Miền Bắc", "Có âm /z/ trong 'da', 'giang'", "Phát âm /z/ dễ dàng hơn"],
+                ["Miền Bắc", "'r' tiếng Việt → /z/", "ra-ri-ru → za-zi-zu (nhầm /ɾ/ thành /z/)"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Âm /ts/ (つ) - Thách thức cho Tất cả",
+              "points": [
+                "/ts/ là âm **tắc-xát lợi vô thanh** (voiceless alveolar affricate)",
+                "Tiếng Việt **không có** phụ âm tắc-xát ở vị trí đầu từ",
+                "Lỗi 1: Bỏ giai đoạn chặn → phát âm như /s/ ('tsunami' → 'sunami')",
+                "Lỗi 2: Bỏ giai đoạn xát → phát âm như /t/ ('tsu' → 'tu')",
+                "Lỗi vị trí: /t/ tiếng Việt là đầu lưỡi-răng (dental), /ts/ tiếng Nhật là lợi (alveolar)"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Nguyên âm /u/ (う) - Lơ lửng giữa hai thái cực",
+              "examples": [
+                {"word": "Tiếng Nhật /u/", "romaji": "[ɯ]", "meaning": "Đóng, sau, NÉN, không tròn môi, thả lỏng", "mora": 0},
+                {"word": "Tiếng Việt /u/", "romaji": "[u]", "meaning": "Đóng, sau, TRÒN môi (thu)", "mora": 0},
+                {"word": "Tiếng Việt /ư/", "romaji": "[ɯ] căng", "meaning": "Đóng, sau, không tròn môi, CĂNG (thư)", "mora": 0},
+                {"word": "Lỗi phổ biến", "romaji": "desu → 'đê-su' hoặc 'đê-sư'", "meaning": "Chu môi quá hoặc căng miệng quá", "mora": 0}
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Người miền Nam cần đặc biệt chú ý luyện âm /z/. Người miền Bắc cần phân biệt /z/ và /ɾ/ (vỗ lợi). Với /u/ tiếng Nhật: môi **thả lỏng** (không chu như 'thu', không căng như 'thư')."
+            }
+          ]
+        },
+        "0.6": {
+          "title": "Thuyết 'Điếc Âm vị' và Cơ chế Sàng lọc",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Tất cả các xung đột kể trên có thể được giải thích bởi **thuyết 'điếc âm vị' (phonological deafness)** - được đề xuất bởi Polivanov (1931) và phát triển bởi Trubetzkoy (1939). Thuyết này cho rằng hệ thống âm vị của tiếng mẹ đẻ hoạt động như một **'cái rây' (sieve)**. Khi tín hiệu âm thanh đi vào, chỉ những đặc điểm phù hợp với mắt lưới của L1 mới được giữ lại. Những đặc điểm khác – dù rõ ràng về mặt vật lý – sẽ bị **lọc bỏ** hoặc **biến đổi** để khớp với các khuôn mẫu quen thuộc."
+            },
+            {
+              "type": "key_point",
+              "title": "Cái Rây của Tiếng Việt",
+              "points": [
+                "**Rất nhạy bén** với: Sự thay đổi cao độ (thanh điệu), chất lượng nguyên âm (/a/ vs /e/)",
+                "**Mắt lưới thưa** với: Độ dài thời gian (duration) - coi đó là biến thể ngẫu nhiên",
+                "**Hệ quả**: Chúng ta tự động lọc bỏ thông tin về độ dài, coi nó là 'nhiễu' thay vì 'tín hiệu'"
+              ]
+            },
+            {
+              "type": "comparison_table",
+              "title": "Mô hình Đồng hóa Nhận thức (PAM - Best 1995)",
+              "headers": ["Kịch bản", "Mô tả", "Ví dụ cụ thể"],
+              "rows": [
+                ["Single-Category (SC)", "Hai âm L2 bị gộp vào 1 phạm trù L1", "/u/ và /uː/ tiếng Nhật → cùng là /u/ tiếng Việt"],
+                ["Two-Category (TC)", "Hai âm L2 vào 2 phạm trù L1 khác nhau", "Dễ phân biệt (ít gặp với Việt-Nhật)"],
+                ["Uncategorized", "Âm L2 không khớp phạm trù nào", "/ts/ tiếng Nhật → không rõ là /t/ hay /s/"]
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "**Nghịch lý của sự Tương đồng**: Vì hệ thống nguyên âm tiếng Nhật (/a, i, u, e, o/) tương đồng với tiếng Việt về chất lượng, người học bị 'khóa' trong việc sử dụng nguyên âm tiếng Việt, bỏ qua các sắc thái về **độ dài** và **độ căng**."
+            }
+          ]
+        },
+        "0.7": {
+          "title": "Cơ sở Thần kinh học: Tại sao Lỗi Khó Sửa?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Các nghiên cứu thần kinh học ngôn ngữ cung cấp bằng chứng cho thấy khó khăn này không chỉ là **thói quen** mà còn là **sự thay đổi trong cấu trúc xử lý của não bộ**."
+            },
+            {
+              "type": "key_point",
+              "title": "Sự Mất đi Phản ứng Mismatch Negativity (MMN)",
+              "points": [
+                "**MMN** là sóng điện não xuất hiện khi não phát hiện sự thay đổi trong chuỗi âm thanh",
+                "Đây là phản ứng **tiền chú ý** (pre-attentive) - diễn ra tự động trước khi ta ý thức",
+                "Với các cặp âm vị không có trong L1, não người học **không phát sinh MMN** hoặc rất yếu",
+                "Ý nghĩa: **'Điếc' diễn ra ở tầng xử lý thính giác sơ cấp** - não đã quyết định đó là 'nhiễu'"
+              ]
+            },
+            {
+              "type": "comparison_table",
+              "title": "Rào cản Thần kinh học",
+              "headers": ["Rào cản", "Mô tả", "Hệ quả"],
+              "rows": [
+                ["Thiếu MMN", "Não không báo động về sự khác biệt độ dài", "Không nhận ra trường âm/âm ngắt"],
+                ["Cạnh tranh Tài nguyên", "Tập trung vào nghĩa → giảm xử lý ngữ âm", "Áp lực giao tiếp cao → lỗi tăng"],
+                ["Neuroplasticity giảm", "Kết nối L1 quá mạnh sau tuổi trưởng thành", "Khó xây dựng mạng lưới mới cho 'độ dài'"],
+                ["Chế độ Mặc định", "Não quay về L1 khi quá tải", "Bỏ qua độ dài, tập trung cao độ"]
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Khi áp lực giao tiếp tăng lên, não bộ sẽ tự động quay về **chế độ mặc định của L1**: bỏ qua độ dài và tập trung vào cao độ/từ vựng. Đây là lý do người học trình độ cao vẫn mắc lỗi khi nói nhanh hoặc căng thẳng."
+            }
+          ]
+        },
+        "0.8": {
+          "title": "Bảng Tổng Hợp Xung Đột Âm Vị",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dưới đây là bảng tổng hợp tất cả các điểm xung đột chính, giúp bạn nhận diện và có chiến lược sửa lỗi có hệ thống."
+            },
+            {
+              "type": "detailed_table",
+              "title": "Bảng Xung Đột Âm Vị Việt - Nhật",
+              "headers": ["Hiện tượng", "Đặc điểm Nhật", "Lỗi thường gặp", "Nguyên nhân Gốc rễ"],
+              "rows": [
+                ["Trường âm (長音)", "Nguyên âm 2 mora", "Nghe như 1 mora", "L1 không có độ dài âm vị"],
+                ["Âm ngắt (促音)", "Khoảng lặng 1 mora", "Glottalization, quá ngắn", "Phụ âm cuối L1 không nổ"],
+                ["Pitch accent", "Bậc thang H/L", "Thanh điệu Việt", "L1 là ngôn ngữ thanh điệu"],
+                ["Âm /ts/", "Tắc-xát lợi", "/t/ hoặc /s/ riêng", "L1 không có affricates đầu từ"],
+                ["Âm /z/", "Xát hữu thanh", "/j/ (Nam) hoặc nhầm /ɾ/ (Bắc)", "Phương ngữ vùng miền"],
+                ["Nguyên âm /u/", "[ɯ] nén, thả lỏng", "[u] tròn hoặc [ɯ] căng", "L1 phân cực /u/-/ư/"],
+                ["Hatsuon ん", "5 biến thể theo ngữ cảnh", "Cố định hóa thành /n/", "L1 phân biệt -n/-m/-ng"]
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Hiểu được nguồn gốc lỗi sai là bước đầu tiên để sửa chữa. Các chương tiếp theo sẽ hướng dẫn chi tiết cách khắc phục từng vấn đề."
+            }
+          ]
+        },
+        "0.9": {
+          "title": "Chiến Lược Khắc phục Có Cơ sở Khoa học",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Việc khắc phục không thể chỉ dựa vào **'tắm ngôn ngữ'** hay bắt chước thụ động. Người học cần các **can thiệp sư phạm có tính nhận thức rõ ràng** (explicit instruction)."
+            },
+            {
+              "type": "numbered_list",
+              "items": [
+                {
+                  "title": "Tách rời Nhận thức Cao độ và Độ dài",
+                  "detail": "Luyện nghe cặp tối thiểu với cao độ phẳng (flat pitch) trước. Khi đã nhận diện được độ dài đơn thuần, mới thêm biến số cao độ."
+                },
+                {
+                  "title": "Vật lý hóa Nhịp Mora",
+                  "detail": "Dùng vận động cơ thể (vỗ tay, gõ nhịp, đánh dấu ngón tay) để xây dựng lại 'đồng hồ nội tại'. Đếm thành tiếng mỗi mora."
+                },
+                {
+                  "title": "Loại bỏ Glottalization",
+                  "detail": "Luyện giữ thanh quản mở khi phát âm sokuon. Chặn hơi tại vị trí môi/lưỡi, KHÔNG thắt cổ họng."
+                },
+                {
+                  "title": "Nhận diện Phương ngữ Cá nhân",
+                  "detail": "Xác định mình là người miền nào, từ đó biết trước các lỗi đặc thù để phòng tránh (Nam: /z/, Bắc: /ɾ/)."
+                },
+                {
+                  "title": "Luyện Explicit hơn Implicit",
+                  "detail": "Học có ý thức (explicit) hiệu quả hơn nghe ngẫu nhiên (implicit). Tập trung 30 phút/ngày tốt hơn 5 phút rải rác."
+                }
+              ]
+            },
+            {
+              "type": "motivation",
+              "text": "Khó khăn là **có thể vượt qua**. Nghiên cứu cho thấy cần khoảng **20-40 giờ** luyện tập có hệ thống để bắt đầu tự động nhận diện các đặc điểm âm vị mới. Kiên nhẫn và phương pháp đúng là chìa khóa!"
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_1": {
+      "id": 1,
+      "title": "Trường Âm (長音): Thử Thách Lớn Nhất của Người Việt",
+      "intro": "Tại sao bạn nghe 'おばさん' (cô/dì) thành 'おばあさん' (bà)? Chương này giải mã cơ chế ngôn ngữ học khiến trường âm trở thành 'điểm mù' của người học tiếng Nhật.",
+      "sections": {
+        "1.1": {
+          "title": "Trường Âm là gì?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "**Trường âm (長音 - chōon)** là nguyên âm được kéo dài gấp đôi thời lượng bình thường. Trong hệ thống mora của tiếng Nhật, một nguyên âm ngắn chiếm **1 mora**, còn nguyên âm dài chiếm **2 mora**."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Cách viết Trường âm",
+              "headers": ["Hệ thống", "Nguyên âm ngắn", "Trường âm", "Ghi chú"],
+              "rows": [
+                ["Hiragana", "あ a", "ああ aa", "Viết thêm あ"],
+                ["Hiragana", "い i", "いい ii", "Viết thêm い"],
+                ["Hiragana", "う u", "うう uu", "Viết thêm う"],
+                ["Hiragana", "え e", "ええ ee / えい ei", "Thường viết えい"],
+                ["Hiragana", "お o", "おお oo / おう ou", "Thường viết おう"],
+                ["Katakana", "ア a", "アー aa", "Dùng ký hiệu ー"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Đặc điểm âm học của Trường âm",
+              "points": [
+                "**Thời lượng**: Nguyên âm dài kéo dài **2.5 - 3 lần** so với nguyên âm ngắn",
+                "**Mora**: Trường âm = 2 mora, ngắn âm = 1 mora",
+                "**Cao độ**: Trường âm có thể mang **2 cao độ khác nhau** (H-L hoặc L-H)",
+                "**Không có biến đổi chất lượng**: Nguyên âm dài và ngắn có **cùng âm sắc**, chỉ khác độ dài"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ đếm mora với Trường âm",
+              "examples": [
+                {"word": "東京", "romaji": "To-o-kyo-o", "meaning": "4 mora (2 trường âm)", "mora": 4},
+                {"word": "大阪", "romaji": "O-o-sa-ka", "meaning": "4 mora (1 trường âm đầu)", "mora": 4},
+                {"word": "お母さん", "romaji": "O-ka-a-sa-n", "meaning": "5 mora (1 trường âm)", "mora": 5},
+                {"word": "空港", "romaji": "Ku-u-ko-o", "meaning": "4 mora (2 trường âm)", "mora": 4},
+                {"word": "先生", "romaji": "Se-n-se-e", "meaning": "4 mora (1 âm mũi + 1 trường âm)", "mora": 4}
+              ]
+            }
+          ]
+        },
+        "1.2": {
+          "title": "Tại sao Trường âm Phân biệt Nghĩa?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Trong tiếng Nhật, độ dài nguyên âm là **đặc trưng âm vị học** (phonemic feature), nghĩa là nó **phân biệt nghĩa** giữa các từ. Đây là điểm khác biệt cơ bản với tiếng Việt."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Cặp từ Tối thiểu (Minimal Pairs) - Trường âm",
+              "headers": ["Ngắn", "Nghĩa", "Dài", "Nghĩa", "Hệ quả nhầm lẫn"],
+              "rows": [
+                ["おばさん (obasan)", "Cô/Dì", "おばあさん (obaasan)", "Bà", "Gọi người trẻ là 'bà' = bất lịch sự"],
+                ["おじさん (ojisan)", "Chú/Bác", "おじいさん (ojiisan)", "Ông", "Gọi nhầm thế hệ"],
+                ["ビル (biru)", "Tòa nhà", "ビール (biiru)", "Bia", "Ngữ cảnh sai hoàn toàn"],
+                ["ゆき (yuki)", "Tuyết", "ゆうき (yuuki)", "Dũng khí", "Hiểu sai nội dung"],
+                ["いえ (ie)", "Nhà", "いいえ (iie)", "Không", "Đảo ngược ý nghĩa"],
+                ["ここ (koko)", "Đây", "こうこう (koukou)", "Trường cấp 3", "Danh từ hoàn toàn khác"],
+                ["とる (toru)", "Lấy", "とおる (tooru)", "Đi qua", "Động từ khác nghĩa"],
+                ["くき (kuki)", "Thân cây", "くうき (kuuki)", "Không khí", "Danh từ hoàn toàn khác"]
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Trong giao tiếp thực tế, nhầm lẫn trường âm có thể gây **hiểu lầm nghiêm trọng** hoặc **bất lịch sự**. Ví dụ kinh điển: gọi một phụ nữ 40 tuổi là 'おばあさん' (bà già) thay vì 'おばさん' (cô/dì) sẽ khiến họ rất khó chịu!"
+            }
+          ]
+        },
+        "1.3": {
+          "title": "Giả thuyết Đặc trưng (Feature Hypothesis): Tại sao Chúng ta 'Điếc' với Trường âm",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Nghiên cứu ngôn ngữ học L2 (Second Language Acquisition) đã chỉ ra một quy luật quan trọng gọi là **Giả thuyết Đặc trưng (Feature Hypothesis)**: Người học ngôn ngữ thứ hai gặp khó khăn lớn nhất với những **đặc trưng âm vị không tồn tại trong tiếng mẹ đẻ**."
+            },
+            {
+              "type": "key_point",
+              "title": "Vận dụng vào thực tế",
+              "points": [
+                "**Tiếng Việt không có độ dài nguyên âm âm vị học**: 'a' ngắn và 'a' dài không phân biệt nghĩa trong tiếng Việt",
+                "**Não bộ không được huấn luyện**: Hệ thống tri giác âm thanh chưa từng cần phân biệt độ dài",
+                "**Lọc âm thanh vô thức**: Não tự động 'bỏ qua' thông tin về độ dài vì nó không quan trọng trong tiếng Việt",
+                "**Kết quả**: Chúng ta nghe 'おばさん' và 'おばあさん' như **cùng một từ**"
+              ]
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh Hệ thống Nguyên âm",
+              "headers": ["Đặc điểm", "Tiếng Việt", "Tiếng Nhật"],
+              "rows": [
+                ["Độ dài nguyên âm", "Không phân biệt nghĩa", "Phân biệt nghĩa"],
+                ["Thanh điệu", "6 thanh điệu (phân biệt nghĩa)", "Không có thanh điệu"],
+                ["Cao độ", "Phức tạp, gắn với từng âm tiết", "Đơn giản, H/L, gắn với từ"],
+                ["Đặc trưng chính", "Pitch contour (đường cao độ)", "Duration (độ dài)"],
+                ["Ví dụ phân biệt", "ma-mà-mả-mã-má-mạ", "biru-biiru, yuki-yuuki"]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nhiều người cho rằng việc người học từ nền tiếng Việt gặp khó khăn khi phân biệt trường âm (vowel length) trong tiếng Nhật là điều hiển nhiên vì tiếng Việt không có đối lập nguyên âm dài – ngắn. Tuy nhiên, nghiên cứu của Trang Thi Huyen Le và cộng sự (2025) đã chỉ ra một góc nhìn sâu sắc hơn: thách thức này không chỉ bắt nguồn từ sự khác biệt về mặt cấu trúc âm vị, mà còn từ **chiến lược xử lý âm thanh đặc thù của người nói ngôn ngữ thanh điệu**. Cụ thể, não bộ có xu hướng ưu tiên xử lý cao độ (pitch) hơn là độ dài nguyên âm (duration), dẫn đến ranh giới tri giác dài – ngắn trong tiếng Nhật trở nên mờ hơn."
+            },
+            {
+              "type": "reference",
+              "citation": "Trang Thi Huyen Le, Mariko Kondo, and Kimiko Tsukada (2025). Cross-linguistic transfer of acoustic cues: Perception of Japanese vowel length by learners from Vietnamese-speaking background. *Second Language Research*.",
+              "doi": "https://doi.org/10.1177/02676583251355203"
+            }
+          ]
+        },
+        "1.4": {
+          "title": "Xung đột Mora-timing vs Syllable-timing",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Một nguyên nhân sâu xa khác nằm ở sự khác biệt về **nhịp điệu ngôn ngữ**. Tiếng Nhật là **mora-timed** (đếm theo phách), trong khi tiếng Việt là **syllable-timed** (đếm theo âm tiết)."
+            },
+            {
+              "type": "example_box",
+              "title": "Cách đếm khác nhau: Từ 'Tokyo' (東京)",
+              "examples": [
+                {"word": "Lỗi thường gặp", "romaji": "TO - KYO", "meaning": "2 âm tiết, thời gian bằng nhau", "mora": 2},
+                {"word": "Phát âm chuẩn", "romaji": "TO - O - KYO - O", "meaning": "4 mora, mỗi mora = 1 đơn vị thời gian", "mora": 4}
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Hệ quả của Xung đột Nhịp điệu",
+              "points": [
+                "**Nén thời gian**: Nghe 'とうきょう' như 2 âm tiết thay vì 4 mora",
+                "**Mất thông tin độ dài**: Trường âm bị 'nuốt' vào âm tiết đi trước",
+                "**Nhịp điệu sai**: Nói tiếng Nhật với nhịp syllable-timed nghe rất 'ngoại quốc'",
+                "**Nghe không kịp**: Khi người Nhật nói nhanh, mora đều đặn, người nghe bị 'trôi'"
+              ]
+            },
+            {
+              "type": "comparison_table",
+              "title": "Phân tích Thời gian: 'おばあさん' (obaasan)",
+              "headers": ["Phân tích", "Cách chia", "Thời gian", "Ghi chú"],
+              "rows": [
+                ["Theo Mora (đúng)", "o-ba-a-sa-n", "5 đơn vị", "Mỗi mora = 1 đơn vị"],
+                ["Theo Âm tiết (sai)", "o-baa-san", "3 đơn vị", "Người Việt nghe như vậy"],
+                ["So với 'おばさん'", "o-ba-sa-n", "4 đơn vị", "Chênh lệch 1 mora"],
+                ["Thực tế âm thanh", "~150ms/mora", "750ms vs 600ms", "Chênh 150ms = 1 mora"]
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Khi luyện nghe, hãy **đếm mora** thay vì đếm âm tiết. Dùng ngón tay gõ nhịp theo từng mora sẽ giúp não quen dần với hệ thống mora-timed."
+            }
+          ]
+        },
+        "1.5": {
+          "title": "Giao thoa từ Hệ thống Thanh điệu Tiếng Việt",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Hệ thống **6 thanh điệu** của tiếng Việt tạo ra một loại **giao thoa tiêu cực** (negative transfer) đặc biệt: não bộ được huấn luyện để chú ý đến **cao độ** hơn là **độ dài**."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Ưu tiên Xử lý Âm thanh",
+              "headers": ["Não quen thanh điệu", "Não quen mora-timing"],
+              "rows": [
+                ["Ưu tiên 1: Cao độ (pitch)", "Ưu tiên 1: Độ dài (duration)"],
+                ["Ưu tiên 2: Đường cao độ (contour)", "Ưu tiên 2: Cao độ tương đối (H/L)"],
+                ["Ưu tiên 3: Độ dài (không quan trọng)", "Ưu tiên 3: Chất lượng nguyên âm"],
+                ["Lọc bỏ: Thông tin độ dài", "Lọc bỏ: Thông tin thanh điệu phức tạp"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Cơ chế Giao thoa",
+              "points": [
+                "**Quy nguyên âm dài về thanh điệu**: Có thể nghe trường âm như một **thanh kéo dài** thay vì 2 mora",
+                "**Nhầm H→L thành nguyên âm dài**: Khi cao độ giảm (pitch drop), có thể nghe thành trường âm",
+                "**Bỏ qua độ dài khi có pitch**: Nếu từ có pitch accent rõ, thông tin độ dài bị 'che' mất",
+                "**Thêm thanh điệu vào trường âm**: Khi nói, người học có xu hướng thêm 'sắc' hoặc 'huyền' vào trường âm"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Minh họa Giao thoa: 'せんせい' (sensei)",
+              "examples": [
+                {"word": "Phát âm chuẩn", "romaji": "SE-N-SE-E (L-H-H-H)", "meaning": "4 mora, cao độ bậc thang", "mora": 4},
+                {"word": "Lỗi thường gặp", "romaji": "SÉN-SÊI", "meaning": "2 âm tiết, thêm thanh sắc + huyền", "mora": 2},
+                {"word": "Lỗi 1", "romaji": "Nén 4 mora → 2 âm tiết", "meaning": "Mất nhịp mora-timed", "mora": 0},
+                {"word": "Lỗi 2", "romaji": "Thêm thanh điệu Việt", "meaning": "Sắc ở 'sen', huyền/ngang ở 'sei'", "mora": 0}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Nghiên cứu so sánh cho thấy người nói **tiếng Ý** (có phân biệt độ dài nguyên âm) nhận diện trường âm tiếng Nhật tốt hơn nhiều so với người nói **tiếng Quan Thoại** hay **tiếng Việt** (ngôn ngữ thanh điệu). Điều này chứng minh 'Feature Hypothesis' là chính xác."
+            }
+          ]
+        },
+        "1.6": {
+          "title": "Phân tích Âm học Chi tiết",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Để hiểu rõ hơn thử thách, hãy xem xét các **thông số âm học** cụ thể của trường âm tiếng Nhật."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Thông số Âm học của Trường âm",
+              "headers": ["Thông số", "Nguyên âm ngắn", "Trường âm", "Tỷ lệ"],
+              "rows": [
+                ["Thời lượng trung bình", "~80-100ms", "~200-300ms", "2.5-3x"],
+                ["Trong nói nhanh", "~60-80ms", "~150-200ms", "2-2.5x"],
+                ["Trong nói chậm", "~100-120ms", "~250-350ms", "2.5-3x"],
+                ["Ngưỡng nhận diện", "-", "~180% ngắn", "Dưới = không nhận ra"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Các Tín hiệu Âm học của Trường âm",
+              "points": [
+                "**Tín hiệu chính**: Độ dài (duration) - chiếm ~70% khả năng nhận diện",
+                "**Tín hiệu phụ**: Cường độ (intensity) - trường âm có thể hơi mạnh hơn",
+                "**Tín hiệu ngữ cảnh**: Nhịp điệu tổng thể của câu",
+                "**KHÔNG có biến đổi**: Formant (âm sắc) giữ nguyên, không thay đổi chất lượng"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Điểm quan trọng: Trường âm tiếng Nhật **KHÔNG** thay đổi **chất lượng âm thanh** (vowel quality). Đây là khác biệt với tiếng Anh, nơi nguyên âm dài/ngắn thường đi kèm thay đổi âm sắc (như /i:/ vs /ɪ/). Trong tiếng Nhật, 'a' ngắn và 'aa' dài có **cùng formant**, chỉ khác **độ dài**."
+            },
+            {
+              "type": "example_box",
+              "title": "So sánh với Tiếng Anh",
+              "examples": [
+                {"word": "Tiếng Anh: 'beat'", "romaji": "/biːt/", "meaning": "i dài + âm sắc căng (tense)", "mora": 0},
+                {"word": "Tiếng Anh: 'bit'", "romaji": "/bɪt/", "meaning": "i ngắn + âm sắc lỏng (lax)", "mora": 0},
+                {"word": "Tiếng Nhật: 'ビール'", "romaji": "biiru", "meaning": "i dài, cùng âm sắc với i ngắn", "mora": 3},
+                {"word": "Tiếng Nhật: 'ビル'", "romaji": "biru", "meaning": "i ngắn, cùng âm sắc với i dài", "mora": 2}
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Vì tiếng Nhật không thay đổi âm sắc, bạn **KHÔNG thể** dựa vào 'nghe âm khác nhau' để phân biệt dài/ngắn. Bạn **PHẢI** huấn luyện tai nghe **độ dài** - một kỹ năng hoàn toàn mới."
+            }
+          ]
+        },
+        "1.7": {
+          "title": "Trường âm trong Dòng Lời nói",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Trong thực tế giao tiếp, trường âm xuất hiện trong **dòng lời nói liên tục**, không phải từng từ riêng lẻ. Điều này tạo thêm thử thách cho người nghe."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Trường âm trong Ngữ cảnh",
+              "headers": ["Câu", "Phân tích Mora", "Tổng mora", "Lỗi thường gặp"],
+              "rows": [
+                ["東京に行きます", "to-o-kyo-o-ni-i-ki-ma-su", "9 mora", "Nghe 'tokyo' 2 âm tiết"],
+                ["お母さんはどこ？", "o-ka-a-sa-n-wa-do-ko", "8 mora", "Bỏ qua trường âm 'kaa'"],
+                ["空港まで遠い", "ku-u-ko-o-ma-de-to-o-i", "9 mora", "Nghe 'kuukoo' như 'kuko'"],
+                ["先生、ありがとう", "se-n-se-e-a-ri-ga-to-o", "9 mora", "Nén 'sensee' thành 2 âm"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Thử thách trong Dòng Lời nói",
+              "points": [
+                "**Tốc độ nói**: Người Nhật nói ~7-8 mora/giây, khó bắt kịp từng mora",
+                "**Ranh giới từ mờ**: Các từ nối liền nhau, trường âm có thể 'chạy' qua ranh giới",
+                "**Biến thiên cá nhân**: Mỗi người nói trường âm với độ dài hơi khác nhau",
+                "**Ngữ điệu câu**: Trường âm có thể bị ảnh hưởng bởi intonation cuối câu"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ: Ranh giới mờ",
+              "examples": [
+                {"word": "「行こう」と言った", "romaji": "i-ko-o-to-i-t-ta", "meaning": "Trường âm 'oo' chạy qua ranh giới từ", "mora": 7},
+                {"word": "Lỗi phổ biến", "romaji": "ikō to itta", "meaning": "Có thể nhầm 'koo' thành 'ko' + 'to'", "mora": 0},
+                {"word": "大阪の人", "romaji": "o-o-sa-ka-no-hi-to", "meaning": "Trường âm đầu tiên dễ bị bỏ qua", "mora": 7}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Trong hội thoại thực tế, bạn có thể nghe đúng **từng từ riêng lẻ** khi được nói chậm, nhưng **mất khả năng nhận diện** trường âm khi nghe cả câu với tốc độ bình thường. Đây là do não không đủ thời gian xử lý thông tin độ dài."
+            }
+          ]
+        },
+        "1.8": {
+          "title": "Chiến lược Luyện nghe Trường âm",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Vượt qua 'điểm mù' trường âm đòi hỏi **huấn luyện có hệ thống**. Dưới đây là các phương pháp đã được nghiên cứu chứng minh hiệu quả."
+            },
+            {
+              "type": "numbered_list",
+              "items": [
+                {
+                  "title": "Luyện Cặp Tối thiểu (Minimal Pair Training)",
+                  "detail": "Nghe và phân biệt các cặp từ chỉ khác nhau ở độ dài: おばさん/おばあさん, ビル/ビール. Bắt đầu chậm, tăng dần tốc độ. Mục tiêu: >90% chính xác."
+                },
+                {
+                  "title": "Đếm Mora (Mora Counting)",
+                  "detail": "Khi nghe, dùng ngón tay gõ nhịp theo từng mora. Đếm thành tiếng: 'to-o-kyo-o = 1-2-3-4'. Sau đó đếm thầm. Cuối cùng tự động hóa."
+                },
+                {
+                  "title": "Shadowing với Chú ý Đặc biệt",
+                  "detail": "Shadowing bình thường + **cố ý kéo dài** trường âm. Phóng đại độ dài ban đầu, sau đó điều chỉnh về chuẩn. Điều này giúp não 'ghi nhớ' cảm giác trường âm."
+                },
+                {
+                  "title": "Phân tích Spectrogram",
+                  "detail": "Dùng app như Praat để **nhìn** sóng âm. Trường âm sẽ hiển thị dài hơn rõ rệt. Kết hợp nghe + nhìn giúp não tạo liên kết mới."
+                },
+                {
+                  "title": "Transcription Test",
+                  "detail": "Nghe câu tiếng Nhật và viết lại bằng hiragana. Chú ý đặc biệt đến việc viết đúng trường âm (ああ, おう, etc.). Kiểm tra với transcript."
+                },
+                {
+                  "title": "Slowed-down Listening",
+                  "detail": "Dùng app nghe chậm 0.75x hoặc 0.5x để nghe rõ trường âm. Tăng dần tốc độ về 1x. Não cần thời gian thích nghi với tín hiệu độ dài."
+                }
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Nghiên cứu cho thấy cần khoảng **20-40 giờ** luyện tập tập trung để người học bắt đầu tự động nhận diện trường âm. Kiên nhẫn và đều đặn là chìa khóa!"
+            },
+            {
+              "type": "key_point",
+              "title": "Nguyên tắc Huấn luyện",
+              "points": [
+                "**Explicit > Implicit**: Học có ý thức hiệu quả hơn nghe ngẫu nhiên",
+                "**Focused > Distributed**: Tập trung 30 phút/ngày tốt hơn 5 phút rải rác",
+                "**Production + Perception**: Luyện cả nói (phát âm dài) và nghe (nhận diện dài)",
+                "**Feedback**: Cần có cách kiểm tra đúng/sai, không chỉ nghe suông"
+              ]
+            },
+            {
+              "type": "motivation",
+              "text": "Trường âm là thử thách lớn, nhưng **KHÔNG phải bất khả thi**. Hàng ngàn người học đã vượt qua và đạt phát âm chuẩn. Với hiểu biết đúng và phương pháp phù hợp, bạn cũng sẽ làm được!"
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_8": {
+      "id": 8,
+      "title": "Trọng Âm Cao Độ Tokyo: Khoa Học về Giai Điệu",
+      "intro": "Tại sao 箸 (đũa) và 橋 (cầu) viết khác nhau nhưng đều đọc 'hashi'? Bí mật nằm ở cao độ. Chương này biến việc luyện phát âm từ 'nghệ thuật bắt chước mơ hồ' thành 'khoa học chính xác'.",
+      "sections": {
+        "P.1": {
+          "title": "Bản Chất của Trọng Âm Cao Độ",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Tiếng Nhật Tokyo sử dụng hệ thống **'bậc thang'** (step system). Một từ được cấu tạo bởi các mora, và sự tương tác về cao độ chỉ mang tính **nhị phân**: Cao (H - High) hoặc Thấp (L - Low)."
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc Vàng của Trọng âm Tokyo",
+              "points": [
+                "Cao độ **BẮT BUỘC phải thay đổi** giữa mora thứ nhất và mora thứ hai",
+                "Nếu mora đầu là **Thấp** → mora thứ hai phải là **Cao**",
+                "Nếu mora đầu là **Cao** → mora thứ hai phải là **Thấp**",
+                "Đây là quy tắc **tuyệt đối**, không có ngoại lệ"
+              ]
+            },
+            {
+              "type": "comparison_table",
+              "title": "Thanh điệu Việt vs Trọng âm Nhật",
+              "headers": ["Đặc điểm", "Tiếng Việt", "Tiếng Nhật"],
+              "rows": [
+                ["Số mức cao độ", "6 thanh phức tạp", "2 mức: Cao/Thấp"],
+                ["Đường nét", "Lượn sóng (contour)", "Bậc thang (step)"],
+                ["Đơn vị", "Từng âm tiết", "Toàn bộ từ/cụm từ"],
+                ["Chuyển đổi", "Trượt (glide)", "Nhảy (jump)"]
+              ]
+            }
+          ]
+        },
+        "P.2": {
+          "title": "Bốn Mô Hình Trọng Âm Cơ Bản",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Hệ thống trọng âm Tokyo có 4 mô hình cơ bản. Hiểu rõ từng mô hình và cách chúng hiển thị trên biểu đồ cao độ là chìa khóa để phát âm chuẩn."
+            },
+            {
+              "type": "pitch_patterns",
+              "patterns": [
+                {
+                  "name": "Heiban (平板) - Phẳng",
+                  "number": "Kiểu 0",
+                  "pattern": "L-H-H-H...",
+                  "description": "Bắt đầu Thấp, lên Cao từ mora 2, duy trì Cao cho đến hết. Trợ từ theo sau cũng Cao.",
+                  "example": {
+                    "word": "水",
+                    "reading": "mizu",
+                    "pitch": "L-H",
+                    "meaning": "Nước"
+                  },
+                  "with_particle": "水が mizu ga (L-H-H) - trợ từ vẫn Cao"
+                },
+                {
+                  "name": "Atamadaka (頭高) - Đầu Cao",
+                  "number": "Kiểu 1",
+                  "pattern": "H-L-L-L...",
+                  "description": "Bắt đầu Cao, rớt xuống Thấp ngay sau mora 1. Giữ Thấp cho đến hết.",
+                  "example": {
+                    "word": "命",
+                    "reading": "inochi",
+                    "pitch": "H-L-L",
+                    "meaning": "Sinh mệnh"
+                  },
+                  "with_particle": "命が inochi ga (H-L-L-L)"
+                },
+                {
+                  "name": "Nakadaka (中高) - Giữa Cao",
+                  "number": "Kiểu 2, 3...",
+                  "pattern": "L-H...-L",
+                  "description": "Bắt đầu Thấp, lên Cao, rồi rớt xuống Thấp tại một mora cụ thể ở giữa.",
+                  "example": {
+                    "word": "卵",
+                    "reading": "tamago",
+                    "pitch": "L-H-L",
+                    "meaning": "Trứng"
+                  },
+                  "with_particle": "卵が tamago ga (L-H-L-L)"
+                },
+                {
+                  "name": "Odaka (尾高) - Đuôi Cao",
+                  "number": "Kiểu đặc biệt",
+                  "pattern": "L-H-H...(rớt)",
+                  "description": "Giống Heiban nhưng rớt cao độ khi thêm trợ từ. Chỉ phân biệt được khi có trợ từ.",
+                  "example": {
+                    "word": "花",
+                    "reading": "hana (hoa)",
+                    "pitch": "L-H",
+                    "meaning": "Hoa"
+                  },
+                  "with_particle": "花が hana ga (L-H-L) - trợ từ rớt xuống Thấp"
+                }
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "**Heiban vs Odaka**: Hai mô hình này chỉ khác nhau khi thêm trợ từ. 鼻 (mũi) và 花 (hoa) đều đọc L-H nhưng: 鼻が (L-H-H) vs 花が (L-H-L). Trong văn nói nhanh, sự **rơi cao độ** là dấu hiệu quan trọng nhất để tách các từ vựng."
+            }
+          ]
+        },
+        "P.3": {
+          "title": "Phân Tích Chi Tiết: Từ 'Konnichiwa'",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Hãy phân tích chi tiết từ 'Konnichiwa' (こんにちは) với mẫu cao độ **L-H-H-H-H** (Heiban) để hiểu cách đọc biểu đồ cao độ."
+            },
+            {
+              "type": "detailed_table",
+              "title": "Phân tích từng Mora",
+              "headers": ["Mora", "IPA", "Cao độ", "Thời lượng", "Mô tả biểu đồ"],
+              "rows": [
+                ["1. Ko (こ)", "/ko/", "Thấp (L)", "1.0", "Phẳng, nằm ở vùng thấp"],
+                ["Chuyển tiếp", "-", "-", "-", "Đường dốc đứng đi lên (ở ranh giới o→n)"],
+                ["2. n (ん)", "/N/", "Cao (H)", "1.0", "Đường đi lên và chạm đỉnh"],
+                ["3. ni (に)", "/ni/", "Cao (H)", "1.0", "Đường phẳng trên cao"],
+                ["4. chi (ち)", "/tɕi/", "Cao (H)", "1.0", "Đường phẳng (có khoảng ngắt do phụ âm)"],
+                ["5. wa (は)", "/wa/", "Cao (H)", "1.0", "Đường phẳng (chấp nhận giảm nhẹ tự nhiên)"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Điểm then chốt",
+              "points": [
+                "**Mora 1 [Ko]**: Phải bắt đầu THẤP. Không được thêm Thanh Sắc thành 'CỐ'",
+                "**Chuyển tiếp Ko→n**: Sự đi lên xảy ra TRONG quá trình chuyển sang âm mũi /n/",
+                "**Mora 2 [n]**: Đây là nơi cao độ ĐẠT ĐỈNH. Âm mũi này chiếm trọn 1 mora!",
+                "**Mora 3-5**: Duy trì CAO, không được thả lỏng và rơi xuống ở [wa]"
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "**Lỗi điển hình**: Người Việt đọc 'CỐN-ni-chi-wà' (Sắc-Ngang-Ngang-Huyền). Trên biểu đồ, điều này hiện ra như: dốc lên nhọn ở [Ko], sau đó gục xuống ở [wa]. Đây là dấu hiệu rõ ràng của giao thoa thanh điệu tiếng Việt."
+            }
+          ]
+        },
+        "P.4": {
+          "title": "Âm Mũi Mora /N/: Chiếc Thang Máy",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Rào cản lớn nhất ngăn cản chúng ta phát âm đúng không phải là khả năng cảm nhận cao độ, mà là **cảm thức về thời gian**."
+            },
+            {
+              "type": "key_point",
+              "title": "Vấn đề với âm /N/",
+              "points": [
+                "Trong tiếng Việt, âm cuối /-n/ (như trong 'côn') là âm **đóng ngắn**, không mang cao độ riêng",
+                "Người Việt thường **gộp 'Kon' thành 1 nhịp** thay vì 2 mora riêng biệt",
+                "Trên biểu đồ: đoạn [n] bị **ngắn lại hoặc mất hẳn**",
+                "Hậu quả: đường cao độ **không đủ thời gian để leo lên** mức Cao"
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "**Kỹ thuật sửa lỗi**: Hãy ngân âm 'n' dài ra. Tưởng tượng bạn đang ngân nga một giai điệu đi lên bằng âm mũi. Đừng đóng miệng lại ngay. Kiểm tra: đoạn [n] phải dài **tương đương** với đoạn [ni]."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Kiểm tra thời lượng Mora",
+              "headers": ["Đo lường", "Sai (kiểu Việt)", "Đúng (kiểu Nhật)"],
+              "rows": [
+                ["Độ dài [n]", "Bằng 1/3 của [ni]", "Bằng [ni]"],
+                ["Cao độ [n]", "Ngang ở mức thấp", "Dốc lên và chạm đỉnh"],
+                ["Ranh giới", "'Kon' dính liền", "'Ko' và 'n' tách biệt"]
+              ]
+            }
+          ]
+        },
+        "P.5": {
+          "title": "Kỹ Thuật 'Phi Thanh Điệu Hóa'",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Người học Việt Nam cần thực hiện **'Phi Thanh điệu hóa'** - tách biệt khái niệm 'Cao độ' (Pitch height) khỏi 'Thanh điệu' (Tone identity)."
+            },
+            {
+              "type": "numbered_list",
+              "items": [
+                {
+                  "title": "Bài tập Đường thẳng",
+                  "detail": "Phát ra âm 'A' kéo dài 3 giây ở mức CAO. Người Việt sẽ có xu hướng làm nó rung/lượn sóng. Nhìn vào biểu đồ và điều chỉnh sao cho đường pitch trở thành **đường thẳng tắp**."
+                },
+                {
+                  "title": "Bài tập Bậc thang",
+                  "detail": "Phát âm 'A-A' với mẫu L-H. Thanh điệu Việt tạo ra 'đường trượt' (45 độ). Pitch Nhật cần 'bước nhảy' (gần 90 độ). Luyện cho độ dốc **dựng đứng**."
+                },
+                {
+                  "title": "Bài tập Cao nguyên",
+                  "detail": "Phát âm 'A-A-A-A' với mẫu L-H-H-H. Duy trì đường phẳng ở mức Cao cho 3 mora cuối. Không được thêm Sắc/Huyền vào bất kỳ mora nào."
+                },
+                {
+                  "title": "Bài tập với Trợ từ",
+                  "detail": "Luôn luyện từ Heiban kèm trợ từ (Nihongo ga, Sakura wa...). Đảm bảo đường pitch đi xuyên qua trợ từ mà không bị gãy khúc."
+                }
+              ]
+            }
+          ]
+        },
+        "P.6": {
+          "title": "Minimal Pairs: Phân Biệt bằng Cao Độ",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Nhiều từ tiếng Nhật viết giống nhau nhưng nghĩa khác nhau, chỉ phân biệt được qua **cao độ**. Đây là lý do tại sao pitch accent quan trọng."
+            },
+            {
+              "type": "minimal_pairs_table",
+              "title": "Các cặp Minimal Pairs quan trọng",
+              "pairs": [
+                {
+                  "kana": "はし hashi",
+                  "meanings": [
+                    {"pitch": "H-L", "meaning": "箸 (đũa)"},
+                    {"pitch": "L-H", "meaning": "橋 (cầu)"},
+                    {"pitch": "L-H(↓)", "meaning": "端 (mép/bờ)"}
+                  ]
+                },
+                {
+                  "kana": "あめ ame",
+                  "meanings": [
+                    {"pitch": "H-L", "meaning": "雨 (mưa)"},
+                    {"pitch": "L-H", "meaning": "飴 (kẹo)"}
+                  ]
+                },
+                {
+                  "kana": "かき kaki",
+                  "meanings": [
+                    {"pitch": "H-L", "meaning": "柿 (hồng)"},
+                    {"pitch": "L-H", "meaning": "牡蠣 (hàu)"}
+                  ]
+                },
+                {
+                  "kana": "はな hana",
+                  "meanings": [
+                    {"pitch": "L-H (Heiban)", "meaning": "鼻 (mũi) - trợ từ Cao"},
+                    {"pitch": "L-H (Odaka)", "meaning": "花 (hoa) - trợ từ rớt"}
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Trong ngữ cảnh thực tế, người Nhật thường hiểu được nghĩa từ context. Tuy nhiên, nếu bạn phát âm sai pitch, người nghe cần **thêm thời gian** để xử lý, làm gián đoạn flow giao tiếp."
+            }
+          ]
+        },
+        "P.7": {
+          "title": "Xu Hướng Giảm Tự Nhiên (Declination)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ngay cả trong từ Heiban (phẳng), các mora Cao thực tế sẽ có xu hướng **giảm nhẹ** tần số về phía cuối từ do áp suất phổi giảm dần. Đây là hiện tượng vật lý tự nhiên."
+            },
+            {
+              "type": "warning",
+              "text": "Người Việt khi thấy đường pitch giảm nhẹ thường **nhầm lẫn với Thanh Huyền** và cố sửa bằng cách bẻ cong giọng lên (Thanh Sắc). Điều này tạo ra lỗi ngữ điệu nghiêm trọng!"
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc chấp nhận",
+              "points": [
+                "Xu hướng giảm **nhẹ và đều** là BÌNH THƯỜNG",
+                "Giảm **đột ngột** hoặc **lượn sóng** là SAI",
+                "Tưởng tượng máy bay **hạ độ cao từ từ**, không phải **bổ nhào**"
+              ]
+            }
+          ]
+        },
+        "P.8": {
+          "title": "Checklist Tự Đánh Giá",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sử dụng checklist này khi luyện tập với app Hizashi để tự đánh giá phát âm của mình."
+            },
+            {
+              "type": "checklist",
+              "items": [
+                "Mora đầu tiên có đủ THẤP không? (Không thêm Thanh Sắc)",
+                "Chuyển đổi L→H có đủ NHANH và DỨT KHOÁT không? (Bước nhảy, không trượt)",
+                "Âm mũi /N/ có đủ DÀI không? (Tương đương 1 mora)",
+                "Phần Cao (H-H-H...) có PHẲNG không? (Không lượn sóng)",
+                "Cuối từ có bị rơi xuống không? (Đừng thêm Thanh Huyền)",
+                "Khi thêm trợ từ, có đúng mô hình không? (Heiban = trợ từ Cao, có accent = trợ từ Thấp)"
+              ]
+            },
+            {
+              "type": "motivation",
+              "text": "Những gì vốn 'vô hình' trong âm thanh nay đã trở nên 'hữu hình' qua biểu đồ. Luyện tập với sự phản hồi trực quan sẽ giúp bạn tiến bộ nhanh chóng!"
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_9": {
+      "id": 9,
+      "title": "Biến Âm trong Tiếng Nhật: Từ Sách đến Đời Thực",
+      "intro": "Tại sao 'shinbun' lại phát âm với âm [m]? Tại sao 'desu' nghe như 'des'? Chương này giải mã tất cả các quy tắc biến âm giúp bạn nghe hiểu người Nhật thực sự.",
+      "sections": {
+        "B.1": {
+          "title": "Hatsuon (撥音): Âm Mũi ん Đa Hình",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Âm /N/ (viết là ん) là ví dụ điển hình nhất về biến âm. Trong khi tiếng Việt phân biệt rạch ròi **-n, -m, -ng, -nh**, tiếng Nhật chỉ có **một âm vị /N/** nhưng thay đổi hình thái tùy theo âm đi sau."
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc Đồng hóa Ngược chiều",
+              "points": [
+                "Âm /N/ **chuẩn bị sẵn** vị trí cấu âm cho phụ âm tiếp theo",
+                "Môi khép → [m], Lưỡi chạm lợi → [n], Lưỡi nâng ngạc mềm → [ŋ]",
+                "Người Việt nghe thấy nhiều âm khác nhau nhưng chỉ thấy một chữ viết (ん)"
+              ]
+            },
+            {
+              "type": "detailed_table",
+              "title": "5 Biến thể của âm ん",
+              "headers": ["Môi trường", "Phát âm", "Tương đương TV", "Ví dụ"],
+              "rows": [
+                ["Trước p, b, m", "[m]", "-m", "散歩 sanpo → [sampo]"],
+                ["Trước t, d, n, r", "[n]", "-n", "反対 hantai → [hantai]"],
+                ["Trước k, g", "[ŋ]", "-ng", "漫画 manga → [maŋga]"],
+                ["Cuối câu", "[ɴ]", "Sâu hơn -ng", "日本 nihon → [nihoɴ]"],
+                ["Trước s, z, h, nguyên âm", "[ɰ̃]", "Nguyên âm mũi hóa", "先生 sensei → [seẽsei]"]
+              ]
+            }
+          ]
+        },
+        "B.2": {
+          "title": "Chi Tiết Từng Biến Thể Hatsuon",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Hiểu chi tiết từng biến thể giúp bạn dự đoán và nhận diện từ vựng chính xác hơn."
+            },
+            {
+              "type": "example_box",
+              "title": "Biến thể [m] - Trước âm môi (p, b, m)",
+              "examples": [
+                {"word": "散歩", "romaji": "sanpo → [sampo]", "meaning": "Đi dạo"},
+                {"word": "新聞", "romaji": "shinbun → [shimbun]", "meaning": "Báo"},
+                {"word": "運命", "romaji": "unmei → [ummei]", "meaning": "Vận mệnh"},
+                {"word": "天ぷら", "romaji": "tenpura → [tempura]", "meaning": "Tempura"}
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Người Việt quen với âm -m nên không khó nghe. Vấn đề là **nhận diện từ** - nếu bạn tư duy 'shi-n-bu-n' từng ký tự, việc nghe [shimbun] có thể gây gián đoạn."
+            },
+            {
+              "type": "example_box",
+              "title": "Biến thể [ŋ] - Trước âm ngạc mềm (k, g)",
+              "examples": [
+                {"word": "漫画", "romaji": "manga → [maŋga]", "meaning": "Truyện tranh"},
+                {"word": "元気", "romaji": "genki → [geŋki]", "meaning": "Khỏe mạnh"},
+                {"word": "韓国", "romaji": "kankoku → [kaŋkoku]", "meaning": "Hàn Quốc"},
+                {"word": "天気", "romaji": "tenki → [teŋki]", "meaning": "Thời tiết"}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Người Việt quen với -ng nhưng thường không được dạy quy tắc này. Nhiều người cố phát âm 'man-ga' với âm [n] đầu lưỡi, tạo ra sự ngắt quãng không tự nhiên."
+            },
+            {
+              "type": "example_box",
+              "title": "Biến thể [ɰ̃] - Nguyên âm mũi hóa (KHÓ NHẤT)",
+              "examples": [
+                {"word": "先生", "romaji": "sensei → [seẽsei]", "meaning": "Giống 'se-ê-sê' với 'ê' giọng mũi"},
+                {"word": "恋愛", "romaji": "ren'ai → [reẽai]", "meaning": "Tình yêu"},
+                {"word": "翻訳", "romaji": "hon'yaku → [hoĩyaku]", "meaning": "Biên dịch"},
+                {"word": "電話", "romaji": "denwa → [deɰ̃wa]", "meaning": "Điện thoại"}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Đây là biến thể **khó nhất**. Tai chúng ta quen với âm mũi có điểm kết thúc rõ ràng. Âm [ɰ̃] nghe rất 'mờ', giống nguyên âm kéo dài. Người học thường nghe 'ren'ai' thành 're-ai' và **bỏ sót hoàn toàn âm /n/**."
+            }
+          ]
+        },
+        "B.3": {
+          "title": "Museika (無声化): Vô Thanh Hóa Nguyên Âm",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Tiếng Việt là ngôn ngữ mọi nguyên âm đều **hữu thanh** (dây thanh quản rung) để mang thanh điệu. Tiếng Nhật thường xuyên **'tắt'** nguyên âm /i/ và /u/ trong môi trường vô thanh."
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc Vô thanh hóa",
+              "points": [
+                "/i/ và /u/ bị vô thanh hóa khi nằm **giữa hai phụ âm vô thanh** (k, s, t, h, f, p, sh)",
+                "/i/ và /u/ bị vô thanh hóa khi đứng **sau phụ âm vô thanh ở cuối câu** (đặc biệt desu, masu)",
+                "Phát âm như tiếng gió/thì thầm, không rung dây thanh"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ Vô thanh hóa",
+              "examples": [
+                {"word": "聞く kiku", "romaji": "/k/+i+/k/ → [k'ku]", "meaning": "Nghe - âm /i/ gần như biến mất"},
+                {"word": "好き suki", "romaji": "/s/+u+/k/ → [s'ki]", "meaning": "Thích - nghe như 'ski'"},
+                {"word": "です desu", "romaji": "Cuối câu → [des']", "meaning": "Copula - âm /u/ biến mất"},
+                {"word": "ます masu", "romaji": "Cuối câu → [mas']", "meaning": "Lịch sự - âm /u/ biến mất"},
+                {"word": "下 shita", "romaji": "/sh/+i+/t/ → [sh'ta]", "meaning": "Dưới - âm /i/ biến mất"}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Người Việt thường phát âm 'Desu' là 'Đé-sự' (hữu thanh hóa toàn bộ). Điều này không chỉ nghe thiếu tự nhiên mà còn **sai lệch nhịp điệu** - [des'] chỉ tính 2 mora, nhưng 'Đé-sự' kéo dài thời gian."
+            }
+          ]
+        },
+        "B.4": {
+          "title": "Rendaku (連濁): Hiện Tượng Đục Hóa",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Rendaku là hiện tượng phụ âm đầu của thành tố thứ hai trong từ ghép bị biến đổi từ **vô thanh sang hữu thanh**. Đây là quy tắc bắt buộc phải nắm để nghe ra từ ghép."
+            },
+            {
+              "type": "detailed_table",
+              "title": "Quy tắc chuyển đổi Rendaku",
+              "headers": ["Âm gốc", "Sau Rendaku", "Ví dụ"],
+              "rows": [
+                ["k", "g", "折り + 紙 = 折り紙 origami"],
+                ["s/sh", "z/j", "巻き + 寿司 = 巻き寿司 makizushi"],
+                ["t/ch", "d/j", "鼻 + 血 = 鼻血 hanaji"],
+                ["h/f", "b", "生け + 花 = 生け花 ikebana"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Luật Lyman - Ngoại lệ quan trọng",
+              "points": [
+                "Rendaku **KHÔNG xảy ra** nếu thành tố thứ hai **đã chứa sẵn** phụ âm đục (g, z, d, b)",
+                "山 + 風 = 山風 yamakaze (KHÔNG thành yamagaze vì 'kaze' đã có /z/)",
+                "一人 + 旅 = 一人旅 hitoritabi (KHÔNG thành hitoridabi vì 'tabi' đã có /b/)"
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Khi nghe thấy âm đục ở giữa từ ghép (ví dụ 'bana' trong ikebana), hãy **truy nguyên** về từ gốc là 'hana' (hoa). Nếu không hiểu quy tắc này, bạn sẽ tra từ điển 'bana' và không tìm thấy!"
+            }
+          ]
+        },
+        "B.5": {
+          "title": "Rút Gọn Khẩu Ngữ: Chìa Khóa Nghe Hiểu Hội Thoại",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Đây là phần **quan trọng nhất** để nghe hiểu hội thoại đời thường (phim, anime, giao tiếp). Trong văn nói tốc độ nhanh, tiếng Nhật áp dụng triệt để nguyên lý **'tiết kiệm nỗ lực cơ bắp'**."
+            },
+            {
+              "type": "detailed_table",
+              "title": "Bảng Rút gọn Khẩu ngữ Thường gặp",
+              "headers": ["Dạng văn viết", "Dạng văn nói", "Ý nghĩa", "Ví dụ"],
+              "rows": [
+                ["-te shimau", "-chau", "Hoàn thành/Lỡ làm", "食べてしまう → 食べちゃう tabechau"],
+                ["-de shimau", "-jau", "Hoàn thành/Lỡ làm", "飲んでしまう → 飲んじゃう nonjau"],
+                ["-te iru", "-teru", "Đang làm", "知っている → 知ってる shitteru"],
+                ["-de iru", "-deru", "Đang làm", "飲んでいる → 飲んでる nonderu"],
+                ["-te oku", "-toku", "Làm sẵn", "書いておく → 書いとく kaitoku"],
+                ["-nakute wa", "-nakucha", "Phải làm", "行かなくては → 行かなくちゃ ikanakucha"],
+                ["-kereba", "-kya", "Nếu (điều kiện)", "なければ → なきゃ nakya"]
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Nếu bạn chỉ học theo giáo trình Minna no Nihongo (dạy -te imasu, -te shimaimasu), bạn sẽ hoàn toàn **bị sốc** khi nghe người Nhật nói chuyện thực tế!"
+            }
+          ]
+        },
+        "B.6": {
+          "title": "Hợp Nhất Nguyên Âm: /ai/ → /ee/",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Trong tiếng Nhật suồng sã, đặc biệt giọng nam Tokyo, các nguyên âm đôi thường được **'lười hóa'** thành nguyên âm đơn kéo dài."
+            },
+            {
+              "type": "example_box",
+              "title": "/ai/ và /oi/ biến thành /ee/",
+              "examples": [
+                {"word": "高い takai", "romaji": "→ takee", "meaning": "Cao/Đắt"},
+                {"word": "痛い itai", "romaji": "→ itee", "meaning": "Đau"},
+                {"word": "すごい sugoi", "romaji": "→ sugee", "meaning": "Tuyệt vời"},
+                {"word": "分からない wakaranai", "romaji": "→ wakannee", "meaning": "Không hiểu"},
+                {"word": "行きたいんです ikitain desu", "romaji": "→ ikiteen su", "meaning": "Muốn đi"}
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "/ui/ biến thành /ii/",
+              "examples": [
+                {"word": "悪い warui", "romaji": "→ warii", "meaning": "Xấu"},
+                {"word": "眠い nemui", "romaji": "→ nemii", "meaning": "Buồn ngủ"}
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Dạng biến âm này thường mang sắc thái **thô lỗ hoặc thân mật quá mức**. Tuy nhiên, tần suất xuất hiện **cực cao** trong anime và phim nên bạn cần nghe hiểu được."
+            }
+          ]
+        },
+        "B.7": {
+          "title": "Đồng Hóa /ra/ → /nn/",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Phụ âm /r/ trong tiếng Nhật là âm vỗ (flap) [ɾ], có vị trí cấu âm gần với /n/. Trong các dạng phủ định, /r/ thường bị biến đổi."
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc: ra + n → nn",
+              "points": [
+                "分からない wakaranai → 分かんない wakannai",
+                "つまらない tsumaranai → つまんない tsumannai",
+                "帰れない kaerenai → 帰えんない kaennai",
+                "知らない shiranai → しんない shinnai (ít gặp hơn)"
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Người Việt thường nghe 'wakannai' và nghĩ đó là **từ khác hoàn toàn**. Việc nhận ra cụm âm /nn/ thường là dấu hiệu của **động từ nhóm 1 chia thể phủ định bị rút gọn** là chìa khóa để nghe hiểu."
+            }
+          ]
+        },
+        "B.8": {
+          "title": "Sokuon Cường Điệu: Thêm っ để Nhấn Mạnh",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Để nhấn mạnh cảm xúc hoặc tạo nhịp điệu, người Nhật thường **chèn Sokuon** vào những chỗ vốn không có. Đây gọi là **Emphatic Gemination**."
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ Sokuon hóa cảm xúc",
+              "examples": [
+                {"word": "すごい sugoi", "romaji": "→ すっごい suggoi", "meaning": "Quá tuyệt!"},
+                {"word": "やはり yahari", "romaji": "→ やっぱり yappari", "meaning": "Quả nhiên"},
+                {"word": "とても totemo", "romaji": "→ とっても tottemo", "meaning": "Rất (nhấn mạnh)"},
+                {"word": "ばかり bakari", "romaji": "→ ばっかり bakkari", "meaning": "Toàn là"},
+                {"word": "同じ onaji", "romaji": "→ おんなじ onnaji", "meaning": "Giống nhau"}
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc biến đổi",
+              "points": [
+                "Các phụ âm vô thanh /k/, /s/, /t/ thường biến thành dạng gấp đôi",
+                "Hàng /h/ thường biến thành /pp/ (yahari → yappari)",
+                "Hiểu quy tắc này giúp bạn nhận ra từ gốc dù âm thanh đã bị biến đổi cường điệu"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "appendix": {
+    "A": {
+      "title": "Bảng tra cứu nhanh",
+      "content": "Tham khảo file japanese_alphabet.json để xem bảng đầy đủ"
+    },
+    "B": {
+      "title": "Thuật ngữ",
+      "terms": [
+        {"term": "Mora (拍)", "definition": "Đơn vị nhịp cơ bản của tiếng Nhật"},
+        {"term": "Pitch accent (高低アクセント)", "definition": "Sự thay đổi cao độ trong từ"},
+        {"term": "Dakuon (濁音)", "definition": "Âm đục - có dấu tenten"},
+        {"term": "Handakuon (半濁音)", "definition": "Bán đục - có dấu maru"},
+        {"term": "Yoon (拗音)", "definition": "Âm ghép với や/ゆ/よ nhỏ"},
+        {"term": "Sokuon (促音)", "definition": "Âm ngắt - っ nhỏ"},
+        {"term": "Chouon (長音)", "definition": "Trường âm - nguyên âm kéo dài"},
+        {"term": "Hatsuon (撥音)", "definition": "Âm ん"},
+        {"term": "IPA", "definition": "International Phonetic Alphabet - Bảng phiên âm quốc tế"},
+        {"term": "OJAD", "definition": "Online Japanese Accent Dictionary"},
+        {"term": "Rendaku (連濁)", "definition": "Hiện tượng đục hóa trong từ ghép"},
+        {"term": "Museika (無声化)", "definition": "Vô thanh hóa nguyên âm"}
+      ]
+    }
+  }
+}

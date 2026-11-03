@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "L25_FP_01",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生は学生を立たせました。",
+    "sentence_translation": "Thầy giáo bắt học sinh đứng dậy.",
+    "question_text": "先生は学生（　）立たせました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "[Người]を+させる = BẮT BUỘC/ÉP ai đó làm gì. 学生を立たせた = \"bắt học sinh đứng\". を = người bị ép, không có quyền từ chối",
+    "hint": "Thầy giáo BẮT BUỘC học sinh đứng → người bị ép dùng trợ từ nào?",
+    "tags": [
+      "を",
+      "させる",
+      "cuong_che"
+    ]
+  },
+  {
+    "id": "L25_FP_02",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "母は子供にピアノを弾かせました。",
+    "sentence_translation": "Mẹ cho con chơi piano.",
+    "question_text": "母は子供（　）ピアノを弾かせました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Người]に+させる = CHO PHÉP ai đó làm gì. Khi động từ đã có を (ピアノを), người được phép dùng に. 子供にピアノを弾かせた = \"cho con chơi piano\"",
+    "hint": "Mẹ CHO PHÉP con chơi piano → động từ đã có を (ピアノを) → người được phép dùng gì?",
+    "tags": [
+      "に",
+      "させる",
+      "cho_phep"
+    ]
+  },
+  {
+    "id": "L25_FP_03",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "部長は田中さんを出張させました。",
+    "sentence_translation": "Trưởng phòng bắt Tanaka đi công tác.",
+    "question_text": "部長は田中さん（　）出張させました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "田中さんを出張させた = \"bắt Tanaka đi công tác\". を + させる = CƯỠNG CHẾ, cấp trên ép cấp dưới. Tanaka không có quyền từ chối",
+    "hint": "Trưởng phòng ÉP Tanaka đi công tác (không hỏi ý kiến) → người bị ép dùng gì?",
+    "tags": [
+      "を",
+      "させる",
+      "cuong_che",
+      "thuong_cap"
+    ]
+  },
+  {
+    "id": "L25_FP_04",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "すみません、ちょっと考え（　）ください。",
+    "sentence_translation": "Xin lỗi, xin hãy cho tôi suy nghĩ một chút.",
+    "question_text": "ちょっと考え（　）ください。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "されて",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "させて",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "られて",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "して",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vさせてください = \"xin hãy cho tôi ~\". 考えさせてください = \"xin cho tôi suy nghĩ\". させて = thể sai khiến dạng て, lịch sự yêu cầu được phép làm",
+    "hint": "\"Xin hãy CHO TÔI làm\" → thể sai khiến + て + ください → điền gì?",
+    "tags": [
+      "させてください",
+      "yeu_cau"
+    ]
+  },
+  {
+    "id": "L25_FP_05",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先輩に荷物（　）持たせられました。",
+    "sentence_translation": "Bị anh chị bắt mang đồ.",
+    "question_text": "先輩に荷物（　）持たせられました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "荷物を持たせられた = \"bị bắt mang đồ\". を đánh dấu đối tượng của hành động (mang cái gì = 荷物を). させられる = bị bắt buộc (nạn nhân)",
+    "hint": "Bị bắt mang ĐỒ (đối tượng của hành động) → đồ là gì?",
+    "tags": [
+      "を",
+      "させられる",
+      "doi_tuong"
+    ]
+  },
+  {
+    "id": "L25_FP_06",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生は私（　）発表させました。",
+    "sentence_translation": "Thầy giáo cho tôi thuyết trình.",
+    "question_text": "先生は私（　）発表させました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "私に発表させた = \"cho tôi thuyết trình\". に = cho phép/tạo cơ hội. SO SÁNH: 私を発表させた = \"BẮT tôi thuyết trình\" (ép buộc). に vs を thay đổi HOÀN TOÀN ý nghĩa!",
+    "hint": "Thầy giáo CHO tôi thuyết trình (có ý cho phép) → người được phép dùng gì?",
+    "tags": [
+      "に",
+      "を",
+      "させる",
+      "cho_phep",
+      "cuong_che",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L25_FP_07",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私は毎日母に野菜を食べ（　）。",
+    "sentence_translation": "Tôi bị mẹ bắt ăn rau mỗi ngày.",
+    "question_text": "食べ（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "させられる",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "させる",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "される",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "られる",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "食べさせられる = \"bị bắt ăn\". させられる = sai khiến BỊ ĐỘNG → người nói là NẠN NHÂN, bị ép làm điều không muốn. KHÁC 食べさせる (bắt/cho ăn - góc nhìn người ép)",
+    "hint": "Tôi BỊ MẸ bắt ăn rau → tôi là NẠN NHÂN → dùng thể nào?",
+    "tags": [
+      "させられる",
+      "nan_nhan"
+    ]
+  },
+  {
+    "id": "L25_FP_08",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "このプロジェクトを担当（　）いただけませんか。",
+    "sentence_translation": "Xin phép được giao cho tôi phụ trách dự án này.",
+    "question_text": "担当（　）いただけませんか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "られて",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "されて",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "させて",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "して",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vさせていただく = khiêm nhường \"xin được phép ~\". 担当させていただく = \"xin được phép phụ trách\". Dùng trong kinh doanh, rất trang trọng. いただく = もらう dạng khiêm nhường",
+    "hint": "Khiêm nhường xin phép → \"xin được phép làm\" → cấu trúc nào?",
+    "tags": [
+      "させていただく",
+      "khiem_nhuong",
+      "kinh_doanh"
+    ]
+  },
+  {
+    "id": "L25_FP_09",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "社長のおかげで海外（　）留学させてもらいました。",
+    "sentence_translation": "Nhờ giám đốc mà tôi được cho đi du học nước ngoài.",
+    "question_text": "海外（　）留学させてもらいました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "海外に留学させてもらった = \"được cho đi du học ở nước ngoài\". に = điểm đến. させてもらう = \"được (ai đó) cho phép ~\" (biết ơn người cho phép)",
+    "hint": "Du học Ở ĐÂU → điểm đến của việc du học → dùng trợ từ nào?",
+    "tags": [
+      "に",
+      "させてもらう",
+      "diem_den"
+    ]
+  },
+  {
+    "id": "L25_FP_10",
+    "lesson_id": 25,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子供の頃、毎日兄に泣か（　）。",
+    "sentence_translation": "Hồi nhỏ, mỗi ngày bị anh trai làm khóc.",
+    "question_text": "泣か（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "せられた",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "られた",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "させられた",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "された",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Nhóm I có thể rút gọn: 泣かせられる → 泣かされる (された = quá khứ). BẪY: 泣かされた ≠ 泣かれた! された = sai khiến bị động (bị BẮT làm). れた = bị động thường (bị ảnh hưởng)",
+    "hint": "Nhóm I rút gọn: 泣かせられる → 泣かされる. Thể quá khứ?",
+    "tags": [
+      "された",
+      "させられる",
+      "rut_gon",
+      "nhom_I"
+    ]
+  },
+  {
+    "id": "L25_CH_11",
+    "lesson_id": 25,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "先生は学生を立たせました",
+    "sentence_translation": "Thầy giáo bắt học sinh đứng dậy.",
+    "question_text": "先生は学生を立たせました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "先生は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "学生を立たせました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "先生は = thầy giáo (chủ đề) | 学生を立たせました = bắt học sinh đứng. を+させる = cưỡng chế. 学生を = người bị bắt, 立たせました = bắt đứng",
+    "hint": null,
+    "tags": [
+      "を",
+      "させる",
+      "cuong_che",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L25_CH_12",
+    "lesson_id": 25,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "すみません、少し休ませてください",
+    "sentence_translation": "Xin lỗi, xin cho tôi nghỉ một chút.",
+    "question_text": "すみません、少し休ませてください",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "すみません",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "少し休ませてください",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "すみません = xin lỗi | 少し休ませてください = xin cho tôi nghỉ một chút. させてください = \"xin cho tôi ~\". Lịch sự yêu cầu quyền được làm gì đó",
+    "hint": null,
+    "tags": [
+      "させてください",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L25_CH_13",
+    "lesson_id": 25,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "部長に毎日残業させられて大変です",
+    "sentence_translation": "Bị trưởng phòng bắt làm thêm mỗi ngày, vất vả lắm.",
+    "question_text": "部長に毎日残業させられて大変です",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "部長に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "毎日残業させられて",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "大変です",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "部長に = bởi trưởng phòng (người ép) | 毎日残業させられて = bị bắt làm thêm mỗi ngày + て (nối kết quả) | 大変です = vất vả. させられて = sai khiến bị động → nạn nhân!",
+    "hint": null,
+    "tags": [
+      "させられる",
+      "nan_nhan",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L25_CH_14",
+    "lesson_id": 25,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "社長にこのプロジェクトを担当させていただきました",
+    "sentence_translation": "Tôi đã được giám đốc cho phép phụ trách dự án này.",
+    "question_text": "社長にこのプロジェクトを担当させていただきました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "社長に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "このプロジェクトを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "担当させていただきました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "社長に = bởi giám đốc (người cho phép) | このプロジェクトを = dự án này (đối tượng) | 担当させていただきました = đã được phép phụ trách (khiêm nhường). させていただく = khiêm nhường, biết ơn",
+    "hint": null,
+    "tags": [
+      "させていただく",
+      "khiem_nhuong",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L25_CH_15",
+    "lesson_id": 25,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "母は子供に好きなおもちゃを選ばせました",
+    "sentence_translation": "Mẹ cho con tự chọn đồ chơi mà con thích.",
+    "question_text": "母は子供に好きなおもちゃを選ばせました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "母は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "子供に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "好きなおもちゃを",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "選ばせました",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "母は = mẹ (chủ đề) | 子供に = cho con (người được phép, dùng に) | 好きなおもちゃを = đồ chơi thích (đối tượng) | 選ばせました = cho chọn. に+させる = CHO PHÉP (đã có を cho đối tượng)",
+    "hint": null,
+    "tags": [
+      "に",
+      "させる",
+      "cho_phep",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L25_CH_16",
+    "lesson_id": 25,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "先輩のおかげで大事な会議で発表させてもらいました",
+    "sentence_translation": "Nhờ anh chị mà tôi được phát biểu trong cuộc họp quan trọng.",
+    "question_text": "先輩のおかげで大事な会議で発表させてもらいました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "先輩のおかげで",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "大事な会議で",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "発表させてもらいました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "先輩のおかげで = 🔒 \"nhờ anh chị\" (nguồn ơn) | 大事な会議で = tại cuộc họp quan trọng (nơi chốn) | 発表させてもらいました = được cho phép phát biểu (biết ơn). させてもらう = \"được ~ cho\" (cảm ơn người cho phép)",
+    "hint": null,
+    "tags": [
+      "させてもらう",
+      "biet_on",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L25_PD_17",
+    "lesson_id": 25,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "学生を発表させた / 学生に発表させた",
+    "sentence_translation": "Bắt học sinh thuyết trình. / Cho học sinh thuyết trình.",
+    "question_text": "Câu nào là CƯỠNG CHẾ (bắt buộc)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "学生を発表させた (を+させる = cưỡng chế, bắt buộc)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "学生に発表させた (に+させる = cho phép, tạo cơ hội)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を+させる = CƯỠNG CHẾ (bắt buộc, không hỏi ý kiến). に+させる = CHO PHÉP (tạo cơ hội, tôn trọng ý muốn). CHỈ KHÁC 1 TRỢ TỪ mà ý nghĩa đổi hoàn toàn! を = ép, に = cho",
+    "hint": null,
+    "tags": [
+      "を",
+      "に",
+      "させる",
+      "cuong_che",
+      "cho_phep",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L25_PD_18",
+    "lesson_id": 25,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "歌わされた / 歌われた",
+    "sentence_translation": "Bị bắt hát. / Bị hát (bị động thường).",
+    "question_text": "Câu nào là SAI KHIẾN BỊ ĐỘNG (nạn nhân bị bắt buộc)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "歌わされた (された = sai khiến bị động, bị BẮT hát)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "歌われた (れた = bị động thường, bị ảnh hưởng bởi việc hát)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "BẪY THƯỜNG GẶP: された ≠ れた! 歌わされた = \"bị BẮT hát\" (sai khiến bị động → nạn nhân). 歌われた = \"bị hát\" (bị động thường → bị ảnh hưởng). Thêm さ = thêm tầng \"bị ép\"",
+    "hint": null,
+    "tags": [
+      "された",
+      "れた",
+      "sai_khien_bi_dong",
+      "bi_dong",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L25_PD_19",
+    "lesson_id": 25,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "させてください / させていただけませんか",
+    "sentence_translation": "Xin cho tôi làm. / Xin phép được làm (được không ạ?).",
+    "question_text": "Câu nào TRANG TRỌNG hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "させていただけませんか (khiêm nhường + phủ định → cực kỳ trang trọng, kinh doanh)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "させてください (lịch sự nhưng trực tiếp hơn)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "させてください = lịch sự (bình thường). させていただけませんか = cực kỳ trang trọng (kinh doanh, với khách hàng). いただく = khiêm nhường của もらう. ませんか = hỏi phủ định → nhẹ nhàng hơn",
+    "hint": null,
+    "tags": [
+      "させてください",
+      "させていただく",
+      "muc_do_lich_su",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L25_PD_20",
+    "lesson_id": 25,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "食べさせてもらった / 食べさせていただいた",
+    "sentence_translation": "Được cho ăn (biết ơn). / Được cho ăn (khiêm nhường).",
+    "question_text": "Câu nào dùng trong KINH DOANH?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "食べさせてもらった (もらう = bình thường, dùng với bạn bè/người thân)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "食べさせていただいた (いただく = khiêm nhường, dùng với người trên/khách hàng)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "させてもらう = \"được cho phép ~\" (biết ơn, bình thường). させていただく = \"được cho phép ~\" (khiêm nhường, kinh doanh). いただく nâng cấp もらう lên kính ngữ. Nội dung GIỐNG nhau, mức độ lịch sự KHÁC nhau",
+    "hint": null,
+    "tags": [
+      "させてもらう",
+      "させていただく",
+      "khiem_nhuong",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L25_PK_21",
+    "lesson_id": 25,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "部長に毎日遅くまで残業させられています。",
+    "sentence_translation": "Bị trưởng phòng bắt làm thêm khuya mỗi ngày.",
+    "question_text": "🔒 Gặp させられて → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"làm thêm\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói \"trưởng phòng\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"bị bắt làm thêm khuya mỗi ngày\" → tôi là NẠN NHÂN → đọc tiếp tìm kết quả/cảm xúc",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp させられる → 🔒 đóng gói: \"NẠN NHÂN bị bắt làm gì đó\". 部長に残業させられて → \"bị trưởng phòng ép làm thêm\". Đọc tiếp: います = đang tiếp diễn (vẫn đang bị bắt). Hiểu NGAY góc nhìn nạn nhân!",
+    "hint": null,
+    "tags": [
+      "させられる",
+      "nan_nhan",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L25_PK_22",
+    "lesson_id": 25,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生のおかげで大会に出させてもらいました。",
+    "sentence_translation": "Nhờ thầy giáo mà tôi được tham gia đại hội.",
+    "question_text": "🔒 Gặp させてもらいました → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"tham gia\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói \"thầy giáo\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Được cho phép tham gia\" + biết ơn thầy giáo → đóng gói: \"điều tốt đẹp nhờ người khác\" → cảm xúc BIẾT ƠN",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp させてもらう → 🔒 đóng gói: \"được AI ĐÓ cho phép, và tôi BIẾT ƠN\". のおかげで = nhờ ơn ~. させてもらう = nhận được sự cho phép (cảm ơn). Toàn câu = lòng biết ơn → đọc nhanh!",
+    "hint": null,
+    "tags": [
+      "させてもらう",
+      "biet_on",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L25_PK_23",
+    "lesson_id": 25,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子供の頃、兄にいつもお菓子を取られて泣かされました。",
+    "sentence_translation": "Hồi nhỏ, luôn bị anh trai lấy mất bánh và bị làm cho khóc.",
+    "question_text": "🔒 Gặp chuỗi bị động kép: 取られて + 泣かされた → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ đóng gói \"khóc\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói 2 lớp nạn nhân: \"bị lấy bánh\" (bị động) + \"bị làm khóc\" (sai khiến bị động) → CHUỖI bị hại → hiểu toàn cảnh nạn nhân",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"lấy bánh\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "取られて = bị động thường (bị lấy). 泣かされた = sai khiến bị động (bị làm cho khóc). 2 lớp nạn nhân liên tiếp! 🔒 Đóng gói: \"bị anh trai làm khổ\" → hiểu NGAY bối cảnh tuổi thơ",
+    "hint": null,
+    "tags": [
+      "された",
+      "られて",
+      "dong_goi",
+      "nan_nhan"
+    ]
+  },
+  {
+    "id": "L25_PK_24",
+    "lesson_id": 25,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "本日はお忙しい中、お集まりいただきまして、一言ご挨拶させていただきます。",
+    "sentence_translation": "Hôm nay trong lúc quý vị bận, đã đến đây, xin phép được nói một lời chào.",
+    "question_text": "🔒 Gặp させていただきます → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"Xin phép được ~\" = khiêm nhường KINH DOANH → đóng gói: \"người nói rất khiêm tốn, đây là tình huống trang trọng\" → đọc nhanh phần nội dung",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 させていただく = bắt buộc",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"chào\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp させていただく → 🔒 đóng gói: \"KHIÊM NHƯỜNG xin phép\". Bối cảnh = kinh doanh/trang trọng. Không cần dịch từng từ, hiểu NGAY: người nói đang rất lịch sự xin phép làm gì đó. Đọc nhanh!",
+    "hint": null,
+    "tags": [
+      "させていただく",
+      "khiem_nhuong",
+      "dong_goi",
+      "kinh_doanh"
+    ]
+  },
+  {
+    "id": "L25_RO_25",
+    "lesson_id": 25,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "先生は学生を走らせました。",
+    "sentence_translation": "Thầy giáo bắt học sinh chạy.",
+    "question_text": "先生は学生を走らせました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "走らせました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "学生を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "先生は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "先生は (chủ đề: thầy giáo) → 学生を (người bị bắt: học sinh) → 走らせました (bắt chạy). Người ép + は, người bị ép + を, động từ sai khiến cuối câu",
+    "hint": null,
+    "tags": [
+      "を",
+      "させる",
+      "cuong_che",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L25_RO_26",
+    "lesson_id": 25,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "すみません、先に帰らせてください。",
+    "sentence_translation": "Xin lỗi, xin cho tôi về trước.",
+    "question_text": "すみません、先に帰らせてください。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "ください",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "帰らせて",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "先に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "すみません",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "すみません (xin lỗi) → 先に (trước) → 帰らせてください (xin cho tôi về). させてください = xin cho tôi + động từ. Yêu cầu lịch sự được phép làm",
+    "hint": null,
+    "tags": [
+      "させてください",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L25_RO_27",
+    "lesson_id": 25,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "子供の頃よく父に勉強させられました。",
+    "sentence_translation": "Hồi nhỏ thường bị bố bắt học bài.",
+    "question_text": "子供の頃よく父に勉強させられました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "させられました",
+        "is_correct": true,
+        "order": 5
+      },
+      {
+        "text": "勉強",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "父に",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "よく",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "子供の頃",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "子供の頃 (hồi nhỏ) → よく (thường) → 父に (bởi bố) → 勉強させられました (bị bắt học). に = người ép, させられる = nạn nhân bị bắt",
+    "hint": null,
+    "tags": [
+      "させられる",
+      "nan_nhan",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L25_RO_28",
+    "lesson_id": 25,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "このたびは弊社の新製品をご紹介させていただきます。",
+    "sentence_translation": "Lần này xin phép được giới thiệu sản phẩm mới của công ty chúng tôi.",
+    "question_text": "このたびは弊社の新製品をご紹介させていただきます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "させていただきます",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "ご紹介",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "弊社の新製品を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "このたびは",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "このたびは (lần này) → 弊社の新製品を (sản phẩm mới của công ty) → ご紹介させていただきます (xin phép giới thiệu). させていただく = khiêm nhường kinh doanh, rất trang trọng",
+    "hint": null,
+    "tags": [
+      "させていただく",
+      "khiem_nhuong",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L25_QT_29",
+    "lesson_id": 25,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "母は子供を早く寝させました。",
+    "sentence_translation": "Mẹ bắt con đi ngủ sớm.",
+    "question_text": "母は / 子供を / 早く寝させました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Mẹ đi ngủ sớm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Con đi ngủ sớm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Mẹ bắt con đi ngủ sớm. (を = cưỡng chế)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Mẹ cho con đi ngủ sớm. (cho phép)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "子供を寝させた = \"BẮT con ngủ\". を+させる = CƯỠNG CHẾ → mẹ ép con ngủ sớm, con không muốn nhưng phải ngủ. Nếu là に → \"cho con ngủ\" (cho phép)",
+    "hint": null,
+    "tags": [
+      "を",
+      "させる",
+      "cuong_che",
+      "dich"
+    ]
+  },
+  {
+    "id": "L25_QT_30",
+    "lesson_id": 25,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "課長は私に資料を作らせました。",
+    "sentence_translation": "Trưởng phòng cho tôi làm tài liệu.",
+    "question_text": "課長は / 私に / 資料を作らせました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Trưởng phòng làm tài liệu.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trưởng phòng bắt tôi làm tài liệu. (cưỡng chế)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trưởng phòng cho tôi làm tài liệu. (に = cho phép/giao việc)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi đã làm tài liệu.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "私に資料を作らせた = \"cho tôi làm tài liệu\". に = cho phép/giao việc (đã có を cho đối tượng 資料を). Nếu là 私を → \"bắt tôi\" (cưỡng chế hơn). に nhẹ nhàng hơn を",
+    "hint": null,
+    "tags": [
+      "に",
+      "させる",
+      "cho_phep",
+      "dich"
+    ]
+  },
+  {
+    "id": "L25_QT_31",
+    "lesson_id": 25,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "毎日上司に残業させられて、つらいです。",
+    "sentence_translation": "Mỗi ngày bị sếp bắt làm thêm, khổ sở lắm.",
+    "question_text": "上司に / 残業させられて / つらいです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi làm thêm mỗi ngày. (tự nguyện)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sếp làm thêm mỗi ngày.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sếp cho tôi làm thêm mỗi ngày. (cho phép)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bị sếp bắt làm thêm mỗi ngày, khổ sở lắm. (nạn nhân)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "させられる = NẠN NHÂN bị bắt buộc. 残業させられて = \"bị bắt làm thêm\" → つらい = khổ sở. Góc nhìn NẠN NHÂN: tôi không muốn nhưng bị ép. させられる luôn mang cảm giác tiêu cực!",
+    "hint": null,
+    "tags": [
+      "させられる",
+      "nan_nhan",
+      "dich"
+    ]
+  },
+  {
+    "id": "L25_QT_32",
+    "lesson_id": 25,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "今回のイベントで司会をさせていただきます。",
+    "sentence_translation": "Xin phép được làm MC cho sự kiện lần này.",
+    "question_text": "司会を / させていただきます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi sẽ làm MC. (bình thường)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin phép được làm MC. (khiêm nhường, kinh doanh)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Cho tôi làm MC. (yêu cầu)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi bị bắt làm MC. (nạn nhân)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "させていただく = \"xin phép được ~\" (khiêm nhường). Thực tế có thể là được GIAO làm MC, nhưng nói khiêm tốn như thể là VINH DỰ được làm. Rất thường gặp trong kinh doanh Nhật",
+    "hint": null,
+    "tags": [
+      "させていただく",
+      "khiem_nhuong",
+      "dich"
+    ]
+  },
+  {
+    "id": "L25_QT_33",
+    "lesson_id": 25,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先輩のおかげで、いい経験をさせてもらいました。",
+    "sentence_translation": "Nhờ anh chị mà tôi được có trải nghiệm tốt.",
+    "question_text": "させてもらいました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tự mình trải nghiệm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin phép được trải nghiệm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Được cho có trải nghiệm tốt (biết ơn).",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Bị bắt trải nghiệm.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "させてもらう = \"được (ai đó) cho phép ~\" + BIẾT ƠN. KHÁC させていただく (khiêm nhường, trang trọng hơn). させてもらう dùng với người thân quen, thể hiện lòng cảm ơn chân thành",
+    "hint": null,
+    "tags": [
+      "させてもらう",
+      "biet_on",
+      "dich"
+    ]
+  },
+  {
+    "id": "L25_QT_34",
+    "lesson_id": 25,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子供の頃、嫌いな野菜を食べさせられました。",
+    "sentence_translation": "Hồi nhỏ, bị bắt ăn rau mà mình không thích.",
+    "question_text": "食べさせられました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Xin phép được ăn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Được cho ăn (biết ơn).",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tự ăn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bị bắt ăn (nạn nhân, không muốn nhưng phải ăn).",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "食べさせられた = \"bị bắt ăn\". させられる = nạn nhân bị ép. 嫌いな野菜を = rau không thích → bị bắt ăn điều không muốn. KHÁC 食べさせてもらった (được cho ăn → biết ơn)",
+    "hint": null,
+    "tags": [
+      "させられる",
+      "させてもらう",
+      "nan_nhan",
+      "phan_biet",
+      "dich"
+    ]
+  }
+]

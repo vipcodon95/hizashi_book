@@ -1,0 +1,590 @@
+{
+  "metadata": {
+    "source_file": "stage2_context_listening.json",
+    "original_title": "Stage 2C - Nghe hiểu trong ngữ cảnh",
+    "total_questions": 7,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "S2C_L1_01",
+      "base_type": "dialogue",
+      "sub_type": "situational_dialogue",
+      "audio_ids": [
+        "S2C_L1_01_audio"
+      ],
+      "prompt": "Nghe hội thoại và trả lời các câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "situation": "Tại nhà hàng",
+          "script": [
+            "Staff: いらっしゃいませ。なんめいさまですか。",
+            "Customer: ふたりです。",
+            "Staff: おタバコはおすいになりますか。",
+            "Customer: いいえ、すいません。",
+            "Staff: かしこまりました。こちらへどうぞ。"
+          ],
+          "questions": [
+            {
+              "question": "Có bao nhiêu người?",
+              "options": [
+                "1 người",
+                "2 người",
+                "3 người"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Khách có hút thuốc không?",
+              "options": [
+                "Có",
+                "Không"
+              ],
+              "answer": 1
+            }
+          ],
+          "vocabulary_focus": [
+            "なんめいさま",
+            "ふたり",
+            "おタバコ",
+            "かしこまりました"
+          ]
+        },
+        {
+          "situation": "Mua vé tàu",
+          "script": [
+            "Customer: すみません、とうきょうまで、おとなにまい、おねがいします。",
+            "Staff: かたみちですか、おうふくですか。",
+            "Customer: おうふくで、おねがいします。",
+            "Staff: にせんはっぴゃくえんになります。"
+          ],
+          "questions": [
+            {
+              "question": "Khách muốn đi đâu?",
+              "options": [
+                "Osaka",
+                "Tokyo",
+                "Kyoto"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Mua bao nhiêu vé?",
+              "options": [
+                "1 vé",
+                "2 vé",
+                "3 vé"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Vé khứ hồi hay một chiều?",
+              "options": [
+                "Một chiều",
+                "Khứ hồi"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Giá bao nhiêu?",
+              "options": [
+                "2600 yên",
+                "2800 yên",
+                "3800 yên"
+              ],
+              "answer": 1
+            }
+          ],
+          "vocabulary_focus": [
+            "おとな",
+            "まい (đếm vé)",
+            "かたみち",
+            "おうふく"
+          ]
+        },
+        {
+          "situation": "Hỏi đường",
+          "script": [
+            "A: すみません、ゆうびんきょくはどこですか。",
+            "B: ゆうびんきょくですか。このみちをまっすぐいって、ふたつめのしんごうをみぎにまがってください。",
+            "A: ふたつめのしんごうをみぎですね。",
+            "B: はい、そうです。ひだりがわにあります。",
+            "A: わかりました。ありがとうございます。"
+          ],
+          "questions": [
+            {
+              "question": "A muốn tìm gì?",
+              "options": [
+                "Ngân hàng",
+                "Bưu điện",
+                "Nhà ga"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Rẽ ở đèn đỏ thứ mấy?",
+              "options": [
+                "Thứ nhất",
+                "Thứ hai",
+                "Thứ ba"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Rẽ hướng nào?",
+              "options": [
+                "Trái",
+                "Phải"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Bưu điện ở bên nào?",
+              "options": [
+                "Bên trái",
+                "Bên phải"
+              ],
+              "answer": 0
+            }
+          ],
+          "vocabulary_focus": [
+            "ゆうびんきょく",
+            "まっすぐ",
+            "しんごう",
+            "ひだりがわ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S2C_L2_01",
+      "base_type": "dialogue",
+      "sub_type": "extended_dialogue",
+      "audio_ids": [
+        "S2C_L2_01_audio"
+      ],
+      "prompt": "Nghe hội thoại dài và trả lời các câu hỏi chi tiết",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "situation": "Lên kế hoạch cuối tuần",
+          "script": [
+            "A: もしもし、たなかさん？",
+            "B: あ、やまださん、ひさしぶり！げんき？",
+            "A: うん、げんき。ねえ、こんどのどようび、ひまある？",
+            "B: どようび...ごぜんちゅうはヨガがあるんだけど、ごごはひまだよ。",
+            "A: じゃあ、いっしょにえいがみにいかない？",
+            "B: いいね！なにみる？",
+            "A: あたらしいアニメえいががあるんだって。ひょうばんいいみたいよ。",
+            "B: あ、それみたかった！なんじからにする？",
+            "A: さんじのかいがいいかな。おわったらごはんたべにいこう。",
+            "B: さんせい！じゃあ、にじはんにえきまえであおう。",
+            "A: わかった。たのしみにしてるね！",
+            "B: わたしも！じゃあ、どようびね。"
+          ],
+          "questions": [
+            {
+              "question": "Họ đang nói chuyện qua gì?",
+              "options": [
+                "Trực tiếp",
+                "Điện thoại",
+                "Email"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Tanaka có lịch gì buổi sáng thứ Bảy?",
+              "options": [
+                "Yoga",
+                "Làm việc",
+                "Gặp bạn"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Họ sẽ làm gì cùng nhau?",
+              "options": [
+                "Đi mua sắm",
+                "Xem phim",
+                "Đi du lịch"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Họ sẽ xem gì?",
+              "options": [
+                "Phim hành động",
+                "Phim anime mới",
+                "Phim kinh dị"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Xem phim lúc mấy giờ?",
+              "options": [
+                "2 giờ",
+                "2 giờ 30",
+                "3 giờ"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Họ sẽ gặp nhau ở đâu, lúc mấy giờ?",
+              "options": [
+                "Trước ga lúc 2:30",
+                "Trước rạp lúc 3:00",
+                "Nhà hàng lúc 5:00"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Sau phim họ sẽ làm gì?",
+              "options": [
+                "Về nhà",
+                "Đi ăn",
+                "Đi mua sắm"
+              ],
+              "answer": 1
+            }
+          ],
+          "key_expressions": [
+            "ひさしぶり - lâu rồi không gặp",
+            "いっしょに〜いかない？ - đi cùng không?",
+            "〜んだって - nghe nói",
+            "ひょうばんいい - đánh giá tốt",
+            "さんせい - đồng ý"
+          ]
+        },
+        {
+          "situation": "Trao đổi về công việc",
+          "script": [
+            "A: すずきさん、きのうのかいぎ、どうだった？",
+            "B: たいへんだったよ。さんじかんもかかった。",
+            "A: えー、ながいね。なにをはなしたの？",
+            "B: しんせいひんのけいかくについてなんだけど、いけんがわかれちゃって...",
+            "A: そうなんだ。けつろんはでた？",
+            "B: いちおう、らいしゅうまでにしりょうをまとめることになった。",
+            "A: じゃあ、いそがしくなるね。てつだおうか？",
+            "B: ほんと？たすかる！データせいりをおねがいできる？",
+            "A: もちろん。きんようびまでにやっとくよ。",
+            "B: ありがとう！たすかるー！"
+          ],
+          "questions": [
+            {
+              "question": "Cuộc họp kéo dài bao lâu?",
+              "options": [
+                "1 tiếng",
+                "2 tiếng",
+                "3 tiếng"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Họ thảo luận về gì?",
+              "options": [
+                "Sản phẩm mới",
+                "Nhân sự",
+                "Tài chính"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Kết quả họp như thế nào?",
+              "options": [
+                "Đồng ý hết",
+                "Ý kiến khác nhau",
+                "Hủy dự án"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "B phải làm gì trước tuần sau?",
+              "options": [
+                "Họp lại",
+                "Tổng hợp tài liệu",
+                "Báo cáo sếp"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "A sẽ giúp gì?",
+              "options": [
+                "Viết báo cáo",
+                "Sắp xếp dữ liệu",
+                "Liên hệ khách hàng"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "A hoàn thành trước khi nào?",
+              "options": [
+                "Thứ Năm",
+                "Thứ Sáu",
+                "Thứ Bảy"
+              ],
+              "answer": 1
+            }
+          ],
+          "key_expressions": [
+            "たいへんだった - vất vả",
+            "〜かかった - mất (thời gian)",
+            "いけんがわかれる - ý kiến khác nhau",
+            "てつだおうか - để tôi giúp nhé",
+            "たすかる - cảm ơn/may quá"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S2C_L3_01",
+      "base_type": "announcement",
+      "sub_type": "monologue_comprehension",
+      "audio_ids": [
+        "S2C_L3_01_audio"
+      ],
+      "prompt": "Nghe đoạn văn và trả lời câu hỏi",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "S2C_L4_01",
+      "base_type": "dialogue",
+      "sub_type": "multi_speaker_dialogue",
+      "audio_ids": [
+        "S2C_L4_01_audio"
+      ],
+      "prompt": "Nghe hội thoại nhiều người và trả lời",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "situation": "Lên kế hoạch tiệc sinh nhật",
+          "speakers": [
+            "A (Tanaka)",
+            "B (Yamada)",
+            "C (Suzuki)"
+          ],
+          "script": [
+            "A: ねえ、さとうさんのたんじょうびパーティー、どうする？",
+            "B: そうだね、らいしゅうのどようびはどう？",
+            "C: どようびはちょっと...バイトがあるんだ。にちようびならだいじょうぶ。",
+            "A: じゃあ、にちようびにしよう。ばしょは？",
+            "B: わたしのいえでいい？りょうりつくるよ。",
+            "C: いいね！じゃあ、わたしはケーキをかってくる。",
+            "A: わたしはプレゼントをえらぶね。なにがいいかな？",
+            "B: さとうさん、さいきんよくほんをよんでるよね。ほんはどう？",
+            "C: あ、いいかも！すきなさっかとかしってる？",
+            "A: むらかみはるきがすきっていってた。",
+            "B: じゃあ、むらかみはるきのしんさくにしよう！",
+            "C: さんせい！なんじにあつまる？",
+            "A: ごごさんじくらいはどう？",
+            "B&C: オッケー！"
+          ],
+          "questions": [
+            {
+              "question": "Họ đang lên kế hoạch gì?",
+              "options": [
+                "Đi du lịch",
+                "Tiệc sinh nhật",
+                "Họp nhóm"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Tiệc của ai?",
+              "options": [
+                "Tanaka",
+                "Yamada",
+                "Sato"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Tại sao không chọn thứ Bảy?",
+              "options": [
+                "Tanaka bận",
+                "Yamada bận",
+                "Suzuki có việc làm thêm"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Tiệc tổ chức ở đâu?",
+              "options": [
+                "Nhà hàng",
+                "Nhà Yamada",
+                "Nhà Sato"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Ai sẽ nấu ăn?",
+              "options": [
+                "Tanaka",
+                "Yamada",
+                "Suzuki"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Ai sẽ mua bánh?",
+              "options": [
+                "Tanaka",
+                "Yamada",
+                "Suzuki"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Họ sẽ tặng quà gì?",
+              "options": [
+                "Quần áo",
+                "Sách của Murakami Haruki",
+                "Đồ điện tử"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Tập trung lúc mấy giờ?",
+              "options": [
+                "2 giờ chiều",
+                "3 giờ chiều",
+                "4 giờ chiều"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S2C_L4_02",
+      "base_type": "dialogue",
+      "sub_type": "inference_questions",
+      "audio_ids": [
+        "S2C_L4_02_audio"
+      ],
+      "prompt": "Nghe và suy luận từ ngữ cảnh",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "script": [
+            "A: ただいま。",
+            "B: おかえり。おそかったね。",
+            "A: うん、でんしゃがおくれて...それで、バスにのりおくれちゃった。",
+            "B: たいへんだったね。おなかすいてる？ごはん、つくっておいたよ。",
+            "A: ありがとう！たすかる。いただきます。"
+          ],
+          "inference_questions": [
+            {
+              "question": "A và B có quan hệ gì?",
+              "options": [
+                "Đồng nghiệp",
+                "Bạn bè",
+                "Vợ chồng/Người yêu/Gia đình"
+              ],
+              "answer": 2,
+              "hint": "ただいま/おかえり chỉ dùng trong gia đình"
+            },
+            {
+              "question": "Tại sao A về muộn?",
+              "options": [
+                "Làm thêm giờ",
+                "Tàu trễ nên lỡ xe buýt",
+                "Gặp bạn"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "B đã làm gì trước khi A về?",
+              "options": [
+                "Ngủ",
+                "Nấu cơm",
+                "Xem TV"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "script": [
+            "A: すみません、このシャツ、Mサイズありますか。",
+            "B: しょうしょうおまちください...もうしわけございません、Mは売り切れです。SとLならございます。",
+            "A: そうですか...Lはちょっとおおきいかな...じゃあ、いいです。また来ます。",
+            "B: かしこまりました。またのおこしをおまちしております。"
+          ],
+          "inference_questions": [
+            {
+              "question": "Đây là ở đâu?",
+              "options": [
+                "Nhà hàng",
+                "Cửa hàng quần áo",
+                "Siêu thị"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "A muốn mua gì?",
+              "options": [
+                "Quần",
+                "Áo sơ mi size M",
+                "Giày"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Tại sao A không mua?",
+              "options": [
+                "Quá đắt",
+                "Hết size M",
+                "Không thích màu"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "A sẽ làm gì?",
+              "options": [
+                "Mua size khác",
+                "Quay lại sau",
+                "Đi cửa hàng khác"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stage2_context_listening_0005_00",
+      "base_type": "single_choice",
+      "sub_type": "fill_in_dialogue",
+      "audio_ids": [
+        "A: すみません、___はどこですか。B: あ、そこのかどをみぎにまがったところにありますよ。"
+      ],
+      "prompt": "Nghe 'A: すみません、___はどこですか。B: あ、そこのかどをみぎにまがったところにありますよ。' và nghe hội thoại và điền từ còn thiếu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Nhà vệ sinh ở đâu ạ?"
+      }
+    },
+    {
+      "id": "stage2_context_listening_0005_01",
+      "base_type": "single_choice",
+      "sub_type": "fill_in_dialogue",
+      "audio_ids": [
+        "A: なにをのみますか。B: ___をおねがいします。"
+      ],
+      "prompt": "Nghe 'A: なにをのみますか。B: ___をおねがいします。' và nghe hội thoại và điền từ còn thiếu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Bạn uống gì?"
+      }
+    }
+  ]
+}

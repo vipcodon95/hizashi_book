@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "title": "Tái Cấu Trúc Nhận Thức Trong Thụ Đắc Tiếng Nhật",
+    "subtitle": "Phương Pháp Hiểu Tiếng Nhật Như Người Bản Ngữ Cho Người Việt",
+    "originalTitle": "Tái Cấu Trúc Nhận Thức Trong Thụ Đắc Tiếng Nhật Cho Người Học Tiếng Việt",
+    "author": "Hizashi Nihongo",
+    "language": "vi",
+    "version": "1.0",
+    "lastUpdated": "2025-12-16",
+    "targetAudience": "Người Việt học tiếng Nhật trình độ N5-N3",
+    "isbn": "",
+    "publisher": ""
+  },
+  "frontMatter": {
+    "foreword": {
+      "title": "Lời Tựa",
+      "author": "",
+      "authorTitle": "",
+      "content": [
+        {
+          "type": "opening",
+          "text": "Bạn có bao giờ tự hỏi tại sao mình học tiếng Nhật đã lâu, từ vựng thuộc không ít, ngữ pháp cũng nắm, nhưng khi người Nhật nói thì vẫn cứ 'đơ' ra? Bạn nghe được từng từ, nhưng đến khi câu kết thúc, bạn không hiểu gì cả. Bạn đọc văn bản, phải quay đi quay lại nhiều lần mới hiểu được ý. Và bạn tự hỏi: 'Mình kém quá, trí nhớ mình tệ quá, hay tiếng Nhật khó quá?'"
+        },
+        {
+          "type": "revelation",
+          "text": "Cuốn sách này sẽ cho bạn biết một sự thật đáng ngạc nhiên: Vấn đề không phải là trí nhớ của bạn. Vấn đề là não bộ của bạn đang dùng sai 'phần mềm' để xử lý tiếng Nhật."
+        },
+        {
+          "type": "explanation",
+          "text": "Hãy tưởng tượng bạn đang cố mở một file PDF bằng phần mềm Word. File mở được, nhưng hiển thị toàn ký tự lạ, không đọc nổi. Não bộ của người Việt chúng ta cũng vậy — nó được 'cài đặt sẵn' để xử lý ngôn ngữ theo trật tự Chủ-Động-Tân (SVO: Tôi ăn cơm). Nhưng tiếng Nhật lại chạy theo trật tự Chủ-Tân-Động (SOV: Watashi wa gohan wo tabemasu — Tôi cơm ăn). Khi bạn cố dùng 'phần mềm SVO' để đọc 'file SOV', kết quả là sự hỗn loạn."
+        },
+        {
+          "type": "solution",
+          "text": "Cuốn sách này không dạy bạn thêm từ vựng hay ngữ pháp. Nó dạy bạn cách 'cài lại phần mềm' cho não bộ — để bạn có thể hiểu tiếng Nhật theo cách người Nhật hiểu, không cần dịch ngược thành tiếng Việt trong đầu."
+        },
+        {
+          "type": "methodology",
+          "text": "Phương pháp được trình bày trong cuốn sách này dựa trên nền tảng khoa học vững chắc của ngôn ngữ học nhận thức và thần kinh học. Nó vay mượn các kỹ thuật từ đào tạo phiên dịch viên đồng thời — những người có khả năng nghe và dịch cùng lúc mà không bị 'tràn bộ nhớ'. Nhưng đừng lo, mục tiêu của chúng ta không phải trở thành phiên dịch viên. Mục tiêu đơn giản hơn nhiều: hiểu tiếng Nhật một cách tự nhiên, không căng thẳng, không mệt mỏi."
+        },
+        {
+          "type": "promise",
+          "text": "Nếu bạn kiên trì thực hành theo lộ trình 12 tuần trong cuốn sách này, bạn sẽ trải nghiệm một sự thay đổi kỳ diệu: Tiếng Nhật sẽ bắt đầu 'chảy' vào đầu bạn một cách tự nhiên, giống như tiếng Việt vậy. Bạn sẽ không còn cảm giác 'dịch trong đầu' nữa. Bạn sẽ nghe và hiểu. Đọc và hiểu. Trực tiếp. Không qua trung gian."
+        },
+        {
+          "type": "closing",
+          "text": "Chào mừng bạn đến với hành trình tái cấu trúc nhận thức. Đây không chỉ là học một ngôn ngữ mới — đây là học một cách tư duy mới."
+        }
+      ],
+      "signature": "",
+      "date": ""
+    },
+    "preface": {
+      "title": "Lời Nói Đầu",
+      "content": [
+        {
+          "type": "origin",
+          "heading": "Tại Sao Cuốn Sách Này Ra Đời?",
+          "text": "Tôi đã chứng kiến quá nhiều người học tiếng Nhật bỏ cuộc. Không phải vì họ lười, không phải vì họ không có năng khiếu. Họ bỏ cuộc vì họ không hiểu tại sao mình học mãi mà vẫn không hiểu được tiếng Nhật nói. Họ nghĩ mình 'không có gen ngôn ngữ'. Họ đổ lỗi cho bản thân."
+        },
+        {
+          "type": "insight",
+          "heading": "Phát Hiện Quan Trọng",
+          "text": "Nhưng khi tôi nghiên cứu sâu về ngôn ngữ học nhận thức, tôi phát hiện ra sự thật: Khó khăn mà người Việt gặp phải với tiếng Nhật có nguồn gốc từ sự khác biệt cấu trúc cú pháp giữa hai ngôn ngữ. Đây là một rào cản có thể vượt qua — nếu chúng ta biết cách."
+        },
+        {
+          "type": "approach",
+          "heading": "Cách Tiếp Cận Của Cuốn Sách",
+          "text": "Cuốn sách này không phải là một cuốn giáo trình dạy tiếng Nhật thông thường. Nó là một chương trình huấn luyện nhận thức. Bạn sẽ không học thêm ngữ pháp mới hay từ vựng mới (dù điều đó cũng quan trọng và bạn nên tiếp tục học song song). Thay vào đó, bạn sẽ học cách 'lắp ráp' những gì bạn đã biết theo một cách mới — cách mà não bộ người Nhật làm."
+        },
+        {
+          "type": "structure",
+          "heading": "Cấu Trúc Sách",
+          "text": "Sách được chia làm ba phần chính:\n\n- **Phần I (Chương 1-2)**: Hiểu vấn đề — Tại sao não bộ SVO của bạn gặp khó với ngôn ngữ SOV, và giải pháp là gì.\n\n- **Phần II (Chương 3-5)**: Ba kỹ thuật cốt lõi — Phân Tách Khối, Dự Báo, và Mã Hóa Ngữ Nghĩa. Đây là 'vũ khí' của bạn.\n\n- **Phần III (Chương 6-8)**: Thực hành — Lộ trình 12 tuần, các bài tập cụ thể, và cách đánh giá tiến bộ."
+        },
+        {
+          "type": "howToUse",
+          "heading": "Cách Sử Dụng Sách",
+          "text": "Đừng chỉ đọc. Cuốn sách này được thiết kế để thực hành. Mỗi chương có bài tập kèm theo. Hãy làm bài tập. Hãy dành ít nhất 30 phút mỗi ngày. Sau 12 tuần, bạn sẽ thấy sự khác biệt."
+        },
+        {
+          "type": "prerequisite",
+          "heading": "Ai Nên Đọc Cuốn Sách Này?",
+          "text": "Cuốn sách này dành cho người Việt đã có nền tảng tiếng Nhật cơ bản (N5-N4 hoặc tương đương). Bạn cần biết Hiragana, Katakana, khoảng 500-1000 từ vựng, và các cấu trúc ngữ pháp sơ cấp. Nếu bạn hoàn toàn mới bắt đầu, hãy học nền tảng trước rồi quay lại."
+        },
+        {
+          "type": "acknowledgment",
+          "heading": "Lời Cảm Ơn",
+          "text": "Tôi xin gửi lời cảm ơn đến các nhà nghiên cứu trong lĩnh vực ngôn ngữ học nhận thức và khoa học thần kinh ngôn ngữ — những người đã cung cấp nền tảng khoa học cho phương pháp này. Đặc biệt cảm ơn cộng đồng học tiếng Nhật tại Việt Nam — các bạn là nguồn động lực và cũng là 'phòng thí nghiệm' thực tế cho những ý tưởng trong cuốn sách này."
+        }
+      ],
+      "signature": "Tác giả",
+      "date": "2025"
+    },
+    "howToReadThisBook": {
+      "title": "Hướng Dẫn Đọc Sách",
+      "sections": [
+        {
+          "heading": "Các Ký Hiệu Sử Dụng",
+          "items": [
+            {"symbol": "💡", "meaning": "Ý tưởng quan trọng / Insight cốt lõi"},
+            {"symbol": "⚠️", "meaning": "Lưu ý đặc biệt / Lỗi thường gặp"},
+            {"symbol": "📝", "meaning": "Bài tập thực hành"},
+            {"symbol": "🎯", "meaning": "Mục tiêu của phần này"},
+            {"symbol": "🔬", "meaning": "Bằng chứng khoa học"},
+            {"symbol": "🗣️", "meaning": "Ví dụ tiếng Nhật"},
+            {"symbol": "🖼️", "meaning": "Hình ảnh minh họa"}
+          ]
+        },
+        {
+          "heading": "Cách Đọc Hiệu Quả",
+          "tips": [
+            "Đọc lần lượt từ đầu đến cuối trong lần đọc đầu tiên",
+            "Đừng bỏ qua phần lý thuyết — hiểu 'tại sao' giúp bạn làm đúng",
+            "Làm bài tập ngay sau mỗi chương, đừng tích lũy",
+            "Ghi chép những điểm 'aha!' — những khoảnh khắc bạn hiểu ra điều gì đó",
+            "Quay lại đọc lại những chương quan trọng sau khi hoàn thành sách"
+          ]
+        }
+      ]
+    }
+  },
+  "tableOfContents": {
+    "parts": [
+      {
+        "partNumber": "I",
+        "title": "Hiểu Vấn Đề",
+        "chapters": [
+          {"number": 1, "title": "Kiến Trúc Nhận Thức Của Cú Pháp: SVO vs SOV", "id": "part1"},
+          {"number": 2, "title": "Khung Lý Thuyết: Từ Dịch Thuật Đến Gắn Kết Cấu Trúc", "id": "part2"}
+        ]
+      },
+      {
+        "partNumber": "II",
+        "title": "Ba Kỹ Thuật Cốt Lõi",
+        "chapters": [
+          {"number": 3, "title": "Phân Tách Khối (Chunking) & Đọc Ngắt", "id": "part3"},
+          {"number": 4, "title": "Dự Báo & Ngữ Pháp Tiên Đoán", "id": "part4"},
+          {"number": 5, "title": "Mã Hóa Ngữ Nghĩa & Trực Quan Hóa", "id": "part5"}
+        ]
+      },
+      {
+        "partNumber": "III",
+        "title": "Thực Hành & Ứng Dụng",
+        "chapters": [
+          {"number": 6, "title": "Lộ Trình Sư Phạm 12 Tuần", "id": "part6"},
+          {"number": 7, "title": "Các Bài Tập & Drill Cụ Thể", "id": "part7"},
+          {"number": 8, "title": "Hàm Ý Thần Kinh Học & Kết Luận", "id": "part8"}
+        ]
+      }
+    ],
+    "appendices": [
+      {"id": "glossary", "title": "Thuật Ngữ & Viết Tắt"},
+      {"id": "references", "title": "Tài Liệu Tham Khảo"},
+      {"id": "exercises", "title": "Tổng Hợp Bài Tập"},
+      {"id": "faq", "title": "Câu Hỏi Thường Gặp"}
+    ]
+  },
+  "introduction": {
+    "title": "Dẫn Nhập",
+    "subtitle": "Tại Sao Người Việt 'Nghe Kém' Tiếng Nhật?",
+    "sections": [
+      {
+        "heading": "Câu Chuyện Quen Thuộc",
+        "content": "Bạn đã học tiếng Nhật được hai năm. Bạn biết hơn 2000 từ vựng, đã qua N4, đang ôn N3. Khi đọc văn bản, bạn hiểu khoảng 70-80%. Nhưng khi xem anime không phụ đề, hoặc khi người Nhật nói chuyện với tốc độ bình thường, bạn chỉ bắt được rải rác vài từ. Phần còn lại trôi qua như nước chảy.\n\nBạn tự hỏi: 'Tại sao mình học nhiều thế mà vẫn không nghe được?'"
+      },
+      {
+        "heading": "Chẩn Đoán Sai Lầm Phổ Biến",
+        "content": "Nhiều người kết luận: 'Mình nghe kém vì từ vựng chưa đủ' hoặc 'Vì chưa quen với tốc độ nói'. Rồi họ lao vào học thêm từ, nghe thêm audio, nhưng vấn đề vẫn không cải thiện đáng kể.\n\nLý do? Vì chẩn đoán sai."
+      },
+      {
+        "heading": "Vấn Đề Thực Sự",
+        "content": "Vấn đề thực sự không phải là từ vựng. Vấn đề là **cách não bộ của bạn xử lý trật tự từ**.\n\nKhi bạn nghe tiếng Việt, não bộ biết rằng động từ sẽ đến ngay sau chủ ngữ. 'Tôi ăn...' — ngay lập tức bạn biết hành động là 'ăn', chỉ cần chờ xem ăn cái gì.\n\nNhưng tiếng Nhật thì động từ nằm cuối câu. 'Watashi wa... ringo wo...' — bạn phải giữ 'Tôi' và 'táo' trong đầu, chờ mãi đến cuối mới biết 'tabemasu' (ăn). Trong khi chờ đợi, não bộ bạn đang căng thẳng lưu trữ thông tin. Đến khi động từ xuất hiện, bạn đã quên mất đầu câu nói gì."
+      },
+      {
+        "heading": "Ẩn Dụ 'Tràn Ngăn Xếp'",
+        "content": "Hãy tưởng tượng não bộ như một cái bàn làm việc có giới hạn. Khi nghe tiếng Việt, bạn đặt 'Tôi' lên bàn, rồi 'ăn' xử lý xong, giải phóng bàn, rồi đến 'cơm'. Bàn không bao giờ quá tải.\n\nNhưng khi nghe tiếng Nhật, bạn đặt 'Watashi' lên bàn, rồi 'wa' cũng để đó (chưa xử lý được), rồi 'kinou' (hôm qua), rồi 'toshokan de' (ở thư viện), rồi 'tomodachi to' (với bạn), rồi 'omoshiroi hon wo' (cuốn sách thú vị)... Bàn ngày càng chật. Não bạn đang la lên: 'HÀNH ĐỘNG Ở ĐÂU?!' Và khi động từ cuối cùng xuất hiện ('yomimashita' - đã đọc), bàn đã đầy ắp, não đã mệt, và bạn không thể lắp ráp tất cả lại với nhau.\n\nĐây gọi là 'Tràn ngăn xếp' (Stack Overflow) — giống như lỗi trong lập trình khi bộ nhớ bị quá tải."
+      },
+      {
+        "heading": "Giải Pháp",
+        "content": "Giải pháp không phải là tăng dung lượng 'bàn làm việc' (bộ nhớ làm việc của bạn đã đủ tốt rồi). Giải pháp là **thay đổi cách bạn đặt đồ lên bàn**.\n\nCuốn sách này sẽ dạy bạn ba kỹ thuật:\n\n1. **Phân Tách Khối (Chunking)**: Thay vì đặt từng từ riêng lẻ, bạn đóng gói chúng thành các 'khối' (bunsetsu). 'Watashi wa' là một khối. 'Toshokan de' là một khối. Số lượng thứ trên bàn giảm đáng kể.\n\n2. **Dự Báo (Anticipation)**: Thay vì thụ động chờ đợi, bạn chủ động dự đoán. Nghe 'wo' → não biết ngay 'sắp có hành động lên cái này'. Bạn không còn lo lắng nữa.\n\n3. **Mã Hóa Ngữ Nghĩa (Semantic Encoding)**: Thay vì lưu trữ từ, bạn lưu trữ hình ảnh. 'Toshokan de' → hình ảnh thư viện hiện lên. Hình ảnh dễ giữ hơn từ."
+      },
+      {
+        "heading": "Kết Quả Mong Đợi",
+        "content": "Sau khi thực hành các kỹ thuật trong cuốn sách này:\n\n- Bạn sẽ nghe tiếng Nhật mà không cần 'dịch ngược' trong đầu\n- Bạn sẽ hiểu câu ngay khi nó kết thúc, không cần 'tua lại'\n- Bạn sẽ đọc văn bản một lần và hiểu, không cần đọc đi đọc lại\n- Bạn sẽ cảm thấy tiếng Nhật 'chảy' vào đầu một cách tự nhiên\n\nĐây không phải là phép màu. Đây là khoa học."
+      }
+    ]
+  },
+  "executiveSummary": {
+    "context": "Việc thụ đắc tiếng Nhật đối với người nói tiếng Việt đặt ra một thách thức nhận thức độc đáo, vượt xa việc ghi nhớ từ vựng hay quy tắc ngữ pháp đơn thuần.",
+    "problem": "Khó khăn cơ bản nằm ở sự bất đồng bộ về cấu trúc giữa cú pháp Chủ ngữ-Động từ-Tân ngữ (SVO) của tiếng Việt và cú pháp Chủ ngữ-Tân ngữ-Động từ (SOV) của tiếng Nhật. Khó khăn mà người học gặp phải trong việc nghe hiểu và đọc hiểu thường bị nhận diện sai là sự thiếu hụt về trí nhớ làm việc. Trên thực tế, đây là một lỗi trong quy trình xử lý: não bộ người học đang cố gắng phân tích dữ liệu đầu vào tiếng Nhật bằng các chiến lược dự đoán tuyến tính, ưu tiên thành phần chính (head-initial) vốn là bản năng của tiếng Việt.",
+    "consequence": "Điều này dẫn đến một nút thắt cổ chai nhận thức, nơi thông tin được 'lưu trữ đệm' (buffered) một cách không hiệu quả, dẫn đến sự sụp đổ của quá trình xử lý trước khi câu kết thúc.",
+    "solution": "Khung sư phạm được thiết kế để tái cấu trúc các chiến lược xử lý nhận thức của người học tiếng Việt, thông qua việc thích ứng các kỹ thuật từ phiên dịch đồng thời (Simultaneous Interpretation):",
+    "techniques": [
+      "Phân Tách Khối (Chunking/Bunsetsu segmentation)",
+      "Dự Báo (Anticipation/Predictive Processing)",
+      "Mã Hóa Ngữ Nghĩa (Semantic Encoding/Deverbalization)"
+    ],
+    "goal": "Chuyển đổi người học từ mô hình 'dịch thuật tuyến tính' sang mô hình 'gắn kết cấu trúc theo thời gian thực'. Mục tiêu là giảm 'độ trễ' (lag) trong việc hiểu và loại bỏ cơ chế dịch thầm SVO vốn đang cản trở sự trôi chảy.",
+    "note": "Cách tiếp cận này không nhằm mục đích đào tạo phiên dịch viên chuyên nghiệp, mà sử dụng các bài tập phiên dịch để củng cố các thói quen nhận thức cần thiết cho việc hiểu như người bản ngữ."
+  },
+  "chapters": [],
+  "backMatter": {
+    "faq": {
+      "title": "Câu Hỏi Thường Gặp",
+      "questions": [
+        {
+          "q": "Tôi cần trình độ tiếng Nhật bao nhiêu để áp dụng phương pháp này?",
+          "a": "Tối thiểu N5 vững hoặc N4. Bạn cần biết Hiragana, Katakana, khoảng 500-1000 từ vựng cơ bản, và các cấu trúc ngữ pháp sơ cấp (te-form, ta-form, các trợ từ cơ bản). Phương pháp này không dạy tiếng Nhật từ đầu — nó dạy cách xử lý tiếng Nhật bạn đã biết."
+        },
+        {
+          "q": "Mất bao lâu để thấy kết quả?",
+          "a": "Với luyện tập đều đặn 30-45 phút mỗi ngày, bạn sẽ bắt đầu cảm nhận sự khác biệt sau khoảng 2-3 tuần. Sự thay đổi rõ rệt thường xuất hiện sau 6-8 tuần. Hoàn thành lộ trình 12 tuần sẽ tạo nền tảng vững chắc cho việc hiểu tự động."
+        },
+        {
+          "q": "Tôi có thể kết hợp với việc học ngữ pháp/từ vựng thông thường không?",
+          "a": "Hoàn toàn nên! Phương pháp này không thay thế việc học từ vựng và ngữ pháp mới. Nó bổ sung. Bạn tiếp tục học kiến thức mới như bình thường, đồng thời dành thời gian riêng để luyện tập các kỹ thuật xử lý."
+        },
+        {
+          "q": "Phương pháp này có áp dụng cho việc nói/viết không?",
+          "a": "Phương pháp này tập trung vào kỹ năng tiếp nhận (nghe và đọc). Tuy nhiên, việc hiểu tốt hơn sẽ gián tiếp cải thiện kỹ năng sản xuất (nói và viết) vì bạn sẽ có mô hình ngôn ngữ tự nhiên hơn trong đầu."
+        },
+        {
+          "q": "Tôi không thể hình dung tốt. Kỹ thuật Image Streaming có phù hợp với tôi không?",
+          "a": "Khả năng hình dung có thể được rèn luyện. Bắt đầu với những hình ảnh đơn giản và cụ thể (một quả táo đỏ, một chiếc bàn gỗ). Theo thời gian, khả năng này sẽ phát triển. Nếu vẫn khó khăn, bạn có thể tập trung nhiều hơn vào kỹ thuật Chunking và Anticipation — chúng cũng mang lại hiệu quả đáng kể."
+        },
+        {
+          "q": "Phương pháp này có bằng chứng khoa học không?",
+          "a": "Có. Các kỹ thuật được trình bày dựa trên nghiên cứu về Dependency Locality Theory (Gibson, 1998), Uniform Information Density (Levy & Jaeger, 2007), nghiên cứu fMRI về xử lý cú pháp SOV (Kinno et al., 2008), và lý thuyết phiên dịch Déverbalisation (Seleskovitch, 1968). Phần Tài liệu tham khảo liệt kê đầy đủ 31 nguồn học thuật."
+        },
+        {
+          "q": "Tôi có thể tự học hay cần giáo viên?",
+          "a": "Cuốn sách được thiết kế để tự học. Tuy nhiên, có người hướng dẫn hoặc bạn học cùng sẽ giúp bạn duy trì động lực và nhận phản hồi. Nếu bạn tham gia các cộng đồng học tiếng Nhật, hãy chia sẻ hành trình của bạn."
+        },
+        {
+          "q": "Shadowing có khác với việc nghe và lặp lại thông thường không?",
+          "a": "Có. Shadowing yêu cầu bạn lặp lại NGAY LẬP TỨC (với độ trễ 0.5-1 giây), không phải chờ câu kết thúc rồi mới lặp. Điều này buộc não bộ phải xử lý theo thời gian thực, không có thời gian để 'dịch ngược'. Đây là sự khác biệt quan trọng."
+        }
+      ]
+    },
+    "glossary": {},
+    "references": {},
+    "index": {}
+  }
+}

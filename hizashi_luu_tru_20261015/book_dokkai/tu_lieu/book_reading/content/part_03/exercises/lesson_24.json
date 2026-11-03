@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "L24_FP_01",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は先生に褒められました。",
+    "sentence_translation": "Tôi được thầy giáo khen.",
+    "question_text": "私は先生（　）褒められました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "[Person]に + V bị động = người thực hiện hành động. 先生に褒められました = \"được thầy khen\". に đánh dấu NGUỒN hành động (agent). Đây là bị động TRỰC TIẾP (direct passive)",
+    "hint": "Ai khen? Thầy giáo. Người THỰC HIỆN hành động trong câu bị động → dùng trợ từ nào?",
+    "tags": [
+      "に",
+      "bị_động",
+      "trực_tiếp",
+      "agent"
+    ]
+  },
+  {
+    "id": "L24_FP_02",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "弟にケーキを食べられました。",
+    "sentence_translation": "Tôi bị em trai ăn mất bánh.",
+    "question_text": "弟（　）ケーキを食べられました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động GIÁN TIẾP (indirect passive) = đặc trưng tiếng Nhật! 弟にケーキを食べられました = \"bị em trai ăn mất bánh\". Tiếng Việt không có cấu trúc này. Chủ ngữ (tôi) KHÔNG phải đối tượng trực tiếp mà là người BỊ ẢNH HƯỞNG",
+    "hint": "Em trai ăn mất bánh CỦA TÔI → tôi bị ảnh hưởng → ai gây phiền? Em trai → dùng trợ từ nào?",
+    "tags": [
+      "に",
+      "bị_động",
+      "gián_tiếp",
+      "phiền_toái"
+    ]
+  },
+  {
+    "id": "L24_FP_03",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この小説は夏目漱石によって書かれました。",
+    "sentence_translation": "Tiểu thuyết này được viết bởi Natsume Soseki.",
+    "question_text": "この小説は夏目漱石（　）書かれました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "によって",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "[Tổ chức/Người nổi tiếng] + によって = \"bởi ~\" (formal). 夏目漱石によって書かれました = \"được viết bởi Natsume Soseki\". によって dùng trong văn học thuật, lịch sử. Câu đời thường dùng に",
+    "hint": "Tác giả nổi tiếng + văn phong trang trọng/học thuật → dùng gì thay cho に?",
+    "tags": [
+      "によって",
+      "bị_động",
+      "trang_trọng"
+    ]
+  },
+  {
+    "id": "L24_FP_04",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この製品は石油（　）作られています。",
+    "sentence_translation": "Sản phẩm này được làm từ dầu mỏ.",
+    "question_text": "この製品は石油（　）作られています。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Nguyên liệu]で + V bị động = \"được làm bằng/từ ~\". 石油で作られています = \"được làm từ dầu mỏ\". で đánh dấu PHƯƠNG TIỆN/NGUYÊN LIỆU. KHÁC に (agent người thực hiện)",
+    "hint": "Dầu mỏ = NGUYÊN LIỆU để làm ra sản phẩm → dùng trợ từ nào?",
+    "tags": [
+      "で",
+      "nguyên_liệu",
+      "bị_động"
+    ]
+  },
+  {
+    "id": "L24_FP_05",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "母に日記を読まれました。",
+    "sentence_translation": "Tôi bị mẹ đọc nhật ký.",
+    "question_text": "母（　）日記を読まれました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động gián tiếp: 母に日記を読まれました = \"bị mẹ đọc (mất) nhật ký\". Chủ ngữ (tôi) bị ẢNH HƯỞNG tiêu cực. Tiếng Việt: \"bị mẹ đọc\" → nghe tự nhiên. Nhưng cấu trúc ngữ pháp KHÁC câu chủ động hoàn toàn",
+    "hint": "Mẹ đọc nhật ký CỦA TÔI → tôi bị phiền → dùng trợ từ nào cho người gây phiền?",
+    "tags": [
+      "に",
+      "bị_động",
+      "gián_tiếp",
+      "phiền_toái"
+    ]
+  },
+  {
+    "id": "L24_FP_06",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達からプレゼントをもらいました。",
+    "sentence_translation": "Tôi nhận được quà từ bạn.",
+    "question_text": "友達（　）プレゼントをもらいました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Person]から = \"từ ~\" (nguồn gốc). 友達からもらいました = \"nhận từ bạn\". から nhấn mạnh NGUỒN hơn に. Với もらう: cả に và から đều được, nhưng から rõ ràng hơn",
+    "hint": "Bạn = NGUỒN (nhận từ đâu) → から. Chú ý: もらう cũng dùng được に nhưng から nhấn mạnh NGUỒN",
+    "tags": [
+      "から",
+      "nguồn",
+      "bị_động"
+    ]
+  },
+  {
+    "id": "L24_FP_07",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "電車の中で隣の人に足を踏まれました。",
+    "sentence_translation": "Trên tàu, tôi bị người bên cạnh giẫm lên chân.",
+    "question_text": "電車の中で隣の人（　）足を踏まれました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động gián tiếp với BỘ PHẬN CƠ THỂ: [Person]に + [bộ phận]を + V-られる. 足を踏まれた = \"bị giẫm chân\". Chân là CỦA TÔI → tôi là người bị ảnh hưởng. Mẫu rất phổ biến trong tiếng Nhật!",
+    "hint": "Người bên cạnh giẫm lên chân TÔI → tôi bị phiền → người thực hiện dùng に",
+    "tags": [
+      "に",
+      "bị_động",
+      "gián_tiếp",
+      "bộ_phận_cơ_thể"
+    ]
+  },
+  {
+    "id": "L24_FP_08",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "雨に降られて、びしょ濡れになりました。",
+    "sentence_translation": "Bị mưa (rơi) nên ướt sũng.",
+    "question_text": "雨（　）降られて、びしょ濡れになりました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "雨に降られた = \"bị mưa rơi\" → bị động gián tiếp với HIỆN TƯỢNG TỰ NHIÊN. Tiếng Việt: \"bị mưa\" nghe lạ, nhưng tiếng Nhật diễn đạt cảm giác \"bị ảnh hưởng, phiền toái\" rất tự nhiên. Đây là nét ĐẶC TRƯNG của tiếng Nhật!",
+    "hint": "Mưa = hiện tượng tự nhiên, KHÔNG THỂ TRÁCH được → nhưng tiếng Nhật vẫn dùng bị động gián tiếp!",
+    "tags": [
+      "に",
+      "bị_động",
+      "gián_tiếp",
+      "tự_nhiên"
+    ]
+  },
+  {
+    "id": "L24_FP_09",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語は世界中の人々（　）学ばれています。",
+    "sentence_translation": "Tiếng Nhật được học bởi người khắp thế giới.",
+    "question_text": "日本語は世界中の人々（　）学ばれています。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "によって",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "によって dùng khi: (1) văn phong TRANG TRỌNG/học thuật, (2) chủ thể mang tính KHÁI QUÁT (người khắp thế giới), (3) KHÔNG phải quan hệ cá nhân. So sánh: 先生に褒められた (cá nhân, dùng に) vs 世界中の人々によって (khái quát, dùng によって)",
+    "hint": "Câu mang tính khái quát, học thuật → dùng によって thay に",
+    "tags": [
+      "によって",
+      "bị_động",
+      "trang_trọng",
+      "khái_quát"
+    ]
+  },
+  {
+    "id": "L24_FP_10",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子供に夜中に泣かれて、眠れませんでした。",
+    "sentence_translation": "Bị con khóc giữa đêm nên không ngủ được.",
+    "question_text": "子供（　）夜中に泣かれて、眠れませんでした。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động gián tiếp KINH ĐIỂN: 子供に泣かれた = \"bị con khóc\". Con KHÔNG khóc AI (không có đối tượng trực tiếp) nhưng cha mẹ BỊ ẢNH HƯỞNG. Động từ tự động (自動詞) cũng chia bị động được → đặc trưng tiếng Nhật!",
+    "hint": "Con khóc → cha mẹ bị ảnh hưởng → bị động gián tiếp → người gây phiền dùng に",
+    "tags": [
+      "に",
+      "bị_động",
+      "gián_tiếp",
+      "tự_động_từ"
+    ]
+  },
+  {
+    "id": "L24_FP_11",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "このビルは有名な建築家（　）設計されました。",
+    "sentence_translation": "Tòa nhà này được thiết kế bởi kiến trúc sư nổi tiếng.",
+    "question_text": "このビルは有名な建築家（　）設計されました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "によって",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "によって phù hợp khi: chủ thể là NGƯỜI NỔI TIẾNG/TỔ CHỨC + hành động mang tính LỊCH SỬ/CHÍNH THỨC. 建築家によって設計された = \"được thiết kế bởi kiến trúc sư\". Nếu đời thường: 友達に作られた (dùng に)",
+    "hint": "Kiến trúc sư nổi tiếng + thiết kế tòa nhà → văn phong trang trọng → dùng によって",
+    "tags": [
+      "によって",
+      "bị_động",
+      "chính_thức"
+    ]
+  },
+  {
+    "id": "L24_FP_12",
+    "lesson_id": 24,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先輩（　）仕事を頼まれて、断れませんでした。",
+    "sentence_translation": "Bị tiền bối nhờ việc nên không thể từ chối.",
+    "question_text": "先輩（　）仕事を頼まれて、断れませんでした。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "先輩に頼まれた = \"được/bị tiền bối nhờ\". Bị động trực tiếp nhưng có SẮC THÁI PHIỀN. Dùng bị động thay vì 先輩が頼んだ vì muốn nhấn mạnh: TÔI bị ảnh hưởng (không thể từ chối). Ranh giới trực tiếp/gián tiếp đôi khi MỜ",
+    "hint": "Tiền bối nhờ TÔI → tôi được/bị nhờ → người thực hiện hành động dùng に",
+    "tags": [
+      "に",
+      "bị_động",
+      "trực_tiếp",
+      "sắc_thái"
+    ]
+  },
+  {
+    "id": "L24_CH_13",
+    "lesson_id": 24,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は先生に褒められました",
+    "sentence_translation": "Tôi được thầy giáo khen.",
+    "question_text": "私は先生に褒められました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "先生に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "褒められました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "私は = tôi (chủ đề) | 先生に = thầy giáo + に (người thực hiện) | 褒められました = được khen (bị động). に đánh dấu AGENT → đọc đến に là biết: \"à, thầy giáo LÀM gì đó với tôi\"",
+    "hint": null,
+    "tags": [
+      "に",
+      "bị_động",
+      "chunking",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L24_CH_14",
+    "lesson_id": 24,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "弟にケーキを食べられました",
+    "sentence_translation": "Tôi bị em trai ăn mất bánh.",
+    "question_text": "弟にケーキを食べられました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "弟に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "ケーキを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "食べられました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "弟に = em trai + に (người gây phiền) | ケーキを = bánh + を (đối tượng) | 食べられました = bị ăn (mất). Bị động gián tiếp: CHỦ NGỮ NGẦM (tôi) bị ảnh hưởng vì em trai ăn mất bánh của tôi",
+    "hint": null,
+    "tags": [
+      "に",
+      "bị_động",
+      "gián_tiếp",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L24_CH_15",
+    "lesson_id": 24,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "この本は多くの人に読まれています",
+    "sentence_translation": "Cuốn sách này được nhiều người đọc.",
+    "question_text": "この本は多くの人に読まれています",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この本は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "多くの人に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "読まれています",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "この本は = cuốn sách này (chủ đề) | 多くの人に = nhiều người + に (agent) | 読まれています = đang được đọc (bị động + đang). Bị động trực tiếp, sắc thái TÍCH CỰC (sách hay nên nhiều người đọc)",
+    "hint": null,
+    "tags": [
+      "に",
+      "bị_động",
+      "trực_tiếp",
+      "chunking",
+      "tích_cực"
+    ]
+  },
+  {
+    "id": "L24_CH_16",
+    "lesson_id": 24,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "電車の中で隣の人に足を踏まれました",
+    "sentence_translation": "Trên tàu, tôi bị người bên cạnh giẫm lên chân.",
+    "question_text": "電車の中で隣の人に足を踏まれました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "電車の中で",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "隣の人に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "足を",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "踏まれました",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "電車の中で = trên tàu (nơi chốn) | 隣の人に = người bên cạnh + に (agent) | 足を = chân + を (bộ phận bị ảnh hưởng) | 踏まれました = bị giẫm. Mẫu bị động bộ phận cơ thể: [Person]に [bộ phận]を V-られる",
+    "hint": null,
+    "tags": [
+      "に",
+      "bị_động",
+      "bộ_phận_cơ_thể",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L24_CH_17",
+    "lesson_id": 24,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "この曲はモーツァルトによって作曲されました",
+    "sentence_translation": "Bản nhạc này được sáng tác bởi Mozart.",
+    "question_text": "この曲はモーツァルトによって作曲されました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この曲は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "モーツァルトによって",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "作曲されました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "この曲は = bản nhạc này (chủ đề) | モーツァルトによって = bởi Mozart (agent trang trọng) | 作曲されました = được sáng tác (bị động). によって dùng vì: nhân vật lịch sử + văn phong trang trọng",
+    "hint": null,
+    "tags": [
+      "によって",
+      "bị_động",
+      "trang_trọng",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L24_CH_18",
+    "lesson_id": 24,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "彼女は子供の頃母親に厳しく育てられたので強い人になりました",
+    "sentence_translation": "Cô ấy được mẹ nuôi dạy nghiêm khắc từ nhỏ nên trở thành người mạnh mẽ.",
+    "question_text": "彼女は子供の頃母親に厳しく育てられたので強い人になりました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "彼女は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "子供の頃",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "母親に厳しく育てられたので",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "🔒",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "強い人に",
+        "is_correct": true,
+        "order": 5
+      },
+      {
+        "text": "なりました",
+        "is_correct": true,
+        "order": 6
+      }
+    ],
+    "explanation": "彼女は = cô ấy (chủ đề) | 子供の頃 = hồi nhỏ | 母親に厳しく育てられたので = 🔒 đóng gói: \"vì được mẹ nuôi nghiêm khắc\" → ので = tín hiệu kết thúc mệnh đề lý do → đọc tiếp | 強い人になりました = trở thành người mạnh mẽ (kết quả)",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "ので",
+      "đóng_gói",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L24_CH_19",
+    "lesson_id": 24,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "雨に降られてびしょ濡れになったので着替えました",
+    "sentence_translation": "Bị mưa nên ướt sũng, đã thay quần áo.",
+    "question_text": "雨に降られてびしょ濡れになったので着替えました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "雨に降られて",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "びしょ濡れになったので",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "🔒",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "着替えました",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "雨に降られて = bị mưa (bị động gián tiếp + て nối) | びしょ濡れになったので = 🔒 đóng gói: \"vì ướt sũng\" → ので = lý do → đọc tiếp | 着替えました = đã thay đồ (hành động chính). Bị động gián tiếp với hiện tượng tự nhiên!",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "gián_tiếp",
+      "ので",
+      "chunking",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L24_CH_20",
+    "lesson_id": 24,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "部長に急に出張を頼まれて困っています",
+    "sentence_translation": "Bị trưởng phòng đột ngột nhờ đi công tác nên đang khó xử.",
+    "question_text": "部長に急に出張を頼まれて困っています",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "部長に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "急に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "出張を頼まれて",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "困っています",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "部長に = trưởng phòng + に (agent) | 急に = đột ngột | 出張を頼まれて = bị nhờ đi công tác + て (nối kết quả) | 困っています = đang khó xử. Bị động → kết quả tiêu cực: sắc thái PHIỀN TOÁI rõ ràng",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "phiền_toái",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L24_PD_21",
+    "lesson_id": 24,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生に褒められました / 先生が褒めました",
+    "sentence_translation": "Tôi được thầy khen. / Thầy đã khen.",
+    "question_text": "Câu nào là BỊ ĐỘNG (nhấn mạnh người NHẬN hành động)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "先生に褒められました (に = agent, 褒められた = bị động → nhấn mạnh TÔI được khen)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "先生が褒めました (が = chủ ngữ, 褒めた = chủ động → nhấn mạnh THẦY khen)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động: CHỦ NGỮ = người nhận hành động. 先生に褒められた → tôi là trung tâm (được khen). 先生が褒めた → thầy là trung tâm (thầy khen). Cùng sự kiện nhưng GÓC NHÌN khác nhau hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "chủ_động",
+      "góc_nhìn",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L24_PD_22",
+    "lesson_id": 24,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "弟にケーキを食べられた / 弟がケーキを食べた",
+    "sentence_translation": "Tôi bị em trai ăn mất bánh. / Em trai đã ăn bánh.",
+    "question_text": "Câu nào thể hiện PHIỀN TOÁI cho người nói?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "弟が食べた (chủ động → đơn thuần kể sự việc, không có sắc thái phiền)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "弟に食べられた (bị động gián tiếp → tôi BỊ PHIỀN vì em ăn bánh CỦA TÔI)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động gián tiếp = ĐẶC TRƯNG tiếng Nhật. Tiếng Việt không có. 弟に食べられた → \"bị em ăn mất\" (phiền!). 弟が食べた → \"em đã ăn\" (trung lập). Bị động gián tiếp LUÔN mang sắc thái TIÊU CỰC",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "gián_tiếp",
+      "chủ_động",
+      "phân_biệt",
+      "phiền_toái"
+    ]
+  },
+  {
+    "id": "L24_PD_23",
+    "lesson_id": 24,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生に褒められました / 先生によって書かれました",
+    "sentence_translation": "Tôi được thầy khen. / Được viết bởi thầy giáo.",
+    "question_text": "Khi nào dùng に, khi nào dùng によって?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "先生に褒められた (に = quan hệ CÁ NHÂN, đời thường)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "先生によって書かれた (によって = trang trọng, CHÍNH THỨC, nhấn mạnh tác giả)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に = bị động ĐỜI THƯỜNG, quan hệ cá nhân. によって = bị động TRANG TRỌNG, học thuật, lịch sử. So sánh: 母に叱られた (bị mẹ mắng - đời thường → に) vs ピカソによって描かれた (được vẽ bởi Picasso - lịch sử → によって)",
+    "hint": null,
+    "tags": [
+      "に",
+      "によって",
+      "phân_biệt",
+      "trang_trọng"
+    ]
+  },
+  {
+    "id": "L24_PD_24",
+    "lesson_id": 24,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼女は先生に褒められました / 先生が褒められました",
+    "sentence_translation": "Cô ấy được thầy khen. / Thầy giáo được khen.",
+    "question_text": "Câu nào có nghĩa \"cô ấy được thầy khen\"?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "彼女は先生に褒められた (に = agent → THẦY khen CÔ ẤY)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "先生が褒められた (が = chủ ngữ bị động → THẦY được ai đó khen)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "NGUY HIỂM: に đánh dấu AGENT (người thực hiện), KHÔNG phải người nhận. 先生に褒められた = \"bị/được THẦY khen\" (thầy = agent). 先生が褒められた = \"THẦY được khen\" (thầy = người nhận). Nhầm に và が → hiểu SAI hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "に",
+      "が",
+      "agent",
+      "chủ_ngữ",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L24_PD_25",
+    "lesson_id": 24,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この窓は誰かに割られました / この窓が割れました",
+    "sentence_translation": "Cửa sổ này bị ai đó đập vỡ. / Cửa sổ này vỡ.",
+    "question_text": "Câu nào cho thấy có NGƯỜI gây ra?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "誰かに割られた (bị động → có AGENT: \"ai đó\" đập vỡ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "割れた (tự động từ → cửa sổ TỰ VỠ, không nhắc ai)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động (割られた) = có NGƯỜI gây ra → dùng khi muốn nói \"bị ai đó làm\". Tự động từ (割れた) = tự xảy ra → không nhắc đến agent. Chọn bị động hay tự động → thay đổi THÔNG ĐIỆP hoàn toàn",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "自動詞",
+      "phân_biệt",
+      "agent"
+    ]
+  },
+  {
+    "id": "L24_PD_26",
+    "lesson_id": 24,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語が話せます / 日本語が話されています",
+    "sentence_translation": "Tôi nói được tiếng Nhật. / Tiếng Nhật được nói (ở nhiều nơi).",
+    "question_text": "-れる/-られる: KHÁC NHAU thế nào trong 2 câu?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "話されています = BỊ ĐỘNG (passive: được nói)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "話せます = KHẢ NĂNG (potential: nói được)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "-れる/-られる có 3 NGHĨA: (1) BỊ ĐỘNG (passive), (2) KHẢ NĂNG (potential), (3) KÍNH NGỮ (honorific). 話せる = khả năng. 話される = bị động HOẶC kính ngữ → phải dựa vào NGỮ CẢNH! Đây là điểm KHÓ NHẤT của bài này",
+    "hint": null,
+    "tags": [
+      "-れる",
+      "3_nghĩa",
+      "potential",
+      "passive",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L24_PK_27",
+    "lesson_id": 24,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "部長に急に出張を頼まれたので、週末の予定をキャンセルしました。",
+    "sentence_translation": "Vì bị trưởng phòng đột ngột nhờ đi công tác nên đã hủy kế hoạch cuối tuần.",
+    "question_text": "🔒 Gặp 部長に急に出張を頼まれたので → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói bị động + lý do: \"vì bị trưởng phòng nhờ đi công tác đột ngột\" → ので = lý do → đọc tiếp tìm KẾT QUẢ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"đi công tác\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"trưởng phòng\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp V-られた + ので → 🔒 đóng gói TOÀN BỘ thành 1 khối lý do: \"vì bị nhờ đi công tác\". Giải phóng bộ nhớ! ので = tín hiệu kết thúc mệnh đề → dự đoán: sắp có HÀNH ĐỘNG CHÍNH (キャンセルした = hủy kế hoạch)",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "ので",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L24_PK_28",
+    "lesson_id": 24,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "雨に降られてびしょ濡れになったので、タクシーで帰りました。",
+    "sentence_translation": "Vì bị mưa nên ướt sũng, đã đi taxi về.",
+    "question_text": "🔒 Gặp 雨に降られて → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"mưa\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Bị mưa\" = bị động gián tiếp (phiền toái với tự nhiên) → đóng gói: \"bị mưa rơi\" → て nối kết quả → đọc tiếp",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Mưa rơi\" = đơn thuần miêu tả",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "雨に降られて → 🔒 đóng gói: \"bị mưa\". Đây là bị động gián tiếp với HIỆN TƯỢNG TỰ NHIÊN → sắc thái phiền toái. て = nối kết quả → đọc tiếp: びしょ濡れ (ướt sũng). Tiếng Nhật \"nhân cách hóa\" mưa thành kẻ gây phiền!",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "gián_tiếp",
+      "tự_nhiên",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L24_PK_29",
+    "lesson_id": 24,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子供の頃よく母に叱られたけど、今は感謝しています。",
+    "sentence_translation": "Hồi nhỏ hay bị mẹ mắng, nhưng bây giờ biết ơn.",
+    "question_text": "🔒 Gặp 母に叱られたけど → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"mẹ\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Bị mẹ mắng\" + けど (nhưng) → đóng gói: \"tuy bị mẹ mắng\" → けど = tín hiệu tương phản → đọc tiếp tìm NỘI DUNG NGƯỢC LẠI",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 けど = kết thúc câu",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "母に叱られたけど → 🔒 đóng gói: \"tuy bị mẹ mắng\". けど = tín hiệu tương phản → dự đoán: sắp có nội dung NGƯỢC (biết ơn!). Giải phóng chi tiết → trong đầu chỉ còn: \"tuy bị mắng, NHƯNG...\" → đọc tiếp: 感謝しています (biết ơn)",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "けど",
+      "đóng_gói",
+      "tương_phản"
+    ]
+  },
+  {
+    "id": "L24_PK_30",
+    "lesson_id": 24,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "アメリカで発明されたインターネットは世界中の人々によって使われています。",
+    "sentence_translation": "Internet được phát minh ở Mỹ được sử dụng bởi người khắp thế giới.",
+    "question_text": "🔒 Gặp アメリカで発明されたインターネットは → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ đóng gói \"Internet\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"Mỹ\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói relative clause bị động: \"Internet (được phát minh ở Mỹ)\" → は = chủ đề → đọc tiếp tìm VỊ NGỮ",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "アメリカで発明されたインターネットは → 🔒 đóng gói: \"Internet phát minh ở Mỹ\". Bị động trong RELATIVE CLAUSE (発明された bổ nghĩa cho インターネット). は = chủ đề → dự đoán: sắp có vị ngữ. Câu có 2 LẦN bị động (発明された + 使われている) → đóng gói từng bước!",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "relative_clause",
+      "đóng_gói",
+      "によって"
+    ]
+  },
+  {
+    "id": "L24_RO_31",
+    "lesson_id": 24,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は犬にかまれました。",
+    "sentence_translation": "Tôi bị chó cắn.",
+    "question_text": "私は犬にかまれました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "かまれました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "犬に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự bị động: chủ ngữ (私は) → agent + に (犬に) → V bị động (かまれました). 犬に = chó + に (agent gây phiền) → かまれました = bị cắn. に đứng TRƯỚC động từ bị động",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "reorder",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L24_RO_32",
+    "lesson_id": 24,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "弟にパソコンを壊されました。",
+    "sentence_translation": "Tôi bị em trai làm hỏng máy tính.",
+    "question_text": "弟にパソコンを壊されました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "壊されました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "パソコンを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "弟に",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Bị động gián tiếp: agent + に (弟に) → đối tượng + を (パソコンを) → V bị động (壊されました). Chủ ngữ ngầm (tôi) bị PHIỀN vì em trai làm hỏng máy tính CỦA TÔI",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "gián_tiếp",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L24_RO_33",
+    "lesson_id": 24,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "この絵はピカソによって描かれました。",
+    "sentence_translation": "Bức tranh này được vẽ bởi Picasso.",
+    "question_text": "この絵はピカソによって描かれました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "描かれました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "ピカソによって",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "この絵は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Bị động trang trọng: chủ đề (この絵は) → agent + によって (ピカソによって) → V bị động (描かれました). によって thay に trong văn phong TRANG TRỌNG/lịch sử",
+    "hint": null,
+    "tags": [
+      "によって",
+      "bị_động",
+      "trang_trọng",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L24_RO_34",
+    "lesson_id": 24,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "電車の中で知らない人に足を踏まれて痛かったです。",
+    "sentence_translation": "Trên tàu bị người lạ giẫm chân, đau lắm.",
+    "question_text": "電車の中で知らない人に足を踏まれて痛かったです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "痛かったです",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "足を踏まれて",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "知らない人に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "電車の中で",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Nơi chốn (電車の中で) → agent + に (知らない人に) → bộ phận + を + V bị động + て (足を踏まれて) → kết quả (痛かったです). Mẫu bị động bộ phận cơ thể đầy đủ!",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "bộ_phận_cơ_thể",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L24_QT_35",
+    "lesson_id": 24,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "母に起こされました。",
+    "sentence_translation": "Tôi được/bị mẹ đánh thức.",
+    "question_text": "母に / 起こされました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Mẹ đã đánh thức. (chủ động)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi được/bị mẹ đánh thức. (bị động trực tiếp: mẹ đánh thức tôi)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Mẹ bị đánh thức. (sai agent)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi đánh thức mẹ. (ngược nghĩa)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "母に起こされた = \"được/bị mẹ đánh thức\". に = agent (mẹ LÀM hành động). Chủ ngữ (tôi) NHẬN hành động. \"Được\" hay \"bị\" tùy cảm xúc: muốn ngủ tiếp → \"bị\", cần dậy sớm → \"được\"",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "trực_tiếp",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L24_QT_36",
+    "lesson_id": 24,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達に秘密を言われました。",
+    "sentence_translation": "Tôi bị bạn nói lộ bí mật.",
+    "question_text": "友達に / 秘密を / 言われました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi nói bí mật cho bạn. (ngược)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bạn bị nói bí mật. (sai chủ ngữ)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi bị bạn nói lộ bí mật. (bị động gián tiếp: bí mật CỦA TÔI bị bạn nói ra)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Bạn đã nói bí mật. (chủ động)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động gián tiếp: 友達に秘密を言われた = \"bị bạn nói (lộ) bí mật\". Bí mật là CỦA TÔI → tôi bị PHIỀN. Tiếng Việt dùng \"bị\" tự nhiên ở đây → sắc thái phiền toái rõ ràng",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "gián_tiếp",
+      "dịch",
+      "phiền_toái"
+    ]
+  },
+  {
+    "id": "L24_QT_37",
+    "lesson_id": 24,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "社長に呼ばれました。",
+    "sentence_translation": "Tôi được giám đốc gọi.",
+    "question_text": "社長に / 呼ばれました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Giám đốc được gọi. (sai agent)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Giám đốc đã gọi. (chủ động)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi gọi giám đốc. (ngược)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi được giám đốc gọi. (bị động trực tiếp)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "社長に呼ばれた = \"được giám đốc gọi\". CHÚ Ý: 呼ばれる có thể là (1) bị động: được gọi, HOẶC (2) kính ngữ: ngài gọi. Phân biệt: kính ngữ thì KHÔNG CÓ に trước. 社長に呼ばれた (có に) = BỊ ĐỘNG. 社長が呼ばれた (không に) = có thể KÍNH NGỮ",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "kính_ngữ",
+      "-れる",
+      "3_nghĩa",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L24_QT_38",
+    "lesson_id": 24,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "隣の人にたばこを吸われて気分が悪くなりました。",
+    "sentence_translation": "Bị người bên cạnh hút thuốc nên khó chịu.",
+    "question_text": "隣の人に / たばこを吸われて / 気分が悪くなりました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Người bên cạnh bị hút thuốc. (vô nghĩa)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bị người bên cạnh hút thuốc nên khó chịu. (bị động gián tiếp: tôi bị ảnh hưởng)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi hút thuốc bên cạnh người ta. (ngược)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Người bên cạnh hút thuốc nên khó chịu. (chủ động, không thể hiện \"bị\")",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động gián tiếp KINH ĐIỂN: người bên cạnh hút thuốc → TÔI bị ảnh hưởng (khói thuốc). Tiếng Việt: \"bị người ta hút thuốc\" hơi lạ nhưng tiếng Nhật rất TỰ NHIÊN. Đây là cách diễn đạt cảm xúc PHIỀN TOÁI đặc trưng!",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "gián_tiếp",
+      "phiền_toái",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L24_QT_39",
+    "lesson_id": 24,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生が来られました。",
+    "sentence_translation": "Thầy giáo đã đến. (kính ngữ)",
+    "question_text": "先生が / 来られました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Thầy giáo đã đến. (kính ngữ: 来られた = 来た nhưng tôn kính)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Thầy giáo có thể đến. (khả năng)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ai đó đã đến thầy giáo. (sai)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thầy giáo bị đến. (bị động - vô nghĩa)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "-られる 3 NGHĨA: ở đây là KÍNH NGỮ (honorific). Dấu hiệu: (1) KHÔNG CÓ に trước (không có agent), (2) chủ ngữ là người ĐÁNG KÍNH (先生). 先生が来られた = \"thầy đã đến\" (tôn kính). Nếu bị động: 先生に来られた (có に) = \"bị thầy đến\" (phiền)",
+    "hint": null,
+    "tags": [
+      "-られる",
+      "kính_ngữ",
+      "3_nghĩa",
+      "dịch",
+      "QUAN_TRỌNG"
+    ]
+  },
+  {
+    "id": "L24_QT_40",
+    "lesson_id": 24,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この建物は100年前に建てられました。",
+    "sentence_translation": "Tòa nhà này được xây cách đây 100 năm.",
+    "question_text": "この建物は / 100年前に / 建てられました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tòa nhà này xây cách đây 100 năm. (chủ động)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tòa nhà này có thể xây 100 năm trước. (khả năng)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ai đó xây tòa nhà 100 năm trước. (chủ động, đổi góc nhìn)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tòa nhà này được xây cách đây 100 năm. (bị động: không nêu agent)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động KHÔNG CÓ AGENT (không nêu ai xây) → dùng khi agent không quan trọng hoặc không biết. 建てられました = \"được xây\". Đây là bị động TRỰC TIẾP, sắc thái trung lập (không phiền toái). Rất phổ biến trong mô tả sự vật!",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "không_agent",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L24_QT_41",
+    "lesson_id": 24,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼はみんなに尊敬されています。",
+    "sentence_translation": "Anh ấy được mọi người kính trọng.",
+    "question_text": "彼は / みんなに / 尊敬されています。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Mọi người kính trọng anh ấy. (chủ động)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh ấy kính trọng mọi người. (ngược)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh ấy được mọi người kính trọng. (bị động tích cực)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Anh ấy bị mọi người kính trọng. (sai sắc thái)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Bị động TÍCH CỰC: 尊敬されている = \"được kính trọng\". KHÔNG phải mọi bị động đều tiêu cực! Bị động trực tiếp có thể mang sắc thái TÍCH CỰC: 褒められた (được khen), 愛されている (được yêu), 尊敬されている (được kính trọng)",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "tích_cực",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L24_QT_42",
+    "lesson_id": 24,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この手紙は英語で書かれています。",
+    "sentence_translation": "Bức thư này được viết bằng tiếng Anh.",
+    "question_text": "この手紙は / 英語で / 書かれています。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Ai đó viết thư bằng tiếng Anh. (chủ động)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bức thư này viết tiếng Anh. (thiếu sắc thái bị động)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bức thư này có thể viết bằng tiếng Anh. (khả năng)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bức thư này được viết bằng tiếng Anh. (bị động + で = phương tiện)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "英語で書かれている = \"được viết bằng tiếng Anh\". で = phương tiện/ngôn ngữ (KHÔNG phải agent). KHÁC に (agent). So sánh: 先生に書かれた (bị thầy viết - agent) vs 英語で書かれた (bằng tiếng Anh - phương tiện)",
+    "hint": null,
+    "tags": [
+      "bị_động",
+      "で",
+      "phương_tiện",
+      "dịch"
+    ]
+  }
+]

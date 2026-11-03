@@ -1,0 +1,1400 @@
+[
+  {
+    "id": "L26_FP_01",
+    "lesson_id": 26,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日買った本はとても面白いです。",
+    "sentence_translation": "Cuốn sách mua hôm qua rất hay.",
+    "question_text": "昨日買っ（　）本はとても面白いです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "て",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "た",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vた + 名詞 = mệnh đề bổ nghĩa danh từ (relative clause). 買った本 = \"cuốn sách ĐÃ MUA\". た = thể quá khứ, đặt TRƯỚC danh từ để bổ nghĩa. Tiếng Nhật: mệnh đề bổ nghĩa đứng TRƯỚC danh từ (ngược với tiếng Việt!)",
+    "hint": "Hành động \"mua\" đã xong → bổ nghĩa cho \"sách\" → dùng dạng nào?",
+    "tags": [
+      "た",
+      "relative_clause",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L26_FP_02",
+    "lesson_id": 26,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "母が作った料理はおいしいです。",
+    "sentence_translation": "Món ăn mẹ nấu rất ngon.",
+    "question_text": "母（　）作った料理はおいしいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Trong mệnh đề bổ nghĩa (relative clause), は → が. 母が作った料理 = \"món ăn mẹ nấu\". は chỉ dùng cho chủ đề CÂU CHÍNH. Trong mệnh đề phụ, chủ ngữ PHẢI dùng が. Đây là quy tắc QUAN TRỌNG!",
+    "hint": "Trong mệnh đề bổ nghĩa, \"mẹ\" là người thực hiện hành động \"nấu\" → dùng trợ từ nào thay は?",
+    "tags": [
+      "が",
+      "は",
+      "relative_clause",
+      "chủ_ngữ"
+    ]
+  },
+  {
+    "id": "L26_FP_03",
+    "lesson_id": 26,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生が書いた本を読みました。",
+    "sentence_translation": "Tôi đã đọc cuốn sách thầy giáo viết.",
+    "question_text": "先生（　）書いた本を読みました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "が thay は trong mệnh đề bổ nghĩa. 先生が書いた本 = \"cuốn sách thầy viết\". Nếu dùng は → sai! は = chủ đề câu chính. が = chủ ngữ mệnh đề phụ. Phân biệt rõ 2 vai trò này",
+    "hint": "\"Thầy giáo\" là chủ ngữ trong mệnh đề phụ → không dùng は → dùng gì?",
+    "tags": [
+      "が",
+      "は",
+      "relative_clause"
+    ]
+  },
+  {
+    "id": "L26_FP_04",
+    "lesson_id": 26,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "静か（　）場所で勉強したいです。",
+    "sentence_translation": "Tôi muốn học ở nơi yên tĩnh.",
+    "question_text": "静か（　）場所で勉強したいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "だ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Aな + 名詞 = tính từ đuôi な bổ nghĩa danh từ. 静かな場所 = \"nơi yên tĩnh\". な là cầu nối KHÔNG THỂ THIẾU giữa tính từ な và danh từ. KHÁC tính từ い: 高い本 (không cần な)",
+    "hint": "\"Yên tĩnh\" là tính từ đuôi な → đặt trước danh từ \"nơi\" → dùng gì?",
+    "tags": [
+      "な",
+      "tính_từ_な",
+      "bổ_nghĩa"
+    ]
+  },
+  {
+    "id": "L26_FP_05",
+    "lesson_id": 26,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語（　）先生は田中先生です。",
+    "sentence_translation": "Thầy giáo tiếng Nhật là thầy Tanaka.",
+    "question_text": "日本語（　）先生は田中先生です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "N の N = danh từ bổ nghĩa danh từ. 日本語の先生 = \"thầy giáo tiếng Nhật\". の kết nối 2 danh từ. PHÂN BIỆT: 日本語の先生 (thầy dạy tiếng Nhật) vs 日本語が上手な先生 (thầy giỏi tiếng Nhật) → mệnh đề phức tạp hơn!",
+    "hint": "\"Tiếng Nhật\" là danh từ bổ nghĩa cho \"thầy giáo\" → danh từ + ? + danh từ",
+    "tags": [
+      "の",
+      "danh_từ",
+      "bổ_nghĩa"
+    ]
+  },
+  {
+    "id": "L26_FP_06",
+    "lesson_id": 26,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達が住んでいる町はとてもきれいです。",
+    "sentence_translation": "Thành phố bạn tôi đang sống rất đẹp.",
+    "question_text": "友達（　）住んでいる町はとてもきれいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "友達が住んでいる町 = \"thành phố mà bạn đang sống\". が thay は trong mệnh đề phụ. Mệnh đề bổ nghĩa có thể ở thể đang (ている): 住んでいる町 = nơi ĐANG sống. Thể hiện tại = sự thật hiện tại",
+    "hint": "\"Bạn\" là chủ ngữ trong mệnh đề phụ \"đang sống\" → dùng gì trong mệnh đề bổ nghĩa?",
+    "tags": [
+      "が",
+      "relative_clause",
+      "ている"
+    ]
+  },
+  {
+    "id": "L26_FP_07",
+    "lesson_id": 26,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "料理が上手（　）人はモテます。",
+    "sentence_translation": "Người giỏi nấu ăn được yêu thích.",
+    "question_text": "料理が上手（　）人はモテます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "な",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "だ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Aな + 名詞 trong relative clause: 料理が上手な人 = \"người giỏi nấu ăn\". Cả mệnh đề 料理が上手な bổ nghĩa cho 人. Chú ý: が dùng cho chủ ngữ phụ (料理が) + な kết nối tính từ với danh từ",
+    "hint": "上手 là tính từ đuôi な → đặt trước danh từ \"người\" → dùng gì?",
+    "tags": [
+      "な",
+      "relative_clause",
+      "tính_từ_な"
+    ]
+  },
+  {
+    "id": "L26_FP_08",
+    "lesson_id": 26,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "私が昨日会っ（　）人は山田さんの友達でした。",
+    "sentence_translation": "Người tôi gặp hôm qua là bạn của anh Yamada.",
+    "question_text": "私が昨日会っ（　）人は山田さんの友達でした。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ていた",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "て",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "た",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ている",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vた + 名詞 = hành động ĐÃ HOÀN THÀNH bổ nghĩa danh từ. 会った人 = \"người đã gặp\". SO SÁNH: 会う人 (người sẽ gặp - tương lai), 会っている人 (người đang gặp - hiện tại). THỜI CỦA MỆNH ĐỀ thay đổi nghĩa!",
+    "hint": "Hành động \"gặp\" đã hoàn thành (hôm qua) → dùng thể nào trước danh từ?",
+    "tags": [
+      "た",
+      "relative_clause",
+      "thời_gian"
+    ]
+  },
+  {
+    "id": "L26_PR_09",
+    "lesson_id": 26,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日買った...",
+    "sentence_translation": "Cái đã mua hôm qua...",
+    "question_text": "Đọc tới 買った → dự đoán gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có trợ từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có DANH TỪ được bổ nghĩa (sách, áo, đồ...) vì Vた + 名詞 = relative clause",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có động từ khác",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "買った → Vた TRƯỚC danh từ = relative clause. Dự đoán: sắp có DANH TỪ (本 = sách, 服 = áo, もの = đồ...). 🔒 Đóng gói: \"cái đã mua hôm qua\" + danh từ → hiểu ngay đối tượng. Kỹ thuật DỰ ĐOÁN: gặp Vた giữa câu → chờ danh từ!",
+    "hint": "Vた đứng một mình chưa hoàn chỉnh → cần danh từ phía sau",
+    "tags": [
+      "た",
+      "prediction",
+      "relative_clause"
+    ]
+  },
+  {
+    "id": "L26_PR_10",
+    "lesson_id": 26,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "母が作った料理...",
+    "sentence_translation": "Món ăn mẹ nấu...",
+    "question_text": "Đọc tới 料理 → dự đoán gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tính từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có TRỢ TỪ (は/を/が) để biết vai trò của \"món ăn mẹ nấu\" trong câu chính",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "母が作った料理 → 🔒 đóng gói: \"món ăn mẹ nấu\". Dự đoán: sắp có TRỢ TỪ. Nếu は → chủ đề (món ăn mẹ nấu THÌ...). Nếu を → đối tượng (ăn món ăn mẹ nấu). Nếu が → chủ ngữ (món ăn mẹ nấu NGON). Trợ từ = biển báo tiếp theo!",
+    "hint": "料理 = danh từ vừa được bổ nghĩa → cần trợ từ để biết vai trò trong câu chính",
+    "tags": [
+      "trợ_từ",
+      "prediction",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L26_PR_11",
+    "lesson_id": 26,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達が住んでいる町は...",
+    "sentence_translation": "Thành phố bạn đang sống thì...",
+    "question_text": "Đọc tới は → dự đoán gì về cấu trúc câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "\"Thành phố bạn sống\" là CHỦ ĐỀ → sắp có VỊ NGỮ (đẹp, lớn, yên tĩnh...)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có mệnh đề phụ nữa",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ khác",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "友達が住んでいる町は → 🔒 đóng gói: \"thành phố bạn sống\" = chủ đề. は = tín hiệu: phần khó đã XONG! Sắp có vị ngữ đơn giản (きれいです = đẹp, 大きいです = lớn...). Gặp は sau relative clause → thở phào: phần phức tạp đã đóng gói xong!",
+    "hint": "は = chủ đề câu chính → sắp có thông tin về chủ đề đó",
+    "tags": [
+      "は",
+      "prediction",
+      "đóng_gói",
+      "relative_clause"
+    ]
+  },
+  {
+    "id": "L26_PR_12",
+    "lesson_id": 26,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "昨日先生が紹介してくれた...",
+    "sentence_translation": "Cái thầy giáo giới thiệu cho hôm qua...",
+    "question_text": "Đọc tới くれた → dự đoán gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tính từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có DANH TỪ (sách, người, nơi...) vì Vてくれた + 名詞 = relative clause",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có trợ từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "紹介してくれた → Vてくれた TRƯỚC danh từ = relative clause. Dự đoán: DANH TỪ (本 = sách, 人 = người, 店 = quán...). Chú ý: くれた giữ nguyên trong mệnh đề phụ, mang sắc thái \"thầy làm cho tôi\" → biết ơn. Mệnh đề phụ có thể phức tạp!",
+    "hint": "Vてくれた giữa câu → relative clause → cần danh từ phía sau",
+    "tags": [
+      "くれた",
+      "prediction",
+      "relative_clause"
+    ]
+  },
+  {
+    "id": "L26_PR_13",
+    "lesson_id": 26,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本で買った安くておいしい...",
+    "sentence_translation": "Cái rẻ mà ngon mua ở Nhật...",
+    "question_text": "Đọc tới おいしい → dự đoán gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có động từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có DANH TỪ (đồ ăn, bánh kẹo...) vì mệnh đề + tính từ + 名詞 = relative clause nhiều lớp",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có trợ từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "日本で買った + 安くて + おいしい + 名詞 → relative clause NHIỀU LỚP. Dự đoán: danh từ đồ ăn (お菓子 = bánh kẹo, チョコレート = sô-cô-la...). 2 lớp: (1) mua ở Nhật, (2) rẻ và ngon → cả 2 đều bổ nghĩa cho 1 danh từ. Đọc nhiều lớp → đóng gói từng bước!",
+    "hint": "Tính từ い đứng trước → chờ danh từ. Mệnh đề có 2 lớp bổ nghĩa",
+    "tags": [
+      "prediction",
+      "relative_clause",
+      "nhiều_lớp"
+    ]
+  },
+  {
+    "id": "L26_PR_14",
+    "lesson_id": 26,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼が毎日通っている会社の近くにある...",
+    "sentence_translation": "Gần công ty anh ấy đi làm mỗi ngày có...",
+    "question_text": "Đọc tới ある → dự đoán gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp hết mệnh đề",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có DANH TỪ (quán ăn, công viên...) vì ある + 名詞 = relative clause lồng nhau 2-3 tầng",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có trợ từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "彼が通っている会社の近くにある → relative clause LỒNG NHAU! Tầng 1: 彼が通っている → 会社 (công ty anh ấy đi). Tầng 2: 会社の近くにある → 名詞 (cái ở gần công ty). 🔒 Đóng gói từng tầng: \"gần công ty anh ấy\" → chờ danh từ cuối cùng",
+    "hint": "ある giữa câu → vẫn trong relative clause → chờ danh từ",
+    "tags": [
+      "prediction",
+      "relative_clause",
+      "lồng_nhau",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L26_CH_15",
+    "lesson_id": 26,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "昨日買った本を読みました",
+    "sentence_translation": "Tôi đã đọc cuốn sách mua hôm qua.",
+    "question_text": "昨日買った本を読みました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "昨日買った本を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "読みました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "昨日買った本を = 🔒 đóng gói: \"cuốn sách mua hôm qua\" + を (đối tượng) | 読みました = đã đọc. Mệnh đề bổ nghĩa (昨日買った) + danh từ (本) → đóng gói thành 1 khối → đọc tiếp",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "chunking",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L26_CH_16",
+    "lesson_id": 26,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "母が作った料理はおいしいです",
+    "sentence_translation": "Món ăn mẹ nấu rất ngon.",
+    "question_text": "母が作った料理はおいしいです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "母が作った料理は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "おいしいです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "母が作った料理は = 🔒 đóng gói: \"món ăn mẹ nấu\" + は (chủ đề) | おいしいです = ngon. Gặp は → biết phần relative clause đã XONG → đọc tiếp tìm vị ngữ đơn giản",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "chunking",
+      "đóng_gói",
+      "は"
+    ]
+  },
+  {
+    "id": "L26_CH_17",
+    "lesson_id": 26,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "友達にもらったプレゼントを使っています",
+    "sentence_translation": "Tôi đang dùng món quà nhận từ bạn.",
+    "question_text": "友達にもらったプレゼントを使っています",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "友達にもらったプレゼントを",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "使っています",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "友達にもらったプレゼントを = 🔒 đóng gói: \"món quà nhận từ bạn\" + を (đối tượng) | 使っています = đang dùng. もらった = đã nhận → bổ nghĩa cho プレゼント. Đóng gói toàn bộ mệnh đề + danh từ thành 1 khối!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "chunking",
+      "もらった"
+    ]
+  },
+  {
+    "id": "L26_CH_18",
+    "lesson_id": 26,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "去年日本で撮った写真を見せてください",
+    "sentence_translation": "Xin cho tôi xem ảnh chụp ở Nhật năm ngoái.",
+    "question_text": "去年日本で撮った写真を見せてください",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "去年日本で撮った写真を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "見せてください",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "去年日本で撮った写真を = 🔒 đóng gói: \"ảnh chụp ở Nhật năm ngoái\" + を (đối tượng) | 見せてください = xin cho xem. Mệnh đề phụ dài (去年 + 日本で + 撮った) → đóng gói hết thành 1 khối \"ảnh\" → đọc nhanh!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "chunking",
+      "đóng_gói",
+      "dài"
+    ]
+  },
+  {
+    "id": "L26_CH_19",
+    "lesson_id": 26,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "料理が上手な友達が作ってくれたケーキを食べました",
+    "sentence_translation": "Tôi đã ăn bánh mà người bạn giỏi nấu ăn làm cho.",
+    "question_text": "料理が上手な友達が作ってくれたケーキを食べました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "料理が上手な友達が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "作ってくれたケーキを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "食べました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "料理が上手な友達が = 🔒 đóng gói tầng 1: \"người bạn giỏi nấu ăn\" + が (chủ ngữ phụ) | 作ってくれたケーキを = 🔒 đóng gói tầng 2: \"bánh làm cho\" + を (đối tượng) | 食べました = đã ăn. 2 tầng đóng gói liên tiếp!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "chunking",
+      "lồng_nhau",
+      "2_tầng"
+    ]
+  },
+  {
+    "id": "L26_CH_20",
+    "lesson_id": 26,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "彼が毎日通っている会社の近くにあるレストランで食べました",
+    "sentence_translation": "Tôi đã ăn ở nhà hàng gần công ty anh ấy đi làm mỗi ngày.",
+    "question_text": "彼が毎日通っている会社の近くにあるレストランで食べました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "彼が毎日通っている会社の",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "近くにあるレストランで",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "食べました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "彼が毎日通っている会社の = 🔒 đóng gói tầng 1: \"công ty anh ấy đi mỗi ngày\" + の (kết nối) | 近くにあるレストランで = 🔒 đóng gói tầng 2: \"nhà hàng ở gần\" + で (nơi chốn) | 食べました = đã ăn. 3 tầng relative clause → đóng gói từng bước!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "chunking",
+      "lồng_nhau",
+      "3_tầng"
+    ]
+  },
+  {
+    "id": "L26_PD_21",
+    "lesson_id": 26,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "母が作った料理 / 母は料理を作った",
+    "sentence_translation": "Món ăn mẹ nấu. / Mẹ đã nấu món ăn.",
+    "question_text": "Câu nào là MỆNH ĐỀ BỔ NGHĨA (relative clause)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "母が作った料理 (が thay は → mệnh đề phụ bổ nghĩa cho 料理)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "母は料理を作った (は = chủ đề câu chính → câu đơn bình thường)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "は → が khi vào mệnh đề phụ. 母が作った料理 = \"món ăn mẹ nấu\" (relative clause → 料理 là trung tâm). 母は料理を作った = \"mẹ đã nấu món ăn\" (câu chính → 母 là trung tâm). Chỉ đổi は→が mà CẤU TRÚC thay đổi hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "が",
+      "は",
+      "relative_clause",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L26_PD_22",
+    "lesson_id": 26,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生が書いた本 / 先生に書かれた本",
+    "sentence_translation": "Cuốn sách thầy viết. / Cuốn sách được thầy viết.",
+    "question_text": "Cả hai đều bổ nghĩa cho 本. Sắc thái khác nhau thế nào?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "先生が書いた本 (chủ động: thầy VIẾT → trung lập, phổ biến)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "先生に書かれた本 (bị động: được thầy viết → trang trọng hơn, nhấn mạnh cuốn sách)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Relative clause có thể dùng CẢ chủ động và bị động. 先生が書いた本 = chủ động, phổ biến hơn. 先生に書かれた本 = bị động, trang trọng hơn. Khi ĐỌC gặp に + Vられた + 名詞 → biết ngay: bị động trong relative clause",
+    "hint": null,
+    "tags": [
+      "chủ_động",
+      "bị_động",
+      "relative_clause",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L26_PD_23",
+    "lesson_id": 26,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "静かな町 / 静かの町",
+    "sentence_translation": "Thị trấn yên tĩnh. / (SAI ngữ pháp)",
+    "question_text": "Câu nào ĐÚNG ngữ pháp?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "静かな町 (Aな + 名詞 = đúng: tính từ な dùng な trước danh từ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "静かの町 (SAI: の chỉ dùng nối 2 DANH TỪ, không dùng cho tính từ な)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "PHÂN BIỆT QUAN TRỌNG: Tính từ な + 名詞 → dùng な (静かな町). Danh từ + 名詞 → dùng の (日本の町). KHÔNG trộn lẫn! 静か = tính từ な → dùng な. 日本 = danh từ → dùng の. Nhầm な/の là lỗi phổ biến!",
+    "hint": null,
+    "tags": [
+      "な",
+      "の",
+      "phân_biệt",
+      "tính_từ_な",
+      "danh_từ"
+    ]
+  },
+  {
+    "id": "L26_PK_24",
+    "lesson_id": 26,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日デパートで買った靴はとても高かったです。",
+    "sentence_translation": "Đôi giày mua ở trung tâm thương mại hôm qua rất đắt.",
+    "question_text": "🔒 Gặp 買った靴は → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"giày\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói relative clause: \"đôi giày mua ở TTTM hôm qua\" → は = chủ đề → đọc tiếp tìm VỊ NGỮ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"mua\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "昨日デパートで買った靴は → 🔒 đóng gói: \"đôi giày mua ở TTTM hôm qua\". Toàn bộ mệnh đề (昨日 + デパートで + 買った) bổ nghĩa cho 靴 → gom thành 1 hình ảnh. は = tín hiệu: xong phần phức tạp → vị ngữ sắp đến (高かった = đắt)",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "đóng_gói",
+      "は"
+    ]
+  },
+  {
+    "id": "L26_PK_25",
+    "lesson_id": 26,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達が紹介してくれた店で食べた料理はとてもおいしかったです。",
+    "sentence_translation": "Món ăn ở quán bạn giới thiệu rất ngon.",
+    "question_text": "🔒 Gặp relative clause lồng nhau → đóng gói thế nào?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"bạn\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói 2 tầng: tầng 1 \"quán bạn giới thiệu\" → tầng 2 \"món ăn ở quán đó\" → は = chủ đề → đọc tiếp tìm vị ngữ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"quán\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Relative clause LỒNG NHAU → đóng gói TỪNG TẦNG. Tầng 1: 友達が紹介してくれた店 → 🔒 \"quán bạn giới thiệu\". Tầng 2: [quán đó]で食べた料理は → 🔒 \"món ăn ở quán đó\". は = xong! Đọc tiếp: おいしかった. Không cần nhớ từng chi tiết!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "đóng_gói",
+      "lồng_nhau"
+    ]
+  },
+  {
+    "id": "L26_PK_26",
+    "lesson_id": 26,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼が毎日読んでいる新聞に載っていた記事はとても興味深いです。",
+    "sentence_translation": "Bài báo đăng trên tờ báo anh ấy đọc mỗi ngày rất thú vị.",
+    "question_text": "🔒 Gặp relative clause 3 tầng → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ đóng gói tầng 1 rồi dừng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"anh ấy\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói 3 tầng: (1) \"báo anh ấy đọc mỗi ngày\" → (2) \"bài báo đăng trên đó\" → は = chủ đề → đọc tiếp",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "3 tầng relative clause: (1) 彼が毎日読んでいる → 新聞 → 🔒 \"báo anh ấy đọc\". (2) [báo đó]に載っていた → 記事 → 🔒 \"bài báo trên đó\". (3) 記事は → chủ đề → 興味深い (thú vị). Đóng gói từng bước → não không quá tải!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "đóng_gói",
+      "3_tầng"
+    ]
+  },
+  {
+    "id": "L26_PK_27",
+    "lesson_id": 26,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子供の頃よく遊んだ公園の近くにある古い家は今はもうありません。",
+    "sentence_translation": "Ngôi nhà cũ gần công viên hồi nhỏ hay chơi bây giờ không còn nữa.",
+    "question_text": "🔒 Gặp relative clause phức tạp → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ đóng gói \"hồi nhỏ\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói từng tầng: (1) \"công viên hồi nhỏ hay chơi\" → (2) \"ngôi nhà cũ gần đó\" → は = chủ đề → đọc tiếp tìm vị ngữ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói tất cả 1 lần",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Relative clause dài → ĐỪNG đọc 1 lần! Tầng 1: 子供の頃よく遊んだ公園 → 🔒 \"công viên hồi nhỏ\". Tầng 2: [đó]の近くにある古い家は → 🔒 \"nhà cũ gần đó\". は = xong → đọc tiếp: 今はもうありません (giờ không còn). Đóng gói = chìa khóa đọc câu dài!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "đóng_gói",
+      "phức_tạp"
+    ]
+  },
+  {
+    "id": "L26_RO_28",
+    "lesson_id": 26,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "昨日買った本を読みました。",
+    "sentence_translation": "Tôi đã đọc cuốn sách mua hôm qua.",
+    "question_text": "昨日買った本を読みました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "読みました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "本を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "昨日買った",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự: mệnh đề bổ nghĩa (昨日買った) → danh từ + trợ từ (本を) → động từ chính (読みました). Mệnh đề phụ luôn đứng TRƯỚC danh từ nó bổ nghĩa. Danh từ + trợ từ → động từ cuối",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "reorder",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L26_RO_29",
+    "lesson_id": 26,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "母が作った料理はおいしいです。",
+    "sentence_translation": "Món ăn mẹ nấu rất ngon.",
+    "question_text": "母が作った料理はおいしいです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "おいしいです",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "料理は",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "母が作った",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "母が作った (mệnh đề phụ: mẹ nấu) → 料理は (danh từ + chủ đề: món ăn) → おいしいです (vị ngữ: ngon). Mệnh đề phụ → danh từ → trợ từ → vị ngữ. が thay は trong mệnh đề phụ!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "reorder",
+      "が"
+    ]
+  },
+  {
+    "id": "L26_RO_30",
+    "lesson_id": 26,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "去年日本で撮った写真を友達に見せました。",
+    "sentence_translation": "Tôi đã cho bạn xem ảnh chụp ở Nhật năm ngoái.",
+    "question_text": "去年日本で撮った写真を友達に見せました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "友達に見せました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "写真を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "去年日本で撮った",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "去年日本で撮った (mệnh đề phụ dài) → 写真を (ảnh + đối tượng) → 友達に見せました (cho bạn xem). Mệnh đề phụ dài → đóng gói: \"ảnh chụp ở Nhật năm ngoái\" → を → hành động chính",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "reorder",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L26_RO_31",
+    "lesson_id": 26,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "料理が上手な友達が作ってくれたケーキを食べました。",
+    "sentence_translation": "Tôi đã ăn bánh bạn giỏi nấu ăn làm cho.",
+    "question_text": "料理が上手な友達が作ってくれたケーキを食べました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "食べました",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "ケーキを",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "作ってくれた",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "料理が上手な友達が",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Tầng 1: 料理が上手な友達が (bạn giỏi nấu ăn + chủ ngữ phụ) → Tầng 2: 作ってくれたケーキを (bánh làm cho + đối tượng) → 食べました (đã ăn). Relative clause lồng nhau: tầng trong → tầng ngoài → câu chính",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "reorder",
+      "lồng_nhau"
+    ]
+  },
+  {
+    "id": "L26_QT_32",
+    "lesson_id": 26,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日買った本",
+    "sentence_translation": "Cuốn sách mua hôm qua.",
+    "question_text": "昨日 / 買った / 本 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Sách đã mua. (thiếu thời gian)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuốn sách sẽ mua hôm qua. (sai thời)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuốn sách mua hôm qua. (買った bổ nghĩa cho 本)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Hôm qua mua sách. (câu chính)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "昨日買った本 = \"cuốn sách mua hôm qua\". Đây là CỤM DANH TỪ, không phải câu hoàn chỉnh. 買った (đã mua) bổ nghĩa cho 本 (sách). Tiếng Nhật: mệnh đề phụ TRƯỚC danh từ. Tiếng Việt: mệnh đề phụ SAU danh từ",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "dịch",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L26_QT_33",
+    "lesson_id": 26,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生が書いた本を読みました。",
+    "sentence_translation": "Tôi đã đọc cuốn sách thầy giáo viết.",
+    "question_text": "先生が書いた / 本を / 読みました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Thầy giáo viết sách. (thiếu \"đọc\")",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thầy giáo đã đọc sách. (sai chủ ngữ)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi đã viết sách cho thầy. (ngược nghĩa)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi đã đọc cuốn sách thầy giáo viết. (が = chủ ngữ phụ, 書いた bổ nghĩa 本)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "先生が書いた本を読みました = \"đọc cuốn sách thầy viết\". CẤU TRÚC: [先生が書いた] = mệnh đề phụ → [本を] = danh từ + trợ từ → [読みました] = động từ chính. が trong mệnh đề phụ ≠ が câu chính!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "dịch",
+      "が"
+    ]
+  },
+  {
+    "id": "L26_QT_34",
+    "lesson_id": 26,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "静かで景色がきれいな町に住みたいです。",
+    "sentence_translation": "Tôi muốn sống ở thị trấn yên tĩnh và có cảnh đẹp.",
+    "question_text": "静かで / 景色がきれいな / 町に / 住みたいです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Cảnh đẹp ở thị trấn yên tĩnh. (sai cấu trúc)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Muốn sống ở thị trấn yên tĩnh và cảnh đẹp. (2 lớp bổ nghĩa: 静かで + 景色がきれいな → 町)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi sống ở thị trấn yên tĩnh. (thiếu \"cảnh đẹp\")",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thị trấn yên tĩnh có cảnh đẹp. (thiếu \"muốn sống\")",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "2 lớp bổ nghĩa cho 町: (1) 静かで = yên tĩnh + て (nối), (2) 景色がきれいな = cảnh đẹp + な (tính từ な). Cả 2 cùng bổ nghĩa cho 町. Khi gặp nhiều lớp → đóng gói: \"thị trấn yên tĩnh cảnh đẹp\" → đọc tiếp",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "dịch",
+      "nhiều_lớp",
+      "な"
+    ]
+  },
+  {
+    "id": "L26_QT_35",
+    "lesson_id": 26,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "父が若い頃住んでいた家はもうありません。",
+    "sentence_translation": "Ngôi nhà bố sống hồi trẻ giờ không còn nữa.",
+    "question_text": "父が若い頃住んでいた / 家は / もうありません。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Ngôi nhà bố sống hồi trẻ giờ không còn nữa. (mệnh đề phụ dài bổ nghĩa 家)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Ngôi nhà không còn bố. (sai nghĩa)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bố đã sống ở ngôi nhà cũ. (thiếu \"không còn\")",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bố hồi trẻ không còn nhà. (sai cấu trúc)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "父が若い頃住んでいた家 = 🔒 đóng gói: \"ngôi nhà bố sống hồi trẻ\". Mệnh đề phụ DÀI (父が + 若い頃 + 住んでいた) nhưng đóng gói thành 1 hình ảnh. は → chủ đề → もうありません (không còn). Đọc từ trái → phải, đóng gói → hiểu ngay!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "dịch",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L26_QT_36",
+    "lesson_id": 26,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達が作ってくれたケーキはとてもおいしかったです。",
+    "sentence_translation": "Bánh bạn làm cho rất ngon.",
+    "question_text": "友達が作ってくれた / ケーキは / おいしかったです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi làm bánh cho bạn. (ngược)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bánh ngon cho bạn. (sai nghĩa)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bạn ăn bánh ngon. (sai cấu trúc)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bánh bạn làm cho rất ngon. (が = chủ ngữ phụ, くれた = làm cho tôi)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "友達が作ってくれたケーキは = 🔒 \"bánh bạn làm cho\". くれた giữ nguyên trong mệnh đề phụ, mang sắc thái \"bạn làm CHO TÔI\" (biết ơn). は → chủ đề → おいしかった (ngon). Relative clause giữ mọi sắc thái của động từ gốc!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "dịch",
+      "くれた"
+    ]
+  },
+  {
+    "id": "L26_QT_37",
+    "lesson_id": 26,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語が上手な人が書いた記事を読みました。",
+    "sentence_translation": "Tôi đã đọc bài viết của người giỏi tiếng Nhật.",
+    "question_text": "日本語が上手な人が / 書いた記事を / 読みました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi viết bài bằng tiếng Nhật giỏi. (sai cấu trúc)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bài viết tiếng Nhật rất giỏi. (vô nghĩa)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đọc bài viết của người giỏi tiếng Nhật. (2 tầng relative clause)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Người giỏi tiếng Nhật đọc bài viết. (sai chủ ngữ)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "2 tầng: (1) 日本語が上手な人 = \"người giỏi tiếng Nhật\" (な + 名詞). (2) [người đó]が書いた記事 = \"bài viết người đó viết\" (Vた + 名詞). CHÚ Ý: 2 lần が nhưng khác vai trò! が đầu = chủ ngữ trong tính từ な, が sau = chủ ngữ mệnh đề phụ",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "dịch",
+      "2_tầng",
+      "が"
+    ]
+  }
+]

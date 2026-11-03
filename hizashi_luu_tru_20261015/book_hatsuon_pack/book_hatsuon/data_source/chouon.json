@@ -1,0 +1,416 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Trường âm tiếng Nhật (長音) - Long vowels",
+    "name_vi": "Trường âm",
+    "name_jp": "長音",
+    "note": "Trường âm kéo dài nguyên âm thêm 1 mora (2 mora tổng cộng)"
+  },
+  "rules": {
+    "hiragana": {
+      "description": "Quy tắc viết trường âm trong Hiragana",
+      "patterns": [
+        { "vowel": "a", "extension": "あ", "example": "おかあさん", "romaji": "okaasan" },
+        { "vowel": "i", "extension": "い", "example": "おにいさん", "romaji": "oniisan" },
+        { "vowel": "u", "extension": "う", "example": "くうき", "romaji": "kuuki" },
+        { "vowel": "e", "extension": "い (hoặc え)", "example": "せんせい / おねえさん", "romaji": "sensei / oneesan", "note": "Phần lớn dùng い, một số ít dùng え" },
+        { "vowel": "o", "extension": "う (hoặc お)", "example": "がっこう / おおきい", "romaji": "gakkou / ookii", "note": "Phần lớn dùng う, một số ít dùng お" }
+      ]
+    },
+    "katakana": {
+      "description": "Quy tắc viết trường âm trong Katakana",
+      "note": "Katakana dùng ー cho tất cả trường âm",
+      "symbol": "ー",
+      "examples": [
+        { "word": "コーヒー", "romaji": "koohii", "meaning": "cà phê" },
+        { "word": "ケーキ", "romaji": "keeki", "meaning": "bánh kem" },
+        { "word": "カー", "romaji": "kaa", "meaning": "xe hơi (car)" }
+      ]
+    }
+  },
+  "long_vowels": {
+    "aa": {
+      "name": "Trường âm A",
+      "hiragana_pattern": "あ段 + あ",
+      "duration": "2 mora",
+      "examples": [
+        { "word": "おかあさん", "katakana": "オカアサン", "romaji": "okaasan", "meaning": "mẹ", "mora_count": 5 },
+        { "word": "おばあさん", "katakana": "オバアサン", "romaji": "obaasan", "meaning": "bà", "mora_count": 5 },
+        { "word": "ああ", "katakana": "アア", "romaji": "aa", "meaning": "à, ồ", "mora_count": 2 }
+      ]
+    },
+    "ii": {
+      "name": "Trường âm I",
+      "hiragana_pattern": "い段 + い",
+      "duration": "2 mora",
+      "examples": [
+        { "word": "おにいさん", "katakana": "オニイサン", "romaji": "oniisan", "meaning": "anh trai", "mora_count": 5 },
+        { "word": "おじいさん", "katakana": "オジイサン", "romaji": "ojiisan", "meaning": "ông", "mora_count": 5 },
+        { "word": "いい", "katakana": "イイ", "romaji": "ii", "meaning": "tốt", "mora_count": 2 },
+        { "word": "かわいい", "katakana": "カワイイ", "romaji": "kawaii", "meaning": "dễ thương", "mora_count": 4 }
+      ]
+    },
+    "uu": {
+      "name": "Trường âm U",
+      "hiragana_pattern": "う段 + う",
+      "duration": "2 mora",
+      "examples": [
+        { "word": "くうき", "katakana": "クウキ", "romaji": "kuuki", "meaning": "không khí", "mora_count": 3 },
+        { "word": "すうがく", "katakana": "スウガク", "romaji": "suugaku", "meaning": "toán học", "mora_count": 4 },
+        { "word": "ゆうめい", "katakana": "ユウメイ", "romaji": "yuumei", "meaning": "nổi tiếng", "mora_count": 4 },
+        { "word": "じゅう", "katakana": "ジュウ", "romaji": "juu", "meaning": "mười", "mora_count": 2 }
+      ]
+    },
+    "ei": {
+      "name": "Trường âm E (dạng ei)",
+      "hiragana_pattern": "え段 + い",
+      "duration": "2 mora",
+      "note": "Phát âm như 'ee' kéo dài, không phải 'e-i' tách biệt",
+      "examples": [
+        { "word": "せんせい", "katakana": "センセイ", "romaji": "sensei", "meaning": "giáo viên", "mora_count": 4 },
+        { "word": "えいご", "katakana": "エイゴ", "romaji": "eigo", "meaning": "tiếng Anh", "mora_count": 3 },
+        { "word": "けいたい", "katakana": "ケイタイ", "romaji": "keitai", "meaning": "điện thoại", "mora_count": 4 },
+        { "word": "めい", "katakana": "メイ", "romaji": "mei", "meaning": "cháu gái", "mora_count": 2 }
+      ]
+    },
+    "ee": {
+      "name": "Trường âm E (dạng ee)",
+      "hiragana_pattern": "え段 + え",
+      "duration": "2 mora",
+      "note": "Ít phổ biến hơn ei, chỉ một số từ",
+      "examples": [
+        { "word": "おねえさん", "katakana": "オネエサン", "romaji": "oneesan", "meaning": "chị gái", "mora_count": 5 },
+        { "word": "ええ", "katakana": "エエ", "romaji": "ee", "meaning": "vâng, ừ", "mora_count": 2 }
+      ]
+    },
+    "ou": {
+      "name": "Trường âm O (dạng ou)",
+      "hiragana_pattern": "お段 + う",
+      "duration": "2 mora",
+      "note": "Phát âm như 'oo' kéo dài, không phải 'o-u' tách biệt",
+      "examples": [
+        { "word": "がっこう", "katakana": "ガッコウ", "romaji": "gakkou", "meaning": "trường học", "mora_count": 4 },
+        { "word": "とうきょう", "katakana": "トウキョウ", "romaji": "toukyou", "meaning": "Tokyo", "mora_count": 4 },
+        { "word": "おとうさん", "katakana": "オトウサン", "romaji": "otousan", "meaning": "bố", "mora_count": 5 },
+        { "word": "どうぞ", "katakana": "ドウゾ", "romaji": "douzo", "meaning": "xin mời", "mora_count": 3 },
+        { "word": "こうえん", "katakana": "コウエン", "romaji": "kouen", "meaning": "công viên", "mora_count": 4 }
+      ]
+    },
+    "oo": {
+      "name": "Trường âm O (dạng oo)",
+      "hiragana_pattern": "お段 + お",
+      "duration": "2 mora",
+      "note": "Ít phổ biến hơn ou, chỉ một số từ",
+      "examples": [
+        { "word": "おおきい", "katakana": "オオキイ", "romaji": "ookii", "meaning": "to, lớn", "mora_count": 4 },
+        { "word": "おおい", "katakana": "オオイ", "romaji": "ooi", "meaning": "nhiều", "mora_count": 3 },
+        { "word": "とおい", "katakana": "トオイ", "romaji": "tooi", "meaning": "xa", "mora_count": 3 },
+        { "word": "こおり", "katakana": "コオリ", "romaji": "koori", "meaning": "đá (nước đá)", "mora_count": 3 },
+        { "word": "おおさか", "katakana": "オオサカ", "romaji": "oosaka", "meaning": "Osaka", "mora_count": 4 }
+      ]
+    }
+  },
+  "yoon_long_vowels": {
+    "description": "Trường âm của âm ghép (拗音 + 長音)",
+    "note": "Âm ghép (1 mora) + trường âm = 2 mora. Ví dụ: きょ (1) + う = きょう (2)",
+    "rows": {
+      "ky": {
+        "name": "きゃ行 + trường âm",
+        "characters": [
+          { "base": "きゃ", "long": "きゃあ", "katakana": "キャー", "romaji": "kyaa", "mora": 2, "examples": [
+            { "word": "きゃあ", "meaning": "tiếng kêu (kyaa!)", "mora_count": 2 }
+          ]},
+          { "base": "きゅ", "long": "きゅう", "katakana": "キュウ", "romaji": "kyuu", "mora": 2, "examples": [
+            { "word": "きゅう", "meaning": "chín (số 9)", "mora_count": 2 },
+            { "word": "きゅうり", "meaning": "dưa chuột", "mora_count": 3 }
+          ]},
+          { "base": "きょ", "long": "きょう", "katakana": "キョウ", "romaji": "kyou", "mora": 2, "examples": [
+            { "word": "きょう", "meaning": "hôm nay", "mora_count": 2 },
+            { "word": "きょうと", "meaning": "Kyoto", "mora_count": 3 },
+            { "word": "とうきょう", "meaning": "Tokyo", "mora_count": 4 }
+          ]}
+        ]
+      },
+      "gy": {
+        "name": "ぎゃ行 + trường âm",
+        "characters": [
+          { "base": "ぎゃ", "long": "ぎゃあ", "katakana": "ギャー", "romaji": "gyaa", "mora": 2 },
+          { "base": "ぎゅ", "long": "ぎゅう", "katakana": "ギュウ", "romaji": "gyuu", "mora": 2, "examples": [
+            { "word": "ぎゅうにく", "meaning": "thịt bò", "mora_count": 4 },
+            { "word": "ぎゅうにゅう", "meaning": "sữa bò", "mora_count": 5 }
+          ]},
+          { "base": "ぎょ", "long": "ぎょう", "katakana": "ギョウ", "romaji": "gyou", "mora": 2, "examples": [
+            { "word": "ぎょうれつ", "meaning": "hàng, dãy", "mora_count": 4 }
+          ]}
+        ]
+      },
+      "sh": {
+        "name": "しゃ行 + trường âm",
+        "characters": [
+          { "base": "しゃ", "long": "しゃあ", "katakana": "シャー", "romaji": "shaa", "mora": 2, "examples": [
+            { "word": "シャワー", "meaning": "vòi sen (shower)", "mora_count": 3 }
+          ]},
+          { "base": "しゅ", "long": "しゅう", "katakana": "シュウ", "romaji": "shuu", "mora": 2, "examples": [
+            { "word": "しゅう", "meaning": "tuần", "mora_count": 2 },
+            { "word": "しゅうまつ", "meaning": "cuối tuần", "mora_count": 4 }
+          ]},
+          { "base": "しょ", "long": "しょう", "katakana": "ショウ", "romaji": "shou", "mora": 2, "examples": [
+            { "word": "しょうゆ", "meaning": "nước tương", "mora_count": 3 },
+            { "word": "しょうがっこう", "meaning": "trường tiểu học", "mora_count": 6 }
+          ]}
+        ]
+      },
+      "j": {
+        "name": "じゃ行 + trường âm",
+        "characters": [
+          { "base": "じゃ", "long": "じゃあ", "katakana": "ジャー", "romaji": "jaa", "mora": 2, "examples": [
+            { "word": "じゃあ", "meaning": "vậy thì", "mora_count": 2 }
+          ]},
+          { "base": "じゅ", "long": "じゅう", "katakana": "ジュウ", "romaji": "juu", "mora": 2, "examples": [
+            { "word": "じゅう", "meaning": "mười", "mora_count": 2 },
+            { "word": "じゅうしょ", "meaning": "địa chỉ", "mora_count": 4 },
+            { "word": "じゅぎょう", "meaning": "tiết học", "mora_count": 4 }
+          ]},
+          { "base": "じょ", "long": "じょう", "katakana": "ジョウ", "romaji": "jou", "mora": 2, "examples": [
+            { "word": "じょうず", "meaning": "giỏi, khéo", "mora_count": 3 }
+          ]}
+        ]
+      },
+      "ch": {
+        "name": "ちゃ行 + trường âm",
+        "characters": [
+          { "base": "ちゃ", "long": "ちゃあ", "katakana": "チャー", "romaji": "chaa", "mora": 2 },
+          { "base": "ちゅ", "long": "ちゅう", "katakana": "チュウ", "romaji": "chuu", "mora": 2, "examples": [
+            { "word": "ちゅうごく", "meaning": "Trung Quốc", "mora_count": 4 },
+            { "word": "ちゅうがっこう", "meaning": "trường THCS", "mora_count": 6 }
+          ]},
+          { "base": "ちょ", "long": "ちょう", "katakana": "チョウ", "romaji": "chou", "mora": 2, "examples": [
+            { "word": "ちょうど", "meaning": "vừa đúng", "mora_count": 3 }
+          ]}
+        ]
+      },
+      "ny": {
+        "name": "にゃ行 + trường âm",
+        "characters": [
+          { "base": "にゃ", "long": "にゃあ", "katakana": "ニャー", "romaji": "nyaa", "mora": 2, "examples": [
+            { "word": "にゃあ", "meaning": "tiếng mèo kêu", "mora_count": 2 }
+          ]},
+          { "base": "にゅ", "long": "にゅう", "katakana": "ニュウ", "romaji": "nyuu", "mora": 2, "examples": [
+            { "word": "にゅうがく", "meaning": "nhập học", "mora_count": 4 }
+          ]},
+          { "base": "にょ", "long": "にょう", "katakana": "ニョウ", "romaji": "nyou", "mora": 2 }
+        ]
+      },
+      "hy": {
+        "name": "ひゃ行 + trường âm",
+        "characters": [
+          { "base": "ひゃ", "long": "ひゃあ", "katakana": "ヒャー", "romaji": "hyaa", "mora": 2 },
+          { "base": "ひゅ", "long": "ひゅう", "katakana": "ヒュウ", "romaji": "hyuu", "mora": 2 },
+          { "base": "ひょ", "long": "ひょう", "katakana": "ヒョウ", "romaji": "hyou", "mora": 2, "examples": [
+            { "word": "ひょう", "meaning": "bảng, biểu", "mora_count": 2 }
+          ]}
+        ]
+      },
+      "by": {
+        "name": "びゃ行 + trường âm",
+        "characters": [
+          { "base": "びゃ", "long": "びゃあ", "katakana": "ビャー", "romaji": "byaa", "mora": 2 },
+          { "base": "びゅ", "long": "びゅう", "katakana": "ビュウ", "romaji": "byuu", "mora": 2 },
+          { "base": "びょ", "long": "びょう", "katakana": "ビョウ", "romaji": "byou", "mora": 2, "examples": [
+            { "word": "びょういん", "meaning": "bệnh viện", "mora_count": 4 },
+            { "word": "びょうき", "meaning": "bệnh", "mora_count": 3 }
+          ]}
+        ]
+      },
+      "py": {
+        "name": "ぴゃ行 + trường âm",
+        "characters": [
+          { "base": "ぴゃ", "long": "ぴゃあ", "katakana": "ピャー", "romaji": "pyaa", "mora": 2 },
+          { "base": "ぴゅ", "long": "ぴゅう", "katakana": "ピュウ", "romaji": "pyuu", "mora": 2 },
+          { "base": "ぴょ", "long": "ぴょう", "katakana": "ピョウ", "romaji": "pyou", "mora": 2 }
+        ]
+      },
+      "my": {
+        "name": "みゃ行 + trường âm",
+        "characters": [
+          { "base": "みゃ", "long": "みゃあ", "katakana": "ミャー", "romaji": "myaa", "mora": 2 },
+          { "base": "みゅ", "long": "みゅう", "katakana": "ミュウ", "romaji": "myuu", "mora": 2 },
+          { "base": "みょ", "long": "みょう", "katakana": "ミョウ", "romaji": "myou", "mora": 2, "examples": [
+            { "word": "みょうじ", "meaning": "họ (tên họ)", "mora_count": 3 }
+          ]}
+        ]
+      },
+      "ry": {
+        "name": "りゃ行 + trường âm",
+        "characters": [
+          { "base": "りゃ", "long": "りゃあ", "katakana": "リャー", "romaji": "ryaa", "mora": 2 },
+          { "base": "りゅ", "long": "りゅう", "katakana": "リュウ", "romaji": "ryuu", "mora": 2, "examples": [
+            { "word": "りゅう", "meaning": "rồng", "mora_count": 2 },
+            { "word": "りゅうがく", "meaning": "du học", "mora_count": 4 }
+          ]},
+          { "base": "りょ", "long": "りょう", "katakana": "リョウ", "romaji": "ryou", "mora": 2, "examples": [
+            { "word": "りょうり", "meaning": "nấu ăn", "mora_count": 3 },
+            { "word": "りょこう", "meaning": "du lịch", "mora_count": 3 }
+          ]}
+        ]
+      }
+    }
+  },
+  "yoon_minimal_pairs": {
+    "description": "Phân biệt âm ghép ngắn vs âm ghép + trường âm",
+    "note": "Đây là lỗi rất phổ biến",
+    "pairs": [
+      {
+        "short": { "word": "きょ", "romaji": "kyo", "mora": 1 },
+        "long": { "word": "きょう", "romaji": "kyou", "meaning": "hôm nay", "mora": 2 }
+      },
+      {
+        "short": { "word": "しょ", "romaji": "sho", "mora": 1 },
+        "long": { "word": "しょう", "romaji": "shou", "mora": 2 }
+      },
+      {
+        "short": { "word": "じゅ", "romaji": "ju", "mora": 1 },
+        "long": { "word": "じゅう", "romaji": "juu", "meaning": "mười", "mora": 2 }
+      },
+      {
+        "short": { "word": "りょ", "romaji": "ryo", "mora": 1 },
+        "long": { "word": "りょう", "romaji": "ryou", "mora": 2 }
+      },
+      {
+        "short": { "word": "びょ", "romaji": "byo", "mora": 1 },
+        "long": { "word": "びょう", "romaji": "byou", "mora": 2 }
+      },
+      {
+        "short": { "word": "おきょ", "romaji": "okyo", "mora": 2 },
+        "long": { "word": "おきょう", "romaji": "okyou", "meaning": "kinh (Phật)", "mora": 3 }
+      },
+      {
+        "short": { "word": "りょり", "romaji": "ryori", "mora": 2 },
+        "long": { "word": "りょうり", "romaji": "ryouri", "meaning": "nấu ăn", "mora": 3 }
+      },
+      {
+        "short": { "word": "ぎゅにく", "romaji": "gyuniku", "mora": 3 },
+        "long": { "word": "ぎゅうにく", "romaji": "gyuuniku", "meaning": "thịt bò", "mora": 4 }
+      }
+    ]
+  },
+  "minimal_pairs": {
+    "description": "Cặp từ để luyện nghe phân biệt âm ngắn vs trường âm",
+    "pairs": [
+      {
+        "short": { "word": "おばさん", "romaji": "obasan", "meaning": "cô, dì", "mora": 4 },
+        "long": { "word": "おばあさん", "romaji": "obaasan", "meaning": "bà", "mora": 5 },
+        "vowel": "a"
+      },
+      {
+        "short": { "word": "おじさん", "romaji": "ojisan", "meaning": "chú, bác", "mora": 4 },
+        "long": { "word": "おじいさん", "romaji": "ojiisan", "meaning": "ông", "mora": 5 },
+        "vowel": "i"
+      },
+      {
+        "short": { "word": "え", "romaji": "e", "meaning": "tranh, hình", "mora": 1 },
+        "long": { "word": "ええ", "romaji": "ee", "meaning": "vâng", "mora": 2 },
+        "vowel": "e"
+      },
+      {
+        "short": { "word": "ここ", "romaji": "koko", "meaning": "ở đây", "mora": 2 },
+        "long": { "word": "こうこう", "romaji": "koukou", "meaning": "trường cấp 3", "mora": 4 },
+        "vowel": "o"
+      },
+      {
+        "short": { "word": "とる", "romaji": "toru", "meaning": "lấy", "mora": 2 },
+        "long": { "word": "とおる", "romaji": "tooru", "meaning": "đi qua", "mora": 3 },
+        "vowel": "o"
+      },
+      {
+        "short": { "word": "ゆき", "romaji": "yuki", "meaning": "tuyết", "mora": 2 },
+        "long": { "word": "ゆうき", "romaji": "yuuki", "meaning": "dũng cảm", "mora": 3 },
+        "vowel": "u"
+      },
+      {
+        "short": { "word": "くき", "romaji": "kuki", "meaning": "thân cây", "mora": 2 },
+        "long": { "word": "くうき", "romaji": "kuuki", "meaning": "không khí", "mora": 3 },
+        "vowel": "u"
+      },
+      {
+        "short": { "word": "ビル", "romaji": "biru", "meaning": "tòa nhà", "mora": 2 },
+        "long": { "word": "ビール", "romaji": "biiru", "meaning": "bia", "mora": 3 },
+        "vowel": "i"
+      },
+      {
+        "short": { "word": "カド", "romaji": "kado", "meaning": "góc", "mora": 2 },
+        "long": { "word": "カード", "romaji": "kaado", "meaning": "thẻ (card)", "mora": 3 },
+        "vowel": "a"
+      },
+      {
+        "short": { "word": "スパ", "romaji": "supa", "meaning": "siêu thị (super)", "mora": 2 },
+        "long": { "word": "スーパー", "romaji": "suupaa", "meaning": "siêu thị", "mora": 4 },
+        "vowel": "u"
+      },
+      {
+        "short": { "word": "いえ", "romaji": "ie", "meaning": "nhà", "mora": 2 },
+        "long": { "word": "いいえ", "romaji": "iie", "meaning": "không", "mora": 3 },
+        "vowel": "i"
+      },
+      {
+        "short": { "word": "ちず", "romaji": "chizu", "meaning": "bản đồ", "mora": 2 },
+        "long": { "word": "チーズ", "romaji": "chiizu", "meaning": "phô mai", "mora": 3 },
+        "vowel": "i"
+      }
+    ]
+  },
+  "common_mistakes": {
+    "description": "Lỗi phổ biến khi nghe/phát âm trường âm",
+    "mistakes": [
+      {
+        "type": "Không nghe ra trường âm",
+        "example": "Nghe おばあさん thành おばさん",
+        "consequence": "Nhầm 'bà' thành 'cô'",
+        "tip": "Tập đếm mora khi nghe"
+      },
+      {
+        "type": "Phát âm ei thành e-i tách biệt",
+        "example": "せんせい phát âm thành sen-se-i thay vì sen-see",
+        "consequence": "Nghe không tự nhiên",
+        "tip": "ei phát âm như ee kéo dài"
+      },
+      {
+        "type": "Phát âm ou thành o-u tách biệt",
+        "example": "がっこう phát âm thành gak-ko-u thay vì gak-koo",
+        "consequence": "Nghe không tự nhiên",
+        "tip": "ou phát âm như oo kéo dài"
+      },
+      {
+        "type": "Nhầm lẫn ou và oo",
+        "example": "Viết おおきい thành おうきい",
+        "consequence": "Sai chính tả",
+        "tip": "Cần học thuộc từng từ, không có quy tắc cố định"
+      }
+    ]
+  },
+  "exercises": {
+    "description": "Các dạng bài tập luyện nghe trường âm",
+    "types": [
+      {
+        "name": "Đếm mora",
+        "instruction": "Nghe từ và đếm số mora",
+        "example": "がっこう → 4 mora (ga-Q-ko-u)"
+      },
+      {
+        "name": "Ngắn hay dài?",
+        "instruction": "Nghe và xác định từ có trường âm hay không",
+        "example": "Nghe 'おばさん' → Không có trường âm"
+      },
+      {
+        "name": "Chọn từ đúng",
+        "instruction": "Nghe và chọn từ đúng trong 2 lựa chọn",
+        "example": "Nghe → おばさん hay おばあさん?"
+      },
+      {
+        "name": "Dictation",
+        "instruction": "Nghe và viết lại bằng Hiragana",
+        "example": "Nghe 'sensei' → viết せんせい"
+      }
+    ]
+  }
+}

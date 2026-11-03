@@ -1,0 +1,741 @@
+{
+  "metadata": {
+    "title": "Rút gọn trong văn nói tiếng Nhật",
+    "title_jp": "話し言葉の縮約形",
+    "description": "Các dạng rút gọn phổ biến trong giao tiếp hàng ngày - Quan trọng cho nghe hiểu",
+    "importance": "Người Nhật thường xuyên sử dụng các dạng rút gọn trong hội thoại. Nếu chỉ học dạng đầy đủ, học viên sẽ rất khó nghe hiểu người bản xứ.",
+    "level": "N5-N4",
+    "version": "1.0"
+  },
+
+  "no_to_n": {
+    "title": "の → ん",
+    "description": "Trợ từ の thường được phát âm thành ん trong văn nói tự nhiên",
+    "rule": "の ở cuối câu hỏi hoặc giải thích thường biến thành ん",
+
+    "patterns": [
+      {
+        "id": "no_n_question",
+        "name": "Câu hỏi với の/ん",
+        "formal": "～のですか",
+        "casual": "～んですか → ～んだ → ～の？ → ～ん？",
+        "usage": "Hỏi lý do, xác nhận thông tin",
+        "examples": [
+          {
+            "formal": "何をしているのですか",
+            "casual": "何してるの？ / 何してんの？",
+            "romaji_formal": "nani wo shite iru no desu ka",
+            "romaji_casual": "nani shiteru no? / nani shitenno?",
+            "meaning": "Đang làm gì vậy?"
+          },
+          {
+            "formal": "どこへ行くのですか",
+            "casual": "どこ行くの？ / どこ行くん？",
+            "romaji_formal": "doko e iku no desu ka",
+            "romaji_casual": "doko iku no? / doko ikun?",
+            "meaning": "Đi đâu vậy?"
+          },
+          {
+            "formal": "何を食べているのですか",
+            "casual": "何食べてんの？",
+            "romaji_formal": "nani wo tabete iru no desu ka",
+            "romaji_casual": "nani tabetenno?",
+            "meaning": "Đang ăn gì vậy?"
+          },
+          {
+            "formal": "誰と話しているのですか",
+            "casual": "誰と話してんの？",
+            "romaji_formal": "dare to hanashite iru no desu ka",
+            "romaji_casual": "dare to hanashitenno?",
+            "meaning": "Đang nói chuyện với ai vậy?"
+          }
+        ]
+      },
+      {
+        "id": "no_n_explanation",
+        "name": "Giải thích với の/ん",
+        "formal": "～のです",
+        "casual": "～んです → ～んだ",
+        "usage": "Giải thích lý do, nhấn mạnh",
+        "examples": [
+          {
+            "formal": "疲れているのです",
+            "casual": "疲れてるんだ / 疲れてんだ",
+            "romaji_formal": "tsukarete iru no desu",
+            "romaji_casual": "tsukareteru nda / tsukaretenda",
+            "meaning": "Là vì tôi đang mệt"
+          },
+          {
+            "formal": "明日テストがあるのです",
+            "casual": "明日テストあるんだ",
+            "romaji_formal": "ashita tesuto ga aru no desu",
+            "romaji_casual": "ashita tesuto arunda",
+            "meaning": "Là vì mai có bài kiểm tra"
+          },
+          {
+            "formal": "お金がないのです",
+            "casual": "お金ないんだ",
+            "romaji_formal": "okane ga nai no desu",
+            "romaji_casual": "okane nainda",
+            "meaning": "Là vì không có tiền"
+          },
+          {
+            "formal": "電車が遅れたのです",
+            "casual": "電車遅れたんだ",
+            "romaji_formal": "densha ga okureta no desu",
+            "romaji_casual": "densha okuretanda",
+            "meaning": "Là vì tàu bị trễ"
+          }
+        ]
+      },
+      {
+        "id": "no_n_possessive",
+        "name": "の sở hữu → ん (方言/非標準)",
+        "description": "Trong một số phương ngữ và văn nói rất casual",
+        "note": "Ít phổ biến hơn, chủ yếu trong phương ngữ Kansai",
+        "examples": [
+          {
+            "standard": "私のもの",
+            "dialect": "私んもの / わたしんもん",
+            "romaji_standard": "watashi no mono",
+            "romaji_dialect": "watashin mono",
+            "meaning": "Đồ của tôi"
+          },
+          {
+            "standard": "俺の家",
+            "dialect": "俺んち",
+            "romaji_standard": "ore no ie",
+            "romaji_dialect": "orenchi",
+            "meaning": "Nhà tao"
+          },
+          {
+            "standard": "君のせい",
+            "dialect": "君んせい",
+            "romaji_standard": "kimi no sei",
+            "romaji_dialect": "kiminsei",
+            "meaning": "Lỗi của cậu"
+          }
+        ]
+      }
+    ],
+
+    "minimal_pairs_no_n": [
+      {
+        "pair": ["何してるの", "何してんの"],
+        "ipa": ["nani ʃiteɾɯno", "nani ʃitenno"],
+        "difference": "の giữ nguyên vs の → ん",
+        "both_mean": "Đang làm gì vậy?",
+        "formality": "の hơi formal hơn ん một chút"
+      },
+      {
+        "pair": ["行くの？", "行くん？"],
+        "ipa": ["ikɯno", "ikɯɴ"],
+        "difference": "の rõ ràng vs ん ngắn gọn",
+        "both_mean": "Đi hả?",
+        "note": "ん nghe tự nhiên hơn trong hội thoại nhanh"
+      },
+      {
+        "pair": ["食べるの", "食べんの"],
+        "ipa": ["tabeɾɯno", "tabenno"],
+        "difference": "る + の vs ん + の (kết hợp)",
+        "both_mean": "Ăn hả?",
+        "note": "Cả る và の đều có thể rút gọn"
+      }
+    ]
+  },
+
+  "teiru_contraction": {
+    "title": "ている → てる",
+    "description": "Dạng tiếp diễn ている hầu như luôn được rút gọn thành てる trong văn nói",
+    "frequency": "Rất cao - gần như bắt buộc trong hội thoại casual",
+
+    "patterns": [
+      {
+        "id": "teiru_teru_basic",
+        "name": "Rút gọn cơ bản",
+        "examples": [
+          {
+            "full": "食べている",
+            "contracted": "食べてる",
+            "romaji_full": "tabete iru",
+            "romaji_contracted": "tabeteru",
+            "meaning": "Đang ăn"
+          },
+          {
+            "full": "見ている",
+            "contracted": "見てる",
+            "romaji_full": "mite iru",
+            "romaji_contracted": "miteru",
+            "meaning": "Đang xem"
+          },
+          {
+            "full": "聞いている",
+            "contracted": "聞いてる",
+            "romaji_full": "kiite iru",
+            "romaji_contracted": "kiiteru",
+            "meaning": "Đang nghe"
+          },
+          {
+            "full": "待っている",
+            "contracted": "待ってる",
+            "romaji_full": "matte iru",
+            "romaji_contracted": "matteru",
+            "meaning": "Đang đợi"
+          },
+          {
+            "full": "知っている",
+            "contracted": "知ってる",
+            "romaji_full": "shitte iru",
+            "romaji_contracted": "shitteru",
+            "meaning": "Biết (trạng thái)"
+          },
+          {
+            "full": "住んでいる",
+            "contracted": "住んでる",
+            "romaji_full": "sunde iru",
+            "romaji_contracted": "sunderu",
+            "meaning": "Đang sống (ở đâu)"
+          },
+          {
+            "full": "働いている",
+            "contracted": "働いてる",
+            "romaji_full": "hataraite iru",
+            "romaji_contracted": "hatarakiteru",
+            "meaning": "Đang làm việc"
+          },
+          {
+            "full": "考えている",
+            "contracted": "考えてる",
+            "romaji_full": "kangaete iru",
+            "romaji_contracted": "kangaeteru",
+            "meaning": "Đang suy nghĩ"
+          }
+        ]
+      },
+      {
+        "id": "teiru_ten_extreme",
+        "name": "Rút gọn mạnh: てる → てん",
+        "description": "Trong văn nói rất nhanh, てる có thể thành てん",
+        "examples": [
+          {
+            "full": "何してる",
+            "extreme": "何してん",
+            "romaji_full": "nani shiteru",
+            "romaji_extreme": "nani shiten",
+            "meaning": "Đang làm gì"
+          },
+          {
+            "full": "見てる",
+            "extreme": "見てん",
+            "romaji_full": "miteru",
+            "romaji_extreme": "miten",
+            "meaning": "Đang xem"
+          },
+          {
+            "full": "聞いてる",
+            "extreme": "聞いてん",
+            "romaji_full": "kiiteru",
+            "romaji_extreme": "kiiten",
+            "meaning": "Đang nghe"
+          }
+        ]
+      }
+    ],
+
+    "negative_form": {
+      "title": "ていない → てない",
+      "examples": [
+        {
+          "full": "食べていない",
+          "contracted": "食べてない",
+          "romaji_full": "tabete inai",
+          "romaji_contracted": "tabetenai",
+          "meaning": "Không đang ăn / Chưa ăn"
+        },
+        {
+          "full": "知っていない",
+          "contracted": "知らない",
+          "note": "知る có dạng phủ định đặc biệt",
+          "romaji_full": "shitte inai",
+          "romaji_contracted": "shiranai",
+          "meaning": "Không biết"
+        },
+        {
+          "full": "見ていない",
+          "contracted": "見てない",
+          "romaji_full": "mite inai",
+          "romaji_contracted": "mitenai",
+          "meaning": "Không đang xem / Chưa xem"
+        }
+      ]
+    }
+  },
+
+  "dewanai_contraction": {
+    "title": "ではない → じゃない",
+    "description": "では luôn được rút gọn thành じゃ trong văn nói",
+    "frequency": "Rất cao - では nghe rất formal/văn viết",
+
+    "patterns": [
+      {
+        "id": "dewa_ja_basic",
+        "name": "Phủ định danh từ/tính từ đuôi な",
+        "examples": [
+          {
+            "formal": "学生ではありません",
+            "casual": "学生じゃない",
+            "romaji_formal": "gakusei dewa arimasen",
+            "romaji_casual": "gakusei ja nai",
+            "meaning": "Không phải là học sinh"
+          },
+          {
+            "formal": "静かではありません",
+            "casual": "静かじゃない",
+            "romaji_formal": "shizuka dewa arimasen",
+            "romaji_casual": "shizuka ja nai",
+            "meaning": "Không yên tĩnh"
+          },
+          {
+            "formal": "元気ではありません",
+            "casual": "元気じゃない",
+            "romaji_formal": "genki dewa arimasen",
+            "romaji_casual": "genki ja nai",
+            "meaning": "Không khỏe"
+          },
+          {
+            "formal": "日本人ではありません",
+            "casual": "日本人じゃない",
+            "romaji_formal": "nihonjin dewa arimasen",
+            "romaji_casual": "nihonjin ja nai",
+            "meaning": "Không phải là người Nhật"
+          }
+        ]
+      },
+      {
+        "id": "dewa_ja_past",
+        "name": "Phủ định quá khứ",
+        "examples": [
+          {
+            "formal": "学生ではありませんでした",
+            "casual": "学生じゃなかった",
+            "romaji_formal": "gakusei dewa arimasen deshita",
+            "romaji_casual": "gakusei ja nakatta",
+            "meaning": "Không phải là học sinh (quá khứ)"
+          },
+          {
+            "formal": "静かではありませんでした",
+            "casual": "静かじゃなかった",
+            "romaji_formal": "shizuka dewa arimasen deshita",
+            "romaji_casual": "shizuka ja nakatta",
+            "meaning": "Không yên tĩnh (quá khứ)"
+          }
+        ]
+      }
+    ],
+
+    "related_contractions": [
+      {
+        "formal": "ではなく",
+        "casual": "じゃなくて",
+        "meaning": "Không phải... mà là...",
+        "example": {
+          "formal": "これではなく、それです",
+          "casual": "これじゃなくて、それ",
+          "meaning": "Không phải cái này, mà là cái kia"
+        }
+      },
+      {
+        "formal": "ではないか",
+        "casual": "じゃないか / じゃん",
+        "meaning": "Chẳng phải là... sao?",
+        "example": {
+          "formal": "いいではないですか",
+          "casual": "いいじゃん",
+          "meaning": "Tốt mà / Được mà"
+        }
+      }
+    ]
+  },
+
+  "nakereba_contraction": {
+    "title": "なければ → なきゃ / なくちゃ",
+    "description": "Dạng điều kiện phủ định 'phải làm gì' thường được rút gọn mạnh",
+    "frequency": "Cao trong hội thoại hàng ngày",
+
+    "patterns": [
+      {
+        "id": "nakereba_nakya",
+        "name": "なければならない → なきゃ",
+        "examples": [
+          {
+            "formal": "行かなければならない",
+            "casual": "行かなきゃ",
+            "romaji_formal": "ikanakeba naranai",
+            "romaji_casual": "ikanakya",
+            "meaning": "Phải đi"
+          },
+          {
+            "formal": "食べなければならない",
+            "casual": "食べなきゃ",
+            "romaji_formal": "tabenakeba naranai",
+            "romaji_casual": "tabenakya",
+            "meaning": "Phải ăn"
+          },
+          {
+            "formal": "勉強しなければならない",
+            "casual": "勉強しなきゃ",
+            "romaji_formal": "benkyou shinakereba naranai",
+            "romaji_casual": "benkyou shinakya",
+            "meaning": "Phải học"
+          },
+          {
+            "formal": "起きなければならない",
+            "casual": "起きなきゃ",
+            "romaji_formal": "okinakeba naranai",
+            "romaji_casual": "okinakya",
+            "meaning": "Phải dậy"
+          }
+        ]
+      },
+      {
+        "id": "nakutewa_nakucha",
+        "name": "なくてはいけない → なくちゃ",
+        "examples": [
+          {
+            "formal": "行かなくてはいけない",
+            "casual": "行かなくちゃ",
+            "romaji_formal": "ikanakutewa ikenai",
+            "romaji_casual": "ikanakucha",
+            "meaning": "Phải đi"
+          },
+          {
+            "formal": "寝なくてはいけない",
+            "casual": "寝なくちゃ",
+            "romaji_formal": "nenakutewa ikenai",
+            "romaji_casual": "nenakucha",
+            "meaning": "Phải ngủ"
+          },
+          {
+            "formal": "買わなくてはいけない",
+            "casual": "買わなくちゃ",
+            "romaji_formal": "kawanakutewa ikenai",
+            "romaji_casual": "kawanakucha",
+            "meaning": "Phải mua"
+          }
+        ]
+      }
+    ],
+
+    "difference_nakya_nakucha": {
+      "description": "なきゃ và なくちゃ đều có nghĩa 'phải...' nhưng có nguồn gốc khác nhau",
+      "nakya": "Từ なければ (nếu không... thì)",
+      "nakucha": "Từ なくては (nếu không... thì)",
+      "usage": "Cả hai đều phổ biến, có thể dùng thay thế nhau"
+    }
+  },
+
+  "other_contractions": {
+    "title": "Các rút gọn khác",
+
+    "reba_rya": {
+      "title": "れば → りゃ",
+      "description": "Dạng điều kiện れば đôi khi rút gọn thành りゃ",
+      "examples": [
+        {
+          "formal": "あれば",
+          "casual": "ありゃ",
+          "romaji_formal": "areba",
+          "romaji_casual": "arya",
+          "meaning": "Nếu có"
+        },
+        {
+          "formal": "すれば",
+          "casual": "すりゃ",
+          "romaji_formal": "sureba",
+          "romaji_casual": "surya",
+          "meaning": "Nếu làm"
+        },
+        {
+          "formal": "見れば",
+          "casual": "見りゃ",
+          "romaji_formal": "mireba",
+          "romaji_casual": "mirya",
+          "meaning": "Nếu xem"
+        }
+      ]
+    },
+
+    "teshimau_chau": {
+      "title": "てしまう → ちゃう / じゃう",
+      "description": "Hoàn thành/tiếc nuối てしまう thường rút gọn",
+      "examples": [
+        {
+          "formal": "食べてしまう",
+          "casual": "食べちゃう",
+          "romaji_formal": "tabete shimau",
+          "romaji_casual": "tabechau",
+          "meaning": "Ăn hết / Lỡ ăn mất"
+        },
+        {
+          "formal": "忘れてしまう",
+          "casual": "忘れちゃう",
+          "romaji_formal": "wasurete shimau",
+          "romaji_casual": "wasurechau",
+          "meaning": "Quên mất"
+        },
+        {
+          "formal": "読んでしまう",
+          "casual": "読んじゃう",
+          "romaji_formal": "yonde shimau",
+          "romaji_casual": "yonjau",
+          "meaning": "Đọc hết / Lỡ đọc mất"
+        },
+        {
+          "formal": "死んでしまう",
+          "casual": "死んじゃう",
+          "romaji_formal": "shinde shimau",
+          "romaji_casual": "shinjau",
+          "meaning": "Chết mất"
+        },
+        {
+          "formal": "壊してしまった",
+          "casual": "壊しちゃった",
+          "romaji_formal": "kowashite shimatta",
+          "romaji_casual": "kowashichatta",
+          "meaning": "Đã làm hỏng mất rồi"
+        }
+      ],
+      "rule": "て → ちゃ, で → じゃ"
+    },
+
+    "teoku_toku": {
+      "title": "ておく → とく",
+      "description": "Chuẩn bị trước ておく rút gọn thành とく",
+      "examples": [
+        {
+          "formal": "買っておく",
+          "casual": "買っとく",
+          "romaji_formal": "katte oku",
+          "romaji_casual": "kattoku",
+          "meaning": "Mua sẵn"
+        },
+        {
+          "formal": "準備しておく",
+          "casual": "準備しとく",
+          "romaji_formal": "junbi shite oku",
+          "romaji_casual": "junbi shitoku",
+          "meaning": "Chuẩn bị sẵn"
+        },
+        {
+          "formal": "覚えておく",
+          "casual": "覚えとく",
+          "romaji_formal": "oboete oku",
+          "romaji_casual": "oboetoku",
+          "meaning": "Nhớ sẵn"
+        },
+        {
+          "formal": "言っておく",
+          "casual": "言っとく",
+          "romaji_formal": "itte oku",
+          "romaji_casual": "ittoku",
+          "meaning": "Nói trước"
+        }
+      ]
+    },
+
+    "toiu_tte": {
+      "title": "という → って / っていう",
+      "description": "Trích dẫn という thường rút gọn",
+      "examples": [
+        {
+          "formal": "何という",
+          "casual": "何て / 何ていう",
+          "romaji_formal": "nan to iu",
+          "romaji_casual": "nante / nanteiu",
+          "meaning": "Gọi là gì"
+        },
+        {
+          "formal": "彼が来るという",
+          "casual": "彼が来るって",
+          "romaji_formal": "kare ga kuru to iu",
+          "romaji_casual": "kare ga kurutte",
+          "meaning": "Nghe nói anh ấy sẽ đến"
+        },
+        {
+          "formal": "東京という所",
+          "casual": "東京って所",
+          "romaji_formal": "toukyou to iu tokoro",
+          "romaji_casual": "toukyou tte tokoro",
+          "meaning": "Nơi gọi là Tokyo"
+        }
+      ]
+    },
+
+    "no_omission": {
+      "title": "Lược bỏ trợ từ を/が/は",
+      "description": "Trong văn nói, các trợ từ thường bị lược bỏ",
+      "examples": [
+        {
+          "formal": "ご飯を食べる",
+          "casual": "ご飯食べる",
+          "romaji_formal": "gohan wo taberu",
+          "romaji_casual": "gohan taberu",
+          "meaning": "Ăn cơm"
+        },
+        {
+          "formal": "映画を見る",
+          "casual": "映画見る",
+          "romaji_formal": "eiga wo miru",
+          "romaji_casual": "eiga miru",
+          "meaning": "Xem phim"
+        },
+        {
+          "formal": "私は行く",
+          "casual": "私、行く",
+          "romaji_formal": "watashi wa iku",
+          "romaji_casual": "watashi, iku",
+          "meaning": "Tôi đi"
+        },
+        {
+          "formal": "水が欲しい",
+          "casual": "水欲しい",
+          "romaji_formal": "mizu ga hoshii",
+          "romaji_casual": "mizu hoshii",
+          "meaning": "Muốn nước"
+        }
+      ]
+    }
+  },
+
+  "sentence_final_particles": {
+    "title": "Trợ từ cuối câu trong văn nói",
+    "description": "Các trợ từ đặc trưng của văn nói, thêm sắc thái cảm xúc",
+
+    "particles": [
+      {
+        "particle": "ね",
+        "function": "Xác nhận, tìm đồng cảm",
+        "examples": [
+          {"sentence": "いい天気ですね", "meaning": "Thời tiết đẹp nhỉ"},
+          {"sentence": "おいしいね", "meaning": "Ngon nhỉ"}
+        ]
+      },
+      {
+        "particle": "よ",
+        "function": "Nhấn mạnh, thông báo thông tin mới",
+        "examples": [
+          {"sentence": "これ、おいしいよ", "meaning": "Cái này ngon đấy"},
+          {"sentence": "もう遅いよ", "meaning": "Muộn rồi đấy"}
+        ]
+      },
+      {
+        "particle": "よね",
+        "function": "Kết hợp nhấn mạnh + xác nhận",
+        "examples": [
+          {"sentence": "明日は休みだよね", "meaning": "Mai nghỉ phải không nhỉ?"},
+          {"sentence": "これでいいよね", "meaning": "Thế này được rồi nhỉ?"}
+        ]
+      },
+      {
+        "particle": "な / なあ",
+        "function": "Cảm thán, tự nhủ (nam giới dùng nhiều)",
+        "examples": [
+          {"sentence": "眠いな", "meaning": "Buồn ngủ quá"},
+          {"sentence": "行きたいなあ", "meaning": "Muốn đi quá"}
+        ]
+      },
+      {
+        "particle": "わ",
+        "function": "Nhẹ nhàng, nữ tính (ít dùng trong hiện đại)",
+        "examples": [
+          {"sentence": "知らないわ", "meaning": "Không biết đâu"},
+          {"sentence": "行くわ", "meaning": "Đi đây"}
+        ]
+      },
+      {
+        "particle": "ぞ",
+        "function": "Nhấn mạnh mạnh, quyết tâm (nam giới)",
+        "examples": [
+          {"sentence": "行くぞ", "meaning": "Đi nào!"},
+          {"sentence": "やるぞ", "meaning": "Làm nào!"}
+        ]
+      },
+      {
+        "particle": "かな",
+        "function": "Tự hỏi, không chắc chắn",
+        "examples": [
+          {"sentence": "大丈夫かな", "meaning": "Không biết có ổn không nhỉ"},
+          {"sentence": "何時かな", "meaning": "Mấy giờ rồi nhỉ"}
+        ]
+      },
+      {
+        "particle": "っけ",
+        "function": "Cố nhớ lại, hỏi xác nhận",
+        "examples": [
+          {"sentence": "明日何時だっけ", "meaning": "Mai mấy giờ nhỉ?"},
+          {"sentence": "彼の名前何だっけ", "meaning": "Tên anh ấy là gì nhỉ?"}
+        ]
+      },
+      {
+        "particle": "さ",
+        "function": "Đệm lời, casual (nam giới)",
+        "examples": [
+          {"sentence": "それはさ、違うんだ", "meaning": "Cái đó ấy, không phải vậy"},
+          {"sentence": "昨日さ、映画見たんだ", "meaning": "Hôm qua ấy, tao xem phim"}
+        ]
+      }
+    ]
+  },
+
+  "listening_tips": {
+    "title": "Mẹo nghe hiểu văn nói",
+    "tips": [
+      {
+        "tip": "Làm quen với tốc độ",
+        "description": "Người Nhật nói nhanh hơn nhiều so với audio giáo trình. Bắt đầu với drama/anime có phụ đề."
+      },
+      {
+        "tip": "Nhận diện rút gọn",
+        "description": "Khi nghe てる, liên tưởng ngay đến ている. Khi nghe じゃ, nghĩ đến では."
+      },
+      {
+        "tip": "Chú ý ngữ cảnh",
+        "description": "Trợ từ bị lược thường có thể đoán từ ngữ cảnh. Động từ thường đi sau danh từ."
+      },
+      {
+        "tip": "Nghe nhiều giọng khác nhau",
+        "description": "Nam/nữ, già/trẻ, vùng miền khác nhau có cách nói khác nhau."
+      },
+      {
+        "tip": "Shadowing",
+        "description": "Lặp lại ngay sau khi nghe để làm quen với nhịp điệu và cách rút gọn."
+      }
+    ]
+  },
+
+  "common_mistakes_vietnamese": {
+    "title": "Lỗi phổ biến",
+    "mistakes": [
+      {
+        "mistake": "Nói quá formal",
+        "description": "Dùng ている thay vì てる trong hội thoại hàng ngày",
+        "solution": "Trong hội thoại casual, てる tự nhiên hơn"
+      },
+      {
+        "mistake": "Không nhận ra rút gọn",
+        "description": "Nghe じゃない không hiểu vì chỉ học ではない",
+        "solution": "Học cả hai dạng song song"
+      },
+      {
+        "mistake": "Bỏ sót trợ từ cuối câu",
+        "description": "Không dùng ね、よ khiến câu nói thiếu tự nhiên",
+        "solution": "Luyện tập thêm trợ từ phù hợp ngữ cảnh"
+      },
+      {
+        "mistake": "Phát âm ん sai",
+        "description": "Khi の → ん, phát âm ん phải phù hợp với âm sau",
+        "solution": "Áp dụng quy tắc 5 biến thể của ん"
+      }
+    ]
+  }
+}

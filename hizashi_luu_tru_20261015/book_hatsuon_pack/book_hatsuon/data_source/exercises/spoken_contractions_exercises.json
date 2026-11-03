@@ -1,0 +1,945 @@
+{
+  "metadata": {
+    "title": "Bài tập rút gọn văn nói",
+    "description": "Luyện nghe nhận diện các dạng rút gọn trong hội thoại tiếng Nhật",
+    "total_levels": 5,
+    "exercise_types": ["identify_form", "match_pairs", "fill_blank", "same_or_different", "dictation"],
+    "version": "1.0"
+  },
+
+  "level_1": {
+    "title": "ている → てる (Cơ bản)",
+    "description": "Nhận diện dạng rút gọn tiếp diễn - phổ biến nhất",
+    "target": "Nghe てる và liên tưởng ngay đến ている",
+
+    "exercises": [
+      {
+        "id": "L1_01",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 câu và cho biết nghĩa GIỐNG hay KHÁC nhau",
+        "pairs": [
+          {
+            "audio_1": "食べている",
+            "audio_2": "食べてる",
+            "answer": "same",
+            "meaning": "Đang ăn"
+          },
+          {
+            "audio_1": "見ている",
+            "audio_2": "見てる",
+            "answer": "same",
+            "meaning": "Đang xem"
+          },
+          {
+            "audio_1": "聞いている",
+            "audio_2": "聞いてる",
+            "answer": "same",
+            "meaning": "Đang nghe"
+          },
+          {
+            "audio_1": "待っている",
+            "audio_2": "待ってる",
+            "answer": "same",
+            "meaning": "Đang đợi"
+          },
+          {
+            "audio_1": "知っている",
+            "audio_2": "知ってる",
+            "answer": "same",
+            "meaning": "Biết"
+          },
+          {
+            "audio_1": "住んでいる",
+            "audio_2": "住んでる",
+            "answer": "same",
+            "meaning": "Đang sống"
+          },
+          {
+            "audio_1": "働いている",
+            "audio_2": "働いてる",
+            "answer": "same",
+            "meaning": "Đang làm việc"
+          },
+          {
+            "audio_1": "寝ている",
+            "audio_2": "寝てる",
+            "answer": "same",
+            "meaning": "Đang ngủ"
+          },
+          {
+            "audio_1": "読んでいる",
+            "audio_2": "読んでる",
+            "answer": "same",
+            "meaning": "Đang đọc"
+          },
+          {
+            "audio_1": "書いている",
+            "audio_2": "書いてる",
+            "answer": "same",
+            "meaning": "Đang viết"
+          }
+        ]
+      },
+      {
+        "id": "L1_02",
+        "type": "identify_form",
+        "instruction": "Nghe và chọn: Đây là dạng FORMAL hay CASUAL?",
+        "items": [
+          { "audio": "何をしていますか", "answer": "formal", "meaning": "Đang làm gì ạ?" },
+          { "audio": "何してる", "answer": "casual", "meaning": "Đang làm gì?" },
+          { "audio": "テレビを見ています", "answer": "formal", "meaning": "Đang xem TV" },
+          { "audio": "テレビ見てる", "answer": "casual", "meaning": "Đang xem TV" },
+          { "audio": "今、食べてる", "answer": "casual", "meaning": "Đang ăn" },
+          { "audio": "今、食べています", "answer": "formal", "meaning": "Đang ăn ạ" },
+          { "audio": "彼女と話してる", "answer": "casual", "meaning": "Đang nói chuyện với cô ấy" },
+          { "audio": "彼女と話しています", "answer": "formal", "meaning": "Đang nói chuyện với cô ấy ạ" },
+          { "audio": "コーヒー飲んでる", "answer": "casual", "meaning": "Đang uống cà phê" },
+          { "audio": "コーヒーを飲んでいます", "answer": "formal", "meaning": "Đang uống cà phê ạ" }
+        ]
+      },
+      {
+        "id": "L1_03",
+        "type": "match_pairs",
+        "instruction": "Nối dạng đầy đủ với dạng rút gọn tương ứng",
+        "pairs": [
+          { "formal": "勉強している", "casual": "勉強してる", "meaning": "Đang học" },
+          { "formal": "走っている", "casual": "走ってる", "meaning": "Đang chạy" },
+          { "formal": "泳いでいる", "casual": "泳いでる", "meaning": "Đang bơi" },
+          { "formal": "歌っている", "casual": "歌ってる", "meaning": "Đang hát" },
+          { "formal": "踊っている", "casual": "踊ってる", "meaning": "Đang nhảy" },
+          { "formal": "遊んでいる", "casual": "遊んでる", "meaning": "Đang chơi" },
+          { "formal": "考えている", "casual": "考えてる", "meaning": "Đang suy nghĩ" },
+          { "formal": "笑っている", "casual": "笑ってる", "meaning": "Đang cười" }
+        ]
+      },
+      {
+        "id": "L1_04",
+        "type": "listening_comprehension",
+        "instruction": "Nghe câu và chọn nghĩa đúng",
+        "items": [
+          {
+            "audio": "今、何してる？",
+            "options": ["Bây giờ đang làm gì?", "Bây giờ làm gì?", "Bây giờ sẽ làm gì?"],
+            "answer": 0
+          },
+          {
+            "audio": "ご飯食べてる",
+            "options": ["Sẽ ăn cơm", "Đang ăn cơm", "Đã ăn cơm"],
+            "answer": 1
+          },
+          {
+            "audio": "どこに住んでる？",
+            "options": ["Sẽ sống ở đâu?", "Đã sống ở đâu?", "Đang sống ở đâu?"],
+            "answer": 2
+          },
+          {
+            "audio": "彼、知ってる？",
+            "options": ["Cậu biết anh ấy không?", "Cậu đã biết anh ấy chưa?", "Cậu sẽ biết anh ấy không?"],
+            "answer": 0
+          },
+          {
+            "audio": "まだ寝てる",
+            "options": ["Vẫn sẽ ngủ", "Vẫn đang ngủ", "Đã ngủ rồi"],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "L1_05",
+        "type": "negative_form",
+        "instruction": "Nghe và nhận diện: ていない hay てない?",
+        "items": [
+          { "audio": "まだ食べてない", "form": "casual", "meaning": "Chưa ăn" },
+          { "audio": "まだ食べていない", "form": "formal", "meaning": "Chưa ăn" },
+          { "audio": "知らない", "form": "casual", "note": "知る có dạng phủ định đặc biệt", "meaning": "Không biết" },
+          { "audio": "見てない", "form": "casual", "meaning": "Chưa xem" },
+          { "audio": "聞いていない", "form": "formal", "meaning": "Chưa nghe" },
+          { "audio": "やってない", "form": "casual", "meaning": "Chưa làm" },
+          { "audio": "行ってない", "form": "casual", "meaning": "Chưa đi" },
+          { "audio": "来ていない", "form": "formal", "meaning": "Chưa đến" }
+        ]
+      }
+    ]
+  },
+
+  "level_2": {
+    "title": "ではない → じゃない & の → ん",
+    "description": "Rút gọn phủ định và trợ từ の",
+
+    "exercises": [
+      {
+        "id": "L2_01",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 câu và cho biết nghĩa GIỐNG hay KHÁC nhau",
+        "section": "では → じゃ",
+        "pairs": [
+          {
+            "audio_1": "学生ではありません",
+            "audio_2": "学生じゃない",
+            "answer": "same",
+            "meaning": "Không phải là học sinh"
+          },
+          {
+            "audio_1": "静かではない",
+            "audio_2": "静かじゃない",
+            "answer": "same",
+            "meaning": "Không yên tĩnh"
+          },
+          {
+            "audio_1": "元気ではありません",
+            "audio_2": "元気じゃない",
+            "answer": "same",
+            "meaning": "Không khỏe"
+          },
+          {
+            "audio_1": "日本人ではない",
+            "audio_2": "日本人じゃない",
+            "answer": "same",
+            "meaning": "Không phải người Nhật"
+          },
+          {
+            "audio_1": "好きではありません",
+            "audio_2": "好きじゃない",
+            "answer": "same",
+            "meaning": "Không thích"
+          },
+          {
+            "audio_1": "暇ではない",
+            "audio_2": "暇じゃない",
+            "answer": "same",
+            "meaning": "Không rảnh"
+          }
+        ]
+      },
+      {
+        "id": "L2_02",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 câu và cho biết nghĩa GIỐNG hay KHÁC nhau",
+        "section": "の → ん",
+        "pairs": [
+          {
+            "audio_1": "何をしているの",
+            "audio_2": "何してるん",
+            "answer": "same",
+            "meaning": "Đang làm gì vậy?"
+          },
+          {
+            "audio_1": "どこへ行くの",
+            "audio_2": "どこ行くん",
+            "answer": "same",
+            "meaning": "Đi đâu vậy?"
+          },
+          {
+            "audio_1": "疲れているのです",
+            "audio_2": "疲れてるんだ",
+            "answer": "same",
+            "meaning": "Là vì mệt"
+          },
+          {
+            "audio_1": "明日テストがあるのです",
+            "audio_2": "明日テストあるんだ",
+            "answer": "same",
+            "meaning": "Là vì mai có test"
+          },
+          {
+            "audio_1": "お金がないの",
+            "audio_2": "お金ないんだ",
+            "answer": "same",
+            "meaning": "Là vì không có tiền"
+          }
+        ]
+      },
+      {
+        "id": "L2_03",
+        "type": "identify_form",
+        "instruction": "Nghe và chọn: FORMAL hay CASUAL?",
+        "items": [
+          { "audio": "これは本ではありません", "answer": "formal" },
+          { "audio": "これ、本じゃない", "answer": "casual" },
+          { "audio": "何してんの？", "answer": "casual" },
+          { "audio": "何をしているのですか", "answer": "formal" },
+          { "audio": "行くんだ", "answer": "casual" },
+          { "audio": "行くのです", "answer": "formal" },
+          { "audio": "彼女じゃないよ", "answer": "casual" },
+          { "audio": "彼女ではありません", "answer": "formal" },
+          { "audio": "いいじゃん", "answer": "casual" },
+          { "audio": "いいではないですか", "answer": "formal" }
+        ]
+      },
+      {
+        "id": "L2_04",
+        "type": "listening_comprehension",
+        "instruction": "Nghe câu casual và chọn nghĩa đúng",
+        "items": [
+          {
+            "audio": "それ、何？ーーこれ？本だよ。",
+            "question": "Đó là gì?",
+            "options": ["Sách", "Vở", "Báo"],
+            "answer": 0
+          },
+          {
+            "audio": "どこ行くん？ーー学校。",
+            "question": "Người nói sẽ đi đâu?",
+            "options": ["Nhà", "Trường", "Công ty"],
+            "answer": 1
+          },
+          {
+            "audio": "元気じゃないの？ーーうん、ちょっと疲れてる。",
+            "question": "Người trả lời cảm thấy thế nào?",
+            "options": ["Khỏe", "Mệt", "Vui"],
+            "answer": 1
+          },
+          {
+            "audio": "日本人？ーーううん、日本人じゃない。ベトナム人。",
+            "question": "Người trả lời là người nước nào?",
+            "options": ["Nhật", "Việt Nam", "Trung Quốc"],
+            "answer": 1
+          },
+          {
+            "audio": "なんで遅れたん？ーー電車遅れたんだ。",
+            "question": "Tại sao người nói đến muộn?",
+            "options": ["Dậy muộn", "Tàu bị trễ", "Kẹt xe"],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "L2_05",
+        "type": "fill_blank",
+        "instruction": "Nghe và điền từ còn thiếu",
+        "items": [
+          { "audio": "学生___ない", "answer": "じゃ", "full": "学生じゃない" },
+          { "audio": "何して___？", "answer": "るん / んの", "full": "何してるん？ / 何してんの？" },
+          { "audio": "好き___ないよ", "answer": "じゃ", "full": "好きじゃないよ" },
+          { "audio": "行く___だ", "answer": "ん", "full": "行くんだ" },
+          { "audio": "静か___ない", "answer": "じゃ", "full": "静かじゃない" }
+        ]
+      }
+    ]
+  },
+
+  "level_3": {
+    "title": "なきゃ/なくちゃ & ちゃう/じゃう",
+    "description": "Rút gọn 'phải làm' và 'làm mất/xong'",
+
+    "exercises": [
+      {
+        "id": "L3_01",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 câu và cho biết nghĩa GIỐNG hay KHÁC nhau",
+        "section": "なければ → なきゃ",
+        "pairs": [
+          {
+            "audio_1": "行かなければならない",
+            "audio_2": "行かなきゃ",
+            "answer": "same",
+            "meaning": "Phải đi"
+          },
+          {
+            "audio_1": "食べなければならない",
+            "audio_2": "食べなきゃ",
+            "answer": "same",
+            "meaning": "Phải ăn"
+          },
+          {
+            "audio_1": "勉強しなければならない",
+            "audio_2": "勉強しなきゃ",
+            "answer": "same",
+            "meaning": "Phải học"
+          },
+          {
+            "audio_1": "起きなければならない",
+            "audio_2": "起きなきゃ",
+            "answer": "same",
+            "meaning": "Phải dậy"
+          },
+          {
+            "audio_1": "寝なくてはいけない",
+            "audio_2": "寝なくちゃ",
+            "answer": "same",
+            "meaning": "Phải ngủ"
+          },
+          {
+            "audio_1": "買わなくてはいけない",
+            "audio_2": "買わなくちゃ",
+            "answer": "same",
+            "meaning": "Phải mua"
+          }
+        ]
+      },
+      {
+        "id": "L3_02",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 câu và cho biết nghĩa GIỐNG hay KHÁC nhau",
+        "section": "てしまう → ちゃう",
+        "pairs": [
+          {
+            "audio_1": "食べてしまった",
+            "audio_2": "食べちゃった",
+            "answer": "same",
+            "meaning": "Đã ăn hết/mất rồi"
+          },
+          {
+            "audio_1": "忘れてしまった",
+            "audio_2": "忘れちゃった",
+            "answer": "same",
+            "meaning": "Đã quên mất rồi"
+          },
+          {
+            "audio_1": "壊してしまった",
+            "audio_2": "壊しちゃった",
+            "answer": "same",
+            "meaning": "Đã làm hỏng mất rồi"
+          },
+          {
+            "audio_1": "読んでしまった",
+            "audio_2": "読んじゃった",
+            "answer": "same",
+            "meaning": "Đã đọc hết rồi"
+          },
+          {
+            "audio_1": "飲んでしまった",
+            "audio_2": "飲んじゃった",
+            "answer": "same",
+            "meaning": "Đã uống hết rồi"
+          },
+          {
+            "audio_1": "寝てしまった",
+            "audio_2": "寝ちゃった",
+            "answer": "same",
+            "meaning": "Đã ngủ mất rồi"
+          }
+        ]
+      },
+      {
+        "id": "L3_03",
+        "type": "identify_meaning",
+        "instruction": "Nghe câu casual và chọn nghĩa đúng",
+        "items": [
+          {
+            "audio": "もう行かなきゃ",
+            "options": ["Không cần đi", "Phải đi rồi", "Không muốn đi"],
+            "answer": 1
+          },
+          {
+            "audio": "宿題やらなくちゃ",
+            "options": ["Phải làm bài tập", "Đã làm bài tập", "Không làm bài tập"],
+            "answer": 0
+          },
+          {
+            "audio": "ケーキ全部食べちゃった",
+            "options": ["Sẽ ăn hết bánh", "Đã ăn hết bánh", "Không ăn bánh"],
+            "answer": 1
+          },
+          {
+            "audio": "電話番号忘れちゃった",
+            "options": ["Nhớ số điện thoại", "Quên mất số điện thoại rồi", "Sẽ quên số"],
+            "answer": 1
+          },
+          {
+            "audio": "早く起きなきゃ",
+            "options": ["Phải dậy sớm", "Đã dậy sớm", "Không cần dậy sớm"],
+            "answer": 0
+          },
+          {
+            "audio": "薬飲まなくちゃ",
+            "options": ["Đã uống thuốc", "Phải uống thuốc", "Không uống thuốc"],
+            "answer": 1
+          },
+          {
+            "audio": "携帯なくしちゃった",
+            "options": ["Tìm thấy điện thoại", "Làm mất điện thoại rồi", "Mua điện thoại"],
+            "answer": 1
+          },
+          {
+            "audio": "映画見ちゃった",
+            "options": ["Sẽ xem phim", "Đã xem phim rồi", "Không xem phim"],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "L3_04",
+        "type": "match_pairs",
+        "instruction": "Nối dạng đầy đủ với dạng rút gọn",
+        "pairs": [
+          { "formal": "言わなければならない", "casual": "言わなきゃ" },
+          { "formal": "帰らなければならない", "casual": "帰らなきゃ" },
+          { "formal": "掃除しなくてはいけない", "casual": "掃除しなくちゃ" },
+          { "formal": "落としてしまった", "casual": "落としちゃった" },
+          { "formal": "遊んでしまった", "casual": "遊んじゃった" },
+          { "formal": "泣いてしまった", "casual": "泣いちゃった" }
+        ]
+      },
+      {
+        "id": "L3_05",
+        "type": "listening_dialogue",
+        "instruction": "Nghe hội thoại và trả lời câu hỏi",
+        "dialogues": [
+          {
+            "audio": "A: もう帰るの？\nB: うん、明日早いから、早く寝なきゃ。",
+            "question": "B sẽ làm gì?",
+            "options": ["Ở lại chơi", "Về nhà ngủ sớm", "Làm việc khuya"],
+            "answer": 1
+          },
+          {
+            "audio": "A: ケーキどこ？\nB: ごめん、全部食べちゃった。",
+            "question": "Chuyện gì đã xảy ra với bánh?",
+            "options": ["Còn nguyên", "Bị ăn hết rồi", "Bị hỏng"],
+            "answer": 1
+          },
+          {
+            "audio": "A: レポート終わった？\nB: やばい、まだやってない。今日中にやらなくちゃ。",
+            "question": "B đã làm xong báo cáo chưa?",
+            "options": ["Xong rồi", "Chưa làm", "Đang làm"],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_4": {
+    "title": "とく・って・りゃ & Trợ từ cuối câu",
+    "description": "Các rút gọn khác và trợ từ văn nói",
+
+    "exercises": [
+      {
+        "id": "L4_01",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 câu và cho biết nghĩa GIỐNG hay KHÁC nhau",
+        "section": "ておく → とく",
+        "pairs": [
+          {
+            "audio_1": "買っておく",
+            "audio_2": "買っとく",
+            "answer": "same",
+            "meaning": "Mua sẵn"
+          },
+          {
+            "audio_1": "準備しておく",
+            "audio_2": "準備しとく",
+            "answer": "same",
+            "meaning": "Chuẩn bị sẵn"
+          },
+          {
+            "audio_1": "覚えておく",
+            "audio_2": "覚えとく",
+            "answer": "same",
+            "meaning": "Nhớ sẵn"
+          },
+          {
+            "audio_1": "言っておく",
+            "audio_2": "言っとく",
+            "answer": "same",
+            "meaning": "Nói trước"
+          },
+          {
+            "audio_1": "調べておく",
+            "audio_2": "調べとく",
+            "answer": "same",
+            "meaning": "Tra cứu sẵn"
+          }
+        ]
+      },
+      {
+        "id": "L4_02",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 câu và cho biết nghĩa GIỐNG hay KHÁC nhau",
+        "section": "という → って",
+        "pairs": [
+          {
+            "audio_1": "何という名前ですか",
+            "audio_2": "何て名前？",
+            "answer": "same",
+            "meaning": "Tên là gì?"
+          },
+          {
+            "audio_1": "彼が来ると言っていた",
+            "audio_2": "彼が来るって",
+            "answer": "same",
+            "meaning": "Nghe nói anh ấy sẽ đến"
+          },
+          {
+            "audio_1": "東京という所",
+            "audio_2": "東京って所",
+            "answer": "same",
+            "meaning": "Nơi gọi là Tokyo"
+          },
+          {
+            "audio_1": "明日休みだと言っていた",
+            "audio_2": "明日休みだって",
+            "answer": "same",
+            "meaning": "Nghe nói mai nghỉ"
+          }
+        ]
+      },
+      {
+        "id": "L4_03",
+        "type": "identify_particle",
+        "instruction": "Nghe câu và xác định trợ từ cuối câu được dùng",
+        "items": [
+          { "audio": "いい天気だね", "particle": "ね", "function": "Xác nhận, tìm đồng cảm" },
+          { "audio": "これ、おいしいよ", "particle": "よ", "function": "Nhấn mạnh, thông báo" },
+          { "audio": "明日は休みだよね", "particle": "よね", "function": "Nhấn mạnh + xác nhận" },
+          { "audio": "眠いな", "particle": "な", "function": "Cảm thán, tự nhủ" },
+          { "audio": "行くぞ", "particle": "ぞ", "function": "Quyết tâm (nam giới)" },
+          { "audio": "大丈夫かな", "particle": "かな", "function": "Tự hỏi, không chắc" },
+          { "audio": "明日何時だっけ", "particle": "っけ", "function": "Cố nhớ lại" },
+          { "audio": "それはさ、違うんだ", "particle": "さ", "function": "Đệm lời casual" },
+          { "audio": "帰りたいなあ", "particle": "なあ", "function": "Ao ước" },
+          { "audio": "知らないわ", "particle": "わ", "function": "Nhẹ nhàng (nữ)" }
+        ]
+      },
+      {
+        "id": "L4_04",
+        "type": "nuance_recognition",
+        "instruction": "Nghe câu và chọn sắc thái phù hợp nhất",
+        "items": [
+          {
+            "audio": "明日テストだよ",
+            "options": ["Thông báo/nhắc nhở", "Hỏi xác nhận", "Tự nhủ"],
+            "answer": 0
+          },
+          {
+            "audio": "明日テストだよね",
+            "options": ["Thông báo", "Hỏi xác nhận", "Cảm thán"],
+            "answer": 1
+          },
+          {
+            "audio": "明日テストだな",
+            "options": ["Hỏi người khác", "Tự nhủ/suy nghĩ", "Thông báo"],
+            "answer": 1
+          },
+          {
+            "audio": "明日テストだっけ",
+            "options": ["Biết chắc", "Cố nhớ lại", "Thông báo"],
+            "answer": 1
+          },
+          {
+            "audio": "頑張るぞ",
+            "options": ["Hỏi ý kiến", "Quyết tâm mạnh mẽ", "Nhờ vả"],
+            "answer": 1
+          },
+          {
+            "audio": "行けるかな",
+            "options": ["Chắc chắn đi được", "Không chắc có đi được không", "Không muốn đi"],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "L4_05",
+        "type": "listening_comprehension",
+        "instruction": "Nghe và hiểu nghĩa của các câu rút gọn phức tạp",
+        "items": [
+          {
+            "audio": "チケット買っといて",
+            "meaning": "Mua sẵn vé đi (nhờ vả)",
+            "breakdown": "買っておいて → 買っといて"
+          },
+          {
+            "audio": "田中さんって人、知ってる？",
+            "meaning": "Cậu có biết người tên Tanaka không?",
+            "breakdown": "田中さんという人 → 田中さんって人"
+          },
+          {
+            "audio": "それ、聞いといて",
+            "meaning": "Hỏi sẵn cái đó đi",
+            "breakdown": "聞いておいて → 聞いといて"
+          },
+          {
+            "audio": "先生が来るって",
+            "meaning": "Nghe nói thầy/cô sẽ đến",
+            "breakdown": "来ると言っていた → 来るって"
+          },
+          {
+            "audio": "見といた方がいいよ",
+            "meaning": "Nên xem trước đi",
+            "breakdown": "見ておいた → 見といた"
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_5": {
+    "title": "Tổng hợp - Hội thoại thực tế",
+    "description": "Nghe hiểu hội thoại có nhiều dạng rút gọn kết hợp",
+
+    "exercises": [
+      {
+        "id": "L5_01",
+        "type": "dialogue_comprehension",
+        "instruction": "Nghe hội thoại và trả lời các câu hỏi",
+        "dialogues": [
+          {
+            "id": "D1",
+            "title": "Sau giờ học",
+            "script": [
+              "A: ねえ、今日カラオケ行かない？",
+              "B: ごめん、今日はちょっと...",
+              "A: なんで？",
+              "B: 明日テストあるんだ。勉強しなきゃ。",
+              "A: あ、そっか。じゃ、また今度ね。",
+              "B: うん、テスト終わったら行こう。"
+            ],
+            "questions": [
+              {
+                "question": "A muốn làm gì?",
+                "options": ["Đi karaoke", "Đi ăn", "Về nhà"],
+                "answer": 0
+              },
+              {
+                "question": "Tại sao B từ chối?",
+                "options": ["Bận làm việc", "Mai có test", "Không có tiền"],
+                "answer": 1
+              },
+              {
+                "question": "Họ sẽ đi khi nào?",
+                "options": ["Không bao giờ", "Sau khi test xong", "Tuần sau"],
+                "answer": 1
+              }
+            ],
+            "contractions_used": ["あるんだ (の→ん)", "しなきゃ (なければ→なきゃ)", "そっか (そうか)", "行こう"]
+          },
+          {
+            "id": "D2",
+            "title": "Làm mất đồ",
+            "script": [
+              "A: どうしたの？顔色悪いよ。",
+              "B: 財布なくしちゃった...",
+              "A: え、マジで？どこで？",
+              "B: わかんない。電車の中かな...",
+              "A: 駅に聞いといた方がいいよ。",
+              "B: うん、そうするわ。"
+            ],
+            "questions": [
+              {
+                "question": "B gặp vấn đề gì?",
+                "options": ["Bị ốm", "Làm mất ví", "Lỡ tàu"],
+                "answer": 1
+              },
+              {
+                "question": "B nghĩ đánh mất ở đâu?",
+                "options": ["Ở nhà", "Trên tàu", "Ở công ty"],
+                "answer": 1
+              },
+              {
+                "question": "A khuyên B làm gì?",
+                "options": ["Mua ví mới", "Hỏi ở ga tàu", "Gọi cảnh sát"],
+                "answer": 1
+              }
+            ],
+            "contractions_used": ["なくしちゃった (てしまった→ちゃった)", "わかんない (わからない)", "かな", "聞いといた (ておいた→といた)"]
+          },
+          {
+            "id": "D3",
+            "title": "Kế hoạch cuối tuần",
+            "script": [
+              "A: 週末、何してる？",
+              "B: 特に予定ないけど。なんで？",
+              "A: 新しいラーメン屋できたって聞いたんだ。行ってみない？",
+              "B: いいね！どこにあるん？",
+              "A: 駅の近くらしいよ。調べとくね。",
+              "B: うん、よろしく。"
+            ],
+            "questions": [
+              {
+                "question": "B có kế hoạch cuối tuần chưa?",
+                "options": ["Có rồi", "Chưa có", "Bận"],
+                "answer": 1
+              },
+              {
+                "question": "A nghe nói có gì mới?",
+                "options": ["Quán cà phê", "Quán ramen", "Cửa hàng"],
+                "answer": 1
+              },
+              {
+                "question": "A sẽ làm gì?",
+                "options": ["Đặt bàn", "Tra cứu địa chỉ", "Hủy kế hoạch"],
+                "answer": 1
+              }
+            ],
+            "contractions_used": ["してる (している)", "できたって (できたと言う)", "あるん (あるの)", "らしい", "調べとく (ておく→とく)"]
+          },
+          {
+            "id": "D4",
+            "title": "Sáng thứ Hai",
+            "script": [
+              "A: おはよう。眠そうだね。",
+              "B: うん、昨日夜更かししちゃって...",
+              "A: 何してたん？",
+              "B: ドラマ見始めたら止まらなくなっちゃった。",
+              "A: あるある。今日会議あるから、コーヒー飲んどきなよ。",
+              "B: そうする。サンキュー。"
+            ],
+            "questions": [
+              {
+                "question": "Tại sao B buồn ngủ?",
+                "options": ["Dậy sớm", "Thức khuya xem drama", "Làm việc khuya"],
+                "answer": 1
+              },
+              {
+                "question": "Hôm nay có gì?",
+                "options": ["Test", "Họp", "Nghỉ"],
+                "answer": 1
+              },
+              {
+                "question": "A khuyên B làm gì?",
+                "options": ["Về nhà ngủ", "Uống cà phê", "Xin nghỉ"],
+                "answer": 1
+              }
+            ],
+            "contractions_used": ["眠そう", "しちゃって (てしまって)", "してたん (していたの)", "なっちゃった", "飲んどきな (ておきなさい)"]
+          }
+        ]
+      },
+      {
+        "id": "L5_02",
+        "type": "dictation",
+        "instruction": "Nghe và viết lại câu bằng Hiragana (có thể dùng Kanji nếu biết)",
+        "items": [
+          {
+            "audio": "何してんの？",
+            "answer": "なにしてんの",
+            "formal_form": "何をしているの"
+          },
+          {
+            "audio": "行かなきゃ",
+            "answer": "いかなきゃ",
+            "formal_form": "行かなければならない"
+          },
+          {
+            "audio": "食べちゃった",
+            "answer": "たべちゃった",
+            "formal_form": "食べてしまった"
+          },
+          {
+            "audio": "買っとくね",
+            "answer": "かっとくね",
+            "formal_form": "買っておくね"
+          },
+          {
+            "audio": "来るって",
+            "answer": "くるって",
+            "formal_form": "来ると言っていた"
+          },
+          {
+            "audio": "学生じゃないよ",
+            "answer": "がくせいじゃないよ",
+            "formal_form": "学生ではありません"
+          },
+          {
+            "audio": "明日テストあるんだ",
+            "answer": "あしたテストあるんだ",
+            "formal_form": "明日テストがあるのです"
+          },
+          {
+            "audio": "忘れちゃった",
+            "answer": "わすれちゃった",
+            "formal_form": "忘れてしまった"
+          }
+        ]
+      },
+      {
+        "id": "L5_03",
+        "type": "speed_recognition",
+        "instruction": "Nghe câu nói nhanh và chọn nghĩa đúng (có 3 giây để trả lời)",
+        "items": [
+          {
+            "audio": "ちょっと待ってて",
+            "speed": "fast",
+            "options": ["Đợi chút", "Đừng đợi", "Đi đi"],
+            "answer": 0
+          },
+          {
+            "audio": "知らないって言ってんじゃん",
+            "speed": "fast",
+            "options": ["Tao biết mà", "Tao đã nói là không biết", "Cậu biết không?"],
+            "answer": 1
+          },
+          {
+            "audio": "やっとかないとまずいよ",
+            "speed": "fast",
+            "options": ["Không cần làm", "Phải làm trước không thì gay", "Làm rồi"],
+            "answer": 1
+          },
+          {
+            "audio": "もう帰んなきゃ",
+            "speed": "fast",
+            "options": ["Đã về rồi", "Phải về rồi", "Không về"],
+            "answer": 1
+          },
+          {
+            "audio": "それ、誰んち？",
+            "speed": "fast",
+            "options": ["Đó là ai?", "Nhà ai đó?", "Ai ở đó?"],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "L5_04",
+        "type": "formal_to_casual",
+        "instruction": "Nghe câu formal và chọn dạng casual tương ứng",
+        "items": [
+          {
+            "formal_audio": "何をしているのですか",
+            "options": ["何してんの", "何をしますか", "何でしょうか"],
+            "answer": 0
+          },
+          {
+            "formal_audio": "食べなければなりません",
+            "options": ["食べます", "食べなきゃ", "食べたい"],
+            "answer": 1
+          },
+          {
+            "formal_audio": "忘れてしまいました",
+            "options": ["忘れます", "忘れちゃった", "忘れない"],
+            "answer": 1
+          },
+          {
+            "formal_audio": "準備しておきます",
+            "options": ["準備する", "準備しとく", "準備した"],
+            "answer": 1
+          },
+          {
+            "formal_audio": "学生ではありません",
+            "options": ["学生です", "学生じゃない", "学生になる"],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  "summary": {
+    "total_exercises": 25,
+    "contraction_types_covered": [
+      "ている → てる (tiếp diễn)",
+      "ではない → じゃない (phủ định)",
+      "の → ん (giải thích/hỏi)",
+      "なければ → なきゃ (phải làm)",
+      "なくては → なくちゃ (phải làm)",
+      "てしまう → ちゃう/じゃう (hoàn thành/tiếc)",
+      "ておく → とく (chuẩn bị)",
+      "という → って (trích dẫn)",
+      "Trợ từ cuối câu (ね、よ、な、かな、っけ、ぞ、さ)"
+    ],
+    "progression": {
+      "L1": "ている → てる cơ bản",
+      "L2": "じゃない và の → ん",
+      "L3": "なきゃ/なくちゃ và ちゃう/じゃう",
+      "L4": "とく、って và trợ từ cuối câu",
+      "L5": "Tổng hợp - Hội thoại thực tế"
+    },
+    "tips_for_learners": [
+      "Nghe nhiều drama/anime để quen với tốc độ thực",
+      "Không cần nói casual ngay, nhưng phải NGHE HIỂU được",
+      "Khi nghe てる → nghĩ ngay đến ている",
+      "Khi nghe じゃ → nghĩ ngay đến では",
+      "Trợ từ cuối câu thể hiện cảm xúc - chú ý giọng điệu"
+    ]
+  }
+}

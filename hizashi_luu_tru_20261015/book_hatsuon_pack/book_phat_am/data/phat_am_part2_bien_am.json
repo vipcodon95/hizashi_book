@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "book": "HIZASHI - Sách Phát âm",
+    "part": 2,
+    "title": "Hiện Tượng Biến Âm",
+    "chapters": [3, 4, 5, 6],
+    "version": "1.0",
+    "created": "2025-12-04"
+  },
+  "chapters": [
+    {
+      "id": 3,
+      "title": "Hatsuon - Âm mũi /N/ và các Biến thể",
+      "sections": [
+        {
+          "id": "3.1",
+          "title": "Vấn đề Cốt lõi",
+          "comparison": {
+            "vietnamese": "Phân biệt rõ -n, -m, -ng, -nh (lan ≠ lam ≠ lang)",
+            "japanese": "Chỉ có 1 âm vị /N/ trừu tượng, phát âm thay đổi theo ngữ cảnh"
+          }
+        },
+        {
+          "id": "3.2",
+          "title": "Bảng Biến thể của /N/",
+          "variants": [
+            {"before": "p, b, m", "pronunciation": "[m]", "articulation": "Môi-Môi", "example": "Sanpo → [sam.po]"},
+            {"before": "t, d, n, r", "pronunciation": "[n]", "articulation": "Lợi", "example": "Hantai → [han.tai]"},
+            {"before": "k, g", "pronunciation": "[ŋ]", "articulation": "Ngạc mềm", "example": "Tenki → [teŋ.ki]"},
+            {"before": "Cuối câu", "pronunciation": "[ɴ]", "articulation": "Lưỡi gà", "example": "Nihon → [nihoɴ]"},
+            {"before": "s, z, h, y, w, nguyên âm", "pronunciation": "[ɰ̃]", "articulation": "Mũi hóa", "example": "Sensei → [seẽ.sei]"}
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Phân tích Chi tiết",
+          "detailed_variants": [
+            {
+              "variant": "[m]",
+              "condition": "Trước p, b, m",
+              "example": {"word": "さんぽ (sanpo)", "meaning": "đi dạo", "pronunciation": "[sampo]"},
+              "reason": "Môi khép lại chuẩn bị cho /p/",
+              "note_for_vietnamese": "Dễ nghe vì có âm -m. Lưu ý: /m/ này dài = 1 mora đầy đủ"
+            },
+            {
+              "variant": "[ŋ]",
+              "condition": "Trước k, g",
+              "example": {"word": "まんが (manga)", "meaning": "truyện tranh", "pronunciation": "[maŋga]"},
+              "reason": "Cuống lưỡi nâng lên chạm ngạc mềm",
+              "note_for_vietnamese": "Nghe như 'mang-ga'. Đừng cố phát âm 'man-ga' với /n/!"
+            },
+            {
+              "variant": "[ɰ̃]",
+              "condition": "Mũi hóa (KHÓ NHẤT)",
+              "example": {"word": "せんせい (sensei)", "meaning": "thầy/cô", "pronunciation": "[seẽsei]"},
+              "reason": "Không đóng khẩu hình, chỉ mũi hóa",
+              "common_error": "'Se-sei' (mất âm /n/)",
+              "correct": "'Se(ẽ)n-sei' (nguyên âm mũi hóa kéo dài)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Museika - Vô thanh hóa Nguyên âm",
+      "sections": [
+        {
+          "id": "4.1",
+          "title": "Quy tắc",
+          "rules": [
+            "Nguyên âm /i/ và /u/ bị VÔ THANH HÓA khi nằm giữa 2 phụ âm vô thanh (k, s, t, h, f, p, sh)",
+            "Nguyên âm /i/ và /u/ bị VÔ THANH HÓA khi đứng sau phụ âm vô thanh ở cuối câu (desu, masu)"
+          ],
+          "voiceless_consonants": ["k", "s", "t", "h", "f", "p", "sh"]
+        },
+        {
+          "id": "4.2",
+          "title": "Ví dụ Thực tế",
+          "examples": [
+            {"word": "聞く", "meaning": "nghe", "written": "ki-ku", "spoken": "[k'ku]", "note": "/i/ gần như biến mất"},
+            {"word": "好き", "meaning": "thích", "written": "su-ki", "spoken": "[s'ki]", "note": "Nghe như 'ski'"},
+            {"word": "です", "meaning": "copula", "written": "de-su", "spoken": "[des']", "note": "/u/ cuối thì thầm"},
+            {"word": "した", "meaning": "làm rồi", "written": "shi-ta", "spoken": "[sh'ta]", "note": "/i/ biến mất"}
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Vấn đề của Người Việt",
+          "comparison": {
+            "vietnamese_error": {
+              "example": "Đé-sự (Desu)",
+              "problems": ["Thêm thanh điệu (Sắc, Nặng)", "Hữu thanh hóa hoàn toàn", "Kéo dài thời gian"]
+            },
+            "japanese_correct": {
+              "pronunciation": "[des']",
+              "features": ["Không thanh điệu", "/u/ vô thanh (như tiếng gió)", "Vẫn đủ 2 mora thời gian"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Rendaku - Hiện tượng Đục hóa",
+      "sections": [
+        {
+          "id": "5.1",
+          "title": "Định nghĩa",
+          "definition": "Rendaku (連濁) là hiện tượng phụ âm đầu của thành tố thứ 2 trong từ ghép bị biến đổi từ vô thanh → hữu thanh."
+        },
+        {
+          "id": "5.2",
+          "title": "Các Quy tắc Chuyển đổi",
+          "transformations": [
+            {"voiceless": "k", "voiced": "g", "example": "ori + kami → origami"},
+            {"voiceless": "s/sh", "voiced": "z/j", "example": "maki + sushi → makizushi"},
+            {"voiceless": "t/ch", "voiced": "d/j", "example": "hana + chi → hanaji"},
+            {"voiceless": "h/f", "voiced": "b", "example": "ike + hana → ikebana"}
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "Luật Lyman - Ngoại lệ Quan trọng",
+          "lyman_law": {
+            "rule": "Rendaku KHÔNG xảy ra nếu thành tố thứ 2 đã chứa sẵn phụ âm đục (g, z, d, b)",
+            "examples": [
+              {"compound": "yama + kaze = yamakaze", "not": "yamagaze", "reason": "'kaze' đã có /z/"},
+              {"compound": "hitori + tabi = hitoritabi", "not": "hitoridabi", "reason": "'tabi' đã có /b/"}
+            ]
+          }
+        },
+        {
+          "id": "5.4",
+          "title": "Ứng dụng Khi Nghe",
+          "listening_tip": {
+            "when": "Khi nghe thấy âm đục ở giữa từ ghép",
+            "example": "ikebana → Truy nguyên: ike + bana → bana = hana (花)",
+            "wrong": "Tra từ điển 'bana' → không tìm thấy",
+            "correct": "Nhận ra Rendaku → tra 'hana' → 花 = hoa"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Rút gọn trong Khẩu ngữ",
+      "sections": [
+        {
+          "id": "6.1",
+          "title": "Hợp nhất Nguyên âm",
+          "contractions": [
+            {"formal": "-ai", "casual": "-ee", "example": "takai → takee", "meaning": "đắt"},
+            {"formal": "-oi", "casual": "-ee", "example": "sugoi → sugee", "meaning": "tuyệt"},
+            {"formal": "-ui", "casual": "-ii", "example": "warui → warii", "meaning": "xấu"}
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Rút gọn Dạng '-te'",
+          "te_contractions": [
+            {"formal": "-te shimau", "casual": "-chau", "meaning": "Lỡ làm/Hoàn thành"},
+            {"formal": "-de shimau", "casual": "-jau", "meaning": "Lỡ làm/Hoàn thành"},
+            {"formal": "-te iru", "casual": "-teru", "meaning": "Đang làm"},
+            {"formal": "-de iru", "casual": "-deru", "meaning": "Đang làm"},
+            {"formal": "-te oku", "casual": "-toku", "meaning": "Làm sẵn"},
+            {"formal": "-de oku", "casual": "-doku", "meaning": "Làm sẵn"}
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Ví dụ Thực tế",
+          "real_examples": [
+            {"formal": "食べてしまいました (tabete shimaimashita)", "casual": "食べちゃった (tabechatta)", "meaning": "Lỡ ăn mất rồi"},
+            {"formal": "分からない (wakaranai)", "casual": "分かんない (wakannai)", "meaning": "Không hiểu"}
+          ]
+        },
+        {
+          "id": "6.4",
+          "title": "Đồng hóa /r/ → /n/",
+          "r_to_n_rule": {
+            "pattern": "ra + n → nn",
+            "examples": [
+              {"formal": "wakaranai", "casual": "wakannai"},
+              {"formal": "tsumaranai", "casual": "tsumannai"},
+              {"formal": "kaerenai", "casual": "kaennai"}
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

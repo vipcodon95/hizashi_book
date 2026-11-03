@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "L16_FP_01",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "朝起きて、顔を洗って、朝ご飯を食べます。",
+    "sentence_translation": "Buổi sáng dậy, rửa mặt, rồi ăn sáng.",
+    "question_text": "朝起き（　）、顔を洗って、朝ご飯を食べます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "た",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "て",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vて、V2 = nối hành động theo trình tự. 起きて → \"dậy, rồi...\" → tiếp tục hành động sau. て nối các hành động liên tiếp theo thứ tự thời gian",
+    "hint": "Nối hành động theo trình tự thời gian → Vて、V2",
+    "tags": [
+      "て",
+      "nối_trình_tự",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L16_FP_02",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "手を洗ってからご飯を食べます。",
+    "sentence_translation": "Rửa tay xong rồi mới ăn cơm.",
+    "question_text": "手を洗って（　）ご飯を食べます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "て",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "まで",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vてから = \"sau khi làm ~\". 洗ってから食べます = \"rửa xong RỒI MỚI ăn\". から nhấn mạnh thứ tự bắt buộc: A xong → B",
+    "hint": "\"Sau khi rửa tay\" rồi mới ăn → Vて + ? = sau khi",
+    "tags": [
+      "てから",
+      "trình_tự",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L16_FP_03",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "写真を撮ってもいいですか。",
+    "sentence_translation": "Chụp ảnh có được không?",
+    "question_text": "写真を撮って（　）いいですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "も",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vてもいいですか = \"làm ~ có được không?\" (xin phép). も = \"cũng/dù\" → てもいい = \"dù làm cũng được\" → xin phép lịch sự",
+    "hint": "Xin phép làm gì đó → Vて + ? + いいですか",
+    "tags": [
+      "てもいいですか",
+      "xin_phép",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L16_FP_04",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ここでタバコを吸ってはいけません。",
+    "sentence_translation": "Không được hút thuốc ở đây.",
+    "question_text": "ここでタバコを吸って（　）いけません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "も",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vてはいけません = \"không được làm ~\" (cấm đoán). は = nhấn mạnh chủ đề bị cấm. てはいけません ↔ てもいいです (đối lập: cấm ↔ được phép)",
+    "hint": "Cấm đoán → Vて + ? + いけません",
+    "tags": [
+      "てはいけません",
+      "cấm_đoán",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L16_FP_05",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは本を読んでいます。",
+    "sentence_translation": "Tanaka đang đọc sách.",
+    "question_text": "田中さんは本を読んで（　）ます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "おり",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "あり",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "き",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "い",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vています = \"đang làm ~\". 読んでいます = \"đang đọc\". て + いる = trạng thái tiếp diễn. い là viết tắt của いる",
+    "hint": "Đang tiếp diễn → Vて + い + ます",
+    "tags": [
+      "ている",
+      "tiếp_diễn",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L16_FP_06",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "財布を忘れてしまいました。",
+    "sentence_translation": "Đã quên ví mất rồi.",
+    "question_text": "財布を忘れて（　）ました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "おき",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "しまい",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "もらい",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "み",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vてしまう = \"lỡ làm ~\" (tiếc nuối/ngoài ý muốn). 忘れてしまいました = \"đã lỡ quên mất rồi\". しまう thêm sắc thái tiếc nuối",
+    "hint": "Hành động xảy ra ngoài ý muốn, tiếc nuối → Vて + ?",
+    "tags": [
+      "てしまう",
+      "tiếc_nuối"
+    ]
+  },
+  {
+    "id": "L16_FP_07",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語を教えてほしいです。",
+    "sentence_translation": "Muốn (ai đó) dạy tiếng Nhật cho.",
+    "question_text": "日本語を教えて（　）です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ほしい",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "たい",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "もらい",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くれ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vてほしい = \"muốn (ai đó) làm ~\". KHÁC Vたい (muốn TỰ MÌNH làm). 教えてほしい = \"muốn được ai đó dạy\"",
+    "hint": "Muốn NGƯỜI KHÁC làm gì đó → Vて + ?",
+    "tags": [
+      "てほしい",
+      "muốn_người_khác"
+    ]
+  },
+  {
+    "id": "L16_FP_08",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "窓が開いています。",
+    "sentence_translation": "Cửa sổ đang mở.",
+    "question_text": "窓（　）開いています。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が + Vています = trạng thái kết quả. 窓が開いています = \"cửa sổ ĐANG MỞ\" (trạng thái). KHÁC 窓を開けています = \"đang mở cửa sổ\" (hành động đang diễn ra). Trợ từ が vs を phân biệt trạng thái vs hành động",
+    "hint": "Cửa sổ ở trạng thái mở → chủ ngữ trạng thái dùng trợ từ nào?",
+    "tags": [
+      "が",
+      "ている",
+      "trạng_thái"
+    ]
+  },
+  {
+    "id": "L16_FP_09",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ドアを閉めてください。",
+    "sentence_translation": "Xin hãy đóng cửa.",
+    "question_text": "ドア（　）閉めてください。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "を + Vてください = yêu cầu hành động lên đối tượng. ドアを閉める = \"đóng cửa\". を chỉ đối tượng hành động tác động vào",
+    "hint": "Cánh cửa là đối tượng bị tác động → dùng trợ từ nào?",
+    "tags": [
+      "を",
+      "てください",
+      "yêu_cầu"
+    ]
+  },
+  {
+    "id": "L16_FP_10",
+    "lesson_id": 16,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達が日本語を教えてくれました。",
+    "sentence_translation": "Bạn đã dạy tiếng Nhật cho tôi.",
+    "question_text": "友達（　）日本語を教えてくれました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "が + Vてくれる = người đó CHỦ ĐỘNG làm cho tôi. 友達が...てくれた = \"bạn đã (tự nguyện) làm cho tôi\". が đánh dấu người thực hiện hành động",
+    "hint": "Người BẠN chủ động làm cho tôi → trợ từ nào đánh dấu người thực hiện trong てくれる?",
+    "tags": [
+      "が",
+      "てくれる",
+      "cho_nhận"
+    ]
+  },
+  {
+    "id": "L16_PR_11",
+    "lesson_id": 16,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "手を洗ってからご飯を食べます。",
+    "sentence_translation": "Rửa tay xong rồi mới ăn cơm.",
+    "question_text": "洗ってから → Gặp てから, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có HÀNH ĐỘNG THỨ HAI (てから = sau khi A thì B)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ đơn lẻ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tính từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てから = \"sau khi ~\" → dự đoán: HÀNH ĐỘNG THỨ HAI sẽ xuất hiện sau. 洗ってから → \"rửa xong rồi...\" → đọc tiếp tìm hành động B",
+    "hint": null,
+    "tags": [
+      "てから",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L16_PR_12",
+    "lesson_id": 16,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "写真を撮ってもいいですか。",
+    "sentence_translation": "Chụp ảnh có được không?",
+    "question_text": "撮っても → Gặp Vても ở giữa câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu phủ định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có động từ di chuyển",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có いいですか (xin phép) hoặc cấu trúc nhượng bộ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vても → dự đoán: hoặc いいですか (xin phép) hoặc nhượng bộ \"dù...vẫn\". Ở đây: 撮ってもいいですか = \"chụp có được không?\"",
+    "hint": null,
+    "tags": [
+      "ても",
+      "dự_đoán",
+      "xin_phép"
+    ]
+  },
+  {
+    "id": "L16_PR_13",
+    "lesson_id": 16,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは本を読んでいます。",
+    "sentence_translation": "Tanaka đang đọc sách.",
+    "question_text": "読んで → Gặp Vて ở giữa câu (không có dấu phẩy), dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có tính từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có ĐỘNG TỪ BỔ TRỢ (います/ください/しまう...)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vて ở giữa câu (không dấu phẩy) → dự đoán: động từ bổ trợ phía sau sẽ quyết định nghĩa. います = đang làm, ください = yêu cầu, しまう = tiếc nuối...",
+    "hint": null,
+    "tags": [
+      "て",
+      "dự_đoán",
+      "động_từ_bổ_trợ"
+    ]
+  },
+  {
+    "id": "L16_PR_14",
+    "lesson_id": 16,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "財布を忘れてしまいました。",
+    "sentence_translation": "Đã quên ví mất rồi.",
+    "question_text": "忘れてしまい → Gặp てしまう, dự đoán SẮC THÁI câu?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu yêu cầu lịch sự",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu mang sắc thái TIẾC NUỐI / ngoài ý muốn",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu mang sắc thái vui mừng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu xin phép",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てしまう → dự đoán: sắc thái TIẾC NUỐI hoặc hoàn tất ngoài ý muốn. 忘れてしまった = \"lỡ quên mất rồi\" → người nói tiếc nuối",
+    "hint": null,
+    "tags": [
+      "てしまう",
+      "dự_đoán",
+      "tiếc_nuối"
+    ]
+  },
+  {
+    "id": "L16_PR_15",
+    "lesson_id": 16,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ここでタバコを吸ってはいけません。",
+    "sentence_translation": "Không được hút thuốc ở đây.",
+    "question_text": "吸っては → Gặp Vては ở giữa câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có いけません (CẤM ĐOÁN: không được làm)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có いいです (cho phép)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có ください (yêu cầu)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vては → dự đoán: いけません (cấm đoán). Vてはいけません = \"không được làm ~\". Gặp ては → chuẩn bị đọc câu cấm!",
+    "hint": null,
+    "tags": [
+      "ては",
+      "dự_đoán",
+      "cấm_đoán"
+    ]
+  },
+  {
+    "id": "L16_PR_16",
+    "lesson_id": 16,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "早く来てほしいです。",
+    "sentence_translation": "Muốn (anh ấy) đến sớm.",
+    "question_text": "来てほしい → Gặp てほしい, dự đoán CHỦ NGỮ?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Chủ ngữ bị cấm",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ xin phép",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ ẩn muốn NGƯỜI KHÁC làm (không phải tự mình)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ tự mình muốn làm",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てほしい → dự đoán: người nói muốn NGƯỜI KHÁC làm. KHÁC たい (tự mình muốn). 来てほしい = \"muốn (ai đó) đến\"",
+    "hint": null,
+    "tags": [
+      "てほしい",
+      "dự_đoán",
+      "chủ_ngữ"
+    ]
+  },
+  {
+    "id": "L16_CH_17",
+    "lesson_id": 16,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "朝起きて顔を洗って朝ご飯を食べます",
+    "sentence_translation": "Buổi sáng dậy, rửa mặt, rồi ăn sáng.",
+    "question_text": "朝起きて顔を洗って朝ご飯を食べます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "朝",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "起きて",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "顔を洗って",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "朝ご飯を食べます",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "朝 = thời gian (buổi sáng) | 起きて = hành động 1 + て nối (dậy, rồi...) | 顔を洗って = hành động 2 + て nối (rửa mặt, rồi...) | 朝ご飯を食べます = hành động cuối, kết thúc câu (ăn sáng). Mỗi Vて = một bước trong chuỗi hành động",
+    "hint": null,
+    "tags": [
+      "て",
+      "nối_trình_tự",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L16_CH_18",
+    "lesson_id": 16,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "手を洗ってからご飯を食べます",
+    "sentence_translation": "Rửa tay xong rồi mới ăn cơm.",
+    "question_text": "手を洗ってからご飯を食べます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "手を洗ってから",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "ご飯を食べます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "手を洗ってから = \"sau khi rửa tay\" (hành động A + てから) | ご飯を食べます = \"ăn cơm\" (hành動 B). てから chia câu thành 2 phần: A xong → B",
+    "hint": null,
+    "tags": [
+      "てから",
+      "chunking",
+      "trình_tự"
+    ]
+  },
+  {
+    "id": "L16_CH_19",
+    "lesson_id": 16,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "写真を撮ってもいいですか",
+    "sentence_translation": "Chụp ảnh có được không?",
+    "question_text": "写真を撮ってもいいですか",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "写真を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "撮ってもいいですか",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "写真を = đối tượng (bức ảnh) | 撮ってもいいですか = \"chụp có được không?\" (Vて + もいいですか = xin phép). Nhìn もいいですか → biết ngay đây là câu xin phép",
+    "hint": null,
+    "tags": [
+      "てもいいですか",
+      "chunking",
+      "xin_phép"
+    ]
+  },
+  {
+    "id": "L16_CH_20",
+    "lesson_id": 16,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "ここでタバコを吸ってはいけません",
+    "sentence_translation": "Không được hút thuốc ở đây.",
+    "question_text": "ここでタバコを吸ってはいけません",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "ここで",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "タバコを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "吸ってはいけません",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "ここで = nơi chốn hành động (ở đây) | タバコを = đối tượng (thuốc lá) | 吸ってはいけません = \"không được hút\" (Vて + はいけません = cấm đoán). 3 khối: ở đâu + cái gì + cấm làm gì",
+    "hint": null,
+    "tags": [
+      "てはいけません",
+      "chunking",
+      "cấm_đoán"
+    ]
+  },
+  {
+    "id": "L16_CH_21",
+    "lesson_id": 16,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本に来てから日本語を勉強しました",
+    "sentence_translation": "Sau khi đến Nhật, tôi mới bắt đầu học tiếng Nhật.",
+    "question_text": "日本に来てから日本語を勉強しました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本に来てから",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日本語を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "勉強しました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "日本に来てから = \"sau khi đến Nhật\" (てから đóng gói cả cụm → giải phóng bộ nhớ) | 日本語を = đối tượng (tiếng Nhật) | 勉強しました = \"đã học\". てから chia câu: phần trước = điều kiện thời gian, phần sau = hành động chính",
+    "hint": null,
+    "tags": [
+      "てから",
+      "chunking",
+      "câu_dài"
+    ]
+  },
+  {
+    "id": "L16_CH_22",
+    "lesson_id": 16,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "友達が日本語を教えてくれました",
+    "sentence_translation": "Bạn đã dạy tiếng Nhật cho tôi.",
+    "question_text": "友達が日本語を教えてくれました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "友達が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日本語を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "教えてくれました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "友達が = người thực hiện (bạn, が = chủ động) | 日本語を = đối tượng (tiếng Nhật) | 教えてくれました = \"dạy cho tôi\" (Vて + くれる = làm cho tôi). が...てくれた → biết ơn người chủ động giúp",
+    "hint": null,
+    "tags": [
+      "てくれる",
+      "chunking",
+      "cho_nhận"
+    ]
+  },
+  {
+    "id": "L16_PD_23",
+    "lesson_id": 16,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "写真を撮ってもいいですか / 写真を撮ってはいけません",
+    "sentence_translation": "Chụp ảnh có được không? / Không được chụp ảnh.",
+    "question_text": "Câu nào là XIN PHÉP?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "写真を撮ってもいいですか (てもいいですか = xin phép)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "写真を撮ってはいけません (てはいけません = cấm đoán)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てもいいですか = XIN PHÉP (có được không?). てはいけません = CẤM ĐOÁN (không được). も vs は thay đổi → nghĩa đối lập hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "てもいいですか",
+      "てはいけません",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L16_PD_24",
+    "lesson_id": 16,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "本を読んでいます / 本を読んでしまいました",
+    "sentence_translation": "Đang đọc sách. / Đã đọc xong sách (mất) rồi.",
+    "question_text": "Câu nào diễn tả hành động ĐANG DIỄN RA?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "本を読んでしまいました (てしまった = đã hoàn tất/tiếc nuối)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "本を読んでいます (ています = đang làm)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ています = ĐANG làm (tiếp diễn). てしまった = đã HOÀN TẤT (thường kèm tiếc nuối). います vs しまう → thời điểm và sắc thái khác nhau hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "ている",
+      "てしまう",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L16_PD_25",
+    "lesson_id": 16,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達が教えてくれました / 友達に教えてもらいました",
+    "sentence_translation": "Bạn đã dạy cho tôi. / Tôi được bạn dạy cho.",
+    "question_text": "Câu nào nhấn mạnh NGƯỜI BẠN chủ động giúp?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "友達が教えてくれました (が + てくれた = bạn CHỦ ĐỘNG)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "友達に教えてもらいました (に + てもらった = tôi NHỜN/ĐƯỢC)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が + てくれる = người kia CHỦ ĐỘNG làm cho tôi (biết ơn). に + てもらう = TÔI nhờ/được người kia làm. Cùng sự việc nhưng góc nhìn khác: bạn chủ động vs tôi nhờ",
+    "hint": null,
+    "tags": [
+      "てくれる",
+      "てもらう",
+      "phân_biệt",
+      "cho_nhận"
+    ]
+  },
+  {
+    "id": "L16_PK_26",
+    "lesson_id": 16,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "朝起きて、顔を洗って、歯を磨いて、朝ご飯を食べます。",
+    "sentence_translation": "Buổi sáng dậy, rửa mặt, đánh răng, rồi ăn sáng.",
+    "question_text": "🔒 Gặp chuỗi Vて、Vて、Vて liên tiếp → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đây là 4 câu riêng biệt",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ hành động cuối quan trọng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ cần nhớ hành động đầu tiên",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Mỗi Vて = một bước trong chuỗi → đóng gói: \"liệt kê trình tự hành động\" → chỉ cần nhớ chuỗi hình ảnh: dậy→rửa mặt→đánh răng → tìm hành động cuối (kết thúc câu)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Chuỗi Vて → 🔒 đóng gói: gom thành \"chuỗi hành động theo thứ tự\". Không cần dịch từng cái riêng lẻ → hình ảnh hóa chuỗi. Hành động cuối (không có て) mới kết thúc câu",
+    "hint": null,
+    "tags": [
+      "て",
+      "chuỗi",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L16_PK_27",
+    "lesson_id": 16,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この水を飲んではいけません。",
+    "sentence_translation": "Không được uống nước này.",
+    "question_text": "🔒 Gặp てはいけません → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 てはいけません = xin phép → \"hỏi có được không?\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 てはいけません = CẤM ĐOÁN → đóng gói: \"đây là câu cấm, tìm hành động bị cấm + đối tượng\" → giải phóng bộ nhớ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 てはいけません = đang tiếp diễn → \"đang làm\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 てはいけません = yêu cầu lịch sự → \"xin hãy làm\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp てはいけません → 🔒 đóng gói: \"câu cấm\". Quay lại tìm: cấm CÁI GÌ (を) và ở ĐÂU (で). この水を = nước này, 飲んで = uống → \"không được uống nước này\"",
+    "hint": null,
+    "tags": [
+      "てはいけません",
+      "đóng_gói",
+      "cấm_đoán"
+    ]
+  },
+  {
+    "id": "L16_PK_28",
+    "lesson_id": 16,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "母に料理を作ってもらいました。",
+    "sentence_translation": "Tôi được mẹ nấu cho món ăn.",
+    "question_text": "🔒 Gặp [人]に...てもらう → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 に + てもらう = \"tôi làm cho người kia\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 に + てもらう = \"cùng nhau làm\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 に + てもらう = \"TÔI nhờ/được [人] làm cho\" → đóng gói: \"ai làm gì cho tôi\" → tìm người (に) + hành động (Vて)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 に + てもらう = \"người kia chủ動 làm\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp に...てもらう → 🔒 đóng gói: \"tôi được/nhờ ai đó làm cho\". 母に = mẹ (người làm), 料理を作って = nấu ăn (hành động) → \"tôi được mẹ nấu cho\"",
+    "hint": null,
+    "tags": [
+      "てもらう",
+      "đóng_gói",
+      "cho_nhận"
+    ]
+  },
+  {
+    "id": "L16_PK_29",
+    "lesson_id": 16,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "電車の中で電話をかけてはいけません。落としてしまいますよ。",
+    "sentence_translation": "Không được gọi điện trên tàu. Sẽ làm rơi mất đấy.",
+    "question_text": "🔒 Gặp câu phức hợp có てはいけません + てしまう → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Cả hai đều là tiếc nuối",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Hai câu không liên quan",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Cả hai đều là câu cấm",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Câu 1: てはいけません = CẤM → câu 2: てしまう = HẬU QUẢ xấu → đóng gói: \"cấm vì sẽ xảy ra hậu quả\"",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Khi gặp liên tiếp てはいけません + てしまう → 🔒 đóng gói: \"cấm + lý do (hậu quả xấu)\". Câu 1 = quy tắc cấm, câu 2 = giải thích tại sao cấm",
+    "hint": null,
+    "tags": [
+      "てはいけません",
+      "てしまう",
+      "đóng_gói",
+      "phức_hợp"
+    ]
+  },
+  {
+    "id": "L16_RO_30",
+    "lesson_id": 16,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "手を洗ってから食べます。",
+    "sentence_translation": "Rửa tay xong rồi ăn.",
+    "question_text": "手を洗ってから食べます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "食べます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "手を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "洗ってから",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "手を (đối tượng: tay) → 洗ってから (sau khi rửa) → 食べます (ăn). Vてから luôn đứng TRƯỚC hành動 chính. Tiếng Nhật: hành động phụ trước, hành động chính sau",
+    "hint": null,
+    "tags": [
+      "てから",
+      "reorder",
+      "trình_tự"
+    ]
+  },
+  {
+    "id": "L16_RO_31",
+    "lesson_id": 16,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "ここに座ってもいいですか。",
+    "sentence_translation": "Ngồi đây có được không?",
+    "question_text": "ここに座ってもいいですか。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "もいいですか",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "座って",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "ここに",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "ここに (nơi chốn: ở đây) → 座って (ngồi) → もいいですか (có được không?). Thứ tự: nơi chốn → hành động → xin phép. Vてもいいですか luôn ở cuối",
+    "hint": null,
+    "tags": [
+      "てもいいですか",
+      "reorder",
+      "xin_phép"
+    ]
+  },
+  {
+    "id": "L16_RO_32",
+    "lesson_id": 16,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "図書館へ行って本を借りて読みます。",
+    "sentence_translation": "Đi thư viện, mượn sách, rồi đọc.",
+    "question_text": "図書館へ行って本を借りて読みます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "読みます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "本を借りて",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "図書館へ行って",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "図書館へ行って (đi thư viện) → 本を借りて (mượn sách) → 読みます (đọc). Chuỗi Vて theo TRÌNH TỰ thời gian: đi → mượn → đọc. Hành動 cuối không có て",
+    "hint": null,
+    "tags": [
+      "て",
+      "chuỗi",
+      "reorder",
+      "trình_tự"
+    ]
+  },
+  {
+    "id": "L16_RO_33",
+    "lesson_id": 16,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "電車の中で大きい声で話してはいけません。",
+    "sentence_translation": "Không được nói to trên tàu điện.",
+    "question_text": "電車の中で大きい声で話してはいけません。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "話してはいけません",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "大きい声で",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "電車の中で",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "電車の中で (nơi chốn: trên tàu) → 大きい声で (phương tiện/cách thức: bằng giọng to) → 話してはいけません (không được nói). Thứ tự: ở đâu → bằng cách nào → cấm làm gì. Vてはいけません luôn ở cuối",
+    "hint": null,
+    "tags": [
+      "てはいけません",
+      "reorder",
+      "cấm_đoán"
+    ]
+  },
+  {
+    "id": "L16_QT_34",
+    "lesson_id": 16,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ドアを閉めてください。",
+    "sentence_translation": "Xin hãy đóng cửa.",
+    "question_text": "ドアを / 閉めてください。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đóng cửa có được không?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin hãy đóng cửa.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Không được đóng cửa.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cửa đang đóng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てください = yêu cầu lịch sự \"xin hãy ~\". 閉めてください = \"xin hãy đóng\". KHÔNG phải trạng thái, cấm đoán, hay xin phép",
+    "hint": null,
+    "tags": [
+      "てください",
+      "dịch",
+      "yêu_cầu"
+    ]
+  },
+  {
+    "id": "L16_QT_35",
+    "lesson_id": 16,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "窓が開いています。",
+    "sentence_translation": "Cửa sổ đang mở.",
+    "question_text": "窓が / 開いています。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Cửa sổ đang mở. (trạng thái)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Xin hãy mở cửa sổ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cửa sổ đã đóng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đang mở cửa sổ. (hành動)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が + Vています = TRẠNG THÁI. 窓が開いています = \"cửa sổ đang (ở trạng thái) mở\". KHÁC 窓を開けています = \"đang (hành động) mở cửa sổ\". が = trạng thái, を = hành動",
+    "hint": null,
+    "tags": [
+      "ている",
+      "trạng_thái",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L16_QT_36",
+    "lesson_id": 16,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "薬を飲んでから寝てください。",
+    "sentence_translation": "Uống thuốc xong rồi hãy đi ngủ.",
+    "question_text": "薬を飲んでから / 寝てください。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Uống thuốc rồi đang ngủ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vừa uống thuốc vừa ngủ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không được uống thuốc rồi ngủ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Uống thuốc xong rồi hãy đi ngủ.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "てから + てください = \"sau khi A, xin hãy B\". 飲んでから寝てください = \"uống xong → hãy ngủ\". Kết hợp 2 mẫu て: てから (trình tự) + てください (yêu cầu)",
+    "hint": null,
+    "tags": [
+      "てから",
+      "てください",
+      "dịch",
+      "kết_hợp"
+    ]
+  },
+  {
+    "id": "L16_QT_37",
+    "lesson_id": 16,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "鍵をなくしてしまいました。",
+    "sentence_translation": "Đã làm mất chìa khóa rồi.",
+    "question_text": "鍵を / なくしてしまいました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Chìa khóa đang mở.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã tìm thấy chìa khóa.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã làm mất chìa khóa rồi. (tiếc nuối)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đang tìm chìa khóa.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てしまいました = \"đã lỡ ~ mất rồi\" (tiếc nuối). なくしてしまった = \"lỡ làm mất\". しまう thêm sắc thái: hành動 xảy ra NGOÀI Ý MUỐN",
+    "hint": null,
+    "tags": [
+      "てしまう",
+      "dịch",
+      "tiếc_nuối"
+    ]
+  },
+  {
+    "id": "L16_QT_38",
+    "lesson_id": 16,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "部長に早く報告してほしいです。",
+    "sentence_translation": "Muốn trưởng phòng báo cáo sớm.",
+    "question_text": "部長に / 早く / 報告してほしいです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi muốn báo cáo sớm cho trưởng phòng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trưởng phòng muốn báo cáo sớm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trưởng phòng yêu cầu báo cáo sớm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Muốn trưởng phòng báo cáo sớm.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "[人]に + Vてほしい = \"muốn [người đó] làm ~\". 部長に報告してほしい = \"muốn trưởng phòng báo cáo\". に đánh dấu người được MONG MUỐN thực hiện. KHÁC Vたい (tự mình muốn làm)",
+    "hint": null,
+    "tags": [
+      "てほしい",
+      "dịch",
+      "muốn_người_khác"
+    ]
+  },
+  {
+    "id": "L16_QT_39",
+    "lesson_id": 16,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先輩が駅まで送ってくれました。",
+    "sentence_translation": "Tiền bối đã đưa tôi đến ga.",
+    "question_text": "先輩が / 駅まで / 送ってくれました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi đã đưa tiền bối đến ga.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tiền bối đã đưa tôi đến ga. (biết ơn)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tiền bối đã đi đến ga.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi nhờ tiền bối đưa đến ga.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が + Vてくれた = người kia CHỦ ĐỘNG làm cho tôi (biết ơn). 先輩が送ってくれた = \"tiền bối đã (tự nguyện) đưa tôi\". KHÁC てもらった (tôi nhờ). くれる mang sắc thái biết ơn",
+    "hint": null,
+    "tags": [
+      "てくれる",
+      "dịch",
+      "cho_nhận"
+    ]
+  }
+]

@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "L21_FP_01",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語が話せます。",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "日本語（　）話せます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Thể khả năng: を → が. 日本語が話せます = \"có thể nói tiếng Nhật\". Đây là đặc trưng của thể khả năng: đối tượng dùng が thay vì を",
+    "hint": "Thể khả năng → đối tượng dùng が",
+    "tags": [
+      "が",
+      "を→が",
+      "khả_năng"
+    ]
+  },
+  {
+    "id": "L21_FP_02",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この漢字が読めます。",
+    "sentence_translation": "Có thể đọc chữ kanji này.",
+    "question_text": "この漢字（　）読めます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Thể khả năng: を → が. 読む (đọc) → 読める (có thể đọc). Đối tượng dùng が KHÔNG PHẢI を",
+    "hint": "Thể khả năng 読めます → đối tượng dùng trợ từ nào?",
+    "tags": [
+      "が",
+      "を→が",
+      "khả_năng"
+    ]
+  },
+  {
+    "id": "L21_FP_03",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ここから富士山が見えます。",
+    "sentence_translation": "Từ đây nhìn thấy núi Phú Sĩ.",
+    "question_text": "ここから富士山（　）見えます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "見えます = nhìn thấy TỰ NHIÊN (không chủ đích). 富士山が見えます = \"núi Phú Sĩ nhìn thấy được\". が = chủ ngữ của hiện tượng tự nhiên",
+    "hint": "見えます = tự nhiên nhìn thấy → đối tượng dùng gì?",
+    "tags": [
+      "が",
+      "見える",
+      "tự_nhiên"
+    ]
+  },
+  {
+    "id": "L21_FP_04",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "隣の部屋から音楽が聞こえます。",
+    "sentence_translation": "Từ phòng bên cạnh nghe thấy nhạc.",
+    "question_text": "隣の部屋から音楽（　）聞こえます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "聞こえます = nghe thấy TỰ NHIÊN. 音楽が聞こえます = \"nghe thấy nhạc\" (âm thanh tự lọt vào tai). KHÁC 聞けます (có thể nghe - chủ đích)",
+    "hint": "聞こえます = tự nhiên nghe thấy → đối tượng dùng gì?",
+    "tags": [
+      "が",
+      "聞こえる",
+      "tự_nhiên"
+    ]
+  },
+  {
+    "id": "L21_FP_05",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語を話すことができます。",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "日本語を話すこと（　）できます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vことができる: こと biến động từ thành danh từ → が + できる. Chú ý: ở đây を giữ nguyên vì ĐỐI TƯỢNG của 話す là 日本語",
+    "hint": "Vことができる → こと là danh từ hóa → こと + gì + できる?",
+    "tags": [
+      "が",
+      "ことができる"
+    ]
+  },
+  {
+    "id": "L21_FP_06",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "やっと日本語が話せるようになりました。",
+    "sentence_translation": "Cuối cùng đã có thể nói được tiếng Nhật.",
+    "question_text": "やっと日本語（　）話せるようになりました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Thể khả năng + ようになる = \"đã trở nên có thể ~\". が vẫn dùng vì 話せる là thể khả năng",
+    "hint": "Thể khả năng (話せる) + ようになる → đối tượng vẫn dùng gì?",
+    "tags": [
+      "が",
+      "ようになる",
+      "khả_năng"
+    ]
+  },
+  {
+    "id": "L21_FP_07",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "テレビで試合が見られます。",
+    "sentence_translation": "Có thể xem trận đấu trên tivi.",
+    "question_text": "テレビで試合（　）見られます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "見られます = có thể xem (CHỦ ĐÍCH, khác 見えます tự nhiên). Thể khả năng nên đối tượng dùng が",
+    "hint": "見られます = có thể xem (chủ đích) → đối tượng dùng gì?",
+    "tags": [
+      "が",
+      "見られる",
+      "khả_năng"
+    ]
+  },
+  {
+    "id": "L21_FP_08",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "このレストランでは予約なしで食べられます。",
+    "sentence_translation": "Ở nhà hàng này có thể ăn mà không cần đặt chỗ.",
+    "question_text": "このレストランでは予約なし（　）食べられます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で = cách thức/phương tiện. 予約なしで = \"bằng cách không đặt chỗ\". Đây không phải thể khả năng nên không đổi を→が",
+    "hint": "\"Không cần đặt chỗ\" = phương tiện/cách thức → で",
+    "tags": [
+      "で",
+      "cách_thức"
+    ]
+  },
+  {
+    "id": "L21_FP_09",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "毎日練習したら、泳げるようになりました。",
+    "sentence_translation": "Nếu luyện tập mỗi ngày thì đã có thể bơi được.",
+    "question_text": "毎日練習したら、泳げるように（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "できます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "します",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "なりました",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "なります",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vれるようになる = trở nên có thể làm ~. Ở đây quá khứ (たら + なりました) = \"đã trở nên có thể bơi\"",
+    "hint": "Trở nên có thể ~ (quá khứ) → ようになりました",
+    "tags": [
+      "ようになる",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L21_FP_10",
+    "lesson_id": 21,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼女は英語もフランス語も話せます。",
+    "sentence_translation": "Cô ấy có thể nói cả tiếng Anh lẫn tiếng Pháp.",
+    "question_text": "彼女は英語（　）フランス語（　）話せます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を...を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と...と",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が...が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "も...も",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "も...も = cả...lẫn. Trong thể khả năng, khi liệt kê nhiều đối tượng dùng も thay vì が",
+    "hint": "Cả A lẫn B → も...も",
+    "tags": [
+      "も",
+      "khả_năng",
+      "liệt_kê"
+    ]
+  },
+  {
+    "id": "L21_PR_11",
+    "lesson_id": 21,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語が話せます。",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "日本語が話せ... → Gặp thể khả năng (-える/-られる), dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có khả năng/năng lực (có thể ~)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có bị động (bị ~)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có ý chí",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có mệnh lệnh",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Thể khả năng (-える/-られる) → dự đoán: \"có thể làm ~\". Nhận biết: đối tượng dùng が (không phải を)",
+    "hint": null,
+    "tags": [
+      "khả_năng",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L21_PR_12",
+    "lesson_id": 21,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ここから富士山が見えます。",
+    "sentence_translation": "Từ đây nhìn thấy núi Phú Sĩ.",
+    "question_text": "富士山が見え... → Gặp 見える, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Có thể nhìn (chủ đích)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đang nhìn",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nhìn thấy TỰ NHIÊN (không chủ đích)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Bị nhìn",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "見えます = nhìn thấy TỰ NHIÊN. Khác 見られます = có thể nhìn (chủ đích)",
+    "hint": null,
+    "tags": [
+      "見える",
+      "dự_đoán",
+      "tự_nhiên"
+    ]
+  },
+  {
+    "id": "L21_PR_13",
+    "lesson_id": 21,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "隣の部屋から音楽が聞こえます。",
+    "sentence_translation": "Từ phòng bên cạnh nghe thấy nhạc.",
+    "question_text": "音楽が聞こえ... → Gặp 聞こえる, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Đang nghe",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Có thể nghe (chủ đích)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nghe thấy TỰ NHIÊN (âm thanh tự đến tai)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Bị nghe",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "聞こえます = nghe thấy TỰ NHIÊN. Khác 聞けます = có thể nghe (chủ đích, ví dụ: mua vé nghe nhạc)",
+    "hint": null,
+    "tags": [
+      "聞こえる",
+      "dự_đoán",
+      "tự_nhiên"
+    ]
+  },
+  {
+    "id": "L21_PR_14",
+    "lesson_id": 21,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "やっと日本語が話せるようになりました。",
+    "sentence_translation": "Cuối cùng đã có thể nói được tiếng Nhật.",
+    "question_text": "話せるようになりました → Gặp ようになる, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Quyết định làm ~",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã trở nên có thể ~ (thay đổi khả năng)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đang cố gắng làm ~",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bị buộc làm ~",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vれるようになる = THAY ĐỔI trạng thái khả năng: trước không thể → giờ có thể. \"Đã trở nên có thể nói\"",
+    "hint": null,
+    "tags": [
+      "ようになる",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L21_PR_15",
+    "lesson_id": 21,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語を話すことができます。",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "話すことができ... → Gặp ことができる, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Có thể làm ~ (trang trọng)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Quyết định làm ~",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Từng làm ~",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đang làm ~",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Vことができる = có thể làm ~ (trang trọng hơn thể khả năng). Giữ を nguyên trước動詞",
+    "hint": null,
+    "tags": [
+      "ことができる",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L21_PR_16",
+    "lesson_id": 21,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "食べれる？",
+    "sentence_translation": "Ăn được không?",
+    "question_text": "食べれる → Gặp ら抜き, nhận diện?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Đây là thể て",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là thể từ điển",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là thể khả năng rút gọn (食べられる→食べれる)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đây là thể bị động",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ら抜き: 食べれる = 食べられる (bỏ ら). Rất phổ biến trong văn nói hiện đại. Nhóm II bỏ ら",
+    "hint": null,
+    "tags": [
+      "ら抜き",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L21_CH_17",
+    "lesson_id": 21,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "日本語が話せます",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "日本語が話せます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本語が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "話せます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "2 khối: 日本語が (đối tượng khả năng) | 話せます (có thể nói). Thể khả năng: が đánh dấu đối tượng",
+    "hint": null,
+    "tags": [
+      "khả_năng",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L21_CH_18",
+    "lesson_id": 21,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "ここから富士山が見えます",
+    "sentence_translation": "Từ đây nhìn thấy núi Phú Sĩ.",
+    "question_text": "ここから富士山が見えます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "ここから",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "富士山が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "見えます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "3 khối: ここから (từ đây) | 富士山が (núi Phú Sĩ) | 見えます (nhìn thấy tự nhiên)",
+    "hint": null,
+    "tags": [
+      "見える",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L21_CH_19",
+    "lesson_id": 21,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "やっと日本語が話せるようになりました",
+    "sentence_translation": "Cuối cùng đã có thể nói được tiếng Nhật.",
+    "question_text": "やっと日本語が話せるようになりました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "やっと",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日本語が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "話せるようになりました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "3 khối: やっと (cuối cùng) | 日本語が (tiếng Nhật) | 話せるようになりました (đã trở nên có thể nói)",
+    "hint": null,
+    "tags": [
+      "ようになる",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L21_CH_20",
+    "lesson_id": 21,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本語を話すことができます",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "日本語を話すことができます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本語を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "話すことが",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "できます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "3 khối: 日本語を (tiếng Nhật-đối tượng) | 話すことが (việc nói-danh từ hóa) | できます (có thể). Chú ý: を giữ nguyên",
+    "hint": null,
+    "tags": [
+      "ことができる",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L21_CH_21",
+    "lesson_id": 21,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "テレビで試合が見られます",
+    "sentence_translation": "Có thể xem trận đấu trên tivi.",
+    "question_text": "テレビで試合が見られます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "テレビで",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "試合が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "見られます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "3 khối: テレビで (trên tivi-phương tiện) | 試合が (trận đấu-đối tượng khả năng) | 見られます (có thể xem)",
+    "hint": null,
+    "tags": [
+      "見られる",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L21_CH_22",
+    "lesson_id": 21,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "毎日練習したら泳げるようになりました",
+    "sentence_translation": "Luyện tập mỗi ngày thì đã bơi được.",
+    "question_text": "毎日練習したら泳げるようになりました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "毎日",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "練習したら",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "泳げるようになりました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "3 khối: 毎日 (mỗi ngày) | 練習したら (nếu luyện tập) | 泳げるようになりました (đã trở nên bơi được)",
+    "hint": null,
+    "tags": [
+      "ようになる",
+      "たら",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L21_PD_23",
+    "lesson_id": 21,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "見えます / 見られます",
+    "sentence_translation": "Nhìn thấy (tự nhiên) / Có thể xem (chủ đích)",
+    "question_text": "Câu nào dùng khi \"TỰ NHIÊN nhìn thấy\" (không chủ đích)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "見えます (tự nhiên nhìn thấy, không cố ý)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "見られます (có thể xem, có chủ đích)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "見える = tự nhiên nhìn thấy (núi hiện ra trước mắt). 見られる = CÓ THỂ xem (mua vé xem phim). Khác nhau ở CHỦ ĐÍCH",
+    "hint": null,
+    "tags": [
+      "見える",
+      "見られる",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L21_PD_24",
+    "lesson_id": 21,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "聞こえます / 聞けます",
+    "sentence_translation": "Nghe thấy (tự nhiên) / Có thể nghe (chủ đích)",
+    "question_text": "Câu nào dùng khi \"âm thanh TỰ LỌT vào tai\"?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "聞けます (có thể nghe, chủ đích nghe)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "聞こえます (tự nhiên nghe thấy, âm thanh tự đến)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "聞こえる = âm thanh tự lọt vào tai. 聞ける = CÓ THỂ nghe (có điều kiện: radio hoạt động, có vé...)",
+    "hint": null,
+    "tags": [
+      "聞こえる",
+      "聞ける",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L21_PD_25",
+    "lesson_id": 21,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語が話せます / 日本語を話すことができます",
+    "sentence_translation": "Có thể nói tiếng Nhật. / Có thể nói tiếng Nhật.",
+    "question_text": "Câu nào TRANG TRỌNG hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "日本語が話せます (thể khả năng, tự nhiên)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "日本語を話すことができます (ことができる, trang trọng)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Thể khả năng (話せます) = tự nhiên, hội thoại. ことができます = trang trọng, văn viết. Chú ý: ことができる giữ を",
+    "hint": null,
+    "tags": [
+      "khả_năng",
+      "ことができる",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L21_PD_26",
+    "lesson_id": 21,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "食べられる / 食べれる",
+    "sentence_translation": "Có thể ăn / Ăn được (rút gọn)",
+    "question_text": "Câu nào là dạng ら抜き (rút gọn, văn nói)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "食べれる (ら抜き, rút gọn, văn nói)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "食べられる (đầy đủ, chuẩn)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ら抜き: nhóm II bỏ ら → 食べられる→食べれる. Rất phổ biến trong văn nói. Sách giáo khoa dùng dạng đầy đủ",
+    "hint": null,
+    "tags": [
+      "ら抜き",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L21_PK_27",
+    "lesson_id": 21,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ここから富士山が見えます。",
+    "sentence_translation": "Từ đây nhìn thấy núi Phú Sĩ.",
+    "question_text": "🔒 ここから → đóng gói, rồi 富士山が見えます → nhận diện?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"từ đây\" → sắp có bị động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"từ đây\" → から = điểm xuất phát → 富士山が見える = nhìn thấy tự nhiên",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"từ đây\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"từ đây\" → sắp có mệnh lệnh",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: ここから → 🔒 \"từ đây\". 見える = tự nhiên nhìn thấy. が = đối tượng tự nhiên xuất hiện",
+    "hint": null,
+    "tags": [
+      "見える",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L21_PK_28",
+    "lesson_id": 21,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "やっと日本語が話せるようになりました。",
+    "sentence_translation": "Cuối cùng đã có thể nói được tiếng Nhật.",
+    "question_text": "🔒 やっと → đóng gói, rồi 話せるようになりました → nhận diện?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"cuối cùng\" → sắp có phủ định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cuối cùng\" → やっと báo hiệu thay đổi tích cực → ようになる = trở nên có thể",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cuối cùng\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"cuối cùng\" → sắp có bị động",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "やっと = cuối cùng (sau nỗ lực lâu). Kết hợp ようになる = \"cuối cùng đã trở nên có thể ~\"",
+    "hint": null,
+    "tags": [
+      "ようになる",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L21_PK_29",
+    "lesson_id": 21,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "テレビで試合が見られます。",
+    "sentence_translation": "Có thể xem trận đấu trên tivi.",
+    "question_text": "🔒 テレビで → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"trên tivi\" → sắp có bị động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"trên tivi\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"trên tivi\" → で = phương tiện → sắp có khả năng xem gì đó",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"trên tivi\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: テレビで → 🔒 \"trên tivi\" (phương tiện). 試合が見られます = có thể xem trận đấu (chủ đích)",
+    "hint": null,
+    "tags": [
+      "見られる",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L21_RO_30",
+    "lesson_id": 21,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "日本語が話せます。",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "日本語が話せます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "話せます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本語が",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự: đối tượng (が) → khả năng. Thể khả năng: đối tượng + が đứng trước động từ khả năng",
+    "hint": null,
+    "tags": [
+      "khả_năng",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L21_RO_31",
+    "lesson_id": 21,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "ここから富士山が見えます。",
+    "sentence_translation": "Từ đây nhìn thấy núi Phú Sĩ.",
+    "question_text": "ここから富士山が見えます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "見えます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "富士山が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "ここから",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự: điểm xuất phát (から) → đối tượng (が) → động từ tự nhiên. Động từ luôn cuối",
+    "hint": null,
+    "tags": [
+      "見える",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L21_RO_32",
+    "lesson_id": 21,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "やっと日本語が話せるようになりました。",
+    "sentence_translation": "Cuối cùng đã có thể nói được tiếng Nhật.",
+    "question_text": "やっと日本語が話せるようになりました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "話せるようになりました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "日本語が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "やっと",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự: trạng từ (やっと) → đối tượng (が) → khả năng+thay đổi. ようになる gắn liền với thể khả năng",
+    "hint": null,
+    "tags": [
+      "ようになる",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L21_RO_33",
+    "lesson_id": 21,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本語を話すことができます。",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "日本語を話すことができます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "できます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "話すことが",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本語を",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự: đối tượng (を) → danh từ hóa (ことが) → できます. Chú ý: を giữ nguyên trong ことができる",
+    "hint": null,
+    "tags": [
+      "ことができる",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L21_QT_34",
+    "lesson_id": 21,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語が話せます。",
+    "sentence_translation": "Có thể nói tiếng Nhật.",
+    "question_text": "日本語が / 話せます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đang nói tiếng Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nói tiếng Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bị nói tiếng Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Có thể nói tiếng Nhật.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Thể khả năng: 話す → 話せる = có thể nói. が đánh dấu đối tượng khả năng",
+    "hint": null,
+    "tags": [
+      "khả_năng",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L21_QT_35",
+    "lesson_id": 21,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "ここから富士山が見えます。",
+    "sentence_translation": "Từ đây nhìn thấy núi Phú Sĩ.",
+    "question_text": "ここから / 富士山が / 見えます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Núi Phú Sĩ ở đây.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Từ đây nhìn thấy núi Phú Sĩ.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Từ đây xem núi Phú Sĩ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Từ đây đi đến núi Phú Sĩ.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "見える = tự nhiên nhìn thấy. から = từ (điểm nhìn). Núi tự hiện ra, không cố ý nhìn",
+    "hint": null,
+    "tags": [
+      "見える",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L21_QT_36",
+    "lesson_id": 21,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "やっと日本語が話せるようになりました。",
+    "sentence_translation": "Cuối cùng đã có thể nói được tiếng Nhật.",
+    "question_text": "やっと / 日本語が / 話せるようになりました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Cuối cùng đã có thể nói được tiếng Nhật.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Cuối cùng bị nói tiếng Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuối cùng đang nói tiếng Nhật.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuối cùng đã nói tiếng Nhật.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "やっと = cuối cùng. ようになる = trở nên có thể. Cả câu: sau nỗ lực lâu dài, đã đạt được khả năng",
+    "hint": null,
+    "tags": [
+      "ようになる",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L21_QT_37",
+    "lesson_id": 21,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "隣の部屋から音楽が聞こえます。",
+    "sentence_translation": "Từ phòng bên cạnh nghe thấy nhạc.",
+    "question_text": "隣の部屋から / 音楽が / 聞こえます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nghe nhạc ở phòng bên cạnh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi đến phòng bên cạnh nghe nhạc.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Phòng bên cạnh có nhạc.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Từ phòng bên cạnh nghe thấy nhạc.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "聞こえる = tự nhiên nghe thấy. Nhạc tự lọt từ phòng bên sang (không chủ đích)",
+    "hint": null,
+    "tags": [
+      "聞こえる",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L21_QT_38",
+    "lesson_id": 21,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "食べれる？",
+    "sentence_translation": "Ăn được không?",
+    "question_text": "食べれる？ → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đang ăn?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bị ăn?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ăn được không? (ら抜き = 食べられる)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Ăn đi!",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ら抜き: 食べれる = 食べられる (bỏ ら). Rất phổ biến trong văn nói. Nghĩa = \"có thể ăn\"",
+    "hint": null,
+    "tags": [
+      "ら抜き",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L21_QT_39",
+    "lesson_id": 21,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼女は英語もフランス語も話せます。",
+    "sentence_translation": "Cô ấy có thể nói cả tiếng Anh lẫn tiếng Pháp.",
+    "question_text": "彼女は / 英語も / フランス語も / 話せます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Cô ấy thích tiếng Anh và tiếng Pháp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cô ấy nói tiếng Anh và tiếng Pháp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cô ấy học tiếng Anh và tiếng Pháp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cô ấy có thể nói cả tiếng Anh lẫn tiếng Pháp.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "も...も = cả...lẫn. 話せます = có thể nói (thể khả năng). Khi liệt kê nhiều đối tượng khả năng dùng も",
+    "hint": null,
+    "tags": [
+      "も",
+      "khả_năng",
+      "dịch"
+    ]
+  }
+]

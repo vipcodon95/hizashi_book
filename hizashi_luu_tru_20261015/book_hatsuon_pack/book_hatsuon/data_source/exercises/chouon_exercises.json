@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Bài tập nghe phân biệt trường âm (長音) tiếng Nhật",
+    "focus": "Minimal pairs - ngắn vs dài",
+    "total_levels": 4,
+    "exercise_types": ["same_or_different", "choose_one", "odd_one_out", "count_mora"]
+  },
+  "levels": {
+    "L1": {
+      "name": "Trường âm cơ bản",
+      "name_jp": "基本長音",
+      "description": "Phân biệt trường âm aa, ii, uu - dạng dễ nhận biết nhất",
+      "difficulty": 1,
+      "focus": ["aa", "ii", "uu"],
+      "exercises": {
+        "same_or_different": {
+          "instruction": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "おばさん", "audio_2": "おばさん", "answer": "same", "meaning": ["cô", "cô"] },
+            { "audio_1": "おばさん", "audio_2": "おばあさん", "answer": "different", "meaning": ["cô", "bà"], "note": "a vs aa" },
+            { "audio_1": "おばあさん", "audio_2": "おばあさん", "answer": "same", "meaning": ["bà", "bà"] },
+            { "audio_1": "おじさん", "audio_2": "おじさん", "answer": "same", "meaning": ["chú", "chú"] },
+            { "audio_1": "おじさん", "audio_2": "おじいさん", "answer": "different", "meaning": ["chú", "ông"], "note": "i vs ii" },
+            { "audio_1": "おじいさん", "audio_2": "おじいさん", "answer": "same", "meaning": ["ông", "ông"] },
+            { "audio_1": "ゆき", "audio_2": "ゆき", "answer": "same", "meaning": ["tuyết", "tuyết"] },
+            { "audio_1": "ゆき", "audio_2": "ゆうき", "answer": "different", "meaning": ["tuyết", "dũng cảm"], "note": "u vs uu" },
+            { "audio_1": "ゆうき", "audio_2": "ゆうき", "answer": "same", "meaning": ["dũng cảm", "dũng cảm"] },
+            { "audio_1": "くき", "audio_2": "くうき", "answer": "different", "meaning": ["thân cây", "không khí"], "note": "u vs uu" },
+            { "audio_1": "いえ", "audio_2": "いいえ", "answer": "different", "meaning": ["nhà", "không"], "note": "i vs ii" },
+            { "audio_1": "え", "audio_2": "ええ", "answer": "different", "meaning": ["tranh", "vâng"], "note": "e vs ee" }
+          ]
+        },
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "おばさん", "options": ["おばさん", "おばあさん"], "answer": "おばさん", "meaning": ["cô", "bà"], "romaji": ["obasan", "obaasan"], "mora": [4, 5] },
+            { "audio": "おばあさん", "options": ["おばさん", "おばあさん"], "answer": "おばあさん", "meaning": ["cô", "bà"], "romaji": ["obasan", "obaasan"], "mora": [4, 5] },
+            { "audio": "おじさん", "options": ["おじさん", "おじいさん"], "answer": "おじさん", "meaning": ["chú", "ông"], "romaji": ["ojisan", "ojiisan"], "mora": [4, 5] },
+            { "audio": "おじいさん", "options": ["おじさん", "おじいさん"], "answer": "おじいさん", "meaning": ["chú", "ông"], "romaji": ["ojisan", "ojiisan"], "mora": [4, 5] },
+            { "audio": "ゆき", "options": ["ゆき", "ゆうき"], "answer": "ゆき", "meaning": ["tuyết", "dũng cảm"], "romaji": ["yuki", "yuuki"], "mora": [2, 3] },
+            { "audio": "ゆうき", "options": ["ゆき", "ゆうき"], "answer": "ゆうき", "meaning": ["tuyết", "dũng cảm"], "romaji": ["yuki", "yuuki"], "mora": [2, 3] },
+            { "audio": "くき", "options": ["くき", "くうき"], "answer": "くき", "meaning": ["thân cây", "không khí"], "romaji": ["kuki", "kuuki"], "mora": [2, 3] },
+            { "audio": "くうき", "options": ["くき", "くうき"], "answer": "くうき", "meaning": ["thân cây", "không khí"], "romaji": ["kuki", "kuuki"], "mora": [2, 3] },
+            { "audio": "いえ", "options": ["いえ", "いいえ"], "answer": "いえ", "meaning": ["nhà", "không"], "romaji": ["ie", "iie"], "mora": [2, 3] },
+            { "audio": "いいえ", "options": ["いえ", "いいえ"], "answer": "いいえ", "meaning": ["nhà", "không"], "romaji": ["ie", "iie"], "mora": [2, 3] },
+            { "audio": "え", "options": ["え", "ええ"], "answer": "え", "meaning": ["tranh", "vâng"], "romaji": ["e", "ee"], "mora": [1, 2] },
+            { "audio": "ええ", "options": ["え", "ええ"], "answer": "ええ", "meaning": ["tranh", "vâng"], "romaji": ["e", "ee"], "mora": [1, 2] },
+            { "audio": "おかさん", "options": ["おかさん", "おかあさん"], "answer": "おかさん", "meaning": ["-", "mẹ"], "romaji": ["okasan", "okaasan"], "mora": [4, 5] },
+            { "audio": "おかあさん", "options": ["おかさん", "おかあさん"], "answer": "おかあさん", "meaning": ["-", "mẹ"], "romaji": ["okasan", "okaasan"], "mora": [4, 5] },
+            { "audio": "おにさん", "options": ["おにさん", "おにいさん"], "answer": "おにさん", "meaning": ["-", "anh trai"], "romaji": ["onisan", "oniisan"], "mora": [4, 5] },
+            { "audio": "おにいさん", "options": ["おにさん", "おにいさん"], "answer": "おにいさん", "meaning": ["-", "anh trai"], "romaji": ["onisan", "oniisan"], "mora": [4, 5] },
+            { "audio": "おねさん", "options": ["おねさん", "おねえさん"], "answer": "おねさん", "meaning": ["-", "chị gái"], "romaji": ["onesan", "oneesan"], "mora": [4, 5] },
+            { "audio": "おねえさん", "options": ["おねさん", "おねえさん"], "answer": "おねえさん", "meaning": ["-", "chị gái"], "romaji": ["onesan", "oneesan"], "mora": [4, 5] }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "audio": "おばさん", "answer": 4, "breakdown": "o-ba-sa-n" },
+            { "audio": "おばあさん", "answer": 5, "breakdown": "o-ba-a-sa-n" },
+            { "audio": "おじさん", "answer": 4, "breakdown": "o-ji-sa-n" },
+            { "audio": "おじいさん", "answer": 5, "breakdown": "o-ji-i-sa-n" },
+            { "audio": "ゆき", "answer": 2, "breakdown": "yu-ki" },
+            { "audio": "ゆうき", "answer": 3, "breakdown": "yu-u-ki" },
+            { "audio": "くき", "answer": 2, "breakdown": "ku-ki" },
+            { "audio": "くうき", "answer": 3, "breakdown": "ku-u-ki" },
+            { "audio": "いえ", "answer": 2, "breakdown": "i-e" },
+            { "audio": "いいえ", "answer": 3, "breakdown": "i-i-e" },
+            { "audio": "いい", "answer": 2, "breakdown": "i-i" },
+            { "audio": "かわいい", "answer": 4, "breakdown": "ka-wa-i-i" }
+          ]
+        },
+        "odd_one_out": {
+          "instruction": "Nghe 4 từ và chọn từ có số mora KHÁC với các từ còn lại",
+          "questions": [
+            { "audio": ["おばさん", "おばさん", "おばあさん", "おばさん"], "answer": 2, "answer_text": "おばあさん", "note": "5 mora vs 4 mora" },
+            { "audio": ["おじいさん", "おじさん", "おじいさん", "おじいさん"], "answer": 1, "answer_text": "おじさん", "note": "4 mora vs 5 mora" },
+            { "audio": ["ゆき", "ゆき", "ゆき", "ゆうき"], "answer": 3, "answer_text": "ゆうき", "note": "3 mora vs 2 mora" },
+            { "audio": ["くうき", "くき", "くうき", "くうき"], "answer": 1, "answer_text": "くき", "note": "2 mora vs 3 mora" }
+          ]
+        }
+      }
+    },
+    "L2": {
+      "name": "Trường âm ei và ou",
+      "name_jp": "えい・おう長音",
+      "description": "Phân biệt trường âm ei/ou - viết khác nhưng phát âm như ee/oo",
+      "difficulty": 2,
+      "focus": ["ei", "ou"],
+      "note": "ei phát âm như ee, ou phát âm như oo",
+      "exercises": {
+        "same_or_different": {
+          "instruction": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "せんせ", "audio_2": "せんせい", "answer": "different", "meaning": ["-", "giáo viên"], "note": "e vs ei" },
+            { "audio_1": "せんせい", "audio_2": "せんせい", "answer": "same", "meaning": ["giáo viên", "giáo viên"] },
+            { "audio_1": "えご", "audio_2": "えいご", "answer": "different", "meaning": ["-", "tiếng Anh"], "note": "e vs ei" },
+            { "audio_1": "がこう", "audio_2": "がっこう", "answer": "different", "meaning": ["-", "trường học"], "note": "Cũng có sokuon" },
+            { "audio_1": "こうえん", "audio_2": "こうえん", "answer": "same", "meaning": ["công viên", "công viên"] },
+            { "audio_1": "とうきょう", "audio_2": "とうきょう", "answer": "same", "meaning": ["Tokyo", "Tokyo"] },
+            { "audio": "ここ", "audio_2": "こうこう", "answer": "different", "meaning": ["ở đây", "trường cấp 3"], "note": "o vs ou" },
+            { "audio_1": "とる", "audio_2": "とおる", "answer": "different", "meaning": ["lấy", "đi qua"], "note": "o vs oo" },
+            { "audio_1": "けたい", "audio_2": "けいたい", "answer": "different", "meaning": ["-", "điện thoại"], "note": "e vs ei" },
+            { "audio_1": "めし", "audio_2": "めいし", "answer": "different", "meaning": ["cơm", "danh thiếp"], "note": "e vs ei" }
+          ]
+        },
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "せんせい", "options": ["せんせ", "せんせい"], "answer": "せんせい", "meaning": ["-", "giáo viên"], "romaji": ["sense", "sensei"], "mora": [3, 4] },
+            { "audio": "えいご", "options": ["えご", "えいご"], "answer": "えいご", "meaning": ["-", "tiếng Anh"], "romaji": ["ego", "eigo"], "mora": [2, 3] },
+            { "audio": "けいたい", "options": ["けたい", "けいたい"], "answer": "けいたい", "meaning": ["-", "điện thoại"], "romaji": ["ketai", "keitai"], "mora": [3, 4] },
+            { "audio": "めいし", "options": ["めし", "めいし"], "answer": "めいし", "meaning": ["cơm", "danh thiếp"], "romaji": ["meshi", "meishi"], "mora": [2, 3] },
+            { "audio": "がっこう", "options": ["がこう", "がっこう"], "answer": "がっこう", "meaning": ["-", "trường học"], "romaji": ["gakou", "gakkou"], "mora": [3, 4] },
+            { "audio": "こうえん", "options": ["こえん", "こうえん"], "answer": "こうえん", "meaning": ["-", "công viên"], "romaji": ["koen", "kouen"], "mora": [3, 4] },
+            { "audio": "どうぞ", "options": ["どぞ", "どうぞ"], "answer": "どうぞ", "meaning": ["-", "xin mời"], "romaji": ["dozo", "douzo"], "mora": [2, 3] },
+            { "audio": "とうきょう", "options": ["ときょう", "とうきょう"], "answer": "とうきょう", "meaning": ["-", "Tokyo"], "romaji": ["tokyou", "toukyou"], "mora": [3, 4] },
+            { "audio": "おとうさん", "options": ["おとさん", "おとうさん"], "answer": "おとうさん", "meaning": ["-", "bố"], "romaji": ["otosan", "otousan"], "mora": [4, 5] },
+            { "audio": "こうこう", "options": ["ここう", "こうこう"], "answer": "こうこう", "meaning": ["-", "trường cấp 3"], "romaji": ["kokou", "koukou"], "mora": [3, 4] },
+            { "audio": "ここ", "options": ["ここ", "こうこう"], "answer": "ここ", "meaning": ["ở đây", "trường cấp 3"], "romaji": ["koko", "koukou"], "mora": [2, 4] },
+            { "audio": "とる", "options": ["とる", "とおる"], "answer": "とる", "meaning": ["lấy", "đi qua"], "romaji": ["toru", "tooru"], "mora": [2, 3] },
+            { "audio": "とおる", "options": ["とる", "とおる"], "answer": "とおる", "meaning": ["lấy", "đi qua"], "romaji": ["toru", "tooru"], "mora": [2, 3] }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "audio": "せんせい", "answer": 4, "breakdown": "se-n-se-i" },
+            { "audio": "えいご", "answer": 3, "breakdown": "e-i-go" },
+            { "audio": "けいたい", "answer": 4, "breakdown": "ke-i-ta-i" },
+            { "audio": "がっこう", "answer": 4, "breakdown": "ga-Q-ko-u" },
+            { "audio": "こうえん", "answer": 4, "breakdown": "ko-u-e-n" },
+            { "audio": "とうきょう", "answer": 4, "breakdown": "to-u-kyo-u" },
+            { "audio": "おとうさん", "answer": 5, "breakdown": "o-to-u-sa-n" },
+            { "audio": "こうこう", "answer": 4, "breakdown": "ko-u-ko-u" },
+            { "audio": "ゆうめい", "answer": 4, "breakdown": "yu-u-me-i" },
+            { "audio": "すうがく", "answer": 4, "breakdown": "su-u-ga-ku" }
+          ]
+        },
+        "odd_one_out": {
+          "instruction": "Nghe 4 từ và chọn từ KHÁC với các từ còn lại",
+          "questions": [
+            { "audio": ["せんせい", "せんせい", "せんせ", "せんせい"], "answer": 2, "answer_text": "せんせ", "note": "Thiếu trường âm" },
+            { "audio": ["がっこう", "がこう", "がっこう", "がっこう"], "answer": 1, "answer_text": "がこう", "note": "Thiếu sokuon" },
+            { "audio": ["どうぞ", "どうぞ", "どうぞ", "どぞ"], "answer": 3, "answer_text": "どぞ", "note": "Thiếu trường âm" }
+          ]
+        }
+      }
+    },
+    "L3": {
+      "name": "Trường âm ee và oo (hiếm)",
+      "name_jp": "ええ・おお長音",
+      "description": "Phân biệt trường âm ee/oo - dạng hiếm gặp hơn",
+      "difficulty": 3,
+      "focus": ["ee", "oo"],
+      "note": "Một số từ dùng ee thay vì ei, oo thay vì ou",
+      "exercises": {
+        "same_or_different": {
+          "instruction": "Nghe 2 từ và cho biết chúng GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "おおきい", "audio_2": "おおきい", "answer": "same", "meaning": ["to, lớn", "to, lớn"] },
+            { "audio_1": "おきい", "audio_2": "おおきい", "answer": "different", "meaning": ["-", "to, lớn"], "note": "o vs oo" },
+            { "audio_1": "とおい", "audio_2": "とおい", "answer": "same", "meaning": ["xa", "xa"] },
+            { "audio_1": "とい", "audio_2": "とおい", "answer": "different", "meaning": ["-", "xa"], "note": "o vs oo" },
+            { "audio_1": "こおり", "audio_2": "こおり", "answer": "same", "meaning": ["đá", "đá"] },
+            { "audio_1": "おおさか", "audio_2": "おおさか", "answer": "same", "meaning": ["Osaka", "Osaka"] },
+            { "audio_1": "おねえさん", "audio_2": "おねえさん", "answer": "same", "meaning": ["chị gái", "chị gái"] },
+            { "audio_1": "おねさん", "audio_2": "おねえさん", "answer": "different", "meaning": ["-", "chị gái"], "note": "e vs ee" }
+          ]
+        },
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "おおきい", "options": ["おきい", "おおきい"], "answer": "おおきい", "meaning": ["-", "to, lớn"], "romaji": ["okii", "ookii"], "mora": [3, 4] },
+            { "audio": "おおい", "options": ["おい", "おおい"], "answer": "おおい", "meaning": ["-", "nhiều"], "romaji": ["oi", "ooi"], "mora": [2, 3] },
+            { "audio": "とおい", "options": ["とい", "とおい"], "answer": "とおい", "meaning": ["-", "xa"], "romaji": ["toi", "tooi"], "mora": [2, 3] },
+            { "audio": "こおり", "options": ["こり", "こおり"], "answer": "こおり", "meaning": ["-", "đá"], "romaji": ["kori", "koori"], "mora": [2, 3] },
+            { "audio": "おおさか", "options": ["おさか", "おおさか"], "answer": "おおさか", "meaning": ["-", "Osaka"], "romaji": ["osaka", "oosaka"], "mora": [3, 4] },
+            { "audio": "とおり", "options": ["とり", "とおり"], "answer": "とおり", "meaning": ["chim", "đường"], "romaji": ["tori", "toori"], "mora": [2, 3] },
+            { "audio": "おねえさん", "options": ["おねさん", "おねえさん"], "answer": "おねえさん", "meaning": ["-", "chị gái"], "romaji": ["onesan", "oneesan"], "mora": [4, 5] },
+            { "audio": "ええ", "options": ["え", "ええ"], "answer": "ええ", "meaning": ["tranh", "vâng"], "romaji": ["e", "ee"], "mora": [1, 2] }
+          ]
+        },
+        "choose_ei_vs_ee": {
+          "instruction": "Nghe và chọn cách viết đúng (ei hay ee?)",
+          "note": "Bài này test cả listening và chính tả",
+          "questions": [
+            { "audio": "せんせい", "options": ["せんせい", "せんせえ"], "answer": "せんせい", "meaning": "giáo viên", "note": "Dùng ei" },
+            { "audio": "おねえさん", "options": ["おねいさん", "おねえさん"], "answer": "おねえさん", "meaning": "chị gái", "note": "Dùng ee" },
+            { "audio": "えいご", "options": ["えいご", "ええご"], "answer": "えいご", "meaning": "tiếng Anh", "note": "Dùng ei" },
+            { "audio": "ええ", "options": ["えい", "ええ"], "answer": "ええ", "meaning": "vâng", "note": "Dùng ee" }
+          ]
+        },
+        "choose_ou_vs_oo": {
+          "instruction": "Nghe và chọn cách viết đúng (ou hay oo?)",
+          "questions": [
+            { "audio": "がっこう", "options": ["がっこう", "がっこお"], "answer": "がっこう", "meaning": "trường học", "note": "Dùng ou" },
+            { "audio": "おおきい", "options": ["おうきい", "おおきい"], "answer": "おおきい", "meaning": "to, lớn", "note": "Dùng oo" },
+            { "audio": "とうきょう", "options": ["とうきょう", "とおきょお"], "answer": "とうきょう", "meaning": "Tokyo", "note": "Dùng ou" },
+            { "audio": "こおり", "options": ["こうり", "こおり"], "answer": "こおり", "meaning": "đá", "note": "Dùng oo" },
+            { "audio": "とおい", "options": ["とうい", "とおい"], "answer": "とおい", "meaning": "xa", "note": "Dùng oo" },
+            { "audio": "おおさか", "options": ["おうさか", "おおさか"], "answer": "おおさか", "meaning": "Osaka", "note": "Dùng oo" }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "audio": "おおきい", "answer": 4, "breakdown": "o-o-ki-i" },
+            { "audio": "おおい", "answer": 3, "breakdown": "o-o-i" },
+            { "audio": "とおい", "answer": 3, "breakdown": "to-o-i" },
+            { "audio": "こおり", "answer": 3, "breakdown": "ko-o-ri" },
+            { "audio": "おおさか", "answer": 4, "breakdown": "o-o-sa-ka" },
+            { "audio": "とおり", "answer": 3, "breakdown": "to-o-ri" }
+          ]
+        }
+      }
+    },
+    "L4": {
+      "name": "Trường âm + Âm ghép",
+      "name_jp": "長音 + 拗音",
+      "description": "Phân biệt trường âm kết hợp với âm ghép: きょ vs きょう, りょ vs りょう",
+      "difficulty": 3,
+      "focus": ["kyou", "ryou", "shou", "jou", "chou", "byou"],
+      "exercises": {
+        "same_or_different": {
+          "instruction": "Nghe 2 từ/âm và cho biết chúng GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "きょ", "audio_2": "きょう", "answer": "different", "note": "1 mora vs 2 mora" },
+            { "audio_1": "きょう", "audio_2": "きょう", "answer": "same", "meaning": ["hôm nay", "hôm nay"] },
+            { "audio_1": "りょ", "audio_2": "りょう", "answer": "different", "note": "1 mora vs 2 mora" },
+            { "audio_1": "りょうり", "audio_2": "りょうり", "answer": "same", "meaning": ["nấu ăn", "nấu ăn"] },
+            { "audio_1": "りょり", "audio_2": "りょうり", "answer": "different", "meaning": ["-", "nấu ăn"], "note": "Thiếu trường âm" },
+            { "audio_1": "しょ", "audio_2": "しょう", "answer": "different", "note": "1 mora vs 2 mora" },
+            { "audio_1": "しょうゆ", "audio_2": "しょうゆ", "answer": "same", "meaning": ["nước tương", "nước tương"] },
+            { "audio_1": "じゅ", "audio_2": "じゅう", "answer": "different", "note": "1 mora vs 2 mora" },
+            { "audio_1": "じゅう", "audio_2": "じゅう", "answer": "same", "meaning": ["mười", "mười"] },
+            { "audio_1": "びょ", "audio_2": "びょう", "answer": "different", "note": "1 mora vs 2 mora" },
+            { "audio_1": "びょういん", "audio_2": "びょういん", "answer": "same", "meaning": ["bệnh viện", "bệnh viện"] },
+            { "audio_1": "びょいん", "audio_2": "びょういん", "answer": "different", "meaning": ["-", "bệnh viện"], "note": "Thiếu trường âm" }
+          ]
+        },
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "きょう", "options": ["きょ", "きょう"], "answer": "きょう", "meaning": ["-", "hôm nay"], "romaji": ["kyo", "kyou"], "mora": [1, 2] },
+            { "audio": "きょ", "options": ["きょ", "きょう"], "answer": "きょ", "meaning": ["-", "hôm nay"], "romaji": ["kyo", "kyou"], "mora": [1, 2] },
+            { "audio": "りょうり", "options": ["りょり", "りょうり"], "answer": "りょうり", "meaning": ["-", "nấu ăn"], "romaji": ["ryori", "ryouri"], "mora": [2, 3] },
+            { "audio": "りょこう", "options": ["りょこ", "りょこう"], "answer": "りょこう", "meaning": ["-", "du lịch"], "romaji": ["ryoko", "ryokou"], "mora": [2, 3] },
+            { "audio": "しょうゆ", "options": ["しょゆ", "しょうゆ"], "answer": "しょうゆ", "meaning": ["-", "nước tương"], "romaji": ["shoyu", "shouyu"], "mora": [2, 3] },
+            { "audio": "しゅうまつ", "options": ["しゅまつ", "しゅうまつ"], "answer": "しゅうまつ", "meaning": ["-", "cuối tuần"], "romaji": ["shumatsu", "shuumatsu"], "mora": [3, 4] },
+            { "audio": "じゅう", "options": ["じゅ", "じゅう"], "answer": "じゅう", "meaning": ["-", "mười"], "romaji": ["ju", "juu"], "mora": [1, 2] },
+            { "audio": "じゅうしょ", "options": ["じゅしょ", "じゅうしょ"], "answer": "じゅうしょ", "meaning": ["-", "địa chỉ"], "romaji": ["jusho", "juusho"], "mora": [3, 4] },
+            { "audio": "びょういん", "options": ["びょいん", "びょういん"], "answer": "びょういん", "meaning": ["-", "bệnh viện"], "romaji": ["byoin", "byouin"], "mora": [3, 4] },
+            { "audio": "びょうき", "options": ["びょき", "びょうき"], "answer": "びょうき", "meaning": ["-", "bệnh"], "romaji": ["byoki", "byouki"], "mora": [2, 3] },
+            { "audio": "ちゅうごく", "options": ["ちゅごく", "ちゅうごく"], "answer": "ちゅうごく", "meaning": ["-", "Trung Quốc"], "romaji": ["chugoku", "chuugoku"], "mora": [3, 4] },
+            { "audio": "ぎゅうにく", "options": ["ぎゅにく", "ぎゅうにく"], "answer": "ぎゅうにく", "meaning": ["-", "thịt bò"], "romaji": ["gyuniku", "gyuuniku"], "mora": [3, 4] },
+            { "audio": "きゅう", "options": ["きゅ", "きゅう"], "answer": "きゅう", "meaning": ["-", "số 9"], "romaji": ["kyu", "kyuu"], "mora": [1, 2] },
+            { "audio": "きゅうり", "options": ["きゅり", "きゅうり"], "answer": "きゅうり", "meaning": ["-", "dưa chuột"], "romaji": ["kyuri", "kyuuri"], "mora": [2, 3] },
+            { "audio": "にゅうがく", "options": ["にゅがく", "にゅうがく"], "answer": "にゅうがく", "meaning": ["-", "nhập học"], "romaji": ["nyugaku", "nyuugaku"], "mora": [3, 4] },
+            { "audio": "りゅう", "options": ["りゅ", "りゅう"], "answer": "りゅう", "meaning": ["-", "rồng"], "romaji": ["ryu", "ryuu"], "mora": [1, 2] },
+            { "audio": "りゅうがく", "options": ["りゅがく", "りゅうがく"], "answer": "りゅうがく", "meaning": ["-", "du học"], "romaji": ["ryugaku", "ryuugaku"], "mora": [3, 4] }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "audio": "きょ", "answer": 1, "breakdown": "kyo" },
+            { "audio": "きょう", "answer": 2, "breakdown": "kyo-u" },
+            { "audio": "りょうり", "answer": 3, "breakdown": "ryo-u-ri" },
+            { "audio": "りょこう", "answer": 3, "breakdown": "ryo-ko-u" },
+            { "audio": "しょうゆ", "answer": 3, "breakdown": "sho-u-yu" },
+            { "audio": "しゅうまつ", "answer": 4, "breakdown": "shu-u-ma-tsu" },
+            { "audio": "じゅうしょ", "answer": 4, "breakdown": "ju-u-sho" },
+            { "audio": "びょういん", "answer": 4, "breakdown": "byo-u-i-n" },
+            { "audio": "ちゅうごく", "answer": 4, "breakdown": "chu-u-go-ku" },
+            { "audio": "ぎゅうにく", "answer": 4, "breakdown": "gyu-u-ni-ku" },
+            { "audio": "ぎゅうにゅう", "answer": 5, "breakdown": "gyu-u-nyu-u" },
+            { "audio": "とうきょう", "answer": 4, "breakdown": "to-u-kyo-u" },
+            { "audio": "きょうと", "answer": 3, "breakdown": "kyo-u-to" }
+          ]
+        },
+        "odd_one_out": {
+          "instruction": "Nghe 4 từ và chọn từ có độ dài KHÁC với các từ còn lại",
+          "questions": [
+            { "audio": ["きょう", "きょう", "きょ", "きょう"], "answer": 2, "answer_text": "きょ", "note": "1 mora vs 2 mora" },
+            { "audio": ["りょうり", "りょり", "りょうり", "りょうり"], "answer": 1, "answer_text": "りょり", "note": "2 mora vs 3 mora" },
+            { "audio": ["じゅう", "じゅう", "じゅう", "じゅ"], "answer": 3, "answer_text": "じゅ", "note": "1 mora vs 2 mora" },
+            { "audio": ["びょういん", "びょういん", "びょいん", "びょういん"], "answer": 2, "answer_text": "びょいん", "note": "3 mora vs 4 mora" }
+          ]
+        }
+      }
+    }
+  },
+  "review_exercises": {
+    "description": "Bài tập tổng hợp ôn tập tất cả các level trường âm",
+    "mixed_choose_one": {
+      "instruction": "Nghe và chọn từ đúng (trộn tất cả các dạng trường âm)",
+      "questions": [
+        { "audio": "おばあさん", "options": ["おばさん", "おばあさん"], "answer": "おばあさん", "level": "L1" },
+        { "audio": "せんせい", "options": ["せんせ", "せんせい"], "answer": "せんせい", "level": "L2" },
+        { "audio": "おおきい", "options": ["おきい", "おおきい"], "answer": "おおきい", "level": "L3" },
+        { "audio": "きょう", "options": ["きょ", "きょう"], "answer": "きょう", "level": "L4" },
+        { "audio": "ゆうき", "options": ["ゆき", "ゆうき"], "answer": "ゆうき", "level": "L1" },
+        { "audio": "がっこう", "options": ["がこう", "がっこう"], "answer": "がっこう", "level": "L2" },
+        { "audio": "とおい", "options": ["とい", "とおい"], "answer": "とおい", "level": "L3" },
+        { "audio": "りょうり", "options": ["りょり", "りょうり"], "answer": "りょうり", "level": "L4" }
+      ]
+    },
+    "mixed_count_mora": {
+      "instruction": "Nghe và đếm số mora",
+      "questions": [
+        { "audio": "おばあさん", "answer": 5, "breakdown": "o-ba-a-sa-n", "level": "L1" },
+        { "audio": "せんせい", "answer": 4, "breakdown": "se-n-se-i", "level": "L2" },
+        { "audio": "おおきい", "answer": 4, "breakdown": "o-o-ki-i", "level": "L3" },
+        { "audio": "りょうり", "answer": 3, "breakdown": "ryo-u-ri", "level": "L4" },
+        { "audio": "とうきょう", "answer": 4, "breakdown": "to-u-kyo-u", "level": "L4" },
+        { "audio": "びょういん", "answer": 4, "breakdown": "byo-u-i-n", "level": "L4" }
+      ]
+    }
+  }
+}

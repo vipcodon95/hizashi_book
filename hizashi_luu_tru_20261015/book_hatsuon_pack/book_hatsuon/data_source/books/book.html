@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HIZASHI 発音 - Ánh sáng từ giai điệu</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --page-bg: #f5f1eb;
+            --paper: #fffef9;
+            --text: #2d2a26;
+            --text-light: #5c5752;
+            --accent: #8b0000;
+            --accent-light: #c41e3a;
+            --border: #e0dcd4;
+            --highlight: #fff3cd;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Merriweather', 'Georgia', serif;
+            background: var(--page-bg);
+            color: var(--text);
+            line-height: 1.9;
+            font-size: 17px;
+        }
+
+        /* Progress bar */
+        .progress-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 4px;
+            background: var(--accent);
+            width: 0%;
+            z-index: 1000;
+            transition: width 0.1s;
+        }
+
+        /* Book container */
+        .book {
+            max-width: 800px;
+            margin: 0 auto;
+            background: var(--paper);
+            box-shadow:
+                0 0 60px rgba(0,0,0,0.1),
+                0 0 20px rgba(0,0,0,0.05);
+            min-height: 100vh;
+        }
+
+        /* Cover */
+        .cover {
+            background: linear-gradient(135deg, var(--accent) 0%, #5c0000 100%);
+            color: white;
+            padding: 80px 60px;
+            text-align: center;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .cover::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.3;
+        }
+
+        .cover-content {
+            position: relative;
+            z-index: 1;
+        }
+
+        .cover-logo {
+            width: 120px;
+            height: auto;
+            margin-bottom: 25px;
+            filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3));
+        }
+
+        .cover-brand {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            letter-spacing: 12px;
+            text-transform: uppercase;
+            opacity: 0.9;
+            margin-bottom: 30px;
+        }
+
+        .cover-jp {
+            font-family: 'Noto Sans JP', sans-serif;
+            font-size: 4rem;
+            margin-bottom: 20px;
+            letter-spacing: 15px;
+            font-weight: 500;
+        }
+
+        .cover h1 {
+            font-size: 2.8rem;
+            margin-bottom: 16px;
+            font-weight: 700;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .cover-subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            font-style: italic;
+            margin: 0 auto 40px;
+            max-width: 500px;
+            text-align: center;
+            line-height: 1.6;
+        }
+
+        .cover-divider {
+            width: 100px;
+            height: 3px;
+            background: rgba(255,255,255,0.5);
+            margin: 30px auto;
+        }
+
+        .cover-author {
+            font-size: 1.1rem;
+            opacity: 0.8;
+        }
+
+        .cover-scroll {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            animation: bounce 2s infinite;
+            cursor: pointer;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateX(-50%) translateY(0); }
+            50% { transform: translateX(-50%) translateY(10px); }
+        }
+
+        /* Page content */
+        .page {
+            padding: 60px 80px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        /* Table of Contents */
+        .toc {
+            padding: 60px 80px;
+            background: #faf9f6;
+        }
+
+        .toc h2 {
+            font-size: 1.8rem;
+            color: var(--accent);
+            margin-bottom: 30px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+        }
+
+        .toc-list {
+            list-style: none;
+            columns: 2;
+            column-gap: 40px;
+        }
+
+        .toc-item {
+            padding: 12px 0;
+            border-bottom: 1px dotted var(--border);
+            break-inside: avoid;
+        }
+
+        .toc-item a {
+            color: var(--text);
+            text-decoration: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            transition: color 0.2s;
+        }
+
+        .toc-item a:hover {
+            color: var(--accent);
+        }
+
+        .toc-number {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 600;
+            color: var(--accent);
+            margin-right: 12px;
+        }
+
+        .toc-dots {
+            flex: 1;
+            border-bottom: 1px dotted var(--border);
+            margin: 0 8px;
+        }
+
+        /* Chapter */
+        .chapter {
+            padding: 60px 80px;
+            page-break-before: always;
+        }
+
+        .chapter-header {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 30px;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .chapter-number {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 0.9rem;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 6px;
+            margin-bottom: 10px;
+        }
+
+        .chapter-title {
+            font-size: 2rem;
+            color: var(--text);
+            margin-bottom: 20px;
+            line-height: 1.3;
+        }
+
+        .chapter-intro {
+            font-style: italic;
+            color: var(--text-light);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Section */
+        .section {
+            margin-bottom: 50px;
+        }
+
+        .section-title {
+            font-size: 1.4rem;
+            color: var(--accent);
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        /* Paragraph */
+        p {
+            margin-bottom: 1.5em;
+            text-align: justify;
+            hyphens: auto;
+        }
+
+        strong {
+            color: var(--accent);
+            font-weight: 700;
+        }
+
+        /* Japanese text */
+        .jp {
+            font-family: 'Noto Sans JP', sans-serif;
+        }
+
+        .kana {
+            font-family: 'Noto Sans JP', sans-serif;
+            font-size: 1.6em;
+            color: var(--text);
+        }
+
+        .kana-large {
+            font-size: 2.5em;
+        }
+
+        .romaji {
+            font-family: 'Source Sans Pro', sans-serif;
+            color: var(--text-light);
+            font-size: 0.9em;
+        }
+
+        .ipa {
+            font-family: 'Courier New', monospace;
+            background: #f5f5f5;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 0.9em;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 30px 0;
+            font-size: 0.95rem;
+        }
+
+        th {
+            background: var(--accent);
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border);
+            vertical-align: middle;
+        }
+
+        tr:nth-child(even) {
+            background: #faf9f6;
+        }
+
+        tr:hover {
+            background: var(--highlight);
+        }
+
+        .table-title {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 10px;
+        }
+
+        /* Boxes */
+        .box {
+            margin: 30px 0;
+            padding: 25px;
+            border-radius: 4px;
+            page-break-inside: avoid;
+        }
+
+        .box-title {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 700;
+            margin-bottom: 15px;
+            font-size: 1.05rem;
+        }
+
+        .key-point {
+            background: linear-gradient(to right, #e3f2fd, #f5f5f5);
+            border-left: 4px solid #1976d2;
+        }
+
+        .key-point .box-title {
+            color: #1976d2;
+        }
+
+        .warning {
+            background: linear-gradient(to right, #fff3e0, #f5f5f5);
+            border-left: 4px solid #ff9800;
+        }
+
+        .warning .box-title {
+            color: #e65100;
+        }
+
+        .tip {
+            background: linear-gradient(to right, #e8f5e9, #f5f5f5);
+            border-left: 4px solid #4caf50;
+        }
+
+        .tip .box-title {
+            color: #2e7d32;
+        }
+
+        .example-box {
+            background: #faf9f6;
+            border: 1px solid var(--border);
+        }
+
+        .example-box .box-title {
+            color: var(--accent);
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 20px 0;
+            padding-left: 30px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .checklist {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .checklist li {
+            padding-left: 30px;
+            position: relative;
+        }
+
+        .checklist li::before {
+            content: "☐";
+            position: absolute;
+            left: 0;
+            color: var(--accent);
+        }
+
+        /* Example items */
+        .example-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .example-item {
+            background: white;
+            border: 1px solid var(--border);
+            padding: 15px;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        .example-item .kana {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        /* Pitch visualization */
+        .pitch-box {
+            background: #faf9f6;
+            border: 1px solid var(--border);
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 4px;
+        }
+
+        .pitch-name {
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 5px;
+        }
+
+        .pitch-pattern {
+            font-family: monospace;
+            font-size: 1.3rem;
+            color: var(--accent);
+            letter-spacing: 3px;
+            margin: 10px 0;
+        }
+
+        /* Minimal pairs */
+        .minimal-pair {
+            text-align: center;
+            padding: 20px;
+            background: white;
+            border: 1px solid var(--border);
+            margin: 15px 0;
+        }
+
+        .minimal-pair-kana {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+
+        .meaning-tags {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .meaning-tag {
+            background: #f0f0f0;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+
+        .meaning-tag .pitch {
+            color: var(--accent);
+            font-weight: 600;
+        }
+
+        /* Back to top */
+        .back-to-top {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 50px;
+            height: 50px;
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 1.5rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            opacity: 0;
+            transition: all 0.3s;
+            z-index: 100;
+        }
+
+        .back-to-top.visible {
+            opacity: 1;
+        }
+
+        .back-to-top:hover {
+            background: var(--accent-light);
+            transform: translateY(-3px);
+        }
+
+        /* Footer */
+        .book-footer {
+            padding: 40px 80px;
+            background: var(--text);
+            color: white;
+            text-align: center;
+        }
+
+        .book-footer p {
+            margin: 0;
+            opacity: 0.8;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .book {
+                margin: 0;
+            }
+
+            .cover {
+                padding: 40px 30px;
+            }
+
+            .cover h1 {
+                font-size: 1.8rem;
+            }
+
+            .cover-logo {
+                width: 90px;
+            }
+
+            .cover-brand {
+                font-size: 1rem;
+                letter-spacing: 8px;
+            }
+
+            .cover-jp {
+                font-size: 2.5rem;
+                letter-spacing: 10px;
+            }
+
+            .page, .chapter, .toc {
+                padding: 40px 25px;
+            }
+
+            .toc-list {
+                columns: 1;
+            }
+
+            .chapter-title {
+                font-size: 1.5rem;
+            }
+
+            table {
+                font-size: 0.85rem;
+            }
+
+            th, td {
+                padding: 8px 10px;
+            }
+        }
+
+        /* Print */
+        @media print {
+            .progress-bar, .back-to-top, .cover-scroll {
+                display: none;
+            }
+
+            .book {
+                box-shadow: none;
+            }
+
+            .chapter {
+                page-break-before: always;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+    <div class="book" id="book">
+        <div class="loading" style="text-align:center; padding:100px;">
+            <p style="font-size:1.2rem;">Đang tải sách...</p>
+        </div>
+    </div>
+
+    <script>
+        let bookData = null;
+
+        async function loadBook() {
+            try {
+                // Load complete book from single JSON file
+                const response = await fetch('complete_book.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                bookData = await response.json();
+                renderBook();
+            } catch (error) {
+                document.getElementById('book').innerHTML = `
+                    <div style="text-align:center; padding:100px;">
+                        <h2>Không thể tải sách</h2>
+                        <p>Đảm bảo file <code>complete_book.json</code> nằm trong thư mục <code>alphabet/</code>.</p>
+                        <p style="color:var(--accent);">${error.message}</p>
+                    </div>
+                `;
+            }
+        }
+
+        function renderBook() {
+            const book = bookData.book;
+            const chapters = bookData.chapters;
+            const toc = bookData.table_of_contents;
+
+            let html = `
+                <!-- Cover -->
+                <section class="cover" id="cover">
+                    <div class="cover-content">
+                        <img src="../logo.png" alt="Hizashi Logo" class="cover-logo">
+                        <div class="cover-brand">HIZASHI</div>
+                        <div class="cover-jp">発音</div>
+                        <h1>Ánh sáng từ giai điệu</h1>
+                        <p class="cover-subtitle">Cẩm nang luyện nghe từ cơ bản đến nâng cao</p>
+                        <div class="cover-divider"></div>
+                        <p class="cover-author">HIZASHI JAPANESE LEARNING</p>
+                    </div>
+                    <div class="cover-scroll" onclick="document.getElementById('toc').scrollIntoView({behavior:'smooth'})">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
+                            <path d="M12 5v14M19 12l-7 7-7-7"/>
+                        </svg>
+                    </div>
+                </section>
+
+                <!-- Table of Contents -->
+                <section class="toc" id="toc">
+                    <h2>Mục lục</h2>
+                    <ul class="toc-list">
+                        ${toc.map(ch => `
+                            <li class="toc-item">
+                                <a href="#chapter-${ch.chapter}">
+                                    <span><span class="toc-number">${ch.chapter}.</span> ${ch.title}</span>
+                                </a>
+                            </li>
+                        `).join('')}
+                    </ul>
+                </section>
+
+                <!-- Introduction -->
+                <section class="page">
+                    <h2 style="color:var(--accent); margin-bottom:20px;">Giới thiệu</h2>
+                    <p>${book.description}</p>
+                    <p><strong>Đối tượng:</strong> ${book.target_audience}</p>
+                    <p><strong>Cách sử dụng:</strong> ${book.how_to_use}</p>
+                </section>
+            `;
+
+            // Render chapters (starting from 0)
+            for (const ch of toc) {
+                const chapter = chapters[`chapter_${ch.chapter}`];
+                if (chapter) {
+                    html += renderChapter(chapter);
+                }
+            }
+
+            // Appendix
+            if (bookData.appendix) {
+                html += `
+                    <section class="chapter" id="appendix">
+                        <div class="chapter-header">
+                            <div class="chapter-number">Phụ lục</div>
+                            <h1 class="chapter-title">Thuật ngữ</h1>
+                        </div>
+                        <table>
+                            <thead>
+                                <tr><th>Thuật ngữ</th><th>Định nghĩa</th></tr>
+                            </thead>
+                            <tbody>
+                                ${bookData.appendix.B.terms.map(t => `
+                                    <tr>
+                                        <td><strong class="jp">${t.term}</strong></td>
+                                        <td>${t.definition}</td>
+                                    </tr>
+                                `).join('')}
+                            </tbody>
+                        </table>
+                    </section>
+                `;
+            }
+
+            // Footer
+            html += `
+                <footer class="book-footer">
+                    <p>📖 HIZASHI 発音 - Ánh sáng từ giai điệu</p>
+                    <p style="margin-top:10px; font-size:0.9rem;">HIZASHI JAPANESE LEARNING • Version ${book.version}</p>
+                </footer>
+            `;
+
+            document.getElementById('book').innerHTML = html;
+        }
+
+        function renderChapter(chapter) {
+            return `
+                <section class="chapter" id="chapter-${chapter.id}">
+                    <header class="chapter-header">
+                        <div class="chapter-number">Chương ${chapter.id}</div>
+                        <h1 class="chapter-title">${chapter.title}</h1>
+                        <p class="chapter-intro">${chapter.intro}</p>
+                    </header>
+
+                    ${Object.entries(chapter.sections).map(([key, section]) => `
+                        <div class="section" id="${key}">
+                            <h2 class="section-title">${key} ${section.title}</h2>
+                            ${section.content.map(renderContent).join('')}
+                        </div>
+                    `).join('')}
+                </section>
+            `;
+        }
+
+        function renderContent(block) {
+            switch (block.type) {
+                case 'paragraph':
+                    return `<p>${formatText(block.text)}</p>`;
+
+                case 'comparison_table':
+                case 'kana_table':
+                    return renderTable(block);
+
+                case 'key_point':
+                    return `
+                        <div class="box key-point">
+                            <div class="box-title">📌 ${block.title}</div>
+                            <ul>${block.points.map(p => `<li>${formatText(p)}</li>`).join('')}</ul>
+                        </div>
+                    `;
+
+                case 'warning':
+                    return `
+                        <div class="box warning">
+                            <div class="box-title">⚠️ Lưu ý quan trọng</div>
+                            <p>${formatText(block.text)}</p>
+                        </div>
+                    `;
+
+                case 'tip':
+                    return `
+                        <div class="box tip">
+                            <div class="box-title">💡 Mẹo</div>
+                            <p>${formatText(block.text)}</p>
+                        </div>
+                    `;
+
+                case 'example_box':
+                    return renderExampleBox(block);
+
+                case 'numbered_list':
+                    return `
+                        <ol>
+                            ${block.items.map(item => `
+                                <li><strong>${item.title}</strong>: ${item.detail}</li>
+                            `).join('')}
+                        </ol>
+                    `;
+
+                case 'checklist':
+                    return `
+                        <ul class="checklist">
+                            ${block.items.map(item => `<li>${item}</li>`).join('')}
+                        </ul>
+                    `;
+
+                case 'pitch_patterns':
+                    return renderPitchPatterns(block);
+
+                case 'minimal_pairs_table':
+                    return renderMinimalPairs(block);
+
+                case 'yoon_table':
+                    return renderYoonTable(block);
+
+                case 'contractions_table':
+                    return renderContractionsTable(block);
+
+                case 'detailed_table':
+                case 'particles_table':
+                case 'emotions_table':
+                    return renderGenericTable(block);
+
+                case 'roadmap':
+                    return renderRoadmap(block);
+
+                case 'summary_list':
+                    return renderSummaryList(block);
+
+                case 'action_list':
+                    return `
+                        <div class="box example-box">
+                            <div class="box-title">🚀 ${block.title}</div>
+                            <ol>${block.actions.map(a => `<li>${a}</li>`).join('')}</ol>
+                        </div>
+                    `;
+
+                case 'motivation':
+                    return `
+                        <div class="box" style="background:var(--accent); color:white; text-align:center;">
+                            <p style="font-size:1.2rem; margin:0;">${block.text}</p>
+                        </div>
+                    `;
+
+                case 'reference':
+                    return `
+                        <div class="reference-block" style="margin-top:1.5rem; padding:1rem; background:var(--bg-light); border-left:3px solid var(--text-muted); font-size:0.9rem;">
+                            <div style="font-weight:600; margin-bottom:0.5rem; color:var(--text-muted);">📚 Tài liệu tham khảo</div>
+                            <p style="margin:0; font-style:italic;">${formatText(block.citation)}</p>
+                            ${block.doi ? `<a href="${block.doi}" target="_blank" rel="noopener" style="color:var(--accent); word-break:break-all;">${block.doi}</a>` : ''}
+                        </div>
+                    `;
+
+                default:
+                    return '';
+            }
+        }
+
+        function formatText(text) {
+            if (!text) return '';
+            return text
+                .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\[([^\]]+)\]/g, '<span class="ipa">$1</span>');
+        }
+
+        function renderTable(block) {
+            const headers = block.headers || ['Hiragana', 'Katakana', 'Romaji', 'IPA', 'Ghi chú'];
+            const rows = block.rows || [];
+
+            return `
+                ${block.title ? `<div class="table-title">${block.title}</div>` : ''}
+                <table>
+                    <thead>
+                        <tr>${headers.map(h => `<th>${h}</th>`).join('')}</tr>
+                    </thead>
+                    <tbody>
+                        ${rows.map(row => {
+                            if (Array.isArray(row)) {
+                                return `<tr>${row.map(cell => `<td>${formatText(cell)}</td>`).join('')}</tr>`;
+                            } else {
+                                return `<tr>
+                                    ${row.hiragana ? `<td><span class="kana">${row.hiragana}</span></td>` : ''}
+                                    ${row.katakana !== undefined ? `<td><span class="kana">${row.katakana || ''}</span></td>` : ''}
+                                    ${row.romaji !== undefined ? `<td class="romaji">${row.romaji || ''}</td>` : ''}
+                                    ${row.ipa !== undefined ? `<td class="ipa">${row.ipa || ''}</td>` : ''}
+                                    ${row.note !== undefined || row.example !== undefined ? `<td>${row.note || row.example || ''}</td>` : ''}
+                                </tr>`;
+                            }
+                        }).join('')}
+                    </tbody>
+                </table>
+            `;
+        }
+
+        function renderExampleBox(block) {
+            return `
+                <div class="box example-box">
+                    <div class="box-title">📝 ${block.title}</div>
+                    <div class="example-grid">
+                        ${block.examples.map(ex => `
+                            <div class="example-item">
+                                <span class="kana">${ex.word || ex.without || ex.short || ''}</span>
+                                <span class="romaji">${ex.romaji || ''}</span>
+                                <div>${ex.meaning || ex.with_meaning || ''}</div>
+                                ${ex.mora ? `<small>${ex.mora} mora</small>` : ''}
+                                ${ex.breakdown ? `<div class="romaji">${ex.breakdown}</div>` : ''}
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderPitchPatterns(block) {
+            return `
+                <div>
+                    ${block.patterns.map(p => `
+                        <div class="pitch-box">
+                            <div class="pitch-name">${p.name} <span class="romaji">(Accent ${p.number})</span></div>
+                            <div class="pitch-pattern">${p.pattern}</div>
+                            <p style="color:var(--text-light); margin-bottom:10px;">${p.description}</p>
+                            <div style="display:flex; align-items:center; gap:15px; flex-wrap:wrap;">
+                                <span class="kana" style="font-size:1.5rem;">${p.example.word}</span>
+                                <span class="pitch-pattern" style="font-size:1rem;">${p.example.pitch}</span>
+                                <span>${p.example.meaning}</span>
+                            </div>
+                            <div class="romaji" style="margin-top:8px;">+ particle: ${p.with_particle}</div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        function renderMinimalPairs(block) {
+            return `
+                <div class="box example-box">
+                    <div class="box-title">${block.title}</div>
+                    ${block.pairs.map(pair => `
+                        <div class="minimal-pair">
+                            <div class="minimal-pair-kana jp">${pair.kana}</div>
+                            <div class="meaning-tags">
+                                ${pair.meanings.map(m => `
+                                    <span class="meaning-tag">
+                                        <span class="pitch">${m.pitch}</span> = ${m.meaning}
+                                    </span>
+                                `).join('')}
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        function renderYoonTable(block) {
+            return `
+                ${block.title ? `<div class="table-title">${block.title}</div>` : ''}
+                <table>
+                    <thead>
+                        <tr><th>Base</th><th>+ゃ</th><th>+ゅ</th><th>+ょ</th></tr>
+                    </thead>
+                    <tbody>
+                        ${block.rows.map(row => `
+                            <tr>
+                                <td><span class="kana">${row.base}</span></td>
+                                <td><span class="kana">${row.ya.split(' ')[0]}</span> <span class="romaji">${row.ya.split(' ')[1] || ''}</span></td>
+                                <td><span class="kana">${row.yu.split(' ')[0]}</span> <span class="romaji">${row.yu.split(' ')[1] || ''}</span></td>
+                                <td><span class="kana">${row.yo.split(' ')[0]}</span> <span class="romaji">${row.yo.split(' ')[1] || ''}</span></td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+        }
+
+        function renderContractionsTable(block) {
+            return `
+                <table>
+                    <thead>
+                        <tr><th>Đầy đủ</th><th></th><th>Rút gọn</th><th>Ví dụ</th></tr>
+                    </thead>
+                    <tbody>
+                        ${block.rows.map(row => `
+                            <tr>
+                                <td><span class="jp">${row.full}</span></td>
+                                <td style="color:var(--accent);">→</td>
+                                <td><span class="jp">${row.short}</span></td>
+                                <td class="romaji">${row.example}</td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+        }
+
+        function renderGenericTable(block) {
+            const data = block.rows || block.particles || block.emotions || [];
+            if (data.length === 0) return '';
+
+            // Check if headers are provided or extract from first row
+            let headers = block.headers;
+            let keys = headers;
+
+            if (!headers && data[0]) {
+                // If rows are arrays, use headers or default
+                if (Array.isArray(data[0])) {
+                    return `
+                        ${block.title ? `<div class="table-title">${block.title}</div>` : ''}
+                        <table>
+                            ${block.headers ? `<thead><tr>${block.headers.map(h => `<th>${h}</th>`).join('')}</tr></thead>` : ''}
+                            <tbody>
+                                ${data.map(row => `<tr>${row.map(cell => `<td>${formatText(String(cell))}</td>`).join('')}</tr>`).join('')}
+                            </tbody>
+                        </table>
+                    `;
+                }
+                // If rows are objects, extract keys
+                keys = Object.keys(data[0]);
+            }
+
+            return `
+                ${block.title ? `<div class="table-title">${block.title}</div>` : ''}
+                <table>
+                    <thead>
+                        <tr>${(headers || keys).map(h => `<th>${h}</th>`).join('')}</tr>
+                    </thead>
+                    <tbody>
+                        ${data.map(row => {
+                            if (Array.isArray(row)) {
+                                return `<tr>${row.map(cell => `<td>${formatText(String(cell))}</td>`).join('')}</tr>`;
+                            }
+                            const rowKeys = headers || Object.keys(row);
+                            return `<tr>${rowKeys.map(k => `<td>${formatText(String(row[k] || ''))}</td>`).join('')}</tr>`;
+                        }).join('')}
+                    </tbody>
+                </table>
+            `;
+        }
+
+        function renderRoadmap(block) {
+            return `
+                <div class="box example-box">
+                    ${block.stages.map(stage => `
+                        <div style="display:flex; gap:20px; padding:20px 0; border-bottom:1px solid var(--border);">
+                            <div style="background:var(--accent); color:white; width:50px; height:50px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:bold; font-size:1.2rem; flex-shrink:0;">
+                                ${stage.stage}
+                            </div>
+                            <div>
+                                <div style="font-weight:600; font-size:1.1rem;">${stage.name}</div>
+                                <div class="romaji" style="margin-bottom:10px;">${stage.duration}</div>
+                                <ul style="margin:0;">
+                                    ${stage.tasks.map(t => `<li>${t}</li>`).join('')}
+                                </ul>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        function renderSummaryList(block) {
+            return `
+                <table>
+                    <thead>
+                        <tr><th>Chủ đề</th><th>Điểm chính</th></tr>
+                    </thead>
+                    <tbody>
+                        ${block.items.map(item => `
+                            <tr>
+                                <td><strong>${item.topic}</strong></td>
+                                <td>${item.key}</td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+        }
+
+        // Progress bar & back to top
+        window.addEventListener('scroll', () => {
+            const scrollTop = window.scrollY;
+            const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+            const progress = (scrollTop / docHeight) * 100;
+            document.getElementById('progress').style.width = progress + '%';
+
+            const backBtn = document.getElementById('backToTop');
+            if (scrollTop > 500) {
+                backBtn.classList.add('visible');
+            } else {
+                backBtn.classList.remove('visible');
+            }
+        });
+
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Load
+        loadBook();
+    </script>
+</body>
+</html>

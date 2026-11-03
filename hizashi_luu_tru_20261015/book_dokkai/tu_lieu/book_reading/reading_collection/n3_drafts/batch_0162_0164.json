@@ -1,0 +1,375 @@
+[
+  {
+    "id": "R_0162",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "引っ越しの日",
+    "title_vi": "Ngày chuyển nhà",
+    "topic": "housing",
+    "subtopic": "chuyển nhà",
+    "tags": ["たとたん", "ところだった", "てからでないと"],
+    "grammar_used": ["～たとたん", "～ところだった", "～てからでないと"],
+    "sentence_count": 10,
+    "text": "先週、新しいアパートに引っ越した。荷物を運び込んだとたん、大雨が降り始めた。もう少し遅かったら、荷物がびしょぬれになるところだった。引っ越しの手続きをすべて終えてからでないと、インターネットの契約もできないと知って焦った。夕方になって、ようやく電気と水道が使えるようになった。近所の人が挨拶に来てくれたとたん、疲れが吹き飛んだ気がした。まだ段ボールが山積みだが、少しずつ片付けていくつもりだ。冷蔵庫を設置してからでないと、食材も買えない状況だった。夜、初めて新しい部屋で眠ったとたん、すぐに眠れた。引っ越しは大変だったが、新生活への期待で心が弾んでいる。",
+    "translation": "Tuần trước, tôi đã chuyển đến căn hộ mới. Ngay khi vừa chuyển đồ vào trong, trời bắt đầu đổ mưa to. Nếu chậm thêm một chút nữa thì đồ đạc đã bị ướt sũng rồi. Tôi hoảng lên khi biết rằng chưa hoàn tất hết các thủ tục chuyển nhà thì chưa thể ký hợp đồng internet được. Đến chiều tối, cuối cùng điện và nước cũng dùng được rồi. Ngay khi người hàng xóm đến chào hỏi, tôi cảm thấy như cơn mệt mỏi tan biến hết. Hộp carton vẫn còn chất đống nhưng tôi định dọn dần dần. Chưa lắp tủ lạnh xong thì cũng chưa thể đi mua thức ăn được. Tối hôm đó, vừa nằm xuống ngủ lần đầu tiên trong phòng mới là tôi ngủ được ngay. Dù chuyển nhà vất vả nhưng lòng tôi đang rộn ràng chờ đợi cuộc sống mới.",
+    "vocabulary": [
+      {"word": "引っ越す", "reading": "ひっこす", "meaning": "chuyển nhà"},
+      {"word": "びしょぬれ", "reading": "びしょぬれ", "meaning": "ướt sũng, ướt như chuột lột"},
+      {"word": "手続き", "reading": "てつづき", "meaning": "thủ tục"},
+      {"word": "焦る", "reading": "あせる", "meaning": "hốt hoảng, lo lắng, cuống lên"},
+      {"word": "吹き飛ぶ", "reading": "ふきとぶ", "meaning": "bay biến, tan biến"},
+      {"word": "山積み", "reading": "やまづみ", "meaning": "chất đống như núi"},
+      {"word": "設置する", "reading": "せっちする", "meaning": "lắp đặt, thiết lập"},
+      {"word": "弾む", "reading": "はずむ", "meaning": "rộn ràng, hứng khởi, nảy lên"}
+    ],
+    "process": [
+      {
+        "sentence": "先週、新しいアパートに引っ越した。",
+        "chunks": "先週 / 新しいアパートに / 引っ越した",
+        "guide": "🔒 Đóng gói [先週] = bối cảnh thời gian → に chỉ điểm đến → 🔒 Đóng gói [新しいアパートに] = 'đến căn hộ mới' → 引っ越した hành động hoàn thành. Câu mở đầu giới thiệu sự kiện chính.",
+        "translation": "Tuần trước, tôi đã chuyển đến căn hộ mới."
+      },
+      {
+        "sentence": "荷物を運び込んだとたん、大雨が降り始めた。",
+        "chunks": "荷物を / 運び込んだとたん / 大雨が / 降り始めた",
+        "guide": "🔒 Đóng gói [荷物を] = 'đồ đạc' làm tân ngữ → 運び込んだとたん: ～たとたん báo hiệu 'ngay khi vừa xong thì ngay lập tức có chuyện xảy ra' → 💡 とたん thường đi với kết quả bất ngờ, ngoài ý muốn → 🔒 Đóng gói [大雨が] = 'mưa to' chủ ngữ → 降り始めた: bắt đầu đổ.",
+        "translation": "Ngay khi vừa chuyển đồ vào trong, trời bắt đầu đổ mưa to."
+      },
+      {
+        "sentence": "もう少し遅かったら、荷物がびしょぬれになるところだった。",
+        "chunks": "もう少し遅かったら / 荷物が / びしょぬれになるところだった",
+        "guide": "もう少し遅かったら: điều kiện giả định 'nếu chậm hơn một chút' → 🔒 Đóng gói [荷物が] = 'đồ đạc' chủ ngữ → ～になるところだった: 💡 ～ところだった = 'suýt nữa đã xảy ra' → toàn câu: tình huống nguy hiểm vừa thoát khỏi.",
+        "translation": "Nếu chậm thêm một chút nữa thì đồ đạc đã bị ướt sũng rồi."
+      },
+      {
+        "sentence": "引っ越しの手続きをすべて終えてからでないと、インターネットの契約もできないと知って焦った。",
+        "chunks": "引っ越しの手続きを / すべて終えてからでないと / インターネットの契約も / できないと / 知って焦った",
+        "guide": "🔒 Đóng gói [引っ越しの手続きを] = 'thủ tục chuyển nhà' tân ngữ → ～てからでないと: 💡 'chưa làm X xong thì không thể làm Y' → báo hiệu điều kiện tiên quyết → 🔒 Đóng gói [インターネットの契約も] = 'hợp đồng internet' + も nhấn mạnh 'thứ này cũng không được' → できないと知って: biết được điều đó → 焦った: kết quả cảm xúc.",
+        "translation": "Tôi hoảng lên khi biết rằng chưa hoàn tất hết các thủ tục chuyển nhà thì chưa thể ký hợp đồng internet được."
+      },
+      {
+        "sentence": "夕方になって、ようやく電気と水道が使えるようになった。",
+        "chunks": "夕方になって / ようやく / 電気と水道が / 使えるようになった",
+        "guide": "🔒 Đóng gói [夕方になって] = 'đến khi chiều tối' bối cảnh thời gian → ようやく = 'cuối cùng', 'mãi mới' báo hiệu sự chờ đợi lâu → 🔒 Đóng gói [電気と水道が] = 'điện và nước' chủ ngữ → 使えるようになった: ～ようになった = dần đến trạng thái có thể dùng được.",
+        "translation": "Đến chiều tối, cuối cùng điện và nước cũng dùng được rồi."
+      },
+      {
+        "sentence": "近所の人が挨拶に来てくれたとたん、疲れが吹き飛んだ気がした。",
+        "chunks": "近所の人が / 挨拶に来てくれたとたん / 疲れが / 吹き飛んだ気がした",
+        "guide": "🔒 Đóng gói [近所の人が] = 'người hàng xóm' chủ ngữ → 挨拶に来てくれた: に指向đến mục đích + くれた = làm ơn cho mình → とたん: ngay khi đó → 🔒 Đóng gói [疲れが] = 'cơn mệt mỏi' → 吹き飛んだ気がした: cảm giác như tan biến hết.",
+        "translation": "Ngay khi người hàng xóm đến chào hỏi, tôi cảm thấy như cơn mệt mỏi tan biến hết."
+      },
+      {
+        "sentence": "まだ段ボールが山積みだが、少しずつ片付けていくつもりだ。",
+        "chunks": "まだ段ボールが山積みだが / 少しずつ / 片付けていくつもりだ",
+        "guide": "🔒 Đóng gói [まだ段ボールが山積みだが] = 'hộp carton vẫn còn chất đống' → が = nhưng, tương phản → 少しずつ = dần dần, từng chút một → 🔒 片付けていくつもりだ = ý định tiến hành theo thời gian (～ていく + つもりだ).",
+        "translation": "Hộp carton vẫn còn chất đống nhưng tôi định dọn dần dần."
+      },
+      {
+        "sentence": "冷蔵庫を設置してからでないと、食材も買えない状況だった。",
+        "chunks": "冷蔵庫を / 設置してからでないと / 食材も / 買えない状況だった",
+        "guide": "🔒 Đóng gói [冷蔵庫を] = 'tủ lạnh' tân ngữ → 設置してからでないと: ～てからでないと lần thứ hai xuất hiện → 💡 củng cố mẫu: 'chưa lắp xong thì không thể...' → 🔒 Đóng gói [食材も] = 'thức ăn cũng' → も nhấn mạnh bất tiện thêm → 買えない状況だった: tình trạng không thể mua được.",
+        "translation": "Chưa lắp tủ lạnh xong thì cũng chưa thể đi mua thức ăn được."
+      },
+      {
+        "sentence": "夜、初めて新しい部屋で眠ったとたん、すぐに眠れた。",
+        "chunks": "夜 / 初めて新しい部屋で / 眠ったとたん / すぐに眠れた",
+        "guide": "🔒 Đóng gói [夜] = bối cảnh thời gian → 🔒 Đóng gói [初めて新しい部屋で] = 'lần đầu trong phòng mới' → 眠ったとたん: ～たとたん lần thứ ba → 💡 lần này とたん mang nghĩa tích cực (ngủ được ngay) → khác với câu 2 (mưa bất ngờ) → toàn câu: kết thúc ngày mệt nhọc một cách nhẹ nhàng.",
+        "translation": "Tối hôm đó, vừa nằm xuống ngủ lần đầu tiên trong phòng mới là tôi ngủ được ngay."
+      },
+      {
+        "sentence": "引っ越しは大変だったが、新生活への期待で心が弾んでいる。",
+        "chunks": "引っ越しは大変だったが / 新生活への期待で / 心が弾んでいる",
+        "guide": "🔒 Đóng gói [引っ越しは大変だったが] = 'dù chuyển nhà vất vả' → が tương phản, báo hiệu sắp có điều tích cực → 🔒 Đóng gói [新生活への期待で] = 'vì kỳ vọng vào cuộc sống mới' → で chỉ nguyên nhân → 🔒 Đóng gói [心が弾んでいる] = 'lòng đang rộn ràng' → câu kết mang tâm trạng lạc quan.",
+        "translation": "Dù chuyển nhà vất vả nhưng lòng tôi đang rộn ràng chờ đợi cuộc sống mới."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0162_Q1",
+        "question": "荷物を運び込んだあと、何が起きましたか。",
+        "question_vi": "Sau khi chuyển đồ vào trong, chuyện gì đã xảy ra?",
+        "answers": [
+          {"text": "近所の人が挨拶に来た。", "text_vi": "Người hàng xóm đến chào hỏi.", "is_correct": false},
+          {"text": "電気と水道が止まった。", "text_vi": "Điện và nước bị cúp.", "is_correct": false},
+          {"text": "大雨が降り始めた。", "text_vi": "Trời bắt đầu đổ mưa to.", "is_correct": true},
+          {"text": "冷蔵庫が壊れた。", "text_vi": "Tủ lạnh bị hỏng.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói 「荷物を運び込んだとたん、大雨が降り始めた」→ ～たとたん = ngay khi vừa xong thì điều bất ngờ xảy ra = trời đổ mưa to. Đây là sự kiện trực tiếp sau khi chuyển đồ vào."
+      },
+      {
+        "id": "R_0162_Q2",
+        "question": "インターネットの契約ができない理由は何ですか。",
+        "question_vi": "Tại sao chưa thể ký hợp đồng internet?",
+        "answers": [
+          {"text": "お金が足りなかったから。", "text_vi": "Vì không đủ tiền.", "is_correct": false},
+          {"text": "引っ越しの手続きをすべて終えていなかったから。", "text_vi": "Vì chưa hoàn tất hết các thủ tục chuyển nhà.", "is_correct": true},
+          {"text": "電気がまだ使えなかったから。", "text_vi": "Vì điện vẫn chưa dùng được.", "is_correct": false},
+          {"text": "冷蔵庫を設置していなかったから。", "text_vi": "Vì chưa lắp tủ lạnh.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói 「引っ越しの手続きをすべて終えてからでないと、インターネットの契約もできない」→ ～てからでないと = chưa làm xong thủ tục chuyển nhà thì chưa ký được hợp đồng internet. Đây là điều kiện tiên quyết bắt buộc."
+      },
+      {
+        "id": "R_0162_Q3",
+        "question": "筆者が引っ越しについてどのように感じていますか。",
+        "question_vi": "Tác giả cảm thấy thế nào về việc chuyển nhà?",
+        "answers": [
+          {"text": "大変で、後悔している。", "text_vi": "Vất vả và hối hận.", "is_correct": false},
+          {"text": "大変だったが、新生活に期待している。", "text_vi": "Vất vả nhưng đang kỳ vọng vào cuộc sống mới.", "is_correct": true},
+          {"text": "楽しくて、また引っ越したい。", "text_vi": "Vui và muốn chuyển nhà lại.", "is_correct": false},
+          {"text": "疲れて、しばらく休みたい。", "text_vi": "Mệt mỏi và muốn nghỉ ngơi một thời gian.", "is_correct": false}
+        ],
+        "explanation": "Câu cuối (câu 10) nói 「引っ越しは大変だったが、新生活への期待で心が弾んでいる」→ が tương phản: dù vất vả nhưng lòng rộn ràng vì kỳ vọng vào cuộc sống mới. Câu này tóm tắt tâm trạng tổng thể của tác giả."
+      }
+    ]
+  },
+  {
+    "id": "R_0163",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "うちの猫のこと",
+    "title_vi": "Chuyện về con mèo nhà tôi",
+    "topic": "animal",
+    "subtopic": "nuôi thú cưng",
+    "tags": ["がち", "っぽい", "向き"],
+    "grammar_used": ["～がち", "～っぽい", "～向き"],
+    "sentence_count": 10,
+    "text": "私は三年前から猫を一匹飼っている。この猫は気まぐれっぽい性格で、気分によって態度がまったく変わる。体が小さいせいか、寒い日は部屋の隅で丸まっていがちだ。世話が比較的簡単なので、一人暮らしの人に向きのペットだと思う。ただ、食事の時間になると大きな声で鳴きがちなので、朝は少し困ることもある。毛並みが白っぽいため、黒い服に毛がよくつく。ブラッシングを毎日してあげると、毛のつきがずっと減った。猫は気難しっぽく見えるが、慣れてくると意外と甘えてくる。初めて猫を飼う人向きに、簡単なお世話のコツをまとめた本を読んでよかった。猫との生活は思っていた以上に豊かで、毎日が楽しい。",
+    "translation": "Tôi nuôi một con mèo được ba năm nay. Con mèo này có tính cách hay thay đổi, thái độ thay đổi hoàn toàn tùy theo tâm trạng. Có lẽ vì thân hình nhỏ bé, những ngày lạnh nó hay cuộn tròn ở góc phòng. Vì việc chăm sóc tương đối đơn giản, tôi nghĩ đây là loài thú cưng phù hợp với người sống một mình. Tuy nhiên, khi đến giờ ăn nó hay kêu to nên buổi sáng đôi khi cũng hơi phiền. Vì bộ lông có màu hơi trắng nên lông hay bám vào quần áo tối màu. Từ khi chải lông cho nó mỗi ngày, lông bám ít đi hẳn. Mèo trông có vẻ khó tính nhưng khi quen rồi thì lại hay làm nũng bất ngờ lắm. Tôi thấy thật sự hữu ích khi đọc cuốn sách tổng hợp những bí quyết chăm sóc đơn giản dành cho người lần đầu nuôi mèo. Cuộc sống cùng mèo phong phú hơn tôi tưởng, mỗi ngày đều vui.",
+    "vocabulary": [
+      {"word": "気まぐれ", "reading": "きまぐれ", "meaning": "hay thay đổi, thất thường, tùy hứng"},
+      {"word": "丸まる", "reading": "まるまる", "meaning": "cuộn tròn lại"},
+      {"word": "毛並み", "reading": "けなみ", "meaning": "bộ lông (sắp xếp của lông thú)"},
+      {"word": "ブラッシング", "reading": "ぶらっしんぐ", "meaning": "chải lông, chải bằng bàn chải"},
+      {"word": "気難しい", "reading": "きむずかしい", "meaning": "khó tính, khó chiều"},
+      {"word": "甘える", "reading": "あまえる", "meaning": "làm nũng, cậy nhờ vào tình thương"},
+      {"word": "豊か", "reading": "ゆたか", "meaning": "phong phú, giàu có (về cảm xúc, trải nghiệm)"}
+    ],
+    "process": [
+      {
+        "sentence": "私は三年前から猫を一匹飼っている。",
+        "chunks": "私は / 三年前から / 猫を一匹 / 飼っている",
+        "guide": "🔒 Đóng gói [私は] = chủ đề → から chỉ điểm bắt đầu thời gian: 'từ ba năm trước đến giờ' → 🔒 Đóng gói [猫を一匹] = 'một con mèo' tân ngữ + đơn vị đếm → 飼っている: trạng thái đang duy trì (ている = trạng thái kéo dài).",
+        "translation": "Tôi nuôi một con mèo được ba năm nay."
+      },
+      {
+        "sentence": "この猫は気まぐれっぽい性格で、気分によって態度がまったく変わる。",
+        "chunks": "この猫は / 気まぐれっぽい性格で / 気分によって / 態度が / まったく変わる",
+        "guide": "🔒 Đóng gói [この猫は] = 'con mèo này' chủ đề → 気まぐれっぽい: ～っぽい = 'có vẻ như, mang tính chất của' → 💡 っぽい gắn vào danh từ/tính từ để diễn tả ấn tượng chủ quan → 🔒 Đóng gói [気まぐれっぽい性格で] = 'với tính cách hay thay đổi' → によって = tùy theo → 態度がまったく変わる: thái độ thay đổi hoàn toàn.",
+        "translation": "Con mèo này có tính cách hay thay đổi, thái độ thay đổi hoàn toàn tùy theo tâm trạng."
+      },
+      {
+        "sentence": "体が小さいせいか、寒い日は部屋の隅で丸まっていがちだ。",
+        "chunks": "体が小さいせいか / 寒い日は / 部屋の隅で / 丸まっていがちだ",
+        "guide": "🔒 Đóng gói [体が小さいせいか] = 'có lẽ vì thân hình nhỏ bé' → せいか = 'có thể là do...' (không chắc chắn về nguyên nhân) → 🔒 Đóng gói [寒い日は] = 'những ngày lạnh' chủ đề → 🔒 Đóng gói [部屋の隅で] = 'ở góc phòng' → 丸まっていがちだ: ～がち = 💡 'hay có xu hướng làm việc gì đó (thường là điều không mong muốn)' → hay cuộn tròn.",
+        "translation": "Có lẽ vì thân hình nhỏ bé, những ngày lạnh nó hay cuộn tròn ở góc phòng."
+      },
+      {
+        "sentence": "世話が比較的簡単なので、一人暮らしの人に向きのペットだと思う。",
+        "chunks": "世話が比較的簡単なので / 一人暮らしの人に / 向きのペットだと / 思う",
+        "guide": "🔒 Đóng gói [世話が比較的簡単なので] = 'vì việc chăm sóc tương đối đơn giản' → ので báo hiệu: sắp có kết luận/nhận xét → 🔒 Đóng gói [一人暮らしの人に] = 'cho người sống một mình' → 向き: ～向き = 💡 'phù hợp với, dành cho đối tượng cụ thể' → と思う: ý kiến cá nhân.",
+        "translation": "Vì việc chăm sóc tương đối đơn giản, tôi nghĩ đây là loài thú cưng phù hợp với người sống một mình."
+      },
+      {
+        "sentence": "ただ、食事の時間になると大きな声で鳴きがちなので、朝は少し困ることもある。",
+        "chunks": "ただ / 食事の時間になると / 大きな声で / 鳴きがちなので / 朝は少し困ることもある",
+        "guide": "ただ = 'tuy nhiên' báo hiệu điểm trừ sau khi khen → 🔒 Đóng gói [食事の時間になると] = 'khi đến giờ ăn' → 🔒 Đóng gói [大きな声で] = 'bằng giọng to' → 鳴きがちなので: ～がち lần thứ hai → 💡 củng cố mẫu: hay kêu to → ので dẫn đến kết quả → 🔒 Đóng gói [朝は少し困ることもある] = 'buổi sáng đôi khi cũng phiền'.",
+        "translation": "Tuy nhiên, khi đến giờ ăn nó hay kêu to nên buổi sáng đôi khi cũng hơi phiền."
+      },
+      {
+        "sentence": "毛並みが白っぽいため、黒い服に毛がよくつく。",
+        "chunks": "毛並みが白っぽいため / 黒い服に / 毛が / よくつく",
+        "guide": "🔒 Đóng gói [毛並みが白っぽいため] = 'vì bộ lông hơi trắng' → 白っぽい: ～っぽい lần thứ hai gắn vào màu sắc = 'hơi trắng, có tông trắng' → ため = nguyên nhân (trang trọng hơn ので) → 🔒 Đóng gói [黒い服に] = 'vào quần áo tối màu' → よくつく: hay bám, thường bám.",
+        "translation": "Vì bộ lông có màu hơi trắng nên lông hay bám vào quần áo tối màu."
+      },
+      {
+        "sentence": "ブラッシングを毎日してあげると、毛のつきがずっと減った。",
+        "chunks": "ブラッシングを / 毎日してあげると / 毛のつきが / ずっと減った",
+        "guide": "🔒 Đóng gói [ブラッシングを] = 'việc chải lông' tân ngữ → 毎日してあげると: してあげる = làm ơn cho ai đó + と = điều kiện tự nhiên ('hễ làm X thì Y') → 🔒 Đóng gói [毛のつきが] = 'độ bám của lông' chủ ngữ → ずっと減った: ít đi hẳn, giảm nhiều.",
+        "translation": "Từ khi chải lông cho nó mỗi ngày, lông bám ít đi hẳn."
+      },
+      {
+        "sentence": "猫は気難しっぽく見えるが、慣れてくると意外と甘えてくる。",
+        "chunks": "猫は / 気難しっぽく見えるが / 慣れてくると / 意外と甘えてくる",
+        "guide": "🔒 Đóng gói [猫は] = 'mèo' chủ đề tổng quát → 気難しっぽく: ～っぽく (dạng trạng từ của っぽい) = 'trông có vẻ khó tính' → が tương phản báo hiệu điều ngược lại → 慣れてくると: khi dần quen → 意外と: bất ngờ là → 甘えてくる: làm nũng, tiến đến gần (くる = hướng về phía người nói).",
+        "translation": "Mèo trông có vẻ khó tính nhưng khi quen rồi thì lại hay làm nũng bất ngờ lắm."
+      },
+      {
+        "sentence": "初めて猫を飼う人向きに、簡単なお世話のコツをまとめた本を読んでよかった。",
+        "chunks": "初めて猫を飼う人向きに / 簡単なお世話のコツを / まとめた本を / 読んでよかった",
+        "guide": "🔒 Đóng gói [初めて猫を飼う人向きに] = 'dành cho người lần đầu nuôi mèo' → ～向き lần thứ hai: dành cho đối tượng cụ thể → に chỉ đối tượng mục tiêu của cuốn sách → 🔒 Đóng gói [簡単なお世話のコツをまとめた本を] = 'cuốn sách tổng hợp bí quyết chăm sóc đơn giản' → 読んでよかった: 💡 ～てよかった = 'thật tốt khi đã làm việc đó'.",
+        "translation": "Tôi thấy thật sự hữu ích khi đọc cuốn sách tổng hợp những bí quyết chăm sóc đơn giản dành cho người lần đầu nuôi mèo."
+      },
+      {
+        "sentence": "猫との生活は思っていた以上に豊かで、毎日が楽しい。",
+        "chunks": "猫との生活は / 思っていた以上に / 豊かで / 毎日が楽しい",
+        "guide": "🔒 Đóng gói [猫との生活は] = 'cuộc sống cùng mèo' chủ đề → 思っていた以上に: 💡 ～以上に = 'hơn cả những gì đã nghĩ/mong đợi' → 🔒 Đóng gói [豊かで] = 'phong phú và...' → で nối tính từ với vế sau → 毎日が楽しい: câu kết mang cảm xúc tích cực, tóm tắt toàn bài.",
+        "translation": "Cuộc sống cùng mèo phong phú hơn tôi tưởng, mỗi ngày đều vui."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0163_Q1",
+        "question": "筆者の猫はどんな性格ですか。",
+        "question_vi": "Con mèo của tác giả có tính cách như thế nào?",
+        "answers": [
+          {"text": "おとなしくて、いつも同じ態度だ。", "text_vi": "Hiền lành và thái độ luôn như nhau.", "is_correct": false},
+          {"text": "気まぐれっぽくて、気分によって態度が変わる。", "text_vi": "Có vẻ thất thường, thái độ thay đổi tùy theo tâm trạng.", "is_correct": true},
+          {"text": "いつも甘えていて、人が好きだ。", "text_vi": "Lúc nào cũng làm nũng và thích người.", "is_correct": false},
+          {"text": "気難しくて、慣れることができない。", "text_vi": "Khó tính và không thể quen được.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói 「この猫は気まぐれっぽい性格で、気分によって態度がまったく変わる」→ っぽい = có vẻ thất thường + によって態度が変わる = thái độ thay đổi tùy tâm trạng. ⚠️ Bẫy: câu 8 nói mèo cũng hay làm nũng, nhưng đó là khi đã quen, không phải tính cách tổng quát."
+      },
+      {
+        "id": "R_0163_Q2",
+        "question": "なぜ黒い服に毛がつきやすいですか。",
+        "question_vi": "Tại sao lông hay bám vào quần áo tối màu?",
+        "answers": [
+          {"text": "猫が黒い服が好きだから。", "text_vi": "Vì mèo thích quần áo tối màu.", "is_correct": false},
+          {"text": "毎日ブラッシングをしないから。", "text_vi": "Vì không chải lông mỗi ngày.", "is_correct": false},
+          {"text": "猫の毛並みが白っぽいため、黒い服に目立つから。", "text_vi": "Vì bộ lông hơi trắng nên nổi bật trên quần áo tối màu.", "is_correct": true},
+          {"text": "猫が黒い服の上で寝るのが好きだから。", "text_vi": "Vì mèo thích ngủ trên quần áo tối màu.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói 「毛並みが白っぽいため、黒い服に毛がよくつく」→ ～っぽい = hơi trắng + ため = nguyên nhân → lông hơi trắng nên nổi rõ và bám vào quần áo tối màu. Câu 7 nói chải lông mỗi ngày giúp giảm bớt nhưng không phải nguyên nhân gốc rễ."
+      },
+      {
+        "id": "R_0163_Q3",
+        "question": "筆者はどんな人に猫を勧めていますか。",
+        "question_vi": "Tác giả gợi ý mèo phù hợp với ai?",
+        "answers": [
+          {"text": "子どもがいる家族向きだ。", "text_vi": "Phù hợp với gia đình có con nhỏ.", "is_correct": false},
+          {"text": "ペットが初めての人には難しすぎる。", "text_vi": "Quá khó đối với người lần đầu nuôi thú cưng.", "is_correct": false},
+          {"text": "運動が好きな人向きだ。", "text_vi": "Phù hợp với người thích vận động.", "is_correct": false},
+          {"text": "一人暮らしの人向きだ。", "text_vi": "Phù hợp với người sống một mình.", "is_correct": true}
+        ],
+        "explanation": "Câu 4 nói 「世話が比較的簡単なので、一人暮らしの人に向きのペットだと思う」→ ～向き = dành cho, phù hợp với + 一人暮らしの人 = người sống một mình. Lý do là việc chăm sóc đơn giản, không cần nhiều người hỗ trợ."
+      }
+    ]
+  },
+  {
+    "id": "R_0164",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "英語の勉強法を変えてみた",
+    "title_vi": "Thử thay đổi phương pháp học tiếng Anh",
+    "topic": "language",
+    "subtopic": "học ngoại ngữ",
+    "tags": ["ほど～ない", "に比べて", "きる"],
+    "grammar_used": ["～ほど～ない", "～に比べて", "～きる"],
+    "sentence_count": 10,
+    "text": "私は中学生のころから英語を勉強しているが、なかなか話せるようにならなかった。昔の勉強法に比べて、今はオンラインで話す練習がずっとしやすくなった。教科書だけで勉強していたころほど、会話が怖いとは思わなくなった。最初は自分の英語に自信が持てなかったが、毎日練習を続けることで少しずつ慣れてきた。先週、外国人の友達と一時間英語だけで話しきることができた。以前に比べて、英語で考える時間が自然と増えてきた気がする。文法を気にするほど、かえって言葉が出てこなくなることに気づいた。今は文法より伝えることを優先するようにしている。完璧な英語を目指すほど、話すことが怖くなるものだと思う。これからも諦めずに話し続けて、いつか英語を使いきれるくらいになりたい。",
+    "translation": "Tôi học tiếng Anh từ hồi trung học nhưng mãi vẫn không thể nói được. So với phương pháp học ngày xưa, hiện nay việc luyện nói qua mạng trở nên dễ dàng hơn nhiều. Tôi không còn sợ hội thoại nhiều như hồi chỉ học bằng sách giáo khoa nữa. Ban đầu tôi không có tự tin vào tiếng Anh của mình, nhưng nhờ kiên trì luyện tập mỗi ngày mà dần dần quen hơn. Tuần trước, tôi đã nói chuyện hoàn toàn bằng tiếng Anh với bạn nước ngoài suốt một tiếng đồng hồ. Có cảm giác thời gian suy nghĩ bằng tiếng Anh tự nhiên tăng lên so với trước đây. Tôi nhận ra rằng càng chú ý đến ngữ pháp thì lời lại càng không ra được. Hiện tại tôi đang ưu tiên truyền đạt ý hơn là ngữ pháp. Tôi nghĩ rằng càng nhắm đến tiếng Anh hoàn hảo thì lại càng sợ nói. Từ nay tôi muốn tiếp tục nói không bỏ cuộc, đến lúc nào đó có thể dùng tiếng Anh một cách triệt để.",
+    "vocabulary": [
+      {"word": "なかなか～ない", "reading": "なかなか～ない", "meaning": "mãi vẫn không, khó mà..."},
+      {"word": "自信", "reading": "じしん", "meaning": "sự tự tin"},
+      {"word": "優先する", "reading": "ゆうせんする", "meaning": "ưu tiên"},
+      {"word": "完璧", "reading": "かんぺき", "meaning": "hoàn hảo, hoàn toàn"},
+      {"word": "諦める", "reading": "あきらめる", "meaning": "bỏ cuộc, từ bỏ"},
+      {"word": "かえって", "reading": "かえって", "meaning": "ngược lại, trái lại, càng thêm"},
+      {"word": "伝える", "reading": "つたえる", "meaning": "truyền đạt, chuyển tải ý"}
+    ],
+    "process": [
+      {
+        "sentence": "私は中学生のころから英語を勉強しているが、なかなか話せるようにならなかった。",
+        "chunks": "私は / 中学生のころから / 英語を / 勉強しているが / なかなか話せるようにならなかった",
+        "guide": "🔒 Đóng gói [私は] = chủ đề → から chỉ điểm bắt đầu: 'từ hồi trung học' → 🔒 Đóng gói [英語を] = tân ngữ → 勉強しているが: が tương phản báo hiệu vấn đề → なかなか～ない: 💡 'mãi vẫn không thể...' diễn tả sự nỗ lực mà không đạt được → 話せるようにならなかった: vẫn không thể nói được.",
+        "translation": "Tôi học tiếng Anh từ hồi trung học nhưng mãi vẫn không thể nói được."
+      },
+      {
+        "sentence": "昔の勉強法に比べて、今はオンラインで話す練習がずっとしやすくなった。",
+        "chunks": "昔の勉強法に比べて / 今は / オンラインで話す練習が / ずっとしやすくなった",
+        "guide": "🔒 Đóng gói [昔の勉強法に比べて] = 'so với phương pháp học ngày xưa' → ～に比べて: 💡 'so sánh với X thì...' → báo hiệu: sắp có đánh giá tương phản → 🔒 Đóng gói [今は] = 'hiện nay' chủ đề thời gian → 🔒 Đóng gói [オンラインで話す練習が] = 'việc luyện nói qua mạng' chủ ngữ → ずっとしやすくなった: dễ hơn nhiều.",
+        "translation": "So với phương pháp học ngày xưa, hiện nay việc luyện nói qua mạng trở nên dễ dàng hơn nhiều."
+      },
+      {
+        "sentence": "教科書だけで勉強していたころほど、会話が怖いとは思わなくなった。",
+        "chunks": "教科書だけで勉強していたころほど / 会話が怖いとは / 思わなくなった",
+        "guide": "🔒 Đóng gói [教科書だけで勉強していたころほど] = 'nhiều như hồi chỉ học bằng sách giáo khoa' → ～ほど～ない: 💡 'không...đến mức như X' = so sánh mức độ, phủ định đạt tới ngưỡng X → 会話が怖い: sợ hội thoại → とは思わなくなった: không còn nghĩ như vậy nữa. Toàn câu: không còn sợ nhiều như trước.",
+        "translation": "Tôi không còn sợ hội thoại nhiều như hồi chỉ học bằng sách giáo khoa nữa."
+      },
+      {
+        "sentence": "最初は自分の英語に自信が持てなかったが、毎日練習を続けることで少しずつ慣れてきた。",
+        "chunks": "最初は / 自分の英語に自信が持てなかったが / 毎日練習を続けることで / 少しずつ慣れてきた",
+        "guide": "🔒 Đóng gói [最初は] = 'ban đầu' bối cảnh → 🔒 Đóng gói [自分の英語に自信が持てなかったが] = 'không có tự tin vào tiếng Anh của mình' → が tương phản → 🔒 Đóng gói [毎日練習を続けることで] = 'nhờ kiên trì luyện tập mỗi ngày' → で chỉ phương tiện/nguyên nhân → 少しずつ慣れてきた: dần dần quen hơn (てくる = thay đổi dần hướng đến hiện tại).",
+        "translation": "Ban đầu tôi không có tự tin vào tiếng Anh của mình, nhưng nhờ kiên trì luyện tập mỗi ngày mà dần dần quen hơn."
+      },
+      {
+        "sentence": "先週、外国人の友達と一時間英語だけで話しきることができた。",
+        "chunks": "先週 / 外国人の友達と / 一時間英語だけで / 話しきることができた",
+        "guide": "🔒 Đóng gói [先週] = bối cảnh thời gian → 🔒 Đóng gói [外国人の友達と] = 'cùng bạn nước ngoài' → 🔒 Đóng gói [一時間英語だけで] = 'suốt một tiếng chỉ bằng tiếng Anh' → 話しきる: ～きる = 💡 'làm đến cùng, làm hết/hoàn toàn' → ことができた: đã có thể làm được. Đây là thành tích nổi bật nhất trong bài.",
+        "translation": "Tuần trước, tôi đã nói chuyện hoàn toàn bằng tiếng Anh với bạn nước ngoài suốt một tiếng đồng hồ."
+      },
+      {
+        "sentence": "以前に比べて、英語で考える時間が自然と増えてきた気がする。",
+        "chunks": "以前に比べて / 英語で考える時間が / 自然と増えてきた気がする",
+        "guide": "🔒 Đóng gói [以前に比べて] = 'so với trước đây' → ～に比べて lần thứ hai → 💡 củng cố mẫu so sánh → 🔒 Đóng gói [英語で考える時間が] = 'thời gian suy nghĩ bằng tiếng Anh' chủ ngữ → 自然と増えてきた: tự nhiên tăng lên dần → 気がする: 'có cảm giác như' (không chắc chắn hoàn toàn, cảm nhận chủ quan).",
+        "translation": "Có cảm giác thời gian suy nghĩ bằng tiếng Anh tự nhiên tăng lên so với trước đây."
+      },
+      {
+        "sentence": "文法を気にするほど、かえって言葉が出てこなくなることに気づいた。",
+        "chunks": "文法を気にするほど / かえって / 言葉が出てこなくなること / に気づいた",
+        "guide": "🔒 Đóng gói [文法を気にするほど] = 'càng chú ý đến ngữ pháp' → ～ほど～ない lần thứ hai nhưng dạng khác: ～するほど + kết quả tiêu cực = 💡 'càng X thì càng Y (xấu hơn)' → かえって: 'ngược lại, trái với mong đợi' → 🔒 Đóng gói [言葉が出てこなくなること] = 'việc lời không ra được' → に気づいた: nhận ra điều đó.",
+        "translation": "Tôi nhận ra rằng càng chú ý đến ngữ pháp thì lời lại càng không ra được."
+      },
+      {
+        "sentence": "今は文法より伝えることを優先するようにしている。",
+        "chunks": "今は / 文法より / 伝えることを / 優先するようにしている",
+        "guide": "🔒 Đóng gói [今は] = 'hiện tại' chủ đề thời gian → 🔒 Đóng gói [文法より] = 'hơn ngữ pháp' → より chỉ so sánh 'hơn' → 🔒 Đóng gói [伝えることを] = 'việc truyền đạt ý' tân ngữ → 優先するようにしている: 💡 ～ようにしている = 'đang cố ý thực hiện thói quen/thay đổi hành vi'.",
+        "translation": "Hiện tại tôi đang ưu tiên truyền đạt ý hơn là ngữ pháp."
+      },
+      {
+        "sentence": "完璧な英語を目指すほど、話すことが怖くなるものだと思う。",
+        "chunks": "完璧な英語を目指すほど / 話すことが怖くなる / ものだと思う",
+        "guide": "🔒 Đóng gói [完璧な英語を目指すほど] = 'càng nhắm đến tiếng Anh hoàn hảo' → ～ほど lần thứ ba: củng cố mẫu 'càng X thì...' → 話すことが怖くなる: việc nói càng sợ hơn → ものだと思う: 💡 ものだ = quy luật tự nhiên/nhận định chung → tác giả đưa ra bài học.",
+        "translation": "Tôi nghĩ rằng càng nhắm đến tiếng Anh hoàn hảo thì lại càng sợ nói."
+      },
+      {
+        "sentence": "これからも諦めずに話し続けて、いつか英語を使いきれるくらいになりたい。",
+        "chunks": "これからも / 諦めずに話し続けて / いつか / 英語を使いきれるくらいに / なりたい",
+        "guide": "🔒 Đóng gói [これからも] = 'từ nay trở đi cũng' → も nhấn mạnh tiếp tục → 諦めずに: không bỏ cuộc + 話し続けて: tiếp tục nói → 🔒 Đóng gói [いつか] = 'một ngày nào đó' → 英語を使いきれる: ～きる lần thứ hai: 💡 使いきる = dùng đến mức triệt để, thành thạo hoàn toàn → くらいに: đến mức độ đó → なりたい: ước muốn. Câu kết thể hiện quyết tâm.",
+        "translation": "Từ nay tôi muốn tiếp tục nói không bỏ cuộc, đến lúc nào đó có thể dùng tiếng Anh một cách triệt để."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0164_Q1",
+        "question": "筆者が先週できたことは何ですか。",
+        "question_vi": "Tuần trước tác giả đã làm được điều gì?",
+        "answers": [
+          {"text": "英語の試験に合格した。", "text_vi": "Đã đỗ kỳ thi tiếng Anh.", "is_correct": false},
+          {"text": "外国人の友達と一時間英語だけで話しきることができた。", "text_vi": "Đã nói chuyện hoàn toàn bằng tiếng Anh với bạn nước ngoài suốt một tiếng đồng hồ.", "is_correct": true},
+          {"text": "英語のオンライン授業を受けきった。", "text_vi": "Đã học xong hết khóa học tiếng Anh trực tuyến.", "is_correct": false},
+          {"text": "英語で日記を書ききった。", "text_vi": "Đã viết xong nhật ký bằng tiếng Anh.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 nói 「先週、外国人の友達と一時間英語だけで話しきることができた」→ ～きる = làm đến cùng/hoàn toàn → đây là thành tích cụ thể tác giả đạt được tuần trước. ⚠️ Bẫy: các đáp án khác cũng dùng ～きる nhưng không có trong bài."
+      },
+      {
+        "id": "R_0164_Q2",
+        "question": "文法を気にしすぎると、どうなりますか。",
+        "question_vi": "Nếu quá để ý đến ngữ pháp thì sẽ xảy ra điều gì?",
+        "answers": [
+          {"text": "英語がもっと上手になる。", "text_vi": "Tiếng Anh trở nên giỏi hơn.", "is_correct": false},
+          {"text": "話すことが楽しくなる。", "text_vi": "Việc nói trở nên thú vị hơn.", "is_correct": false},
+          {"text": "かえって言葉が出てこなくなる。", "text_vi": "Ngược lại, lời lại không ra được.", "is_correct": true},
+          {"text": "文法のミスが減る。", "text_vi": "Lỗi ngữ pháp giảm đi.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói 「文法を気にするほど、かえって言葉が出てこなくなることに気づいた」→ ～ほど + kết quả tiêu cực + かえって = ngược lại trái với mong đợi → càng để ý ngữ pháp thì lời càng không ra được. Đây là phát hiện quan trọng của tác giả."
+      },
+      {
+        "id": "R_0164_Q3",
+        "question": "筆者が英語学習で学んだ大切なことは何ですか。",
+        "question_vi": "Điều quan trọng tác giả học được từ việc học tiếng Anh là gì?",
+        "answers": [
+          {"text": "完璧な文法を目指すことが一番大切だ。", "text_vi": "Nhắm đến ngữ pháp hoàn hảo là điều quan trọng nhất.", "is_correct": false},
+          {"text": "教科書だけで勉強するのが一番効果的だ。", "text_vi": "Chỉ học bằng sách giáo khoa là hiệu quả nhất.", "is_correct": false},
+          {"text": "文法より伝えることを優先し、諦めずに話し続けることが大切だ。", "text_vi": "Ưu tiên truyền đạt ý hơn ngữ pháp và tiếp tục nói không bỏ cuộc là điều quan trọng.", "is_correct": true},
+          {"text": "週に一回だけ練習すれば十分だ。", "text_vi": "Luyện tập một tuần một lần là đủ.", "is_correct": false}
+        ],
+        "explanation": "Câu 8 nói 「文法より伝えることを優先するようにしている」và câu cuối (câu 10) nói 「諦めずに話し続けて」→ hai bài học chính xuyên suốt bài: ưu tiên giao tiếp hơn ngữ pháp, và không bỏ cuộc. ⚠️ Bẫy: câu 9 nói 'hoàn hảo thì càng sợ' = tác giả phản đối việc nhắm đến hoàn hảo."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1573 @@
+[
+  {
+    "id": "L04_FP_01",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達と映画を見ました。",
+    "sentence_translation": "Xem phim cùng bạn.",
+    "question_text": "友達（　）映画を見ました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "と đánh dấu người đồng hành: bạn là người CÙNG xem phim",
+    "hint": "Cùng với ai → と",
+    "tags": [
+      "と",
+      "đồng_hành"
+    ]
+  },
+  {
+    "id": "L04_FP_02",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "りんごとみかんを買いました。",
+    "sentence_translation": "Đã mua táo và cam.",
+    "question_text": "りんご（　）みかんを買いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "も",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "か",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "や",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "と liệt kê đầy đủ: CHỈ CÓ táo và cam, không có gì khác",
+    "hint": "Liệt kê đầy đủ (chỉ 2 thứ) → と",
+    "tags": [
+      "と",
+      "liệt_kê"
+    ]
+  },
+  {
+    "id": "L04_FP_03",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "「おはよう」と言いました。",
+    "sentence_translation": "Đã nói \"Chào buổi sáng.\"",
+    "question_text": "「おはよう」（　）言いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "「」と đánh dấu nội dung trích dẫn: nội dung được NÓI ra",
+    "hint": "Trích dẫn lời nói → と",
+    "tags": [
+      "と",
+      "trích_dẫn"
+    ]
+  },
+  {
+    "id": "L04_FP_04",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "春になると桜が咲きます。",
+    "sentence_translation": "Hễ đến xuân, anh đào nở.",
+    "question_text": "春になる（　）桜が咲きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "と điều kiện tất yếu: hễ đến xuân → anh đào nở (quy luật tự nhiên, luôn xảy ra)",
+    "hint": "Điều kiện tự nhiên / tất yếu → と",
+    "tags": [
+      "と",
+      "điều_kiện"
+    ]
+  },
+  {
+    "id": "L04_FP_05",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "東京から来ました。",
+    "sentence_translation": "Đến từ Tokyo.",
+    "question_text": "東京（　）来ました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "より",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "まで",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "から đánh dấu điểm xuất phát: Tokyo là nơi ĐI TỪ",
+    "hint": "Điểm bắt đầu (không gian) → から",
+    "tags": [
+      "から",
+      "điểm_bắt_đầu"
+    ]
+  },
+  {
+    "id": "L04_FP_06",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "9時から働きます。",
+    "sentence_translation": "Làm việc từ 9 giờ.",
+    "question_text": "9時（　）働きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "まで",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "から đánh dấu thời điểm bắt đầu: 9 giờ là lúc BẮT ĐẦU làm việc",
+    "hint": "Điểm bắt đầu (thời gian) → から",
+    "tags": [
+      "から",
+      "thời_gian"
+    ]
+  },
+  {
+    "id": "L04_FP_07",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "雨だから行きません。",
+    "sentence_translation": "Vì mưa nên không đi.",
+    "question_text": "雨だ（　）行きません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "から = lý do chủ quan: \"vì mưa\" (phán đoán cá nhân) nên không đi",
+    "hint": "Nguyên nhân chủ quan → から",
+    "tags": [
+      "から",
+      "nguyên_nhân"
+    ]
+  },
+  {
+    "id": "L04_FP_08",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "5時まで働きます。",
+    "sentence_translation": "Làm việc đến 5 giờ.",
+    "question_text": "5時（　）働きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "まで",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まで đánh dấu điểm kết thúc: 5 giờ là lúc DỪNG làm việc",
+    "hint": "Điểm kết thúc (thời gian) → まで",
+    "tags": [
+      "まで",
+      "điểm_kết_thúc"
+    ]
+  },
+  {
+    "id": "L04_FP_09",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "金曜日までに出してください。",
+    "sentence_translation": "Xin hãy nộp trước thứ sáu.",
+    "question_text": "金曜日（　）出してください。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "まで",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "までに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "までに = trước hạn. まで = liên tục ĐẾN. Nộp bài = hành động 1 lần → cần hạn chót → までに",
+    "hint": "Hạn chót (trước khi) → までに",
+    "tags": [
+      "までに",
+      "hạn_chót"
+    ]
+  },
+  {
+    "id": "L04_FP_10",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "東京より大阪の方が好きです。",
+    "sentence_translation": "Thích Osaka hơn Tokyo.",
+    "question_text": "東京（　）大阪の方が好きです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "まで",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "より",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "より đánh dấu đối tượng bị so sánh: Tokyo là cái THUA trong so sánh",
+    "hint": "So sánh → より",
+    "tags": [
+      "より",
+      "so_sánh"
+    ]
+  },
+  {
+    "id": "L04_FP_11",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達から聞きました。",
+    "sentence_translation": "Nghe từ bạn.",
+    "question_text": "友達（　）聞きました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "から đánh dấu nguồn/xuất xứ: bạn là NGUỒN thông tin (nghe TỪ bạn)",
+    "hint": "Nguồn thông tin → から",
+    "tags": [
+      "から",
+      "nguồn"
+    ]
+  },
+  {
+    "id": "L04_FP_12",
+    "lesson_id": 4,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生と話しました。",
+    "sentence_translation": "Nói chuyện với thầy.",
+    "question_text": "先生（　）話しました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "と tương tác hai chiều: nói chuyện VỚI thầy (2 bên cùng tham gia). Khác に = một chiều",
+    "hint": "Tương tác hai chiều → と",
+    "tags": [
+      "と",
+      "tương_tác"
+    ]
+  },
+  {
+    "id": "L04_PR_13",
+    "lesson_id": 4,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達と映画を見ました。",
+    "sentence_translation": "Xem phim cùng bạn.",
+    "question_text": "友達と... → Gặp [Người]と, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có di chuyển một mình",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp làm gì đó CÙNG NHAU",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Người]と → dự đoán: sắp có hành động làm cùng nhau",
+    "hint": null,
+    "tags": [
+      "と",
+      "đồng_hành",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L04_PR_14",
+    "lesson_id": 4,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "東京から大阪まで行きます。",
+    "sentence_translation": "Đi từ Tokyo đến Osaka.",
+    "question_text": "東京から... → Gặp [Nơi]から, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có di chuyển hoặc まで",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có cảm xúc",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Nơi]から → dự đoán: sắp có di chuyển từ đây, hoặc まで (điểm kết thúc)",
+    "hint": null,
+    "tags": [
+      "から",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L04_PR_15",
+    "lesson_id": 4,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "春になると桜が咲きます。",
+    "sentence_translation": "Hễ đến xuân, anh đào nở.",
+    "question_text": "春になると... → Gặp [V]と, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có KẾT QUẢ TẤT YẾU (quy luật)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có tương phản",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có lý do",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có đồng hành",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[V]と → điều kiện tự nhiên → dự đoán: kết quả tất yếu xảy ra sau điều kiện",
+    "hint": null,
+    "tags": [
+      "と",
+      "điều_kiện",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L04_PR_16",
+    "lesson_id": 4,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "バスより電車の方が速いです。",
+    "sentence_translation": "Tàu điện nhanh hơn xe buýt.",
+    "question_text": "バスより... → Gặp より, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có SO SÁNH → đợi 方が + tính từ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có di chuyển",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "より → dự đoán: sắp so sánh → đợi 方が + tính từ",
+    "hint": null,
+    "tags": [
+      "より",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L04_PR_17",
+    "lesson_id": 4,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "雨だから行きません。",
+    "sentence_translation": "Vì mưa nên không đi.",
+    "question_text": "雨だから... → Gặp [Lý do]から, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có liệt kê",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tương phản",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có KẾT QUẢ / HÀNH ĐỘNG",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có thất vọng",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Lý do]から → dự đoán: sắp có kết quả/hành động do lý do này",
+    "hint": null,
+    "tags": [
+      "から",
+      "nguyên_nhân",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L04_PR_18",
+    "lesson_id": 4,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ご飯を食べてから出かけます。",
+    "sentence_translation": "Sau khi ăn cơm, ra ngoài.",
+    "question_text": "食べてから... → Gặp Vてから, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có tương phản",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có lý do",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động TIẾP THEO (sau khi)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Vてから → dự đoán: sắp có hành động tiếp theo sau khi hoàn thành hành động trước",
+    "hint": null,
+    "tags": [
+      "てから",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L04_CH_19",
+    "lesson_id": 4,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "友達と映画を見ました",
+    "sentence_translation": "Xem phim cùng bạn.",
+    "question_text": "友達と映画を見ました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "友達と",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "映画を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "見ました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 友達と / 映画を / 見ました. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "と",
+      "を",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L04_CH_20",
+    "lesson_id": 4,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "東京から来ました",
+    "sentence_translation": "Đến từ Tokyo.",
+    "question_text": "東京から来ました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "東京から",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "来ました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 東京から / 来ました. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "から",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L04_CH_21",
+    "lesson_id": 4,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "9時から5時まで働きます",
+    "sentence_translation": "Làm việc từ 9 giờ đến 5 giờ.",
+    "question_text": "9時から5時まで働きます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "9時から",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "5時まで",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "働きます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 9時から / 5時まで / 働きます. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "から",
+      "まで",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L04_CH_22",
+    "lesson_id": 4,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "先生は「静かに」と言いました",
+    "sentence_translation": "Thầy đã nói \"im lặng.\"",
+    "question_text": "先生は「静かに」と言いました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "先生は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "「静かに」と",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "言いました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 先生は / 「静かに」と / 言いました. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "は",
+      "と",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L04_CH_23",
+    "lesson_id": 4,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "バスより電車の方が速いです",
+    "sentence_translation": "Tàu điện nhanh hơn xe buýt.",
+    "question_text": "バスより電車の方が速いです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "バスより",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "電車の方が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "速いです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: バスより / 電車の方が / 速いです. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "より",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L04_CH_24",
+    "lesson_id": 4,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "ご飯を食べてから出かけます",
+    "sentence_translation": "Sau khi ăn cơm, ra ngoài.",
+    "question_text": "ご飯を食べてから出かけます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "ご飯を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "食べてから",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "出かけます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: ご飯を / 食べてから / 出かけます. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "てから",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L04_PD_25",
+    "lesson_id": 4,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生と話しました。/ 先生に話しました。",
+    "sentence_translation": "Nói chuyện với thầy. / Nói với thầy (báo cáo).",
+    "question_text": "Câu nào là tương tác HAI CHIỀU (2 bên cùng nói)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "先生と話しました。(と = hai chiều, cùng tham gia)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "先生に話しました。(に = một chiều, báo cáo)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "と = tương tác hai chiều (bàn bạc, trò chuyện). に = một chiều (báo cáo, thông báo cho ai)",
+    "hint": null,
+    "tags": [
+      "と",
+      "に",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L04_PD_26",
+    "lesson_id": 4,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "5時まで働きます。/ 5時までに出してください。",
+    "sentence_translation": "Làm việc đến 5 giờ. / Xin hãy nộp trước 5 giờ.",
+    "question_text": "Câu nào có nghĩa \"hạn chót\" (phải xong TRƯỚC)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "5時までに出してください。(までに = trước hạn 5 giờ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "5時まで働きます。(まで = liên tục đến 5 giờ)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まで = liên tục ĐẾN thời điểm đó. までに = trước thời điểm đó (hạn chót)",
+    "hint": null,
+    "tags": [
+      "まで",
+      "までに",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L04_PD_27",
+    "lesson_id": 4,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "りんごとみかんを買いました。/ りんごやみかんを買いました。",
+    "sentence_translation": "Mua táo và cam. / Mua táo, cam (và nhiều thứ khác).",
+    "question_text": "Câu nào nghĩa là \"CHỈ MUA 2 thứ, không có gì khác\"?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "りんごやみかんを買いました。(や = đại diện, còn nữa)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "りんごとみかんを買いました。(と = đầy đủ, chỉ bấy nhiêu)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "と liệt kê ĐẦY ĐỦ: chỉ có táo và cam. や liệt kê ĐẠI DIỆN: táo, cam và còn nhiều thứ khác",
+    "hint": null,
+    "tags": [
+      "と",
+      "や",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L04_PK_28",
+    "lesson_id": 4,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "9時から5時まで働きます。",
+    "sentence_translation": "Làm việc từ 9 giờ đến 5 giờ.",
+    "question_text": "🔒 9時から / 5時まで → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"5 giờ\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"9 giờ\" → sắp có di chuyển",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"9 giờ\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"từ 9 giờ đến 5 giờ\" → khoảng thời gian → sắp có hành động",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: から+まで → gom thành \"khoảng thời gian từ 9h đến 5h\" → giải phóng bộ nhớ → dự đoán hành động",
+    "hint": null,
+    "tags": [
+      "から",
+      "まで",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L04_PK_29",
+    "lesson_id": 4,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "東京から大阪まで新幹線で行きます。",
+    "sentence_translation": "Đi từ Tokyo đến Osaka bằng tàu shinkansen.",
+    "question_text": "🔒 東京から / 大阪まで → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"Tokyo\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Tokyo\" → sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"từ Tokyo đến Osaka\" → quãng đường → sắp có phương tiện/hành động",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Osaka\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: từ Tokyo đến Osaka → gom thành \"quãng đường\" → dự đoán: đi bằng gì? làm gì?",
+    "hint": null,
+    "tags": [
+      "から",
+      "まで",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L04_PK_30",
+    "lesson_id": 4,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "バスより電車の方が速いです。",
+    "sentence_translation": "Tàu điện nhanh hơn xe buýt.",
+    "question_text": "🔒 バスより → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"xe buýt\" → より = chuẩn so sánh → sắp có 方が + tính từ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"xe buýt\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"xe buýt\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"xe buýt\" → sắp có di chuyển",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"xe buýt\" làm chuẩn so sánh → giải phóng bộ nhớ → chờ xem cái gì hơn xe buýt",
+    "hint": null,
+    "tags": [
+      "より",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L04_PK_31",
+    "lesson_id": 4,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "雨だから行きません。",
+    "sentence_translation": "Vì mưa nên không đi.",
+    "question_text": "🔒 雨だから → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"mưa\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"mưa\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"mưa\" → sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"vì mưa\" → から = lý do → sắp có kết quả/hành động",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"vì mưa\" → giải phóng bộ nhớ, giữ lý do → dự đoán kết quả/hành động tiếp theo",
+    "hint": null,
+    "tags": [
+      "から",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L04_RO_32",
+    "lesson_id": 4,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "友達と映画を見ました。",
+    "sentence_translation": "Xem phim cùng bạn.",
+    "question_text": "友達と映画を見ました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "見ました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "映画を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "友達と",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 友達と / 映画を / 見ました. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "と",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L04_RO_33",
+    "lesson_id": 4,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "9時から5時まで働きます。",
+    "sentence_translation": "Làm việc từ 9 giờ đến 5 giờ.",
+    "question_text": "9時から5時まで働きます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "働きます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "5時まで",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "9時から",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 9時から / 5時まで / 働きます. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "から",
+      "まで",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L04_RO_34",
+    "lesson_id": 4,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "先生は「静かに」と言いました。",
+    "sentence_translation": "Thầy đã nói \"im lặng.\"",
+    "question_text": "先生は「静かに」と言いました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "言いました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "先生は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "「静かに」と",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Thứ tự đúng: 先生は / 「静かに」と / 言いました. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "は",
+      "と",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L04_RO_35",
+    "lesson_id": 4,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "バスより電車の方が速いです。",
+    "sentence_translation": "Tàu điện nhanh hơn xe buýt.",
+    "question_text": "バスより電車の方が速いです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "速いです",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "電車の方が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "バスより",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: バスより / 電車の方が / 速いです. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "より",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L04_QT_36",
+    "lesson_id": 4,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達と映画を見ました。",
+    "sentence_translation": "Xem phim cùng bạn.",
+    "question_text": "友達と / 映画を / 見ました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Xem phim cho bạn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi đến bạn xem phim.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xem phim cùng bạn.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Bạn xem phim.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "と = cùng với. 友達と = cùng bạn → hành động cùng nhau",
+    "hint": null,
+    "tags": [
+      "と",
+      "đồng_hành",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L04_QT_37",
+    "lesson_id": 4,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "東京から大阪まで行きます。",
+    "sentence_translation": "Đi từ Tokyo đến Osaka.",
+    "question_text": "東京から / 大阪まで / 行きます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Ở Tokyo đến Osaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi Tokyo và Osaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tokyo gần Osaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi từ Tokyo đến Osaka.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "から = từ (điểm bắt đầu). まで = đến (điểm kết thúc)",
+    "hint": null,
+    "tags": [
+      "から",
+      "まで",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L04_QT_38",
+    "lesson_id": 4,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "春になると桜が咲きます。",
+    "sentence_translation": "Hễ đến xuân, anh đào nở.",
+    "question_text": "春になると / 桜が / 咲きます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Mùa xuân và anh đào.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hễ đến xuân, anh đào nở.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Anh đào nở từ mùa xuân.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Muốn đến mùa xuân vì anh đào.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "と = điều kiện tất yếu. Hễ đến xuân → anh đào CHẮC CHẮN nở (quy luật)",
+    "hint": null,
+    "tags": [
+      "と",
+      "điều_kiện",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L04_QT_39",
+    "lesson_id": 4,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子供まで知っています。",
+    "sentence_translation": "Thậm chí trẻ con cũng biết.",
+    "question_text": "子供まで / 知っています。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Thậm chí trẻ con cũng biết.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Biết đến trẻ con.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trẻ con biết hết.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trẻ con biết đến.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "まで = mức độ \"thậm chí\". 子供まで = thậm chí trẻ con (bất ngờ)",
+    "hint": null,
+    "tags": [
+      "まで",
+      "mức_độ",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L04_QT_40",
+    "lesson_id": 4,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ご飯を食べてから出かけます。",
+    "sentence_translation": "Sau khi ăn cơm, ra ngoài.",
+    "question_text": "ご飯を / 食べてから / 出かけます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Vì ăn cơm nên ra ngoài.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sau khi ăn cơm, ra ngoài.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Ăn cơm rồi về nhà.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ra ngoài ăn cơm.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "てから = sau khi. Ăn cơm XONG → rồi mới ra ngoài (trình tự)",
+    "hint": null,
+    "tags": [
+      "てから",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L04_QT_41",
+    "lesson_id": 4,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "金曜日までに出してください。",
+    "sentence_translation": "Xin hãy nộp trước thứ sáu.",
+    "question_text": "金曜日までに / 出してください。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Xin hãy nộp trước thứ sáu.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Nộp vào thứ sáu.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nộp từ thứ sáu.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nộp đến thứ sáu.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "までに = trước hạn. Thứ sáu là DEADLINE, phải nộp TRƯỚC đó",
+    "hint": null,
+    "tags": [
+      "までに",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L04_QT_42",
+    "lesson_id": 4,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "りんごとみかんを買いました。",
+    "sentence_translation": "Đã mua táo và cam.",
+    "question_text": "りんごと / みかんを / 買いました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Táo và cam có.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã mua táo cho cam.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã mua táo và cam.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đã mua táo từ cam.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "と liệt kê đầy đủ: táo VÀ cam (chỉ 2 thứ này)",
+    "hint": null,
+    "tags": [
+      "と",
+      "liệt_kê",
+      "dịch"
+    ]
+  }
+]

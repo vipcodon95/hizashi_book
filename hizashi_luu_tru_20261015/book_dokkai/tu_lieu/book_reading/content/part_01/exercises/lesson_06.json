@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "L06_FP_01",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "高いですがおいしいです。",
+    "sentence_translation": "Đắt nhưng ngon.",
+    "question_text": "高いです（　）おいしいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "し",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "が nối 2 mệnh đề tương phản: \"đắt\" NHƯNG \"ngon\"",
+    "hint": "Tương phản → が",
+    "tags": [
+      "が",
+      "tương_phản"
+    ]
+  },
+  {
+    "id": "L06_FP_02",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語は難しいですけど面白いです。",
+    "sentence_translation": "Tiếng Nhật khó nhưng thú vị.",
+    "question_text": "日本語は難しいです（　）面白いです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "し",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "けど = nhưng (thân mật). が = nhưng (trang trọng). Cả hai đều tương phản",
+    "hint": "Tương phản (văn nói) → けど",
+    "tags": [
+      "けど",
+      "tương_phản"
+    ]
+  },
+  {
+    "id": "L06_FP_03",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "病気なので休みます。",
+    "sentence_translation": "Vì bệnh nên nghỉ.",
+    "question_text": "病気な（　）休みます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ので = vì (khách quan, lịch sự). Bệnh → nghỉ là kết quả tất nhiên",
+    "hint": "Nguyên nhân khách quan, lịch sự → ので",
+    "tags": [
+      "ので",
+      "nguyên_nhân"
+    ]
+  },
+  {
+    "id": "L06_FP_04",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "勉強したのに落ちました。",
+    "sentence_translation": "Đã học vậy mà trượt.",
+    "question_text": "勉強した（　）落ちました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "し",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "のに = vậy mà, mặc dù. Cảm xúc thất vọng: đã học RỒI VẬY MÀ trượt",
+    "hint": "Kết quả bất ngờ, thất vọng → のに",
+    "tags": [
+      "のに",
+      "thất_vọng"
+    ]
+  },
+  {
+    "id": "L06_FP_05",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "安いしおいしいしこの店が好きです。",
+    "sentence_translation": "Vừa rẻ, vừa ngon, thích tiệm này.",
+    "question_text": "安い（　）おいしい（　）この店が好きです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ので...ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど...けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに...のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "し...し",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "し liệt kê lý do: \"vừa rẻ, vừa ngon\" (và còn lý do khác) → kết luận: thích",
+    "hint": "Liệt kê nhiều lý do → し",
+    "tags": [
+      "し",
+      "liệt_kê"
+    ]
+  },
+  {
+    "id": "L06_FP_06",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本へ行くなら京都がいいですよ。",
+    "sentence_translation": "Nếu đi Nhật, Kyoto tốt đấy.",
+    "question_text": "日本へ行く（　）京都がいいですよ。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "と",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "なら",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "なら = nếu là...thì (đưa lời khuyên). Tiếp nhận \"đi Nhật\" → gợi ý Kyoto",
+    "hint": "Lời khuyên dựa trên ngữ cảnh → なら",
+    "tags": [
+      "なら",
+      "lời_khuyên"
+    ]
+  },
+  {
+    "id": "L06_FP_07",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "試験があるので勉強しています。",
+    "sentence_translation": "Vì có thi nên đang học.",
+    "question_text": "試験がある（　）勉強しています。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ので",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ので khách quan: có thi → đang học (kết quả tự nhiên, ai cũng hiểu)",
+    "hint": "Nguyên nhân khách quan → ので",
+    "tags": [
+      "ので",
+      "nguyên_nhân"
+    ]
+  },
+  {
+    "id": "L06_FP_08",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "約束したのに来ませんでした。",
+    "sentence_translation": "Đã hẹn vậy mà không đến.",
+    "question_text": "約束した（　）来ませんでした。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "のに = thất vọng: đã hẹn (kỳ vọng đến) VẬY MÀ không đến (kết quả ngược)",
+    "hint": "Thất vọng, bất mãn → のに",
+    "tags": [
+      "のに",
+      "thất_vọng"
+    ]
+  },
+  {
+    "id": "L06_FP_09",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "すみませんが、ちょっといいですか。",
+    "sentence_translation": "Xin lỗi, cho tôi hỏi chút.",
+    "question_text": "すみません（　）、ちょっといいですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が ở đây không phải \"nhưng\", mà là mào đầu lịch sự: \"xin lỗi, [cho tôi hỏi]...\"",
+    "hint": "が mào đầu (không mang nghĩa \"nhưng\") → が",
+    "tags": [
+      "が",
+      "mào_đầu"
+    ]
+  },
+  {
+    "id": "L06_FP_10",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語ならわかります。",
+    "sentence_translation": "Nếu là tiếng Nhật thì hiểu.",
+    "question_text": "日本語（　）わかります。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "なら",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "なら giới hạn: \"nếu là tiếng Nhật\" thì hiểu (ẩn ý: ngôn ngữ khác thì không chắc)",
+    "hint": "Giới hạn chủ đề: \"nếu là cái này thì...\" → なら",
+    "tags": [
+      "なら",
+      "giới_hạn"
+    ]
+  },
+  {
+    "id": "L06_FP_11",
+    "lesson_id": 6,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "忙しいしお金もないし行けません。",
+    "sentence_translation": "Vừa bận, vừa không có tiền, không đi được.",
+    "question_text": "忙しい（　）お金もない（　）行けません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "し...し",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "けど...けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに...のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので...ので",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "し liệt kê: \"bận\" + \"không tiền\" (và có thể còn lý do khác) → kết luận: không đi được",
+    "hint": "Liệt kê nhiều lý do dẫn đến kết luận → し",
+    "tags": [
+      "し",
+      "liệt_kê"
+    ]
+  },
+  {
+    "id": "L06_PR_12",
+    "lesson_id": 6,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "高いですがおいしいです。",
+    "sentence_translation": "Đắt nhưng ngon.",
+    "question_text": "高いですが... → Gặp が, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có kết quả tất yếu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có liệt kê lý do",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vế sau sẽ TƯƠNG PHẢN",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có thất vọng",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が → tương phản → dự đoán: vế sau ngược lại với \"đắt\" → chờ điều tốt",
+    "hint": null,
+    "tags": [
+      "が",
+      "tương_phản",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L06_PR_13",
+    "lesson_id": 6,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "病気なので休みます。",
+    "sentence_translation": "Vì bệnh nên nghỉ.",
+    "question_text": "病気なので... → Gặp ので, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có liệt kê",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có kết quả bất ngờ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có kết quả TẤT NHIÊN (khách quan)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có tương phản",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ので → nguyên nhân khách quan → dự đoán: kết quả tất nhiên (bệnh → nghỉ)",
+    "hint": null,
+    "tags": [
+      "ので",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L06_PR_14",
+    "lesson_id": 6,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "勉強したのに落ちました。",
+    "sentence_translation": "Đã học vậy mà trượt.",
+    "question_text": "勉強したのに... → Gặp のに, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có kết quả tất yếu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có kết quả BẤT NGỜ / THẤT VỌNG",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có kết quả tốt",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có liệt kê",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "のに → thất vọng → dự đoán: kết quả NGƯỢC với kỳ vọng (đã học → lẽ ra đỗ → nhưng...)",
+    "hint": null,
+    "tags": [
+      "のに",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L06_PR_15",
+    "lesson_id": 6,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "安いしおいしいし...",
+    "sentence_translation": "Vừa rẻ, vừa ngon...",
+    "question_text": "安いしおいしいし... → Gặp し lặp lại, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có KẾT LUẬN dựa trên các lý do",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có thất vọng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tương phản",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có thêm câu hỏi",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "し...し → liệt kê lý do → dự đoán: sắp có kết luận tổng hợp",
+    "hint": null,
+    "tags": [
+      "し",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L06_PR_16",
+    "lesson_id": 6,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本へ行くなら...",
+    "sentence_translation": "Nếu đi Nhật...",
+    "question_text": "日本へ行くなら... → Gặp なら, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có liệt kê",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có thất vọng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có LỜI KHUYÊN / gợi ý",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có lý do",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "なら → dựa trên ngữ cảnh → dự đoán: sắp có lời khuyên, gợi ý, phản hồi",
+    "hint": null,
+    "tags": [
+      "なら",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L06_PR_17",
+    "lesson_id": 6,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "すみませんが...",
+    "sentence_translation": "Xin lỗi...",
+    "question_text": "すみませんが... → Gặp が mào đầu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có liệt kê",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tương phản",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có YÊU CẦU / CÂU HỎI",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có kết quả",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が mào đầu → không phải \"nhưng\" → dự đoán: sắp có yêu cầu, nhờ vả lịch sự",
+    "hint": null,
+    "tags": [
+      "が",
+      "mào_đầu",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L06_CH_18",
+    "lesson_id": 6,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "高いですがおいしいです",
+    "sentence_translation": "Đắt nhưng ngon.",
+    "question_text": "高いですがおいしいです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "高いですが",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "おいしいです",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 高いですが / おいしいです. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "が",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L06_CH_19",
+    "lesson_id": 6,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "病気なので休みます",
+    "sentence_translation": "Vì bệnh nên nghỉ.",
+    "question_text": "病気なので休みます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "病気なので",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "休みます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 病気なので / 休みます. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "ので",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L06_CH_20",
+    "lesson_id": 6,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "勉強したのに落ちました",
+    "sentence_translation": "Đã học vậy mà trượt.",
+    "question_text": "勉強したのに落ちました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "勉強したのに",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "落ちました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 勉強したのに / 落ちました. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "のに",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L06_CH_21",
+    "lesson_id": 6,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "安いしおいしいしこの店が好きです",
+    "sentence_translation": "Vừa rẻ, vừa ngon, thích tiệm này.",
+    "question_text": "安いしおいしいしこの店が好きです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "安いし",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "おいしいし",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "この店が",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "好きです",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "Chia 4 khối: 安いし / おいしいし / この店が / 好きです. Mỗi bunsetsu = danh từ + trợ từ hoặc cụm động từ.",
+    "hint": null,
+    "tags": [
+      "し",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L06_CH_22",
+    "lesson_id": 6,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本へ行くなら京都がいいですよ",
+    "sentence_translation": "Nếu đi Nhật, Kyoto tốt đấy.",
+    "question_text": "日本へ行くなら京都がいいですよ",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本へ行くなら",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "京都が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "いいですよ",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 日本へ行くなら / 京都が / いいですよ. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "なら",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L06_CH_23",
+    "lesson_id": 6,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "約束したのに来ませんでした",
+    "sentence_translation": "Đã hẹn vậy mà không đến.",
+    "question_text": "約束したのに来ませんでした",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "約束したのに",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "来ませんでした",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 約束したのに / 来ませんでした. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "のに",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L06_PD_24",
+    "lesson_id": 6,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "病気なので休みます。/ 薬を飲んだのに治らない。",
+    "sentence_translation": "Vì bệnh nên nghỉ. / Uống thuốc rồi vậy mà không khỏi.",
+    "question_text": "Câu nào mang cảm xúc THẤT VỌNG?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "薬を飲んだのに治らない。(のに = vậy mà → thất vọng)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "病気なので休みます。(ので = vì → kết quả tự nhiên)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ので = nguyên nhân khách quan (trung tính). のに = mặc dù (thất vọng, bất mãn)",
+    "hint": null,
+    "tags": [
+      "ので",
+      "のに",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L06_PD_25",
+    "lesson_id": 6,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "雨だから行きません。/ 雨なので行きません。",
+    "sentence_translation": "Vì mưa nên không đi. / Vì mưa nên không đi.",
+    "question_text": "Câu nào khách quan, lịch sự hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "雨だから行きません。(から = chủ quan)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "雨なので行きません。(ので = khách quan, lịch sự)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "から chủ quan: nhấn phán đoán cá nhân. ので khách quan: lịch sự, thường dùng trong công việc",
+    "hint": null,
+    "tags": [
+      "から",
+      "ので",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L06_PD_26",
+    "lesson_id": 6,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語は難しいですが、面白いです。/ 日本語は難しいのに、面白くない。",
+    "sentence_translation": "Tiếng Nhật khó nhưng thú vị. / Tiếng Nhật khó vậy mà không thú vị.",
+    "question_text": "Câu nào kết quả TÍCH CỰC?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "日本語は難しいのに、面白くない。(のに = vậy mà → thất vọng)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "日本語は難しいですが、面白いです。(が = nhưng → tích cực)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "が = tương phản trung tính (có thể tốt/xấu). のに = bất ngờ tiêu cực (thất vọng)",
+    "hint": null,
+    "tags": [
+      "が",
+      "のに",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L06_PK_27",
+    "lesson_id": 6,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "高いですがおいしいです。",
+    "sentence_translation": "Đắt nhưng ngon.",
+    "question_text": "🔒 高いですが → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"đắt\" → ので = vì → sắp có kết quả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"đắt\" → が = tương phản → sắp có điều NGƯỢC LẠI",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"đắt\" → sắp có liệt kê",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"đắt\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"đắt\" → が báo hiệu tương phản → giải phóng bộ nhớ → chờ điều ngược lại",
+    "hint": null,
+    "tags": [
+      "が",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L06_PK_28",
+    "lesson_id": 6,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "勉強したのに落ちました。",
+    "sentence_translation": "Đã học vậy mà trượt.",
+    "question_text": "🔒 勉強したのに → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"học\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"học\" → sắp có liệt kê",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"đã học rồi\" → のに = vậy mà → sắp có kết quả BẤT NGỜ/THẤT VỌNG",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"đã học\" → ので = vì → sắp có kết quả tốt",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"đã học rồi\" → のに báo hiệu thất vọng → giải phóng bộ nhớ → chờ kết quả xấu",
+    "hint": null,
+    "tags": [
+      "のに",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L06_PK_29",
+    "lesson_id": 6,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "安いしおいしいしこの店が好きです。",
+    "sentence_translation": "Vừa rẻ, vừa ngon, thích tiệm này.",
+    "question_text": "🔒 安いし / おいしいし → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"rẻ\" + \"ngon\" → sắp có thất vọng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"rẻ\" → sắp có tương phản",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"ngon\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"rẻ\" + \"ngon\" → し = lý do → sắp có KẾT LUẬN",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"rẻ\" + \"ngon\" → し liệt kê lý do → giải phóng bộ nhớ → chờ kết luận tổng hợp",
+    "hint": null,
+    "tags": [
+      "し",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L06_PK_30",
+    "lesson_id": 6,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本へ行くなら京都がいいですよ。",
+    "sentence_translation": "Nếu đi Nhật, Kyoto tốt đấy.",
+    "question_text": "🔒 日本へ行くなら → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"đi Nhật\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"nếu đi Nhật\" → なら = điều kiện → sắp có LỜI KHUYÊN",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"đi Nhật\" → sắp có thất vọng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"đi Nhật\" → sắp có lý do",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"nếu đi Nhật\" → なら = tiếp nhận ngữ cảnh → dự đoán: sắp có gợi ý/khuyên",
+    "hint": null,
+    "tags": [
+      "なら",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L06_RO_31",
+    "lesson_id": 6,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "病気なので休みます。",
+    "sentence_translation": "Vì bệnh nên nghỉ.",
+    "question_text": "病気なので休みます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "休みます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "病気なので",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 病気なので / 休みます. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "ので",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L06_RO_32",
+    "lesson_id": 6,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "安いしおいしいしこの店が好きです。",
+    "sentence_translation": "Vừa rẻ, vừa ngon, thích tiệm này.",
+    "question_text": "安いしおいしいしこの店が好きです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "この店が好きです",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "おいしいし",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "安いし",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 安いし / おいしいし / この店が好きです. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "し",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L06_RO_33",
+    "lesson_id": 6,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本へ行くなら京都がいいですよ。",
+    "sentence_translation": "Nếu đi Nhật, Kyoto tốt đấy.",
+    "question_text": "日本へ行くなら京都がいいですよ。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "京都がいいですよ",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本へ行くなら",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 日本へ行くなら / 京都がいいですよ. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "なら",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L06_RO_34",
+    "lesson_id": 6,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "約束したのに来ませんでした。",
+    "sentence_translation": "Đã hẹn vậy mà không đến.",
+    "question_text": "約束したのに来ませんでした。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "来ませんでした",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "約束したのに",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 約束したのに / 来ませんでした. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "のに",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L06_QT_35",
+    "lesson_id": 6,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "高いですがおいしいです。",
+    "sentence_translation": "Đắt nhưng ngon.",
+    "question_text": "高いですが / おいしいです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đắt nhưng ngon.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đắt vậy mà ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đắt và ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đắt nên ngon.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が = nhưng (tương phản trung tính). \"Đắt\" và \"ngon\" là 2 vế đối lập",
+    "hint": null,
+    "tags": [
+      "が",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L06_QT_36",
+    "lesson_id": 6,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "病気なので休みます。",
+    "sentence_translation": "Vì bệnh nên nghỉ.",
+    "question_text": "病気なので / 休みます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Bệnh nhưng vẫn đi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bệnh rồi mới nghỉ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bệnh vậy mà không nghỉ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vì bệnh nên nghỉ.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ので = vì (khách quan). Bệnh → nghỉ: kết quả tất nhiên",
+    "hint": null,
+    "tags": [
+      "ので",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L06_QT_37",
+    "lesson_id": 6,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "勉強したのに落ちました。",
+    "sentence_translation": "Đã học vậy mà trượt.",
+    "question_text": "勉強したのに / 落ちました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đã học nên đỗ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Học rồi mới trượt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã học vậy mà trượt.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Vì đã học nên trượt.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "のに = vậy mà (thất vọng). Kỳ vọng: học → đỗ. Thực tế: trượt → thất vọng!",
+    "hint": null,
+    "tags": [
+      "のに",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L06_QT_38",
+    "lesson_id": 6,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "安いしおいしいしこの店が好きです。",
+    "sentence_translation": "Vừa rẻ, vừa ngon, thích tiệm này.",
+    "question_text": "安いし / おいしいし / この店が好きです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Rẻ nên ngon, thích tiệm này.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Rẻ nhưng ngon, thích tiệm này.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Rẻ vậy mà ngon, thích tiệm này.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vừa rẻ, vừa ngon, thích tiệm này.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "し = liệt kê lý do: \"vừa...vừa...\" (rẻ + ngon = lý do thích)",
+    "hint": null,
+    "tags": [
+      "し",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L06_QT_39",
+    "lesson_id": 6,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本へ行くなら京都がいいですよ。",
+    "sentence_translation": "Nếu đi Nhật, Kyoto tốt đấy.",
+    "question_text": "日本へ行くなら / 京都がいいですよ。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Vì đi Nhật nên đến Kyoto.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nếu đi Nhật, Kyoto tốt đấy.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đi Nhật nhưng không đến Kyoto.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi Nhật rồi đến Kyoto.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "なら = nếu (lời khuyên). Tiếp nhận \"đi Nhật\" → gợi ý \"Kyoto tốt đấy\"",
+    "hint": null,
+    "tags": [
+      "なら",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L06_QT_40",
+    "lesson_id": 6,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "すみませんが、ちょっといいですか。",
+    "sentence_translation": "Xin lỗi, cho tôi hỏi chút.",
+    "question_text": "すみませんが / ちょっといいですか。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Xin lỗi, cho tôi hỏi chút.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Xin lỗi vì không tốt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin lỗi vậy mà hỏi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin lỗi nhưng không được.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が mào đầu: không phải \"nhưng\", mà là mở đầu lịch sự trước yêu cầu",
+    "hint": null,
+    "tags": [
+      "が",
+      "mào_đầu",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L06_QT_41",
+    "lesson_id": 6,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語ならわかります。",
+    "sentence_translation": "Nếu là tiếng Nhật thì hiểu.",
+    "question_text": "日本語なら / わかります。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tiếng Nhật nhưng hiểu.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nếu là tiếng Nhật thì hiểu.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Vì tiếng Nhật nên hiểu.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tiếng Nhật vậy mà hiểu.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "なら giới hạn chủ đề: \"nếu là tiếng Nhật\" thì OK (ngôn ngữ khác thì không chắc)",
+    "hint": null,
+    "tags": [
+      "なら",
+      "giới_hạn",
+      "dịch"
+    ]
+  }
+]

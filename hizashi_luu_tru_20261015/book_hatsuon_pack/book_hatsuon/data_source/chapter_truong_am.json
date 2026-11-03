@@ -1,0 +1,351 @@
+{
+  "chapter_id": 1,
+  "title": "Trường Âm (長音): Thử Thách Lớn Nhất của Người Việt",
+  "intro": "Tại sao bạn nghe 'おばさん' (cô/dì) thành 'おばあさん' (bà)? Chương này giải mã cơ chế ngôn ngữ học khiến trường âm trở thành 'điểm mù' của người học tiếng Nhật.",
+  "sections": {
+    "1.1": {
+      "title": "Trường Âm là gì?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "**Trường âm (長音 - chōon)** là nguyên âm được kéo dài gấp đôi thời lượng bình thường. Trong hệ thống mora của tiếng Nhật, một nguyên âm ngắn chiếm **1 mora**, còn nguyên âm dài chiếm **2 mora**."
+        },
+        {
+          "type": "comparison_table",
+          "title": "Cách viết Trường âm",
+          "headers": ["Hệ thống", "Nguyên âm ngắn", "Trường âm", "Ghi chú"],
+          "rows": [
+            ["Hiragana", "あ a", "ああ aa", "Viết thêm あ"],
+            ["Hiragana", "い i", "いい ii", "Viết thêm い"],
+            ["Hiragana", "う u", "うう uu", "Viết thêm う"],
+            ["Hiragana", "え e", "ええ ee / えい ei", "Thường viết えい"],
+            ["Hiragana", "お o", "おお oo / おう ou", "Thường viết おう"],
+            ["Katakana", "ア a", "アー aa", "Dùng ký hiệu ー"]
+          ]
+        },
+        {
+          "type": "key_point",
+          "title": "Đặc điểm âm học của Trường âm",
+          "points": [
+            "**Thời lượng**: Nguyên âm dài kéo dài **2.5 - 3 lần** so với nguyên âm ngắn",
+            "**Mora**: Trường âm = 2 mora, ngắn âm = 1 mora",
+            "**Cao độ**: Trường âm có thể mang **2 cao độ khác nhau** (H-L hoặc L-H)",
+            "**Không có biến đổi chất lượng**: Nguyên âm dài và ngắn có **cùng âm sắc**, chỉ khác độ dài"
+          ]
+        },
+        {
+          "type": "example_box",
+          "title": "Ví dụ đếm mora với Trường âm",
+          "examples": [
+            {"word": "東京", "romaji": "To-o-kyo-o", "meaning": "4 mora (2 trường âm)", "mora": 4},
+            {"word": "大阪", "romaji": "O-o-sa-ka", "meaning": "4 mora (1 trường âm đầu)", "mora": 4},
+            {"word": "お母さん", "romaji": "O-ka-a-sa-n", "meaning": "5 mora (1 trường âm)", "mora": 5},
+            {"word": "空港", "romaji": "Ku-u-ko-o", "meaning": "4 mora (2 trường âm)", "mora": 4},
+            {"word": "先生", "romaji": "Se-n-se-e", "meaning": "4 mora (1 âm mũi + 1 trường âm)", "mora": 4}
+          ]
+        }
+      ]
+    },
+    "1.2": {
+      "title": "Tại sao Trường âm Phân biệt Nghĩa?",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Trong tiếng Nhật, độ dài nguyên âm là **đặc trưng âm vị học** (phonemic feature), nghĩa là nó **phân biệt nghĩa** giữa các từ. Đây là điểm khác biệt cơ bản với tiếng Việt."
+        },
+        {
+          "type": "comparison_table",
+          "title": "Cặp từ Tối thiểu (Minimal Pairs) - Trường âm",
+          "headers": ["Ngắn", "Nghĩa", "Dài", "Nghĩa", "Hệ quả nhầm lẫn"],
+          "rows": [
+            ["おばさん (obasan)", "Cô/Dì", "おばあさん (obaasan)", "Bà", "Gọi người trẻ là 'bà' = bất lịch sự"],
+            ["おじさん (ojisan)", "Chú/Bác", "おじいさん (ojiisan)", "Ông", "Gọi nhầm thế hệ"],
+            ["ビル (biru)", "Tòa nhà", "ビール (biiru)", "Bia", "Ngữ cảnh sai hoàn toàn"],
+            ["ゆき (yuki)", "Tuyết", "ゆうき (yuuki)", "Dũng khí", "Hiểu sai nội dung"],
+            ["いえ (ie)", "Nhà", "いいえ (iie)", "Không", "Đảo ngược ý nghĩa"],
+            ["ここ (koko)", "Đây", "こうこう (koukou)", "Trường cấp 3", "Danh từ hoàn toàn khác"],
+            ["とる (toru)", "Lấy", "とおる (tooru)", "Đi qua", "Động từ khác nghĩa"],
+            ["くき (kuki)", "Thân cây", "くうき (kuuki)", "Không khí", "Danh từ hoàn toàn khác"]
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "Trong giao tiếp thực tế, nhầm lẫn trường âm có thể gây **hiểu lầm nghiêm trọng** hoặc **bất lịch sự**. Ví dụ kinh điển: gọi một phụ nữ 40 tuổi là 'おばあさん' (bà già) thay vì 'おばさん' (cô/dì) sẽ khiến họ rất khó chịu!"
+        }
+      ]
+    },
+    "1.3": {
+      "title": "Giả thuyết Đặc trưng (Feature Hypothesis): Tại sao Chúng ta 'Điếc' với Trường âm",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Nghiên cứu ngôn ngữ học L2 (Second Language Acquisition) đã chỉ ra một quy luật quan trọng gọi là **Giả thuyết Đặc trưng (Feature Hypothesis)**: Người học ngôn ngữ thứ hai gặp khó khăn lớn nhất với những **đặc trưng âm vị không tồn tại trong tiếng mẹ đẻ**."
+        },
+        {
+          "type": "key_point",
+          "title": "Vận dụng vào thực tế",
+          "points": [
+            "**Tiếng Việt không có độ dài nguyên âm âm vị học**: 'a' ngắn và 'a' dài không phân biệt nghĩa trong tiếng Việt",
+            "**Não bộ không được huấn luyện**: Hệ thống tri giác âm thanh chưa từng cần phân biệt độ dài",
+            "**Lọc âm thanh vô thức**: Não tự động 'bỏ qua' thông tin về độ dài vì nó không quan trọng trong tiếng Việt",
+            "**Kết quả**: Chúng ta nghe 'おばさん' và 'おばあさん' như **cùng một từ**"
+          ]
+        },
+        {
+          "type": "comparison_table",
+          "title": "So sánh Hệ thống Nguyên âm",
+          "headers": ["Đặc điểm", "Tiếng Việt", "Tiếng Nhật"],
+          "rows": [
+            ["Độ dài nguyên âm", "Không phân biệt nghĩa", "Phân biệt nghĩa"],
+            ["Thanh điệu", "6 thanh điệu (phân biệt nghĩa)", "Không có thanh điệu"],
+            ["Cao độ", "Phức tạp, gắn với từng âm tiết", "Đơn giản, H/L, gắn với từ"],
+            ["Đặc trưng chính", "Pitch contour (đường cao độ)", "Duration (độ dài)"],
+            ["Ví dụ phân biệt", "ma-mà-mả-mã-má-mạ", "biru-biiru, yuki-yuuki"]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nhiều người cho rằng việc người học từ nền tiếng Việt gặp khó khăn khi phân biệt trường âm (vowel length) trong tiếng Nhật là điều hiển nhiên vì tiếng Việt không có đối lập nguyên âm dài – ngắn. Tuy nhiên, nghiên cứu của Trang Thi Huyen Le và cộng sự (2025) đã chỉ ra một góc nhìn sâu sắc hơn: thách thức này không chỉ bắt nguồn từ sự khác biệt về mặt cấu trúc âm vị, mà còn từ **chiến lược xử lý âm thanh đặc thù của người nói ngôn ngữ thanh điệu**. Cụ thể, não bộ có xu hướng ưu tiên xử lý cao độ (pitch) hơn là độ dài nguyên âm (duration), dẫn đến ranh giới tri giác dài – ngắn trong tiếng Nhật trở nên mờ hơn."
+        },
+        {
+          "type": "reference",
+          "citation": "Trang Thi Huyen Le, Mariko Kondo, and Kimiko Tsukada (2025). Cross-linguistic transfer of acoustic cues: Perception of Japanese vowel length by learners from Vietnamese-speaking background. *Second Language Research*.",
+          "doi": "https://doi.org/10.1177/02676583251355203"
+        }
+      ]
+    },
+    "1.4": {
+      "title": "Xung đột Mora-timing vs Syllable-timing",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Một nguyên nhân sâu xa khác nằm ở sự khác biệt về **nhịp điệu ngôn ngữ**. Tiếng Nhật là **mora-timed** (đếm theo phách), trong khi tiếng Việt là **syllable-timed** (đếm theo âm tiết)."
+        },
+        {
+          "type": "example_box",
+          "title": "Cách đếm khác nhau: Từ 'Tokyo' (東京)",
+          "examples": [
+            {"word": "Lỗi thường gặp", "romaji": "TO - KYO", "meaning": "2 âm tiết, thời gian bằng nhau", "mora": 2},
+            {"word": "Phát âm chuẩn", "romaji": "TO - O - KYO - O", "meaning": "4 mora, mỗi mora = 1 đơn vị thời gian", "mora": 4}
+          ]
+        },
+        {
+          "type": "key_point",
+          "title": "Hệ quả của Xung đột Nhịp điệu",
+          "points": [
+            "**Nén thời gian**: Nghe 'とうきょう' như 2 âm tiết thay vì 4 mora",
+            "**Mất thông tin độ dài**: Trường âm bị 'nuốt' vào âm tiết đi trước",
+            "**Nhịp điệu sai**: Nói tiếng Nhật với nhịp syllable-timed nghe rất 'ngoại quốc'",
+            "**Nghe không kịp**: Khi người Nhật nói nhanh, mora đều đặn, người nghe bị 'trôi'"
+          ]
+        },
+        {
+          "type": "comparison_table",
+          "title": "Phân tích Thời gian: 'おばあさん' (obaasan)",
+          "headers": ["Phân tích", "Cách chia", "Thời gian", "Ghi chú"],
+          "rows": [
+            ["Theo Mora (đúng)", "o-ba-a-sa-n", "5 đơn vị", "Mỗi mora = 1 đơn vị"],
+            ["Theo Âm tiết (sai)", "o-baa-san", "3 đơn vị", "Người Việt nghe như vậy"],
+            ["So với 'おばさん'", "o-ba-sa-n", "4 đơn vị", "Chênh lệch 1 mora"],
+            ["Thực tế âm thanh", "~150ms/mora", "750ms vs 600ms", "Chênh 150ms = 1 mora"]
+          ]
+        },
+        {
+          "type": "tip",
+          "text": "Khi luyện nghe, hãy **đếm mora** thay vì đếm âm tiết. Dùng ngón tay gõ nhịp theo từng mora sẽ giúp não quen dần với hệ thống mora-timed."
+        }
+      ]
+    },
+    "1.5": {
+      "title": "Giao thoa từ Hệ thống Thanh điệu Tiếng Việt",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Hệ thống **6 thanh điệu** của tiếng Việt tạo ra một loại **giao thoa tiêu cực** (negative transfer) đặc biệt: não bộ được huấn luyện để chú ý đến **cao độ** hơn là **độ dài**."
+        },
+        {
+          "type": "comparison_table",
+          "title": "Ưu tiên Xử lý Âm thanh",
+          "headers": ["Não quen thanh điệu", "Não quen mora-timing"],
+          "rows": [
+            ["Ưu tiên 1: Cao độ (pitch)", "Ưu tiên 1: Độ dài (duration)"],
+            ["Ưu tiên 2: Đường cao độ (contour)", "Ưu tiên 2: Cao độ tương đối (H/L)"],
+            ["Ưu tiên 3: Độ dài (không quan trọng)", "Ưu tiên 3: Chất lượng nguyên âm"],
+            ["Lọc bỏ: Thông tin độ dài", "Lọc bỏ: Thông tin thanh điệu phức tạp"]
+          ]
+        },
+        {
+          "type": "key_point",
+          "title": "Cơ chế Giao thoa",
+          "points": [
+            "**Quy nguyên âm dài về thanh điệu**: Có thể nghe trường âm như một **thanh kéo dài** thay vì 2 mora",
+            "**Nhầm H→L thành nguyên âm dài**: Khi cao độ giảm (pitch drop), có thể nghe thành trường âm",
+            "**Bỏ qua độ dài khi có pitch**: Nếu từ có pitch accent rõ, thông tin độ dài bị 'che' mất",
+            "**Thêm thanh điệu vào trường âm**: Khi nói, người học có xu hướng thêm 'sắc' hoặc 'huyền' vào trường âm"
+          ]
+        },
+        {
+          "type": "example_box",
+          "title": "Minh họa Giao thoa: 'せんせい' (sensei)",
+          "examples": [
+            {"word": "Phát âm chuẩn", "romaji": "SE-N-SE-E (L-H-H-H)", "meaning": "4 mora, cao độ bậc thang", "mora": 4},
+            {"word": "Lỗi thường gặp", "romaji": "SÉN-SÊI", "meaning": "2 âm tiết, thêm thanh sắc + huyền", "mora": 2},
+            {"word": "Lỗi 1", "romaji": "Nén 4 mora → 2 âm tiết", "meaning": "Mất nhịp mora-timed", "mora": 0},
+            {"word": "Lỗi 2", "romaji": "Thêm thanh điệu Việt", "meaning": "Sắc ở 'sen', huyền/ngang ở 'sei'", "mora": 0}
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "Nghiên cứu so sánh cho thấy người nói **tiếng Ý** (có phân biệt độ dài nguyên âm) nhận diện trường âm tiếng Nhật tốt hơn nhiều so với người nói **tiếng Quan Thoại** hay **tiếng Việt** (ngôn ngữ thanh điệu). Điều này chứng minh 'Feature Hypothesis' là chính xác."
+        }
+      ]
+    },
+    "1.6": {
+      "title": "Phân tích Âm học Chi tiết",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Để hiểu rõ hơn thử thách, hãy xem xét các **thông số âm học** cụ thể của trường âm tiếng Nhật."
+        },
+        {
+          "type": "comparison_table",
+          "title": "Thông số Âm học của Trường âm",
+          "headers": ["Thông số", "Nguyên âm ngắn", "Trường âm", "Tỷ lệ"],
+          "rows": [
+            ["Thời lượng trung bình", "~80-100ms", "~200-300ms", "2.5-3x"],
+            ["Trong nói nhanh", "~60-80ms", "~150-200ms", "2-2.5x"],
+            ["Trong nói chậm", "~100-120ms", "~250-350ms", "2.5-3x"],
+            ["Ngưỡng nhận diện", "-", "~180% ngắn", "Dưới = không nhận ra"]
+          ]
+        },
+        {
+          "type": "key_point",
+          "title": "Các Tín hiệu Âm học của Trường âm",
+          "points": [
+            "**Tín hiệu chính**: Độ dài (duration) - chiếm ~70% khả năng nhận diện",
+            "**Tín hiệu phụ**: Cường độ (intensity) - trường âm có thể hơi mạnh hơn",
+            "**Tín hiệu ngữ cảnh**: Nhịp điệu tổng thể của câu",
+            "**KHÔNG có biến đổi**: Formant (âm sắc) giữ nguyên, không thay đổi chất lượng"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Điểm quan trọng: Trường âm tiếng Nhật **KHÔNG** thay đổi **chất lượng âm thanh** (vowel quality). Đây là khác biệt với tiếng Anh, nơi nguyên âm dài/ngắn thường đi kèm thay đổi âm sắc (như /i:/ vs /ɪ/). Trong tiếng Nhật, 'a' ngắn và 'aa' dài có **cùng formant**, chỉ khác **độ dài**."
+        },
+        {
+          "type": "example_box",
+          "title": "So sánh với Tiếng Anh",
+          "examples": [
+            {"word": "Tiếng Anh: 'beat'", "romaji": "/biːt/", "meaning": "i dài + âm sắc căng (tense)", "mora": 0},
+            {"word": "Tiếng Anh: 'bit'", "romaji": "/bɪt/", "meaning": "i ngắn + âm sắc lỏng (lax)", "mora": 0},
+            {"word": "Tiếng Nhật: 'ビール'", "romaji": "biiru", "meaning": "i dài, cùng âm sắc với i ngắn", "mora": 3},
+            {"word": "Tiếng Nhật: 'ビル'", "romaji": "biru", "meaning": "i ngắn, cùng âm sắc với i dài", "mora": 2}
+          ]
+        },
+        {
+          "type": "tip",
+          "text": "Vì tiếng Nhật không thay đổi âm sắc, bạn **KHÔNG thể** dựa vào 'nghe âm khác nhau' để phân biệt dài/ngắn. Bạn **PHẢI** huấn luyện tai nghe **độ dài** - một kỹ năng hoàn toàn mới."
+        }
+      ]
+    },
+    "1.7": {
+      "title": "Trường âm trong Dòng Lời nói",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Trong thực tế giao tiếp, trường âm xuất hiện trong **dòng lời nói liên tục**, không phải từng từ riêng lẻ. Điều này tạo thêm thử thách cho người nghe."
+        },
+        {
+          "type": "comparison_table",
+          "title": "Trường âm trong Ngữ cảnh",
+          "headers": ["Câu", "Phân tích Mora", "Tổng mora", "Lỗi thường gặp"],
+          "rows": [
+            ["東京に行きます", "to-o-kyo-o-ni-i-ki-ma-su", "9 mora", "Nghe 'tokyo' 2 âm tiết"],
+            ["お母さんはどこ？", "o-ka-a-sa-n-wa-do-ko", "8 mora", "Bỏ qua trường âm 'kaa'"],
+            ["空港まで遠い", "ku-u-ko-o-ma-de-to-o-i", "9 mora", "Nghe 'kuukoo' như 'kuko'"],
+            ["先生、ありがとう", "se-n-se-e-a-ri-ga-to-o", "9 mora", "Nén 'sensee' thành 2 âm"]
+          ]
+        },
+        {
+          "type": "key_point",
+          "title": "Thử thách trong Dòng Lời nói",
+          "points": [
+            "**Tốc độ nói**: Người Nhật nói ~7-8 mora/giây, khó bắt kịp từng mora",
+            "**Ranh giới từ mờ**: Các từ nối liền nhau, trường âm có thể 'chạy' qua ranh giới",
+            "**Biến thiên cá nhân**: Mỗi người nói trường âm với độ dài hơi khác nhau",
+            "**Ngữ điệu câu**: Trường âm có thể bị ảnh hưởng bởi intonation cuối câu"
+          ]
+        },
+        {
+          "type": "example_box",
+          "title": "Ví dụ: Ranh giới mờ",
+          "examples": [
+            {"word": "「行こう」と言った", "romaji": "i-ko-o-to-i-t-ta", "meaning": "Trường âm 'oo' chạy qua ranh giới từ", "mora": 7},
+            {"word": "Lỗi phổ biến", "romaji": "ikō to itta", "meaning": "Có thể nhầm 'koo' thành 'ko' + 'to'", "mora": 0},
+            {"word": "大阪の人", "romaji": "o-o-sa-ka-no-hi-to", "meaning": "Trường âm đầu tiên dễ bị bỏ qua", "mora": 7}
+          ]
+        },
+        {
+          "type": "warning",
+          "text": "Trong hội thoại thực tế, bạn có thể nghe đúng **từng từ riêng lẻ** khi được nói chậm, nhưng **mất khả năng nhận diện** trường âm khi nghe cả câu với tốc độ bình thường. Đây là do não không đủ thời gian xử lý thông tin độ dài."
+        }
+      ]
+    },
+    "1.8": {
+      "title": "Chiến lược Luyện nghe Trường âm",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Vượt qua 'điểm mù' trường âm đòi hỏi **huấn luyện có hệ thống**. Dưới đây là các phương pháp đã được nghiên cứu chứng minh hiệu quả."
+        },
+        {
+          "type": "numbered_list",
+          "items": [
+            {
+              "title": "Luyện Cặp Tối thiểu (Minimal Pair Training)",
+              "detail": "Nghe và phân biệt các cặp từ chỉ khác nhau ở độ dài: おばさん/おばあさん, ビル/ビール. Bắt đầu chậm, tăng dần tốc độ. Mục tiêu: >90% chính xác."
+            },
+            {
+              "title": "Đếm Mora (Mora Counting)",
+              "detail": "Khi nghe, dùng ngón tay gõ nhịp theo từng mora. Đếm thành tiếng: 'to-o-kyo-o = 1-2-3-4'. Sau đó đếm thầm. Cuối cùng tự động hóa."
+            },
+            {
+              "title": "Shadowing với Chú ý Đặc biệt",
+              "detail": "Shadowing bình thường + **cố ý kéo dài** trường âm. Phóng đại độ dài ban đầu, sau đó điều chỉnh về chuẩn. Điều này giúp não 'ghi nhớ' cảm giác trường âm."
+            },
+            {
+              "title": "Phân tích Spectrogram",
+              "detail": "Dùng app như Praat để **nhìn** sóng âm. Trường âm sẽ hiển thị dài hơn rõ rệt. Kết hợp nghe + nhìn giúp não tạo liên kết mới."
+            },
+            {
+              "title": "Transcription Test",
+              "detail": "Nghe câu tiếng Nhật và viết lại bằng hiragana. Chú ý đặc biệt đến việc viết đúng trường âm (ああ, おう, etc.). Kiểm tra với transcript."
+            },
+            {
+              "title": "Slowed-down Listening",
+              "detail": "Dùng app nghe chậm 0.75x hoặc 0.5x để nghe rõ trường âm. Tăng dần tốc độ về 1x. Não cần thời gian thích nghi với tín hiệu độ dài."
+            }
+          ]
+        },
+        {
+          "type": "tip",
+          "text": "Nghiên cứu cho thấy cần khoảng **20-40 giờ** luyện tập tập trung để người học bắt đầu tự động nhận diện trường âm. Kiên nhẫn và đều đặn là chìa khóa!"
+        },
+        {
+          "type": "key_point",
+          "title": "Nguyên tắc Huấn luyện",
+          "points": [
+            "**Explicit > Implicit**: Học có ý thức hiệu quả hơn nghe ngẫu nhiên",
+            "**Focused > Distributed**: Tập trung 30 phút/ngày tốt hơn 5 phút rải rác",
+            "**Production + Perception**: Luyện cả nói (phát âm dài) và nghe (nhận diện dài)",
+            "**Feedback**: Cần có cách kiểm tra đúng/sai, không chỉ nghe suông"
+          ]
+        },
+        {
+          "type": "motivation",
+          "text": "Trường âm là thử thách lớn, nhưng **KHÔNG phải bất khả thi**. Hàng ngàn người học đã vượt qua và đạt phát âm chuẩn. Với hiểu biết đúng và phương pháp phù hợp, bạn cũng sẽ làm được!"
+        }
+      ]
+    }
+  }
+}

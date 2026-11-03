@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "title": "Pitch Accent - Cao độ tiếng Nhật",
+    "title_jp": "高低アクセント",
+    "description": "Hệ thống cao độ (pitch) trong tiếng Nhật - Yếu tố quan trọng để nghe hiểu tự nhiên",
+    "importance": "Pitch accent có thể thay đổi nghĩa của từ hoàn toàn",
+    "notation": "OJAD style - L(Low), H(High), với downstep marker",
+    "version": "1.0"
+  },
+
+  "basics": {
+    "what_is_pitch_accent": {
+      "description": "Tiếng Nhật sử dụng cao độ (pitch) thay vì trọng âm (stress) như tiếng Anh",
+      "comparison": {
+        "english": "Stress accent - Nhấn mạnh bằng âm lượng và độ dài",
+        "japanese": "Pitch accent - Phân biệt bằng cao/thấp của giọng",
+        "vietnamese": "Thanh điệu - 6 thanh cố định cho mỗi âm tiết"
+      },
+      "key_point": "Mỗi mora trong tiếng Nhật có thể ở mức HIGH hoặc LOW"
+    },
+
+    "notation_systems": {
+      "ojad_style": {
+        "description": "Kiểu ký hiệu của Online Japanese Accent Dictionary",
+        "symbols": {
+          "L": "Low - Thấp",
+          "H": "High - Cao",
+          "downstep": "Vị trí hạ giọng (từ H xuống L)"
+        },
+        "example": {
+          "word": "にほん",
+          "pattern": "LHH",
+          "meaning": "Nhật Bản",
+          "explanation": "に(L) ほ(H) ん(H)"
+        }
+      },
+      "number_system": {
+        "description": "Ký hiệu bằng số chỉ vị trí downstep",
+        "rules": [
+          "0 = Heiban (平板) - Không có downstep",
+          "1 = Atamadaka (頭高) - Downstep sau mora 1",
+          "2 = Nakadaka (中高) - Downstep sau mora 2",
+          "n = Downstep sau mora thứ n"
+        ],
+        "example": {
+          "word": "はし",
+          "accent_1": "1 = Hˡ-ả-shi (đũa) - 箸",
+          "accent_2": "2 = hà-SHˡ-i (cầu) - 橋",
+          "accent_0": "0 = hà-SHÍ (đầu mút) - 端"
+        }
+      },
+      "visual_line": {
+        "description": "Đường kẻ cao/thấp trực quan",
+        "example": "にほん: ＿￣￣ (thấp-cao-cao)"
+      }
+    },
+
+    "basic_rules": [
+      {
+        "rule": "Mora đầu tiên và mora thứ hai LUÔN khác pitch",
+        "explanation": "Nếu mora 1 là L thì mora 2 là H, và ngược lại",
+        "examples": [
+          { "word": "さくら", "pattern": "LHH", "note": "Bắt đầu L → mora 2 phải H" },
+          { "word": "あめ", "pattern": "HL", "note": "Bắt đầu H → mora 2 phải L" }
+        ]
+      },
+      {
+        "rule": "Sau khi hạ xuống L, KHÔNG thể lên H lại trong cùng một từ",
+        "explanation": "Downstep chỉ xảy ra một lần",
+        "valid": "LHHHL ✓",
+        "invalid": "LHLHL ✗"
+      },
+      {
+        "rule": "Phương ngữ Tokyo là chuẩn (標準語)",
+        "note": "Các vùng khác có thể có pitch khác nhau"
+      }
+    ]
+  },
+
+  "four_patterns": {
+    "description": "4 kiểu pitch accent cơ bản trong tiếng Nhật",
+
+    "heiban": {
+      "name_jp": "平板型",
+      "name_romaji": "Heiban-gata",
+      "name_vi": "Kiểu phẳng",
+      "accent_number": 0,
+      "pattern": "L-H-H-H... (không có downstep)",
+      "description": "Bắt đầu thấp, lên cao và GIỮ NGUYÊN cao đến hết từ (kể cả trợ từ sau)",
+
+      "visual": {
+        "2_mora": "＿￣ (LH)",
+        "3_mora": "＿￣￣ (LHH)",
+        "4_mora": "＿￣￣￣ (LHHH)",
+        "with_particle": "＿￣￣￣ が￣ (LHHH + が cũng H)"
+      },
+
+      "examples": [
+        { "word": "はな", "kanji": "花", "pattern": "LH", "meaning": "hoa", "with_ga": "はなが (LHH)" },
+        { "word": "さくら", "kanji": "桜", "pattern": "LHH", "meaning": "hoa anh đào" },
+        { "word": "にほん", "kanji": "日本", "pattern": "LHH", "meaning": "Nhật Bản" },
+        { "word": "おとこ", "kanji": "男", "pattern": "LHH", "meaning": "đàn ông" },
+        { "word": "あたま", "kanji": "頭", "pattern": "LHH", "meaning": "đầu" },
+        { "word": "ともだち", "kanji": "友達", "pattern": "LHHH", "meaning": "bạn bè" },
+        { "word": "たべもの", "kanji": "食べ物", "pattern": "LHHH", "meaning": "đồ ăn" }
+      ],
+
+      "key_feature": "Trợ từ sau từ heiban vẫn giữ pitch CAO"
+    },
+
+    "atamadaka": {
+      "name_jp": "頭高型",
+      "name_romaji": "Atamadaka-gata",
+      "name_vi": "Kiểu đầu cao",
+      "accent_number": 1,
+      "pattern": "H-L-L-L... (downstep ngay sau mora 1)",
+      "description": "Mora đầu CAO, sau đó tất cả THẤP",
+
+      "visual": {
+        "2_mora": "￣＿ (HL)",
+        "3_mora": "￣＿＿ (HLL)",
+        "4_mora": "￣＿＿＿ (HLLL)",
+        "with_particle": "￣＿＿ が＿ (HLL + が cũng L)"
+      },
+
+      "examples": [
+        { "word": "あめ", "kanji": "雨", "pattern": "HL", "meaning": "mưa" },
+        { "word": "いのち", "kanji": "命", "pattern": "HLL", "meaning": "mạng sống" },
+        { "word": "いもうと", "kanji": "妹", "pattern": "HLLL", "meaning": "em gái" },
+        { "word": "めがね", "kanji": "眼鏡", "pattern": "HLL", "meaning": "kính" },
+        { "word": "カメラ", "pattern": "HLL", "meaning": "máy ảnh" },
+        { "word": "テレビ", "pattern": "HLL", "meaning": "TV" }
+      ],
+
+      "key_feature": "Dễ nhận biết - Chỉ mora đầu tiên cao"
+    },
+
+    "nakadaka": {
+      "name_jp": "中高型",
+      "name_romaji": "Nakadaka-gata",
+      "name_vi": "Kiểu giữa cao",
+      "accent_number": "2, 3, 4... (tùy vị trí downstep)",
+      "pattern": "L-H..H-L-L (downstep ở giữa từ)",
+      "description": "Bắt đầu thấp, lên cao, rồi hạ xuống TRƯỚC mora cuối",
+
+      "visual": {
+        "3_mora_acc2": "＿￣＿ (LHL) - accent 2",
+        "4_mora_acc2": "＿￣＿＿ (LHLL) - accent 2",
+        "4_mora_acc3": "＿￣￣＿ (LHHL) - accent 3",
+        "with_particle": "＿￣＿ が＿ (LHL + が cũng L)"
+      },
+
+      "examples": [
+        { "word": "たまご", "kanji": "卵", "pattern": "LHL", "accent": 2, "meaning": "trứng" },
+        { "word": "おとうと", "kanji": "弟", "pattern": "LHLL", "accent": 2, "meaning": "em trai" },
+        { "word": "おんがく", "kanji": "音楽", "pattern": "LHLL", "accent": 2, "meaning": "âm nhạc" },
+        { "word": "あたらしい", "kanji": "新しい", "pattern": "LHHLL", "accent": 3, "meaning": "mới" },
+        { "word": "おもしろい", "kanji": "面白い", "pattern": "LHHLL", "accent": 3, "meaning": "thú vị" }
+      ],
+
+      "key_feature": "Downstep xảy ra ở giữa - pitch xuống trước khi hết từ"
+    },
+
+    "odaka": {
+      "name_jp": "尾高型",
+      "name_romaji": "Odaka-gata",
+      "name_vi": "Kiểu cuối cao",
+      "accent_number": "= số mora (downstep sau mora cuối)",
+      "pattern": "L-H-H...H↓ (downstep sau mora cuối, thể hiện qua trợ từ)",
+      "description": "Giống heiban khi đứng một mình, nhưng trợ từ sau sẽ THẤP",
+
+      "visual": {
+        "2_mora": "＿￣ (LH) - giống heiban",
+        "2_mora_with_ga": "＿￣ が＿ (LH + が L) - KHÁC heiban!",
+        "3_mora": "＿￣￣ (LHH)",
+        "3_mora_with_ga": "＿￣￣ が＿ (LHH + が L)"
+      },
+
+      "examples": [
+        { "word": "はな", "kanji": "鼻", "pattern": "LH", "meaning": "mũi", "with_ga": "はなが (LHL)", "note": "vs 花 (heiban): はなが (LHH)" },
+        { "word": "いもうと", "kanji": "妹", "pattern": "LHHH", "accent": 4, "meaning": "em gái", "with_ga": "いもうとが (LHHHL)" },
+        { "word": "おとこ", "kanji": "男", "pattern": "LHH", "meaning": "đàn ông", "with_ga": "おとこが (LHHL)" },
+        { "word": "やま", "kanji": "山", "pattern": "LH", "meaning": "núi", "with_ga": "やまが (LHL)" },
+        { "word": "うみ", "kanji": "海", "pattern": "LH", "meaning": "biển", "with_ga": "うみが (LHL)" }
+      ],
+
+      "key_feature": "Chỉ phân biệt được với heiban khi có trợ từ theo sau",
+      "importance": "Quan trọng để nghe hiểu câu hoàn chỉnh"
+    }
+  },
+
+  "pitch_minimal_pairs": {
+    "description": "Các cặp từ có cùng cách viết/đọc nhưng pitch khác nhau → nghĩa khác",
+    "importance": "Đây là lý do pitch accent quan trọng cho nghe hiểu",
+
+    "famous_pairs": [
+      {
+        "reading": "はし",
+        "words": [
+          { "kanji": "箸", "meaning": "đũa", "pattern": "HL", "accent": 1 },
+          { "kanji": "橋", "meaning": "cầu", "pattern": "LH", "accent": 2, "with_particle": "LHL" },
+          { "kanji": "端", "meaning": "đầu mút/cạnh", "pattern": "LH", "accent": 0, "with_particle": "LHH" }
+        ],
+        "note": "橋 và 端 chỉ phân biệt được khi có trợ từ"
+      },
+      {
+        "reading": "あめ",
+        "words": [
+          { "kanji": "雨", "meaning": "mưa", "pattern": "HL", "accent": 1 },
+          { "kanji": "飴", "meaning": "kẹo", "pattern": "LH", "accent": 0 }
+        ]
+      },
+      {
+        "reading": "かき",
+        "words": [
+          { "kanji": "柿", "meaning": "quả hồng", "pattern": "LH", "accent": 0 },
+          { "kanji": "牡蠣", "meaning": "con hàu", "pattern": "HL", "accent": 1 },
+          { "kanji": "垣", "meaning": "hàng rào", "pattern": "LH", "accent": 2 }
+        ]
+      },
+      {
+        "reading": "はな",
+        "words": [
+          { "kanji": "花", "meaning": "hoa", "pattern": "LH", "accent": 0, "with_particle": "LHH" },
+          { "kanji": "鼻", "meaning": "mũi", "pattern": "LH", "accent": 2, "with_particle": "LHL" }
+        ]
+      },
+      {
+        "reading": "かみ",
+        "words": [
+          { "kanji": "紙", "meaning": "giấy", "pattern": "LH", "accent": 0 },
+          { "kanji": "髪", "meaning": "tóc", "pattern": "LH", "accent": 2 },
+          { "kanji": "神", "meaning": "thần", "pattern": "HL", "accent": 1 }
+        ]
+      },
+      {
+        "reading": "くも",
+        "words": [
+          { "kanji": "雲", "meaning": "mây", "pattern": "LH", "accent": 0 },
+          { "kanji": "蜘蛛", "meaning": "nhện", "pattern": "HL", "accent": 1 }
+        ]
+      },
+      {
+        "reading": "いち",
+        "words": [
+          { "kanji": "一", "meaning": "số một", "pattern": "LH", "accent": 2 },
+          { "kanji": "位置", "meaning": "vị trí", "pattern": "LH", "accent": 0 }
+        ]
+      },
+      {
+        "reading": "きる",
+        "words": [
+          { "kanji": "切る", "meaning": "cắt", "pattern": "HL", "accent": 1 },
+          { "kanji": "着る", "meaning": "mặc", "pattern": "LH", "accent": 0 }
+        ]
+      }
+    ],
+
+    "sentence_examples": [
+      {
+        "sentence": "箸で橋を渡る",
+        "reading": "はしではしをわたる",
+        "pitch_guide": "HL で LH を わたる",
+        "meaning": "Đi qua cầu bằng đũa (vô nghĩa nhưng minh họa)"
+      },
+      {
+        "sentence": "雨の日に飴を食べる",
+        "reading": "あめのひにあめをたべる",
+        "pitch_guide": "HL の ひ に LH を たべる",
+        "meaning": "Ăn kẹo vào ngày mưa"
+      }
+    ]
+  },
+
+  "pitch_in_word_classes": {
+    "verbs": {
+      "description": "Động từ có 2 loại pitch chính",
+      "types": [
+        {
+          "type": "Accent trên mora thứ 2 từ cuối (phổ biến nhất)",
+          "pattern": "...HL (masu form: ...HLmasu)",
+          "examples": [
+            { "dict": "たべる", "pattern": "LHL", "masu": "たべます (LHLLL)" },
+            { "dict": "のむ", "pattern": "LH", "masu": "のみます (LHLLL)" },
+            { "dict": "かく", "pattern": "LH", "masu": "かきます (LHLLL)" }
+          ]
+        },
+        {
+          "type": "Heiban (không có accent)",
+          "pattern": "LHH... (masu form cũng heiban)",
+          "examples": [
+            { "dict": "みる", "pattern": "LH", "masu": "みます (LHH)" },
+            { "dict": "する", "pattern": "LH", "masu": "します (LHH)" },
+            { "dict": "くる", "pattern": "HL", "masu": "きます (LHH)", "note": "来る bất quy tắc" }
+          ]
+        }
+      ]
+    },
+
+    "i_adjectives": {
+      "description": "Tính từ đuôi い",
+      "common_pattern": "Accent thường trên mora thứ 3 từ cuối",
+      "examples": [
+        { "word": "たかい", "kanji": "高い", "pattern": "LHL", "meaning": "cao/đắt" },
+        { "word": "やすい", "kanji": "安い", "pattern": "LHL", "meaning": "rẻ" },
+        { "word": "あたらしい", "kanji": "新しい", "pattern": "LHHLL", "meaning": "mới" },
+        { "word": "おいしい", "kanji": "美味しい", "pattern": "LHLL", "meaning": "ngon" },
+        { "word": "おおきい", "kanji": "大きい", "pattern": "LHLL", "meaning": "to" }
+      ]
+    },
+
+    "na_adjectives": {
+      "description": "Tính từ đuôi な - Đa dạng pitch",
+      "examples": [
+        { "word": "しずか", "kanji": "静か", "pattern": "LHH", "meaning": "yên tĩnh" },
+        { "word": "きれい", "kanji": "綺麗", "pattern": "LHH", "meaning": "đẹp" },
+        { "word": "げんき", "kanji": "元気", "pattern": "LHL", "meaning": "khỏe" },
+        { "word": "べんり", "kanji": "便利", "pattern": "LHL", "meaning": "tiện" }
+      ]
+    },
+
+    "numbers": {
+      "description": "Số đếm có pitch riêng biệt",
+      "basic_numbers": [
+        { "number": 1, "word": "いち", "pattern": "LH" },
+        { "number": 2, "word": "に", "pattern": "H" },
+        { "number": 3, "word": "さん", "pattern": "HL" },
+        { "number": 4, "word": "よん/し", "pattern": "HL/H" },
+        { "number": 5, "word": "ご", "pattern": "H" },
+        { "number": 6, "word": "ろく", "pattern": "LH" },
+        { "number": 7, "word": "なな/しち", "pattern": "LH/LH" },
+        { "number": 8, "word": "はち", "pattern": "LH" },
+        { "number": 9, "word": "きゅう/く", "pattern": "HL/H" },
+        { "number": 10, "word": "じゅう", "pattern": "HL" }
+      ]
+    }
+  },
+
+  "compound_words": {
+    "description": "Pitch trong từ ghép",
+
+    "general_rules": [
+      {
+        "rule": "Từ ghép thường có pitch của phần sau quyết định",
+        "example": {
+          "word1": "日本 (にほん LHH)",
+          "word2": "語 (ご H)",
+          "compound": "日本語 (にほんご LHHL)",
+          "note": "Pitch thay đổi khi ghép"
+        }
+      },
+      {
+        "rule": "Từ ghép dài thường có accent ở giữa",
+        "example": "コンピューター (LHHHHL)"
+      }
+    ],
+
+    "examples": [
+      { "compound": "にほんご", "parts": "日本 + 語", "pattern": "LHHL", "meaning": "tiếng Nhật" },
+      { "compound": "でんしゃ", "parts": "電 + 車", "pattern": "LHL", "meaning": "tàu điện" },
+      { "compound": "だいがく", "parts": "大 + 学", "pattern": "LHLL", "meaning": "đại học" },
+      { "compound": "としょかん", "parts": "図書 + 館", "pattern": "LHLL", "meaning": "thư viện" },
+      { "compound": "びょういん", "parts": "病 + 院", "pattern": "LHHH", "meaning": "bệnh viện" }
+    ]
+  },
+
+  "particles_and_pitch": {
+    "description": "Pitch của trợ từ phụ thuộc vào từ trước",
+
+    "rules": [
+      {
+        "word_type": "Heiban (平板型)",
+        "particle_pitch": "HIGH - Trợ từ giữ nguyên cao",
+        "example": {
+          "word": "はな (花 - hoa)",
+          "pattern": "LH",
+          "with_ga": "はなが (LHH)",
+          "with_wo": "はなを (LHH)",
+          "with_wa": "はなは (LHH)"
+        }
+      },
+      {
+        "word_type": "Có accent (頭高/中高/尾高)",
+        "particle_pitch": "LOW - Trợ từ xuống thấp sau downstep",
+        "example": {
+          "word": "あめ (雨 - mưa)",
+          "pattern": "HL",
+          "with_ga": "あめが (HLL)",
+          "with_wo": "あめを (HLL)"
+        }
+      }
+    ],
+
+    "heiban_vs_odaka": {
+      "description": "Cách duy nhất phân biệt heiban và odaka là qua trợ từ",
+      "example": {
+        "heiban": "はな (花) + が = はなが (LHH) - Hoa",
+        "odaka": "はな (鼻) + が = はなが (LHL) - Mũi"
+      }
+    }
+  },
+
+  "regional_variations": {
+    "description": "Pitch accent khác nhau theo vùng miền",
+
+    "tokyo_standard": {
+      "name": "東京方言 / 標準語",
+      "description": "Chuẩn được dạy trong giáo trình",
+      "used_in": ["Tokyo", "Phương tiện truyền thông", "Giáo dục"]
+    },
+
+    "kansai": {
+      "name": "関西方言",
+      "description": "Pitch ngược hoặc khác với Tokyo",
+      "areas": ["Osaka", "Kyoto", "Kobe"],
+      "example": {
+        "word": "あめ (雨)",
+        "tokyo": "HL (mưa)",
+        "kansai": "LH (mưa)"
+      }
+    },
+
+    "note_for_learners": "Tập trung học Tokyo standard trước. Awareness về sự khác biệt vùng miền sẽ giúp nghe hiểu tốt hơn."
+  },
+
+  "listening_tips": {
+    "title": "Mẹo nghe pitch accent",
+    "tips": [
+      {
+        "tip": "Chú ý mora đầu tiên",
+        "description": "Nếu mora đầu cao và ngay sau đó thấp → Atamadaka (頭高型)"
+      },
+      {
+        "tip": "Nghe trợ từ theo sau",
+        "description": "Trợ từ cao → Heiban, trợ từ thấp → Có accent"
+      },
+      {
+        "tip": "Không cần perfect từ đầu",
+        "description": "Awareness về pitch quan trọng hơn phát âm hoàn hảo"
+      },
+      {
+        "tip": "Sử dụng OJAD",
+        "description": "Online Japanese Accent Dictionary để tra cứu pitch"
+      },
+      {
+        "tip": "Shadowing với chú ý pitch",
+        "description": "Lặp lại audio và cố gắng bắt chước cao độ"
+      }
+    ]
+  },
+
+  "common_mistakes_vietnamese": {
+    "title": "Lỗi phổ biến",
+    "mistakes": [
+      {
+        "mistake": "Áp dụng thanh điệu tiếng Việt",
+        "description": "Tiếng Việt có 6 thanh cố định, tiếng Nhật chỉ có High/Low",
+        "solution": "Nghĩ đơn giản: chỉ có CAO và THẤP, không có sắc huyền hỏi ngã nặng"
+      },
+      {
+        "mistake": "Bỏ qua pitch hoàn toàn",
+        "description": "Nói với pitch phẳng hoặc random",
+        "solution": "Bắt đầu với các từ phổ biến, học pitch cùng từ vựng"
+      },
+      {
+        "mistake": "Nhấn mạnh bằng âm lượng thay vì pitch",
+        "description": "Kiểu stress accent của tiếng Anh",
+        "solution": "Giữ âm lượng đều, chỉ thay đổi cao độ"
+      }
+    ]
+  }
+}

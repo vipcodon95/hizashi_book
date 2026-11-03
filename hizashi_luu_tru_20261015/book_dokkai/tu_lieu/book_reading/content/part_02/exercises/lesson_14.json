@@ -1,0 +1,1443 @@
+[
+  {
+    "id": "L14_FP_01",
+    "lesson_id": 14,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は図書館で日本語を勉強します。",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "私は図書館（　）日本語を勉強します。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "で = địa điểm hành động. 図書館で勉強する = học Ở thư viện. Hành động \"học\" diễn ra TẠI thư viện → dùng で (không phải に)",
+    "hint": "\"Thư viện\" là nơi hành động \"học\" diễn ra → で",
+    "tags": [
+      "で",
+      "địa_điểm",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L14_FP_02",
+    "lesson_id": 14,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは電車で会社に行きます。",
+    "sentence_translation": "Tanaka đi đến công ty bằng tàu điện.",
+    "question_text": "田中さんは電車（　）会社に行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で = phương tiện. 電車で行く = đi BẰNG tàu điện. Cùng là で nhưng ở đây nghĩa \"bằng\" (phương tiện), khác với で \"tại\" (địa điểm)",
+    "hint": "\"Tàu điện\" là phương tiện di chuyển → で",
+    "tags": [
+      "で",
+      "phương_tiện",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L14_FP_03",
+    "lesson_id": 14,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日友達と公園でサッカーをしました。",
+    "sentence_translation": "Hôm qua đã chơi bóng đá với bạn ở công viên.",
+    "question_text": "昨日友達（　）公園でサッカーをしました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "と = cùng ai. 友達とする = làm CÙNG bạn. と báo hiệu \"cùng với\" ai đó thực hiện hành động",
+    "hint": "\"Bạn\" là người cùng làm hành động → と",
+    "tags": [
+      "と",
+      "cùng_ai",
+      "5_khối"
+    ]
+  },
+  {
+    "id": "L14_FP_04",
+    "lesson_id": 14,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "来月家族と飛行機で北海道へ行きます。",
+    "sentence_translation": "Tháng sau sẽ đi Hokkaido bằng máy bay cùng gia đình.",
+    "question_text": "来月家族と飛行機で北海道（　）行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "へ = hướng di chuyển. 北海道へ行く = đi VỀ HƯỚNG Hokkaido. へ nhấn mạnh hướng, に nhấn mạnh điểm đến cụ thể. Cả hai đều đúng nhưng へ tự nhiên hơn với địa danh lớn",
+    "hint": "\"Hokkaido\" là hướng di chuyển → へ",
+    "tags": [
+      "へ",
+      "hướng",
+      "5_khối"
+    ]
+  },
+  {
+    "id": "L14_FP_05",
+    "lesson_id": 14,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "土曜日友達とカフェ（　）コーヒーを飲みました。",
+    "sentence_translation": "Thứ bảy đã uống cà phê với bạn ở quán cà phê.",
+    "question_text": "土曜日友達とカフェ（　）コーヒーを飲みました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "で = địa điểm hành động. カフェで飲む = uống Ở quán cà phê. Hành động \"uống\" diễn ra TẠI quán → dùng で. Nếu dùng に thì nghĩa là \"đến quán\" (điểm đến)",
+    "hint": "\"Quán cà phê\" là nơi hành động \"uống\" diễn ra → で",
+    "tags": [
+      "で",
+      "địa_điểm",
+      "で_に_phân_biệt",
+      "5_khối"
+    ]
+  },
+  {
+    "id": "L14_FP_06",
+    "lesson_id": 14,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先週母と車でスーパー（　）買い物をしました。",
+    "sentence_translation": "Tuần trước đã đi mua sắm ở siêu thị bằng xe hơi cùng mẹ.",
+    "question_text": "先週母と車でスーパー（　）買い物をしました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で = địa điểm hành động. スーパーで買い物する = mua sắm Ở siêu thị. Mua sắm diễn ra TẠI siêu thị → で. Chú ý: câu này có 2 cái で! 車で (phương tiện) và スーパーで (địa điểm) - cùng trợ từ nhưng khác nghĩa",
+    "hint": "\"Siêu thị\" là nơi hành động \"mua sắm\" diễn ra → で",
+    "tags": [
+      "で",
+      "địa_điểm",
+      "5_khối",
+      "で_kép"
+    ]
+  },
+  {
+    "id": "L14_PR_07",
+    "lesson_id": 14,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は図書館で日本語を勉強します。",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "Đọc tới 図書館で → dự đoán khối tiếp theo là gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "[hành động gì đó] ở thư viện",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "[thư viện] là chủ đề",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "[đi đến] thư viện",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "図書館で → で báo hiệu \"tại đây sẽ có hành động\". Bạn chưa biết hành động gì, nhưng CHẮC CHẮN sẽ có hành động diễn ra ở thư viện. Kết quả: 勉強します (học)",
+    "hint": "で = địa điểm hành động → sắp có HÀNH ĐỘNG diễn ra tại thư viện",
+    "tags": [
+      "prediction",
+      "で_hành_động",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L14_PR_08",
+    "lesson_id": 14,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんは電車で会社に行きます。",
+    "sentence_translation": "Tanaka đi đến công ty bằng tàu điện.",
+    "question_text": "Đọc tới 電車で → dự đoán khối tiếp theo là gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "[tàu điện] là chủ đề",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "[điểm đến] + di chuyển",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "[hành động] ở tàu điện",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "電車で → で (phương tiện) báo hiệu \"sẽ di chuyển bằng tàu điện\". Dự đoán: tiếp theo là điểm đến + động từ di chuyển. Kết quả: 会社に行きます (đi đến công ty)",
+    "hint": "で ở đây = phương tiện → sắp có di chuyển bằng phương tiện này",
+    "tags": [
+      "prediction",
+      "で_phương_tiện",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L14_PR_09",
+    "lesson_id": 14,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "昨日友達と公園でサッカーをしました。",
+    "sentence_translation": "Hôm qua đã chơi bóng đá với bạn ở công viên.",
+    "question_text": "Đọc tới 昨日 → dự đoán gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu sẽ ở thì quá khứ (ました/ませんでした)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu sẽ là mệnh lệnh",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu sẽ ở thì hiện tại (ます)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "昨日 (hôm qua) → biển báo thời gian QUÁ KHỨ. Ngay khi thấy 昨日, dự đoán: động từ cuối câu sẽ là ました hoặc ませんでした. Kết quả: しました (đã làm)",
+    "hint": "昨日 = hôm qua → thời gian quá khứ → động từ cuối sẽ ở dạng quá khứ",
+    "tags": [
+      "prediction",
+      "thời_gian",
+      "quá_khứ",
+      "5_khối"
+    ]
+  },
+  {
+    "id": "L14_PR_10",
+    "lesson_id": 14,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "来月家族と飛行機で北海道へ行きます。",
+    "sentence_translation": "Tháng sau sẽ đi Hokkaido bằng máy bay cùng gia đình.",
+    "question_text": "Đọc tới 家族と → dự đoán gì cho phần còn lại?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Gia đình là đối tượng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Gia đình là chủ đề",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sẽ có hành động làm CÙNG gia đình",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "家族と → と báo hiệu \"cùng với\". Dự đoán: sẽ có hành động mà người nói làm CÙNG gia đình. Tiếp tục đọc để biết hành động gì, ở đâu. Kết quả: 飛行機で北海道へ行きます (đi Hokkaido bằng máy bay)",
+    "hint": "と = cùng ai → sắp có hành động thực hiện CÙNG VỚI gia đình",
+    "tags": [
+      "prediction",
+      "と_cùng_ai",
+      "5_khối"
+    ]
+  },
+  {
+    "id": "L14_PR_11",
+    "lesson_id": 14,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先週母と車でスーパーで買い物をしました。",
+    "sentence_translation": "Tuần trước đã đi mua sắm ở siêu thị bằng xe hơi cùng mẹ.",
+    "question_text": "Đọc tới 先週母と → dự đoán chuỗi khối tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "[địa điểm に] + [Vました]",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "[phương tiện で] + [địa điểm で] + [đối tượng を] + [Vました]",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "[đối tượng を] + [Vます]",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Chuỗi dự đoán 5 khối: 先週(thời gian→ました) → 母と(cùng ai→hành động chung) → 車で(phương tiện) → スーパーで(địa điểm) → 買い物をしました(hành động quá khứ). Mỗi khối thu hẹp dự đoán!",
+    "hint": "先週 (quá khứ) + 母と (cùng mẹ) → tiếp theo có thể là phương tiện, địa điểm, đối tượng rồi động từ quá khứ",
+    "tags": [
+      "prediction",
+      "chuỗi_dự_đoán",
+      "5_khối"
+    ]
+  },
+  {
+    "id": "L14_CH_12",
+    "lesson_id": 14,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は図書館で日本語を勉強します。",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "Chia câu này thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私は / 図書館で / 日本語を / 勉強します",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "私は図書館で / 日本語を / 勉強します",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私 / は図書館 / で日本語 / を勉強します",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "4 khối: 私は(tôi-chủ đề) / 図書館で(thư viện-địa điểm) / 日本語を(tiếng Nhật-đối tượng) / 勉強します(học). Quy tắc: trợ từ は/で/を luôn NẰM CUỐI khối, gắn liền với danh từ phía trước",
+    "hint": "Mỗi khối = [nội dung + trợ từ]. Trợ từ LUÔN đi cuối khối",
+    "tags": [
+      "chunking",
+      "4_khối",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L14_CH_13",
+    "lesson_id": 14,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "田中さんは電車で会社に行きます。",
+    "sentence_translation": "Tanaka đi đến công ty bằng tàu điện.",
+    "question_text": "Chia câu này thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "田中さんは / 電車で / 会社に / 行きます",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "田中さん / は電車で / 会社に / 行きます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "田中さんは / 電車で会社に / 行きます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "4 khối: 田中さんは(Tanaka-chủ đề) / 電車で(tàu-phương tiện) / 会社に(công ty-điểm đến) / 行きます(đi). Chú ý: 電車で và 会社に là 2 khối RIÊNG dù liên quan nhau. Mỗi trợ từ đánh dấu ranh giới 1 khối",
+    "hint": "4 khối: mỗi [danh từ + trợ từ] = 1 khối, động từ = khối cuối",
+    "tags": [
+      "chunking",
+      "4_khối",
+      "で_に"
+    ]
+  },
+  {
+    "id": "L14_CH_14",
+    "lesson_id": 14,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "昨日友達と公園でサッカーをしました。",
+    "sentence_translation": "Hôm qua đã chơi bóng đá với bạn ở công viên.",
+    "question_text": "Chia câu này thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "昨日 / 友達と / 公園で / サッカーを / しました",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "昨日友達と / 公園で / サッカーを / しました",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "昨日 / 友達と公園で / サッカーを / しました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "5 khối: 昨日(hôm qua-thời gian) / 友達と(bạn-cùng ai) / 公園で(công viên-địa điểm) / サッカーを(bóng đá-đối tượng) / しました(đã làm). Chú ý: 昨日 không có trợ từ nhưng vẫn là 1 khối riêng! Thời gian luôn đứng đầu câu thành khối riêng",
+    "hint": "5 khối: thời gian đứng riêng thành 1 khối dù không có trợ từ",
+    "tags": [
+      "chunking",
+      "5_khối",
+      "thời_gian"
+    ]
+  },
+  {
+    "id": "L14_CH_15",
+    "lesson_id": 14,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "来月家族と飛行機で北海道へ行きます。",
+    "sentence_translation": "Tháng sau sẽ đi Hokkaido bằng máy bay cùng gia đình.",
+    "question_text": "Chia câu này thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "来月 / 家族と / 飛行機で / 北海道へ / 行きます",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "来月家族と / 飛行機で / 北海道へ / 行きます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "来月 / 家族と飛行機で / 北海道へ / 行きます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "5 khối: 来月(tháng sau-thời gian) / 家族と(gia đình-cùng ai) / 飛行機で(máy bay-phương tiện) / 北海道へ(Hokkaido-hướng) / 行きます(đi). Thứ tự chuẩn: [Thời gian] [Cùng ai と] [Phương tiện で] [Điểm đến に/へ] [Động từ]",
+    "hint": "5 khối: thời gian + 3 khối [danh từ+trợ từ] + động từ",
+    "tags": [
+      "chunking",
+      "5_khối",
+      "thứ_tự"
+    ]
+  },
+  {
+    "id": "L14_CH_16",
+    "lesson_id": 14,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日曜日妹と自転車で公園に行きました。",
+    "sentence_translation": "Chủ nhật đã đi đến công viên bằng xe đạp cùng em gái.",
+    "question_text": "Chia câu này thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日曜日 / 妹と / 自転車で / 公園に / 行きました",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日曜日妹と / 自転車で / 公園に / 行きました",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日曜日 / 妹と自転車で / 公園に / 行きました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "5 khối: 日曜日(chủ nhật) / 妹と(cùng em gái) / 自転車で(bằng xe đạp) / 公園に(đến công viên) / 行きました(đã đi). Đầy đủ 5 khối theo thứ tự chuẩn. Chú ý: は bị lược bỏ + ました = quá khứ",
+    "hint": "5 khối: thời gian + cùng ai + phương tiện + điểm đến + động từ quá khứ",
+    "tags": [
+      "chunking",
+      "5_khối",
+      "đầy_đủ",
+      "は_lược_bỏ"
+    ]
+  },
+  {
+    "id": "L14_PD_17",
+    "lesson_id": 14,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "A: 学校で勉強します。(Học ở trường.)",
+    "sentence_translation": "B: 学校に行きます。(Đi đến trường.)",
+    "question_text": "Tại sao A dùng で nhưng B dùng に?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "で=nguyên nhân, に=kết quả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で=địa điểm hành động, に=điểm đến",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で=phương tiện, に=thời gian",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で vs に: 学校で勉強 = học TẠI trường (hành động \"học\" diễn ra ở trường). 学校に行く = đi ĐẾN trường (trường là đích đến). Mẹo: nếu hành động CẦN không gian để làm → で. Nếu di chuyển HƯỚNG TỚI → に",
+    "hint": "で → hành động diễn ra TẠI đây. に → di chuyển ĐẾN đây",
+    "tags": [
+      "pair_distinction",
+      "で_に"
+    ]
+  },
+  {
+    "id": "L14_PD_18",
+    "lesson_id": 14,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "A: バスで行きます。(Đi bằng xe buýt.)",
+    "sentence_translation": "B: 公園で遊びます。(Chơi ở công viên.)",
+    "question_text": "Cùng là で nhưng nghĩa khác nhau. Phân biệt?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "A: で=phương tiện (bằng), B: で=địa điểm (tại)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "A: で=địa điểm, B: で=phương tiện",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "A: で=nguyên nhân, B: で=phương tiện",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Cùng で nhưng 2 nghĩa: バスで = BẰNG xe buýt (phương tiện). 公園で = TẠI công viên (địa điểm). Mẹo phân biệt: nếu là xe/tàu/máy bay → で = \"bằng\". Nếu là nơi chốn + hành động → で = \"tại\"",
+    "hint": "で có nhiều nghĩa: \"bằng\" (phương tiện) và \"tại\" (địa điểm)",
+    "tags": [
+      "pair_distinction",
+      "で_phương_tiện",
+      "で_địa_điểm"
+    ]
+  },
+  {
+    "id": "L14_PD_19",
+    "lesson_id": 14,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "A: 東京に住んでいます。(Sống ở Tokyo.)",
+    "sentence_translation": "B: 東京で働いています。(Làm việc ở Tokyo.)",
+    "question_text": "Cùng \"ở Tokyo\" nhưng A dùng に, B dùng で. Tại sao?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "に=tồn tại/sống (trạng thái), で=hành động diễn ra (hoạt động)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に=điểm đến, で=phương tiện",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cả hai giống nhau, dùng cái nào cũng được",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に vs で nâng cao: 住んでいる = SỐNG/TỒN TẠI tại → に (trạng thái). 働いている = LÀM VIỆC tại → で (hành động). Quy tắc: いる/ある/住む (tồn tại) → に. Các hành động khác → で",
+    "hint": "住む (sống) = trạng thái tồn tại → に. 働く (làm việc) = hành động → で",
+    "tags": [
+      "pair_distinction",
+      "に_tồn_tại",
+      "で_hành_động"
+    ]
+  },
+  {
+    "id": "L14_PK_20",
+    "lesson_id": 14,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は図書館で日本語を勉強します。",
+    "sentence_translation": "Tôi học tiếng Nhật ở thư viện.",
+    "question_text": "Đọc tuần tự và đóng gói 🔒 từng khối:",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒私は図書館で→[tôi ở thư viện] / 🔒日本語を勉強します→[học tiếng Nhật]",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không cần đóng gói, đọc cả câu một lần",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒私は→[tôi] / 🔒図書館で→[ở thư viện] / 🔒日本語を→[tiếng Nhật] / 勉強します→[học]",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói tuần tự: 私は→🔒[tôi-chủ đề] (giải phóng) → 図書館で→🔒[ở thư viện] (giải phóng) → 日本語を→🔒[tiếng Nhật-đối tượng] (giải phóng) → 勉強します→[học]. Mỗi 🔒 giải phóng bộ nhớ, không cần nhớ chữ Hán nữa, chỉ nhớ ý nghĩa!",
+    "hint": "Mỗi khối [danh từ + trợ từ] → đóng gói thành 1 ý nghĩa → giải phóng bộ nhớ → đọc khối tiếp",
+    "tags": [
+      "packaging",
+      "4_khối",
+      "tuần_tự"
+    ]
+  },
+  {
+    "id": "L14_PK_21",
+    "lesson_id": 14,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "昨日友達と公園でサッカーをしました。",
+    "sentence_translation": "Hôm qua đã chơi bóng đá với bạn ở công viên.",
+    "question_text": "Đóng gói 🔒 tuần tự 5 khối. Sau khi đọc 友達と, bạn đóng gói gì?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒[cùng bạn] → giải phóng → đọc tiếp 公園で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒[bạn là chủ đề] → giải phóng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒[bạn ở] → giải phóng",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "友達と → 🔒[cùng bạn]. Đóng gói = nén [友達] + [と] thành 1 ý: \"cùng bạn\". Giải phóng bộ nhớ: không cần nhớ 友達 nữa, chỉ giữ ý \"cùng bạn\". Đọc tiếp 公園で → 🔒[ở công viên]. Mỗi khối đóng gói xong → bộ nhớ trống → sẵn sàng cho khối mới",
+    "hint": "友達と → と = cùng ai → đóng gói thành \"cùng bạn\" rồi giải phóng",
+    "tags": [
+      "packaging",
+      "5_khối",
+      "と_đóng_gói"
+    ]
+  },
+  {
+    "id": "L14_PK_22",
+    "lesson_id": 14,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "来月家族と飛行機で北海道へ行きます。",
+    "sentence_translation": "Tháng sau sẽ đi Hokkaido bằng máy bay cùng gia đình.",
+    "question_text": "Đóng gói 🔒 toàn bộ 5 khối theo thứ tự:",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "Đọc ngược từ 行きます rồi đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒[tháng sau cùng gia đình] → 🔒[bằng máy bay đi Hokkaido] → 行きます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒[tháng sau] → 🔒[cùng gia đình] → 🔒[bằng máy bay] → 🔒[hướng Hokkaido] → 行きます[đi]",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "5 bước đóng gói: ①来月→🔒[tháng sau] ②家族と→🔒[cùng gia đình] ③飛行機で→🔒[bằng máy bay] ④北海道へ→🔒[hướng Hokkaido] ⑤行きます→[đi]. Đến cuối câu, bạn chỉ cần ghép 5 ý đã nén: \"Tháng sau, cùng gia đình, bằng máy bay, hướng Hokkaido, đi\"",
+    "hint": "Đóng gói từ trái sang phải, mỗi khối 1 lần, giải phóng trước khi đọc khối tiếp",
+    "tags": [
+      "packaging",
+      "5_khối",
+      "toàn_bộ"
+    ]
+  },
+  {
+    "id": "L14_PK_23",
+    "lesson_id": 14,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先週母と車でスーパーで買い物をしました。",
+    "sentence_translation": "Tuần trước đã đi mua sắm ở siêu thị bằng xe hơi cùng mẹ.",
+    "question_text": "Khối 車で và スーパーで cùng dùng で. Đóng gói khác nhau thế nào?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒車で→[bằng xe hơi] (phương tiện) ≠ 🔒スーパーで→[ở siêu thị] (địa điểm)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Không cần phân biệt, đóng gói chung",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đóng gói giống nhau vì cùng で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói thông minh: 車で→🔒[bằng xe] (phương tiện → \"bằng\"). スーパーで→🔒[ở siêu thị] (địa điểm → \"tại\"). Cùng で nhưng ngữ cảnh khác → đóng gói khác. Mẹo: phương tiện (xe/tàu) → \"bằng\". Nơi chốn (quán/trường) → \"tại\"",
+    "hint": "Cùng で nhưng đóng gói thành ý nghĩa KHÁC nhau: \"bằng\" vs \"ở\"",
+    "tags": [
+      "packaging",
+      "で_kép",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L14_RO_24",
+    "lesson_id": 14,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私は図書館で日本語を勉強します",
+    "sentence_translation": "Sắp xếp thành câu đúng (động từ luôn cuối!):",
+    "question_text": "私は図書館で日本語を勉強します",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "勉強します",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "私は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日本語を",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "図書館で",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Thứ tự chuẩn: 私は(chủ đề) → 図書館で(địa điểm) → 日本語を(đối tượng) → 勉強します(động từ). Quy tắc vàng: ĐỘNG TỪ LUÔN CUỐI. Các khối khác theo thứ tự: は → で/に → を → Verb",
+    "hint": "Thứ tự: [Chủ đề は] [Địa điểm で] [Đối tượng を] [Động từ]",
+    "tags": [
+      "reorder",
+      "4_khối",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L14_RO_25",
+    "lesson_id": 14,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "昨日友達と公園でサッカーをしました",
+    "sentence_translation": "Sắp xếp thành câu đúng (động từ luôn cuối!):",
+    "question_text": "昨日友達と公園でサッカーをしました",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "公園で",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "しました",
+        "is_correct": true,
+        "order": 5
+      },
+      {
+        "text": "昨日",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "サッカーを",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "友達と",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Thứ tự chuẩn 5 khối: 昨日(thời gian) → 友達と(cùng ai) → 公園で(địa điểm) → サッカーを(đối tượng) → しました(động từ quá khứ). Thời gian LUÔN đứng đầu, động từ LUÔN đứng cuối. Các khối giữa: と → で → を",
+    "hint": "Thứ tự: [Thời gian] [Cùng ai と] [Địa điểm で] [Đối tượng を] [Động từ]",
+    "tags": [
+      "reorder",
+      "5_khối",
+      "thời_gian"
+    ]
+  },
+  {
+    "id": "L14_RO_26",
+    "lesson_id": 14,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "来月家族と飛行機で北海道へ行きます",
+    "sentence_translation": "Sắp xếp thành câu đúng (động từ luôn cuối!):",
+    "question_text": "来月家族と飛行機で北海道へ行きます",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "飛行機で",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 5
+      },
+      {
+        "text": "北海道へ",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "来月",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "家族と",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Thứ tự chuẩn 5 khối: 来月(thời gian) → 家族と(cùng ai) → 飛行機で(phương tiện) → 北海道へ(hướng) → 行きます(đi). Công thức nhớ: Time → と → で → に/へ → を → Verb",
+    "hint": "Thứ tự: [Thời gian] [Cùng ai と] [Phương tiện で] [Hướng へ] [Động từ]",
+    "tags": [
+      "reorder",
+      "5_khối",
+      "công_thức"
+    ]
+  },
+  {
+    "id": "L14_QT_27",
+    "lesson_id": 14,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私は図書館で本を読みます。",
+    "sentence_translation": "Dịch sang tiếng Việt:",
+    "question_text": "私は図書館で本を読みます。",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi mua sách ở thư viện.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi đi đến thư viện đọc sách.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi đọc sách ở thư viện.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "私は(tôi) 図書館で(ở thư viện) 本を(sách) 読みます(đọc) = \"Tôi đọc sách ở thư viện.\" Chú ý: tiếng Việt không theo thứ tự tiếng Nhật. Tiếng Nhật: nơi→đối tượng→động từ. Tiếng Việt: động từ→đối tượng→nơi",
+    "hint": "図書館で(ở thư viện) + 本を(sách) + 読みます(đọc)",
+    "tags": [
+      "quick_translate",
+      "4_khối"
+    ]
+  },
+  {
+    "id": "L14_QT_28",
+    "lesson_id": 14,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "毎日バスで学校に行きます。",
+    "sentence_translation": "Dịch sang tiếng Việt:",
+    "question_text": "毎日バスで学校に行きます。",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Mỗi ngày đi đến trường bằng xe buýt.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Mỗi ngày đi xe buýt ở trường.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Mỗi ngày xe buýt đi đến trường.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "毎日(mỗi ngày) バスで(bằng xe buýt) 学校に(đến trường) 行きます(đi) = \"Mỗi ngày đi đến trường bằng xe buýt.\" は bị lược bỏ (私は). Khi dịch sang tiếng Việt, thứ tự thay đổi!",
+    "hint": "毎日(mỗi ngày) + バスで(bằng xe buýt) + 学校に(đến trường) + 行きます(đi)",
+    "tags": [
+      "quick_translate",
+      "4_khối",
+      "は_lược_bỏ"
+    ]
+  },
+  {
+    "id": "L14_QT_29",
+    "lesson_id": 14,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "昨日友達と映画を見ました。",
+    "sentence_translation": "Dịch sang tiếng Việt:",
+    "question_text": "昨日友達と映画を見ました。",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Hôm qua bạn đã xem phim.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm qua đã đi xem phim ở rạp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm qua đã xem phim với bạn.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "昨日(hôm qua) 友達と(với bạn) 映画を(phim) 見ました(đã xem) = \"Hôm qua đã xem phim với bạn.\" 4 khối, は lược bỏ, ました = quá khứ Chú ý: 私は bị lược bỏ vì ngữ cảnh rõ ràng.",
+    "hint": "昨日(hôm qua) + 友達と(với bạn) + 映画を(phim) + 見ました(đã xem)",
+    "tags": [
+      "quick_translate",
+      "4_khối",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L14_QT_30",
+    "lesson_id": 14,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "来週母と電車でデパートへ買い物に行きます。",
+    "sentence_translation": "Dịch sang tiếng Việt:",
+    "question_text": "来週母と電車でデパートへ買い物に行きます。",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tuần sau mẹ đi mua sắm bằng tàu điện.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tuần sau sẽ cùng mẹ đi tàu điện đến trung tâm thương mại mua sắm.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tuần sau sẽ mua sắm ở tàu điện cùng mẹ.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "来週(tuần sau) 母と(cùng mẹ) 電車で(bằng tàu) デパートへ(hướng TTTM) 買い物に行きます(đi mua sắm) = \"Tuần sau sẽ cùng mẹ đi tàu điện đến trung tâm thương mại mua sắm.\" Câu 5 khối phức tạp! 私は bị lược bỏ.",
+    "hint": "来週(tuần sau) + 母と(cùng mẹ) + 電車で(bằng tàu điện) + デパートへ(hướng trung tâm thương mại) + 買い物に行きます(đi mua sắm)",
+    "tags": [
+      "quick_translate",
+      "5_khối",
+      "phức_tạp"
+    ]
+  },
+  {
+    "id": "L14_QT_31",
+    "lesson_id": 14,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "去年家族と飛行機で沖縄へ行きました。",
+    "sentence_translation": "Dịch sang tiếng Việt:",
+    "question_text": "去年家族と飛行機で沖縄へ行きました。",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Năm ngoái đã đi Okinawa bằng máy bay cùng gia đình.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Năm ngoái gia đình đã bay đến Okinawa.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Năm ngoái máy bay đã đến Okinawa cùng gia đình.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "去年(năm ngoái) 家族と(cùng gia đình) 飛行機で(bằng máy bay) 沖縄へ(hướng Okinawa) 行きました(đã đi) = \"Năm ngoái đã đi Okinawa bằng máy bay cùng gia đình.\" 5 khối + quá khứ + は lược bỏ",
+    "hint": "去年(năm ngoái) + 家族と(cùng gia đình) + 飛行機で(bằng máy bay) + 沖縄へ(hướng Okinawa) + 行きました(đã đi)",
+    "tags": [
+      "quick_translate",
+      "5_khối",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L14_QT_32",
+    "lesson_id": 14,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日曜日あまりテレビを見ませんでした。",
+    "sentence_translation": "Dịch sang tiếng Việt:",
+    "question_text": "日曜日あまりテレビを見ませんでした。",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Chủ nhật xem tivi ít.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ nhật không xem tivi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ nhật không xem tivi mấy.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "日曜日(chủ nhật) あまり(không...mấy) テレビを(tivi) 見ませんでした(đã không xem) = \"Chủ nhật không xem tivi mấy.\" Kết hợp: thời gian (bài 13) + phủ định nhẹ あまり (bài 12) + を (bài 10) + quá khứ phủ định",
+    "hint": "日曜日(chủ nhật) + あまり(không...mấy) + テレビを(tivi) + 見ませんでした(đã không xem)",
+    "tags": [
+      "quick_translate",
+      "phủ_định",
+      "quá_khứ",
+      "kết_hợp"
+    ]
+  },
+  {
+    "id": "L14_FP_33",
+    "lesson_id": 14,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "昨日友達とレストランで晩ご飯を食べました。",
+    "sentence_translation": "Hôm qua đã ăn tối với bạn ở nhà hàng.",
+    "question_text": "昨日友達とレストラン（　）晩ご飯を食べました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "で = địa điểm hành động. レストランで食べる = ăn TẠI nhà hàng. Câu 5 khối: 昨日(thời gian) / 友達と(cùng ai) / レストランで(địa điểm) / 晩ご飯を(đối tượng) / 食べました(động từ quá khứ)",
+    "hint": "\"Nhà hàng\" là nơi hành động \"ăn\" diễn ra → で",
+    "tags": [
+      "fill_particle",
+      "で",
+      "5_khối",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L14_PR_34",
+    "lesson_id": 14,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "今朝バスで会社に行きませんでした。",
+    "sentence_translation": "Sáng nay đã không đi đến công ty bằng xe buýt.",
+    "question_text": "Đọc tới 今朝 → dự đoán thì. Sau đó thấy kết quả là 行きませんでした. Phân tích?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "今朝 không liên quan đến thì",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "今朝=sáng nay (quá khứ) → dự đoán ました, nhưng kết quả là phủ định quá khứ ませんでした",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "今朝=sáng nay → dự đoán ます",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "今朝 → dự đoán: quá khứ (ました hoặc ませんでした). Kết quả: 行きませんでした = đã KHÔNG đi. Dự đoán thời gian chỉ cho biết THÌ, chưa cho biết khẳng định/phủ định. Kết hợp bài 12 (phủ định) + bài 13 (thời gian) + bài 14 (nhiều khối)",
+    "hint": "今朝 = sáng nay → quá khứ. Nhưng câu có thể khẳng định HOẶC phủ định → cần đọc tiếp!",
+    "tags": [
+      "prediction",
+      "quá_khứ",
+      "phủ_định",
+      "kết_hợp"
+    ]
+  },
+  {
+    "id": "L14_CH_35",
+    "lesson_id": 14,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "今朝バスで会社に行きませんでした。",
+    "sentence_translation": "Sáng nay đã không đi đến công ty bằng xe buýt.",
+    "question_text": "Chia câu này thành các khối bunsetsu:",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "今朝 / バスで / 会社に / 行きませんでした",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "今朝バスで / 会社に / 行きませんでした",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "今朝 / バスで会社に / 行きませんでした",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "4 khối: 今朝(sáng nay) / バスで(bằng xe buýt) / 会社に(đến công ty) / 行きませんでした(đã không đi). Chú ý: 行きませんでした là 1 khối duy nhất dù dài. Động từ + phủ định + quá khứ = 1 khối",
+    "hint": "4 khối: thời gian + phương tiện + điểm đến + động từ phủ định quá khứ",
+    "tags": [
+      "chunking",
+      "4_khối",
+      "phủ_định",
+      "quá_khứ"
+    ]
+  },
+  {
+    "id": "L14_RO_36",
+    "lesson_id": 14,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日曜日あまりテレビを見ませんでした",
+    "sentence_translation": "Sắp xếp thành câu đúng:",
+    "question_text": "日曜日あまりテレビを見ませんでした",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "見ませんでした",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "あまり",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "テレビを",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "日曜日",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự: 日曜日(thời gian) → あまり(biển báo phủ định nhẹ) → テレビを(đối tượng) → 見ませんでした(đã không xem). あまり đứng trước đối tượng + động từ phủ định. Kết hợp bài 12 + 13 + 14!",
+    "hint": "Thứ tự: [Thời gian] [Biển báo phủ định] [Đối tượng を] [Động từ phủ định]",
+    "tags": [
+      "reorder",
+      "4_khối",
+      "phủ_định",
+      "kết_hợp"
+    ]
+  },
+  {
+    "id": "L14_FP_37",
+    "lesson_id": 14,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "来年日本（　）日本語を勉強したいです。",
+    "sentence_translation": "Năm sau muốn học tiếng Nhật ở Nhật Bản.",
+    "question_text": "来年日本（　）日本語を勉強したいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で = địa điểm hành động. 日本で勉強する = học Ở Nhật Bản. KHÔNG phải に vì không phải \"đi ĐẾN Nhật\" mà là \"học TẠI Nhật\". Hành động \"học\" cần không gian → で",
+    "hint": "\"Nhật Bản\" là nơi hành động \"học\" diễn ra → で",
+    "tags": [
+      "fill_particle",
+      "で_に_phân_biệt"
+    ]
+  },
+  {
+    "id": "L14_PR_38",
+    "lesson_id": 14,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "毎週土曜日友達とジムで運動をします。",
+    "sentence_translation": "Mỗi thứ bảy tập thể dục với bạn ở phòng gym.",
+    "question_text": "Đọc 毎週土曜日 → 友達と → ジムで → dự đoán khối tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "[phương tiện で] + [動詞ます]",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "[điểm đến に] + [動詞ます]",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "[đối tượng を] + [動詞ます] (hành động thể dục/thể thao)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Chuỗi dự đoán: 毎週土曜日(thói quen→ます) → 友達と(cùng bạn→hành động chung) → ジムで(tại gym→hành động thể chất). Đến đây dự đoán: [thể thao/thể dục を] + [します/します]. Kết quả: 運動をします. Mỗi khối thu hẹp khả năng!",
+    "hint": "ジムで (tại phòng gym) → hành động sẽ diễn ra ở gym → có thể là [を + 動詞]",
+    "tags": [
+      "prediction",
+      "chuỗi_dự_đoán",
+      "5_khối"
+    ]
+  },
+  {
+    "id": "L14_PK_39",
+    "lesson_id": 14,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "毎週土曜日友達とジムで運動をします。",
+    "sentence_translation": "Mỗi thứ bảy tập thể dục với bạn ở phòng gym.",
+    "question_text": "Đóng gói 🔒 tuần tự 5 khối câu này:",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒[mỗi thứ bảy cùng bạn] → 🔒[tại gym tập thể dục] → します",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đọc hết rồi đóng gói 1 lần",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒[mỗi thứ bảy] → 🔒[cùng bạn] → 🔒[tại gym] → 🔒[thể dục] → します[làm]",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói 5 bước: ①毎週土曜日→🔒[mỗi thứ bảy] ②友達と→🔒[cùng bạn] ③ジムで→🔒[tại gym] ④運動を→🔒[thể dục-đối tượng] ⑤します→[làm]. Ghép: \"Mỗi thứ bảy, cùng bạn, tại gym, tập thể dục.\" Mỗi 🔒 = 1 khối, giải phóng ngay!",
+    "hint": "Mỗi khối đóng gói riêng → giải phóng → đọc khối tiếp. KHÔNG gộp nhiều khối!",
+    "tags": [
+      "packaging",
+      "5_khối",
+      "tuần_tự"
+    ]
+  }
+]

@@ -1,0 +1,611 @@
+{
+  "metadata": {
+    "title": "Âm đục và Âm bán đục",
+    "title_jp": "濁音と半濁音",
+    "description": "Chi tiết về dakuon (゛) và handakuon (゜) - Quy tắc biến đổi và luyện nghe",
+    "importance": "Phân biệt vô thanh/hữu thanh là yếu tố quan trọng để nghe hiểu tiếng Nhật",
+    "version": "1.0"
+  },
+
+  "dakuon": {
+    "name_vi": "Âm đục",
+    "name_jp": "濁音",
+    "reading": "dakuon",
+    "mark": "゛",
+    "mark_name": "dakuten / nigori",
+    "description": "Âm hữu thanh - dây thanh rung khi phát âm",
+
+    "transformation_rules": {
+      "description": "Quy tắc biến đổi từ âm vô thanh (清音) sang âm hữu thanh (濁音)",
+      "rules": [
+        {
+          "from": "か行 (ka, ki, ku, ke, ko)",
+          "to": "が行 (ga, gi, gu, ge, go)",
+          "phonetic_change": "k → g",
+          "description": "Âm k vô thanh → âm g hữu thanh"
+        },
+        {
+          "from": "さ行 (sa, shi, su, se, so)",
+          "to": "ざ行 (za, ji, zu, ze, zo)",
+          "phonetic_change": "s → z, sh → j",
+          "description": "Âm s/sh vô thanh → âm z/j hữu thanh"
+        },
+        {
+          "from": "た行 (ta, chi, tsu, te, to)",
+          "to": "だ行 (da, ji, zu, de, do)",
+          "phonetic_change": "t → d, ch → j, ts → z",
+          "description": "Âm t/ch/ts vô thanh → âm d/j/z hữu thanh"
+        },
+        {
+          "from": "は行 (ha, hi, fu, he, ho)",
+          "to": "ば行 (ba, bi, bu, be, bo)",
+          "phonetic_change": "h/f → b",
+          "description": "Âm h/f vô thanh → âm b hữu thanh"
+        }
+      ]
+    },
+
+    "rows": {
+      "ga_gyou": {
+        "name_jp": "が行",
+        "base": "か行",
+        "phonetic": "g-",
+        "characters": [
+          {
+            "hiragana": "が",
+            "katakana": "ガ",
+            "romaji": "ga",
+            "ipa": "ɡa",
+            "base": "か",
+            "examples": [
+              { "word": "がっこう", "kanji": "学校", "meaning": "trường học" },
+              { "word": "がいこく", "kanji": "外国", "meaning": "nước ngoài" },
+              { "word": "かがみ", "kanji": "鏡", "meaning": "gương" }
+            ]
+          },
+          {
+            "hiragana": "ぎ",
+            "katakana": "ギ",
+            "romaji": "gi",
+            "ipa": "ɡi",
+            "base": "き",
+            "examples": [
+              { "word": "ぎんこう", "kanji": "銀行", "meaning": "ngân hàng" },
+              { "word": "ぎゅうにく", "kanji": "牛肉", "meaning": "thịt bò" },
+              { "word": "かぎ", "kanji": "鍵", "meaning": "chìa khóa" }
+            ]
+          },
+          {
+            "hiragana": "ぐ",
+            "katakana": "グ",
+            "romaji": "gu",
+            "ipa": "ɡɯ",
+            "base": "く",
+            "examples": [
+              { "word": "ぐあい", "kanji": "具合", "meaning": "tình trạng" },
+              { "word": "くつぐ", "meaning": "thoải mái" }
+            ]
+          },
+          {
+            "hiragana": "げ",
+            "katakana": "ゲ",
+            "romaji": "ge",
+            "ipa": "ɡe",
+            "base": "け",
+            "examples": [
+              { "word": "げんき", "kanji": "元気", "meaning": "khỏe mạnh" },
+              { "word": "げつようび", "kanji": "月曜日", "meaning": "thứ Hai" },
+              { "word": "かげ", "kanji": "影", "meaning": "bóng" }
+            ]
+          },
+          {
+            "hiragana": "ご",
+            "katakana": "ゴ",
+            "romaji": "go",
+            "ipa": "ɡo",
+            "base": "こ",
+            "examples": [
+              { "word": "ごはん", "kanji": "ご飯", "meaning": "cơm" },
+              { "word": "ごご", "kanji": "午後", "meaning": "buổi chiều" },
+              { "word": "りんご", "meaning": "táo" }
+            ]
+          }
+        ],
+        "special_note": {
+          "nasal_g": {
+            "description": "Trong một số từ và phương ngữ, が行 có thể phát âm mũi hóa [ŋ]",
+            "when": "Thường xảy ra ở giữa từ, không phải đầu từ",
+            "example": "かがみ có thể nghe như [kaŋami]",
+            "note": "Đây là biến thể tự nhiên, không phải lỗi"
+          }
+        }
+      },
+
+      "za_gyou": {
+        "name_jp": "ざ行",
+        "base": "さ行",
+        "phonetic": "z-/j-",
+        "characters": [
+          {
+            "hiragana": "ざ",
+            "katakana": "ザ",
+            "romaji": "za",
+            "ipa": "za / dza",
+            "base": "さ",
+            "note": "Có thể là xát [z] hoặc tắc-xát [dz]",
+            "examples": [
+              { "word": "ざんねん", "kanji": "残念", "meaning": "đáng tiếc" },
+              { "word": "ざっし", "kanji": "雑誌", "meaning": "tạp chí" }
+            ]
+          },
+          {
+            "hiragana": "じ",
+            "katakana": "ジ",
+            "romaji": "ji",
+            "ipa": "dʑi / ʑi",
+            "base": "し",
+            "note": "Phát âm GIỐNG với ぢ",
+            "examples": [
+              { "word": "じかん", "kanji": "時間", "meaning": "thời gian" },
+              { "word": "じしょ", "kanji": "辞書", "meaning": "từ điển" },
+              { "word": "かじ", "kanji": "火事", "meaning": "hỏa hoạn" }
+            ]
+          },
+          {
+            "hiragana": "ず",
+            "katakana": "ズ",
+            "romaji": "zu",
+            "ipa": "zɯ / dzɯ",
+            "base": "す",
+            "note": "Phát âm GIỐNG với づ",
+            "examples": [
+              { "word": "ずっと", "meaning": "mãi mãi" },
+              { "word": "みず", "kanji": "水", "meaning": "nước" },
+              { "word": "かず", "kanji": "数", "meaning": "số lượng" }
+            ]
+          },
+          {
+            "hiragana": "ぜ",
+            "katakana": "ゼ",
+            "romaji": "ze",
+            "ipa": "ze / dze",
+            "base": "せ",
+            "examples": [
+              { "word": "ぜんぶ", "kanji": "全部", "meaning": "tất cả" },
+              { "word": "ぜったい", "kanji": "絶対", "meaning": "tuyệt đối" },
+              { "word": "かぜ", "kanji": "風", "meaning": "gió" }
+            ]
+          },
+          {
+            "hiragana": "ぞ",
+            "katakana": "ゾ",
+            "romaji": "zo",
+            "ipa": "zo / dzo",
+            "base": "そ",
+            "examples": [
+              { "word": "ぞう", "kanji": "象", "meaning": "con voi" },
+              { "word": "かぞく", "kanji": "家族", "meaning": "gia đình" }
+            ]
+          }
+        ]
+      },
+
+      "da_gyou": {
+        "name_jp": "だ行",
+        "base": "た行",
+        "phonetic": "d-",
+        "characters": [
+          {
+            "hiragana": "だ",
+            "katakana": "ダ",
+            "romaji": "da",
+            "ipa": "da",
+            "base": "た",
+            "examples": [
+              { "word": "だいがく", "kanji": "大学", "meaning": "đại học" },
+              { "word": "だれ", "kanji": "誰", "meaning": "ai" },
+              { "word": "からだ", "kanji": "体", "meaning": "cơ thể" }
+            ]
+          },
+          {
+            "hiragana": "ぢ",
+            "katakana": "ヂ",
+            "romaji": "ji",
+            "ipa": "dʑi",
+            "base": "ち",
+            "special": true,
+            "note": "Phát âm GIỐNG với じ - Rất hiếm dùng",
+            "usage": "Chỉ dùng trong từ ghép khi ち bị đục hóa",
+            "examples": [
+              { "word": "はなぢ", "kanji": "鼻血", "meaning": "chảy máu mũi", "note": "はな + ち → はなぢ" },
+              { "word": "ちぢむ", "kanji": "縮む", "meaning": "co lại" }
+            ]
+          },
+          {
+            "hiragana": "づ",
+            "katakana": "ヅ",
+            "romaji": "zu",
+            "ipa": "dzɯ",
+            "base": "つ",
+            "special": true,
+            "note": "Phát âm GIỐNG với ず - Hiếm dùng",
+            "usage": "Dùng trong từ ghép khi つ bị đục hóa, hoặc từ gốc có つ",
+            "examples": [
+              { "word": "つづく", "kanji": "続く", "meaning": "tiếp tục", "note": "Gốc từ つ" },
+              { "word": "みかづき", "kanji": "三日月", "meaning": "trăng lưỡi liềm", "note": "み + か + つき → みかづき" },
+              { "word": "こづつみ", "kanji": "小包", "meaning": "bưu kiện nhỏ" }
+            ]
+          },
+          {
+            "hiragana": "で",
+            "katakana": "デ",
+            "romaji": "de",
+            "ipa": "de",
+            "base": "て",
+            "examples": [
+              { "word": "でんわ", "kanji": "電話", "meaning": "điện thoại" },
+              { "word": "でる", "kanji": "出る", "meaning": "ra/xuất hiện" },
+              { "word": "そで", "kanji": "袖", "meaning": "tay áo" }
+            ]
+          },
+          {
+            "hiragana": "ど",
+            "katakana": "ド",
+            "romaji": "do",
+            "ipa": "do",
+            "base": "と",
+            "examples": [
+              { "word": "どこ", "meaning": "ở đâu" },
+              { "word": "どうぞ", "meaning": "xin mời" },
+              { "word": "まど", "kanji": "窓", "meaning": "cửa sổ" }
+            ]
+          }
+        ]
+      },
+
+      "ba_gyou": {
+        "name_jp": "ば行",
+        "base": "は行",
+        "phonetic": "b-",
+        "characters": [
+          {
+            "hiragana": "ば",
+            "katakana": "バ",
+            "romaji": "ba",
+            "ipa": "ba",
+            "base": "は",
+            "examples": [
+              { "word": "ばんごはん", "kanji": "晩ご飯", "meaning": "bữa tối" },
+              { "word": "ばしょ", "kanji": "場所", "meaning": "địa điểm" },
+              { "word": "そば", "meaning": "mì soba / bên cạnh" }
+            ]
+          },
+          {
+            "hiragana": "び",
+            "katakana": "ビ",
+            "romaji": "bi",
+            "ipa": "bi",
+            "base": "ひ",
+            "examples": [
+              { "word": "びょういん", "kanji": "病院", "meaning": "bệnh viện" },
+              { "word": "びっくり", "meaning": "ngạc nhiên" },
+              { "word": "あそび", "kanji": "遊び", "meaning": "trò chơi" }
+            ]
+          },
+          {
+            "hiragana": "ぶ",
+            "katakana": "ブ",
+            "romaji": "bu",
+            "ipa": "bɯ",
+            "base": "ふ",
+            "examples": [
+              { "word": "ぶんか", "kanji": "文化", "meaning": "văn hóa" },
+              { "word": "ぶた", "kanji": "豚", "meaning": "con lợn" },
+              { "word": "よぶ", "kanji": "呼ぶ", "meaning": "gọi" }
+            ]
+          },
+          {
+            "hiragana": "べ",
+            "katakana": "ベ",
+            "romaji": "be",
+            "ipa": "be",
+            "base": "へ",
+            "examples": [
+              { "word": "べんきょう", "kanji": "勉強", "meaning": "học tập" },
+              { "word": "べんり", "kanji": "便利", "meaning": "tiện lợi" },
+              { "word": "たべる", "kanji": "食べる", "meaning": "ăn" }
+            ]
+          },
+          {
+            "hiragana": "ぼ",
+            "katakana": "ボ",
+            "romaji": "bo",
+            "ipa": "bo",
+            "base": "ほ",
+            "examples": [
+              { "word": "ぼく", "kanji": "僕", "meaning": "tôi (nam)" },
+              { "word": "ぼうし", "kanji": "帽子", "meaning": "mũ" },
+              { "word": "あそぼう", "meaning": "chơi đi" }
+            ]
+          }
+        ]
+      }
+    },
+
+    "ji_zu_confusion": {
+      "title": "じ/ぢ và ず/づ - Cùng phát âm",
+      "description": "Trong tiếng Nhật hiện đại, じ và ぢ phát âm giống nhau, ず và づ cũng vậy",
+
+      "ji_di": {
+        "pronunciation": "[dʑi] hoặc [ʑi]",
+        "rule": "Dùng じ trong hầu hết trường hợp, ぢ chỉ dùng khi:",
+        "use_di_when": [
+          "Từ ghép mà từ gốc có ち (rendaku): はな + ち → はなぢ",
+          "Từ có ち lặp lại: ちぢむ (縮む)"
+        ],
+        "examples": {
+          "ji": ["じかん", "じしょ", "かじ", "ふじさん"],
+          "di": ["はなぢ", "ちぢむ", "ちぢれる"]
+        }
+      },
+
+      "zu_du": {
+        "pronunciation": "[dzɯ] hoặc [zɯ]",
+        "rule": "Dùng ず trong hầu hết trường hợp, づ chỉ dùng khi:",
+        "use_du_when": [
+          "Từ ghép mà từ gốc có つ (rendaku): みか + つき → みかづき",
+          "Từ có つ biến đổi: つづく (続く), つづける (続ける)"
+        ],
+        "examples": {
+          "zu": ["ずっと", "みず", "かず", "すず"],
+          "du": ["つづく", "つづける", "みかづき", "こづつみ"]
+        }
+      },
+
+      "listening_note": "Khi nghe, không thể phân biệt じ/ぢ hay ず/づ - phải dựa vào ngữ cảnh và kiến thức từ vựng"
+    }
+  },
+
+  "handakuon": {
+    "name_vi": "Âm bán đục",
+    "name_jp": "半濁音",
+    "reading": "handakuon",
+    "mark": "゜",
+    "mark_name": "handakuten / maru",
+    "description": "Chỉ áp dụng cho は行, biến h → p",
+
+    "transformation_rule": {
+      "from": "は行 (ha, hi, fu, he, ho)",
+      "to": "ぱ行 (pa, pi, pu, pe, po)",
+      "phonetic_change": "h/f → p",
+      "note": "P là âm vô thanh môi, khác với B là hữu thanh"
+    },
+
+    "pa_gyou": {
+      "name_jp": "ぱ行",
+      "base": "は行",
+      "phonetic": "p-",
+      "characters": [
+        {
+          "hiragana": "ぱ",
+          "katakana": "パ",
+          "romaji": "pa",
+          "ipa": "pa",
+          "base": "は",
+          "examples": [
+            { "word": "パン", "meaning": "bánh mì" },
+            { "word": "パーティー", "meaning": "tiệc" },
+            { "word": "さんぱい", "meaning": "thất bại thảm hại" }
+          ]
+        },
+        {
+          "hiragana": "ぴ",
+          "katakana": "ピ",
+          "romaji": "pi",
+          "ipa": "pi",
+          "base": "ひ",
+          "examples": [
+            { "word": "ピアノ", "meaning": "đàn piano" },
+            { "word": "えんぴつ", "kanji": "鉛筆", "meaning": "bút chì" },
+            { "word": "しんぴ", "kanji": "神秘", "meaning": "thần bí" }
+          ]
+        },
+        {
+          "hiragana": "ぷ",
+          "katakana": "プ",
+          "romaji": "pu",
+          "ipa": "pɯ",
+          "base": "ふ",
+          "examples": [
+            { "word": "プール", "meaning": "bể bơi" },
+            { "word": "てんぷら", "kanji": "天ぷら", "meaning": "tempura" },
+            { "word": "さんぷん", "kanji": "三分", "meaning": "3 phút" }
+          ]
+        },
+        {
+          "hiragana": "ぺ",
+          "katakana": "ペ",
+          "romaji": "pe",
+          "ipa": "pe",
+          "base": "へ",
+          "examples": [
+            { "word": "ペン", "meaning": "bút" },
+            { "word": "ページ", "meaning": "trang" },
+            { "word": "ペット", "meaning": "thú cưng" }
+          ]
+        },
+        {
+          "hiragana": "ぽ",
+          "katakana": "ポ",
+          "romaji": "po",
+          "ipa": "po",
+          "base": "ほ",
+          "examples": [
+            { "word": "ポスト", "meaning": "hòm thư" },
+            { "word": "さんぽ", "kanji": "散歩", "meaning": "đi dạo" },
+            { "word": "しっぽ", "kanji": "尻尾", "meaning": "đuôi" }
+          ]
+        }
+      ]
+    },
+
+    "usage_patterns": {
+      "description": "ぱ行 thường xuất hiện trong:",
+      "patterns": [
+        {
+          "type": "Từ ngoại lai (Katakana)",
+          "examples": ["パン", "ピアノ", "プール", "ペン", "ポスト"],
+          "note": "Rất phổ biến trong Katakana"
+        },
+        {
+          "type": "Sau âm っ (sokuon)",
+          "examples": ["いっぱい", "きっぷ", "さっぱり", "しっぽ"],
+          "note": "っ + p rất phổ biến"
+        },
+        {
+          "type": "Sau âm ん",
+          "examples": ["さんぽ", "えんぴつ", "さんぷん", "しんぱい"],
+          "note": "ん trước p phát âm [m]"
+        },
+        {
+          "type": "Từ tượng thanh/tượng hình",
+          "examples": ["ぴかぴか", "ぽかぽか", "ぷにぷに"],
+          "note": "Onomatopoeia thường dùng p"
+        }
+      ]
+    }
+  },
+
+  "rendaku": {
+    "title": "連濁 - Quy tắc biến đổi âm trong từ ghép",
+    "reading": "rendaku",
+    "description": "Khi ghép từ, âm đầu của từ thứ hai có thể bị đục hóa",
+
+    "basic_rule": {
+      "description": "Âm vô thanh đầu từ thứ hai → Âm hữu thanh",
+      "examples": [
+        { "word1": "て", "word2": "かみ", "compound": "てがみ", "meaning": "thư (tay + giấy)", "change": "か → が" },
+        { "word1": "はな", "word2": "ち", "compound": "はなぢ", "meaning": "chảy máu mũi", "change": "ち → ぢ" },
+        { "word1": "あお", "word2": "そら", "compound": "あおぞら", "meaning": "bầu trời xanh", "change": "そ → ぞ" },
+        { "word1": "もの", "word2": "かたり", "compound": "ものがたり", "meaning": "câu chuyện", "change": "か → が" }
+      ]
+    },
+
+    "exceptions": {
+      "description": "Rendaku KHÔNG xảy ra khi:",
+      "rules": [
+        {
+          "rule": "Từ thứ hai đã có âm đục",
+          "reason": "Quy tắc Lyman - không đục hóa nếu đã có dakuon",
+          "example": "やま + かぜ → やまかぜ (không phải やまがぜ vì かぜ có ぜ)"
+        },
+        {
+          "rule": "Từ ghép Sino-Japanese (từ Hán)",
+          "reason": "Từ Hán-Nhật thường không áp dụng rendaku",
+          "example": "がいこく (外国) - không biến đổi"
+        },
+        {
+          "rule": "Từ ghép đẳng lập (A và B)",
+          "reason": "Hai từ ngang hàng",
+          "example": "やまかわ (山川) - núi VÀ sông"
+        }
+      ]
+    },
+
+    "common_rendaku_words": [
+      { "original": "て + かみ", "result": "てがみ", "meaning": "thư" },
+      { "original": "はな + ひ", "result": "はなび", "meaning": "pháo hoa" },
+      { "original": "い + くち", "result": "いぐち", "meaning": "lối vào" },
+      { "original": "こころ + つよい", "result": "こころづよい", "meaning": "vững lòng" },
+      { "original": "あめ + ふり", "result": "あめふり", "meaning": "trời mưa", "note": "Không rendaku" }
+    ]
+  },
+
+  "minimal_pairs": {
+    "title": "Cặp từ tối thiểu để luyện nghe",
+    "description": "Phân biệt âm vô thanh và hữu thanh",
+
+    "ka_ga": [
+      { "voiceless": "かみ", "voiced": "がみ", "meanings": ["giấy/tóc/thần", "hậu tố"] },
+      { "voiceless": "かく", "voiced": "がく", "meanings": ["viết", "học/nhạc"] },
+      { "voiceless": "きく", "voiced": "ぎく", "meanings": ["nghe/hoa cúc", "giật mình"] },
+      { "voiceless": "こ", "voiced": "ご", "meanings": ["con/cái nhỏ", "năm/ngữ"] },
+      { "voiceless": "けん", "voiced": "げん", "meanings": ["kiếm/quyền", "nguồn/huyền"] }
+    ],
+
+    "sa_za": [
+      { "voiceless": "さけ", "voiced": "ざけ", "meanings": ["rượu sake", "hậu tố trong từ ghép"] },
+      { "voiceless": "すし", "voiced": "ずし", "meanings": ["sushi", "(trong từ ghép)"] },
+      { "voiceless": "せかい", "voiced": "ぜかい", "meanings": ["thế giới", "(không có)"] },
+      { "voiceless": "そこ", "voiced": "ぞこ", "meanings": ["đó/đáy", "(trong từ ghép)"] }
+    ],
+
+    "ta_da": [
+      { "voiceless": "たい", "voiced": "だい", "meanings": ["muốn/cá tráp", "lớn/thế hệ"] },
+      { "voiceless": "ていこう", "voiced": "でいこう", "meanings": ["để yên", "đề nghị"] },
+      { "voiceless": "てん", "voiced": "でん", "meanings": ["điểm/trời", "điện/ruộng"] },
+      { "voiceless": "とき", "voiced": "どき", "meanings": ["lúc/thời", "hồi hộp"] },
+      { "voiceless": "とう", "voiced": "どう", "meanings": ["đảng/đông", "đồng/động"] }
+    ],
+
+    "ha_ba_pa": [
+      { "h": "はし", "b": "ばし", "p": "ぱし", "meanings": ["đũa/cầu", "(hậu tố)", "(không có)"] },
+      { "h": "はな", "b": "ばな", "p": "-", "meanings": ["hoa/mũi", "(hậu tố)", "-"] },
+      { "h": "ひと", "b": "びと", "p": "-", "meanings": ["người", "(hậu tố chỉ người)", "-"] },
+      { "h": "ふく", "b": "ぶく", "p": "ぷく", "meanings": ["quần áo", "(hậu tố)", "(onomatopoeia)"] },
+      { "h": "ほん", "b": "ぼん", "p": "ぽん", "meanings": ["sách/gốc", "khay", "(đếm vật dài)"] }
+    ]
+  },
+
+  "listening_tips": {
+    "title": "Mẹo nghe phân biệt",
+    "tips": [
+      {
+        "tip": "Cảm nhận độ rung dây thanh",
+        "description": "Âm hữu thanh (g, z, d, b) có độ rung, âm vô thanh (k, s, t, h, p) không rung",
+        "practice": "Đặt tay lên cổ họng khi nói để cảm nhận"
+      },
+      {
+        "tip": "Chú ý đến ngữ cảnh",
+        "description": "Nhiều từ chỉ có một cách viết, ngữ cảnh giúp xác định",
+        "example": "が ở đầu câu thường là trợ từ"
+      },
+      {
+        "tip": "Luyện nghe minimal pairs",
+        "description": "Nghe đi nghe lại các cặp từ tối thiểu",
+        "frequency": "15 phút/ngày"
+      },
+      {
+        "tip": "Shadowing",
+        "description": "Lặp lại ngay sau khi nghe để quen với sự khác biệt",
+        "resource": "NHK News, podcast tiếng Nhật"
+      }
+    ]
+  },
+
+  "common_mistakes_vietnamese": {
+    "title": "Lỗi phổ biến",
+    "mistakes": [
+      {
+        "mistake": "Không phân biệt được が và か",
+        "reason": "Tiếng Việt không có cặp g/k như tiếng Nhật",
+        "solution": "Luyện nghe minimal pairs, chú ý độ rung dây thanh"
+      },
+      {
+        "mistake": "Nhầm だ và た",
+        "reason": "Cả đ và t tiếng Việt đều vô thanh",
+        "solution": "D tiếng Nhật có rung dây thanh, T không rung"
+      },
+      {
+        "mistake": "Không nghe được ば và ぱ",
+        "reason": "Cả ba (h, b, p) đều khác nhau nhưng khó phân biệt khi nghe nhanh",
+        "solution": "B có rung (hữu thanh), P không rung nhưng có bật hơi (vô thanh)"
+      },
+      {
+        "mistake": "Không biết khi nào dùng じ/ぢ, ず/づ",
+        "reason": "Phát âm giống nhau, chỉ khác về chính tả",
+        "solution": "Học từ vựng và quy tắc rendaku"
+      }
+    ]
+  }
+}

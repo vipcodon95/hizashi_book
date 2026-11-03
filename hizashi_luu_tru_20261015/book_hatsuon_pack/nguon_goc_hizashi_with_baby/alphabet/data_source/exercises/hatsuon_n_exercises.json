@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Bài tập nghe âm ん (撥音) và các biến thể phát âm",
+    "focus": "Phân biệt 5 biến thể: [m], [n], [ŋ], [ɲ], [ɴ]",
+    "total_levels": 4,
+    "exercise_types": ["identify_variant", "choose_one", "n_vs_na", "count_mora", "odd_one_out"]
+  },
+  "levels": {
+    "L1": {
+      "name": "Nhận biết âm ん cơ bản",
+      "name_jp": "「ん」基本",
+      "description": "Nghe và nhận biết vị trí âm ん trong từ, đếm mora",
+      "difficulty": 1,
+      "exercises": {
+        "has_n_or_not": {
+          "instruction": "Nghe và xác định từ CÓ hay KHÔNG CÓ âm ん",
+          "questions": [
+            { "audio": "にほん", "answer": true, "meaning": "Nhật Bản", "n_count": 1 },
+            { "audio": "さくら", "answer": false, "meaning": "hoa anh đào", "n_count": 0 },
+            { "audio": "せんせい", "answer": true, "meaning": "giáo viên", "n_count": 1 },
+            { "audio": "たべる", "answer": false, "meaning": "ăn", "n_count": 0 },
+            { "audio": "しんぶん", "answer": true, "meaning": "báo", "n_count": 2 },
+            { "audio": "やま", "answer": false, "meaning": "núi", "n_count": 0 },
+            { "audio": "でんわ", "answer": true, "meaning": "điện thoại", "n_count": 1 },
+            { "audio": "かわ", "answer": false, "meaning": "sông", "n_count": 0 },
+            { "audio": "にほんご", "answer": true, "meaning": "tiếng Nhật", "n_count": 1 },
+            { "audio": "おんがく", "answer": true, "meaning": "âm nhạc", "n_count": 1 },
+            { "audio": "えんぴつ", "answer": true, "meaning": "bút chì", "n_count": 1 },
+            { "audio": "かばん", "answer": true, "meaning": "cặp sách", "n_count": 1 },
+            { "audio": "みず", "answer": false, "meaning": "nước", "n_count": 0 },
+            { "audio": "パン", "answer": true, "meaning": "bánh mì", "n_count": 1 },
+            { "audio": "りんご", "answer": true, "meaning": "táo", "n_count": 1 }
+          ]
+        },
+        "count_n": {
+          "instruction": "Nghe và đếm số lần xuất hiện của âm ん",
+          "questions": [
+            { "audio": "にほん", "answer": 1, "breakdown": "ni-ho-[n]" },
+            { "audio": "しんぶん", "answer": 2, "breakdown": "shi-[n]-bu-[n]" },
+            { "audio": "さんぽ", "answer": 1, "breakdown": "sa-[n]-po" },
+            { "audio": "でんわ", "answer": 1, "breakdown": "de-[n]-wa" },
+            { "audio": "かんたん", "answer": 2, "breakdown": "ka-[n]-ta-[n]" },
+            { "audio": "せんせい", "answer": 1, "breakdown": "se-[n]-se-i" },
+            { "audio": "にんげん", "answer": 2, "breakdown": "ni-[n]-ge-[n]" },
+            { "audio": "ほんとう", "answer": 1, "breakdown": "ho-[n]-to-u" },
+            { "audio": "さんねん", "answer": 2, "breakdown": "sa-[n]-ne-[n]" },
+            { "audio": "げんかん", "answer": 2, "breakdown": "ge-[n]-ka-[n]" }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora (nhớ rằng ん = 1 mora)",
+          "questions": [
+            { "audio": "にほん", "answer": 3, "breakdown": "ni-ho-n" },
+            { "audio": "しんぶん", "answer": 4, "breakdown": "shi-n-bu-n" },
+            { "audio": "さんぽ", "answer": 3, "breakdown": "sa-n-po" },
+            { "audio": "でんわ", "answer": 3, "breakdown": "de-n-wa" },
+            { "audio": "せんせい", "answer": 4, "breakdown": "se-n-se-i" },
+            { "audio": "にほんご", "answer": 4, "breakdown": "ni-ho-n-go" },
+            { "audio": "えんぴつ", "answer": 4, "breakdown": "e-n-pi-tsu" },
+            { "audio": "かんたん", "answer": 4, "breakdown": "ka-n-ta-n" },
+            { "audio": "げんき", "answer": 3, "breakdown": "ge-n-ki" },
+            { "audio": "おんがく", "answer": 4, "breakdown": "o-n-ga-ku" }
+          ]
+        }
+      }
+    },
+    "L2": {
+      "name": "Biến thể [m] và [n]",
+      "name_jp": "[m]と[n]の聞き分け",
+      "description": "Phân biệt ん phát âm [m] (trước m/b/p) và [n] (trước t/d/n/r)",
+      "difficulty": 2,
+      "focus": ["[m] trước m, b, p", "[n] trước t, d, n, r"],
+      "exercises": {
+        "identify_m_or_n": {
+          "instruction": "Nghe và xác định ん phát âm là [m] hay [n]",
+          "questions": [
+            { "audio": "さんぽ", "answer": "[m]", "meaning": "đi dạo", "reason": "trước p", "actual": "sampo" },
+            { "audio": "かんたん", "answer": "[n]", "meaning": "đơn giản", "reason": "trước t", "actual": "kantan" },
+            { "audio": "しんぶん", "answer": "[m]", "meaning": "báo", "reason": "trước b", "actual": "shimbun" },
+            { "audio": "べんとう", "answer": "[n]", "meaning": "cơm hộp", "reason": "trước t", "actual": "bentou" },
+            { "audio": "えんぴつ", "answer": "[m]", "meaning": "bút chì", "reason": "trước p", "actual": "empitsu" },
+            { "audio": "せんろ", "answer": "[n]", "meaning": "đường ray", "reason": "trước r", "actual": "senro" },
+            { "audio": "せんぱい", "answer": "[m]", "meaning": "tiền bối", "reason": "trước p", "actual": "sempai" },
+            { "audio": "おんど", "answer": "[n]", "meaning": "nhiệt độ", "reason": "trước d", "actual": "ondo" },
+            { "audio": "うんめい", "answer": "[m]", "meaning": "số mệnh", "reason": "trước m", "actual": "ummei" },
+            { "audio": "てんない", "answer": "[n]", "meaning": "trong cửa hàng", "reason": "trước n", "actual": "tennai" },
+            { "audio": "なんぼく", "answer": "[m]", "meaning": "nam bắc", "reason": "trước b", "actual": "namboku" },
+            { "audio": "しんり", "answer": "[n]", "meaning": "tâm lý", "reason": "trước r", "actual": "shinri" }
+          ]
+        },
+        "choose_one_m_n": {
+          "instruction": "Nghe và chọn từ đúng",
+          "questions": [
+            { "audio": "さんぽ", "options": ["さんぽ", "さんと"], "answer": "さんぽ", "meaning": ["đi dạo", "-"], "n_type": ["[m]", "[n]"] },
+            { "audio": "かんたん", "options": ["かんぱん", "かんたん"], "answer": "かんたん", "meaning": ["-", "đơn giản"], "n_type": ["[m]", "[n]"] },
+            { "audio": "しんぶん", "options": ["しんぶん", "しんどん"], "answer": "しんぶん", "meaning": ["báo", "-"], "n_type": ["[m]", "[n]"] },
+            { "audio": "べんとう", "options": ["べんぽう", "べんとう"], "answer": "べんとう", "meaning": ["-", "cơm hộp"], "n_type": ["[m]", "[n]"] },
+            { "audio": "えんぴつ", "options": ["えんぴつ", "えんてつ"], "answer": "えんぴつ", "meaning": ["bút chì", "-"], "n_type": ["[m]", "[n]"] },
+            { "audio": "せんたく", "options": ["せんぱく", "せんたく"], "answer": "せんたく", "meaning": ["-", "giặt giũ"], "n_type": ["[m]", "[n]"] }
+          ]
+        },
+        "same_or_different_m_n": {
+          "instruction": "Nghe 2 từ và cho biết ん phát âm GIỐNG hay KHÁC nhau",
+          "pairs": [
+            { "audio_1": "さんぽ", "audio_2": "せんぱい", "answer": "same", "both": "[m]", "reason": "Cả hai trước p" },
+            { "audio_1": "さんぽ", "audio_2": "かんたん", "answer": "different", "types": ["[m]", "[n]"], "reason": "p vs t" },
+            { "audio_1": "べんとう", "audio_2": "せんたく", "answer": "same", "both": "[n]", "reason": "Cả hai trước t" },
+            { "audio_1": "しんぶん", "audio_2": "えんぴつ", "answer": "same", "both": "[m]", "reason": "b và p đều là âm môi" },
+            { "audio_1": "せんろ", "audio_2": "うんめい", "answer": "different", "types": ["[n]", "[m]"], "reason": "r vs m" },
+            { "audio_1": "おんど", "audio_2": "しんり", "answer": "same", "both": "[n]", "reason": "d và r đều là âm đầu lưỡi" }
+          ]
+        }
+      }
+    },
+    "L3": {
+      "name": "Biến thể [ŋ] và [ɴ]",
+      "name_jp": "[ŋ]と[ɴ]の聞き分け",
+      "description": "Phân biệt ん phát âm [ŋ] (trước k/g) và [ɴ] (cuối từ, trước nguyên âm)",
+      "difficulty": 3,
+      "focus": ["[ŋ] trước k, g", "[ɴ] cuối từ, trước nguyên âm/や/わ/さ/は hàng"],
+      "exercises": {
+        "identify_ng_or_uvular": {
+          "instruction": "Nghe và xác định ん phát âm là [ŋ] hay [ɴ]",
+          "questions": [
+            { "audio": "げんき", "answer": "[ŋ]", "meaning": "khỏe", "reason": "trước k", "actual": "geŋki" },
+            { "audio": "にほん", "answer": "[ɴ]", "meaning": "Nhật Bản", "reason": "cuối từ" },
+            { "audio": "にほんご", "answer": "[ŋ]", "meaning": "tiếng Nhật", "reason": "trước g", "actual": "nihoŋgo" },
+            { "audio": "でんわ", "answer": "[ɴ]", "meaning": "điện thoại", "reason": "trước わ" },
+            { "audio": "ぎんこう", "answer": "[ŋ]", "meaning": "ngân hàng", "reason": "trước k", "actual": "giŋkou" },
+            { "audio": "れんあい", "answer": "[ɴ]", "meaning": "tình yêu", "reason": "trước nguyên âm" },
+            { "audio": "まんが", "answer": "[ŋ]", "meaning": "truyện tranh", "reason": "trước g", "actual": "maŋga" },
+            { "audio": "けんさ", "answer": "[ɴ]", "meaning": "kiểm tra", "reason": "trước さ" },
+            { "audio": "たんご", "answer": "[ŋ]", "meaning": "từ vựng", "reason": "trước g", "actual": "taŋgo" },
+            { "audio": "パン", "answer": "[ɴ]", "meaning": "bánh mì", "reason": "cuối từ" },
+            { "audio": "でんき", "answer": "[ŋ]", "meaning": "điện", "reason": "trước k", "actual": "deŋki" },
+            { "audio": "しんせつ", "answer": "[ɴ]", "meaning": "tử tế", "reason": "trước せ" }
+          ]
+        },
+        "choose_following_sound": {
+          "instruction": "Nghe cách phát âm ん và đoán âm đứng sau thuộc nhóm nào",
+          "options": ["k/g", "nguyên âm/や/わ/さ/は hàng/cuối từ"],
+          "questions": [
+            { "audio": "げんき", "answer": "k/g", "word_meaning": "khỏe" },
+            { "audio": "でんわ", "answer": "nguyên âm/や/わ/さ/は hàng/cuối từ", "word_meaning": "điện thoại" },
+            { "audio": "まんが", "answer": "k/g", "word_meaning": "truyện tranh" },
+            { "audio": "にほん", "answer": "nguyên âm/や/わ/さ/は hàng/cuối từ", "word_meaning": "Nhật Bản" },
+            { "audio": "ぎんこう", "answer": "k/g", "word_meaning": "ngân hàng" },
+            { "audio": "れんあい", "answer": "nguyên âm/や/わ/さ/は hàng/cuối từ", "word_meaning": "tình yêu" }
+          ]
+        }
+      }
+    },
+    "L4": {
+      "name": "ん vs な行 + Tổng hợp",
+      "name_jp": "「ん」vs「な行」+ 総合",
+      "description": "Phân biệt ん trước nguyên âm với な/に/ぬ/ね/の + Tổng hợp tất cả biến thể",
+      "difficulty": 4,
+      "exercises": {
+        "n_vs_na_row": {
+          "instruction": "Nghe và chọn từ đúng (chú ý: ん trước nguyên âm vs な行)",
+          "note": "Đây là phần khó nhất - ん trước nguyên âm tạo thêm 1 mora",
+          "questions": [
+            { "audio": "かんい", "options": ["かに", "かんい"], "answer": "かんい", "meaning": ["cua", "đơn giản"], "mora": [2, 3] },
+            { "audio": "かに", "options": ["かに", "かんい"], "answer": "かに", "meaning": ["cua", "đơn giản"], "mora": [2, 3] },
+            { "audio": "きんえん", "options": ["きねん", "きんえん"], "answer": "きんえん", "meaning": ["kỷ niệm", "cấm hút thuốc"], "mora": [3, 4] },
+            { "audio": "きねん", "options": ["きねん", "きんえん"], "answer": "きねん", "meaning": ["kỷ niệm", "cấm hút thuốc"], "mora": [3, 4] },
+            { "audio": "たんい", "options": ["たに", "たんい"], "answer": "たんい", "meaning": ["thung lũng", "đơn vị"], "mora": [2, 3] },
+            { "audio": "たに", "options": ["たに", "たんい"], "answer": "たに", "meaning": ["thung lũng", "đơn vị"], "mora": [2, 3] },
+            { "audio": "はんい", "options": ["はに", "はんい"], "answer": "はんい", "meaning": ["răng", "phạm vi"], "mora": [2, 3] },
+            { "audio": "はに", "options": ["はに", "はんい"], "answer": "はに", "meaning": ["răng", "phạm vi"], "mora": [2, 3] },
+            { "audio": "れんあい", "options": ["れない", "れんあい"], "answer": "れんあい", "meaning": ["-", "tình yêu"], "mora": [3, 4] },
+            { "audio": "せんえん", "options": ["せねん", "せんえん"], "answer": "せんえん", "meaning": ["-", "1000 yên"], "mora": [3, 4] }
+          ]
+        },
+        "identify_all_variants": {
+          "instruction": "Nghe và xác định ん phát âm là biến thể nào",
+          "options": ["[m]", "[n]", "[ŋ]", "[ɴ]"],
+          "questions": [
+            { "audio": "さんぽ", "answer": "[m]", "meaning": "đi dạo", "reason": "trước p" },
+            { "audio": "かんたん", "answer": "[n]", "meaning": "đơn giản", "reason": "trước t" },
+            { "audio": "げんき", "answer": "[ŋ]", "meaning": "khỏe", "reason": "trước k" },
+            { "audio": "にほん", "answer": "[ɴ]", "meaning": "Nhật Bản", "reason": "cuối từ" },
+            { "audio": "しんぶん", "answer": "[m]", "meaning": "báo", "reason": "trước b" },
+            { "audio": "せんろ", "answer": "[n]", "meaning": "đường ray", "reason": "trước r" },
+            { "audio": "にほんご", "answer": "[ŋ]", "meaning": "tiếng Nhật", "reason": "trước g" },
+            { "audio": "でんわ", "answer": "[ɴ]", "meaning": "điện thoại", "reason": "trước わ" },
+            { "audio": "えんぴつ", "answer": "[m]", "meaning": "bút chì", "reason": "trước p" },
+            { "audio": "おんど", "answer": "[n]", "meaning": "nhiệt độ", "reason": "trước d" },
+            { "audio": "ぎんこう", "answer": "[ŋ]", "meaning": "ngân hàng", "reason": "trước k" },
+            { "audio": "れんあい", "answer": "[ɴ]", "meaning": "tình yêu", "reason": "trước nguyên âm" },
+            { "audio": "うんめい", "answer": "[m]", "meaning": "số mệnh", "reason": "trước m" },
+            { "audio": "てんない", "answer": "[n]", "meaning": "trong cửa hàng", "reason": "trước n" },
+            { "audio": "まんが", "answer": "[ŋ]", "meaning": "truyện tranh", "reason": "trước g" },
+            { "audio": "けんさ", "answer": "[ɴ]", "meaning": "kiểm tra", "reason": "trước さ" }
+          ]
+        },
+        "mixed_count_mora": {
+          "instruction": "Nghe và đếm số mora (chú ý ん = 1 mora)",
+          "questions": [
+            { "audio": "さんぽ", "answer": 3, "breakdown": "sa-n-po" },
+            { "audio": "しんぶん", "answer": 4, "breakdown": "shi-n-bu-n" },
+            { "audio": "にほんご", "answer": 4, "breakdown": "ni-ho-n-go" },
+            { "audio": "きんえん", "answer": 4, "breakdown": "ki-n-e-n" },
+            { "audio": "れんあい", "answer": 4, "breakdown": "re-n-a-i" },
+            { "audio": "かんたん", "answer": 4, "breakdown": "ka-n-ta-n" },
+            { "audio": "げんかん", "answer": 4, "breakdown": "ge-n-ka-n" },
+            { "audio": "しんせつ", "answer": 4, "breakdown": "shi-n-se-tsu" }
+          ]
+        },
+        "odd_one_out": {
+          "instruction": "Nghe 4 từ và chọn từ có ん phát âm KHÁC với các từ còn lại",
+          "questions": [
+            { "audio": ["さんぽ", "えんぴつ", "しんぶん", "げんき"], "answer": 3, "answer_text": "げんき", "note": "[m][m][m] vs [ŋ]" },
+            { "audio": ["かんたん", "べんとう", "せんろ", "まんが"], "answer": 3, "answer_text": "まんが", "note": "[n][n][n] vs [ŋ]" },
+            { "audio": ["げんき", "にほんご", "ぎんこう", "にほん"], "answer": 3, "answer_text": "にほん", "note": "[ŋ][ŋ][ŋ] vs [ɴ]" },
+            { "audio": ["でんわ", "れんあい", "けんさ", "でんき"], "answer": 3, "answer_text": "でんき", "note": "[ɴ][ɴ][ɴ] vs [ŋ]" }
+          ]
+        }
+      }
+    }
+  },
+  "review_exercises": {
+    "description": "Bài tập tổng hợp ôn tập tất cả về âm ん",
+    "comprehensive_test": {
+      "instruction": "Nghe và trả lời các câu hỏi về âm ん",
+      "questions": [
+        { "audio": "さんぽ", "task": "identify_variant", "answer": "[m]", "mora": 3 },
+        { "audio": "かんたん", "task": "count_mora", "answer": 4, "variant": "[n]" },
+        { "audio": "きんえん", "task": "n_vs_na", "options": ["きねん", "きんえん"], "answer": "きんえん" },
+        { "audio": "げんき", "task": "identify_variant", "answer": "[ŋ]", "mora": 3 },
+        { "audio": "にほん", "task": "identify_variant", "answer": "[ɴ]", "mora": 3 },
+        { "audio": "しんぶん", "task": "count_n", "answer": 2, "variants": ["[m]", "[ɴ]"] },
+        { "audio": "れんあい", "task": "identify_variant", "answer": "[ɴ]", "mora": 4 },
+        { "audio": "たに", "task": "n_vs_na", "options": ["たに", "たんい"], "answer": "たに" }
+      ]
+    }
+  },
+  "quick_reference": {
+    "description": "Bảng tra nhanh để học sinh tham khảo",
+    "rules": [
+      { "variant": "[m]", "condition": "Trước ま/ば/ぱ hàng", "example": "さんぽ → sampo", "vietnamese": "Như 'm'" },
+      { "variant": "[n]", "condition": "Trước た/だ/な/ら hàng", "example": "かんたん → kantan", "vietnamese": "Như 'n'" },
+      { "variant": "[ŋ]", "condition": "Trước か/が hàng", "example": "げんき → geŋki", "vietnamese": "Như 'ng' đầu" },
+      { "variant": "[ɴ]", "condition": "Cuối từ, trước あ/や/わ/さ/は hàng", "example": "にほん, でんわ", "vietnamese": "Như 'ng' cuối" }
+    ]
+  }
+}

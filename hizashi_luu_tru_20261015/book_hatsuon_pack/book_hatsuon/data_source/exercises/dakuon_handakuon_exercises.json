@@ -1,0 +1,560 @@
+{
+  "metadata": {
+    "title": "Bài tập Âm đục và Âm bán đục",
+    "description": "Luyện nghe phân biệt 清音/濁音/半濁音",
+    "total_levels": 4,
+    "version": "1.0"
+  },
+
+  "level_1": {
+    "title": "か行 vs が行 - Cơ bản",
+    "description": "Phân biệt âm k (vô thanh) và g (hữu thanh)",
+
+    "exercises": [
+      {
+        "id": "L1_01",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 âm và cho biết GIỐNG hay KHÁC nhau",
+        "pairs": [
+          { "audio_1": "か", "audio_2": "が", "answer": "different" },
+          { "audio_1": "き", "audio_2": "き", "answer": "same" },
+          { "audio_1": "く", "audio_2": "ぐ", "answer": "different" },
+          { "audio_1": "け", "audio_2": "げ", "answer": "different" },
+          { "audio_1": "こ", "audio_2": "こ", "answer": "same" },
+          { "audio_1": "が", "audio_2": "が", "answer": "same" },
+          { "audio_1": "ぎ", "audio_2": "き", "answer": "different" },
+          { "audio_1": "ご", "audio_2": "ご", "answer": "same" }
+        ]
+      },
+      {
+        "id": "L1_02",
+        "type": "identify_sound",
+        "instruction": "Nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+        "items": [
+          { "audio": "かみ", "answer": "か行", "meaning": "giấy" },
+          { "audio": "がっこう", "answer": "が行", "meaning": "trường học" },
+          { "audio": "きく", "answer": "か行", "meaning": "nghe" },
+          { "audio": "ぎんこう", "answer": "が行", "meaning": "ngân hàng" },
+          { "audio": "くるま", "answer": "か行", "meaning": "xe hơi" },
+          { "audio": "げんき", "answer": "が行", "meaning": "khỏe mạnh" },
+          { "audio": "けさ", "answer": "か行", "meaning": "sáng nay" },
+          { "audio": "ごはん", "answer": "が行", "meaning": "cơm" },
+          { "audio": "こども", "answer": "か行", "meaning": "trẻ em" },
+          { "audio": "ごご", "answer": "が行", "meaning": "buổi chiều" }
+        ]
+      },
+      {
+        "id": "L1_03",
+        "type": "word_choice",
+        "instruction": "Nghe và chọn từ đúng",
+        "items": [
+          {
+            "audio": "かみ",
+            "options": ["かみ (giấy)", "がみ (?)"],
+            "answer": 0
+          },
+          {
+            "audio": "がっこう",
+            "options": ["かっこう (hình dáng)", "がっこう (trường)"],
+            "answer": 1
+          },
+          {
+            "audio": "かく",
+            "options": ["かく (viết)", "がく (học)"],
+            "answer": 0
+          },
+          {
+            "audio": "がく",
+            "options": ["かく (viết)", "がく (học)"],
+            "answer": 1
+          },
+          {
+            "audio": "きく",
+            "options": ["きく (nghe)", "ぎく (giật mình)"],
+            "answer": 0
+          },
+          {
+            "audio": "げつようび",
+            "options": ["けつようび (?)", "げつようび (thứ Hai)"],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "L1_04",
+        "type": "position_identification",
+        "instruction": "Nghe từ và cho biết âm đục ở vị trí nào (đầu/giữa/cuối)",
+        "items": [
+          { "audio": "がいこく", "position": "đầu", "dakuon": "が" },
+          { "audio": "りんご", "position": "giữa", "dakuon": "ご" },
+          { "audio": "かがみ", "position": "giữa", "dakuon": "が" },
+          { "audio": "げんき", "position": "đầu", "dakuon": "げ" },
+          { "audio": "えいご", "position": "cuối", "dakuon": "ご" }
+        ]
+      }
+    ]
+  },
+
+  "level_2": {
+    "title": "さ/ざ行, た/だ行",
+    "description": "Phân biệt s/z và t/d",
+
+    "exercises": [
+      {
+        "id": "L2_01",
+        "type": "identify_sound",
+        "instruction": "Nghe và chọn: Vô thanh hay Hữu thanh?",
+        "section": "さ行 vs ざ行",
+        "items": [
+          { "audio": "さけ", "answer": "vô thanh", "meaning": "rượu sake" },
+          { "audio": "ざんねん", "answer": "hữu thanh", "meaning": "đáng tiếc" },
+          { "audio": "しんぶん", "answer": "vô thanh", "meaning": "báo" },
+          { "audio": "じかん", "answer": "hữu thanh", "meaning": "thời gian" },
+          { "audio": "すいか", "answer": "vô thanh", "meaning": "dưa hấu" },
+          { "audio": "ずっと", "answer": "hữu thanh", "meaning": "mãi mãi" },
+          { "audio": "せかい", "answer": "vô thanh", "meaning": "thế giới" },
+          { "audio": "ぜんぶ", "answer": "hữu thanh", "meaning": "tất cả" }
+        ]
+      },
+      {
+        "id": "L2_02",
+        "type": "identify_sound",
+        "instruction": "Nghe và chọn: Vô thanh hay Hữu thanh?",
+        "section": "た行 vs だ行",
+        "items": [
+          { "audio": "たべる", "answer": "vô thanh", "meaning": "ăn" },
+          { "audio": "だいがく", "answer": "hữu thanh", "meaning": "đại học" },
+          { "audio": "ちず", "answer": "vô thanh", "meaning": "bản đồ" },
+          { "audio": "でんわ", "answer": "hữu thanh", "meaning": "điện thoại" },
+          { "audio": "つくえ", "answer": "vô thanh", "meaning": "bàn" },
+          { "audio": "どこ", "answer": "hữu thanh", "meaning": "ở đâu" },
+          { "audio": "てがみ", "answer": "vô thanh", "meaning": "thư" },
+          { "audio": "でる", "answer": "hữu thanh", "meaning": "ra" }
+        ]
+      },
+      {
+        "id": "L2_03",
+        "type": "minimal_pair_choice",
+        "instruction": "Nghe và chọn từ đúng",
+        "items": [
+          {
+            "audio": "たい",
+            "options": ["たい (muốn)", "だい (lớn)"],
+            "answer": 0
+          },
+          {
+            "audio": "だい",
+            "options": ["たい (muốn)", "だい (lớn)"],
+            "answer": 1
+          },
+          {
+            "audio": "てん",
+            "options": ["てん (điểm)", "でん (điện)"],
+            "answer": 0
+          },
+          {
+            "audio": "でん",
+            "options": ["てん (điểm)", "でん (điện)"],
+            "answer": 1
+          },
+          {
+            "audio": "とき",
+            "options": ["とき (lúc)", "どき (hồi hộp)"],
+            "answer": 0
+          },
+          {
+            "audio": "どき",
+            "options": ["とき (lúc)", "どき (hồi hộp)"],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "L2_04",
+        "type": "count_dakuon",
+        "instruction": "Đếm số âm đục trong câu",
+        "items": [
+          { "audio": "がっこうでべんきょうする", "answer": 3, "dakuon": ["が", "で", "べ"] },
+          { "audio": "じしょをかう", "answer": 1, "dakuon": ["じ"] },
+          { "audio": "でんわばんごう", "answer": 3, "dakuon": ["で", "ば", "ご"] },
+          { "audio": "ざっしをよむ", "answer": 1, "dakuon": ["ざ"] }
+        ]
+      }
+    ]
+  },
+
+  "level_3": {
+    "title": "は/ば/ぱ行 - Ba âm từ cùng gốc",
+    "description": "Phân biệt h (vô thanh), b (hữu thanh), p (bán đục)",
+
+    "exercises": [
+      {
+        "id": "L3_01",
+        "type": "three_way_choice",
+        "instruction": "Nghe và chọn: は行, ば行, hay ぱ行?",
+        "items": [
+          { "audio": "はな", "answer": "は行", "meaning": "hoa" },
+          { "audio": "ばんごはん", "answer": "ば行", "meaning": "bữa tối" },
+          { "audio": "パン", "answer": "ぱ行", "meaning": "bánh mì" },
+          { "audio": "ひと", "answer": "は行", "meaning": "người" },
+          { "audio": "びょういん", "answer": "ば行", "meaning": "bệnh viện" },
+          { "audio": "ピアノ", "answer": "ぱ行", "meaning": "piano" },
+          { "audio": "ふね", "answer": "は行", "meaning": "thuyền" },
+          { "audio": "ぶた", "answer": "ば行", "meaning": "con lợn" },
+          { "audio": "プール", "answer": "ぱ行", "meaning": "bể bơi" },
+          { "audio": "へや", "answer": "は行", "meaning": "phòng" },
+          { "audio": "べんきょう", "answer": "ば行", "meaning": "học tập" },
+          { "audio": "ペン", "answer": "ぱ行", "meaning": "bút" },
+          { "audio": "ほん", "answer": "は行", "meaning": "sách" },
+          { "audio": "ぼうし", "answer": "ば行", "meaning": "mũ" },
+          { "audio": "ポスト", "answer": "ぱ行", "meaning": "hòm thư" }
+        ]
+      },
+      {
+        "id": "L3_02",
+        "type": "word_choice",
+        "instruction": "Nghe và chọn từ đúng",
+        "items": [
+          {
+            "audio": "さんぽ",
+            "options": ["さんほ", "さんぼ", "さんぽ"],
+            "answer": 2,
+            "meaning": "đi dạo"
+          },
+          {
+            "audio": "えんぴつ",
+            "options": ["えんひつ", "えんびつ", "えんぴつ"],
+            "answer": 2,
+            "meaning": "bút chì"
+          },
+          {
+            "audio": "はなび",
+            "options": ["はなひ", "はなび", "はなぴ"],
+            "answer": 1,
+            "meaning": "pháo hoa"
+          },
+          {
+            "audio": "いっぱい",
+            "options": ["いっはい", "いっばい", "いっぱい"],
+            "answer": 2,
+            "meaning": "đầy"
+          },
+          {
+            "audio": "たべる",
+            "options": ["たへる", "たべる", "たぺる"],
+            "answer": 1,
+            "meaning": "ăn"
+          }
+        ]
+      },
+      {
+        "id": "L3_03",
+        "type": "pattern_recognition",
+        "instruction": "Nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+        "items": [
+          { "audio": "いっぱい", "pattern": "っぱ", "meaning": "đầy" },
+          { "audio": "さんぽ", "pattern": "んぽ", "meaning": "đi dạo" },
+          { "audio": "きっぷ", "pattern": "っぷ", "meaning": "vé" },
+          { "audio": "しんぱい", "pattern": "んぱ", "meaning": "lo lắng" },
+          { "audio": "さっぱり", "pattern": "っぱ", "meaning": "sảng khoái" },
+          { "audio": "えんぴつ", "pattern": "んぴ", "meaning": "bút chì" },
+          { "audio": "しっぽ", "pattern": "っぽ", "meaning": "đuôi" },
+          { "audio": "さんぷん", "pattern": "んぷ", "meaning": "3 phút" }
+        ]
+      },
+      {
+        "id": "L3_04",
+        "type": "listening_comprehension",
+        "instruction": "Nghe câu và chọn nghĩa đúng",
+        "items": [
+          {
+            "audio": "パンをたべる",
+            "options": ["Ăn bánh mì", "Ăn cơm", "Ăn mì"],
+            "answer": 0
+          },
+          {
+            "audio": "さんぽにいく",
+            "options": ["Đi mua sắm", "Đi dạo", "Đi học"],
+            "answer": 1
+          },
+          {
+            "audio": "びょういんへいく",
+            "options": ["Đi bệnh viện", "Đi trường", "Đi công ty"],
+            "answer": 0
+          },
+          {
+            "audio": "ペンをかう",
+            "options": ["Mua sách", "Mua bút", "Mua giấy"],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_4": {
+    "title": "Tổng hợp - Tất cả âm đục/bán đục",
+    "description": "Luyện nghe kết hợp tất cả các loại",
+
+    "exercises": [
+      {
+        "id": "L4_01",
+        "type": "identify_all_dakuon",
+        "instruction": "Nghe từ và xác định TẤT CẢ các âm đục/bán đục",
+        "items": [
+          {
+            "audio": "がいこくご",
+            "answer": ["が", "ご"],
+            "meaning": "ngoại ngữ"
+          },
+          {
+            "audio": "でんわばんごう",
+            "answer": ["で", "ば", "ご"],
+            "meaning": "số điện thoại"
+          },
+          {
+            "audio": "ぎゅうにゅう",
+            "answer": ["ぎ"],
+            "meaning": "sữa bò"
+          },
+          {
+            "audio": "ぜんぶ",
+            "answer": ["ぜ", "ぶ"],
+            "meaning": "tất cả"
+          },
+          {
+            "audio": "えんぴつ",
+            "answer": ["ぴ"],
+            "meaning": "bút chì"
+          },
+          {
+            "audio": "だいがく",
+            "answer": ["だ", "が"],
+            "meaning": "đại học"
+          }
+        ]
+      },
+      {
+        "id": "L4_02",
+        "type": "ji_zu_distinction",
+        "instruction": "Nghe và chọn cách viết đúng (じ/ぢ, ず/づ)",
+        "note": "Phát âm giống nhau nhưng viết khác",
+        "items": [
+          {
+            "audio": "jikan",
+            "options": ["じかん", "ぢかん"],
+            "answer": 0,
+            "meaning": "thời gian"
+          },
+          {
+            "audio": "hanaji",
+            "options": ["はなじ", "はなぢ"],
+            "answer": 1,
+            "meaning": "chảy máu mũi",
+            "note": "はな + ち → はなぢ (rendaku)"
+          },
+          {
+            "audio": "mizu",
+            "options": ["みず", "みづ"],
+            "answer": 0,
+            "meaning": "nước"
+          },
+          {
+            "audio": "tsuzuku",
+            "options": ["つずく", "つづく"],
+            "answer": 1,
+            "meaning": "tiếp tục",
+            "note": "Gốc từ つ"
+          },
+          {
+            "audio": "jisho",
+            "options": ["じしょ", "ぢしょ"],
+            "answer": 0,
+            "meaning": "từ điển"
+          },
+          {
+            "audio": "chijimu",
+            "options": ["ちじむ", "ちぢむ"],
+            "answer": 1,
+            "meaning": "co lại",
+            "note": "ち lặp lại"
+          }
+        ]
+      },
+      {
+        "id": "L4_03",
+        "type": "rendaku_recognition",
+        "instruction": "Nghe từ ghép và xác định có rendaku hay không",
+        "items": [
+          {
+            "audio": "てがみ",
+            "original": "て + かみ",
+            "has_rendaku": true,
+            "change": "か → が",
+            "meaning": "thư"
+          },
+          {
+            "audio": "はなび",
+            "original": "はな + ひ",
+            "has_rendaku": true,
+            "change": "ひ → び",
+            "meaning": "pháo hoa"
+          },
+          {
+            "audio": "やまかわ",
+            "original": "やま + かわ",
+            "has_rendaku": false,
+            "meaning": "núi và sông",
+            "note": "Từ ghép đẳng lập - không rendaku"
+          },
+          {
+            "audio": "あおぞら",
+            "original": "あお + そら",
+            "has_rendaku": true,
+            "change": "そ → ぞ",
+            "meaning": "bầu trời xanh"
+          },
+          {
+            "audio": "ものがたり",
+            "original": "もの + かたり",
+            "has_rendaku": true,
+            "change": "か → が",
+            "meaning": "câu chuyện"
+          }
+        ]
+      },
+      {
+        "id": "L4_04",
+        "type": "dialogue_comprehension",
+        "instruction": "Nghe hội thoại và trả lời câu hỏi",
+        "dialogues": [
+          {
+            "script": [
+              "A: すみません、ぎんこうはどこですか。",
+              "B: まっすぐいって、つぎのかどをみぎにまがってください。",
+              "A: ありがとうございます。"
+            ],
+            "questions": [
+              {
+                "question": "A muốn tìm gì?",
+                "options": ["Bưu điện", "Ngân hàng", "Bệnh viện"],
+                "answer": 1,
+                "key_word": "ぎんこう"
+              },
+              {
+                "question": "Rẽ hướng nào?",
+                "options": ["Trái", "Phải", "Đi thẳng"],
+                "answer": 1,
+                "key_word": "みぎ"
+              }
+            ]
+          },
+          {
+            "script": [
+              "A: きょうのばんごはんはなにがいい？",
+              "B: ぎゅうにくがたべたい。",
+              "A: じゃあ、すきやきにしよう。"
+            ],
+            "questions": [
+              {
+                "question": "B muốn ăn gì?",
+                "options": ["Thịt lợn", "Thịt bò", "Cá"],
+                "answer": 1,
+                "key_word": "ぎゅうにく"
+              },
+              {
+                "question": "Họ sẽ nấu món gì?",
+                "options": ["Ramen", "Sukiyaki", "Tempura"],
+                "answer": 1,
+                "key_word": "すきやき"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "L4_05",
+        "type": "dictation",
+        "instruction": "Nghe và viết lại bằng Hiragana, chú ý âm đục/bán đục",
+        "items": [
+          {
+            "audio": "がっこうでべんきょうする",
+            "answer": "がっこうでべんきょうする",
+            "meaning": "Học ở trường"
+          },
+          {
+            "audio": "ぎんこうにいく",
+            "answer": "ぎんこうにいく",
+            "meaning": "Đi ngân hàng"
+          },
+          {
+            "audio": "さんぽにでかける",
+            "answer": "さんぽにでかける",
+            "meaning": "Đi dạo"
+          },
+          {
+            "audio": "パンをかう",
+            "answer": "パンをかう",
+            "meaning": "Mua bánh mì"
+          },
+          {
+            "audio": "でんわばんごうをおしえて",
+            "answer": "でんわばんごうをおしえて",
+            "meaning": "Cho tôi số điện thoại"
+          }
+        ]
+      },
+      {
+        "id": "L4_06",
+        "type": "speed_recognition",
+        "instruction": "Nghe nhanh và chọn đáp án (3 giây)",
+        "items": [
+          {
+            "audio": "がっこう",
+            "options": ["かっこう (hình dáng)", "がっこう (trường)"],
+            "answer": 1
+          },
+          {
+            "audio": "さんぽ",
+            "options": ["さんほ", "さんぽ"],
+            "answer": 1
+          },
+          {
+            "audio": "でんわ",
+            "options": ["てんわ", "でんわ"],
+            "answer": 1
+          },
+          {
+            "audio": "ぜんぶ",
+            "options": ["せんぶ", "ぜんぶ"],
+            "answer": 1
+          },
+          {
+            "audio": "びょういん",
+            "options": ["ひょういん", "びょういん"],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  "summary": {
+    "total_exercises": 18,
+    "dakuon_covered": ["が行", "ざ行", "だ行", "ば行"],
+    "handakuon_covered": ["ぱ行"],
+    "special_topics": ["じ/ぢ, ず/づ distinction", "Rendaku (連濁)"],
+    "progression": {
+      "L1": "か行 vs が行 cơ bản",
+      "L2": "さ/ざ行, た/だ行",
+      "L3": "は/ば/ぱ行 - Ba âm từ cùng gốc",
+      "L4": "Tổng hợp tất cả"
+    },
+    "tips": [
+      "Hữu thanh = dây thanh rung, vô thanh = không rung",
+      "Đặt tay lên cổ họng để cảm nhận sự khác biệt",
+      "じ/ぢ và ず/づ phát âm giống nhau - học theo từ vựng",
+      "Rendaku thường xảy ra trong từ ghép tiếng Nhật thuần"
+    ]
+  }
+}

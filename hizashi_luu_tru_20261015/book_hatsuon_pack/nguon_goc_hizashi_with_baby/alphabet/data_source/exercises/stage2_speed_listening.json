@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "title": "Stage 2B - Nghe tốc độ thực tế",
+    "description": "Luyện nghe ở tốc độ người Nhật nói thực tế, bao gồm âm bị nuốt và rút gọn",
+    "prerequisite": "Hoàn thành Stage 1 và Stage 2A",
+    "focus": "Natural speed, devoicing, contractions",
+    "total_levels": 4,
+    "version": "1.0"
+  },
+
+  "level_1": {
+    "title": "Devoicing - Âm bị nuốt/mất",
+    "description": "Nhận diện các nguyên âm bị mất trong lời nói tự nhiên",
+
+    "theory": {
+      "description": "Trong tiếng Nhật, nguyên âm i và u thường bị 'devoiced' (vô thanh hóa) khi:",
+      "conditions": [
+        "Đứng giữa 2 phụ âm vô thanh (k, s, t, h, p)",
+        "Đứng ở cuối từ sau phụ âm vô thanh",
+        "です、ます - u gần như im lặng"
+      ],
+      "examples": [
+        "です → des'",
+        "ます → mas'",
+        "すき → s'ki",
+        "した → sh'ta"
+      ]
+    },
+
+    "exercises": [
+      {
+        "id": "S2B_L1_01",
+        "type": "identify_devoiced",
+        "instruction": "Nghe và xác định âm nào bị 'nuốt' (devoiced)",
+        "items": [
+          {
+            "audio": "です (natural)",
+            "devoiced": "u",
+            "full_form": "desu",
+            "natural_form": "des'",
+            "meaning": "là"
+          },
+          {
+            "audio": "ます (natural)",
+            "devoiced": "u",
+            "full_form": "masu",
+            "natural_form": "mas'",
+            "meaning": "trợ động từ"
+          },
+          {
+            "audio": "すき (natural)",
+            "devoiced": "u",
+            "full_form": "suki",
+            "natural_form": "s'ki",
+            "meaning": "thích"
+          },
+          {
+            "audio": "した (natural)",
+            "devoiced": "i",
+            "full_form": "shita",
+            "natural_form": "sh'ta",
+            "meaning": "đã làm"
+          },
+          {
+            "audio": "きた (natural)",
+            "devoiced": "i",
+            "full_form": "kita",
+            "natural_form": "k'ta",
+            "meaning": "đã đến"
+          },
+          {
+            "audio": "ください (natural)",
+            "devoiced": "i cuối",
+            "full_form": "kudasai",
+            "natural_form": "kudasa'",
+            "meaning": "xin hãy"
+          },
+          {
+            "audio": "つくる (natural)",
+            "devoiced": "u đầu",
+            "full_form": "tsukuru",
+            "natural_form": "ts'kuru",
+            "meaning": "làm/tạo"
+          },
+          {
+            "audio": "ふくろ (natural)",
+            "devoiced": "u đầu",
+            "full_form": "fukuro",
+            "natural_form": "f'kuro",
+            "meaning": "túi"
+          }
+        ]
+      },
+      {
+        "id": "S2B_L1_02",
+        "type": "slow_vs_natural",
+        "instruction": "Nghe 2 phiên bản: Chậm (đầy đủ) vs Tự nhiên (có devoicing). Xác định bản nào là tự nhiên.",
+        "pairs": [
+          {
+            "audio_slow": "de-su (rõ ràng)",
+            "audio_natural": "des' (nuốt u)",
+            "word": "です",
+            "natural_is": 2
+          },
+          {
+            "audio_slow": "su-ki (rõ ràng)",
+            "audio_natural": "s'ki (nuốt u)",
+            "word": "すき",
+            "natural_is": 2
+          },
+          {
+            "audio_slow": "shi-ta (rõ ràng)",
+            "audio_natural": "sh'ta (nuốt i)",
+            "word": "した",
+            "natural_is": 2
+          }
+        ]
+      },
+      {
+        "id": "S2B_L1_03",
+        "type": "sentence_devoicing",
+        "instruction": "Nghe câu ở tốc độ tự nhiên và chọn nghĩa đúng",
+        "items": [
+          {
+            "audio": "すきです (natural: s'ki des')",
+            "options": ["Tôi thích", "Tôi ghét", "Tôi muốn"],
+            "answer": 0
+          },
+          {
+            "audio": "たべました (natural: tabemash'ta)",
+            "options": ["Đã ăn", "Sẽ ăn", "Đang ăn"],
+            "answer": 0
+          },
+          {
+            "audio": "きてください (natural: k'te kudasa')",
+            "options": ["Xin hãy đến", "Xin hãy mặc", "Xin hãy cắt"],
+            "answer": 0
+          },
+          {
+            "audio": "つくりました (natural: ts'kurimash'ta)",
+            "options": ["Đã làm", "Đã đi", "Đã nói"],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_2": {
+    "title": "Contractions nhanh",
+    "description": "Rút gọn trong văn nói ở tốc độ cao",
+
+    "exercises": [
+      {
+        "id": "S2B_L2_01",
+        "type": "fast_contraction_recognition",
+        "instruction": "Nghe rút gọn nhanh và chọn dạng đầy đủ",
+        "items": [
+          {
+            "audio": "なにしてんの (nhanh)",
+            "full_form": "何をしているの",
+            "options": ["何をしているの", "何をするの", "何をしたの"],
+            "answer": 0
+          },
+          {
+            "audio": "わかんない (nhanh)",
+            "full_form": "わからない",
+            "options": ["わからない", "わかった", "わかる"],
+            "answer": 0
+          },
+          {
+            "audio": "やんなきゃ (nhanh)",
+            "full_form": "やらなければ",
+            "options": ["やらなければ", "やりたい", "やった"],
+            "answer": 0
+          },
+          {
+            "audio": "食べちゃった (nhanh)",
+            "full_form": "食べてしまった",
+            "options": ["食べてしまった", "食べている", "食べたい"],
+            "answer": 0
+          },
+          {
+            "audio": "行っとく (nhanh)",
+            "full_form": "行っておく",
+            "options": ["行っておく", "行っている", "行った"],
+            "answer": 0
+          },
+          {
+            "audio": "そうじゃん (nhanh)",
+            "full_form": "そうじゃないか",
+            "options": ["そうじゃないか", "そうです", "そうじゃない"],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "S2B_L2_02",
+        "type": "speed_understanding",
+        "instruction": "Nghe câu nói nhanh và chọn nghĩa (2 giây để trả lời)",
+        "items": [
+          {
+            "audio": "ちょっとまってて",
+            "meaning": "Đợi chút",
+            "speed": "fast"
+          },
+          {
+            "audio": "なにいってんの",
+            "meaning": "Đang nói gì vậy?",
+            "speed": "fast"
+          },
+          {
+            "audio": "もういかなきゃ",
+            "meaning": "Phải đi rồi",
+            "speed": "fast"
+          },
+          {
+            "audio": "ぜんぜんわかんない",
+            "meaning": "Hoàn toàn không hiểu",
+            "speed": "fast"
+          },
+          {
+            "audio": "それってどういうこと",
+            "meaning": "Điều đó nghĩa là gì?",
+            "speed": "fast"
+          }
+        ]
+      },
+      {
+        "id": "S2B_L2_03",
+        "type": "multiple_contractions",
+        "instruction": "Nghe câu có NHIỀU rút gọn và xác định tất cả",
+        "items": [
+          {
+            "audio": "なんでいかないの？いきたくないってこと？",
+            "contractions": ["なんで (なぜ)", "いかない (行かない)", "いきたくないって (行きたくないと言う)"],
+            "meaning": "Sao không đi? Ý là không muốn đi hả?"
+          },
+          {
+            "audio": "あしたテストあるんだって。べんきょうしなきゃ。",
+            "contractions": ["あるんだって (あるのだと)", "しなきゃ (しなければ)"],
+            "meaning": "Nghe nói mai có test. Phải học thôi."
+          },
+          {
+            "audio": "それ、たべちゃっていい？おなかすいてんの。",
+            "contractions": ["たべちゃって (食べてしまって)", "すいてんの (すいているの)"],
+            "meaning": "Ăn cái đó được không? Đói bụng rồi."
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_3": {
+    "title": "Nghe tốc độ Native",
+    "description": "Nghe ở tốc độ người bản xứ nói chuyện thực tế",
+
+    "exercises": [
+      {
+        "id": "S2B_L3_01",
+        "type": "native_speed_word",
+        "instruction": "Nghe từ ở tốc độ native và chọn từ đúng (2 giây)",
+        "items": [
+          { "audio": "ありがとうございます (fast)", "answer": "ありがとうございます" },
+          { "audio": "すみません (fast)", "answer": "すみません" },
+          { "audio": "よろしくおねがいします (fast)", "answer": "よろしくおねがいします" },
+          { "audio": "おつかれさまです (fast)", "answer": "おつかれさまです" },
+          { "audio": "いただきます (fast)", "answer": "いただきます" },
+          { "audio": "ごちそうさまでした (fast)", "answer": "ごちそうさまでした" }
+        ]
+      },
+      {
+        "id": "S2B_L3_02",
+        "type": "native_speed_sentence",
+        "instruction": "Nghe câu ở tốc độ native và chọn nghĩa đúng",
+        "items": [
+          {
+            "audio": "ちょっとおまちください (fast)",
+            "options": ["Xin đợi chút", "Xin đi chút", "Xin ngồi chút"],
+            "answer": 0
+          },
+          {
+            "audio": "なにかおてつだいしましょうか (fast)",
+            "options": ["Tôi giúp gì được không?", "Bạn cần gì?", "Bạn làm gì?"],
+            "answer": 0
+          },
+          {
+            "audio": "もういちどおねがいします (fast)",
+            "options": ["Xin nói lại lần nữa", "Xin đừng nói", "Xin nói chậm"],
+            "answer": 0
+          },
+          {
+            "audio": "ここにすわってもいいですか (fast)",
+            "options": ["Ngồi đây được không?", "Đứng đây được không?", "Đi đây được không?"],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "S2B_L3_03",
+        "type": "shadowing_prep",
+        "instruction": "Nghe và lặp lại ngay (shadowing). Chọn 'Đã lặp lại' sau khi hoàn thành.",
+        "items": [
+          {
+            "audio": "すみません、えきはどこですか",
+            "speed": "native",
+            "task": "Lặp lại ngay sau khi nghe"
+          },
+          {
+            "audio": "きょうはいいてんきですね",
+            "speed": "native",
+            "task": "Lặp lại ngay sau khi nghe"
+          },
+          {
+            "audio": "なにをしているんですか",
+            "speed": "native",
+            "task": "Lặp lại ngay sau khi nghe"
+          },
+          {
+            "audio": "あしたはなんようびですか",
+            "speed": "native",
+            "task": "Lặp lại ngay sau khi nghe"
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_4": {
+    "title": "Nghe hiểu tổng hợp - Tốc độ cao",
+    "description": "Kết hợp tất cả: devoicing, contractions, native speed",
+
+    "exercises": [
+      {
+        "id": "S2B_L4_01",
+        "type": "fast_dialogue",
+        "instruction": "Nghe hội thoại nhanh và trả lời câu hỏi",
+        "dialogues": [
+          {
+            "audio_speed": "native",
+            "script": [
+              "A: ねえ、きょうひまある？",
+              "B: うーん、ごごはちょっと...",
+              "A: じゃあ、ごぜんちゅうは？",
+              "B: ごぜんならだいじょうぶ！"
+            ],
+            "questions": [
+              {
+                "question": "A muốn biết điều gì?",
+                "options": ["B có rảnh không", "B đi đâu", "B ăn gì"],
+                "answer": 0
+              },
+              {
+                "question": "B rảnh khi nào?",
+                "options": ["Buổi chiều", "Buổi sáng", "Cả ngày"],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "audio_speed": "native",
+            "script": [
+              "A: これ、おいしいね！",
+              "B: でしょ？きのうつくったんだ。",
+              "A: えー、すごい！レシピおしえて！",
+              "B: いいよ、あとでLINEするね。"
+            ],
+            "questions": [
+              {
+                "question": "B đã làm gì?",
+                "options": ["Mua đồ ăn", "Nấu đồ ăn", "Đặt đồ ăn"],
+                "answer": 1
+              },
+              {
+                "question": "B sẽ làm gì sau?",
+                "options": ["Gửi công thức qua LINE", "Nấu thêm", "Đi mua sắm"],
+                "answer": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "S2B_L4_02",
+        "type": "announcement_listening",
+        "instruction": "Nghe thông báo (kiểu ga tàu/cửa hàng) và trả lời",
+        "items": [
+          {
+            "audio": "まもなく、でんしゃがまいります。あぶないですから、しろいせんのうちがわにおさがりください。",
+            "speed": "native_announcement",
+            "questions": [
+              {
+                "question": "Thông báo nói về gì?",
+                "options": ["Tàu sắp đến", "Tàu bị trễ", "Tàu bị hủy"],
+                "answer": 0
+              },
+              {
+                "question": "Hành khách nên làm gì?",
+                "options": ["Lùi vào bên trong vạch trắng", "Chạy lên tàu", "Đứng yên"],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "audio": "ほんじつはごらいてんいただき、まことにありがとうございます。とうてんは、ごごろくじにへいてんいたします。",
+            "speed": "native_announcement",
+            "questions": [
+              {
+                "question": "Cửa hàng đóng cửa lúc mấy giờ?",
+                "options": ["5 giờ", "6 giờ", "7 giờ"],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "S2B_L4_03",
+        "type": "ultimate_speed_test",
+        "instruction": "Nghe và viết lại (có thể nghe tối đa 2 lần)",
+        "items": [
+          {
+            "audio": "ちょっとまってて、いますぐいくから",
+            "answer": "ちょっとまってて、いますぐいくから",
+            "meaning": "Đợi chút, tôi đi ngay bây giờ"
+          },
+          {
+            "audio": "なんでそんなこというの？ひどいよ",
+            "answer": "なんでそんなこというの？ひどいよ",
+            "meaning": "Sao lại nói như vậy? Quá đáng"
+          },
+          {
+            "audio": "きょうはほんとにつかれたー",
+            "answer": "きょうはほんとにつかれたー",
+            "meaning": "Hôm nay mệt thật sự"
+          }
+        ]
+      }
+    ]
+  },
+
+  "summary": {
+    "total_exercises": 12,
+    "skills_covered": [
+      "Devoicing (âm bị nuốt)",
+      "Fast contractions",
+      "Native speed listening",
+      "Announcement comprehension",
+      "Shadowing preparation"
+    ],
+    "progression": {
+      "L1": "Devoicing - です、ます, すき, した...",
+      "L2": "Contractions nhanh",
+      "L3": "Native speed cơ bản",
+      "L4": "Tổng hợp - Hội thoại & Thông báo"
+    },
+    "tips": [
+      "Đừng cố nghe rõ từng âm - nghe tổng thể",
+      "Làm quen với rhythm của tiếng Nhật",
+      "Shadowing giúp cải thiện nhanh nhất",
+      "Nghe nhiều nội dung thực tế (drama, anime, podcast)"
+    ]
+  }
+}

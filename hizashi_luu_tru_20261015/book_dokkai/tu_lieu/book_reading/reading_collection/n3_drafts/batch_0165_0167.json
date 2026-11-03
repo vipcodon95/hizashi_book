@@ -1,0 +1,377 @@
+[
+  {
+    "id": "R_0165",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "秋祭りに参加して",
+    "title_vi": "Tham gia lễ hội mùa thu",
+    "topic": "event",
+    "subtopic": "festival địa phương",
+    "tags": ["にもとづいて", "を問わず", "はもちろん"],
+    "grammar_used": ["～にもとづいて", "～を問わず", "～はもちろん"],
+    "sentence_count": 10,
+    "text": "先週末、地元の秋祭りに初めて参加した。このお祭りは、百年以上前の伝統にもとづいて毎年行われている。年齢を問わず、地域の人たちが一緒になって神輿を担いだり、踊ったりする。子どもはもちろん、お年寄りも元気よく参加しているのが印象的だった。お祭りの準備も、地元の伝統にもとづいて丁寧に行われていた。見物客を問わず、誰でも屋台の料理を楽しむことができた。地元の人も観光客もはもちろん、外国からの訪問者まで一緒に楽しんでいた。神輿を担ぐ体験は、体力が要るのはもちろん、チームワークも大切だと感じた。祭りの後、地域の人たちと話す機会があり、この伝統を守り続けることへの思いが伝わってきた。来年もぜひ参加したいと思った。",
+    "translation": "Cuối tuần trước, tôi lần đầu tiên tham gia lễ hội mùa thu ở địa phương. Lễ hội này được tổ chức hàng năm dựa trên truyền thống có hơn một trăm năm. Không phân biệt tuổi tác, người dân trong vùng cùng nhau khiêng kiệu thần và múa hát. Điều ấn tượng là trẻ em đương nhiên rồi, cả người cao tuổi cũng tham gia đầy sức sống. Việc chuẩn bị cho lễ hội cũng được thực hiện cẩn thận dựa trên truyền thống địa phương. Không phân biệt du khách hay ai, tất cả mọi người đều có thể thưởng thức món ăn tại các quầy hàng. Người địa phương và khách du lịch đương nhiên, cả những người đến từ nước ngoài cũng cùng nhau vui hưởng. Trải nghiệm khiêng kiệu thần, đương nhiên là cần thể lực, tôi còn cảm nhận được tầm quan trọng của tinh thần đồng đội. Sau lễ hội, tôi có cơ hội trò chuyện với người dân địa phương và cảm nhận được tâm huyết của họ trong việc gìn giữ truyền thống này. Tôi nghĩ năm sau nhất định sẽ tham gia lại.",
+    "vocabulary": [
+      {"word": "神輿", "reading": "みこし", "meaning": "kiệu thần, kiệu rước trong lễ hội Nhật"},
+      {"word": "担ぐ", "reading": "かつぐ", "meaning": "khiêng, vác (trên vai)"},
+      {"word": "伝統", "reading": "でんとう", "meaning": "truyền thống"},
+      {"word": "屋台", "reading": "やたい", "meaning": "quầy hàng ngoài trời, xe đẩy bán đồ ăn"},
+      {"word": "見物客", "reading": "けんぶつきゃく", "meaning": "người đến xem, du khách tham quan"},
+      {"word": "印象的", "reading": "いんしょうてき", "meaning": "ấn tượng, gây ấn tượng"},
+      {"word": "体力", "reading": "たいりょく", "meaning": "thể lực, sức khỏe thể chất"},
+      {"word": "チームワーク", "reading": "ちーむわーく", "meaning": "tinh thần đồng đội, làm việc nhóm"}
+    ],
+    "process": [
+      {
+        "sentence": "先週末、地元の秋祭りに初めて参加した。",
+        "chunks": "先週末 / 地元の秋祭りに / 初めて / 参加した",
+        "guide": "🔒 Đóng gói [先週末] = bối cảnh thời gian → 🔒 Đóng gói [地元の秋祭りに] = 'vào lễ hội mùa thu địa phương' → に chỉ sự kiện được tham gia → 初めて = lần đầu tiên → 参加した: hành động hoàn thành. Câu mở đầu giới thiệu sự kiện chính.",
+        "translation": "Cuối tuần trước, tôi lần đầu tiên tham gia lễ hội mùa thu ở địa phương."
+      },
+      {
+        "sentence": "このお祭りは、百年以上前の伝統にもとづいて毎年行われている。",
+        "chunks": "このお祭りは / 百年以上前の伝統に / もとづいて / 毎年行われている",
+        "guide": "🔒 Đóng gói [このお祭りは] = 'lễ hội này' chủ đề → 🔒 Đóng gói [百年以上前の伝統に] = 'trên truyền thống hơn một trăm năm trước' → ～にもとづいて: 💡 'dựa trên, căn cứ vào X' → báo hiệu nền tảng/cơ sở của hành động → 🔒 Đóng gói [毎年行われている] = 'được tổ chức hàng năm' → hành động lặp lại.",
+        "translation": "Lễ hội này được tổ chức hàng năm dựa trên truyền thống có hơn một trăm năm."
+      },
+      {
+        "sentence": "年齢を問わず、地域の人たちが一緒になって神輿を担いだり、踊ったりする。",
+        "chunks": "年齢を問わず / 地域の人たちが / 一緒になって / 神輿を担いだり踊ったりする",
+        "guide": "年齢を問わず: 💡 ～を問わず = 'không phân biệt X, bất kể X là gì' → 年齢を問わず = không phân biệt tuổi tác → 🔒 Đóng gói [年齢を問わず] = 'bất kể tuổi tác' → 🔒 Đóng gói [地域の人たちが] = 'người dân trong vùng' chủ ngữ → 一緒になって: cùng nhau → 神輿を担いだり踊ったりする: ～たり～たり liệt kê các hoạt động.",
+        "translation": "Không phân biệt tuổi tác, người dân trong vùng cùng nhau khiêng kiệu thần và múa hát."
+      },
+      {
+        "sentence": "子どもはもちろん、お年寄りも元気よく参加しているのが印象的だった。",
+        "chunks": "子どもはもちろん / お年寄りも / 元気よく参加しているのが / 印象的だった",
+        "guide": "子どもはもちろん: 💡 ～はもちろん = 'đương nhiên là X rồi, và...' → báo hiệu: X là điều hiển nhiên, tiếp theo là điều đáng ngạc nhiên hơn → 🔒 Đóng gói [子どもはもちろん] = 'trẻ em đương nhiên rồi' → 🔒 Đóng gói [お年寄りも] = 'người cao tuổi cũng' → も nhấn mạnh đối tượng thêm → 元気よく参加しているのが印象的だった: ấn tượng vì sức sống.",
+        "translation": "Điều ấn tượng là trẻ em đương nhiên rồi, cả người cao tuổi cũng tham gia đầy sức sống."
+      },
+      {
+        "sentence": "お祭りの準備も、地元の伝統にもとづいて丁寧に行われていた。",
+        "chunks": "お祭りの準備も / 地元の伝統に / もとづいて / 丁寧に行われていた",
+        "guide": "🔒 Đóng gói [お祭りの準備も] = 'việc chuẩn bị lễ hội cũng' → も mở rộng chủ đề → 🔒 Đóng gói [地元の伝統に] = 'dựa trên truyền thống địa phương' → ～にもとづいて lần thứ hai: 💡 củng cố mẫu 'căn cứ vào truyền thống' → 丁寧に行われていた: được thực hiện cẩn thận (trạng thái kéo dài trong quá khứ).",
+        "translation": "Việc chuẩn bị cho lễ hội cũng được thực hiện cẩn thận dựa trên truyền thống địa phương."
+      },
+      {
+        "sentence": "見物客を問わず、誰でも屋台の料理を楽しむことができた。",
+        "chunks": "見物客を問わず / 誰でも / 屋台の料理を / 楽しむことができた",
+        "guide": "見物客を問わず: ～を問わず lần thứ hai → 💡 củng cố mẫu: 'không phân biệt du khách hay ai' → 🔒 Đóng gói [見物客を問わず] = 'bất kể là du khách hay không' → 誰でも = bất kỳ ai → 🔒 Đóng gói [屋台の料理を] = 'món ăn tại quầy hàng' tân ngữ → 楽しむことができた: đã có thể thưởng thức.",
+        "translation": "Không phân biệt du khách hay ai, tất cả mọi người đều có thể thưởng thức món ăn tại các quầy hàng."
+      },
+      {
+        "sentence": "地元の人も観光客もはもちろん、外国からの訪問者まで一緒に楽しんでいた。",
+        "chunks": "地元の人も観光客もはもちろん / 外国からの訪問者まで / 一緒に楽しんでいた",
+        "guide": "🔒 Đóng gói [地元の人も観光客もはもちろん] = 'người địa phương và khách du lịch đương nhiên rồi' → ～はもちろん lần thứ hai: mở rộng đối tượng → 💡 củng cố mẫu: 'X đương nhiên, và thêm cả Y nữa' → 🔒 Đóng gói [外国からの訪問者まで] = 'cả người từ nước ngoài đến' → まで nhấn mạnh phạm vi rộng hơn dự kiến → 一緒に楽しんでいた: cùng nhau vui hưởng.",
+        "translation": "Người địa phương và khách du lịch đương nhiên, cả những người đến từ nước ngoài cũng cùng nhau vui hưởng."
+      },
+      {
+        "sentence": "神輿を担ぐ体験は、体力が要るのはもちろん、チームワークも大切だと感じた。",
+        "chunks": "神輿を担ぐ体験は / 体力が要るのはもちろん / チームワークも / 大切だと感じた",
+        "guide": "🔒 Đóng gói [神輿を担ぐ体験は] = 'trải nghiệm khiêng kiệu thần' chủ đề → 体力が要るのはもちろん: ～はもちろん lần thứ ba → 💡 lần này gắn vào vế 'のは' = 'việc cần thể lực là đương nhiên rồi' → 🔒 Đóng gói [チームワークも] = 'tinh thần đồng đội cũng' → 大切だと感じた: cảm nhận điều quan trọng.",
+        "translation": "Trải nghiệm khiêng kiệu thần, đương nhiên là cần thể lực, tôi còn cảm nhận được tầm quan trọng của tinh thần đồng đội."
+      },
+      {
+        "sentence": "祭りの後、地域の人たちと話す機会があり、この伝統を守り続けることへの思いが伝わってきた。",
+        "chunks": "祭りの後 / 地域の人たちと話す機会があり / この伝統を守り続けることへの思いが / 伝わってきた",
+        "guide": "🔒 Đóng gói [祭りの後] = 'sau lễ hội' bối cảnh → 🔒 Đóng gói [地域の人たちと話す機会があり] = 'có cơ hội trò chuyện với người địa phương' → があり nối vế tiếp theo → 🔒 Đóng gói [この伝統を守り続けることへの思いが] = 'tâm huyết về việc tiếp tục gìn giữ truyền thống này' → へ chỉ hướng/đối tượng của tình cảm → 伝わってきた: truyền đến, cảm nhận được (くる hướng về phía người nói).",
+        "translation": "Sau lễ hội, tôi có cơ hội trò chuyện với người dân địa phương và cảm nhận được tâm huyết của họ trong việc gìn giữ truyền thống này."
+      },
+      {
+        "sentence": "来年もぜひ参加したいと思った。",
+        "chunks": "来年も / ぜひ / 参加したいと / 思った",
+        "guide": "🔒 Đóng gói [来年も] = 'năm sau cũng' → も nhấn mạnh 'lần này và lần sau nữa' → ぜひ = nhất định, chắc chắn (thể hiện quyết tâm mạnh mẽ) → 参加したいと思った: 💡 ～たいと思った = 'đã nghĩ là muốn làm' → diễn đạt nguyện vọng hình thành sau trải nghiệm. Câu kết mang cảm xúc tích cực và dự định tương lai.",
+        "translation": "Tôi nghĩ năm sau nhất định sẽ tham gia lại."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0165_Q1",
+        "question": "このお祭りはどのような根拠で行われていますか。",
+        "question_vi": "Lễ hội này được tổ chức dựa trên cơ sở nào?",
+        "answers": [
+          {"text": "市役所の新しい規則にもとづいて行われている。", "text_vi": "Được tổ chức dựa trên quy định mới của tòa thị chính.", "is_correct": false},
+          {"text": "百年以上前の伝統にもとづいて行われている。", "text_vi": "Được tổ chức dựa trên truyền thống có hơn một trăm năm.", "is_correct": true},
+          {"text": "観光客のリクエストにもとづいて行われている。", "text_vi": "Được tổ chức dựa trên yêu cầu của du khách.", "is_correct": false},
+          {"text": "毎年変わるテーマにもとづいて行われている。", "text_vi": "Được tổ chức dựa trên chủ đề thay đổi mỗi năm.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói 「百年以上前の伝統にもとづいて毎年行われている」→ ～にもとづいて = dựa trên, căn cứ vào → cơ sở là truyền thống hơn một trăm năm. Đây là đặc trưng quan trọng của lễ hội được nhắc đến ngay đầu bài."
+      },
+      {
+        "id": "R_0165_Q2",
+        "question": "お祭りに参加できるのはどんな人ですか。",
+        "question_vi": "Những ai có thể tham gia lễ hội?",
+        "answers": [
+          {"text": "地元の若者だけ参加できる。", "text_vi": "Chỉ người trẻ địa phương mới có thể tham gia.", "is_correct": false},
+          {"text": "年齢を問わず、誰でも参加できる。", "text_vi": "Không phân biệt tuổi tác, ai cũng có thể tham gia.", "is_correct": true},
+          {"text": "日本人だけ参加できる。", "text_vi": "Chỉ người Nhật mới có thể tham gia.", "is_correct": false},
+          {"text": "事前に申し込んだ人だけ参加できる。", "text_vi": "Chỉ người đã đăng ký trước mới có thể tham gia.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói 「年齢を問わず、地域の人たちが一緒になって」và câu 6 nói 「見物客を問わず、誰でも」→ ～を問わず = không phân biệt → lễ hội mở cửa cho tất cả mọi người bất kể tuổi tác hay xuất thân."
+      },
+      {
+        "id": "R_0165_Q3",
+        "question": "神輿を担ぐ体験から、筆者はどんなことを感じましたか。",
+        "question_vi": "Từ trải nghiệm khiêng kiệu thần, tác giả cảm nhận được điều gì?",
+        "answers": [
+          {"text": "体力だけあれば十分だと感じた。", "text_vi": "Cảm thấy chỉ cần thể lực là đủ.", "is_correct": false},
+          {"text": "体力が要るのはもちろん、チームワークも大切だと感じた。", "text_vi": "Đương nhiên là cần thể lực, và còn cảm nhận được tinh thần đồng đội cũng quan trọng.", "is_correct": true},
+          {"text": "チームワークより個人の力が大切だと感じた。", "text_vi": "Cảm thấy sức mạnh cá nhân quan trọng hơn tinh thần đồng đội.", "is_correct": false},
+          {"text": "子どもには難しすぎると感じた。", "text_vi": "Cảm thấy quá khó đối với trẻ em.", "is_correct": false}
+        ],
+        "explanation": "Câu 8 nói 「体力が要るのはもちろん、チームワークも大切だと感じた」→ ～はもちろん = đương nhiên là cần thể lực rồi + チームワークも = tinh thần đồng đội cũng → tác giả phát hiện thêm giá trị quan trọng thứ hai từ trải nghiệm thực tế."
+      }
+    ]
+  },
+  {
+    "id": "R_0166",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "災害に備えて",
+    "title_vi": "Phòng chống thiên tai",
+    "topic": "disaster",
+    "subtopic": "phòng chống thảm họa",
+    "tags": ["おそれがある", "ないわけにはいかない", "しかない"],
+    "grammar_used": ["～おそれがある", "～ないわけにはいかない", "～しかない"],
+    "sentence_count": 10,
+    "text": "日本は地震や台風など、様々な自然災害が起きるおそれがある国だ。いつ大きな地震が来るかわからないため、日頃から備えておかないわけにはいかない。非常食や水は最低三日分用意するしかないと、専門家は言っている。停電になるおそれがあるため、懐中電灯や乾電池も必ず準備しておくべきだ。家族と避難場所や連絡方法を確認しないわけにはいかない状況だと感じている。一人暮らしの場合、近所の人と助け合うしかないこともある。台風の季節には、洪水や土砂崩れが起きるおそれがあるので、早めに避難することが大切だ。防災グッズをそろえるだけでなく、定期的に中身を確認しないわけにはいかない。いざというときのために練習しておくしかないと思い、先月避難訓練に参加した。日本に住む以上、災害への備えを怠るわけにはいかない。",
+    "translation": "Nhật Bản là đất nước có nguy cơ xảy ra nhiều loại thiên tai khác nhau như động đất và bão. Vì không biết khi nào động đất lớn sẽ xảy ra, không thể không chuẩn bị sẵn từ ngày thường. Các chuyên gia nói rằng không có cách nào khác ngoài việc chuẩn bị ít nhất đồ ăn khẩn cấp và nước cho ba ngày. Vì có nguy cơ bị mất điện, nhất định phải chuẩn bị sẵn đèn pin và pin. Tôi cảm thấy đang ở trong tình trạng không thể không xác nhận địa điểm sơ tán và phương thức liên lạc với gia đình. Trong trường hợp sống một mình, đôi khi không có cách nào khác ngoài việc nương tựa vào nhau với hàng xóm. Vào mùa bão, vì có nguy cơ xảy ra lũ lụt và sạt lở đất, việc sơ tán sớm là điều quan trọng. Không chỉ sắm đủ đồ phòng thủ, không thể không kiểm tra định kỳ nội dung bên trong. Nghĩ rằng không có cách nào khác ngoài việc luyện tập để sẵn sàng cho tình huống khẩn cấp, tháng trước tôi đã tham gia diễn tập sơ tán. Khi đã sống ở Nhật Bản, không thể nào lơ là việc chuẩn bị đối phó thiên tai.",
+    "vocabulary": [
+      {"word": "自然災害", "reading": "しぜんさいがい", "meaning": "thiên tai, thảm họa thiên nhiên"},
+      {"word": "非常食", "reading": "ひじょうしょく", "meaning": "đồ ăn dự phòng khẩn cấp"},
+      {"word": "懐中電灯", "reading": "かいちゅうでんとう", "meaning": "đèn pin cầm tay"},
+      {"word": "避難場所", "reading": "ひなんばしょ", "meaning": "địa điểm sơ tán, nơi lánh nạn"},
+      {"word": "土砂崩れ", "reading": "どしゃくずれ", "meaning": "sạt lở đất"},
+      {"word": "防災グッズ", "reading": "ぼうさいぐっず", "meaning": "đồ dùng phòng chống thiên tai"},
+      {"word": "避難訓練", "reading": "ひなんくんれん", "meaning": "diễn tập sơ tán"},
+      {"word": "怠る", "reading": "おこたる", "meaning": "lơ là, xao nhãng, bỏ bê"}
+    ],
+    "process": [
+      {
+        "sentence": "日本は地震や台風など、様々な自然災害が起きるおそれがある国だ。",
+        "chunks": "日本は / 地震や台風など / 様々な自然災害が / 起きるおそれがある国だ",
+        "guide": "🔒 Đóng gói [日本は] = chủ đề → 🔒 Đóng gói [地震や台風など] = 'động đất, bão v.v.' → や～など liệt kê không đầy đủ → 🔒 Đóng gói [様々な自然災害が] = 'nhiều loại thiên tai' chủ ngữ của mệnh đề → ～おそれがある: 💡 'có nguy cơ, có khả năng xảy ra (điều xấu)' → おそれ = lo ngại, nguy cơ → 国だ: loại đất nước.",
+        "translation": "Nhật Bản là đất nước có nguy cơ xảy ra nhiều loại thiên tai khác nhau như động đất và bão."
+      },
+      {
+        "sentence": "いつ大きな地震が来るかわからないため、日頃から備えておかないわけにはいかない。",
+        "chunks": "いつ大きな地震が来るか / わからないため / 日頃から / 備えておかないわけにはいかない",
+        "guide": "🔒 Đóng gói [いつ大きな地震が来るかわからないため] = 'vì không biết khi nào động đất lớn sẽ đến' → ため = nguyên nhân (trang trọng) → 🔒 Đóng gói [日頃から] = 'từ ngày thường' → 備えておかないわけにはいかない: 💡 ～ないわけにはいかない = 'không thể không làm, buộc phải làm' → diễn tả nghĩa vụ không thể tránh khỏi.",
+        "translation": "Vì không biết khi nào động đất lớn sẽ xảy ra, không thể không chuẩn bị sẵn từ ngày thường."
+      },
+      {
+        "sentence": "非常食や水は最低三日分用意するしかないと、専門家は言っている。",
+        "chunks": "非常食や水は / 最低三日分 / 用意するしかないと / 専門家は言っている",
+        "guide": "🔒 Đóng gói [非常食や水は] = 'đồ ăn khẩn cấp và nước' chủ đề → 🔒 Đóng gói [最低三日分] = 'ít nhất đủ dùng ba ngày' → 用意するしかない: 💡 ～しかない = 'chỉ có cách duy nhất là, không có lựa chọn nào khác' → と = trích dẫn nội dung → 🔒 Đóng gói [専門家は言っている] = 'chuyên gia đang nói'.",
+        "translation": "Các chuyên gia nói rằng không có cách nào khác ngoài việc chuẩn bị ít nhất đồ ăn khẩn cấp và nước cho ba ngày."
+      },
+      {
+        "sentence": "停電になるおそれがあるため、懐中電灯や乾電池も必ず準備しておくべきだ。",
+        "chunks": "停電になるおそれがあるため / 懐中電灯や乾電池も / 必ず / 準備しておくべきだ",
+        "guide": "停電になるおそれがある: ～おそれがある lần thứ hai → 💡 củng cố mẫu: 'có nguy cơ mất điện' → ため = nguyên nhân dẫn đến hành động cần thiết → 🔒 Đóng gói [懐中電灯や乾電池も] = 'đèn pin và pin cũng' → も mở rộng danh sách → 必ず = nhất định, chắc chắn → 準備しておくべきだ: nên chuẩn bị sẵn (べき = nghĩa vụ đạo đức).",
+        "translation": "Vì có nguy cơ bị mất điện, nhất định phải chuẩn bị sẵn đèn pin và pin."
+      },
+      {
+        "sentence": "家族と避難場所や連絡方法を確認しないわけにはいかない状況だと感じている。",
+        "chunks": "家族と / 避難場所や連絡方法を / 確認しないわけにはいかない状況だと / 感じている",
+        "guide": "🔒 Đóng gói [家族と] = 'cùng gia đình' → と chỉ đối tác hành động → 🔒 Đóng gói [避難場所や連絡方法を] = 'địa điểm sơ tán và phương thức liên lạc' tân ngữ → 確認しないわけにはいかない: ～ないわけにはいかない lần thứ hai → 💡 củng cố mẫu: buộc phải xác nhận → 状況だと感じている: cảm thấy đang ở tình trạng đó.",
+        "translation": "Tôi cảm thấy đang ở trong tình trạng không thể không xác nhận địa điểm sơ tán và phương thức liên lạc với gia đình."
+      },
+      {
+        "sentence": "一人暮らしの場合、近所の人と助け合うしかないこともある。",
+        "chunks": "一人暮らしの場合 / 近所の人と / 助け合うしかない / こともある",
+        "guide": "🔒 Đóng gói [一人暮らしの場合] = 'trong trường hợp sống một mình' → 場合 = trường hợp, điều kiện → 🔒 Đóng gói [近所の人と] = 'cùng với người hàng xóm' → 助け合うしかない: ～しかない lần thứ hai → 💡 củng cố mẫu: 'chỉ có cách giúp đỡ lẫn nhau' → こともある: 'đôi khi cũng có trường hợp như vậy' (không tuyệt đối).",
+        "translation": "Trong trường hợp sống một mình, đôi khi không có cách nào khác ngoài việc nương tựa vào nhau với hàng xóm."
+      },
+      {
+        "sentence": "台風の季節には、洪水や土砂崩れが起きるおそれがあるので、早めに避難することが大切だ。",
+        "chunks": "台風の季節には / 洪水や土砂崩れが / 起きるおそれがあるので / 早めに避難することが大切だ",
+        "guide": "🔒 Đóng gói [台風の季節には] = 'vào mùa bão' bối cảnh → 🔒 Đóng gói [洪水や土砂崩れが] = 'lũ lụt và sạt lở đất' chủ ngữ → 起きるおそれがある: ～おそれがある lần thứ ba → 💡 nhấn mạnh các mối nguy hiểm cụ thể → ので báo hiệu kết luận → 🔒 Đóng gói [早めに避難することが大切だ] = 'việc sơ tán sớm là điều quan trọng'.",
+        "translation": "Vào mùa bão, vì có nguy cơ xảy ra lũ lụt và sạt lở đất, việc sơ tán sớm là điều quan trọng."
+      },
+      {
+        "sentence": "防災グッズをそろえるだけでなく、定期的に中身を確認しないわけにはいかない。",
+        "chunks": "防災グッズをそろえるだけでなく / 定期的に / 中身を / 確認しないわけにはいかない",
+        "guide": "🔒 Đóng gói [防災グッズをそろえるだけでなく] = 'không chỉ sắm đủ đồ phòng thủ' → だけでなく = 'không chỉ...mà còn' báo hiệu hành động bổ sung → 🔒 Đóng gói [定期的に] = 'định kỳ' → 🔒 Đóng gói [中身を] = 'nội dung bên trong' tân ngữ → 確認しないわけにはいかない: ～ないわけにはいかない lần thứ ba → 💡 ba lần dùng mẫu này nhấn mạnh tính bắt buộc xuyên suốt bài.",
+        "translation": "Không chỉ sắm đủ đồ phòng thủ, không thể không kiểm tra định kỳ nội dung bên trong."
+      },
+      {
+        "sentence": "いざというときのために練習しておくしかないと思い、先月避難訓練に参加した。",
+        "chunks": "いざというときのために / 練習しておくしかないと思い / 先月 / 避難訓練に参加した",
+        "guide": "🔒 Đóng gói [いざというときのために] = 'để chuẩn bị cho khi tình huống khẩn cấp xảy ra' → いざというとき = lúc ngặt nghèo, khi cần thiết thực sự → 練習しておくしかないと思い: ～しかない lần thứ ba + と思い = nghĩ rằng đây là cách duy nhất → 🔒 Đóng gói [先月] = bối cảnh thời gian → 🔒 Đóng gói [避難訓練に参加した] = 'đã tham gia diễn tập sơ tán'.",
+        "translation": "Nghĩ rằng không có cách nào khác ngoài việc luyện tập để sẵn sàng cho tình huống khẩn cấp, tháng trước tôi đã tham gia diễn tập sơ tán."
+      },
+      {
+        "sentence": "日本に住む以上、災害への備えを怠るわけにはいかない。",
+        "chunks": "日本に住む以上 / 災害への備えを / 怠るわけにはいかない",
+        "guide": "日本に住む以上: 💡 ～以上 = 'đã là..., một khi đã...' → diễn tả tiền đề kéo theo trách nhiệm tất yếu → 🔒 Đóng gói [日本に住む以上] = 'một khi đã sống ở Nhật' → 🔒 Đóng gói [災害への備えを] = 'việc chuẩn bị đối phó thiên tai' tân ngữ → 怠るわけにはいかない: わけにはいかない = 'không thể nào làm (việc không nên làm)' → câu kết đúc kết bài học mang tính nguyên tắc.",
+        "translation": "Khi đã sống ở Nhật Bản, không thể nào lơ là việc chuẩn bị đối phó thiên tai."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0166_Q1",
+        "question": "専門家はどのくらいの非常食と水を用意するべきだと言っていますか。",
+        "question_vi": "Các chuyên gia nói nên chuẩn bị đồ ăn khẩn cấp và nước trong bao nhiêu ngày?",
+        "answers": [
+          {"text": "最低一日分。", "text_vi": "Ít nhất đủ dùng một ngày.", "is_correct": false},
+          {"text": "最低三日分。", "text_vi": "Ít nhất đủ dùng ba ngày.", "is_correct": true},
+          {"text": "最低一週間分。", "text_vi": "Ít nhất đủ dùng một tuần.", "is_correct": false},
+          {"text": "最低一ヶ月分。", "text_vi": "Ít nhất đủ dùng một tháng.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói 「非常食や水は最低三日分用意するしかない」→ ～しかない = không có cách nào khác + 最低三日分 = ít nhất đủ dùng ba ngày. Đây là lời khuyên cụ thể từ chuyên gia được trích dẫn trực tiếp trong bài."
+      },
+      {
+        "id": "R_0166_Q2",
+        "question": "一人暮らしの場合、災害のときにどうするべきだと筆者は言っていますか。",
+        "question_vi": "Khi sống một mình, tác giả nói nên làm gì khi thiên tai xảy ra?",
+        "answers": [
+          {"text": "すぐに遠くへ逃げるしかない。", "text_vi": "Không có cách nào khác ngoài việc chạy thật xa ngay lập tức.", "is_correct": false},
+          {"text": "近所の人と助け合うしかないこともある。", "text_vi": "Đôi khi không có cách nào khác ngoài việc giúp đỡ lẫn nhau với hàng xóm.", "is_correct": true},
+          {"text": "家族に連絡するしかない。", "text_vi": "Không có cách nào khác ngoài việc liên lạc với gia đình.", "is_correct": false},
+          {"text": "一人で何でも解決するしかない。", "text_vi": "Không có cách nào khác ngoài việc tự giải quyết mọi thứ một mình.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói 「一人暮らしの場合、近所の人と助け合うしかないこともある」→ ～しかない = không có cách nào khác + こともある = đôi khi cũng có trường hợp như vậy → sống một mình thì phải dựa vào sự giúp đỡ của hàng xóm."
+      },
+      {
+        "id": "R_0166_Q3",
+        "question": "筆者が先月したことは何ですか。",
+        "question_vi": "Tháng trước tác giả đã làm gì?",
+        "answers": [
+          {"text": "防災グッズを全部買いそろえた。", "text_vi": "Đã mua sắm đầy đủ toàn bộ đồ phòng thủ.", "is_correct": false},
+          {"text": "家族と避難場所を決めた。", "text_vi": "Đã quyết định địa điểm sơ tán cùng gia đình.", "is_correct": false},
+          {"text": "避難訓練に参加した。", "text_vi": "Đã tham gia diễn tập sơ tán.", "is_correct": true},
+          {"text": "非常食の作り方を習った。", "text_vi": "Đã học cách làm đồ ăn khẩn cấp.", "is_correct": false}
+        ],
+        "explanation": "Câu 9 nói 「いざというときのために練習しておくしかないと思い、先月避難訓練に参加した」→ 先月 = tháng trước + 避難訓練に参加した = đã tham gia diễn tập sơ tán. Đây là hành động cụ thể tác giả đã thực hiện để chuẩn bị cho tình huống khẩn cấp."
+      }
+    ]
+  },
+  {
+    "id": "R_0167",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "久しぶりの再会",
+    "title_vi": "Gặp lại sau lâu ngày",
+    "topic": "friendship",
+    "subtopic": "tình bạn xa",
+    "tags": ["ものか", "ついでに", "たところ"],
+    "grammar_used": ["～ものか", "～ついでに", "～たところ"],
+    "sentence_count": 10,
+    "text": "大学時代の親友が、今は地方の小さな町に住んでいる。距離が遠くて、なかなか会えないが、忘れるものかと思っている。先月、出張で彼女の町の近くを通ることになったので、ついでに会いに行くことにした。事前に連絡を入れたところ、彼女もちょうど休みだったらしく、大喜びで迎えてくれた。駅に着いたところ、彼女がホームで手を振って待っていてくれた。そんな姿を見たとき、遠くに住んでいても友情は変わらないものだと感じた。彼女の家に上がって話を聞いたところ、最近転職して新しい仕事に慣れてきたとのことだった。昼食をとったついでに、近くの公園も散歩した。別れ際、また絶対に会いに来るものかと心に誓った。この再会は、遠距離の友情がいかに大切かを改めて教えてくれた。",
+    "translation": "Người bạn thân thời đại học hiện đang sống ở một thị trấn nhỏ ở tỉnh khác. Dù khoảng cách xa xôi, khó mà gặp được, nhưng tôi vẫn luôn nghĩ chẳng bao giờ quên được. Tháng trước, vì đi công tác ngang qua khu vực gần thị trấn của bạn, tôi quyết định ghé thăm nhân tiện. Khi nhắn tin báo trước, hóa ra bạn ấy cũng đúng hôm đó được nghỉ, và đã vui mừng đón tiếp tôi. Khi vừa đến ga, bạn ấy đã đứng chờ trên sân ga và vẫy tay. Nhìn thấy hình ảnh đó, tôi cảm nhận được rằng dù sống xa nhau, tình bạn vẫn không thay đổi. Khi vào nhà bạn và nghe bạn kể chuyện, tôi biết rằng gần đây bạn đã chuyển việc và đang dần quen với công việc mới. Nhân tiện ăn trưa xong, chúng tôi cũng đi dạo ở công viên gần đó. Lúc chia tay, tôi thầm thề trong lòng nhất định sẽ lại đến thăm. Cuộc gặp gỡ này đã một lần nữa nhắc nhở tôi tình bạn xa quan trọng như thế nào.",
+    "vocabulary": [
+      {"word": "親友", "reading": "しんゆう", "meaning": "bạn thân, người bạn thân thiết"},
+      {"word": "出張", "reading": "しゅっちょう", "meaning": "đi công tác"},
+      {"word": "事前に", "reading": "じぜんに", "meaning": "trước đó, sự chuẩn bị trước"},
+      {"word": "大喜び", "reading": "おおよろこび", "meaning": "vui mừng khôn xiết, hết sức vui"},
+      {"word": "転職", "reading": "てんしょく", "meaning": "chuyển việc, đổi công việc"},
+      {"word": "別れ際", "reading": "わかれぎわ", "meaning": "lúc chia tay, thời điểm từ biệt"},
+      {"word": "誓う", "reading": "ちかう", "meaning": "thề, hứa chắc chắn"},
+      {"word": "遠距離", "reading": "えんきょり", "meaning": "khoảng cách xa, tầm xa"}
+    ],
+    "process": [
+      {
+        "sentence": "大学時代の親友が、今は地方の小さな町に住んでいる。",
+        "chunks": "大学時代の親友が / 今は / 地方の小さな町に / 住んでいる",
+        "guide": "🔒 Đóng gói [大学時代の親友が] = 'người bạn thân thời đại học' chủ ngữ → 🔒 Đóng gói [今は] = 'hiện nay' bối cảnh tương phản → 🔒 Đóng gói [地方の小さな町に] = 'ở một thị trấn nhỏ ở tỉnh xa' → に chỉ nơi cư trú → 住んでいる: trạng thái đang sống (ている = trạng thái duy trì). Câu mở đầu giới thiệu nhân vật chính thứ hai.",
+        "translation": "Người bạn thân thời đại học hiện đang sống ở một thị trấn nhỏ ở tỉnh khác."
+      },
+      {
+        "sentence": "距離が遠くて、なかなか会えないが、忘れるものかと思っている。",
+        "chunks": "距離が遠くて / なかなか会えないが / 忘れるものかと / 思っている",
+        "guide": "🔒 Đóng gói [距離が遠くて] = 'khoảng cách xa và...' → て nối nguyên nhân → なかなか会えないが: なかなか～ない = khó mà gặp được + が tương phản báo hiệu: nhưng... → 忘れるものか: 💡 ～ものか = 'làm sao mà có thể..., chẳng bao giờ...' → biểu đạt phủ định mạnh mẽ với cảm xúc → toàn câu: dù khó gặp nhưng chẳng bao giờ quên.",
+        "translation": "Dù khoảng cách xa xôi, khó mà gặp được, nhưng tôi vẫn luôn nghĩ chẳng bao giờ quên được."
+      },
+      {
+        "sentence": "先月、出張で彼女の町の近くを通ることになったので、ついでに会いに行くことにした。",
+        "chunks": "先月 / 出張で彼女の町の近くを通ることになったので / ついでに / 会いに行くことにした",
+        "guide": "🔒 Đóng gói [先月] = bối cảnh thời gian → 🔒 Đóng gói [出張で彼女の町の近くを通ることになったので] = 'vì chuyện đi công tác đi ngang qua gần thị trấn của bạn' → ことになった = tình huống xảy ra ngoài ý muốn → ので dẫn đến quyết định → ついでに: 💡 ～ついでに = 'nhân tiện, tranh thủ khi đã có dịp' → 会いに行くことにした: quyết định đi thăm.",
+        "translation": "Tháng trước, vì đi công tác ngang qua khu vực gần thị trấn của bạn, tôi quyết định ghé thăm nhân tiện."
+      },
+      {
+        "sentence": "事前に連絡を入れたところ、彼女もちょうど休みだったらしく、大喜びで迎えてくれた。",
+        "chunks": "事前に連絡を入れたところ / 彼女もちょうど休みだったらしく / 大喜びで迎えてくれた",
+        "guide": "🔒 Đóng gói [事前に連絡を入れたところ] = 'khi vừa báo trước' → ～たところ: 💡 'khi vừa làm X thì phát hiện/kết quả Y' → diễn tả kết quả ngay sau hành động → 🔒 Đóng gói [彼女もちょうど休みだったらしく] = 'hóa ra bạn ấy cũng đúng hôm đó được nghỉ' → らしく = có vẻ như, nghe nói → 🔒 Đóng gói [大喜びで迎えてくれた] = 'đón tiếp với sự vui mừng' → くれた = làm ơn cho mình.",
+        "translation": "Khi nhắn tin báo trước, hóa ra bạn ấy cũng đúng hôm đó được nghỉ, và đã vui mừng đón tiếp tôi."
+      },
+      {
+        "sentence": "駅に着いたところ、彼女がホームで手を振って待っていてくれた。",
+        "chunks": "駅に着いたところ / 彼女が / ホームで手を振って / 待っていてくれた",
+        "guide": "駅に着いたところ: ～たところ lần thứ hai → 💡 củng cố mẫu: 'khi vừa đến ga thì...' → phát hiện điều bất ngờ hoặc đáng chú ý → 🔒 Đóng gói [彼女が] = bạn ấy chủ ngữ → 🔒 Đóng gói [ホームで手を振って] = 'vẫy tay trên sân ga' → 待っていてくれた: đứng chờ + くれた = làm điều tốt đẹp cho mình.",
+        "translation": "Khi vừa đến ga, bạn ấy đã đứng chờ trên sân ga và vẫy tay."
+      },
+      {
+        "sentence": "そんな姿を見たとき、遠くに住んでいても友情は変わらないものだと感じた。",
+        "chunks": "そんな姿を見たとき / 遠くに住んでいても / 友情は変わらないものだと / 感じた",
+        "guide": "🔒 Đóng gói [そんな姿を見たとき] = 'khi nhìn thấy hình ảnh đó' → とき = thời điểm → 🔒 Đóng gói [遠くに住んでいても] = 'dù sống xa' → ても = dù cho, bất kể → 🔒 Đóng gói [友情は変わらないものだと] = 'tình bạn không thay đổi' → ものだ = 💡 quy luật tự nhiên, chân lý → 感じた: cảm nhận, đúc kết từ trải nghiệm.",
+        "translation": "Nhìn thấy hình ảnh đó, tôi cảm nhận được rằng dù sống xa nhau, tình bạn vẫn không thay đổi."
+      },
+      {
+        "sentence": "彼女の家に上がって話を聞いたところ、最近転職して新しい仕事に慣れてきたとのことだった。",
+        "chunks": "彼女の家に上がって話を聞いたところ / 最近転職して / 新しい仕事に慣れてきたとのことだった",
+        "guide": "🔒 Đóng gói [彼女の家に上がって話を聞いたところ] = 'khi vào nhà và nghe bạn kể chuyện' → ～たところ lần thứ ba → 💡 ba lần dùng mẫu này: lần 1 (liên lạc), lần 2 (đến ga), lần 3 (nghe chuyện) → mỗi lần đều phát hiện thông tin mới → 最近転職して: 🔒 Đóng gói gần đây chuyển việc → 新しい仕事に慣れてきた: dần quen với công việc mới → とのことだった: thông tin tác giả được nghe kể.",
+        "translation": "Khi vào nhà bạn và nghe bạn kể chuyện, tôi biết rằng gần đây bạn đã chuyển việc và đang dần quen với công việc mới."
+      },
+      {
+        "sentence": "昼食をとったついでに、近くの公園も散歩した。",
+        "chunks": "昼食をとったついでに / 近くの公園も / 散歩した",
+        "guide": "昼食をとったついでに: ～ついでに lần thứ hai → 💡 củng cố mẫu: 'nhân tiện sau khi ăn trưa' → ～たついでに = nhân dịp vừa làm X thì cũng làm thêm Y → 🔒 Đóng gói [昼食をとったついでに] = 'nhân tiện ăn trưa xong' → 🔒 Đóng gói [近くの公園も] = 'công viên gần đó cũng' → も nhấn mạnh thêm hoạt động → 散歩した: đi dạo.",
+        "translation": "Nhân tiện ăn trưa xong, chúng tôi cũng đi dạo ở công viên gần đó."
+      },
+      {
+        "sentence": "別れ際、また絶対に会いに来るものかと心に誓った。",
+        "chunks": "別れ際 / また絶対に会いに来るものかと / 心に誓った",
+        "guide": "🔒 Đóng gói [別れ際] = 'lúc chia tay' bối cảnh → また絶対に会いに来るものか: ～ものか lần thứ hai → 💡 chú ý: lần này ものか mang nghĩa KHẲNG ĐỊNH mạnh mẽ trong lời thề nội tâm: 'nhất định sẽ lại đến' (khác câu 2 là phủ định) → ものか tùy ngữ cảnh có thể phủ định hoặc khẳng định quyết tâm → と心に誓った: thầm thề trong lòng.",
+        "translation": "Lúc chia tay, tôi thầm thề trong lòng nhất định sẽ lại đến thăm."
+      },
+      {
+        "sentence": "この再会は、遠距離の友情がいかに大切かを改めて教えてくれた。",
+        "chunks": "この再会は / 遠距離の友情が / いかに大切かを / 改めて教えてくれた",
+        "guide": "🔒 Đóng gói [この再会は] = 'cuộc gặp gỡ này' chủ đề → 🔒 Đóng gói [遠距離の友情が] = 'tình bạn xa' chủ ngữ của mệnh đề → いかに大切か: いかに～か = 'quan trọng như thế nào' → diễn đạt mức độ → 🔒 Đóng gói [いかに大切かを] = 'điều quan trọng đến mức nào đó' tân ngữ → 改めて: một lần nữa, lại → 教えてくれた: dạy cho mình biết → câu kết đúc kết bài học của toàn bài.",
+        "translation": "Cuộc gặp gỡ này đã một lần nữa nhắc nhở tôi tình bạn xa quan trọng như thế nào."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0167_Q1",
+        "question": "筆者はなぜ友達の町に行くことができましたか。",
+        "question_vi": "Tại sao tác giả có thể đến thị trấn của bạn?",
+        "answers": [
+          {"text": "友達が遊びに来てほしいと頼んだから。", "text_vi": "Vì bạn nhờ đến chơi.", "is_correct": false},
+          {"text": "出張で近くを通ることになったついでに行った。", "text_vi": "Nhân tiện đi công tác ngang qua gần đó mà ghé thăm.", "is_correct": true},
+          {"text": "友達の引っ越しを手伝いに行った。", "text_vi": "Đến giúp bạn chuyển nhà.", "is_correct": false},
+          {"text": "友達の誕生日を祝いに行った。", "text_vi": "Đến chúc mừng sinh nhật bạn.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói 「出張で彼女の町の近くを通ることになったので、ついでに会いに行くことにした」→ ～ついでに = nhân tiện + 出張 = đi công tác → tác giả đi công tác ngang qua khu vực gần đó rồi nhân tiện ghé thăm. Đây là lý do cụ thể và trực tiếp."
+      },
+      {
+        "id": "R_0167_Q2",
+        "question": "駅に着いたとき、友達はどうしていましたか。",
+        "question_vi": "Khi tác giả đến ga, bạn đang làm gì?",
+        "answers": [
+          {"text": "家で料理を作って待っていた。", "text_vi": "Đang nấu ăn ở nhà chờ.", "is_correct": false},
+          {"text": "ホームで手を振って待っていてくれた。", "text_vi": "Đang đứng chờ và vẫy tay trên sân ga.", "is_correct": true},
+          {"text": "駅の外で車を止めて待っていた。", "text_vi": "Đang đậu xe ở ngoài ga chờ.", "is_correct": false},
+          {"text": "まだ家を出ていなかった。", "text_vi": "Vẫn chưa ra khỏi nhà.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 nói 「駅に着いたところ、彼女がホームで手を振って待っていてくれた」→ ～たところ = khi vừa đến thì + ホームで手を振って待っていた = đứng chờ và vẫy tay trên sân ga → đây là cảnh tái ngộ đầu tiên được miêu tả cụ thể."
+      },
+      {
+        "id": "R_0167_Q3",
+        "question": "この再会から筆者が学んだことは何ですか。",
+        "question_vi": "Qua cuộc gặp gỡ này, tác giả đã học được điều gì?",
+        "answers": [
+          {"text": "友達とは近くに住むべきだということ。", "text_vi": "Nên sống gần với bạn bè.", "is_correct": false},
+          {"text": "遠距離の友情がいかに大切かということ。", "text_vi": "Tình bạn xa quan trọng như thế nào.", "is_correct": true},
+          {"text": "出張のついでに旅行するのは良くないということ。", "text_vi": "Nhân tiện đi công tác mà đi chơi là không tốt.", "is_correct": false},
+          {"text": "連絡を事前に入れるのは大切ではないということ。", "text_vi": "Báo trước không phải là điều quan trọng.", "is_correct": false}
+        ],
+        "explanation": "Câu cuối (câu 10) nói 「この再会は、遠距離の友情がいかに大切かを改めて教えてくれた」→ いかに大切か = quan trọng đến mức nào + 改めて = một lần nữa → cuộc gặp gỡ này nhắc nhở lại tầm quan trọng của tình bạn dù khoảng cách xa xôi. Đây là bài học xuyên suốt toàn bài."
+      }
+    ]
+  }
+]

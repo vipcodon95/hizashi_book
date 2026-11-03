@@ -1,0 +1,1471 @@
+{
+  "book": {
+    "title": "Ánh sáng từ giai điệu",
+    "subtitle": "Cẩm nang luyện nghe từ cơ bản đến nâng cao",
+    "version": "2.0",
+    "language": "vi",
+    "author": "HIZASHI JAPANESE LEARNING",
+    "description": "Tài liệu nghiên cứu chuyên sâu về hệ thống âm tiếng Nhật, phân tích chi tiết các thách thức đặc thù và phương pháp khắc phục dựa trên cơ sở âm vị học.",
+    "target_audience": "Người Việt Nam học tiếng Nhật từ N5 trở lên, muốn cải thiện kỹ năng nghe và phát âm",
+    "how_to_use": "Đọc Chương 0 trước để hiểu thách thức của bạn. Sau đó đọc tuần tự các chương. Kết hợp với app HIZASHI để luyện tập."
+  },
+
+  "table_of_contents": [
+    {"chapter": 0, "title": "Bức Tường Âm Thanh", "sections": 9},
+    {"chapter": 1, "title": "Trường Âm (長音): Thử Thách Lớn Nhất của Người Việt", "sections": 8},
+    {"chapter": 2, "title": "Giới thiệu hệ thống âm tiếng Nhật", "sections": 4},
+    {"chapter": 3, "title": "Bảng chữ cái cơ bản", "sections": 5},
+    {"chapter": 4, "title": "Âm đục và Bán đục", "sections": 4},
+    {"chapter": 5, "title": "Âm ghép (Yoon)", "sections": 3},
+    {"chapter": 6, "title": "Mora đặc biệt", "sections": 4},
+    {"chapter": 7, "title": "Âm khó", "sections": 6},
+    {"chapter": 8, "title": "Trọng Âm Cao Độ Tokyo", "sections": 8},
+    {"chapter": 9, "title": "Biến Âm: Từ Sách đến Đời Thực", "sections": 8},
+    {"chapter": 10, "title": "Ngữ điệu câu", "sections": 4},
+    {"chapter": 11, "title": "Nói tự nhiên và rút gọn", "sections": 4},
+    {"chapter": 12, "title": "Tổng kết và lộ trình học", "sections": 3}
+  ],
+
+  "chapters": {
+    "chapter_1": {
+      "id": 1,
+      "title": "Giới thiệu hệ thống âm tiếng Nhật",
+      "intro": "Trước khi học từng âm riêng lẻ, chúng ta cần hiểu tổng quan về cách tiếng Nhật hoạt động. Điều này sẽ giúp bạn tránh những sai lầm phổ biến.",
+
+      "sections": {
+        "1.1": {
+          "title": "Tiếng Nhật khác tiếng Việt như thế nào?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Tiếng Việt là ngôn ngữ **thanh điệu** (tonal language) - mỗi âm tiết có một thanh cố định (sắc, huyền, hỏi, ngã, nặng, ngang). Tiếng Nhật là ngôn ngữ **pitch accent** - cao độ thay đổi giữa các mora trong từ, nhưng không cố định như thanh điệu."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh Tiếng Việt vs Tiếng Nhật",
+              "headers": ["Đặc điểm", "Tiếng Việt", "Tiếng Nhật"],
+              "rows": [
+                ["Đơn vị nhịp", "Âm tiết (syllable)", "Mora (拍)"],
+                ["Thanh điệu", "6 thanh cố định", "Pitch accent (cao/thấp)"],
+                ["Độ dài nguyên âm", "Không quan trọng", "Rất quan trọng (あ vs ああ)"],
+                ["Âm ngắt", "Không có", "Có (っ)"],
+                ["Âm mũi cuối", "Có (-n, -m, -ng)", "Chỉ có ん"]
+              ]
+            }
+          ]
+        },
+
+        "1.2": {
+          "title": "Mora là gì?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "**Mora (拍 - haku)** là đơn vị nhịp cơ bản của tiếng Nhật. Khác với âm tiết (syllable), mora có quy tắc riêng."
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc đếm Mora",
+              "points": [
+                "Mỗi kana thường = 1 mora (か, さ, た...)",
+                "Âm ghép (yoon) = 1 mora (きゃ, しゅ, ちょ...)",
+                "Âm ngắt っ = 1 mora",
+                "Âm kéo dài ー = 1 mora",
+                "Âm ん = 1 mora"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ đếm Mora",
+              "examples": [
+                {"word": "にほん", "romaji": "nihon", "mora": 3, "breakdown": "に・ほ・ん"},
+                {"word": "がっこう", "romaji": "gakkou", "mora": 4, "breakdown": "が・っ・こ・う"},
+                {"word": "きょうと", "romaji": "kyouto", "mora": 4, "breakdown": "きょ・う・と"},
+                {"word": "おばあさん", "romaji": "obaasan", "mora": 5, "breakdown": "お・ば・あ・さ・ん"}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Người Việt thường đếm sai mora vì quen với âm tiết. 'きょう' (kyou) có 2 mora, không phải 1!"
+            }
+          ]
+        },
+
+        "1.3": {
+          "title": "Tại sao Chúng ta khó nghe tiếng Nhật?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Có 5 nguyên nhân chính gây khó khăn khi nghe tiếng Nhật:"
+            },
+            {
+              "type": "numbered_list",
+              "items": [
+                {
+                  "title": "Âm không tồn tại trong tiếng Việt",
+                  "detail": "Như ら (r flap), ふ (bilabial fricative), つ (ts)"
+                },
+                {
+                  "title": "Nhầm lẫn âm gần giống",
+                  "detail": "し vs ち, す vs つ, ざ vs じゃ"
+                },
+                {
+                  "title": "Không nghe được độ dài",
+                  "detail": "おばさん vs おばあさん (cô vs bà)"
+                },
+                {
+                  "title": "Bỏ qua pitch accent",
+                  "detail": "はし có thể là 'đũa', 'cầu', hoặc 'mép' tùy pitch"
+                },
+                {
+                  "title": "Không quen với rút gọn",
+                  "detail": "ている→てる, ではない→じゃない"
+                }
+              ]
+            }
+          ]
+        },
+
+        "1.4": {
+          "title": "Mục tiêu của cuốn sách này",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Cuốn sách này sẽ giúp bạn:"
+            },
+            {
+              "type": "checklist",
+              "items": [
+                "Nắm vững 46 âm cơ bản + biến thể",
+                "Phân biệt được các âm dễ nhầm lẫn",
+                "Hiểu và nhận biết pitch accent",
+                "Nghe hiểu ngữ điệu tự nhiên của người Nhật",
+                "Sẵn sàng cho phần luyện tập trong app"
+              ]
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_2": {
+      "id": 2,
+      "title": "Bảng chữ cái cơ bản",
+      "intro": "Hiragana và Katakana mỗi bảng có 46 ký tự cơ bản. Chúng ta sẽ học theo nhóm để dễ nhớ.",
+
+      "sections": {
+        "2.1": {
+          "title": "Nguyên âm (母音 - Boin)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "5 nguyên âm là nền tảng của mọi âm tiếng Nhật. Tất cả các phụ âm đều kết hợp với 5 nguyên âm này."
+            },
+            {
+              "type": "kana_table",
+              "title": "5 Nguyên âm",
+              "headers": ["Hiragana", "Katakana", "Romaji", "IPA", "Ghi chú"],
+              "rows": [
+                {"hiragana": "あ", "katakana": "ア", "romaji": "a", "ipa": "[a]", "note": "Như 'a' trong 'ba'"},
+                {"hiragana": "い", "katakana": "イ", "romaji": "i", "ipa": "[i]", "note": "Như 'i' trong 'bi'"},
+                {"hiragana": "う", "katakana": "ウ", "romaji": "u", "ipa": "[ɯ]", "note": "Môi KHÔNG tròn, khác 'u' tiếng Việt"},
+                {"hiragana": "え", "katakana": "エ", "romaji": "e", "ipa": "[e]", "note": "Như 'ê' trong 'bê'"},
+                {"hiragana": "お", "katakana": "オ", "romaji": "o", "ipa": "[o]", "note": "Như 'ô' trong 'bô'"}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Âm 'う' (u) tiếng Nhật môi KHÔNG tròn như 'u' tiếng Việt. Đây là lỗi phổ biến nhất!"
+            }
+          ]
+        },
+
+        "2.2": {
+          "title": "Phụ âm hàng K, S, T, N",
+          "content": [
+            {
+              "type": "kana_table",
+              "title": "か行 (Ka-gyou)",
+              "rows": [
+                {"hiragana": "か", "katakana": "カ", "romaji": "ka", "ipa": "[ka]"},
+                {"hiragana": "き", "katakana": "キ", "romaji": "ki", "ipa": "[ki]"},
+                {"hiragana": "く", "katakana": "ク", "romaji": "ku", "ipa": "[kɯ]"},
+                {"hiragana": "け", "katakana": "ケ", "romaji": "ke", "ipa": "[ke]"},
+                {"hiragana": "こ", "katakana": "コ", "romaji": "ko", "ipa": "[ko]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "さ行 (Sa-gyou)",
+              "rows": [
+                {"hiragana": "さ", "katakana": "サ", "romaji": "sa", "ipa": "[sa]"},
+                {"hiragana": "し", "katakana": "シ", "romaji": "shi", "ipa": "[ɕi]", "note": "⚠️ Không phải 'si'"},
+                {"hiragana": "す", "katakana": "ス", "romaji": "su", "ipa": "[sɯ]"},
+                {"hiragana": "せ", "katakana": "セ", "romaji": "se", "ipa": "[se]"},
+                {"hiragana": "そ", "katakana": "ソ", "romaji": "so", "ipa": "[so]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "た行 (Ta-gyou)",
+              "rows": [
+                {"hiragana": "た", "katakana": "タ", "romaji": "ta", "ipa": "[ta]"},
+                {"hiragana": "ち", "katakana": "チ", "romaji": "chi", "ipa": "[tɕi]", "note": "⚠️ Không phải 'ti'"},
+                {"hiragana": "つ", "katakana": "ツ", "romaji": "tsu", "ipa": "[tsɯ]", "note": "⚠️ Âm khó"},
+                {"hiragana": "て", "katakana": "テ", "romaji": "te", "ipa": "[te]"},
+                {"hiragana": "と", "katakana": "ト", "romaji": "to", "ipa": "[to]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "な行 (Na-gyou)",
+              "rows": [
+                {"hiragana": "な", "katakana": "ナ", "romaji": "na", "ipa": "[na]"},
+                {"hiragana": "に", "katakana": "ニ", "romaji": "ni", "ipa": "[ɲi]"},
+                {"hiragana": "ぬ", "katakana": "ヌ", "romaji": "nu", "ipa": "[nɯ]"},
+                {"hiragana": "ね", "katakana": "ネ", "romaji": "ne", "ipa": "[ne]"},
+                {"hiragana": "の", "katakana": "ノ", "romaji": "no", "ipa": "[no]"}
+              ]
+            }
+          ]
+        },
+
+        "2.3": {
+          "title": "Phụ âm hàng H, M, Y, R, W",
+          "content": [
+            {
+              "type": "kana_table",
+              "title": "は行 (Ha-gyou)",
+              "rows": [
+                {"hiragana": "は", "katakana": "ハ", "romaji": "ha", "ipa": "[ha]"},
+                {"hiragana": "ひ", "katakana": "ヒ", "romaji": "hi", "ipa": "[çi]"},
+                {"hiragana": "ふ", "katakana": "フ", "romaji": "fu", "ipa": "[ɸɯ]", "note": "⚠️ Không phải 'hu' hay 'phu'"},
+                {"hiragana": "へ", "katakana": "ヘ", "romaji": "he", "ipa": "[he]"},
+                {"hiragana": "ほ", "katakana": "ホ", "romaji": "ho", "ipa": "[ho]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "ま行 (Ma-gyou)",
+              "rows": [
+                {"hiragana": "ま", "katakana": "マ", "romaji": "ma", "ipa": "[ma]"},
+                {"hiragana": "み", "katakana": "ミ", "romaji": "mi", "ipa": "[mi]"},
+                {"hiragana": "む", "katakana": "ム", "romaji": "mu", "ipa": "[mɯ]"},
+                {"hiragana": "め", "katakana": "メ", "romaji": "me", "ipa": "[me]"},
+                {"hiragana": "も", "katakana": "モ", "romaji": "mo", "ipa": "[mo]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "や行 (Ya-gyou) - Chỉ có 3 âm",
+              "rows": [
+                {"hiragana": "や", "katakana": "ヤ", "romaji": "ya", "ipa": "[ja]"},
+                {"hiragana": "ゆ", "katakana": "ユ", "romaji": "yu", "ipa": "[jɯ]"},
+                {"hiragana": "よ", "katakana": "ヨ", "romaji": "yo", "ipa": "[jo]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "ら行 (Ra-gyou) ⚠️ Âm khó nhất",
+              "rows": [
+                {"hiragana": "ら", "katakana": "ラ", "romaji": "ra", "ipa": "[ɾa]"},
+                {"hiragana": "り", "katakana": "リ", "romaji": "ri", "ipa": "[ɾi]"},
+                {"hiragana": "る", "katakana": "ル", "romaji": "ru", "ipa": "[ɾɯ]"},
+                {"hiragana": "れ", "katakana": "レ", "romaji": "re", "ipa": "[ɾe]"},
+                {"hiragana": "ろ", "katakana": "ロ", "romaji": "ro", "ipa": "[ɾo]"}
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Cách phát âm ら行",
+              "points": [
+                "KHÔNG phải âm 'r' cuộn lưỡi như tiếng Anh Mỹ",
+                "KHÔNG phải âm 'l' như tiếng Việt",
+                "Là âm 'r flap' - lưỡi chạm nhẹ vòm miệng rồi búng xuống",
+                "Gần giống âm 't' nhanh trong 'butter' (tiếng Anh Mỹ)"
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "わ行 (Wa-gyou) - Chỉ còn 2 âm dùng phổ biến",
+              "rows": [
+                {"hiragana": "わ", "katakana": "ワ", "romaji": "wa", "ipa": "[wa]"},
+                {"hiragana": "を", "katakana": "ヲ", "romaji": "wo/o", "ipa": "[o]", "note": "Chỉ dùng làm particle"}
+              ]
+            }
+          ]
+        },
+
+        "2.4": {
+          "title": "Âm ん (N đặc biệt)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Âm ん là âm duy nhất không đi kèm nguyên âm. Đây là **1 mora riêng biệt** và phát âm thay đổi tùy theo âm đứng sau."
+            },
+            {
+              "type": "kana_table",
+              "title": "Các biến thể của ん",
+              "headers": ["Âm sau", "Phát âm", "IPA", "Ví dụ"],
+              "rows": [
+                {"after": "m, b, p", "sound": "[m]", "ipa": "[m]", "example": "さんぽ (sampo)"},
+                {"after": "n, t, d", "sound": "[n]", "ipa": "[n]", "example": "みんな (minna)"},
+                {"after": "k, g", "sound": "[ŋ]", "ipa": "[ŋ]", "example": "さんか (sanka → saŋka)"},
+                {"after": "nguyên âm, y, w", "sound": "[ɴ] mũi", "ipa": "[ɴ]", "example": "ほんや (hoɴya)"},
+                {"after": "cuối từ", "sound": "[ɴ] mũi", "ipa": "[ɴ]", "example": "にほん (nihoɴ)"}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Không giống âm '-n' cuối từ tiếng Việt! Âm ん dài hơn và chiếm 1 mora."
+            }
+          ]
+        },
+
+        "2.5": {
+          "title": "Tổng hợp 46 âm cơ bản",
+          "content": [
+            {
+              "type": "full_kana_chart",
+              "title": "Bảng Hiragana đầy đủ",
+              "description": "46 ký tự cơ bản, sắp xếp theo hàng (行) và cột (段)"
+            },
+            {
+              "type": "tip",
+              "text": "Khi học, hãy học theo hàng ngang (あいうえお → かきくけこ...). Điều này giúp bạn nhận ra pattern."
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_3": {
+      "id": 3,
+      "title": "Âm đục và Bán đục (濁音・半濁音)",
+      "intro": "Thêm dấu vào các âm cơ bản sẽ tạo ra âm đục (voiced) và bán đục (semi-voiced). Đây là nguồn nhầm lẫn lớn.",
+
+      "sections": {
+        "3.1": {
+          "title": "Âm đục (濁音 - Dakuon)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Thêm dấu ゛(tenten/dakuten) vào âm trong (voiceless) để tạo âm đục (voiced). Dây thanh rung khi phát âm."
+            },
+            {
+              "type": "kana_table",
+              "title": "が行 (Ga-gyou) - từ か行",
+              "rows": [
+                {"base": "か→", "hiragana": "が", "katakana": "ガ", "romaji": "ga", "ipa": "[ɡa]"},
+                {"base": "き→", "hiragana": "ぎ", "katakana": "ギ", "romaji": "gi", "ipa": "[ɡi]"},
+                {"base": "く→", "hiragana": "ぐ", "katakana": "グ", "romaji": "gu", "ipa": "[ɡɯ]"},
+                {"base": "け→", "hiragana": "げ", "katakana": "ゲ", "romaji": "ge", "ipa": "[ɡe]"},
+                {"base": "こ→", "hiragana": "ご", "katakana": "ゴ", "romaji": "go", "ipa": "[ɡo]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "ざ行 (Za-gyou) - từ さ行",
+              "rows": [
+                {"base": "さ→", "hiragana": "ざ", "katakana": "ザ", "romaji": "za", "ipa": "[za]"},
+                {"base": "し→", "hiragana": "じ", "katakana": "ジ", "romaji": "ji", "ipa": "[ʑi]", "note": "⚠️ Không phải 'zi'"},
+                {"base": "す→", "hiragana": "ず", "katakana": "ズ", "romaji": "zu", "ipa": "[zɯ]"},
+                {"base": "せ→", "hiragana": "ぜ", "katakana": "ゼ", "romaji": "ze", "ipa": "[ze]"},
+                {"base": "そ→", "hiragana": "ぞ", "katakana": "ゾ", "romaji": "zo", "ipa": "[zo]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "だ行 (Da-gyou) - từ た行",
+              "rows": [
+                {"base": "た→", "hiragana": "だ", "katakana": "ダ", "romaji": "da", "ipa": "[da]"},
+                {"base": "ち→", "hiragana": "ぢ", "katakana": "ヂ", "romaji": "ji", "ipa": "[ʑi]", "note": "Phát âm giống じ"},
+                {"base": "つ→", "hiragana": "づ", "katakana": "ヅ", "romaji": "zu", "ipa": "[zɯ]", "note": "Phát âm giống ず"},
+                {"base": "て→", "hiragana": "で", "katakana": "デ", "romaji": "de", "ipa": "[de]"},
+                {"base": "と→", "hiragana": "ど", "katakana": "ド", "romaji": "do", "ipa": "[do]"}
+              ]
+            },
+            {
+              "type": "kana_table",
+              "title": "ば行 (Ba-gyou) - từ は行",
+              "rows": [
+                {"base": "は→", "hiragana": "ば", "katakana": "バ", "romaji": "ba", "ipa": "[ba]"},
+                {"base": "ひ→", "hiragana": "び", "katakana": "ビ", "romaji": "bi", "ipa": "[bi]"},
+                {"base": "ふ→", "hiragana": "ぶ", "katakana": "ブ", "romaji": "bu", "ipa": "[bɯ]"},
+                {"base": "へ→", "hiragana": "べ", "katakana": "ベ", "romaji": "be", "ipa": "[be]"},
+                {"base": "ほ→", "hiragana": "ぼ", "katakana": "ボ", "romaji": "bo", "ipa": "[bo]"}
+              ]
+            }
+          ]
+        },
+
+        "3.2": {
+          "title": "Bán đục (半濁音 - Handakuon)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Chỉ có hàng は biến thành ぱ行 khi thêm dấu ゜(maru/handakuten)."
+            },
+            {
+              "type": "kana_table",
+              "title": "ぱ行 (Pa-gyou)",
+              "rows": [
+                {"base": "は→", "hiragana": "ぱ", "katakana": "パ", "romaji": "pa", "ipa": "[pa]"},
+                {"base": "ひ→", "hiragana": "ぴ", "katakana": "ピ", "romaji": "pi", "ipa": "[pi]"},
+                {"base": "ふ→", "hiragana": "ぷ", "katakana": "プ", "romaji": "pu", "ipa": "[pɯ]"},
+                {"base": "へ→", "hiragana": "ぺ", "katakana": "ペ", "romaji": "pe", "ipa": "[pe]"},
+                {"base": "ほ→", "hiragana": "ぽ", "katakana": "ポ", "romaji": "po", "ipa": "[po]"}
+              ]
+            }
+          ]
+        },
+
+        "3.3": {
+          "title": "Phân biệt は vs ば vs ぱ",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Đây là bộ ba dễ nhầm lẫn nhất. Hãy tập trung nghe sự khác biệt."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh 3 âm",
+              "headers": ["Âm", "Đặc điểm", "Ví dụ"],
+              "rows": [
+                ["は [ha]", "Âm 'h' nhẹ, không rung dây thanh", "はな (hana - hoa)"],
+                ["ば [ba]", "Âm 'b', rung dây thanh", "ばな (bana - ?)"],
+                ["ぱ [pa]", "Âm 'p' mạnh, bật hơi", "パン (pan - bánh mì)"]
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Đặt tay lên cổ họng: ば sẽ rung, は và ぱ không rung. ぱ có hơi bật ra mạnh hơn."
+            }
+          ]
+        },
+
+        "3.4": {
+          "title": "Vấn đề じ/ぢ và ず/づ",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Trong tiếng Nhật hiện đại, じ và ぢ phát âm giống nhau [ʑi], ず và づ phát âm giống nhau [zɯ]. Việc dùng chữ nào tùy thuộc vào nguồn gốc từ."
+            },
+            {
+              "type": "example_box",
+              "title": "Khi nào dùng ぢ, づ?",
+              "examples": [
+                {"case": "Từ ghép (rendaku)", "example": "はなぢ (鼻血 - chảy máu mũi) = はな + ち"},
+                {"case": "Từ ghép", "example": "みかづき (三日月 - trăng lưỡi liềm) = みか + つき"},
+                {"case": "Lặp âm", "example": "ちぢむ (縮む - co lại) = ち + ち → ちぢ"},
+                {"case": "Lặp âm", "example": "つづく (続く - tiếp tục) = つ + つ → つづ"}
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc Rendaku (連濁)",
+              "points": [
+                "Khi ghép từ, âm đầu của từ thứ hai có thể bị đục hóa",
+                "か→が, さ→ざ, た→だ, は→ば",
+                "Ví dụ: 花 (はな) + 火 (ひ) → 花火 (はなび)"
+              ]
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_4": {
+      "id": 4,
+      "title": "Âm ghép (拗音 - Yoon)",
+      "intro": "Âm ghép được tạo bằng cách kết hợp âm i-đan (き, し, ち...) với や, ゆ, よ nhỏ. Quan trọng: Âm ghép chỉ tính là 1 mora!",
+
+      "sections": {
+        "4.1": {
+          "title": "Cách tạo âm ghép",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Lấy âm kết thúc bằng 'i' + thêm ゃ, ゅ, ょ (viết nhỏ) = 1 mora"
+            },
+            {
+              "type": "yoon_table",
+              "title": "Bảng âm ghép cơ bản",
+              "rows": [
+                {"base": "き", "ya": "きゃ kya", "yu": "きゅ kyu", "yo": "きょ kyo"},
+                {"base": "し", "ya": "しゃ sha", "yu": "しゅ shu", "yo": "しょ sho"},
+                {"base": "ち", "ya": "ちゃ cha", "yu": "ちゅ chu", "yo": "ちょ cho"},
+                {"base": "に", "ya": "にゃ nya", "yu": "にゅ nyu", "yo": "にょ nyo"},
+                {"base": "ひ", "ya": "ひゃ hya", "yu": "ひゅ hyu", "yo": "ひょ hyo"},
+                {"base": "み", "ya": "みゃ mya", "yu": "みゅ myu", "yo": "みょ myo"},
+                {"base": "り", "ya": "りゃ rya", "yu": "りゅ ryu", "yo": "りょ ryo"}
+              ]
+            },
+            {
+              "type": "yoon_table",
+              "title": "Âm ghép đục",
+              "rows": [
+                {"base": "ぎ", "ya": "ぎゃ gya", "yu": "ぎゅ gyu", "yo": "ぎょ gyo"},
+                {"base": "じ", "ya": "じゃ ja", "yu": "じゅ ju", "yo": "じょ jo"},
+                {"base": "び", "ya": "びゃ bya", "yu": "びゅ byu", "yo": "びょ byo"},
+                {"base": "ぴ", "ya": "ぴゃ pya", "yu": "ぴゅ pyu", "yo": "ぴょ pyo"}
+              ]
+            }
+          ]
+        },
+
+        "4.2": {
+          "title": "きょ vs きよ - Sự khác biệt quan trọng",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Đây là lỗi phổ biến: nhầm giữa âm ghép (1 mora) và 2 âm riêng biệt (2 mora)."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh",
+              "headers": ["Viết", "Mora", "Phát âm", "Ví dụ"],
+              "rows": [
+                ["きょ", "1 mora", "[kjo]", "きょう (hôm nay) = 2 mora"],
+                ["きよ", "2 mora", "[ki.jo]", "きよい (trong sạch) = 3 mora"]
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ thực tế",
+              "examples": [
+                {"wrong": "びよういん (5 mora)", "right": "びょういん (4 mora)", "meaning": "Bệnh viện", "note": "Cùng chữ 病院"},
+                {"wrong": "じゆう", "right": "じゅう", "meaning": "10", "note": "十"}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Khi nghe, chú ý độ dài! Âm ghép nghe ngắn hơn rõ rệt."
+            }
+          ]
+        },
+
+        "4.3": {
+          "title": "Âm ghép trong Katakana",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Katakana có thêm nhiều âm ghép để phiên âm từ nước ngoài, không có trong Hiragana."
+            },
+            {
+              "type": "kana_table",
+              "title": "Âm ghép đặc biệt trong Katakana",
+              "rows": [
+                {"katakana": "ファ", "romaji": "fa", "example": "ファン (fan)"},
+                {"katakana": "フィ", "romaji": "fi", "example": "フィルム (film)"},
+                {"katakana": "フェ", "romaji": "fe", "example": "カフェ (cafe)"},
+                {"katakana": "フォ", "romaji": "fo", "example": "フォーク (fork)"},
+                {"katakana": "ティ", "romaji": "ti", "example": "パーティー (party)"},
+                {"katakana": "ディ", "romaji": "di", "example": "ディスク (disk)"},
+                {"katakana": "ウィ", "romaji": "wi", "example": "ウィンドウ (window)"},
+                {"katakana": "ウェ", "romaji": "we", "example": "ウェブ (web)"}
+              ]
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_5": {
+      "id": 5,
+      "title": "Mora đặc biệt",
+      "intro": "Ba loại mora đặc biệt: âm ngắt (っ), trường âm, và âm ん. Đây là những âm thường bị bỏ qua khi nghe.",
+
+      "sections": {
+        "5.1": {
+          "title": "Âm ngắt っ (促音 - Sokuon)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "っ (tsu nhỏ) tạo ra một khoảng dừng ngắn trước phụ âm tiếp theo. Nó chiếm 1 mora."
+            },
+            {
+              "type": "key_point",
+              "title": "Đặc điểm của っ",
+              "points": [
+                "Viết bằng つ nhỏ: っ (hiragana) hoặc ッ (katakana)",
+                "Chỉ xuất hiện trước k, s, t, p (âm vô thanh)",
+                "Tạo cảm giác 'gấp đôi' phụ âm sau nó",
+                "Chiếm đúng 1 mora (cùng độ dài với か, さ...)"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ so sánh",
+              "examples": [
+                {"without": "いた (ita)", "mora": "2", "meaning": "có/ở", "with": "いった (itta)", "with_mora": "3", "with_meaning": "đã đi"},
+                {"without": "かた (kata)", "mora": "2", "meaning": "vai", "with": "かった (katta)", "with_mora": "3", "with_meaning": "đã mua"},
+                {"without": "もと (moto)", "mora": "2", "meaning": "gốc", "with": "もっと (motto)", "with_mora": "3", "with_meaning": "hơn nữa"},
+                {"without": "さか (saka)", "mora": "2", "meaning": "dốc", "with": "さっか (sakka)", "with_mora": "3", "with_meaning": "nhà văn"}
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "Khi nghe, っ tạo cảm giác 'nghẹn' hoặc 'dừng' ngắn. Hãy chú ý khoảng im lặng trước phụ âm."
+            }
+          ]
+        },
+
+        "5.2": {
+          "title": "Trường âm (長音 - Chouon)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Nguyên âm kéo dài = 2 mora. Đây là điểm khác biệt lớn với tiếng Việt."
+            },
+            {
+              "type": "kana_table",
+              "title": "Cách viết trường âm trong Hiragana",
+              "headers": ["Nguyên âm", "Kéo dài bằng", "Ví dụ"],
+              "rows": [
+                {"vowel": "あ [a]", "extend": "+ あ", "example": "おかあさん (okaasan - mẹ)"},
+                {"vowel": "い [i]", "extend": "+ い", "example": "おにいさん (oniisan - anh)"},
+                {"vowel": "う [u]", "extend": "+ う", "example": "くうこう (kuukou - sân bay)"},
+                {"vowel": "え [e]", "extend": "+ い hoặc え", "example": "せんせい (sensei) / おねえさん (oneesan)"},
+                {"vowel": "お [o]", "extend": "+ う hoặc お", "example": "おとうさん (otousan) / おおきい (ookii)"}
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Trong Katakana, trường âm viết bằng ー (gạch ngang): コーヒー (koohii - cà phê)"
+            },
+            {
+              "type": "example_box",
+              "title": "Cặp từ quan trọng",
+              "examples": [
+                {"short": "おばさん (obasan)", "mora": "4", "meaning": "Cô/Dì", "long": "おばあさん (obaasan)", "long_mora": "5", "long_meaning": "Bà"},
+                {"short": "おじさん (ojisan)", "mora": "4", "meaning": "Chú/Bác", "long": "おじいさん (ojiisan)", "long_mora": "5", "long_meaning": "Ông"},
+                {"short": "ここ (koko)", "mora": "2", "meaning": "Đây", "long": "こうこう (koukou)", "long_mora": "4", "long_meaning": "Trường cấp 3"},
+                {"short": "とる (toru)", "mora": "2", "meaning": "Lấy", "long": "とおる (tooru)", "long_mora": "3", "long_meaning": "Đi qua"}
+              ]
+            }
+          ]
+        },
+
+        "5.3": {
+          "title": "Âm ん chi tiết",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Như đã giới thiệu ở Chương 2, ん thay đổi cách phát âm tùy theo âm đứng sau. Đây là chi tiết quan trọng để nghe chính xác."
+            },
+            {
+              "type": "detailed_table",
+              "title": "5 biến thể của ん",
+              "rows": [
+                {
+                  "variant": "[m]",
+                  "condition": "Trước m, b, p",
+                  "example": "さんぽ [sampo], しんぶん [shimbun]",
+                  "tip": "Môi khép lại"
+                },
+                {
+                  "variant": "[n]",
+                  "condition": "Trước n, t, d, r",
+                  "example": "みんな [minna], あんない [annai]",
+                  "tip": "Lưỡi chạm răng trên"
+                },
+                {
+                  "variant": "[ŋ]",
+                  "condition": "Trước k, g",
+                  "example": "さんか [saŋka], にんげん [niŋgen]",
+                  "tip": "Như 'ng' trong 'ngon'"
+                },
+                {
+                  "variant": "[ɴ]",
+                  "condition": "Trước nguyên âm, y, w, cuối từ",
+                  "example": "ほんや [hoɴya], にほん [nihoɴ]",
+                  "tip": "Âm mũi, không chạm đâu cả"
+                },
+                {
+                  "variant": "[ũ]",
+                  "condition": "Trước s, h, f (một số phương ngữ)",
+                  "example": "せんせい [sẽnsei]",
+                  "tip": "Nguyên âm mũi hóa"
+                }
+              ]
+            }
+          ]
+        },
+
+        "5.4": {
+          "title": "Kết hợp các mora đặc biệt",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Nhiều từ tiếng Nhật kết hợp cả っ, trường âm, và ん. Đây là thử thách lớn cho người nghe."
+            },
+            {
+              "type": "example_box",
+              "title": "Từ phức tạp",
+              "examples": [
+                {"word": "がっこう", "romaji": "gakkou", "mora": "4", "breakdown": "が・っ・こ・う", "meaning": "Trường học"},
+                {"word": "にっぽん", "romaji": "nippon", "mora": "4", "breakdown": "に・っ・ぽ・ん", "meaning": "Nhật Bản"},
+                {"word": "きっぷ", "romaji": "kippu", "mora": "3", "breakdown": "き・っ・ぷ", "meaning": "Vé"},
+                {"word": "ざっし", "romaji": "zasshi", "mora": "3", "breakdown": "ざ・っ・し", "meaning": "Tạp chí"},
+                {"word": "いっしょうけんめい", "romaji": "isshoukenmei", "mora": "8", "breakdown": "い・っ・しょ・う・け・ん・め・い", "meaning": "Hết sức"}
+              ]
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_6": {
+      "id": 6,
+      "title": "Âm khó",
+      "intro": "Chương này tập trung vào các âm mà chúng ta hay mắc lỗi khi nghe. Đây là phần quan trọng nhất của cuốn sách.",
+
+      "sections": {
+        "6.1": {
+          "title": "Âm ら行 - R flap",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Đây là âm khó nhất. Âm 'r' tiếng Nhật KHÔNG giống 'r' hay 'l' tiếng Việt."
+            },
+            {
+              "type": "key_point",
+              "title": "Cách phát âm đúng",
+              "points": [
+                "Đầu lưỡi chạm nhẹ vào vòm miệng (ngay sau răng trên)",
+                "Búng lưỡi xuống nhanh (chỉ 1 lần búng)",
+                "Không cuộn lưỡi như 'r' tiếng Anh Mỹ",
+                "Không đặt lưỡi cố định như 'l' tiếng Việt",
+                "Gần giống âm 't' nhanh trong 'better', 'water' (tiếng Anh Mỹ)"
+              ]
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh ら vs だ",
+              "headers": ["Âm", "IPA", "Đặc điểm", "Ví dụ"],
+              "rows": [
+                ["ら [ɾa]", "[ɾ]", "Búng lưỡi, nhẹ", "らく (raku - dễ dàng)"],
+                ["だ [da]", "[d]", "Lưỡi chặn hơi, mạnh", "だく (daku - ôm)"]
+              ]
+            },
+            {
+              "type": "warning",
+              "text": "Lỗi phổ biến: Người Việt nghe ら thành だ hoặc ngược lại. Hãy tập trung vào độ mạnh/nhẹ của âm."
+            }
+          ]
+        },
+
+        "6.2": {
+          "title": "Âm ふ - Bilabial fricative",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Âm ふ [ɸɯ] là âm ma sát hai môi, KHÔNG giống 'hu' hay 'phu' tiếng Việt."
+            },
+            {
+              "type": "key_point",
+              "title": "Cách phát âm đúng",
+              "points": [
+                "Hai môi gần nhau nhưng KHÔNG chạm (khác với 'p')",
+                "Thổi hơi nhẹ qua khe hở giữa hai môi",
+                "Răng KHÔNG chạm môi (khác với 'f' tiếng Anh)",
+                "Âm nhẹ và mờ hơn 'f' tiếng Anh"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ phân biệt",
+              "examples": [
+                {"word": "ふた", "romaji": "futa", "meaning": "Nắp", "note": "Không phải 'huta' hay 'phuta'"},
+                {"word": "ふね", "romaji": "fune", "meaning": "Thuyền"},
+                {"word": "ふく", "romaji": "fuku", "meaning": "Quần áo"},
+                {"word": "ふゆ", "romaji": "fuyu", "meaning": "Mùa đông"}
+              ]
+            }
+          ]
+        },
+
+        "6.3": {
+          "title": "Âm つ vs す",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Người Việt hay nhầm つ [tsɯ] với す [sɯ] vì không quen với âm 'ts'."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh chi tiết",
+              "headers": ["Âm", "IPA", "Cách phát âm", "Ví dụ"],
+              "rows": [
+                ["つ", "[tsɯ]", "Đầu lưỡi chạm răng, bật ra + s", "つき (tsuki - mặt trăng)"],
+                ["す", "[sɯ]", "Lưỡi không chạm, chỉ có 's'", "すき (suki - thích)"]
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Cặp từ dễ nhầm",
+              "examples": [
+                {"pair": ["つかう (tsukau - sử dụng)", "すかう (không có)"]},
+                {"pair": ["つき (tsuki - mặt trăng)", "すき (suki - thích)"]},
+                {"pair": ["つる (tsuru - hạc)", "する (suru - làm)"]}
+              ]
+            }
+          ]
+        },
+
+        "6.4": {
+          "title": "Âm し vs ち",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Cả し [ɕi] và ち [tɕi] đều là âm vòm (palatal), nhưng ち có thêm phần bật."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh",
+              "headers": ["Âm", "IPA", "Đặc điểm"],
+              "rows": [
+                ["し [ɕi]", "[ɕi]", "Ma sát liên tục, không bật"],
+                ["ち [tɕi]", "[tɕi]", "Có phần 't' bật trước, rồi mới ma sát"]
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Cặp từ cần phân biệt",
+              "examples": [
+                {"pair": ["しかい (shikai - tư hội)", "ちかい (chikai - gần)"]},
+                {"pair": ["しち (shichi - 7)", "ちち (chichi - cha)"]},
+                {"pair": ["しま (shima - đảo)", "ちま (không phổ biến)"]}
+              ]
+            }
+          ]
+        },
+
+        "6.5": {
+          "title": "Âm đục vs Không đục",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Phân biệt cặp âm voiced/voiceless là kỹ năng quan trọng."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Các cặp cần chú ý",
+              "headers": ["Không đục (Voiceless)", "Đục (Voiced)", "Kiểm tra"],
+              "rows": [
+                ["か [ka]", "が [ga]", "Đặt tay lên cổ: が rung"],
+                ["さ [sa]", "ざ [za]", ""],
+                ["た [ta]", "だ [da]", ""],
+                ["は [ha]", "ば [ba]", ""],
+                ["は [ha]", "ぱ [pa]", "ぱ bật hơi mạnh"]
+              ]
+            }
+          ]
+        },
+
+        "6.6": {
+          "title": "Âm ざ vs じゃ",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Hai âm này khác nhau nhưng thường bị nghe thành một."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh",
+              "headers": ["Âm", "IPA", "Vị trí lưỡi"],
+              "rows": [
+                ["ざ [za]", "[za]", "Đầu lưỡi gần răng"],
+                ["じゃ [ʑa]", "[dʑa]", "Lưỡi giữa gần vòm miệng"]
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ",
+              "examples": [
+                {"pair": ["ざる (zaru - rổ)", "じゃる (không có)"]},
+                {"pair": ["ぜんぶ (zenbu - tất cả)", "じぇんぶ (không có)"]}
+              ]
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_7": {
+      "id": 7,
+      "title": "Pitch Accent - Cao độ",
+      "intro": "Pitch accent là đặc điểm quan trọng của tiếng Nhật, có thể thay đổi nghĩa của từ. Người Việt quen với thanh điệu nên cần điều chỉnh cách nghe.",
+
+      "sections": {
+        "7.1": {
+          "title": "Pitch Accent là gì?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pitch accent là sự thay đổi cao độ giữa các mora trong một từ. Khác với thanh điệu tiếng Việt, pitch accent chỉ có 2 mức: Cao (H - High) và Thấp (L - Low)."
+            },
+            {
+              "type": "comparison_table",
+              "title": "Thanh điệu vs Pitch accent",
+              "headers": ["Thanh điệu (Tiếng Việt)", "Pitch accent (Tiếng Nhật)"],
+              "rows": [
+                ["6 thanh (sắc, huyền, hỏi, ngã, nặng, ngang)", "2 mức (Cao/Thấp)"],
+                ["Cố định cho mỗi âm tiết", "Pattern cho cả từ"],
+                ["Bắt buộc để hiểu nghĩa", "Quan trọng nhưng ngữ cảnh có thể bù"],
+                ["Thay đổi trong âm tiết", "Thay đổi giữa các mora"]
+              ]
+            }
+          ]
+        },
+
+        "7.2": {
+          "title": "4 Pattern cơ bản",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Tiếng Nhật chuẩn (Tokyo) có 4 pattern pitch accent chính:"
+            },
+            {
+              "type": "pitch_patterns",
+              "patterns": [
+                {
+                  "name": "平板型 (Heiban)",
+                  "number": "0",
+                  "pattern": "LHH(H)...",
+                  "description": "Bắt đầu thấp, lên cao và giữ cao đến hết từ",
+                  "example": {"word": "さくら", "pitch": "LHH", "meaning": "Hoa anh đào"},
+                  "with_particle": "さくらが → LHHHH (không hạ)"
+                },
+                {
+                  "name": "頭高型 (Atamadaka)",
+                  "number": "1",
+                  "pattern": "HLL(L)...",
+                  "description": "Bắt đầu cao, rồi xuống thấp từ mora thứ 2",
+                  "example": {"word": "いのち", "pitch": "HLL", "meaning": "Sinh mạng"},
+                  "with_particle": "いのちが → HLLLL"
+                },
+                {
+                  "name": "中高型 (Nakadaka)",
+                  "number": "2, 3, 4...",
+                  "pattern": "LHL, LHHL, LHHHL...",
+                  "description": "Lên cao ở giữa, rồi xuống trước khi kết thúc",
+                  "example": {"word": "おとこ", "pitch": "LHL", "meaning": "Đàn ông"},
+                  "with_particle": "おとこが → LHLLL"
+                },
+                {
+                  "name": "尾高型 (Odaka)",
+                  "number": "Cuối từ",
+                  "pattern": "LHH↓",
+                  "description": "Giống Heiban nhưng hạ pitch khi có particle",
+                  "example": {"word": "はな", "pitch": "LH", "meaning": "Hoa"},
+                  "with_particle": "はなが → LHHL (hạ ở particle)"
+                }
+              ]
+            }
+          ]
+        },
+
+        "7.3": {
+          "title": "Minimal Pairs - Cặp từ đồng âm",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Nhiều từ tiếng Nhật viết giống nhau nhưng khác pitch accent và khác nghĩa."
+            },
+            {
+              "type": "minimal_pairs_table",
+              "title": "Các cặp từ quan trọng",
+              "pairs": [
+                {
+                  "kana": "はし",
+                  "meanings": [
+                    {"pitch": "HL", "meaning": "箸 (đũa)", "number": "1"},
+                    {"pitch": "LH", "meaning": "橋 (cầu)", "number": "0"},
+                    {"pitch": "LH↓", "meaning": "端 (mép, cạnh)", "number": "2"}
+                  ]
+                },
+                {
+                  "kana": "あめ",
+                  "meanings": [
+                    {"pitch": "LH", "meaning": "雨 (mưa)", "number": "1"},
+                    {"pitch": "HL", "meaning": "飴 (kẹo)", "number": "0"}
+                  ]
+                },
+                {
+                  "kana": "かき",
+                  "meanings": [
+                    {"pitch": "LH", "meaning": "柿 (hồng)", "number": "0"},
+                    {"pitch": "HL", "meaning": "牡蠣 (hàu)", "number": "1"},
+                    {"pitch": "LH↓", "meaning": "垣 (hàng rào)", "number": "2"}
+                  ]
+                },
+                {
+                  "kana": "にほん",
+                  "meanings": [
+                    {"pitch": "LHH", "meaning": "日本 (Nhật Bản)", "number": "0 hoặc 2"},
+                    {"pitch": "LHL", "meaning": "二本 (2 cái dài)", "number": "2"}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+
+        "7.4": {
+          "title": "Ký hiệu OJAD",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "OJAD (Online Japanese Accent Dictionary) là công cụ tra cứu pitch accent phổ biến. Họ dùng ký hiệu số để chỉ vị trí downstep."
+            },
+            {
+              "type": "key_point",
+              "title": "Cách đọc số OJAD",
+              "points": [
+                "0 = Heiban (không có downstep)",
+                "1 = Atamadaka (downstep sau mora 1)",
+                "2 = Downstep sau mora 2",
+                "3 = Downstep sau mora 3",
+                "..."
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ",
+              "examples": [
+                {"word": "さくら", "ojad": "0", "pattern": "LHH", "meaning": "Không hạ"},
+                {"word": "あたま", "ojad": "3", "pattern": "LHH↓L (với が)", "meaning": "Hạ sau mora 3"},
+                {"word": "いのち", "ojad": "1", "pattern": "HLL", "meaning": "Hạ sau mora 1"}
+              ]
+            }
+          ]
+        },
+
+        "7.5": {
+          "title": "Pitch trong từ ghép",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Khi ghép từ, pitch accent thường thay đổi theo quy tắc riêng."
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc cơ bản",
+              "points": [
+                "Từ ghép thường có pitch riêng, không đơn giản là ghép 2 pattern",
+                "Phần đầu thường giữ pattern, phần sau bắt đầu từ Low",
+                "Từ ghép Sino-Japanese (âm Hán) thường là Heiban hoặc có downstep ở cuối",
+                "Cần tra từ điển để chắc chắn"
+              ]
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ từ ghép",
+              "examples": [
+                {"word": "にほんご", "parts": "日本 + 語", "pitch": "LHLL", "note": "Nakadaka, downstep sau ほ"},
+                {"word": "にほんりょうり", "parts": "日本 + 料理", "pitch": "LHLLLLL", "note": "Phần sau bắt đầu từ L"}
+              ]
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_8": {
+      "id": 8,
+      "title": "Ngữ điệu câu (Intonation)",
+      "intro": "Ngoài pitch accent của từ, tiếng Nhật còn có ngữ điệu ở cấp độ câu. Điều này ảnh hưởng đến ý nghĩa và cảm xúc.",
+
+      "sections": {
+        "8.1": {
+          "title": "Câu hỏi vs Câu trần thuật",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sự khác biệt chính là hướng đi của pitch ở cuối câu."
+            },
+            {
+              "type": "comparison_table",
+              "title": "So sánh ngữ điệu",
+              "headers": ["Loại câu", "Ngữ điệu cuối", "Ví dụ"],
+              "rows": [
+                ["Trần thuật", "↘ Xuống", "行く。(Tôi đi.)"],
+                ["Câu hỏi Yes/No", "↗ Lên", "行く？(Đi không?)"],
+                ["Câu hỏi có từ hỏi", "↘ Xuống (từ hỏi cao)", "どこに行く？(Đi đâu?)"]
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Lưu ý quan trọng",
+              "points": [
+                "Câu hỏi Yes/No không cần か, chỉ cần lên giọng cuối",
+                "Câu hỏi có từ hỏi (なに, どこ, いつ...) thường xuống giọng cuối",
+                "Từ hỏi được phát âm với pitch cao hơn"
+              ]
+            }
+          ]
+        },
+
+        "8.2": {
+          "title": "Particles cuối câu",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Các particles cuối câu (ね, よ, の, な...) có ngữ điệu riêng biệt."
+            },
+            {
+              "type": "particles_table",
+              "title": "Ngữ điệu particles",
+              "particles": [
+                {
+                  "particle": "ね",
+                  "intonation": "↗ (nhẹ) hoặc ↘",
+                  "function": "Tìm sự đồng tình, xác nhận",
+                  "example": "いい天気ですね↗ (Thời tiết đẹp nhỉ)"
+                },
+                {
+                  "particle": "よ",
+                  "intonation": "↘ (dứt khoát)",
+                  "function": "Nhấn mạnh thông tin mới",
+                  "example": "明日は休みだよ↘ (Ngày mai nghỉ đấy)"
+                },
+                {
+                  "particle": "の (nữ)",
+                  "intonation": "↗ (hỏi) hoặc ↘ (giải thích)",
+                  "function": "Hỏi nhẹ nhàng / Giải thích",
+                  "example": "どこ行くの↗？(Đi đâu thế?)"
+                },
+                {
+                  "particle": "な (nam)",
+                  "intonation": "↘",
+                  "function": "Tự nói với mình, cảm thán",
+                  "example": "すごいな↘ (Ghê thật)"
+                },
+                {
+                  "particle": "かな",
+                  "intonation": "↗",
+                  "function": "Tự hỏi, không chắc chắn",
+                  "example": "大丈夫かな↗ (Không biết có ổn không)"
+                }
+              ]
+            }
+          ]
+        },
+
+        "8.3": {
+          "title": "Nhấn mạnh (Focus)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Từ được nhấn mạnh sẽ có pitch cao hơn và/hoặc dài hơn."
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ nhấn mạnh",
+              "examples": [
+                {
+                  "sentence": "これが好き",
+                  "focus": "これ",
+                  "meaning": "Tôi thích CÁI NÀY (không phải cái khác)",
+                  "pattern": "**これ**が好き"
+                },
+                {
+                  "sentence": "これが好き",
+                  "focus": "好き",
+                  "meaning": "Tôi THÍCH cái này (không phải ghét)",
+                  "pattern": "これが**好き**"
+                }
+              ]
+            }
+          ]
+        },
+
+        "8.4": {
+          "title": "Cảm xúc qua ngữ điệu",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ngữ điệu tiếng Nhật thể hiện cảm xúc tinh tế."
+            },
+            {
+              "type": "emotions_table",
+              "title": "Các pattern cảm xúc",
+              "emotions": [
+                {"emotion": "Ngạc nhiên", "pattern": "Pitch cao đột ngột, kéo dài", "example": "えーっ！！"},
+                {"emotion": "Thất vọng", "pattern": "Pitch thấp, đuôi kéo xuống", "example": "そうか..."},
+                {"emotion": "Vui vẻ", "pattern": "Pitch cao, dao động nhiều", "example": "やったー！"},
+                {"emotion": "Buồn", "pattern": "Pitch thấp đều, chậm", "example": "ざんねん..."},
+                {"emotion": "Tức giận", "pattern": "Pitch cao, mạnh, ngắt quãng", "example": "なんだよ！"}
+              ]
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_9": {
+      "id": 9,
+      "title": "Nói tự nhiên và rút gọn",
+      "intro": "Tiếng Nhật nói tự nhiên có nhiều hiện tượng rút gọn, nuốt âm mà sách giáo khoa thường không dạy. Hiểu những điều này giúp bạn nghe hiểu người Nhật thực sự.",
+
+      "sections": {
+        "9.1": {
+          "title": "Các dạng rút gọn phổ biến",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Trong giao tiếp hàng ngày, người Nhật rút gọn rất nhiều."
+            },
+            {
+              "type": "contractions_table",
+              "title": "Bảng rút gọn",
+              "headers": ["Đầy đủ", "Rút gọn", "Ví dụ"],
+              "rows": [
+                {"full": "ている", "short": "てる", "example": "食べている → 食べてる (đang ăn)"},
+                {"full": "ていく", "short": "てく", "example": "持っていく → 持ってく (mang đi)"},
+                {"full": "ておく", "short": "とく", "example": "買っておく → 買っとく (mua sẵn)"},
+                {"full": "てしまう", "short": "ちゃう/じゃう", "example": "食べてしまう → 食べちゃう"},
+                {"full": "ではない", "short": "じゃない", "example": "学生ではない → 学生じゃない"},
+                {"full": "なければ", "short": "なきゃ", "example": "行かなければ → 行かなきゃ"},
+                {"full": "なくては", "short": "なくちゃ", "example": "食べなくては → 食べなくちゃ"},
+                {"full": "のだ/んだ", "short": "んだ", "example": "行くのだ → 行くんだ"},
+                {"full": "という", "short": "って", "example": "田中という人 → 田中って人"},
+                {"full": "ものだから", "short": "もんだから", "example": "忙しいものだから → 忙しいもんだから"}
+              ]
+            }
+          ]
+        },
+
+        "9.2": {
+          "title": "Âm bị nuốt (Devoicing)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Nguyên âm 'i' và 'u' thường bị nuốt (devoiced) khi nằm giữa hai phụ âm vô thanh, hoặc ở cuối câu."
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ devoicing",
+              "examples": [
+                {"word": "です", "full": "[desɯ]", "natural": "[des]", "note": "u gần như biến mất"},
+                {"word": "ます", "full": "[masɯ]", "natural": "[mas]"},
+                {"word": "すき", "full": "[sɯki]", "natural": "[ski]", "note": "u đầu bị nuốt"},
+                {"word": "しつもん", "full": "[ɕitsɯmoɴ]", "natural": "[ɕitsmõɴ]"}
+              ]
+            },
+            {
+              "type": "key_point",
+              "title": "Quy tắc devoicing",
+              "points": [
+                "i, u giữa hai phụ âm vô thanh (k, s, t, h, p) thường bị nuốt",
+                "i, u ở cuối câu sau phụ âm vô thanh thường bị nuốt",
+                "Đây là hiện tượng tự nhiên, không phải lỗi phát âm"
+              ]
+            }
+          ]
+        },
+
+        "9.3": {
+          "title": "の biến thành ん",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Particle の thường được phát âm thành ん trong nói tự nhiên."
+            },
+            {
+              "type": "example_box",
+              "title": "Ví dụ",
+              "examples": [
+                {"full": "何をしているの？", "natural": "何してんの？", "meaning": "Đang làm gì thế?"},
+                {"full": "どこに行くの？", "natural": "どこ行くん？", "meaning": "Đi đâu thế?"},
+                {"full": "知らないの？", "natural": "知らないん？", "meaning": "Không biết à?"}
+              ]
+            }
+          ]
+        },
+
+        "9.4": {
+          "title": "Tốc độ nói thực tế",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Người Nhật nói nhanh hơn nhiều so với audio sách giáo khoa. Các âm được nối liền với nhau."
+            },
+            {
+              "type": "key_point",
+              "title": "Cách luyện nghe tốc độ thực",
+              "points": [
+                "Bắt đầu với audio chậm, tăng dần tốc độ",
+                "Xem drama/anime có phụ đề Nhật",
+                "Luyện shadowing (nói theo) với audio tự nhiên",
+                "Không cố nghe từng từ, mà nghe cụm/ý",
+                "Quen dần với các pattern rút gọn"
+              ]
+            },
+            {
+              "type": "tip",
+              "text": "App Hizashi sẽ có các bài tập nghe từ chậm → nhanh, giúp bạn dần quen với tốc độ thực."
+            }
+          ]
+        }
+      }
+    },
+
+    "chapter_10": {
+      "id": 10,
+      "title": "Tổng kết và lộ trình học",
+      "intro": "Chương cuối tổng hợp lại những điểm quan trọng và đưa ra lộ trình học tập cụ thể.",
+
+      "sections": {
+        "10.1": {
+          "title": "Tóm tắt các điểm quan trọng",
+          "content": [
+            {
+              "type": "summary_list",
+              "items": [
+                {
+                  "topic": "Mora",
+                  "key": "Đơn vị nhịp cơ bản, quan trọng hơn âm tiết"
+                },
+                {
+                  "topic": "Âm khó",
+                  "key": "ら, ふ, つ, し/ち - cần luyện nhiều"
+                },
+                {
+                  "topic": "Mora đặc biệt",
+                  "key": "っ, trường âm, ん - chú ý độ dài"
+                },
+                {
+                  "topic": "Âm đục",
+                  "key": "Phân biệt voiced/voiceless bằng cách rung cổ họng"
+                },
+                {
+                  "topic": "Pitch accent",
+                  "key": "4 pattern, có thể thay đổi nghĩa"
+                },
+                {
+                  "topic": "Ngữ điệu",
+                  "key": "Câu hỏi lên, trần thuật xuống"
+                },
+                {
+                  "topic": "Rút gọn",
+                  "key": "ている→てる, じゃない, etc."
+                }
+              ]
+            }
+          ]
+        },
+
+        "10.2": {
+          "title": "Lộ trình học đề xuất",
+          "content": [
+            {
+              "type": "roadmap",
+              "stages": [
+                {
+                  "stage": 1,
+                  "name": "Nền tảng",
+                  "duration": "2-4 tuần",
+                  "tasks": [
+                    "Học 46 âm cơ bản (Hiragana)",
+                    "Phân biệt nguyên âm, phụ âm",
+                    "Làm quen với khái niệm mora"
+                  ]
+                },
+                {
+                  "stage": 2,
+                  "name": "Mở rộng",
+                  "duration": "2-4 tuần",
+                  "tasks": [
+                    "Âm đục, bán đục",
+                    "Âm ghép (yoon)",
+                    "Mora đặc biệt (っ, ん, trường âm)"
+                  ]
+                },
+                {
+                  "stage": 3,
+                  "name": "Âm khó",
+                  "duration": "3-4 tuần",
+                  "tasks": [
+                    "Tập trung vào ら, ふ, つ, し/ち",
+                    "Luyện nghe cặp âm dễ nhầm",
+                    "Minimal pair exercises"
+                  ]
+                },
+                {
+                  "stage": 4,
+                  "name": "Pitch & Intonation",
+                  "duration": "4-6 tuần",
+                  "tasks": [
+                    "Học 4 pattern pitch accent",
+                    "Nghe phân biệt minimal pairs",
+                    "Ngữ điệu câu"
+                  ]
+                },
+                {
+                  "stage": 5,
+                  "name": "Nâng cao",
+                  "duration": "Ongoing",
+                  "tasks": [
+                    "Nghe tốc độ tự nhiên",
+                    "Hiểu rút gọn",
+                    "Shadowing"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+
+        "10.3": {
+          "title": "Bước tiếp theo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bạn đã đọc xong phần lý thuyết. Giờ là lúc thực hành!"
+            },
+            {
+              "type": "action_list",
+              "title": "Các bước tiếp theo",
+              "actions": [
+                "Mở app Hizashi và làm bài test đầu vào",
+                "Bắt đầu với exercises Stage 1",
+                "Luyện tập hàng ngày, ít nhất 15-30 phút",
+                "Khi đạt 80%+, chuyển sang Stage 2",
+                "Hoàn thành Graduation Test để lấy chứng chỉ",
+                "Tiếp tục với module Từ vựng N5"
+              ]
+            },
+            {
+              "type": "motivation",
+              "text": "Luyện nghe là marathon, không phải sprint. Kiên trì mỗi ngày một chút sẽ tốt hơn học dồn. Ganbatte! 頑張って！"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "appendix": {
+    "A": {
+      "title": "Bảng tra cứu nhanh",
+      "content": "Tham khảo file japanese_alphabet.json để xem bảng đầy đủ"
+    },
+    "B": {
+      "title": "Thuật ngữ",
+      "terms": [
+        {"term": "Mora (拍)", "definition": "Đơn vị nhịp cơ bản của tiếng Nhật"},
+        {"term": "Pitch accent (高低アクセント)", "definition": "Sự thay đổi cao độ trong từ"},
+        {"term": "Dakuon (濁音)", "definition": "Âm đục - có dấu tenten"},
+        {"term": "Handakuon (半濁音)", "definition": "Bán đục - có dấu maru"},
+        {"term": "Yoon (拗音)", "definition": "Âm ghép với や/ゆ/よ nhỏ"},
+        {"term": "Sokuon (促音)", "definition": "Âm ngắt - っ nhỏ"},
+        {"term": "Chouon (長音)", "definition": "Trường âm - nguyên âm kéo dài"},
+        {"term": "Hatsuon (撥音)", "definition": "Âm ん"},
+        {"term": "IPA", "definition": "International Phonetic Alphabet - Bảng phiên âm quốc tế"},
+        {"term": "OJAD", "definition": "Online Japanese Accent Dictionary"}
+      ]
+    }
+  }
+}

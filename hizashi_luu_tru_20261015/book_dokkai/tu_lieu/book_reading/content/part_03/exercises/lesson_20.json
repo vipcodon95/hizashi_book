@@ -1,0 +1,1483 @@
+[
+  {
+    "id": "L20_FP_01",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "明日は雨が降ると思います。",
+    "sentence_translation": "Tôi nghĩ ngày mai sẽ mưa.",
+    "question_text": "明日は雨が降る（　）思います。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+と思います = \"tôi nghĩ rằng ~\". と nối mệnh đề TTT với 思います. 降ると思います = \"tôi nghĩ rằng sẽ mưa\"",
+    "hint": "TTT + \"nghĩ\" → dùng trợ từ nào để nối \"tôi nghĩ rằng...\"?",
+    "tags": [
+      "と思います",
+      "TTT",
+      "co_ban"
+    ]
+  },
+  {
+    "id": "L20_FP_02",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生は明日テストがあると言いました。",
+    "sentence_translation": "Thầy giáo đã nói rằng ngày mai có kiểm tra.",
+    "question_text": "先生は明日テストがある（　）言いました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+と言いました = \"đã nói rằng ~\". と dùng để dẫn lời nói gián tiếp. あると言いました = \"đã nói rằng có\"",
+    "hint": "TTT + \"đã nói\" → dùng trợ từ nào để truyền đạt lời nói?",
+    "tags": [
+      "と言いました",
+      "TTT",
+      "truyen_dat"
+    ]
+  },
+  {
+    "id": "L20_FP_03",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "田中さんが作った料理はおいしいです。",
+    "sentence_translation": "Món ăn mà Tanaka nấu thì ngon.",
+    "question_text": "田中さん（　）作った料理はおいしいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Relative clause: chủ ngữ + が (KHÔNG phải は). 田中さんが作った料理 = \"món ăn [mà Tanaka nấu]\". が đánh dấu chủ ngữ TRONG mệnh đề bổ nghĩa",
+    "hint": "Trong mệnh đề bổ nghĩa (relative clause), chủ ngữ dùng trợ từ nào?",
+    "tags": [
+      "が",
+      "relative_clause",
+      "TTT+N"
+    ]
+  },
+  {
+    "id": "L20_FP_04",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "どうして遅刻したんですか。",
+    "sentence_translation": "Tại sao đi muộn vậy?",
+    "question_text": "どうして遅刻した（　）ですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ん",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "か",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+んです = yêu cầu giải thích/nhấn mạnh. したんですか = \"đã làm... vậy?\" (hỏi lý do). んです = のです (khẩu ngữ vs văn viết)",
+    "hint": "TTT + yêu cầu giải thích/nhấn mạnh → dùng gì trước です?",
+    "tags": [
+      "んです",
+      "TTT",
+      "giai_thich"
+    ]
+  },
+  {
+    "id": "L20_FP_05",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼は来ないかもしれません。",
+    "sentence_translation": "Có lẽ anh ấy sẽ không đến.",
+    "question_text": "彼は来ない（　）しれません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ので",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "かも",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+かもしれません = \"có lẽ/có thể ~\" (30-50%). 来ないかもしれません = \"có lẽ sẽ không đến\". Thấp hơn でしょう (70-80%)",
+    "hint": "TTT + \"có lẽ/có thể\" (30-50% chắc chắn) → cấu trúc nào?",
+    "tags": [
+      "かもしれません",
+      "TTT",
+      "phan_doan"
+    ]
+  },
+  {
+    "id": "L20_FP_06",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "山田さんが来るかどうかわかりません。",
+    "sentence_translation": "Tôi không biết liệu Yamada có đến hay không.",
+    "question_text": "山田さんが来る（　）わかりません。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "かもしれない",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "かどうか",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "でしょう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "と思う",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+かどうか = \"liệu ~ hay không\". 来るかどうか = \"liệu có đến hay không\". Dùng khi không biết kết quả là có hay không",
+    "hint": "\"Liệu... hay không\" → cấu trúc nào sau TTT?",
+    "tags": [
+      "かどうか",
+      "TTT",
+      "whether"
+    ]
+  },
+  {
+    "id": "L20_FP_07",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "天気予報によると、明日は晴れるそうです。",
+    "sentence_translation": "Theo dự báo thời tiết, ngày mai sẽ nắng.",
+    "question_text": "明日は晴れる（　）です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "そう",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "よう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "みたい",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "らしい",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+そうです (hearsay) = \"nghe nói rằng ~\". 晴れるそうです = \"nghe nói sẽ nắng\". KHÁC ようです (từ quan sát). そうです = nguồn tin bên ngoài",
+    "hint": "Thông tin NGHE TỪ NGUỒN KHÁC (dự báo) → dùng gì sau TTT?",
+    "tags": [
+      "そうです",
+      "hearsay",
+      "TTT"
+    ]
+  },
+  {
+    "id": "L20_FP_08",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは来る（　）です。約束しましたから。",
+    "sentence_translation": "Tanaka chắc chắn sẽ đến. Vì đã hứa rồi.",
+    "question_text": "田中さんは来る（　）です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "みたい",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "そう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "はず",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "よう",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+はずです = \"đáng lẽ phải/chắc chắn ~\" (logic). 来るはずです = \"chắc chắn sẽ đến\" (vì có lý do). はず = kết luận dựa trên logic/bằng chứng",
+    "hint": "Có lý do logic (đã hứa) → \"đáng lẽ phải/chắc chắn\" → cấu trúc nào?",
+    "tags": [
+      "はずです",
+      "TTT",
+      "logic"
+    ]
+  },
+  {
+    "id": "L20_FP_09",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あの人は日本人（　）みたいです。日本語がとても上手ですから。",
+    "sentence_translation": "Người kia có vẻ là người Nhật. Vì nói tiếng Nhật rất giỏi.",
+    "question_text": "あの人は日本人（　）みたいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "だ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "∅ (không cần gì)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "な",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "N+みたいです = \"có vẻ như là N\". 日本人みたいです = \"có vẻ là người Nhật\". Chú ý: danh từ KHÔNG cần だ trước みたい. KHÁC ようです (cần の: 日本人のようです)",
+    "hint": "Danh từ + みたいです → có cần だ trước みたい không?",
+    "tags": [
+      "みたいです",
+      "TTT",
+      "quan_sat"
+    ]
+  },
+  {
+    "id": "L20_FP_10",
+    "lesson_id": 20,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "明日は雨が降る（　）。傘を持って行ったほうがいいですよ。",
+    "sentence_translation": "Ngày mai chắc là sẽ mưa. Nên mang ô đi.",
+    "question_text": "明日は雨が降る（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "そうです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "はずです",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "かもしれません",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "でしょう",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+でしょう = \"chắc là ~\" (70-80%). 降るでしょう = \"chắc là sẽ mưa\". でしょう: tự tin hơn かもしれません (30-50%) nhưng không chắc 100% như はずです",
+    "hint": "Dự đoán khá chắc (70-80%), thường dùng trong dự báo → cấu trúc nào?",
+    "tags": [
+      "でしょう",
+      "TTT",
+      "du_doan"
+    ]
+  },
+  {
+    "id": "L20_PR_11",
+    "lesson_id": 20,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "彼女は忙しいと...",
+    "sentence_translation": "Cô ấy bận...",
+    "question_text": "Đọc tới 忙しいと → dự đoán gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có 思います/言いました (nghĩ/nói rằng)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "忙しいと → と sau TTT báo hiệu: SẮP CÓ động từ nhận thức (思います, 言いました...). Đọc tiếp để biết: \"nghĩ rằng\", \"nói rằng\" hay \"nghe nói rằng\"",
+    "hint": "TTT+と → báo hiệu mệnh đề trích dẫn/nhận định → sắp có động từ \"nghĩ/nói/nghe\"",
+    "tags": [
+      "と",
+      "TTT",
+      "du_doan"
+    ]
+  },
+  {
+    "id": "L20_PR_12",
+    "lesson_id": 20,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "友達が教えてくれた本は...",
+    "sentence_translation": "Cuốn sách mà bạn đã giới thiệu cho tôi...",
+    "question_text": "Đọc tới 本は → dự đoán gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có VỊ NGỮ (nói gì đó về cuốn sách)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ khác",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "友達が教えてくれた本は → 🔒 đóng gói: \"cuốn sách bạn giới thiệu\" → は = chủ đề → dự đoán: SẮP CÓ VỊ NGỮ nói về cuốn sách này (おもしろい, 読みました...)",
+    "hint": "Relative clause + N + は → danh từ đã được bổ nghĩa xong, は đánh dấu chủ đề → sắp có vị ngữ",
+    "tags": [
+      "relative_clause",
+      "TTT+N",
+      "du_doan"
+    ]
+  },
+  {
+    "id": "L20_PR_13",
+    "lesson_id": 20,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "電車が遅れたんです...",
+    "sentence_translation": "Tàu điện bị trễ...",
+    "question_text": "Đọc tới んです → dự đoán gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Đây là câu hỏi",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là câu bình thường",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là GIẢI THÍCH lý do (người nói đang giải thích)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "遅れたんです → んです báo hiệu: người nói đang GIẢI THÍCH lý do nào đó. Có lẽ trước đó ai hỏi \"tại sao trễ?\". んです = \"là vì...\", \"tại vì...\"",
+    "hint": "んです → báo hiệu người nói đang GIẢI THÍCH/NHẤN MẠNH lý do",
+    "tags": [
+      "んです",
+      "giai_thich",
+      "du_doan"
+    ]
+  },
+  {
+    "id": "L20_PR_14",
+    "lesson_id": 20,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "明日は雪が降るかもしれません...",
+    "sentence_translation": "Ngày mai có lẽ sẽ có tuyết...",
+    "question_text": "Đọc tới かもしれません → dự đoán mức độ chắc chắn?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "0% không thể",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "70-80% chắc chắn",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chỉ 30-50% chắc chắn → người nói KHÔNG chắc lắm",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "100% chắc chắn",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "かもしれません → 30-50% chắc chắn. SO SÁNH: かもしれません (30-50%) < でしょう (70-80%) < はずです (logic, gần 100%). Biết mức độ → hiểu thái độ người nói!",
+    "hint": "かもしれません = \"có lẽ/có thể\" → mức độ thấp, người nói không chắc",
+    "tags": [
+      "かもしれません",
+      "muc_do",
+      "du_doan"
+    ]
+  },
+  {
+    "id": "L20_PR_15",
+    "lesson_id": 20,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この料理は辛いようです...",
+    "sentence_translation": "Món ăn này có vẻ là cay...",
+    "question_text": "Đọc tới ようです → nguồn thông tin là gì?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Từ logic/lý do",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Từ QUAN SÁT trực tiếp của người nói (nhìn/ngửi/cảm nhận)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Từ người khác nói lại (hearsay)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Từ dự đoán",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ようです → người nói TỰ QUAN SÁT rồi kết luận. SO SÁNH: そうです = NGHE từ nguồn khác (hearsay). ようです/みたいです = TỰ MÌNH quan sát. Nguồn thông tin KHÁC nhau!",
+    "hint": "ようです = \"có vẻ như\" → người nói QUAN SÁT rồi suy ra, KHÁC そうです (nghe từ nguồn khác)",
+    "tags": [
+      "ようです",
+      "そうです",
+      "phan_biet",
+      "du_doan"
+    ]
+  },
+  {
+    "id": "L20_PR_16",
+    "lesson_id": 20,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんが合格するかどうか...",
+    "sentence_translation": "Liệu Tanaka có đỗ hay không...",
+    "question_text": "Đọc tới かどうか → dự đoán gì tiếp theo?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có động từ \"biết/hỏi/kiểm tra\" (わかる, 聞く, 調べる)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "かどうか → báo hiệu: SẮP CÓ động từ như わかりません (không biết), 聞きます (hỏi), 調べます (kiểm tra). Người nói chưa biết kết quả → cần xác nhận",
+    "hint": "かどうか = \"liệu... hay không\" → cần động từ xác nhận/kiểm tra phía sau",
+    "tags": [
+      "かどうか",
+      "du_doan"
+    ]
+  },
+  {
+    "id": "L20_CH_17",
+    "lesson_id": 20,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "彼女は忙しいと思います",
+    "sentence_translation": "Tôi nghĩ cô ấy bận.",
+    "question_text": "彼女は忙しいと思います",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "彼女は忙しいと",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "思います",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "彼女は忙しいと = mệnh đề TTT \"cô ấy bận\" + と (rằng) | 思います = tôi nghĩ. と nối mệnh đề với động từ nhận thức",
+    "hint": null,
+    "tags": [
+      "と思います",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L20_CH_18",
+    "lesson_id": 20,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "先生が書いた本を読みました",
+    "sentence_translation": "Tôi đã đọc cuốn sách mà thầy giáo viết.",
+    "question_text": "先生が書いた本を読みました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "先生が書いた本を",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "読みました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "先生が書いた本を = 🔒 \"cuốn sách thầy viết\" + を (đối tượng) | 読みました = đã đọc. Chú ý: が (không phải は) trong relative clause",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "TTT+N",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L20_CH_19",
+    "lesson_id": 20,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "日本に住んでいた友達が教えてくれた店は安くておいしいです",
+    "sentence_translation": "Quán mà người bạn từng sống ở Nhật giới thiệu thì rẻ và ngon.",
+    "question_text": "日本に住んでいた友達が教えてくれた店は安くておいしいです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "日本に住んでいた友達が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "教えてくれた店は",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "安くて",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "おいしいです",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "日本に住んでいた友達が = 🔒 \"người bạn từng sống ở Nhật\" + が (chủ ngữ của mệnh đề tiếp) | 教えてくれた店は = 🔒 \"quán được giới thiệu\" + は (chủ đề) | 安くて = rẻ và | おいしいです = ngon. Relative clause LỒNG nhau!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "long_nhau",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L20_CH_20",
+    "lesson_id": 20,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "ニュースによると来週から電車の料金が上がるそうです",
+    "sentence_translation": "Theo tin tức, từ tuần sau giá vé tàu sẽ tăng.",
+    "question_text": "ニュースによると来週から電車の料金が上がるそうです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "ニュースによると",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "来週から",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "電車の料金が",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "上がるそうです",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "ニュースによると = theo tin tức (nguồn tin) | 来週から = từ tuần sau | 電車の料金が = giá vé tàu + が (chủ ngữ) | 上がるそうです = nghe nói sẽ tăng. そうです = hearsay, có nguồn tin rõ ràng",
+    "hint": null,
+    "tags": [
+      "そうです",
+      "hearsay",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L20_CH_21",
+    "lesson_id": 20,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "彼が試験に受かるかどうかわかりません",
+    "sentence_translation": "Tôi không biết liệu anh ấy có đỗ kỳ thi hay không.",
+    "question_text": "彼が試験に受かるかどうかわかりません",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "彼が試験に受かるかどうか",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "わかりません",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "彼が試験に受かるかどうか = 🔒 \"liệu anh ấy có đỗ hay không\" | わかりません = không biết. かどうか đóng gói toàn bộ mệnh đề thành 1 câu hỏi có/không",
+    "hint": null,
+    "tags": [
+      "かどうか",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L20_CH_22",
+    "lesson_id": 20,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "約束したから田中さんは来るはずです",
+    "sentence_translation": "Vì đã hứa nên Tanaka chắc chắn sẽ đến.",
+    "question_text": "約束したから田中さんは来るはずです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "約束したから",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "田中さんは",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "来るはずです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "約束したから = 🔒 \"vì đã hứa\" (lý do) | 田中さんは = chủ đề (Tanaka) | 来るはずです = chắc chắn sẽ đến (kết luận logic). はずです = có LÝ DO nên kết luận",
+    "hint": null,
+    "tags": [
+      "はずです",
+      "logic",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L20_PD_23",
+    "lesson_id": 20,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "明日は雨が降るでしょう / 明日は雨が降るかもしれません",
+    "sentence_translation": "Ngày mai chắc là sẽ mưa. / Ngày mai có lẽ sẽ mưa.",
+    "question_text": "Câu nào CHẮC CHẮN hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "降るでしょう (でしょう = 70-80% chắc chắn)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "降るかもしれません (かもしれません = 30-50%)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "でしょう = 70-80% (khá chắc). かもしれません = 30-50% (không chắc lắm). でしょう thường dùng trong dự báo thời tiết. かもしれません = \"có thể, nhưng chưa chắc\"",
+    "hint": null,
+    "tags": [
+      "でしょう",
+      "かもしれません",
+      "muc_do",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L20_PD_24",
+    "lesson_id": 20,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは結婚したそうです / 田中さんは結婚したようです",
+    "sentence_translation": "Nghe nói Tanaka đã kết hôn. / Có vẻ Tanaka đã kết hôn.",
+    "question_text": "Câu nào lấy thông tin từ NGƯỜI KHÁC?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "結婚したようです (ようです = từ quan sát của mình)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "結婚したそうです (そうです = nghe từ nguồn khác, hearsay)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "そうです (hearsay) = NGHE từ ai đó/tin tức. ようです = TỰ MÌNH quan sát (thấy nhẫn cưới, đổi tên...). Nguồn thông tin KHÁC nhau hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "そうです",
+      "ようです",
+      "hearsay",
+      "quan_sat",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L20_PD_25",
+    "lesson_id": 20,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "母が作った料理 / 母は料理を作った",
+    "sentence_translation": "Món ăn mà mẹ nấu. / Mẹ đã nấu món ăn.",
+    "question_text": "Câu nào là RELATIVE CLAUSE (bổ nghĩa cho danh từ)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "母は料理を作った (は = câu độc lập bình thường)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "母が作った料理 (が = chủ ngữ trong relative clause, bổ nghĩa cho 料理)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Relative clause: dùng が (KHÔNG dùng は) cho chủ ngữ. 母が作った料理 = \"món ăn [mà mẹ nấu]\". 母は料理を作った = \"mẹ thì đã nấu món ăn\" (câu độc lập). が vs は thay đổi HOÀN TOÀN cấu trúc!",
+    "hint": null,
+    "tags": [
+      "が",
+      "は",
+      "relative_clause",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L20_PD_26",
+    "lesson_id": 20,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "田中さんは来るはずです / 田中さんは来るでしょう",
+    "sentence_translation": "Tanaka chắc chắn sẽ đến (logic). / Tanaka chắc là sẽ đến.",
+    "question_text": "Câu nào dựa trên LÝ DO CỤ THỂ?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "来るでしょう (でしょう = dự đoán chung, 70-80%)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "来るはずです (はずです = kết luận logic, có bằng chứng/lý do)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "はずです = có LÝ DO cụ thể (đã hứa, đã mua vé...) → kết luận logic. でしょう = dự đoán chung, không cần lý do cụ thể. はずです mạnh hơn でしょう vì có bằng chứng!",
+    "hint": null,
+    "tags": [
+      "はずです",
+      "でしょう",
+      "logic",
+      "du_doan",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L20_PK_27",
+    "lesson_id": 20,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達が日本で買ってきたお土産はとてもかわいかったです。",
+    "sentence_translation": "Quà lưu niệm mà bạn mua từ Nhật thì rất đáng yêu.",
+    "question_text": "🔒 Gặp 友達が日本で買ってきたお土産は → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"bạn\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói relative clause: \"quà lưu niệm bạn mua từ Nhật\" → は = chủ đề → đọc tiếp tìm vị ngữ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"quà lưu niệm\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp chuỗi dài trước danh từ + は → 🔒 đóng gói TOÀN BỘ thành 1 hình ảnh: \"quà lưu niệm bạn mua từ Nhật\". Giải phóng bộ nhớ! Chỉ cần nhớ \"quà đó\" → đọc tiếp: とてもかわいかった (rất đáng yêu)",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "dong_goi",
+      "TTT+N"
+    ]
+  },
+  {
+    "id": "L20_PK_28",
+    "lesson_id": 20,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ニュースによると来週から電車の料金が上がるそうです。",
+    "sentence_translation": "Theo tin tức, từ tuần sau giá vé tàu sẽ tăng.",
+    "question_text": "🔒 Gặp ニュースによると → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"Tin tức\" là đối tượng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Tin tức\" là chủ đề câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Theo tin tức\" = NGUỒN TIN → đóng gói: \"thông tin này từ tin tức\" → đọc tiếp là NỘI DUNG nghe được + そうです",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "によると...そうです = cặp đôi hearsay. Gặp によると → 🔒 đóng gói: \"nguồn tin là...\" → dự đoán: cuối câu sẽ có そうです. Đọc nhanh hơn vì biết cấu trúc!",
+    "hint": null,
+    "tags": [
+      "そうです",
+      "hearsay",
+      "dong_goi",
+      "によると"
+    ]
+  },
+  {
+    "id": "L20_PK_29",
+    "lesson_id": 20,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "電車が遅れたので遅刻したんです。",
+    "sentence_translation": "Tàu điện bị trễ nên tôi đã đi muộn.",
+    "question_text": "🔒 Gặp んです → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 んです = câu hỏi",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 んです = đang GIẢI THÍCH lý do → đóng gói: \"người nói đang giải thích, không phải đơn thuần kể\" → hiểu bối cảnh",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 んです = không có ý nghĩa đặc biệt",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 んです = mệnh lệnh",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "んです → 🔒 đóng gói: \"đây là LỜI GIẢI THÍCH\". Người nói không đơn thuần kể chuyện, mà đang giải thích LÝ DO. 電車が遅れた = lý do, 遅刻した = kết quả. んです báo cho người nghe biết cảnh",
+    "hint": null,
+    "tags": [
+      "んです",
+      "giai_thich",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L20_PK_30",
+    "lesson_id": 20,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼が試験に受かるかどうかまだわかりません。",
+    "sentence_translation": "Tôi vẫn chưa biết liệu anh ấy có đỗ kỳ thi hay không.",
+    "question_text": "🔒 Gặp かどうか → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 かどうか = không chắc chắn",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Liệu có đỗ hay không\" = 1 CÂU HỎI có/không → đóng gói thành 1 khối → đọc tiếp tìm động từ \"biết/hỏi/kiểm tra\"",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"anh ấy\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp かどうか → 🔒 đóng gói TOÀN BỘ mệnh đề trước thành 1 câu hỏi có/không. 彼が試験に受かるかどうか → \"liệu anh ấy đỗ hay không\". Giải phóng chi tiết → đọc tiếp: わかりません (không biết)",
+    "hint": null,
+    "tags": [
+      "かどうか",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L20_RO_31",
+    "lesson_id": 20,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "彼女は来ないと思います。",
+    "sentence_translation": "Tôi nghĩ cô ấy sẽ không đến.",
+    "question_text": "彼女は来ないと思います。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "思います",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "彼女は来ないと",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Mệnh đề TTT + と → động từ nhận thức. 彼女は来ないと (cô ấy không đến + rằng) → 思います (tôi nghĩ). TTT TRƯỚC, động từ chính SAU",
+    "hint": null,
+    "tags": [
+      "と思います",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L20_RO_32",
+    "lesson_id": 20,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "友達が書いた手紙を読みました。",
+    "sentence_translation": "Tôi đã đọc lá thư mà bạn viết.",
+    "question_text": "友達が書いた手紙を読みました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "読みました",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "友達が書いた手紙を",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Relative clause + N + を → động từ. 友達が書いた手紙を (lá thư bạn viết + đối tượng) → 読みました (đã đọc). Mệnh đề bổ nghĩa đặt TRƯỚC danh từ!",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "TTT+N",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L20_RO_33",
+    "lesson_id": 20,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "来月日本に転勤するかどうかまだわかりません。",
+    "sentence_translation": "Tôi vẫn chưa biết liệu tháng sau có chuyển công tác sang Nhật hay không.",
+    "question_text": "来月日本に転勤するかどうかまだわかりません。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "わかりません",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "まだ",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "来月日本に転勤するかどうか",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Mệnh đề + かどうか (liệu... hay không) → まだ (vẫn chưa) → わかりません (không biết). かどうか gom toàn bộ mệnh đề thành 1 khối",
+    "hint": null,
+    "tags": [
+      "かどうか",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L20_RO_34",
+    "lesson_id": 20,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "彼女が昨日駅前で見た映画はとてもおもしろかったそうです。",
+    "sentence_translation": "Nghe nói bộ phim mà cô ấy xem ở trước ga hôm qua rất hay.",
+    "question_text": "彼女が昨日駅前で見た映画はとてもおもしろかったそうです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "そうです",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "おもしろかった",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "とても",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "彼女が昨日駅前で見た映画は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Relative clause dài + N + は → vị ngữ + そうです. 彼女が昨日駅前で見た映画は = 🔒 \"phim cô ấy xem hôm qua\" (chủ đề) → とてもおもしろかった (rất hay) → そうです (nghe nói). Relative clause bổ nghĩa cho 映画",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "そうです",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L20_QT_35",
+    "lesson_id": 20,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "彼は元気だと思います。",
+    "sentence_translation": "Tôi nghĩ anh ấy khỏe.",
+    "question_text": "彼は元気だと / 思います。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nghe nói anh ấy khỏe.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh ấy nói là khỏe.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh ấy có vẻ khỏe.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi nghĩ anh ấy khỏe.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "TTT+と思います = \"tôi nghĩ rằng ~\". 元気だと思います = \"tôi nghĩ là khỏe\". と思います = ý kiến CỦA NGƯỜI NÓI, khác そうです (nghe người khác)",
+    "hint": null,
+    "tags": [
+      "と思います",
+      "dich"
+    ]
+  },
+  {
+    "id": "L20_QT_36",
+    "lesson_id": 20,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "母が作ったケーキはおいしかったです。",
+    "sentence_translation": "Bánh mà mẹ làm thì ngon.",
+    "question_text": "母が作ったケーキは / おいしかったです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Mẹ đã làm bánh.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bánh mà mẹ làm thì ngon.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Bánh của mẹ ngon.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Mẹ làm bánh ngon.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "母が作ったケーキ = \"bánh [mà mẹ làm]\" (relative clause). が = chủ ngữ trong mệnh đề. KHÁC 母はケーキを作った (mẹ đã làm bánh - câu độc lập)",
+    "hint": null,
+    "tags": [
+      "relative_clause",
+      "TTT+N",
+      "dich"
+    ]
+  },
+  {
+    "id": "L20_QT_37",
+    "lesson_id": 20,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "山田さんは来週大阪に出張するかもしれません。",
+    "sentence_translation": "Có lẽ Yamada tuần sau sẽ đi công tác Osaka.",
+    "question_text": "山田さんは / 来週大阪に出張する / かもしれません。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Có lẽ Yamada tuần sau sẽ đi công tác Osaka. (30-50%)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Yamada chắc chắn tuần sau đi công tác Osaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nghe nói Yamada tuần sau đi công tác Osaka.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Yamada chắc là tuần sau sẽ đi công tác Osaka. (70-80%)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "かもしれません = \"có lẽ\" (30-50%). Người nói KHÔNG chắc. Nếu chắc hơn → dùng でしょう (70-80%). Nếu có lý do → dùng はずです",
+    "hint": null,
+    "tags": [
+      "かもしれません",
+      "muc_do",
+      "dich"
+    ]
+  },
+  {
+    "id": "L20_QT_38",
+    "lesson_id": 20,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あの人は日本語が上手ですね。日本人のようです。",
+    "sentence_translation": "Người kia giỏi tiếng Nhật nhỉ. Có vẻ là người Nhật.",
+    "question_text": "日本人のようです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nghe nói là người Nhật. (từ người khác)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chắc là người Nhật. (dự đoán)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chắc chắn là người Nhật. (logic)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Có vẻ là người Nhật. (từ quan sát)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ようです = \"có vẻ như\" → người nói TỰ MÌNH quan sát (thấy nói tiếng Nhật giỏi) rồi suy ra. KHÁC そうです (nghe từ nguồn khác). ようです/みたいです = QUAN SÁT → SUY LUẬN",
+    "hint": null,
+    "tags": [
+      "ようです",
+      "quan_sat",
+      "dich"
+    ]
+  },
+  {
+    "id": "L20_QT_39",
+    "lesson_id": 20,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "電車が来ないので遅刻したんです。",
+    "sentence_translation": "Tại vì tàu không đến nên tôi đã đi muộn.",
+    "question_text": "遅刻したんです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi sẽ đi muộn (dự đoán).",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Có lẽ tôi đã đi muộn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi đã đi muộn (đang giải thích lý do).",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi đã đi muộn (kể chuyện bình thường).",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "んです = GIẢI THÍCH/NHẤN MẠNH. 遅刻したんです = \"là vì tôi đã đi muộn\" (giải thích). KHÁC 遅刻しました (chỉ đơn thuần kể). んです báo cho người nghe biết: \"đây là lý do/giải thích\"",
+    "hint": null,
+    "tags": [
+      "んです",
+      "giai_thich",
+      "dich"
+    ]
+  },
+  {
+    "id": "L20_QT_40",
+    "lesson_id": 20,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "鈴木さんは会議に出るはずです。さっきメールで確認しましたから。",
+    "sentence_translation": "Suzuki chắc chắn sẽ dự họp. Vì vừa xác nhận qua email.",
+    "question_text": "出るはずです。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Nghe nói sẽ dự họp. (từ nguồn khác)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Có lẽ sẽ dự họp. (không chắc)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Có vẻ sẽ dự họp. (quan sát)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chắc chắn sẽ dự họp. (có lý do: đã xác nhận email)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "はずです = kết luận LOGIC dựa trên bằng chứng. \"Đã xác nhận email\" = bằng chứng → 出るはずです = \"chắc chắn sẽ dự\" (có căn cứ). MẠNH hơn でしょう vì có lý do cụ thể",
+    "hint": null,
+    "tags": [
+      "はずです",
+      "logic",
+      "dich"
+    ]
+  }
+]

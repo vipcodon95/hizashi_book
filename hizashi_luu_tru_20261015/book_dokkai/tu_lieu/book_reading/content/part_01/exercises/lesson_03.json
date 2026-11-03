@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "L03_FP_01",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "部屋に猫がいます。",
+    "sentence_translation": "Trong phòng có con mèo.",
+    "question_text": "部屋（　）猫がいます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "に đánh dấu nơi tồn tại: phòng là nơi mèo TỒN TẠI (không hành động)",
+    "hint": "Vị trí tồn tại (TĨNH) → に",
+    "tags": [
+      "に",
+      "tồn_tại"
+    ]
+  },
+  {
+    "id": "L03_FP_02",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "7時に起きます。",
+    "sentence_translation": "7 giờ thức dậy.",
+    "question_text": "7時（　）起きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に đánh dấu thời điểm cụ thể: 7時 là mốc thời gian xác định",
+    "hint": "Thời điểm cụ thể → に",
+    "tags": [
+      "に",
+      "thời_điểm"
+    ]
+  },
+  {
+    "id": "L03_FP_03",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "学校に行きます。",
+    "sentence_translation": "Đi đến trường.",
+    "question_text": "学校（　）行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "に đánh dấu đích đến: trường là nơi đi ĐẾN",
+    "hint": "Điểm đến (đích di chuyển) → に",
+    "tags": [
+      "に",
+      "điểm_đến"
+    ]
+  },
+  {
+    "id": "L03_FP_04",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "図書館で勉強します。",
+    "sentence_translation": "Học tại thư viện.",
+    "question_text": "図書館（　）勉強します。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で đánh dấu sân khấu hành động: thư viện là nơi hành động \"học\" diễn ra",
+    "hint": "Địa điểm HÀNH ĐỘNG diễn ra → で",
+    "tags": [
+      "で",
+      "địa_điểm"
+    ]
+  },
+  {
+    "id": "L03_FP_05",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "バスで行きます。",
+    "sentence_translation": "Đi bằng xe buýt.",
+    "question_text": "バス（　）行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "で đánh dấu phương tiện: xe buýt là cách thức di chuyển",
+    "hint": "Phương tiện / Công cụ → で",
+    "tags": [
+      "で",
+      "phương_tiện"
+    ]
+  },
+  {
+    "id": "L03_FP_06",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達にプレゼントをあげました。",
+    "sentence_translation": "Đã tặng quà cho bạn.",
+    "question_text": "友達（　）プレゼントをあげました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に đánh dấu đối tượng gián tiếp: bạn là NGƯỜI NHẬN quà",
+    "hint": "Người nhận → に",
+    "tags": [
+      "に",
+      "người_nhận"
+    ]
+  },
+  {
+    "id": "L03_FP_07",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "公園に猫がいます。/ 公園で遊びます。",
+    "sentence_translation": "Ở công viên có mèo. / Chơi ở công viên.",
+    "question_text": "公園（　）遊びます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に = nơi tồn tại (TĨNH). で = nơi hành động diễn ra (ĐỘNG). \"Chơi\" là hành động → で",
+    "hint": "Có hành động \"chơi\" → địa điểm hành động → で",
+    "tags": [
+      "で",
+      "に",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L03_FP_08",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本語で話します。",
+    "sentence_translation": "Nói bằng tiếng Nhật.",
+    "question_text": "日本語（　）話します。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で đánh dấu ngôn ngữ/chất liệu: tiếng Nhật là PHƯƠNG TIỆN để nói",
+    "hint": "Ngôn ngữ dùng để nói → で",
+    "tags": [
+      "で",
+      "ngôn_ngữ"
+    ]
+  },
+  {
+    "id": "L03_FP_09",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本へ行きます。",
+    "sentence_translation": "Đi về phía Nhật.",
+    "question_text": "日本（　）行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "へ nhấn mạnh HƯỚNG đi (về phía Nhật). に cũng được nhưng nhấn mạnh ĐÍCH đến",
+    "hint": "Hướng di chuyển → へ",
+    "tags": [
+      "へ",
+      "hướng"
+    ]
+  },
+  {
+    "id": "L03_FP_10",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "買い物に行きます。",
+    "sentence_translation": "Đi mua sắm.",
+    "question_text": "買い物（　）行きます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "に đánh dấu mục đích: \"mua sắm\" là lý do ĐI → Vに行く",
+    "hint": "Mục đích di chuyển (Vに行く) → に",
+    "tags": [
+      "に",
+      "mục_đích"
+    ]
+  },
+  {
+    "id": "L03_PR_11",
+    "lesson_id": 3,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "部屋に猫がいます。",
+    "sentence_translation": "Trong phòng có con mèo.",
+    "question_text": "部屋に... → Gặp [Nơi]に, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có います/あります (tồn tại)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động tại đây",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có phương tiện",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Nơi]に → dự đoán: います/あります (tồn tại TĨNH tại đây)",
+    "hint": null,
+    "tags": [
+      "に",
+      "tồn_tại",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L03_PR_12",
+    "lesson_id": 3,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "図書館で勉強します。",
+    "sentence_translation": "Học tại thư viện.",
+    "question_text": "図書館で... → Gặp [Nơi]で, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có HÀNH ĐỘNG diễn ra tại đây",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có điểm đến",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Nơi]で → dự đoán: sắp có HÀNH ĐỘNG diễn ra tại thư viện (で = sân khấu)",
+    "hint": null,
+    "tags": [
+      "で",
+      "địa_điểm",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L03_PR_13",
+    "lesson_id": 3,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "バスで行きます。",
+    "sentence_translation": "Đi bằng xe buýt.",
+    "question_text": "バスで... → Gặp [Công cụ]で, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có cảm xúc",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có HÀNH ĐỘNG dùng phương tiện này",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Công cụ]で → dự đoán: sắp có hành động dùng xe buýt",
+    "hint": null,
+    "tags": [
+      "で",
+      "phương_tiện",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L03_PR_14",
+    "lesson_id": 3,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達にプレゼントをあげました。",
+    "sentence_translation": "Đã tặng quà cho bạn.",
+    "question_text": "友達に... → Gặp [Người]に, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có hành động tại đây",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có trao đổi: cho/nhận/nói/dạy",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có di chuyển",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Người]に → dự đoán: sắp cho/nhận/nói/dạy gì với người này",
+    "hint": null,
+    "tags": [
+      "に",
+      "người_nhận",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L03_PR_15",
+    "lesson_id": 3,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "日本へ向かいます。",
+    "sentence_translation": "Hướng về phía Nhật.",
+    "question_text": "日本へ... → Gặp へ, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Chắc chắn sắp có ĐỘNG TỪ DI CHUYỂN (行く/来る/帰る/向かう)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động tại đây",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "へ → DỰ ĐOÁN CHẮC CHẮN: sắp có động từ di chuyển. へ chỉ dùng với hướng di chuyển",
+    "hint": null,
+    "tags": [
+      "へ",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L03_PR_16",
+    "lesson_id": 3,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "事故で電車が止まりました。",
+    "sentence_translation": "Vì tai nạn, tàu đã dừng.",
+    "question_text": "事故で... → Gặp [Sự kiện]で, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có kết quả/hậu quả của sự kiện",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có hành động tại đây",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[Sự kiện]で → nguyên nhân → dự đoán: sắp có kết quả/hậu quả do sự kiện này gây ra",
+    "hint": null,
+    "tags": [
+      "で",
+      "nguyên_nhân",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L03_CH_17",
+    "lesson_id": 3,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "部屋に猫がいます",
+    "sentence_translation": "Trong phòng có con mèo.",
+    "question_text": "部屋に猫がいます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "部屋に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "猫が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "います",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 部屋に / 猫が / います. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "に",
+      "が",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L03_CH_18",
+    "lesson_id": 3,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "バスで行きます",
+    "sentence_translation": "Đi bằng xe buýt.",
+    "question_text": "バスで行きます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "バスで",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: バスで / 行きます. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "で",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L03_CH_19",
+    "lesson_id": 3,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "学校に行きます",
+    "sentence_translation": "Đi đến trường.",
+    "question_text": "学校に行きます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "学校に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "Chia 2 khối: 学校に / 行きます. Mỗi khối bunsetsu là 1 đơn vị nghĩa nhỏ nhất, kết thúc bằng trợ từ hoặc động từ.",
+    "hint": null,
+    "tags": [
+      "に",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L03_CH_20",
+    "lesson_id": 3,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "友達にプレゼントをあげました",
+    "sentence_translation": "Đã tặng quà cho bạn.",
+    "question_text": "友達にプレゼントをあげました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "友達に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "プレゼントを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "あげました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 友達に / プレゼントを / あげました. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "に",
+      "を",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L03_CH_21",
+    "lesson_id": 3,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "3月に日本に行きます",
+    "sentence_translation": "Tháng 3 đi Nhật.",
+    "question_text": "3月に日本に行きます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "3月に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "日本に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 3月に / 日本に / 行きます. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "に",
+      "chunking",
+      "thời_điểm",
+      "điểm_đến"
+    ]
+  },
+  {
+    "id": "L03_CH_22",
+    "lesson_id": 3,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "公園で子供が遊んでいます",
+    "sentence_translation": "Tại công viên, trẻ em đang chơi.",
+    "question_text": "公園で子供が遊んでいます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "公園で",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "子供が",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "遊んでいます",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "Chia 3 khối: 公園で / 子供が / 遊んでいます. Trợ từ gắn với danh từ đứng trước thành 1 khối bunsetsu.",
+    "hint": null,
+    "tags": [
+      "で",
+      "が",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L03_PD_23",
+    "lesson_id": 3,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "学校にいます。/ 学校で勉強します。",
+    "sentence_translation": "Ở trường (tồn tại). / Học tại trường (hành động).",
+    "question_text": "Câu nào dùng khi muốn nói \"có hành động học diễn ra tại trường\"?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "学校にいます。(に = tồn tại TĨNH)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "学校で勉強します。(で = hành động ĐỘNG)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "に = nơi TỒN TẠI (hỏi \"ở đâu?\"). で = nơi HÀNH ĐỘNG diễn ra (hỏi \"làm gì ở đâu?\")",
+    "hint": null,
+    "tags": [
+      "に",
+      "で",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L03_PD_24",
+    "lesson_id": 3,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "学校に行きます。/ 学校へ行きます。",
+    "sentence_translation": "Đi đến trường. / Đi về phía trường.",
+    "question_text": "Câu nào nhấn mạnh ĐÍCH ĐẾN (điểm cuối)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "学校へ行きます。(へ = hướng đi)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "学校に行きます。(に = đích đến)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "に nhấn mạnh ĐÍCH ĐẾN (điểm cuối cùng). へ nhấn mạnh HƯỚNG đi. Hầu hết có thể thay thế nhau",
+    "hint": null,
+    "tags": [
+      "に",
+      "へ",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L03_PD_25",
+    "lesson_id": 3,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "椅子に座ります。/ 椅子で寝ます。",
+    "sentence_translation": "Ngồi lên ghế. / Ngủ trên ghế.",
+    "question_text": "Câu nào dùng に? Tại sao?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "椅子に座ります。(に = điểm đặt → ngồi lên)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "椅子で寝ます。(で = nơi hành động → ngủ trên)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "座る (ngồi) = đặt thân vào ĐIỂM → に. 寝る (ngủ) = hành động diễn ra TẠI → で",
+    "hint": null,
+    "tags": [
+      "に",
+      "で",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L03_PK_26",
+    "lesson_id": 3,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "図書館で勉強します。",
+    "sentence_translation": "Học tại thư viện.",
+    "question_text": "🔒 図書館で → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"thư viện\" → sắp có di chuyển đến",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"thư viện\" → sắp có mô tả",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"thư viện\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"thư viện\" → で = sân khấu → sắp có hành động tại đây",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"thư viện\" → で cho biết đây là SÂN KHẤU → sắp có hành động diễn ra tại đây",
+    "hint": null,
+    "tags": [
+      "で",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L03_PK_27",
+    "lesson_id": 3,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "3月に日本に行きます。",
+    "sentence_translation": "Tháng 3 đi Nhật.",
+    "question_text": "🔒 3月に → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"tháng 3\" → に = tồn tại → sắp có います",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"tháng 3\" → に = thời điểm → sắp có hành động vào lúc này",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"tháng 3\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"tháng 3\" → に = đích đến → sắp đi",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"tháng 3\" → に = thời điểm cụ thể → giải phóng bộ nhớ, chỉ giữ lại \"khi nào: tháng 3\" → đọc tiếp",
+    "hint": null,
+    "tags": [
+      "に",
+      "thời_điểm",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L03_PK_28",
+    "lesson_id": 3,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達にプレゼントをあげました。",
+    "sentence_translation": "Đã tặng quà cho bạn.",
+    "question_text": "🔒 友達に / プレゼントを → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"quà\" → を = sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"bạn\" → に = địa điểm hành động",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"bạn\" → に = người nhận + \"quà\" → を = tân ngữ → sắp có hành động trao cho bạn",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 \"bạn\" → に = tồn tại → sắp có います",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"bạn\" (người nhận) + \"quà\" (tân ngữ) → dự đoán: sắp có động từ trao đổi (tặng? cho? gửi?)",
+    "hint": null,
+    "tags": [
+      "に",
+      "を",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L03_PK_29",
+    "lesson_id": 3,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "事故で電車が止まりました。",
+    "sentence_translation": "Vì tai nạn, tàu đã dừng.",
+    "question_text": "🔒 事故で → đóng gói thành?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 \"tai nạn\" → sắp kết câu",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"tai nạn\" → で = địa điểm → sắp có hành động tại đây",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"tai nạn\" → sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"tai nạn\" → で = nguyên nhân → sắp có kết quả/hậu quả",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Đóng gói: \"tai nạn\" → で = nguyên nhân → giải phóng bộ nhớ, giữ \"vì tai nạn\" → dự đoán hậu quả",
+    "hint": null,
+    "tags": [
+      "で",
+      "nguyên_nhân",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L03_RO_30",
+    "lesson_id": 3,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "7時に起きます。",
+    "sentence_translation": "7 giờ thức dậy.",
+    "question_text": "7時に起きます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "起きます",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "7時に",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 7時に / 起きます. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "に",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L03_RO_31",
+    "lesson_id": 3,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "図書館で勉強します。",
+    "sentence_translation": "Học tại thư viện.",
+    "question_text": "図書館で勉強します。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "勉強します",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "図書館で",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 図書館で / 勉強します. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "で",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L03_RO_32",
+    "lesson_id": 3,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "友達にプレゼントをあげました。",
+    "sentence_translation": "Đã tặng quà cho bạn.",
+    "question_text": "友達にプレゼントをあげました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "あげました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "プレゼントを",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "友達に",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 友達に / プレゼントを / あげました. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "に",
+      "を",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L03_RO_33",
+    "lesson_id": 3,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "3月に日本に行きます。",
+    "sentence_translation": "Tháng 3 đi Nhật.",
+    "question_text": "3月に日本に行きます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "行きます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "日本に",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "3月に",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "Thứ tự đúng: 3月に / 日本に / 行きます. Tiếng Nhật: bổ ngữ (danh từ+trợ từ) đứng trước, động từ/vị ngữ đứng cuối.",
+    "hint": null,
+    "tags": [
+      "に",
+      "reorder",
+      "thời_điểm",
+      "điểm_đến"
+    ]
+  },
+  {
+    "id": "L03_QT_34",
+    "lesson_id": 3,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "部屋に猫がいます。",
+    "sentence_translation": "Trong phòng có con mèo.",
+    "question_text": "部屋に / 猫が / います。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Phòng của con mèo.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Trong phòng có con mèo.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Con mèo chơi trong phòng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Con mèo đi vào phòng.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に + います = tồn tại (sinh vật). 部屋に = nơi tồn tại, 猫が = chủ ngữ tồn tại",
+    "hint": null,
+    "tags": [
+      "に",
+      "tồn_tại",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L03_QT_35",
+    "lesson_id": 3,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "バスで行きます。",
+    "sentence_translation": "Đi bằng xe buýt.",
+    "question_text": "バスで / 行きます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đi bằng xe buýt.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Xe buýt ở đây.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thích xe buýt.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi đến xe buýt.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で = phương tiện. バスで = bằng xe buýt → hành động \"đi\"",
+    "hint": null,
+    "tags": [
+      "で",
+      "phương_tiện",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L03_QT_36",
+    "lesson_id": 3,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "友達にプレゼントをあげました。",
+    "sentence_translation": "Đã tặng quà cho bạn.",
+    "question_text": "友達に / プレゼントを / あげました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Bạn đã tặng quà.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã đi đến bạn có quà.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã mua quà ở chỗ bạn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã tặng quà cho bạn.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "友達に = cho bạn (người nhận). プレゼントを = quà (tân ngữ). あげました = đã tặng",
+    "hint": null,
+    "tags": [
+      "に",
+      "を",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L03_QT_37",
+    "lesson_id": 3,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "事故で電車が止まりました。",
+    "sentence_translation": "Vì tai nạn, tàu đã dừng.",
+    "question_text": "事故で / 電車が / 止まりました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tai nạn trên tàu.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tàu gây tai nạn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vì tai nạn, tàu đã dừng.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tàu dừng tại tai nạn.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "事故で = vì tai nạn (で = nguyên nhân). 電車が = tàu (chủ ngữ). 止まりました = đã dừng",
+    "hint": null,
+    "tags": [
+      "で",
+      "nguyên_nhân",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L03_QT_38",
+    "lesson_id": 3,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "買い物に行きます。",
+    "sentence_translation": "Đi mua sắm.",
+    "question_text": "買い物に / 行きます。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đi đến cửa hàng.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Mua sắm tại đây.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Mua sắm xong rồi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đi mua sắm.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "買い物に = để mua sắm (に = mục đích). Vに行く = đi để làm V",
+    "hint": null,
+    "tags": [
+      "に",
+      "mục_đích",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L03_FP_39",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "医者になりました。",
+    "sentence_translation": "Đã trở thành bác sĩ.",
+    "question_text": "医者（　）なりました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "へ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に đánh dấu kết quả biến đổi: bác sĩ là thứ ĐÃ TRỞ THÀNH → になる",
+    "hint": "Kết quả biến đổi (になる) → に",
+    "tags": [
+      "に",
+      "biến_đổi"
+    ]
+  },
+  {
+    "id": "L03_FP_40",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生に叱られました。",
+    "sentence_translation": "Bị thầy mắng.",
+    "question_text": "先生（　）叱られました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に đánh dấu người thực hiện hành động trong câu bị động: thầy là người MẮNG → に + られる",
+    "hint": "Người thực hiện trong câu bị động → に",
+    "tags": [
+      "に",
+      "bị_động"
+    ]
+  },
+  {
+    "id": "L03_FP_41",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "週に3回泳ぎます。",
+    "sentence_translation": "Bơi 3 lần mỗi tuần.",
+    "question_text": "週（　）3回泳ぎます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "で",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "に đánh dấu tần suất: 週に3回 = 3 lần MỖI tuần",
+    "hint": "Tần suất (mỗi tuần) → に",
+    "tags": [
+      "に",
+      "tần_suất"
+    ]
+  },
+  {
+    "id": "L03_FP_42",
+    "lesson_id": 3,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "クラスで一番です。",
+    "sentence_translation": "Nhất lớp.",
+    "question_text": "クラス（　）一番です。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "で",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で đánh dấu phạm vi: クラスで = TRONG LỚP (giới hạn phạm vi so sánh)",
+    "hint": "Phạm vi / Giới hạn → で",
+    "tags": [
+      "で",
+      "phạm_vi"
+    ]
+  },
+  {
+    "id": "L03_PR_43",
+    "lesson_id": 3,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "医者になりました。",
+    "sentence_translation": "Đã trở thành bác sĩ.",
+    "question_text": "医者に... → Gặp [Danh từ]に + なる, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có hành động tại đây",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tồn tại",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có biến đổi/trở thành",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có di chuyển",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "[N]に + なる → biến đổi: sắp trở thành cái gì đó",
+    "hint": null,
+    "tags": [
+      "に",
+      "biến_đổi",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L03_QT_44",
+    "lesson_id": 3,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "医者になりました。",
+    "sentence_translation": "Đã trở thành bác sĩ.",
+    "question_text": "医者に / なりました。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đã đi đến bác sĩ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bác sĩ ở đây.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã gặp bác sĩ.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đã trở thành bác sĩ.",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "に + なる = trở thành. 医者に = thành bác sĩ (kết quả biến đổi)",
+    "hint": null,
+    "tags": [
+      "に",
+      "biến_đổi",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L03_QT_45",
+    "lesson_id": 3,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "クラスで一番です。",
+    "sentence_translation": "Nhất lớp.",
+    "question_text": "クラスで / 一番です。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đi đến lớp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ở trong lớp.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Nhất lớp.",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Lớp số một.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "で = phạm vi giới hạn. クラスで一番 = nhất TRONG PHẠM VI lớp",
+    "hint": null,
+    "tags": [
+      "で",
+      "phạm_vi",
+      "dịch"
+    ]
+  }
+]

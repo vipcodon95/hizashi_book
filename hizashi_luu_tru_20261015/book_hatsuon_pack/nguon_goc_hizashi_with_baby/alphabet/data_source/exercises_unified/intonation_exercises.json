@@ -1,0 +1,1475 @@
+{
+  "metadata": {
+    "source_file": "intonation_exercises.json",
+    "original_title": "Bài tập Ngữ điệu câu",
+    "total_questions": 65,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "intonation_0000_00",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "行く↘"
+      ],
+      "prompt": "Nghe '行く↘' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đi.",
+        "answer": "statement"
+      }
+    },
+    {
+      "id": "intonation_0000_01",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "行く↗"
+      ],
+      "prompt": "Nghe '行く↗' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đi không?",
+        "answer": "question"
+      }
+    },
+    {
+      "id": "intonation_0000_02",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "おいしい↘"
+      ],
+      "prompt": "Nghe 'おいしい↘' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Ngon.",
+        "answer": "statement"
+      }
+    },
+    {
+      "id": "intonation_0000_03",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "おいしい↗"
+      ],
+      "prompt": "Nghe 'おいしい↗' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Ngon không?",
+        "answer": "question"
+      }
+    },
+    {
+      "id": "intonation_0000_04",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "分かる↘"
+      ],
+      "prompt": "Nghe '分かる↘' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Hiểu.",
+        "answer": "statement"
+      }
+    },
+    {
+      "id": "intonation_0000_05",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "分かる↗"
+      ],
+      "prompt": "Nghe '分かる↗' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Hiểu không?",
+        "answer": "question"
+      }
+    },
+    {
+      "id": "intonation_0000_06",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "これ、本↘"
+      ],
+      "prompt": "Nghe 'これ、本↘' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đây là sách.",
+        "answer": "statement"
+      }
+    },
+    {
+      "id": "intonation_0000_07",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "これ、本↗"
+      ],
+      "prompt": "Nghe 'これ、本↗' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đây là sách hả?",
+        "answer": "question"
+      }
+    },
+    {
+      "id": "intonation_0000_08",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "好き↘"
+      ],
+      "prompt": "Nghe '好き↘' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Thích.",
+        "answer": "statement"
+      }
+    },
+    {
+      "id": "intonation_0000_09",
+      "base_type": "single_choice",
+      "sub_type": "question_or_statement",
+      "audio_ids": [
+        "好き↗"
+      ],
+      "prompt": "Nghe '好き↗' và nghe và xác định: câu hỏi hay câu trần thuật?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Thích không?",
+        "answer": "question"
+      }
+    },
+    {
+      "id": "L1_02",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "L1_02_audio"
+      ],
+      "prompt": "Nghe 2 câu và cho biết: Cùng loại (cả 2 đều hỏi/trần thuật) hay KHÁC loại?",
+      "difficulty": "medium",
+      "topic": null,
+      "pairs": [
+        {
+          "audio_1": "食べる↘",
+          "audio_2": "食べる↗",
+          "answer": "different",
+          "note": "Trần thuật vs Hỏi"
+        },
+        {
+          "audio_1": "行く↗",
+          "audio_2": "来る↗",
+          "answer": "same",
+          "note": "Cả hai đều là câu hỏi"
+        },
+        {
+          "audio_1": "おいしい↘",
+          "audio_2": "きれい↘",
+          "answer": "same",
+          "note": "Cả hai đều là trần thuật"
+        },
+        {
+          "audio_1": "分かった↘",
+          "audio_2": "分かった↗",
+          "answer": "different",
+          "note": "Trần thuật vs Hỏi"
+        }
+      ]
+    },
+    {
+      "id": "intonation_0011_00",
+      "base_type": "single_choice",
+      "sub_type": "formal_question",
+      "audio_ids": [
+        "行きますか"
+      ],
+      "prompt": "Nghe '行きますか' và nghe câu hỏi formal (có か) và xác định đó là câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Bạn đi không ạ?"
+      }
+    },
+    {
+      "id": "intonation_0011_01",
+      "base_type": "single_choice",
+      "sub_type": "formal_question",
+      "audio_ids": [
+        "これは何ですか"
+      ],
+      "prompt": "Nghe 'これは何ですか' và nghe câu hỏi formal (có か) và xác định đó là câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đây là gì ạ?"
+      }
+    },
+    {
+      "id": "intonation_0011_02",
+      "base_type": "single_choice",
+      "sub_type": "formal_question",
+      "audio_ids": [
+        "日本人ですか"
+      ],
+      "prompt": "Nghe '日本人ですか' và nghe câu hỏi formal (có か) và xác định đó là câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Bạn là người Nhật ạ?"
+      }
+    },
+    {
+      "id": "intonation_0011_03",
+      "base_type": "single_choice",
+      "sub_type": "formal_question",
+      "audio_ids": [
+        "分かりますか"
+      ],
+      "prompt": "Nghe '分かりますか' và nghe câu hỏi formal (có か) và xác định đó là câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Bạn hiểu không ạ?"
+      }
+    },
+    {
+      "id": "intonation_0011_04",
+      "base_type": "single_choice",
+      "sub_type": "formal_question",
+      "audio_ids": [
+        "好きですか"
+      ],
+      "prompt": "Nghe '好きですか' và nghe câu hỏi formal (có か) và xác định đó là câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Bạn thích không ạ?"
+      }
+    },
+    {
+      "id": "intonation_0016_00",
+      "base_type": "single_choice",
+      "sub_type": "wh_question",
+      "audio_ids": [
+        "何を食べますか↘"
+      ],
+      "prompt": "Nghe '何を食べますか↘' và nghe câu hỏi wh và xác định từ hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Ăn gì?"
+      }
+    },
+    {
+      "id": "intonation_0016_01",
+      "base_type": "single_choice",
+      "sub_type": "wh_question",
+      "audio_ids": [
+        "どこに行きますか↘"
+      ],
+      "prompt": "Nghe 'どこに行きますか↘' và nghe câu hỏi wh và xác định từ hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đi đâu?"
+      }
+    },
+    {
+      "id": "intonation_0016_02",
+      "base_type": "single_choice",
+      "sub_type": "wh_question",
+      "audio_ids": [
+        "いつ来ますか↘"
+      ],
+      "prompt": "Nghe 'いつ来ますか↘' và nghe câu hỏi wh và xác định từ hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đến khi nào?"
+      }
+    },
+    {
+      "id": "intonation_0016_03",
+      "base_type": "single_choice",
+      "sub_type": "wh_question",
+      "audio_ids": [
+        "誰ですか↘"
+      ],
+      "prompt": "Nghe '誰ですか↘' và nghe câu hỏi wh và xác định từ hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Ai vậy?"
+      }
+    },
+    {
+      "id": "intonation_0016_04",
+      "base_type": "single_choice",
+      "sub_type": "wh_question",
+      "audio_ids": [
+        "なぜですか↘"
+      ],
+      "prompt": "Nghe 'なぜですか↘' và nghe câu hỏi wh và xác định từ hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Tại sao?"
+      }
+    },
+    {
+      "id": "intonation_0016_05",
+      "base_type": "single_choice",
+      "sub_type": "wh_question",
+      "audio_ids": [
+        "どうやって行きますか↘"
+      ],
+      "prompt": "Nghe 'どうやって行きますか↘' và nghe câu hỏi wh và xác định từ hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đi bằng cách nào?"
+      }
+    },
+    {
+      "id": "intonation_0022_00",
+      "base_type": "single_choice",
+      "sub_type": "particle_identification",
+      "audio_ids": [
+        "いい天気ですね↗"
+      ],
+      "prompt": "Nghe 'いい天気ですね↗' và nghe và xác định trợ từ cuối câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Thời tiết đẹp nhỉ?"
+      }
+    },
+    {
+      "id": "intonation_0022_01",
+      "base_type": "single_choice",
+      "sub_type": "particle_identification",
+      "audio_ids": [
+        "これ、おいしいよ↘"
+      ],
+      "prompt": "Nghe 'これ、おいしいよ↘' và nghe và xác định trợ từ cuối câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Cái này ngon đấy!"
+      }
+    },
+    {
+      "id": "intonation_0022_02",
+      "base_type": "single_choice",
+      "sub_type": "particle_identification",
+      "audio_ids": [
+        "どこに行くの↗"
+      ],
+      "prompt": "Nghe 'どこに行くの↗' và nghe và xác định trợ từ cuối câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đi đâu vậy?"
+      }
+    },
+    {
+      "id": "intonation_0022_03",
+      "base_type": "single_choice",
+      "sub_type": "particle_identification",
+      "audio_ids": [
+        "眠いな↘"
+      ],
+      "prompt": "Nghe '眠いな↘' và nghe và xác định trợ từ cuối câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Buồn ngủ quá..."
+      }
+    },
+    {
+      "id": "intonation_0022_04",
+      "base_type": "single_choice",
+      "sub_type": "particle_identification",
+      "audio_ids": [
+        "明日は休みだよね↗"
+      ],
+      "prompt": "Nghe '明日は休みだよね↗' và nghe và xác định trợ từ cuối câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Mai nghỉ phải không nhỉ?"
+      }
+    },
+    {
+      "id": "intonation_0022_05",
+      "base_type": "single_choice",
+      "sub_type": "particle_identification",
+      "audio_ids": [
+        "大丈夫かな↗"
+      ],
+      "prompt": "Nghe '大丈夫かな↗' và nghe và xác định trợ từ cuối câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Không biết có ổn không nhỉ?"
+      }
+    },
+    {
+      "id": "intonation_0022_06",
+      "base_type": "single_choice",
+      "sub_type": "particle_identification",
+      "audio_ids": [
+        "明日何時だっけ↗"
+      ],
+      "prompt": "Nghe '明日何時だっけ↗' và nghe và xác định trợ từ cuối câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Mai mấy giờ nhỉ?"
+      }
+    },
+    {
+      "id": "L2_02",
+      "base_type": "matching",
+      "sub_type": "ne_vs_yo",
+      "audio_ids": [
+        "L2_02_audio"
+      ],
+      "prompt": "Nghe và phân biệt: ね (xác nhận) hay よ (thông báo)?",
+      "difficulty": "medium",
+      "topic": null,
+      "pairs": [
+        {
+          "audio": "おいしいね↗",
+          "answer": "ね",
+          "meaning": "Ngon nhỉ? (hỏi ý kiến)"
+        },
+        {
+          "audio": "おいしいよ↘",
+          "answer": "よ",
+          "meaning": "Ngon đấy! (thông báo)"
+        },
+        {
+          "audio": "寒いね↗",
+          "answer": "ね",
+          "meaning": "Lạnh nhỉ?"
+        },
+        {
+          "audio": "寒いよ↘",
+          "answer": "よ",
+          "meaning": "Lạnh đấy!"
+        },
+        {
+          "audio": "難しいね↗",
+          "answer": "ね",
+          "meaning": "Khó nhỉ?"
+        },
+        {
+          "audio": "難しいよ↘",
+          "answer": "よ",
+          "meaning": "Khó đấy!"
+        }
+      ]
+    },
+    {
+      "id": "intonation_0030_00",
+      "base_type": "matching",
+      "sub_type": "function_matching",
+      "audio_ids": [
+        "行きたいな〜↘"
+      ],
+      "prompt": "Nghe '行きたいな〜↘' và nghe câu và chọn chức năng phù hợp",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Thông báo",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Cảm thán/ao ước",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Hỏi",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "intonation_0030_01",
+      "base_type": "matching",
+      "sub_type": "function_matching",
+      "audio_ids": [
+        "これでいいよね↗"
+      ],
+      "prompt": "Nghe 'これでいいよね↗' và nghe câu và chọn chức năng phù hợp",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Khẳng định",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Xác nhận",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Cảm thán",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "intonation_0030_02",
+      "base_type": "matching",
+      "sub_type": "function_matching",
+      "audio_ids": [
+        "もう遅いよ↘"
+      ],
+      "prompt": "Nghe 'もう遅いよ↘' và nghe câu và chọn chức năng phù hợp",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Nhắc nhở/thông báo",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Hỏi",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Cảm thán",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "intonation_0030_03",
+      "base_type": "matching",
+      "sub_type": "function_matching",
+      "audio_ids": [
+        "彼の名前何だっけ↗"
+      ],
+      "prompt": "Nghe '彼の名前何だっけ↗' và nghe câu và chọn chức năng phù hợp",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Hỏi chắc chắn",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Cố nhớ lại",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Thông báo",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "intonation_0034_00",
+      "base_type": "single_choice",
+      "sub_type": "focus_identification",
+      "audio_ids": [
+        "**これ**が好きです (これ pitch cao)"
+      ],
+      "prompt": "Nghe '**これ**が好きです (これ pitch cao)' và nghe câu và xác định phần được nhấn mạnh",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "これ (cái này)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "好き (thích)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "です",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "Tôi thích CÁI NÀY (không phải cái khác)",
+        "answer": 0
+      }
+    },
+    {
+      "id": "intonation_0034_01",
+      "base_type": "single_choice",
+      "sub_type": "focus_identification",
+      "audio_ids": [
+        "これが**好き**です (好き pitch cao)"
+      ],
+      "prompt": "Nghe 'これが**好き**です (好き pitch cao)' và nghe câu và xác định phần được nhấn mạnh",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "これ (cái này)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "好き (thích)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "です",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "Tôi THÍCH cái này (không phải ghét)",
+        "answer": 1
+      }
+    },
+    {
+      "id": "intonation_0034_02",
+      "base_type": "single_choice",
+      "sub_type": "focus_identification",
+      "audio_ids": [
+        "**昨日**行きました (昨日 pitch cao)"
+      ],
+      "prompt": "Nghe '**昨日**行きました (昨日 pitch cao)' và nghe câu và xác định phần được nhấn mạnh",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "昨日 (hôm qua)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "行きました (đã đi)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "HÔM QUA tôi đã đi (không phải hôm nay)",
+        "answer": 0
+      }
+    },
+    {
+      "id": "intonation_0034_03",
+      "base_type": "single_choice",
+      "sub_type": "focus_identification",
+      "audio_ids": [
+        "**田中さん**が来ました (田中さん pitch cao)"
+      ],
+      "prompt": "Nghe '**田中さん**が来ました (田中さん pitch cao)' và nghe câu và xác định phần được nhấn mạnh",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Tanaka",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Không biết ai",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "TANAKA đã đến (nhấn mạnh người)",
+        "answer": 0
+      }
+    },
+    {
+      "id": "intonation_0038_00",
+      "base_type": "single_choice",
+      "sub_type": "emotion_recognition",
+      "audio_ids": [
+        "え↗↗！本当？"
+      ],
+      "prompt": "Nghe 'え↗↗！本当？' và nghe và xác định cảm xúc của người nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vui",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ngạc nhiên",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Buồn",
+          "is_correct": false
+        },
+        {
+          "id": "d",
+          "text": "Tức giận",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "intonation_0038_01",
+      "base_type": "single_choice",
+      "sub_type": "emotion_recognition",
+      "audio_ids": [
+        "やった↗↗！"
+      ],
+      "prompt": "Nghe 'やった↗↗！' và nghe và xác định cảm xúc của người nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vui/Phấn khích",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ngạc nhiên",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Buồn",
+          "is_correct": false
+        },
+        {
+          "id": "d",
+          "text": "Tức giận",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "intonation_0038_02",
+      "base_type": "single_choice",
+      "sub_type": "emotion_recognition",
+      "audio_ids": [
+        "残念...↘↘"
+      ],
+      "prompt": "Nghe '残念...↘↘' và nghe và xác định cảm xúc của người nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vui",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ngạc nhiên",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Buồn/Thất vọng",
+          "is_correct": false
+        },
+        {
+          "id": "d",
+          "text": "Tức giận",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "intonation_0038_03",
+      "base_type": "single_choice",
+      "sub_type": "emotion_recognition",
+      "audio_ids": [
+        "何やってるの↗↗！"
+      ],
+      "prompt": "Nghe '何やってるの↗↗！' và nghe và xác định cảm xúc của người nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vui",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ngạc nhiên",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Buồn",
+          "is_correct": false
+        },
+        {
+          "id": "d",
+          "text": "Tức giận",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 3
+      }
+    },
+    {
+      "id": "intonation_0038_04",
+      "base_type": "single_choice",
+      "sub_type": "emotion_recognition",
+      "audio_ids": [
+        "うそ↗↗！"
+      ],
+      "prompt": "Nghe 'うそ↗↗！' và nghe và xác định cảm xúc của người nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vui",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ngạc nhiên/Không tin",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Buồn",
+          "is_correct": false
+        },
+        {
+          "id": "d",
+          "text": "Tức giận",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "intonation_0038_05",
+      "base_type": "single_choice",
+      "sub_type": "emotion_recognition",
+      "audio_ids": [
+        "えーと...→→"
+      ],
+      "prompt": "Nghe 'えーと...→→' và nghe và xác định cảm xúc của người nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vui",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ngạc nhiên",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Do dự/Suy nghĩ",
+          "is_correct": false
+        },
+        {
+          "id": "d",
+          "text": "Tức giận",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "intonation_0044_00",
+      "base_type": "matching",
+      "sub_type": "tone_matching",
+      "audio_ids": [
+        "すみません↘ (giọng nhẹ nhàng, lịch sự)"
+      ],
+      "prompt": "Nghe 'すみません↘ (giọng nhẹ nhàng, lịch sự)' và nghe và chọn mô tả phù hợp với giọng nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Xin lỗi chân thành",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Tức giận",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Vui vẻ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "intonation_0044_01",
+      "base_type": "matching",
+      "sub_type": "tone_matching",
+      "audio_ids": [
+        "すみません↗↗ (giọng to, gọi người)"
+      ],
+      "prompt": "Nghe 'すみません↗↗ (giọng to, gọi người)' và nghe và chọn mô tả phù hợp với giọng nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Xin lỗi",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Gọi chú ý",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Tức giận",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "intonation_0044_02",
+      "base_type": "matching",
+      "sub_type": "tone_matching",
+      "audio_ids": [
+        "いいですよ↘ (giọng bình thường)"
+      ],
+      "prompt": "Nghe 'いいですよ↘ (giọng bình thường)' và nghe và chọn mô tả phù hợp với giọng nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đồng ý bình thường",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Miễn cưỡng",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Phấn khích",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "intonation_0044_03",
+      "base_type": "matching",
+      "sub_type": "tone_matching",
+      "audio_ids": [
+        "いいですよ〜↗ (giọng vui vẻ)"
+      ],
+      "prompt": "Nghe 'いいですよ〜↗ (giọng vui vẻ)' và nghe và chọn mô tả phù hợp với giọng nói",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đồng ý bình thường",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Đồng ý vui vẻ/nhiệt tình",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Miễn cưỡng",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "L4_01",
+      "base_type": "dialogue",
+      "sub_type": "dialogue_comprehension",
+      "audio_ids": [
+        "L4_01_audio"
+      ],
+      "prompt": "Nghe hội thoại và trả lời câu hỏi về ý định/cảm xúc",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "script": [
+            "A: 映画、見た↗？",
+            "B: うん、見たよ↘。",
+            "A: どうだった↗？",
+            "B: おもしろかった↘！"
+          ],
+          "questions": [
+            {
+              "question": "Câu đầu tiên của A là gì?",
+              "options": [
+                "Câu hỏi",
+                "Câu trần thuật"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "B đã xem phim chưa?",
+              "options": [
+                "Đã xem",
+                "Chưa xem"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "B nghĩ thế nào về phim?",
+              "options": [
+                "Hay",
+                "Chán",
+                "Bình thường"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "script": [
+            "A: 明日、暇↗？",
+            "B: うーん...ちょっと...→",
+            "A: そっか、じゃあ、また今度ね↘。",
+            "B: うん、ごめんね↘。"
+          ],
+          "questions": [
+            {
+              "question": "A muốn hỏi B điều gì?",
+              "options": [
+                "Mai có rảnh không",
+                "Mai đi đâu",
+                "Mai làm gì"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "B có rảnh không?",
+              "options": [
+                "Có",
+                "Không/Không chắc"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "B cảm thấy thế nào?",
+              "options": [
+                "Vui",
+                "Áy náy/Xin lỗi",
+                "Tức giận"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "script": [
+            "A: え↗↗！マジで↗？",
+            "B: うん、本当だよ↘。",
+            "A: すごい↗↗！おめでとう↘！",
+            "B: ありがとう↘！"
+          ],
+          "questions": [
+            {
+              "question": "A cảm thấy thế nào lúc đầu?",
+              "options": [
+                "Ngạc nhiên",
+                "Buồn",
+                "Tức giận"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Đây là tin tốt hay xấu?",
+              "options": [
+                "Tin tốt",
+                "Tin xấu"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intonation_0049_00",
+      "base_type": "single_choice",
+      "sub_type": "incomplete_sentence",
+      "audio_ids": [
+        "昨日→、"
+      ],
+      "prompt": "Nghe '昨日→、' và nghe câu chưa hoàn chỉnh và dự đoán: người nói sẽ nói tiếp hay đã xong?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "incomplete"
+      }
+    },
+    {
+      "id": "intonation_0049_01",
+      "base_type": "single_choice",
+      "sub_type": "incomplete_sentence",
+      "audio_ids": [
+        "昨日、映画を見ました↘。"
+      ],
+      "prompt": "Nghe '昨日、映画を見ました↘。' và nghe câu chưa hoàn chỉnh và dự đoán: người nói sẽ nói tiếp hay đã xong?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "complete"
+      }
+    },
+    {
+      "id": "intonation_0049_02",
+      "base_type": "single_choice",
+      "sub_type": "incomplete_sentence",
+      "audio_ids": [
+        "日本に行ったら→、"
+      ],
+      "prompt": "Nghe '日本に行ったら→、' và nghe câu chưa hoàn chỉnh và dự đoán: người nói sẽ nói tiếp hay đã xong?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "incomplete"
+      }
+    },
+    {
+      "id": "intonation_0049_03",
+      "base_type": "single_choice",
+      "sub_type": "incomplete_sentence",
+      "audio_ids": [
+        "忙しいから→、"
+      ],
+      "prompt": "Nghe '忙しいから→、' và nghe câu chưa hoàn chỉnh và dự đoán: người nói sẽ nói tiếp hay đã xong?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "incomplete"
+      }
+    },
+    {
+      "id": "intonation_0049_04",
+      "base_type": "single_choice",
+      "sub_type": "incomplete_sentence",
+      "audio_ids": [
+        "行きたいんですけど→..."
+      ],
+      "prompt": "Nghe '行きたいんですけど→...' và nghe câu chưa hoàn chỉnh và dự đoán: người nói sẽ nói tiếp hay đã xong?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "incomplete"
+      }
+    },
+    {
+      "id": "intonation_0054_00",
+      "base_type": "single_choice",
+      "sub_type": "listing_pattern",
+      "audio_ids": [
+        "りんご→、"
+      ],
+      "prompt": "Nghe 'りんご→、' và nghe và xác định đây là item cuối cùng hay còn tiếp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "note": "Ngữ điệu phẳng = còn item nữa",
+        "answer": "continues"
+      }
+    },
+    {
+      "id": "intonation_0054_01",
+      "base_type": "single_choice",
+      "sub_type": "listing_pattern",
+      "audio_ids": [
+        "バナナ↘を買いました。"
+      ],
+      "prompt": "Nghe 'バナナ↘を買いました。' và nghe và xác định đây là item cuối cùng hay còn tiếp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "note": "Ngữ điệu xuống = item cuối",
+        "answer": "last_item"
+      }
+    },
+    {
+      "id": "intonation_0054_02",
+      "base_type": "single_choice",
+      "sub_type": "listing_pattern",
+      "audio_ids": [
+        "月曜日→、水曜日→、"
+      ],
+      "prompt": "Nghe '月曜日→、水曜日→、' và nghe và xác định đây là item cuối cùng hay còn tiếp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "note": "Liệt kê chưa xong",
+        "answer": "continues"
+      }
+    },
+    {
+      "id": "intonation_0054_03",
+      "base_type": "single_choice",
+      "sub_type": "listing_pattern",
+      "audio_ids": [
+        "金曜日↘に行きます。"
+      ],
+      "prompt": "Nghe '金曜日↘に行きます。' và nghe và xác định đây là item cuối cùng hay còn tiếp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "note": "Item cuối cùng",
+        "answer": "last_item"
+      }
+    },
+    {
+      "id": "intonation_0058_00",
+      "base_type": "single_choice",
+      "sub_type": "polite_vs_casual",
+      "audio_ids": [
+        "行きます↘。"
+      ],
+      "prompt": "Nghe '行きます↘。' và nghe và xác định: formal (lịch sự) hay casual (thân mật)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "formal"
+      }
+    },
+    {
+      "id": "intonation_0058_01",
+      "base_type": "single_choice",
+      "sub_type": "polite_vs_casual",
+      "audio_ids": [
+        "行く↘。"
+      ],
+      "prompt": "Nghe '行く↘。' và nghe và xác định: formal (lịch sự) hay casual (thân mật)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "casual"
+      }
+    },
+    {
+      "id": "intonation_0058_02",
+      "base_type": "single_choice",
+      "sub_type": "polite_vs_casual",
+      "audio_ids": [
+        "分かりました↘。"
+      ],
+      "prompt": "Nghe '分かりました↘。' và nghe và xác định: formal (lịch sự) hay casual (thân mật)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "formal"
+      }
+    },
+    {
+      "id": "intonation_0058_03",
+      "base_type": "single_choice",
+      "sub_type": "polite_vs_casual",
+      "audio_ids": [
+        "分かった↘！"
+      ],
+      "prompt": "Nghe '分かった↘！' và nghe và xác định: formal (lịch sự) hay casual (thân mật)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "casual"
+      }
+    },
+    {
+      "id": "intonation_0058_04",
+      "base_type": "single_choice",
+      "sub_type": "polite_vs_casual",
+      "audio_ids": [
+        "そうですか→。"
+      ],
+      "prompt": "Nghe 'そうですか→。' và nghe và xác định: formal (lịch sự) hay casual (thân mật)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "formal"
+      }
+    },
+    {
+      "id": "intonation_0058_05",
+      "base_type": "single_choice",
+      "sub_type": "polite_vs_casual",
+      "audio_ids": [
+        "そう↗？"
+      ],
+      "prompt": "Nghe 'そう↗？' và nghe và xác định: formal (lịch sự) hay casual (thân mật)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "casual"
+      }
+    },
+    {
+      "id": "L4_05",
+      "base_type": "dialogue",
+      "sub_type": "comprehensive_test",
+      "audio_ids": [
+        "L4_05_audio"
+      ],
+      "prompt": "Nghe đoạn hội thoại dài và trả lời các câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogue": {
+        "script": [
+          "A: ねえ、来週の土曜日、暇↗？",
+          "B: 土曜日...→ えーと...→ 午前中は予定があるけど→、午後は空いてるよ↘。",
+          "A: じゃあ、午後から映画見に行かない↗？",
+          "B: いいね↗！何見る↗？",
+          "A: 新しいアニメ映画がおもしろいって↘。",
+          "B: あ、それ見たかった↘！行こう行こう↗！",
+          "A: やった↗！じゃあ、2時に駅で↘。",
+          "B: うん、分かった↘！楽しみ↗！"
+        ],
+        "questions": [
+          {
+            "question": "A muốn làm gì vào thứ Bảy?",
+            "options": [
+              "Xem phim",
+              "Đi mua sắm",
+              "Ăn uống"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "B có rảnh buổi sáng không?",
+            "options": [
+              "Có",
+              "Không"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Họ sẽ xem gì?",
+            "options": [
+              "Phim hành động",
+              "Phim anime mới",
+              "Phim kinh dị"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "B cảm thấy thế nào về kế hoạch?",
+            "options": [
+              "Không thích",
+              "Rất hào hứng",
+              "Bình thường"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Họ sẽ gặp nhau lúc mấy giờ?",
+            "options": [
+              "1 giờ",
+              "2 giờ",
+              "3 giờ"
+            ],
+            "answer": 1
+          }
+        ],
+        "intonation_notes": [
+          "暇↗ - câu hỏi casual",
+          "えーと...→ - do dự, suy nghĩ",
+          "いいね↗ - đồng ý nhiệt tình",
+          "やった↗ - vui mừng",
+          "楽しみ↗ - háo hức"
+        ]
+      }
+    }
+  ]
+}

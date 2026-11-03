@@ -1,0 +1,599 @@
+{
+  "metadata": {
+    "title": "Bài tập Ngữ điệu câu",
+    "description": "Luyện nghe phân biệt câu hỏi/trần thuật, focus, cảm xúc qua ngữ điệu",
+    "total_levels": 4,
+    "version": "1.0"
+  },
+
+  "level_1": {
+    "title": "Câu hỏi vs Câu trần thuật",
+    "description": "Phân biệt ↗ (hỏi) vs ↘ (trần thuật)",
+
+    "exercises": [
+      {
+        "id": "L1_01",
+        "type": "question_or_statement",
+        "instruction": "Nghe và xác định: Câu HỎI hay câu TRẦN THUẬT?",
+        "items": [
+          { "audio": "行く↘", "answer": "statement", "meaning": "Đi." },
+          { "audio": "行く↗", "answer": "question", "meaning": "Đi không?" },
+          { "audio": "おいしい↘", "answer": "statement", "meaning": "Ngon." },
+          { "audio": "おいしい↗", "answer": "question", "meaning": "Ngon không?" },
+          { "audio": "分かる↘", "answer": "statement", "meaning": "Hiểu." },
+          { "audio": "分かる↗", "answer": "question", "meaning": "Hiểu không?" },
+          { "audio": "これ、本↘", "answer": "statement", "meaning": "Đây là sách." },
+          { "audio": "これ、本↗", "answer": "question", "meaning": "Đây là sách hả?" },
+          { "audio": "好き↘", "answer": "statement", "meaning": "Thích." },
+          { "audio": "好き↗", "answer": "question", "meaning": "Thích không?" }
+        ]
+      },
+      {
+        "id": "L1_02",
+        "type": "same_or_different",
+        "instruction": "Nghe 2 câu và cho biết: Cùng loại (cả 2 đều hỏi/trần thuật) hay KHÁC loại?",
+        "pairs": [
+          {
+            "audio_1": "食べる↘",
+            "audio_2": "食べる↗",
+            "answer": "different",
+            "note": "Trần thuật vs Hỏi"
+          },
+          {
+            "audio_1": "行く↗",
+            "audio_2": "来る↗",
+            "answer": "same",
+            "note": "Cả hai đều là câu hỏi"
+          },
+          {
+            "audio_1": "おいしい↘",
+            "audio_2": "きれい↘",
+            "answer": "same",
+            "note": "Cả hai đều là trần thuật"
+          },
+          {
+            "audio_1": "分かった↘",
+            "audio_2": "分かった↗",
+            "answer": "different",
+            "note": "Trần thuật vs Hỏi"
+          }
+        ]
+      },
+      {
+        "id": "L1_03",
+        "type": "formal_question",
+        "instruction": "Nghe câu hỏi formal (có か) và xác định đó là câu hỏi",
+        "items": [
+          { "audio": "行きますか", "type": "question", "meaning": "Bạn đi không ạ?" },
+          { "audio": "これは何ですか", "type": "question", "meaning": "Đây là gì ạ?" },
+          { "audio": "日本人ですか", "type": "question", "meaning": "Bạn là người Nhật ạ?" },
+          { "audio": "分かりますか", "type": "question", "meaning": "Bạn hiểu không ạ?" },
+          { "audio": "好きですか", "type": "question", "meaning": "Bạn thích không ạ?" }
+        ],
+        "note": "Câu có か thường có ngữ điệu phẳng → hoặc lên nhẹ ↗"
+      },
+      {
+        "id": "L1_04",
+        "type": "wh_question",
+        "instruction": "Nghe câu hỏi WH và xác định từ hỏi",
+        "items": [
+          {
+            "audio": "何を食べますか↘",
+            "wh_word": "何 (nani)",
+            "meaning": "Ăn gì?"
+          },
+          {
+            "audio": "どこに行きますか↘",
+            "wh_word": "どこ (doko)",
+            "meaning": "Đi đâu?"
+          },
+          {
+            "audio": "いつ来ますか↘",
+            "wh_word": "いつ (itsu)",
+            "meaning": "Đến khi nào?"
+          },
+          {
+            "audio": "誰ですか↘",
+            "wh_word": "誰 (dare)",
+            "meaning": "Ai vậy?"
+          },
+          {
+            "audio": "なぜですか↘",
+            "wh_word": "なぜ (naze)",
+            "meaning": "Tại sao?"
+          },
+          {
+            "audio": "どうやって行きますか↘",
+            "wh_word": "どうやって",
+            "meaning": "Đi bằng cách nào?"
+          }
+        ],
+        "note": "Câu hỏi WH thường có ngữ điệu xuống ↘ ở cuối"
+      }
+    ]
+  },
+
+  "level_2": {
+    "title": "Trợ từ cuối câu",
+    "description": "Nhận diện ngữ điệu của ね, よ, の, な, か...",
+
+    "exercises": [
+      {
+        "id": "L2_01",
+        "type": "particle_identification",
+        "instruction": "Nghe và xác định trợ từ cuối câu",
+        "items": [
+          {
+            "audio": "いい天気ですね↗",
+            "particle": "ね",
+            "function": "Xác nhận",
+            "meaning": "Thời tiết đẹp nhỉ?"
+          },
+          {
+            "audio": "これ、おいしいよ↘",
+            "particle": "よ",
+            "function": "Thông báo",
+            "meaning": "Cái này ngon đấy!"
+          },
+          {
+            "audio": "どこに行くの↗",
+            "particle": "の",
+            "function": "Hỏi (casual)",
+            "meaning": "Đi đâu vậy?"
+          },
+          {
+            "audio": "眠いな↘",
+            "particle": "な",
+            "function": "Cảm thán",
+            "meaning": "Buồn ngủ quá..."
+          },
+          {
+            "audio": "明日は休みだよね↗",
+            "particle": "よね",
+            "function": "Xác nhận + nhấn mạnh",
+            "meaning": "Mai nghỉ phải không nhỉ?"
+          },
+          {
+            "audio": "大丈夫かな↗",
+            "particle": "かな",
+            "function": "Tự hỏi",
+            "meaning": "Không biết có ổn không nhỉ?"
+          },
+          {
+            "audio": "明日何時だっけ↗",
+            "particle": "っけ",
+            "function": "Cố nhớ",
+            "meaning": "Mai mấy giờ nhỉ?"
+          }
+        ]
+      },
+      {
+        "id": "L2_02",
+        "type": "ne_vs_yo",
+        "instruction": "Nghe và phân biệt: ね (xác nhận) hay よ (thông báo)?",
+        "pairs": [
+          {
+            "audio": "おいしいね↗",
+            "answer": "ね",
+            "meaning": "Ngon nhỉ? (hỏi ý kiến)"
+          },
+          {
+            "audio": "おいしいよ↘",
+            "answer": "よ",
+            "meaning": "Ngon đấy! (thông báo)"
+          },
+          {
+            "audio": "寒いね↗",
+            "answer": "ね",
+            "meaning": "Lạnh nhỉ?"
+          },
+          {
+            "audio": "寒いよ↘",
+            "answer": "よ",
+            "meaning": "Lạnh đấy!"
+          },
+          {
+            "audio": "難しいね↗",
+            "answer": "ね",
+            "meaning": "Khó nhỉ?"
+          },
+          {
+            "audio": "難しいよ↘",
+            "answer": "よ",
+            "meaning": "Khó đấy!"
+          }
+        ]
+      },
+      {
+        "id": "L2_03",
+        "type": "function_matching",
+        "instruction": "Nghe câu và chọn chức năng phù hợp",
+        "items": [
+          {
+            "audio": "行きたいな〜↘",
+            "options": ["Thông báo", "Cảm thán/ao ước", "Hỏi"],
+            "answer": 1
+          },
+          {
+            "audio": "これでいいよね↗",
+            "options": ["Khẳng định", "Xác nhận", "Cảm thán"],
+            "answer": 1
+          },
+          {
+            "audio": "もう遅いよ↘",
+            "options": ["Nhắc nhở/thông báo", "Hỏi", "Cảm thán"],
+            "answer": 0
+          },
+          {
+            "audio": "彼の名前何だっけ↗",
+            "options": ["Hỏi chắc chắn", "Cố nhớ lại", "Thông báo"],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_3": {
+    "title": "Focus và Cảm xúc",
+    "description": "Nhận diện phần được nhấn mạnh và cảm xúc qua ngữ điệu",
+
+    "exercises": [
+      {
+        "id": "L3_01",
+        "type": "focus_identification",
+        "instruction": "Nghe câu và xác định phần được NHẤN MẠNH",
+        "items": [
+          {
+            "audio": "**これ**が好きです (これ pitch cao)",
+            "question": "Phần nào được nhấn mạnh?",
+            "options": ["これ (cái này)", "好き (thích)", "です"],
+            "answer": 0,
+            "meaning": "Tôi thích CÁI NÀY (không phải cái khác)"
+          },
+          {
+            "audio": "これが**好き**です (好き pitch cao)",
+            "question": "Phần nào được nhấn mạnh?",
+            "options": ["これ (cái này)", "好き (thích)", "です"],
+            "answer": 1,
+            "meaning": "Tôi THÍCH cái này (không phải ghét)"
+          },
+          {
+            "audio": "**昨日**行きました (昨日 pitch cao)",
+            "question": "Phần nào được nhấn mạnh?",
+            "options": ["昨日 (hôm qua)", "行きました (đã đi)"],
+            "answer": 0,
+            "meaning": "HÔM QUA tôi đã đi (không phải hôm nay)"
+          },
+          {
+            "audio": "**田中さん**が来ました (田中さん pitch cao)",
+            "question": "Ai đến?",
+            "options": ["Tanaka", "Không biết ai"],
+            "answer": 0,
+            "meaning": "TANAKA đã đến (nhấn mạnh người)"
+          }
+        ]
+      },
+      {
+        "id": "L3_02",
+        "type": "emotion_recognition",
+        "instruction": "Nghe và xác định cảm xúc của người nói",
+        "items": [
+          {
+            "audio": "え↗↗！本当？",
+            "options": ["Vui", "Ngạc nhiên", "Buồn", "Tức giận"],
+            "answer": 1
+          },
+          {
+            "audio": "やった↗↗！",
+            "options": ["Vui/Phấn khích", "Ngạc nhiên", "Buồn", "Tức giận"],
+            "answer": 0
+          },
+          {
+            "audio": "残念...↘↘",
+            "options": ["Vui", "Ngạc nhiên", "Buồn/Thất vọng", "Tức giận"],
+            "answer": 2
+          },
+          {
+            "audio": "何やってるの↗↗！",
+            "options": ["Vui", "Ngạc nhiên", "Buồn", "Tức giận"],
+            "answer": 3
+          },
+          {
+            "audio": "うそ↗↗！",
+            "options": ["Vui", "Ngạc nhiên/Không tin", "Buồn", "Tức giận"],
+            "answer": 1
+          },
+          {
+            "audio": "えーと...→→",
+            "options": ["Vui", "Ngạc nhiên", "Do dự/Suy nghĩ", "Tức giận"],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "id": "L3_03",
+        "type": "tone_matching",
+        "instruction": "Nghe và chọn mô tả phù hợp với giọng nói",
+        "items": [
+          {
+            "audio": "すみません↘ (giọng nhẹ nhàng, lịch sự)",
+            "options": ["Xin lỗi chân thành", "Tức giận", "Vui vẻ"],
+            "answer": 0
+          },
+          {
+            "audio": "すみません↗↗ (giọng to, gọi người)",
+            "options": ["Xin lỗi", "Gọi chú ý", "Tức giận"],
+            "answer": 1
+          },
+          {
+            "audio": "いいですよ↘ (giọng bình thường)",
+            "options": ["Đồng ý bình thường", "Miễn cưỡng", "Phấn khích"],
+            "answer": 0
+          },
+          {
+            "audio": "いいですよ〜↗ (giọng vui vẻ)",
+            "options": ["Đồng ý bình thường", "Đồng ý vui vẻ/nhiệt tình", "Miễn cưỡng"],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  "level_4": {
+    "title": "Tổng hợp - Hội thoại thực tế",
+    "description": "Áp dụng nghe ngữ điệu trong ngữ cảnh hội thoại",
+
+    "exercises": [
+      {
+        "id": "L4_01",
+        "type": "dialogue_comprehension",
+        "instruction": "Nghe hội thoại và trả lời câu hỏi về ý định/cảm xúc",
+        "dialogues": [
+          {
+            "script": [
+              "A: 映画、見た↗？",
+              "B: うん、見たよ↘。",
+              "A: どうだった↗？",
+              "B: おもしろかった↘！"
+            ],
+            "questions": [
+              {
+                "question": "Câu đầu tiên của A là gì?",
+                "options": ["Câu hỏi", "Câu trần thuật"],
+                "answer": 0
+              },
+              {
+                "question": "B đã xem phim chưa?",
+                "options": ["Đã xem", "Chưa xem"],
+                "answer": 0
+              },
+              {
+                "question": "B nghĩ thế nào về phim?",
+                "options": ["Hay", "Chán", "Bình thường"],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "script": [
+              "A: 明日、暇↗？",
+              "B: うーん...ちょっと...→",
+              "A: そっか、じゃあ、また今度ね↘。",
+              "B: うん、ごめんね↘。"
+            ],
+            "questions": [
+              {
+                "question": "A muốn hỏi B điều gì?",
+                "options": ["Mai có rảnh không", "Mai đi đâu", "Mai làm gì"],
+                "answer": 0
+              },
+              {
+                "question": "B có rảnh không?",
+                "options": ["Có", "Không/Không chắc"],
+                "answer": 1
+              },
+              {
+                "question": "B cảm thấy thế nào?",
+                "options": ["Vui", "Áy náy/Xin lỗi", "Tức giận"],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "script": [
+              "A: え↗↗！マジで↗？",
+              "B: うん、本当だよ↘。",
+              "A: すごい↗↗！おめでとう↘！",
+              "B: ありがとう↘！"
+            ],
+            "questions": [
+              {
+                "question": "A cảm thấy thế nào lúc đầu?",
+                "options": ["Ngạc nhiên", "Buồn", "Tức giận"],
+                "answer": 0
+              },
+              {
+                "question": "Đây là tin tốt hay xấu?",
+                "options": ["Tin tốt", "Tin xấu"],
+                "answer": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "L4_02",
+        "type": "incomplete_sentence",
+        "instruction": "Nghe câu chưa hoàn chỉnh và dự đoán: Người nói sẽ nói tiếp hay đã xong?",
+        "items": [
+          {
+            "audio": "昨日→、",
+            "answer": "incomplete",
+            "explanation": "Ngữ điệu phẳng → còn nói tiếp"
+          },
+          {
+            "audio": "昨日、映画を見ました↘。",
+            "answer": "complete",
+            "explanation": "Ngữ điệu xuống → câu đã xong"
+          },
+          {
+            "audio": "日本に行ったら→、",
+            "answer": "incomplete",
+            "explanation": "Điều kiện chưa có kết quả"
+          },
+          {
+            "audio": "忙しいから→、",
+            "answer": "incomplete",
+            "explanation": "Lý do chưa có kết luận"
+          },
+          {
+            "audio": "行きたいんですけど→...",
+            "answer": "incomplete",
+            "explanation": "けど ngầm có vấn đề"
+          }
+        ]
+      },
+      {
+        "id": "L4_03",
+        "type": "listing_pattern",
+        "instruction": "Nghe và xác định đây là item CUỐI CÙNG hay còn tiếp",
+        "items": [
+          {
+            "audio": "りんご→、",
+            "answer": "continues",
+            "note": "Ngữ điệu phẳng = còn item nữa"
+          },
+          {
+            "audio": "バナナ↘を買いました。",
+            "answer": "last_item",
+            "note": "Ngữ điệu xuống = item cuối"
+          },
+          {
+            "audio": "月曜日→、水曜日→、",
+            "answer": "continues",
+            "note": "Liệt kê chưa xong"
+          },
+          {
+            "audio": "金曜日↘に行きます。",
+            "answer": "last_item",
+            "note": "Item cuối cùng"
+          }
+        ]
+      },
+      {
+        "id": "L4_04",
+        "type": "polite_vs_casual",
+        "instruction": "Nghe và xác định: Formal (lịch sự) hay Casual (thân mật)?",
+        "items": [
+          {
+            "audio": "行きます↘。",
+            "answer": "formal",
+            "marker": "ます form"
+          },
+          {
+            "audio": "行く↘。",
+            "answer": "casual",
+            "marker": "Dictionary form"
+          },
+          {
+            "audio": "分かりました↘。",
+            "answer": "formal",
+            "marker": "ました form"
+          },
+          {
+            "audio": "分かった↘！",
+            "answer": "casual",
+            "marker": "た form, ngữ điệu expressive"
+          },
+          {
+            "audio": "そうですか→。",
+            "answer": "formal",
+            "marker": "です form"
+          },
+          {
+            "audio": "そう↗？",
+            "answer": "casual",
+            "marker": "Không có です, ngữ điệu lên"
+          }
+        ]
+      },
+      {
+        "id": "L4_05",
+        "type": "comprehensive_test",
+        "instruction": "Nghe đoạn hội thoại dài và trả lời các câu hỏi",
+        "dialogue": {
+          "script": [
+            "A: ねえ、来週の土曜日、暇↗？",
+            "B: 土曜日...→ えーと...→ 午前中は予定があるけど→、午後は空いてるよ↘。",
+            "A: じゃあ、午後から映画見に行かない↗？",
+            "B: いいね↗！何見る↗？",
+            "A: 新しいアニメ映画がおもしろいって↘。",
+            "B: あ、それ見たかった↘！行こう行こう↗！",
+            "A: やった↗！じゃあ、2時に駅で↘。",
+            "B: うん、分かった↘！楽しみ↗！"
+          ],
+          "questions": [
+            {
+              "question": "A muốn làm gì vào thứ Bảy?",
+              "options": ["Xem phim", "Đi mua sắm", "Ăn uống"],
+              "answer": 0
+            },
+            {
+              "question": "B có rảnh buổi sáng không?",
+              "options": ["Có", "Không"],
+              "answer": 1
+            },
+            {
+              "question": "Họ sẽ xem gì?",
+              "options": ["Phim hành động", "Phim anime mới", "Phim kinh dị"],
+              "answer": 1
+            },
+            {
+              "question": "B cảm thấy thế nào về kế hoạch?",
+              "options": ["Không thích", "Rất hào hứng", "Bình thường"],
+              "answer": 1
+            },
+            {
+              "question": "Họ sẽ gặp nhau lúc mấy giờ?",
+              "options": ["1 giờ", "2 giờ", "3 giờ"],
+              "answer": 1
+            }
+          ],
+          "intonation_notes": [
+            "暇↗ - câu hỏi casual",
+            "えーと...→ - do dự, suy nghĩ",
+            "いいね↗ - đồng ý nhiệt tình",
+            "やった↗ - vui mừng",
+            "楽しみ↗ - háo hức"
+          ]
+        }
+      }
+    ]
+  },
+
+  "summary": {
+    "total_exercises": 17,
+    "skills_covered": [
+      "Phân biệt câu hỏi vs trần thuật",
+      "Nhận diện trợ từ cuối câu",
+      "Xác định focus/nhấn mạnh",
+      "Nhận diện cảm xúc",
+      "Nghe câu chưa hoàn chỉnh",
+      "Phân biệt formal vs casual"
+    ],
+    "progression": {
+      "L1": "Câu hỏi ↗ vs Trần thuật ↘",
+      "L2": "Trợ từ cuối câu (ね, よ, の, な...)",
+      "L3": "Focus và Cảm xúc",
+      "L4": "Tổng hợp - Hội thoại thực tế"
+    },
+    "key_points": [
+      "Cuối câu ↗ = hỏi, ↘ = trần thuật (casual)",
+      "ね↗ = xác nhận, よ↘ = thông báo",
+      "Pitch cao bất thường = thông tin quan trọng (focus)",
+      "Ngữ điệu phẳng → = câu chưa xong"
+    ]
+  }
+}

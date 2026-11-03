@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "L15_FP_01",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "あなたは学生ですか。",
+    "sentence_translation": "Bạn là sinh viên phải không?",
+    "question_text": "[Câu hỏi Yes/No] あなたは学生です（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "は",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "か",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Thêm か ở cuối câu khẳng định → thành câu hỏi Yes/No. 学生です → 学生ですか = \"là sinh viên phải không?\"",
+    "hint": "Câu hỏi Yes/No → thêm か ở cuối câu",
+    "tags": [
+      "か",
+      "yes_no",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L15_FP_02",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "これは何ですか。",
+    "sentence_translation": "Cái này là cái gì?",
+    "question_text": "[Hỏi về vật] これは（　）ですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "いつ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "何",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "どこ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "誰",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "何(なん/なに) = \"cái gì\". Trước です → đọc là なん. これは何ですか = \"cái này là cái gì?\"",
+    "hint": "Hỏi về VẬT → dùng từ hỏi nào?",
+    "tags": [
+      "何",
+      "từ_hỏi",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L15_FP_03",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "あの人は誰ですか。",
+    "sentence_translation": "Người kia là ai?",
+    "question_text": "[Hỏi về người] あの人は（　）ですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "何",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どこ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どれ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "誰",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "誰(だれ) = \"ai\". あの人は誰ですか = \"người kia là ai?\"",
+    "hint": "Hỏi về NGƯỜI → dùng từ hỏi nào?",
+    "tags": [
+      "誰",
+      "từ_hỏi",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L15_FP_04",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "トイレはどこですか。",
+    "sentence_translation": "Nhà vệ sinh ở đâu?",
+    "question_text": "[Hỏi về nơi chốn] トイレは（　）ですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "何",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どこ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "いつ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "誰",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "どこ = \"ở đâu\". トイレはどこですか = \"nhà vệ sinh ở đâu?\"",
+    "hint": "Hỏi về NƠI CHỐN → dùng từ hỏi nào?",
+    "tags": [
+      "どこ",
+      "từ_hỏi",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L15_FP_05",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "試験はいつですか。",
+    "sentence_translation": "Kỳ thi khi nào?",
+    "question_text": "[Hỏi về thời gian] 試験は（　）ですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "何",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どこ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いつ",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "いつ = \"khi nào\". 試験はいつですか = \"kỳ thi khi nào?\"",
+    "hint": "Hỏi về THỜI GIAN → dùng từ hỏi nào?",
+    "tags": [
+      "いつ",
+      "từ_hỏi",
+      "cơ_bản"
+    ]
+  },
+  {
+    "id": "L15_FP_06",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "何を食べますか。",
+    "sentence_translation": "Ăn cái gì?",
+    "question_text": "[なに vs なん] （　）を食べますか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "なん",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "なに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "何の",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "何で",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Quy tắc: 何 + を/が/に → đọc là なに. 何 + で/の/です → đọc là なん. Ở đây 何+を → なにを食べますか = \"ăn cái gì?\"",
+    "hint": "Trước を → đọc là なに hay なん?",
+    "tags": [
+      "なに",
+      "なん",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L15_FP_07",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "何で来ましたか。",
+    "sentence_translation": "Đến bằng gì?",
+    "question_text": "[なに vs なん] （　）で来ましたか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "なん",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "なに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "何を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "何が",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Quy tắc: trước で/の/です (âm d/n/t) → đọc là なん. 何で(なんで)来ましたか = \"đến bằng gì?\"",
+    "hint": "Trước で → đọc là なに hay なん?",
+    "tags": [
+      "なん",
+      "なに",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L15_FP_08",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "どの本が好きですか。",
+    "sentence_translation": "Thích cuốn sách nào?",
+    "question_text": "[どの vs どれ] （　）本が好きですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "どこの",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どれ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どの",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "どんな",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "どの + danh từ = \"cái nào\" (chỉ định cụ thể trong nhóm). どの本 = \"cuốn sách nào\". KHÁC どれ (đứng một mình)",
+    "hint": "Từ hỏi đứng TRƯỚC danh từ, hỏi \"cái nào\" → どの + N",
+    "tags": [
+      "どの",
+      "từ_hỏi",
+      "trước_danh_từ"
+    ]
+  },
+  {
+    "id": "L15_FP_09",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "どんな音楽が好きですか。",
+    "sentence_translation": "Thích loại nhạc nào?",
+    "question_text": "[どんな + N] （　）音楽が好きですか。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "どう",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どの",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どんな",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "何の",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "どんな + danh từ = \"loại... như thế nào\". どんな音楽 = \"loại nhạc như thế nào\". KHÁC どの (chọn cụ thể trong nhóm)",
+    "hint": "Hỏi về LOẠI/TÍNH CHẤT → どんな + N",
+    "tags": [
+      "どんな",
+      "từ_hỏi",
+      "trước_danh_từ"
+    ]
+  },
+  {
+    "id": "L15_FP_10",
+    "lesson_id": 15,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "誰かが来ました。",
+    "sentence_translation": "Ai đó đã đến.",
+    "question_text": "[Bất định: ai đó] （　）が来ました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "誰が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "誰も",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "誰",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "誰か",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "誰か = \"ai đó\" (bất định). KHÁC 誰 (hỏi thật sự). Từ hỏi + か = bất định: 誰か, 何か, どこか",
+    "hint": "\"Ai đó\" (không xác định) → từ hỏi + か = bất định",
+    "tags": [
+      "誰か",
+      "bất_định"
+    ]
+  },
+  {
+    "id": "L15_PR_11",
+    "lesson_id": 15,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "何を食べますか。",
+    "sentence_translation": "Ăn cái gì?",
+    "question_text": "何を → Gặp 何を ở đầu câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐỘNG TỪ (何を = hỏi đối tượng hành động)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có danh từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tính từ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "何を → \"cái gì\" làm đối tượng → dự đoán: ĐỘNG TỪ sẽ xuất hiện sau. 何を + [động từ]ますか. Đọc nhanh hơn!",
+    "hint": null,
+    "tags": [
+      "何を",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L15_PR_12",
+    "lesson_id": 15,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "どこで勉強しますか。",
+    "sentence_translation": "Học ở đâu?",
+    "question_text": "どこで → Gặp どこで, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có danh từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có tính từ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có ĐỘNG TỪ (hỏi nơi chốn hành động diễn ra)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu kết thúc ngay",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "どこで → \"ở đâu\" (nơi hành động xảy ra) → dự đoán: ĐỘNG TỪ sẽ xuất hiện sau. で = nơi hành động diễn ra",
+    "hint": null,
+    "tags": [
+      "どこで",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L15_PR_13",
+    "lesson_id": 15,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "映画を見ませんか。",
+    "sentence_translation": "Đi xem phim không?",
+    "question_text": "見ませんか → Gặp ませんか ở cuối câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu khẳng định",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là câu hỏi phủ định (hỏi thật sự không?)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là LỜI MỜI lịch sự (không phải câu hỏi phủ định)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu phủ định bình thường",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ませんか ở cuối = LỜI MỜI lịch sự \"...không?\". KHÔNG phải hỏi phủ định! 見ませんか = \"đi xem không?\" (mời)",
+    "hint": null,
+    "tags": [
+      "ませんか",
+      "lời_mời",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L15_PR_14",
+    "lesson_id": 15,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "いつ日本に行きますか。",
+    "sentence_translation": "Khi nào đi Nhật?",
+    "question_text": "いつ → Gặp いつ ở đầu câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Câu hỏi về người",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu hỏi về THỜI GIAN → tìm hành động/sự kiện",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu hỏi về nơi chốn",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu khẳng định về thời gian",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いつ → hỏi thời gian → dự đoán: sẽ có hành động/sự kiện phía sau. いつ + [nội dung] + ますか",
+    "hint": null,
+    "tags": [
+      "いつ",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L15_PR_15",
+    "lesson_id": 15,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "荷物を持ちましょうか。",
+    "sentence_translation": "Để tôi mang hành lý nhé?",
+    "question_text": "持ちましょうか → Gặp ましょうか ở cuối câu, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Đây là ĐỀ NGHỊ GIÚP ĐỠ (offering help)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Câu hỏi Yes/No",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là lời mời cùng làm",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Câu phủ định",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ましょうか = đề nghị giúp đỡ \"để tôi...nhé?\". 持ちましょうか = \"để tôi mang nhé?\" Người nói chủ động đề nghị",
+    "hint": null,
+    "tags": [
+      "ましょうか",
+      "đề_nghị",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L15_PR_16",
+    "lesson_id": 15,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "誰かが来ました。",
+    "sentence_translation": "Ai đó đã đến.",
+    "question_text": "誰か → Gặp 誰か (không phải cuối câu), dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "誰か = mệnh lệnh",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "誰か = phủ định \"không ai\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "誰か = \"AI ĐÓ\" (bất định, không hỏi) → câu kể bình thường",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "誰か = câu hỏi \"ai?\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "誰か ở giữa câu = \"ai đó\" (bất định). KHÁC 誰ですか (hỏi thật). か ở giữa câu = bất định, か ở cuối câu = câu hỏi",
+    "hint": null,
+    "tags": [
+      "誰か",
+      "bất_định",
+      "dự_đoán"
+    ]
+  },
+  {
+    "id": "L15_CH_17",
+    "lesson_id": 15,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "あなたは学生ですか",
+    "sentence_translation": "Bạn là sinh viên phải không?",
+    "question_text": "あなたは学生ですか",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "あなたは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "学生ですか",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "あなたは = chủ đề (bạn) | 学生ですか = câu hỏi Yes/No (là sinh viên?). か ở cuối → đây là câu hỏi",
+    "hint": null,
+    "tags": [
+      "か",
+      "yes_no",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L15_CH_18",
+    "lesson_id": 15,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "これは何ですか",
+    "sentence_translation": "Cái này là cái gì?",
+    "question_text": "これは何ですか",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "これは",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "何ですか",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "これは = chủ đề (cái này) | 何ですか = câu hỏi (là cái gì?). 何(なん) trước です",
+    "hint": null,
+    "tags": [
+      "何",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L15_CH_19",
+    "lesson_id": 15,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "昨日どこで何を食べましたか",
+    "sentence_translation": "Hôm qua ăn cái gì ở đâu?",
+    "question_text": "昨日どこで何を食べましたか",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "昨日",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "どこで",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "何を",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "食べましたか",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "昨日 = thời gian (hôm qua) | どこで = hỏi nơi chốn (ở đâu) | 何を = hỏi đối tượng (cái gì) | 食べましたか = động từ quá khứ + hỏi. Hai từ hỏi trong một câu!",
+    "hint": null,
+    "tags": [
+      "どこで",
+      "何を",
+      "chunking",
+      "nhiều_từ_hỏi"
+    ]
+  },
+  {
+    "id": "L15_CH_20",
+    "lesson_id": 15,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "コーヒーと紅茶とどちらが好きですか",
+    "sentence_translation": "Cà phê và hồng trà, cái nào thích hơn?",
+    "question_text": "コーヒーと紅茶とどちらが好きですか",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "コーヒーと",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "紅茶と",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "どちらが",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "好きですか",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "コーヒーと = lựa chọn A | 紅茶と = lựa chọn B | どちらが = hỏi \"cái nào\" | 好きですか = thích?. Cấu trúc AとBとどちらが",
+    "hint": null,
+    "tags": [
+      "どちら",
+      "lựa_chọn",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L15_CH_21",
+    "lesson_id": 15,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "一緒に映画を見ませんか",
+    "sentence_translation": "Cùng đi xem phim không?",
+    "question_text": "一緒に映画を見ませんか",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "一緒に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "映画を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "見ませんか",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "一緒に = cùng nhau | 映画を = đối tượng (phim) | 見ませんか = lời mời lịch sự (đi xem không?). ませんか = mời, KHÔNG phải phủ định",
+    "hint": null,
+    "tags": [
+      "ませんか",
+      "lời_mời",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L15_CH_22",
+    "lesson_id": 15,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "何時に駅で会いましょうか",
+    "sentence_translation": "Mấy giờ gặp nhau ở ga?",
+    "question_text": "何時に駅で会いましょうか",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "何時に",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "駅で",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "会いましょうか",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "何時に = hỏi thời gian (mấy giờ) | 駅で = nơi chốn (ở ga) | 会いましょうか = đề nghị/gợi ý (gặp nhau nhé?). ましょうか = đề nghị cùng làm",
+    "hint": null,
+    "tags": [
+      "ましょうか",
+      "何時",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L15_PD_23",
+    "lesson_id": 15,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "誰が来ましたか / 誰か来ました",
+    "sentence_translation": "Ai đã đến? / Ai đó đã đến.",
+    "question_text": "Câu nào là CÂU HỎI (hỏi thật sự)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "誰が来ましたか (誰が...か = hỏi \"ai?\")",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "誰か来ました (誰か = \"ai đó\", câu kể)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "誰が...か = câu HỎI \"ai?\". 誰か = \"ai đó\" (bất định, không hỏi). Vị trí か KHÁC nhau → nghĩa khác hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "誰が",
+      "誰か",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L15_PD_24",
+    "lesson_id": 15,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "映画を見ませんか / 映画を見ません",
+    "sentence_translation": "Đi xem phim không? / Không xem phim.",
+    "question_text": "Câu nào là LỜI MỜI?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "映画を見ません (ません = phủ định đơn thuần)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "映画を見ませんか (ませんか = lời mời lịch sự)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ませんか (có か) = LỜI MỜI \"...không?\". ません (không か) = PHỦ ĐỊNH \"không...\". Chỉ thêm か mà nghĩa thay đổi hoàn toàn!",
+    "hint": null,
+    "tags": [
+      "ませんか",
+      "ません",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L15_PD_25",
+    "lesson_id": 15,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "何を買いますか / 何で来ましたか",
+    "sentence_translation": "Mua cái gì? / Đến bằng gì?",
+    "question_text": "Câu nào đọc 何 là なに?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "何を買いますか (trước を → なに)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "何で来ましたか (trước で → なん)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "なに: trước を/が/に. なん: trước で/の/です (âm d/n/t). 何を = なにを, 何で = なんで",
+    "hint": null,
+    "tags": [
+      "なに",
+      "なん",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L15_PD_26",
+    "lesson_id": 15,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "どこに行きますか / どこかに行きました",
+    "sentence_translation": "Đi đâu? / Đã đi đâu đó.",
+    "question_text": "Câu nào là CÂU HỎI?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "どこかに行きました (どこか = \"đâu đó\", bất định)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "どこに行きますか (どこ + か cuối = hỏi nơi chốn)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "どこ...か (cuối câu) = hỏi \"ở đâu?\". どこか (giữa câu) = \"đâu đó\" (bất định). Giống 誰/誰か!",
+    "hint": null,
+    "tags": [
+      "どこ",
+      "どこか",
+      "phân_biệt"
+    ]
+  },
+  {
+    "id": "L15_PK_27",
+    "lesson_id": 15,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "何時に誰とどこで会いますか。",
+    "sentence_translation": "Mấy giờ gặp ai ở đâu?",
+    "question_text": "🔒 Gặp nhiều từ hỏi (何時に, 誰と, どこで) → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ cần trả lời từ hỏi cuối cùng",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Mỗi từ hỏi = một ô trống cần đáp → đóng gói: \"hỏi 3 thông tin: thời gian + người + nơi chốn\" → đọc tiếp tìm động từ chính",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Từ hỏi đầu tiên là quan trọng nhất",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đây là 3 câu hỏi riêng biệt",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Nhiều từ hỏi trong 1 câu → 🔒 đóng gói: gom lại thành \"hỏi N thông tin\". Không cần nhớ từng từ hỏi, chỉ cần nhớ \"hỏi thời gian + người + nơi\"",
+    "hint": null,
+    "tags": [
+      "nhiều_từ_hỏi",
+      "đóng_gói"
+    ]
+  },
+  {
+    "id": "L15_PK_28",
+    "lesson_id": 15,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "一緒に映画を見ませんか。",
+    "sentence_translation": "Cùng đi xem phim không?",
+    "question_text": "🔒 Gặp ませんか → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 ませんか = câu hỏi phủ định → \"có phải không...?\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ませんか = LỜI MỜI lịch sự → đóng gói: \"đang mời, không phải phủ định\" → tìm nội dung được mời",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 ませんか = đề nghị giúp đỡ → \"để tôi làm nhé?\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ませんか = phủ định bình thường → \"không làm\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp ませんか → 🔒 đóng gói: \"lời mời\" → giải phóng bộ nhớ, KHÔNG nghĩ là phủ định. Tìm nội dung mời: 映画を見る = xem phim",
+    "hint": null,
+    "tags": [
+      "ませんか",
+      "đóng_gói",
+      "lời_mời"
+    ]
+  },
+  {
+    "id": "L15_PK_29",
+    "lesson_id": 15,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "荷物を持ちましょうか。",
+    "sentence_translation": "Để tôi mang hành lý nhé?",
+    "question_text": "🔒 Gặp ましょうか → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 ましょうか = câu hỏi Yes/No → \"có...không?\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ましょうか = phủ định → \"không làm\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ましょうか = ĐỀ NGHỊ giúp đỡ → đóng gói: \"đang đề nghị làm giúp\" → tìm hành động được đề nghị",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 ましょうか = lời mời cùng làm → \"cùng làm nhé?\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp ましょうか → 🔒 đóng gói: \"đề nghị giúp đỡ\". Người nói chủ động muốn giúp. 持ちましょうか = \"để tôi mang nhé?\"",
+    "hint": null,
+    "tags": [
+      "ましょうか",
+      "đóng_gói",
+      "đề_nghị"
+    ]
+  },
+  {
+    "id": "L15_RO_30",
+    "lesson_id": 15,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "これは何ですか。",
+    "sentence_translation": "Cái này là cái gì?",
+    "question_text": "これは何ですか。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "何ですか",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "これは",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "これは (chủ đề) → 何ですか (hỏi là gì). Từ hỏi ở VỊ TRÍ của thông tin thiếu, KHÔNG đặt đầu câu như tiếng Việt",
+    "hint": null,
+    "tags": [
+      "何",
+      "reorder",
+      "vị_trí_từ_hỏi"
+    ]
+  },
+  {
+    "id": "L15_RO_31",
+    "lesson_id": 15,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "トイレはどこですか。",
+    "sentence_translation": "Nhà vệ sinh ở đâu?",
+    "question_text": "トイレはどこですか。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "どこですか",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "トイレは",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "トイレは (chủ đề) → どこですか (ở đâu?). Tiếng Việt: \"đâu\" đặt đầu → Tiếng Nhật: どこ ở vị trí đáp án",
+    "hint": null,
+    "tags": [
+      "どこ",
+      "reorder",
+      "vị_trí_từ_hỏi"
+    ]
+  },
+  {
+    "id": "L15_RO_32",
+    "lesson_id": 15,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "昨日どこで何を食べましたか。",
+    "sentence_translation": "Hôm qua ăn cái gì ở đâu?",
+    "question_text": "昨日どこで何を食べましたか。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "食べましたか",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "何を",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "どこで",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "昨日",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "昨日 (thời gian) → どこで (hỏi nơi chốn) → 何を (hỏi đối tượng) → 食べましたか (động từ + hỏi). Thứ tự: thời gian → nơi chốn → đối tượng → động từ",
+    "hint": null,
+    "tags": [
+      "nhiều_từ_hỏi",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L15_RO_33",
+    "lesson_id": 15,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "コーヒーと紅茶とどちらが好きですか。",
+    "sentence_translation": "Cà phê và hồng trà, cái nào thích hơn?",
+    "question_text": "コーヒーと紅茶とどちらが好きですか。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "好きですか",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "どちらが",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "紅茶と",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "コーヒーと",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "AとBとどちらが + vị ngữ + か. Hai lựa chọn đặt trước, どちらが hỏi \"cái nào\", vị ngữ + か ở cuối",
+    "hint": null,
+    "tags": [
+      "どちら",
+      "lựa_chọn",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L15_QT_34",
+    "lesson_id": 15,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "明日は何曜日ですか。",
+    "sentence_translation": "Ngày mai là thứ mấy?",
+    "question_text": "明日は / 何曜日ですか。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Ngày mai đi đâu?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ngày mai là ngày mấy?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Hôm nay là thứ mấy?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ngày mai là thứ mấy?",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "何曜日(なんようび) = \"thứ mấy\" (trong tuần), KHÔNG PHẢI \"ngày mấy\" (của tháng). 何 trước よ → đọc なん. 何曜日ですか = hỏi ngày trong tuần (thứ hai, thứ ba...)",
+    "hint": null,
+    "tags": [
+      "何曜日",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L15_QT_35",
+    "lesson_id": 15,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この映画はどうですか。",
+    "sentence_translation": "Bộ phim này thế nào?",
+    "question_text": "この映画は / どうですか。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Bộ phim này khi nào?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bộ phim này thế nào?",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Bộ phim này là gì?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Bộ phim này ở đâu?",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "どう = \"thế nào\" (hỏi ý kiến/cảm nhận). どうですか = \"...thế nào?\" Dùng khi hỏi ý kiến",
+    "hint": null,
+    "tags": [
+      "どう",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L15_QT_36",
+    "lesson_id": 15,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "どうして遅刻しましたか。",
+    "sentence_translation": "Tại sao đến muộn?",
+    "question_text": "どうして / 遅刻しましたか。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tại sao đến muộn?",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Khi nào đến muộn?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ai đến muộn?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đến muộn thế nào?",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "どうして = \"tại sao\" (hỏi lý do). Giống なぜ nhưng どうして thông dụng hơn trong hội thoại",
+    "hint": null,
+    "tags": [
+      "どうして",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L15_QT_37",
+    "lesson_id": 15,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "何か食べましたか。",
+    "sentence_translation": "Có ăn gì không?",
+    "question_text": "何か / 食べましたか。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Ăn cái gì? (hỏi cụ thể)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ăn cái này.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không ăn gì.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Có ăn gì không? (何か = cái gì đó)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "何か = \"cái gì đó\" (bất định). 何か食べましたか = \"có ăn gì (đó) không?\" KHÁC 何を食べましたか = \"ăn cái gì?\" (hỏi cụ thể)",
+    "hint": null,
+    "tags": [
+      "何か",
+      "bất_định",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L15_QT_38",
+    "lesson_id": 15,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この本はいくらですか。",
+    "sentence_translation": "Cuốn sách này bao nhiêu tiền?",
+    "question_text": "この本は / いくらですか。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Cuốn sách này ở đâu?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuốn sách này thế nào?",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cuốn sách này bao nhiêu tiền?",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Cuốn sách này có bao nhiêu?",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いくら = \"bao nhiêu tiền\" (hỏi giá). いくらですか = hỏi giá tiền",
+    "hint": null,
+    "tags": [
+      "いくら",
+      "dịch"
+    ]
+  },
+  {
+    "id": "L15_QT_39",
+    "lesson_id": 15,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "傘を持ちましょうか。",
+    "sentence_translation": "Để tôi cầm ô nhé?",
+    "question_text": "傘を / 持ちましょうか。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Cầm ô không? (hỏi Yes/No)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cùng cầm ô nhé? (mời cùng làm)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Không cầm ô.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Để tôi cầm ô nhé? (đề nghị giúp)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ましょうか = đề nghị giúp đỡ. Người nói chủ động muốn giúp người nghe. 持ちましょうか = \"để tôi cầm nhé?\"",
+    "hint": null,
+    "tags": [
+      "ましょうか",
+      "đề_nghị",
+      "dịch"
+    ]
+  }
+]

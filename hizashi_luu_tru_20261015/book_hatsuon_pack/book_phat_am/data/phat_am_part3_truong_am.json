@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "book": "HIZASHI - Sách Phát âm",
+    "part": 3,
+    "title": "Trường Âm và Âm Ngắt",
+    "chapters": [7, 8],
+    "version": "1.0",
+    "created": "2025-12-04"
+  },
+  "chapters": [
+    {
+      "id": 7,
+      "title": "Trường âm (Chōon) - Nguyên âm dài",
+      "sections": [
+        {
+          "id": "7.1",
+          "title": "Định nghĩa",
+          "definition": "Trường âm là nguyên âm được kéo dài gấp đôi thời lượng bình thường, chiếm 2 mora."
+        },
+        {
+          "id": "7.2",
+          "title": "So sánh Việt-Nhật",
+          "comparison": {
+            "vietnamese": {
+              "feature": "Có phân biệt /ă/ ngắn vs /a/ dài",
+              "but": "Đi kèm thay đổi CHẤT ÂM (khẩu hình)"
+            },
+            "japanese": {
+              "feature": "a và aa có CÙNG chất âm",
+              "difference": "Chỉ khác về THỜI GIAN",
+              "problem": "Người Việt hay bỏ qua vì không nghe thấy thay đổi chất âm"
+            }
+          }
+        },
+        {
+          "id": "7.3",
+          "title": "Cặp Tối thiểu Quan trọng",
+          "minimal_pairs": [
+            {"short": "おばさん (obasan)", "long": "おばあさん (obaasan)", "difference": "Cô/dì vs Bà"},
+            {"short": "ここ (koko)", "long": "こうこう (koukou)", "difference": "Đây vs Trường cấp 3"},
+            {"short": "すし (sushi)", "long": "すうし (suushi)", "difference": "Sushi vs Số học"},
+            {"short": "ビル (biru)", "long": "ビール (biiru)", "difference": "Tòa nhà vs Bia"}
+          ]
+        },
+        {
+          "id": "7.4",
+          "title": "Bẫy Cao độ",
+          "warning": {
+            "problem": "Người Việt dễ nghe nhầm khi trường âm có cao độ PHẲNG và THẤP",
+            "reason": "Não Việt coi đó là âm 'lướt' → rút ngắn",
+            "solution": "Tập trung vào THỜI GIAN, không phải cao độ!"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Âm ngắt (Sokuon) - Khoảng lặng Tích cực",
+      "sections": [
+        {
+          "id": "8.1",
+          "title": "Định nghĩa",
+          "definition": "Sokuon (っ - tsu nhỏ) là khoảng lặng có độ dài = 1 mora, theo sau là phụ âm đôi."
+        },
+        {
+          "id": "8.2",
+          "title": "Cơ chế Phát âm",
+          "mechanism": {
+            "example": "Kitte (切手 - tem thư) = Ki + (ngưng) + te",
+            "wrong": "Kít-tê (nhấn mạnh như trọng âm)",
+            "correct": "Ki-(giữ hơi 1 nhịp)-te",
+            "concept": {
+              "name": "Khoảng lặng Tích cực",
+              "features": [
+                "Cơ quan phát âm duy trì áp lực cao",
+                "Chuẩn bị 'bật' ra phụ âm tiếp theo",
+                "Như lò xo đang bị nén"
+              ]
+            }
+          }
+        },
+        {
+          "id": "8.3",
+          "title": "Cặp Tối thiểu",
+          "minimal_pairs": [
+            {"without": "きて (kite)", "with": "きって (kitte)", "difference": "Đến đây vs Tem/Cắt"},
+            {"without": "いて (ite)", "with": "いって (itte)", "difference": "Có mặt vs Đi/Nói"},
+            {"without": "かこ (kako)", "with": "かっこ (kakko)", "difference": "Quá khứ vs Dấu ngoặc"}
+          ]
+        },
+        {
+          "id": "8.4",
+          "title": "Tận dụng Phụ âm cuối Tiếng Việt",
+          "vietnamese_advantage": {
+            "description": "Tiếng Việt có -p, -t, -k cuối không bật hơi",
+            "examples": [
+              {"word": "hợp", "mechanism": "môi khép, giữ hơi"},
+              {"word": "hát", "mechanism": "lưỡi chạm lợi, giữ hơi"},
+              {"word": "học", "mechanism": "cuống lưỡi chạm ngạc, giữ hơi"}
+            ],
+            "insight": "Đây chính là cơ chế giống Sokuon!",
+            "exercise": "Phát âm 'hợp' → giữ → 'pô' = 'hợp-pô'"
+          }
+        },
+        {
+          "id": "8.5",
+          "title": "Sokuon hóa Cảm xúc",
+          "emphatic_gemination": [
+            {"base": "すごい (sugoi)", "emphatic": "すっごい (suggoi)", "meaning": "Quá tuyệt!"},
+            {"base": "やはり (yahari)", "emphatic": "やっぱり (yappari)", "meaning": "Quả nhiên!"},
+            {"base": "とても (totemo)", "emphatic": "とっても (tottemo)", "meaning": "Rất lắm!"},
+            {"base": "ばかり (bakari)", "emphatic": "ばっかり (bakkari)", "meaning": "Toàn là!"}
+          ]
+        }
+      ]
+    }
+  ]
+}

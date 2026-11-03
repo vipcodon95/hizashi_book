@@ -1,0 +1,426 @@
+# Bài 29: Mệnh đề tương phản & nhượng bộ — けど・のに・ても・ながら
+
+> Tương phản & nhượng bộ là quan hệ "mặc dù A nhưng B" — kết quả trái với kỳ vọng.
+> Tiếng Nhật có nhiều cách diễn đạt, mỗi cách mang sắc thái khác nhau.
+> Chìa khóa: gặp tín hiệu tương phản → dự đoán: phần SAU sẽ **ngược lại** với phần trước.
+
+---
+
+## 1. けど / けれど(も) / が — Nhưng, tuy nhiên
+
+**Cấu trúc:** [Mệnh đề 1 TTT/thể lịch sự] + けど + [Mệnh đề 2]
+
+> けど (văn nói) → けれど → けれども → が (văn viết trang trọng): cùng nghĩa, khác mức độ trang trọng.
+
+```
+日本語は / 難しいけど / おもしろいです。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 日本語は | 🔒 **đóng gói:** "tiếng Nhật" → は cho biết chủ đề → đọc tiếp |
+| 2 | 難しいけど | Aい + **けど** → 🔒 **đóng gói:** "khó" → giải phóng bộ nhớ → けど cho biết: sắp có điều ngược lại → đọc tiếp |
+| 3 | おもしろいです | (chủ ngữ ẩn: tiếng Nhật) → "thú vị" → câu kết thúc ✅ |
+| **Dịch** | | **Tiếng Nhật khó nhưng thú vị.** |
+
+---
+
+```
+薬を / 飲んだけど / 熱が / 下がりません。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 薬を | 🔒 **đóng gói:** "thuốc" → を cho biết đối tượng → đọc tiếp |
+| 2 | 飲んだけど | Vた + **けど** → 🔒 **đóng gói:** "đã uống thuốc" → giải phóng bộ nhớ → けど cho biết: sắp có điều ngược lại → đọc tiếp |
+| 3 | 熱が | 🔒 **đóng gói:** "sốt" → が cho biết chủ ngữ → đọc tiếp |
+| 4 | 下がりません | (chủ ngữ: 熱) → phủ định → "không hạ" → câu kết thúc ✅ |
+| **Dịch** | | **Đã uống thuốc nhưng sốt không hạ.** |
+
+> **Mẹo đọc:** けど đôi khi không mang nghĩa tương phản mạnh, chỉ là cách mở đầu mềm mại: すみませんけど... (xin lỗi nhưng mà...). Nghĩa cụ thể phụ thuộc ngữ cảnh.
+
+---
+
+## 2. のに — Mặc dù ~ (cảm xúc tiếc nuối, bất ngờ)
+
+**Cấu trúc:** [Mệnh đề TTT] + のに + [kết quả bất ngờ]
+
+> **Lưu ý tiếp nối:** Aな dùng **な**のに, N dùng **な**のに.
+
+```
+たくさん / 勉強したのに / テストに / 落ちてしまいました。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | たくさん | trạng từ → "nhiều" |
+| 2 | 勉強したのに | Vた + **のに** → 🔒 **đóng gói:** "đã học nhiều" → giải phóng bộ nhớ → のに cho biết: sắp có kết quả ngược (đáng tiếc) → đọc tiếp |
+| 3 | テストに | 🔒 **đóng gói:** "bài kiểm tra" → に cho biết đích đến → đọc tiếp |
+| 4 | 落ちてしまいました | (chủ ngữ ẩn: tôi) → Vてしまう → tiếc nuối → "đã trượt mất" → câu kết thúc ✅ |
+| **Dịch** | | **Mặc dù đã học nhiều mà vẫn trượt kiểm tra.** |
+
+---
+
+```
+約束したのに / 彼は / 来ませんでした。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 約束したのに | Vた + **のに** → 🔒 **đóng gói:** "đã hẹn" → giải phóng bộ nhớ → のに cho biết: sắp có kết quả ngược (đáng tiếc) → đọc tiếp |
+| 2 | 彼は | 🔒 **đóng gói:** "anh ấy" → は cho biết chủ đề → đọc tiếp |
+| 3 | 来ませんでした | (chủ ngữ: 彼) → phủ định quá khứ → "đã không đến" → câu kết thúc ✅ |
+| **Dịch** | | **Mặc dù đã hẹn nhưng anh ấy không đến.** |
+
+### Phân biệt のに nhượng bộ vs のに mục đích
+
+| | のに nhượng bộ | のに mục đích |
+|---|--------------|-------------|
+| **Trước のに** | Mệnh đề (TTT) | Vる (từ điển) / N |
+| **Nghĩa** | "mặc dù ~" (tiếc nuối) | "để ~" (mục đích sử dụng) |
+| **Ví dụ** | 勉強した**のに**落ちた (học mà vẫn trượt) | この本は勉強する**のに**いい (sách này tốt để học) |
+| **Mẹo đọc** | Kết quả ngược kỳ vọng | Đánh giá tính phù hợp |
+
+---
+
+## 3. ても / でも — Dù cho ~ (giả định nhượng bộ)
+
+**Cấu trúc:** Vても / Aくても / Aでも / Nでも + [kết quả không thay đổi]
+
+```
+雨が / 降っても / サッカーを / します。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 雨が | 🔒 **đóng gói:** "mưa" → が cho biết chủ ngữ → đọc tiếp |
+| 2 | 降っても | Vて + **も** → 🔒 **đóng gói:** "dù mưa rơi" → giải phóng bộ nhớ → ても cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | サッカーを | 🔒 **đóng gói:** "bóng đá" → を cho biết đối tượng → đọc tiếp |
+| 4 | します | (chủ ngữ ẩn: tôi) → "chơi" → câu kết thúc ✅ |
+| **Dịch** | | **Dù có mưa cũng vẫn chơi bóng đá.** |
+
+---
+
+```
+どんなに / 高くても / 買います。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | どんなに | "dù bao nhiêu" → dự đoán: sắp có ても |
+| 2 | 高くても | Aい → くて + **も** → 🔒 **đóng gói:** "dù đắt" → giải phóng bộ nhớ → ても cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | 買います | (chủ ngữ ẩn: tôi) → "vẫn mua" → câu kết thúc ✅ |
+| **Dịch** | | **Dù đắt đến mấy cũng mua.** |
+
+> **Mẹo đọc:** どんなに...ても / いくら...ても → "dù...đến mấy cũng..."
+
+---
+
+## 4. ながら(も) — Mặc dù ~ (nghịch nghĩa, văn viết)
+
+> **Cảnh báo:** ながら có **2 nghĩa**: (1) đồng thời "vừa A vừa B" và (2) nghịch nghĩa "mặc dù". Cách phân biệt ở dưới.
+
+### ながら đồng thời: Vながら + V
+
+```
+音楽を / 聞きながら / 勉強します。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 音楽を | 🔒 **đóng gói:** "nhạc" → を cho biết đối tượng → đọc tiếp |
+| 2 | 聞きながら | Vます + **ながら** → 🔒 **đóng gói:** "vừa nghe nhạc" → giải phóng bộ nhớ → ながら cho biết: sắp có hành động đồng thời → đọc tiếp |
+| 3 | 勉強します | (chủ ngữ ẩn: tôi) → "học" → câu kết thúc ✅ |
+| **Dịch** | | **Vừa nghe nhạc vừa học.** |
+
+---
+
+### ながら(も) nghịch nghĩa: [trạng thái] + ながら(も) — Mặc dù ~
+
+```
+知っていながら / 教えてくれなかった。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 知っていながら | Vている + **ながら** → 🔒 **đóng gói:** "mặc dù biết" → giải phóng bộ nhớ → ながら cho biết: sắp có kết quả ngược → đọc tiếp |
+| 2 | 教えてくれなかった | (chủ ngữ ẩn: người đó) → Vてくれる phủ định quá khứ → "đã không chịu nói cho" → câu kết thúc ✅ |
+| **Dịch** | | **Mặc dù biết mà không chịu nói cho tôi.** |
+
+---
+
+```
+残念ながら / 今回は / 不合格でした。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 残念ながら | Aな + **ながら** → 🔒 **đóng gói:** "đáng tiếc" → giải phóng bộ nhớ → ながら cho biết: sắp có kết quả ngược → đọc tiếp |
+| 2 | 今回は | 🔒 **đóng gói:** "lần này" → は cho biết chủ đề → đọc tiếp |
+| 3 | 不合格でした | (chủ ngữ ẩn: tôi/người đó) → "đã không đậu" → câu kết thúc ✅ |
+| **Dịch** | | **Đáng tiếc là lần này đã không đậu.** |
+
+### Phân biệt ながら đồng thời vs ながら nghịch nghĩa
+
+| | ながら đồng thời | ながら(も) nghịch nghĩa |
+|---|-----------------|----------------------|
+| **Trước ながら** | Vます (gốc động từ) | Vている / Aな / N |
+| **Nghĩa** | "vừa A vừa B" | "mặc dù A nhưng B" |
+| **Ví dụ** | 歩き**ながら**話す (vừa đi vừa nói) | 知ってい**ながら**言わない (biết mà không nói) |
+| **Mẹo** | 2 hành động cùng lúc | 2 mệnh đề mâu thuẫn |
+
+---
+
+## 5. 疑問詞 + ても — Dù...gì/đâu/ai/lúc nào cũng...
+
+```
+何を / 食べても / おいしいです。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 何を | 🔒 **đóng gói:** "cái gì" → を cho biết đối tượng → đọc tiếp |
+| 2 | 食べても | Vて + **も** → 🔒 **đóng gói:** "dù ăn gì" → giải phóng bộ nhớ → ても cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | おいしいです | (chủ ngữ ẩn: món ăn) → "ngon" → câu kết thúc ✅ |
+| **Dịch** | | **Ăn gì cũng ngon.** |
+
+---
+
+```
+いくら / 説明しても / わかってくれません。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | いくら | "dù bao nhiêu" → dự đoán: sắp có ても |
+| 2 | 説明しても | Vて + **も** → 🔒 **đóng gói:** "dù giải thích bao nhiêu" → giải phóng bộ nhớ → ても cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | わかってくれません | (chủ ngữ ẩn: người đó) → "không chịu hiểu" → câu kết thúc ✅ |
+| **Dịch** | | **Dù giải thích bao nhiêu cũng không chịu hiểu.** |
+
+---
+
+```
+どこに / 行っても / 人が / 多いです。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | どこに | 🔒 **đóng gói:** "đâu" → に cho biết hướng đến → đọc tiếp |
+| 2 | 行っても | Vて + **も** → 🔒 **đóng gói:** "dù đi đâu" → giải phóng bộ nhớ → ても cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | 人が | 🔒 **đóng gói:** "người" → が cho biết chủ ngữ → đọc tiếp |
+| 4 | 多いです | "nhiều" → câu kết thúc ✅ |
+| **Dịch** | | **Đi đâu cũng đông người.** |
+
+> **Mẫu phổ biến:** 何を...ても (gì cũng), どこに...ても (đâu cũng), いつ...ても (lúc nào cũng), 誰が...ても (ai cũng), いくら...ても (bao nhiêu cũng).
+
+---
+
+## 6. くせに — Mặc dù ~ (chỉ trích, khinh miệt)
+
+Sắc thái **tiêu cực, trách móc** hơn のに. Thường dùng cho CON NGƯỜI.
+
+> **Lưu ý tiếp nối:** N + **の**くせに, Aな + **な**くせに. Ví dụ: 子供**の**くせに, 下手**な**くせに.
+
+```
+知っている / くせに / 教えてくれない。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 知っている | Vている → "biết" |
+| 2 | くせに | **くせに** → 🔒 **đóng gói:** "rõ ràng biết" → giải phóng bộ nhớ → くせに cho biết: sắp có kết quả ngược (đáng trách) → đọc tiếp |
+| 3 | 教えてくれない | (chủ ngữ ẩn: người đó) → "không chịu nói cho" → câu kết thúc ✅ |
+| **Dịch** | | **Rõ ràng biết mà không chịu nói.** |
+
+---
+
+```
+自分は / できない / くせに / 人の / 文句ばかり / 言う。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 自分は | 🔒 **đóng gói:** "bản thân" → は cho biết chủ đề → đọc tiếp |
+| 2 | できない | TTT phủ định → "không làm được" |
+| 3 | くせに | **くせに** → 🔒 **đóng gói:** "bản thân không làm được" → giải phóng bộ nhớ → くせに cho biết: sắp có kết quả ngược (đáng trách) → đọc tiếp |
+| 4 | 人の文句ばかり | "toàn phàn nàn người khác" |
+| 5 | 言う | (chủ ngữ: 自分 = người đó) → "nói" → câu kết thúc ✅ |
+| **Dịch** | | **Bản thân không làm được mà toàn phàn nàn người khác.** |
+
+> **So sánh のに vs くせに:** のに = tiếc nuối (người nói thất vọng). くせに = chỉ trích (người nói trách móc đối phương).
+
+---
+
+## 7. ものの / とはいえ — Mặc dù ~ (nhẹ, văn viết)
+
+### ものの — Tuy rằng, mặc dù (đã làm nhưng chưa đạt kết quả)
+
+```
+新しいパソコンを / 買ったものの / まだ / 使いこなせていない。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 新しいパソコンを | 🔒 **đóng gói:** "máy tính mới" → を cho biết đối tượng → đọc tiếp |
+| 2 | 買ったものの | Vた + **ものの** → 🔒 **đóng gói:** "tuy đã mua máy tính mới" → giải phóng bộ nhớ → ものの cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | まだ | "vẫn chưa" |
+| 4 | 使いこなせていない | (chủ ngữ ẩn: tôi) → "chưa dùng thành thạo" → câu kết thúc ✅ |
+| **Dịch** | | **Tuy đã mua máy tính mới nhưng vẫn chưa dùng thành thạo.** |
+
+### とはいえ — Tuy nói vậy, dù rằng
+
+```
+春とはいえ / まだ / 寒い日が / あります。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 春とはいえ | N + **とはいえ** → 🔒 **đóng gói:** "tuy nói là mùa xuân" → giải phóng bộ nhớ → とはいえ cho biết: sắp có kết quả ngược → đọc tiếp |
+| 2 | まだ | "vẫn" |
+| 3 | 寒い日が | 🔒 **đóng gói:** "ngày lạnh" → が cho biết chủ ngữ → đọc tiếp |
+| 4 | あります | "có" → câu kết thúc ✅ |
+| **Dịch** | | **Tuy nói là mùa xuân nhưng vẫn có ngày lạnh.** |
+
+---
+
+## 8. にもかかわらず — Bất chấp ~ (trang trọng nhất)
+
+Dạng nhượng bộ trang trọng nhất, thường gặp trong **văn viết, báo chí, báo cáo**.
+
+```
+多くの / 努力にもかかわらず / プロジェクトは / 失敗しました。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 多くの | の → bổ nghĩa → "nhiều" |
+| 2 | 努力にもかかわらず | N + **にもかかわらず** → 🔒 **đóng gói:** "bất chấp nhiều nỗ lực" → giải phóng bộ nhớ → にもかかわらず cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | プロジェクトは | 🔒 **đóng gói:** "dự án" → は cho biết chủ đề → đọc tiếp |
+| 4 | 失敗しました | (chủ ngữ: プロジェクト) → "đã thất bại" → câu kết thúc ✅ |
+| **Dịch** | | **Bất chấp nhiều nỗ lực, dự án đã thất bại.** |
+
+---
+
+```
+雨にもかかわらず / 試合は / 予定通り / 行われました。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 雨にもかかわらず | N + **にもかかわらず** → 🔒 **đóng gói:** "bất chấp mưa" → giải phóng bộ nhớ → にもかかわらず cho biết: sắp có kết quả ngược → đọc tiếp |
+| 2 | 試合は | 🔒 **đóng gói:** "trận đấu" → は cho biết chủ đề → đọc tiếp |
+| 3 | 予定通り | "đúng kế hoạch" |
+| 4 | 行われました | (chủ ngữ: 試合) → bị động → "đã được tổ chức" → câu kết thúc ✅ |
+| **Dịch** | | **Bất chấp mưa, trận đấu vẫn được tổ chức đúng kế hoạch.** |
+
+---
+
+```
+何度も / 注意したにもかかわらず / 同じ / 間違いを / 繰り返した。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 何度も | "nhiều lần" |
+| 2 | 注意したにもかかわらず | Vた + **にもかかわらず** → 🔒 **đóng gói:** "bất chấp đã nhắc nhở nhiều lần" → giải phóng bộ nhớ → にもかかわらず cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | 同じ | "cùng một" |
+| 4 | 間違いを | 🔒 **đóng gói:** "lỗi sai" → を cho biết đối tượng → đọc tiếp |
+| 5 | 繰り返した | (chủ ngữ ẩn: người đó) → "đã lặp lại" → câu kết thúc ✅ |
+| **Dịch** | | **Bất chấp đã nhắc nhở nhiều lần, vẫn lặp lại cùng một lỗi sai.** |
+
+---
+
+## 9. けど bỏ lửng cuối câu — Nói dở, ngầm ý
+
+Rất phổ biến trong **văn nói, manga**. Người nói dừng ở けど, không nói vế sau → người nghe tự hiểu.
+
+```
+ちょっと / 聞きたいんですけど...
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | ちょっと | "một chút" |
+| 2 | 聞きたいんですけど... | Vたい + んです + **けど...** → 🔒 **đóng gói:** "muốn hỏi chút" → giải phóng bộ nhớ → けど... cho biết: mào đầu, sắp có yêu cầu → câu kết thúc (bỏ lửng) ✅ |
+| **Dịch** | | **Tôi muốn hỏi một chút...** (ngầm: được không?) |
+
+---
+
+```
+明日の / パーティーなんですけど...
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 明日の | の → bổ nghĩa → "ngày mai" |
+| 2 | パーティーなんですけど... | N + なんです + **けど...** → 🔒 **đóng gói:** "về tiệc ngày mai" → giải phóng bộ nhớ → けど... cho biết: mào đầu, sắp có yêu cầu → câu kết thúc (bỏ lửng) ✅ |
+| **Dịch** | | **Về tiệc ngày mai ấy...** (ngầm: tôi muốn nói/hỏi gì đó) |
+
+> **Mẹo đọc:** Gặp けど... ở cuối câu (có dấu ...) → đây là mào đầu, người nói đang dẫn dắt. Phần quan trọng nằm ở CÂU SAU.
+
+---
+
+## 10. Liên từ tương phản đầu câu — しかし・でも・ところが・それでも・それなのに
+
+Tương tự bài 28 có だから/そのため, bài này có liên từ tương phản nối 2 câu riêng biệt.
+
+```
+毎日練習しました。しかし / 試合に / 負けました。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 毎日練習しました。 | (chủ ngữ ẩn: tôi) → "Mỗi ngày đều luyện tập." → câu 1 kết thúc ✅ |
+| 2 | しかし | 🔒 **đóng gói:** "đã luyện tập mỗi ngày" → giải phóng bộ nhớ → しかし cho biết: sắp có kết quả ngược → đọc tiếp |
+| 3 | 試合に | 🔒 **đóng gói:** "trận đấu" → に cho biết đích đến → đọc tiếp |
+| 4 | 負けました | (chủ ngữ ẩn: tôi) → "đã thua" → câu kết thúc ✅ |
+| **Dịch** | | **Mỗi ngày đều luyện tập. Tuy nhiên đã thua trận.** |
+
+---
+
+```
+天気予報は / 晴れでした。ところが / 急に / 雨が / 降ってきました。
+```
+
+| Bước | Đọc | Xử lý |
+|------|-----|-------|
+| 1 | 天気予報は晴れでした。 | "Dự báo thời tiết nói nắng." → câu 1 kết thúc ✅ |
+| 2 | ところが | 🔒 **đóng gói:** "dự báo nói nắng" → giải phóng bộ nhớ → ところが cho biết: sắp có kết quả ngược (bất ngờ) → đọc tiếp |
+| 3 | 急に | "đột nhiên" |
+| 4 | 雨が降ってきました | "mưa bắt đầu rơi" → câu kết thúc ✅ |
+| **Dịch** | | **Dự báo nói nắng. Ai ngờ đột nhiên mưa.** |
+
+> **So sánh liên từ tương phản:**
+> | Liên từ | Sắc thái | Ngữ cảnh |
+> |---------|----------|----------|
+> | **でも** | Nhẹ, thân mật | Hội thoại, văn nói |
+> | **けれども** | Trung tính | Cả văn nói lẫn viết |
+> | **しかし** | Trang trọng | Văn viết, phát biểu |
+> | **ところが** | Bất ngờ, ngoài dự kiến | Kể chuyện, tin tức |
+> | **それでも** | Dù vậy vẫn ~ (ý chí, quyết tâm) | Nhượng bộ + kiên trì |
+> | **それなのに** | Tiếc nuối, bất mãn (= のに đầu câu) | Cảm xúc mạnh |
+
+---
+
+## Dự đoán tổng hợp: Mệnh đề tương phản & nhượng bộ
+
+| Gặp tín hiệu | Dự đoán | Sắc thái |
+|--------------|---------|----------|
+| [Mệnh đề] + **けど/が** | Tương phản: sắp có điều ngược lại | Trung tính |
+| **けど...** (cuối câu, bỏ lửng) | Mào đầu: sắp có yêu cầu/câu hỏi | Lịch sự, dẫn dắt |
+| [TTT] + **のに** | Nhượng bộ + tiếc nuối: "mặc dù ~ mà..." | Thất vọng |
+| **くせに** | Nhượng bộ + chỉ trích: "rõ ràng ~ mà..." | Trách móc |
+| Vて + **も** | Nhượng bộ giả định: "dù cho ~ cũng..." | Kết quả không đổi |
+| **疑問詞** + ...ても | "Dù gì/đâu/ai/lúc nào cũng..." | Tổng quát hóa |
+| **ものの** | Nhượng bộ nhẹ: "tuy rằng ~" | Văn viết |
+| **とはいえ** | "Tuy nói vậy nhưng ~" | Văn viết |
+| **にもかかわらず** | "Bất chấp ~" | Trang trọng nhất |
+| Vます + **ながら** | Đồng thời: "vừa A vừa B" | Không tương phản |
+| Vている + **ながら(も)** | Nghịch nghĩa: "mặc dù ~" | Văn viết |
+| **しかし** (đầu câu) | Liên từ: "tuy nhiên" | Trang trọng |
+| **でも** (đầu câu) | Liên từ: "nhưng mà" | Thân mật |
+| **ところが** (đầu câu) | Liên từ: "ai ngờ / thế nhưng" | Bất ngờ |
+| **それでも** (đầu câu) | Liên từ: "dù vậy vẫn" | Ý chí, quyết tâm |
+| **それなのに** (đầu câu) | Liên từ: "vậy mà" | Bất mãn |
+
+> **Nguyên tắc vàng:** Gặp tín hiệu tương phản/nhượng bộ → não lập tức chuẩn bị cho kết quả **ngược** với phần đã đọc. Sắc thái cảm xúc phụ thuộc vào TÍN HIỆU: けど (nhẹ) → のに (tiếc) → くせに (trách) → にもかかわらず (trang trọng).

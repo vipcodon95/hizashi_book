@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "book": "HIZASHI - Sách Phát âm",
+    "part": 1,
+    "title": "Nền Tảng Ngữ Âm",
+    "chapters": [1, 2],
+    "version": "1.0",
+    "created": "2025-12-04"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Mora vs Âm tiết - Sự Khác biệt Căn bản",
+      "sections": [
+        {
+          "id": "1.1",
+          "title": "Xung đột Cốt lõi",
+          "comparison": {
+            "vietnamese": {
+              "system": "Syllable-timed",
+              "name_vi": "Đẳng âm tiết",
+              "example": "Nippon = 2 nhịp (Nip-Pon)"
+            },
+            "japanese": {
+              "system": "Mora-timed",
+              "name_vi": "Đẳng mora",
+              "example": "Nippon = 4 nhịp (Ni-p-po-n)"
+            }
+          }
+        },
+        {
+          "id": "1.2",
+          "title": "Mora là gì?",
+          "definition": "Mora (拍 - Haku) là đơn vị thời gian tâm lý trong tiếng Nhật, mỗi mora có độ dài tương đương nhau.",
+          "mora_types": [
+            {"type": "CV", "description": "Phụ âm + Nguyên âm", "examples": ["ka", "ki", "ku", "ke", "ko"], "sample": "書く (ka-ku) = 2 mora"},
+            {"type": "V", "description": "Nguyên âm đơn", "examples": ["a", "i", "u", "e", "o"], "sample": "青い (a-o-i) = 3 mora"},
+            {"type": "N", "description": "Âm mũi", "symbol": "ん", "sample": "本 (ho-n) = 2 mora"},
+            {"type": "Q", "description": "Âm ngắt (Sokuon)", "symbol": "っ", "sample": "切手 (ki-t-te) = 3 mora"},
+            {"type": "R", "description": "Trường âm", "symbol": "ー", "sample": "東京 (to-u-kyo-u) = 4 mora"}
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": "Vấn đề của Người Việt",
+          "common_error": {
+            "name": "Nén mora vào âm tiết",
+            "example": {
+              "word": "Nippon (日本)",
+              "correct": "Ni - (p) - po - n = 4 nhịp đều",
+              "wrong": "Níp - Pon = 2 nhịp không đều"
+            },
+            "consequences": [
+              "Nói quá nhanh (rushing)",
+              "Bỏ sót âm ngắt và âm mũi",
+              "Người Nhật khó hiểu"
+            ]
+          }
+        },
+        {
+          "id": "1.4",
+          "title": "Bài tập Cảm nhận Mora",
+          "instruction": "Vỗ tay đều đặn theo mỗi mora",
+          "exercises": [
+            {"word": "がっこう", "meaning": "trường", "mora_breakdown": "ga-k-ko-u", "claps": 4},
+            {"word": "おばあさん", "meaning": "bà", "mora_breakdown": "o-ba-a-sa-n", "claps": 5},
+            {"word": "ちょっと", "meaning": "một chút", "mora_breakdown": "cho-t-to", "claps": 3},
+            {"word": "こんにちは", "meaning": "xin chào", "mora_breakdown": "ko-n-ni-chi-wa", "claps": 5}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Trọng âm Cao độ (Pitch Accent) Tokyo",
+      "sections": [
+        {
+          "id": "2.1",
+          "title": "Khác biệt Căn bản: Thanh điệu vs Trọng âm",
+          "comparison": {
+            "vietnamese": {
+              "system": "Tonal (Thanh điệu)",
+              "tones": ["Ngang", "Huyền", "Sắc", "Hỏi", "Ngã", "Nặng"],
+              "note": "Mỗi âm tiết có một thanh cố định, phân biệt NGHĨA"
+            },
+            "japanese": {
+              "system": "Pitch-accent (Trọng âm cao độ)",
+              "levels": ["Cao (H)", "Thấp (L)"],
+              "note": "Cao độ vẽ 'đường viền' cho từ, không có đường nét uốn lượn"
+            }
+          }
+        },
+        {
+          "id": "2.2",
+          "title": "Quy tắc Vàng của Tokyo",
+          "golden_rule": "Cao độ PHẢI thay đổi giữa mora thứ 1 và mora thứ 2",
+          "rules": [
+            "Nếu mora 1 là Thấp → mora 2 phải là Cao",
+            "Nếu mora 1 là Cao → mora 2 phải là Thấp"
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "Bốn Mô hình Trọng âm",
+          "patterns": [
+            {"type": "Heiban", "name_vi": "Phẳng", "pattern": "L-H-H...", "example": "桜 (Sakura)", "pronunciation": "L-H-H"},
+            {"type": "Atamadaka", "name_vi": "Đầu cao", "pattern": "H-L-L...", "example": "命 (Inochi)", "pronunciation": "H-L-L"},
+            {"type": "Nakadaka", "name_vi": "Giữa cao", "pattern": "L-H...-L", "example": "卵 (Tamago)", "pronunciation": "L-H-L"},
+            {"type": "Odaka", "name_vi": "Đuôi cao", "pattern": "L-H-H (trợ từ L)", "example": "花 (Hana)", "pronunciation": "L-H"}
+          ]
+        },
+        {
+          "id": "2.4",
+          "title": "Phân tích Konnichiwa",
+          "word": "こんにちは",
+          "analysis": {
+            "type": "Heiban (Kiểu 0)",
+            "structure": "5 mora: Ko-n-ni-chi-wa",
+            "target": "L-H-H-H-H",
+            "visualization": "Ko(thấp) → n-ni-chi-wa (cao nguyên phẳng)"
+          },
+          "vietnamese_error": {
+            "wrong": "CỐN (Thanh Sắc) - ni - chi - wà (Thanh Huyền)",
+            "correct": "Ko (thấp) - n - ni - chi - wa (đều cao, không uốn lượn)"
+          }
+        },
+        {
+          "id": "2.5",
+          "title": "Giao thoa Tiêu cực từ Tiếng Việt",
+          "interference_patterns": [
+            {"vietnamese_habit": "Thêm Thanh Sắc vào H", "japanese_need": "Giữ phẳng H", "result": "Nghe 'hát'"},
+            {"vietnamese_habit": "Thêm Thanh Huyền vào L", "japanese_need": "Giữ phẳng L", "result": "Nghe 'buồn'"},
+            {"vietnamese_habit": "Tạo đường trượt (glide)", "japanese_need": "Bước nhảy (step)", "result": "Mất ranh giới mora"}
+          ]
+        }
+      ]
+    }
+  ]
+}

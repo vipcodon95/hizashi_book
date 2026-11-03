@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "name": "Kiểm tra Giai đoạn 1 - Bảng chữ cái",
+    "name_jp": "第1段階テスト - 五十音",
+    "description": "Bài kiểm tra tổng hợp: Bảng chữ cái + Trường âm + Âm ngắt",
+    "prerequisite": ["alphabet", "chouon", "sokuon"],
+    "total_questions": 100,
+    "passing_score": 80,
+    "time_limit_minutes": 30,
+    "sections": [
+      "Section A: Phân biệt âm cơ bản (20 câu)",
+      "Section B: Trường âm (25 câu)",
+      "Section C: Âm ngắt (25 câu)",
+      "Section D: Tổng hợp - Mixed (30 câu)"
+    ]
+  },
+  "sections": {
+    "A": {
+      "name": "Phân biệt âm cơ bản",
+      "name_jp": "基本音の聞き分け",
+      "description": "Kiểm tra khả năng phân biệt các âm dễ nhầm lẫn",
+      "total_questions": 20,
+      "points_per_question": 1,
+      "exercises": {
+        "choose_one": {
+          "instruction": "Nghe và chọn âm/từ đúng",
+          "questions": [
+            { "id": "A01", "audio": "ら", "options": ["ら", "だ"], "answer": "ら", "category": "r_vs_d" },
+            { "id": "A02", "audio": "だ", "options": ["ら", "だ"], "answer": "だ", "category": "r_vs_d" },
+            { "id": "A03", "audio": "す", "options": ["す", "つ"], "answer": "す", "category": "s_vs_ts" },
+            { "id": "A04", "audio": "つ", "options": ["す", "つ"], "answer": "つ", "category": "s_vs_ts" },
+            { "id": "A05", "audio": "ふ", "options": ["ふ", "う"], "answer": "ふ", "category": "f_vs_u" },
+            { "id": "A06", "audio": "か", "options": ["か", "が"], "answer": "か", "category": "voiceless_voiced" },
+            { "id": "A07", "audio": "が", "options": ["か", "が"], "answer": "が", "category": "voiceless_voiced" },
+            { "id": "A08", "audio": "た", "options": ["た", "だ"], "answer": "た", "category": "voiceless_voiced" },
+            { "id": "A09", "audio": "は", "options": ["は", "ば", "ぱ"], "answer": "は", "category": "h_b_p" },
+            { "id": "A10", "audio": "ば", "options": ["は", "ば", "ぱ"], "answer": "ば", "category": "h_b_p" },
+            { "id": "A11", "audio": "ぱ", "options": ["は", "ば", "ぱ"], "answer": "ぱ", "category": "h_b_p" },
+            { "id": "A12", "audio": "し", "options": ["し", "ち"], "answer": "し", "category": "sh_vs_ch" },
+            { "id": "A13", "audio": "ち", "options": ["し", "ち"], "answer": "ち", "category": "sh_vs_ch" },
+            { "id": "A14", "audio": "しゃ", "options": ["しゃ", "ちゃ"], "answer": "しゃ", "category": "sha_vs_cha" },
+            { "id": "A15", "audio": "ちゃ", "options": ["しゃ", "ちゃ"], "answer": "ちゃ", "category": "sha_vs_cha" },
+            { "id": "A16", "audio": "きょ", "options": ["きょ", "きよ"], "answer": "きょ", "category": "yoon" },
+            { "id": "A17", "audio": "きよ", "options": ["きょ", "きよ"], "answer": "きよ", "category": "yoon" },
+            { "id": "A18", "audio": "りょ", "options": ["りょ", "りよ"], "answer": "りょ", "category": "yoon" },
+            { "id": "A19", "audio": "ざ", "options": ["ざ", "じゃ"], "answer": "ざ", "category": "za_vs_ja" },
+            { "id": "A20", "audio": "じゃ", "options": ["ざ", "じゃ"], "answer": "じゃ", "category": "za_vs_ja" }
+          ]
+        }
+      }
+    },
+    "B": {
+      "name": "Trường âm (長音)",
+      "name_jp": "長音テスト",
+      "description": "Kiểm tra khả năng nghe phân biệt trường âm",
+      "total_questions": 25,
+      "points_per_question": 1,
+      "exercises": {
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng (chú ý trường âm)",
+          "questions": [
+            { "id": "B01", "audio": "おばさん", "options": ["おばさん", "おばあさん"], "answer": "おばさん", "meaning": ["cô", "bà"], "category": "aa" },
+            { "id": "B02", "audio": "おばあさん", "options": ["おばさん", "おばあさん"], "answer": "おばあさん", "meaning": ["cô", "bà"], "category": "aa" },
+            { "id": "B03", "audio": "おじさん", "options": ["おじさん", "おじいさん"], "answer": "おじさん", "meaning": ["chú", "ông"], "category": "ii" },
+            { "id": "B04", "audio": "おじいさん", "options": ["おじさん", "おじいさん"], "answer": "おじいさん", "meaning": ["chú", "ông"], "category": "ii" },
+            { "id": "B05", "audio": "ゆき", "options": ["ゆき", "ゆうき"], "answer": "ゆき", "meaning": ["tuyết", "dũng cảm"], "category": "uu" },
+            { "id": "B06", "audio": "ゆうき", "options": ["ゆき", "ゆうき"], "answer": "ゆうき", "meaning": ["tuyết", "dũng cảm"], "category": "uu" },
+            { "id": "B07", "audio": "いえ", "options": ["いえ", "いいえ"], "answer": "いえ", "meaning": ["nhà", "không"], "category": "ii" },
+            { "id": "B08", "audio": "いいえ", "options": ["いえ", "いいえ"], "answer": "いいえ", "meaning": ["nhà", "không"], "category": "ii" },
+            { "id": "B09", "audio": "せんせい", "options": ["せんせ", "せんせい"], "answer": "せんせい", "meaning": ["-", "giáo viên"], "category": "ei" },
+            { "id": "B10", "audio": "えいご", "options": ["えご", "えいご"], "answer": "えいご", "meaning": ["-", "tiếng Anh"], "category": "ei" },
+            { "id": "B11", "audio": "がっこう", "options": ["がこう", "がっこう"], "answer": "がっこう", "meaning": ["-", "trường học"], "category": "ou", "note": "Cũng có sokuon" },
+            { "id": "B12", "audio": "とうきょう", "options": ["ときょう", "とうきょう"], "answer": "とうきょう", "meaning": ["-", "Tokyo"], "category": "ou" },
+            { "id": "B13", "audio": "おおきい", "options": ["おきい", "おおきい"], "answer": "おおきい", "meaning": ["-", "to, lớn"], "category": "oo" },
+            { "id": "B14", "audio": "とおい", "options": ["とい", "とおい"], "answer": "とおい", "meaning": ["-", "xa"], "category": "oo" },
+            { "id": "B15", "audio": "おねえさん", "options": ["おねさん", "おねえさん"], "answer": "おねえさん", "meaning": ["-", "chị gái"], "category": "ee" },
+            { "id": "B16", "audio": "きょう", "options": ["きょ", "きょう"], "answer": "きょう", "meaning": ["-", "hôm nay"], "category": "yoon_chouon" },
+            { "id": "B17", "audio": "りょうり", "options": ["りょり", "りょうり"], "answer": "りょうり", "meaning": ["-", "nấu ăn"], "category": "yoon_chouon" },
+            { "id": "B18", "audio": "じゅう", "options": ["じゅ", "じゅう"], "answer": "じゅう", "meaning": ["-", "mười"], "category": "yoon_chouon" },
+            { "id": "B19", "audio": "びょういん", "options": ["びょいん", "びょういん"], "answer": "びょういん", "meaning": ["-", "bệnh viện"], "category": "yoon_chouon" },
+            { "id": "B20", "audio": "しゅうまつ", "options": ["しゅまつ", "しゅうまつ"], "answer": "しゅうまつ", "meaning": ["-", "cuối tuần"], "category": "yoon_chouon" }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "id": "B21", "audio": "おばあさん", "answer": 5, "breakdown": "o-ba-a-sa-n" },
+            { "id": "B22", "audio": "せんせい", "answer": 4, "breakdown": "se-n-se-i" },
+            { "id": "B23", "audio": "とうきょう", "answer": 4, "breakdown": "to-u-kyo-u" },
+            { "id": "B24", "audio": "りょうり", "answer": 3, "breakdown": "ryo-u-ri" },
+            { "id": "B25", "audio": "びょういん", "answer": 4, "breakdown": "byo-u-i-n" }
+          ]
+        }
+      }
+    },
+    "C": {
+      "name": "Âm ngắt (促音)",
+      "name_jp": "促音テスト",
+      "description": "Kiểm tra khả năng nghe phân biệt âm ngắt っ",
+      "total_questions": 25,
+      "points_per_question": 1,
+      "exercises": {
+        "choose_one": {
+          "instruction": "Nghe và chọn từ đúng (chú ý âm ngắt っ)",
+          "questions": [
+            { "id": "C01", "audio": "いた", "options": ["いた", "いった"], "answer": "いた", "meaning": ["đã ở", "đã đi"], "category": "tt" },
+            { "id": "C02", "audio": "いった", "options": ["いた", "いった"], "answer": "いった", "meaning": ["đã ở", "đã đi"], "category": "tt" },
+            { "id": "C03", "audio": "きて", "options": ["きて", "きって"], "answer": "きて", "meaning": ["đến đi", "tem"], "category": "tt" },
+            { "id": "C04", "audio": "きって", "options": ["きて", "きって"], "answer": "きって", "meaning": ["đến đi", "tem"], "category": "tt" },
+            { "id": "C05", "audio": "もと", "options": ["もと", "もっと"], "answer": "もと", "meaning": ["gốc", "nhiều hơn"], "category": "tt" },
+            { "id": "C06", "audio": "もっと", "options": ["もと", "もっと"], "answer": "もっと", "meaning": ["gốc", "nhiều hơn"], "category": "tt" },
+            { "id": "C07", "audio": "さか", "options": ["さか", "さっか"], "answer": "さか", "meaning": ["dốc", "nhà văn"], "category": "kk" },
+            { "id": "C08", "audio": "さっか", "options": ["さか", "さっか"], "answer": "さっか", "meaning": ["dốc", "nhà văn"], "category": "kk" },
+            { "id": "C09", "audio": "ねこ", "options": ["ねこ", "ねっこ"], "answer": "ねこ", "meaning": ["mèo", "rễ cây"], "category": "kk" },
+            { "id": "C10", "audio": "ねっこ", "options": ["ねこ", "ねっこ"], "answer": "ねっこ", "meaning": ["mèo", "rễ cây"], "category": "kk" },
+            { "id": "C11", "audio": "ざっし", "options": ["ざし", "ざっし"], "answer": "ざっし", "meaning": ["-", "tạp chí"], "category": "ss" },
+            { "id": "C12", "audio": "いっぱい", "options": ["いぱい", "いっぱい"], "answer": "いっぱい", "meaning": ["-", "đầy"], "category": "pp" },
+            { "id": "C13", "audio": "きっぷ", "options": ["きぷ", "きっぷ"], "answer": "きっぷ", "meaning": ["-", "vé"], "category": "pp" },
+            { "id": "C14", "audio": "やっぱり", "options": ["やぱり", "やっぱり"], "answer": "やっぱり", "meaning": ["-", "quả nhiên"], "category": "pp" },
+            { "id": "C15", "audio": "いしょ", "options": ["いしょ", "いっしょ"], "answer": "いしょ", "meaning": ["di chúc", "cùng nhau"], "category": "ssh" },
+            { "id": "C16", "audio": "いっしょ", "options": ["いしょ", "いっしょ"], "answer": "いっしょ", "meaning": ["di chúc", "cùng nhau"], "category": "ssh" },
+            { "id": "C17", "audio": "マッチ", "options": ["マチ", "マッチ"], "answer": "マッチ", "meaning": ["-", "diêm"], "category": "tch" },
+            { "id": "C18", "audio": "はっきり", "options": ["はきり", "はっきり"], "answer": "はっきり", "meaning": ["-", "rõ ràng"], "category": "kk" },
+            { "id": "C19", "audio": "ずっと", "options": ["ずと", "ずっと"], "answer": "ずっと", "meaning": ["-", "mãi mãi"], "category": "tt" },
+            { "id": "C20", "audio": "まって", "options": ["まて", "まって"], "answer": "まって", "meaning": ["-", "đợi đã"], "category": "tt" }
+          ]
+        },
+        "count_mora": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "id": "C21", "audio": "いった", "answer": 3, "breakdown": "i-Q-ta" },
+            { "id": "C22", "audio": "きっぷ", "answer": 3, "breakdown": "ki-Q-pu" },
+            { "id": "C23", "audio": "いっしょ", "answer": 3, "breakdown": "i-Q-sho" },
+            { "id": "C24", "audio": "はっきり", "answer": 4, "breakdown": "ha-Q-ki-ri" },
+            { "id": "C25", "audio": "きっかけ", "answer": 4, "breakdown": "ki-Q-ka-ke" }
+          ]
+        }
+      }
+    },
+    "D": {
+      "name": "Tổng hợp - Mixed Challenge",
+      "name_jp": "総合テスト",
+      "description": "Bài tập trộn tất cả các dạng - thử thách cuối cùng!",
+      "total_questions": 30,
+      "points_per_question": 1,
+      "exercises": {
+        "choose_one_mixed": {
+          "instruction": "Nghe và chọn từ đúng (trộn tất cả các dạng)",
+          "questions": [
+            { "id": "D01", "audio": "らく", "options": ["らく", "だく"], "answer": "らく", "meaning": ["thoải mái", "ôm"], "type": "alphabet" },
+            { "id": "D02", "audio": "すき", "options": ["すき", "つき"], "answer": "すき", "meaning": ["thích", "mặt trăng"], "type": "alphabet" },
+            { "id": "D03", "audio": "おかあさん", "options": ["おかさん", "おかあさん"], "answer": "おかあさん", "meaning": ["-", "mẹ"], "type": "chouon" },
+            { "id": "D04", "audio": "かった", "options": ["かた", "かった"], "answer": "かった", "meaning": ["vai", "đã mua"], "type": "sokuon" },
+            { "id": "D05", "audio": "しかい", "options": ["しかい", "ちかい"], "answer": "しかい", "meaning": ["MC", "gần"], "type": "alphabet" },
+            { "id": "D06", "audio": "ちかい", "options": ["しかい", "ちかい"], "answer": "ちかい", "meaning": ["MC", "gần"], "type": "alphabet" },
+            { "id": "D07", "audio": "くうき", "options": ["くき", "くうき"], "answer": "くうき", "meaning": ["thân cây", "không khí"], "type": "chouon" },
+            { "id": "D08", "audio": "かっこ", "options": ["かこ", "かっこ"], "answer": "かっこ", "meaning": ["quá khứ", "ngoặc"], "type": "sokuon" },
+            { "id": "D09", "audio": "きょう", "options": ["きょ", "きょう"], "answer": "きょう", "meaning": ["-", "hôm nay"], "type": "chouon" },
+            { "id": "D10", "audio": "びょういん", "options": ["びょういん", "びよういん"], "answer": "びょういん", "meaning": ["bệnh viện", "viện thẩm mỹ"], "type": "yoon" },
+            { "id": "D11", "audio": "びよういん", "options": ["びょういん", "びよういん"], "answer": "びよういん", "meaning": ["bệnh viện", "viện thẩm mỹ"], "type": "yoon" },
+            { "id": "D12", "audio": "サッカー", "options": ["サカー", "サッカー"], "answer": "サッカー", "meaning": ["-", "bóng đá"], "type": "sokuon_chouon" },
+            { "id": "D13", "audio": "コーヒー", "options": ["コヒー", "コーヒー"], "answer": "コーヒー", "meaning": ["-", "cà phê"], "type": "chouon" },
+            { "id": "D14", "audio": "しゅうまつ", "options": ["しゅまつ", "しゅうまつ"], "answer": "しゅうまつ", "meaning": ["-", "cuối tuần"], "type": "chouon" },
+            { "id": "D15", "audio": "にっぽん", "options": ["にぽん", "にっぽん"], "answer": "にっぽん", "meaning": ["-", "Nhật Bản"], "type": "sokuon" },
+            { "id": "D16", "audio": "しょうがっこう", "options": ["しょうがこう", "しょうがっこう"], "answer": "しょうがっこう", "meaning": ["-", "trường tiểu học"], "type": "sokuon_chouon" },
+            { "id": "D17", "audio": "じゆう", "options": ["じゅう", "じゆう"], "answer": "じゆう", "meaning": ["mười", "tự do"], "type": "yoon" },
+            { "id": "D18", "audio": "じゅう", "options": ["じゅう", "じゆう"], "answer": "じゅう", "meaning": ["mười", "tự do"], "type": "yoon" },
+            { "id": "D19", "audio": "ぎゅうにく", "options": ["ぎゅにく", "ぎゅうにく"], "answer": "ぎゅうにく", "meaning": ["-", "thịt bò"], "type": "chouon" },
+            { "id": "D20", "audio": "りょこう", "options": ["りょこ", "りょこう"], "answer": "りょこう", "meaning": ["-", "du lịch"], "type": "chouon" }
+          ]
+        },
+        "count_mora_mixed": {
+          "instruction": "Nghe và đếm số mora",
+          "questions": [
+            { "id": "D21", "audio": "おばあさん", "answer": 5, "breakdown": "o-ba-a-sa-n", "type": "chouon" },
+            { "id": "D22", "audio": "いった", "answer": 3, "breakdown": "i-Q-ta", "type": "sokuon" },
+            { "id": "D23", "audio": "がっこう", "answer": 4, "breakdown": "ga-Q-ko-u", "type": "sokuon_chouon" },
+            { "id": "D24", "audio": "しょうがっこう", "answer": 6, "breakdown": "sho-u-ga-Q-ko-u", "type": "sokuon_chouon" },
+            { "id": "D25", "audio": "びょういん", "answer": 4, "breakdown": "byo-u-i-n", "type": "chouon" }
+          ]
+        },
+        "identify_features": {
+          "instruction": "Nghe và xác định từ có những đặc điểm gì: [A] chỉ có trường âm, [B] chỉ có âm ngắt, [C] có cả hai, [D] không có cả hai",
+          "questions": [
+            { "id": "D26", "audio": "せんせい", "answer": "A", "note": "Chỉ có trường âm ei" },
+            { "id": "D27", "audio": "きって", "answer": "B", "note": "Chỉ có âm ngắt っ" },
+            { "id": "D28", "audio": "がっこう", "answer": "C", "note": "Có cả っ và ou" },
+            { "id": "D29", "audio": "ねこ", "answer": "D", "note": "Không có cả hai" },
+            { "id": "D30", "audio": "サッカー", "answer": "C", "note": "Có cả っ và ー" }
+          ]
+        }
+      }
+    }
+  },
+  "scoring": {
+    "total_points": 100,
+    "passing_score": 80,
+    "grade_levels": [
+      { "grade": "S", "min_score": 95, "description": "Xuất sắc! Sẵn sàng cho giai đoạn tiếp theo" },
+      { "grade": "A", "min_score": 85, "description": "Giỏi! Nắm vững kiến thức cơ bản" },
+      { "grade": "B", "min_score": 75, "description": "Khá! Cần ôn lại một số phần" },
+      { "grade": "C", "min_score": 65, "description": "Trung bình! Nên ôn lại trước khi tiếp tục" },
+      { "grade": "D", "min_score": 50, "description": "Yếu! Cần học lại giai đoạn này" },
+      { "grade": "F", "min_score": 0, "description": "Chưa đạt! Hãy học lại từ đầu" }
+    ],
+    "section_weights": {
+      "A": 0.20,
+      "B": 0.25,
+      "C": 0.25,
+      "D": 0.30
+    }
+  },
+  "feedback_by_section": {
+    "A": {
+      "low_score_advice": "Bạn cần ôn lại phần phân biệt âm cơ bản. Tập trung vào: ら/だ, す/つ, し/ち, âm đục/thanh",
+      "high_score_advice": "Tốt! Bạn đã phân biệt tốt các âm cơ bản"
+    },
+    "B": {
+      "low_score_advice": "Bạn cần ôn lại phần trường âm. Chú ý đếm mora và phân biệt: aa/ii/uu, ei/ou, âm ghép + trường âm",
+      "high_score_advice": "Tốt! Bạn đã nghe tốt các trường âm"
+    },
+    "C": {
+      "low_score_advice": "Bạn cần ôn lại phần âm ngắt. Tập nghe khoảng lặng trước phụ âm: tt, kk, ss, pp, ssh, tch",
+      "high_score_advice": "Tốt! Bạn đã nghe tốt âm ngắt っ"
+    },
+    "D": {
+      "low_score_advice": "Phần tổng hợp cho thấy bạn cần ôn lại tất cả. Hãy làm lại các bài tập từng phần",
+      "high_score_advice": "Xuất sắc! Bạn đã sẵn sàng cho giai đoạn tiếp theo: Từ vựng N5"
+    }
+  },
+  "next_stage": {
+    "name": "Giai đoạn 2: Từ vựng N5 + Pitch Accent",
+    "prerequisite": "Đạt tối thiểu 80 điểm ở bài kiểm tra này",
+    "content_preview": [
+      "Từ vựng N5 với pitch accent",
+      "Âm ん và các biến thể phát âm",
+      "Ngữ điệu câu cơ bản"
+    ]
+  }
+}

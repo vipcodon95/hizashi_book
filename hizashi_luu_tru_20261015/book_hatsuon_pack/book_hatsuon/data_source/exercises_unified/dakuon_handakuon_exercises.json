@@ -1,0 +1,2124 @@
+{
+  "metadata": {
+    "source_file": "dakuon_handakuon_exercises.json",
+    "original_title": "Bài tập Âm đục và Âm bán đục",
+    "total_questions": 108,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "L1_01",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "L1_01_audio"
+      ],
+      "prompt": "Nghe 2 âm và cho biết GIỐNG hay KHÁC nhau",
+      "difficulty": "medium",
+      "topic": null,
+      "pairs": [
+        {
+          "audio_1": "か",
+          "audio_2": "が",
+          "answer": "different"
+        },
+        {
+          "audio_1": "き",
+          "audio_2": "き",
+          "answer": "same"
+        },
+        {
+          "audio_1": "く",
+          "audio_2": "ぐ",
+          "answer": "different"
+        },
+        {
+          "audio_1": "け",
+          "audio_2": "げ",
+          "answer": "different"
+        },
+        {
+          "audio_1": "こ",
+          "audio_2": "こ",
+          "answer": "same"
+        },
+        {
+          "audio_1": "が",
+          "audio_2": "が",
+          "answer": "same"
+        },
+        {
+          "audio_1": "ぎ",
+          "audio_2": "き",
+          "answer": "different"
+        },
+        {
+          "audio_1": "ご",
+          "audio_2": "ご",
+          "answer": "same"
+        }
+      ]
+    },
+    {
+      "id": "dakuon_handakuon_0001_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "かみ"
+      ],
+      "prompt": "Nghe 'かみ' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "giấy",
+        "answer": "か行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe 'がっこう' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "trường học",
+        "answer": "が行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "きく"
+      ],
+      "prompt": "Nghe 'きく' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "nghe",
+        "answer": "か行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "ぎんこう"
+      ],
+      "prompt": "Nghe 'ぎんこう' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "ngân hàng",
+        "answer": "が行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "くるま"
+      ],
+      "prompt": "Nghe 'くるま' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "xe hơi",
+        "answer": "か行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "げんき"
+      ],
+      "prompt": "Nghe 'げんき' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "khỏe mạnh",
+        "answer": "が行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_06",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "けさ"
+      ],
+      "prompt": "Nghe 'けさ' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sáng nay",
+        "answer": "か行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_07",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "ごはん"
+      ],
+      "prompt": "Nghe 'ごはん' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "cơm",
+        "answer": "が行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_08",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "こども"
+      ],
+      "prompt": "Nghe 'こども' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "trẻ em",
+        "answer": "か行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0001_09",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "ごご"
+      ],
+      "prompt": "Nghe 'ごご' và nghe và chọn: か行 (vô thanh) hay が行 (hữu thanh)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "buổi chiều",
+        "answer": "が行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0011_00",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "かみ"
+      ],
+      "prompt": "Nghe 'かみ' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "かみ (giấy)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がみ (?)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0011_01",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe 'がっこう' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "かっこう (hình dáng)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がっこう (trường)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0011_02",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "かく"
+      ],
+      "prompt": "Nghe 'かく' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "かく (viết)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がく (học)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0011_03",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "がく"
+      ],
+      "prompt": "Nghe 'がく' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "かく (viết)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がく (học)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0011_04",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "きく"
+      ],
+      "prompt": "Nghe 'きく' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "きく (nghe)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ぎく (giật mình)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0011_05",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "げつようび"
+      ],
+      "prompt": "Nghe 'げつようび' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "けつようび (?)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "げつようび (thứ Hai)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0017_00",
+      "base_type": "single_choice",
+      "sub_type": "position_identification",
+      "audio_ids": [
+        "がいこく"
+      ],
+      "prompt": "Nghe 'がいこく' và nghe từ và cho biết âm đục ở vị trí nào (đầu/giữa/cuối)",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "dakuon_handakuon_0017_01",
+      "base_type": "single_choice",
+      "sub_type": "position_identification",
+      "audio_ids": [
+        "りんご"
+      ],
+      "prompt": "Nghe 'りんご' và nghe từ và cho biết âm đục ở vị trí nào (đầu/giữa/cuối)",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "dakuon_handakuon_0017_02",
+      "base_type": "single_choice",
+      "sub_type": "position_identification",
+      "audio_ids": [
+        "かがみ"
+      ],
+      "prompt": "Nghe 'かがみ' và nghe từ và cho biết âm đục ở vị trí nào (đầu/giữa/cuối)",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "dakuon_handakuon_0017_03",
+      "base_type": "single_choice",
+      "sub_type": "position_identification",
+      "audio_ids": [
+        "げんき"
+      ],
+      "prompt": "Nghe 'げんき' và nghe từ và cho biết âm đục ở vị trí nào (đầu/giữa/cuối)",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "dakuon_handakuon_0017_04",
+      "base_type": "single_choice",
+      "sub_type": "position_identification",
+      "audio_ids": [
+        "えいご"
+      ],
+      "prompt": "Nghe 'えいご' và nghe từ và cho biết âm đục ở vị trí nào (đầu/giữa/cuối)",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "dakuon_handakuon_0022_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "さけ"
+      ],
+      "prompt": "Nghe 'さけ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "rượu sake",
+        "answer": "vô thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0022_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "ざんねん"
+      ],
+      "prompt": "Nghe 'ざんねん' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "đáng tiếc",
+        "answer": "hữu thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0022_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "しんぶん"
+      ],
+      "prompt": "Nghe 'しんぶん' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "báo",
+        "answer": "vô thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0022_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "じかん"
+      ],
+      "prompt": "Nghe 'じかん' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "thời gian",
+        "answer": "hữu thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0022_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "すいか"
+      ],
+      "prompt": "Nghe 'すいか' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "dưa hấu",
+        "answer": "vô thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0022_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "ずっと"
+      ],
+      "prompt": "Nghe 'ずっと' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "mãi mãi",
+        "answer": "hữu thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0022_06",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "せかい"
+      ],
+      "prompt": "Nghe 'せかい' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "thế giới",
+        "answer": "vô thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0022_07",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "ぜんぶ"
+      ],
+      "prompt": "Nghe 'ぜんぶ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "tất cả",
+        "answer": "hữu thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0030_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "たべる"
+      ],
+      "prompt": "Nghe 'たべる' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "ăn",
+        "answer": "vô thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0030_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "だいがく"
+      ],
+      "prompt": "Nghe 'だいがく' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "đại học",
+        "answer": "hữu thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0030_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "ちず"
+      ],
+      "prompt": "Nghe 'ちず' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "bản đồ",
+        "answer": "vô thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0030_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "でんわ"
+      ],
+      "prompt": "Nghe 'でんわ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "điện thoại",
+        "answer": "hữu thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0030_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "つくえ"
+      ],
+      "prompt": "Nghe 'つくえ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "bàn",
+        "answer": "vô thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0030_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "どこ"
+      ],
+      "prompt": "Nghe 'どこ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "ở đâu",
+        "answer": "hữu thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0030_06",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "てがみ"
+      ],
+      "prompt": "Nghe 'てがみ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "thư",
+        "answer": "vô thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0030_07",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "でる"
+      ],
+      "prompt": "Nghe 'でる' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "ra",
+        "answer": "hữu thanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0038_00",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "たい"
+      ],
+      "prompt": "Nghe 'たい' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "たい (muốn)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "だい (lớn)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0038_01",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "だい"
+      ],
+      "prompt": "Nghe 'だい' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "たい (muốn)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "だい (lớn)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0038_02",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "てん"
+      ],
+      "prompt": "Nghe 'てん' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "てん (điểm)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "でん (điện)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0038_03",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "でん"
+      ],
+      "prompt": "Nghe 'でん' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "てん (điểm)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "でん (điện)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0038_04",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "とき"
+      ],
+      "prompt": "Nghe 'とき' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "とき (lúc)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "どき (hồi hộp)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0038_05",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "どき"
+      ],
+      "prompt": "Nghe 'どき' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "とき (lúc)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "どき (hồi hộp)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0044_00",
+      "base_type": "counting",
+      "sub_type": "count_dakuon",
+      "audio_ids": [
+        "がっこうでべんきょうする"
+      ],
+      "prompt": "Nghe 'がっこうでべんきょうする' và đếm số âm đục trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 3
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0044_01",
+      "base_type": "counting",
+      "sub_type": "count_dakuon",
+      "audio_ids": [
+        "じしょをかう"
+      ],
+      "prompt": "Nghe 'じしょをかう' và đếm số âm đục trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0044_02",
+      "base_type": "counting",
+      "sub_type": "count_dakuon",
+      "audio_ids": [
+        "でんわばんごう"
+      ],
+      "prompt": "Nghe 'でんわばんごう' và đếm số âm đục trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 3
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0044_03",
+      "base_type": "counting",
+      "sub_type": "count_dakuon",
+      "audio_ids": [
+        "ざっしをよむ"
+      ],
+      "prompt": "Nghe 'ざっしをよむ' và đếm số âm đục trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_00",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "はな"
+      ],
+      "prompt": "Nghe 'はな' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hoa",
+        "answer": "は行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_01",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ばんごはん"
+      ],
+      "prompt": "Nghe 'ばんごはん' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bữa tối",
+        "answer": "ば行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_02",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "パン"
+      ],
+      "prompt": "Nghe 'パン' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bánh mì",
+        "answer": "ぱ行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_03",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ひと"
+      ],
+      "prompt": "Nghe 'ひと' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "người",
+        "answer": "は行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_04",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "びょういん"
+      ],
+      "prompt": "Nghe 'びょういん' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bệnh viện",
+        "answer": "ば行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_05",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ピアノ"
+      ],
+      "prompt": "Nghe 'ピアノ' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "piano",
+        "answer": "ぱ行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_06",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ふね"
+      ],
+      "prompt": "Nghe 'ふね' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "thuyền",
+        "answer": "は行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_07",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ぶた"
+      ],
+      "prompt": "Nghe 'ぶた' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "con lợn",
+        "answer": "ば行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_08",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "プール"
+      ],
+      "prompt": "Nghe 'プール' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bể bơi",
+        "answer": "ぱ行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_09",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "へや"
+      ],
+      "prompt": "Nghe 'へや' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "phòng",
+        "answer": "は行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_10",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "べんきょう"
+      ],
+      "prompt": "Nghe 'べんきょう' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "học tập",
+        "answer": "ば行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_11",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ペン"
+      ],
+      "prompt": "Nghe 'ペン' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bút",
+        "answer": "ぱ行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_12",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ほん"
+      ],
+      "prompt": "Nghe 'ほん' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sách",
+        "answer": "は行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_13",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ぼうし"
+      ],
+      "prompt": "Nghe 'ぼうし' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "mũ",
+        "answer": "ば行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0048_14",
+      "base_type": "single_choice",
+      "sub_type": "three_way_choice",
+      "audio_ids": [
+        "ポスト"
+      ],
+      "prompt": "Nghe 'ポスト' và nghe và chọn: は行, ば行, hay ぱ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hòm thư",
+        "answer": "ぱ行"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0063_00",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "さんぽ"
+      ],
+      "prompt": "Nghe 'さんぽ' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "さんほ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "さんぼ",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "さんぽ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "đi dạo",
+        "answer": 2
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0063_01",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "えんぴつ"
+      ],
+      "prompt": "Nghe 'えんぴつ' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "えんひつ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "えんびつ",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "えんぴつ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "bút chì",
+        "answer": 2
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0063_02",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "はなび"
+      ],
+      "prompt": "Nghe 'はなび' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "はなひ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "はなび",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "はなぴ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "pháo hoa",
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0063_03",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "いっぱい"
+      ],
+      "prompt": "Nghe 'いっぱい' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "いっはい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いっばい",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "いっぱい",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "đầy",
+        "answer": 2
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0063_04",
+      "base_type": "single_choice",
+      "sub_type": "word_choice",
+      "audio_ids": [
+        "たべる"
+      ],
+      "prompt": "Nghe 'たべる' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "たへる",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "たべる",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "たぺる",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "ăn",
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0068_00",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "いっぱい"
+      ],
+      "prompt": "Nghe 'いっぱい' và nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đầy",
+        "pattern": "っぱ"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0068_01",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "さんぽ"
+      ],
+      "prompt": "Nghe 'さんぽ' và nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đi dạo",
+        "pattern": "んぽ"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0068_02",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "きっぷ"
+      ],
+      "prompt": "Nghe 'きっぷ' và nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "vé",
+        "pattern": "っぷ"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0068_03",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "しんぱい"
+      ],
+      "prompt": "Nghe 'しんぱい' và nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "lo lắng",
+        "pattern": "んぱ"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0068_04",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "さっぱり"
+      ],
+      "prompt": "Nghe 'さっぱり' và nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sảng khoái",
+        "pattern": "っぱ"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0068_05",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "えんぴつ"
+      ],
+      "prompt": "Nghe 'えんぴつ' và nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bút chì",
+        "pattern": "んぴ"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0068_06",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "しっぽ"
+      ],
+      "prompt": "Nghe 'しっぽ' và nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đuôi",
+        "pattern": "っぽ"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0068_07",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "さんぷん"
+      ],
+      "prompt": "Nghe 'さんぷん' và nghe và nhận diện mẫu: っ + ぱ/ば hay ん + ぱ/ば",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "3 phút",
+        "pattern": "んぷ"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0076_00",
+      "base_type": "announcement",
+      "sub_type": "listening_comprehension",
+      "audio_ids": [
+        "パンをたべる"
+      ],
+      "prompt": "Nghe 'パンをたべる' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Ăn bánh mì",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ăn cơm",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Ăn mì",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0076_01",
+      "base_type": "announcement",
+      "sub_type": "listening_comprehension",
+      "audio_ids": [
+        "さんぽにいく"
+      ],
+      "prompt": "Nghe 'さんぽにいく' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đi mua sắm",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Đi dạo",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Đi học",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0076_02",
+      "base_type": "announcement",
+      "sub_type": "listening_comprehension",
+      "audio_ids": [
+        "びょういんへいく"
+      ],
+      "prompt": "Nghe 'びょういんへいく' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đi bệnh viện",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Đi trường",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Đi công ty",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0076_03",
+      "base_type": "announcement",
+      "sub_type": "listening_comprehension",
+      "audio_ids": [
+        "ペンをかう"
+      ],
+      "prompt": "Nghe 'ペンをかう' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Mua sách",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Mua bút",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Mua giấy",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0080_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_all_dakuon",
+      "audio_ids": [
+        "がいこくご"
+      ],
+      "prompt": "Nghe 'がいこくご' và nghe từ và xác định tất cả các âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "ngoại ngữ",
+        "answer": [
+          "が",
+          "ご"
+        ]
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0080_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_all_dakuon",
+      "audio_ids": [
+        "でんわばんごう"
+      ],
+      "prompt": "Nghe 'でんわばんごう' và nghe từ và xác định tất cả các âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "số điện thoại",
+        "answer": [
+          "で",
+          "ば",
+          "ご"
+        ]
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0080_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_all_dakuon",
+      "audio_ids": [
+        "ぎゅうにゅう"
+      ],
+      "prompt": "Nghe 'ぎゅうにゅう' và nghe từ và xác định tất cả các âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sữa bò",
+        "answer": [
+          "ぎ"
+        ]
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0080_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_all_dakuon",
+      "audio_ids": [
+        "ぜんぶ"
+      ],
+      "prompt": "Nghe 'ぜんぶ' và nghe từ và xác định tất cả các âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tất cả",
+        "answer": [
+          "ぜ",
+          "ぶ"
+        ]
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0080_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_all_dakuon",
+      "audio_ids": [
+        "えんぴつ"
+      ],
+      "prompt": "Nghe 'えんぴつ' và nghe từ và xác định tất cả các âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bút chì",
+        "answer": [
+          "ぴ"
+        ]
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0080_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_all_dakuon",
+      "audio_ids": [
+        "だいがく"
+      ],
+      "prompt": "Nghe 'だいがく' và nghe từ và xác định tất cả các âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đại học",
+        "answer": [
+          "だ",
+          "が"
+        ]
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0086_00",
+      "base_type": "single_choice",
+      "sub_type": "ji_zu_distinction",
+      "audio_ids": [
+        "jikan"
+      ],
+      "prompt": "Nghe 'jikan' và nghe và chọn cách viết đúng (じ/ぢ, ず/づ)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "じかん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ぢかん",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "thời gian",
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0086_01",
+      "base_type": "single_choice",
+      "sub_type": "ji_zu_distinction",
+      "audio_ids": [
+        "hanaji"
+      ],
+      "prompt": "Nghe 'hanaji' và nghe và chọn cách viết đúng (じ/ぢ, ず/づ)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "はなじ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "はなぢ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "chảy máu mũi",
+        "note": "はな + ち → はなぢ (rendaku)",
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0086_02",
+      "base_type": "single_choice",
+      "sub_type": "ji_zu_distinction",
+      "audio_ids": [
+        "mizu"
+      ],
+      "prompt": "Nghe 'mizu' và nghe và chọn cách viết đúng (じ/ぢ, ず/づ)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "みず",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "みづ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "nước",
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0086_03",
+      "base_type": "single_choice",
+      "sub_type": "ji_zu_distinction",
+      "audio_ids": [
+        "tsuzuku"
+      ],
+      "prompt": "Nghe 'tsuzuku' và nghe và chọn cách viết đúng (じ/ぢ, ず/づ)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つずく",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "つづく",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "tiếp tục",
+        "note": "Gốc từ つ",
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0086_04",
+      "base_type": "single_choice",
+      "sub_type": "ji_zu_distinction",
+      "audio_ids": [
+        "jisho"
+      ],
+      "prompt": "Nghe 'jisho' và nghe và chọn cách viết đúng (じ/ぢ, ず/づ)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "じしょ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ぢしょ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "từ điển",
+        "answer": 0
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0086_05",
+      "base_type": "single_choice",
+      "sub_type": "ji_zu_distinction",
+      "audio_ids": [
+        "chijimu"
+      ],
+      "prompt": "Nghe 'chijimu' và nghe và chọn cách viết đúng (じ/ぢ, ず/づ)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "ちじむ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ちぢむ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "co lại",
+        "note": "ち lặp lại",
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0092_00",
+      "base_type": "single_choice",
+      "sub_type": "rendaku_recognition",
+      "audio_ids": [
+        "てがみ"
+      ],
+      "prompt": "Nghe 'てがみ' và nghe từ ghép và xác định có rendaku hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "thư"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0092_01",
+      "base_type": "single_choice",
+      "sub_type": "rendaku_recognition",
+      "audio_ids": [
+        "はなび"
+      ],
+      "prompt": "Nghe 'はなび' và nghe từ ghép và xác định có rendaku hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "pháo hoa"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0092_02",
+      "base_type": "single_choice",
+      "sub_type": "rendaku_recognition",
+      "audio_ids": [
+        "やまかわ"
+      ],
+      "prompt": "Nghe 'やまかわ' và nghe từ ghép và xác định có rendaku hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "núi và sông",
+        "note": "Từ ghép đẳng lập - không rendaku"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0092_03",
+      "base_type": "single_choice",
+      "sub_type": "rendaku_recognition",
+      "audio_ids": [
+        "あおぞら"
+      ],
+      "prompt": "Nghe 'あおぞら' và nghe từ ghép và xác định có rendaku hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bầu trời xanh"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0092_04",
+      "base_type": "single_choice",
+      "sub_type": "rendaku_recognition",
+      "audio_ids": [
+        "ものがたり"
+      ],
+      "prompt": "Nghe 'ものがたり' và nghe từ ghép và xác định có rendaku hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "câu chuyện"
+      }
+    },
+    {
+      "id": "L4_04",
+      "base_type": "dialogue",
+      "sub_type": "dialogue_comprehension",
+      "audio_ids": [
+        "L4_04_audio"
+      ],
+      "prompt": "Nghe hội thoại và trả lời câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "script": [
+            "A: すみません、ぎんこうはどこですか。",
+            "B: まっすぐいって、つぎのかどをみぎにまがってください。",
+            "A: ありがとうございます。"
+          ],
+          "questions": [
+            {
+              "question": "A muốn tìm gì?",
+              "options": [
+                "Bưu điện",
+                "Ngân hàng",
+                "Bệnh viện"
+              ],
+              "answer": 1,
+              "key_word": "ぎんこう"
+            },
+            {
+              "question": "Rẽ hướng nào?",
+              "options": [
+                "Trái",
+                "Phải",
+                "Đi thẳng"
+              ],
+              "answer": 1,
+              "key_word": "みぎ"
+            }
+          ]
+        },
+        {
+          "script": [
+            "A: きょうのばんごはんはなにがいい？",
+            "B: ぎゅうにくがたべたい。",
+            "A: じゃあ、すきやきにしよう。"
+          ],
+          "questions": [
+            {
+              "question": "B muốn ăn gì?",
+              "options": [
+                "Thịt lợn",
+                "Thịt bò",
+                "Cá"
+              ],
+              "answer": 1,
+              "key_word": "ぎゅうにく"
+            },
+            {
+              "question": "Họ sẽ nấu món gì?",
+              "options": [
+                "Ramen",
+                "Sukiyaki",
+                "Tempura"
+              ],
+              "answer": 1,
+              "key_word": "すきやき"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dakuon_handakuon_0098_00",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "がっこうでべんきょうする"
+      ],
+      "prompt": "Nghe 'がっこうでべんきょうする' và nghe và viết lại bằng hiragana, chú ý âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Học ở trường",
+        "answer": "がっこうでべんきょうする"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0098_01",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "ぎんこうにいく"
+      ],
+      "prompt": "Nghe 'ぎんこうにいく' và nghe và viết lại bằng hiragana, chú ý âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đi ngân hàng",
+        "answer": "ぎんこうにいく"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0098_02",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "さんぽにでかける"
+      ],
+      "prompt": "Nghe 'さんぽにでかける' và nghe và viết lại bằng hiragana, chú ý âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đi dạo",
+        "answer": "さんぽにでかける"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0098_03",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "パンをかう"
+      ],
+      "prompt": "Nghe 'パンをかう' và nghe và viết lại bằng hiragana, chú ý âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Mua bánh mì",
+        "answer": "パンをかう"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0098_04",
+      "base_type": "dictation",
+      "sub_type": "dictation",
+      "audio_ids": [
+        "でんわばんごうをおしえて"
+      ],
+      "prompt": "Nghe 'でんわばんごうをおしえて' và nghe và viết lại bằng hiragana, chú ý âm đục/bán đục",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Cho tôi số điện thoại",
+        "answer": "でんわばんごうをおしえて"
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0103_00",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "がっこう"
+      ],
+      "prompt": "Nghe 'がっこう' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "かっこう (hình dáng)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "がっこう (trường)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0103_01",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "さんぽ"
+      ],
+      "prompt": "Nghe 'さんぽ' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "さんほ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "さんぽ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0103_02",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "でんわ"
+      ],
+      "prompt": "Nghe 'でんわ' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "てんわ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "でんわ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0103_03",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "ぜんぶ"
+      ],
+      "prompt": "Nghe 'ぜんぶ' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "せんぶ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ぜんぶ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "dakuon_handakuon_0103_04",
+      "base_type": "single_choice",
+      "sub_type": "speed_recognition",
+      "audio_ids": [
+        "びょういん"
+      ],
+      "prompt": "Nghe 'びょういん' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "ひょういん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "びょういん",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    }
+  ]
+}

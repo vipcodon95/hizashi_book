@@ -1,0 +1,509 @@
+[
+  {
+    "id": "R_0210",
+    "level": 6,
+    "level_label": "N3_advanced",
+    "jlpt": "N3",
+    "title": "現代医学の進歩と新しい治療法",
+    "title_vi": "Tiến bộ của y học hiện đại và phương pháp điều trị mới",
+    "topic": "science",
+    "subtopic": "y học hiện đại",
+    "tags": ["が可能となる", "を解明する", "に応用される", "によって", "において"],
+    "grammar_used": ["～が可能となる", "～を解明する", "～に応用される", "～によって", "～において"],
+    "sentence_count": 15,
+    "text": "近年、医療技術の急速な発展によって、以前は不可能だった複雑な手術が可能となった。ロボット支援手術の登場により、医師はより精密な操作ができるようになった。この技術によって、患者の回復時間も大幅に短縮された。また、研究者たちはがんの発症メカニズムをついに解明することができた。この発見は、世界中の医学界に大きな衝撃を与えた。解明された仕組みは、新しい治療薬の開発に直接応用されることになった。さらに、遺伝子治療の分野においても、革命的な進歩が見られる。患者一人ひとりの遺伝情報を分析することで、個別に最適な治療法を選ぶことが可能となった。この個別化医療のアプローチは、治療効果を大きく向上させている。一方、人工知能の技術も医療診断の現場に応用されるようになってきた。AIは膨大な医療データを素早く分析し、医師の診断を補助する役割を果たしている。ただし、最終的な判断は依然として医師が行うべきだという意見も根強い。これらの技術革新は、医療費の削減にもつながる可能性がある。しかし、新技術の導入には十分な安全確認が必要だという慎重な意見もある。医学の進歩は、多くの命を救う希望をもたらしている。",
+    "translation": "Những năm gần đây, nhờ sự phát triển nhanh chóng của công nghệ y tế, những ca phẫu thuật phức tạp trước đây không thể thực hiện đã trở nên khả thi. Sự xuất hiện của phẫu thuật có hỗ trợ robot đã giúp các bác sĩ thực hiện các thao tác chính xác hơn. Nhờ công nghệ này, thời gian hồi phục của bệnh nhân cũng được rút ngắn đáng kể. Hơn nữa, các nhà nghiên cứu cuối cùng đã giải mã được cơ chế phát sinh ung thư. Phát hiện này đã gây chấn động lớn cho giới y khoa trên toàn thế giới. Cơ chế được làm sáng tỏ sẽ được ứng dụng trực tiếp vào việc phát triển thuốc điều trị mới. Ngoài ra, trong lĩnh vực liệu pháp gen, cũng có những tiến bộ mang tính cách mạng. Bằng cách phân tích thông tin di truyền của từng bệnh nhân, việc lựa chọn phương pháp điều trị tối ưu cho mỗi người đã trở nên khả thi. Cách tiếp cận y học cá thể hóa này đã cải thiện đáng kể hiệu quả điều trị. Mặt khác, công nghệ trí tuệ nhân tạo cũng đã bắt đầu được ứng dụng vào thực tiễn chẩn đoán y tế. AI phân tích nhanh chóng lượng lớn dữ liệu y tế và đóng vai trò hỗ trợ chẩn đoán của bác sĩ. Tuy nhiên, quan điểm cho rằng phán quyết cuối cùng vẫn phải do bác sĩ đưa ra vẫn còn nhiều người ủng hộ. Những đổi mới công nghệ này cũng có thể dẫn đến việc giảm chi phí y tế. Nhưng cũng có ý kiến thận trọng rằng việc áp dụng công nghệ mới cần phải kiểm tra an toàn đầy đủ. Sự tiến bộ của y học đang mang lại hy vọng cứu sống nhiều người.",
+    "vocabulary": [
+      {"word": "急速", "reading": "きゅうそく", "meaning": "nhanh chóng, khẩn cấp"},
+      {"word": "精密", "reading": "せいみつ", "meaning": "chính xác, tỉ mỉ"},
+      {"word": "短縮", "reading": "たんしゅく", "meaning": "rút ngắn"},
+      {"word": "発症メカニズム", "reading": "はっしょうメカニズム", "meaning": "cơ chế phát sinh bệnh"},
+      {"word": "衝撃", "reading": "しょうげき", "meaning": "cú sốc, chấn động"},
+      {"word": "遺伝子治療", "reading": "いでんしちりょう", "meaning": "liệu pháp gen"},
+      {"word": "個別化医療", "reading": "こべつかいりょう", "meaning": "y học cá thể hóa"},
+      {"word": "膨大", "reading": "ぼうだい", "meaning": "khổng lồ, rất lớn"},
+      {"word": "補助", "reading": "ほじょ", "meaning": "hỗ trợ, bổ trợ"},
+      {"word": "慎重", "reading": "しんちょう", "meaning": "thận trọng, cẩn thận"}
+    ],
+    "process": [
+      {
+        "sentence": "近年、医療技術の急速な発展によって、以前は不可能だった複雑な手術が可能となった。",
+        "chunks": "近年 / 医療技術の急速な発展によって / 以前は不可能だった複雑な手術が / 可能となった",
+        "guide": "によって → dự đoán: 'do nguyên nhân gì đó' → 🔒 Đóng gói: 'nhờ sự phát triển công nghệ y tế' → が可能となった: cấu trúc chính 'đã trở nên khả thi' → 💡 が可能となる = trạng thái thay đổi từ không thể → có thể",
+        "translation": "Những năm gần đây, nhờ sự phát triển nhanh chóng của công nghệ y tế, những ca phẫu thuật phức tạp trước đây không thể thực hiện đã trở nên khả thi."
+      },
+      {
+        "sentence": "ロボット支援手術の登場により、医師はより精密な操作ができるようになった。",
+        "chunks": "ロボット支援手術の登場により / 医師は / より精密な操作が / できるようになった",
+        "guide": "により → gần giống によって nhưng trang trọng hơn → 🔒 Đóng gói: 'nhờ sự xuất hiện của phẫu thuật robot' → できるようになった: biến đổi khả năng → 💡 ようになる = dần dần đạt được khả năng mới",
+        "translation": "Sự xuất hiện của phẫu thuật có hỗ trợ robot đã giúp các bác sĩ thực hiện các thao tác chính xác hơn."
+      },
+      {
+        "sentence": "この技術によって、患者の回復時間も大幅に短縮された。",
+        "chunks": "この技術によって / 患者の回復時間も / 大幅に短縮された",
+        "guide": "この技術 → chỉ lại công nghệ robot ở câu trước → によって nhân quả → 🔒 Đóng gói: 'nhờ công nghệ này' → も nhấn mạnh 'thêm vào đó' → された: bị động lịch sự",
+        "translation": "Nhờ công nghệ này, thời gian hồi phục của bệnh nhân cũng được rút ngắn đáng kể."
+      },
+      {
+        "sentence": "また、研究者たちはがんの発症メカニズムをついに解明することができた。",
+        "chunks": "また / 研究者たちは / がんの発症メカニズムを / ついに解明することができた",
+        "guide": "また → thêm thông tin mới → を → 🔒 Đóng gói: 'cơ chế phát sinh ung thư' là tân ngữ → ついに nhấn mạnh 'cuối cùng cũng' → 💡 解明する = làm sáng tỏ, giải mã (từ mờ tối → rõ ràng)",
+        "translation": "Hơn nữa, các nhà nghiên cứu cuối cùng đã giải mã được cơ chế phát sinh ung thư."
+      },
+      {
+        "sentence": "この発見は、世界中の医学界に大きな衝撃を与えた。",
+        "chunks": "この発見は / 世界中の医学界に / 大きな衝撃を / 与えた",
+        "guide": "この発見は → chủ đề: phát hiện bên trên → に → 🔒 Đóng gói: 'giới y khoa thế giới' là đối tượng nhận tác động → を与えた: gây ra, tạo ra tác động",
+        "translation": "Phát hiện này đã gây chấn động lớn cho giới y khoa trên toàn thế giới."
+      },
+      {
+        "sentence": "解明された仕組みは、新しい治療薬の開発に直接応用されることになった。",
+        "chunks": "解明された仕組みは / 新しい治療薬の開発に / 直接応用されることになった",
+        "guide": "解明された → động từ bị động làm định ngữ → 🔒 Đóng gói: 'cơ chế được làm sáng tỏ' → に応用される: được ứng dụng vào → ことになった: kết quả được quyết định/xảy ra → ⚠️ Bẫy: されることになった = bị động + kết quả tự nhiên, không phải ai ra lệnh",
+        "translation": "Cơ chế được làm sáng tỏ sẽ được ứng dụng trực tiếp vào việc phát triển thuốc điều trị mới."
+      },
+      {
+        "sentence": "さらに、遺伝子治療の分野においても、革命的な進歩が見られる。",
+        "chunks": "さらに / 遺伝子治療の分野においても / 革命的な進歩が / 見られる",
+        "guide": "さらに → bổ sung thêm → において: 'trong lĩnh vực' (trang trọng hơn で) → 🔒 Đóng gói: 'trong lĩnh vực liệu pháp gen' → も nhấn mạnh 'cả lĩnh vực này nữa' → 💡 において = trong bối cảnh/lĩnh vực (văn viết)",
+        "translation": "Ngoài ra, trong lĩnh vực liệu pháp gen, cũng có những tiến bộ mang tính cách mạng."
+      },
+      {
+        "sentence": "患者一人ひとりの遺伝情報を分析することで、個別に最適な治療法を選ぶことが可能となった。",
+        "chunks": "患者一人ひとりの遺伝情報を / 分析することで / 個別に最適な治療法を / 選ぶことが可能となった",
+        "guide": "一人ひとり → 'từng người một' → を分析することで: 'bằng cách phân tích' → 🔒 Đóng gói: 'bằng cách phân tích thông tin di truyền của từng người' → が可能となった: trở nên khả thi → ⚠️ Bẫy: ことで = phương tiện/cách thức, khác với ので (nguyên nhân)",
+        "translation": "Bằng cách phân tích thông tin di truyền của từng bệnh nhân, việc lựa chọn phương pháp điều trị tối ưu cho mỗi người đã trở nên khả thi."
+      },
+      {
+        "sentence": "この個別化医療のアプローチは、治療効果を大きく向上させている。",
+        "chunks": "この個別化医療のアプローチは / 治療効果を / 大きく向上させている",
+        "guide": "この → chỉ lại nội dung câu trước → は chủ đề → 🔒 Đóng gói: 'cách tiếp cận y học cá thể hóa' → させている: đang làm cho (cấu trúc sai khiến tiếp diễn) → 💡 向上させる = cải thiện, nâng cao",
+        "translation": "Cách tiếp cận y học cá thể hóa này đang cải thiện đáng kể hiệu quả điều trị."
+      },
+      {
+        "sentence": "一方、人工知能の技術も医療診断の現場に応用されるようになってきた。",
+        "chunks": "一方 / 人工知能の技術も / 医療診断の現場に / 応用されるようになってきた",
+        "guide": "一方 → chuyển góc nhìn sang chủ đề mới (AI) → も: 'cũng' nối với các công nghệ trước → に応用される: được ứng dụng vào → ようになってきた: 🔒 Đóng gói quá trình dần dần xảy ra từ quá khứ đến hiện tại",
+        "translation": "Mặt khác, công nghệ trí tuệ nhân tạo cũng đã bắt đầu được ứng dụng vào thực tiễn chẩn đoán y tế."
+      },
+      {
+        "sentence": "AIは膨大な医療データを素早く分析し、医師の診断を補助する役割を果たしている。",
+        "chunks": "AIは / 膨大な医療データを / 素早く分析し / 医師の診断を補助する役割を / 果たしている",
+        "guide": "AIは → chủ đề: AI → を分析し: liệt kê hành động bằng し → 🔒 Đóng gói: 'phân tích dữ liệu + hỗ trợ chẩn đoán' → 役割を果たす: đảm nhiệm vai trò → 💡 し kết nối hai vị ngữ (không phải て, vì sắc thái văn viết)",
+        "translation": "AI phân tích nhanh chóng lượng lớn dữ liệu y tế và đóng vai trò hỗ trợ chẩn đoán của bác sĩ."
+      },
+      {
+        "sentence": "ただし、最終的な判断は依然として医師が行うべきだという意見も根強い。",
+        "chunks": "ただし / 最終的な判断は / 依然として医師が行うべきだという意見も / 根強い",
+        "guide": "ただし → chuyển sang phản biện/hạn chế → 依然として: 'vẫn còn như trước' → べきだ: nên làm → という → 🔒 Đóng gói: 'ý kiến cho rằng phán quyết cuối cùng vẫn phải do bác sĩ đưa ra' → 根強い: bền vững, vẫn còn nhiều người tin",
+        "translation": "Tuy nhiên, quan điểm cho rằng phán quyết cuối cùng vẫn phải do bác sĩ đưa ra vẫn còn nhiều người ủng hộ."
+      },
+      {
+        "sentence": "これらの技術革新は、医療費の削減にもつながる可能性がある。",
+        "chunks": "これらの技術革新は / 医療費の削減にも / つながる可能性がある",
+        "guide": "これら → chỉ lại tất cả công nghệ đã nêu → につながる: dẫn đến → 🔒 Đóng gói: 'việc giảm chi phí y tế' → 可能性がある: có khả năng/có thể → ⚠️ Bẫy: 可能性 ≠ 可能 (chắc chắn); 可能性がある = chưa chắc, chỉ là khả năng",
+        "translation": "Những đổi mới công nghệ này cũng có thể dẫn đến việc giảm chi phí y tế."
+      },
+      {
+        "sentence": "しかし、新技術の導入には十分な安全確認が必要だという慎重な意見もある。",
+        "chunks": "しかし / 新技術の導入には / 十分な安全確認が必要だという / 慎重な意見もある",
+        "guide": "しかし → đảo chiều lập luận → には → 🔒 Đóng gói: 'trong việc áp dụng công nghệ mới' → 必要だという → 🔒 Đóng gói: 'ý kiến thận trọng rằng cần kiểm tra an toàn' → 💡 しかし vs ただし: しかし đảo chiều mạnh hơn, ただし bổ sung điều kiện",
+        "translation": "Nhưng cũng có ý kiến thận trọng rằng việc áp dụng công nghệ mới cần phải kiểm tra an toàn đầy đủ."
+      },
+      {
+        "sentence": "医学の進歩は、多くの命を救う希望をもたらしている。",
+        "chunks": "医学の進歩は / 多くの命を救う希望を / もたらしている",
+        "guide": "医学の進歩は → kết thúc bài = quay về chủ đề lớn → 多くの命を救う希望 → 🔒 Đóng gói: 'hy vọng cứu sống nhiều người' → もたらす: mang lại → 💡 Câu kết mang tính khẳng định tích cực, cân bằng với ý kiến thận trọng ở câu trước",
+        "translation": "Sự tiến bộ của y học đang mang lại hy vọng cứu sống nhiều người."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0210_Q1",
+        "question": "ロボット支援手術によってどんな変化がありましたか。",
+        "question_vi": "Phẫu thuật có hỗ trợ robot đã tạo ra những thay đổi gì?",
+        "answers": [
+          {"text": "手術の費用が大幅に下がった。", "text_vi": "Chi phí phẫu thuật giảm mạnh.", "is_correct": false},
+          {"text": "医師の操作がより精密になり、患者の回復時間も短縮された。", "text_vi": "Thao tác của bác sĩ chính xác hơn và thời gian hồi phục của bệnh nhân cũng được rút ngắn.", "is_correct": true},
+          {"text": "医師がいなくてもロボットだけで手術ができるようになった。", "text_vi": "Ngay cả khi không có bác sĩ, robot một mình có thể thực hiện phẫu thuật.", "is_correct": false},
+          {"text": "患者の遺伝情報が分析できるようになった。", "text_vi": "Thông tin di truyền của bệnh nhân có thể được phân tích.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói 「医師はより精密な操作ができるようになった」và câu 3 nói 「患者の回復時間も大幅に短縮された」→ cả hai thay đổi đều do ロボット支援手術 mang lại. ⚠️ Bẫy: đáp án D nói về di truyền học, đó là công nghệ khác được nhắc ở phần sau của bài."
+      },
+      {
+        "id": "R_0210_Q2",
+        "question": "がんの発症メカニズムを解明した結果、何に応用されることになりましたか。",
+        "question_vi": "Kết quả của việc giải mã cơ chế phát sinh ung thư được ứng dụng vào việc gì?",
+        "answers": [
+          {"text": "ロボット手術のプログラム開発に応用された。", "text_vi": "Được ứng dụng vào phát triển chương trình phẫu thuật robot.", "is_correct": false},
+          {"text": "AIの診断システムの構築に応用された。", "text_vi": "Được ứng dụng vào việc xây dựng hệ thống chẩn đoán AI.", "is_correct": false},
+          {"text": "新しい治療薬の開発に直接応用されることになった。", "text_vi": "Được ứng dụng trực tiếp vào việc phát triển thuốc điều trị mới.", "is_correct": true},
+          {"text": "遺伝子治療の安全確認に応用された。", "text_vi": "Được ứng dụng vào việc kiểm tra an toàn liệu pháp gen.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói rõ 「解明された仕組みは、新しい治療薬の開発に直接応用されることになった」→ に応用される là cấu trúc trọng tâm của bài, chỉ ra hướng ứng dụng cụ thể. ⚠️ Bẫy: các đáp án khác đều là những công nghệ khác được nhắc trong bài nhưng không liên quan đến ứng dụng của phát hiện về ung thư."
+      },
+      {
+        "id": "R_0210_Q3",
+        "question": "AIが医療現場で果たしている役割について、筆者はどのように述べていますか。",
+        "question_vi": "Tác giả đã mô tả như thế nào về vai trò của AI tại cơ sở y tế?",
+        "answers": [
+          {"text": "AIが医師に代わって最終判断を下す役割を果たしている。", "text_vi": "AI đóng vai trò thay thế bác sĩ để đưa ra phán quyết cuối cùng.", "is_correct": false},
+          {"text": "AIは医療データを分析して医師の診断を補助する役割を果たしている。", "text_vi": "AI đóng vai trò phân tích dữ liệu y tế và hỗ trợ chẩn đoán của bác sĩ.", "is_correct": true},
+          {"text": "AIは薬の開発のみに応用されている。", "text_vi": "AI chỉ được ứng dụng vào việc phát triển thuốc.", "is_correct": false},
+          {"text": "AIは患者の遺伝情報を分析して治療法を決定する。", "text_vi": "AI phân tích thông tin di truyền bệnh nhân và quyết định phương pháp điều trị.", "is_correct": false}
+        ],
+        "explanation": "Câu 11 nói 「AIは膨大な医療データを素早く分析し、医師の診断を補助する役割を果たしている」→ vai trò là hỗ trợ (補助), không thay thế. Câu 12 tiếp theo còn nhấn mạnh 「最終的な判断は依然として医師が行うべきだ」→ AI chỉ hỗ trợ, không quyết định."
+      },
+      {
+        "id": "R_0210_Q4",
+        "question": "この文章が伝えたいことは何ですか。",
+        "question_vi": "Thông điệp chính mà bài văn này muốn truyền tải là gì?",
+        "answers": [
+          {"text": "新しい医療技術はリスクが高く、導入には反対すべきだ。", "text_vi": "Công nghệ y tế mới có rủi ro cao và nên phản đối việc áp dụng.", "is_correct": false},
+          {"text": "ロボット手術だけが未来の医療を変える唯一の技術だ。", "text_vi": "Phẫu thuật robot là công nghệ duy nhất thay đổi y tế tương lai.", "is_correct": false},
+          {"text": "医療技術の進歩は多くの可能性をもたらすが、慎重な姿勢も大切だ。", "text_vi": "Tiến bộ công nghệ y tế mang lại nhiều khả năng, nhưng thái độ thận trọng cũng quan trọng.", "is_correct": true},
+          {"text": "AIが医療費を削減するので、今すぐ全ての病院に導入すべきだ。", "text_vi": "Vì AI giảm chi phí y tế nên cần áp dụng ngay cho tất cả bệnh viện.", "is_correct": false}
+        ],
+        "explanation": "Bài văn trình bày nhiều công nghệ mới (robot, liệu pháp gen, AI) cùng với những lợi ích (câu 1-11), nhưng cũng đưa ra những ý kiến thận trọng ở câu 12-14. Câu kết (câu 15) nói 「医学の進歩は、多くの命を救う希望をもたらしている」→ tích cực nhưng cân bằng. 💡 Bài không ủng hộ hoàn toàn hay phản đối hoàn toàn, mà trình bày cả hai mặt."
+      }
+    ]
+  },
+  {
+    "id": "R_0211",
+    "level": 6,
+    "level_label": "N3_advanced",
+    "jlpt": "N3",
+    "title": "起業への挑戦と成長の物語",
+    "title_vi": "Câu chuyện về thử sức khởi nghiệp và sự trưởng thành",
+    "topic": "economy",
+    "subtopic": "khởi nghiệp",
+    "tags": ["に挑戦する", "を乗り越える", "を生み出す", "にもかかわらず", "ことで"],
+    "grammar_used": ["～に挑戦する", "～を乗り越える", "～を生み出す", "～にもかかわらず", "～ことで"],
+    "sentence_count": 15,
+    "text": "三十歳のとき、私は安定した会社員の仕事を辞め、起業に挑戦することを決意した。周りの人々は私の決断を心配したが、私は自分のアイデアに自信を持っていた。しかし、現実はそれほど甘くはなかった。最初の半年間は、資金不足や人材確保の難しさなど、様々な障害を乗り越えなければならなかった。何度も諦めそうになったが、そのたびに仲間たちの励ましに支えられた。困難にもかかわらず、私たちのチームは諦めずに試行錯誤を続けた。失敗から学ぶことで、製品の質を少しずつ改善していった。一年が経つころには、ようやく最初のお客様を獲得することができた。このことは、私たちにとって大きな自信となった。お客様のフィードバックを取り入れることで、さらに使いやすい製品を生み出すことができた。徐々に口コミが広がり、利用者の数が増えていった。起業してから二年目には、黒字化を達成し、事業が軌道に乗り始めた。今振り返ってみると、あの困難な時期があったからこそ、強いチームが生まれたのだと思う。起業は簡単ではないが、社会に本当の価値を生み出せたことが最大の喜びだ。これからも挑戦を続け、より多くの人々の役に立てる会社を目指したい。",
+    "translation": "Năm ba mươi tuổi, tôi đã từ bỏ công việc nhân viên công ty ổn định và quyết tâm thử sức với khởi nghiệp. Những người xung quanh lo lắng cho quyết định của tôi, nhưng tôi tự tin vào ý tưởng của mình. Tuy nhiên, thực tế không dễ dàng đến vậy. Trong nửa năm đầu, chúng tôi phải vượt qua nhiều trở ngại khác nhau như thiếu vốn và khó khăn trong việc tuyển dụng nhân sự. Nhiều lần tôi suýt bỏ cuộc, nhưng mỗi lần như vậy lại được sự động viên của đồng đội nâng đỡ. Dù gặp nhiều khó khăn, nhóm chúng tôi vẫn không từ bỏ mà tiếp tục thử nghiệm và rút kinh nghiệm. Thông qua việc học hỏi từ thất bại, chúng tôi dần dần cải thiện chất lượng sản phẩm. Khoảng một năm sau, cuối cùng chúng tôi đã có được những khách hàng đầu tiên. Điều này đã trở thành nguồn tự tin lớn cho chúng tôi. Bằng cách tiếp thu phản hồi của khách hàng, chúng tôi đã tạo ra được sản phẩm dễ sử dụng hơn nữa. Dần dần tiếng đồn lan rộng và số lượng người dùng tăng lên. Vào năm thứ hai sau khi khởi nghiệp, chúng tôi đạt được lợi nhuận và việc kinh doanh bắt đầu đi vào quỹ đạo. Nhìn lại bây giờ, tôi nghĩ rằng chính nhờ có giai đoạn khó khăn đó mà một đội nhóm vững mạnh đã được hình thành. Khởi nghiệp không phải là điều dễ dàng, nhưng điều vui mừng nhất là đã có thể tạo ra giá trị thực sự cho xã hội. Tôi muốn tiếp tục thử thách và hướng tới xây dựng một công ty có thể giúp ích cho nhiều người hơn.",
+    "vocabulary": [
+      {"word": "決意", "reading": "けつい", "meaning": "quyết tâm, quyết định"},
+      {"word": "資金不足", "reading": "しきんぶそく", "meaning": "thiếu vốn"},
+      {"word": "人材確保", "reading": "じんざいかくほ", "meaning": "tuyển dụng và giữ chân nhân tài"},
+      {"word": "障害", "reading": "しょうがい", "meaning": "trở ngại, cản trở"},
+      {"word": "試行錯誤", "reading": "しこうさくご", "meaning": "thử nghiệm và rút kinh nghiệm (thử sai)"},
+      {"word": "フィードバック", "reading": "フィードバック", "meaning": "phản hồi"},
+      {"word": "口コミ", "reading": "くちコミ", "meaning": "truyền miệng, đánh giá"},
+      {"word": "黒字化", "reading": "くろじか", "meaning": "đạt lợi nhuận, có lãi"},
+      {"word": "軌道に乗る", "reading": "きどうにのる", "meaning": "đi vào quỹ đạo, đi vào ổn định"},
+      {"word": "諦める", "reading": "あきらめる", "meaning": "từ bỏ, bỏ cuộc"}
+    ],
+    "process": [
+      {
+        "sentence": "三十歳のとき、私は安定した会社員の仕事を辞め、起業に挑戦することを決意した。",
+        "chunks": "三十歳のとき / 私は / 安定した会社員の仕事を辞め / 起業に挑戦することを / 決意した",
+        "guide": "のとき → thời gian cụ thể → は chủ đề → を辞め: hành động 1 liệt kê bằng て-form rút gọn → に挑戦する: 'thử sức với' → 🔒 Đóng gói: 'thử sức với khởi nghiệp' → を決意した: quyết tâm điều gì",
+        "translation": "Năm ba mươi tuổi, tôi đã từ bỏ công việc nhân viên công ty ổn định và quyết tâm thử sức với khởi nghiệp."
+      },
+      {
+        "sentence": "周りの人々は私の決断を心配したが、私は自分のアイデアに自信を持っていた。",
+        "chunks": "周りの人々は / 私の決断を心配したが / 私は / 自分のアイデアに自信を / 持っていた",
+        "guide": "は chủ đề: người xung quanh → を心配した: lo lắng → が → 🔒 Đóng gói: 'nhưng đảo chiều' → 私は chuyển chủ đề sang tác giả → に自信を持つ: tự tin vào điều gì → ⚠️ Bẫy: が ở giữa câu = 'nhưng', khác が là trợ từ chủ ngữ",
+        "translation": "Những người xung quanh lo lắng cho quyết định của tôi, nhưng tôi tự tin vào ý tưởng của mình."
+      },
+      {
+        "sentence": "しかし、現実はそれほど甘くはなかった。",
+        "chunks": "しかし / 現実は / それほど甘くはなかった",
+        "guide": "しかし → chuyển sang thực tế khắc nghiệt → は chủ đề: thực tế → それほど + phủ định: 'không đến vậy' → 🔒 Đóng gói: 'thực tế không dễ dàng như vậy' → 💡 Câu ngắn nhưng quan trọng: báo hiệu phần khó khăn sắp đến",
+        "translation": "Tuy nhiên, thực tế không dễ dàng đến vậy."
+      },
+      {
+        "sentence": "最初の半年間は、資金不足や人材確保の難しさなど、様々な障害を乗り越えなければならなかった。",
+        "chunks": "最初の半年間は / 資金不足や人材確保の難しさなど / 様々な障害を / 乗り越えなければならなかった",
+        "guide": "は chủ đề: giai đoạn 6 tháng đầu → や liệt kê không đầy đủ (など xác nhận) → 🔒 Đóng gói: 'thiếu vốn, khó tuyển nhân sự, v.v.' → を乗り越える: vượt qua → なければならない: phải, bắt buộc",
+        "translation": "Trong nửa năm đầu, chúng tôi phải vượt qua nhiều trở ngại khác nhau như thiếu vốn và khó khăn trong việc tuyển dụng nhân sự."
+      },
+      {
+        "sentence": "何度も諦めそうになったが、そのたびに仲間たちの励ましに支えられた。",
+        "chunks": "何度も諦めそうになったが / そのたびに / 仲間たちの励ましに / 支えられた",
+        "guide": "何度も → 'nhiều lần' → 諦めそうになった: suýt bỏ cuộc (そうになる = gần như xảy ra) → が: nhưng → 🔒 Đóng gói: 'nhưng mỗi lần đó' → に支えられた: được nâng đỡ bởi (bị động) → 💡 そうになる ≠ そうだ: そうになる = gần xảy ra nhưng không xảy ra",
+        "translation": "Nhiều lần tôi suýt bỏ cuộc, nhưng mỗi lần như vậy lại được sự động viên của đồng đội nâng đỡ."
+      },
+      {
+        "sentence": "困難にもかかわらず、私たちのチームは諦めずに試行錯誤を続けた。",
+        "chunks": "困難にもかかわらず / 私たちのチームは / 諦めずに / 試行錯誤を続けた",
+        "guide": "にもかかわらず → 'dù có' (nhượng bộ) → 🔒 Đóng gói: 'dù gặp khó khăn' → は chủ đề: đội nhóm → 諦めずに: không từ bỏ (ずに = không làm mà) → ⚠️ Bẫy: にもかかわらず trang trọng hơn のに; のに thiên về cảm xúc, にもかかわらず thiên về sự kiện",
+        "translation": "Dù gặp nhiều khó khăn, nhóm chúng tôi vẫn không từ bỏ mà tiếp tục thử nghiệm và rút kinh nghiệm."
+      },
+      {
+        "sentence": "失敗から学ぶことで、製品の質を少しずつ改善していった。",
+        "chunks": "失敗から学ぶことで / 製品の質を / 少しずつ改善していった",
+        "guide": "から: nguồn gốc 'từ thất bại' → 学ぶことで: 🔒 Đóng gói 'bằng cách học hỏi' → 製品の質を: tân ngữ → 少しずつ: từng chút một → ていった: tiếp diễn theo hướng về quá khứ → 💡 ことで = phương tiện/cách thức thực hiện hành động sau",
+        "translation": "Thông qua việc học hỏi từ thất bại, chúng tôi dần dần cải thiện chất lượng sản phẩm."
+      },
+      {
+        "sentence": "一年が経つころには、ようやく最初のお客様を獲得することができた。",
+        "chunks": "一年が経つころには / ようやく / 最初のお客様を / 獲得することができた",
+        "guide": "が経つ: trôi qua (thời gian là chủ ngữ) → ころには → 🔒 Đóng gói: 'khoảng thời điểm một năm trôi qua' → ようやく: 'cuối cùng cũng, mới' (diễn đạt sự nhẹ nhõm sau chờ đợi lâu) → を獲得する: có được, giành được",
+        "translation": "Khoảng một năm sau, cuối cùng chúng tôi đã có được những khách hàng đầu tiên."
+      },
+      {
+        "sentence": "このことは、私たちにとって大きな自信となった。",
+        "chunks": "このことは / 私たちにとって / 大きな自信と / なった",
+        "guide": "このこと → chỉ lại sự kiện có khách hàng đầu tiên → は chủ đề → にとって: 'đối với' (đánh giá chủ quan) → 🔒 Đóng gói: 'đối với chúng tôi' → となった: trở thành → 💡 となった trang trọng hơn になった",
+        "translation": "Điều này đã trở thành nguồn tự tin lớn cho chúng tôi."
+      },
+      {
+        "sentence": "お客様のフィードバックを取り入れることで、さらに使いやすい製品を生み出すことができた。",
+        "chunks": "お客様のフィードバックを取り入れることで / さらに使いやすい製品を / 生み出すことができた",
+        "guide": "を取り入れる: tiếp thu, đưa vào → ことで → 🔒 Đóng gói: 'bằng cách tiếp thu phản hồi' → さらに: hơn nữa → を生み出す: tạo ra, sáng tạo ra → 💡 生み出す = sinh ra + đưa ra, mạnh hơn 作る; dùng cho sáng tạo giá trị mới",
+        "translation": "Bằng cách tiếp thu phản hồi của khách hàng, chúng tôi đã tạo ra được sản phẩm dễ sử dụng hơn nữa."
+      },
+      {
+        "sentence": "徐々に口コミが広がり、利用者の数が増えていった。",
+        "chunks": "徐々に口コミが / 広がり / 利用者の数が / 増えていった",
+        "guide": "徐々に: dần dần → が広がり: lan rộng, liệt kê bằng り (て-form của い-adj/動) → 🔒 Đóng gói: 'tiếng đồn dần lan rộng' → が増えていった: số lượng tăng theo hướng về quá khứ → 💡 ていった ở đây = diễn tiến liên tục trong quá khứ",
+        "translation": "Dần dần tiếng đồn lan rộng và số lượng người dùng tăng lên."
+      },
+      {
+        "sentence": "起業してから二年目には、黒字化を達成し、事業が軌道に乗り始めた。",
+        "chunks": "起業してから二年目には / 黒字化を達成し / 事業が / 軌道に乗り始めた",
+        "guide": "てから: 'sau khi' → 二年目には → 🔒 Đóng gói: 'vào năm thứ hai sau khởi nghiệp' → を達成し: đạt được, liệt kê bằng し → 軌道に乗る: 'đi vào quỹ đạo' (thành ngữ) → 始めた: bắt đầu",
+        "translation": "Vào năm thứ hai sau khi khởi nghiệp, chúng tôi đạt được lợi nhuận và việc kinh doanh bắt đầu đi vào quỹ đạo."
+      },
+      {
+        "sentence": "今振り返ってみると、あの困難な時期があったからこそ、強いチームが生まれたのだと思う。",
+        "chunks": "今振り返ってみると / あの困難な時期があったからこそ / 強いチームが / 生まれたのだと思う",
+        "guide": "振り返ってみると: 'khi nhìn lại' → からこそ → 🔒 Đóng gói: 'chính vì có giai đoạn khó khăn đó' (nhấn mạnh nguyên nhân) → が生まれた: được hình thành → のだと思う: suy luận, nhận thức → ⚠️ Bẫy: からこそ ≠ から; からこそ nhấn mạnh 'chính vì lý do đó, không phải lý do khác'",
+        "translation": "Nhìn lại bây giờ, tôi nghĩ rằng chính nhờ có giai đoạn khó khăn đó mà một đội nhóm vững mạnh đã được hình thành."
+      },
+      {
+        "sentence": "起業は簡単ではないが、社会に本当の価値を生み出せたことが最大の喜びだ。",
+        "chunks": "起業は簡単ではないが / 社会に本当の価値を / 生み出せたことが / 最大の喜びだ",
+        "guide": "は chủ đề: khởi nghiệp → 簡単ではない + が: thừa nhận khó khăn rồi đảo chiều → に: đối tượng thụ hưởng 'cho xã hội' → 🔒 Đóng gói: 'tạo ra giá trị thực cho xã hội' → ことが最大の喜び: nominalizer こと biến thành chủ ngữ",
+        "translation": "Khởi nghiệp không phải là điều dễ dàng, nhưng điều vui mừng nhất là đã có thể tạo ra giá trị thực sự cho xã hội."
+      },
+      {
+        "sentence": "これからも挑戦を続け、より多くの人々の役に立てる会社を目指したい。",
+        "chunks": "これからも / 挑戦を続け / より多くの人々の役に立てる会社を / 目指したい",
+        "guide": "これからも: 'từ nay về sau cũng' → を続け: tiếp tục, liệt kê bằng て-form rút gọn → 🔒 Đóng gói: 'công ty có thể giúp ích cho nhiều người hơn' (mệnh đề định ngữ dài) → を目指したい: muốn hướng tới → 💡 Câu kết hướng về tương lai, thể hiện tâm thế tiếp tục thử thách",
+        "translation": "Tôi muốn tiếp tục thử thách và hướng tới xây dựng một công ty có thể giúp ích cho nhiều người hơn."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0211_Q1",
+        "question": "筆者が起業を決意したとき、周りの人々はどんな反応でしたか。",
+        "question_vi": "Khi tác giả quyết tâm khởi nghiệp, những người xung quanh đã phản ứng như thế nào?",
+        "answers": [
+          {"text": "みんな積極的に応援してくれた。", "text_vi": "Mọi người đều tích cực ủng hộ.", "is_correct": false},
+          {"text": "周りの人々は筆者の決断を心配した。", "text_vi": "Những người xung quanh lo lắng cho quyết định của tác giả.", "is_correct": true},
+          {"text": "誰も興味を持たなかった。", "text_vi": "Không ai quan tâm.", "is_correct": false},
+          {"text": "多くの人が一緒に起業しようと提案した。", "text_vi": "Nhiều người đề nghị cùng khởi nghiệp.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói rõ 「周りの人々は私の決断を心配した」→ phản ứng của người xung quanh là lo lắng (心配). Tuy nhiên câu tiếp theo cho thấy tác giả vẫn tự tin vào ý tưởng của mình → cấu trúc が đối lập."
+      },
+      {
+        "id": "R_0211_Q2",
+        "question": "筆者のチームが困難を乗り越えられた理由は何ですか。",
+        "question_vi": "Lý do nhóm của tác giả có thể vượt qua khó khăn là gì?",
+        "answers": [
+          {"text": "最初から十分な資金があったから。", "text_vi": "Vì ngay từ đầu đã có đủ vốn.", "is_correct": false},
+          {"text": "仲間の励ましに支えられ、失敗から学び続けたから。", "text_vi": "Vì được sự động viên của đồng đội nâng đỡ và tiếp tục học hỏi từ thất bại.", "is_correct": true},
+          {"text": "有名な投資家に資金援助してもらったから。", "text_vi": "Vì được nhà đầu tư nổi tiếng hỗ trợ tài chính.", "is_correct": false},
+          {"text": "最初から多くのお客様がいたから。", "text_vi": "Vì ngay từ đầu đã có nhiều khách hàng.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 nói 「そのたびに仲間たちの励ましに支えられた」và câu 7 nói 「失敗から学ぶことで、製品の質を少しずつ改善していった」→ hai yếu tố giúp vượt qua khó khăn: sự động viên của đồng đội và việc học hỏi từ thất bại. ⚠️ Bẫy: bài không đề cập đến nhà đầu tư hay vốn ban đầu đủ."
+      },
+      {
+        "id": "R_0211_Q3",
+        "question": "「からこそ」を使った文から、筆者はどんなことを伝えたいですか。",
+        "question_vi": "Qua câu sử dụng「からこそ」, tác giả muốn truyền đạt điều gì?",
+        "answers": [
+          {"text": "困難な時期がなければもっと早く成功できた。", "text_vi": "Nếu không có giai đoạn khó khăn đã có thể thành công sớm hơn.", "is_correct": false},
+          {"text": "困難な時期を経験したからこそ、強いチームが育ったということ。", "text_vi": "Chính vì đã trải qua giai đoạn khó khăn mà một đội nhóm vững mạnh đã được hình thành.", "is_correct": true},
+          {"text": "困難な時期は避けられないから、起業は勧めない。", "text_vi": "Vì giai đoạn khó khăn là không thể tránh khỏi nên không khuyến khích khởi nghiệp.", "is_correct": false},
+          {"text": "チームが弱かったから困難な時期が長かった。", "text_vi": "Vì nhóm yếu nên giai đoạn khó khăn kéo dài.", "is_correct": false}
+        ],
+        "explanation": "Câu 13 dùng 「あの困難な時期があったからこそ、強いチームが生まれた」→ からこそ nhấn mạnh 'chính vì lý do đó (không phải lý do nào khác) mà kết quả này xảy ra'. Tác giả nhìn khó khăn như nguồn gốc của sức mạnh, không phải điều tiêu cực cần tránh. 💡 からこそ = nhấn mạnh nguyên nhân duy nhất, thái độ biết ơn khó khăn."
+      },
+      {
+        "id": "R_0211_Q4",
+        "question": "筆者にとって起業の「最大の喜び」は何ですか。",
+        "question_vi": "\"Niềm vui lớn nhất\" khi khởi nghiệp đối với tác giả là gì?",
+        "answers": [
+          {"text": "黒字化を達成して、会社が大きくなったこと。", "text_vi": "Đạt được lợi nhuận và công ty lớn mạnh.", "is_correct": false},
+          {"text": "周りの人々から認められ、有名になったこと。", "text_vi": "Được những người xung quanh công nhận và trở nên nổi tiếng.", "is_correct": false},
+          {"text": "社会に本当の価値を生み出せたこと。", "text_vi": "Có thể tạo ra giá trị thực sự cho xã hội.", "is_correct": true},
+          {"text": "仲間たちと一緒に働けたこと。", "text_vi": "Có thể làm việc cùng với các đồng đội.", "is_correct": false}
+        ],
+        "explanation": "Câu 14 nói rõ 「社会に本当の価値を生み出せたことが最大の喜びだ」→ niềm vui lớn nhất là tạo ra giá trị thực cho xã hội. ⚠️ Bẫy: đáp án A (黒字化) được nhắc đến trong bài như một mốc thành công, nhưng không phải là điều tác giả coi là 'niềm vui lớn nhất'."
+      }
+    ]
+  },
+  {
+    "id": "R_0212",
+    "level": 6,
+    "level_label": "N3_advanced",
+    "jlpt": "N3",
+    "title": "失われた時間と家族との絆を取り戻す旅",
+    "title_vi": "Hành trình lấy lại thời gian đã mất và tình thân gia đình",
+    "topic": "family",
+    "subtopic": "cân bằng cuộc sống",
+    "tags": ["を大切にする", "を見失う", "を取り戻す", "てしまう", "ようになる"],
+    "grammar_used": ["～を大切にする", "～を見失う", "～を取り戻す", "～てしまう", "～ようになる"],
+    "sentence_count": 15,
+    "text": "子供が生まれたとき、私は家族との時間を何よりも大切にしようと決めた。週末は必ず家族で公園に行き、夜は子供と一緒に絵本を読んでいた。あのころが、私の人生で最も幸せな時期だったと今でも思う。しかし、仕事での責任が増えるにつれて、だんだんと家族との時間が減っていってしまった。気がつけば、子供の成長の大切な瞬間を見失っていた。運動会も誕生日パーティーも、仕事を理由に欠席することが増えた。妻はずっと我慢していたが、ある日「子供があなたのことを寂しがっている」と静かに言った。その言葉は、私の胸に深く刺さった。私は自分が家族にとって大切なものを見失っていたことに、ようやく気がついた。翌日から、私は働き方を見直す決心をした。残業を減らし、週に二回は必ず早く帰るようにした。最初は仕事の量が心配だったが、集中することで効率が上がり、問題なく対応できた。少しずつ家族との時間を取り戻していくにつれて、子供の笑顔が増えていった。今では、家族での食事の時間が私にとって一日の中で最も大切な時間だ。仕事も大切だが、家族との絆こそが、私に生きる力を与えてくれるのだと深く感じている。",
+    "translation": "Khi con được sinh ra, tôi đã quyết tâm trân trọng thời gian cùng gia đình hơn bất cứ điều gì. Vào cuối tuần, cả gia đình nhất định sẽ đi công viên, và buổi tối tôi đọc sách tranh cùng với con. Tôi vẫn nghĩ rằng thời kỳ đó là giai đoạn hạnh phúc nhất trong cuộc đời tôi. Tuy nhiên, theo sự gia tăng trách nhiệm trong công việc, thời gian cùng gia đình dần dần giảm đi. Khi nhận ra thì tôi đã đánh mất những khoảnh khắc quan trọng trong sự trưởng thành của con. Lễ hội thể thao và tiệc sinh nhật, tôi ngày càng vắng mặt với lý do công việc. Vợ tôi đã chịu đựng lâu dài, nhưng một ngày cô ấy nhẹ nhàng nói rằng \"Con đang nhớ anh đấy\". Những lời đó đã cắm sâu vào trong lòng tôi. Cuối cùng tôi nhận ra rằng mình đã đánh mất những điều quan trọng đối với gia đình. Từ ngày hôm sau, tôi quyết tâm xem xét lại cách làm việc. Tôi giảm làm thêm giờ và nhất định tuần hai lần về sớm. Ban đầu tôi lo lắng về lượng công việc, nhưng nhờ tập trung, hiệu suất tăng lên và có thể xử lý không có vấn đề gì. Dần dần khi lấy lại thời gian cùng gia đình, nụ cười của con ngày càng nhiều hơn. Bây giờ, bữa ăn cùng gia đình là thời gian quan trọng nhất trong ngày đối với tôi. Công việc cũng quan trọng, nhưng tôi cảm nhận sâu sắc rằng chính tình thân gia đình là thứ mang lại cho tôi sức mạnh để sống.",
+    "vocabulary": [
+      {"word": "絆", "reading": "きずな", "meaning": "tình thân, sợi dây liên kết"},
+      {"word": "瞬間", "reading": "しゅんかん", "meaning": "khoảnh khắc, thời điểm"},
+      {"word": "運動会", "reading": "うんどうかい", "meaning": "lễ hội thể thao (ở trường)"},
+      {"word": "欠席", "reading": "けっせき", "meaning": "vắng mặt"},
+      {"word": "我慢", "reading": "がまん", "meaning": "chịu đựng, nhịn"},
+      {"word": "寂しがる", "reading": "さびしがる", "meaning": "tỏ ra/cảm thấy cô đơn, nhớ ai"},
+      {"word": "刺さる", "reading": "ささる", "meaning": "cắm vào, đâm vào (nghĩa bóng: cảm xúc sâu sắc)"},
+      {"word": "見直す", "reading": "みなおす", "meaning": "xem xét lại, đánh giá lại"},
+      {"word": "残業", "reading": "ざんぎょう", "meaning": "làm thêm giờ, tăng ca"},
+      {"word": "効率", "reading": "こうりつ", "meaning": "hiệu suất, hiệu quả"}
+    ],
+    "process": [
+      {
+        "sentence": "子供が生まれたとき、私は家族との時間を何よりも大切にしようと決めた。",
+        "chunks": "子供が生まれたとき / 私は / 家族との時間を / 何よりも大切にしようと / 決めた",
+        "guide": "が生まれた: được sinh ra → とき: thời điểm → 私は chủ đề → を大切にする: trân trọng điều gì → 🔒 Đóng gói: 'thời gian cùng gia đình' → 何よりも: hơn bất cứ điều gì → しようと決めた: quyết tâm làm",
+        "translation": "Khi con được sinh ra, tôi đã quyết tâm trân trọng thời gian cùng gia đình hơn bất cứ điều gì."
+      },
+      {
+        "sentence": "週末は必ず家族で公園に行き、夜は子供と一緒に絵本を読んでいた。",
+        "chunks": "週末は必ず / 家族で公園に行き / 夜は子供と一緒に / 絵本を読んでいた",
+        "guide": "は chủ đề cuối tuần → 必ず: nhất định → に行き: liệt kê hành động bằng い-form → 夜は chuyển thời điểm → と一緒に: cùng với → 🔒 Đóng gói: 'đọc sách tranh cùng con' → ていた: diễn tả thói quen trong quá khứ",
+        "translation": "Vào cuối tuần, cả gia đình nhất định sẽ đi công viên, và buổi tối tôi đọc sách tranh cùng với con."
+      },
+      {
+        "sentence": "あのころが、私の人生で最も幸せな時期だったと今でも思う。",
+        "chunks": "あのころが / 私の人生で / 最も幸せな時期だったと / 今でも思う",
+        "guide": "あのころが → chỉ lại 'thời kỳ đó' (quá khứ) → が: chủ ngữ → 私の人生で: phạm vi → 🔒 Đóng gói: 'thời kỳ hạnh phúc nhất trong cuộc đời tôi' → だったと思う: suy nghĩ/cảm nhận → 今でも: 'ngay cả bây giờ' nhấn mạnh tình cảm còn lại",
+        "translation": "Tôi vẫn nghĩ rằng thời kỳ đó là giai đoạn hạnh phúc nhất trong cuộc đời tôi."
+      },
+      {
+        "sentence": "しかし、仕事での責任が増えるにつれて、だんだんと家族との時間が減っていってしまった。",
+        "chunks": "しかし / 仕事での責任が増えるにつれて / だんだんと / 家族との時間が / 減っていってしまった",
+        "guide": "しかし → đảo chiều sang giai đoạn khó khăn → が増えるにつれて → 🔒 Đóng gói: 'theo sự gia tăng trách nhiệm công việc' → だんだんと: dần dần → てしまった: hối tiếc về điều đã xảy ra không mong muốn → ⚠️ Bẫy: につれて = tỷ lệ thuận, hai thứ thay đổi cùng chiều",
+        "translation": "Tuy nhiên, theo sự gia tăng trách nhiệm trong công việc, thời gian cùng gia đình dần dần giảm đi."
+      },
+      {
+        "sentence": "気がつけば、子供の成長の大切な瞬間を見失っていた。",
+        "chunks": "気がつけば / 子供の成長の大切な瞬間を / 見失っていた",
+        "guide": "気がつけば: 'khi nhận ra' (giả định điều kiện nhận thức) → を見失う: đánh mất, không còn nhìn thấy → ていた: trạng thái đã xảy ra → 🔒 Đóng gói: 'những khoảnh khắc quan trọng trong sự trưởng thành của con' → 💡 見失う = 見る + 失う: nhìn mà đánh mất, không còn theo dõi được",
+        "translation": "Khi nhận ra thì tôi đã đánh mất những khoảnh khắc quan trọng trong sự trưởng thành của con."
+      },
+      {
+        "sentence": "運動会も誕生日パーティーも、仕事を理由に欠席することが増えた。",
+        "chunks": "運動会も / 誕生日パーティーも / 仕事を理由に / 欠席することが増えた",
+        "guide": "も…も: liệt kê hai thứ cùng bị ảnh hưởng → 🔒 Đóng gói: 'cả lễ hội thể thao lẫn tiệc sinh nhật' → を理由に: lấy … làm lý do → ことが増えた: hành động ngày càng xảy ra nhiều hơn → ⚠️ Bẫy: を理由に ≠ のために; を理由に = dùng làm cớ/lý do biện hộ",
+        "translation": "Lễ hội thể thao và tiệc sinh nhật, tôi ngày càng vắng mặt với lý do công việc."
+      },
+      {
+        "sentence": "妻はずっと我慢していたが、ある日「子供があなたのことを寂しがっている」と静かに言った。",
+        "chunks": "妻はずっと我慢していたが / ある日 / 「子供があなたのことを寂しがっている」と / 静かに言った",
+        "guide": "は chủ đề: vợ → ずっと: suốt thời gian đó → が: nhưng → ある日: một ngày nào đó → 🔒 Đóng gói: lời trích dẫn trực tiếp (「」) → と言った: nói rằng → 静かに: nhẹ nhàng → 💡 静かに nhấn mạnh cảm xúc kiềm chế của vợ, hiệu quả hơn nói to",
+        "translation": "Vợ tôi đã chịu đựng lâu dài, nhưng một ngày cô ấy nhẹ nhàng nói rằng \"Con đang nhớ anh đấy\"."
+      },
+      {
+        "sentence": "その言葉は、私の胸に深く刺さった。",
+        "chunks": "その言葉は / 私の胸に / 深く刺さった",
+        "guide": "その言葉 → chỉ lại câu nói của vợ → は chủ đề → 私の胸に: vào lòng tôi → 深く刺さった → 🔒 Đóng gói: 'cắm sâu vào lòng' → 💡 刺さる nghĩa đen = đâm vào; nghĩa bóng = lời nói tác động mạnh đến cảm xúc. ⚠️ Bẫy: đây là ẩn dụ, không có vật nhọn thật",
+        "translation": "Những lời đó đã cắm sâu vào trong lòng tôi."
+      },
+      {
+        "sentence": "私は自分が家族にとって大切なものを見失っていたことに、ようやく気がついた。",
+        "chunks": "私は / 自分が家族にとって大切なものを / 見失っていたことに / ようやく気がついた",
+        "guide": "私は chủ đề → 自分が: chủ ngữ bên trong mệnh đề → にとって: đối với gia đình → 🔒 Đóng gói: 'những điều quan trọng đối với gia đình' → を見失っていたことに: nhận ra điều gì đó đã xảy ra → ようやく: 'cuối cùng cũng' (nhẹ nhõm, chậm trễ) → 気がつく: nhận ra, chợt hiểu",
+        "translation": "Cuối cùng tôi nhận ra rằng mình đã đánh mất những điều quan trọng đối với gia đình."
+      },
+      {
+        "sentence": "翌日から、私は働き方を見直す決心をした。",
+        "chunks": "翌日から / 私は / 働き方を見直す決心を / した",
+        "guide": "翌日から: từ ngày hôm sau → 私は chủ đề → を見直す: xem xét lại → 🔒 Đóng gói: 'cách làm việc' → 決心をした: quyết tâm → 💡 翌日 = ngày hôm sau (trang trọng hơn 次の日), báo hiệu hành động ngay lập tức",
+        "translation": "Từ ngày hôm sau, tôi quyết tâm xem xét lại cách làm việc."
+      },
+      {
+        "sentence": "残業を減らし、週に二回は必ず早く帰るようにした。",
+        "chunks": "残業を減らし / 週に二回は / 必ず早く帰るようにした",
+        "guide": "を減らし: giảm, liệt kê bằng し → 週に二回は: tần suất cụ thể → 必ず: nhất định → ようにした: cố gắng làm để đạt được thói quen/trạng thái → ⚠️ Bẫy: ようにした ≠ ようになった; ようにした = cố gắng chủ động, ようになった = tự nhiên trở thành",
+        "translation": "Tôi giảm làm thêm giờ và nhất định tuần hai lần về sớm."
+      },
+      {
+        "sentence": "最初は仕事の量が心配だったが、集中することで効率が上がり、問題なく対応できた。",
+        "chunks": "最初は仕事の量が心配だったが / 集中することで / 効率が上がり / 問題なく対応できた",
+        "guide": "最初は: ban đầu → が: nhưng, đảo chiều → 集中することで → 🔒 Đóng gói: 'bằng cách tập trung' → が上がり: tăng, liệt kê bằng り → 問題なく: không có vấn đề → 対応できた: xử lý được → 💡 Chuỗi nhân quả: tập trung → hiệu suất tăng → giải quyết được vấn đề",
+        "translation": "Ban đầu tôi lo lắng về lượng công việc, nhưng nhờ tập trung, hiệu suất tăng lên và có thể xử lý không có vấn đề gì."
+      },
+      {
+        "sentence": "少しずつ家族との時間を取り戻していくにつれて、子供の笑顔が増えていった。",
+        "chunks": "少しずつ家族との時間を / 取り戻していくにつれて / 子供の笑顔が / 増えていった",
+        "guide": "少しずつ: từng chút một → を取り戻す: lấy lại, giành lại → ていくにつれて → 🔒 Đóng gói: 'theo sự lấy lại dần dần thời gian gia đình' → が増えていった: tăng dần theo hướng tích cực → ⚠️ Bẫy: につれて = tỷ lệ thuận; một thứ tăng thì thứ kia cũng tăng theo",
+        "translation": "Dần dần khi lấy lại thời gian cùng gia đình, nụ cười của con ngày càng nhiều hơn."
+      },
+      {
+        "sentence": "今では、家族での食事の時間が私にとって一日の中で最も大切な時間だ。",
+        "chunks": "今では / 家族での食事の時間が / 私にとって / 一日の中で最も大切な時間だ",
+        "guide": "今では: 'bây giờ thì' (tương phản với quá khứ) → が: chủ ngữ → 🔒 Đóng gói: 'thời gian bữa ăn cùng gia đình' → にとって: đối với tôi → 一日の中で最も: nhất trong một ngày → だ: khẳng định → 💡 今では nhấn mạnh sự thay đổi từ trước đến nay",
+        "translation": "Bây giờ, bữa ăn cùng gia đình là thời gian quan trọng nhất trong ngày đối với tôi."
+      },
+      {
+        "sentence": "仕事も大切だが、家族との絆こそが、私に生きる力を与えてくれるのだと深く感じている。",
+        "chunks": "仕事も大切だが / 家族との絆こそが / 私に生きる力を / 与えてくれるのだと / 深く感じている",
+        "guide": "も大切だが: thừa nhận công việc cũng quan trọng → こそが → 🔒 Đóng gói: 'chính tình thân gia đình' (nhấn mạnh bằng こそ) → 私に: người nhận → 生きる力: sức mạnh để sống → を与えてくれる: cho tôi → のだと深く感じている: cảm nhận sâu sắc → 💡 こそ nhấn mạnh đối tượng duy nhất đúng; こそが = chính là",
+        "translation": "Công việc cũng quan trọng, nhưng tôi cảm nhận sâu sắc rằng chính tình thân gia đình là thứ mang lại cho tôi sức mạnh để sống."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0212_Q1",
+        "question": "筆者は子供が生まれたとき、どんなことを決めましたか。",
+        "question_vi": "Khi con được sinh ra, tác giả đã quyết định điều gì?",
+        "answers": [
+          {"text": "仕事を辞めて、子供の世話だけをすることを決めた。", "text_vi": "Quyết định bỏ việc và chỉ chăm sóc con.", "is_correct": false},
+          {"text": "家族との時間を何よりも大切にしようと決めた。", "text_vi": "Quyết tâm trân trọng thời gian cùng gia đình hơn bất cứ điều gì.", "is_correct": true},
+          {"text": "もっと稼いで家族のために貯金しようと決めた。", "text_vi": "Quyết định kiếm nhiều hơn và tiết kiệm cho gia đình.", "is_correct": false},
+          {"text": "毎週末に旅行に行こうと決めた。", "text_vi": "Quyết định mỗi cuối tuần sẽ đi du lịch.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 nói rõ 「家族との時間を何よりも大切にしようと決めた」→ を大切にする là quyết định của tác giả. 何よりも = hơn bất cứ điều gì, nhấn mạnh mức độ ưu tiên cao nhất. ⚠️ Bẫy: đáp án D nói về du lịch mỗi cuối tuần - bài nói đi công viên (không phải du lịch) và không nói mỗi cuối tuần đi du lịch."
+      },
+      {
+        "id": "R_0212_Q2",
+        "question": "筆者が家族との時間を見失ってしまった理由は何ですか。",
+        "question_vi": "Lý do tác giả đánh mất thời gian cùng gia đình là gì?",
+        "answers": [
+          {"text": "妻と喧嘩して、家に帰りたくなくなったから。", "text_vi": "Vì cãi nhau với vợ và không muốn về nhà.", "is_correct": false},
+          {"text": "仕事での責任が増えるにつれて、家族との時間が減っていったから。", "text_vi": "Vì theo sự gia tăng trách nhiệm công việc, thời gian cùng gia đình dần giảm đi.", "is_correct": true},
+          {"text": "子供が外で遊ぶのを好まなかったから。", "text_vi": "Vì con không thích chơi bên ngoài.", "is_correct": false},
+          {"text": "引っ越しして遠くに住むようになったから。", "text_vi": "Vì chuyển nhà và bắt đầu sống ở xa.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói 「仕事での責任が増えるにつれて、だんだんと家族との時間が減っていってしまった」→ nguyên nhân là につれて (theo đà tăng trách nhiệm công việc). てしまった diễn tả sự hối tiếc về kết quả không mong muốn này."
+      },
+      {
+        "id": "R_0212_Q3",
+        "question": "妻の言葉が筆者に与えた影響は何でしたか。",
+        "question_vi": "Lời nói của vợ đã tác động đến tác giả như thế nào?",
+        "answers": [
+          {"text": "筆者は妻の言葉に怒り、言い訳をした。", "text_vi": "Tác giả tức giận với lời của vợ và biện hộ.", "is_correct": false},
+          {"text": "筆者は妻の言葉を無視して、仕事を続けた。", "text_vi": "Tác giả bỏ qua lời của vợ và tiếp tục làm việc.", "is_correct": false},
+          {"text": "筆者は胸に深く刺さり、自分が大切なものを見失っていたと気がついた。", "text_vi": "Lời nói đó cắm sâu vào lòng tác giả và tác giả nhận ra mình đã đánh mất những điều quan trọng.", "is_correct": true},
+          {"text": "筆者は泣いて、その日のうちに仕事を辞めた。", "text_vi": "Tác giả khóc và từ bỏ công việc ngay ngày hôm đó.", "is_correct": false}
+        ],
+        "explanation": "Câu 8 nói 「その言葉は、私の胸に深く刺さった」→ ẩn dụ: lời nói tác động mạnh. Câu 9 tiếp theo cho thấy kết quả 「自分が家族にとって大切なものを見失っていたことに、ようやく気がついた」→ nhận ra sự thật. Hai câu này liên kết nguyên nhân (lời vợ) - kết quả (nhận thức)."
+      },
+      {
+        "id": "R_0212_Q4",
+        "question": "この文章のテーマとして最も適切なものはどれですか。",
+        "question_vi": "Điều nào phù hợp nhất làm chủ đề của bài văn này?",
+        "answers": [
+          {"text": "仕事と家族どちらかを選ばなければならない厳しい現実。", "text_vi": "Thực tế khắc nghiệt phải chọn giữa công việc và gia đình.", "is_correct": false},
+          {"text": "大切にしていた家族との絆を見失い、そして取り戻す旅。", "text_vi": "Hành trình đánh mất rồi lấy lại tình thân gia đình từng được trân trọng.", "is_correct": true},
+          {"text": "仕事の効率を上げるための具体的なアドバイス。", "text_vi": "Lời khuyên cụ thể để nâng cao hiệu suất công việc.", "is_correct": false},
+          {"text": "子供の成長に親がどう関わるべきかの教育論。", "text_vi": "Lý luận giáo dục về cách cha mẹ nên tham gia vào sự trưởng thành của con.", "is_correct": false}
+        ],
+        "explanation": "Cấu trúc của bài: (1) trân trọng thời gian gia đình (を大切にする) → (2) đánh mất vì công việc (を見失う) → (3) nhận ra và lấy lại (を取り戻す). Đây là ba ngữ pháp trọng tâm của bài, cũng là hành trình cảm xúc của tác giả. 💡 Câu kết nhấn mạnh 「家族との絆こそが、私に生きる力を与えてくれる」→ tình thân = nguồn sức mạnh sống."
+      }
+    ]
+  }
+]

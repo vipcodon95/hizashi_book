@@ -1,0 +1,2610 @@
+{
+  "metadata": {
+    "source_file": "vietnamese_difficult_sounds_exercises.json",
+    "original_title": "Bài tập âm khó",
+    "total_questions": 132,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "L1_01",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "L1_01_audio"
+      ],
+      "prompt": "Nghe 2 âm và cho biết GIỐNG hay KHÁC nhau",
+      "difficulty": "medium",
+      "topic": null,
+      "pairs": [
+        {
+          "audio_1": "つ",
+          "audio_2": "す",
+          "answer": "different"
+        },
+        {
+          "audio_1": "つ",
+          "audio_2": "つ",
+          "answer": "same"
+        },
+        {
+          "audio_1": "す",
+          "audio_2": "す",
+          "answer": "same"
+        },
+        {
+          "audio_1": "す",
+          "audio_2": "つ",
+          "answer": "different"
+        },
+        {
+          "audio_1": "つき",
+          "audio_2": "すき",
+          "answer": "different"
+        },
+        {
+          "audio_1": "つく",
+          "audio_2": "すく",
+          "answer": "different"
+        },
+        {
+          "audio_1": "つむ",
+          "audio_2": "すむ",
+          "answer": "different"
+        },
+        {
+          "audio_1": "つる",
+          "audio_2": "する",
+          "answer": "different"
+        }
+      ]
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "つき"
+      ],
+      "prompt": "Nghe 'つき' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "mặt trăng",
+        "answer": "つ"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "すき"
+      ],
+      "prompt": "Nghe 'すき' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "thích",
+        "answer": "す"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "つくえ"
+      ],
+      "prompt": "Nghe 'つくえ' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bàn",
+        "answer": "つ"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "すこし"
+      ],
+      "prompt": "Nghe 'すこし' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "một chút",
+        "answer": "す"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "つかう"
+      ],
+      "prompt": "Nghe 'つかう' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sử dụng",
+        "answer": "つ"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "すわる"
+      ],
+      "prompt": "Nghe 'すわる' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "ngồi",
+        "answer": "す"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_06",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "つよい"
+      ],
+      "prompt": "Nghe 'つよい' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "mạnh",
+        "answer": "つ"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_07",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "すごい"
+      ],
+      "prompt": "Nghe 'すごい' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tuyệt vời",
+        "answer": "す"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_08",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "つくる"
+      ],
+      "prompt": "Nghe 'つくる' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "làm/tạo",
+        "answer": "つ"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0001_09",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "する"
+      ],
+      "prompt": "Nghe 'する' và nghe và chọn: つ hay す?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "làm",
+        "answer": "す"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0011_00",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "つき"
+      ],
+      "prompt": "Nghe 'つき' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つき (mặt trăng)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "すき (thích)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0011_01",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "すき"
+      ],
+      "prompt": "Nghe 'すき' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つき (mặt trăng)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "すき (thích)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0011_02",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "つむ"
+      ],
+      "prompt": "Nghe 'つむ' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つむ (tích lũy)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "すむ (sống/ở)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0011_03",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "すむ"
+      ],
+      "prompt": "Nghe 'すむ' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つむ (tích lũy)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "すむ (sống/ở)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0011_04",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "つる"
+      ],
+      "prompt": "Nghe 'つる' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つる (treo/câu)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "する (làm)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0011_05",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "する"
+      ],
+      "prompt": "Nghe 'する' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つる (treo/câu)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "する (làm)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0011_06",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "つめ"
+      ],
+      "prompt": "Nghe 'つめ' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つめ (móng tay)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "すめ (?)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0011_07",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "つかう"
+      ],
+      "prompt": "Nghe 'つかう' và nghe và chọn từ đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "つかう (sử dụng)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "すかう (?)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0019_00",
+      "base_type": "single_choice",
+      "sub_type": "sentence_comprehension",
+      "audio_ids": [
+        "つきがきれいです"
+      ],
+      "prompt": "Nghe 'つきがきれいです' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Mặt trăng đẹp",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Tôi thích",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0019_01",
+      "base_type": "single_choice",
+      "sub_type": "sentence_comprehension",
+      "audio_ids": [
+        "すしがすきです"
+      ],
+      "prompt": "Nghe 'すしがすきです' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Tôi thích sushi",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Mặt trăng sushi",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0019_02",
+      "base_type": "single_choice",
+      "sub_type": "sentence_comprehension",
+      "audio_ids": [
+        "つくえのうえ"
+      ],
+      "prompt": "Nghe 'つくえのうえ' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Trên bàn",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Một chút",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0019_03",
+      "base_type": "single_choice",
+      "sub_type": "sentence_comprehension",
+      "audio_ids": [
+        "すこしまって"
+      ],
+      "prompt": "Nghe 'すこしまって' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đợi một chút",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Dùng bàn",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0023_00",
+      "base_type": "counting",
+      "sub_type": "count_sound",
+      "audio_ids": [
+        "つくえをつかう"
+      ],
+      "prompt": "Nghe 'つくえをつかう' và đếm số lần nghe thấy âm つ trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0023_01",
+      "base_type": "counting",
+      "sub_type": "count_sound",
+      "audio_ids": [
+        "すしがすき"
+      ],
+      "prompt": "Nghe 'すしがすき' và đếm số lần nghe thấy âm つ trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0023_02",
+      "base_type": "counting",
+      "sub_type": "count_sound",
+      "audio_ids": [
+        "つきをみつける"
+      ],
+      "prompt": "Nghe 'つきをみつける' và đếm số lần nghe thấy âm つ trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0023_03",
+      "base_type": "counting",
+      "sub_type": "count_sound",
+      "audio_ids": [
+        "つづけてつくる"
+      ],
+      "prompt": "Nghe 'つづけてつくる' và đếm số lần nghe thấy âm つ trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 3
+      }
+    },
+    {
+      "id": "L2_01",
+      "base_type": "same_different",
+      "sub_type": "same_or_different",
+      "audio_ids": [
+        "L2_01_audio"
+      ],
+      "prompt": "Nghe 2 âm và cho biết GIỐNG hay KHÁC nhau",
+      "difficulty": "medium",
+      "topic": null,
+      "pairs": [
+        {
+          "audio_1": "ら",
+          "audio_2": "だ",
+          "answer": "different"
+        },
+        {
+          "audio_1": "り",
+          "audio_2": "り",
+          "answer": "same"
+        },
+        {
+          "audio_1": "る",
+          "audio_2": "る",
+          "answer": "same"
+        },
+        {
+          "audio_1": "れ",
+          "audio_2": "で",
+          "answer": "different"
+        },
+        {
+          "audio_1": "ろ",
+          "audio_2": "ど",
+          "answer": "different"
+        },
+        {
+          "audio_1": "から",
+          "audio_2": "かだ",
+          "answer": "different"
+        },
+        {
+          "audio_1": "これ",
+          "audio_2": "こで",
+          "answer": "different"
+        },
+        {
+          "audio_1": "ころ",
+          "audio_2": "こど",
+          "answer": "different"
+        }
+      ]
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "らーめん"
+      ],
+      "prompt": "Nghe 'らーめん' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "ramen",
+        "answer": "ら行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "だいがく"
+      ],
+      "prompt": "Nghe 'だいがく' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đại học",
+        "answer": "だ行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "りんご"
+      ],
+      "prompt": "Nghe 'りんご' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "táo",
+        "answer": "ら行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "でんわ"
+      ],
+      "prompt": "Nghe 'でんわ' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "điện thoại",
+        "answer": "だ行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "るす"
+      ],
+      "prompt": "Nghe 'るす' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "vắng nhà",
+        "answer": "ら行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "どこ"
+      ],
+      "prompt": "Nghe 'どこ' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "ở đâu",
+        "answer": "だ行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_06",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "れきし"
+      ],
+      "prompt": "Nghe 'れきし' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "lịch sử",
+        "answer": "ら行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_07",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "でる"
+      ],
+      "prompt": "Nghe 'でる' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "ra/xuất hiện",
+        "answer": "だ行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_08",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "ろく"
+      ],
+      "prompt": "Nghe 'ろく' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sáu",
+        "answer": "ら行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0028_09",
+      "base_type": "single_choice",
+      "sub_type": "identify_sound",
+      "audio_ids": [
+        "どうぞ"
+      ],
+      "prompt": "Nghe 'どうぞ' và nghe và chọn: ら行 hay だ行?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "xin mời",
+        "answer": "だ行"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0038_00",
+      "base_type": "single_choice",
+      "sub_type": "word_identification",
+      "audio_ids": [
+        "から"
+      ],
+      "prompt": "Nghe 'から' và nghe từ và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "から (từ/vì)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "かだ (?)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0038_01",
+      "base_type": "single_choice",
+      "sub_type": "word_identification",
+      "audio_ids": [
+        "これ"
+      ],
+      "prompt": "Nghe 'これ' và nghe từ và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "これ (cái này)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "こで (?)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0038_02",
+      "base_type": "single_choice",
+      "sub_type": "word_identification",
+      "audio_ids": [
+        "いる"
+      ],
+      "prompt": "Nghe 'いる' và nghe từ và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "いる (có/ở)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いど (giếng)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0038_03",
+      "base_type": "single_choice",
+      "sub_type": "word_identification",
+      "audio_ids": [
+        "いど"
+      ],
+      "prompt": "Nghe 'いど' và nghe từ và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "いる (có/ở)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いど (giếng)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0038_04",
+      "base_type": "single_choice",
+      "sub_type": "word_identification",
+      "audio_ids": [
+        "さる"
+      ],
+      "prompt": "Nghe 'さる' và nghe từ và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "さる (con khỉ)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "さだ (?)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0038_05",
+      "base_type": "single_choice",
+      "sub_type": "word_identification",
+      "audio_ids": [
+        "ひる"
+      ],
+      "prompt": "Nghe 'ひる' và nghe từ và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "ひる (buổi trưa)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ひど (?)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0044_00",
+      "base_type": "single_choice",
+      "sub_type": "sentence_listening",
+      "audio_ids": [
+        "これからいきます"
+      ],
+      "prompt": "Nghe 'これからいきます' và nghe câu và điền từ còn thiếu (ら行 hoặc だ行)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Tôi sẽ đi từ bây giờ",
+        "answer": "れ"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0044_01",
+      "base_type": "single_choice",
+      "sub_type": "sentence_listening",
+      "audio_ids": [
+        "どこにいる"
+      ],
+      "prompt": "Nghe 'どこにいる' và nghe câu và điền từ còn thiếu (ら行 hoặc だ行)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Ở đâu?",
+        "answer": "ど"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0044_02",
+      "base_type": "single_choice",
+      "sub_type": "sentence_listening",
+      "audio_ids": [
+        "りんごをたべる"
+      ],
+      "prompt": "Nghe 'りんごをたべる' và nghe câu và điền từ còn thiếu (ら行 hoặc だ行)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Ăn táo",
+        "answer": "り"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0044_03",
+      "base_type": "single_choice",
+      "sub_type": "sentence_listening",
+      "audio_ids": [
+        "でんわをかける"
+      ],
+      "prompt": "Nghe 'でんわをかける' và nghe câu và điền từ còn thiếu (ら行 hoặc だ行)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Gọi điện",
+        "answer": "で"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0048_00",
+      "base_type": "single_choice",
+      "sub_type": "mixed_practice",
+      "audio_ids": [
+        "ありがとうございます"
+      ],
+      "prompt": "Nghe 'ありがとうございます' và nghe và chọn từ đúng trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "あ___がとう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ありがとう",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0048_01",
+      "base_type": "single_choice",
+      "sub_type": "mixed_practice",
+      "audio_ids": [
+        "わかりました"
+      ],
+      "prompt": "Nghe 'わかりました' và nghe và chọn từ đúng trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "note": "り",
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0048_02",
+      "base_type": "single_choice",
+      "sub_type": "mixed_practice",
+      "audio_ids": [
+        "どうもありがとう"
+      ],
+      "prompt": "Nghe 'どうもありがとう' và nghe và chọn từ đúng trong câu",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "どう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "あり",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0051_00",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "か"
+      ],
+      "prompt": "Nghe 'か' và nghe và chọn: vô thanh (清音) hay hữu thanh (濁音)?",
+      "difficulty": "medium",
+      "topic": "か行 vs が行",
+      "metadata": {
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0051_01",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "が"
+      ],
+      "prompt": "Nghe 'が' và nghe và chọn: vô thanh (清音) hay hữu thanh (濁音)?",
+      "difficulty": "medium",
+      "topic": "か行 vs が行",
+      "metadata": {
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0051_02",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "かみ"
+      ],
+      "prompt": "Nghe 'かみ' và nghe và chọn: vô thanh (清音) hay hữu thanh (濁音)?",
+      "difficulty": "medium",
+      "topic": "か行 vs が行",
+      "metadata": {
+        "meaning": "giấy",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0051_03",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "がみ"
+      ],
+      "prompt": "Nghe 'がみ' và nghe và chọn: vô thanh (清音) hay hữu thanh (濁音)?",
+      "difficulty": "medium",
+      "topic": "か行 vs が行",
+      "metadata": {
+        "meaning": "(hậu tố)",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0051_04",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "かく"
+      ],
+      "prompt": "Nghe 'かく' và nghe và chọn: vô thanh (清音) hay hữu thanh (濁音)?",
+      "difficulty": "medium",
+      "topic": "か行 vs が行",
+      "metadata": {
+        "meaning": "viết",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0051_05",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "がく"
+      ],
+      "prompt": "Nghe 'がく' và nghe và chọn: vô thanh (清音) hay hữu thanh (濁音)?",
+      "difficulty": "medium",
+      "topic": "か行 vs が行",
+      "metadata": {
+        "meaning": "học",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0051_06",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "きく"
+      ],
+      "prompt": "Nghe 'きく' và nghe và chọn: vô thanh (清音) hay hữu thanh (濁音)?",
+      "difficulty": "medium",
+      "topic": "か行 vs が行",
+      "metadata": {
+        "meaning": "nghe",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0051_07",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "ぎく"
+      ],
+      "prompt": "Nghe 'ぎく' và nghe và chọn: vô thanh (清音) hay hữu thanh (濁音)?",
+      "difficulty": "medium",
+      "topic": "か行 vs が行",
+      "metadata": {
+        "meaning": "giật mình",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0059_00",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "た"
+      ],
+      "prompt": "Nghe 'た' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0059_01",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "だ"
+      ],
+      "prompt": "Nghe 'だ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0059_02",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "たい"
+      ],
+      "prompt": "Nghe 'たい' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "muốn",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0059_03",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "だい"
+      ],
+      "prompt": "Nghe 'だい' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "lớn",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0059_04",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "てん"
+      ],
+      "prompt": "Nghe 'てん' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "điểm",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0059_05",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "でん"
+      ],
+      "prompt": "Nghe 'でん' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "điện",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0059_06",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "とき"
+      ],
+      "prompt": "Nghe 'とき' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "lúc",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0059_07",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "どき"
+      ],
+      "prompt": "Nghe 'どき' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "た行 vs だ行",
+      "metadata": {
+        "meaning": "hồi hộp",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0067_00",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "さ"
+      ],
+      "prompt": "Nghe 'さ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0067_01",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "ざ"
+      ],
+      "prompt": "Nghe 'ざ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0067_02",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "さけ"
+      ],
+      "prompt": "Nghe 'さけ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "rượu sake",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0067_03",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "すいか"
+      ],
+      "prompt": "Nghe 'すいか' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "dưa hấu",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0067_04",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "ざんねん"
+      ],
+      "prompt": "Nghe 'ざんねん' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "đáng tiếc",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0067_05",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "ぜんぶ"
+      ],
+      "prompt": "Nghe 'ぜんぶ' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "さ行 vs ざ行",
+      "metadata": {
+        "meaning": "tất cả",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0073_00",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "は"
+      ],
+      "prompt": "Nghe 'は' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "は行 vs ば行",
+      "metadata": {
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0073_01",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "ば"
+      ],
+      "prompt": "Nghe 'ば' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "は行 vs ば行",
+      "metadata": {
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0073_02",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "はな"
+      ],
+      "prompt": "Nghe 'はな' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "は行 vs ば行",
+      "metadata": {
+        "meaning": "hoa/mũi",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0073_03",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "ばな"
+      ],
+      "prompt": "Nghe 'ばな' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "は行 vs ば行",
+      "metadata": {
+        "meaning": "(hậu tố)",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0073_04",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "ひと"
+      ],
+      "prompt": "Nghe 'ひと' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "は行 vs ば行",
+      "metadata": {
+        "meaning": "người",
+        "answer": "voiceless"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0073_05",
+      "base_type": "same_different",
+      "sub_type": "voiced_voiceless",
+      "audio_ids": [
+        "びと"
+      ],
+      "prompt": "Nghe 'びと' và nghe và chọn: vô thanh hay hữu thanh?",
+      "difficulty": "medium",
+      "topic": "は行 vs ば行",
+      "metadata": {
+        "meaning": "(hậu tố chỉ người)",
+        "answer": "voiced"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0079_00",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_sentence",
+      "audio_ids": [
+        "かみをかう"
+      ],
+      "prompt": "Nghe 'かみをかう' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Mua giấy",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Mua cái gì đó",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0079_01",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_sentence",
+      "audio_ids": [
+        "がくせいです"
+      ],
+      "prompt": "Nghe 'がくせいです' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Là học sinh",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Là cái gì đó",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0079_02",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_sentence",
+      "audio_ids": [
+        "はなをみる"
+      ],
+      "prompt": "Nghe 'はなをみる' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Xem hoa",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Xem mũi",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "note": "Ngữ cảnh cho thấy là 'hoa'",
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0079_03",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_sentence",
+      "audio_ids": [
+        "さけをのむ"
+      ],
+      "prompt": "Nghe 'さけをのむ' và nghe câu và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Uống rượu sake",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Uống cái gì đó",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0083_00",
+      "base_type": "single_choice",
+      "sub_type": "particle_recognition",
+      "audio_ids": [
+        "ねこがいる"
+      ],
+      "prompt": "Nghe 'ねこがいる' và nghe và xác định trợ từ が hay か",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Có con mèo"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0083_01",
+      "base_type": "single_choice",
+      "sub_type": "particle_recognition",
+      "audio_ids": [
+        "これですか"
+      ],
+      "prompt": "Nghe 'これですか' và nghe và xác định trợ từ が hay か",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Cái này phải không?"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0083_02",
+      "base_type": "single_choice",
+      "sub_type": "particle_recognition",
+      "audio_ids": [
+        "だれがきた"
+      ],
+      "prompt": "Nghe 'だれがきた' và nghe và xác định trợ từ が hay か",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Ai đã đến?"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0083_03",
+      "base_type": "single_choice",
+      "sub_type": "particle_recognition",
+      "audio_ids": [
+        "いつですか"
+      ],
+      "prompt": "Nghe 'いつですか' và nghe và xác định trợ từ が hay か",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Khi nào?"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0083_04",
+      "base_type": "single_choice",
+      "sub_type": "particle_recognition",
+      "audio_ids": [
+        "あめがふる"
+      ],
+      "prompt": "Nghe 'あめがふる' và nghe và xác định trợ từ が hay か",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Mưa rơi"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0088_00",
+      "base_type": "single_choice",
+      "sub_type": "fu_recognition",
+      "audio_ids": [
+        "ふじさん"
+      ],
+      "prompt": "Nghe 'ふじさん' và nghe và xác định có âm ふ hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "núi Phú Sĩ"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0088_01",
+      "base_type": "single_choice",
+      "sub_type": "fu_recognition",
+      "audio_ids": [
+        "ふゆ"
+      ],
+      "prompt": "Nghe 'ふゆ' và nghe và xác định có âm ふ hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "mùa đông"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0088_02",
+      "base_type": "single_choice",
+      "sub_type": "fu_recognition",
+      "audio_ids": [
+        "ひと"
+      ],
+      "prompt": "Nghe 'ひと' và nghe và xác định có âm ふ hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "người"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0088_03",
+      "base_type": "single_choice",
+      "sub_type": "fu_recognition",
+      "audio_ids": [
+        "ふく"
+      ],
+      "prompt": "Nghe 'ふく' và nghe và xác định có âm ふ hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "quần áo"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0088_04",
+      "base_type": "single_choice",
+      "sub_type": "fu_recognition",
+      "audio_ids": [
+        "はな"
+      ],
+      "prompt": "Nghe 'はな' và nghe và xác định có âm ふ hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hoa"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0088_05",
+      "base_type": "single_choice",
+      "sub_type": "fu_recognition",
+      "audio_ids": [
+        "ふね"
+      ],
+      "prompt": "Nghe 'ふね' và nghe và xác định có âm ふ hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "thuyền"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0088_06",
+      "base_type": "single_choice",
+      "sub_type": "fu_recognition",
+      "audio_ids": [
+        "ほん"
+      ],
+      "prompt": "Nghe 'ほん' và nghe và xác định có âm ふ hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "sách"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0088_07",
+      "base_type": "single_choice",
+      "sub_type": "fu_recognition",
+      "audio_ids": [
+        "ふたり"
+      ],
+      "prompt": "Nghe 'ふたり' và nghe và xác định có âm ふ hay không",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hai người"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_00",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "しる"
+      ],
+      "prompt": "Nghe 'しる' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "biết",
+        "answer": "し"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_01",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "ちる"
+      ],
+      "prompt": "Nghe 'ちる' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "rơi/rụng",
+        "answer": "ち"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_02",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "しま"
+      ],
+      "prompt": "Nghe 'しま' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đảo",
+        "answer": "し"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_03",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "ちま"
+      ],
+      "prompt": "Nghe 'ちま' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "(không có)",
+        "answer": "ち"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_04",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "した"
+      ],
+      "prompt": "Nghe 'した' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "dưới/lưỡi",
+        "answer": "し"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_05",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "ちた"
+      ],
+      "prompt": "Nghe 'ちた' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "(không có)",
+        "answer": "ち"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_06",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "かし"
+      ],
+      "prompt": "Nghe 'かし' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "cho vay",
+        "answer": "し"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_07",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "かち"
+      ],
+      "prompt": "Nghe 'かち' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "thắng",
+        "answer": "ち"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0096_08",
+      "base_type": "single_choice",
+      "sub_type": "shi_chi_distinction",
+      "audio_ids": [
+        "しち"
+      ],
+      "prompt": "Nghe 'しち' và nghe và chọn: し hay ち?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bảy",
+        "note": "7 = しち",
+        "answer": "cả hai"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0105_00",
+      "base_type": "single_choice",
+      "sub_type": "word_with_special_sounds",
+      "audio_ids": [
+        "ふじさん"
+      ],
+      "prompt": "Nghe 'ふじさん' và nghe từ và chọn cách viết đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "ふじさん",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ひじさん",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "はじさん",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0105_01",
+      "base_type": "single_choice",
+      "sub_type": "word_with_special_sounds",
+      "audio_ids": [
+        "しごと"
+      ],
+      "prompt": "Nghe 'しごと' và nghe từ và chọn cách viết đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "ちごと",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "しごと",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "じごと",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0105_02",
+      "base_type": "single_choice",
+      "sub_type": "word_with_special_sounds",
+      "audio_ids": [
+        "ちいさい"
+      ],
+      "prompt": "Nghe 'ちいさい' và nghe từ và chọn cách viết đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "しいさい",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ちいさい",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "じいさい",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0105_03",
+      "base_type": "single_choice",
+      "sub_type": "word_with_special_sounds",
+      "audio_ids": [
+        "ふつう"
+      ],
+      "prompt": "Nghe 'ふつう' và nghe từ và chọn cách viết đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "ふつう",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ひつう",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "はつう",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0105_04",
+      "base_type": "single_choice",
+      "sub_type": "word_with_special_sounds",
+      "audio_ids": [
+        "しち"
+      ],
+      "prompt": "Nghe 'しち' và nghe từ và chọn cách viết đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "しち",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ちち",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "しし",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "bảy",
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0110_00",
+      "base_type": "single_choice",
+      "sub_type": "katakana_fu_variations",
+      "audio_ids": [
+        "コーヒー"
+      ],
+      "prompt": "Nghe 'コーヒー' và nghe từ katakana và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "コーヒー",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "コーフィー",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "cà phê",
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0110_01",
+      "base_type": "single_choice",
+      "sub_type": "katakana_fu_variations",
+      "audio_ids": [
+        "カフェ"
+      ],
+      "prompt": "Nghe 'カフェ' và nghe từ katakana và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "カヘ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "カフェ",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "quán cà phê",
+        "answer": 1
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0110_02",
+      "base_type": "single_choice",
+      "sub_type": "katakana_fu_variations",
+      "audio_ids": [
+        "ファン"
+      ],
+      "prompt": "Nghe 'ファン' và nghe từ katakana và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "ファン",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ハン",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "fan",
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0110_03",
+      "base_type": "single_choice",
+      "sub_type": "katakana_fu_variations",
+      "audio_ids": [
+        "フォーク"
+      ],
+      "prompt": "Nghe 'フォーク' và nghe từ katakana và chọn đáp án đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "フォーク",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ホーク",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "nĩa",
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0114_00",
+      "base_type": "single_choice",
+      "sub_type": "mixed_special_sounds",
+      "audio_ids": [
+        "ふゆはさむい"
+      ],
+      "prompt": "Nghe 'ふゆはさむい' và nghe câu và đếm số âm đặc biệt (ふ, し, ち)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Mùa đông lạnh"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0114_01",
+      "base_type": "single_choice",
+      "sub_type": "mixed_special_sounds",
+      "audio_ids": [
+        "しごとがいそがしい"
+      ],
+      "prompt": "Nghe 'しごとがいそがしい' và nghe câu và đếm số âm đặc biệt (ふ, し, ち)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Công việc bận"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0114_02",
+      "base_type": "single_choice",
+      "sub_type": "mixed_special_sounds",
+      "audio_ids": [
+        "ちいさいふね"
+      ],
+      "prompt": "Nghe 'ちいさいふね' và nghe câu và đếm số âm đặc biệt (ふ, し, ち)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Thuyền nhỏ"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0114_03",
+      "base_type": "single_choice",
+      "sub_type": "mixed_special_sounds",
+      "audio_ids": [
+        "しちじにおきる"
+      ],
+      "prompt": "Nghe 'しちじにおきる' và nghe câu và đếm số âm đặc biệt (ふ, し, ち)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Dậy lúc 7 giờ"
+      }
+    },
+    {
+      "id": "L5_01",
+      "base_type": "dialogue",
+      "sub_type": "comprehensive_listening",
+      "audio_ids": [
+        "L5_01_audio"
+      ],
+      "prompt": "Nghe đoạn hội thoại và trả lời câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "id": "D1",
+          "title": "Hỏi đường",
+          "script": [
+            "A: すみません、えきはどこですか。",
+            "B: まっすぐいって、つぎのしんごうをみぎにまがってください。",
+            "A: つぎのしんごうですね。ありがとうございます。"
+          ],
+          "questions": [
+            {
+              "question": "A muốn đi đâu?",
+              "options": [
+                "Ga tàu",
+                "Nhà hàng",
+                "Công viên"
+              ],
+              "answer": 0,
+              "key_word": "えき (駅)"
+            },
+            {
+              "question": "Phải rẽ hướng nào?",
+              "options": [
+                "Trái",
+                "Phải",
+                "Đi thẳng"
+              ],
+              "answer": 1,
+              "key_word": "みぎ (右)"
+            },
+            {
+              "question": "Rẽ ở đâu?",
+              "options": [
+                "Đèn đỏ tiếp theo",
+                "Góc phố",
+                "Cửa hàng"
+              ],
+              "answer": 0,
+              "key_word": "つぎのしんごう"
+            }
+          ],
+          "difficult_sounds": [
+            "つぎ (つ)",
+            "みぎ (が vs か)",
+            "ありがとう (ら行)"
+          ]
+        },
+        {
+          "id": "D2",
+          "title": "Nhà hàng",
+          "script": [
+            "A: すみません、ラーメンをください。",
+            "B: ラーメンですね。のみものはいかがですか。",
+            "A: みずをおねがいします。",
+            "B: かしこまりました。"
+          ],
+          "questions": [
+            {
+              "question": "A gọi món gì?",
+              "options": [
+                "Ramen",
+                "Sushi",
+                "Tempura"
+              ],
+              "answer": 0,
+              "key_word": "ラーメン"
+            },
+            {
+              "question": "A muốn uống gì?",
+              "options": [
+                "Trà",
+                "Nước",
+                "Bia"
+              ],
+              "answer": 1,
+              "key_word": "みず (水)"
+            }
+          ],
+          "difficult_sounds": [
+            "ラーメン (ら行)",
+            "みず (す vs つ)"
+          ]
+        },
+        {
+          "id": "D3",
+          "title": "Mua sắm",
+          "script": [
+            "A: このふくはいくらですか。",
+            "B: にせんえんです。",
+            "A: ちょっとたかいですね。もうすこしやすいのはありますか。",
+            "B: こちらはせんごひゃくえんです。"
+          ],
+          "questions": [
+            {
+              "question": "Cái áo đầu giá bao nhiêu?",
+              "options": [
+                "1500 yên",
+                "2000 yên",
+                "2500 yên"
+              ],
+              "answer": 1,
+              "key_word": "にせんえん"
+            },
+            {
+              "question": "A nghĩ thế nào về giá?",
+              "options": [
+                "Rẻ",
+                "Đắt",
+                "Vừa phải"
+              ],
+              "answer": 1,
+              "key_word": "たかい"
+            },
+            {
+              "question": "Cái rẻ hơn giá bao nhiêu?",
+              "options": [
+                "1000 yên",
+                "1500 yên",
+                "500 yên"
+              ],
+              "answer": 1,
+              "key_word": "せんごひゃくえん"
+            }
+          ],
+          "difficult_sounds": [
+            "ふく (ふ)",
+            "すこし (す)",
+            "ひゃく (voiced/voiceless)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0119_00",
+      "base_type": "dictation",
+      "sub_type": "dictation_with_difficult_sounds",
+      "audio_ids": [
+        "つくえのうえにほんがある"
+      ],
+      "prompt": "Nghe 'つくえのうえにほんがある' và nghe và viết lại, chú ý các âm khó",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Có sách trên bàn",
+        "answer": "つくえのうえにほんがある"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0119_01",
+      "base_type": "dictation",
+      "sub_type": "dictation_with_difficult_sounds",
+      "audio_ids": [
+        "らいしゅうふじさんにいく"
+      ],
+      "prompt": "Nghe 'らいしゅうふじさんにいく' và nghe và viết lại, chú ý các âm khó",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Tuần sau đi núi Phú Sĩ",
+        "answer": "らいしゅうふじさんにいく"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0119_02",
+      "base_type": "dictation",
+      "sub_type": "dictation_with_difficult_sounds",
+      "audio_ids": [
+        "にほんごをべんきょうする"
+      ],
+      "prompt": "Nghe 'にほんごをべんきょうする' và nghe và viết lại, chú ý các âm khó",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Học tiếng Nhật",
+        "answer": "にほんごをべんきょうする"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0119_03",
+      "base_type": "dictation",
+      "sub_type": "dictation_with_difficult_sounds",
+      "audio_ids": [
+        "ちいさいつきがみえる"
+      ],
+      "prompt": "Nghe 'ちいさいつきがみえる' và nghe và viết lại, chú ý các âm khó",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Thấy mặt trăng nhỏ",
+        "answer": "ちいさいつきがみえる"
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0123_00",
+      "base_type": "single_choice",
+      "sub_type": "error_detection",
+      "audio_ids": [
+        "vietnamese_difficult_sounds_0123_00_audio"
+      ],
+      "prompt": "ありがとう",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0123_01",
+      "base_type": "single_choice",
+      "sub_type": "error_detection",
+      "audio_ids": [
+        "vietnamese_difficult_sounds_0123_01_audio"
+      ],
+      "prompt": "ふじさん",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0123_02",
+      "base_type": "single_choice",
+      "sub_type": "error_detection",
+      "audio_ids": [
+        "vietnamese_difficult_sounds_0123_02_audio"
+      ],
+      "prompt": "つき",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0126_00",
+      "base_type": "single_choice",
+      "sub_type": "speed_test",
+      "audio_ids": [
+        "つきがきれい"
+      ],
+      "prompt": "Nghe 'つきがきれい' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Mặt trăng đẹp",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Tôi thích",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0126_01",
+      "base_type": "single_choice",
+      "sub_type": "speed_test",
+      "audio_ids": [
+        "らーめんをたべる"
+      ],
+      "prompt": "Nghe 'らーめんをたべる' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Ăn ramen",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ăn đồ khác",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0126_02",
+      "base_type": "single_choice",
+      "sub_type": "speed_test",
+      "audio_ids": [
+        "ふゆはさむい"
+      ],
+      "prompt": "Nghe 'ふゆはさむい' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Mùa đông lạnh",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Mùa hè nóng",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0126_03",
+      "base_type": "single_choice",
+      "sub_type": "speed_test",
+      "audio_ids": [
+        "がっこうにいく"
+      ],
+      "prompt": "Nghe 'がっこうにいく' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đi học",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Về nhà",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "vietnamese_difficult_sounds_0126_04",
+      "base_type": "single_choice",
+      "sub_type": "speed_test",
+      "audio_ids": [
+        "しちじにおきる"
+      ],
+      "prompt": "Nghe 'しちじにおきる' và nghe nhanh và chọn đáp án (3 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Dậy lúc 7h",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ngủ lúc 7h",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "L5_05",
+      "base_type": "announcement",
+      "sub_type": "final_challenge",
+      "audio_ids": [
+        "L5_05_audio"
+      ],
+      "prompt": "Bài tập tổng hợp cuối cùng",
+      "difficulty": "medium",
+      "topic": null
+    }
+  ]
+}

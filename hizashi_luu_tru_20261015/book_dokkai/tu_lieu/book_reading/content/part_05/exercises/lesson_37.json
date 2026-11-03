@@ -1,0 +1,1446 @@
+[
+  {
+    "id": "L37_FP_01",
+    "lesson_id": 37,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生はもうお帰りになりました。",
+    "sentence_translation": "Thầy/cô đã về rồi.",
+    "question_text": "先生はもう（　）帰りになりました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ため",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ご",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "お",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "お + Vます stem + になる = mẫu 尊敬語 (tôn kính ngữ). お帰りになる = \"về\" (tôn kính). Gặp mẫu này -> chủ ngữ là NGƯỜI TRÊN (先生). お dùng với động từ thuần Nhật (和語), ご dùng với từ Hán-Nhật (漢語)",
+    "hint": "Nhìn 帰りになりました -> mẫu tôn kính 尊敬語 -> cần gì phía trước?",
+    "tags": [
+      "尊敬語",
+      "お~になる",
+      "nhan_dien"
+    ]
+  },
+  {
+    "id": "L37_FP_02",
+    "lesson_id": 37,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私がご案内いたします。",
+    "sentence_translation": "Tôi xin hướng dẫn ạ.",
+    "question_text": "私が（　）案内いたします。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "に",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ご",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "を",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "お",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ご + từ Hán-Nhật + いたす = mẫu 謙譲語 (khiêm nhường ngữ). ご案内いたす = \"xin hướng dẫn\" (hạ mình). 案内 = từ Hán-Nhật -> dùng ご. Gặp いたす -> chủ ngữ luôn là TÔI/phe tôi",
+    "hint": "Nhìn 案内いたします -> mẫu khiêm nhường 謙譲語 -> 案内 là từ Hán-Nhật -> dùng gì?",
+    "tags": [
+      "謙譲語",
+      "ご~いたす",
+      "nhan_dien"
+    ]
+  },
+  {
+    "id": "L37_FP_03",
+    "lesson_id": 37,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "社長がこの計画について話されました。",
+    "sentence_translation": "Giám đốc đã nói về kế hoạch này.",
+    "question_text": "社長がこの計画について（　）されました。",
+    "question_description": "Điền từ đúng",
+    "answers": [
+      {
+        "text": "言い",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "申し",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "おっしゃい",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "話",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "話す + される = 尊敬語 dạng れる/られる. Chủ ngữ là 社長 (người trên) -> đây là tôn kính, KHÔNG PHẢI bị động. Phân biệt: 社長が話された = giám đốc nói (尊敬語). 社長に叱られた = bị giám đốc mắng (bị動)",
+    "hint": "社長 = người trên + される -> mẫu tôn kính nào? Động từ gốc là 話す -> dùng thể nào?",
+    "tags": [
+      "尊敬語",
+      "れる/られる",
+      "phan_biet",
+      "bi_dong"
+    ]
+  },
+  {
+    "id": "L37_FP_04",
+    "lesson_id": 37,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "部長がそうおっしゃいました。",
+    "sentence_translation": "Trưởng phòng đã nói như vậy.",
+    "question_text": "部長がそう（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "申しました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "おっしゃいました",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "話しました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "言いました",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "おっしゃる = 尊敬語 đặc biệt của 言う (nói). Gặp おっしゃる -> chủ ngữ CHẮC CHẮN là NGƯỜI TRÊN. KHÁC 申す = 謙譲語 (tôi nói). Cùng nghĩa \"nói\" nhưng cho biết AI đang nói!",
+    "hint": "部長 = NGƯỜI TRÊN -> nói -> dùng 尊敬語 đặc biệt của 言う?",
+    "tags": [
+      "尊敬語",
+      "おっしゃる",
+      "言う",
+      "nhan_dien"
+    ]
+  },
+  {
+    "id": "L37_FP_05",
+    "lesson_id": 37,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "明日お電話（　）。",
+    "sentence_translation": "Ngày mai tôi xin gọi điện ạ.",
+    "question_text": "明日お電話（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "されます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "なさいます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くださいます",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いたします",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "お電話いたします = お + 電話 + いたす = 謙譲語. Chủ ngữ ẩn: TÔI (hạ mình). Nếu là お電話なさいます -> chủ ngữ = NGƯỜI TRÊN (尊敬語). Cùng cấu trúc お~, nhưng いたす vs なさる cho biết AI hành động!",
+    "hint": "Chủ ngữ ẩn = TÔI -> gọi điện -> dùng 謙譲語 -> mẫu nào?",
+    "tags": [
+      "謙譲語",
+      "お~いたす",
+      "chu_ngu_an"
+    ]
+  },
+  {
+    "id": "L37_FP_06",
+    "lesson_id": 37,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生がこの本をお読みに（　）。",
+    "sentence_translation": "Thầy đã đọc quyển sách này.",
+    "question_text": "先生がこの本をお読みに（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "しました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "なりました",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "くれました",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いたしました",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "お + Vます stem + になる = 尊敬語. お読みになる = \"đọc\" (tôn kính). Chủ ngữ: 先生 (người trên). Nếu là お読みしました -> 謙譲語 (chủ ngữ = tôi). になる vs する = 尊敬 vs 謙譲!",
+    "hint": "先生 = NGƯỜI TRÊN -> đọc -> お読み + ? -> hoàn thành mẫu 尊敬語?",
+    "tags": [
+      "尊敬語",
+      "お~になる",
+      "お~する",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L37_FP_07",
+    "lesson_id": 37,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先日ご依頼いただいた資料を添付（　）いただきます。",
+    "sentence_translation": "Tôi xin phép đính kèm tài liệu mà ngài đã nhờ hôm trước.",
+    "question_text": "先日ご依頼いただいた資料を添付（　）いただきます。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "させて",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "して",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "されて",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "になって",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "させていただく = 謙譲語 \"xin phép được ~\". Mẫu email rất phổ biến. 添付させていただく = xin phép đính kèm. Chủ ngữ ẩn: TÔI. させて = sai khiến + いただく = nhận phép -> \"xin phép được làm\"",
+    "hint": "\"Xin phép được đính kèm\" -> mẫu 謙譲語 nào thể hiện XIN PHÉP?",
+    "tags": [
+      "謙譲語",
+      "させていただく",
+      "email"
+    ]
+  },
+  {
+    "id": "L37_FP_08",
+    "lesson_id": 37,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "どうぞ召し上がって（　）。",
+    "sentence_translation": "Xin mời dùng ạ.",
+    "question_text": "どうぞ召し上がって（　）。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "参ります",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "いたします",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ください",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "申します",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "召し上がってください = \"xin mời dùng\" (mời người trên ăn/uống). 召し上がる = 尊敬語 đặc biệt của 食べる/飲む. Gặp 召し上がる -> người ăn/uống là NGƯỜI TRÊN. ください = nhờ/mời người trên hành động",
+    "hint": "召し上がる = 尊敬語 của 食べる -> mời NGƯỜI TRÊN ăn -> dùng gì cuối câu?",
+    "tags": [
+      "尊敬語",
+      "召し上がる",
+      "食べる",
+      "nhan_dien"
+    ]
+  },
+  {
+    "id": "L37_PR_09",
+    "lesson_id": 37,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生がおっしゃった...",
+    "sentence_translation": "Thầy đã nói...",
+    "question_text": "おっしゃった... -> Gặp 尊敬語 đặc biệt, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ là TÔI",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ là NGƯỜI TRÊN (先生) -> sắp có NỘI DUNG lời nói",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có ĐÁNH GIÁ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "おっしゃる = 尊敬語 của 言う -> chủ ngữ: NGƯỜI TRÊN (先生). Dự đoán: sắp có NỘI DUNG mà thầy đã nói (ことを, ように...). Kính ngữ = LA BÀN chỉ chủ ngữ. Gặp 尊敬語 -> chủ ngữ = người trên",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "おっしゃる",
+      "du_doan",
+      "chu_ngu"
+    ]
+  },
+  {
+    "id": "L37_PR_10",
+    "lesson_id": 37,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私が参りますので...",
+    "sentence_translation": "Tôi sẽ đến nên...",
+    "question_text": "参りますので... -> Gặp 謙譲語 đặc biệt, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐÁNH GIÁ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có THỜI GIAN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ là NGƯỜI TRÊN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ là TÔI -> sắp có YÊU CẦU/ĐỀ NGHỊ (vì tôi đến nên...)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "参る = 謙譲語 của 行く/来る -> chủ ngữ: TÔI (hạ mình). ので = lý do -> dự đoán: sắp có yêu cầu hoặc thông tin tiếp theo. 参る -> tôi đi/đến. KHÁC いらっしゃる (尊敬語, người trên đi/đến)",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "参る",
+      "du_doan",
+      "chu_ngu"
+    ]
+  },
+  {
+    "id": "L37_PR_11",
+    "lesson_id": 37,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "社長がご覧になった...",
+    "sentence_translation": "Giám đốc đã xem...",
+    "question_text": "ご覧になった... -> Gặp 尊敬語, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Chủ ngữ là NGƯỜI TRÊN -> sắp có ĐỐI TƯỢNG được xem (資料を, 映画を...)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ là TÔI",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có THỜI GIAN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ご覧になる = 尊敬語 của 見る -> chủ ngữ: NGƯỜI TRÊN (社長). Vた + chưa kết câu -> bổ nghĩa cho danh từ phía sau. Dự đoán: sắp có danh từ (資料, 映画...). KHÁC 拝見する (謙譲語, tôi xem)",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "ご覧になる",
+      "du_doan",
+      "bo_nghia"
+    ]
+  },
+  {
+    "id": "L37_PR_12",
+    "lesson_id": 37,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この資料を拝見しましたが...",
+    "sentence_translation": "Tôi đã xem tài liệu này, nhưng...",
+    "question_text": "拝見しましたが... -> Gặp 謙譲語 + が, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Chủ ngữ là NGƯỜI TRÊN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ là TÔI -> が = nhưng -> sắp có Ý KIẾN/CÂU HỎI/VẤN ĐỀ",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có ĐÁNH GIÁ",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "拝見する = 謙譲語 của 見る -> chủ ngữ: TÔI. が = nhưng -> dự đoán: sắp có ý kiến hoặc vấn đề. \"Tôi đã xem rồi, NHƯNG...\" -> thường tiếp theo là câu hỏi hoặc góp ý",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "拝見する",
+      "du_doan",
+      "y_kien"
+    ]
+  },
+  {
+    "id": "L37_PR_13",
+    "lesson_id": 37,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "お忙しい中お時間をいただき...",
+    "sentence_translation": "Trong lúc bận được dành thời gian...",
+    "question_text": "いただき... -> Gặp 謙譲語, câu chưa kết thúc, dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có ĐÁNH GIÁ",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Sắp có YÊU CẦU",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đây là phần MỞ ĐẦU cảm ơn -> sắp có ありがとうございました",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いただく = 謙譲語 của もらう -> TÔI nhận (thời gian của người trên). いただき + chưa kết câu -> nối tiếp. Mẫu email phổ biến: お時間をいただき、ありがとうございました = cảm ơn đã dành thời gian",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "いただく",
+      "du_doan",
+      "email"
+    ]
+  },
+  {
+    "id": "L37_PR_14",
+    "lesson_id": 37,
+    "question_type": "prediction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生がいらっしゃる...",
+    "sentence_translation": "Thầy đang ở / sẽ đến...",
+    "question_text": "いらっしゃる... -> Gặp 尊敬語 đặc biệt (3 nghĩa), dự đoán?",
+    "question_description": "Dự đoán khi gặp trợ từ",
+    "answers": [
+      {
+        "text": "Sắp có NGUYÊN NHÂN",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ là NGƯỜI TRÊN -> nghĩa có thể là いる/行く/来る -> cần đọc tiếp ngữ cảnh",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Chủ ngữ là TÔI",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Chỉ có 1 nghĩa duy nhất",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いらっしゃる = 尊敬語 có 3 NGHĨA: いる (ở), 行く (đi), 来る (đến). Chủ ngữ: NGƯỜI TRÊN. Phải đọc tiếp ngữ cảnh để xác định nghĩa nào! 先生がいらっしゃる = thầy ở / thầy đi / thầy đến -> tùy ngữ cảnh",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "いらっしゃる",
+      "du_doan",
+      "3_nghia"
+    ]
+  },
+  {
+    "id": "L37_CH_15",
+    "lesson_id": 37,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "部長がそうおっしゃいました",
+    "sentence_translation": "Trưởng phòng đã nói như vậy.",
+    "question_text": "部長がそうおっしゃいました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "部長が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "そうおっしゃいました",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "部長が = \"trưởng phòng\" (が = chủ ngữ) | そうおっしゃいました = 🔒 \"đã nói như vậy\" (おっしゃる = 尊敬語 của 言う). Gặp おっしゃる -> xác nhận chủ ngữ: NGƯỜI TRÊN (部長)",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "おっしゃる",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L37_CH_16",
+    "lesson_id": 37,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私がご案内いたします",
+    "sentence_translation": "Tôi xin hướng dẫn ạ.",
+    "question_text": "私がご案内いたします",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "私が",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "ご案内いたします",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "私が = \"tôi\" (が = chủ ngữ) | ご案内いたします = 🔒 \"xin hướng dẫn\" (ご~いたす = 謙譲語). Gặp いたす -> xác nhận chủ ngữ: TÔI (hạ mình trước người trên)",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "ご~いたす",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L37_CH_17",
+    "lesson_id": 37,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "先生はもうお帰りになりました",
+    "sentence_translation": "Thầy đã về rồi.",
+    "question_text": "先生はもうお帰りになりました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "先生は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "もう",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "お帰りになりました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "先生は = 🔒 \"thầy/cô\" (chủ đề) | もう = rồi (biển báo: hoàn thành) | お帰りになりました = 🔒 \"đã về\" (お~になる = 尊敬語). Chủ ngữ: NGƯỜI TRÊN (先生)",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "お~になる",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L37_CH_18",
+    "lesson_id": 37,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "社長がご覧になった資料を私も拝見しました",
+    "sentence_translation": "Tôi cũng đã xem tài liệu mà giám đốc đã xem.",
+    "question_text": "社長がご覧になった資料を私も拝見しました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "社長がご覧になった",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "資料を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私も",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "拝見しました",
+        "is_correct": true,
+        "order": 4
+      }
+    ],
+    "explanation": "社長がご覧になった = 🔒 \"giám đốc đã xem\" (ご覧になる = 尊敬語, chủ ngữ: NGƯỜI TRÊN) | 資料を = tài liệu | 私も = tôi cũng | 拝見しました = 🔒 \"đã xem\" (拝見する = 謙譲語, chủ ngữ: TÔI). 2 người cùng \"xem\" nhưng dùng từ KHÁC NHAU!",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "謙譲語",
+      "chunking",
+      "doi_chieu"
+    ]
+  },
+  {
+    "id": "L37_CH_19",
+    "lesson_id": 37,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "先日申し上げた件についてご報告いたします",
+    "sentence_translation": "Tôi xin báo cáo về vấn đề mà tôi đã thưa hôm trước.",
+    "question_text": "先日申し上げた件についてご報告いたします",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "先日",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "申し上げた件について",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "ご報告いたします",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "先日 = hôm trước | 申し上げた件について = 🔒 \"về vấn đề đã thưa\" (申し上げる = 謙譲語 của 言う, chủ ngữ ẩn: TÔI) | ご報告いたします = 🔒 \"xin báo cáo\" (ご~いたす = 謙譲語, chủ ngữ ẩn: TÔI). Cả câu không có は/が nhưng nhờ 謙譲語 -> biết chủ ngữ = TÔI",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "chunking",
+      "chu_ngu_an"
+    ]
+  },
+  {
+    "id": "L37_PD_20",
+    "lesson_id": 37,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "お読みになる / お読みする",
+    "sentence_translation": "Đọc (tôn kính). / Đọc (khiêm nhường).",
+    "question_text": "Câu nào chủ ngữ là NGƯỜI TRÊN?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "お読みになる (お~になる = 尊敬語, chủ ngữ: NGƯỜI TRÊN)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "お読みする (お~する = 謙譲語, chủ ngữ: TÔI)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "お~になる = 尊敬語 -> chủ ngữ: NGƯỜI TRÊN. お~する = 謙譲語 -> chủ ngữ: TÔI. Cùng お~ nhưng になる vs する quyết định AI hành động. Đây là cặp đối lập QUAN TRỌNG NHẤT trong kính ngữ mẫu!",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "謙譲語",
+      "お~になる",
+      "お~する",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L37_PD_21",
+    "lesson_id": 37,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "おっしゃる / 申す",
+    "sentence_translation": "Nói (tôn kính). / Nói (khiêm nhường).",
+    "question_text": "Câu nào dùng khi TÔI nói với người trên?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "申す (謙譲語 của 言う, chủ ngữ: TÔI -- hạ mình)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "おっしゃる (尊敬語 của 言う, chủ ngữ: NGƯỜI TRÊN)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "おっしゃる = 尊敬語 \"nói\" -> NGƯỜI TRÊN nói. 申す = 謙譲語 \"thưa\" -> TÔI nói. Cùng nghĩa 言う nhưng: 先生がおっしゃった = thầy nói. 私が申した = tôi thưa. Kính ngữ = LA BÀN chỉ ai nói!",
+    "hint": null,
+    "tags": [
+      "おっしゃる",
+      "申す",
+      "言う",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L37_PD_22",
+    "lesson_id": 37,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "いらっしゃる / 参る",
+    "sentence_translation": "Đi/đến/ở (tôn kính). / Đi/đến (khiêm nhường).",
+    "question_text": "Câu nào dùng cho NGƯỜI TRÊN?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "いらっしゃる (尊敬語, chủ ngữ: NGƯỜI TRÊN -- đi/đến/ở)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "参る (謙譲語, chủ ngữ: TÔI -- đi/đến)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いらっしゃる = 尊敬語 (3 nghĩa: いる/行く/来る) -> NGƯỜI TRÊN. 参る = 謙譲語 (行く/来る) -> TÔI. 先生がいらっしゃる = thầy ở/đi/đến. 私が参る = tôi đi/đến. Nhớ: いらっしゃる có 3 nghĩa!",
+    "hint": null,
+    "tags": [
+      "いらっしゃる",
+      "参る",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L37_PD_23",
+    "lesson_id": 37,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ご覧になる / 拝見する",
+    "sentence_translation": "Xem (tôn kính). / Xem (khiêm nhường).",
+    "question_text": "Câu nào dùng khi nói \"giám đốc đã xem\"?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "拝見する (謙譲語 của 見る, chủ ngữ: TÔI)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ご覧になる (尊敬語 của 見る, chủ ngữ: NGƯỜI TRÊN)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ご覧になる = 尊敬語 -> NGƯỜI TRÊN xem: 社長がご覧になった = giám đốc đã xem. 拝見する = 謙譲語 -> TÔI xem: 私が拝見した = tôi đã xem. Cùng 見る nhưng kính ngữ cho biết AI xem!",
+    "hint": null,
+    "tags": [
+      "ご覧になる",
+      "拝見する",
+      "見る",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L37_PD_24",
+    "lesson_id": 37,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生が来られました / 先生に叱られました",
+    "sentence_translation": "Thầy đã đến. / Bị thầy mắng.",
+    "question_text": "Câu nào là 尊敬語 (tôn kính), câu nào là bị動 (bị động)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "先生に叱られました (先生にV = bị動, BỊ thầy mắng)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "先生が来られました (先生がV = 尊敬語, thầy ĐẾN)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Cùng れる/られる nhưng KHÁC NHAU: 先生が + Vられる = 尊敬語 (thầy là chủ ngữ, HÀNH ĐỘNG). 先生に + Vられる = bị動 (thầy là tác nhân, TÔI bị). Dấu hiệu: が = tôn kính, に = bị động!",
+    "hint": null,
+    "tags": [
+      "れる/られる",
+      "尊敬語",
+      "bi_dong",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L37_PK_25",
+    "lesson_id": 37,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "社長はもうお帰りになりましたが、田中部長はまだいらっしゃいます。",
+    "sentence_translation": "Giám đốc đã về rồi, nhưng trưởng phòng Tanaka vẫn còn ở.",
+    "question_text": "🔒 Gặp お帰りになりました + いらっしゃいます -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói 1: \"giám đốc ĐÃ VỀ\" (お~になる = 尊敬語, chủ ngữ: người trên) + が (nhưng) -> đóng gói 2: \"trưởng phòng VẪN Ở\" (いらっしゃる = 尊敬語, chủ ngữ: người trên)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"về\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Cả hai đều 謙譲語",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "2 câu nối bằng が (nhưng). CẢ HAI đều 尊敬語 -> cả hai chủ ngữ đều là NGƯỜI TRÊN. お帰りになる = về (尊敬語). いらっしゃる = ở (尊敬語). Kính ngữ giúp xác định chủ ngữ DÙ KHÔNG VIẾT RA!",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "dong_goi",
+      "doi_chieu"
+    ]
+  },
+  {
+    "id": "L37_PK_26",
+    "lesson_id": 37,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先生がおっしゃったことを私は社長に申し上げました。",
+    "sentence_translation": "Tôi đã thưa lại với giám đốc điều thầy đã nói.",
+    "question_text": "🔒 Gặp おっしゃった + 申し上げた -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Cả hai đều 謙譲語",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Cả hai đều 尊敬語",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói 1: \"điều THẦY đã nói\" (おっしゃる = 尊敬語, chủ ngữ: 先生) -> 🔒 Đóng gói 2: \"TÔI thưa với giám đốc\" (申し上げる = 謙譲語, chủ ngữ: 私)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "1 câu có CẢ 尊敬語 lẫn 謙譲語! おっしゃった = 尊敬語 -> chủ ngữ: 先生 (người trên). 申し上げた = 謙譲語 -> chủ ngữ: 私 (tôi). Kính ngữ phân biệt 2 chủ ngữ KHÁC NHAU trong cùng 1 câu!",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "謙譲語",
+      "dong_goi",
+      "2_chu_ngu"
+    ]
+  },
+  {
+    "id": "L37_PK_27",
+    "lesson_id": 37,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "明日会議の資料を送らせていただきます。",
+    "sentence_translation": "Ngày mai tôi xin phép được gửi tài liệu họp.",
+    "question_text": "🔒 Gặp させていただきます -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Đóng gói: \"NGƯỜI TRÊN gửi\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói: \"TÔI XIN PHÉP gửi\" (させていただく = 謙譲語, chủ ngữ ẩn: TÔI) -> email công việc, người viết hạ mình",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"gửi\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "させていただく = 謙譲語 mạnh nhất, \"xin phép được ~\". Gặp mẫu này -> chủ ngữ ẩn LUÔN là TÔI. Rất phổ biến trong email công việc. 送らせていただく = xin phép được gửi. Nhận diện ngay: させていただく = tôi xin phép",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "させていただく",
+      "dong_goi",
+      "email"
+    ]
+  },
+  {
+    "id": "L37_PK_28",
+    "lesson_id": 37,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "ご不明な点がございましたらお気軽にお問い合わせください。",
+    "sentence_translation": "Nếu có điểm chưa rõ, xin cứ thoải mái liên hệ.",
+    "question_text": "🔒 Gặp ございましたら + お問い合わせください -> đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Cả hai đều 謙譲語",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Đóng gói 1: \"NẾU có điểm chưa rõ\" (ございます = lịch sự + たら = nếu) -> 🔒 Đóng gói 2: \"xin hãy liên hệ\" (お~ください = 尊敬語, chủ ngữ: NGƯỜI TRÊN)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"liên hệ\"",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ございます = 丁寧語 của ある. お~ください = 尊敬語 \"xin mời người trên ~\". お問い合わせください = xin hãy liên hệ -> chủ ngữ: NGƯỜI TRÊN (người nhận email). Mẫu email kết thúc rất phổ biến!",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "dong_goi",
+      "email",
+      "ございます"
+    ]
+  },
+  {
+    "id": "L37_RO_29",
+    "lesson_id": 37,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "先生はもうお帰りになりました。",
+    "sentence_translation": "Thầy đã về rồi.",
+    "question_text": "先生はもうお帰りになりました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "お帰りになりました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "もう",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "先生は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "先生は (thầy/cô) -> もう (đã rồi) -> お帰りになりました (về -- 尊敬語). Chủ đề (は) -> trạng từ -> 尊敬語 動詞. Gặp お~になる -> biết chủ ngữ = NGƯỜI TRÊN",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "お~になる",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L37_RO_30",
+    "lesson_id": 37,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "私がご案内いたします。",
+    "sentence_translation": "Tôi xin hướng dẫn ạ.",
+    "question_text": "私がご案内いたします。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "いたします",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "ご案内",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "私が",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "私が (tôi) -> ご案内 (hướng dẫn) -> いたします (làm -- 謙譲語). Chủ ngữ (が) -> ご + danh từ Hán-Nhật -> いたす. Gặp いたす -> chủ ngữ = TÔI",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "ご~いたす",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L37_RO_31",
+    "lesson_id": 37,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "部長がそうおっしゃいました。",
+    "sentence_translation": "Trưởng phòng đã nói như vậy.",
+    "question_text": "部長がそうおっしゃいました。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "おっしゃいました",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "そう",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "部長が",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "部長が (trưởng phòng) -> そう (như vậy) -> おっしゃいました (nói -- 尊敬語 của 言う). Chủ ngữ -> nội dung -> kính ngữ動詞. おっしゃる -> chủ ngữ = NGƯỜI TRÊN",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "おっしゃる",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L37_RO_32",
+    "lesson_id": 37,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "心よりお礼を申し上げます。",
+    "sentence_translation": "Xin gửi lời cảm ơn từ đáy lòng.",
+    "question_text": "心よりお礼を申し上げます。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "申し上げます",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "お礼を",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "心より",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "心より (từ đáy lòng) -> お礼を (lời cảm ơn) -> 申し上げます (xin thưa -- 謙譲語 của 言う). より = từ. 申し上げる -> chủ ngữ ẩn = TÔI. Mẫu email trang trọng",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "申し上げる",
+      "reorder",
+      "email"
+    ]
+  },
+  {
+    "id": "L37_QT_33",
+    "lesson_id": 37,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "先生がいらっしゃいます。",
+    "sentence_translation": "Thầy đang ở ạ.",
+    "question_text": "先生が / いらっしゃいます。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Thầy bị ở lại.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thầy cho tôi ở.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Thầy đang ở ạ. (いらっしゃる = 尊敬語 của いる, chủ ngữ: người trên)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi đang ở.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "いらっしゃる = 尊敬語 có 3 nghĩa (いる/行く/来る). Ở đây, không có nơi đến -> nghĩa = いる (ở). Chủ ngữ: 先生 (người trên). KHÁC おる = 謙譲語 (tôi ở). Gặp いらっしゃる -> luôn là NGƯỜI TRÊN",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "いらっしゃる",
+      "dich"
+    ]
+  },
+  {
+    "id": "L37_QT_34",
+    "lesson_id": 37,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "私が参ります。",
+    "sentence_translation": "Tôi xin đi ạ.",
+    "question_text": "私が / 参ります。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi ở lại.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Người trên sẽ đi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi bị đi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi xin đi ạ. (参る = 謙譲語 của 行く/来る, chủ ngữ: tôi)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "参る = 謙譲語 của 行く/来る -> chủ ngữ: TÔI (hạ mình). KHÁC いらっしゃる = 尊敬語 (người trên đi/đến). 私が参る = tôi đi. 先生がいらっしゃる = thầy đi. Cùng \"đi\" nhưng từ KHÁC NHAU!",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "参る",
+      "dich"
+    ]
+  },
+  {
+    "id": "L37_QT_35",
+    "lesson_id": 37,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "どうぞ召し上がってください。",
+    "sentence_translation": "Xin mời dùng ạ.",
+    "question_text": "召し上がってください。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tôi đã ăn rồi.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin mời dùng ạ. (召し上がる = 尊敬語 của 食べる/飲む, mời người trên)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Xin hãy nấu ăn.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi xin ăn.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "召し上がる = 尊敬語 đặc biệt của 食べる/飲む -> mời NGƯỜI TRÊN ăn/uống. KHÁC いただく = 謙譲語 (tôi ăn/nhận). 召し上がってください = \"xin mời dùng\" (lịch sự nhất). Gặp 召し上がる -> người ăn = NGƯỜI TRÊN",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "召し上がる",
+      "dich"
+    ]
+  },
+  {
+    "id": "L37_QT_36",
+    "lesson_id": 37,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "社長がこの計画について話されました。",
+    "sentence_translation": "Giám đốc đã nói về kế hoạch này.",
+    "question_text": "話されました。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Giám đốc đã nói. (社長 = người trên + される = 尊敬語)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi đã nói.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Giám đốc bị nói.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Kế hoạch bị nói.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "話す + される -> nhìn chủ ngữ: 社長が (người trên) -> 尊敬語 (tôn kính), KHÔNG phải bị動. Nếu là 社長に話された = bị giám đốc nói (bị動). が vs に quyết định 尊敬語 hay bị動!",
+    "hint": null,
+    "tags": [
+      "尊敬語",
+      "れる/られる",
+      "dich",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L37_QT_37",
+    "lesson_id": 37,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "先日ご依頼いただいた資料を添付させていただきます。",
+    "sentence_translation": "Tôi xin phép đính kèm tài liệu mà ngài đã nhờ hôm trước.",
+    "question_text": "添付させていただきます。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Người trên đính kèm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin hãy đính kèm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi bị đính kèm.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Tôi xin phép đính kèm. (させていただく = 謙譲語, chủ ngữ ẩn: tôi)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "させていただく = 謙譲語 \"xin phép được ~\". Chủ ngữ ẩn: TÔI (người viết email). Mẫu email CỰC KỲ phổ biến. 添付させていただく = xin phép đính kèm. Gặp させていただく -> luôn là TÔI xin phép",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "させていただく",
+      "dich",
+      "email"
+    ]
+  },
+  {
+    "id": "L37_QT_38",
+    "lesson_id": 37,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "この書類をご確認いただけますでしょうか。",
+    "sentence_translation": "Ngài có thể xác nhận tài liệu này được không ạ?",
+    "question_text": "ご確認いただけますでしょうか。 -> Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Tài liệu đã được xác nhận.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin hãy xác nhận ngay.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Ngài có thể xác nhận được không ạ? (ご~いただく = 謙譲語, tôi NHẬN việc người trên xác nhận)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Tôi sẽ xác nhận.",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ご確認いただく = \"tôi được nhận việc ngài xác nhận\" (謙譲語). いただけますでしょうか = \"liệu có thể không ạ?\" (lịch sự nhất). Chủ ngữ ngữ pháp: TÔI (nhận). Người hành động xác認: NGƯỜI TRÊN. Mẫu YÊU CẦU email lịch sự nhất!",
+    "hint": null,
+    "tags": [
+      "謙譲語",
+      "いただく",
+      "dich",
+      "email",
+      "yeu_cau"
+    ]
+  }
+]

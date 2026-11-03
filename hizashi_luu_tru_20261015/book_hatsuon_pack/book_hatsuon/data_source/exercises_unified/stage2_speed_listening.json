@@ -1,0 +1,965 @@
+{
+  "metadata": {
+    "source_file": "stage2_speed_listening.json",
+    "original_title": "Stage 2B - Nghe tốc độ thực tế",
+    "total_questions": 47,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "stage2_speed_listening_0000_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_devoiced",
+      "audio_ids": [
+        "です (natural)"
+      ],
+      "prompt": "Nghe 'です (natural)' và nghe và xác định âm nào bị 'nuốt' (devoiced)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "là"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0000_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_devoiced",
+      "audio_ids": [
+        "ます (natural)"
+      ],
+      "prompt": "Nghe 'ます (natural)' và nghe và xác định âm nào bị 'nuốt' (devoiced)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "trợ động từ"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0000_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_devoiced",
+      "audio_ids": [
+        "すき (natural)"
+      ],
+      "prompt": "Nghe 'すき (natural)' và nghe và xác định âm nào bị 'nuốt' (devoiced)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "thích"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0000_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_devoiced",
+      "audio_ids": [
+        "した (natural)"
+      ],
+      "prompt": "Nghe 'した (natural)' và nghe và xác định âm nào bị 'nuốt' (devoiced)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đã làm"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0000_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_devoiced",
+      "audio_ids": [
+        "きた (natural)"
+      ],
+      "prompt": "Nghe 'きた (natural)' và nghe và xác định âm nào bị 'nuốt' (devoiced)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đã đến"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0000_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_devoiced",
+      "audio_ids": [
+        "ください (natural)"
+      ],
+      "prompt": "Nghe 'ください (natural)' và nghe và xác định âm nào bị 'nuốt' (devoiced)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "xin hãy"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0000_06",
+      "base_type": "single_choice",
+      "sub_type": "identify_devoiced",
+      "audio_ids": [
+        "つくる (natural)"
+      ],
+      "prompt": "Nghe 'つくる (natural)' và nghe và xác định âm nào bị 'nuốt' (devoiced)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "làm/tạo"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0000_07",
+      "base_type": "single_choice",
+      "sub_type": "identify_devoiced",
+      "audio_ids": [
+        "ふくろ (natural)"
+      ],
+      "prompt": "Nghe 'ふくろ (natural)' và nghe và xác định âm nào bị 'nuốt' (devoiced)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "túi"
+      }
+    },
+    {
+      "id": "S2B_L1_02",
+      "base_type": "same_different",
+      "sub_type": "slow_vs_natural",
+      "audio_ids": [
+        "S2B_L1_02_audio"
+      ],
+      "prompt": "Nghe 2 phiên bản: Chậm (đầy đủ) vs Tự nhiên (có devoicing). Xác định bản nào là tự nhiên.",
+      "difficulty": "medium",
+      "topic": null,
+      "pairs": [
+        {
+          "audio_slow": "de-su (rõ ràng)",
+          "audio_natural": "des' (nuốt u)",
+          "word": "です",
+          "natural_is": 2
+        },
+        {
+          "audio_slow": "su-ki (rõ ràng)",
+          "audio_natural": "s'ki (nuốt u)",
+          "word": "すき",
+          "natural_is": 2
+        },
+        {
+          "audio_slow": "shi-ta (rõ ràng)",
+          "audio_natural": "sh'ta (nuốt i)",
+          "word": "した",
+          "natural_is": 2
+        }
+      ]
+    },
+    {
+      "id": "stage2_speed_listening_0009_00",
+      "base_type": "single_choice",
+      "sub_type": "sentence_devoicing",
+      "audio_ids": [
+        "すきです (natural: s'ki des')"
+      ],
+      "prompt": "Nghe 'すきです (natural: s'ki des')' và nghe câu ở tốc độ tự nhiên và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Tôi thích",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Tôi ghét",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Tôi muốn",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0009_01",
+      "base_type": "single_choice",
+      "sub_type": "sentence_devoicing",
+      "audio_ids": [
+        "たべました (natural: tabemash'ta)"
+      ],
+      "prompt": "Nghe 'たべました (natural: tabemash'ta)' và nghe câu ở tốc độ tự nhiên và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đã ăn",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Sẽ ăn",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Đang ăn",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0009_02",
+      "base_type": "single_choice",
+      "sub_type": "sentence_devoicing",
+      "audio_ids": [
+        "きてください (natural: k'te kudasa')"
+      ],
+      "prompt": "Nghe 'きてください (natural: k'te kudasa')' và nghe câu ở tốc độ tự nhiên và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Xin hãy đến",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Xin hãy mặc",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Xin hãy cắt",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0009_03",
+      "base_type": "single_choice",
+      "sub_type": "sentence_devoicing",
+      "audio_ids": [
+        "つくりました (natural: ts'kurimash'ta)"
+      ],
+      "prompt": "Nghe 'つくりました (natural: ts'kurimash'ta)' và nghe câu ở tốc độ tự nhiên và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đã làm",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Đã đi",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Đã nói",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0013_00",
+      "base_type": "single_choice",
+      "sub_type": "fast_contraction_recognition",
+      "audio_ids": [
+        "なにしてんの (nhanh)"
+      ],
+      "prompt": "Nghe 'なにしてんの (nhanh)' và nghe rút gọn nhanh và chọn dạng đầy đủ",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "何をしているの",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "何をするの",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "何をしたの",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0013_01",
+      "base_type": "single_choice",
+      "sub_type": "fast_contraction_recognition",
+      "audio_ids": [
+        "わかんない (nhanh)"
+      ],
+      "prompt": "Nghe 'わかんない (nhanh)' và nghe rút gọn nhanh và chọn dạng đầy đủ",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "わからない",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "わかった",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "わかる",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0013_02",
+      "base_type": "single_choice",
+      "sub_type": "fast_contraction_recognition",
+      "audio_ids": [
+        "やんなきゃ (nhanh)"
+      ],
+      "prompt": "Nghe 'やんなきゃ (nhanh)' và nghe rút gọn nhanh và chọn dạng đầy đủ",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "やらなければ",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "やりたい",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "やった",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0013_03",
+      "base_type": "single_choice",
+      "sub_type": "fast_contraction_recognition",
+      "audio_ids": [
+        "食べちゃった (nhanh)"
+      ],
+      "prompt": "Nghe '食べちゃった (nhanh)' và nghe rút gọn nhanh và chọn dạng đầy đủ",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "食べてしまった",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "食べている",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "食べたい",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0013_04",
+      "base_type": "single_choice",
+      "sub_type": "fast_contraction_recognition",
+      "audio_ids": [
+        "行っとく (nhanh)"
+      ],
+      "prompt": "Nghe '行っとく (nhanh)' và nghe rút gọn nhanh và chọn dạng đầy đủ",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "行っておく",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "行っている",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "行った",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0013_05",
+      "base_type": "single_choice",
+      "sub_type": "fast_contraction_recognition",
+      "audio_ids": [
+        "そうじゃん (nhanh)"
+      ],
+      "prompt": "Nghe 'そうじゃん (nhanh)' và nghe rút gọn nhanh và chọn dạng đầy đủ",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "そうじゃないか",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "そうです",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "そうじゃない",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0019_00",
+      "base_type": "single_choice",
+      "sub_type": "speed_understanding",
+      "audio_ids": [
+        "ちょっとまってて"
+      ],
+      "prompt": "Nghe 'ちょっとまってて' và nghe câu nói nhanh và chọn nghĩa (2 giây để trả lời)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đợi chút"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0019_01",
+      "base_type": "single_choice",
+      "sub_type": "speed_understanding",
+      "audio_ids": [
+        "なにいってんの"
+      ],
+      "prompt": "Nghe 'なにいってんの' và nghe câu nói nhanh và chọn nghĩa (2 giây để trả lời)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đang nói gì vậy?"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0019_02",
+      "base_type": "single_choice",
+      "sub_type": "speed_understanding",
+      "audio_ids": [
+        "もういかなきゃ"
+      ],
+      "prompt": "Nghe 'もういかなきゃ' và nghe câu nói nhanh và chọn nghĩa (2 giây để trả lời)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Phải đi rồi"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0019_03",
+      "base_type": "single_choice",
+      "sub_type": "speed_understanding",
+      "audio_ids": [
+        "ぜんぜんわかんない"
+      ],
+      "prompt": "Nghe 'ぜんぜんわかんない' và nghe câu nói nhanh và chọn nghĩa (2 giây để trả lời)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Hoàn toàn không hiểu"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0019_04",
+      "base_type": "single_choice",
+      "sub_type": "speed_understanding",
+      "audio_ids": [
+        "それってどういうこと"
+      ],
+      "prompt": "Nghe 'それってどういうこと' và nghe câu nói nhanh và chọn nghĩa (2 giây để trả lời)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Điều đó nghĩa là gì?"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0024_00",
+      "base_type": "single_choice",
+      "sub_type": "multiple_contractions",
+      "audio_ids": [
+        "なんでいかないの？いきたくないってこと？"
+      ],
+      "prompt": "Nghe 'なんでいかないの？いきたくないってこと？' và nghe câu có nhiều rút gọn và xác định tất cả",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Sao không đi? Ý là không muốn đi hả?"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0024_01",
+      "base_type": "single_choice",
+      "sub_type": "multiple_contractions",
+      "audio_ids": [
+        "あしたテストあるんだって。べんきょうしなきゃ。"
+      ],
+      "prompt": "Nghe 'あしたテストあるんだって。べんきょうしなきゃ。' và nghe câu có nhiều rút gọn và xác định tất cả",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Nghe nói mai có test. Phải học thôi."
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0024_02",
+      "base_type": "single_choice",
+      "sub_type": "multiple_contractions",
+      "audio_ids": [
+        "それ、たべちゃっていい？おなかすいてんの。"
+      ],
+      "prompt": "Nghe 'それ、たべちゃっていい？おなかすいてんの。' và nghe câu có nhiều rút gọn và xác định tất cả",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Ăn cái đó được không? Đói bụng rồi."
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0027_00",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_word",
+      "audio_ids": [
+        "ありがとうございます (fast)"
+      ],
+      "prompt": "Nghe 'ありがとうございます (fast)' và nghe từ ở tốc độ native và chọn từ đúng (2 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "ありがとうございます"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0027_01",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_word",
+      "audio_ids": [
+        "すみません (fast)"
+      ],
+      "prompt": "Nghe 'すみません (fast)' và nghe từ ở tốc độ native và chọn từ đúng (2 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "すみません"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0027_02",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_word",
+      "audio_ids": [
+        "よろしくおねがいします (fast)"
+      ],
+      "prompt": "Nghe 'よろしくおねがいします (fast)' và nghe từ ở tốc độ native và chọn từ đúng (2 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "よろしくおねがいします"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0027_03",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_word",
+      "audio_ids": [
+        "おつかれさまです (fast)"
+      ],
+      "prompt": "Nghe 'おつかれさまです (fast)' và nghe từ ở tốc độ native và chọn từ đúng (2 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "おつかれさまです"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0027_04",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_word",
+      "audio_ids": [
+        "いただきます (fast)"
+      ],
+      "prompt": "Nghe 'いただきます (fast)' và nghe từ ở tốc độ native và chọn từ đúng (2 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "いただきます"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0027_05",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_word",
+      "audio_ids": [
+        "ごちそうさまでした (fast)"
+      ],
+      "prompt": "Nghe 'ごちそうさまでした (fast)' và nghe từ ở tốc độ native và chọn từ đúng (2 giây)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "ごちそうさまでした"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0033_00",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_sentence",
+      "audio_ids": [
+        "ちょっとおまちください (fast)"
+      ],
+      "prompt": "Nghe 'ちょっとおまちください (fast)' và nghe câu ở tốc độ native và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Xin đợi chút",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Xin đi chút",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Xin ngồi chút",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0033_01",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_sentence",
+      "audio_ids": [
+        "なにかおてつだいしましょうか (fast)"
+      ],
+      "prompt": "Nghe 'なにかおてつだいしましょうか (fast)' và nghe câu ở tốc độ native và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Tôi giúp gì được không?",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Bạn cần gì?",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Bạn làm gì?",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0033_02",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_sentence",
+      "audio_ids": [
+        "もういちどおねがいします (fast)"
+      ],
+      "prompt": "Nghe 'もういちどおねがいします (fast)' và nghe câu ở tốc độ native và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Xin nói lại lần nữa",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Xin đừng nói",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Xin nói chậm",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0033_03",
+      "base_type": "single_choice",
+      "sub_type": "native_speed_sentence",
+      "audio_ids": [
+        "ここにすわってもいいですか (fast)"
+      ],
+      "prompt": "Nghe 'ここにすわってもいいですか (fast)' và nghe câu ở tốc độ native và chọn nghĩa đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Ngồi đây được không?",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Đứng đây được không?",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Đi đây được không?",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0037_00",
+      "base_type": "single_choice",
+      "sub_type": "shadowing_prep",
+      "audio_ids": [
+        "すみません、えきはどこですか"
+      ],
+      "prompt": "Nghe 'すみません、えきはどこですか' và nghe và lặp lại ngay (shadowing). chọn 'đã lặp lại' sau khi hoàn thành.",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "stage2_speed_listening_0037_01",
+      "base_type": "single_choice",
+      "sub_type": "shadowing_prep",
+      "audio_ids": [
+        "きょうはいいてんきですね"
+      ],
+      "prompt": "Nghe 'きょうはいいてんきですね' và nghe và lặp lại ngay (shadowing). chọn 'đã lặp lại' sau khi hoàn thành.",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "stage2_speed_listening_0037_02",
+      "base_type": "single_choice",
+      "sub_type": "shadowing_prep",
+      "audio_ids": [
+        "なにをしているんですか"
+      ],
+      "prompt": "Nghe 'なにをしているんですか' và nghe và lặp lại ngay (shadowing). chọn 'đã lặp lại' sau khi hoàn thành.",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "stage2_speed_listening_0037_03",
+      "base_type": "single_choice",
+      "sub_type": "shadowing_prep",
+      "audio_ids": [
+        "あしたはなんようびですか"
+      ],
+      "prompt": "Nghe 'あしたはなんようびですか' và nghe và lặp lại ngay (shadowing). chọn 'đã lặp lại' sau khi hoàn thành.",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "S2B_L4_01",
+      "base_type": "dialogue",
+      "sub_type": "fast_dialogue",
+      "audio_ids": [
+        "S2B_L4_01_audio"
+      ],
+      "prompt": "Nghe hội thoại nhanh và trả lời câu hỏi",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "audio_speed": "native",
+          "script": [
+            "A: ねえ、きょうひまある？",
+            "B: うーん、ごごはちょっと...",
+            "A: じゃあ、ごぜんちゅうは？",
+            "B: ごぜんならだいじょうぶ！"
+          ],
+          "questions": [
+            {
+              "question": "A muốn biết điều gì?",
+              "options": [
+                "B có rảnh không",
+                "B đi đâu",
+                "B ăn gì"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "B rảnh khi nào?",
+              "options": [
+                "Buổi chiều",
+                "Buổi sáng",
+                "Cả ngày"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "audio_speed": "native",
+          "script": [
+            "A: これ、おいしいね！",
+            "B: でしょ？きのうつくったんだ。",
+            "A: えー、すごい！レシピおしえて！",
+            "B: いいよ、あとでLINEするね。"
+          ],
+          "questions": [
+            {
+              "question": "B đã làm gì?",
+              "options": [
+                "Mua đồ ăn",
+                "Nấu đồ ăn",
+                "Đặt đồ ăn"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "B sẽ làm gì sau?",
+              "options": [
+                "Gửi công thức qua LINE",
+                "Nấu thêm",
+                "Đi mua sắm"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stage2_speed_listening_0042_00",
+      "base_type": "announcement",
+      "sub_type": "announcement_listening",
+      "audio_ids": [
+        "まもなく、でんしゃがまいります。あぶないですから、しろいせんのうちがわにおさがりください。"
+      ],
+      "prompt": "Nghe 'まもなく、でんしゃがまいります。あぶないですから、しろいせんのうちがわにおさがりください。' và nghe thông báo (kiểu ga tàu/cửa hàng) và trả lời",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "stage2_speed_listening_0042_01",
+      "base_type": "announcement",
+      "sub_type": "announcement_listening",
+      "audio_ids": [
+        "ほんじつはごらいてんいただき、まことにありがとうございます。とうてんは、ごごろくじにへいてんいたします。"
+      ],
+      "prompt": "Nghe thông báo (kiểu ga tàu/cửa hàng) và trả lời",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "stage2_speed_listening_0044_00",
+      "base_type": "single_choice",
+      "sub_type": "ultimate_speed_test",
+      "audio_ids": [
+        "ちょっとまってて、いますぐいくから"
+      ],
+      "prompt": "Nghe 'ちょっとまってて、いますぐいくから' và nghe và viết lại (có thể nghe tối đa 2 lần)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Đợi chút, tôi đi ngay bây giờ",
+        "answer": "ちょっとまってて、いますぐいくから"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0044_01",
+      "base_type": "single_choice",
+      "sub_type": "ultimate_speed_test",
+      "audio_ids": [
+        "なんでそんなこというの？ひどいよ"
+      ],
+      "prompt": "Nghe 'なんでそんなこというの？ひどいよ' và nghe và viết lại (có thể nghe tối đa 2 lần)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Sao lại nói như vậy? Quá đáng",
+        "answer": "なんでそんなこというの？ひどいよ"
+      }
+    },
+    {
+      "id": "stage2_speed_listening_0044_02",
+      "base_type": "single_choice",
+      "sub_type": "ultimate_speed_test",
+      "audio_ids": [
+        "きょうはほんとにつかれたー"
+      ],
+      "prompt": "Nghe 'きょうはほんとにつかれたー' và nghe và viết lại (có thể nghe tối đa 2 lần)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "Hôm nay mệt thật sự",
+        "answer": "きょうはほんとにつかれたー"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1088 @@
+{
+  "metadata": {
+    "title": "Tái Cấu Trúc Nhận Thức Trong Thụ Đắc Tiếng Nhật Cho Người Học Tiếng Việt",
+    "subtitle": "Một Tiếp Cận Dựa Trên Lược Đồ Về Cú Pháp Và Xử Lý Thông Tin",
+    "language": "vi",
+    "version": "1.0",
+    "lastUpdated": "2025-12-15"
+  },
+  "executiveSummary": {
+    "context": "Việc thụ đắc tiếng Nhật đối với người nói tiếng Việt đặt ra một thách thức nhận thức độc đáo, vượt xa việc ghi nhớ từ vựng hay quy tắc ngữ pháp đơn thuần.",
+    "problem": "Khó khăn cơ bản nằm ở sự bất đồng bộ về cấu trúc giữa cú pháp Chủ ngữ-Động từ-Tân ngữ (SVO) của tiếng Việt và cú pháp Chủ ngữ-Tân ngữ-Động từ (SOV) của tiếng Nhật. Khó khăn mà người học gặp phải trong việc nghe hiểu và đọc hiểu thường bị nhận diện sai là sự thiếu hụt về trí nhớ làm việc. Trên thực tế, đây là một lỗi trong quy trình xử lý: não bộ người học đang cố gắng phân tích dữ liệu đầu vào tiếng Nhật bằng các chiến lược dự đoán tuyến tính, ưu tiên thành phần chính (head-initial) vốn là bản năng của tiếng Việt.",
+    "consequence": "Điều này dẫn đến một nút thắt cổ chai nhận thức, nơi thông tin được 'lưu trữ đệm' (buffered) một cách không hiệu quả, dẫn đến sự sụp đổ của quá trình xử lý trước khi câu kết thúc.",
+    "solution": "Khung sư phạm được thiết kế để tái cấu trúc các chiến lược xử lý nhận thức của người học tiếng Việt, thông qua việc thích ứng các kỹ thuật từ phiên dịch đồng thời (Simultaneous Interpretation):",
+    "techniques": [
+      "Phân Tách Khối (Chunking/Bunsetsu segmentation)",
+      "Dự Báo (Anticipation/Predictive Processing)",
+      "Mã Hóa Ngữ Nghĩa (Semantic Encoding/Deverbalization)"
+    ],
+    "goal": "Chuyển đổi người học từ mô hình 'dịch thuật tuyến tính' sang mô hình 'gắn kết cấu trúc theo thời gian thực'. Mục tiêu là giảm 'độ trễ' (lag) trong việc hiểu và loại bỏ cơ chế dịch thầm SVO vốn đang cản trở sự trôi chảy.",
+    "note": "Cách tiếp cận này không nhằm mục đích đào tạo phiên dịch viên chuyên nghiệp, mà sử dụng các bài tập phiên dịch để củng cố các thói quen nhận thức cần thiết cho việc hiểu như người bản ngữ."
+  },
+  "sections": [
+    {
+      "id": "part1",
+      "title": "Kiến Trúc Nhận Thức Của Cú Pháp",
+      "subtitle": "Xử Lý SVO So Với SOV",
+      "icon": "brain",
+      "color": "#4A90D9",
+      "introduction": "Để hiểu tại sao người Việt gặp khó khăn với cấu trúc câu tiếng Nhật, trước tiên chúng ta phải phân tích các cơ chế thần kinh ngôn ngữ chi phối cách não bộ xử lý trật tự từ. Sự khác biệt giữa tiếng Việt (SVO) và tiếng Nhật (SOV) không chỉ là vấn đề ghi nhớ quy tắc; nó quy định các thuật toán dự đoán mà não bộ sử dụng trong quá trình nghe thời gian thực.",
+      "subsections": [
+        {
+          "id": "1.1",
+          "title": "Nguyên Lý Mật Độ Thông Tin Đồng Nhất (UID) và Lý Thuyết Ngạc Nhiên",
+          "definition": "Ngôn ngữ học nhận thức đặt ra Nguyên Lý Mật Độ Thông Tin Đồng Nhất (Uniform Information Density - UID), gợi ý rằng người sử dụng ngôn ngữ có xu hướng ưa chuộng các phát ngôn mà mật độ thông tin được phân bố đều theo thời gian của câu.",
+          "keyPoints": [
+            {
+              "label": "Hiệu Quả SVO (Tiếng Việt/Tiếng Anh)",
+              "description": "Động từ xuất hiện sớm. Động từ là 'động cơ' của câu; nó quy định các tham số theo sau. Sự 'ngạc nhiên' (surprisal - cú sốc nhận thức về từ tiếp theo) được quản lý theo từng bước nhỏ.",
+              "example": "Tôi ăn... → não bộ ngay lập tức thu hẹp phạm vi dự đoán xuống các đối tượng có thể ăn được"
+            },
+            {
+              "label": "Mật Độ SOV (Tiếng Nhật)",
+              "description": "Động từ xuất hiện cuối cùng. Mối quan hệ giữa chủ ngữ và tân ngữ vẫn tách biệt và chưa được giải quyết cho đến khi động từ cuối cùng 'khóa' chúng lại với nhau. Điều này tạo ra một mật độ thông tin 'nặng ở phần đáy' (bottom-heavy). Não bộ phải giữ chủ ngữ và tân ngữ trong bộ nhớ làm việc (RAM) mà không giải quyết được mối quan hệ của chúng cho đến tận cùng.",
+              "example": "Watashi wa... ringo wo... taberu → phải giữ trong bộ nhớ đến cuối"
+            }
+          ],
+          "impactOnVietnameseLearners": {
+            "metaphor": "Tràn ngăn xếp (Stack Overflow)",
+            "explanation": "Đối với một người học tiếng Việt, người có não bộ được lập trình để 'xả' động từ sớm nhằm giải phóng bộ nhớ làm việc, cấu trúc câu tiếng Nhật tạo cảm giác như một sự 'tràn ngăn xếp'. Họ giữ Chủ ngữ, sau đó là Thời gian, rồi Địa điểm, rồi Đối tác, rồi Tân ngữ—tất cả trong khi lo lắng chờ đợi Động từ để biết điều gì thực sự đang xảy ra.",
+            "consequence": "Sự lo lắng này tiêu tốn tài nguyên nhận thức, không để lại năng lượng tinh thần cho việc hiểu thực sự."
+          },
+          "citations": ["²", "¹⁰"]
+        },
+        {
+          "id": "1.2",
+          "title": "Độ Dài Phụ Thuộc và Tải Trọng Bộ Nhớ Làm Việc",
+          "definition": "Độ dài phụ thuộc (Dependency length) đề cập đến khoảng cách giữa một từ chính (ví dụ: động từ) và thành phần phụ thuộc của nó (ví dụ: tân ngữ). Nghiên cứu chỉ ra rằng các ngôn ngữ SOV thường có độ dài phụ thuộc lớn hơn trong các câu phức, chẳng hạn như các câu có mệnh đề quan hệ.",
+          "keyPoints": [
+            {
+              "label": "Cấu Trúc Tiếng Việt",
+              "description": "Mệnh đề quan hệ đi SAU danh từ",
+              "example": "Người đàn ông [mà tôi đã gặp hôm qua] đang ăn phở"
+            },
+            {
+              "label": "Cấu Trúc Tiếng Nhật",
+              "description": "Mệnh đề quan hệ đi TRƯỚC danh từ (pre-head modification)",
+              "example": "[Kinou watashi ga atta] otoko no hito wa pho wo tabeteiru",
+              "translation": "[Hôm qua tôi đã gặp] người đàn ông đang ăn phở"
+            }
+          ],
+          "preHeadModificationExplanation": "Trong tiếng Nhật, từ bổ nghĩa đi trước danh từ được bổ nghĩa. Một người học tiếng Việt nghe 'Hôm qua', sau đó 'tôi', sau đó 'gặp'—và phải treo các khái niệm riêng biệt này trong bộ nhớ cho đến khi danh từ 'người đàn ông' xuất hiện để gắn kết chúng. Sự bổ nghĩa 'trước từ chính' (pre-head modification) này buộc não bộ phải duy trì một vòng lặp mở lâu hơn so với yêu cầu của cú pháp tiếng Việt.",
+          "neuroscienceNote": "Các nghiên cứu hình ảnh thần kinh xác nhận rằng việc xử lý các cấu trúc SOV (và các trật tự không chính thống như OSV) kích hoạt Hồi trán dưới bên trái (Left Inferior Frontal Gyrus - IFG) mạnh mẽ hơn so với các cấu trúc SVO, chỉ ra nhu cầu cao hơn đối với bộ nhớ làm việc cú pháp.",
+          "insight": "'Khó khăn' mà người học cảm thấy chính là cảm giác vật lý của tải trọng thần kinh gia tăng này.",
+          "citations": ["¹", "³"]
+        },
+        {
+          "id": "1.3",
+          "title": "Sự Thất Bại Của Dịch Thuật Tuyến Tính",
+          "definition": "Chiến lược mặc định của nhiều người học tiếng Việt: dịch từng từ sang tiếng Việt ngay khi nghe thấy",
+          "example": {
+            "input": "Watashi wa toshokan de hon wo yomimasu",
+            "process": "Tôi thì... thư viện tại... sách thì... đọc",
+            "result": "Tôi thì thư viện tại sách thì đọc",
+            "verdict": "Lỗi Não Bộ: Sai Cú Pháp"
+          },
+          "explanation": "Vì trật tự từ bị đảo ngược, dịch thuật tuyến tính dẫn đến một câu tiếng Việt vô nghĩa. Người học sau đó buộc phải 'tua lại' băng ghi nhớ và sắp xếp lại các từ để tạo ý nghĩa ('À, tôi đọc sách tại thư viện'). Quá trình sắp xếp lại này tốn thời gian.",
+          "consequence": "Độ trễ (lag) - trong khi người học đang sắp xếp lại Câu A, người nói đã hoàn thành Câu B. Đây là nguyên nhân gây ra 'độ trễ' khiến người học cảm thấy họ 'nghe kém'",
+          "solution": "Ngăn não bộ cố gắng sắp xếp lại các từ theo trật tự tiếng Việt và huấn luyện nó chấp nhận trật tự tiếng Nhật như một trình tự logic hợp lệ",
+          "keyTerm": "Gắn kết cấu trúc theo thời gian thực (real-time structural binding)",
+          "citations": ["¹⁰"]
+        }
+      ]
+    },
+    {
+      "id": "part2",
+      "title": "Khung Lý Thuyết",
+      "subtitle": "Từ Bộ Nhớ Tuyến Tính Đến Gắn Kết Cấu Trúc",
+      "icon": "lightbulb",
+      "color": "#F5A623",
+      "introduction": "Giải pháp được đề xuất liên quan đến việc chuyển từ chiến lược 'lưu trữ và sắp xếp lại' sang chiến lược 'tích hợp gia tăng' (incremental integration). Đây là kỹ năng cốt lõi của các phiên dịch viên đồng thời, những người không thể chờ đợi đến cuối câu để bắt đầu hiểu.",
+      "subsections": [
+        {
+          "id": "2.1",
+          "title": "Xử Lý Gia Tăng và Dự Báo (Anticipation)",
+          "concept": "Người bản ngữ của các ngôn ngữ 'head-final' (như tiếng Nhật) tham gia vào Xử Lý Dự Báo (Anticipatory Processing). Họ không thụ động chờ đợi động từ; họ chủ động dự đoán nó dựa trên các tham số (Chủ ngữ, Tân ngữ) và các trợ từ được trình bày trước đó.",
+          "mechanism": {
+            "title": "Cơ Chế Dự Đoán",
+            "woMarker": {
+              "input": "Ringo wo (Táo [tân ngữ])",
+              "brainActivation": "Não bộ kích hoạt trước các động từ",
+              "prediction": ["ăn", "mua", "cắt"]
+            },
+            "gaMarker": {
+              "input": "Ringo ga (Táo [chủ ngữ])",
+              "brainActivation": "Não bộ kích hoạt trước các động từ khác",
+              "prediction": ["rơi", "thối", "có"]
+            }
+          },
+          "applicationForVietnamese": {
+            "principle": "Chúng ta phải huấn luyện người học coi các trợ từ (ni, de, wo, ga) không chỉ là nhãn ngữ pháp, mà là các mũi tên dự báo.",
+            "examples": [
+              "Ni sẽ kích hoạt việc tìm kiếm một điểm đến hoặc mục tiêu",
+              "De sẽ kích hoạt việc tìm kiếm một bối cảnh hành động"
+            ],
+            "cognitiveShift": "Điều này chuyển tải trọng nhận thức từ 'giữ từ' sang 'xây dựng bối cảnh'"
+          },
+          "citations": ["⁴", "⁵"]
+        },
+        {
+          "id": "2.2",
+          "title": "Đơn Vị Bunsetsu Như Là Nguyên Tử Nhận Thức",
+          "definition": "Tiếng Nhật không được xử lý theo từng từ; nó được xử lý theo các khối gọi là Bunsetsu (文節). Một bunsetsu bao gồm một từ nội dung (danh từ/động từ) + các từ chức năng liên quan (trợ từ/trợ động từ).",
+          "comparison": {
+            "wordLevel": {
+              "label": "Cấp độ Từ",
+              "example": "Watashi / wa / toshokan / de / hon / wo / yomimasu",
+              "units": 7
+            },
+            "bunsetsuLevel": {
+              "label": "Cấp độ Bunsetsu",
+              "example": "[Watashi wa] / [toshokan de] / [hon wo] / [yomimasu]",
+              "units": 4
+            }
+          },
+          "benefit": "Xử lý ở cấp độ bunsetsu làm giảm số lượng mục mà bộ nhớ làm việc phải theo dõi.",
+          "semanticPackage": {
+            "concept": "Đối với người học, bunsetsu hoạt động như một 'gói ngữ nghĩa'.",
+            "example": "Thay vì dịch 'Watashi' (Tôi) và 'wa' (thì) một cách riêng biệt, họ phải học cách xử lý 'Watashi wa' như một cảm giác duy nhất về 'Về phần tôi...'"
+          },
+          "citations": ["⁶"]
+        },
+        {
+          "id": "2.3",
+          "title": "Mã Hóa Ngữ Nghĩa (Phi Ngôn Từ Hóa - Deverbalization)",
+          "definition": "Mã Hóa Ngữ Nghĩa (Semantic Encoding), hay Phi Ngôn Từ Hóa, là quá trình loại bỏ 'lớp vỏ ngôn ngữ' khỏi đầu vào và chỉ giữ lại ý nghĩa.",
+          "interpreterExplanation": "Trong lý thuyết phiên dịch, điều này là cốt yếu. Một phiên dịch viên không dịch từng từ; họ nghe tiếng Nhật, hình thành một hình ảnh tinh thần (ý nghĩa phi ngôn ngữ), và sau đó mô tả hình ảnh đó bằng ngôn ngữ đích.",
+          "applicationForLearners": "Đối với người học, điều này có nghĩa là bỏ qua hoàn toàn từ điển tiếng Việt.",
+          "pathways": {
+            "current": {
+              "label": "Lộ Trình Hiện Tại",
+              "path": "Âm thanh Tiếng Nhật → Từ Tiếng Việt → Ý Nghĩa"
+            },
+            "target": {
+              "label": "Lộ Trình Mục Tiêu",
+              "path": "Âm thanh Tiếng Nhật → Hình Ảnh/Khái Niệm (Ý Nghĩa)"
+            }
+          },
+          "technique": {
+            "name": "Image Streaming (Dòng chảy hình ảnh)",
+            "description": "Bằng cách sử dụng kỹ thuật Image Streaming, người học có thể rèn luyện để hình dung các gói bunsetsu ngay lập tức.",
+            "example": "Nghe 'Ringo wo' sẽ triệu hồi hình ảnh một quả táo với một mũi tên chỉ vào một hành động chưa biết, thay vì từ tiếng Việt 'quả táo'."
+          },
+          "citations": ["⁷", "¹¹"]
+        }
+      ]
+    },
+    {
+      "id": "part3",
+      "title": "Kỹ Thuật Cốt Lõi 1",
+      "subtitle": "Phân Tách Khối (Chunking) & Đọc Ngắt (Slash Reading)",
+      "icon": "scissors",
+      "color": "#7ED321",
+      "introduction": "Trụ cột đầu tiên của lộ trình đào tạo là Chunking. Kỹ thuật này giải quyết trực tiếp vấn đề 'Độ dài phụ thuộc' bằng cách nhóm các yếu tố liên quan thành các đơn vị có thể quản lý được.",
+      "subsections": [
+        {
+          "id": "3.1",
+          "title": "Định Nghĩa Bunsetsu Cho Người Học",
+          "formula": "Từ Nội Dung + Từ Chức Năng",
+          "structures": [
+            {
+              "type": "Danh từ + Trợ từ",
+              "example": "Nihon ni (Đến Nhật)",
+              "goldenRule": "Không bao giờ dừng trước trợ từ; luôn dừng sau nó"
+            },
+            {
+              "type": "Động từ + Chia",
+              "example": "Tabetakunai (Không muốn ăn)"
+            },
+            {
+              "type": "Bổ ngữ + Danh từ",
+              "example": "Akai ringo (Táo đỏ)"
+            }
+          ],
+          "citations": ["⁶"]
+        },
+        {
+          "id": "3.2",
+          "title": "Phương Pháp Đọc Ngắt (Slash Reading)",
+          "example": {
+            "original": "私は昨日図書館で友達と面白い本を読みました",
+            "slashed": "私は / 昨日 / 図書館で / 友達と / 面白い本を / 読みました",
+            "romaji": "Watashi wa / kinou / toshokan de / tomodachi to / omoshiroi hon wo / yomimashita"
+          },
+          "processingSteps": [
+            {"chunk": "Watashi wa", "meaning": "Chủ đề: Tôi", "action": "Cất vào bộ nhớ ngắn hạn"},
+            {"chunk": "Kinou", "meaning": "Thời gian: Hôm qua", "action": "Thiết lập bối cảnh quá khứ"},
+            {"chunk": "Toshokan de", "meaning": "Địa điểm: Tại thư viện", "action": "Thiết lập không gian"},
+            {"chunk": "Tomodachi to", "meaning": "Đối tác: Với bạn", "action": "Thêm nhân vật phụ"},
+            {"chunk": "Omoshiroi hon wo", "meaning": "Đối tượng: Sách thú vị", "action": "Chuẩn bị cho hành động"},
+            {"chunk": "Yomimashita", "meaning": "Hành động: Đã đọc", "action": "Đóng gói toàn bộ cảnh"}
+          ],
+          "citations": ["⁶", "¹"]
+        },
+        {
+          "id": "3.3",
+          "title": "Quy Trình Đào Tạo: Nhịp Điệu Của Cú Pháp",
+          "steps": [
+            {
+              "name": "Cắt Lát Trực Quan",
+              "instruction": "Đánh dấu ranh giới bunsetsu bằng bút chì",
+              "errorCheck": "Họ có tách rời trợ từ không? → Sửa lại"
+            },
+            {
+              "name": "Đồng Bộ Nghe-Nhìn",
+              "instruction": "Theo dõi khoảng dừng vi mô trong bản ghi âm bản ngữ"
+            },
+            {
+              "name": "Nói Theo Slash",
+              "instruction": "Đọc to, cường điệu hóa khoảng dừng tại dấu gạch chéo"
+            }
+          ],
+          "citations": ["⁸"]
+        }
+      ]
+    },
+    {
+      "id": "part4",
+      "title": "Kỹ Thuật Cốt Lõi 2",
+      "subtitle": "Dự Báo & Ngữ Pháp Tiên Đoán (Anticipation)",
+      "icon": "target",
+      "color": "#D0021B",
+      "introduction": "Khi người học có thể nhìn và nghe thấy các khối, bước tiếp theo là kết nối chúng. Dự Báo biến hành động nghe thụ động thành hành động dự đoán tích cực. Điều này sử dụng nguyên lý Mật Độ Thông Tin Đồng Nhất (UID) để tạo lợi thế cho người học: nếu phần đầu của câu dày đặc các manh mối, phần cuối sẽ trở nên dễ đoán.",
+      "subsections": [
+        {
+          "id": "4.1",
+          "title": "Dự Đoán Dựa Trên Trợ Từ (Lý Thuyết Mũi Tên)",
+          "concept": "Trợ từ là các manh mối chính cho việc dự báo trong tiếng Nhật. Đối với một người nói tiếng Việt, vốn quen với việc động từ quyết định tân ngữ, chúng ta phải đảo ngược logic: Trợ từ quyết định loại động từ.",
+          "particleMatrix": [
+            {
+              "particle": "を (Wo)",
+              "prediction": "Ngoại Động Từ (tác động lên cái gì đó)",
+              "mentalImage": "Đang làm gì đó LÊN cái này",
+              "verbs": ["ăn", "uống", "mua", "đọc", "viết", "đánh", "mở"]
+            },
+            {
+              "particle": "に (Ni)",
+              "prediction": "Chuyển Động / Sự Tồn Tại / Trao Đổi",
+              "mentalImage": "Hướng tới... hoặc Nằm tại...",
+              "verbs": ["iku", "kuru", "iru", "aru", "ageru", "morau"]
+            },
+            {
+              "particle": "で (De)",
+              "prediction": "Hành Động tại địa điểm (hoặc bằng công cụ)",
+              "mentalImage": "Đang hoạt động TẠI...",
+              "verbs": ["chơi", "làm việc", "ngủ", "ăn (tại nhà hàng)"]
+            },
+            {
+              "particle": "が (Ga)",
+              "prediction": "Nội Động Từ / Khả Năng / Mong Muốn",
+              "mentalImage": "Cái này NÓ tự nhiên bị... hoặc NÓ thì...",
+              "verbs": ["rơi", "hỏng", "mưa", "hiểu", "thích", "muốn"]
+            },
+            {
+              "particle": "と (To)",
+              "prediction": "Tương Tác / Trích Dẫn",
+              "mentalImage": "Cùng với... hoặc Rằng...",
+              "verbs": ["gặp", "kết hôn", "nói chuyện", "nghĩ rằng", "nói rằng"]
+            },
+            {
+              "particle": "へ (E)",
+              "prediction": "Phương Hướng",
+              "mentalImage": "Về phía...",
+              "verbs": ["đi", "đến", "về", "rẽ", "hướng tới"]
+            }
+          ],
+          "expertTip": "Nghe 'Kouen ni...' → loại bỏ 'ăn', 'ngủ' (dùng de) → chỉ kích hoạt động từ di chuyển/tồn tại",
+          "citations": ["⁵"]
+        },
+        {
+          "id": "4.2",
+          "title": "Dự Báo Ngữ Nghĩa (Hạn Chế Lựa Chọn)",
+          "examples": [
+            {
+              "input": "Ringo wo... (Táo [tân ngữ])",
+              "cantBe": ["đọc", "lái", "leo"],
+              "likelyBe": ["ăn", "cắt", "mua", "gọt"]
+            },
+            {
+              "input": "Hon wo... (Sách [tân ngữ])",
+              "likelyBe": ["đọc", "mua", "viết"]
+            }
+          ],
+          "exercise": {
+            "name": "Cloze-Listening (Nghe Điền Khuyết)",
+            "instruction": "Phát câu, cắt âm thanh trước động từ cuối",
+            "example": {
+              "audio": "Watashi wa naifu de ringo wo...",
+              "task": "Đoán động từ",
+              "answer": "切りました (đã cắt)"
+            }
+          },
+          "citations": ["⁴"]
+        },
+        {
+          "id": "4.3",
+          "title": "Dự Báo Tình Thái Cuối Câu (Modality)",
+          "adverbialTriggers": [
+            {"trigger": "Moshi... (Nếu...)", "prediction": "...tara/ba/nara (điều kiện)"},
+            {"trigger": "Zenzen... (Hoàn toàn...)", "prediction": "...nai/masen (phủ định)"},
+            {"trigger": "Tabun... (Có lẽ...)", "prediction": "...deshou/kamoshirenai (xác suất)"}
+          ],
+          "benefit": "Thiết lập 'chế độ' của câu ngay từ đầu, giảm cú sốc nhận thức ở cuối câu",
+          "citations": ["⁴"]
+        }
+      ]
+    },
+    {
+      "id": "part5",
+      "title": "Kỹ Thuật Cốt Lõi 3",
+      "subtitle": "Mã Hóa Ngữ Nghĩa & Trực Quan Hóa",
+      "icon": "image",
+      "color": "#9013FE",
+      "introduction": "Sự chuyển đổi nhận thức cuối cùng và quan trọng nhất là Mã Hóa Ngữ Nghĩa (Semantic Encoding). Điều này giải quyết trực tiếp sự 'can thiệp của tiếng Việt'. Chúng ta muốn ngăn chặn quá trình dịch thầm bên trong: Nihon → Nhật Bản và thay thế bằng liên kết: Nihon → [hình ảnh bản đồ Nhật Bản].",
+      "subsections": [
+        {
+          "id": "5.1",
+          "title": "Cơ Chế Mã Hóa Ngữ Nghĩa",
+          "definition": "Mã hóa ngữ nghĩa liên quan đến việc xử lý đầu vào sâu sắc bằng cách tập trung vào ý nghĩa thay vì vỏ bọc ngữ âm hoặc ngữ pháp. Trong bối cảnh phiên dịch, điều này thường được gọi là 'phi ngôn từ hóa' (deverbalization - quên từ để nhớ ý).",
+          "currentStrategy": {
+            "label": "Chiến lược SVO tuyến tính của người Việt",
+            "description": "Về cơ bản là một vòng lặp ngữ âm bề mặt. Họ lặp lại các âm thanh tiếng Nhật hoặc bản dịch tiếng Việt trong đầu."
+          },
+          "targetStrategy": {
+            "label": "Mã hóa ngữ nghĩa",
+            "description": "Thay thế vòng lặp ngữ âm bằng dữ liệu giác quan - hình ảnh, cảm giác, không gian."
+          },
+          "citations": ["⁷", "¹⁰"]
+        },
+        {
+          "id": "5.2",
+          "title": "Image Streaming Trong Học Ngôn Ngữ",
+          "adaptation": {
+            "concept": "Thay vì dịch, người học mô tả 'bộ phim' đang chiếu trong đầu họ.",
+            "application": "Khi nghe một câu tiếng Nhật, người học xây dựng một cảnh trực quan."
+          },
+          "example": {
+            "input": "Neko ga beddo no ue de neteimasu",
+            "linearTranslation": {
+              "output": "Mèo... giường... trên... đang ngủ",
+              "problem": "Rối loạn trật tự"
+            },
+            "imageStream": {
+              "output": "Hình dung một con mèo cuộn tròn trên một chiếc giường trắng",
+              "processing": "Người học liên kết các khối 'Neko' và 'Beddo' vào một hình ảnh không gian duy nhất"
+            }
+          },
+          "whyItWorks": "Hình ảnh trung lập về mặt cấu trúc. Một bức tranh về 'mèo trên giường' không phải là SVO cũng không phải là SOV. Nó là ý nghĩa thuần túy. Bằng cách chuyển đổi đầu vào SOV tiếng Nhật thành hình ảnh không gian, người học bỏ qua xung đột cú pháp với tiếng Việt.",
+          "citations": ["¹¹"]
+        },
+        {
+          "id": "5.3",
+          "title": "Phương Pháp Từ Khóa Gợi Nhớ (Keyword Mnemonic)",
+          "visualCues": [
+            {"particle": "Ni", "meaning": "Điểm đến", "image": "Mũi tên cắm vào bia đích"},
+            {"particle": "De", "meaning": "Bối cảnh", "image": "Sân khấu/đèn sân khấu"},
+            {"particle": "Wo", "meaning": "Tân ngữ", "image": "Tay cầm nắm lấy vật thể"},
+            {"particle": "Wa", "meaning": "Chủ đề", "image": "Khung tranh/nhãn dán"}
+          ],
+          "example": "Watashi wa (Khung tranh quanh Tôi) + Ringo wo (Tay nắm táo) + Tabemasu → Trình tự hình ảnh",
+          "citations": ["¹²"]
+        }
+      ]
+    },
+    {
+      "id": "part6",
+      "title": "Lộ Trình Sư Phạm",
+      "subtitle": "Giáo Trình 'Tiền-Phiên-Dịch' (12 Tuần)",
+      "icon": "calendar",
+      "color": "#50E3C2",
+      "introduction": "Lộ trình này được thiết kế cho người học tiếng Việt (trình độ N4-N3, hoặc N5 vững) để chuyển từ việc dịch sang hiểu trực tiếp. Đây là một chương trình tái cấu trúc nhận thức chuyên sâu kéo dài 12 tuần.",
+      "targetLevel": "N4-N3 hoặc N5 vững",
+      "phases": [
+        {
+          "id": "phase1",
+          "name": "Giai Đoạn 1: Nhận Thức Cấu Trúc",
+          "weeks": "1-4",
+          "goal": "Nhìn thấy Bunsetsu thay vì từ đơn lẻ; đọc trợ từ như mũi tên chỉ dẫn",
+          "activities": [
+            {
+              "week": 1,
+              "name": "Giải phẫu Bunsetsu",
+              "theory": "Nắm vững cấu trúc [Nội dung + Chức năng]",
+              "exercise": "In NHK News Web Easy, dùng bút đỏ gạch chéo sau mỗi trợ từ"
+            },
+            {
+              "week": 2,
+              "name": "Dịch Ngược Khối (Reverse Block Translation)",
+              "exercise": "Dịch nghĩa từng khối theo đúng trật tự tiếng Nhật",
+              "example": "Watashi wa / gakkou e / ikimasu → 'Về phần tôi / hướng tới trường / đi'",
+              "rule": "CẤM sắp xếp lại thành 'Tôi đi đến trường'"
+            },
+            {
+              "week": "3-4",
+              "name": "Shadowing Cấu Trúc (Prosody Shadowing)",
+              "exercise": "Lặp lại theo audio chậm với độ trễ 0.5 giây",
+              "focus": "Bắt chước nhịp điệu ngắt nghỉ, không cần hiểu 100%"
+            }
+          ]
+        },
+        {
+          "id": "phase2",
+          "name": "Giai Đoạn 2: Lắng Nghe Dự Báo",
+          "weeks": "5-8",
+          "goal": "Kích hoạt cơ chế dự đoán; chuyển từ tiếp nhận thụ động sang dự báo tích cực",
+          "activities": [
+            {
+              "week": 5,
+              "name": "Thám Tử Trợ Từ (Particle Detective)",
+              "exercise": "Tập trung chỉ vào trợ từ khi nghe",
+              "mentalTrigger": "Nghe 'ni' → não nảy: 'Đi đâu? Ở đâu?'"
+            },
+            {
+              "week": 6,
+              "name": "Cloze-Listening (Điền khuyết động từ)",
+              "exercise": "Nghe câu bị cắt động từ cuối, đoán hành động"
+            },
+            {
+              "week": "7-8",
+              "name": "Dự Báo Modality",
+              "exercise": "Luyện nghe từ báo hiệu đầu câu (Moshi, Tabun, Zenzen)",
+              "goal": "Dự đoán đuôi câu ngay khi nghe đầu câu"
+            }
+          ]
+        },
+        {
+          "id": "phase3",
+          "name": "Giai Đoạn 3: Tích Hợp Ngữ Nghĩa",
+          "weeks": "9-12",
+          "goal": "Phi ngôn từ hóa; chuyển từ Âm thanh trực tiếp sang Ý nghĩa (Hình ảnh)",
+          "activities": [
+            {
+              "week": 9,
+              "name": "Vẽ Lại Lời Nói (Sketching)",
+              "exercise": "Nghe mô tả, vẽ lại cảnh mà không viết chữ",
+              "check": "Vị trí vật thể có đúng với trợ từ không? (ue, shita, naka)"
+            },
+            {
+              "week": 10,
+              "name": "Sight Translation (Dịch Nhìn)",
+              "exercise": "Cầm văn bản tiếng Nhật, đọc to bằng tiếng Việt theo trật tự khối",
+              "importance": "Bước đệm quan trọng nhất để phá bỏ thói quen dịch ngược"
+            },
+            {
+              "week": "11-12",
+              "name": "Image Streaming Nâng Cao",
+              "exercise": "Nghe hội thoại, tưởng tượng mình là camera quay cảnh",
+              "output": "Kể lại nội dung dựa trên 'bộ phim' trong đầu, không dựa trên từ ngữ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part7",
+      "title": "Ứng Dụng Thực Tế",
+      "subtitle": "Các Bài Tập & Drill Cụ Thể",
+      "icon": "dumbbell",
+      "color": "#BD10E0",
+      "introduction": "Phần này chi tiết hóa các bài tập (drills) được rút ra từ đào tạo phiên dịch, được điều chỉnh cho mục tiêu 'Hiểu Đơn Giản' (không cần output song song áp lực cao).",
+      "drills": [
+        {
+          "id": "drillA",
+          "name": "Dịch Nhìn Ngược (Sight Translation - Modified)",
+          "source": "Agrifoglio (2004) - Sight Translation",
+          "concept": "Nói tiếng Việt theo trật tự từ tiếng Nhật để chứng minh ý nghĩa có thể truy xuất mà không cần đảo cú pháp",
+          "procedure": [
+            "Chọn một câu tiếng Nhật (Minna no Nihongo hoặc NHK Easy News)",
+            "Phân tách bunsetsu bằng mắt",
+            "Nói nghĩa tiếng Việt của từng khối ngay lập tức",
+            "RÀNG BUỘC: Bị cấm sắp xếp lại từ ngữ"
+          ],
+          "example": {
+            "japanese": "Tanaka-san wa / toshokan de / Nihon no rekishi wo / benkyou shiteimasu",
+            "output": "Bác Tanaka thì / tại thư viện / lịch sử Nhật Bản / đang học",
+            "insight": "Câu nghe lủng củng nhưng hoàn toàn hiểu được → bước đột phá: hiểu theo flow"
+          },
+          "citations": ["⁹"]
+        },
+        {
+          "id": "drillB",
+          "name": "Thợ Săn Động Từ (Anticipation Drill)",
+          "source": "Kamide, Altmann & Haywood (2003) - Anticipatory Processing",
+          "concept": "Trò chơi hóa thời gian chờ đợi - 'săn' động từ thay vì 'chờ' lo lắng",
+          "procedure": [
+            "Thiết lập: Danh sách câu có trợ từ hiển thị, động từ bị che",
+            "Nhiệm vụ: Nhìn trợ từ (ni, de, wo), dự đoán động từ",
+            "Xác minh: Dự đoán có gần về mặt ngữ nghĩa không?"
+          ],
+          "successCriteria": "Dự đoán 'ăn', thực tế 'ngấu nghiến' → Thành công",
+          "benefit": "Buộc xử lý sâu các trợ từ",
+          "citations": ["⁴"]
+        },
+        {
+          "id": "drillC",
+          "name": "Phác Thảo Tinh Thần (Semantic Encoding Drill)",
+          "source": "Wenger & Poe (1995) - Image Streaming",
+          "concept": "Sử dụng việc vẽ để thực thi phi ngôn từ hóa",
+          "procedure": [
+            "Đầu vào: Phát câu mô tả",
+            "Hành động: Phác thảo cảnh ra giấy ngay lập tức",
+            "Quy tắc: Không được dùng từ ngữ, chỉ dùng hình khối và màu sắc",
+            "Phản hồi: So sánh bản phác thảo với câu gốc"
+          ],
+          "errorChecks": [
+            "Họ có đặt vật dưới bàn không? (Lỗi trợ từ: no shita vs no ue)",
+            "Họ có vẽ sai màu không? (Lỗi bổ ngữ)"
+          ],
+          "neuroscience": "Tham gia visuospatial sketchpad, giảm tải phonological loop",
+          "citations": ["¹¹", "¹⁰"]
+        }
+      ]
+    },
+    {
+      "id": "part8",
+      "title": "Hàm Ý Thần Kinh Học & Kết Luận",
+      "icon": "graduation-cap",
+      "color": "#417505",
+      "introduction": "Phần cuối cùng tổng hợp các bằng chứng thần kinh học hỗ trợ phương pháp được đề xuất và đưa ra kết luận về cách tiếp cận 'Tiền-Phiên-Dịch'.",
+      "subsections": [
+        {
+          "id": "8.1",
+          "title": "Tính Mềm Dẻo Thần Kinh (Neuroplasticity)",
+          "findings": [
+            "Khi người học SVO mới bắt đầu học SOV → vùng não giải quyết xung đột cú pháp hoạt động quá mức → mệt mỏi",
+            "Với luyện tập Chunking và Dự Báo → não bộ nhận diện patterns",
+            "Chuyển từ xử lý bottom-up (dựa trên dữ liệu) sang top-down (dựa trên dự đoán)",
+            "Kết quả: Giảm đáng kể năng lượng tiêu thụ"
+          ],
+          "citations": ["³", "⁴"]
+        },
+        {
+          "id": "8.2",
+          "title": "Kết Luận",
+          "coreInsight": "Khó khăn mà người Việt gặp phải với tiếng Nhật không phải là khiếm khuyết về trí nhớ, mà là sự xung đột của các chiến lược xử lý. Sự 'tràn ngăn xếp' xảy ra bởi vì não bộ SVO cố gắng đóng các phụ thuộc một cách tuyến tính, trong khi đầu vào SOV đòi hỏi bộ đệm phân cấp.",
+          "solutions": [
+            {"technique": "Phân Tách Khối (Chunking)", "benefit": "Giảm tải cho bộ nhớ làm việc"},
+            {"technique": "Dự Báo (Anticipation)", "benefit": "Biến sự chờ đợi thụ động thành sự xây dựng tích cực"},
+            {"technique": "Mã Hóa Ngữ Nghĩa (Semantic Encoding)", "benefit": "Đi đường tắt qua quá trình dịch thuật chậm chạp và dễ lỗi"}
+          ],
+          "approachPurpose": "Cách tiếp cận 'Tiền-Phiên-Dịch' này không nhằm mục đích tạo ra các phiên dịch viên, mà để tạo ra những người tư duy bằng tiếng Nhật.",
+          "ultimateGoal": "Mục tiêu cuối cùng của giáo trình này là lập trình lại não bộ của người học tiếng Việt để chấp nhận 'Chủ ngữ → Tân ngữ → Động từ' không phải như một quy tắc ngữ pháp cần ghi nhớ, mà như một dòng chảy tự nhiên của thực tế: Diễn viên xuất hiện, Sân khấu được thiết lập, Đối tượng được xác định, và cuối cùng, Hành động hoàn thiện thế giới."
+        }
+      ]
+    }
+  ],
+  "comparisonTable": {
+    "title": "So Sánh Tải Trọng Nhận Thức",
+    "columns": ["Đặc Điểm", "Xử Lý Tuyến Tính (Hiện Tại)", "Xử Lý Cấu Trúc (Mục Tiêu)"],
+    "rows": [
+      {"feature": "Đơn vị xử lý", "current": "Từ đơn lẻ (Words)", "target": "Cụm từ (Bunsetsu)"},
+      {"feature": "Chiến lược bộ nhớ", "current": "Xếp chồng (Stack) - Chờ xử lý", "target": "Tích hợp (Integrate) - Xử lý ngay"},
+      {"feature": "Tải trọng não bộ", "current": "Cao (Giữ từ vựng chờ sắp xếp)", "target": "Thấp (Chuyển sang hình ảnh)"},
+      {"feature": "Vai trò trợ từ", "current": "Nhãn ngữ pháp (vô nghĩa đứng một mình)", "target": "Mũi tên dự báo (gợi ý hành động tiếp)"},
+      {"feature": "Kết quả đầu ra", "current": "Dịch thầm tiếng Việt (chậm, sai ngữ pháp)", "target": "Hiểu ý nghĩa trực tiếp (nhanh, chính xác)"}
+    ]
+  },
+  "references": {
+    "primary": [
+      {
+        "id": 1,
+        "citation": "Gibson, E. (1998). Linguistic complexity: locality of syntactic dependencies. Cognition, 68(1), 1-76.",
+        "doi": "10.1016/S0010-0277(98)00034-1",
+        "topic": "Dependency Locality Theory"
+      },
+      {
+        "id": 2,
+        "citation": "Gibson, E. (2000). The dependency locality theory: A distance-based theory of linguistic complexity. In Image, language, brain (pp. 95-126). MIT Press.",
+        "topic": "DLT Development"
+      },
+      {
+        "id": 3,
+        "citation": "Futrell, R., Mahowald, K., & Gibson, E. (2015). Large-scale evidence of dependency length minimization in 37 languages. PNAS, 112(33), 10336-10341.",
+        "doi": "10.1073/pnas.1502134112",
+        "topic": "Dependency Length Minimization"
+      },
+      {
+        "id": 4,
+        "citation": "Levy, R., & Jaeger, T. F. (2007). Speakers optimize information density through syntactic reduction. NIPS 19, 849-856.",
+        "topic": "Uniform Information Density"
+      },
+      {
+        "id": 5,
+        "citation": "Jaeger, T. F. (2010). Redundancy and reduction: Speakers manage syntactic information density. Cognitive Psychology, 61(1), 23-62.",
+        "doi": "10.1016/j.cogpsych.2010.02.002",
+        "topic": "UID Development"
+      },
+      {
+        "id": 6,
+        "citation": "Hale, J. (2001). A probabilistic Earley parser as a psycholinguistic model. NAACL Proceedings, 159-166.",
+        "topic": "Surprisal Theory"
+      },
+      {
+        "id": 7,
+        "citation": "Levy, R. (2008). Expectation-based syntactic comprehension. Cognition, 106(3), 1126-1177.",
+        "doi": "10.1016/j.cognition.2007.05.006",
+        "topic": "Expectation-based Processing"
+      },
+      {
+        "id": 8,
+        "citation": "Kamide, Y., Altmann, G. T. M., & Haywood, S. L. (2003). The time-course of prediction in incremental sentence processing. Journal of Memory and Language, 49(1), 133-156.",
+        "doi": "10.1016/S0749-596X(03)00023-8",
+        "topic": "Anticipatory Eye Movements"
+      },
+      {
+        "id": 9,
+        "citation": "Kamide, Y. (2008). Anticipatory processes in sentence processing. Language and Linguistics Compass, 2(4), 647-670.",
+        "doi": "10.1111/j.1749-818X.2008.00072.x",
+        "topic": "Anticipatory Processing Review"
+      },
+      {
+        "id": 10,
+        "citation": "Mitsugi, S. (2015). The use of case marking for predictive processing in second language Japanese. Bilingualism: Language and Cognition, 18(3), 1-18.",
+        "doi": "10.1017/S1366728914000662",
+        "topic": "L2 Predictive Processing"
+      },
+      {
+        "id": 11,
+        "citation": "Kotz, S. A., et al. (2010). Lexicality drives audio-motor transformations in Broca's area. Brain and Language, 112(1), 3-11.",
+        "topic": "Broca's Area"
+      },
+      {
+        "id": 12,
+        "citation": "Kinno, R., et al. (2008). Neural correlates of noncanonical syntactic processing. Human Brain Mapping, 29(9), 1015-1027.",
+        "topic": "fMRI SOV/OSV Processing"
+      },
+      {
+        "id": 13,
+        "citation": "Yasunaga, D., et al. (2015). Greater left inferior frontal activation for SVO than VOS. Frontiers in Psychology, 6, 1541.",
+        "doi": "10.3389/fpsyg.2015.01541",
+        "topic": "Left IFG Activation"
+      },
+      {
+        "id": 14,
+        "citation": "Yokoyama, S., et al. (2012). Cross-linguistic difference in canonical word order affects brain responses. The Open Medical Imaging Journal, 6, 62-72.",
+        "topic": "Cross-linguistic Brain Responses"
+      },
+      {
+        "id": 15,
+        "citation": "Just, M. A., & Carpenter, P. A. (1992). A capacity theory of comprehension. Psychological Review, 99(1), 122-149.",
+        "doi": "10.1037/0033-295x.99.1.122",
+        "topic": "Working Memory Capacity"
+      },
+      {
+        "id": 16,
+        "citation": "Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? Trends in Cognitive Sciences, 4(11), 417-423.",
+        "topic": "Working Memory Model"
+      },
+      {
+        "id": 17,
+        "citation": "Hattori, S. (1960). Bunsetsu ni tsuite. In Gengogaku no Hoohoo. Tokyo: Iwanami Shoten.",
+        "topic": "Bunsetsu Definition"
+      },
+      {
+        "id": 18,
+        "citation": "Kurohashi, S., & Nagao, M. (1994). A syntactic analysis method of long Japanese sentences. Computational Linguistics, 20(4), 507-534.",
+        "topic": "Japanese Syntax Analysis"
+      },
+      {
+        "id": 19,
+        "citation": "Seleskovitch, D. (1968). L'interprète dans les conférences internationales. Paris: Minard.",
+        "topic": "Interpretation Theory"
+      },
+      {
+        "id": 20,
+        "citation": "Seleskovitch, D., & Lederer, M. (1984). Interpréter pour traduire. Paris: Didier Erudition.",
+        "topic": "Théorie du Sens"
+      },
+      {
+        "id": 21,
+        "citation": "Lederer, M. (2003). Translation: The interpretive model. Manchester: St. Jerome Publishing.",
+        "topic": "Interpretive Model"
+      },
+      {
+        "id": 22,
+        "citation": "Lambert, S. (1992). Shadowing. Meta: Translators' Journal, 37(2), 263-273.",
+        "doi": "10.7202/002570ar",
+        "topic": "Shadowing Technique"
+      },
+      {
+        "id": 23,
+        "citation": "Tamai, K. (1997). The effectiveness of shadowing for listening comprehension. Current English Studies, 36, 105-116.",
+        "topic": "Shadowing in Language Learning"
+      },
+      {
+        "id": 24,
+        "citation": "Hamada, Y. (2019). Shadowing: What is it? How to use it. Where will it go? RELC Journal, 50(3), 386-393.",
+        "doi": "10.1177/0033688218771380",
+        "topic": "Shadowing Review"
+      },
+      {
+        "id": 25,
+        "citation": "Agrifoglio, M. (2004). Sight translation and interpreting: A comparative analysis. Interpreting, 6(1), 43-67.",
+        "doi": "10.1075/intp.6.1.05agr",
+        "topic": "Sight Translation"
+      },
+      {
+        "id": 26,
+        "citation": "Li, X. (2014). Sight translation as a topic in interpreting research. Across Languages and Cultures, 15(2), 173-196.",
+        "topic": "Sight Translation Research"
+      },
+      {
+        "id": 27,
+        "citation": "Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing. Journal of Verbal Learning and Verbal Behavior, 11(6), 671-684.",
+        "topic": "Levels of Processing"
+      },
+      {
+        "id": 28,
+        "citation": "Paivio, A. (1991). Dual coding theory: Retrospect and current status. Canadian Journal of Psychology, 45(3), 255-287.",
+        "topic": "Dual Coding Theory"
+      },
+      {
+        "id": 29,
+        "citation": "Wenger, W., & Poe, R. (1995). The Einstein Factor. Rocklin, CA: Prima Publishing.",
+        "topic": "Image Streaming"
+      },
+      {
+        "id": 30,
+        "citation": "Atkinson, R. C. (1975). Mnemotechnics in second-language learning. American Psychologist, 30(8), 821-828.",
+        "topic": "Keyword Method"
+      },
+      {
+        "id": 31,
+        "citation": "Pressley, M., Levin, J. R., & Delaney, H. D. (1982). The mnemonic keyword method. Review of Educational Research, 52(1), 61-91.",
+        "topic": "Keyword Mnemonic Meta-analysis"
+      }
+    ],
+    "citationMapping": {
+      "¹": "Gibson (1998) + Futrell et al. (2015) - Dependency Length",
+      "²": "Levy & Jaeger (2007) + Jaeger (2010) - UID",
+      "³": "Kinno et al. (2008) + Yasunaga et al. (2015) - Left IFG fMRI",
+      "⁴": "Kamide, Altmann & Haywood (2003) - Anticipatory Processing",
+      "⁵": "Mitsugi (2015) - L2 Case Marking",
+      "⁶": "Hattori (1960) - Bunsetsu",
+      "⁷": "Seleskovitch (1968) + Seleskovitch & Lederer (1984) - Deverbalization",
+      "⁸": "Lambert (1992) - Shadowing",
+      "⁹": "Agrifoglio (2004) - Sight Translation",
+      "¹⁰": "Just & Carpenter (1992) - Working Memory",
+      "¹¹": "Wenger & Poe (1995) - Image Streaming",
+      "¹²": "Atkinson (1975) + Pressley et al. (1982) - Keyword Mnemonic"
+    }
+  },
+  "glossary": {
+    "title": "Thuật Ngữ & Viết Tắt",
+    "description": "Giải thích các thuật ngữ tiếng Anh và viết tắt được sử dụng trong tài liệu",
+    "categories": {
+      "wordOrder": {
+        "title": "Trật Tự Từ (Word Order)",
+        "terms": [
+          {
+            "term": "SVO",
+            "fullForm": "Subject-Verb-Object",
+            "vietnamese": "Chủ ngữ - Động từ - Tân ngữ",
+            "explanation": "Trật tự từ điển hình của tiếng Việt và tiếng Anh. Ví dụ: 'Tôi (S) ăn (V) cơm (O)'"
+          },
+          {
+            "term": "SOV",
+            "fullForm": "Subject-Object-Verb",
+            "vietnamese": "Chủ ngữ - Tân ngữ - Động từ",
+            "explanation": "Trật tự từ điển hình của tiếng Nhật. Ví dụ: 'Watashi wa (S) gohan wo (O) tabemasu (V)' = Tôi cơm ăn"
+          },
+          {
+            "term": "OSV",
+            "fullForm": "Object-Subject-Verb",
+            "vietnamese": "Tân ngữ - Chủ ngữ - Động từ",
+            "explanation": "Trật tự từ đảo ngược, đặt tân ngữ lên đầu câu để nhấn mạnh"
+          },
+          {
+            "term": "VOS",
+            "fullForm": "Verb-Object-Subject",
+            "vietnamese": "Động từ - Tân ngữ - Chủ ngữ",
+            "explanation": "Trật tự từ hiếm gặp, xuất hiện trong một số ngôn ngữ như tiếng Malagasy"
+          }
+        ]
+      },
+      "linguisticTheories": {
+        "title": "Lý Thuyết Ngôn Ngữ Học",
+        "terms": [
+          {
+            "term": "UID",
+            "fullForm": "Uniform Information Density",
+            "vietnamese": "Mật Độ Thông Tin Đồng Nhất",
+            "explanation": "Lý thuyết cho rằng người nói tự nhiên phân bổ thông tin đều đặn trong câu để tối ưu hóa việc xử lý của người nghe"
+          },
+          {
+            "term": "DLT",
+            "fullForm": "Dependency Locality Theory",
+            "vietnamese": "Lý Thuyết Địa Phương Phụ Thuộc",
+            "explanation": "Lý thuyết của Gibson (1998) cho rằng khoảng cách giữa các từ phụ thuộc nhau (ví dụ: chủ ngữ và động từ) ảnh hưởng đến độ khó xử lý"
+          },
+          {
+            "term": "Surprisal",
+            "fullForm": "Surprisal Theory",
+            "vietnamese": "Lý Thuyết Ngạc Nhiên",
+            "explanation": "Thước đo độ bất ngờ của một từ trong ngữ cảnh. Từ càng khó đoán trước → surprisal càng cao → não xử lý chậm hơn"
+          },
+          {
+            "term": "Bunsetsu",
+            "fullForm": "文節 (Bunsetsu)",
+            "vietnamese": "Đơn Vị Ngữ Đoạn",
+            "explanation": "Đơn vị cú pháp cơ bản trong tiếng Nhật, gồm một từ nội dung + các từ chức năng đi kèm (trợ từ, trợ động từ). Ví dụ: 'Nihon ni' (Đến Nhật) là một bunsetsu"
+          }
+        ]
+      },
+      "neuroscience": {
+        "title": "Thuật Ngữ Thần Kinh Học",
+        "terms": [
+          {
+            "term": "IFG",
+            "fullForm": "Inferior Frontal Gyrus",
+            "vietnamese": "Hồi Trán Dưới",
+            "explanation": "Vùng não (bao gồm vùng Broca) liên quan đến xử lý ngôn ngữ. Hoạt động mạnh hơn khi xử lý cấu trúc SOV phức tạp"
+          },
+          {
+            "term": "Left IFG",
+            "fullForm": "Left Inferior Frontal Gyrus",
+            "vietnamese": "Hồi Trán Dưới Trái",
+            "explanation": "Vùng não trái chuyên xử lý cú pháp và ngữ pháp. Được kích hoạt mạnh khi gặp cấu trúc câu phức tạp"
+          },
+          {
+            "term": "fMRI",
+            "fullForm": "functional Magnetic Resonance Imaging",
+            "vietnamese": "Chụp Cộng Hưởng Từ Chức Năng",
+            "explanation": "Kỹ thuật hình ảnh não bộ đo lường hoạt động thần kinh thông qua thay đổi lưu lượng máu"
+          },
+          {
+            "term": "Neuroplasticity",
+            "fullForm": "Neural Plasticity",
+            "vietnamese": "Tính Mềm Dẻo Thần Kinh",
+            "explanation": "Khả năng của não bộ thay đổi và tái cấu trúc thông qua học tập và luyện tập"
+          },
+          {
+            "term": "Working Memory",
+            "fullForm": "Working Memory",
+            "vietnamese": "Bộ Nhớ Làm Việc",
+            "explanation": "Hệ thống nhận thức giữ và xử lý thông tin tạm thời. Có dung lượng giới hạn (khoảng 4-7 mục)"
+          },
+          {
+            "term": "Phonological Loop",
+            "fullForm": "Phonological Loop",
+            "vietnamese": "Vòng Lặp Âm Vị",
+            "explanation": "Thành phần của bộ nhớ làm việc chuyên xử lý thông tin ngôn ngữ/âm thanh. Lặp lại âm thanh trong đầu"
+          },
+          {
+            "term": "Visuospatial Sketchpad",
+            "fullForm": "Visuospatial Sketchpad",
+            "vietnamese": "Bản Phác Thảo Thị Giác-Không Gian",
+            "explanation": "Thành phần của bộ nhớ làm việc xử lý thông tin hình ảnh và không gian"
+          }
+        ]
+      },
+      "processingTypes": {
+        "title": "Kiểu Xử Lý Nhận Thức",
+        "terms": [
+          {
+            "term": "Top-down Processing",
+            "fullForm": "Top-down Processing",
+            "vietnamese": "Xử Lý Từ Trên Xuống",
+            "explanation": "Xử lý dựa trên kiến thức, kỳ vọng và ngữ cảnh có sẵn để hiểu thông tin mới. Dự đoán trước rồi xác nhận"
+          },
+          {
+            "term": "Bottom-up Processing",
+            "fullForm": "Bottom-up Processing",
+            "vietnamese": "Xử Lý Từ Dưới Lên",
+            "explanation": "Xử lý dựa trên dữ liệu đầu vào trực tiếp, từ chi tiết nhỏ ghép lại thành tổng thể. Nghe từng từ rồi ghép nghĩa"
+          },
+          {
+            "term": "Incremental Processing",
+            "fullForm": "Incremental Processing",
+            "vietnamese": "Xử Lý Gia Tăng",
+            "explanation": "Xử lý ngôn ngữ theo từng đơn vị nhỏ ngay khi nhận được, không chờ đến cuối câu"
+          },
+          {
+            "term": "Anticipatory Processing",
+            "fullForm": "Anticipatory Processing",
+            "vietnamese": "Xử Lý Dự Báo",
+            "explanation": "Khả năng dự đoán từ/cấu trúc tiếp theo dựa trên ngữ cảnh hiện tại. Người bản ngữ SOV dự đoán động từ từ trợ từ"
+          }
+        ]
+      },
+      "techniques": {
+        "title": "Kỹ Thuật Học Tập & Phiên Dịch",
+        "terms": [
+          {
+            "term": "Chunking",
+            "fullForm": "Chunking",
+            "vietnamese": "Phân Tách Khối",
+            "explanation": "Kỹ thuật nhóm thông tin thành các đơn vị lớn hơn để giảm tải bộ nhớ. Ví dụ: nhóm từ thành bunsetsu"
+          },
+          {
+            "term": "Shadowing",
+            "fullForm": "Shadowing",
+            "vietnamese": "Kỹ Thuật Bóng",
+            "explanation": "Kỹ thuật lặp lại ngay lập tức những gì nghe được với độ trễ 0.5-2 giây. Được sử dụng trong đào tạo phiên dịch"
+          },
+          {
+            "term": "Sight Translation",
+            "fullForm": "Sight Translation",
+            "vietnamese": "Dịch Nhìn",
+            "explanation": "Kỹ thuật đọc văn bản nguồn và nói bản dịch ngay lập tức, không viết. Giúp xây dựng phản xạ dịch"
+          },
+          {
+            "term": "Deverbalization",
+            "fullForm": "Déverbalisation",
+            "vietnamese": "Phi Ngôn Từ Hóa",
+            "explanation": "Quá trình 'quên' từ ngữ bề mặt để giữ lại ý nghĩa/khái niệm. Trung tâm của Théorie du Sens (Lý thuyết Nghĩa)"
+          },
+          {
+            "term": "Semantic Encoding",
+            "fullForm": "Semantic Encoding",
+            "vietnamese": "Mã Hóa Ngữ Nghĩa",
+            "explanation": "Quá trình chuyển đổi thông tin ngôn ngữ thành ý nghĩa/hình ảnh trong tâm trí thay vì giữ nguyên dạng từ vựng"
+          },
+          {
+            "term": "Image Streaming",
+            "fullForm": "Image Streaming",
+            "vietnamese": "Dòng Chảy Hình Ảnh",
+            "explanation": "Kỹ thuật của Wenger: mô tả liên tục bằng lời những hình ảnh xuất hiện trong tâm trí, tăng cường tư duy trực quan"
+          },
+          {
+            "term": "Keyword Mnemonic",
+            "fullForm": "Keyword Mnemonic Method",
+            "vietnamese": "Phương Pháp Từ Khóa Gợi Nhớ",
+            "explanation": "Kỹ thuật ghi nhớ từ vựng bằng cách liên kết từ mới với hình ảnh hoặc từ quen thuộc có âm tương tự"
+          },
+          {
+            "term": "Slash Reading",
+            "fullForm": "Slash Reading",
+            "vietnamese": "Đọc Ngắt / Đọc Gạch Chéo",
+            "explanation": "Kỹ thuật đánh dấu ranh giới giữa các cụm từ (bunsetsu) bằng dấu gạch chéo để luyện tập nhận diện cấu trúc"
+          },
+          {
+            "term": "Prosody Shadowing",
+            "fullForm": "Prosody Shadowing",
+            "vietnamese": "Shadowing Ngữ Điệu",
+            "explanation": "Biến thể của shadowing tập trung vào nhịp điệu, ngữ điệu và khoảng dừng thay vì nội dung từ vựng"
+          },
+          {
+            "term": "Cloze-Listening",
+            "fullForm": "Cloze Listening Exercise",
+            "vietnamese": "Nghe Điền Khuyết",
+            "explanation": "Bài tập nghe với phần âm thanh bị cắt (thường là động từ cuối), yêu cầu người học đoán từ bị thiếu"
+          }
+        ]
+      },
+      "jlptLevels": {
+        "title": "Cấp Độ JLPT",
+        "terms": [
+          {
+            "term": "JLPT",
+            "fullForm": "Japanese Language Proficiency Test",
+            "vietnamese": "Kỳ Thi Năng Lực Tiếng Nhật",
+            "explanation": "Kỳ thi chuẩn hóa đánh giá năng lực tiếng Nhật cho người không phải bản ngữ"
+          },
+          {
+            "term": "N5",
+            "fullForm": "JLPT Level N5",
+            "vietnamese": "Cấp Độ N5",
+            "explanation": "Cấp độ sơ cấp nhất. Hiểu được tiếng Nhật cơ bản trong một số tình huống"
+          },
+          {
+            "term": "N4",
+            "fullForm": "JLPT Level N4",
+            "vietnamese": "Cấp Độ N4",
+            "explanation": "Cấp độ sơ cấp. Hiểu được tiếng Nhật cơ bản trong các tình huống hàng ngày"
+          },
+          {
+            "term": "N3",
+            "fullForm": "JLPT Level N3",
+            "vietnamese": "Cấp Độ N3",
+            "explanation": "Cấp độ trung cấp. Hiểu được tiếng Nhật trong nhiều tình huống hàng ngày"
+          }
+        ]
+      },
+      "linguisticTerms": {
+        "title": "Thuật Ngữ Ngôn Ngữ Học Khác",
+        "terms": [
+          {
+            "term": "L1",
+            "fullForm": "First Language",
+            "vietnamese": "Ngôn Ngữ Thứ Nhất / Tiếng Mẹ Đẻ",
+            "explanation": "Ngôn ngữ học từ nhỏ, ngôn ngữ bản ngữ"
+          },
+          {
+            "term": "L2",
+            "fullForm": "Second Language",
+            "vietnamese": "Ngôn Ngữ Thứ Hai",
+            "explanation": "Ngôn ngữ học sau tiếng mẹ đẻ, ngôn ngữ ngoại ngữ"
+          },
+          {
+            "term": "Modality",
+            "fullForm": "Grammatical Modality",
+            "vietnamese": "Tình Thái",
+            "explanation": "Yếu tố ngữ pháp biểu thị thái độ của người nói: khẳng định, phủ định, khả năng, mong muốn, v.v."
+          },
+          {
+            "term": "Pre-head Modification",
+            "fullForm": "Pre-head Modification",
+            "vietnamese": "Bổ Ngữ Trước Danh Từ",
+            "explanation": "Cấu trúc đặt mệnh đề quan hệ/bổ ngữ TRƯỚC danh từ chính (tiếng Nhật) thay vì sau (tiếng Việt)"
+          },
+          {
+            "term": "Relative Clause",
+            "fullForm": "Relative Clause",
+            "vietnamese": "Mệnh Đề Quan Hệ",
+            "explanation": "Mệnh đề bổ nghĩa cho danh từ. Tiếng Việt: đi sau ('Người đàn ông MÀ TÔI GẶP'). Tiếng Nhật: đi trước"
+          }
+        ]
+      },
+      "japaneseParticles": {
+        "title": "Trợ Từ Tiếng Nhật",
+        "terms": [
+          {
+            "term": "は (wa)",
+            "fullForm": "Topic Marker",
+            "vietnamese": "Trợ Từ Chủ Đề",
+            "explanation": "Đánh dấu chủ đề của câu - 'Về phần... thì...'. Không nhất thiết là chủ ngữ ngữ pháp"
+          },
+          {
+            "term": "が (ga)",
+            "fullForm": "Subject Marker",
+            "vietnamese": "Trợ Từ Chủ Ngữ",
+            "explanation": "Đánh dấu chủ ngữ ngữ pháp. Thường dùng với động từ nội động từ, khả năng, mong muốn"
+          },
+          {
+            "term": "を (wo/o)",
+            "fullForm": "Object Marker",
+            "vietnamese": "Trợ Từ Tân Ngữ",
+            "explanation": "Đánh dấu tân ngữ trực tiếp - đối tượng chịu tác động của hành động"
+          },
+          {
+            "term": "に (ni)",
+            "fullForm": "Direction/Location Marker",
+            "vietnamese": "Trợ Từ Hướng/Vị Trí",
+            "explanation": "Chỉ điểm đến, thời điểm, hoặc vị trí tồn tại. 'Hướng tới... / Tại... / Vào lúc...'"
+          },
+          {
+            "term": "で (de)",
+            "fullForm": "Location of Action/Means Marker",
+            "vietnamese": "Trợ Từ Địa Điểm Hành Động/Phương Tiện",
+            "explanation": "Chỉ nơi hành động xảy ra hoặc phương tiện/công cụ. 'Tại... / Bằng...'"
+          },
+          {
+            "term": "と (to)",
+            "fullForm": "Quotation/Accompaniment Marker",
+            "vietnamese": "Trợ Từ Trích Dẫn/Đồng Hành",
+            "explanation": "Dùng trong trích dẫn ('...rằng') hoặc chỉ người đi cùng ('cùng với...')"
+          },
+          {
+            "term": "へ (e)",
+            "fullForm": "Direction Marker",
+            "vietnamese": "Trợ Từ Hướng",
+            "explanation": "Chỉ hướng di chuyển, nhấn mạnh phương hướng hơn là điểm đến cụ thể"
+          }
+        ]
+      }
+    }
+  }
+}

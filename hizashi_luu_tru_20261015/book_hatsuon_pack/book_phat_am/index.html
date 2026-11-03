@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HIZASHI - Sách Phát Âm Tiếng Nhật</title>
+    <style>
+        :root {
+            --primary: #1e88e5;
+            --primary-dark: #1565c0;
+            --secondary: #2c3e50;
+            --accent: #42a5f5;
+            --bg-light: #f5f8fa;
+            --bg-paper: #ffffff;
+            --text-dark: #2c3e50;
+            --text-muted: #7f8c8d;
+            --border: #e0e0e0;
+            --shadow: rgba(0,0,0,0.1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', 'Noto Sans', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            line-height: 1.7;
+            color: var(--text-dark);
+        }
+
+        .book-container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: var(--bg-paper);
+            box-shadow: 0 0 60px rgba(0,0,0,0.3);
+            min-height: 100vh;
+        }
+
+        /* Cover */
+        .cover-page {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 80px 40px;
+            text-align: center;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+        }
+
+        .cover-page::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Ccircle cx='20' cy='20' r='5'/%3E%3C/g%3E%3C/svg%3E");
+        }
+
+        .cover-content { position: relative; z-index: 1; }
+        .cover-page h1 { font-size: 4rem; font-weight: 300; letter-spacing: 0.3em; margin-bottom: 20px; }
+        .cover-page .subtitle { font-size: 1.8rem; font-weight: 300; margin-bottom: 40px; opacity: 0.9; }
+        .cover-page .icon-display { font-size: 5rem; margin: 40px 0; }
+        .cover-page .author { font-size: 1.2rem; margin-top: 60px; opacity: 0.8; letter-spacing: 0.2em; }
+
+        /* TOC */
+        .toc { padding: 60px 50px; background: var(--bg-light); border-bottom: 3px double var(--border); }
+        .toc h2 { font-size: 2rem; color: var(--primary); margin-bottom: 30px; text-align: center; }
+        .toc-list { list-style: none; }
+        .toc-item {
+            padding: 15px 20px;
+            border-bottom: 1px dotted var(--border);
+            display: flex;
+            justify-content: space-between;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .toc-item:hover { background: rgba(30, 136, 229, 0.1); padding-left: 30px; }
+        .toc-item .title { font-size: 1.1rem; color: var(--secondary); }
+        .toc-item .part-num { color: var(--primary); font-weight: bold; }
+
+        /* Content */
+        .content-section { padding: 50px; border-bottom: 1px solid var(--border); }
+        .content-section:nth-child(even) { background: var(--bg-light); }
+
+        .part-header {
+            text-align: center;
+            padding: 40px 0;
+            margin-bottom: 40px;
+            border-bottom: 2px solid var(--primary);
+            position: relative;
+        }
+        .part-header::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 4px;
+            background: var(--primary);
+        }
+        .part-number { font-size: 1rem; color: var(--primary); letter-spacing: 0.3em; text-transform: uppercase; margin-bottom: 10px; }
+        .part-title { font-size: 2.2rem; color: var(--secondary); font-weight: 400; }
+
+        .chapter { margin-bottom: 50px; }
+        .chapter-title {
+            font-size: 1.6rem;
+            color: var(--primary);
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .chapter-title::before { content: '🔊'; font-size: 1.5rem; }
+
+        .section { margin-bottom: 30px; padding-left: 20px; border-left: 3px solid transparent; transition: border-color 0.3s; }
+        .section:hover { border-left-color: var(--primary); }
+        .section-title { font-size: 1.2rem; color: var(--secondary); margin-bottom: 15px; font-weight: 600; }
+
+        /* Tables */
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.95rem;
+            box-shadow: 0 2px 10px var(--shadow);
+        }
+        .data-table th { background: var(--primary); color: white; padding: 12px 15px; text-align: left; }
+        .data-table td { padding: 12px 15px; border-bottom: 1px solid var(--border); }
+        .data-table tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+        .data-table tr:hover { background: rgba(30, 136, 229, 0.05); }
+
+        /* Cards */
+        .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; margin: 20px 0; }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 10px var(--shadow);
+            border-left: 4px solid var(--primary);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .card:hover { transform: translateY(-3px); box-shadow: 0 5px 20px var(--shadow); }
+        .card-title { font-size: 1.1rem; color: var(--primary); margin-bottom: 10px; font-weight: 600; }
+
+        /* Comparison Box */
+        .comparison-box {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .comparison-side {
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .comparison-side.vn { background: #e8f5e9; border-left: 4px solid #4caf50; }
+        .comparison-side.jp { background: #e3f2fd; border-left: 4px solid #2196f3; }
+        .comparison-side h4 { margin-bottom: 10px; }
+
+        /* Mora Display */
+        .mora-display {
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+            margin: 15px 0;
+        }
+        .mora {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 40px;
+            height: 40px;
+            background: var(--secondary);
+            color: white;
+            border-radius: 5px;
+            font-size: 1.1rem;
+            padding: 0 10px;
+        }
+        .mora.high { background: #e53935; }
+        .mora.low { background: #1565c0; }
+
+        /* Pitch Pattern */
+        .pitch-pattern {
+            display: flex;
+            align-items: flex-end;
+            gap: 2px;
+            margin: 15px 0;
+            padding: 20px;
+            background: #f5f5f5;
+            border-radius: 8px;
+        }
+        .pitch-unit {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 5px;
+        }
+        .pitch-bar {
+            width: 30px;
+            background: var(--primary);
+            border-radius: 3px;
+            transition: height 0.3s;
+        }
+        .pitch-bar.high { height: 60px; background: #e53935; }
+        .pitch-bar.low { height: 30px; background: #1565c0; }
+        .pitch-label { font-size: 0.9rem; }
+
+        /* Rule Box */
+        .rule-box {
+            background: linear-gradient(135deg, #e3f2fd 0%, #fff 100%);
+            border: 2px solid var(--primary);
+            border-radius: 10px;
+            padding: 25px;
+            margin: 25px 0;
+            position: relative;
+        }
+        .rule-box::before {
+            content: '★ QUY TẮC';
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            background: var(--primary);
+            color: white;
+            padding: 3px 15px;
+            border-radius: 15px;
+            font-size: 0.85rem;
+        }
+
+        /* Warning Box */
+        .warning-box {
+            background: #fff3e0;
+            border-left: 4px solid #ff9800;
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        /* Allophone Table */
+        .allophone-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 15px 0;
+            box-shadow: 0 2px 10px var(--shadow);
+        }
+        .allophone-card .symbol {
+            font-size: 2rem;
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+
+        /* Step Process */
+        .steps {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .step {
+            display: flex;
+            gap: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px var(--shadow);
+            align-items: flex-start;
+        }
+        .step-number {
+            width: 40px;
+            height: 40px;
+            background: var(--primary);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        .step-content h4 { color: var(--primary); margin-bottom: 10px; }
+
+        /* Navigation */
+        .nav-fixed {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: white;
+            border-radius: 50px;
+            padding: 10px;
+            box-shadow: 0 5px 20px var(--shadow);
+            z-index: 1000;
+            display: flex;
+            gap: 10px;
+        }
+        .nav-btn {
+            width: 40px;
+            height: 40px;
+            border: none;
+            background: var(--bg-light);
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 1.2rem;
+            transition: all 0.3s;
+        }
+        .nav-btn:hover { background: var(--primary); color: white; }
+
+        .loading { text-align: center; padding: 100px; color: var(--text-muted); }
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid var(--border);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .book-footer { background: var(--secondary); color: white; text-align: center; padding: 40px; }
+        .book-footer p { opacity: 0.8; }
+
+        @media (max-width: 768px) {
+            .cover-page h1 { font-size: 2.5rem; }
+            .content-section { padding: 30px 20px; }
+            .comparison-box { grid-template-columns: 1fr; }
+            .nav-fixed { display: none; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav-fixed">
+        <button class="nav-btn" onclick="scrollToTop()" title="Lên đầu">↑</button>
+        <button class="nav-btn" onclick="toggleToc()" title="Mục lục">☰</button>
+        <button class="nav-btn" onclick="window.print()" title="In">🖨</button>
+    </nav>
+
+    <div class="book-container" id="book">
+        <div class="loading" id="loading">
+            <div class="loading-spinner"></div>
+            <p>Đang tải sách...</p>
+        </div>
+    </div>
+
+    <script>
+        const jsonFiles = [
+            'data/phat_am_part1_nen_tang.json',
+            'data/phat_am_part2_bien_am.json',
+            'data/phat_am_part3_truong_am.json',
+            'data/phat_am_part4_shadowing.json',
+            'data/phat_am_part5_bai_tap.json'
+        ];
+
+        async function loadAllData() {
+            try {
+                const promises = jsonFiles.map(file =>
+                    fetch(file).then(res => {
+                        if (!res.ok) throw new Error(`Failed to load ${file}`);
+                        return res.json();
+                    })
+                );
+                return await Promise.all(promises);
+            } catch (error) {
+                console.error('Error loading data:', error);
+                return null;
+            }
+        }
+
+        async function renderBook() {
+            const data = await loadAllData();
+            const book = document.getElementById('book');
+
+            if (!data) {
+                book.innerHTML = `
+                    <div class="loading">
+                        <p style="color: #e53935;">❌ Không thể tải dữ liệu JSON</p>
+                        <p>Chạy: <code>python -m http.server 8000</code> trong thư mục book_phat_am/</p>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = renderCover();
+            html += renderTableOfContents(data);
+            data.forEach((part, index) => {
+                html += renderPart(part, index + 1);
+            });
+            html += renderFooter();
+            book.innerHTML = html;
+        }
+
+        function renderCover() {
+            return `
+                <div class="cover-page">
+                    <div class="cover-content">
+                        <h1>HIZASHI</h1>
+                        <div class="subtitle">光 - Ánh Sáng</div>
+                        <div class="icon-display">🎙️</div>
+                        <div class="subtitle">Sách Phát Âm Tiếng Nhật</div>
+                        <p style="font-size: 1.1rem; opacity: 0.9; margin-top: 30px;">
+                            Làm chủ Ngữ âm Tiếng Nhật Chuẩn Tokyo<br>
+                            cho Người Việt
+                        </p>
+                        <div class="author">HIZASHI JAPANESE LEARNING</div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderTableOfContents(data) {
+            let tocItems = data.map((part, i) => `
+                <li class="toc-item" onclick="scrollToPart(${i + 1})">
+                    <span class="title">
+                        <span class="part-num">Phần ${part.meta?.part || i + 1}:</span>
+                        ${part.meta?.title || 'Không có tiêu đề'}
+                    </span>
+                    <span>→</span>
+                </li>
+            `).join('');
+
+            return `
+                <div class="toc" id="toc">
+                    <h2>Mục Lục</h2>
+                    <ul class="toc-list">${tocItems}</ul>
+                </div>
+            `;
+        }
+
+        function renderPart(data, partNum) {
+            let content = `
+                <div class="content-section" id="part-${partNum}">
+                    <div class="part-header">
+                        <div class="part-number">Phần ${data.meta?.part || partNum}</div>
+                        <h2 class="part-title">${data.meta?.title || ''}</h2>
+                    </div>
+            `;
+
+            if (data.chapters) {
+                content += renderChapters(data.chapters);
+            }
+            if (data.exercises) {
+                content += renderExercises(data.exercises);
+            }
+            if (data.appendix) {
+                content += renderAppendix(data.appendix);
+            }
+
+            content += '</div>';
+            return content;
+        }
+
+        function renderChapters(chapters) {
+            return chapters.map(chapter => `
+                <div class="chapter">
+                    <h3 class="chapter-title">Chương ${chapter.id}: ${chapter.title}</h3>
+                    ${chapter.sections ? chapter.sections.map(renderSection).join('') : ''}
+                </div>
+            `).join('');
+        }
+
+        function renderSection(section) {
+            let html = `
+                <div class="section">
+                    <h4 class="section-title">${section.id}. ${section.title}</h4>
+                    <div class="section-content">
+            `;
+
+            if (section.definition) {
+                html += `<p style="font-size: 1.1rem; margin-bottom: 15px;"><strong>Định nghĩa:</strong> ${section.definition}</p>`;
+            }
+
+            if (section.comparison) {
+                html += renderComparison(section.comparison);
+            }
+
+            if (section.mora_types) {
+                html += renderMoraTypes(section.mora_types);
+            }
+
+            if (section.patterns) {
+                html += renderPitchPatterns(section.patterns);
+            }
+
+            if (section.variants) {
+                html += renderAllophones(section.variants);
+            }
+
+            if (section.rules) {
+                html += renderRules(section.rules);
+            }
+
+            if (section.examples) {
+                html += renderExamples(section.examples);
+            }
+
+            if (section.transformations) {
+                html += renderTransformations(section.transformations);
+            }
+
+            if (section.te_contractions) {
+                html += renderTeContractions(section.te_contractions);
+            }
+
+            if (section.minimal_pairs) {
+                html += renderMinimalPairs(section.minimal_pairs);
+            }
+
+            if (section.mechanism) {
+                html += renderMechanism(section.mechanism);
+            }
+
+            if (section.vietnamese_advantage) {
+                html += renderVietnameseAdvantage(section.vietnamese_advantage);
+            }
+
+            if (section.approaches) {
+                html += renderApproaches(section.approaches);
+            }
+
+            if (section.step) {
+                html += renderStep(section.step, section.id);
+            }
+
+            if (section.golden_rule) {
+                html += `<div class="rule-box"><div class="rule-content">${section.golden_rule}</div></div>`;
+            }
+
+            if (section.warning) {
+                html += `<div class="warning-box"><strong>${section.warning.problem}</strong><br>${section.warning.solution || ''}</div>`;
+            }
+
+            if (section.interference_patterns) {
+                html += renderInterference(section.interference_patterns);
+            }
+
+            if (section.common_error) {
+                html += renderCommonError(section.common_error);
+            }
+
+            if (section.exercises) {
+                html += renderSectionExercises(section.exercises);
+            }
+
+            html += '</div></div>';
+            return html;
+        }
+
+        function renderComparison(comparison) {
+            if (!comparison.vietnamese && !comparison.japanese) return '';
+            return `
+                <div class="comparison-box">
+                    <div class="comparison-side vn">
+                        <h4>🇻🇳 Tiếng Việt</h4>
+                        ${Object.entries(comparison.vietnamese || {}).map(([k, v]) =>
+                            `<p><strong>${k}:</strong> ${Array.isArray(v) ? v.join(', ') : v}</p>`
+                        ).join('')}
+                    </div>
+                    <div class="comparison-side jp">
+                        <h4>🇯🇵 Tiếng Nhật</h4>
+                        ${Object.entries(comparison.japanese || {}).map(([k, v]) =>
+                            `<p><strong>${k}:</strong> ${Array.isArray(v) ? v.join(', ') : v}</p>`
+                        ).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderMoraTypes(types) {
+            let html = '<table class="data-table"><thead><tr><th>Loại</th><th>Mô tả</th><th>Ví dụ</th><th>Kết quả</th></tr></thead><tbody>';
+            types.forEach(t => {
+                html += `<tr><td><strong>${t.type}</strong></td><td>${t.description}</td><td>${t.examples?.join(', ') || ''}</td><td>${t.sample || ''}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        function renderPitchPatterns(patterns) {
+            let html = '<div class="card-grid">';
+            patterns.forEach(p => {
+                const bars = p.pronunciation.split('-').map(level =>
+                    `<div class="pitch-unit">
+                        <div class="pitch-bar ${level === 'H' ? 'high' : 'low'}"></div>
+                    </div>`
+                ).join('');
+                html += `
+                    <div class="card">
+                        <div class="card-title">${p.type} (${p.name_vi})</div>
+                        <p><strong>Mẫu:</strong> ${p.pattern}</p>
+                        <p><strong>Ví dụ:</strong> ${p.example}</p>
+                        <div class="pitch-pattern">${bars}</div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            return html;
+        }
+
+        function renderAllophones(variants) {
+            let html = '<div class="card-grid">';
+            variants.forEach(v => {
+                html += `
+                    <div class="allophone-card">
+                        <div class="symbol">${v.pronunciation}</div>
+                        <p><strong>Điều kiện:</strong> ${v.condition || v.before}</p>
+                        <p><strong>Ví dụ:</strong> ${v.example || v.examples?.join(', ')}</p>
+                        ${v.note_for_vietnamese ? `<p style="color: #ff9800;"><em>${v.note_for_vietnamese}</em></p>` : ''}
+                        ${v.difficulty ? `<p style="color: #e53935;"><strong>⚠️ ${v.difficulty}</strong></p>` : ''}
+                    </div>
+                `;
+            });
+            html += '</div>';
+            return html;
+        }
+
+        function renderRules(rules) {
+            if (Array.isArray(rules)) {
+                return `<div class="rule-box"><ul>${rules.map(r => `<li>${r}</li>`).join('')}</ul></div>`;
+            }
+            return '';
+        }
+
+        function renderExamples(examples) {
+            let html = '<table class="data-table"><thead><tr>';
+            const keys = Object.keys(examples[0] || {});
+            keys.forEach(k => html += `<th>${k}</th>`);
+            html += '</tr></thead><tbody>';
+            examples.forEach(ex => {
+                html += '<tr>';
+                keys.forEach(k => html += `<td>${ex[k] || ''}</td>`);
+                html += '</tr>';
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        function renderTransformations(transformations) {
+            let html = '<table class="data-table"><thead><tr><th>Vô thanh</th><th>→</th><th>Hữu thanh</th><th>Ví dụ</th></tr></thead><tbody>';
+            transformations.forEach(t => {
+                html += `<tr><td>${t.voiceless}</td><td>→</td><td>${t.voiced}</td><td>${t.example}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        function renderTeContractions(contractions) {
+            let html = '<table class="data-table"><thead><tr><th>Văn viết</th><th>→</th><th>Văn nói</th><th>Nghĩa</th></tr></thead><tbody>';
+            contractions.forEach(c => {
+                html += `<tr><td>${c.formal}</td><td>→</td><td style="color: var(--primary); font-weight: bold;">${c.casual}</td><td>${c.meaning}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        function renderMinimalPairs(pairs) {
+            let html = '<table class="data-table"><thead><tr><th>Không có</th><th>Có</th><th>Khác biệt</th></tr></thead><tbody>';
+            pairs.forEach(p => {
+                html += `<tr><td>${p.without || p.short}</td><td style="color: var(--primary);">${p.with || p.long}</td><td>${p.difference}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        function renderMechanism(mechanism) {
+            let html = '<div class="card">';
+            if (mechanism.example) html += `<p><strong>Ví dụ:</strong> ${mechanism.example}</p>`;
+            if (mechanism.wrong) html += `<p style="color: #e53935;">❌ Sai: ${mechanism.wrong}</p>`;
+            if (mechanism.correct) html += `<p style="color: #4caf50;">✓ Đúng: ${mechanism.correct}</p>`;
+            if (mechanism.concept) {
+                html += `<div style="margin-top: 15px;"><strong>${mechanism.concept.name}:</strong><ul>`;
+                mechanism.concept.features?.forEach(f => html += `<li>${f}</li>`);
+                html += '</ul></div>';
+            }
+            html += '</div>';
+            return html;
+        }
+
+        function renderVietnameseAdvantage(advantage) {
+            return `
+                <div class="card" style="border-left-color: #4caf50;">
+                    <div class="card-title" style="color: #4caf50;">🇻🇳 Lợi thế của Người Việt</div>
+                    <p>${advantage.description}</p>
+                    ${advantage.examples ? `<ul>${advantage.examples.map(e => `<li><strong>${e.word}:</strong> ${e.mechanism}</li>`).join('')}</ul>` : ''}
+                    ${advantage.insight ? `<p style="font-weight: bold; color: #4caf50;">${advantage.insight}</p>` : ''}
+                </div>
+            `;
+        }
+
+        function renderApproaches(approaches) {
+            let html = '<div class="card-grid">';
+            approaches.forEach(a => {
+                html += `
+                    <div class="card" ${a.recommended ? 'style="border-left-color: #4caf50;"' : ''}>
+                        <div class="card-title">${a.name} ${a.recommended ? '✓ Khuyến nghị' : ''}</div>
+                        <p><em>${a.definition}</em></p>
+                        <p><strong>Ưu điểm:</strong></p>
+                        <ul>${a.pros?.map(p => `<li style="color: #4caf50;">${p}</li>`).join('') || ''}</ul>
+                        ${a.cons ? `<p><strong>Nhược điểm:</strong></p><ul>${a.cons.map(c => `<li style="color: #e53935;">${c}</li>`).join('')}</ul>` : ''}
+                    </div>
+                `;
+            });
+            html += '</div>';
+            return html;
+        }
+
+        function renderStep(step, stepNum) {
+            return `
+                <div class="step">
+                    <div class="step-number">${stepNum.split('.')[1] || stepNum}</div>
+                    <div class="step-content">
+                        <h4>${step.goal}</h4>
+                        <ul>${step.actions?.map(a => `<li>${a}</li>`).join('') || ''}</ul>
+                        ${step.app_feature ? `<p style="color: var(--primary);"><em>Ứng dụng: ${step.app_feature}</em></p>` : ''}
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderInterference(patterns) {
+            let html = '<table class="data-table"><thead><tr><th>Người Việt hay làm</th><th>Tiếng Nhật cần</th><th>Kết quả</th></tr></thead><tbody>';
+            patterns.forEach(p => {
+                html += `<tr><td style="color: #e53935;">${p.vietnamese_habit}</td><td style="color: #4caf50;">${p.japanese_need}</td><td>${p.result}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        function renderCommonError(error) {
+            return `
+                <div class="warning-box">
+                    <strong>Lỗi thường gặp: ${error.name}</strong>
+                    <p><strong>Ví dụ:</strong> ${error.example?.word || ''}</p>
+                    <p style="color: #e53935;">❌ Sai: ${error.example?.wrong || ''}</p>
+                    <p style="color: #4caf50;">✓ Đúng: ${error.example?.correct || ''}</p>
+                    ${error.consequences ? `<p><strong>Hậu quả:</strong></p><ul>${error.consequences.map(c => `<li>${c}</li>`).join('')}</ul>` : ''}
+                </div>
+            `;
+        }
+
+        function renderSectionExercises(exercises) {
+            let html = '<h5 style="margin-top: 20px; color: var(--primary);">Bài tập:</h5>';
+            exercises.forEach(ex => {
+                html += `<p><strong>${ex.word}</strong> (${ex.meaning}) - ${ex.mora_breakdown} = ${ex.claps} nhịp</p>`;
+            });
+            return html;
+        }
+
+        function renderExercises(exercises) {
+            let html = '<div class="chapter"><h3 class="chapter-title">Bài Tập Thực Hành</h3>';
+
+            for (const [key, exercise] of Object.entries(exercises)) {
+                html += `<div class="section"><h4 class="section-title">${exercise.title}</h4>`;
+                if (exercise.instruction) html += `<p>${exercise.instruction}</p>`;
+                if (exercise.items) {
+                    html += '<table class="data-table"><tbody>';
+                    exercise.items.forEach(item => {
+                        html += '<tr>';
+                        for (const [k, v] of Object.entries(item)) {
+                            html += `<td>${v}</td>`;
+                        }
+                        html += '</tr>';
+                    });
+                    html += '</tbody></table>';
+                }
+                html += '</div>';
+            }
+
+            html += '</div>';
+            return html;
+        }
+
+        function renderAppendix(appendix) {
+            let html = '<div class="chapter"><h3 class="chapter-title">Phụ Lục</h3>';
+
+            if (appendix.phonetic_summary) {
+                html += '<h4 class="section-title">Bảng Tổng hợp Biến âm</h4>';
+                html += '<table class="data-table"><thead><tr><th>Hiện tượng</th><th>Đặc điểm</th><th>Lỗi người Việt</th></tr></thead><tbody>';
+                appendix.phonetic_summary.phenomena?.forEach(p => {
+                    html += `<tr><td>${p.name}</td><td>${p.feature}</td><td style="color: #e53935;">${p.vietnamese_error}</td></tr>`;
+                });
+                html += '</tbody></table>';
+            }
+
+            if (appendix.colloquial_vocabulary) {
+                html += '<h4 class="section-title">Từ vựng Khẩu ngữ</h4>';
+                html += '<table class="data-table"><thead><tr><th>Văn viết</th><th>Văn nói</th><th>Nghĩa</th></tr></thead><tbody>';
+                appendix.colloquial_vocabulary.items?.forEach(item => {
+                    html += `<tr><td>${item.formal}</td><td style="color: var(--primary);">${item.casual}</td><td>${item.meaning}</td></tr>`;
+                });
+                html += '</tbody></table>';
+            }
+
+            if (appendix.shadowing_resources) {
+                html += '<h4 class="section-title">Tài liệu Luyện Shadowing</h4>';
+                appendix.shadowing_resources.levels?.forEach(level => {
+                    html += `<div class="card"><div class="card-title">${level.level}</div><ul>${level.resources.map(r => `<li>${r}</li>`).join('')}</ul></div>`;
+                });
+            }
+
+            html += '</div>';
+            return html;
+        }
+
+        function renderFooter() {
+            return `
+                <div class="book-footer">
+                    <p>© HIZASHI - Sách Phát Âm cho Người Việt</p>
+                    <p style="margin-top: 10px; font-size: 0.9rem;">Làm chủ Ngữ âm Tiếng Nhật Chuẩn Tokyo</p>
+                </div>
+            `;
+        }
+
+        function scrollToTop() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
+        function scrollToPart(partNum) {
+            const element = document.getElementById(`part-${partNum}`);
+            if (element) element.scrollIntoView({ behavior: 'smooth' });
+        }
+        function toggleToc() {
+            const toc = document.getElementById('toc');
+            if (toc) toc.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        document.addEventListener('DOMContentLoaded', renderBook);
+    </script>
+</body>
+</html>

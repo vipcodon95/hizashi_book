@@ -1,0 +1,1305 @@
+{
+  "metadata": {
+    "source_file": "pitch_accent_exercises.json",
+    "original_title": "Bài tập Pitch Accent",
+    "total_questions": 65,
+    "schema_version": "2.0"
+  },
+  "questions": [
+    {
+      "id": "pitch_accent_0000_00",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "さくら"
+      ],
+      "prompt": "Nghe 'さくら' và nghe và chọn pattern đúng (dựa vào hình dạng pitch)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LHH (Heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "HLL (Atamadaka)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "LHL (Nakadaka)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "hoa anh đào",
+        "answer": 0
+      }
+    },
+    {
+      "id": "pitch_accent_0000_01",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "あめ (雨)"
+      ],
+      "prompt": "Nghe 'あめ (雨)' và nghe và chọn pattern đúng (dựa vào hình dạng pitch)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LH (Heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "HL (Atamadaka)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "mưa",
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0000_02",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "たまご"
+      ],
+      "prompt": "Nghe 'たまご' và nghe và chọn pattern đúng (dựa vào hình dạng pitch)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LHH (Heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "HLL (Atamadaka)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "LHL (Nakadaka)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "trứng",
+        "answer": 2
+      }
+    },
+    {
+      "id": "pitch_accent_0000_03",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "にほん"
+      ],
+      "prompt": "Nghe 'にほん' và nghe và chọn pattern đúng (dựa vào hình dạng pitch)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LHH (Heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "HLL (Atamadaka)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "LHL (Nakadaka)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "Nhật Bản",
+        "answer": 0
+      }
+    },
+    {
+      "id": "pitch_accent_0000_04",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "めがね"
+      ],
+      "prompt": "Nghe 'めがね' và nghe và chọn pattern đúng (dựa vào hình dạng pitch)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LHH (Heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "HLL (Atamadaka)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "LHL (Nakadaka)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "kính",
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0000_05",
+      "base_type": "single_choice",
+      "sub_type": "pattern_recognition",
+      "audio_ids": [
+        "おんがく"
+      ],
+      "prompt": "Nghe 'おんがく' và nghe và chọn pattern đúng (dựa vào hình dạng pitch)",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LHHH (Heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "HLLL (Atamadaka)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "LHLL (Nakadaka)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "meaning": "âm nhạc",
+        "answer": 2
+      }
+    },
+    {
+      "id": "L1_02",
+      "base_type": "same_different",
+      "sub_type": "same_or_different_pitch",
+      "audio_ids": [
+        "L1_02_audio"
+      ],
+      "prompt": "Nghe 2 từ và cho biết pitch GIỐNG hay KHÁC nhau",
+      "difficulty": "medium",
+      "topic": null,
+      "pairs": [
+        {
+          "audio_1": "さくら (LHH)",
+          "audio_2": "にほん (LHH)",
+          "answer": "same",
+          "note": "Cả hai đều Heiban"
+        },
+        {
+          "audio_1": "あめ (雨 HL)",
+          "audio_2": "あめ (飴 LH)",
+          "answer": "different",
+          "note": "Mưa vs Kẹo - pitch khác"
+        },
+        {
+          "audio_1": "めがね (HLL)",
+          "audio_2": "カメラ (HLL)",
+          "answer": "same",
+          "note": "Cả hai đều Atamadaka"
+        },
+        {
+          "audio_1": "たまご (LHL)",
+          "audio_2": "さくら (LHH)",
+          "answer": "different",
+          "note": "Nakadaka vs Heiban"
+        },
+        {
+          "audio_1": "おとこ (LHH)",
+          "audio_2": "あたま (LHH)",
+          "answer": "same",
+          "note": "Cả hai đều Heiban"
+        }
+      ]
+    },
+    {
+      "id": "pitch_accent_0007_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_first_mora",
+      "audio_ids": [
+        "さくら"
+      ],
+      "prompt": "Nghe 'さくら' và nghe và cho biết mora đầu tiên cao hay thấp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "low",
+        "pattern": "LHH"
+      }
+    },
+    {
+      "id": "pitch_accent_0007_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_first_mora",
+      "audio_ids": [
+        "あめ (雨)"
+      ],
+      "prompt": "Nghe 'あめ (雨)' và nghe và cho biết mora đầu tiên cao hay thấp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "high",
+        "pattern": "HL"
+      }
+    },
+    {
+      "id": "pitch_accent_0007_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_first_mora",
+      "audio_ids": [
+        "にほん"
+      ],
+      "prompt": "Nghe 'にほん' và nghe và cho biết mora đầu tiên cao hay thấp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "low",
+        "pattern": "LHH"
+      }
+    },
+    {
+      "id": "pitch_accent_0007_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_first_mora",
+      "audio_ids": [
+        "めがね"
+      ],
+      "prompt": "Nghe 'めがね' và nghe và cho biết mora đầu tiên cao hay thấp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "high",
+        "pattern": "HLL"
+      }
+    },
+    {
+      "id": "pitch_accent_0007_04",
+      "base_type": "single_choice",
+      "sub_type": "identify_first_mora",
+      "audio_ids": [
+        "たまご"
+      ],
+      "prompt": "Nghe 'たまご' và nghe và cho biết mora đầu tiên cao hay thấp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "low",
+        "pattern": "LHL"
+      }
+    },
+    {
+      "id": "pitch_accent_0007_05",
+      "base_type": "single_choice",
+      "sub_type": "identify_first_mora",
+      "audio_ids": [
+        "いのち"
+      ],
+      "prompt": "Nghe 'いのち' và nghe và cho biết mora đầu tiên cao hay thấp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "high",
+        "pattern": "HLL"
+      }
+    },
+    {
+      "id": "pitch_accent_0007_06",
+      "base_type": "single_choice",
+      "sub_type": "identify_first_mora",
+      "audio_ids": [
+        "ともだち"
+      ],
+      "prompt": "Nghe 'ともだち' và nghe và cho biết mora đầu tiên cao hay thấp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "low",
+        "pattern": "LHHH"
+      }
+    },
+    {
+      "id": "pitch_accent_0007_07",
+      "base_type": "single_choice",
+      "sub_type": "identify_first_mora",
+      "audio_ids": [
+        "テレビ"
+      ],
+      "prompt": "Nghe 'テレビ' và nghe và cho biết mora đầu tiên cao hay thấp",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "high",
+        "pattern": "HLL"
+      }
+    },
+    {
+      "id": "pitch_accent_0015_00",
+      "base_type": "counting",
+      "sub_type": "count_high_mora",
+      "audio_ids": [
+        "さくら (LHH)"
+      ],
+      "prompt": "Nghe 'さくら (LHH)' và nghe và đếm số mora cao trong từ",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "pitch_accent_0015_01",
+      "base_type": "counting",
+      "sub_type": "count_high_mora",
+      "audio_ids": [
+        "あめ (HL)"
+      ],
+      "prompt": "Nghe 'あめ (HL)' và nghe và đếm số mora cao trong từ",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0015_02",
+      "base_type": "counting",
+      "sub_type": "count_high_mora",
+      "audio_ids": [
+        "にほんご (LHHL)"
+      ],
+      "prompt": "Nghe 'にほんご (LHHL)' và nghe và đếm số mora cao trong từ",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "pitch_accent_0015_03",
+      "base_type": "counting",
+      "sub_type": "count_high_mora",
+      "audio_ids": [
+        "たまご (LHL)"
+      ],
+      "prompt": "Nghe 'たまご (LHL)' và nghe và đếm số mora cao trong từ",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0015_04",
+      "base_type": "counting",
+      "sub_type": "count_high_mora",
+      "audio_ids": [
+        "ともだち (LHHH)"
+      ],
+      "prompt": "Nghe 'ともだち (LHHH)' và nghe và đếm số mora cao trong từ",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 3
+      }
+    },
+    {
+      "id": "pitch_accent_0015_05",
+      "base_type": "counting",
+      "sub_type": "count_high_mora",
+      "audio_ids": [
+        "おんがく (LHLL)"
+      ],
+      "prompt": "Nghe 'おんがく (LHLL)' và nghe và đếm số mora cao trong từ",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "L2_01",
+      "base_type": "minimal_pair",
+      "sub_type": "minimal_pair_choice",
+      "audio_ids": [
+        "L2_01_audio"
+      ],
+      "prompt": "Nghe và chọn nghĩa đúng dựa vào pitch",
+      "difficulty": "medium",
+      "topic": null
+    },
+    {
+      "id": "pitch_accent_0022_00",
+      "base_type": "single_choice",
+      "sub_type": "identify_word_by_pitch",
+      "audio_ids": [
+        "はしをわたる"
+      ],
+      "prompt": "Nghe 'はしをわたる' và nghe từ trong câu và xác định nghĩa",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Đi qua cầu",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Dùng đũa",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "pitch_accent_0022_01",
+      "base_type": "single_choice",
+      "sub_type": "identify_word_by_pitch",
+      "audio_ids": [
+        "はしをつかう"
+      ],
+      "prompt": "Nghe 'はしをつかう' và nghe từ trong câu và xác định nghĩa",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Dùng cầu",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Dùng đũa",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0022_02",
+      "base_type": "single_choice",
+      "sub_type": "identify_word_by_pitch",
+      "audio_ids": [
+        "あめがふる"
+      ],
+      "prompt": "Nghe 'あめがふる' và nghe từ trong câu và xác định nghĩa",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Mưa rơi",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Kẹo rơi",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "pitch_accent_0022_03",
+      "base_type": "single_choice",
+      "sub_type": "identify_word_by_pitch",
+      "audio_ids": [
+        "あめをかう"
+      ],
+      "prompt": "Nghe 'あめをかう' và nghe từ trong câu và xác định nghĩa",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Mua mưa (?)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Mua kẹo",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0026_00",
+      "base_type": "minimal_pair",
+      "sub_type": "three_way_distinction",
+      "audio_ids": [
+        "かみ (HL)"
+      ],
+      "prompt": "Nghe 'かみ (HL)' và nghe và chọn đúng trong 3 lựa chọn",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "紙 - giấy (LH)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "髪 - tóc (LH)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "神 - thần (HL)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "pitch_accent_0026_01",
+      "base_type": "minimal_pair",
+      "sub_type": "three_way_distinction",
+      "audio_ids": [
+        "かみ (LH) + が (H)"
+      ],
+      "prompt": "Nghe 'かみ (LH) + が (H)' và nghe và chọn đúng trong 3 lựa chọn",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "紙 - giấy (heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "髪 - tóc (odaka)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "神 - thần",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "note": "Trợ từ cao = heiban",
+        "answer": 0
+      }
+    },
+    {
+      "id": "pitch_accent_0026_02",
+      "base_type": "minimal_pair",
+      "sub_type": "three_way_distinction",
+      "audio_ids": [
+        "かみ (LH) + が (L)"
+      ],
+      "prompt": "Nghe 'かみ (LH) + が (L)' và nghe và chọn đúng trong 3 lựa chọn",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "紙 - giấy (heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "髪 - tóc (odaka)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "神 - thần",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "note": "Trợ từ thấp = có accent",
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0029_00",
+      "base_type": "single_choice",
+      "sub_type": "heiban_vs_odaka",
+      "audio_ids": [
+        "はなが (LHH)"
+      ],
+      "prompt": "Nghe 'はなが (LHH)' và nghe từ + trợ từ và xác định: heiban (trợ từ cao) hay odaka (trợ từ thấp)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hoa + が",
+        "answer": "heiban"
+      }
+    },
+    {
+      "id": "pitch_accent_0029_01",
+      "base_type": "single_choice",
+      "sub_type": "heiban_vs_odaka",
+      "audio_ids": [
+        "はなが (LHL)"
+      ],
+      "prompt": "Nghe 'はなが (LHL)' và nghe từ + trợ từ và xác định: heiban (trợ từ cao) hay odaka (trợ từ thấp)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "mũi + が",
+        "answer": "odaka"
+      }
+    },
+    {
+      "id": "pitch_accent_0029_02",
+      "base_type": "single_choice",
+      "sub_type": "heiban_vs_odaka",
+      "audio_ids": [
+        "やまが (LHL)"
+      ],
+      "prompt": "Nghe 'やまが (LHL)' và nghe từ + trợ từ và xác định: heiban (trợ từ cao) hay odaka (trợ từ thấp)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "núi + が",
+        "answer": "odaka"
+      }
+    },
+    {
+      "id": "pitch_accent_0029_03",
+      "base_type": "single_choice",
+      "sub_type": "heiban_vs_odaka",
+      "audio_ids": [
+        "さくらが (LHHH)"
+      ],
+      "prompt": "Nghe 'さくらが (LHHH)' và nghe từ + trợ từ và xác định: heiban (trợ từ cao) hay odaka (trợ từ thấp)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hoa anh đào + が",
+        "answer": "heiban"
+      }
+    },
+    {
+      "id": "pitch_accent_0029_04",
+      "base_type": "single_choice",
+      "sub_type": "heiban_vs_odaka",
+      "audio_ids": [
+        "うみが (LHL)"
+      ],
+      "prompt": "Nghe 'うみが (LHL)' và nghe từ + trợ từ và xác định: heiban (trợ từ cao) hay odaka (trợ từ thấp)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "biển + が",
+        "answer": "odaka"
+      }
+    },
+    {
+      "id": "pitch_accent_0029_05",
+      "base_type": "single_choice",
+      "sub_type": "heiban_vs_odaka",
+      "audio_ids": [
+        "そらが (LHH)"
+      ],
+      "prompt": "Nghe 'そらが (LHH)' và nghe từ + trợ từ và xác định: heiban (trợ từ cao) hay odaka (trợ từ thấp)?",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "bầu trời + が",
+        "answer": "heiban"
+      }
+    },
+    {
+      "id": "pitch_accent_0035_00",
+      "base_type": "single_choice",
+      "sub_type": "particle_pitch_prediction",
+      "audio_ids": [
+        "pitch_accent_0035_00_audio"
+      ],
+      "prompt": "Nghe từ đơn, sau đó nghe từ + が. Dự đoán pitch của が trước khi nghe",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "low"
+      }
+    },
+    {
+      "id": "pitch_accent_0035_01",
+      "base_type": "single_choice",
+      "sub_type": "particle_pitch_prediction",
+      "audio_ids": [
+        "pitch_accent_0035_01_audio"
+      ],
+      "prompt": "Nghe từ đơn, sau đó nghe từ + が. Dự đoán pitch của が trước khi nghe",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "high"
+      }
+    },
+    {
+      "id": "pitch_accent_0035_02",
+      "base_type": "single_choice",
+      "sub_type": "particle_pitch_prediction",
+      "audio_ids": [
+        "pitch_accent_0035_02_audio"
+      ],
+      "prompt": "Nghe từ đơn, sau đó nghe từ + が. Dự đoán pitch của が trước khi nghe",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "low"
+      }
+    },
+    {
+      "id": "pitch_accent_0035_03",
+      "base_type": "single_choice",
+      "sub_type": "particle_pitch_prediction",
+      "audio_ids": [
+        "pitch_accent_0035_03_audio"
+      ],
+      "prompt": "Nghe từ đơn, sau đó nghe từ + が. Dự đoán pitch của が trước khi nghe",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": "low"
+      }
+    },
+    {
+      "id": "pitch_accent_0039_00",
+      "base_type": "single_choice",
+      "sub_type": "sentence_pitch",
+      "audio_ids": [
+        "さくらがきれいです"
+      ],
+      "prompt": "Nghe 'さくらがきれいです' và nghe câu và chọn pattern pitch đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LHHH (heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "LHHL (có accent)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "pitch_accent_0039_01",
+      "base_type": "single_choice",
+      "sub_type": "sentence_pitch",
+      "audio_ids": [
+        "あめがふっています"
+      ],
+      "prompt": "Nghe 'あめがふっています' và nghe câu và chọn pattern pitch đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LHH (heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "HLL (atamadaka)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0039_02",
+      "base_type": "single_choice",
+      "sub_type": "sentence_pitch",
+      "audio_ids": [
+        "やまがみえます"
+      ],
+      "prompt": "Nghe 'やまがみえます' và nghe câu và chọn pattern pitch đúng",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "LHH (heiban)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "LHL (odaka)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "L4_01",
+      "base_type": "dialogue",
+      "sub_type": "dialogue_pitch_awareness",
+      "audio_ids": [
+        "L4_01_audio"
+      ],
+      "prompt": "Nghe hội thoại và trả lời câu hỏi về nghĩa dựa trên pitch",
+      "difficulty": "medium",
+      "topic": null,
+      "dialogues": [
+        {
+          "script": [
+            "A: あめ、好き？",
+            "B: うん、あめ大好き！"
+          ],
+          "audio_note": "A nói あめ (LH), B cũng nói あめ (LH)",
+          "question": "Họ đang nói về gì?",
+          "options": [
+            "Mưa",
+            "Kẹo"
+          ],
+          "answer": 1,
+          "explanation": "LH = 飴 (kẹo)"
+        },
+        {
+          "script": [
+            "A: はしを取って。",
+            "B: はい、どうぞ。"
+          ],
+          "audio_note": "A nói はし (HL)",
+          "question": "A muốn B lấy gì?",
+          "options": [
+            "Đũa",
+            "Cầu"
+          ],
+          "answer": 0,
+          "explanation": "HL = 箸 (đũa)"
+        },
+        {
+          "script": [
+            "A: かみ、ある？",
+            "B: うん、あるよ。"
+          ],
+          "audio_note": "A nói かみ (LH) với trợ từ ngầm cao",
+          "question": "A hỏi về gì?",
+          "options": [
+            "Giấy",
+            "Tóc",
+            "Thần"
+          ],
+          "answer": 0,
+          "explanation": "LH heiban = 紙 (giấy)"
+        }
+      ]
+    },
+    {
+      "id": "pitch_accent_0043_00",
+      "base_type": "matching",
+      "sub_type": "pitch_pattern_matching",
+      "audio_ids": [
+        "さくら (LHH)"
+      ],
+      "prompt": "Nghe 'さくら (LHH)' và nghe từ và chọn từ khác có cùng pitch pattern",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "めがね (HLL)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "にほん (LHH)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "たまご (LHL)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 1,
+        "pattern": "Heiban 3 mora"
+      }
+    },
+    {
+      "id": "pitch_accent_0043_01",
+      "base_type": "matching",
+      "sub_type": "pitch_pattern_matching",
+      "audio_ids": [
+        "あめ (HL)"
+      ],
+      "prompt": "Nghe 'あめ (HL)' và nghe từ và chọn từ khác có cùng pitch pattern",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "かさ (LH)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "いえ (LH)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "あに (HL)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 2,
+        "pattern": "Atamadaka 2 mora"
+      }
+    },
+    {
+      "id": "pitch_accent_0043_02",
+      "base_type": "matching",
+      "sub_type": "pitch_pattern_matching",
+      "audio_ids": [
+        "おんがく (LHLL)"
+      ],
+      "prompt": "Nghe 'おんがく (LHLL)' và nghe từ và chọn từ khác có cùng pitch pattern",
+      "difficulty": "medium",
+      "topic": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "おとうと (LHLL)",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "ともだち (LHHH)",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "あたらしい (LHHLL)",
+          "is_correct": false
+        }
+      ],
+      "metadata": {
+        "answer": 0,
+        "pattern": "Nakadaka accent 2"
+      }
+    },
+    {
+      "id": "pitch_accent_0046_00",
+      "base_type": "single_choice",
+      "sub_type": "accent_number_identification",
+      "audio_ids": [
+        "さくら"
+      ],
+      "prompt": "Nghe 'さくら' và nghe từ và xác định số accent (0 = heiban, 1,2,3... = vị trí downstep)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "pitch_accent_0046_01",
+      "base_type": "single_choice",
+      "sub_type": "accent_number_identification",
+      "audio_ids": [
+        "あめ (雨)"
+      ],
+      "prompt": "Nghe 'あめ (雨)' và nghe từ và xác định số accent (0 = heiban, 1,2,3... = vị trí downstep)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0046_02",
+      "base_type": "single_choice",
+      "sub_type": "accent_number_identification",
+      "audio_ids": [
+        "たまご"
+      ],
+      "prompt": "Nghe 'たまご' và nghe từ và xác định số accent (0 = heiban, 1,2,3... = vị trí downstep)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "pitch_accent_0046_03",
+      "base_type": "single_choice",
+      "sub_type": "accent_number_identification",
+      "audio_ids": [
+        "おとうと"
+      ],
+      "prompt": "Nghe 'おとうと' và nghe từ và xác định số accent (0 = heiban, 1,2,3... = vị trí downstep)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 2
+      }
+    },
+    {
+      "id": "pitch_accent_0046_04",
+      "base_type": "single_choice",
+      "sub_type": "accent_number_identification",
+      "audio_ids": [
+        "にほん"
+      ],
+      "prompt": "Nghe 'にほん' và nghe từ và xác định số accent (0 = heiban, 1,2,3... = vị trí downstep)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 0
+      }
+    },
+    {
+      "id": "pitch_accent_0046_05",
+      "base_type": "single_choice",
+      "sub_type": "accent_number_identification",
+      "audio_ids": [
+        "めがね"
+      ],
+      "prompt": "Nghe 'めがね' và nghe từ và xác định số accent (0 = heiban, 1,2,3... = vị trí downstep)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 1
+      }
+    },
+    {
+      "id": "pitch_accent_0046_06",
+      "base_type": "single_choice",
+      "sub_type": "accent_number_identification",
+      "audio_ids": [
+        "あたらしい"
+      ],
+      "prompt": "Nghe 'あたらしい' và nghe từ và xác định số accent (0 = heiban, 1,2,3... = vị trí downstep)",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "answer": 4
+      }
+    },
+    {
+      "id": "pitch_accent_0053_00",
+      "base_type": "single_choice",
+      "sub_type": "word_class_pitch",
+      "audio_ids": [
+        "たべる"
+      ],
+      "prompt": "Nghe 'たべる' và nghe động từ/tính từ và xác định pattern",
+      "difficulty": "medium",
+      "topic": "Động từ",
+      "metadata": {
+        "meaning": "ăn",
+        "pattern": "LHL"
+      }
+    },
+    {
+      "id": "pitch_accent_0053_01",
+      "base_type": "single_choice",
+      "sub_type": "word_class_pitch",
+      "audio_ids": [
+        "のむ"
+      ],
+      "prompt": "Nghe 'のむ' và nghe động từ/tính từ và xác định pattern",
+      "difficulty": "medium",
+      "topic": "Động từ",
+      "metadata": {
+        "meaning": "uống",
+        "pattern": "LH"
+      }
+    },
+    {
+      "id": "pitch_accent_0053_02",
+      "base_type": "single_choice",
+      "sub_type": "word_class_pitch",
+      "audio_ids": [
+        "みる"
+      ],
+      "prompt": "Nghe 'みる' và nghe động từ/tính từ và xác định pattern",
+      "difficulty": "medium",
+      "topic": "Động từ",
+      "metadata": {
+        "meaning": "xem",
+        "pattern": "LH"
+      }
+    },
+    {
+      "id": "pitch_accent_0053_03",
+      "base_type": "single_choice",
+      "sub_type": "word_class_pitch",
+      "audio_ids": [
+        "たかい"
+      ],
+      "prompt": "Nghe 'たかい' và nghe động từ/tính từ và xác định pattern",
+      "difficulty": "medium",
+      "topic": "Động từ",
+      "metadata": {
+        "meaning": "cao/đắt",
+        "pattern": "LHL"
+      }
+    },
+    {
+      "id": "pitch_accent_0053_04",
+      "base_type": "single_choice",
+      "sub_type": "word_class_pitch",
+      "audio_ids": [
+        "おいしい"
+      ],
+      "prompt": "Nghe 'おいしい' và nghe động từ/tính từ và xác định pattern",
+      "difficulty": "medium",
+      "topic": "Động từ",
+      "metadata": {
+        "meaning": "ngon",
+        "pattern": "LHLL"
+      }
+    },
+    {
+      "id": "pitch_accent_0058_00",
+      "base_type": "single_choice",
+      "sub_type": "compound_word_pitch",
+      "audio_ids": [
+        "にほんご"
+      ],
+      "prompt": "Nghe 'にほんご' và nghe từ ghép và xác định pattern",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tiếng Nhật",
+        "pattern": "LHHL"
+      }
+    },
+    {
+      "id": "pitch_accent_0058_01",
+      "base_type": "single_choice",
+      "sub_type": "compound_word_pitch",
+      "audio_ids": [
+        "でんしゃ"
+      ],
+      "prompt": "Nghe 'でんしゃ' và nghe từ ghép và xác định pattern",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "tàu điện",
+        "pattern": "LHL"
+      }
+    },
+    {
+      "id": "pitch_accent_0058_02",
+      "base_type": "single_choice",
+      "sub_type": "compound_word_pitch",
+      "audio_ids": [
+        "だいがく"
+      ],
+      "prompt": "Nghe 'だいがく' và nghe từ ghép và xác định pattern",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "đại học",
+        "pattern": "LHLL"
+      }
+    },
+    {
+      "id": "pitch_accent_0058_03",
+      "base_type": "single_choice",
+      "sub_type": "compound_word_pitch",
+      "audio_ids": [
+        "としょかん"
+      ],
+      "prompt": "Nghe 'としょかん' và nghe từ ghép và xác định pattern",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "thư viện",
+        "pattern": "LHLL"
+      }
+    },
+    {
+      "id": "pitch_accent_0062_00",
+      "base_type": "dictation",
+      "sub_type": "dictation_with_pitch",
+      "audio_ids": [
+        "さくら"
+      ],
+      "prompt": "Nghe 'さくら' và nghe và viết từ, đồng thời đánh dấu pattern pitch",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "hoa anh đào"
+      }
+    },
+    {
+      "id": "pitch_accent_0062_01",
+      "base_type": "dictation",
+      "sub_type": "dictation_with_pitch",
+      "audio_ids": [
+        "あめがふる"
+      ],
+      "prompt": "Nghe 'あめがふる' và nghe và viết từ, đồng thời đánh dấu pattern pitch",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "mưa rơi"
+      }
+    },
+    {
+      "id": "pitch_accent_0062_02",
+      "base_type": "dictation",
+      "sub_type": "dictation_with_pitch",
+      "audio_ids": [
+        "はしでたべる"
+      ],
+      "prompt": "Nghe 'はしでたべる' và nghe và viết từ, đồng thời đánh dấu pattern pitch",
+      "difficulty": "medium",
+      "topic": null,
+      "metadata": {
+        "meaning": "ăn bằng đũa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "L29_FP_01",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "この仕事は難しいけどおもしろいです。",
+    "sentence_translation": "Công việc này khó nhưng thú vị.",
+    "question_text": "この仕事は難しい（　）おもしろいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ても",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "から",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "けど = tương phản trung tính, đơn giản nối 2 ý đối lập. 難しいけどおもしろい = \"khó nhưng thú vị\". Không mang cảm xúc tiêu cực. KHÁC のに (tiếc nuối) hay ても (nhượng bộ giả định)",
+    "hint": "Hai tính chất đối lập nhưng TRUNG TÍNH, không tiếc nuối → dùng gì?",
+    "tags": [
+      "けど",
+      "tuong_phan",
+      "trung_tinh"
+    ]
+  },
+  {
+    "id": "L29_FP_02",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "日本語は難しいですが、楽しいです。",
+    "sentence_translation": "Tiếng Nhật khó nhưng vui.",
+    "question_text": "日本語は難しいです（　）、楽しいです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ても",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "が = tương phản trung tính, lịch sự hơn けど. Dùng sau です/ます. 難しいですが楽しい = \"khó nhưng vui\". が và けど CÙNG nghĩa, が trang trọng hơn. Văn viết dùng が, văn nói dùng けど",
+    "hint": "Tương phản trung tính + dạng lịch sự (です/ます) → dùng gì?",
+    "tags": [
+      "が",
+      "tuong_phan",
+      "lich_su"
+    ]
+  },
+  {
+    "id": "L29_FP_03",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "勉強した（　）試験に落ちました。",
+    "sentence_translation": "Đã học mà vẫn trượt kỳ thi.",
+    "question_text": "勉強した（　）試験に落ちました。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ても",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "が",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "のに = \"mặc dù... mà...\" + TIẾC NUỐI. 勉強したのに落ちた = \"đã học mà trượt\". のに luôn mang cảm xúc: tiếc, bất mãn, trách. KHÁC けど (trung tính, không cảm xúc)",
+    "hint": "Đã học rồi mà KẾT QUẢ trái ngược → người nói TIẾC NUỐI/BẤT MÃN → dùng gì?",
+    "tags": [
+      "のに",
+      "tiec_nuoi",
+      "bat_man"
+    ]
+  },
+  {
+    "id": "L29_FP_04",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "雨が降っ（　）サッカーをします。",
+    "sentence_translation": "Dù mưa rơi vẫn chơi đá bóng.",
+    "question_text": "雨が降っ（　）サッカーをします。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ても",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ながら",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ても = \"dù cho ~ vẫn...\". 降っても = dù mưa rơi (vẫn chơi). ても = nhượng bộ giả định: điều kiện KHÔNG ảnh hưởng kết quả. Vても + vẫn làm. い-adj: 高くても. な-adj: 静かでも. N: 雨でも",
+    "hint": "Dù có xảy ra chuyện gì (mưa) → VẪN LÀM → nhượng bộ GIẢ ĐỊNH → dùng gì?",
+    "tags": [
+      "ても",
+      "nhuong_bo",
+      "gia_dinh"
+    ]
+  },
+  {
+    "id": "L29_FP_05",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "知っている（　）教えてくれない。",
+    "sentence_translation": "Biết mà không chịu nói.",
+    "question_text": "知っている（　）教えてくれない。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ても",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ながら",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ながら = \"tuy ~ mà lại...\". Ở đây ながら diễn tả MÂU THUẪN (không phải đồng thời). 知っていながら = \"tuy biết mà lại...\". ながら mâu thuẫn thường đi với trạng thái kéo dài (知っている, 思っている)",
+    "hint": "Biết rõ MÀ LẠI không nói → mâu thuẫn giữa TRẠNG THÁI và HÀNH ĐỘNG → dùng gì?",
+    "tags": [
+      "ながら",
+      "mau_thuan"
+    ]
+  },
+  {
+    "id": "L29_FP_06",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "約束した（　）来なかった。",
+    "sentence_translation": "Đã hẹn mà không đến.",
+    "question_text": "約束した（　）来なかった。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "ながら",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ても",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "のに = tiếc nuối + TRÁCH MÓNG. 約束したのに来なかった = \"đã hẹn mà không đến\" (trách!). のに khác けど: けど chỉ nối tương phản trung tính, のに luôn có CẢM XÚC tiêu cực",
+    "hint": "Đã hẹn rồi mà KHÔNG ĐẾN → người nói TRÁCH MÓNG → dùng gì?",
+    "tags": [
+      "のに",
+      "trach_mong"
+    ]
+  },
+  {
+    "id": "L29_FP_07",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あの人は金持ちの（　）ケチだ。",
+    "sentence_translation": "Người đó giàu mà lại keo kiệt.",
+    "question_text": "あの人は金持ちの（　）ケチだ。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "くせに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ながら",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "くせに = \"cái thứ mà ~ lại...\". TRÁCH MÓNG MẠNH + chê bai. 金持ちのくせにケチ = \"cái thứ giàu mà keo kiệt\". くせに mạnh hơn のに: のに = tiếc, くせに = KHINh/chê. Danh từ + の + くせに",
+    "hint": "Giàu mà keo kiệt → người nói CHÊ BAI, TRÁCH MÓNG mạnh → dùng gì?",
+    "tags": [
+      "くせに",
+      "che_bai",
+      "trach_mong"
+    ]
+  },
+  {
+    "id": "L29_FP_08",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "何も知らない（　）偉そうにする。",
+    "sentence_translation": "Cái gì cũng không biết mà lại lên mặt.",
+    "question_text": "何も知らない（　）偉そうにする。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ても",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "くせに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "くせに = trách móng + KHINH. 知らないくせに偉そう = \"không biết gì mà lên mặt\". くせに dùng khi người nói có thái độ TIÊU CỰC MẠNH, coi thường đối phương. CHỈ dùng với NGƯỜI, không dùng với sự vật",
+    "hint": "Không biết gì MÀ LẠI lên mặt → chê bai, khinh thường → dùng gì?",
+    "tags": [
+      "くせに",
+      "khinh",
+      "thuong"
+    ]
+  },
+  {
+    "id": "L29_FP_09",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼女は体が小さい（　）力が強い。",
+    "sentence_translation": "Cô ấy người nhỏ nhưng sức mạnh.",
+    "question_text": "彼女は体が小さい（　）力が強い。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ても",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "くせに",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "けど = tương phản trung tính. 小さいけど強い = \"nhỏ nhưng mạnh\" → chỉ nêu sự thật, không tiếc nuối hay trách. SO SÁNH: 小さいのに強い = \"nhỏ mà mạnh\" (ngạc nhiên!). Sắc thái hoàn toàn khác!",
+    "hint": "Người nhỏ mà sức mạnh → tương phản nhưng TRUNG TÍNH, chỉ mô tả sự thật → dùng gì?",
+    "tags": [
+      "けど",
+      "tuong_phan",
+      "trung_tinh",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L29_FP_10",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "いくら食べ（　）太らない。",
+    "sentence_translation": "Ăn bao nhiêu cũng không béo.",
+    "question_text": "いくら食べ（　）太らない。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ながら",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ても",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "いくら + Vても = \"dù có ~ bao nhiêu cũng...\". いくら食べても太らない = \"dù ăn bao nhiêu cũng không béo\". いくら...ても = nhượng bộ CỰC ĐỘ. Tương tự: どんなに...ても, 何回...ても",
+    "hint": "\"Dù ăn bao nhiêu\" → いくら + ても = dù... bao nhiêu cũng → dùng gì?",
+    "tags": [
+      "ても",
+      "いくら",
+      "nhuong_bo",
+      "cuc_do"
+    ]
+  },
+  {
+    "id": "L29_FP_11",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼は学生の（　）全然勉強しない。",
+    "sentence_translation": "Nó là học sinh mà chẳng chịu học.",
+    "question_text": "彼は学生の（　）全然勉強しない。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "くせに",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ても",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "学生のくせに勉強しない = \"cái thứ học sinh mà không học\". くせに = trách móng mạnh + chê bai. Danh từ + の + くせに. KHÔNG dùng くせに với bản thân (chỉ dùng trách NGƯỜI KHÁC)",
+    "hint": "Là học sinh MÀ KHÔNG HỌC → trách móc mạnh, chê bai → dùng gì?",
+    "tags": [
+      "くせに",
+      "trach_mong",
+      "danh_tu"
+    ]
+  },
+  {
+    "id": "L29_FP_12",
+    "lesson_id": 29,
+    "question_type": "fill_particle",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "残念（　）、彼は来られないそうです。",
+    "sentence_translation": "Tiếc là anh ấy nghe nói không đến được.",
+    "question_text": "残念（　）、彼は来られないそうです。",
+    "question_description": "Điền trợ từ đúng",
+    "answers": [
+      {
+        "text": "ですが",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "けど",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "ながら",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "のに",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "残念ながら = \"tuy tiếc rằng...\" (cụm cố định, trang trọng). ながら ở đây = tương phản lịch sự. Tương tự: 失礼ながら (xin lỗi nhưng...), 恥ずかしながら (xấu hổ nhưng...). Đây là ながら mâu thuẫn, KHÔNG phải đồng thời",
+    "hint": "\"Tuy tiếc...\" → cảm xúc + ながら (dạng trang trọng, cố định) → dùng gì?",
+    "tags": [
+      "ながら",
+      "co_dinh",
+      "trang_trong"
+    ]
+  },
+  {
+    "id": "L29_CH_13",
+    "lesson_id": 29,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "この映画は長いけどおもしろいです",
+    "sentence_translation": "Bộ phim này dài nhưng hay.",
+    "question_text": "この映画は長いけどおもしろいです",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "この映画は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "長いけど",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "おもしろいです",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "この映画は = 🔒 \"phim này\" (chủ đề) | 長いけど = dài nhưng (けど = tương phản trung tính) | おもしろいです = hay. けど chia câu thành 2 ý đối lập: [A けど B]",
+    "hint": null,
+    "tags": [
+      "けど",
+      "tuong_phan",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L29_CH_14",
+    "lesson_id": 29,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "雨が降っても出かけます",
+    "sentence_translation": "Dù mưa vẫn đi ra ngoài.",
+    "question_text": "雨が降っても出かけます",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "雨が降っても",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "出かけます",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "雨が降っても = 🔒 \"dù mưa rơi\" (nhượng bộ) | 出かけます = vẫn đi ra ngoài. ても chia câu: [điều kiện ても kết quả không đổi]. Đọc gặp ても → đóng gói \"dù gì cũng...\", tìm kết quả",
+    "hint": null,
+    "tags": [
+      "ても",
+      "nhuong_bo",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L29_CH_15",
+    "lesson_id": 29,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "せっかく作ったのに食べてくれなかった",
+    "sentence_translation": "Cất công nấu mà không chịu ăn cho.",
+    "question_text": "せっかく作ったのに食べてくれなかった",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "せっかく作ったのに",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "食べてくれなかった",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "せっかく作ったのに = 🔒 \"cất công nấu mà...\" (tiếc nuối) | 食べてくれなかった = không chịu ăn cho. のに = tiếc nuối. せっかく (cất công) + のに = bội tiếc!",
+    "hint": null,
+    "tags": [
+      "のに",
+      "tiec_nuoi",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L29_CH_16",
+    "lesson_id": 29,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "あの人は何も知らないくせに偉そうにしている",
+    "sentence_translation": "Người đó cái gì cũng không biết mà cứ lên mặt.",
+    "question_text": "あの人は何も知らないくせに偉そうにしている",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "あの人は",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "何も知らないくせに",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "偉そうにしている",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "あの人は = người đó (chủ đề) | 何も知らないくせに = 🔒 \"cái thứ không biết gì mà...\" (chê bai) | 偉そうにしている = cứ lên mặt. くせに = trách + khinh",
+    "hint": null,
+    "tags": [
+      "くせに",
+      "che_bai",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L29_CH_17",
+    "lesson_id": 29,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "残念ながら今回のプロジェクトは中止になりました",
+    "sentence_translation": "Tiếc rằng dự án lần này bị hủy.",
+    "question_text": "残念ながら今回のプロジェクトは中止になりました",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "残念ながら",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "今回のプロジェクトは",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "中止になりました",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "残念ながら = 🔒 \"tiếc rằng\" (cụm cố định, trang trọng) | 今回のプロジェクトは = dự án lần này | 中止になりました = đã bị hủy. ながら = tương phản trang trọng",
+    "hint": null,
+    "tags": [
+      "ながら",
+      "co_dinh",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L29_CH_18",
+    "lesson_id": 29,
+    "question_type": "chunking",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "いくら説明しても彼は分かってくれない",
+    "sentence_translation": "Dù giải thích bao nhiêu anh ấy cũng không chịu hiểu.",
+    "question_text": "いくら説明しても彼は分かってくれない",
+    "question_description": "Chia khối đúng",
+    "answers": [
+      {
+        "text": "いくら説明しても",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "彼は",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "分かってくれない",
+        "is_correct": true,
+        "order": 3
+      }
+    ],
+    "explanation": "いくら説明しても = 🔒 \"dù giải thích bao nhiêu\" (nhượng bộ cực độ) | 彼は = anh ấy | 分かってくれない = không chịu hiểu cho. いくら...ても = nhượng bộ MỨC ĐỘ CAO",
+    "hint": null,
+    "tags": [
+      "ても",
+      "いくら",
+      "chunking"
+    ]
+  },
+  {
+    "id": "L29_PD_19",
+    "lesson_id": 29,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "高いけど買う / 高いのに買った",
+    "sentence_translation": "Đắt nhưng mua. / Đắt mà vẫn mua (tiếc tiền).",
+    "question_text": "Câu nào người nói TIẾC NUỐI hoặc BẤT MÃN?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "高いけど買う (けど = tương phản trung tính, chỉ nêu sự thật)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "高いのに買った (のに = tiếc nuối, bất mãn)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "けど = trung tính: \"đắt nhưng (tôi) mua\" → bình thường. のに = tiếc nuối: \"đắt mà (nó) vẫn mua\" → bực! CHỈ KHÁC 1 trợ từ liên kết mà SẮC THÁI khác hoàn toàn. けど = thông tin, のに = cảm xúc",
+    "hint": null,
+    "tags": [
+      "けど",
+      "のに",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L29_PD_20",
+    "lesson_id": 29,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "知っていながら教えない / 知っているのに教えない",
+    "sentence_translation": "Biết mà không nói (mâu thuẫn). / Biết mà không nói (tiếc nuối).",
+    "question_text": "Câu nào mang sắc thái TRANG TRỌNG, VĂN VIẾT hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "知っているのに教えない (のに = khẩu ngữ, tiếc nuối)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "知っていながら教えない (ながら = trang trọng, văn viết, nhấn mạnh mâu thuẫn)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "ながら mâu thuẫn = trang trọng, văn viết. のに = khẩu ngữ, mang cảm xúc tiếc. NGHĨA gần giống nhưng MỨC ĐỘ TRANG TRỌNG khác nhau. ながら thường dùng trong báo, diễn thuyết",
+    "hint": null,
+    "tags": [
+      "ながら",
+      "のに",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L29_PD_21",
+    "lesson_id": 29,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "子供のくせに生意気だ / 子供なのに生意気だ",
+    "sentence_translation": "Con nít mà hỗn (khinh). / Con nít mà hỗn (ngạc nhiên).",
+    "question_text": "Câu nào mang thái độ CHÊ BAI, KHINH THƯỜNG mạnh hơn?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "子供のくせに (くせに = chê bai, khinh thường mạnh)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "子供なのに (のに = ngạc nhiên, bất mãn nhẹ hơn)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "くせに > のに về mức độ tiêu cực. くせに = \"cái thứ... mà lại...\" (KHINH). のに = \"~ mà...\" (ngạc nhiên/tiếc). くせに chỉ dùng với NGƯỜI, のに dùng được với mọi thứ. くせに thô hơn, không dùng trong kính ngữ",
+    "hint": null,
+    "tags": [
+      "くせに",
+      "のに",
+      "phan_biet",
+      "muc_do"
+    ]
+  },
+  {
+    "id": "L29_PD_22",
+    "lesson_id": 29,
+    "question_type": "pair_distinction",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "雨が降ってもサッカーをする / 雨が降ったけどサッカーをした",
+    "sentence_translation": "Dù mưa vẫn chơi (giả định). / Mưa rồi nhưng vẫn chơi (thực tế).",
+    "question_text": "Câu nào diễn tả tình huống GIẢ ĐỊNH (chưa xảy ra)?",
+    "question_description": "Phân biệt trợ từ",
+    "answers": [
+      {
+        "text": "雨が降ってもサッカーをする (ても = giả định, dù có mưa → vẫn chơi)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "雨が降ったけどサッカーをした (けど = thực tế đã xảy ra, mưa rồi nhưng đã chơi)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ても = GIẢ ĐỊNH: \"dù có X đi nữa → Y vẫn xảy ra\". けど = THỰC TẾ: \"X đã xảy ra nhưng Y cũng xảy ra\". 降っても (chưa mưa, nếu mưa → vẫn chơi). 降ったけど (đã mưa rồi, nhưng đã chơi)",
+    "hint": null,
+    "tags": [
+      "ても",
+      "けど",
+      "gia_dinh",
+      "thuc_te",
+      "phan_biet"
+    ]
+  },
+  {
+    "id": "L29_PK_23",
+    "lesson_id": 29,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "せっかく買ったのに使わなかった。",
+    "sentence_translation": "Cất công mua mà lại không dùng.",
+    "question_text": "🔒 Gặp のに → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 のに = vì thế nên",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"mua\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Cất công mua MÀ...\" → tiếc nuối → đọc tiếp tìm kết quả đáng tiếc",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp のに → 🔒 đóng gói: \"MẶC DÙ ~ MÀ... (tiếc!)\". せっかく買ったのに → \"cất công mua mà...\" → dự đoán: phần sau sẽ là KẾT QUẢ ĐÁNG TIẾC. のに = tín hiệu cảm xúc tiêu cực. Đọc nhanh!",
+    "hint": null,
+    "tags": [
+      "のに",
+      "tiec_nuoi",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L29_PK_24",
+    "lesson_id": 29,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "どんなに難しくても絶対あきらめない。",
+    "sentence_translation": "Dù khó đến mấy cũng tuyệt đối không bỏ cuộc.",
+    "question_text": "🔒 Gặp ても → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Dù khó đến mấy\" → nhượng bộ → đọc tiếp tìm quyết tâm/kết quả không đổi",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"khó\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ても = vì vậy",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp ても → 🔒 đóng gói: \"DÙ GÌ CŨNG...\". どんなに難しくても → \"dù khó đến mấy\" → dự đoán: phần sau = QUYẾT TÂM, kết quả KHÔNG thay đổi. ても = tín hiệu: điều kiện này KHÔNG ảnh hưởng",
+    "hint": null,
+    "tags": [
+      "ても",
+      "nhuong_bo",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L29_PK_25",
+    "lesson_id": 29,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼は日本人でありながら日本の歴史を全然知らない。",
+    "sentence_translation": "Anh ấy là người Nhật mà chẳng biết gì về lịch sử Nhật.",
+    "question_text": "🔒 Gặp ながら → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Chỉ đóng gói \"người Nhật\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 ながら = đang làm đồng thời",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Tuy là người Nhật mà...\" → mâu thuẫn → đọc tiếp tìm điều BẤT NGỜ/chê trách",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp ながら (mâu thuẫn) → 🔒 đóng gói: \"TUY ~ MÀ LẠI...\". でありながら = \"tuy là ~ mà...\" (trang trọng). Phần sau sẽ MÂU THUẪN với phần trước. PHÂN BIỆT: ながら đồng thời = 2 hành động cùng lúc; ながら mâu thuẫn = 2 ý trái ngược",
+    "hint": null,
+    "tags": [
+      "ながら",
+      "mau_thuan",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L29_PK_26",
+    "lesson_id": 29,
+    "question_type": "packaging",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "あの人は下手なくせに練習もしない。",
+    "sentence_translation": "Người đó dở mà cũng chẳng tập luyện.",
+    "question_text": "🔒 Gặp くせに → đóng gói?",
+    "question_description": "Chọn hình ảnh đóng gói đúng",
+    "answers": [
+      {
+        "text": "🔒 Không cần đóng gói",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 Chỉ đóng gói \"dở\"",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "🔒 \"Cái thứ dở mà...\" → chê bai → đọc tiếp tìm hành vi đáng trách",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "🔒 くせに = mặc dù (trung tính)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "Gặp くせに → 🔒 đóng gói: \"CÁI THỨ ~ MÀ LẠI...\" (khinh!). 下手なくせに = \"cái thứ dở mà...\". Dự đoán: phần sau = HÀNH VI ĐÁNG TRÁCH. くせに = tín hiệu chê bai rất mạnh, luôn tiêu cực",
+    "hint": null,
+    "tags": [
+      "くせに",
+      "che_bai",
+      "dong_goi"
+    ]
+  },
+  {
+    "id": "L29_RO_27",
+    "lesson_id": 29,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "日本語は難しいけど楽しいです。",
+    "sentence_translation": "Tiếng Nhật khó nhưng vui.",
+    "question_text": "日本語は難しいけど楽しいです。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "楽しいです",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "けど",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "難しい",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "日本語は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "日本語は (chủ đề) → 難しい (khó) → けど (nhưng) → 楽しいです (vui). けど nối 2 ý đối lập: [A けど B]. Thứ tự: chủ đề → ý 1 → けど → ý 2",
+    "hint": null,
+    "tags": [
+      "けど",
+      "tuong_phan",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L29_RO_28",
+    "lesson_id": 29,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "雨が降っても試合をします。",
+    "sentence_translation": "Dù mưa vẫn thi đấu.",
+    "question_text": "雨が降っても試合をします。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "試合をします",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "降っても",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "雨が",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "雨が (mưa) → 降っても (dù rơi) → 試合をします (vẫn thi đấu). [điều kiện + ても] → [kết quả không đổi]. ても luôn đặt ở mệnh đề trước",
+    "hint": null,
+    "tags": [
+      "ても",
+      "nhuong_bo",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L29_RO_29",
+    "lesson_id": 29,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 1,
+    "sentence": "約束したのに来なかった。",
+    "sentence_translation": "Đã hẹn mà không đến.",
+    "question_text": "約束したのに来なかった。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "来なかった",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "のに",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "約束した",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "約束した (đã hẹn) → のに (mà...) → 来なかった (không đến). [kỳ vọng + のに] → [kết quả trái ngược]. Mệnh đề のに = trước, kết quả đáng tiếc = sau",
+    "hint": null,
+    "tags": [
+      "のに",
+      "tiec_nuoi",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L29_RO_30",
+    "lesson_id": 29,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "いくら練習しても上手にならない。",
+    "sentence_translation": "Dù tập bao nhiêu cũng không giỏi lên.",
+    "question_text": "いくら練習しても上手にならない。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "ならない",
+        "is_correct": true,
+        "order": 5
+      },
+      {
+        "text": "しても",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "上手に",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "いくら",
+        "is_correct": true,
+        "order": 1
+      },
+      {
+        "text": "練習",
+        "is_correct": true,
+        "order": 2
+      }
+    ],
+    "explanation": "いくら (bao nhiêu) → 練習しても (dù tập) → 上手にならない (không giỏi lên). いくら...ても = \"dù... bao nhiêu cũng\". Nhượng bộ cực độ",
+    "hint": null,
+    "tags": [
+      "ても",
+      "いくら",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L29_RO_31",
+    "lesson_id": 29,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "彼女は忙しいと言いながら毎日テレビを見ている。",
+    "sentence_translation": "Cô ấy miệng nói bận mà ngày nào cũng xem TV.",
+    "question_text": "彼女は忙しいと言いながら毎日テレビを見ている。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "見ている",
+        "is_correct": true,
+        "order": 5
+      },
+      {
+        "text": "毎日テレビを",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "言いながら",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "忙しいと",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "彼女は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "彼女は (cô ấy) → 忙しいと言いながら (miệng nói bận mà) → 毎日テレビを見ている (ngày nào cũng xem TV). ながら = mâu thuẫn: LỜI NÓI ≠ HÀNH ĐỘNG",
+    "hint": null,
+    "tags": [
+      "ながら",
+      "mau_thuan",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L29_RO_32",
+    "lesson_id": 29,
+    "question_type": "reorder",
+    "answer_mode": "order",
+    "difficulty": 2,
+    "sentence": "あの子は子供のくせに大人みたいな話し方をする。",
+    "sentence_translation": "Đứa đó con nít mà nói chuyện như người lớn.",
+    "question_text": "あの子は子供のくせに大人みたいな話し方をする。",
+    "question_description": "Sắp xếp thứ tự",
+    "answers": [
+      {
+        "text": "話し方をする",
+        "is_correct": true,
+        "order": 5
+      },
+      {
+        "text": "大人みたいな",
+        "is_correct": true,
+        "order": 4
+      },
+      {
+        "text": "くせに",
+        "is_correct": true,
+        "order": 3
+      },
+      {
+        "text": "子供の",
+        "is_correct": true,
+        "order": 2
+      },
+      {
+        "text": "あの子は",
+        "is_correct": true,
+        "order": 1
+      }
+    ],
+    "explanation": "あの子は (đứa đó) → 子供のくせに (cái thứ con nít mà) → 大人みたいな話し方をする (nói như người lớn). くせに nối: [thân phận/tình trạng] → [hành vi mâu thuẫn đáng trách]",
+    "hint": null,
+    "tags": [
+      "くせに",
+      "reorder"
+    ]
+  },
+  {
+    "id": "L29_QT_33",
+    "lesson_id": 29,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "彼は優しいけど少し頼りない。",
+    "sentence_translation": "Anh ấy hiền nhưng hơi không đáng tin cậy.",
+    "question_text": "彼は優しい / けど / 少し頼りない。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Dù anh ấy hiền cũng không tin.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vì anh ấy hiền nên không tin.",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh ấy hiền mà không đáng tin cậy. (tiếc nuối)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Anh ấy hiền nhưng hơi không đáng tin cậy. (けど = tương phản trung tính)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "けど = \"nhưng\" (trung tính). 優しいけど頼りない = \"hiền nhưng không đáng tin cậy\" → chỉ mô tả 2 mặt, KHÔNG tiếc nuối hay trách. Nếu のに → \"hiền MÀ không đáng tin\" (tiếc!)",
+    "hint": null,
+    "tags": [
+      "けど",
+      "tuong_phan",
+      "dich"
+    ]
+  },
+  {
+    "id": "L29_QT_34",
+    "lesson_id": 29,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "せっかく早く起きたのに電車に乗り遅れた。",
+    "sentence_translation": "Cất công dậy sớm mà lỡ tàu.",
+    "question_text": "せっかく早く起きた / のに / 電車に乗り遅れた。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Vì dậy sớm nên lỡ tàu. (nguyên nhân)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Cất công dậy sớm mà lỡ tàu. (のに = tiếc nuối)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Dậy sớm nhưng lỡ tàu. (trung tính)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Dù dậy sớm cũng lỡ tàu. (nhượng bộ)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "のに = \"mà...\" + TIẾC NUỐI. せっかく (cất công) tăng cường sắc thái tiếc. Dậy sớm rồi → kỳ vọng kịp tàu → nhưng trượt! のに diễn đạt kỳ vọng bị phản bội",
+    "hint": null,
+    "tags": [
+      "のに",
+      "tiec_nuoi",
+      "dich"
+    ]
+  },
+  {
+    "id": "L29_QT_35",
+    "lesson_id": 29,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 1,
+    "sentence": "どんなに高くても買います。",
+    "sentence_translation": "Dù đắt đến mấy cũng mua.",
+    "question_text": "どんなに高くても / 買います。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Đắt mà mua. (tiếc nuối)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Đắt nhưng mua. (trung tính)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Dù đắt đến mấy cũng mua. (ても = nhượng bộ)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Đắt nên mua. (nguyên nhân)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "どんなに + ても = \"dù ~ đến mấy cũng...\". 高くても = \"dù đắt\". い-adj bỏ い + くても. QUYẾT TÂM: dù giá nào cũng mua. ても = điều kiện KHÔNG thay đổi kết quả",
+    "hint": null,
+    "tags": [
+      "ても",
+      "nhuong_bo",
+      "dich"
+    ]
+  },
+  {
+    "id": "L29_QT_36",
+    "lesson_id": 29,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼女は痩せているくせにダイエットしている。",
+    "sentence_translation": "Cô ấy gầy rồi mà cứ ăn kiêng.",
+    "question_text": "痩せている / くせに / ダイエットしている。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Gầy nhưng ăn kiêng. (trung tính)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Gầy nên ăn kiêng. (nguyên nhân)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vì gầy mà ăn kiêng. (lý do)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Gầy rồi mà cứ ăn kiêng. (くせに = chê bai)",
+        "is_correct": true,
+        "order": null
+      }
+    ],
+    "explanation": "くせに = \"cái thứ ~ mà lại...\" (chê bai). 痩せているくせに = \"gầy rồi mà...\" → người nói CHÊ: rõ ràng gầy rồi mà cứ ăn kiêng. Nếu のに → \"gầy mà ăn kiêng\" (ngạc nhiên nhẹ hơn)",
+    "hint": null,
+    "tags": [
+      "くせに",
+      "che_bai",
+      "dich"
+    ]
+  },
+  {
+    "id": "L29_QT_37",
+    "lesson_id": 29,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "彼は事実を知っていながら黙っていた。",
+    "sentence_translation": "Anh ấy biết sự thật mà im lặng.",
+    "question_text": "知っていながら / 黙っていた。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Biết sự thật nhưng im lặng. (trung tính)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Biết sự thật mà im lặng. (ながら = mâu thuẫn, trang trọng)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Dù biết sự thật cũng im lặng. (nhượng bộ)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vì biết sự thật nên im lặng. (nguyên nhân)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "ながら mâu thuẫn = \"tuy ~ mà lại...\" (trang trọng). 知っていながら黙っていた = \"biết mà im\" → MÂU THUẪN giữa nhận thức và hành động. ながら mâu thuẫn dùng trong VĂN VIẾT, báo chí. Khẩu ngữ dùng のに",
+    "hint": null,
+    "tags": [
+      "ながら",
+      "mau_thuan",
+      "dich"
+    ]
+  },
+  {
+    "id": "L29_QT_38",
+    "lesson_id": 29,
+    "question_type": "quick_translate",
+    "answer_mode": "select",
+    "difficulty": 2,
+    "sentence": "失礼ながら、ご質問があります。",
+    "sentence_translation": "Xin lỗi nhưng tôi có câu hỏi.",
+    "question_text": "失礼ながら / ご質問があります。 → Chọn bản dịch đúng:",
+    "question_description": "Dịch nhanh",
+    "answers": [
+      {
+        "text": "Xin lỗi nhưng tôi có câu hỏi. (ながら = tương phản trang trọng, cố định)",
+        "is_correct": true,
+        "order": null
+      },
+      {
+        "text": "Dù xin lỗi cũng có câu hỏi. (nhượng bộ)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Xin lỗi mà có câu hỏi. (tiếc nuối)",
+        "is_correct": false,
+        "order": null
+      },
+      {
+        "text": "Vì xin lỗi nên có câu hỏi. (nguyên nhân)",
+        "is_correct": false,
+        "order": null
+      }
+    ],
+    "explanation": "失礼ながら = \"xin lỗi nhưng...\" (cụm cố định, rất trang trọng). ながら trang trọng thường đi với tính từ/danh từ cố định: 残念ながら, 失礼ながら, 恥ずかしながら. Dùng trong kinh doanh, diễn thuyết",
+    "hint": null,
+    "tags": [
+      "ながら",
+      "co_dinh",
+      "trang_trong",
+      "dich"
+    ]
+  }
+]
