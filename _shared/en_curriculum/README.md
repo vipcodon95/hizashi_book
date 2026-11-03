@@ -50,3 +50,41 @@ Bài đọc gắn với phiếu X nên:
 ## Để nhập ngược vào app
 
 Mỗi bài đọc phải ghi **mã phiếu** (hoặc mã unit) mà nó luyện, để sau này nhập được vào khoá học.
+
+## Tên nhân vật và địa danh
+
+Giáo trình app đã đổi hết tên Việt sang tên Mỹ (02/11/2026): giọng đọc tiếng Anh đọc sai tên Việt, kiểu `Lan` thành *Lamb*. Sách dùng **đúng bộ tên này** để khớp với app. Cần thêm nhân vật thì chọn tên Mỹ phổ biến, dễ đọc. Không dùng tên Việt.
+
+| Nhân vật (tên cũ) | Số lần dùng |
+|---|---|
+| **Megan** (Mai) | 391 |
+| **Leah** (Linh) | 383 |
+| **Nathan** (Nam) | 306 |
+| **Mitchell** (Minh) | 195 |
+| **Lydia** (Lan) | 133 |
+| **Helena** (Hoa) | 115 |
+| **Tina** (Thảo) | 54 |
+| **Tracy** (Trang) | 50 |
+| **Harriet** (Hương) | 37 |
+| **Trevor** (Tuấn) | 13 |
+| **Amy** (Anh) | 2 |
+
+| Địa danh cũ | Địa danh mới |
+|---|---|
+| Hà Nội | Washington |
+| Sài Gòn | New York |
+| Huế | Philadelphia |
+| Đà Nẵng | San Diego |
+| Nha Trang | Miami |
+| Hội An | Savannah |
+| Đà Lạt | Asheville |
+| Sa Pa | Aspen |
+| Phú Quốc | Maui |
+| Hạ Long | Monterey |
+| Mê Kông | Mississippi |
+| Hải Phòng | Baltimore |
+| Cần Thơ | New Orleans |
+| Phong Nha | Mammoth Cave |
+| Phố cổ | Georgetown |
+
+Tên phố ví dụ: dùng tên phố Mỹ thông thường, đừng dùng tên phố Việt.
