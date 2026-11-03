@@ -278,6 +278,15 @@ Không gom nhiều chương vào 1 commit. Không đợi xong cả sách mới c
 
 ✅ `books/*/_pipeline/state.json` **được track** (đã bỏ khỏi `.gitignore` ngày 03/11/2026) → luôn commit kèm mỗi chương để phiên sau resume được.
 
+## Series sách đọc hiểu TIẾNG ANH A1–C1 (sách 56–60)
+
+Đọc trước: `_shared/english_cefr/KE_HOACH_SERIES.md`. Tóm tắt:
+- **1 cấp = 1 cuốn, 1 chương = 1 unit** của khoá tiếng Anh. Vốn từ lấy từ `_shared/en_curriculum/` (phiếu A1–C1).
+- **`*_BaiTap.json` là nguồn sự thật**, gồm bài đọc chia `segments` (từng câu: `en` / `vi` / `speaker`, dùng cho shadowing) và câu hỏi có `evidence_segments`. File `_DocHieu.md` **sinh tự động**: `python3 _shared/scripts/build_en_reading.py <file>`. Không sửa tay md.
+- Soát vốn từ: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối unit> --allow "<tên riêng>" <file>`.
+- **Tên nhân vật và địa danh là tên Mỹ**, không dùng tên Việt (TTS đọc khó nghe).
+- Không viết trùng bài đọc app đã có (`reading_title` trong `en_curriculum`).
+
 ## Quy tắc CRITICAL khi viết content
 
 ### Markdown lý thuyết (.md)

@@ -1,7 +1,7 @@
 {
-  "_schema_version": "1.0",
+  "_schema_version": "1.1",
   "_skill": "study-course-questions-builder",
-  "_description": "BÀI MẪU THỬ — sách đọc hiểu tiếng Anh A1, bám Unit 3 khoá Hizashi. Giữ khoá schema chung: tiếng Anh ở content_ja / question_jp / text; tiếng Việt ở translation_vn / question_vn / text_translation.",
+  "_description": "NGUỒN SỰ THẬT của chương. Chỉ sửa segments / questions / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại content_ja, translation_vn, word_count và file _DocHieu.md.",
   "meta": {
     "title": "Unit 3 — Family and friends",
     "title_vn": "Gia đình, bạn bè",
@@ -20,42 +20,408 @@
     "focus": "Tìm người được nói tới (he/she/they) + số dễ nhầm",
     "description_vn": "Đọc trang album ảnh và đoạn tin nhắn về gia đình, bạn bè. 2 bài đọc × 5 câu."
   },
+  "lesson": {
+    "practice_for": "Unit 3 khoá A1 · phiếu `a1.09` – `a1.12` (gia đình, miêu tả người quen, họ hàng, giới thiệu bạn).",
+    "objective": "đọc một trang album ảnh và một đoạn tin nhắn; tìm đúng người được nói tới (he / she / they chỉ ai) và phân biệt các số dễ nhầm.",
+    "vocab": [
+      "grandpa",
+      "grandma",
+      "miss",
+      "aunt",
+      "twin",
+      "son",
+      "kid",
+      "kind",
+      "strict",
+      "shy",
+      "smart",
+      "funny",
+      "best",
+      "classmate",
+      "neighbor",
+      "club",
+      "share",
+      "bike",
+      "album",
+      "cousin",
+      "parent",
+      "child",
+      "grandfather"
+    ],
+    "phrases_note": "Cụm hay gặp trong bài: *only child* (con một), *best friend* (bạn thân nhất), *ride a bike* (đạp xe), *little sister* (em gái).",
+    "tips": [
+      "Đọc câu hỏi trước, gạch chân từ khoá (`Where`, `Who`, `How old`), rồi mới tìm trong bài.",
+      "Bài A1 hay cài bẫy bằng **từ có trong bài nhưng nói về người khác**. Gặp `he / she / they / her` thì dừng lại xem nó chỉ ai.",
+      "Số dễ nhầm: `eight` (8) / `eighteen` (18) / `eighty` (80). Đuôi **-teen** là 13–19, đuôi **-ty** là hàng chục.",
+      "`This is` dùng cho một người, `These are` dùng cho hai người trở lên."
+    ]
+  },
   "reading_passages": [
     {
       "id": "passage_u03_01",
+      "heading_vn": "Bài đọc 1 — Trang album ảnh của Emma",
       "title": "My New Album",
       "category": "story",
       "jlpt_level": "A1",
       "difficulty": 1,
-      "word_count": 117,
       "estimated_reading_time": 60,
-      "content_ja": "My New Album\n\nThis is my new album. Here are my family and my friends.\n\n1. These are my grandpa and my grandma. They live in Hue. I miss them!\n\n2. These are my mom and dad. My dad is a teacher. He is kind, but he is very strict at school.\n\n3. This is my little sister, Mai. She is seven years old. She is shy, but she is very smart.\n\n4. These are my aunt and her twin sons. They are four. They are funny kids!\n\n5. This is Hoa, my best friend. She is my classmate and my neighbor. We are in a book club together. We share books and we ride bikes.\n\nLinh",
-      "translation_vn": "(1) Album mới của mình\n(2) Đây là album mới của mình.\n(3) Đây là gia đình và bạn bè của mình.\n(4) Đây là ông và bà của mình.\n(5) Ông bà sống ở Huế.\n(6) Mình nhớ ông bà lắm!\n(7) Đây là mẹ và bố mình.\n(8) Bố mình là giáo viên.\n(9) Bố hiền, nhưng ở trường thì bố rất nghiêm.\n(10) Đây là em gái mình, Mai.\n(11) Em ấy 7 tuổi.\n(12) Em ấy nhút nhát, nhưng rất thông minh.\n(13) Đây là cô mình và hai con trai sinh đôi của cô.\n(14) Hai bạn ấy 4 tuổi.\n(15) Hai đứa nhóc vui tính lắm!\n(16) Đây là Hoa, bạn thân nhất của mình.\n(17) Hoa là bạn cùng lớp và cũng là hàng xóm của mình.\n(18) Bọn mình cùng ở một câu lạc bộ sách.\n(19) Bọn mình cho nhau mượn sách và cùng đạp xe.\n(20) Linh",
       "curriculum_sheets": [
         "a1.09",
         "a1.10",
         "a1.11",
         "a1.12"
       ],
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "en": "My New Album",
+          "vi": "Album mới của mình"
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "This is my new album.",
+          "vi": "Đây là album mới của mình."
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "Here are my family and my friends.",
+          "vi": "Đây là gia đình và bạn bè của mình."
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "1.",
+          "en": "These are my grandpa and my grandma.",
+          "vi": "Đây là ông và bà của mình."
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "They live in Texas.",
+          "vi": "Ông bà sống ở bang Texas."
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "I miss them!",
+          "vi": "Mình nhớ ông bà lắm!"
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "2.",
+          "en": "These are my mom and dad.",
+          "vi": "Đây là mẹ và bố mình."
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "My dad is a teacher.",
+          "vi": "Bố mình là giáo viên."
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "He is kind, but he is very strict at school.",
+          "vi": "Bố hiền, nhưng ở trường thì bố rất nghiêm."
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "3.",
+          "en": "This is my little sister, Lucy.",
+          "vi": "Đây là em gái mình, Lucy."
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "She is seven years old.",
+          "vi": "Em ấy 7 tuổi."
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "She is shy, but she is very smart.",
+          "vi": "Em ấy nhút nhát, nhưng rất thông minh."
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "4.",
+          "en": "These are my aunt and her twin sons.",
+          "vi": "Đây là cô mình và hai con trai sinh đôi của cô."
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "They are four.",
+          "vi": "Hai bạn ấy 4 tuổi."
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "They are funny kids!",
+          "vi": "Hai đứa nhóc vui tính lắm!"
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "5.",
+          "en": "This is Olivia, my best friend.",
+          "vi": "Đây là Olivia, bạn thân nhất của mình."
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "She is my classmate and my neighbor.",
+          "vi": "Olivia là bạn cùng lớp và cũng là hàng xóm của mình."
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "We are in a book club together.",
+          "vi": "Bọn mình cùng ở một câu lạc bộ sách."
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "en": "We share books and we ride bikes.",
+          "vi": "Bọn mình cho nhau mượn sách và cùng đạp xe."
+        },
+        {
+          "n": 20,
+          "para": 8,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "en": "Emma",
+          "vi": "Emma"
+        }
+      ],
+      "content_ja": "My New Album\n\nThis is my new album. Here are my family and my friends.\n\n1. These are my grandpa and my grandma. They live in Texas. I miss them!\n\n2. These are my mom and dad. My dad is a teacher. He is kind, but he is very strict at school.\n\n3. This is my little sister, Lucy. She is seven years old. She is shy, but she is very smart.\n\n4. These are my aunt and her twin sons. They are four. They are funny kids!\n\n5. This is Olivia, my best friend. She is my classmate and my neighbor. We are in a book club together. We share books and we ride bikes.\n\nEmma",
+      "translation_vn": "(1) Album mới của mình\n(2) Đây là album mới của mình.\n(3) Đây là gia đình và bạn bè của mình.\n(4) Đây là ông và bà của mình.\n(5) Ông bà sống ở bang Texas.\n(6) Mình nhớ ông bà lắm!\n(7) Đây là mẹ và bố mình.\n(8) Bố mình là giáo viên.\n(9) Bố hiền, nhưng ở trường thì bố rất nghiêm.\n(10) Đây là em gái mình, Lucy.\n(11) Em ấy 7 tuổi.\n(12) Em ấy nhút nhát, nhưng rất thông minh.\n(13) Đây là cô mình và hai con trai sinh đôi của cô.\n(14) Hai bạn ấy 4 tuổi.\n(15) Hai đứa nhóc vui tính lắm!\n(16) Đây là Olivia, bạn thân nhất của mình.\n(17) Olivia là bạn cùng lớp và cũng là hàng xóm của mình.\n(18) Bọn mình cùng ở một câu lạc bộ sách.\n(19) Bọn mình cho nhau mượn sách và cùng đạp xe.\n(20) Emma",
+      "word_count": 112,
       "audio_url": null,
       "image_url": null
     },
     {
       "id": "passage_u03_02",
-      "title": "A chat with Ken",
+      "heading_vn": "Bài đọc 2 — Tin nhắn giữa Jake và Emma",
+      "title": "A chat with Jake",
       "category": "letter",
       "jlpt_level": "A1",
       "difficulty": 1,
-      "word_count": 95,
       "estimated_reading_time": 90,
-      "content_ja": "Ken: Hi Linh! Is this your family in your album?\n\nLinh: Yes! That's my mom, my dad and my little sister.\n\nKen: Nice! Do you have a brother?\n\nLinh: No, I don't. But I have two cousins. They're twins! What about you?\n\nKen: I'm an only child. I live with my parents and my grandfather.\n\nLinh: Is your grandfather funny?\n\nKen: Yes, he is very funny! He's eighty years old, but he rides a bike!\n\nLinh: That's nice! Come to my book club. You can meet my best friend, Hoa.\n\nKen: Thanks! See you later.",
-      "translation_vn": "(1) Ken: Chào Linh! Đây là gia đình cậu trong album à?\n(2) Linh: Ừ! Đó là mẹ, bố và em gái mình.\n(3) Ken: Hay quá! Cậu có anh trai hay em trai không?\n(4) Linh: Không có.\n(5) Linh: Nhưng mình có hai em họ.\n(6) Linh: Hai đứa là sinh đôi đấy!\n(7) Linh: Còn cậu thì sao?\n(8) Ken: Mình là con một.\n(9) Ken: Mình sống với bố mẹ và ông.\n(10) Linh: Ông cậu có vui tính không?\n(11) Ken: Có, ông vui tính lắm!\n(12) Ken: Ông 80 tuổi rồi mà vẫn đạp xe đấy!\n(13) Linh: Hay thật!\n(14) Linh: Đến câu lạc bộ sách của mình nhé.\n(15) Linh: Cậu sẽ được gặp Hoa, bạn thân nhất của mình.\n(16) Ken: Cảm ơn nhé! Lát gặp lại.",
       "curriculum_sheets": [
         "a1.09",
         "a1.10",
         "a1.11",
         "a1.12"
       ],
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "en": "Hi Emma! Is this your family in your album?",
+          "vi": "Chào Emma! Đây là gia đình cậu trong album à?"
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "Yes! That's my mom, my dad and my little sister.",
+          "vi": "Ừ! Đó là mẹ, bố và em gái mình."
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "en": "Nice! Do you have a brother?",
+          "vi": "Hay quá! Cậu có anh trai hay em trai không?"
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "No, I don't.",
+          "vi": "Không có."
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "But I have two cousins.",
+          "vi": "Nhưng mình có hai em họ."
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "They're twins!",
+          "vi": "Hai đứa là sinh đôi đấy!"
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "What about you?",
+          "vi": "Còn cậu thì sao?"
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "en": "I'm an only child.",
+          "vi": "Mình là con một."
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "en": "I live with my parents and my grandfather.",
+          "vi": "Mình sống với bố mẹ và ông."
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "Is your grandfather funny?",
+          "vi": "Ông cậu có vui tính không?"
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "en": "Yes, he is very funny!",
+          "vi": "Có, ông vui tính lắm!"
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "en": "He's eighty years old, but he rides a bike!",
+          "vi": "Ông 80 tuổi rồi mà vẫn đạp xe đấy!"
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "That's nice!",
+          "vi": "Hay thật!"
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "Come to my book club.",
+          "vi": "Đến câu lạc bộ sách của mình nhé."
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Emma",
+          "label": null,
+          "en": "You can meet my best friend, Olivia.",
+          "vi": "Cậu sẽ được gặp Olivia, bạn thân nhất của mình."
+        },
+        {
+          "n": 16,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "en": "Thanks! See you later.",
+          "vi": "Cảm ơn nhé! Lát gặp lại."
+        }
+      ],
+      "content_ja": "Jake: Hi Emma! Is this your family in your album?\n\nEmma: Yes! That's my mom, my dad and my little sister.\n\nJake: Nice! Do you have a brother?\n\nEmma: No, I don't. But I have two cousins. They're twins! What about you?\n\nJake: I'm an only child. I live with my parents and my grandfather.\n\nEmma: Is your grandfather funny?\n\nJake: Yes, he is very funny! He's eighty years old, but he rides a bike!\n\nEmma: That's nice! Come to my book club. You can meet my best friend, Olivia.\n\nJake: Thanks! See you later.",
+      "translation_vn": "(1) Jake: Chào Emma! Đây là gia đình cậu trong album à?\n(2) Emma: Ừ! Đó là mẹ, bố và em gái mình.\n(3) Jake: Hay quá! Cậu có anh trai hay em trai không?\n(4) Emma: Không có.\n(5) Emma: Nhưng mình có hai em họ.\n(6) Emma: Hai đứa là sinh đôi đấy!\n(7) Emma: Còn cậu thì sao?\n(8) Jake: Mình là con một.\n(9) Jake: Mình sống với bố mẹ và ông.\n(10) Emma: Ông cậu có vui tính không?\n(11) Jake: Có, ông vui tính lắm!\n(12) Jake: Ông 80 tuổi rồi mà vẫn đạp xe đấy!\n(13) Emma: Hay thật!\n(14) Emma: Đến câu lạc bộ sách của mình nhé.\n(15) Emma: Cậu sẽ được gặp Olivia, bạn thân nhất của mình.\n(16) Jake: Cảm ơn nhé! Lát gặp lại.",
+      "word_count": 86,
       "audio_url": null,
       "image_url": null
     }
@@ -68,13 +434,13 @@
       "skill_category": "dokkai",
       "level": "A1",
       "passage_ref": "passage_u03_01",
-      "question_jp": "Where do Linh's grandparents live?",
-      "question_vn": "Ông bà của Linh sống ở đâu?",
+      "question_jp": "Where do Emma's grandparents live?",
+      "question_vn": "Ông bà của Emma sống ở đâu?",
       "choices": [
         {
           "id": "A",
-          "text": "with Linh",
-          "text_translation": "cùng nhà với Linh",
+          "text": "with Emma",
+          "text_translation": "cùng nhà với Emma",
           "is_correct": false,
           "order": 0
         },
@@ -87,8 +453,8 @@
         },
         {
           "id": "C",
-          "text": "in Hue",
-          "text_translation": "ở Huế",
+          "text": "in Texas",
+          "text_translation": "ở bang Texas",
           "is_correct": true,
           "order": 2
         },
@@ -100,7 +466,11 @@
           "order": 3
         }
       ],
-      "explanation": "Câu 4–5: \"These are my grandpa and my grandma. They live in Hue.\" \"They\" là ông bà.",
+      "evidence_segments": [
+        4,
+        5
+      ],
+      "explanation": "\"These are my grandpa and my grandma. They live in Texas.\" \"They\" là ông bà.",
       "audio_data": null
     },
     {
@@ -115,34 +485,37 @@
       "choices": [
         {
           "id": "A",
-          "text": "Linh's dad",
-          "text_translation": "bố của Linh",
+          "text": "Emma's dad",
+          "text_translation": "bố của Emma",
           "is_correct": true,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Linh's mom",
-          "text_translation": "mẹ của Linh",
+          "text": "Emma's mom",
+          "text_translation": "mẹ của Emma",
           "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Linh's aunt",
-          "text_translation": "cô của Linh",
+          "text": "Emma's aunt",
+          "text_translation": "cô của Emma",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Hoa",
-          "text_translation": "Hoa",
+          "text": "Olivia",
+          "text_translation": "Olivia",
           "is_correct": false,
           "order": 3
         }
       ],
-      "explanation": "Câu 8: \"My dad is a teacher.\" Bài không nói mẹ hay cô của Linh làm gì.",
+      "evidence_segments": [
+        8
+      ],
+      "explanation": "\"My dad is a teacher.\" Bài không nói mẹ hay cô của Emma làm gì.",
       "audio_data": null
     },
     {
@@ -152,8 +525,8 @@
       "skill_category": "dokkai",
       "level": "A1",
       "passage_ref": "passage_u03_01",
-      "question_jp": "How does Linh describe Mai?",
-      "question_vn": "Linh miêu tả Mai như thế nào?",
+      "question_jp": "How does Emma describe Lucy?",
+      "question_vn": "Emma miêu tả Lucy như thế nào?",
       "choices": [
         {
           "id": "A",
@@ -184,7 +557,10 @@
           "order": 3
         }
       ],
-      "explanation": "Câu 12: \"She is shy, but she is very smart.\" \"kind\" và \"strict\" là nói về bố; \"funny\" là nói về hai em sinh đôi.",
+      "evidence_segments": [
+        12
+      ],
+      "explanation": "\"She is shy, but she is very smart.\" \"kind\" và \"strict\" là nói về bố; \"funny\" là nói về hai em sinh đôi.",
       "audio_data": null,
       "tip": "Câu hỏi \"How does … describe …?\" thường cài các tính từ có trong bài nhưng nói về NGƯỜI KHÁC — xem kỹ \"she/he/they\" chỉ ai."
     },
@@ -200,34 +576,37 @@
       "choices": [
         {
           "id": "A",
-          "text": "Linh's brothers",
-          "text_translation": "anh em trai của Linh",
+          "text": "Emma's brothers",
+          "text_translation": "anh em trai của Emma",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Linh's aunt's sons",
-          "text_translation": "hai con trai của cô Linh",
+          "text": "Emma's aunt's sons",
+          "text_translation": "hai con trai của cô Emma",
           "is_correct": true,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Hoa's sons",
-          "text_translation": "hai con trai của Hoa",
+          "text": "Olivia's sons",
+          "text_translation": "hai con trai của Olivia",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Linh's classmates",
-          "text_translation": "bạn cùng lớp của Linh",
+          "text": "Emma's classmates",
+          "text_translation": "bạn cùng lớp của Emma",
           "is_correct": false,
           "order": 3
         }
       ],
-      "explanation": "Câu 13: \"These are my aunt and her twin sons.\" \"her\" là của cô. Ở bài đọc 2, Linh còn nói mình không có anh em trai.",
+      "evidence_segments": [
+        13
+      ],
+      "explanation": "\"These are my aunt and her twin sons.\" \"her\" là của cô. Ở bài đọc 2, Emma còn nói mình không có anh em trai.",
       "audio_data": null
     },
     {
@@ -237,39 +616,42 @@
       "skill_category": "dokkai",
       "level": "A1",
       "passage_ref": "passage_u03_01",
-      "question_jp": "Who is Hoa?",
-      "question_vn": "Hoa là ai?",
+      "question_jp": "Who is Olivia?",
+      "question_vn": "Olivia là ai?",
       "choices": [
         {
           "id": "A",
-          "text": "Linh's sister",
-          "text_translation": "em gái của Linh",
+          "text": "Emma's sister",
+          "text_translation": "em gái của Emma",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Linh's best friend",
-          "text_translation": "bạn thân nhất của Linh",
+          "text": "Emma's best friend",
+          "text_translation": "bạn thân nhất của Emma",
           "is_correct": true,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Linh's teacher",
-          "text_translation": "cô giáo của Linh",
+          "text": "Emma's teacher",
+          "text_translation": "cô giáo của Emma",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Linh's aunt",
-          "text_translation": "cô của Linh",
+          "text": "Emma's aunt",
+          "text_translation": "cô của Emma",
           "is_correct": false,
           "order": 3
         }
       ],
-      "explanation": "Câu 16: \"This is Hoa, my best friend.\" Em gái của Linh tên là Mai.",
+      "evidence_segments": [
+        16
+      ],
+      "explanation": "\"This is Olivia, my best friend.\" Em gái của Emma tên là Lucy.",
       "audio_data": null
     },
     {
@@ -279,39 +661,44 @@
       "skill_category": "dokkai",
       "level": "A1",
       "passage_ref": "passage_u03_02",
-      "question_jp": "Does Linh have a brother?",
-      "question_vn": "Linh có anh trai hay em trai không?",
+      "question_jp": "Does Emma have a brother?",
+      "question_vn": "Emma có anh trai hay em trai không?",
       "choices": [
         {
           "id": "A",
           "text": "Yes, she has one.",
-          "text_translation": "Có, Linh có một người.",
+          "text_translation": "Có, Emma có một người.",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
           "text": "Yes, she has two.",
-          "text_translation": "Có, Linh có hai người.",
+          "text_translation": "Có, Emma có hai người.",
           "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
           "text": "No, she doesn't.",
-          "text_translation": "Không, Linh không có.",
+          "text_translation": "Không, Emma không có.",
           "is_correct": true,
           "order": 2
         },
         {
           "id": "D",
           "text": "Yes, she has a twin brother.",
-          "text_translation": "Có, Linh có một anh em sinh đôi.",
+          "text_translation": "Có, Emma có một anh em sinh đôi.",
           "is_correct": false,
           "order": 3
         }
       ],
-      "explanation": "Câu 4: \"No, I don't.\" Bẫy: \"two\" và \"twins\" là nói về hai em họ (cousins), không phải anh em trai.",
+      "evidence_segments": [
+        4,
+        5,
+        6
+      ],
+      "explanation": "\"No, I don't.\" Bẫy: \"two\" và \"twins\" là nói về hai em họ (cousins), không phải anh em trai.",
       "audio_data": null
     },
     {
@@ -321,8 +708,8 @@
       "skill_category": "dokkai",
       "level": "A1",
       "passage_ref": "passage_u03_02",
-      "question_jp": "Who does Ken live with?",
-      "question_vn": "Ken sống với ai?",
+      "question_jp": "Who does Jake live with?",
+      "question_vn": "Jake sống với ai?",
       "choices": [
         {
           "id": "A",
@@ -353,7 +740,10 @@
           "order": 3
         }
       ],
-      "explanation": "Câu 9: \"I live with my parents and my grandfather.\" \"parents\" = bố mẹ.",
+      "evidence_segments": [
+        9
+      ],
+      "explanation": "\"I live with my parents and my grandfather.\" \"parents\" = bố mẹ.",
       "audio_data": null
     },
     {
@@ -363,8 +753,8 @@
       "skill_category": "dokkai",
       "level": "A1",
       "passage_ref": "passage_u03_02",
-      "question_jp": "How old is Ken's grandfather?",
-      "question_vn": "Ông của Ken bao nhiêu tuổi?",
+      "question_jp": "How old is Jake's grandfather?",
+      "question_vn": "Ông của Jake bao nhiêu tuổi?",
       "choices": [
         {
           "id": "A",
@@ -395,7 +785,10 @@
           "order": 3
         }
       ],
-      "explanation": "Câu 12: \"He's eighty years old\". Cẩn thận: eighty (80) khác eighteen (18) và eight (8).",
+      "evidence_segments": [
+        12
+      ],
+      "explanation": "\"He's eighty years old\". Cẩn thận: eighty (80) khác eighteen (18) và eight (8).",
       "audio_data": null,
       "tip": "Số đếm dễ nhầm: eight (8) / eighteen (18) / eighty (80). Đuôi -teen là 13–19, đuôi -ty là hàng chục."
     },
@@ -406,39 +799,42 @@
       "skill_category": "dokkai",
       "level": "A1",
       "passage_ref": "passage_u03_02",
-      "question_jp": "What does Linh ask Ken to do?",
-      "question_vn": "Linh rủ Ken làm gì?",
+      "question_jp": "What does Emma ask Jake to do?",
+      "question_vn": "Emma rủ Jake làm gì?",
       "choices": [
         {
           "id": "A",
           "text": "ride a bike with her",
-          "text_translation": "đạp xe cùng Linh",
+          "text_translation": "đạp xe cùng Emma",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
           "text": "meet her grandpa",
-          "text_translation": "gặp ông của Linh",
+          "text_translation": "gặp ông của Emma",
           "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
           "text": "come to her book club",
-          "text_translation": "đến câu lạc bộ sách của Linh",
+          "text_translation": "đến câu lạc bộ sách của Emma",
           "is_correct": true,
           "order": 2
         },
         {
           "id": "D",
           "text": "share her album",
-          "text_translation": "xem chung album của Linh",
+          "text_translation": "xem chung album của Emma",
           "is_correct": false,
           "order": 3
         }
       ],
-      "explanation": "Câu 14: \"Come to my book club.\" Người đạp xe là ông của Ken, không phải Linh rủ đạp xe.",
+      "evidence_segments": [
+        14
+      ],
+      "explanation": "\"Come to my book club.\" Người đạp xe là ông của Jake; Emma không rủ đạp xe.",
       "audio_data": null
     },
     {
@@ -448,8 +844,8 @@
       "skill_category": "dokkai",
       "level": "A1",
       "passage_ref": "passage_u03_02",
-      "question_jp": "Ken is ______.",
-      "question_vn": "Ken là ______.",
+      "question_jp": "Jake is ______.",
+      "question_vn": "Jake là ______.",
       "choices": [
         {
           "id": "A",
@@ -467,8 +863,8 @@
         },
         {
           "id": "C",
-          "text": "Linh's cousin",
-          "text_translation": "em họ của Linh",
+          "text": "Emma's cousin",
+          "text_translation": "em họ của Emma",
           "is_correct": false,
           "order": 2
         },
@@ -480,7 +876,10 @@
           "order": 3
         }
       ],
-      "explanation": "Câu 8: \"I'm an only child.\" (only child = con một: không có anh chị em).",
+      "evidence_segments": [
+        8
+      ],
+      "explanation": "\"I'm an only child.\" (only child = con một: không có anh chị em).",
       "audio_data": null
     }
   ],
@@ -488,7 +887,7 @@
     {
       "set_id": "set_u03_reading_1",
       "set_type": "reading",
-      "name": "Bài đọc 1 — Trang album ảnh của Linh",
+      "name": "Bài đọc 1 — Trang album ảnh của Emma",
       "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
       "card_count": 5,
       "module_position": 1,
@@ -504,7 +903,7 @@
     {
       "set_id": "set_u03_reading_2",
       "set_type": "reading",
-      "name": "Bài đọc 2 — Tin nhắn giữa Ken và Linh",
+      "name": "Bài đọc 2 — Tin nhắn giữa Jake và Emma",
       "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
       "card_count": 5,
       "module_position": 2,

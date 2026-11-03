@@ -1,6 +1,6 @@
 # Kế hoạch series sách đọc hiểu tiếng Anh A1 → C1 (bám khoá Hizashi, luyện VSTEP)
 
-> Bản nháp 2, 03/11/2026, chờ chủ nhà duyệt.
+> Bản 3, 03/11/2026. Đã chốt các mục 1–2; mục 8 là việc còn mở.
 >
 > Bài mẫu thử: `books/56_english_a1/_mau_thu/u03_family_friends/`.
 >
@@ -13,6 +13,9 @@
 - **Văn phải tự nhiên.** Thêm vài từ ngoài phạm vi cũng được nếu nó giúp câu văn tự nhiên, miễn các thành phần chính nằm trong vốn từ. Từ ngoài phạm vi phải có chú nghĩa tiếng Việt.
 - **Mỗi bài đọc ghi mã unit và mã phiếu** nó luyện, để sau này nhập ngược vào app.
 - **Không viết trùng bài đọc app đã có.** Mỗi unit trên app đã có một bài đọc ở phiếu cuối (`reading_title`). Sách phải chọn loại văn bản và tình huống khác.
+- **Mỗi cấp 1 cuốn**, số chương = số unit, không giới hạn số chương.
+- **Nhân vật và địa danh dùng tên Mỹ** (Emma, Jake, Texas…), không dùng tên Việt. Lý do: TTS tiếng Anh đọc tên Việt rất khó nghe.
+- **Dữ liệu phải tách được tiếng Anh / bản dịch theo từng câu**, để app hiển thị bài tập, song ngữ và **shadowing từng dòng** (xem mục 5).
 
 ## 2. Phạm vi
 
@@ -58,7 +61,19 @@ Script: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối
 6. Mẹo làm bài.
 7. Đáp án và **giải thích chỉ rõ câu số mấy trong bài**.
 
-**File `u<NN>_<Ten>_BaiTap.json`**: cùng nội dung, sinh từ cùng một nguồn với file md để không lệch. File phải pass `validate_json.py`.
+**File `u<NN>_<Ten>_BaiTap.json` là NGUỒN SỰ THẬT.** File md **sinh tự động** từ JSON:
+
+```bash
+python3 _shared/scripts/build_en_reading.py books/<sách>/<chương>/<...>_BaiTap.json
+```
+
+Script này sinh lại `content_ja`, `translation_vn`, `word_count` và file `_DocHieu.md`. Nó cũng kiểm tra:
+- số câu liên tục, mỗi câu đủ `en` và `vi`;
+- `evidence_segments` trỏ tới câu có thật;
+- đoạn trích trong giải thích phải nằm đúng trong câu đó;
+- mỗi câu hỏi có 4 lựa chọn và đúng 1 đáp án đúng.
+
+**Không sửa tay file md.** Sau đó chạy thêm `validate_json.py` và `check_cefr_level.py --sheet`.
 
 **Thông số theo cấp (đề xuất):**
 
@@ -70,12 +85,42 @@ Script: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối
 | B2 | 350–450 từ | 20 | thêm: suy luận, mục đích đoạn, thái độ tác giả |
 | C1 | 450–550 từ | 20 | thêm: hàm ý, cấu trúc lập luận |
 
-## 5. JSON: giữ nguyên schema chung
+## 5. JSON: giữ nguyên schema chung, thêm dữ liệu từng câu
+
+**Bài đọc lưu thành `segments`.** Mỗi phần tử là **một dòng hiển thị / một dòng shadowing**:
+
+```json
+{"n": 4, "para": 3, "kind": "sentence", "speaker": null, "label": "1.",
+ "en": "These are my grandpa and my grandma.", "vi": "Đây là ông và bà của mình."}
+```
+
+| Trường | Ý nghĩa |
+|---|---|
+| `n` | số câu, liên tục 1..N. Giải thích và `evidence_segments` trỏ vào số này |
+| `para` | số đoạn. Các câu cùng `para` + cùng `speaker` ghép thành 1 đoạn khi hiển thị liền |
+| `kind` | `title` / `sentence` / `signature`. Khi shadowing, app có thể bỏ qua title và signature |
+| `speaker` | người nói (hội thoại, tin nhắn). **Tách riêng khỏi `en`** để TTS không đọc tên người nói |
+| `label` | nhãn đầu đoạn như `1.`, chỉ để hiển thị, TTS bỏ qua |
+| `en` / `vi` | câu tiếng Anh / bản dịch |
+
+**Quy tắc cắt câu:**
+- 1 segment = 1 câu.
+- Lượt thoại rất ngắn (≤ ~12 từ, ví dụ `Hi Emma! Is this…?`) được để chung một segment.
+- Câu dài ở B2–C1 vẫn giữ nguyên 1 câu. Nếu app cần cắt nhỏ hơn cho shadowing thì sau này thêm trường `chunks`.
+
+**Viết thân thiện với TTS:**
+- không viết tắt lạ, không emoji trong `en`;
+- số ở A1–A2 viết bằng chữ (`seven`, `eighty`);
+- tên người và địa danh là tên tiếng Anh.
+
+**Câu hỏi có `evidence_segments`** (ví dụ `[4, 5]`): đáp án nằm ở câu nào, để app tô sáng câu đó khi giải thích.
+
+**Các khoá cũ vẫn giữ để tương thích:**
 
 | Khoá | Chứa gì |
 |---|---|
-| `reading_passages[].content_ja` | bài đọc **tiếng Anh** |
-| `reading_passages[].translation_vn` | dịch từng câu, đánh số `(1) … (2) …` khớp bảng trong md |
+| `reading_passages[].content_ja` | bài đọc tiếng Anh ghép liền (script sinh từ segments) |
+| `reading_passages[].translation_vn` | dịch từng câu `(1) … (2) …` (script sinh từ segments) |
 | `reading_passages[].curriculum_sheets` | **mới:** mã phiếu bài đọc luyện |
 | `questions[].question_jp` / `question_vn` | câu hỏi tiếng Anh / dịch |
 | `choices[].text` / `text_translation` | phương án tiếng Anh / dịch |
@@ -107,7 +152,7 @@ Script: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối
 
 ## 8. Cần chủ nhà chốt
 
-1. **ID số cho app.** Quy ước NEW chỉ có 1 chữ số cho topic, tức tối đa 9 chương/cuốn. A1 có 16 unit, B2 có 45 unit. Đề xuất: JSON chỉ dùng ID dạng chữ (`q_u03_001`) kèm mã unit và mã phiếu; ID số do bước nhập vào app mới sinh ra.
-2. **Sách B1 (40 unit) và B2 (45 unit)** để mỗi cấp một cuốn, hay tách mỗi cấp thành 2 tập?
-3. **Format bài mẫu Unit 3** đã ổn chưa?
-4. **Khoá `content_ja` / `question_jp` chứa tiếng Anh** (giữ nguyên schema chung): app mới chấp nhận vậy không?
+- ✅ Số chương: không giới hạn, 1 cấp = 1 cuốn (chốt 03/11/2026).
+- ✅ Format bài mẫu Unit 3: đạt (chốt 03/11/2026).
+- **ID:** JSON dùng ID dạng chữ (`q_u03_001`) kèm mã unit và mã phiếu. Bước nhập vào app sẽ sinh ID số.
+- **Còn mở:** khoá `content_ja` / `question_jp` đang chứa tiếng Anh (giữ schema chung). Nếu app mới đổi tên khoá thì chỉ cần sửa `build_en_reading.py`.
