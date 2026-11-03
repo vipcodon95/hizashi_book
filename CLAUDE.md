@@ -137,7 +137,7 @@ access_level       = 'free'    -- trên TỪNG node, dự phòng lớp 3
 ```
 Hizashi_book/
 ├── books/<book_name>/
-│   ├── _pipeline/                       ← state + outputs từng stage (gitignored state.json)
+│   ├── _pipeline/                       ← state + outputs từng stage (state.json được track)
 │   ├── _review/                         ← đợt rà soát: 00_TIEN_DO.md (nguồn sự thật) + báo cáo từng agent
 │   ├── <topic>_<module>/                ← vd 2.1.0_keigo_phan_loai
 │   │   ├── *_LyThuyet.md                ← markdown lý thuyết
@@ -276,7 +276,7 @@ Không gom nhiều chương vào 1 commit. Không đợi xong cả sách mới c
 4. **Push ngay** lên branch được giao: `git push -u origin <branch>`. Lỗi mạng thì thử lại tối đa 4 lần (chờ 2s, 4s, 8s, 16s).
 5. **Báo user 1 dòng**: `✓ Đã commit + push chương <code> (<hash>)`.
 
-⚠️ `books/*/_pipeline/state.json` đang bị `.gitignore` → **không vào commit**. Trên cloud, file này mất khi container bị thu hồi. Muốn giữ tiến độ pipeline giữa các phiên thì phải `git add -f` (cần chủ nhà chốt).
+✅ `books/*/_pipeline/state.json` **được track** (đã bỏ khỏi `.gitignore` ngày 03/11/2026) → luôn commit kèm mỗi chương để phiên sau resume được.
 
 ## Quy tắc CRITICAL khi viết content
 
