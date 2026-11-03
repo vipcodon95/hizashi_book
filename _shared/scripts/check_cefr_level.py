@@ -168,6 +168,10 @@ def main() -> int:
     for f in a.files:
         t, d = texts_from(Path(f))
         texts += t
+        for p in d.get("reading_passages") or []:  # tên người nói trong hội thoại luôn là tên riêng
+            for s in p.get("segments") or []:
+                if s.get("speaker"):
+                    a.allow += "," + s["speaker"]
         for e in (d.get("lesson") or {}).get("extra_words") or []:
             extra[e["word"].lower()] = (e.get("i18n") or {}).get("vi") or e.get("vi", "")
         if not sheet and (d.get("meta") or {}).get("curriculum_sheets"):
