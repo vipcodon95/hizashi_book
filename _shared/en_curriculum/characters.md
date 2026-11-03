@@ -152,6 +152,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | B2 | tháng 10, năm 6 | **Tina tham gia nhóm đếm chim** ở vùng đất ngập nước phía nam vịnh San Diego (trưởng nhóm **Mrs. Delgado**, người lạ, cô giáo khoa học nghỉ hưu; sáng thứ Bảy); đếm 42 loài, thấy chim ưng biển lao bắt cá. Tina từng muốn làm bác sĩ thú y, giờ nghĩ tới làm nhà khoa học đếm chim | 59 · u1718 |
 | B2 | tháng 11, năm 6 | **Clip Trevor dừng bóng giúp cầu thủ đội bạn bị trẹo mắt cá (Diego, người lạ)** do Jake quay, chú thích "This is my best friend", đạt 2 triệu lượt xem; có bình luận ác ý nói dàn dựng, chê Diego. Trevor nhận phỏng vấn đài truyền hình địa phương với điều kiện mời cả Diego; hai cậu vẫn nhắn tin, hẹn gặp mùa xuân | 59 · u1920 |
 | B2 | tháng 12, năm 6 | **Vở kịch sân sau "The Dragon Who Was Afraid of the Dark"** ở sân nhà Brooks: Tina viết, Amy đạo diễn, 6 trẻ trong phố diễn; Megan đệm ukulele, Helena làm bộ đồ rồng bằng bìa (rơi đuôi), Trevor điều khiển đèn, **Biscuit đóng "con rồng lười nhất thế giới" và ngủ quên trên sân khấu**. ~40 khán giả; quyên được 212 đô cho trại cứu hộ động vật phố Harbor. Corinne Whitfield điểm kịch; vở thứ hai đang được viết | 59 · u2122 |
+| B2 | tháng 1, năm 7 | (Đề thi thử giữa sách) Bệnh viện Sunset Bay có hơn 300 tình nguyện viên (từ 16 tuổi, bố mẹ ký đơn; 1 ca 4 tiếng/tuần trong 6 tháng). **Bà Harriet viết thư cho Amy (9 tuổi) để mở năm 18 tuổi**: thôi hát từ năm 12 tuổi vì cô giáo chê giọng; nhắc ông (chồng bà Harriet, **đã mất**): tiếc đã cãi nhau chuyện vặt | 59 · mock1 |
 
 ## Còn mở
 

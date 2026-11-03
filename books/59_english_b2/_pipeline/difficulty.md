@@ -13,3 +13,4 @@
 | u1718 | [319, 345] từ, TB [19.4, 22.3] | nhật ký đếm chim di cư của Tina (see/hear + O + V) + bài loa thông minh trong gia đình (bị động tường thuật, find it + adj); 7 câu suy luận/ẩn dụ (1 nối 2 bài) |
 | u1920 | [354, 330] từ, TB [24.8, 23.1] | truyện clip lan truyền của Trevor (being + V3) + bài thuật toán đề xuất (câu chẻ, rào đón); 7 câu suy luận/chức năng/giọng điệu (1 nối 2 bài) |
 | u2122 | [330, 341] từ, TB [21.4, 23.7] | bài điểm kịch sân sau (such/so/too + a + adj + N) + bài phục chế tranh (as quan hệ; Night Watch, Rijksmuseum); 6 câu suy luận/mục đích/giọng điệu (1 nối 2 bài) |
+| mock1 | [282, 313, 323, 340] từ, TB [19.7, 27.2, 21.3, 20.9] | đề giữa sách B2 4 bài × 10 câu: thông báo tình nguyện bệnh viện → thư Harriet gửi Amy → khoa học cái ngáp → quan điểm về việc đọc; ~14 câu suy luận; đáp án 11/10/11/8 |
