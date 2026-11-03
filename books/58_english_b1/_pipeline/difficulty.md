@@ -27,3 +27,4 @@ Mốc nối từ A2: u20 sách 57 = 265 / 265 từ, TB 16,0 / 16,7 từ/câu.
 | u3334 | 342 / 318 | 18.4 / 19.6 | báo cáo phỏng vấn bà Harriet về Maple Street những năm 1970 (do/did nhấn mạnh; tránh hết từ vựng chiến tranh của phiếu b1.129–130) + thành phố năm 2050 (will have done, should have done); 6 câu suy luận (1 nối 2 bài) |
 | u3536 | 320 / 343 | 16.1 / 21.1 | email khiếu nại của Harriet + thư trả lời (as if, explain/suggest to) + cuộc gọi Tracy–Leah trước kỳ thi (wish, V-ing chủ ngữ); 6 câu suy luận/giọng điệu (1 nối 2 bài) |
 | u3738 | 304 / 324 | 17.4 / 18.5 | bản tin quyên góp áo ấm (Here is/are) + buổi tranh biện cấm điện thoại trong lớp (although/despite, phản bác lịch sự); 5 câu suy luận (1 nối 2 bài) |
+| u3940 | 328 / 330 | 17.0 / 20.2 | đề xuất 3 ý tưởng quảng cáo + ghi chú của Harriet (so sánh phương án, trung thực) + Tracy giới thiệu công viên Balboa; 5 câu suy luận/áp dụng (1 nối 2 bài) |

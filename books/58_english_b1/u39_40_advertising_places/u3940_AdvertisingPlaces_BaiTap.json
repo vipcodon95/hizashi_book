@@ -1,0 +1,2037 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 39–40 — Advertising & Describing places",
+      "vi": "Quảng cáo & Miêu tả nơi chốn"
+    },
+    "title": "Units 39–40 — Advertising & Describing places",
+    "title_vn": "Quảng cáo & Miêu tả nơi chốn",
+    "module_code": "58_u3940",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u39+u40",
+    "curriculum_sheets": [
+      "b1.153",
+      "b1.154",
+      "b1.155",
+      "b1.156",
+      "b1.157",
+      "b1.158",
+      "b1.159",
+      "b1.160"
+    ],
+    "characters": [
+      "Chloe Bennett",
+      "Harriet Brooks",
+      "Tracy Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 12, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "So sánh phương án, trung thực trong quảng cáo, câu phức",
+    "description_vn": "Chloe đề xuất ba ý tưởng quảng cáo mùa đông cho quán Harriet's và Tracy viết bài giới thiệu công viên Balboa khi về nghỉ đông. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 39 + Unit 40 khoá B1 · phiếu `b1.153` – `b1.160` (quảng cáo đáng nhớ, thương hiệu, ngôn ngữ thuyết phục, quảng cáo tốt hay xấu; quê nhà, danh lam thắng cảnh, nơi muốn tới, ôn tập B1)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bản đề xuất quảng cáo kèm ghi chú phản hồi và một bài giới thiệu địa điểm; so sánh ưu và nhược điểm của từng phương án, nhận ra ngôn ngữ thuyết phục và tính trung thực trong quảng cáo, hiểu câu đơn, câu ghép, câu phức, và áp dụng thông tin của bài này cho nhân vật ở bài kia."
+    },
+    "extra_words": [
+      {
+        "word": "recommendation",
+        "i18n": {
+          "vi": "lời đề xuất"
+        }
+      },
+      {
+        "word": "campaign",
+        "i18n": {
+          "vi": "chiến dịch"
+        }
+      },
+      {
+        "word": "regular",
+        "i18n": {
+          "vi": "khách quen"
+        }
+      },
+      {
+        "word": "offer",
+        "i18n": {
+          "vi": "ưu đãi"
+        }
+      },
+      {
+        "word": "acre",
+        "i18n": {
+          "vi": "mẫu Anh (≈ 4.000 m²)"
+        }
+      },
+      {
+        "word": "tile",
+        "i18n": {
+          "vi": "gạch men"
+        }
+      },
+      {
+        "word": "botanical",
+        "i18n": {
+          "vi": "thuộc về thực vật"
+        }
+      },
+      {
+        "word": "pipe organ",
+        "i18n": {
+          "vi": "đàn ống"
+        }
+      },
+      {
+        "word": "tram",
+        "i18n": {
+          "vi": "xe điện"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "launch a new menu",
+          "vi": "ra mắt thực đơn mới"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put the emphasis on",
+          "vi": "nhấn mạnh vào"
+        }
+      },
+      {
+        "i18n": {
+          "en": "boast about",
+          "vi": "khoe khoang về"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a good reputation",
+          "vi": "tiếng tốt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "catch a glimpse of",
+          "vi": "thoáng thấy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "clearly visible",
+          "vi": "nhìn thấy rõ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "charge a fee",
+          "vi": "thu phí"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Văn bản so sánh phương án: lập bảng nhỏ cho mỗi phương án (ưu điểm / nhược điểm). Câu hỏi hay hỏi điểm yếu, nằm sau chữ `However` hoặc `but`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Ghi chú phản hồi ở cuối tài liệu cho biết quyết định cuối cùng. Câu hỏi về kết quả phải đọc tới phần này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài giới thiệu địa điểm: tách số liệu (1,200 acres, 1915, fifteen museums). Phương án nhiễu thường đảo các con số này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu nối hai bài kiểu \"nhân vật X có thể hưởng gì\": kiểm thời gian và điều kiện ở cả hai bài."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3940_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 39) — Ba ý tưởng quảng cáo của Chloe cho quán Harriet's"
+      },
+      "narrator": "Chloe",
+      "title": "Harriet's Winter Campaign: Three Ideas",
+      "category": "report",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's Winter Campaign: Three Ideas",
+            "vi": "Chiến dịch mùa đông của quán Harriet's: ba ý tưởng"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Prepared by: Chloe Bennett Design",
+            "vi": "Người soạn: Chloe Bennett Design"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For: Harriet Brooks, Harriet's Café",
+            "vi": "Gửi: bà Harriet Brooks, quán cà phê Harriet's"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet, you asked me for an advertising campaign to launch your new winter menu in January.",
+            "vi": "Bà Harriet, bà nhờ cháu làm một chiến dịch quảng cáo để ra mắt thực đơn mùa đông mới vào tháng Một."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here are three ideas. Each one conveys a different message, so think about what you want people to remember.",
+            "vi": "Đây là ba ý tưởng. Mỗi cái truyền tải một thông điệp khác nhau, nên bà hãy nghĩ xem bà muốn mọi người nhớ điều gì."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Idea A: \"The Best Coffee in California\"",
+            "vi": "Ý tưởng A: \"Cà phê ngon nhất California\""
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This is the boldest option. Short, strong slogans like this are memorable, and many cafés boast about their coffee in this way.",
+            "vi": "Đây là phương án táo bạo nhất. Những khẩu hiệu ngắn, mạnh như thế này dễ nhớ, và nhiều quán cà phê cũng khoe cà phê của mình theo kiểu này."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, it is a claim that nobody can prove, and some customers may find it hard to believe.",
+            "vi": "Tuy nhiên, đó là điều không ai chứng minh được, và có khách sẽ thấy khó tin."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Idea B: \"Your Kitchen Away from Home\"",
+            "vi": "Ý tưởng B: \"Căn bếp thứ hai của bạn\""
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This idea puts the emphasis on the atmosphere rather than the food.",
+            "vi": "Ý tưởng này nhấn mạnh vào bầu không khí hơn là đồ ăn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The poster would show real regulars at their usual tables: Dustin with his Wednesday soup, the book club, and kids doing homework after school. (Of course, we would ask everyone first!)",
+            "vi": "Áp phích sẽ chụp những khách quen thật ở chỗ ngồi quen của họ: Dustin với bát súp thứ Tư, câu lạc bộ sách, và bọn trẻ làm bài tập sau giờ học. (Tất nhiên, mình sẽ hỏi ý mọi người trước!)"
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It's warm and honest, but it's less likely to tempt new customers who have never been inside.",
+            "vi": "Nó ấm áp và chân thật, nhưng ít có khả năng hấp dẫn những khách mới chưa từng bước vào quán."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Idea C: \"Warm Up at Harriet's\"",
+            "vi": "Ý tưởng C: \"Sưởi ấm ở Harriet's\""
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This one is visual: a large photo of a juicy apple pie and a cup of hot chocolate in vivid winter colors, plus a small offer: a free cookie with every drink during the first week of January.",
+            "vi": "Ý tưởng này thiên về hình ảnh: một bức ảnh lớn chụp chiếc bánh táo mọng nước và một tách sô-cô-la nóng với màu sắc mùa đông rực rỡ, kèm một ưu đãi nhỏ: tặng một chiếc bánh quy cho mỗi đồ uống trong tuần đầu tháng Một."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It's simple and tempting, and the offer gives people a reason to come in now. But it says little about what makes the café special.",
+            "vi": "Nó đơn giản và hấp dẫn, và ưu đãi cho mọi người lý do để ghé ngay. Nhưng nó chẳng nói được mấy về điều làm quán trở nên đặc biệt."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My recommendation: combine B and C. Use the photo and the offer to bring people in, and the real faces to show them why they should stay.",
+            "vi": "Đề xuất của cháu: kết hợp B và C. Dùng bức ảnh và ưu đãi để kéo khách vào, và những gương mặt thật để cho họ thấy vì sao nên ở lại."
+          }
+        },
+        {
+          "n": 17,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's notes, written by hand at the bottom of the page:",
+            "vi": "Ghi chú viết tay của bà Harriet ở cuối trang:"
+          }
+        },
+        {
+          "n": 18,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "No to A. I don't want to say anything about my café that I can't prove. My reputation is the only advertisement that I've ever needed.",
+            "vi": "Không chọn A. Bà không muốn nói điều gì về quán mà bà không chứng minh được. Tiếng tốt là thứ quảng cáo duy nhất bà từng cần."
+          }
+        },
+        {
+          "n": 19,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "Yes to B and C together, but ask Dustin first. He's shy!",
+            "vi": "Đồng ý B và C cùng lúc, nhưng hỏi Dustin trước nhé. Cậu ấy nhút nhát lắm!"
+          }
+        },
+        {
+          "n": 20,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "And please add a small line saying that we sponsor the Maple Street Stars. I'm very proud of that.",
+            "vi": "Và nhớ thêm một dòng nhỏ nói rằng quán tài trợ đội Maple Street Stars. Bà rất tự hào về điều đó."
+          }
+        }
+      ],
+      "content_ja": "Harriet's Winter Campaign: Three Ideas\n\nPrepared by: Chloe Bennett Design\n\nFor: Harriet Brooks, Harriet's Café\n\nHarriet, you asked me for an advertising campaign to launch your new winter menu in January. Here are three ideas. Each one conveys a different message, so think about what you want people to remember.\n\nIdea A: \"The Best Coffee in California\"\n\nThis is the boldest option. Short, strong slogans like this are memorable, and many cafés boast about their coffee in this way. However, it is a claim that nobody can prove, and some customers may find it hard to believe.\n\nIdea B: \"Your Kitchen Away from Home\"\n\nThis idea puts the emphasis on the atmosphere rather than the food. The poster would show real regulars at their usual tables: Dustin with his Wednesday soup, the book club, and kids doing homework after school. (Of course, we would ask everyone first!) It's warm and honest, but it's less likely to tempt new customers who have never been inside.\n\nIdea C: \"Warm Up at Harriet's\"\n\nThis one is visual: a large photo of a juicy apple pie and a cup of hot chocolate in vivid winter colors, plus a small offer: a free cookie with every drink during the first week of January. It's simple and tempting, and the offer gives people a reason to come in now. But it says little about what makes the café special.\n\nMy recommendation: combine B and C. Use the photo and the offer to bring people in, and the real faces to show them why they should stay.\n\nHarriet's notes, written by hand at the bottom of the page:\n\nHarriet: No to A. I don't want to say anything about my café that I can't prove. My reputation is the only advertisement that I've ever needed. Yes to B and C together, but ask Dustin first. He's shy! And please add a small line saying that we sponsor the Maple Street Stars. I'm very proud of that.",
+      "translation_vn": "(1) Chiến dịch mùa đông của quán Harriet's: ba ý tưởng\n(2) Người soạn: Chloe Bennett Design\n(3) Gửi: bà Harriet Brooks, quán cà phê Harriet's\n(4) Bà Harriet, bà nhờ cháu làm một chiến dịch quảng cáo để ra mắt thực đơn mùa đông mới vào tháng Một.\n(5) Đây là ba ý tưởng. Mỗi cái truyền tải một thông điệp khác nhau, nên bà hãy nghĩ xem bà muốn mọi người nhớ điều gì.\n(6) Ý tưởng A: \"Cà phê ngon nhất California\"\n(7) Đây là phương án táo bạo nhất. Những khẩu hiệu ngắn, mạnh như thế này dễ nhớ, và nhiều quán cà phê cũng khoe cà phê của mình theo kiểu này.\n(8) Tuy nhiên, đó là điều không ai chứng minh được, và có khách sẽ thấy khó tin.\n(9) Ý tưởng B: \"Căn bếp thứ hai của bạn\"\n(10) Ý tưởng này nhấn mạnh vào bầu không khí hơn là đồ ăn.\n(11) Áp phích sẽ chụp những khách quen thật ở chỗ ngồi quen của họ: Dustin với bát súp thứ Tư, câu lạc bộ sách, và bọn trẻ làm bài tập sau giờ học. (Tất nhiên, mình sẽ hỏi ý mọi người trước!)\n(12) Nó ấm áp và chân thật, nhưng ít có khả năng hấp dẫn những khách mới chưa từng bước vào quán.\n(13) Ý tưởng C: \"Sưởi ấm ở Harriet's\"\n(14) Ý tưởng này thiên về hình ảnh: một bức ảnh lớn chụp chiếc bánh táo mọng nước và một tách sô-cô-la nóng với màu sắc mùa đông rực rỡ, kèm một ưu đãi nhỏ: tặng một chiếc bánh quy cho mỗi đồ uống trong tuần đầu tháng Một.\n(15) Nó đơn giản và hấp dẫn, và ưu đãi cho mọi người lý do để ghé ngay. Nhưng nó chẳng nói được mấy về điều làm quán trở nên đặc biệt.\n(16) Đề xuất của cháu: kết hợp B và C. Dùng bức ảnh và ưu đãi để kéo khách vào, và những gương mặt thật để cho họ thấy vì sao nên ở lại.\n(17) Ghi chú viết tay của bà Harriet ở cuối trang:\n(18) Harriet: Không chọn A. Bà không muốn nói điều gì về quán mà bà không chứng minh được. Tiếng tốt là thứ quảng cáo duy nhất bà từng cần.\n(19) Harriet: Đồng ý B và C cùng lúc, nhưng hỏi Dustin trước nhé. Cậu ấy nhút nhát lắm!\n(20) Harriet: Và nhớ thêm một dòng nhỏ nói rằng quán tài trợ đội Maple Street Stars. Bà rất tự hào về điều đó.",
+      "word_count": 328,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.153",
+        "b1.154",
+        "b1.155",
+        "b1.156"
+      ]
+    },
+    {
+      "id": "passage_u3940_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 40) — Tracy giới thiệu công viên Balboa"
+      },
+      "narrator": "Tracy",
+      "title": "A Local's Guide to Balboa Park",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 200,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Local's Guide to Balboa Park",
+            "vi": "Công viên Balboa qua lời người địa phương"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Tracy Carter, home in San Diego for winter break",
+            "vi": "Người viết: Tracy Carter, về San Diego nghỉ đông"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After two years in Washington, I've learned that most people there have heard of the San Diego Zoo, but few of them know that it sits inside one of the biggest city parks in the United States.",
+            "vi": "Sau hai năm ở Washington, tôi nhận ra phần lớn người ở đó đều từng nghe tới vườn thú San Diego, nhưng ít ai biết nó nằm trong một trong những công viên đô thị lớn nhất nước Mỹ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Balboa Park covers about 1,200 acres, and it is so big that you could visit every weekend for a year and still find something new.",
+            "vi": "Công viên Balboa rộng khoảng 1.200 mẫu Anh, lớn tới mức bạn có thể tới mỗi cuối tuần suốt một năm mà vẫn tìm thấy điều mới."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many of its most prominent buildings were built for a large international fair in 1915.",
+            "vi": "Nhiều toà nhà nổi bật nhất của công viên được xây cho một hội chợ quốc tế lớn năm 1915."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Their white walls, colorful tiles and tall towers make the park look like a scene from an old movie.",
+            "vi": "Những bức tường trắng, gạch men nhiều màu và các ngọn tháp cao khiến công viên trông như một cảnh trong phim xưa."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The California Tower, which is clearly visible from many parts of the city, is the best-known of them.",
+            "vi": "Tháp California, thứ nhìn thấy rõ từ nhiều nơi trong thành phố, là công trình nổi tiếng nhất trong số đó."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today, the park is home to more than fifteen museums, along with gardens, theaters and, of course, the zoo.",
+            "vi": "Ngày nay, công viên có hơn mười lăm bảo tàng, cùng các khu vườn, nhà hát và tất nhiên là vườn thú."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My personal favorite is the Botanical Building, a giant wooden structure full of more than two thousand plants, with a long pond in front of it where you can catch a glimpse of colorful fish.",
+            "vi": "Nơi tôi thích nhất là Nhà thực vật, một công trình gỗ khổng lồ với hơn hai nghìn loài cây, phía trước có một hồ nước dài nơi bạn có thể thoáng thấy những chú cá đủ màu."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Sunday afternoons, you can sit outside and listen to a free concert on one of the biggest outdoor pipe organs in the world.",
+            "vi": "Chiều Chủ nhật, bạn có thể ngồi ngoài trời nghe hoà nhạc miễn phí trên một trong những cây đàn ống ngoài trời lớn nhất thế giới."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you would like somewhere quieter, the Japanese Friendship Garden has narrow paths, small waterfalls and wooden bridges.",
+            "vi": "Nếu muốn chỗ yên tĩnh hơn, Vườn Hữu nghị Nhật Bản có những lối đi hẹp, thác nước nhỏ và cây cầu gỗ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here are a few tips from a local.",
+            "vi": "Vài mẹo nhỏ từ người địa phương."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Entry to the park itself is free, but most museums charge a fee, so check their websites before you go.",
+            "vi": "Vào công viên thì miễn phí, nhưng phần lớn bảo tàng thu phí, nên hãy xem trang web của họ trước khi đi."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Parking near the center fills up quickly on weekends, so arrive early or take the free tram from the parking lot at the edge of the park.",
+            "vi": "Bãi đỗ xe gần trung tâm kín chỗ rất nhanh vào cuối tuần, nên hãy tới sớm hoặc đi xe điện miễn phí từ bãi đỗ ở rìa công viên."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And bring a jacket: even in San Diego, winter evenings are cooler than visitors expect.",
+            "vi": "Và nhớ mang áo khoác: ngay cả ở San Diego, tối mùa đông cũng lạnh hơn du khách nghĩ."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Walking through the park last week with my family, I realized how much I had missed home.",
+            "vi": "Tuần trước đi dạo trong công viên cùng gia đình, tôi mới nhận ra mình nhớ nhà tới mức nào."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sometimes you have to go away before you can really see the place where you grew up.",
+            "vi": "Đôi khi phải đi xa rồi ta mới thật sự nhìn thấy nơi mình lớn lên."
+          }
+        }
+      ],
+      "content_ja": "A Local's Guide to Balboa Park\n\nWritten by: Tracy Carter, home in San Diego for winter break\n\nAfter two years in Washington, I've learned that most people there have heard of the San Diego Zoo, but few of them know that it sits inside one of the biggest city parks in the United States. Balboa Park covers about 1,200 acres, and it is so big that you could visit every weekend for a year and still find something new.\n\nMany of its most prominent buildings were built for a large international fair in 1915. Their white walls, colorful tiles and tall towers make the park look like a scene from an old movie. The California Tower, which is clearly visible from many parts of the city, is the best-known of them. Today, the park is home to more than fifteen museums, along with gardens, theaters and, of course, the zoo.\n\nMy personal favorite is the Botanical Building, a giant wooden structure full of more than two thousand plants, with a long pond in front of it where you can catch a glimpse of colorful fish. On Sunday afternoons, you can sit outside and listen to a free concert on one of the biggest outdoor pipe organs in the world. If you would like somewhere quieter, the Japanese Friendship Garden has narrow paths, small waterfalls and wooden bridges.\n\nHere are a few tips from a local. Entry to the park itself is free, but most museums charge a fee, so check their websites before you go. Parking near the center fills up quickly on weekends, so arrive early or take the free tram from the parking lot at the edge of the park. And bring a jacket: even in San Diego, winter evenings are cooler than visitors expect.\n\nWalking through the park last week with my family, I realized how much I had missed home. Sometimes you have to go away before you can really see the place where you grew up.",
+      "translation_vn": "(1) Công viên Balboa qua lời người địa phương\n(2) Người viết: Tracy Carter, về San Diego nghỉ đông\n(3) Sau hai năm ở Washington, tôi nhận ra phần lớn người ở đó đều từng nghe tới vườn thú San Diego, nhưng ít ai biết nó nằm trong một trong những công viên đô thị lớn nhất nước Mỹ.\n(4) Công viên Balboa rộng khoảng 1.200 mẫu Anh, lớn tới mức bạn có thể tới mỗi cuối tuần suốt một năm mà vẫn tìm thấy điều mới.\n(5) Nhiều toà nhà nổi bật nhất của công viên được xây cho một hội chợ quốc tế lớn năm 1915.\n(6) Những bức tường trắng, gạch men nhiều màu và các ngọn tháp cao khiến công viên trông như một cảnh trong phim xưa.\n(7) Tháp California, thứ nhìn thấy rõ từ nhiều nơi trong thành phố, là công trình nổi tiếng nhất trong số đó.\n(8) Ngày nay, công viên có hơn mười lăm bảo tàng, cùng các khu vườn, nhà hát và tất nhiên là vườn thú.\n(9) Nơi tôi thích nhất là Nhà thực vật, một công trình gỗ khổng lồ với hơn hai nghìn loài cây, phía trước có một hồ nước dài nơi bạn có thể thoáng thấy những chú cá đủ màu.\n(10) Chiều Chủ nhật, bạn có thể ngồi ngoài trời nghe hoà nhạc miễn phí trên một trong những cây đàn ống ngoài trời lớn nhất thế giới.\n(11) Nếu muốn chỗ yên tĩnh hơn, Vườn Hữu nghị Nhật Bản có những lối đi hẹp, thác nước nhỏ và cây cầu gỗ.\n(12) Vài mẹo nhỏ từ người địa phương.\n(13) Vào công viên thì miễn phí, nhưng phần lớn bảo tàng thu phí, nên hãy xem trang web của họ trước khi đi.\n(14) Bãi đỗ xe gần trung tâm kín chỗ rất nhanh vào cuối tuần, nên hãy tới sớm hoặc đi xe điện miễn phí từ bãi đỗ ở rìa công viên.\n(15) Và nhớ mang áo khoác: ngay cả ở San Diego, tối mùa đông cũng lạnh hơn du khách nghĩ.\n(16) Tuần trước đi dạo trong công viên cùng gia đình, tôi mới nhận ra mình nhớ nhà tới mức nào.\n(17) Đôi khi phải đi xa rồi ta mới thật sự nhìn thấy nơi mình lớn lên.",
+      "word_count": 330,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.157",
+        "b1.158",
+        "b1.159",
+        "b1.160"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3940_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What is the main purpose of Chloe's document?",
+        "vi": "Mục đích chính của tài liệu Chloe soạn là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to complain about Harriet's menu",
+            "vi": "để phàn nàn về thực đơn của quán"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to complain about Harriet's menu",
+          "text_translation": "để phàn nàn về thực đơn của quán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to present three advertising ideas for Harriet's winter campaign",
+            "vi": "để trình bày ba ý tưởng quảng cáo cho chiến dịch mùa đông của quán Harriet's"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to present three advertising ideas for Harriet's winter campaign",
+          "text_translation": "để trình bày ba ý tưởng quảng cáo cho chiến dịch mùa đông của quán Harriet's"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to sell a new logo",
+            "vi": "để bán một logo mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to sell a new logo",
+          "text_translation": "để bán một logo mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to invite Harriet to a book club",
+            "vi": "để mời bà Harriet tới câu lạc bộ sách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to invite Harriet to a book club",
+          "text_translation": "để mời bà Harriet tới câu lạc bộ sách"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"you asked me for an advertising campaign to launch your new winter menu in January.\" rồi \"Here are three ideas.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Chloe's document?",
+      "question_vn": "Mục đích chính của tài liệu Chloe soạn là gì?",
+      "explanation": "\"you asked me for an advertising campaign to launch your new winter menu in January.\" rồi \"Here are three ideas.\""
+    },
+    {
+      "id": "q_u3940_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "Why might Idea A be a problem?",
+        "vi": "Vì sao ý tưởng A có thể có vấn đề?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is too long to remember.",
+            "vi": "Vì nó quá dài, khó nhớ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is too long to remember.",
+          "text_translation": "Vì nó quá dài, khó nhớ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is too expensive.",
+            "vi": "Vì nó quá tốn kém."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is too expensive.",
+          "text_translation": "Vì nó quá tốn kém."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It shows real customers.",
+            "vi": "Vì nó dùng hình khách thật."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It shows real customers.",
+          "text_translation": "Vì nó dùng hình khách thật."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It makes a claim that nobody can prove.",
+            "vi": "Vì nó đưa ra một khẳng định không ai chứng minh được."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It makes a claim that nobody can prove.",
+          "text_translation": "Vì nó đưa ra một khẳng định không ai chứng minh được."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"However, it is a claim that nobody can prove, and some customers may find it hard to believe.\" Chloe còn khen khẩu hiệu này \"memorable\", nên không phải vì khó nhớ."
+      },
+      "audio_data": null,
+      "question_jp": "Why might Idea A be a problem?",
+      "question_vn": "Vì sao ý tưởng A có thể có vấn đề?",
+      "explanation": "\"However, it is a claim that nobody can prove, and some customers may find it hard to believe.\" Chloe còn khen khẩu hiệu này \"memorable\", nên không phải vì khó nhớ."
+    },
+    {
+      "id": "q_u3940_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What does Idea B put the emphasis on?",
+        "vi": "Ý tưởng B nhấn mạnh vào điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the atmosphere of the café",
+            "vi": "bầu không khí của quán"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the atmosphere of the café",
+          "text_translation": "bầu không khí của quán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the price of the coffee",
+            "vi": "giá cà phê"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the price of the coffee",
+          "text_translation": "giá cà phê"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the new apple pie",
+            "vi": "món bánh táo mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the new apple pie",
+          "text_translation": "món bánh táo mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a free cookie",
+            "vi": "chiếc bánh quy miễn phí"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a free cookie",
+          "text_translation": "chiếc bánh quy miễn phí"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"This idea puts the emphasis on the atmosphere rather than the food.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Idea B put the emphasis on?",
+      "question_vn": "Ý tưởng B nhấn mạnh vào điều gì?",
+      "explanation": "\"This idea puts the emphasis on the atmosphere rather than the food.\""
+    },
+    {
+      "id": "q_u3940_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "Why does Chloe write \"(Of course, we would ask everyone first!)\"?",
+        "vi": "Vì sao Chloe viết \"(Tất nhiên, mình sẽ hỏi ý mọi người trước!)\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wants the regulars to pay for the poster.",
+            "vi": "Vì cô muốn khách quen trả tiền làm áp phích."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wants the regulars to pay for the poster.",
+          "text_translation": "Vì cô muốn khách quen trả tiền làm áp phích."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She doesn't know the regulars.",
+            "vi": "Vì cô không quen các khách quen."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She doesn't know the regulars.",
+          "text_translation": "Vì cô không quen các khách quen."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She would get permission before she used real people's photos.",
+            "vi": "Vì cô sẽ xin phép trước khi dùng ảnh của người thật."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She would get permission before she used real people's photos.",
+          "text_translation": "Vì cô sẽ xin phép trước khi dùng ảnh của người thật."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants to ask them about the menu.",
+            "vi": "Vì cô muốn hỏi họ về thực đơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants to ask them about the menu.",
+          "text_translation": "Vì cô muốn hỏi họ về thực đơn."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"The poster would show real regulars at their usual tables\". Dùng ảnh người thật thì phải hỏi ý họ trước. Ghi chú của bà Harriet cũng dặn \"ask Dustin first\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Chloe write \"(Of course, we would ask everyone first!)\"?",
+      "question_vn": "Vì sao Chloe viết \"(Tất nhiên, mình sẽ hỏi ý mọi người trước!)\"?",
+      "explanation": "Câu suy luận. \"The poster would show real regulars at their usual tables\". Dùng ảnh người thật thì phải hỏi ý họ trước. Ghi chú của bà Harriet cũng dặn \"ask Dustin first\"."
+    },
+    {
+      "id": "q_u3940_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What is the weakness of Idea B?",
+        "vi": "Điểm yếu của ý tưởng B là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is not honest.",
+            "vi": "Nó không chân thật."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is not honest.",
+          "text_translation": "Nó không chân thật."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is less likely to tempt new customers who have never been inside.",
+            "vi": "Nó ít có khả năng hấp dẫn khách mới chưa từng vào quán."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It is less likely to tempt new customers who have never been inside.",
+          "text_translation": "Nó ít có khả năng hấp dẫn khách mới chưa từng vào quán."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It costs too much.",
+            "vi": "Nó quá tốn kém."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It costs too much.",
+          "text_translation": "Nó quá tốn kém."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It has no photos.",
+            "vi": "Nó không có ảnh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It has no photos.",
+          "text_translation": "Nó không có ảnh."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"It's warm and honest, but it's less likely to tempt new customers who have never been inside.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the weakness of Idea B?",
+      "question_vn": "Điểm yếu của ý tưởng B là gì?",
+      "explanation": "\"It's warm and honest, but it's less likely to tempt new customers who have never been inside.\""
+    },
+    {
+      "id": "q_u3940_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What offer is part of Idea C?",
+        "vi": "Ưu đãi nào nằm trong ý tưởng C?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a free cookie with every drink during the first week of January",
+            "vi": "tặng một chiếc bánh quy cho mỗi đồ uống trong tuần đầu tháng Một"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a free cookie with every drink during the first week of January",
+          "text_translation": "tặng một chiếc bánh quy cho mỗi đồ uống trong tuần đầu tháng Một"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "free coffee for a month",
+            "vi": "cà phê miễn phí cả tháng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "free coffee for a month",
+          "text_translation": "cà phê miễn phí cả tháng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "half-price apple pie",
+            "vi": "bánh táo giảm nửa giá"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "half-price apple pie",
+          "text_translation": "bánh táo giảm nửa giá"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a free membership card",
+            "vi": "thẻ thành viên miễn phí"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a free membership card",
+          "text_translation": "thẻ thành viên miễn phí"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"plus a small offer: a free cookie with every drink during the first week of January.\""
+      },
+      "audio_data": null,
+      "question_jp": "What offer is part of Idea C?",
+      "question_vn": "Ưu đãi nào nằm trong ý tưởng C?",
+      "explanation": "\"plus a small offer: a free cookie with every drink during the first week of January.\""
+    },
+    {
+      "id": "q_u3940_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What does Chloe recommend?",
+        "vi": "Chloe đề xuất gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "using only Idea A",
+            "vi": "chỉ dùng ý tưởng A"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "using only Idea A",
+          "text_translation": "chỉ dùng ý tưởng A"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "using none of the ideas",
+            "vi": "không dùng ý tưởng nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "using none of the ideas",
+          "text_translation": "không dùng ý tưởng nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "using Idea A and Idea C",
+            "vi": "dùng ý tưởng A và C"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "using Idea A and Idea C",
+          "text_translation": "dùng ý tưởng A và C"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "combining Idea B and Idea C",
+            "vi": "kết hợp ý tưởng B và C"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "combining Idea B and Idea C",
+          "text_translation": "kết hợp ý tưởng B và C"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"My recommendation: combine B and C. Use the photo and the offer to bring people in, and the real faces to show them why they should stay.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Chloe recommend?",
+      "question_vn": "Chloe đề xuất gì?",
+      "explanation": "\"My recommendation: combine B and C. Use the photo and the offer to bring people in, and the real faces to show them why they should stay.\""
+    },
+    {
+      "id": "q_u3940_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "In \"it's less likely to tempt new customers\", what does \"tempt\" mean?",
+        "vi": "Trong câu \"it's less likely to tempt new customers\", \"tempt\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "frighten",
+            "vi": "làm sợ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "frighten",
+          "text_translation": "làm sợ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "charge",
+            "vi": "tính tiền"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "charge",
+          "text_translation": "tính tiền"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "make someone want to do or have something",
+            "vi": "khiến ai muốn làm hoặc có thứ gì đó"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "make someone want to do or have something",
+          "text_translation": "khiến ai muốn làm hoặc có thứ gì đó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "remember",
+            "vi": "ghi nhớ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "remember",
+          "text_translation": "ghi nhớ"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"it's less likely to tempt new customers who have never been inside.\" Ý tưởng C được khen \"simple and tempting\" vì có ưu đãi kéo khách. Tempt = làm cho ai đó muốn."
+      },
+      "audio_data": null,
+      "question_jp": "In \"it's less likely to tempt new customers\", what does \"tempt\" mean?",
+      "question_vn": "Trong câu \"it's less likely to tempt new customers\", \"tempt\" nghĩa là gì?",
+      "explanation": "\"it's less likely to tempt new customers who have never been inside.\" Ý tưởng C được khen \"simple and tempting\" vì có ưu đãi kéo khách. Tempt = làm cho ai đó muốn."
+    },
+    {
+      "id": "q_u3940_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "Why does Harriet say no to Idea A?",
+        "vi": "Vì sao bà Harriet không chọn ý tưởng A?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She doesn't want to say anything about her café that she can't prove.",
+            "vi": "Vì bà không muốn nói điều gì về quán mà bà không chứng minh được."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She doesn't want to say anything about her café that she can't prove.",
+          "text_translation": "Vì bà không muốn nói điều gì về quán mà bà không chứng minh được."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks that it is too short.",
+            "vi": "Vì bà thấy nó quá ngắn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She thinks that it is too short.",
+          "text_translation": "Vì bà thấy nó quá ngắn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She doesn't like coffee.",
+            "vi": "Vì bà không thích cà phê."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She doesn't like coffee.",
+          "text_translation": "Vì bà không thích cà phê."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Chloe told her to say no.",
+            "vi": "Vì Chloe bảo bà từ chối."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Chloe told her to say no.",
+          "text_translation": "Vì Chloe bảo bà từ chối."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"No to A. I don't want to say anything about my café that I can't prove. My reputation is the only advertisement that I've ever needed.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet say no to Idea A?",
+      "question_vn": "Vì sao bà Harriet không chọn ý tưởng A?",
+      "explanation": "\"No to A. I don't want to say anything about my café that I can't prove. My reputation is the only advertisement that I've ever needed.\""
+    },
+    {
+      "id": "q_u3940_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What does Harriet's note \"ask Dustin first. He's shy!\" suggest?",
+        "vi": "Ghi chú \"hỏi Dustin trước nhé. Cậu ấy nhút nhát lắm!\" của bà Harriet hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Dustin works at the café.",
+            "vi": "Dustin làm ở quán."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Dustin works at the café.",
+          "text_translation": "Dustin làm ở quán."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Dustin might not want his photo on a poster.",
+            "vi": "Có thể Dustin không muốn ảnh mình lên áp phích."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Dustin might not want his photo on a poster.",
+          "text_translation": "Có thể Dustin không muốn ảnh mình lên áp phích."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Dustin doesn't like soup anymore.",
+            "vi": "Dustin không còn thích súp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Dustin doesn't like soup anymore.",
+          "text_translation": "Dustin không còn thích súp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dustin wants to be a photographer.",
+            "vi": "Dustin muốn làm thợ chụp ảnh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Dustin wants to be a photographer.",
+          "text_translation": "Dustin muốn làm thợ chụp ảnh."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Yes to B and C together, but ask Dustin first. He's shy!\" Người nhút nhát có thể ngại xuất hiện trên áp phích, nên phải hỏi trước."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet's note \"ask Dustin first. He's shy!\" suggest?",
+      "question_vn": "Ghi chú \"hỏi Dustin trước nhé. Cậu ấy nhút nhát lắm!\" của bà Harriet hàm ý gì?",
+      "explanation": "Câu suy luận. \"Yes to B and C together, but ask Dustin first. He's shy!\" Người nhút nhát có thể ngại xuất hiện trên áp phích, nên phải hỏi trước."
+    },
+    {
+      "id": "q_u3940_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What is Tracy's article mainly about?",
+        "vi": "Bài viết của Tracy chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "life in Washington",
+            "vi": "cuộc sống ở Washington"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "life in Washington",
+          "text_translation": "cuộc sống ở Washington"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the history of the San Diego Zoo",
+            "vi": "lịch sử vườn thú San Diego"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the history of the San Diego Zoo",
+          "text_translation": "lịch sử vườn thú San Diego"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "what Balboa Park offers, with tips for visitors",
+            "vi": "những gì công viên Balboa có, kèm mẹo cho du khách"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "what Balboa Park offers, with tips for visitors",
+          "text_translation": "những gì công viên Balboa có, kèm mẹo cho du khách"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how to grow plants at home",
+            "vi": "cách trồng cây ở nhà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how to grow plants at home",
+          "text_translation": "cách trồng cây ở nhà"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề \"A Local's Guide to Balboa Park\". Bài giới thiệu toà nhà, nơi Tracy thích, rồi \"a few tips from a local\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is Tracy's article mainly about?",
+      "question_vn": "Bài viết của Tracy chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề \"A Local's Guide to Balboa Park\". Bài giới thiệu toà nhà, nơi Tracy thích, rồi \"a few tips from a local\"."
+    },
+    {
+      "id": "q_u3940_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What has Tracy learned about people in Washington?",
+        "vi": "Tracy nhận ra điều gì về người ở Washington?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Many have heard of the San Diego Zoo, but few know that it is inside a huge park.",
+            "vi": "Nhiều người biết vườn thú San Diego, nhưng ít ai biết nó nằm trong một công viên rộng lớn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Many have heard of the San Diego Zoo, but few know that it is inside a huge park.",
+          "text_translation": "Nhiều người biết vườn thú San Diego, nhưng ít ai biết nó nằm trong một công viên rộng lớn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They have never heard of San Diego.",
+            "vi": "Họ chưa từng nghe tới San Diego."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They have never heard of San Diego.",
+          "text_translation": "Họ chưa từng nghe tới San Diego."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They visit Balboa Park every year.",
+            "vi": "Năm nào họ cũng tới công viên Balboa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They visit Balboa Park every year.",
+          "text_translation": "Năm nào họ cũng tới công viên Balboa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They don't like zoos.",
+            "vi": "Họ không thích vườn thú."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They don't like zoos.",
+          "text_translation": "Họ không thích vườn thú."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"most people there have heard of the San Diego Zoo, but few of them know that it sits inside one of the biggest city parks in the United States.\""
+      },
+      "audio_data": null,
+      "question_jp": "What has Tracy learned about people in Washington?",
+      "question_vn": "Tracy nhận ra điều gì về người ở Washington?",
+      "explanation": "\"most people there have heard of the San Diego Zoo, but few of them know that it sits inside one of the biggest city parks in the United States.\""
+    },
+    {
+      "id": "q_u3940_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "How big is Balboa Park?",
+        "vi": "Công viên Balboa rộng bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about fifteen acres",
+            "vi": "khoảng mười lăm mẫu Anh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "about fifteen acres",
+          "text_translation": "khoảng mười lăm mẫu Anh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as big as the zoo",
+            "vi": "bằng vườn thú"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "as big as the zoo",
+          "text_translation": "bằng vườn thú"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "about 1,915 acres",
+            "vi": "khoảng 1.915 mẫu Anh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "about 1,915 acres",
+          "text_translation": "khoảng 1.915 mẫu Anh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "about 1,200 acres",
+            "vi": "khoảng 1.200 mẫu Anh"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "about 1,200 acres",
+          "text_translation": "khoảng 1.200 mẫu Anh"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Balboa Park covers about 1,200 acres\". 1915 là năm của hội chợ quốc tế; mười lăm là số bảo tàng."
+      },
+      "audio_data": null,
+      "question_jp": "How big is Balboa Park?",
+      "question_vn": "Công viên Balboa rộng bao nhiêu?",
+      "explanation": "\"Balboa Park covers about 1,200 acres\". 1915 là năm của hội chợ quốc tế; mười lăm là số bảo tàng."
+    },
+    {
+      "id": "q_u3940_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "Why were many of the park's most prominent buildings built?",
+        "vi": "Nhiều toà nhà nổi bật nhất của công viên được xây để làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "for the zoo",
+            "vi": "cho vườn thú"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "for the zoo",
+          "text_translation": "cho vườn thú"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "for a large international fair in 1915",
+            "vi": "cho một hội chợ quốc tế lớn năm 1915"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "for a large international fair in 1915",
+          "text_translation": "cho một hội chợ quốc tế lớn năm 1915"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "for an old movie",
+            "vi": "cho một bộ phim xưa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "for an old movie",
+          "text_translation": "cho một bộ phim xưa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "for the university",
+            "vi": "cho trường đại học"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "for the university",
+          "text_translation": "cho trường đại học"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many of its most prominent buildings were built for a large international fair in 1915.\" Chữ old movie chỉ là phép so sánh."
+      },
+      "audio_data": null,
+      "question_jp": "Why were many of the park's most prominent buildings built?",
+      "question_vn": "Nhiều toà nhà nổi bật nhất của công viên được xây để làm gì?",
+      "explanation": "\"Many of its most prominent buildings were built for a large international fair in 1915.\" Chữ old movie chỉ là phép so sánh."
+    },
+    {
+      "id": "q_u3940_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "In \"which is clearly visible from many parts of the city\", what does \"clearly visible\" mean?",
+        "vi": "Trong câu \"which is clearly visible from many parts of the city\", \"clearly visible\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "very old",
+            "vi": "rất cũ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "very old",
+          "text_translation": "rất cũ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "difficult to find",
+            "vi": "khó tìm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "difficult to find",
+          "text_translation": "khó tìm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "easy to see",
+            "vi": "dễ nhìn thấy"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "easy to see",
+          "text_translation": "dễ nhìn thấy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "closed to visitors",
+            "vi": "không cho khách vào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "closed to visitors",
+          "text_translation": "không cho khách vào"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"The California Tower, which is clearly visible from many parts of the city, is the best-known of them.\" Visible = nhìn thấy được; một ngọn tháp cao thì từ xa cũng thấy rõ."
+      },
+      "audio_data": null,
+      "question_jp": "In \"which is clearly visible from many parts of the city\", what does \"clearly visible\" mean?",
+      "question_vn": "Trong câu \"which is clearly visible from many parts of the city\", \"clearly visible\" nghĩa là gì?",
+      "explanation": "\"The California Tower, which is clearly visible from many parts of the city, is the best-known of them.\" Visible = nhìn thấy được; một ngọn tháp cao thì từ xa cũng thấy rõ."
+    },
+    {
+      "id": "q_u3940_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What can you see in the long pond in front of the Botanical Building?",
+        "vi": "Bạn có thể thấy gì ở hồ nước dài trước Nhà thực vật?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "turtles",
+            "vi": "rùa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "turtles",
+          "text_translation": "rùa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "small waterfalls",
+            "vi": "thác nước nhỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "small waterfalls",
+          "text_translation": "thác nước nhỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "wooden bridges",
+            "vi": "cầu gỗ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "wooden bridges",
+          "text_translation": "cầu gỗ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "colorful fish",
+            "vi": "cá đủ màu"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "colorful fish",
+          "text_translation": "cá đủ màu"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"a long pond in front of it where you can catch a glimpse of colorful fish.\" Thác nước và cầu gỗ là ở Vườn Hữu nghị Nhật Bản."
+      },
+      "audio_data": null,
+      "question_jp": "What can you see in the long pond in front of the Botanical Building?",
+      "question_vn": "Bạn có thể thấy gì ở hồ nước dài trước Nhà thực vật?",
+      "explanation": "\"a long pond in front of it where you can catch a glimpse of colorful fish.\" Thác nước và cầu gỗ là ở Vườn Hữu nghị Nhật Bản."
+    },
+    {
+      "id": "q_u3940_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "When can you listen to a free concert in the park?",
+        "vi": "Khi nào có thể nghe hoà nhạc miễn phí trong công viên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on Sunday afternoons",
+            "vi": "chiều Chủ nhật"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "on Sunday afternoons",
+          "text_translation": "chiều Chủ nhật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "every evening",
+            "vi": "mỗi buổi tối"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "every evening",
+          "text_translation": "mỗi buổi tối"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only in the summer",
+            "vi": "chỉ vào mùa hè"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "only in the summer",
+          "text_translation": "chỉ vào mùa hè"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on Saturday mornings",
+            "vi": "sáng thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "on Saturday mornings",
+          "text_translation": "sáng thứ Bảy"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"On Sunday afternoons, you can sit outside and listen to a free concert on one of the biggest outdoor pipe organs in the world.\""
+      },
+      "audio_data": null,
+      "question_jp": "When can you listen to a free concert in the park?",
+      "question_vn": "Khi nào có thể nghe hoà nhạc miễn phí trong công viên?",
+      "explanation": "\"On Sunday afternoons, you can sit outside and listen to a free concert on one of the biggest outdoor pipe organs in the world.\""
+    },
+    {
+      "id": "q_u3940_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "Which of these is NOT one of Tracy's tips?",
+        "vi": "Điều nào KHÔNG nằm trong các mẹo của Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Check museum websites before you go.",
+            "vi": "Xem trang web bảo tàng trước khi đi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Check museum websites before you go.",
+          "text_translation": "Xem trang web bảo tàng trước khi đi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Arrive early or take the free tram.",
+            "vi": "Tới sớm hoặc đi xe điện miễn phí."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Arrive early or take the free tram.",
+          "text_translation": "Tới sớm hoặc đi xe điện miễn phí."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Visit the zoo on Mondays because it is free.",
+            "vi": "Đi vườn thú vào thứ Hai vì được miễn phí."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Visit the zoo on Mondays because it is free.",
+          "text_translation": "Đi vườn thú vào thứ Hai vì được miễn phí."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Bring a jacket.",
+            "vi": "Mang áo khoác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Bring a jacket.",
+          "text_translation": "Mang áo khoác."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Entry to the park itself is free, but most museums charge a fee\". Ba mẹo của Tracy là xem trang web, tới sớm hoặc đi xe điện, mang áo khoác. Bài không nói gì về vườn thú miễn phí ngày thứ Hai."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT one of Tracy's tips?",
+      "question_vn": "Điều nào KHÔNG nằm trong các mẹo của Tracy?",
+      "explanation": "\"Entry to the park itself is free, but most museums charge a fee\". Ba mẹo của Tracy là xem trang web, tới sớm hoặc đi xe điện, mang áo khoác. Bài không nói gì về vườn thú miễn phí ngày thứ Hai."
+    },
+    {
+      "id": "q_u3940_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What does Tracy mean by \"Sometimes you have to go away before you can really see the place where you grew up\"?",
+        "vi": "Tracy muốn nói gì qua câu \"Đôi khi phải đi xa rồi ta mới thật sự nhìn thấy nơi mình lớn lên\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She needs new glasses.",
+            "vi": "Cô cần kính mới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She needs new glasses.",
+          "text_translation": "Cô cần kính mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Being away helped her to appreciate her hometown.",
+            "vi": "Đi xa giúp cô trân trọng quê nhà hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Being away helped her to appreciate her hometown.",
+          "text_translation": "Đi xa giúp cô trân trọng quê nhà hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wants to move away again soon.",
+            "vi": "Cô muốn sớm đi xa lần nữa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wants to move away again soon.",
+          "text_translation": "Cô muốn sớm đi xa lần nữa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has never been to Balboa Park before.",
+            "vi": "Cô chưa từng tới công viên Balboa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has never been to Balboa Park before.",
+          "text_translation": "Cô chưa từng tới công viên Balboa."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I realized how much I had missed home.\" Sau hai năm xa nhà, cô nhìn những nơi quen thuộc bằng con mắt mới."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy mean by \"Sometimes you have to go away before you can really see the place where you grew up\"?",
+      "question_vn": "Tracy muốn nói gì qua câu \"Đôi khi phải đi xa rồi ta mới thật sự nhìn thấy nơi mình lớn lên\"?",
+      "explanation": "Câu suy luận. \"I realized how much I had missed home.\" Sau hai năm xa nhà, cô nhìn những nơi quen thuộc bằng con mắt mới."
+    },
+    {
+      "id": "q_u3940_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "Use both texts. Tracy is home for winter break. Which offer from Chloe's ideas could she enjoy in early January?",
+        "vi": "Dựa vào cả hai bài. Tracy đang về nghỉ đông. Cô có thể hưởng ưu đãi nào trong các ý tưởng của Chloe vào đầu tháng Một?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "free museum tickets",
+            "vi": "vé bảo tàng miễn phí"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "free museum tickets",
+          "text_translation": "vé bảo tàng miễn phí"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a free tram ride to Harriet's",
+            "vi": "đi xe điện miễn phí tới quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a free tram ride to Harriet's",
+          "text_translation": "đi xe điện miễn phí tới quán Harriet's"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "half-price coffee all winter",
+            "vi": "cà phê giảm nửa giá cả mùa đông"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "half-price coffee all winter",
+          "text_translation": "cà phê giảm nửa giá cả mùa đông"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a free cookie with every drink at Harriet's",
+            "vi": "bánh quy miễn phí kèm mỗi đồ uống ở quán Harriet's"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a free cookie with every drink at Harriet's",
+          "text_translation": "bánh quy miễn phí kèm mỗi đồ uống ở quán Harriet's"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: \"Tracy Carter, home in San Diego for winter break\". Bài 1: ý tưởng C có \"a free cookie with every drink during the first week of January\", và bà Harriet đã ghi \"Yes to B and C together\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Tracy is home for winter break. Which offer from Chloe's ideas could she enjoy in early January?",
+      "question_vn": "Dựa vào cả hai bài. Tracy đang về nghỉ đông. Cô có thể hưởng ưu đãi nào trong các ý tưởng của Chloe vào đầu tháng Một?",
+      "explanation": "Câu nối hai bài. Bài 2: \"Tracy Carter, home in San Diego for winter break\". Bài 1: ý tưởng C có \"a free cookie with every drink during the first week of January\", và bà Harriet đã ghi \"Yes to B and C together\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3940_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 39) — Ba ý tưởng quảng cáo của Chloe cho quán Harriet's",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3940_01",
+      "question_ids": [
+        "q_u3940_001",
+        "q_u3940_002",
+        "q_u3940_003",
+        "q_u3940_004",
+        "q_u3940_005",
+        "q_u3940_006",
+        "q_u3940_007",
+        "q_u3940_008",
+        "q_u3940_009",
+        "q_u3940_010"
+      ]
+    },
+    {
+      "set_id": "set_u3940_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 40) — Tracy giới thiệu công viên Balboa",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3940_02",
+      "question_ids": [
+        "q_u3940_011",
+        "q_u3940_012",
+        "q_u3940_013",
+        "q_u3940_014",
+        "q_u3940_015",
+        "q_u3940_016",
+        "q_u3940_017",
+        "q_u3940_018",
+        "q_u3940_019",
+        "q_u3940_020"
+      ]
+    }
+  ]
+}
