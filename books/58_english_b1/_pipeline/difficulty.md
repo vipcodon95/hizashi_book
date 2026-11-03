@@ -14,3 +14,4 @@ Mốc nối từ A2: u20 sách 57 = 265 / 265 từ, TB 16,0 / 16,7 từ/câu.
 | u0910 | 265 / 252 | 16.4 / 19.0 | nhật ký Trevor để dành tiền + bài quyền người mua online (FTC Mail Order Rule, không có luật đổi trả chung); 5 câu suy luận |
 | u1112 | 296 / 270 | 15.4 / 19.9 | tháng ăn lành mạnh của bố (Tina kể) + tờ thông tin cảm cúm/kháng sinh của Sunset Bay; 5 câu suy luận (1 nối 2 bài) |
 | u1314 | 290 / 361 | 14.8 / 18.6 | email Tracy kể chuyến trượt tuyết (Owen xuất hiện) + bài báo Pacific Crest Trail (2.650 dặm, ~5 tháng); 6 câu suy luận (1 nối 2 bài) |
+| u1516 | 321 / 297 | 15.8 / 17.0 | review nhà nghỉ Maui của Chloe (cặp liên từ) + bài khoa học El Niño (điều kiện loại 2); 6 câu suy luận (1 nối 2 bài) |

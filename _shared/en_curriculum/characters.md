@@ -126,6 +126,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | B1 | thứ Bảy 13/12, năm 4 | Trevor để dành mua **giày bóng đá 120 đô** cho buổi tuyển chọn đội trường tháng 3 (tiền tiêu vặt 15 đô/tuần; bớt nước tăng lực, tiền ảo game). Tina đòi cho vay 30 đô nhưng mỗi tuần trả thêm 1 đô (bố: "a tougher banker than any real bank"). **Từ tháng 1, Trevor dọn bàn sáng thứ Bảy ở Harriet's, 10 đô/giờ** (vì Chloe nghỉ). Dự tính đủ tiền cuối tháng 1. | sách 58 · u0910 |
 | B1 | tháng 1, năm 5 | Mitchell hứa cả tháng Một không gọi đồ mang về, tự nấu ăn lành mạnh (cà ri chay, cá hồi); Trevor giờ thích cá hồi; Tina muốn làm đầu bếp. Leah (bác sĩ nội trú năm nhất) được trích lời trong tờ thông tin cảm cúm của Sunset Bay | 58 · u1112 |
 | B1 | tháng 2, năm 5 | ⭐ Tracy (năm 2 đại học) đi trượt tuyết cuối tuần dài với 3 bạn: **Jenna** (bạn, chuông báo thức không reo) và **Owen** (người lạ, bạn của Jenna, học cùng lớp toán với Tracy; dạy Tracy trượt tuyết). Xe hết xăng, nhà gỗ bị giao nhầm, ngủ nhà nghỉ. Tracy và Owen hẹn đi cà phê; Tracy chỉ kể với Leah, **chưa cho mẹ biết**. → mối tình đầu của Tracy | 58 · u1314 |
+| B1 | đầu tháng 3, năm 5 | Chloe (thiết kế tự do) bay đi **Maui** làm logo + trang web cho một trường lướt sóng nhỏ; ở **Sea Breeze Guesthouse** 5 đêm, bà chủ **Mrs. Kahale** (người lạ). Chuyến bay trễ, phòng không có bàn → làm việc ở bàn ngoài vườn nhìn ra biển. Đánh giá 4/5, đã đặt phòng cho chuyến sau | 58 · u1516 |
 
 ## Còn mở
 
