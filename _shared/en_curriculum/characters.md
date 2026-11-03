@@ -91,6 +91,7 @@ Ghi theo thứ tự thời gian truyện. Mỗi dòng: cấp · thời điểm �
 | A1 | tháng 6, năm 2 | **Lớp vẽ Chủ nhật của Helena ở Harriet's** (sau khi quán đóng 1pm): trẻ 6–11 tuổi 2–3pm $5; từ 12 tuổi 3:30–5pm $10; mỗi lớp 10 chỗ; tháng 6 vẽ bãi biển, Chủ nhật cuối treo tranh ở quán. Helena: kỹ sư xây cầu, chơi piano, làm thơ, thích vẽ nhất. | sách 56 · u13 |
 | A1 | đầu tháng 6, năm 2 | Leah thi xong, đi nghỉ ngắn ở **Aspen (Colorado)** cùng Chloe, ở một căn nhà nhỏ cạnh sông, về nhà chiều thứ Tư; bà Harriet cho Chloe nghỉ ca thứ Ba. Leah hứa mang quà cho Tracy. Tracy đang lo các bài kiểm tra cuối năm. (Chưa có Ethan.) | sách 56 · u14 |
 | A1 | giữa tháng 6, năm 2 | Thứ Hai (Harriet's đóng cửa), bà Harriet đưa Tina và Amy đi **City Zoo** (hư cấu). Tina gọi bà là "Grandma Harriet". Tina thích nhất con hổ; Amy đòi nuôi khỉ. Ở City Zoo: sư tử đực Leo (9 tuổi, 190 kg), hổ đực Max (12 tuổi, 220 kg), dơi ăn quả; giờ cho ăn sư tử/hổ 2:30pm, dơi 4pm. | sách 56 · u15 |
+| A1 | đầu tháng 7, năm 2 | (Đề thi thử) Megan làm muộn ở bệnh viện tới khoảng 9 giờ tối; Tracy đón Tina ở nhà Amy lúc 5 giờ; Biscuit mê ăn gà. Thứ Bảy cả nhà Carter đi biển bằng xe của Mitchell (9 giờ sáng), Mitchell nướng hamburger, Amy đi cùng; Leah ở nhà trông Biscuit. Người lạ: Grace Miller (đưa thư ở San Diego). | sách 56 · mock1 |
 
 ## Còn mở
 

@@ -70,7 +70,7 @@ def auto_vocab(d: dict, cw: dict) -> list[str]:
             if wl in _forms(t):
                 pos[w] = low.find(t) if k == 0 else len(" ".join(toks[:k]))
                 break
-    skip = {"num", "interj"}
+    skip = {"num", "number", "interj"}
     picked = sorted((w for w in pos if cw[w]["pos"] not in skip), key=pos.get)
     if len(picked) < VOCAB_MAX:  # thiếu thì bù số đếm/thán từ
         picked += sorted((w for w in pos if cw[w]["pos"] in skip), key=pos.get)
@@ -87,7 +87,7 @@ LABELS = {
         "answers_cols": "| Câu | Đáp án | Giải thích |", "sentence": "Câu",
         "pos": {"noun": "danh từ", "verb": "động từ", "adj": "tính từ", "adv": "trạng từ", "interj": "thán từ",
                 "phrase": "cụm từ", "prep": "giới từ", "conj": "liên từ", "pron": "đại từ", "det": "từ hạn định",
-                "num": "số từ"},
+                "num": "số từ", "number": "số từ"},
     },
     # "ja": {...}, "th": {...}  ← thêm khi làm bản dịch mới; giữ nguyên các khoá như bản "vi"
 }

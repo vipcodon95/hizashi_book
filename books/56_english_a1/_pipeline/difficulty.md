@@ -17,3 +17,4 @@
 | u13 | 140 / 140 | 10.5 / 11.1 | tin nhắn hẹn xem bóng + áp phích lớp vẽ; 2 câu suy luận. Main sửa câu 10 ("together" mâu thuẫn giờ 2 lớp) |
 | u15 | 141 / 136 | 13.5 / 10.6 | trang viết của Tina ở sở thú + biển thông tin động vật (đã WebSearch kiểm chứng); 2 câu suy luận. Main sửa "kilograms bigger" → "heavier" |
 | u14 | 140 / 136 | 10.4 / 10.1 | email Leah từ Aspen + dự báo thời tiết San Diego; câu suy luận nối 2 bài (agent viết, main kiểm chứng) |
+| mock1 | 138 / 101 / 122 / 162 | 6.4 / 8.0 / 9.8 / 11.1 | đề thi thử 4 phần × 5 câu, khó dần; đáp án 5/5/5/5; 4 câu suy luận (agent viết, main kiểm chứng) |

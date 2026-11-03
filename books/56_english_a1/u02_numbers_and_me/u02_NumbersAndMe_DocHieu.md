@@ -14,7 +14,6 @@
 |---|---|---|---|
 | young | tính từ | trẻ | `a1.05` |
 | only | trạng từ | chỉ | `a1.07` |
-| three | number | ba | `a1.05` |
 | old | tính từ | già; ... tuổi | `a1.05` |
 | street | danh từ | đường phố | `a1.08` |
 | check | động từ | kiểm tra · Mỹ: check = hóa đơn ở nhà hàng (Anh: bill) | `a1.08` |
@@ -22,6 +21,7 @@
 | mobile | tính từ | di động (mobile phone — Anh; Mỹ: cell phone) | `a1.06` |
 | number | danh từ | số | `a1.07` |
 | address | danh từ | địa chỉ | `a1.08` |
+| email | danh từ | thư điện tử | `a1.08` |
 
 **Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):
 
