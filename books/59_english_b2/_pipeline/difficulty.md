@@ -11,3 +11,4 @@
 | u1314 | [358, 338] từ, TB [18.4, 20.7] | thông báo The Neighbors' Table (bị động tương lai, if so / if not, khoanh vùng phong tục) + bài du lịch quá tải (having + V3; Venice, Kyoto, vịnh Maya); 6 câu suy luận/giọng điệu (1 nối 2 bài) |
 | u1516 | [334, 320] từ, TB [23.1, 20.9] | báo cáo kế hoạch công viên bỏ túi (the fact that, ngôn ngữ quy trình, vị trí) + khoa học rừng tảo bẹ California (điều kiện loại 3, đảo ngữ Had); 6 câu suy luận (1 nối 2 bài) |
 | u1718 | [319, 345] từ, TB [19.4, 22.3] | nhật ký đếm chim di cư của Tina (see/hear + O + V) + bài loa thông minh trong gia đình (bị động tường thuật, find it + adj); 7 câu suy luận/ẩn dụ (1 nối 2 bài) |
+| u1920 | [354, 330] từ, TB [24.8, 23.1] | truyện clip lan truyền của Trevor (being + V3) + bài thuật toán đề xuất (câu chẻ, rào đón); 7 câu suy luận/chức năng/giọng điệu (1 nối 2 bài) |
