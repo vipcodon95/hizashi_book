@@ -1,0 +1,1244 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 14 — Weather and seasons",
+      "vi": "Thời tiết và các mùa"
+    },
+    "title": "Unit 14 — Weather and seasons",
+    "title_vn": "Thời tiết và các mùa",
+    "module_code": "56_u14",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u14",
+    "curriculum_sheets": [
+      "a1.53",
+      "a1.54",
+      "a1.55",
+      "a1.56"
+    ],
+    "characters": [
+      "Leah Carter",
+      "Tracy Carter",
+      "Chloe Bennett",
+      "Harriet Brooks",
+      "Tina Carter",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 6, năm 2 (đầu mùa hè)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Thời tiết, nhiệt độ, will (đoán, quyết định, hứa), mùa và tháng, quần áo hợp thời tiết",
+    "description_vn": "Email Leah gửi Tracy từ Aspen và bản dự báo thời tiết San Diego một tuần. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 14 khoá A1 · phiếu `a1.53` – `a1.56` (thời tiết hôm nay, mùa và tháng, quần áo hợp thời tiết, thiên nhiên quanh ta)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một email Leah viết từ vùng núi và một bản dự báo thời tiết một tuần; hiểu từ chỉ thời tiết (sunny, cloudy, foggy, strong wind), nhiệt độ, quần áo hợp thời tiết, và will để đoán, quyết định, hứa."
+    },
+    "extra_words": [
+      {
+        "word": "exam",
+        "i18n": {
+          "vi": "kỳ thi"
+        }
+      },
+      {
+        "word": "degree",
+        "i18n": {
+          "vi": "độ (nhiệt độ)"
+        }
+      },
+      {
+        "word": "gloom",
+        "i18n": {
+          "vi": "cảnh âm u, u ám"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "on vacation",
+          "vi": "đang đi nghỉ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "it gets cold",
+          "vi": "trời trở lạnh"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put on sun cream",
+          "vi": "bôi kem chống nắng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take it off",
+          "vi": "cởi nó ra"
+        }
+      },
+      {
+        "i18n": {
+          "en": "strong wind",
+          "vi": "gió mạnh"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take an umbrella",
+          "vi": "mang theo ô"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**will** + động từ nguyên mẫu có ba nghĩa hay gặp: đoán (`there will be no clouds`), quyết định ngay lúc nói (`I'll put on sun cream`), hứa (`I will bring you a present`). Câu hỏi về tương lai thì tìm `will` trong bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Đọc bảng dự báo theo dòng: tên ngày ở đầu, rồi thời tiết buổi sáng, buổi chiều, cuối cùng là nhiệt độ. Câu hỏi có ngày và buổi (`Thursday morning`) thì phải khớp cả hai."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Nhiệt độ ở Mỹ thường ghi độ F (°F). 70°F khoảng 21°C, tức là trời ấm dễ chịu, không nóng. Bản tin hay ghi kèm °C trong ngoặc."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Lời khuyên trong bản tin là câu mệnh lệnh: `Wear…`, `Take…`, `Put on…`. Câu hỏi \"bạn cần làm gì / mang gì\" thường có đáp án ở các câu này."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u14_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Email của Leah từ Aspen"
+      },
+      "title": "Hello from Aspen!",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hello from Aspen!",
+            "vi": "Chào từ Aspen!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi Tracy,",
+            "vi": "Chào Tracy,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My exams are over, so Chloe and I are on vacation in Colorado!",
+            "vi": "Chị thi xong rồi, nên giờ chị với Chloe đang đi nghỉ ở bang Colorado!"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At home, June mornings are often gray, but here the sky is blue all day.",
+            "vi": "Ở nhà mình, sáng tháng Sáu hay âm u, còn ở đây trời xanh suốt cả ngày."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The afternoons are warm and dry, about seventy degrees.",
+            "vi": "Buổi chiều ấm và khô, khoảng bảy mươi độ F."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At night, it gets cold, so I wear my thick coat and a hat.",
+            "vi": "Về đêm trời trở lạnh, nên chị mặc áo khoác dày và đội mũ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our house is by a river, under tall trees.",
+            "vi": "Căn nhà tụi chị ở nằm cạnh một con sông, dưới những hàng cây cao."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It's summer, but there's still snow on the high mountains!",
+            "vi": "Đang mùa hè mà trên mấy ngọn núi cao vẫn còn tuyết đấy!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tonight, there will be no clouds, so we will see lots of stars.",
+            "vi": "Đêm nay trời sẽ không có mây, nên tụi chị sẽ được ngắm thật nhiều sao."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The sun is strong up here, so I'll put on sun cream and a cap.",
+            "vi": "Trên này nắng gắt, nên chị sẽ bôi kem chống nắng và đội mũ lưỡi trai."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Chloe usually works on Tuesday, but Harriet is giving her a day off.",
+            "vi": "Thường thì thứ Ba Chloe đi làm, nhưng bà Harriet cho Chloe nghỉ một hôm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We will be home on Wednesday afternoon.",
+            "vi": "Chiều thứ Tư tụi chị sẽ về tới nhà."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Don't worry about your tests. You will do well!",
+            "vi": "Đừng lo về mấy bài kiểm tra nhé. Em sẽ làm tốt thôi!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I will bring you a present!",
+            "vi": "Chị sẽ mang quà về cho em!"
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Love, Leah",
+            "vi": "Thương em, Leah"
+          }
+        }
+      ],
+      "content_ja": "Hello from Aspen!\n\nHi Tracy,\n\nMy exams are over, so Chloe and I are on vacation in Colorado! At home, June mornings are often gray, but here the sky is blue all day. The afternoons are warm and dry, about seventy degrees. At night, it gets cold, so I wear my thick coat and a hat.\n\nOur house is by a river, under tall trees. It's summer, but there's still snow on the high mountains! Tonight, there will be no clouds, so we will see lots of stars.\n\nThe sun is strong up here, so I'll put on sun cream and a cap. Chloe usually works on Tuesday, but Harriet is giving her a day off. We will be home on Wednesday afternoon.\n\nDon't worry about your tests. You will do well! I will bring you a present!\n\nLove, Leah",
+      "translation_vn": "(1) Chào từ Aspen!\n(2) Chào Tracy,\n(3) Chị thi xong rồi, nên giờ chị với Chloe đang đi nghỉ ở bang Colorado!\n(4) Ở nhà mình, sáng tháng Sáu hay âm u, còn ở đây trời xanh suốt cả ngày.\n(5) Buổi chiều ấm và khô, khoảng bảy mươi độ F.\n(6) Về đêm trời trở lạnh, nên chị mặc áo khoác dày và đội mũ.\n(7) Căn nhà tụi chị ở nằm cạnh một con sông, dưới những hàng cây cao.\n(8) Đang mùa hè mà trên mấy ngọn núi cao vẫn còn tuyết đấy!\n(9) Đêm nay trời sẽ không có mây, nên tụi chị sẽ được ngắm thật nhiều sao.\n(10) Trên này nắng gắt, nên chị sẽ bôi kem chống nắng và đội mũ lưỡi trai.\n(11) Thường thì thứ Ba Chloe đi làm, nhưng bà Harriet cho Chloe nghỉ một hôm.\n(12) Chiều thứ Tư tụi chị sẽ về tới nhà.\n(13) Đừng lo về mấy bài kiểm tra nhé. Em sẽ làm tốt thôi!\n(14) Chị sẽ mang quà về cho em!\n(15) Thương em, Leah",
+      "word_count": 140,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.53",
+        "a1.54",
+        "a1.55",
+        "a1.56"
+      ]
+    },
+    {
+      "id": "passage_u14_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Dự báo thời tiết San Diego một tuần"
+      },
+      "title": "San Diego Weather This Week",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "San Diego Weather This Week",
+            "vi": "Thời tiết San Diego tuần này"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many people here call June \"June Gloom\", because the mornings are often gray and cloudy.",
+            "vi": "Nhiều người ở đây gọi tháng Sáu là \"June Gloom\" (tháng Sáu âm u), vì buổi sáng hay xám xịt, nhiều mây."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But the sun usually comes out after lunch.",
+            "vi": "Nhưng thường thì sau bữa trưa mặt trời sẽ ló ra."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In July and August, the mornings are often sunny, too.",
+            "vi": "Sang tháng Bảy và tháng Tám thì buổi sáng cũng hay có nắng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Monday: cloudy morning, sunny afternoon. 70°F (21°C)",
+            "vi": "Thứ Hai: sáng nhiều mây, chiều nắng. 70°F (21°C)"
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tuesday: foggy near the ocean in the morning, then sunny. 69°F (21°C)",
+            "vi": "Thứ Ba: sáng có sương mù ở gần biển, sau đó nắng. 69°F (21°C)"
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Wednesday: cloudy all day, with strong wind in the afternoon. 67°F (19°C)",
+            "vi": "Thứ Tư: nhiều mây cả ngày, chiều có gió mạnh. 67°F (19°C)"
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thursday: gray and cloudy, with a little rain in the morning. 66°F (19°C)",
+            "vi": "Thứ Năm: âm u, nhiều mây, sáng có mưa nhỏ. 66°F (19°C)"
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Friday: cloudy morning, sunny afternoon. 71°F (22°C)",
+            "vi": "Thứ Sáu: sáng nhiều mây, chiều nắng. 71°F (22°C)"
+          }
+        },
+        {
+          "n": 10,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday and Sunday: sunny and warm all day. 74°F (23°C)",
+            "vi": "Thứ Bảy và Chủ nhật: nắng ấm cả ngày. 74°F (23°C)"
+          }
+        },
+        {
+          "n": 11,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nights will be cool, about 62°F (17°C).",
+            "vi": "Ban đêm trời sẽ mát, khoảng 62°F (17°C)."
+          }
+        },
+        {
+          "n": 12,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Wear a light coat in the morning, and take it off after lunch.",
+            "vi": "Buổi sáng hãy mặc một chiếc áo khoác mỏng, rồi cởi ra sau bữa trưa."
+          }
+        },
+        {
+          "n": 13,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The sun is strong, so wear a hat and sun cream.",
+            "vi": "Nắng gắt, nên hãy đội mũ và bôi kem chống nắng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Take an umbrella on Thursday morning.",
+            "vi": "Sáng thứ Năm nhớ mang theo ô."
+          }
+        }
+      ],
+      "content_ja": "San Diego Weather This Week\n\nMany people here call June \"June Gloom\", because the mornings are often gray and cloudy. But the sun usually comes out after lunch. In July and August, the mornings are often sunny, too.\n\nMonday: cloudy morning, sunny afternoon. 70°F (21°C)\n\nTuesday: foggy near the ocean in the morning, then sunny. 69°F (21°C)\n\nWednesday: cloudy all day, with strong wind in the afternoon. 67°F (19°C)\n\nThursday: gray and cloudy, with a little rain in the morning. 66°F (19°C)\n\nFriday: cloudy morning, sunny afternoon. 71°F (22°C)\n\nSaturday and Sunday: sunny and warm all day. 74°F (23°C)\n\nNights will be cool, about 62°F (17°C).\n\nWear a light coat in the morning, and take it off after lunch. The sun is strong, so wear a hat and sun cream. Take an umbrella on Thursday morning.",
+      "translation_vn": "(1) Thời tiết San Diego tuần này\n(2) Nhiều người ở đây gọi tháng Sáu là \"June Gloom\" (tháng Sáu âm u), vì buổi sáng hay xám xịt, nhiều mây.\n(3) Nhưng thường thì sau bữa trưa mặt trời sẽ ló ra.\n(4) Sang tháng Bảy và tháng Tám thì buổi sáng cũng hay có nắng.\n(5) Thứ Hai: sáng nhiều mây, chiều nắng. 70°F (21°C)\n(6) Thứ Ba: sáng có sương mù ở gần biển, sau đó nắng. 69°F (21°C)\n(7) Thứ Tư: nhiều mây cả ngày, chiều có gió mạnh. 67°F (19°C)\n(8) Thứ Năm: âm u, nhiều mây, sáng có mưa nhỏ. 66°F (19°C)\n(9) Thứ Sáu: sáng nhiều mây, chiều nắng. 71°F (22°C)\n(10) Thứ Bảy và Chủ nhật: nắng ấm cả ngày. 74°F (23°C)\n(11) Ban đêm trời sẽ mát, khoảng 62°F (17°C).\n(12) Buổi sáng hãy mặc một chiếc áo khoác mỏng, rồi cởi ra sau bữa trưa.\n(13) Nắng gắt, nên hãy đội mũ và bôi kem chống nắng.\n(14) Sáng thứ Năm nhớ mang theo ô.",
+      "word_count": 136,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.53",
+        "a1.54",
+        "a1.55",
+        "a1.56"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u14_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "What are the afternoons like in Aspen?",
+        "vi": "Buổi chiều ở Aspen thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "hot and humid",
+            "vi": "nóng và ẩm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "hot and humid",
+          "text_translation": "nóng và ẩm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "warm and dry",
+            "vi": "ấm và khô"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "warm and dry",
+          "text_translation": "ấm và khô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "gray and cloudy",
+            "vi": "âm u và nhiều mây"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "gray and cloudy",
+          "text_translation": "âm u và nhiều mây"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "very cold",
+            "vi": "rất lạnh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "very cold",
+          "text_translation": "rất lạnh"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"The afternoons are warm and dry, about seventy degrees.\" Âm u là buổi sáng tháng Sáu ở San Diego (\"At home, June mornings are often gray\"). Rất lạnh là về đêm ở Aspen. Bài không nói Aspen nóng hay ẩm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi What is/are … like? hỏi một thứ \"như thế nào\". Với thời tiết, câu trả lời là tính từ: warm, dry, cold, sunny…"
+      },
+      "question_jp": "What are the afternoons like in Aspen?",
+      "question_vn": "Buổi chiều ở Aspen thế nào?",
+      "explanation": "\"The afternoons are warm and dry, about seventy degrees.\" Âm u là buổi sáng tháng Sáu ở San Diego (\"At home, June mornings are often gray\"). Rất lạnh là về đêm ở Aspen. Bài không nói Aspen nóng hay ẩm.",
+      "tip": "Câu hỏi What is/are … like? hỏi một thứ \"như thế nào\". Với thời tiết, câu trả lời là tính từ: warm, dry, cold, sunny…"
+    },
+    {
+      "id": "q_u14_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "What does Leah wear at night?",
+        "vi": "Ban đêm Leah mặc gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sun cream and a cap",
+            "vi": "kem chống nắng và mũ lưỡi trai"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "sun cream and a cap",
+          "text_translation": "kem chống nắng và mũ lưỡi trai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a light coat",
+            "vi": "một chiếc áo khoác mỏng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a light coat",
+          "text_translation": "một chiếc áo khoác mỏng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "an umbrella",
+            "vi": "một chiếc ô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "an umbrella",
+          "text_translation": "một chiếc ô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "her thick coat and a hat",
+            "vi": "áo khoác dày và mũ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "her thick coat and a hat",
+          "text_translation": "áo khoác dày và mũ"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"At night, it gets cold, so I wear my thick coat and a hat.\" Kem chống nắng và mũ lưỡi trai là cho ban ngày, khi nắng gắt. Áo khoác mỏng là lời khuyên cho buổi sáng ở San Diego (Bài đọc 2). Mang ô là lời khuyên cho sáng thứ Năm ở San Diego, cũng ở Bài đọc 2."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "thick coat = áo khoác dày (cho trời lạnh), light coat = áo khoác mỏng. Để ý tính từ đứng trước coat."
+      },
+      "question_jp": "What does Leah wear at night?",
+      "question_vn": "Ban đêm Leah mặc gì?",
+      "explanation": "\"At night, it gets cold, so I wear my thick coat and a hat.\" Kem chống nắng và mũ lưỡi trai là cho ban ngày, khi nắng gắt. Áo khoác mỏng là lời khuyên cho buổi sáng ở San Diego (Bài đọc 2). Mang ô là lời khuyên cho sáng thứ Năm ở San Diego, cũng ở Bài đọc 2.",
+      "tip": "thick coat = áo khoác dày (cho trời lạnh), light coat = áo khoác mỏng. Để ý tính từ đứng trước coat."
+    },
+    {
+      "id": "q_u14_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "Leah writes, \"Don't worry about your tests.\" What can we learn about Tracy?",
+        "vi": "Leah viết: \"Đừng lo về mấy bài kiểm tra nhé.\" Ta biết được gì về Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is worried about her tests.",
+            "vi": "Tracy đang lo về các bài kiểm tra."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She is worried about her tests.",
+          "text_translation": "Tracy đang lo về các bài kiểm tra."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is on vacation in Aspen, too.",
+            "vi": "Tracy cũng đang đi nghỉ ở Aspen."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is on vacation in Aspen, too.",
+          "text_translation": "Tracy cũng đang đi nghỉ ở Aspen."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her tests are over.",
+            "vi": "Tracy đã thi xong."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Her tests are over.",
+          "text_translation": "Tracy đã thi xong."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She works at Harriet's on Tuesday.",
+            "vi": "Tracy làm ở quán Harriet's vào thứ Ba."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She works at Harriet's on Tuesday.",
+          "text_translation": "Tracy làm ở quán Harriet's vào thứ Ba."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Người ta chỉ nói \"Don't worry about…\" với người đang lo lắng. Leah còn động viên: \"You will do well!\", nên Tracy đang lo về bài kiểm tra của mình. Người đang đi nghỉ ở Aspen là Leah và Chloe. Người đã thi xong là Leah (\"My exams are over\"), không phải Tracy. Người làm ở quán Harriet's vào thứ Ba là Chloe."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi What can we learn about …? thường không có đáp án nằm sẵn trong một câu. Hãy nghĩ: vì sao người viết lại nói câu đó?"
+      },
+      "question_jp": "Leah writes, \"Don't worry about your tests.\" What can we learn about Tracy?",
+      "question_vn": "Leah viết: \"Đừng lo về mấy bài kiểm tra nhé.\" Ta biết được gì về Tracy?",
+      "explanation": "Câu suy luận. Người ta chỉ nói \"Don't worry about…\" với người đang lo lắng. Leah còn động viên: \"You will do well!\", nên Tracy đang lo về bài kiểm tra của mình. Người đang đi nghỉ ở Aspen là Leah và Chloe. Người đã thi xong là Leah (\"My exams are over\"), không phải Tracy. Người làm ở quán Harriet's vào thứ Ba là Chloe.",
+      "tip": "Câu hỏi What can we learn about …? thường không có đáp án nằm sẵn trong một câu. Hãy nghĩ: vì sao người viết lại nói câu đó?"
+    },
+    {
+      "id": "q_u14_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "What does Leah think they will see tonight?",
+        "vi": "Leah nghĩ đêm nay họ sẽ được thấy gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a blue sky",
+            "vi": "bầu trời xanh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a blue sky",
+          "text_translation": "bầu trời xanh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "gray clouds",
+            "vi": "những đám mây xám"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "gray clouds",
+          "text_translation": "những đám mây xám"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "lots of stars",
+            "vi": "thật nhiều sao"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "lots of stars",
+          "text_translation": "thật nhiều sao"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "snow on the river",
+            "vi": "tuyết trên sông"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "snow on the river",
+          "text_translation": "tuyết trên sông"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tonight, there will be no clouds, so we will see lots of stars.\" Đêm nay không có mây nên không thể là mây xám. Bầu trời xanh là cảnh ban ngày (\"here the sky is blue all day\"), còn ban đêm trời tối. Tuyết nằm trên núi cao, không phải trên sông."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "will + động từ nguyên mẫu dùng để đoán chuyện tương lai: there will be no clouds = sẽ không có mây; we will see = sẽ thấy."
+      },
+      "question_jp": "What does Leah think they will see tonight?",
+      "question_vn": "Leah nghĩ đêm nay họ sẽ được thấy gì?",
+      "explanation": "\"Tonight, there will be no clouds, so we will see lots of stars.\" Đêm nay không có mây nên không thể là mây xám. Bầu trời xanh là cảnh ban ngày (\"here the sky is blue all day\"), còn ban đêm trời tối. Tuyết nằm trên núi cao, không phải trên sông.",
+      "tip": "will + động từ nguyên mẫu dùng để đoán chuyện tương lai: there will be no clouds = sẽ không có mây; we will see = sẽ thấy."
+    },
+    {
+      "id": "q_u14_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_01",
+      "i18n": {
+        "en": "Why is Chloe not working on Tuesday this week?",
+        "vi": "Vì sao tuần này Chloe không đi làm vào thứ Ba?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's is closed on Tuesday.",
+            "vi": "Vì thứ Ba quán Harriet's đóng cửa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet's is closed on Tuesday.",
+          "text_translation": "Vì thứ Ba quán Harriet's đóng cửa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has exams.",
+            "vi": "Vì Chloe phải thi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has exams.",
+          "text_translation": "Vì Chloe phải thi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She never works on Tuesday.",
+            "vi": "Vì Chloe không bao giờ làm vào thứ Ba."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She never works on Tuesday.",
+          "text_translation": "Vì Chloe không bao giờ làm vào thứ Ba."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet is giving her a day off.",
+            "vi": "Vì bà Harriet cho Chloe nghỉ một hôm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Harriet is giving her a day off.",
+          "text_translation": "Vì bà Harriet cho Chloe nghỉ một hôm."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Chloe usually works on Tuesday, but Harriet is giving her a day off.\" Quán Harriet's chỉ đóng cửa thứ Hai, còn thứ Ba vẫn mở. Người vừa thi xong là Leah, không phải Chloe. Chloe \"usually\" (thường) làm vào thứ Ba, nên \"never\" là sai."
+      },
+      "audio_data": null,
+      "question_jp": "Why is Chloe not working on Tuesday this week?",
+      "question_vn": "Vì sao tuần này Chloe không đi làm vào thứ Ba?",
+      "explanation": "\"Chloe usually works on Tuesday, but Harriet is giving her a day off.\" Quán Harriet's chỉ đóng cửa thứ Hai, còn thứ Ba vẫn mở. Người vừa thi xong là Leah, không phải Chloe. Chloe \"usually\" (thường) làm vào thứ Ba, nên \"never\" là sai."
+    },
+    {
+      "id": "q_u14_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "In San Diego, when are the mornings often gray and cloudy?",
+        "vi": "Ở San Diego, buổi sáng hay xám xịt, nhiều mây vào lúc nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in July and August",
+            "vi": "vào tháng Bảy và tháng Tám"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in July and August",
+          "text_translation": "vào tháng Bảy và tháng Tám"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "every afternoon",
+            "vi": "chiều nào cũng vậy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "every afternoon",
+          "text_translation": "chiều nào cũng vậy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in June",
+            "vi": "vào tháng Sáu"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "in June",
+          "text_translation": "vào tháng Sáu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "only on Thursday",
+            "vi": "chỉ vào thứ Năm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "only on Thursday",
+          "text_translation": "chỉ vào thứ Năm"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many people here call June \"June Gloom\", because the mornings are often gray and cloudy.\" Tháng Bảy và tháng Tám thì ngược lại: \"In July and August, the mornings are often sunny, too.\" Buổi chiều thường có nắng (\"the sun usually comes out after lunch\"), nên \"every afternoon\" sai. Thứ Năm chỉ là ngày có mưa nhỏ trong tuần này, không phải lúc duy nhất trời âm u."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tên tháng tiếng Anh luôn viết hoa: June, July, August. Câu hỏi When …? về mùa thì tìm tên tháng hoặc tên mùa (summer, winter) trong bài."
+      },
+      "question_jp": "In San Diego, when are the mornings often gray and cloudy?",
+      "question_vn": "Ở San Diego, buổi sáng hay xám xịt, nhiều mây vào lúc nào?",
+      "explanation": "\"Many people here call June \"June Gloom\", because the mornings are often gray and cloudy.\" Tháng Bảy và tháng Tám thì ngược lại: \"In July and August, the mornings are often sunny, too.\" Buổi chiều thường có nắng (\"the sun usually comes out after lunch\"), nên \"every afternoon\" sai. Thứ Năm chỉ là ngày có mưa nhỏ trong tuần này, không phải lúc duy nhất trời âm u.",
+      "tip": "Tên tháng tiếng Anh luôn viết hoa: June, July, August. Câu hỏi When …? về mùa thì tìm tên tháng hoặc tên mùa (summer, winter) trong bài."
+    },
+    {
+      "id": "q_u14_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "When do you need an umbrella this week?",
+        "vi": "Tuần này lúc nào bạn cần mang ô?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on Thursday morning",
+            "vi": "sáng thứ Năm"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "on Thursday morning",
+          "text_translation": "sáng thứ Năm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on Wednesday afternoon",
+            "vi": "chiều thứ Tư"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on Wednesday afternoon",
+          "text_translation": "chiều thứ Tư"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on Tuesday morning",
+            "vi": "sáng thứ Ba"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on Tuesday morning",
+          "text_translation": "sáng thứ Ba"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "every night",
+            "vi": "tối nào cũng cần"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "every night",
+          "text_translation": "tối nào cũng cần"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Thursday: gray and cloudy, with a little rain in the morning.\" và \"Take an umbrella on Thursday morning.\" Chiều thứ Tư có gió mạnh nhưng không mưa. Sáng thứ Ba có sương mù gần biển, cũng không mưa. Ban đêm chỉ mát, không mưa."
+      },
+      "audio_data": null,
+      "question_jp": "When do you need an umbrella this week?",
+      "question_vn": "Tuần này lúc nào bạn cần mang ô?",
+      "explanation": "\"Thursday: gray and cloudy, with a little rain in the morning.\" và \"Take an umbrella on Thursday morning.\" Chiều thứ Tư có gió mạnh nhưng không mưa. Sáng thứ Ba có sương mù gần biển, cũng không mưa. Ban đêm chỉ mát, không mưa."
+    },
+    {
+      "id": "q_u14_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "What does the weather page say about coats?",
+        "vi": "Trang thời tiết nói gì về áo khoác?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Wear a thick coat all day.",
+            "vi": "Mặc áo khoác dày cả ngày."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Wear a thick coat all day.",
+          "text_translation": "Mặc áo khoác dày cả ngày."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Wear a light coat in the morning and take it off after lunch.",
+            "vi": "Buổi sáng mặc áo khoác mỏng, sau bữa trưa thì cởi ra."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Wear a light coat in the morning and take it off after lunch.",
+          "text_translation": "Buổi sáng mặc áo khoác mỏng, sau bữa trưa thì cởi ra."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Wear a coat only on the weekend.",
+            "vi": "Chỉ mặc áo khoác vào cuối tuần."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Wear a coat only on the weekend.",
+          "text_translation": "Chỉ mặc áo khoác vào cuối tuần."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Don't wear a coat this week.",
+            "vi": "Tuần này đừng mặc áo khoác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Don't wear a coat this week.",
+          "text_translation": "Tuần này đừng mặc áo khoác."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Wear a light coat in the morning, and take it off after lunch.\" Áo khoác dày là thứ Leah mặc ban đêm ở Aspen (Bài đọc 1), San Diego không lạnh tới mức đó. Bài không nói chỉ mặc áo khoác vào cuối tuần. Bài khuyên mặc áo khoác mỏng vào buổi sáng, nên \"Don't wear a coat\" cũng sai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "put on = mặc vào, đội vào, bôi lên; take off = cởi ra. Trong câu, đại từ it đứng giữa: take it off."
+      },
+      "question_jp": "What does the weather page say about coats?",
+      "question_vn": "Trang thời tiết nói gì về áo khoác?",
+      "explanation": "\"Wear a light coat in the morning, and take it off after lunch.\" Áo khoác dày là thứ Leah mặc ban đêm ở Aspen (Bài đọc 1), San Diego không lạnh tới mức đó. Bài không nói chỉ mặc áo khoác vào cuối tuần. Bài khuyên mặc áo khoác mỏng vào buổi sáng, nên \"Don't wear a coat\" cũng sai.",
+      "tip": "put on = mặc vào, đội vào, bôi lên; take off = cởi ra. Trong câu, đại từ it đứng giữa: take it off."
+    },
+    {
+      "id": "q_u14_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "Leah will be home on Wednesday afternoon. What will the weather be like in San Diego then?",
+        "vi": "Chiều thứ Tư Leah sẽ về tới nhà. Lúc đó thời tiết ở San Diego sẽ thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sunny and warm",
+            "vi": "nắng ấm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "sunny and warm",
+          "text_translation": "nắng ấm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "foggy near the ocean",
+            "vi": "có sương mù ở gần biển"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "foggy near the ocean",
+          "text_translation": "có sương mù ở gần biển"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a little rain",
+            "vi": "mưa nhỏ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a little rain",
+          "text_translation": "mưa nhỏ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "cloudy, with strong wind",
+            "vi": "nhiều mây, có gió mạnh"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "cloudy, with strong wind",
+          "text_translation": "nhiều mây, có gió mạnh"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận, nối hai bài. Ở Bài đọc 1, Leah báo chiều thứ Tư sẽ về tới nhà. Bản dự báo ở Bài đọc 2 ghi: \"Wednesday: cloudy all day, with strong wind in the afternoon.\" Nắng ấm cả ngày là thứ Bảy và Chủ nhật. Sương mù gần biển là sáng thứ Ba. Mưa nhỏ là sáng thứ Năm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi nối hai bài: lấy mốc thời gian ở bài này (Wednesday afternoon), rồi tìm đúng dòng đó ở bài kia."
+      },
+      "question_jp": "Leah will be home on Wednesday afternoon. What will the weather be like in San Diego then?",
+      "question_vn": "Chiều thứ Tư Leah sẽ về tới nhà. Lúc đó thời tiết ở San Diego sẽ thế nào?",
+      "explanation": "Câu suy luận, nối hai bài. Ở Bài đọc 1, Leah báo chiều thứ Tư sẽ về tới nhà. Bản dự báo ở Bài đọc 2 ghi: \"Wednesday: cloudy all day, with strong wind in the afternoon.\" Nắng ấm cả ngày là thứ Bảy và Chủ nhật. Sương mù gần biển là sáng thứ Ba. Mưa nhỏ là sáng thứ Năm.",
+      "tip": "Câu hỏi nối hai bài: lấy mốc thời gian ở bài này (Wednesday afternoon), rồi tìm đúng dòng đó ở bài kia."
+    },
+    {
+      "id": "q_u14_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u14_02",
+      "i18n": {
+        "en": "Tina wants to play on the beach all day in the sun. Which day is good for her?",
+        "vi": "Tina muốn chơi ngoài biển cả ngày dưới nắng. Hôm nào hợp với em?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Thursday",
+            "vi": "thứ Năm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Thursday",
+          "text_translation": "thứ Năm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Saturday",
+            "vi": "thứ Bảy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Saturday",
+          "text_translation": "thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tuesday",
+            "vi": "thứ Ba"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tuesday",
+          "text_translation": "thứ Ba"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Wednesday",
+            "vi": "thứ Tư"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Wednesday",
+          "text_translation": "thứ Tư"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Saturday and Sunday: sunny and warm all day.\" Thứ Năm có mưa nhỏ buổi sáng. Thứ Ba có sương mù gần biển buổi sáng. Thứ Tư nhiều mây cả ngày và có gió mạnh."
+      },
+      "audio_data": null,
+      "question_jp": "Tina wants to play on the beach all day in the sun. Which day is good for her?",
+      "question_vn": "Tina muốn chơi ngoài biển cả ngày dưới nắng. Hôm nào hợp với em?",
+      "explanation": "\"Saturday and Sunday: sunny and warm all day.\" Thứ Năm có mưa nhỏ buổi sáng. Thứ Ba có sương mù gần biển buổi sáng. Thứ Tư nhiều mây cả ngày và có gió mạnh."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u14_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Email của Leah từ Aspen",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u14_01",
+      "question_ids": [
+        "q_u14_001",
+        "q_u14_002",
+        "q_u14_003",
+        "q_u14_004",
+        "q_u14_005"
+      ]
+    },
+    {
+      "set_id": "set_u14_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Dự báo thời tiết San Diego một tuần",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u14_02",
+      "question_ids": [
+        "q_u14_006",
+        "q_u14_007",
+        "q_u14_008",
+        "q_u14_009",
+        "q_u14_010"
+      ]
+    }
+  ]
+}
