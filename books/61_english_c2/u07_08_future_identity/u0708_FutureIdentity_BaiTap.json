@@ -1,0 +1,2053 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 7–8 — Future society & Identity and belonging",
+      "vi": "Xã hội tương lai & Bản sắc, nơi chốn thuộc về"
+    },
+    "title": "Units 7–8 — Future society & Identity and belonging",
+    "title_vn": "Xã hội tương lai & Bản sắc, nơi chốn thuộc về",
+    "module_code": "61_u0708",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C2",
+    "curriculum_unit": "c2.u07+u08",
+    "curriculum_sheets": [
+      "c2.025",
+      "c2.026",
+      "c2.027",
+      "c2.028",
+      "c2.029",
+      "c2.030",
+      "c2.031",
+      "c2.032"
+    ],
+    "characters": [
+      "Chloe Bennett",
+      "Ruby",
+      "Tracy Carter",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9 – 10, năm 9"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Dè chừng nguồn, trung thực với số liệu, ẩn dụ, ý niệm trước và sau",
+    "description_vn": "Chloe báo cáo sáu tháng thử tuần làm bốn ngày ở Bennett Studio (dựa trên thử nghiệm ở Anh năm 2022), còn Tracy chuyển công tác về San Diego và viết về cảm giác trở về một nơi đã bước tiếp. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 7 + Unit 8 khoá C2 · phiếu `c2.025` – `c2.032` (sống cùng máy móc, việc làm và tiền bạc ngày mai, đông đúc và kết nối; nơi tôi thuộc về, định kiến và tự hào, chuyện gia đình)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một báo cáo nội bộ có số liệu thật về tuần làm bốn ngày và một bài luận tự sự về việc trở về quê; nhận ra cách người viết dè chừng chính nguồn mình dẫn, sự trung thực khi trình bày kết quả, một quy định có tác dụng ngược với người khác, ẩn dụ (chìa khoá ↔ thói quen), giọng tự giễu, các chi tiết nối với chương trước, và các cấu trúc C2: provided that, which is to say, of all things, whatever + mệnh đề."
+    },
+    "extra_words": [
+      {
+        "word": "permanent",
+        "i18n": {
+          "vi": "vĩnh viễn"
+        }
+      },
+      {
+        "word": "suspicion",
+        "i18n": {
+          "vi": "sự nghi ngờ"
+        }
+      },
+      {
+        "word": "striking",
+        "i18n": {
+          "vi": "nổi bật, đáng chú ý"
+        }
+      },
+      {
+        "word": "resizing",
+        "i18n": {
+          "vi": "chỉnh kích cỡ"
+        }
+      },
+      {
+        "word": "rotating",
+        "i18n": {
+          "vi": "luân phiên"
+        }
+      },
+      {
+        "word": "deadline",
+        "i18n": {
+          "vi": "hạn chót"
+        }
+      },
+      {
+        "word": "intense",
+        "i18n": {
+          "vi": "căng thẳng, dồn dập"
+        }
+      },
+      {
+        "word": "illustrator",
+        "i18n": {
+          "vi": "hoạ sĩ minh hoạ"
+        }
+      },
+      {
+        "word": "constraint",
+        "i18n": {
+          "vi": "sự ràng buộc"
+        }
+      },
+      {
+        "word": "transfer",
+        "i18n": {
+          "vi": "chuyển công tác"
+        }
+      },
+      {
+        "word": "naive",
+        "i18n": {
+          "vi": "ngây thơ"
+        }
+      },
+      {
+        "word": "disparaging",
+        "i18n": {
+          "vi": "coi thường"
+        }
+      },
+      {
+        "word": "horror",
+        "i18n": {
+          "vi": "sự kinh hoàng"
+        }
+      },
+      {
+        "word": "eager",
+        "i18n": {
+          "vi": "nôn nóng"
+        }
+      },
+      {
+        "word": "suitcases",
+        "i18n": {
+          "vi": "những chiếc vali"
+        }
+      },
+      {
+        "word": "sandbags",
+        "i18n": {
+          "vi": "những bao cát"
+        }
+      },
+      {
+        "word": "chemistry",
+        "i18n": {
+          "vi": "môn hoá"
+        }
+      },
+      {
+        "word": "bark",
+        "i18n": {
+          "vi": "sủa"
+        }
+      },
+      {
+        "word": "closer",
+        "i18n": {
+          "vi": "gần hơn"
+        }
+      },
+      {
+        "word": "squeezing",
+        "i18n": {
+          "vi": "dồn ép"
+        }
+      },
+      {
+        "word": "exhaustion",
+        "i18n": {
+          "vi": "sự kiệt sức"
+        }
+      },
+      {
+        "word": "politeness",
+        "i18n": {
+          "vi": "sự lịch sự"
+        }
+      },
+      {
+        "word": "freelancers",
+        "i18n": {
+          "vi": "những người làm tự do"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "on a rotating basis",
+          "vi": "luân phiên"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take for granted",
+          "vi": "coi là đương nhiên"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take the pressure off",
+          "vi": "bớt áp lực"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be wary of",
+          "vi": "dè chừng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "move on",
+          "vi": "bước tiếp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "without consulting me",
+          "vi": "chẳng hỏi ý tôi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "catch myself doing",
+          "vi": "bắt gặp mình đang"
+        }
+      },
+      {
+        "i18n": {
+          "en": "of all things",
+          "vi": "lạ thay, không ngờ lại là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "show up",
+          "vi": "có mặt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get to know each other again",
+          "vi": "làm quen lại với nhau"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Báo cáo C2 hay **tự nêu hạn chế của nguồn** (`volunteered`, `reported by the companies themselves`). Câu hỏi \"why with suspicion\" lấy ngay câu đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Kết quả được trình bày trung thực (`I should admit`) là chỗ hỏi **thái độ người viết**: công bằng, không phóng đại."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài luận tự sự: theo dõi **ý niệm trước → sự kiện làm đổi ý → ý niệm sau**. Ẩn dụ (`like a key` ↔ `a habit`) thường là đáp án câu hỏi \"how does … change\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Chi tiết nhắc lại chương trước (giọng than \"isn't the same\", trận lụt, bao cát) là gợi ý cho câu suy luận liên chương."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0708_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 7) — Báo cáo sáu tháng thử tuần làm bốn ngày ở Bennett Studio"
+      },
+      "narrator": "Chloe",
+      "title": "Six Months of Four-Day Weeks: What We Learned",
+      "category": "report",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 310,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Six Months of Four-Day Weeks: What We Learned",
+            "vi": "Sáu tháng làm việc bốn ngày một tuần: Chúng tôi học được gì"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bennett Studio, internal report, September. Written by Chloe Bennett for the team and shared, with their permission, with two other small studios that asked about it.",
+            "vi": "Bennett Studio, báo cáo nội bộ, tháng Chín. Chloe Bennett viết cho cả nhóm và, với sự đồng ý của mọi người, chia sẻ cho hai studio nhỏ khác từng hỏi về chuyện này."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why we tried it. The idea came from Ruby, who sent me an article about a trial run in the United Kingdom in 2022. Over six months, 61 companies with around 2,900 employees reduced working hours without reducing pay. At the end, 56 of them chose to continue, and 18 made the change permanent.",
+            "vi": "Vì sao chúng tôi thử. Ý tưởng đến từ Ruby, người gửi tôi một bài báo về một đợt thử nghiệm ở Anh năm 2022. Trong sáu tháng, 61 công ty với khoảng 2.900 nhân viên giảm giờ làm mà không giảm lương. Cuối đợt, 56 công ty chọn tiếp tục, và 18 công ty biến thay đổi này thành vĩnh viễn."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I read the results with interest and some suspicion, since the companies had volunteered to take part and most of the figures were reported by the companies themselves. Nevertheless, they were striking enough to justify an experiment of our own.",
+            "vi": "Tôi đọc kết quả với sự quan tâm và chút nghi ngờ, vì các công ty tự nguyện tham gia và phần lớn số liệu là do chính họ báo cáo. Dù vậy, chúng đủ nổi bật để đáng cho chúng tôi tự thử nghiệm."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What we did. From March to August, the five of us worked Monday to Thursday, with full pay, on the principle that the work, not the hours, is what clients pay for. We cut our internal meetings in half and began using AI tools to automate the most tedious tasks, such as resizing a single design for twenty different screens.",
+            "vi": "Chúng tôi đã làm gì. Từ tháng Ba tới tháng Tám, năm người chúng tôi làm từ thứ Hai tới thứ Năm, giữ nguyên lương, theo nguyên tắc rằng khách trả tiền cho công việc chứ không phải cho số giờ. Chúng tôi cắt một nửa các cuộc họp nội bộ và bắt đầu dùng công cụ AI để tự động hoá những việc nhàm chán nhất, như chỉnh một thiết kế cho vừa hai mươi loại màn hình khác nhau."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We also stopped farming out small jobs to freelancers at the last minute, which had always been the most expensive way to save time.",
+            "vi": "Chúng tôi cũng thôi giao việc nhỏ cho người làm tự do vào phút chót, cách luôn tốn kém nhất để tiết kiệm thời gian."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One person was available by phone each Friday, on a rotating basis, in case a client had an emergency.",
+            "vi": "Mỗi thứ Sáu có một người trực điện thoại, luân phiên nhau, phòng khi khách hàng có việc gấp."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What happened. We met every deadline except two, both of which, I should admit, I would probably have missed in a five-day week as well. Income over the six months was within three percent of the same period last year. Sick days fell from eleven to four.",
+            "vi": "Kết quả. Chúng tôi kịp mọi hạn chót trừ hai lần, mà tôi phải thừa nhận là có lẽ làm năm ngày một tuần tôi cũng trễ. Thu nhập sáu tháng chênh không quá ba phần trăm so với cùng kỳ năm ngoái. Số ngày nghỉ ốm giảm từ mười một xuống bốn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most striking of all, nobody has applied for another job, which in a field where designers move constantly is not something I take for granted.",
+            "vi": "Đáng chú ý nhất, không ai nộp đơn xin việc chỗ khác, điều mà trong một ngành nhà thiết kế nhảy việc liên tục, tôi không coi là đương nhiên."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What did not work. Thursdays became intense, sometimes unpleasantly so, as everyone tried to finish before the weekend. Two clients complained, politely but clearly, that we were harder to reach.",
+            "vi": "Điều không ổn. Ngày thứ Năm trở nên căng thẳng, có lúc tới mức khó chịu, vì ai cũng cố làm xong trước cuối tuần. Hai khách hàng phàn nàn, lịch sự nhưng rõ ràng, rằng chúng tôi khó liên lạc hơn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Squeezing five days of work into four can be counterproductive if all it does is move the exhaustion from Friday to Thursday.",
+            "vi": "Dồn năm ngày việc vào bốn ngày có thể phản tác dụng nếu nó chỉ dời sự kiệt sức từ thứ Sáu sang thứ Năm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And Sam, our illustrator, discovered that he preferred five shorter days to four long ones, because his best ideas tend to arrive slowly. A rule designed to give people more freedom had, for one of us, become a new kind of constraint.",
+            "vi": "Còn Sam, hoạ sĩ minh hoạ của chúng tôi, phát hiện ra mình thích năm ngày ngắn hơn bốn ngày dài, vì ý tưởng hay nhất của cậu thường tới chậm. Một quy định đặt ra để cho mọi người thêm tự do, với một người trong chúng tôi, lại thành một kiểu ràng buộc mới."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What we have decided. We will continue, with two changes. First, each person may choose either four longer days or five shorter ones, provided that the total is the same and that clients always know who to call. Second, no new work may be started on a Thursday afternoon, which should take some of the pressure off.",
+            "vi": "Chúng tôi đã quyết định gì. Chúng tôi sẽ tiếp tục, với hai thay đổi. Thứ nhất, mỗi người có thể chọn bốn ngày dài hơn hoặc năm ngày ngắn hơn, miễn tổng số giờ như nhau và khách hàng luôn biết phải gọi ai. Thứ hai, không được bắt đầu việc mới vào chiều thứ Năm, như vậy sẽ bớt được phần nào áp lực."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A final thought. I do not believe that a four-day week is the answer for every business, and I am wary of anyone who says it is. What our experiment convinced me of is something narrower: that most of us had never seriously asked which of our hours were actually producing anything. As AI tools become more pervasive, that question seems likely to matter more each year, not less.",
+            "vi": "Một suy nghĩ cuối. Tôi không tin tuần làm bốn ngày là lời giải cho mọi doanh nghiệp, và tôi dè chừng bất cứ ai bảo nó là như vậy. Điều thử nghiệm của chúng tôi thuyết phục được tôi thì hẹp hơn: rằng phần lớn chúng ta chưa bao giờ nghiêm túc tự hỏi giờ làm nào của mình thật sự tạo ra được gì. Khi công cụ AI ngày càng có mặt khắp nơi, câu hỏi đó có vẻ sẽ ngày càng quan trọng hơn mỗi năm, chứ không kém đi."
+          }
+        }
+      ],
+      "content_ja": "Six Months of Four-Day Weeks: What We Learned\n\nBennett Studio, internal report, September. Written by Chloe Bennett for the team and shared, with their permission, with two other small studios that asked about it.\n\nWhy we tried it. The idea came from Ruby, who sent me an article about a trial run in the United Kingdom in 2022. Over six months, 61 companies with around 2,900 employees reduced working hours without reducing pay. At the end, 56 of them chose to continue, and 18 made the change permanent. I read the results with interest and some suspicion, since the companies had volunteered to take part and most of the figures were reported by the companies themselves. Nevertheless, they were striking enough to justify an experiment of our own.\n\nWhat we did. From March to August, the five of us worked Monday to Thursday, with full pay, on the principle that the work, not the hours, is what clients pay for. We cut our internal meetings in half and began using AI tools to automate the most tedious tasks, such as resizing a single design for twenty different screens. We also stopped farming out small jobs to freelancers at the last minute, which had always been the most expensive way to save time. One person was available by phone each Friday, on a rotating basis, in case a client had an emergency.\n\nWhat happened. We met every deadline except two, both of which, I should admit, I would probably have missed in a five-day week as well. Income over the six months was within three percent of the same period last year. Sick days fell from eleven to four. Most striking of all, nobody has applied for another job, which in a field where designers move constantly is not something I take for granted.\n\nWhat did not work. Thursdays became intense, sometimes unpleasantly so, as everyone tried to finish before the weekend. Two clients complained, politely but clearly, that we were harder to reach. Squeezing five days of work into four can be counterproductive if all it does is move the exhaustion from Friday to Thursday. And Sam, our illustrator, discovered that he preferred five shorter days to four long ones, because his best ideas tend to arrive slowly. A rule designed to give people more freedom had, for one of us, become a new kind of constraint.\n\nWhat we have decided. We will continue, with two changes. First, each person may choose either four longer days or five shorter ones, provided that the total is the same and that clients always know who to call. Second, no new work may be started on a Thursday afternoon, which should take some of the pressure off.\n\nA final thought. I do not believe that a four-day week is the answer for every business, and I am wary of anyone who says it is. What our experiment convinced me of is something narrower: that most of us had never seriously asked which of our hours were actually producing anything. As AI tools become more pervasive, that question seems likely to matter more each year, not less.",
+      "translation_vn": "(1) Sáu tháng làm việc bốn ngày một tuần: Chúng tôi học được gì\n(2) Bennett Studio, báo cáo nội bộ, tháng Chín. Chloe Bennett viết cho cả nhóm và, với sự đồng ý của mọi người, chia sẻ cho hai studio nhỏ khác từng hỏi về chuyện này.\n(3) Vì sao chúng tôi thử. Ý tưởng đến từ Ruby, người gửi tôi một bài báo về một đợt thử nghiệm ở Anh năm 2022. Trong sáu tháng, 61 công ty với khoảng 2.900 nhân viên giảm giờ làm mà không giảm lương. Cuối đợt, 56 công ty chọn tiếp tục, và 18 công ty biến thay đổi này thành vĩnh viễn.\n(4) Tôi đọc kết quả với sự quan tâm và chút nghi ngờ, vì các công ty tự nguyện tham gia và phần lớn số liệu là do chính họ báo cáo. Dù vậy, chúng đủ nổi bật để đáng cho chúng tôi tự thử nghiệm.\n(5) Chúng tôi đã làm gì. Từ tháng Ba tới tháng Tám, năm người chúng tôi làm từ thứ Hai tới thứ Năm, giữ nguyên lương, theo nguyên tắc rằng khách trả tiền cho công việc chứ không phải cho số giờ. Chúng tôi cắt một nửa các cuộc họp nội bộ và bắt đầu dùng công cụ AI để tự động hoá những việc nhàm chán nhất, như chỉnh một thiết kế cho vừa hai mươi loại màn hình khác nhau.\n(6) Chúng tôi cũng thôi giao việc nhỏ cho người làm tự do vào phút chót, cách luôn tốn kém nhất để tiết kiệm thời gian.\n(7) Mỗi thứ Sáu có một người trực điện thoại, luân phiên nhau, phòng khi khách hàng có việc gấp.\n(8) Kết quả. Chúng tôi kịp mọi hạn chót trừ hai lần, mà tôi phải thừa nhận là có lẽ làm năm ngày một tuần tôi cũng trễ. Thu nhập sáu tháng chênh không quá ba phần trăm so với cùng kỳ năm ngoái. Số ngày nghỉ ốm giảm từ mười một xuống bốn.\n(9) Đáng chú ý nhất, không ai nộp đơn xin việc chỗ khác, điều mà trong một ngành nhà thiết kế nhảy việc liên tục, tôi không coi là đương nhiên.\n(10) Điều không ổn. Ngày thứ Năm trở nên căng thẳng, có lúc tới mức khó chịu, vì ai cũng cố làm xong trước cuối tuần. Hai khách hàng phàn nàn, lịch sự nhưng rõ ràng, rằng chúng tôi khó liên lạc hơn.\n(11) Dồn năm ngày việc vào bốn ngày có thể phản tác dụng nếu nó chỉ dời sự kiệt sức từ thứ Sáu sang thứ Năm.\n(12) Còn Sam, hoạ sĩ minh hoạ của chúng tôi, phát hiện ra mình thích năm ngày ngắn hơn bốn ngày dài, vì ý tưởng hay nhất của cậu thường tới chậm. Một quy định đặt ra để cho mọi người thêm tự do, với một người trong chúng tôi, lại thành một kiểu ràng buộc mới.\n(13) Chúng tôi đã quyết định gì. Chúng tôi sẽ tiếp tục, với hai thay đổi. Thứ nhất, mỗi người có thể chọn bốn ngày dài hơn hoặc năm ngày ngắn hơn, miễn tổng số giờ như nhau và khách hàng luôn biết phải gọi ai. Thứ hai, không được bắt đầu việc mới vào chiều thứ Năm, như vậy sẽ bớt được phần nào áp lực.\n(14) Một suy nghĩ cuối. Tôi không tin tuần làm bốn ngày là lời giải cho mọi doanh nghiệp, và tôi dè chừng bất cứ ai bảo nó là như vậy. Điều thử nghiệm của chúng tôi thuyết phục được tôi thì hẹp hơn: rằng phần lớn chúng ta chưa bao giờ nghiêm túc tự hỏi giờ làm nào của mình thật sự tạo ra được gì. Khi công cụ AI ngày càng có mặt khắp nơi, câu hỏi đó có vẻ sẽ ngày càng quan trọng hơn mỗi năm, chứ không kém đi.",
+      "word_count": 521,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.025",
+        "c2.026",
+        "c2.027",
+        "c2.028"
+      ]
+    },
+    {
+      "id": "passage_u0708_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 8) — Bài luận của Tracy khi chuyển về San Diego"
+      },
+      "narrator": "Tracy",
+      "title": "Coming Home to a Place That Has Moved On",
+      "category": "essay",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 310,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Coming Home to a Place That Has Moved On",
+            "vi": "Trở về một nơi đã bước tiếp"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy Carter, recorded for \"Voices of Maple Street\" and later written down at the library's request",
+            "vi": "Tracy Carter, ghi âm cho \"Voices of Maple Street\" và sau đó viết lại theo đề nghị của thư viện"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When my company opened an office in San Diego this summer and asked whether I would like to transfer, I said yes before the manager had finished the question. I had been away for six years, four at university and two at work, and I imagined coming home as a kind of return to the person I had been when I left.",
+            "vi": "Khi công ty tôi mở văn phòng ở San Diego mùa hè này và hỏi tôi có muốn chuyển về không, tôi đồng ý trước cả khi quản lý hỏi hết câu. Tôi đã đi xa sáu năm, bốn năm đại học và hai năm đi làm, và tôi hình dung việc về nhà như một kiểu quay lại làm con người tôi từng là lúc ra đi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It took me about a week to realize how naive that was. My bedroom had become my brother's, and now, with him at university, it had become a room for guests, which is to say, for me.",
+            "vi": "Tôi mất khoảng một tuần để nhận ra điều đó ngây thơ đến mức nào. Phòng ngủ của tôi đã thành phòng của em trai tôi, và giờ, khi nó đi học đại học, thì thành phòng cho khách, tức là, cho tôi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My cousin Leah, who used to live downstairs and answer my phone calls at midnight, is married and lives across town. My little sister, whom I last saw as a child who asked \"Why?\" about everything, is now taller than I am and asks far more difficult questions, mostly about why I left.",
+            "vi": "Chị họ Leah của tôi, người từng sống ở tầng dưới và nghe điện thoại tôi lúc nửa đêm, đã lấy chồng và sống ở bên kia thành phố. Em gái tôi, người lần cuối tôi gặp còn là đứa trẻ hỏi \"Vì sao?\" về mọi thứ, giờ cao hơn tôi và hỏi những câu khó hơn nhiều, chủ yếu là vì sao tôi bỏ đi."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The street, too, had moved on without consulting me. There is a park where there used to be a parking lot, a shared kitchen where there used to be a bakery, and neighbors I have never met who greet me politely, as one greets a visitor.",
+            "vi": "Con phố cũng đã bước tiếp mà chẳng hỏi ý tôi. Có một công viên ở chỗ từng là bãi đỗ xe, một căn bếp chung ở chỗ từng là tiệm bánh, và những người hàng xóm tôi chưa từng gặp chào tôi lịch sự, như người ta chào một vị khách."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At Harriet's, the coffee costs more than I remember, and I caught myself saying so in a tone that I recognized, with some horror, as exactly the tone in which old customers complain that the place \"isn't the same\".",
+            "vi": "Ở Harriet's, cà phê đắt hơn tôi nhớ, và tôi bắt gặp mình nói ra điều đó bằng một giọng mà tôi nhận ra, với chút kinh hoàng, đúng là cái giọng những khách quen lâu năm hay than rằng quán \"không còn như xưa\"."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My parents, delighted to have me back, treated me for the first week with the slightly anxious politeness that people usually reserve for guests, which only made things worse.",
+            "vi": "Bố mẹ tôi, mừng vì tôi về, tuần đầu đối xử với tôi bằng sự lịch sự hơi lo lắng mà người ta thường dành cho khách, điều đó chỉ làm mọi thứ tệ hơn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a while I felt disparaging towards both versions of myself: the one who had left, for being so eager to go, and the one who had returned, for expecting everything to wait.",
+            "vi": "Có một thời gian tôi coi thường cả hai phiên bản của chính mình: người đã ra đi, vì quá nôn nóng muốn đi, và người đã trở về, vì mong mọi thứ đứng yên chờ mình."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What changed my mind was, of all things, a recording. The library asked me to interview Mrs. Harriet Brooks for its oral history project, and I listened beforehand to the recording my father had made of her the previous spring.",
+            "vi": "Điều làm tôi đổi ý, lạ thay, lại là một bản ghi âm. Thư viện nhờ tôi phỏng vấn bà Harriet Brooks cho dự án lịch sử truyền miệng, và trước đó tôi nghe bản ghi âm bố tôi đã làm với bà mùa xuân năm trước."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In it, she describes arriving on Maple Street as a stranger with two suitcases, and becoming a neighbor not on the day she arrived but in the week, two years later, when everyone carried sandbags together.",
+            "vi": "Trong đó, bà kể về việc tới phố Maple như một người lạ với hai chiếc vali, và trở thành hàng xóm không phải vào ngày bà tới mà vào tuần lễ, hai năm sau, khi mọi người cùng nhau khiêng bao cát."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I had been thinking of belonging as something you either keep or lose, like a key. Listening to her, I began to suspect that it is closer to a habit: something you build by showing up, again and again, for things that are not about you.",
+            "vi": "Tôi vẫn nghĩ sự thuộc về là thứ ta hoặc giữ được hoặc đánh mất, như một chiếc chìa khoá. Nghe bà kể, tôi bắt đầu ngờ rằng nó gần với một thói quen hơn: thứ ta xây dựng bằng cách có mặt, hết lần này tới lần khác, cho những việc không xoay quanh mình."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It also echoed something I had learned at work, where respect is earned not by having been somewhere longest but by being reliable when it counts.",
+            "vi": "Nó cũng vang lên điều tôi học được ở chỗ làm, nơi sự tôn trọng có được không phải nhờ ở đó lâu nhất mà nhờ đáng tin cậy vào lúc cần."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Whatever I was when I left, I am not that person anymore, and the street is not that street. We will have to get to know each other again.",
+            "vi": "Dù hồi ra đi tôi là ai, tôi không còn là người đó nữa, và con phố cũng không còn là con phố đó. Chúng tôi sẽ phải làm quen lại với nhau."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So I have joined the park committee, I help my sister with her chemistry homework, and on Saturdays I interview neighbors for the library. Nobody greets me as a visitor anymore. Well, almost nobody: the dog still barks at me.",
+            "vi": "Vậy là tôi đã vào hội đồng công viên, tôi giúp em gái làm bài tập hoá, và thứ Bảy nào tôi cũng phỏng vấn hàng xóm cho thư viện. Không ai chào tôi như khách nữa. À, gần như không ai: con chó vẫn sủa tôi."
+          }
+        }
+      ],
+      "content_ja": "Coming Home to a Place That Has Moved On\n\nTracy Carter, recorded for \"Voices of Maple Street\" and later written down at the library's request\n\nWhen my company opened an office in San Diego this summer and asked whether I would like to transfer, I said yes before the manager had finished the question. I had been away for six years, four at university and two at work, and I imagined coming home as a kind of return to the person I had been when I left.\n\nIt took me about a week to realize how naive that was. My bedroom had become my brother's, and now, with him at university, it had become a room for guests, which is to say, for me. My cousin Leah, who used to live downstairs and answer my phone calls at midnight, is married and lives across town. My little sister, whom I last saw as a child who asked \"Why?\" about everything, is now taller than I am and asks far more difficult questions, mostly about why I left.\n\nThe street, too, had moved on without consulting me. There is a park where there used to be a parking lot, a shared kitchen where there used to be a bakery, and neighbors I have never met who greet me politely, as one greets a visitor. At Harriet's, the coffee costs more than I remember, and I caught myself saying so in a tone that I recognized, with some horror, as exactly the tone in which old customers complain that the place \"isn't the same\". My parents, delighted to have me back, treated me for the first week with the slightly anxious politeness that people usually reserve for guests, which only made things worse.\n\nFor a while I felt disparaging towards both versions of myself: the one who had left, for being so eager to go, and the one who had returned, for expecting everything to wait. What changed my mind was, of all things, a recording. The library asked me to interview Mrs. Harriet Brooks for its oral history project, and I listened beforehand to the recording my father had made of her the previous spring. In it, she describes arriving on Maple Street as a stranger with two suitcases, and becoming a neighbor not on the day she arrived but in the week, two years later, when everyone carried sandbags together.\n\nI had been thinking of belonging as something you either keep or lose, like a key. Listening to her, I began to suspect that it is closer to a habit: something you build by showing up, again and again, for things that are not about you. It also echoed something I had learned at work, where respect is earned not by having been somewhere longest but by being reliable when it counts. Whatever I was when I left, I am not that person anymore, and the street is not that street. We will have to get to know each other again.\n\nSo I have joined the park committee, I help my sister with her chemistry homework, and on Saturdays I interview neighbors for the library. Nobody greets me as a visitor anymore. Well, almost nobody: the dog still barks at me.",
+      "translation_vn": "(1) Trở về một nơi đã bước tiếp\n(2) Tracy Carter, ghi âm cho \"Voices of Maple Street\" và sau đó viết lại theo đề nghị của thư viện\n(3) Khi công ty tôi mở văn phòng ở San Diego mùa hè này và hỏi tôi có muốn chuyển về không, tôi đồng ý trước cả khi quản lý hỏi hết câu. Tôi đã đi xa sáu năm, bốn năm đại học và hai năm đi làm, và tôi hình dung việc về nhà như một kiểu quay lại làm con người tôi từng là lúc ra đi.\n(4) Tôi mất khoảng một tuần để nhận ra điều đó ngây thơ đến mức nào. Phòng ngủ của tôi đã thành phòng của em trai tôi, và giờ, khi nó đi học đại học, thì thành phòng cho khách, tức là, cho tôi.\n(5) Chị họ Leah của tôi, người từng sống ở tầng dưới và nghe điện thoại tôi lúc nửa đêm, đã lấy chồng và sống ở bên kia thành phố. Em gái tôi, người lần cuối tôi gặp còn là đứa trẻ hỏi \"Vì sao?\" về mọi thứ, giờ cao hơn tôi và hỏi những câu khó hơn nhiều, chủ yếu là vì sao tôi bỏ đi.\n(6) Con phố cũng đã bước tiếp mà chẳng hỏi ý tôi. Có một công viên ở chỗ từng là bãi đỗ xe, một căn bếp chung ở chỗ từng là tiệm bánh, và những người hàng xóm tôi chưa từng gặp chào tôi lịch sự, như người ta chào một vị khách.\n(7) Ở Harriet's, cà phê đắt hơn tôi nhớ, và tôi bắt gặp mình nói ra điều đó bằng một giọng mà tôi nhận ra, với chút kinh hoàng, đúng là cái giọng những khách quen lâu năm hay than rằng quán \"không còn như xưa\".\n(8) Bố mẹ tôi, mừng vì tôi về, tuần đầu đối xử với tôi bằng sự lịch sự hơi lo lắng mà người ta thường dành cho khách, điều đó chỉ làm mọi thứ tệ hơn.\n(9) Có một thời gian tôi coi thường cả hai phiên bản của chính mình: người đã ra đi, vì quá nôn nóng muốn đi, và người đã trở về, vì mong mọi thứ đứng yên chờ mình.\n(10) Điều làm tôi đổi ý, lạ thay, lại là một bản ghi âm. Thư viện nhờ tôi phỏng vấn bà Harriet Brooks cho dự án lịch sử truyền miệng, và trước đó tôi nghe bản ghi âm bố tôi đã làm với bà mùa xuân năm trước.\n(11) Trong đó, bà kể về việc tới phố Maple như một người lạ với hai chiếc vali, và trở thành hàng xóm không phải vào ngày bà tới mà vào tuần lễ, hai năm sau, khi mọi người cùng nhau khiêng bao cát.\n(12) Tôi vẫn nghĩ sự thuộc về là thứ ta hoặc giữ được hoặc đánh mất, như một chiếc chìa khoá. Nghe bà kể, tôi bắt đầu ngờ rằng nó gần với một thói quen hơn: thứ ta xây dựng bằng cách có mặt, hết lần này tới lần khác, cho những việc không xoay quanh mình.\n(13) Nó cũng vang lên điều tôi học được ở chỗ làm, nơi sự tôn trọng có được không phải nhờ ở đó lâu nhất mà nhờ đáng tin cậy vào lúc cần.\n(14) Dù hồi ra đi tôi là ai, tôi không còn là người đó nữa, và con phố cũng không còn là con phố đó. Chúng tôi sẽ phải làm quen lại với nhau.\n(15) Vậy là tôi đã vào hội đồng công viên, tôi giúp em gái làm bài tập hoá, và thứ Bảy nào tôi cũng phỏng vấn hàng xóm cho thư viện. Không ai chào tôi như khách nữa. À, gần như không ai: con chó vẫn sủa tôi.",
+      "word_count": 541,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.029",
+        "c2.030",
+        "c2.031",
+        "c2.032"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0708_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Why did Chloe read the results of the 2022 trial \"with some suspicion\"?",
+        "vi": "Vì sao Chloe đọc kết quả thử nghiệm năm 2022 \"với chút nghi ngờ\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the companies had volunteered and most figures were reported by the companies themselves",
+            "vi": "vì các công ty tự nguyện tham gia và phần lớn số liệu do chính họ báo cáo"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because the companies had volunteered and most figures were reported by the companies themselves",
+          "text_translation": "vì các công ty tự nguyện tham gia và phần lớn số liệu do chính họ báo cáo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the trial was very small",
+            "vi": "vì đợt thử rất nhỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the trial was very small",
+          "text_translation": "vì đợt thử rất nhỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Ruby had invented the article",
+            "vi": "vì Ruby bịa ra bài báo"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Ruby had invented the article",
+          "text_translation": "vì Ruby bịa ra bài báo"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the companies had reduced pay",
+            "vi": "vì các công ty đã giảm lương"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the companies had reduced pay",
+          "text_translation": "vì các công ty đã giảm lương"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"since the companies had volunteered to take part and most of the figures were reported by the companies themselves.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Chloe read the results of the 2022 trial \"with some suspicion\"?",
+      "question_vn": "Vì sao Chloe đọc kết quả thử nghiệm năm 2022 \"với chút nghi ngờ\"?",
+      "explanation": "\"since the companies had volunteered to take part and most of the figures were reported by the companies themselves.\""
+    },
+    {
+      "id": "q_u0708_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What happened at the end of the UK trial?",
+        "vi": "Cuối đợt thử nghiệm ở Anh, chuyện gì xảy ra?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "All companies stopped.",
+            "vi": "Mọi công ty dừng lại."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "All companies stopped.",
+          "text_translation": "Mọi công ty dừng lại."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Pay was reduced.",
+            "vi": "Lương bị cắt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Pay was reduced.",
+          "text_translation": "Lương bị cắt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Most companies continued, and 18 made the change permanent.",
+            "vi": "Phần lớn công ty tiếp tục, và 18 công ty làm vĩnh viễn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Most companies continued, and 18 made the change permanent.",
+          "text_translation": "Phần lớn công ty tiếp tục, và 18 công ty làm vĩnh viễn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only five companies took part.",
+            "vi": "Chỉ năm công ty tham gia."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Only five companies took part.",
+          "text_translation": "Chỉ năm công ty tham gia."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"56 of them chose to continue, and 18 made the change permanent.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened at the end of the UK trial?",
+      "question_vn": "Cuối đợt thử nghiệm ở Anh, chuyện gì xảy ra?",
+      "explanation": "\"56 of them chose to continue, and 18 made the change permanent.\""
+    },
+    {
+      "id": "q_u0708_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What principle did the studio follow during the trial?",
+        "vi": "Studio theo nguyên tắc nào trong đợt thử?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Clients pay for hours worked.",
+            "vi": "Khách trả tiền theo giờ làm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Clients pay for hours worked.",
+          "text_translation": "Khách trả tiền theo giờ làm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Meetings are the most important work.",
+            "vi": "Họp là việc quan trọng nhất."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Meetings are the most important work.",
+          "text_translation": "Họp là việc quan trọng nhất."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Fridays are for clients only.",
+            "vi": "Thứ Sáu chỉ dành cho khách."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Fridays are for clients only.",
+          "text_translation": "Thứ Sáu chỉ dành cho khách."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Clients pay for the work, not the hours.",
+            "vi": "Khách trả tiền cho công việc, không phải cho số giờ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Clients pay for the work, not the hours.",
+          "text_translation": "Khách trả tiền cho công việc, không phải cho số giờ."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"on the principle that the work, not the hours, is what clients pay for.\""
+      },
+      "audio_data": null,
+      "question_jp": "What principle did the studio follow during the trial?",
+      "question_vn": "Studio theo nguyên tắc nào trong đợt thử?",
+      "explanation": "\"on the principle that the work, not the hours, is what clients pay for.\""
+    },
+    {
+      "id": "q_u0708_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "How did the studio make the shorter week possible?",
+        "vi": "Studio làm thế nào để tuần ngắn hơn khả thi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by hiring more staff",
+            "vi": "thuê thêm người"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by hiring more staff",
+          "text_translation": "thuê thêm người"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by cutting internal meetings and using AI tools for tedious tasks",
+            "vi": "cắt họp nội bộ và dùng công cụ AI cho việc nhàm chán"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "by cutting internal meetings and using AI tools for tedious tasks",
+          "text_translation": "cắt họp nội bộ và dùng công cụ AI cho việc nhàm chán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by refusing new clients",
+            "vi": "từ chối khách mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by refusing new clients",
+          "text_translation": "từ chối khách mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by working on weekends",
+            "vi": "làm cuối tuần"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "by working on weekends",
+          "text_translation": "làm cuối tuần"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"We cut our internal meetings in half and began using AI tools to automate the most tedious tasks\"."
+      },
+      "audio_data": null,
+      "question_jp": "How did the studio make the shorter week possible?",
+      "question_vn": "Studio làm thế nào để tuần ngắn hơn khả thi?",
+      "explanation": "\"We cut our internal meetings in half and began using AI tools to automate the most tedious tasks\"."
+    },
+    {
+      "id": "q_u0708_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Why does Chloe admit that she \"would probably have missed\" the two deadlines anyway?",
+        "vi": "Vì sao Chloe thừa nhận rằng hai lần trễ hạn \"có lẽ đằng nào cũng trễ\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to be fair: the shorter week was probably not the cause of those delays",
+            "vi": "để công bằng: tuần ngắn hơn có lẽ không phải nguyên nhân của hai lần trễ đó"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to be fair: the shorter week was probably not the cause of those delays",
+          "text_translation": "để công bằng: tuần ngắn hơn có lẽ không phải nguyên nhân của hai lần trễ đó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to blame her team",
+            "vi": "để đổ lỗi cho nhóm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to blame her team",
+          "text_translation": "để đổ lỗi cho nhóm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to criticize the clients",
+            "vi": "để chê khách hàng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to criticize the clients",
+          "text_translation": "để chê khách hàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that deadlines do not matter",
+            "vi": "để cho thấy hạn chót không quan trọng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to show that deadlines do not matter",
+          "text_translation": "để cho thấy hạn chót không quan trọng"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về thái độ. Cô trung thực về số liệu, không đổ lỗi hai lần trễ cho tuần bốn ngày, mà cũng không giấu chúng."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Chloe admit that she \"would probably have missed\" the two deadlines anyway?",
+      "question_vn": "Vì sao Chloe thừa nhận rằng hai lần trễ hạn \"có lẽ đằng nào cũng trễ\"?",
+      "explanation": "Câu suy luận về thái độ. Cô trung thực về số liệu, không đổ lỗi hai lần trễ cho tuần bốn ngày, mà cũng không giấu chúng."
+    },
+    {
+      "id": "q_u0708_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Which result does Chloe find \"most striking of all\"?",
+        "vi": "Kết quả nào Chloe thấy \"đáng chú ý nhất\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Income rose sharply.",
+            "vi": "Thu nhập tăng mạnh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Income rose sharply.",
+          "text_translation": "Thu nhập tăng mạnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Clients stopped calling.",
+            "vi": "Khách thôi gọi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Clients stopped calling.",
+          "text_translation": "Khách thôi gọi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Sick days rose.",
+            "vi": "Ngày nghỉ ốm tăng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Sick days rose.",
+          "text_translation": "Ngày nghỉ ốm tăng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nobody applied for another job, which is unusual in her field.",
+            "vi": "Không ai nộp đơn đi chỗ khác, điều hiếm thấy trong ngành của cô."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Nobody applied for another job, which is unusual in her field.",
+          "text_translation": "Không ai nộp đơn đi chỗ khác, điều hiếm thấy trong ngành của cô."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"nobody has applied for another job, which in a field where designers move constantly is not something I take for granted.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which result does Chloe find \"most striking of all\"?",
+      "question_vn": "Kết quả nào Chloe thấy \"đáng chú ý nhất\"?",
+      "explanation": "\"nobody has applied for another job, which in a field where designers move constantly is not something I take for granted.\""
+    },
+    {
+      "id": "q_u0708_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What problem did Sam's experience reveal?",
+        "vi": "Trải nghiệm của Sam cho thấy vấn đề gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He wanted to leave the studio.",
+            "vi": "Cậu muốn rời studio."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He wanted to leave the studio.",
+          "text_translation": "Cậu muốn rời studio."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A rule meant to give freedom could become a constraint for someone who works differently.",
+            "vi": "Một quy định nhằm cho tự do lại có thể thành ràng buộc với người làm việc theo cách khác."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "A rule meant to give freedom could become a constraint for someone who works differently.",
+          "text_translation": "Một quy định nhằm cho tự do lại có thể thành ràng buộc với người làm việc theo cách khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He could not use AI tools.",
+            "vi": "Cậu không dùng được công cụ AI."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He could not use AI tools.",
+          "text_translation": "Cậu không dùng được công cụ AI."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He worked too slowly to meet deadlines.",
+            "vi": "Cậu làm quá chậm nên trễ hạn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He worked too slowly to meet deadlines.",
+          "text_translation": "Cậu làm quá chậm nên trễ hạn."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"A rule designed to give people more freedom had, for one of us, become a new kind of constraint.\""
+      },
+      "audio_data": null,
+      "question_jp": "What problem did Sam's experience reveal?",
+      "question_vn": "Trải nghiệm của Sam cho thấy vấn đề gì?",
+      "explanation": "\"A rule designed to give people more freedom had, for one of us, become a new kind of constraint.\""
+    },
+    {
+      "id": "q_u0708_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What are the two changes the studio has decided to make?",
+        "vi": "Hai thay đổi studio quyết định thực hiện là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "returning to a five-day week and hiring a manager",
+            "vi": "quay lại tuần năm ngày và thuê quản lý"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "returning to a five-day week and hiring a manager",
+          "text_translation": "quay lại tuần năm ngày và thuê quản lý"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "cutting pay and closing on Thursdays",
+            "vi": "giảm lương và nghỉ thứ Năm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "cutting pay and closing on Thursdays",
+          "text_translation": "giảm lương và nghỉ thứ Năm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "letting each person choose four longer or five shorter days, and starting no new work on Thursday afternoons",
+            "vi": "cho mỗi người chọn bốn ngày dài hoặc năm ngày ngắn, và không bắt đầu việc mới vào chiều thứ Năm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "letting each person choose four longer or five shorter days, and starting no new work on Thursday afternoons",
+          "text_translation": "cho mỗi người chọn bốn ngày dài hoặc năm ngày ngắn, và không bắt đầu việc mới vào chiều thứ Năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "working only with two clients",
+            "vi": "chỉ làm với hai khách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "working only with two clients",
+          "text_translation": "chỉ làm với hai khách"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"each person may choose either four longer days or five shorter ones\" và \"no new work may be started on a Thursday afternoon\"."
+      },
+      "audio_data": null,
+      "question_jp": "What are the two changes the studio has decided to make?",
+      "question_vn": "Hai thay đổi studio quyết định thực hiện là gì?",
+      "explanation": "\"each person may choose either four longer days or five shorter ones\" và \"no new work may be started on a Thursday afternoon\"."
+    },
+    {
+      "id": "q_u0708_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What can be inferred from \"provided that the total is the same and that clients always know who to call\"?",
+        "vi": "Có thể suy ra gì từ câu \"miễn tổng số giờ như nhau và khách hàng luôn biết phải gọi ai\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Flexibility is allowed only if it does not reduce the work or make the studio harder to reach.",
+            "vi": "Linh hoạt chỉ được phép nếu không làm giảm công việc hay khiến studio khó liên lạc hơn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Flexibility is allowed only if it does not reduce the work or make the studio harder to reach.",
+          "text_translation": "Linh hoạt chỉ được phép nếu không làm giảm công việc hay khiến studio khó liên lạc hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Clients will choose the staff's hours.",
+            "vi": "Khách sẽ chọn giờ làm cho nhân viên."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Clients will choose the staff's hours.",
+          "text_translation": "Khách sẽ chọn giờ làm cho nhân viên."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nobody will work on Fridays.",
+            "vi": "Không ai làm thứ Sáu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nobody will work on Fridays.",
+          "text_translation": "Không ai làm thứ Sáu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The studio will hire a receptionist.",
+            "vi": "Studio sẽ thuê lễ tân."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The studio will hire a receptionist.",
+          "text_translation": "Studio sẽ thuê lễ tân."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Điều kiện này đáp lại hai lời phàn nàn \"we were harder to reach\"."
+      },
+      "audio_data": null,
+      "question_jp": "What can be inferred from \"provided that the total is the same and that clients always know who to call\"?",
+      "question_vn": "Có thể suy ra gì từ câu \"miễn tổng số giờ như nhau và khách hàng luôn biết phải gọi ai\"?",
+      "explanation": "Câu suy luận. Điều kiện này đáp lại hai lời phàn nàn \"we were harder to reach\"."
+    },
+    {
+      "id": "q_u0708_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What is Chloe's final position?",
+        "vi": "Quan điểm cuối cùng của Chloe là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Every business should adopt a four-day week.",
+            "vi": "Mọi doanh nghiệp nên làm bốn ngày một tuần."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Every business should adopt a four-day week.",
+          "text_translation": "Mọi doanh nghiệp nên làm bốn ngày một tuần."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The experiment was a failure.",
+            "vi": "Thử nghiệm thất bại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The experiment was a failure.",
+          "text_translation": "Thử nghiệm thất bại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The real lesson is narrower: people rarely ask which of their hours actually produce anything.",
+            "vi": "Bài học thật hẹp hơn: người ta hiếm khi tự hỏi giờ nào của mình thật sự tạo ra kết quả."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The real lesson is narrower: people rarely ask which of their hours actually produce anything.",
+          "text_translation": "Bài học thật hẹp hơn: người ta hiếm khi tự hỏi giờ nào của mình thật sự tạo ra kết quả."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "AI will replace designers.",
+            "vi": "AI sẽ thay thế nhà thiết kế."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "AI will replace designers.",
+          "text_translation": "AI sẽ thay thế nhà thiết kế."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"I do not believe that a four-day week is the answer for every business\" và \"What our experiment convinced me of is something narrower\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is Chloe's final position?",
+      "question_vn": "Quan điểm cuối cùng của Chloe là gì?",
+      "explanation": "\"I do not believe that a four-day week is the answer for every business\" và \"What our experiment convinced me of is something narrower\"."
+    },
+    {
+      "id": "q_u0708_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "How did Tracy first imagine coming home?",
+        "vi": "Ban đầu Tracy hình dung việc về nhà ra sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as a holiday",
+            "vi": "như một kỳ nghỉ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "as a holiday",
+          "text_translation": "như một kỳ nghỉ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as a temporary job",
+            "vi": "như một việc tạm thời"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "as a temporary job",
+          "text_translation": "như một việc tạm thời"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as a problem to avoid",
+            "vi": "như một rắc rối cần tránh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "as a problem to avoid",
+          "text_translation": "như một rắc rối cần tránh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "as a return to the person she had been when she left",
+            "vi": "như việc quay lại làm con người cô từng là khi ra đi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "as a return to the person she had been when she left",
+          "text_translation": "như việc quay lại làm con người cô từng là khi ra đi"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I imagined coming home as a kind of return to the person I had been when I left.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did Tracy first imagine coming home?",
+      "question_vn": "Ban đầu Tracy hình dung việc về nhà ra sao?",
+      "explanation": "\"I imagined coming home as a kind of return to the person I had been when I left.\""
+    },
+    {
+      "id": "q_u0708_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What does \"a room for guests, which is to say, for me\" suggest?",
+        "vi": "Cụm \"phòng cho khách, tức là, cho tôi\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy is happy to be a guest.",
+            "vi": "Tracy vui khi làm khách."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy is happy to be a guest.",
+          "text_translation": "Tracy vui khi làm khách."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy realizes, with some sadness and humor, that she is now treated as a visitor in her own home.",
+            "vi": "Tracy nhận ra, buồn mà buồn cười, rằng giờ cô được đối xử như khách ngay trong nhà mình."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Tracy realizes, with some sadness and humor, that she is now treated as a visitor in her own home.",
+          "text_translation": "Tracy nhận ra, buồn mà buồn cười, rằng giờ cô được đối xử như khách ngay trong nhà mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The house has many guests.",
+            "vi": "Nhà có nhiều khách."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The house has many guests.",
+          "text_translation": "Nhà có nhiều khách."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her brother has moved back.",
+            "vi": "Em trai cô đã chuyển về."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her brother has moved back.",
+          "text_translation": "Em trai cô đã chuyển về."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý, giọng tự giễu. Phòng cũ của cô giờ là phòng khách, và người khách đó chính là cô."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"a room for guests, which is to say, for me\" suggest?",
+      "question_vn": "Cụm \"phòng cho khách, tức là, cho tôi\" gợi ý điều gì?",
+      "explanation": "Câu hàm ý, giọng tự giễu. Phòng cũ của cô giờ là phòng khách, và người khách đó chính là cô."
+    },
+    {
+      "id": "q_u0708_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "How has Tracy's younger sister changed?",
+        "vi": "Em gái Tracy đã thay đổi thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She has grown taller than Tracy and asks harder questions, mostly about why Tracy left.",
+            "vi": "Em cao hơn Tracy và hỏi những câu khó hơn, chủ yếu là vì sao Tracy bỏ đi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She has grown taller than Tracy and asks harder questions, mostly about why Tracy left.",
+          "text_translation": "Em cao hơn Tracy và hỏi những câu khó hơn, chủ yếu là vì sao Tracy bỏ đi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has moved across town.",
+            "vi": "Em chuyển sang bên kia thành phố."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has moved across town.",
+          "text_translation": "Em chuyển sang bên kia thành phố."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She no longer talks to Tracy.",
+            "vi": "Em không nói chuyện với Tracy nữa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She no longer talks to Tracy.",
+          "text_translation": "Em không nói chuyện với Tracy nữa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has become a nurse.",
+            "vi": "Em đã thành y tá."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has become a nurse.",
+          "text_translation": "Em đã thành y tá."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"is now taller than I am and asks far more difficult questions, mostly about why I left.\""
+      },
+      "audio_data": null,
+      "question_jp": "How has Tracy's younger sister changed?",
+      "question_vn": "Em gái Tracy đã thay đổi thế nào?",
+      "explanation": "\"is now taller than I am and asks far more difficult questions, mostly about why I left.\""
+    },
+    {
+      "id": "q_u0708_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What does Tracy recognize \"with some horror\" at Harriet's?",
+        "vi": "Ở Harriet's, Tracy \"kinh hoàng\" nhận ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that the café has closed",
+            "vi": "rằng quán đã đóng cửa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that the café has closed",
+          "text_translation": "rằng quán đã đóng cửa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that Harriet does not remember her",
+            "vi": "rằng bà Harriet không nhớ cô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that Harriet does not remember her",
+          "text_translation": "rằng bà Harriet không nhớ cô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that she is complaining in exactly the way old customers complain that the place is not the same",
+            "vi": "rằng cô đang than phiền đúng kiểu khách cũ than quán không còn như xưa"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "that she is complaining in exactly the way old customers complain that the place is not the same",
+          "text_translation": "rằng cô đang than phiền đúng kiểu khách cũ than quán không còn như xưa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that she cannot afford coffee",
+            "vi": "rằng cô không đủ tiền uống cà phê"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that she cannot afford coffee",
+          "text_translation": "rằng cô không đủ tiền uống cà phê"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận liên chương. Đúng là giọng của vị khách trong bài luận của bà Harriet về quán: chỗ này \"isn't the same\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy recognize \"with some horror\" at Harriet's?",
+      "question_vn": "Ở Harriet's, Tracy \"kinh hoàng\" nhận ra điều gì?",
+      "explanation": "Câu suy luận liên chương. Đúng là giọng của vị khách trong bài luận của bà Harriet về quán: chỗ này \"isn't the same\"."
+    },
+    {
+      "id": "q_u0708_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Why did Tracy feel \"disparaging towards both versions of myself\"?",
+        "vi": "Vì sao Tracy \"coi thường cả hai phiên bản của chính mình\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she disliked her job",
+            "vi": "vì cô ghét công việc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she disliked her job",
+          "text_translation": "vì cô ghét công việc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because her family criticized her",
+            "vi": "vì gia đình chỉ trích cô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because her family criticized her",
+          "text_translation": "vì gia đình chỉ trích cô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because she had failed at university",
+            "vi": "vì cô học đại học không thành"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because she had failed at university",
+          "text_translation": "vì cô học đại học không thành"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she blamed her younger self for leaving so eagerly and her present self for expecting nothing to change",
+            "vi": "vì cô trách mình trước đây đã quá nôn nóng ra đi và trách mình hiện tại vì mong mọi thứ đứng yên"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because she blamed her younger self for leaving so eagerly and her present self for expecting nothing to change",
+          "text_translation": "vì cô trách mình trước đây đã quá nôn nóng ra đi và trách mình hiện tại vì mong mọi thứ đứng yên"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"the one who had left, for being so eager to go, and the one who had returned, for expecting everything to wait.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Tracy feel \"disparaging towards both versions of myself\"?",
+      "question_vn": "Vì sao Tracy \"coi thường cả hai phiên bản của chính mình\"?",
+      "explanation": "\"the one who had left, for being so eager to go, and the one who had returned, for expecting everything to wait.\""
+    },
+    {
+      "id": "q_u0708_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What does the phrase \"of all things\" suggest about the recording?",
+        "vi": "Cụm \"lạ thay\" (of all things) gợi ý gì về bản ghi âm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was broken.",
+            "vi": "Nó bị hỏng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It was broken.",
+          "text_translation": "Nó bị hỏng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was an unexpected thing to change her mind.",
+            "vi": "Đó là một thứ không ngờ lại làm cô đổi ý."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It was an unexpected thing to change her mind.",
+          "text_translation": "Đó là một thứ không ngờ lại làm cô đổi ý."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was very long.",
+            "vi": "Nó rất dài."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was very long.",
+          "text_translation": "Nó rất dài."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was recorded by Tracy.",
+            "vi": "Nó do Tracy ghi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was recorded by Tracy.",
+          "text_translation": "Nó do Tracy ghi."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hiểu cụm từ. \"of all things\" diễn tả sự bất ngờ: trong bao nhiêu thứ, lại chính là một bản ghi âm."
+      },
+      "audio_data": null,
+      "question_jp": "What does the phrase \"of all things\" suggest about the recording?",
+      "question_vn": "Cụm \"lạ thay\" (of all things) gợi ý gì về bản ghi âm?",
+      "explanation": "Câu hiểu cụm từ. \"of all things\" diễn tả sự bất ngờ: trong bao nhiêu thứ, lại chính là một bản ghi âm."
+    },
+    {
+      "id": "q_u0708_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Which detail from Harriet's recording matters most to Tracy?",
+        "vi": "Chi tiết nào trong bản ghi của bà Harriet có ý nghĩa nhất với Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet arrived with two suitcases.",
+            "vi": "Bà Harriet tới với hai chiếc vali."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet arrived with two suitcases.",
+          "text_translation": "Bà Harriet tới với hai chiếc vali."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet was a teacher.",
+            "vi": "Bà Harriet là giáo viên."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet was a teacher.",
+          "text_translation": "Bà Harriet là giáo viên."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet became a neighbor not when she arrived but when she joined others in a shared effort.",
+            "vi": "Bà Harriet thành hàng xóm không phải lúc tới mà lúc cùng mọi người góp sức."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Harriet became a neighbor not when she arrived but when she joined others in a shared effort.",
+          "text_translation": "Bà Harriet thành hàng xóm không phải lúc tới mà lúc cùng mọi người góp sức."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The flood happened in 1978.",
+            "vi": "Trận lụt xảy ra năm 1978."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The flood happened in 1978.",
+          "text_translation": "Trận lụt xảy ra năm 1978."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"becoming a neighbor not on the day she arrived but in the week, two years later, when everyone carried sandbags together.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which detail from Harriet's recording matters most to Tracy?",
+      "question_vn": "Chi tiết nào trong bản ghi của bà Harriet có ý nghĩa nhất với Tracy?",
+      "explanation": "\"becoming a neighbor not on the day she arrived but in the week, two years later, when everyone carried sandbags together.\""
+    },
+    {
+      "id": "q_u0708_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "How does Tracy's idea of belonging change?",
+        "vi": "Ý niệm về sự thuộc về của Tracy thay đổi thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "from something you keep or lose, like a key, to something you build like a habit by showing up for others",
+            "vi": "từ thứ ta giữ hoặc mất như chìa khoá, thành thứ ta xây như thói quen bằng cách có mặt vì người khác"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "from something you keep or lose, like a key, to something you build like a habit by showing up for others",
+          "text_translation": "từ thứ ta giữ hoặc mất như chìa khoá, thành thứ ta xây như thói quen bằng cách có mặt vì người khác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "from something you build to something you inherit",
+            "vi": "từ thứ ta xây thành thứ ta thừa hưởng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "from something you build to something you inherit",
+          "text_translation": "từ thứ ta xây thành thứ ta thừa hưởng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "from a habit to a place",
+            "vi": "từ thói quen thành một nơi chốn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "from a habit to a place",
+          "text_translation": "từ thói quen thành một nơi chốn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It does not change.",
+            "vi": "Nó không thay đổi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It does not change.",
+          "text_translation": "Nó không thay đổi."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"something you either keep or lose, like a key\" → \"closer to a habit: something you build by showing up, again and again, for things that are not about you.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does Tracy's idea of belonging change?",
+      "question_vn": "Ý niệm về sự thuộc về của Tracy thay đổi thế nào?",
+      "explanation": "\"something you either keep or lose, like a key\" → \"closer to a habit: something you build by showing up, again and again, for things that are not about you.\""
+    },
+    {
+      "id": "q_u0708_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "How does Tracy put her new idea into practice?",
+        "vi": "Tracy đưa ý mới vào thực tế bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by moving back to Washington",
+            "vi": "chuyển lại Washington"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by moving back to Washington",
+          "text_translation": "chuyển lại Washington"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by joining the park committee, helping her sister and interviewing neighbors for the library",
+            "vi": "vào hội đồng công viên, giúp em gái và phỏng vấn hàng xóm cho thư viện"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "by joining the park committee, helping her sister and interviewing neighbors for the library",
+          "text_translation": "vào hội đồng công viên, giúp em gái và phỏng vấn hàng xóm cho thư viện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by buying a house",
+            "vi": "mua nhà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by buying a house",
+          "text_translation": "mua nhà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by opening a café",
+            "vi": "mở quán cà phê"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "by opening a café",
+          "text_translation": "mở quán cà phê"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have joined the park committee, I help my sister with her chemistry homework, and on Saturdays I interview neighbors for the library.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does Tracy put her new idea into practice?",
+      "question_vn": "Tracy đưa ý mới vào thực tế bằng cách nào?",
+      "explanation": "\"I have joined the park committee, I help my sister with her chemistry homework, and on Saturdays I interview neighbors for the library.\""
+    },
+    {
+      "id": "q_u0708_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Use both texts. What do Chloe's report and Tracy's essay have in common?",
+        "vi": "Dựa vào cả hai bài. Báo cáo của Chloe và bài luận của Tracy có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them describe moving to a new city.",
+            "vi": "Cả hai tả việc chuyển tới thành phố mới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them describe moving to a new city.",
+          "text_translation": "Cả hai tả việc chuyển tới thành phố mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them reject any kind of change.",
+            "vi": "Cả hai bác bỏ mọi thay đổi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them reject any kind of change.",
+          "text_translation": "Cả hai bác bỏ mọi thay đổi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them are about a park.",
+            "vi": "Cả hai đều về công viên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them are about a park.",
+          "text_translation": "Cả hai đều về công viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them question an assumption and replace it with a more careful, personal answer.",
+            "vi": "Cả hai chất vấn một điều mặc định và thay bằng một câu trả lời cẩn trọng, gắn với bản thân hơn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both of them question an assumption and replace it with a more careful, personal answer.",
+          "text_translation": "Cả hai chất vấn một điều mặc định và thay bằng một câu trả lời cẩn trọng, gắn với bản thân hơn."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Chloe chất vấn giờ làm việc và rút ra một bài học hẹp hơn, cẩn trọng hơn; Tracy chất vấn ý niệm \"keep or lose, like a key\" và thấy nó \"closer to a habit\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Chloe's report and Tracy's essay have in common?",
+      "question_vn": "Dựa vào cả hai bài. Báo cáo của Chloe và bài luận của Tracy có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Chloe chất vấn giờ làm việc và rút ra một bài học hẹp hơn, cẩn trọng hơn; Tracy chất vấn ý niệm \"keep or lose, like a key\" và thấy nó \"closer to a habit\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0708_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 7) — Báo cáo sáu tháng thử tuần làm bốn ngày ở Bennett Studio",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0708_01",
+      "question_ids": [
+        "q_u0708_001",
+        "q_u0708_002",
+        "q_u0708_003",
+        "q_u0708_004",
+        "q_u0708_005",
+        "q_u0708_006",
+        "q_u0708_007",
+        "q_u0708_008",
+        "q_u0708_009",
+        "q_u0708_010"
+      ]
+    },
+    {
+      "set_id": "set_u0708_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 8) — Bài luận của Tracy khi chuyển về San Diego",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0708_02",
+      "question_ids": [
+        "q_u0708_011",
+        "q_u0708_012",
+        "q_u0708_013",
+        "q_u0708_014",
+        "q_u0708_015",
+        "q_u0708_016",
+        "q_u0708_017",
+        "q_u0708_018",
+        "q_u0708_019",
+        "q_u0708_020"
+      ]
+    }
+  ]
+}
