@@ -284,7 +284,7 @@ Không gom nhiều chương vào 1 commit. Không đợi xong cả sách mới c
 - **1 cấp = 1 cuốn, 1 chương = 1 unit** của khoá tiếng Anh. Vốn từ lấy từ `_shared/en_curriculum/` (phiếu A1–C1).
 - **`*_BaiTap.json` là nguồn sự thật**, gồm bài đọc chia `segments` (từng câu: `en` / `vi` / `speaker`, dùng cho shadowing) và câu hỏi có `evidence_segments`. File `_DocHieu.md` **sinh tự động**: `python3 _shared/scripts/build_en_reading.py <file>`. Không sửa tay md.
 - Soát vốn từ: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối unit> --allow "<tên riêng>" <file>`.
-- **Tên nhân vật và địa danh là tên Mỹ**, không dùng tên Việt (TTS đọc khó nghe).
+- **Dàn nhân vật cố định:** `_shared/en_curriculum/characters.md`, gồm nhà Carter và nhà Brooks ở Maple Street, San Diego. Phải đúng tuổi, nghề, tính cách theo cấp. Không dùng tên Việt.
 - Không viết trùng bài đọc app đã có (`reading_title` trong `en_curriculum`).
 - **Độ khó tăng dần** qua từng chương và từng cuốn. Nội dung hiện đại (công nghệ…), có suy nghĩ, cảm xúc, đánh giá.
 - ⛔ **Tuyệt đối không** viết về hệ tư tưởng, chế độ chính trị (phát xít, cộng sản, độc tài, tư bản…), chính đảng, bầu cử, chiến tranh, tranh luận tôn giáo. Chi tiết ở mục 7a của kế hoạch.

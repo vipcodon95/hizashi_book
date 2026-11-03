@@ -14,7 +14,8 @@
 - **Mỗi bài đọc ghi mã unit và mã phiếu** nó luyện, để sau này nhập ngược vào app.
 - **Không viết trùng bài đọc app đã có.** Mỗi unit trên app đã có một bài đọc ở phiếu cuối (`reading_title`). Sách phải chọn loại văn bản và tình huống khác.
 - **Mỗi cấp 1 cuốn**, số chương = số unit, không giới hạn số chương.
-- **Nhân vật và địa danh dùng tên Mỹ** (Emma, Jake, Texas…), không dùng tên Việt. Lý do: TTS tiếng Anh đọc tên Việt rất khó nghe.
+- **Dùng đúng dàn nhân vật `_shared/en_curriculum/characters.md`** (nhà Carter và nhà Brooks ở Maple Street, San Diego), đúng tuổi, nghề, tính cách theo từng cấp. Địa danh lấy theo bảng trong `en_curriculum/README.md`. Người lạ xuất hiện một lần thì đặt tên Mỹ khác. Không dùng tên Việt (TTS đọc sai).
+- **Không phải bài nào cũng là chuyện của dàn nhân vật.** Bài báo, báo cáo khoa học, kiến thức xã hội, thông báo, quảng cáo và đề thi thử theo format VSTEP vẫn phải có đủ.
 - **Dữ liệu phải tách được tiếng Anh / bản dịch theo từng câu**, để app hiển thị bài tập, song ngữ và **shadowing từng dòng** (xem mục 5).
 
 ## 2. Phạm vi
