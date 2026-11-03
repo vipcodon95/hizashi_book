@@ -7,3 +7,4 @@
 | u03 | 99 / 80 | 7.3 / 7.3 | album + tin nhắn; câu dài hơn u01–u02, có câu trả lời ngắn và 's sở hữu |
 | u06 | 108 / 89 | 8.1 / 7.5 | lời nhắn + quảng cáo nhà cho thuê; có câu Why suy luận và câu NOT (agent viết, main kiểm chứng) |
 | u07 | 110 / 81 | 8.2 / 6.3 | bài kể (Tracy) + bảng giờ mở cửa; câu suy luận "once a week" (agent viết, main kiểm chứng) |
+| u04 | 101 / 96 | 8.8 / 9.9 | Tina tả ảnh tiệc + thư thông báo trường; câu đại từ them/him (agent viết, main kiểm chứng) |

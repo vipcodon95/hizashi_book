@@ -203,7 +203,7 @@ def main() -> int:
     gate_hits: dict[str, list[str]] = {}
     for t in texts:
         t = re.sub(r"\S+@\S+|https?://\S+|www\.\S+", " ", t)  # bỏ email / URL
-        for sent in re.split(r"(?<=[.!?])\s+|\n+", t):
+        for sent in re.split(r"(?<!\bMr\.)(?<!\bMs\.)(?<!\bDr\.)(?<!\bMrs\.)(?<=[.!?])\s+|\n+", t):
             toks = re.findall(r"[A-Za-zÀ-ÿ]+(?:'[A-Za-zÀ-ÿ]+)?", sent)
             for i, tok in enumerate(toks):
                 total += 1

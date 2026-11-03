@@ -1,0 +1,1199 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 4 — People and looks",
+      "vi": "Ngoại hình, màu sắc, quần áo"
+    },
+    "title": "Unit 4 — People and looks",
+    "title_vn": "Ngoại hình, màu sắc, quần áo",
+    "module_code": "56_u04",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u04",
+    "curriculum_sheets": [
+      "a1.13",
+      "a1.14",
+      "a1.15",
+      "a1.16"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Trevor Carter",
+      "Amy Brooks",
+      "Megan Carter",
+      "Mitchell Carter",
+      "Harriet Brooks",
+      "Biscuit",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 10, năm 1 — sau buổi tiệc khu phố Maple Street"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Ngoại hình, màu sắc, quần áo, đại từ tân ngữ",
+    "description_vn": "Tina tả mọi người trong ảnh tiệc khu phố và thông báo Ngày áo thun của trường Tina. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 4 khoá A1 · phiếu `a1.13` – `a1.16` (tả ngoại hình, màu sắc và quần áo, hỏi ai trông thế nào, khen)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài kể về tấm ảnh và một lá thư thông báo của trường; nhận ra người qua ngoại hình, màu sắc, quần áo; hiểu đại từ tân ngữ me / him / her / them thay cho ai."
+    },
+    "extra_words": [
+      {
+        "word": "photo",
+        "i18n": {
+          "vi": "ảnh, tấm ảnh"
+        }
+      },
+      {
+        "word": "party",
+        "i18n": {
+          "vi": "bữa tiệc"
+        }
+      },
+      {
+        "word": "T-shirt",
+        "i18n": {
+          "vi": "áo thun, áo phông"
+        }
+      },
+      {
+        "word": "Friday",
+        "i18n": {
+          "vi": "thứ Sáu"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "Who is who?",
+          "vi": "Ai là ai?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in the pink dress",
+          "vi": "mặc váy hồng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "with long black hair",
+          "vi": "có tóc đen dài"
+        }
+      },
+      {
+        "i18n": {
+          "en": "wear glasses",
+          "vi": "đeo kính"
+        }
+      },
+      {
+        "i18n": {
+          "en": "What does … look like?",
+          "vi": "… trông thế nào?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Dear families,",
+          "vi": "Kính gửi quý phụ huynh,"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài tả người trong ảnh: đánh dấu nhanh mỗi tên đi với màu áo và kiểu tóc nào. Phương án nhiễu thường là chi tiết đúng nhưng của **người khác**."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`in the light blue T-shirt` = mặc áo thun xanh nhạt; `with long hair` = có tóc dài. Sau `in` là quần áo, sau `with` là tóc, kính, mũi…"
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Đại từ tân ngữ (`me`, `him`, `her`, `them`) thay cho người vừa nhắc ở câu ngay trước: `Amy is with him.` → him = Trevor."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Thư, thông báo: `Dear …` ở đầu là người nhận; tên ký ở cuối là người viết, cũng là `us` / `me` trong thư."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u04_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tina kể ai là ai trong ảnh"
+      },
+      "title": "Who Is Who?",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 60,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Who Is Who?",
+            "vi": "Ai là ai?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Look at our street party photo!",
+            "vi": "Bạn xem ảnh tiệc khu phố của tụi mình này!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Can you see me?",
+            "vi": "Bạn có thấy mình không?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am the small girl in the pink dress.",
+            "vi": "Mình là cô bé nhỏ xíu mặc váy hồng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The tall boy in the light blue T-shirt is my brother, Trevor.",
+            "vi": "Cậu con trai cao mặc áo thun xanh nhạt là anh trai mình, Trevor."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "His T-shirt has a big white seven on it.",
+            "vi": "Trên áo anh ấy có một số 7 to màu trắng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Amy is with him, in her cute yellow dress.",
+            "vi": "Amy đứng cạnh anh ấy, mặc chiếc váy vàng dễ thương."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom and Dad are at the back. Can you see them?",
+            "vi": "Bố mẹ mình đứng ở phía sau. Bạn thấy bố mẹ mình không?"
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom is the beautiful lady with long black hair.",
+            "vi": "Mẹ là người phụ nữ xinh đẹp có mái tóc đen dài."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad is tall and wears glasses.",
+            "vi": "Bố thì cao và đeo kính."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet, Amy's grandma, has got short white hair.",
+            "vi": "Bà Harriet, bà nội của Amy, có mái tóc trắng ngắn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The big guy with gold hair and a black nose? That's Biscuit!",
+            "vi": "Còn anh chàng to con lông vàng, mũi đen kia? Biscuit đấy!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          }
+        }
+      ],
+      "content_ja": "Who Is Who?\n\nLook at our street party photo! Can you see me? I am the small girl in the pink dress.\n\nThe tall boy in the light blue T-shirt is my brother, Trevor. His T-shirt has a big white seven on it. Amy is with him, in her cute yellow dress.\n\nMom and Dad are at the back. Can you see them? Mom is the beautiful lady with long black hair. Dad is tall and wears glasses.\n\nHarriet, Amy's grandma, has got short white hair. The big guy with gold hair and a black nose? That's Biscuit!\n\nTina",
+      "translation_vn": "(1) Ai là ai?\n(2) Bạn xem ảnh tiệc khu phố của tụi mình này!\n(3) Bạn có thấy mình không?\n(4) Mình là cô bé nhỏ xíu mặc váy hồng.\n(5) Cậu con trai cao mặc áo thun xanh nhạt là anh trai mình, Trevor.\n(6) Trên áo anh ấy có một số 7 to màu trắng.\n(7) Amy đứng cạnh anh ấy, mặc chiếc váy vàng dễ thương.\n(8) Bố mẹ mình đứng ở phía sau. Bạn thấy bố mẹ mình không?\n(9) Mẹ là người phụ nữ xinh đẹp có mái tóc đen dài.\n(10) Bố thì cao và đeo kính.\n(11) Bà Harriet, bà nội của Amy, có mái tóc trắng ngắn.\n(12) Còn anh chàng to con lông vàng, mũi đen kia? Biscuit đấy!\n(13) Tina",
+      "word_count": 101,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.13",
+        "a1.14",
+        "a1.15",
+        "a1.16"
+      ]
+    },
+    {
+      "id": "passage_u04_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Thông báo Ngày áo thun của trường"
+      },
+      "title": "School T-shirt Day",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 70,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "School T-shirt Day",
+            "vi": "Ngày áo thun của trường"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear families,",
+            "vi": "Kính gửi quý phụ huynh,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This Friday is School T-shirt Day at Maple Street School!",
+            "vi": "Thứ Sáu này là Ngày áo thun của trường Maple Street!"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Each group has got a different color.",
+            "vi": "Mỗi nhóm có một màu riêng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kids in Group One wear red, and kids in Group Two wear green.",
+            "vi": "Các con Nhóm Một mặc màu đỏ, các con Nhóm Hai mặc màu xanh lá."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kids in Group Three wear yellow.",
+            "vi": "Các con Nhóm Ba mặc màu vàng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "No T-shirt in that color? A white T-shirt is great, too.",
+            "vi": "Không có áo thun màu đó ư? Áo thun trắng cũng rất ổn ạ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our school photo is on Friday morning, so please do not wear black or gray.",
+            "vi": "Sáng thứ Sáu trường chụp ảnh chung, nên các con đừng mặc đồ đen hay xám nhé."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Moms and dads, please come and see our super kids!",
+            "vi": "Mời các bố các mẹ đến xem các bé tuyệt vời của chúng ta nhé!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Have you got a question? Please email us at office@example.com.",
+            "vi": "Quý phụ huynh có câu hỏi gì không? Xin gửi email cho nhà trường theo địa chỉ office@example.com."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street School",
+            "vi": "Trường Maple Street"
+          }
+        }
+      ],
+      "content_ja": "School T-shirt Day\n\nDear families,\n\nThis Friday is School T-shirt Day at Maple Street School! Each group has got a different color. Kids in Group One wear red, and kids in Group Two wear green. Kids in Group Three wear yellow.\n\nNo T-shirt in that color? A white T-shirt is great, too. Our school photo is on Friday morning, so please do not wear black or gray.\n\nMoms and dads, please come and see our super kids! Have you got a question? Please email us at office@example.com.\n\nMaple Street School",
+      "translation_vn": "(1) Ngày áo thun của trường\n(2) Kính gửi quý phụ huynh,\n(3) Thứ Sáu này là Ngày áo thun của trường Maple Street!\n(4) Mỗi nhóm có một màu riêng.\n(5) Các con Nhóm Một mặc màu đỏ, các con Nhóm Hai mặc màu xanh lá.\n(6) Các con Nhóm Ba mặc màu vàng.\n(7) Không có áo thun màu đó ư? Áo thun trắng cũng rất ổn ạ.\n(8) Sáng thứ Sáu trường chụp ảnh chung, nên các con đừng mặc đồ đen hay xám nhé.\n(9) Mời các bố các mẹ đến xem các bé tuyệt vời của chúng ta nhé!\n(10) Quý phụ huynh có câu hỏi gì không? Xin gửi email cho nhà trường theo địa chỉ office@example.com.\n(11) Trường Maple Street",
+      "word_count": 96,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.13",
+        "a1.14",
+        "a1.15",
+        "a1.16"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u04_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "Who is the small girl in the pink dress?",
+        "vi": "Cô bé nhỏ mặc váy hồng là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Amy",
+            "vi": "Amy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Amy",
+          "text_translation": "Amy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Tina",
+          "text_translation": "Tina"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina's mom",
+            "vi": "mẹ của Tina"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina's mom",
+          "text_translation": "mẹ của Tina"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I am the small girl in the pink dress.\" \"I\" là người viết, cuối bài ký tên Tina. Amy mặc váy vàng; bà Harriet và mẹ Tina là người lớn, không phải cô bé."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thấy \"I\" / \"me\" trong bài kể, nhìn tên ký ở cuối bài để biết \"I\" là ai."
+      },
+      "question_jp": "Who is the small girl in the pink dress?",
+      "question_vn": "Cô bé nhỏ mặc váy hồng là ai?",
+      "explanation": "\"I am the small girl in the pink dress.\" \"I\" là người viết, cuối bài ký tên Tina. Amy mặc váy vàng; bà Harriet và mẹ Tina là người lớn, không phải cô bé.",
+      "tip": "Thấy \"I\" / \"me\" trong bài kể, nhìn tên ký ở cuối bài để biết \"I\" là ai."
+    },
+    {
+      "id": "q_u04_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "What color is Trevor's T-shirt?",
+        "vi": "Áo thun của Trevor màu gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "white",
+            "vi": "trắng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "white",
+          "text_translation": "trắng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "yellow",
+            "vi": "vàng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "yellow",
+          "text_translation": "vàng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "pink",
+            "vi": "hồng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "pink",
+          "text_translation": "hồng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "light blue",
+            "vi": "xanh nhạt"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "light blue",
+          "text_translation": "xanh nhạt"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"The tall boy in the light blue T-shirt is my brother, Trevor.\" Trắng là màu số 7 trên áo, vàng là váy của Amy, hồng là váy của Tina."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi \"What color is …?\" hỏi màu của đúng một thứ. Một câu có nhiều màu thì xem màu nào đi với danh từ được hỏi (blue T-shirt, white seven)."
+      },
+      "question_jp": "What color is Trevor's T-shirt?",
+      "question_vn": "Áo thun của Trevor màu gì?",
+      "explanation": "\"The tall boy in the light blue T-shirt is my brother, Trevor.\" Trắng là màu số 7 trên áo, vàng là váy của Amy, hồng là váy của Tina.",
+      "tip": "Câu hỏi \"What color is …?\" hỏi màu của đúng một thứ. Một câu có nhiều màu thì xem màu nào đi với danh từ được hỏi (blue T-shirt, white seven)."
+    },
+    {
+      "id": "q_u04_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "In the photo, Amy is with ______.",
+        "vi": "Trong ảnh, Amy đứng cạnh ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor",
+            "vi": "Trevor"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Trevor",
+          "text_translation": "Trevor"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "her grandma",
+            "vi": "bà nội em ấy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "her grandma",
+          "text_translation": "bà nội em ấy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina's dad",
+            "vi": "bố của Tina"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tina's dad",
+          "text_translation": "bố của Tina"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Biscuit",
+            "vi": "Biscuit"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Biscuit",
+          "text_translation": "Biscuit"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Amy is with him, in her cute yellow dress.\" \"him\" thay cho người con trai được nói ở câu ngay trước: Trevor. Bố Tina đứng phía sau cùng mẹ; bà Harriet và Biscuit được nhắc ở đoạn sau."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "him / her / them thay cho người vừa được nhắc ở câu trước. Lùi lại một câu để tìm."
+      },
+      "question_jp": "In the photo, Amy is with ______.",
+      "question_vn": "Trong ảnh, Amy đứng cạnh ______.",
+      "explanation": "\"Amy is with him, in her cute yellow dress.\" \"him\" thay cho người con trai được nói ở câu ngay trước: Trevor. Bố Tina đứng phía sau cùng mẹ; bà Harriet và Biscuit được nhắc ở đoạn sau.",
+      "tip": "him / her / them thay cho người vừa được nhắc ở câu trước. Lùi lại một câu để tìm."
+    },
+    {
+      "id": "q_u04_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "What does Tina's mom look like?",
+        "vi": "Mẹ của Tina trông thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She has got short white hair.",
+            "vi": "Cô ấy tóc trắng ngắn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She has got short white hair.",
+          "text_translation": "Cô ấy tóc trắng ngắn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is tall and wears glasses.",
+            "vi": "Cô ấy cao và đeo kính."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is tall and wears glasses.",
+          "text_translation": "Cô ấy cao và đeo kính."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She has got long black hair.",
+            "vi": "Cô ấy tóc đen dài."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She has got long black hair.",
+          "text_translation": "Cô ấy tóc đen dài."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is in a pink dress.",
+            "vi": "Cô ấy mặc váy hồng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is in a pink dress.",
+          "text_translation": "Cô ấy mặc váy hồng."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Mom is the beautiful lady with long black hair.\" Tóc trắng ngắn là bà Harriet, cao và đeo kính là bố Tina, váy hồng là Tina."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "\"What does … look like?\" hỏi về ngoại hình (tóc, mắt, cao thấp), không hỏi tính cách."
+      },
+      "question_jp": "What does Tina's mom look like?",
+      "question_vn": "Mẹ của Tina trông thế nào?",
+      "explanation": "\"Mom is the beautiful lady with long black hair.\" Tóc trắng ngắn là bà Harriet, cao và đeo kính là bố Tina, váy hồng là Tina.",
+      "tip": "\"What does … look like?\" hỏi về ngoại hình (tóc, mắt, cao thấp), không hỏi tính cách."
+    },
+    {
+      "id": "q_u04_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "In \"Can you see them?\", \"them\" means ______.",
+        "vi": "Trong câu \"Can you see them?\", \"them\" là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor and Amy",
+            "vi": "Trevor và Amy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Trevor and Amy",
+          "text_translation": "Trevor và Amy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina's mom and dad",
+            "vi": "bố mẹ của Tina"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Tina's mom and dad",
+          "text_translation": "bố mẹ của Tina"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet and Amy",
+            "vi": "bà Harriet và Amy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet and Amy",
+          "text_translation": "bà Harriet và Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina and Biscuit",
+            "vi": "Tina và Biscuit"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina and Biscuit",
+          "text_translation": "Tina và Biscuit"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Mom and Dad are at the back. Can you see them?\" \"them\" thay cho \"Mom and Dad\" ở ngay trước, tức bố mẹ của Tina. Trevor và Amy đã được nói ở đoạn trên."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Can you see them?\", \"them\" means ______.",
+      "question_vn": "Trong câu \"Can you see them?\", \"them\" là ______.",
+      "explanation": "\"Mom and Dad are at the back. Can you see them?\" \"them\" thay cho \"Mom and Dad\" ở ngay trước, tức bố mẹ của Tina. Trevor và Amy đã được nói ở đoạn trên."
+    },
+    {
+      "id": "q_u04_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "Who is this letter for?",
+        "vi": "Lá thư này viết cho ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Maple Street School",
+            "vi": "trường Maple Street"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Maple Street School",
+          "text_translation": "trường Maple Street"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the teachers",
+            "vi": "các thầy cô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the teachers",
+          "text_translation": "các thầy cô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "families",
+            "vi": "các gia đình (phụ huynh)"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "families",
+          "text_translation": "các gia đình (phụ huynh)"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Group Two",
+            "vi": "Nhóm Hai"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Group Two",
+          "text_translation": "Nhóm Hai"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Dear families,\" Câu mở đầu \"Dear …\" cho biết người nhận là các gia đình. Trường Maple Street là người viết (ký tên cuối thư), còn Nhóm Hai chỉ được nhắc đến trong thư."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thư và thông báo: \"Dear …\" ở đầu là người NHẬN, tên ở cuối là người VIẾT."
+      },
+      "question_jp": "Who is this letter for?",
+      "question_vn": "Lá thư này viết cho ai?",
+      "explanation": "\"Dear families,\" Câu mở đầu \"Dear …\" cho biết người nhận là các gia đình. Trường Maple Street là người viết (ký tên cuối thư), còn Nhóm Hai chỉ được nhắc đến trong thư.",
+      "tip": "Thư và thông báo: \"Dear …\" ở đầu là người NHẬN, tên ở cuối là người VIẾT."
+    },
+    {
+      "id": "q_u04_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "Kids in Group Three wear ______.",
+        "vi": "Các con Nhóm Ba mặc màu ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "yellow",
+            "vi": "vàng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "yellow",
+          "text_translation": "vàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "red",
+            "vi": "đỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "red",
+          "text_translation": "đỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "green",
+            "vi": "xanh lá"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "green",
+          "text_translation": "xanh lá"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "white",
+            "vi": "trắng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "white",
+          "text_translation": "trắng"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Kids in Group Three wear yellow.\" Đỏ là Nhóm Một, xanh lá là Nhóm Hai, trắng là màu dùng khi không có áo đúng màu nhóm."
+      },
+      "audio_data": null,
+      "question_jp": "Kids in Group Three wear ______.",
+      "question_vn": "Các con Nhóm Ba mặc màu ______.",
+      "explanation": "\"Kids in Group Three wear yellow.\" Đỏ là Nhóm Một, xanh lá là Nhóm Hai, trắng là màu dùng khi không có áo đúng màu nhóm."
+    },
+    {
+      "id": "q_u04_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "Tina is in Group Two. What color is her T-shirt on Friday?",
+        "vi": "Tina ở Nhóm Hai. Thứ Sáu áo thun của Tina màu gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "red",
+            "vi": "đỏ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "red",
+          "text_translation": "đỏ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "yellow",
+            "vi": "vàng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "yellow",
+          "text_translation": "vàng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "pink",
+            "vi": "hồng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "pink",
+          "text_translation": "hồng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "green",
+            "vi": "xanh lá"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "green",
+          "text_translation": "xanh lá"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"kids in Group Two wear green\". Tina ở Nhóm Hai nên mặc xanh lá. Đỏ là Nhóm Một, vàng là Nhóm Ba; hồng là màu váy của Tina trong bài 1, không phải màu nhóm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi cho thêm thông tin (Tina ở Nhóm Hai): nối thông tin đó với đúng dòng trong bài."
+      },
+      "question_jp": "Tina is in Group Two. What color is her T-shirt on Friday?",
+      "question_vn": "Tina ở Nhóm Hai. Thứ Sáu áo thun của Tina màu gì?",
+      "explanation": "\"kids in Group Two wear green\". Tina ở Nhóm Hai nên mặc xanh lá. Đỏ là Nhóm Một, vàng là Nhóm Ba; hồng là màu váy của Tina trong bài 1, không phải màu nhóm.",
+      "tip": "Câu hỏi cho thêm thông tin (Tina ở Nhóm Hai): nối thông tin đó với đúng dòng trong bài."
+    },
+    {
+      "id": "q_u04_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "A kid has got no T-shirt in the group's color. What can he wear?",
+        "vi": "Một bạn nhỏ không có áo thun đúng màu nhóm. Bạn ấy có thể mặc gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a gray T-shirt",
+            "vi": "áo thun xám"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a gray T-shirt",
+          "text_translation": "áo thun xám"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a white T-shirt",
+            "vi": "áo thun trắng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a white T-shirt",
+          "text_translation": "áo thun trắng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a black T-shirt",
+            "vi": "áo thun đen"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a black T-shirt",
+          "text_translation": "áo thun đen"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a pink dress",
+            "vi": "váy hồng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a pink dress",
+          "text_translation": "váy hồng"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"No T-shirt in that color? A white T-shirt is great, too.\" Còn đen và xám thì thư dặn \"please do not wear black or gray\"; váy hồng không có trong thư."
+      },
+      "audio_data": null,
+      "question_jp": "A kid has got no T-shirt in the group's color. What can he wear?",
+      "question_vn": "Một bạn nhỏ không có áo thun đúng màu nhóm. Bạn ấy có thể mặc gì?",
+      "explanation": "\"No T-shirt in that color? A white T-shirt is great, too.\" Còn đen và xám thì thư dặn \"please do not wear black or gray\"; váy hồng không có trong thư."
+    },
+    {
+      "id": "q_u04_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "On Friday morning, the kids ______.",
+        "vi": "Sáng thứ Sáu, các con ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "have a school photo",
+            "vi": "chụp ảnh chung của trường"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "have a school photo",
+          "text_translation": "chụp ảnh chung của trường"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "have a street party",
+            "vi": "dự tiệc khu phố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "have a street party",
+          "text_translation": "dự tiệc khu phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "email the school",
+            "vi": "gửi email cho trường"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "email the school",
+          "text_translation": "gửi email cho trường"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "wear black clothes",
+            "vi": "mặc đồ đen"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "wear black clothes",
+          "text_translation": "mặc đồ đen"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our school photo is on Friday morning\". Tiệc khu phố là chuyện trong bài 1; gửi email là việc của phụ huynh khi có câu hỏi; còn đồ đen thì thư dặn KHÔNG mặc (\"do not wear black\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cẩn thận với câu phủ định \"do not\": từ có trong bài chưa chắc là đáp án. \"do not wear black\" nghĩa là KHÔNG mặc đồ đen."
+      },
+      "question_jp": "On Friday morning, the kids ______.",
+      "question_vn": "Sáng thứ Sáu, các con ______.",
+      "explanation": "\"Our school photo is on Friday morning\". Tiệc khu phố là chuyện trong bài 1; gửi email là việc của phụ huynh khi có câu hỏi; còn đồ đen thì thư dặn KHÔNG mặc (\"do not wear black\").",
+      "tip": "Cẩn thận với câu phủ định \"do not\": từ có trong bài chưa chắc là đáp án. \"do not wear black\" nghĩa là KHÔNG mặc đồ đen."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u04_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tina kể ai là ai trong ảnh",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u04_01",
+      "question_ids": [
+        "q_u04_001",
+        "q_u04_002",
+        "q_u04_003",
+        "q_u04_004",
+        "q_u04_005"
+      ]
+    },
+    {
+      "set_id": "set_u04_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Thông báo Ngày áo thun của trường",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u04_02",
+      "question_ids": [
+        "q_u04_006",
+        "q_u04_007",
+        "q_u04_008",
+        "q_u04_009",
+        "q_u04_010"
+      ]
+    }
+  ]
+}
