@@ -191,7 +191,7 @@ Khoá cũ (`question_jp`, `question_vn`, `text`, `text_translation`, `explanatio
 
   Chương đầu của cuốn sau không được ngắn hơn chương cuối của cuốn trước.
 
-> **Chốt 03/11/2026 (ngân sách): series DỪNG Ở B2**; C1 (sách 60) để đợt sau.
+> **Chốt 03/11/2026 (ngân sách): series DỪNG Ở B2**; C1 (sách 60) để đợt sau. → **Cập nhật 03/11/2026:** chủ nhà cho làm tiếp C1 — sách 60 đã viết xong (6 chương gộp 2 unit + 2 đề thi thử, 200 câu; bài ~420–500 từ, đề ~320–370 từ/bài).
 >
 > **Chốt 03/11/2026 (ngân sách):** sách B1 từ u07 gộp **2 unit / chương** (mỗi unit 1 bài × 10 câu). B2–C1 cũng làm theo cách này.
 
